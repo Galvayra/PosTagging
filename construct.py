@@ -6,8 +6,8 @@ try:
 except ImportError:
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from PosTagging.data.dataHandler import DataHandler
+from PosTagging.data.dataTagger import DataTagger
 
 if __name__ == '__main__':
-    data_handler = DataHandler()
-    data_handler.set_dict4tag()
+    data_tagger = DataTagger()
+    data_tagger.set_dict4tag()
