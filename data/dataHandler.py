@@ -1,15 +1,16 @@
 from .variables import *
-import re
-import json
-import os
+from PosTagging.data.dataReader import DataReader
 from collections import OrderedDict
+import re
+import os
 
 
-class MyDataHandler:
+class DataHandler(DataReader):
     def __init__(self):
+        super().__init__()
         self.__vocab_dict = OrderedDict()
-        self.__sent_list = list()
         self.__sentence = str()
+        self.__sent_list = list()
         self.__is_sent = False
         self.end_flag = END_FLAG
 
@@ -18,20 +19,20 @@ class MyDataHandler:
         return self.__vocab_dict
 
     @property
-    def sent_list(self):
-        return self.__sent_list
-
-    @sent_list.setter
-    def sent_list(self, sentence):
-        self.__sent_list.append(sentence)
-
-    @property
     def sentence(self):
         return self.__sentence
 
     @sentence.setter
     def sentence(self, sentence):
         self.__sentence = sentence
+
+    @property
+    def sent_list(self):
+        return self.__sent_list
+
+    @sent_list.setter
+    def sent_list(self, sentence):
+        self.__sent_list.append(sentence)
 
     @property
     def is_sent(self):
@@ -63,7 +64,7 @@ class MyDataHandler:
             print("Can not find read file -", path, "\n\n")
             return list()
 
-    def construct_dict(self):
+    def print_sent_in_corpus(self):
         corpus_gen = self.__corpus_generator()
 
         # A-Za-z.,? / A-Za-z.,?     all of words
@@ -124,7 +125,7 @@ class MyDataHandler:
         return " ".join(key)
 
     # initialize vocab using count
-    def __init_vocab_dict(self, n_gram):
+    def __init_vocab_dict4lm(self, n_gram):
         for sentence in self.sent_list:
             sentence = sentence.split()
             for i in range(len(sentence) + 1 - n_gram):
@@ -168,11 +169,18 @@ class MyDataHandler:
             for key in prob_dict:
                 prob_dict[key] = prob_dict[key] / total
 
-    # set vocab for counting
-    def __set_vocab_dict(self):
-        self.__init_vocab_dict()
-        self.__extend_vocab_dict()
+    # set dictionary for language model
+    def set_dict4lm(self):
+        self.__init_vocab_dict4lm(N_GRAM)
+        self.__extend_vocab_dict(N_GRAM)
         self.__set_probability()
+
+    # set dictionary for POS Tagging
+    def set_dict4tag(self):
+        corpus = self.read_corpus()
+
+        for line in corpus:
+            print(line)
 
     def print_dict(self):
         keys = sorted(self.vocab_dict.keys())
@@ -181,33 +189,3 @@ class MyDataHandler:
         print("Vocab Size -", len(keys), "\n\n")
         for key in keys:
             print(key.ljust(30), self.vocab_dict[key])
-
-    def dump(self):
-        def __sorted(vocab_dict):
-            dump_dict = OrderedDict()
-
-            for key in sorted(vocab_dict.keys()):
-                dump_dict[key] = vocab_dict[key]
-
-            return dump_dict
-
-        try:
-            with open(PATH_SAVE + NAME_SAVE, 'w') as w_file:
-                json.dump(__sorted(self.vocab_dict), w_file, indent=4)
-                print("\n\nSuccess Save File !! \n")
-                print("File name is", "'" + NAME_SAVE + "'", "in the", "'" + PATH_SAVE[:-1] + "'", "directory", "\n\n")
-        except FileNotFoundError:
-            print("Can not save dump file!\n\n")
-
-    def can_load(self):
-        def __load(vocab_dict):
-            for k in sorted(vocab_dict.keys()):
-                self.vocab_dict[k] = vocab_dict[k]
-        try:
-            with open(PATH_SAVE + NAME_SAVE, 'r') as r_file:
-                __load(json.load(r_file))
-                print("\nSuccess loading from", "'" + NAME_SAVE + "'", "!!\n\n")
-                return True
-        except FileNotFoundError:
-            print("\nCan not find to load file!\n\n")
-            return False
