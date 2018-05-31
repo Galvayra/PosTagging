@@ -8,20 +8,29 @@ class DataReader:
         pass
 
     @staticmethod
-    def dump(vocab_dict):
-        def __sorted(_vocab_dict):
+    def dump(data, dump_name):
+        def __sorted(_dict):
             dump_dict = OrderedDict()
 
-            for key in sorted(_vocab_dict.keys()):
-                dump_dict[key] = _vocab_dict[key]
+            for key in sorted(_dict.keys()):
+
+                # if value is dictionary, do sort for readability
+                if type(_dict[key]) is dict:
+                    dump_sub_dict = OrderedDict()
+                    for sub_key in sorted(_dict[key].keys()):
+                        dump_sub_dict[sub_key] = _dict[key][sub_key]
+
+                    dump_dict[key] = dump_sub_dict
+                else:
+                    dump_dict[key] = _dict[key]
 
             return dump_dict
 
         try:
-            with open(PATH_SAVE + SAVE_DICT, 'w') as w_file:
-                json.dump(__sorted(vocab_dict), w_file, indent=4)
+            with open(PATH_SAVE + dump_name, 'w') as w_file:
+                json.dump(__sorted(data), w_file, indent=4)
                 print("\n\nSuccess Save File !! \n")
-                print("File name is", "'" + SAVE_DICT + "'", "in the", "'" + PATH_SAVE[:-1] + "'", "directory", "\n\n")
+                print("File name is", "'" + dump_name + "'", "in the", "'" + PATH_SAVE[:-1] + "'", "directory", "\n\n")
         except FileNotFoundError:
             print("Can not save dump file!\n\n")
 
