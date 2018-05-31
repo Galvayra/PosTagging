@@ -13,6 +13,6 @@ echo "making corpus named $corpus which is consist of sentences in all of corpus
 echo "It is in the data/dict/ directory"
 echo
 
-python construct.py >> data/dict/$corpus
+python merge.py >> data/dict/$corpus
 
-
+echo "=========================="
