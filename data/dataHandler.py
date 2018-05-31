@@ -66,34 +66,37 @@ class MyDataHandler:
     def construct_dict(self):
         corpus_gen = self.__corpus_generator()
 
+        # A-Za-z.,? / A-Za-z.,?     all of words
+        # A-Za-z.,? / A-Z           for only word
         p = re.compile("[\S]+/[\S]+")
-        p2 = re.compile("[\S]+/[A-Z]+")
+        p_end = re.compile("[\S]+/\.")
 
         for corpus in corpus_gen:
-            lines = self.__read_corpus(corpus)
-            print(corpus + "\n\n")
 
-            for line in lines:
-                plist = p.findall(line)
+            for line in self.__read_corpus(corpus):
 
-                if plist:
-                    if not self.is_sent:
-                        self.__get_sentence()
+                p_list = p.findall(line)
 
-                    p2_list = p2.findall(' '.join(plist))
+                if p_list:
+                    p_end_list = p_end.findall(' '.join(p_list))
+                    self.sentence += ' '.join(p_list) + ' '
 
-                    self.sentence += ' '.join(p2_list) + ' '
-                    self.is_sent = True
-                else:
-                    self.is_sent = False
+                    if p_end_list:
+                        self.__set_sentence()
 
-            # to append last sentence in the list
-            self.__get_sentence()
+                if line[0] is "=":
+                    self.__set_sentence()
 
     # get original sentence
-    def __get_sentence(self):
-        if self.sentence:
-            self.sentence = START_FLAG + " " + self.sentence.strip() + " " + END_FLAG
+    def __set_sentence(self):
+        p = re.compile("[\S]+/[A-Z]+")
+
+        # making sentence of words not including special character
+        self.sentence = ' '.join(p.findall(self.sentence))
+
+        if len(self.sentence.split()) > 1:
+            # <s> sentence </s>
+            self.sentence = START_FLAG + " " + self.sentence + " " + END_FLAG
             print(self.sentence)
 
         self.sentence = str()

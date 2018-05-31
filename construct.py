@@ -9,7 +9,6 @@ except ImportError:
 from PosTagging.data.dataHandler import MyDataHandler
 
 if __name__ == '__main__':
-    pass
     data_handler = MyDataHandler()
     data_handler.construct_dict()
     # data_handler.print_dict()
