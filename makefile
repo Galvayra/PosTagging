@@ -4,3 +4,6 @@ clean:
 
 clean-dict:
 	rm -r data/dict/*
+
+clean-corpus:
+	rm -r data/corpus/*
