@@ -27,7 +27,12 @@ class DataHandler(DataReader):
         for path, _, files in os.walk(target_path):
             if files:
                 for file in files:
-                    yield path + '/' + file
+                    # making test corpus
+                    if IS_TEST and path == PATH_CORPUS + PATH_TEST:
+                        yield path + '/' + file
+                    # making train corpus
+                    elif not IS_TEST and not path == PATH_CORPUS + PATH_TEST:
+                        yield path + '/' + file
 
     @staticmethod
     def __read_corpus(path):
@@ -48,7 +53,6 @@ class DataHandler(DataReader):
         p_end = re.compile("[\S]+/\.")
 
         for corpus in corpus_gen:
-
             for line in self.__read_corpus(corpus):
 
                 p_list = p.findall(line)
