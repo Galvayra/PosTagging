@@ -10,4 +10,4 @@ from PosTagging.data.dataTagger import DataTagger
 
 if __name__ == '__main__':
     data_tagger = DataTagger()
-    data_tagger.set_dict4tag()
+    data_tagger.set_dict4tagging()
