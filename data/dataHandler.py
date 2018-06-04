@@ -22,16 +22,16 @@ class DataHandler(DataReader):
 
     @staticmethod
     def __corpus_generator():
-        target_path = os.path.normpath(PATH_CORPUS)
+        target_path = os.path.normpath(PATH_ALL_CORPUS)
 
         for path, _, files in os.walk(target_path):
             if files:
                 for file in files:
                     # making test corpus
-                    if IS_TEST and path == PATH_CORPUS + PATH_TEST:
+                    if IS_TEST and path == PATH_ALL_CORPUS + PATH_TEST:
                         yield path + '/' + file
                     # making train corpus
-                    elif not IS_TEST and not path == PATH_CORPUS + PATH_TEST:
+                    elif not IS_TEST and not path == PATH_ALL_CORPUS + PATH_TEST:
                         yield path + '/' + file
 
     @staticmethod

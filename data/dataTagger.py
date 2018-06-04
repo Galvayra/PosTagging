@@ -1,13 +1,14 @@
 from PosTagging.data.dataHandler import DataHandler
 from collections import OrderedDict
 from PosTagging.data.variables import END_FLAG, START_FLAG
+import copy
 
 
 class DataTagger(DataHandler):
     def __init__(self):
         super().__init__()
-        self.__transition_prob = dict()
-        self.__emission_prob = dict()
+        self.__transition_prob = OrderedDict()
+        self.__emission_prob = OrderedDict()
         self.__tags = dict()
 
     @property
@@ -17,6 +18,10 @@ class DataTagger(DataHandler):
     @property
     def emission_prob(self):
         return self.__emission_prob
+
+    @emission_prob.setter
+    def emission_prob(self, value):
+        self.__emission_prob = value
 
     @property
     def tags(self):
@@ -44,22 +49,40 @@ class DataTagger(DataHandler):
 
             self.tags[tag] += 1
 
-    # set P(tag|word)
+    # set P(word|tag)
     def __set_emission(self, key_tag):
         if type(key_tag) is tuple:
-            key = key_tag[0]
+            word = key_tag[0]
             tag = key_tag[1]
 
-            if key not in self.emission_prob:
-                self.emission_prob[key] = dict()
+            if tag not in self.emission_prob:
+                self.emission_prob[tag] = dict()
 
-            if tag not in self.emission_prob[key]:
-                self.emission_prob[key][tag] = 1
+            if word not in self.emission_prob[tag]:
+                self.emission_prob[tag][word] = 1
             else:
-                self.emission_prob[key][tag] += 1
+                self.emission_prob[tag][word] += 1
+
+    # sort emission_prob
+    def __sorted_emission(self):
+        emission_prob = copy.deepcopy(self.emission_prob)
+        self.emission_prob = OrderedDict()
+
+        for tag in sorted(emission_prob):
+            word_dict = emission_prob[tag]
+
+            self.emission_prob[tag] = OrderedDict({word: word_dict[word] for word in sorted(word_dict)})
+
+    # init P(tag(t)|tag(t-1))
+    def __init_transition(self):
+        tags = sorted(self.tags)
+
+        transition_dict = OrderedDict({tag: dict() for tag in tags})
+        self.transition_prob.update({tag: transition_dict for tag in tags})
+        self.transition_prob[START_FLAG] = transition_dict
 
     # set dictionary for POS Tagging
-    def set_dict4tag(self):
+    def set_dict4tagging(self):
         corpus = self.read_corpus()
 
         for line in corpus:
@@ -71,5 +94,11 @@ class DataTagger(DataHandler):
                 self.__set_emission(key_tag)
                 self.__set_tags(key_tag)
 
-        print(self.tags)
-        # self.dump(self.emission_prob, dump_name="emission_prob")
+        # self.__init_transition()
+        # print(self.tags)
+        # print(self.transition_prob)
+
+        self.__sorted_emission()
+
+        # print(self.emission_prob)
+        self.dump(self.emission_prob, dump_name="emission_prob")
