@@ -6,7 +6,6 @@ import os
 
 class DataHandler(DataReader):
     def __init__(self):
-        super().__init__()
         self.__sentence = str()
 
     @property

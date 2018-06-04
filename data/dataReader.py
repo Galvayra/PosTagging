@@ -4,9 +4,6 @@ import json
 
 
 class DataReader:
-    def __init__(self):
-        pass
-
     @staticmethod
     def dump(data, dump_name):
         if not os.path.isdir(PATH_DICT):
