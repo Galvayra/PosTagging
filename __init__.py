@@ -1,3 +1,3 @@
 from . import data
 
-__all__ = ['main', 'construct', 'tagging']
+__all__ = ['main', 'construct', 'tagging', 'merge']

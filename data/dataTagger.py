@@ -68,11 +68,15 @@ class DataTagger(DataHandler):
         emission_map = copy.deepcopy(self.emission_map)
         self.emission_map = OrderedDict()
 
-        # copy emission map for sorting
+        # copy emission map of tag key for sorting
         for tag in sorted(emission_map):
             word_dict = emission_map[tag]
 
-            self.emission_map[tag] = OrderedDict({word: word_dict[word] for word in sorted(word_dict)})
+            self.emission_map[tag] = OrderedDict()
+
+            # copy emission map of word key for sorting
+            for word in sorted(word_dict):
+                self.emission_map[tag][word] = word_dict[word]
 
     # initialize transition map
     # Matrix size == (COUNT(tags) + START_FLAG) X ((COUNT(tags) + END_FLAG))
@@ -133,4 +137,9 @@ class DataTagger(DataHandler):
         #     print(k, v)
 
         # self.__calculate()
-        # self.dump(self.emission_map, dump_name="emission_map")
+
+        self.__sorted_emission()
+
+        # dump
+        self.dump(self.emission_map, dump_name="emission_map")
+        self.dump(self.transition_map, dump_name="transition_map")
