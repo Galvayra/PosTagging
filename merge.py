@@ -6,8 +6,8 @@ try:
 except ImportError:
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from PosTagging.data.dataHandler import DataHandler
+from PosTagging.data.corpusReader import CorpusReader
 
 if __name__ == '__main__':
-    data_handler = DataHandler()
-    data_handler.print_sent_in_corpus()
+    corpus_reader = CorpusReader()
+    corpus_reader.print_sent_in_corpus()
