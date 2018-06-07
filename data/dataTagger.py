@@ -1,6 +1,6 @@
 from PosTagging.data.dataHandler import DataHandler
 from collections import OrderedDict
-from PosTagging.data.variables import END_FLAG, START_FLAG
+from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN
 import copy
 
 
@@ -165,7 +165,7 @@ class DataTagger(DataHandler):
 
     # set dictionary for POS Tagging
     def set_dict4tagging(self):
-        corpus = self.read_corpus()
+        corpus = self.read_corpus(FILE_TRAIN)
 
         for line in corpus:
             line = line.split()
