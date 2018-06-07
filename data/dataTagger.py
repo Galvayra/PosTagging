@@ -10,6 +10,7 @@ class DataTagger(DataHandler):
         self.__transition_map = OrderedDict()
         self.__emission_map = OrderedDict()
         self.__tags = dict()
+        self.__num_smooth = 0.1
 
     @property
     def transition_map(self):
@@ -30,6 +31,14 @@ class DataTagger(DataHandler):
     @property
     def tags(self):
         return self.__tags
+
+    @tags.setter
+    def tags(self, tags):
+        self.__tags = tags
+
+    @property
+    def num_smooth(self):
+        return self.__num_smooth
 
     @staticmethod
     def get_key_value(word):
@@ -67,6 +76,11 @@ class DataTagger(DataHandler):
             else:
                 self.emission_map[tag][word] += 1
 
+    # if the word can not find in the dictionary, set zero
+    def __init_none_emission(self):
+        for _, _map in self.emission_map.items():
+            _map["#"] = 0
+
     @staticmethod
     def __sorted_map(_map):
         _map_copied = copy.deepcopy(_map)
@@ -91,25 +105,41 @@ class DataTagger(DataHandler):
     # Matrix size == (COUNT(tags) + START_FLAG) X ((COUNT(tags) + END_FLAG))
     def __init_transition(self):
         # initialize a columns of transition map
-        def __init_columns(_tags):
-            return OrderedDict({_tag: int() for _tag in _tags + [END_FLAG]})
+        def __init_columns__():
+            return {_tag: int() for _tag in tags + [END_FLAG]}
 
         tags = sorted(self.tags)
 
         # initialize a rows of transition map
-        self.transition_map.update({tag: __init_columns(tags) for tag in tags})
-        self.transition_map[START_FLAG] = __init_columns(tags)
+        self.transition_map.update({tag: __init_columns__() for tag in tags})
+        self.transition_map[START_FLAG] = __init_columns__()
 
-    def __calculate_maps(self):
-        # sort maps of emission and transition
-        self.emission_map = self.__sorted_map(self.emission_map)
-        self.transition_map = self.__sorted_map(self.transition_map)
+    # calculate maps for getting probability
+    def __calculate_map(self, name=""):
+        # get total number of frequency
+        def __get_total__():
+            _total = int()
 
-        for key, value_dict in self.transition_map.items():
-            for v_key in value_dict:
-                pass
+            for _k in _map:
+                _total += _map[_k]
 
+            return _total
 
+        # get probability using smoothing
+        def __get_probability__():
+            return float(_map[k] + self.num_smooth) / total
+
+        if name == "transition":
+            target_map = self.transition_map
+        else:
+            target_map = self.emission_map
+
+        # calculate transition map
+        for _, _map in target_map.items():
+            total = __get_total__()
+
+            for k in _map:
+                _map[k] = __get_probability__()
 
     def __set_transition(self, corpus):
         def __get_tag(word):
@@ -122,17 +152,15 @@ class DataTagger(DataHandler):
 
         self.__init_transition()
 
+        # set transition map by reading a corpus
         for line in corpus:
             line = line.split()
-
-            # print(line)
             pre_tag = __get_tag(line[0].strip())
 
             for i in range(1, len(line)):
                 tag = __get_tag(line[i].strip())
 
                 self.transition_map[pre_tag][tag] += 1
-
                 pre_tag = tag
 
     # set dictionary for POS Tagging
@@ -145,14 +173,27 @@ class DataTagger(DataHandler):
             for i in range(len(line)):
                 key_tag = self.get_key_value(line[i].strip())
 
-                self.__set_emission(key_tag)
+                # set tags
                 self.__set_tags(key_tag)
 
+                # set emission map
+                self.__set_emission(key_tag)
+
+        self.__init_none_emission()
+
+        # set transition map
         self.__set_transition(corpus)
 
-        # calculate maps for getting probability
-        self.__calculate_maps()
+        # sorted data
+        self.tags = OrderedDict({tag: self.tags[tag] for tag in sorted(self.tags)})
+        self.emission_map = self.__sorted_map(self.emission_map)
+        self.transition_map = self.__sorted_map(self.transition_map)
 
-        # dump
+        # get probability in the maps
+        self.__calculate_map(name="transition")
+        self.__calculate_map(name="emission")
+
+        # dump data
+        self.dump(self.tags, dump_name="tags")
         self.dump(self.emission_map, dump_name="emission_map")
         self.dump(self.transition_map, dump_name="transition_map")
