@@ -1,4 +1,4 @@
-from PosTagging.data.variables import *
+from PosTagging.data.variables import PATH_DICT, PATH_DATA
 import os
 import json
 
@@ -20,7 +20,7 @@ class DataReader:
     @staticmethod
     def read_corpus(file_name):
         try:
-            with open(PATH_CORPUS + file_name, 'r') as r_file:
+            with open(PATH_DATA + file_name, 'r') as r_file:
                 return r_file.readlines()
         except FileNotFoundError:
             print("\nCan not find to read corpus!\n\n")
