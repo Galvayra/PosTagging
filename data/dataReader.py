@@ -25,18 +25,3 @@ class DataReader:
         except FileNotFoundError:
             print("\nCan not find to read corpus!\n\n")
             exit(-1)
-
-    # @staticmethod
-    # def can_load():
-    #     def __load(vocab_dict):
-    #         for k in sorted(vocab_dict.keys()):
-    #             vocab_dict[k] = vocab_dict[k]
-    #
-    #     try:
-    #         with open(PATH_SAVE + SAVE_DICT, 'r') as r_file:
-    #             __load(json.load(r_file))
-    #             print("\nSuccess loading from", "'" + SAVE_DICT + "'", "!!\n\n")
-    #             return True
-    #     except FileNotFoundError:
-    #         print("\nCan not find to load file!\n\n")
-    #         return False
