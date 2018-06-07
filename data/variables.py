@@ -51,10 +51,10 @@ else:
             print("\nPlease input a set option corrected! (1 or 0)\n")
             exit(-1)
 
-PATH_ALL_CORPUS = "corpus/"
-PATH_TEST = "test"
+PATH_CORPUS = "corpus/"
+CORPUS_TEST = "test"
 PATH_DICT = "data/dict/"
-PATH_CORPUS = "data/corpus/"
+PATH_DATA = "data/data/"
 
 START_FLAG = "<s>"
 END_FLAG = "</s>"
