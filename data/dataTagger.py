@@ -1,10 +1,10 @@
-from PosTagging.data.dataHandler import DataHandler
-from collections import OrderedDict
+from PosTagging.data.dataReader import DataReader
 from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN
+from collections import OrderedDict
 import copy
 
 
-class DataTagger(DataHandler):
+class DataTagger(DataReader):
     def __init__(self):
         super().__init__()
         self.__transition_map = OrderedDict()
