@@ -2,6 +2,7 @@ from PosTagging.data.dataReader import DataReader
 from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN
 from collections import OrderedDict
 import copy
+import math
 
 
 class DataTagger(DataReader):
@@ -127,7 +128,7 @@ class DataTagger(DataReader):
 
         # get probability using smoothing
         def __get_probability__():
-            return float(_map[k] + self.num_smooth) / total
+            return math.fabs(math.log(float(_map[k] + self.num_smooth) / total))
 
         if name == "transition":
             target_map = self.transition_map

@@ -12,16 +12,17 @@ class DataReader:
         try:
             with open(PATH_DICT + dump_name, 'w') as w_file:
                 json.dump(data, w_file, indent=4)
-                print("\n\nSuccess Save File !! \n")
-                print("File name is", "'" + dump_name + "'", "in the", "'" + PATH_DICT[:-1] + "'", "directory", "\n\n")
+                print("\nSuccess Save File !!")
+                print("File name is", "'" + dump_name + "'", "in the", "'" + PATH_DICT[:-1] + "'", "directory", "\n")
         except FileNotFoundError:
-            print("Can not save dump file!\n\n")
+            print("\nCan not save dump file!\n")
 
     @staticmethod
     def read_corpus(file_name):
         try:
             with open(PATH_DATA + file_name, 'r') as r_file:
+                print("\nSuccess read file -", "'" + file_name + "'", '\n')
                 return r_file.readlines()
         except FileNotFoundError:
-            print("\nCan not find to read corpus!\n\n")
+            print("\nCan not find to read data -", "'" + file_name + "'", "\n")
             exit(-1)
