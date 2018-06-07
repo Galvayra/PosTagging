@@ -2,6 +2,7 @@ from PosTagging.data.dataReader import DataReader
 from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN
 from collections import OrderedDict
 import copy
+import re
 import math
 
 
@@ -51,10 +52,19 @@ class DataTagger(DataReader):
         if word == START_FLAG or word == END_FLAG:
             return word
 
-        word = word.split('/')
+        p = re.compile("[\S]+/[A-Z]+")
 
-        key = ''.join(word[0:-1]).lower()
-        value = word[-1].upper()
+        # sentence in corpus of WSJ
+        if p.findall(word):
+            word = word.split('/')
+
+            key = ''.join(word[0:-1]).lower()
+            value = word[-1].upper()
+
+        # normal sentence
+        else:
+            key = word
+            value = str()
 
         return key, value
 
@@ -177,33 +187,34 @@ class DataTagger(DataReader):
     def set_dict4tagging(self):
         corpus = self.read_corpus(FILE_TRAIN)
 
-        for line in corpus:
-            line = line.split()
+        if corpus:
+            for line in corpus:
+                line = line.split()
 
-            for i in range(len(line)):
-                key_tag = self.get_key_value(line[i].strip())
+                for i in range(len(line)):
+                    key_tag = self.get_key_value(line[i].strip())
 
-                # set tags
-                self.__set_tags(key_tag)
+                    # set tags
+                    self.__set_tags(key_tag)
 
-                # set emission map
-                self.__set_emission(key_tag)
+                    # set emission map
+                    self.__set_emission(key_tag)
 
-        self.__init_none_emission()
+            self.__init_none_emission()
 
-        # set transition map
-        self.__set_transition(corpus)
+            # set transition map
+            self.__set_transition(corpus)
 
-        # sorted data
-        self.tags = OrderedDict({tag: self.tags[tag] for tag in sorted(self.tags)})
-        self.emission_map = self.__sorted_map(self.emission_map)
-        self.transition_map = self.__sorted_map(self.transition_map)
+            # sorted data
+            self.tags = OrderedDict({tag: self.tags[tag] for tag in sorted(self.tags)})
+            self.emission_map = self.__sorted_map(self.emission_map)
+            self.transition_map = self.__sorted_map(self.transition_map)
 
-        # get probability in the maps
-        self.__calculate_map(name="transition")
-        self.__calculate_map(name="emission")
+            # get probability in the maps
+            self.__calculate_map(name="transition")
+            self.__calculate_map(name="emission")
 
-        # dump data
-        self.dump(self.tags, dump_name=self.name["tags"])
-        self.dump(self.emission_map, dump_name=self.name["emission"])
-        self.dump(self.transition_map, dump_name=self.name["transition"])
+            # dump data
+            self.dump(self.tags, dump_name=self.name["tags"])
+            self.dump(self.emission_map, dump_name=self.name["emission"])
+            self.dump(self.transition_map, dump_name=self.name["transition"])

@@ -11,8 +11,13 @@ class DataReader:
                 print("\nSuccess read file -", "'" + file_name + "'", '\n')
                 return r_file.readlines()
         except FileNotFoundError:
-            print("\nCan not find to read data -", "'" + file_name + "'", "\n")
-            exit(-1)
+            try:
+                with open(file_name, 'r') as r_file:
+                    print("\nSuccess read file -", "'" + file_name + "'", '\n')
+                    return r_file.readlines()
+            except FileNotFoundError:
+                print("\nCan not find to read data -", "'" + file_name + "'", "\n")
+                return False
 
     @staticmethod
     def dump(data, dump_name):
