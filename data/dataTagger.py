@@ -15,13 +15,17 @@ class DataTagger(DataHandler):
     def transition_map(self):
         return self.__transition_map
 
+    @transition_map.setter
+    def transition_map(self, _dict):
+        self.__transition_map = _dict
+
     @property
     def emission_map(self):
         return self.__emission_map
 
     @emission_map.setter
-    def emission_map(self, value):
-        self.__emission_map = value
+    def emission_map(self, _dict):
+        self.__emission_map = _dict
 
     @property
     def tags(self):
@@ -63,20 +67,25 @@ class DataTagger(DataHandler):
             else:
                 self.emission_map[tag][word] += 1
 
-    # sort emission map
-    def __sorted_emission(self):
-        emission_map = copy.deepcopy(self.emission_map)
-        self.emission_map = OrderedDict()
+    @staticmethod
+    def __sorted_map(_map):
+        _map_copied = copy.deepcopy(_map)
+
+        # initialize ordered dict for tag key
+        _map = OrderedDict()
 
         # copy emission map of tag key for sorting
-        for tag in sorted(emission_map):
-            word_dict = emission_map[tag]
+        for tag in sorted(_map_copied):
+            word_dict = _map_copied[tag]
 
-            self.emission_map[tag] = OrderedDict()
+            # initialize ordered dict for word key
+            _map[tag] = OrderedDict()
 
             # copy emission map of word key for sorting
             for word in sorted(word_dict):
-                self.emission_map[tag][word] = word_dict[word]
+                _map[tag][word] = word_dict[word]
+
+        return _map
 
     # initialize transition map
     # Matrix size == (COUNT(tags) + START_FLAG) X ((COUNT(tags) + END_FLAG))
@@ -91,8 +100,16 @@ class DataTagger(DataHandler):
         self.transition_map.update({tag: __init_columns(tags) for tag in tags})
         self.transition_map[START_FLAG] = __init_columns(tags)
 
-    def __calculate(self):
-        self.__sorted_emission()
+    def __calculate_maps(self):
+        # sort maps of emission and transition
+        self.emission_map = self.__sorted_map(self.emission_map)
+        self.transition_map = self.__sorted_map(self.transition_map)
+
+        for key, value_dict in self.transition_map.items():
+            for v_key in value_dict:
+                pass
+
+
 
     def __set_transition(self, corpus):
         def __get_tag(word):
@@ -133,12 +150,8 @@ class DataTagger(DataHandler):
 
         self.__set_transition(corpus)
 
-        # for k, v in self.transition_map.items():
-        #     print(k, v)
-
-        # self.__calculate()
-
-        self.__sorted_emission()
+        # calculate maps for getting probability
+        self.__calculate_maps()
 
         # dump
         self.dump(self.emission_map, dump_name="emission_map")
