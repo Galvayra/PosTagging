@@ -6,10 +6,12 @@ parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
 def get_arguments():
     parser.add_argument("-train", "--train", help="load train corpus\n"
                                                   "(default is 'train')\n")
+    parser.add_argument("-test", "--test", help="load test corpus\n"
+                                                "(default is 'test')\n")
+    parser.add_argument("-set", "--set", help="set test option\n"
+                                              "(default is 0)\n")
     parser.add_argument("-dict", "--dict", help="set dictionary file name\n"
                                                 "(default is 'dict')\n")
-    parser.add_argument("-test", "--test", help="test option\n"
-                                                "(default is 0)\n")
     _args = parser.parse_args()
 
     return _args
@@ -28,12 +30,17 @@ else:
     FILE_TRAIN = args.train
 
 if not args.test:
+    FILE_TEST = "test"
+else:
+    FILE_TEST = args.test
+
+if not args.set:
     IS_TEST = False
 else:
     try:
-        IS_TEST = int(args.test)
+        IS_TEST = int(args.set)
     except ValueError:
-        print("\nPlease input a test option corrected!\n")
+        print("\nValueError!\nPlease input a set option corrected! (1 or 0)\n")
         exit(-1)
     else:
         if IS_TEST == 1:
@@ -41,7 +48,7 @@ else:
         elif IS_TEST == 0:
             IS_TEST = False
         else:
-            print("\nPlease input a test option corrected!\n")
+            print("\nPlease input a set option corrected! (1 or 0)\n")
             exit(-1)
 
 PATH_ALL_CORPUS = "corpus/"
