@@ -10,8 +10,13 @@ class DataTagger(DataReader):
         super().__init__()
         self.__transition_map = OrderedDict()
         self.__emission_map = OrderedDict()
-        self.__tags = dict()
+        self.__tags = OrderedDict()
         self.__num_smooth = 0.1
+        self.__name = {
+            "tags": "tags",
+            "emission": "emission_map",
+            "transition": "transition_map"
+        }
 
     @property
     def transition_map(self):
@@ -52,6 +57,10 @@ class DataTagger(DataReader):
         value = word[-1].upper()
 
         return key, value
+
+    @property
+    def name(self):
+        return self.__name
 
     # set tag
     def __set_tags(self, key_tag):
@@ -195,6 +204,6 @@ class DataTagger(DataReader):
         self.__calculate_map(name="emission")
 
         # dump data
-        self.dump(self.tags, dump_name="tags")
-        self.dump(self.emission_map, dump_name="emission_map")
-        self.dump(self.transition_map, dump_name="transition_map")
+        self.dump(self.tags, dump_name=self.name["tags"])
+        self.dump(self.emission_map, dump_name=self.name["emission"])
+        self.dump(self.transition_map, dump_name=self.name["transition"])
