@@ -18,9 +18,9 @@ class DataReader:
             print("Can not save dump file!\n\n")
 
     @staticmethod
-    def read_corpus():
+    def read_corpus(file_name):
         try:
-            with open(PATH_CORPUS + FILE_TRAIN, 'r') as r_file:
+            with open(PATH_CORPUS + file_name, 'r') as r_file:
                 return r_file.readlines()
         except FileNotFoundError:
             print("\nCan not find to read corpus!\n\n")
