@@ -30,6 +30,6 @@ echo
 echo "making corpus named $test for test (default name is test)"
 echo "It is in the $path directory"
 echo
-python merge.py -test 1 >> $path/$test
+python merge.py -set 1 >> $path/$test
 
 echo "=========================="
