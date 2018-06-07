@@ -1,6 +1,7 @@
 ### POS Tagging ###
 
 First) build dictionary
+
 	you can build it easy to use build shell script
 	UseAge: python build.sh --train "train" --test "test"
 
