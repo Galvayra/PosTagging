@@ -119,7 +119,7 @@ class PosTagging(DataTagger):
                 answer.append(word[1])
                 word = word[0]
                 network.append({tag: float() for tag in self.tags})
-                
+
 
             # process of FLAGS (START, END)
             elif type(word) is str:
