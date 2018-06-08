@@ -3,7 +3,7 @@
 First) build dictionary
 
 	you can build it easy to use build shell script
-	UseAge: python build.sh --train "train" --test "test"
+	UseAge: ./build.sh --train "train" --test "test"
 
 	merge.py is making dataset of train and test which is in corpus dir
 	Plus, please make sure saving them in the 'data/data' dir
