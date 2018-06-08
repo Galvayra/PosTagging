@@ -54,14 +54,13 @@ class DataTagger(DataReader):
 
         p = re.compile("[\S]+/[A-Z]+")
 
-        # sentence in corpus of WSJ
+        # if the word has WSJ tag
         if p.findall(word):
             word = word.split('/')
 
             key = ''.join(word[0:-1]).lower()
             value = word[-1].upper()
-
-        # normal sentence
+        # normal word
         else:
             key = word
             value = str()
