@@ -90,15 +90,18 @@ class PosTagger(DictConstructor):
 
     # get observations
     def __get_observation(self, observation):
-        observation = [self.get_key_value(word) for word in observation]
+        if observation:
+            observation = [self.get_key_value(word) for word in observation]
 
-        # if the observation is inputted by user
-        # <s> sentence </s>
-        if type(observation[0]) is tuple:
-            observation.insert(0, START_FLAG)
-            observation.append(END_FLAG)
+            # if the observation is inputted by user
+            # <s> sentence </s>
+            if type(observation[0]) is tuple:
+                observation.insert(0, START_FLAG)
+                observation.append(END_FLAG)
 
-        return observation
+            return observation
+        else:
+            return False
 
     # get observations from test set
     def __get_observations_from_set(self):
