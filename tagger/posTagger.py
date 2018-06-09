@@ -1,8 +1,9 @@
 from PosTagging.data.dataTagger import DataTagger
 from PosTagging.data.variables import FILE_TEST
+from PosTagging.tagger.model import Hmm
 
 
-class PosTagging(DataTagger):
+class PosTagger(DataTagger):
     def __init__(self):
         super().__init__()
 
@@ -68,6 +69,7 @@ class PosTagging(DataTagger):
     # run the system
     def run(self):
         self.__print()
+        hmm = Hmm(self.tags, self.transition_map, self.emission_map)
 
         while not self.action["exit"]:
             action = self.__input_command()
@@ -76,14 +78,30 @@ class PosTagging(DataTagger):
                 print("Error] Please make sure command\n")
             else:
                 if action == "print":
-                    self.__tagging_sent(self.command[1:])
+                    observations = [self.__get_observation(self.command[1:])]
+                    hmm.viterbi(observations)
+
                 elif action == "test":
-                    self.__test()
+                    observations = self.__get_observations_from_set()
+                    hmm.viterbi(observations)
+
                 elif action == "show":
                     self.__print()
 
-    # test the system by getting performance
-    def __test(self):
+    # get observations
+    def __get_observation(self, observation):
+        observation = [self.get_key_value(word) for word in observation]
+
+        # if the observation is inputted by user
+        # <s> sentence </s>
+        if type(observation[0]) is tuple:
+            observation.insert(0, self.start_flag)
+            observation.append(self.end_flag)
+
+        return observation
+
+    # get observations from test set
+    def __get_observations_from_set(self):
 
         if len(self.command) == 2:
             file_name = self.command[1]
@@ -96,47 +114,6 @@ class PosTagging(DataTagger):
         corpus = self.read_corpus(file_name)
 
         if corpus:
-            for line in corpus:
-                self.__tagging_sent(line.split())
-
-    # tagging sentence
-    def __tagging_sent(self, observation):
-        observation = [self.get_key_value(word) for word in observation]
-
-        # if the observation is inputted by user
-        # <s> sentence </s>
-        if type(observation[0]) is tuple:
-            observation.insert(0, self.start_flag)
-            observation.append(self.end_flag)
-
-        self.__dynamic(observation)
-
-    # dynamic programming using viterbi
-    def __dynamic(self, observation):
-        network = list()
-        answer = list()
-        predict = list()
-
-        for i in range(len(observation)):
-            word = observation[i]
-
-            # process of word
-            if type(word) is tuple:z
-                answer.append(word[1])
-                word = word[0]
-                network.append({tag: float() for tag in self.tags})
-
-            # process of FLAGS (START, END)
-            elif type(word) is str:
-
-                # process of START FLAG == <s>
-                if word in self.transition_map:
-                    print(word)
-                    # print(word, self.transition_map[word])
-                # process of END FLAG == </s>
-                else:
-                    print(word)
-
-    # forward, backward
-    def __forward_backward(self, line):
-        pass
+            return [self.__get_observation(line.split()) for line in corpus]
+        else:
+            return list()

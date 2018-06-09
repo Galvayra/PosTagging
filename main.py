@@ -6,8 +6,8 @@ try:
 except ImportError:
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from PosTagging.posTagging import PosTagging
+from PosTagging.tagger.posTagger import PosTagger
 
 if __name__ == '__main__':
-    tagger = PosTagging()
+    tagger = PosTagger()
     tagger.run()
