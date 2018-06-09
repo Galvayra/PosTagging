@@ -1,9 +1,9 @@
-from PosTagging.data.dataTagger import DataTagger
-from PosTagging.data.variables import FILE_TEST
+from PosTagging.data.dictConstructor import DictConstructor
+from PosTagging.data.variables import FILE_TEST, START_FLAG, END_FLAG
 from PosTagging.tagger.model import Hmm
 
 
-class PosTagger(DataTagger):
+class PosTagger(DictConstructor):
     def __init__(self):
         super().__init__()
 
@@ -95,8 +95,8 @@ class PosTagger(DataTagger):
         # if the observation is inputted by user
         # <s> sentence </s>
         if type(observation[0]) is tuple:
-            observation.insert(0, self.start_flag)
-            observation.append(self.end_flag)
+            observation.insert(0, START_FLAG)
+            observation.append(END_FLAG)
 
         return observation
 

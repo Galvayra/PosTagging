@@ -1,3 +1,5 @@
+from PosTagging.data.variables import END_FLAG
+
 
 class Hmm:
     def __init__(self, tags, transition_map, emission_map):
@@ -19,6 +21,23 @@ class Hmm:
 
     # dynamic programming using viterbi
     def viterbi(self, observations):
+        def __append_network__(_word, is_flag=False):
+            if is_flag:
+                network.append({_word: float()})
+                answer.append(_word)
+            else:
+                answer.append(_word[1])
+                _word = _word[0]
+                network.append({tag: float() for tag in self.tags})
+
+        def __calculate_network__():
+            for tag_given in network[i-1]:
+                _map = self.transition_map[tag_given]
+
+                for tag in _map:
+                    if not tag == END_FLAG:
+                        print(tag_given, tag, _map[tag])
+
         network = list()
         answer = list()
         predict = list()
@@ -29,21 +48,24 @@ class Hmm:
 
                 # process of word
                 if type(word) is tuple:
-                    answer.append(word[1])
-                    word = word[0]
-                    network.append({tag: float() for tag in self.tags})
-                    print(word)
+                    __append_network__(word)
+                    __calculate_network__()
 
                 # process of FLAGS (START, END)
                 elif type(word) is str:
 
                     # process of START FLAG == <s>
                     if word in self.transition_map:
-                        print(word)
-                        # print(word, self.transition_map[word])
+                        __append_network__(word, is_flag=True)
+
                     # process of END FLAG == </s>
                     else:
-                        print(word)
+                        __append_network__(word, is_flag=True)
+
+        for i in network:
+            print(i)
+
+
 
     def forward(self):
         pass
