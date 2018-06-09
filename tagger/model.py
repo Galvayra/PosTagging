@@ -94,16 +94,16 @@ class Hmm:
 
             predict.pop(0)
 
-        node = list()
-        answer = list()
-        words = list()
-        predict = list()
-
         # forward
         for observation in observations:
             if not observation:
                 print("\nThere is no observation!\n")
             else:
+                node = list()
+                answer = list()
+                words = list()
+                predict = list()
+
                 # for word_1, word_2, ... , word_N, END_FLAG
                 for index in range(1, len(observation)):
                     word = observation[index]
@@ -118,11 +118,11 @@ class Hmm:
                         __append_node__(word, is_flag=True)
                         __calculate_node__()
 
-        __back_tracking__()
-        print()
-        print(predict)
-        print(answer)
-        print()
+                __back_tracking__()
+                print()
+                print(predict)
+                print(answer)
+                print()
 
     def forward(self):
         pass
