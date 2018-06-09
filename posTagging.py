@@ -103,6 +103,12 @@ class PosTagging(DataTagger):
     def __tagging_sent(self, observation):
         observation = [self.get_key_value(word) for word in observation]
 
+        # if the observation is inputted by user
+        # <s> sentence </s>
+        if type(observation[0]) is tuple:
+            observation.insert(0, self.start_flag)
+            observation.append(self.end_flag)
+
         self.__dynamic(observation)
 
     # dynamic programming using viterbi
@@ -115,18 +121,21 @@ class PosTagging(DataTagger):
             word = observation[i]
 
             # process of word
-            if type(word) is tuple:
+            if type(word) is tuple:z
                 answer.append(word[1])
                 word = word[0]
                 network.append({tag: float() for tag in self.tags})
-
 
             # process of FLAGS (START, END)
             elif type(word) is str:
 
                 # process of START FLAG == <s>
                 if word in self.transition_map:
-                    print(word, self.transition_map[word])
+                    print(word)
+                    # print(word, self.transition_map[word])
+                # process of END FLAG == </s>
+                else:
+                    print(word)
 
     # forward, backward
     def __forward_backward(self, line):

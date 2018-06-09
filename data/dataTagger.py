@@ -18,6 +18,8 @@ class DataTagger(DataReader):
             "emission": "emission_map",
             "transition": "transition_map"
         }
+        self.__start_flag = START_FLAG
+        self.__end_flag = END_FLAG
 
     @property
     def transition_map(self):
@@ -47,9 +49,8 @@ class DataTagger(DataReader):
     def num_smooth(self):
         return self.__num_smooth
 
-    @staticmethod
-    def get_key_value(word):
-        if word == START_FLAG or word == END_FLAG:
+    def get_key_value(self, word):
+        if word == self.start_flag or word == self.end_flag:
             return word
 
         p = re.compile("[\S]+/[A-Z]+")
@@ -70,6 +71,14 @@ class DataTagger(DataReader):
     @property
     def name(self):
         return self.__name
+
+    @property
+    def start_flag(self):
+        return self.__start_flag
+
+    @property
+    def end_flag(self):
+        return self.__end_flag
 
     # set tag
     def __set_tags(self, key_tag):
@@ -125,13 +134,13 @@ class DataTagger(DataReader):
     def __init_transition(self):
         # initialize a columns of transition map
         def __init_columns__():
-            return {_tag: int() for _tag in tags + [END_FLAG]}
+            return {_tag: int() for _tag in tags + [self.end_flag]}
 
         tags = sorted(self.tags)
 
         # initialize a rows of transition map
         self.transition_map.update({tag: __init_columns__() for tag in tags})
-        self.transition_map[START_FLAG] = __init_columns__()
+        self.transition_map[self.start_flag] = __init_columns__()
 
     # calculate maps for getting probability
     def __calculate_map(self, name=""):
