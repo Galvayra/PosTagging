@@ -6,8 +6,8 @@ try:
 except ImportError:
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from PosTagging.data.dataTagger import DataTagger
+from PosTagging.data.dictConstructor import DictConstructor
 
 if __name__ == '__main__':
-    data_tagger = DataTagger()
+    data_tagger = DictConstructor()
     data_tagger.set_dict4tagging()
