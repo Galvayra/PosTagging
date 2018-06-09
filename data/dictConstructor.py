@@ -1,9 +1,11 @@
 from PosTagging.data.dataReader import DataReader
-from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN
+from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN, UNKNOWN_KEY
 from collections import OrderedDict
 import copy
 import re
 import math
+
+NUM_OF_SMOOTH = 0.01
 
 
 class DictConstructor(DataReader):
@@ -13,7 +15,6 @@ class DictConstructor(DataReader):
         self.__transition_reverse_map = OrderedDict()
         self.__emission_map = OrderedDict()
         self.__tags = OrderedDict()
-        self.__num_smooth = 0.1
         self.__name = {
             "tags": "tags",
             "emission": "emission_map",
@@ -52,10 +53,6 @@ class DictConstructor(DataReader):
     @tags.setter
     def tags(self, tags):
         self.__tags = tags
-
-    @property
-    def num_smooth(self):
-        return self.__num_smooth
 
     @staticmethod
     def get_key_value(word):
@@ -108,7 +105,7 @@ class DictConstructor(DataReader):
     # if the word can not find in the dictionary, set zero
     def __init_none_emission(self):
         for _, _map in self.emission_map.items():
-            _map["#"] = 0
+            _map[UNKNOWN_KEY] = 0
 
     @staticmethod
     def __sorted_map(_map):
@@ -163,7 +160,9 @@ class DictConstructor(DataReader):
 
         # get probability using smoothing
         def __get_probability__():
-            return math.fabs(math.log(float(_map[k] + self.num_smooth) / total))
+            prob = float(_map[k] + NUM_OF_SMOOTH) / (total + (len(_map) * NUM_OF_SMOOTH))
+
+            return math.fabs(math.log(prob))
 
         target_map = dict()
 
@@ -206,14 +205,6 @@ class DictConstructor(DataReader):
         for line in corpus:
             __set_map__(self.transition_map, self.__get_line(line))
             __set_map__(self.transition_reverse_map, self.__get_line(line, is_reverse=True))
-
-            # tag_given = __get_tag(line[0].strip())
-            #
-            # for i in range(1, len(line)):
-            #     tag = __get_tag(line[i].strip())
-            #
-            #     self.transition_map[tag][tag_given] += 1
-            #     tag_given = tag
 
     @staticmethod
     def __get_line(line, is_reverse=False):

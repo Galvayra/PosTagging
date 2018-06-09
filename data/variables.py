@@ -58,3 +58,5 @@ PATH_DATA = "data/data/"
 
 START_FLAG = "<s>"
 END_FLAG = "</s>"
+
+UNKNOWN_KEY = "#"
