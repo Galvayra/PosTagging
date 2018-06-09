@@ -5,7 +5,7 @@ clean:
 clean-dict:
 	rm -r data/dict/*
 
-clean-corpus:
+clean-dataset:
 	rm -r data/data/*
 
 clean-all:
