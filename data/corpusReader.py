@@ -72,7 +72,7 @@ class CorpusReader:
 
         if len(self.sentence.split()) > 1:
             # <s> sentence </s>
-            self.sentence = START_FLAG + " " + self.sentence + " " + END_FLAG
+            # self.sentence = START_FLAG + " " + self.sentence + " " + END_FLAG
             print(self.sentence)
 
         self.sentence = str()
