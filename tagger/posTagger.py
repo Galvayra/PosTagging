@@ -70,6 +70,7 @@ class PosTagger(DictConstructor):
     def run(self):
         self.__print()
         hmm = Hmm(self.tags, self.transition_map, self.emission_map)
+        hmm.transition_reverse_map = self.load(self.name["reverse"])
 
         while not self.action["exit"]:
             action = self.__input_command()
@@ -79,12 +80,16 @@ class PosTagger(DictConstructor):
             else:
                 if action == "print":
                     observations = [self.__get_observation(self.command[1:])]
-                    self.__result(hmm.viterbi(observations))
+                    # self.__result(hmm.viterbi(observations))
+                    hmm.forward_backward(observations)
+                    self.__result(hmm.get_result())
 
                 elif action == "test":
                     observations = self.__get_observations_from_set()
                     self.init_write_result(self.file_name + "_Result")
-                    self.__print_accuracy(self.__result(hmm.viterbi(observations)))
+
+                    hmm.viterbi(observations)
+                    self.__print_accuracy(self.__result(hmm.get_result()))
 
                 elif action == "show":
                     self.__print()

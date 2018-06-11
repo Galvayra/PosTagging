@@ -8,7 +8,11 @@ class Hmm:
     def __init__(self, tags, transition_map, emission_map):
         self.__tags = [tag for tag in tags]
         self.__transition_map = transition_map
+        self.__transition_reverse_map = None
         self.__emission_map = emission_map
+        self.__sentence_list = list()
+        self.__predict_list = list()
+        self.__answer_list = list()
 
     @property
     def tags(self):
@@ -19,8 +23,40 @@ class Hmm:
         return self.__transition_map
 
     @property
+    def transition_reverse_map(self):
+        return self.__transition_reverse_map
+
+    @transition_reverse_map.setter
+    def transition_reverse_map(self, transition_reverse_map):
+        self.__transition_reverse_map = transition_reverse_map
+
+    @property
     def emission_map(self):
         return self.__emission_map
+
+    @property
+    def sentence_list(self):
+        return self.__sentence_list
+
+    @sentence_list.setter
+    def sentence_list(self, sentence_list):
+        self.__sentence_list = sentence_list
+
+    @property
+    def predict_list(self):
+        return self.__predict_list
+
+    @predict_list.setter
+    def predict_list(self, predict_list):
+        self.__sentence_list = predict_list
+
+    @property
+    def answer_list(self):
+        return self.__answer_list
+
+    @answer_list.setter
+    def answer_list(self, answer_list):
+        self.__sentence_list = answer_list
 
     # get emission probability == P(word|tag)
     def __get_emission_prob(self, tag, word):
@@ -46,6 +82,22 @@ class Hmm:
             return {key: value for key, value in self.transition_map[tag].items() if not key == END_FLAG}
         else:
             return {key: value for key, value in self.transition_map[tag].items() if not key == START_FLAG}
+
+    # initialize lists
+    def __init_lists(self):
+        self.sentence_list = list()
+        self.predict_list = list()
+        self.answer_list = list()
+
+    # append lists
+    def __append_lists(self, sentence, predict, answer):
+        self.sentence_list.append(sentence)
+        self.predict_list.append(predict)
+        self.answer_list.append(answer)
+
+    # return lists
+    def get_result(self):
+        return self.sentence_list, self.answer_list, self.predict_list
 
     # dynamic programming using viterbi
     def viterbi(self, observations):
@@ -93,18 +145,13 @@ class Hmm:
                 predict.insert(0, target_node[1][tag])
 
             predict.pop(0)
-            sentence_list.append(words[:-1])
-            predict_list.append(predict)
-            answer_list.append(answer)
 
-        predict_list = list()
-        answer_list = list()
-        sentence_list = list()
+        self.__init_lists()
 
         # forward
         for observation in observations:
             if not observation:
-                predict_list.append(False)
+                self.predict_list.append(False)
             else:
                 node = list()
                 answer = list()
@@ -126,11 +173,40 @@ class Hmm:
                         __calculate_node__()
 
                 __back_tracking__()
+                self.__append_lists(sentence=words[:-1], predict=predict, answer=answer)
 
-        return sentence_list, answer_list, predict_list
+    def forward_backward(self, observations):
 
-    def forward(self):
+        self.__init_lists()
+
+        # forward
+        for observation in observations:
+            if not observation:
+                self.predict_list.append(False)
+            else:
+                # node = list()
+                # answer = list()
+                # words = list()
+                # predict = list()
+
+                # for START_FLAG, word_1, word_2, ... , word_N, END_FLAG
+                for index in range(len(observation)):
+                    word = observation[index]
+
+                #     # process of word
+                #     if type(word) is tuple:
+                #         __append_node__(word)
+                #         __calculate_node__()
+                #
+                #     # process of END FLAG
+                #     elif type(word) is str and word == END_FLAG:
+                #         __append_node__(word, is_flag=True)
+                #         __calculate_node__()
+                #
+                # __back_tracking__()
+
+    def __forward(self):
         pass
 
-    def backward(self):
+    def __backward(self):
         pass
