@@ -68,20 +68,27 @@ class Hmm:
     # when the tag is given, get node of weights as adding emission probability and previous node
     # [word_1, ... , word_N]
     # (from t to N) sigma(P(tag(t)|tag(t-1)) * P(word(t)|tag(t)))
-    def __get_weight_node(self, tag, pre_node, _emission_prob=0):
-        transition_map = self.__get_transition_map(tag)
-
-        node = np.array([weight + transition_map[tag_given] for tag_given, weight in pre_node.items()])
+    def __get_weight_node(self, previous_node, transition_map, _emission_prob=0):
+        # node = previous node + transition probability + emission probability
+        node = self.__get_np_array(previous_node) + self.__get_np_array(transition_map)
         node += _emission_prob
 
         return node
 
+    # return 1 by (# of tags) matrix
+    @staticmethod
+    def __get_np_array(target_node):
+        return np.array([weight for weight in target_node.values()])
+
     # get transition map only tag
     def __get_transition_map(self, tag, is_reverse=False):
         if is_reverse:
-            return {key: value for key, value in self.transition_map[tag].items() if not key == END_FLAG}
+            return {key: value for key, value in self.transition_reverse_map[tag].items() if not key == END_FLAG}
         else:
             return {key: value for key, value in self.transition_map[tag].items() if not key == START_FLAG}
+
+    def __get_arg_min_tag(self, node):
+        return self.tags[int(np.argmin(node))]
 
     # initialize lists
     def __init_lists(self):
@@ -99,6 +106,10 @@ class Hmm:
     def get_result(self):
         return self.sentence_list, self.answer_list, self.predict_list
 
+    # node == [{tag: prob, .... , tag: prob}, min_tag]
+    def __init_node(self):
+        return [{tag: float() for tag in self.tags}, {tag: str() for tag in self.tags}]
+
     # dynamic programming using viterbi
     def viterbi(self, observations):
 
@@ -109,7 +120,7 @@ class Hmm:
             else:
                 answer.append(_word[1])
                 words.append(_word[0])
-                node.append([{tag: float() for tag in self.tags}, {tag: str() for tag in self.tags}])
+                node.append(self.__init_node())
 
         # calculate node during forward process
         def __calculate_node__(_index):
@@ -117,12 +128,15 @@ class Hmm:
 
             # process of END FLAG
             if target_word == END_FLAG:
-                current_network = self.__get_weight_node(target_word, node[_index - 2][0])
-                node.append(self.tags[int(np.argmin(current_network))])
+                transition_map = self.__get_transition_map(target_word)
+
+                current_node = self.__get_weight_node(node[_index - 2][0], transition_map)
+                node.append(self.tags[int(np.argmin(current_node))])
             else:
                 target_node = node[_index - 1]
                 for tag in target_node[0]:
                     emission_prob = self.__get_emission_prob(tag, target_word)
+                    transition_map = self.__get_transition_map(tag)
 
                     # if the word is occur first
                     # process of start word (word_1)
@@ -132,9 +146,9 @@ class Hmm:
 
                     # process of words (word_2, ... , word_N)
                     else:
-                        current_network = self.__get_weight_node(tag, node[_index - 2][0], emission_prob)
-                        target_node[0][tag] = np.min(current_network)
-                        target_node[1][tag] = self.tags[int(np.argmin(current_network))]
+                        current_node = self.__get_weight_node(node[_index - 2][0], transition_map, emission_prob)
+                        target_node[0][tag] = np.min(current_node)
+                        target_node[1][tag] = self.__get_arg_min_tag(current_node)
 
         def __forward__():
             # for word_1, word_2, ... , word_N, END_FLAG
@@ -179,8 +193,85 @@ class Hmm:
                 self.__append_lists(sentence=words[:-1], predict=predict, answer=answer)
 
     def forward_backward(self, observations):
-        def __forward__():
-            pass
+        def __append_node__(key, word):
+            node[key].append(self.__init_node())
+            answer[key].append(word[1])
+            words[key].append(word[0])
+
+        def __set_node2probability__(target_node):
+            weight_total = float()
+
+            for weight in target_node.values():
+                weight_total += weight
+
+            for tag in target_node:
+                target_node[tag] = target_node[tag] / weight_total
+
+        def __calculate_node__(method, is_init=False):
+            target_word = words[method][-1]
+            target_node = node[method][-1]
+
+            # calculate initialize transition and emission probability to the first node
+            if is_init:
+
+                for tag in target_node[0]:
+                    emission_prob = self.__get_emission_prob(tag, target_word)
+
+                    if method == "forward":
+                        transition_prob = self.transition_map[tag][START_FLAG]
+                        target_node[0][tag] = transition_prob + emission_prob
+                    elif method == "backward":
+                        transition_prob = self.transition_reverse_map[tag][END_FLAG]
+                        target_node[0][tag] = transition_prob + emission_prob
+
+            # calculate transition and emission probability to the node
+            else:
+                previous_node = node[method][-2]
+
+                for tag in target_node[0]:
+                    emission_prob = self.__get_emission_prob(tag, target_word)
+
+                    # forward
+                    if method == "forward":
+                        transition_map = self.__get_transition_map(tag)
+                        current_node = self.__get_weight_node(previous_node[0], transition_map, emission_prob)
+                        target_node[0][tag] = np.min(current_node)
+
+                    # backward
+                    elif method == "backward":
+                        transition_map = self.__get_transition_map(tag, is_reverse=True)
+                        current_node = self.__get_weight_node(previous_node[0], transition_map, emission_prob)
+                        target_node[0][tag] = np.min(current_node)
+
+            __set_node2probability__(target_node[0])
+
+        def __step__(keys):
+            # for word_1, word_2, ... , word_N
+            for word, word_reverse in zip(observation, list(reversed(observation))):
+
+                # if the word is existed
+                if type(word) is tuple:
+                    __append_node__("forward", word)
+                    __append_node__("backward", word_reverse)
+
+                    for method in keys:
+                        if len(node[method]) == INDEX_OF_FIRST_WORD:
+                            __calculate_node__(method, is_init=True)
+                        else:
+                            __calculate_node__(method)
+
+        def __predict__(keys):
+            for method in keys:
+
+                # forward
+                if method == "forward":
+                    for target_node in node[method]:
+                        predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
+
+                # backward
+                elif method == "backward":
+                    for target_node in list(reversed(node[method])):
+                        predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
 
         self.__init_lists()
 
@@ -189,29 +280,13 @@ class Hmm:
             if not observation:
                 self.predict_list.append(False)
             else:
-                node = list()
-                answer = list()
-                words = list()
-                predict = list()
+                node = {"forward": list(), "backward": list()}
+                answer = {"forward": list(), "backward": list()}
+                words = {"forward": list(), "backward": list()}
+                predict = {"forward": list(), "backward": list()}
+                __step__(["forward", "backward"])
 
-                # for START_FLAG, word_1, word_2, ... , word_N, END_FLAG
-                for index in range(len(observation)):
-                    word = observation[index]
+                __predict__(["forward", "backward"])
 
-                #     # process of word
-                #     if type(word) is tuple:
-                #         __append_node__(word)
-                #         __calculate_node__()
-                #
-                #     # process of END FLAG
-                #     elif type(word) is str and word == END_FLAG:
-                #         __append_node__(word, is_flag=True)
-                #         __calculate_node__()
-                #
-                # __back_tracking__()
-
-    def __forward(self):
-        pass
-
-    def __backward(self):
-        pass
+                for m, y in predict.items():
+                    print(m, y)
