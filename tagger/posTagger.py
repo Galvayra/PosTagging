@@ -1,5 +1,5 @@
 from PosTagging.data.dictConstructor import DictConstructor
-from PosTagging.data.variables import FILE_TEST, START_FLAG, END_FLAG
+from PosTagging.variables import FILE_TEST, START_FLAG, END_FLAG
 from PosTagging.tagger.model import Hmm
 
 
@@ -83,6 +83,7 @@ class PosTagger(DictConstructor):
 
                 elif action == "test":
                     observations = self.__get_observations_from_set()
+                    self.init_write_result(self.file_name + "_Result")
                     self.__print_accuracy(self.__result(hmm.viterbi(observations)))
 
                 elif action == "show":
@@ -107,14 +108,14 @@ class PosTagger(DictConstructor):
     def __get_observations_from_set(self):
 
         if len(self.command) == 2:
-            file_name = self.command[1]
+            self.file_name = self.command[1]
         elif len(self.command) < 2:
-            file_name = FILE_TEST
+            self.file_name = FILE_TEST
         else:
             print("Error] Please make sure 'test' command\n")
             return
 
-        corpus = self.read_corpus(file_name)
+        corpus = self.read_corpus(self.file_name)
 
         if corpus:
             return [self.__get_observation(line.split()) for line in corpus]
@@ -140,9 +141,35 @@ class PosTagger(DictConstructor):
                 length += 1
 
                 __counting__()
-                self.__print_sentence(sentence, answer, predict)
+                self.__write_sentence(sentence, answer, predict)
 
         return length, total, match
+
+    # show the predicted sentence and original sentence in the result file
+    def __write_sentence(self, sentence, answer, predict):
+        sentence_answer = list()
+        sentence_predict = list()
+
+        for word, tag_answer, tag_predict in zip(sentence, answer, predict):
+            if tag_answer:
+                sentence_answer.append(word + "/" + tag_answer)
+            else:
+                sentence_answer.append(word)
+
+            sentence_predict.append(word + "/" + tag_predict)
+
+        sentence_original = " ".join(sentence)
+        sentence_answer = " ".join(sentence_answer)
+        sentence_predict = " ".join(sentence_predict)
+
+        if self.action["print"]:
+            print()
+            print("Sentence :", sentence_original)
+            print("Predict  :", sentence_predict + "\n")
+        elif self.action["test"]:
+            self.write_sentence("Sentence : " + sentence_original + "\n")
+            self.write_sentence("Predict  : " + sentence_predict + "\n")
+            self.write_sentence("Answer   : " + sentence_answer + "\n\n")
 
     # show accuracy in the test set
     @staticmethod
@@ -158,20 +185,3 @@ class PosTagger(DictConstructor):
         else:
             print("Accuracy       - 0.00")
         print("\n==============================\n")
-
-    # show the predicted sentence and original sentence
-    @staticmethod
-    def __print_sentence(sentence, answer, predict):
-        sentence_answer = list()
-        sentence_predict = list()
-
-        for word, tag_answer, tag_predict in zip(sentence, answer, predict):
-            if tag_answer:
-                sentence_answer.append(word + "/" + tag_answer)
-            else:
-                sentence_answer.append(word)
-
-            sentence_predict.append(word + "/" + tag_predict)
-
-        print(" ".join(sentence_answer))
-        print(" ".join(sentence_predict), "\n")

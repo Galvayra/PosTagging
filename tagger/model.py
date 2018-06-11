@@ -1,4 +1,4 @@
-from PosTagging.data.variables import START_FLAG, END_FLAG, UNKNOWN_KEY
+from PosTagging.variables import START_FLAG, END_FLAG, UNKNOWN_KEY
 import numpy as np
 
 INDEX_OF_FIRST_WORD = 1

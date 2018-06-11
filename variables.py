@@ -52,6 +52,7 @@ else:
             exit(-1)
 
 PATH_CORPUS = "corpus/"
+PATH_RESULT = "Result/"
 CORPUS_TEST = "test"
 PATH_DICT = "data/dict/"
 PATH_DATA = "data/data/"

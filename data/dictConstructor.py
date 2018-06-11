@@ -1,5 +1,5 @@
 from PosTagging.data.dataReader import DataReader
-from PosTagging.data.variables import END_FLAG, START_FLAG, FILE_TRAIN, UNKNOWN_KEY
+from PosTagging.variables import END_FLAG, START_FLAG, FILE_TRAIN, UNKNOWN_KEY
 from collections import OrderedDict
 import copy
 import re

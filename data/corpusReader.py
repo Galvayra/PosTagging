@@ -1,4 +1,4 @@
-from .variables import PATH_CORPUS, CORPUS_TEST, IS_TEST, START_FLAG, END_FLAG
+from PosTagging.variables import PATH_CORPUS, CORPUS_TEST, IS_TEST
 import re
 import os
 

@@ -1,9 +1,20 @@
-from PosTagging.data.variables import PATH_DICT, PATH_DATA
+from PosTagging.variables import PATH_DICT, PATH_DATA, PATH_RESULT
 import os
 import json
 
 
 class DataReader:
+    def __init__(self):
+        self.__write_file = False
+
+    @property
+    def write_file(self):
+        return self.__write_file
+
+    @write_file.setter
+    def write_file(self, write_file):
+        self.__write_file = write_file
+
     @staticmethod
     def read_corpus(file_name):
         try:
@@ -19,10 +30,8 @@ class DataReader:
                 print("\nCan not find to read data -", "'" + file_name + "'", "\n")
                 return False
 
-    @staticmethod
-    def dump(data, dump_name):
-        if not os.path.isdir(PATH_DICT):
-            os.mkdir(PATH_DICT)
+    def dump(self, data, dump_name):
+        self.__make_dir(PATH_DICT)
 
         try:
             with open(PATH_DICT + dump_name + '.json', 'w') as w_file:
@@ -40,3 +49,21 @@ class DataReader:
         except FileNotFoundError:
             print("\nCan not load data -", "'" + file_name + "'", "\n")
             exit(-1)
+
+    def init_write_result(self, file_name):
+        self.__make_dir(PATH_RESULT)
+
+        try:
+            self.write_file = open(PATH_RESULT + file_name, 'w')
+        except FileNotFoundError:
+            print("\nCan not write result -", "'" + file_name + "'", "\n")
+            self.write_file = False
+
+    def write_sentence(self, sentence):
+        if self.write_file:
+            self.write_file.write(sentence)
+
+    @staticmethod
+    def __make_dir(_path):
+        if not os.path.isdir(_path):
+            os.mkdir(_path)
