@@ -112,29 +112,44 @@ class Hmm:
                 node.append([{tag: float() for tag in self.tags}, {tag: str() for tag in self.tags}])
 
         # calculate node during forward process
-        def __calculate_node__():
-            target_word = words[index - 1]
+        def __calculate_node__(_index):
+            target_word = words[_index - 1]
 
             # process of END FLAG
             if target_word == END_FLAG:
-                current_network = self.__get_weight_node(target_word, node[index - 2][0])
+                current_network = self.__get_weight_node(target_word, node[_index - 2][0])
                 node.append(self.tags[int(np.argmin(current_network))])
             else:
-                target_node = node[index - 1]
+                target_node = node[_index - 1]
                 for tag in target_node[0]:
                     emission_prob = self.__get_emission_prob(tag, target_word)
 
                     # if the word is occur first
                     # process of start word (word_1)
-                    if index == INDEX_OF_FIRST_WORD:
+                    if _index == INDEX_OF_FIRST_WORD:
                         transition_prob = self.transition_map[tag][START_FLAG]
                         target_node[0][tag] = emission_prob + transition_prob
 
                     # process of words (word_2, ... , word_N)
                     else:
-                        current_network = self.__get_weight_node(tag, node[index - 2][0], emission_prob)
+                        current_network = self.__get_weight_node(tag, node[_index - 2][0], emission_prob)
                         target_node[0][tag] = np.min(current_network)
                         target_node[1][tag] = self.tags[int(np.argmin(current_network))]
+
+        def __forward__():
+            # for word_1, word_2, ... , word_N, END_FLAG
+            for index in range(1, len(observation)):
+                word = observation[index]
+
+                # process of word
+                if type(word) is tuple:
+                    __append_node__(word)
+                    __calculate_node__(index)
+
+                # process of END FLAG
+                elif type(word) is str and word == END_FLAG:
+                    __append_node__(word, is_flag=True)
+                    __calculate_node__(index)
 
         # predict tags by back tracking
         def __back_tracking__():
@@ -158,24 +173,14 @@ class Hmm:
                 words = list()
                 predict = list()
 
-                # for word_1, word_2, ... , word_N, END_FLAG
-                for index in range(1, len(observation)):
-                    word = observation[index]
-
-                    # process of word
-                    if type(word) is tuple:
-                        __append_node__(word)
-                        __calculate_node__()
-
-                    # process of END FLAG
-                    elif type(word) is str and word == END_FLAG:
-                        __append_node__(word, is_flag=True)
-                        __calculate_node__()
-
+                __forward__()
                 __back_tracking__()
+
                 self.__append_lists(sentence=words[:-1], predict=predict, answer=answer)
 
     def forward_backward(self, observations):
+        def __forward__():
+            pass
 
         self.__init_lists()
 
@@ -184,10 +189,10 @@ class Hmm:
             if not observation:
                 self.predict_list.append(False)
             else:
-                # node = list()
-                # answer = list()
-                # words = list()
-                # predict = list()
+                node = list()
+                answer = list()
+                words = list()
+                predict = list()
 
                 # for START_FLAG, word_1, word_2, ... , word_N, END_FLAG
                 for index in range(len(observation)):
