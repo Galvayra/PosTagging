@@ -107,8 +107,11 @@ class Hmm:
         return self.sentence_list, self.answer_list, self.predict_list
 
     # node == [{tag: prob, .... , tag: prob}, min_tag]
-    def __init_node(self):
-        return [{tag: float() for tag in self.tags}, {tag: str() for tag in self.tags}]
+    def __init_node(self, dynamic_program=True):
+        if dynamic_program:
+            return [{tag: float() for tag in self.tags}, {tag: str() for tag in self.tags}]
+        else:
+            return {tag: float() for tag in self.tags}
 
     # dynamic programming using viterbi
     def viterbi(self, observations):
@@ -193,12 +196,14 @@ class Hmm:
                 self.__append_lists(sentence=words[:-1], predict=predict, answer=answer)
 
     def forward_backward(self, observations):
+        # append node
         def __append_node__(key, word):
-            node[key].append(self.__init_node())
+            node[key].append(self.__init_node(dynamic_program=False))
             answer[key].append(word[1])
             words[key].append(word[0])
 
-        def __set_node2probability__(target_node):
+        # transpose weight to probability in the node
+        def __trans_probability__(target_node):
             weight_total = float()
 
             for weight in target_node.values():
@@ -214,38 +219,37 @@ class Hmm:
             # calculate initialize transition and emission probability to the first node
             if is_init:
 
-                for tag in target_node[0]:
+                for tag in target_node:
                     emission_prob = self.__get_emission_prob(tag, target_word)
 
                     if method == "forward":
                         transition_prob = self.transition_map[tag][START_FLAG]
-                        target_node[0][tag] = transition_prob + emission_prob
+                        target_node[tag] = transition_prob + emission_prob
                     elif method == "backward":
                         transition_prob = self.transition_reverse_map[tag][END_FLAG]
-                        target_node[0][tag] = transition_prob + emission_prob
+                        target_node[tag] = transition_prob + emission_prob
 
             # calculate transition and emission probability to the node
             else:
                 previous_node = node[method][-2]
 
-                for tag in target_node[0]:
+                for tag in target_node:
                     emission_prob = self.__get_emission_prob(tag, target_word)
 
                     # forward
                     if method == "forward":
                         transition_map = self.__get_transition_map(tag)
-                        current_node = self.__get_weight_node(previous_node[0], transition_map, emission_prob)
-                        target_node[0][tag] = np.min(current_node)
+                        current_node = self.__get_weight_node(previous_node, transition_map, emission_prob)
+                        target_node[tag] = np.min(current_node)
 
                     # backward
                     elif method == "backward":
                         transition_map = self.__get_transition_map(tag, is_reverse=True)
-                        current_node = self.__get_weight_node(previous_node[0], transition_map, emission_prob)
-                        target_node[0][tag] = np.min(current_node)
+                        current_node = self.__get_weight_node(previous_node, transition_map, emission_prob)
+                        target_node[tag] = np.min(current_node)
 
-            __set_node2probability__(target_node[0])
-
-        def __step__(keys):
+        # train node for getting tag using forward and backward
+        def __train__(keys):
             # for word_1, word_2, ... , word_N
             for word, word_reverse in zip(observation, list(reversed(observation))):
 
@@ -260,22 +264,24 @@ class Hmm:
                         else:
                             __calculate_node__(method)
 
+        # set predict
         def __predict__(keys):
-            for method in keys:
-
-                # forward
-                if method == "forward":
-                    for target_node in node[method]:
-                        predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
-
-                # backward
-                elif method == "backward":
-                    for target_node in list(reversed(node[method])):
-                        predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
+            pass
+            #
+            # for method in keys:
+            # 
+            #     # forward
+            #     if method == "forward":
+            #         for target_node in node[method]:
+            #             predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
+            #
+            #     # backward
+            #     elif method == "backward":
+            #         for target_node in list(reversed(node[method])):
+            #             predict[method].append(self.__get_arg_min_tag(self.__get_np_array(target_node[0])))
 
         self.__init_lists()
 
-        # forward
         for observation in observations:
             if not observation:
                 self.predict_list.append(False)
@@ -284,8 +290,8 @@ class Hmm:
                 answer = {"forward": list(), "backward": list()}
                 words = {"forward": list(), "backward": list()}
                 predict = {"forward": list(), "backward": list()}
-                __step__(["forward", "backward"])
 
+                __train__(["forward", "backward"])
                 __predict__(["forward", "backward"])
 
                 for m, y in predict.items():
