@@ -79,11 +79,11 @@ class PosTagger(DictConstructor):
             else:
                 if action == "print":
                     observations = [self.__get_observation(self.command[1:])]
-                    hmm.viterbi(observations)
+                    self.__result(hmm.viterbi(observations))
 
                 elif action == "test":
                     observations = self.__get_observations_from_set()
-                    hmm.viterbi(observations)
+                    self.__print_accuracy(self.__result(hmm.viterbi(observations)))
 
                 elif action == "show":
                     self.__print()
@@ -92,12 +92,12 @@ class PosTagger(DictConstructor):
     def __get_observation(self, observation):
         if observation:
             observation = [self.get_key_value(word) for word in observation]
+            observation = [word for word in observation if type(word) is tuple]
 
             # if the observation is inputted by user
             # <s> sentence </s>
-            if type(observation[0]) is tuple:
-                observation.insert(0, START_FLAG)
-                observation.append(END_FLAG)
+            observation.insert(0, START_FLAG)
+            observation.append(END_FLAG)
 
             return observation
         else:
@@ -120,3 +120,58 @@ class PosTagger(DictConstructor):
             return [self.__get_observation(line.split()) for line in corpus]
         else:
             return list()
+
+    def __result(self, *result):
+        # counting for get accuracy
+        def __counting__():
+            nonlocal match, total
+
+            for _answer, _predict in zip(answer, predict):
+                if _answer == _predict:
+                    match += 1
+                total += 1
+
+        length = int()
+        total = int()
+        match = int()
+
+        for s, a, p in result:
+            for sentence, answer, predict in zip(s, a, p):
+                length += 1
+
+                __counting__()
+                self.__print_sentence(sentence, answer, predict)
+
+        return length, total, match
+
+    # show accuracy in the test set
+    @staticmethod
+    def __print_accuracy(count):
+        length = count[0]
+        total = count[1]
+        match = count[2]
+
+        print("# of sentences -", length)
+        print("# of words     -", total)
+        if total:
+            print("Accuracy       - %.2f" % ((float(match)/total)*100))
+        else:
+            print("Accuracy       - 0.00")
+        print("\n==============================\n")
+
+    # show the predicted sentence and original sentence
+    @staticmethod
+    def __print_sentence(sentence, answer, predict):
+        sentence_answer = list()
+        sentence_predict = list()
+
+        for word, tag_answer, tag_predict in zip(sentence, answer, predict):
+            if tag_answer:
+                sentence_answer.append(word + "/" + tag_answer)
+            else:
+                sentence_answer.append(word)
+
+            sentence_predict.append(word + "/" + tag_predict)
+
+        print(" ".join(sentence_answer))
+        print(" ".join(sentence_predict), "\n")

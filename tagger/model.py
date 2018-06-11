@@ -93,11 +93,18 @@ class Hmm:
                 predict.insert(0, target_node[1][tag])
 
             predict.pop(0)
+            sentence_list.append(words[:-1])
+            predict_list.append(predict)
+            answer_list.append(answer)
+
+        predict_list = list()
+        answer_list = list()
+        sentence_list = list()
 
         # forward
         for observation in observations:
             if not observation:
-                print("\nThere is no observation!\n")
+                predict_list.append(False)
             else:
                 node = list()
                 answer = list()
@@ -119,10 +126,8 @@ class Hmm:
                         __calculate_node__()
 
                 __back_tracking__()
-                print()
-                print(predict)
-                print(answer)
-                print()
+
+        return sentence_list, answer_list, predict_list
 
     def forward(self):
         pass
