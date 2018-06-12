@@ -8,21 +8,18 @@ def get_arguments():
                                                   "(default is 'train')\n")
     parser.add_argument("-test", "--test", help="load test corpus\n"
                                                 "(default is 'test')\n")
-    parser.add_argument("-set", "--set", help="set test option\n"
-                                              "(default is 0)\n")
-    parser.add_argument("-dict", "--dict", help="set dictionary file name\n"
-                                                "(default is 'dict')\n")
+    parser.add_argument("-set", "--set", help="set option whether make test set or not\n"
+                                              "(default is 0 (False))\n")
+    parser.add_argument("-cut", "--cut", help="set ratio to make test set by cutting train set\n"
+                                              "(default is 10)\n")
+    parser.add_argument("-dir", "--dir", help="set directory name of saving dictionary\n"
+                                              "(default is '$train')\n")
     _args = parser.parse_args()
 
     return _args
 
 
 args = get_arguments()
-
-if not args.dict:
-    FILE_DICT = "dict"
-else:
-    FILE_DICT = args.dict
 
 if not args.train:
     FILE_TRAIN = "train"
@@ -51,9 +48,29 @@ else:
             print("\nPlease input a set option corrected! (1 or 0)\n")
             exit(-1)
 
+if not args.cut:
+    CUT_RATIO = 10
+else:
+    try:
+        CUT_RATIO = int(args.cut)
+    except ValueError:
+        print("\nValueError!\nPlease input a cut option corrected! (2~100) \n")
+        exit(-1)
+    else:
+        if CUT_RATIO < 2 or CUT_RATIO > 100:
+            print("\nValueBoundaryError!\nPlease input a cut option (2~100) \n")
+            exit(-1)
+
+if not args.dir:
+    DIR_DICT = FILE_TRAIN + "/"
+else:
+    DIR_DICT = args.dir
+
+    if DIR_DICT[-1] != "/":
+        DIR_DICT += "/"
+
 PATH_CORPUS = "corpus/"
 PATH_RESULT = "Result/"
-CORPUS_TEST = "test"
 PATH_DICT = "data/dict/"
 PATH_DATA = "data/data/"
 

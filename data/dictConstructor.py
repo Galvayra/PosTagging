@@ -1,4 +1,4 @@
-from PosTagging.data.dataReader import DataReader
+from PosTagging.data.fileReader import FileReader
 from PosTagging.variables import END_FLAG, START_FLAG, FILE_TRAIN, UNKNOWN_KEY
 from collections import OrderedDict
 import copy
@@ -8,7 +8,7 @@ import math
 NUM_OF_SMOOTH = 0.01
 
 
-class DictConstructor(DataReader):
+class DictConstructor(FileReader):
     def __init__(self):
         super().__init__()
         self.__transition_map = OrderedDict()

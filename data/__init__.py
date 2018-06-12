@@ -1,3 +1,3 @@
 from . import *
 
-__all__ = ['corpusReader', 'dictConstructor', 'dataReader']
+__all__ = ['corpusReader', 'dictConstructor', 'fileReader.py']

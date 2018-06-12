@@ -7,10 +7,13 @@ class PosTagger(DictConstructor):
     def __init__(self):
         super().__init__()
 
-        # load data
-        self.tags = self.load(self.name["tags"])
-        self.emission_map = self.load(self.name["emission"])
-        self.transition_map = self.load(self.name["transition"])
+        if self.can_load():
+            # load data
+            self.tags = self.load(self.name["tags"])
+            self.emission_map = self.load(self.name["emission"])
+            self.transition_map = self.load(self.name["transition"])
+        else:
+            self.load_exception()
 
         # action for system
         self.__action = {
@@ -80,7 +83,7 @@ class PosTagger(DictConstructor):
             else:
                 if action == "print":
                     observations = [self.__get_observation(self.command[1:])]
-                    self.__result(hmm.viterbi(observations))
+                    hmm.viterbi(observations)
                     # hmm.forward_backward(observations)
                     self.__result(hmm.get_result())
 

@@ -1,9 +1,9 @@
-from PosTagging.variables import PATH_DICT, PATH_DATA, PATH_RESULT
+from PosTagging.variables import PATH_DICT, PATH_DATA, PATH_RESULT, DIR_DICT
 import os
 import json
 
 
-class DataReader:
+class FileReader:
     def __init__(self):
         self.__write_file = False
 
@@ -32,9 +32,10 @@ class DataReader:
 
     def dump(self, data, dump_name):
         self.__make_dir(PATH_DICT)
+        self.__make_dir(PATH_DICT + DIR_DICT)
 
         try:
-            with open(PATH_DICT + dump_name + '.json', 'w') as w_file:
+            with open(PATH_DICT + DIR_DICT + dump_name + '.json', 'w') as w_file:
                 json.dump(data, w_file, indent=4)
                 print("\nSuccess Save File !!")
                 print("File name is", "'" + dump_name + "'", "in the", "'" + PATH_DICT[:-1] + "'", "directory", "\n")
@@ -44,7 +45,7 @@ class DataReader:
     @staticmethod
     def load(file_name):
         try:
-            with open(PATH_DICT + file_name + '.json') as r_file:
+            with open(PATH_DICT + DIR_DICT + file_name + '.json') as r_file:
                 return json.load(r_file)
         except FileNotFoundError:
             print("\nCan not load data -", "'" + file_name + "'", "\n")
@@ -62,6 +63,16 @@ class DataReader:
     def write_sentence(self, sentence):
         if self.write_file:
             self.write_file.write(sentence)
+
+    @staticmethod
+    def can_load():
+        return os.path.isdir(PATH_DICT + DIR_DICT)
+
+    @staticmethod
+    def load_exception():
+        print("\nThere is no dir having dictionary !")
+        print("dir path -", PATH_DICT + DIR_DICT, "\n")
+        exit(-1)
 
     @staticmethod
     def __make_dir(_path):

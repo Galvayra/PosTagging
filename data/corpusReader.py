@@ -1,4 +1,4 @@
-from PosTagging.variables import PATH_CORPUS, CORPUS_TEST, IS_TEST
+from PosTagging.variables import PATH_CORPUS, IS_TEST, CUT_RATIO
 import re
 import os
 
@@ -6,6 +6,7 @@ import os
 class CorpusReader:
     def __init__(self):
         self.__sentence = str()
+        self.count = int()
 
     @property
     def sentence(self):
@@ -25,12 +26,7 @@ class CorpusReader:
         for path, _, files in os.walk(target_path):
             if files:
                 for file in files:
-                    # making test corpus
-                    if IS_TEST and path == PATH_CORPUS + CORPUS_TEST:
-                        yield path + '/' + file
-                    # making train corpus
-                    elif not IS_TEST and not path == PATH_CORPUS + CORPUS_TEST:
-                        yield path + '/' + file
+                    yield path + '/' + file
 
     @staticmethod
     def __read_corpus(path):
@@ -71,8 +67,13 @@ class CorpusReader:
         self.sentence = ' '.join(p.findall(self.sentence))
 
         if len(self.sentence.split()) > 1:
+            self.count += 1
+
             # <s> sentence </s>
             # self.sentence = START_FLAG + " " + self.sentence + " " + END_FLAG
-            print(self.sentence)
+            if not self.count % CUT_RATIO and IS_TEST:
+                print(self.sentence)
+            elif self.count % CUT_RATIO and not IS_TEST:
+                print(self.sentence)
 
         self.sentence = str()
