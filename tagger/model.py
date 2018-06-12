@@ -1,19 +1,21 @@
 from PosTagging.variables import START_FLAG, END_FLAG, UNKNOWN_KEY
 import numpy as np
-import math
 
 INDEX_OF_FIRST_WORD = 1
+ALPHA = 0.5
+BETA = 1 - ALPHA
 
 
 class Hmm:
-    def __init__(self, tags, transition_map, emission_map):
+    def __init__(self, tags, transition_map, transition_reverse_map, emission_map):
         self.__tags = [tag for tag in tags]
         self.__transition_map = transition_map
-        self.__transition_reverse_map = None
+        self.__transition_reverse_map = transition_reverse_map
         self.__emission_map = emission_map
         self.__sentence_list = list()
         self.__predict_list = list()
         self.__answer_list = list()
+        self.method = 1
 
     @property
     def tags(self):
@@ -26,10 +28,6 @@ class Hmm:
     @property
     def transition_reverse_map(self):
         return self.__transition_reverse_map
-
-    @transition_reverse_map.setter
-    def transition_reverse_map(self, transition_reverse_map):
-        self.__transition_reverse_map = transition_reverse_map
 
     @property
     def emission_map(self):
@@ -114,8 +112,14 @@ class Hmm:
         else:
             return {tag: float() for tag in self.tags}
 
+    def tagging(self, observations):
+        if self.method == 1:
+            self.__viterbi(observations)
+        elif self.method == 0:
+            self.__forward_backward(observations)
+
     # dynamic programming using viterbi
-    def viterbi(self, observations):
+    def __viterbi(self, observations):
 
         # node == [{tag: prob, .... , tag: prob}, min_tag]
         def __append_node__(_word, is_flag=False):
@@ -198,7 +202,7 @@ class Hmm:
 
                 self.__append_lists(sentence=words[:-1], predict=predict, answer=answer)
 
-    def forward_backward(self, observations):
+    def __forward_backward(self, observations):
         # append node
         def __append_node__(key, word):
             node[key].append(self.__init_node(dynamic_program=False))
@@ -240,13 +244,11 @@ class Hmm:
                     if method == "forward":
                         transition_map = self.__get_transition_map(tag)
                         current_node = self.__get_weight_node(previous_node, transition_map, emission_prob)
-                        # target_node[tag] = math.log(np.sum(current_node))
                         target_node[tag] = np.sum(current_node)
                     # backward
                     elif method == "backward":
                         transition_map = self.__get_transition_map(tag, is_reverse=True)
                         current_node = self.__get_weight_node(previous_node, transition_map, emission_prob)
-                        # target_node[tag] = math.log(np.sum(current_node))
                         target_node[tag] = np.sum(current_node)
 
             __trans_probability__(target_node)
@@ -272,10 +274,15 @@ class Hmm:
             for node_fwd, node_bkw in zip(node[keys[0]], list(reversed(node[keys[1]]))):
                 fwd_node = self.__get_np_array(node_fwd)
                 bkw_node = self.__get_np_array(node_bkw)
-                current_node = fwd_node + bkw_node
+                current_node = __fwd_bkw_expression__(fwd_node, bkw_node)
+
                 predict[keys[0]].append(self.__get_arg_min_tag(fwd_node))
                 predict[keys[1]].append(self.__get_arg_min_tag(bkw_node))
                 predict[keys[2]].append(self.__get_arg_min_tag(current_node))
+
+        # expression of forward and backward
+        def __fwd_bkw_expression__(node_fwd, node_bkw):
+            return node_fwd*ALPHA + node_bkw*BETA
 
         self.__init_lists()
 

@@ -12,11 +12,13 @@ class PosTagger(DictConstructor):
             self.tags = self.load(self.name["tags"])
             self.emission_map = self.load(self.name["emission"])
             self.transition_map = self.load(self.name["transition"])
+            self.transition_reverse_map = self.load(self.name["reverse"])
         else:
             self.load_exception()
 
         # action for system
         self.__action = {
+            'set': False,
             'print': False,
             'test': False,
             'show': False,
@@ -41,13 +43,16 @@ class PosTagger(DictConstructor):
     @staticmethod
     def __print():
         print("\n========== POS Tagging ==========\n")
-        print("1. Input sentence what you want")
+        print("1. Set algorithm for tagging (Default is 1)")
+        print("   UseAge: set 1 (vitrebi)")
+        print("   UseAge: set 0 (forward-backward)\n")
+        print("2. Input sentence what you want")
         print("   UseAge: print I am a boy\n")
-        print("2. Test performance in the system")
+        print("3. Test performance in the system")
         print("   UseAge: test [file]\n")
-        print("3. Show manual")
+        print("4. Show manual")
         print("   UseAge: show\n")
-        print("4. Exit Program")
+        print("5. Exit Program")
         print("   UseAge: exit\n")
         print("=================================\n")
 
@@ -72,31 +77,53 @@ class PosTagger(DictConstructor):
     # run the system
     def run(self):
         self.__print()
-        hmm = Hmm(self.tags, self.transition_map, self.emission_map)
-        hmm.transition_reverse_map = self.load(self.name["reverse"])
+        hmm = Hmm(self.tags, self.transition_map, self.transition_reverse_map, self.emission_map)
 
         while not self.action["exit"]:
             action = self.__input_command()
 
             if not action:
-                print("Error] Please make sure command\n")
+                print("\n[Error] Please make sure command\n")
             else:
-                if action == "print":
+                if action == "set":
+                    self.__set_method(hmm)
+
+                elif action == "print":
                     observations = [self.__get_observation(self.command[1:])]
-                    hmm.viterbi(observations)
+                    # hmm.viterbi(observations)
                     # hmm.forward_backward(observations)
+                    hmm.tagging(observations)
                     self.__result(hmm.get_result())
 
                 elif action == "test":
                     observations = self.__get_observations_from_set()
                     self.init_write_result(self.file_name + "_Result")
 
-                    hmm.viterbi(observations)
+                    # hmm.viterbi(observations)
                     # hmm.forward_backward(observations)
+                    hmm.tagging(observations)
                     self.__print_accuracy(self.__result(hmm.get_result()))
 
                 elif action == "show":
                     self.__print()
+
+    def __set_method(self, hmm):
+        if len(self.command) == 2:
+            try:
+                command = int(self.command[1])
+            except ValueError:
+                print("\n[Error] Please make sure 1 (viterb) or 0 (forward-backward)\n")
+            else:
+                if command == 1:
+                    hmm.method = 1
+                    print("\nSuccess set viterbi\n")
+                elif command == 0:
+                    hmm.method = 0
+                    print("\nSuccess set forward-backward\n")
+                else:
+                    print("\n[Error] Please make sure 1 (viterb) or 0 (forward-backward)\n")
+        else:
+            print("\n[Error] Please make sure 1 (viterb) or 0 (forward-backward)\n")
 
     # get observations
     def __get_observation(self, observation):
@@ -121,7 +148,7 @@ class PosTagger(DictConstructor):
         elif len(self.command) < 2:
             self.file_name = FILE_TEST
         else:
-            print("Error] Please make sure 'test' command\n")
+            print("\n[Error] Please make sure 'test' command\n")
             return
 
         corpus = self.read_corpus(self.file_name)

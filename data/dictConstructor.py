@@ -1,4 +1,4 @@
-from PosTagging.data.fileReader import FileReader
+from PosTagging.data.fileHandler import FileHandler
 from PosTagging.variables import END_FLAG, START_FLAG, FILE_TRAIN, UNKNOWN_KEY
 from collections import OrderedDict
 import copy
@@ -8,7 +8,7 @@ import math
 NUM_OF_SMOOTH = 0.01
 
 
-class DictConstructor(FileReader):
+class DictConstructor(FileHandler):
     def __init__(self):
         super().__init__()
         self.__transition_map = OrderedDict()
@@ -151,12 +151,7 @@ class DictConstructor(FileReader):
     def __calculate_map(self, name=""):
         # get total number of frequency
         def __get_total__():
-            _total = int()
-
-            for _k in _map:
-                _total += _map[_k]
-
-            return _total
+            return sum(_map[_k] for _k in _map)
 
         # get probability using smoothing
         def __get_probability__():

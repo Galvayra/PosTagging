@@ -3,9 +3,9 @@ import os
 import json
 
 
-class FileReader:
+class FileHandler:
     def __init__(self):
-        self.__write_file = False
+        self.__write_file = None
 
     @property
     def write_file(self):
@@ -53,9 +53,10 @@ class FileReader:
 
     def init_write_result(self, file_name):
         self.__make_dir(PATH_RESULT)
+        self.__make_dir(PATH_RESULT + DIR_DICT)
 
         try:
-            self.write_file = open(PATH_RESULT + file_name, 'w')
+            self.write_file = open(PATH_RESULT + DIR_DICT + file_name, 'w')
         except FileNotFoundError:
             print("\nCan not write result -", "'" + file_name + "'", "\n")
             self.write_file = False
