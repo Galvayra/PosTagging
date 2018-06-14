@@ -90,18 +90,15 @@ class PosTagger(DictConstructor):
 
                 elif action == "print":
                     observations = [self.__get_observation(self.command[1:])]
-                    # hmm.viterbi(observations)
-                    # hmm.forward_backward(observations)
                     hmm.tagging(observations)
+
                     self.__result(hmm.get_result())
 
                 elif action == "test":
                     observations = self.__get_observations_from_set()
                     self.init_write_result(self.file_name + "_Result")
-
-                    # hmm.viterbi(observations)
-                    # hmm.forward_backward(observations)
                     hmm.tagging(observations)
+
                     self.__print_accuracy(self.__result(hmm.get_result()))
 
                 elif action == "show":
