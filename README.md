@@ -25,7 +25,10 @@ First) build dictionary
 
 Second) run
 
-	main.py is running of POS Tagging
-	must use -dir option to know directory where dictionary is in data/dict/"dir"
-	UseAge: python main.py -dir train (data/dict/train)
+	must use --dir option to know directory where dictionary is in data/dict/"dir"
+
+	Options:
+		dir   - set name of directory which has dictionary for tagging
+
+	UseAge: ./run.sh --dir "dir_name"
 
