@@ -1,0 +1,52 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ THE/DT COLLATERAL/NN ]
+for/IN 
+[ a/DT $/$ 185/CD million/CD Freddie/NNP Mac/NNP REMIC/NNP underwritten/VBN Wednesday/NNP ]
+by/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+was/VBD originated/VBN by/IN 
+[ a/DT variety/NN ]
+of/IN lending/NN 
+[ institutions/NNS ]
+./. 
+
+In/IN 
+[ yesterday/NN 's/POS listing/NN ]
+of/IN 
+[ new/JJ securities/NNS issues/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD incorrectly/RB reported/VBN that/IN 
+[ the/DT collateral/NN ]
+was/VBD from/IN 
+[ Citicorp/NNP ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ New/NNP Securities/NNPS Issues/NNPS ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 5/CD ]
+,/, 
+[ 1989/CD ]

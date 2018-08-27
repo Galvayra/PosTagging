@@ -1,0 +1,326 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Imagine/VB that/IN 
+[ you/PRP ]
+and/CC 
+[ every/DT American/NNP ]
+had/VBD 
+[ an/DT identification/NN number/NN ]
+assigned/VBN to/TO 
+[ you/PRP ]
+by/IN 
+[ a/DT private/JJ company/NN ]
+./. 
+
+[ An/DT Orwellian/JJ fantasy/NN ]
+?/. 
+
+Perhaps/RB ,/, but/CC 
+[ such/PDT a/DT system/NN ]
+already/RB exists/VBZ for/IN 
+[ American/JJ businesses/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1962/CD ]
+,/, 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+began/VBD assigning/VBG 
+[ a/DT different/JJ nine-digit/JJ number/NN ]
+to/TO 
+[ each/DT company/NN ]
+in/IN 
+[ its/PRP$ credit-services/NNS data/NNS base/NN ]
+./. 
+
+[ Subsidiaries/NNS ]
+and/CC 
+[ branch/NN offices/NNS ]
+of/IN 
+[ large/JJ companies/NNS ]
+have/VBP 
+[ separate/JJ numbers/NNS ]
+and/CC 
+[ their/PRP$ parents/NNS '/POS numbers/NNS ]
+./. 
+
+[ D*/NNP&B/NN ]
+also/RB will/MD supply/VB 
+[ numbers/NNS ]
+for/IN 
+[ companies/NNS '/POS internal/JJ customer/NN files/NNS ]
+./. 
+
+======================================
+
+[ The/DT ]
+``/`` 
+[ Dun/NNP 's/POS number/NN ]
+,/, ''/'' as/IN 
+[ it/PRP ]
+is/VBZ commonly/RB known/VBN ,/, has/VBZ evolved/VBN into/IN 
+[ a/DT ]
+nationally/RB recognized/VBN 
+[ corporate/JJ I.D./NN ]
+,/, 
+[ something/NN ]
+almost/RB like/IN 
+[ a/DT Social/NNP Security/NNP number/NN ]
+for/IN 
+[ businesses/NNS ]
+./. 
+
+``/`` 
+[ Every/DT industry/NN ]
+has/VBZ 
+[ uses/NNS ]
+for/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ James/NNP Bernstein/NNP ]
+,/, 
+[ a/DT business-development/NN supervisor/NN ]
+for/IN 
+[ Quill/NNP ]
+,/, 
+[ a/DT Chicago-based/JJ direct/JJ marketer/NN ]
+of/IN 
+[ office/NN products/NNS ]
+./. 
+
+With/IN 
+[ D&B/NNP 's/POS encouragement/NN ]
+,/, 
+[ many/JJ companies/NNS ]
+use/VBP 
+[ their/PRP$ Dun/NNP 's/POS number/NN ]
+on/IN 
+[ purchase/NN orders/NNS ]
+and/CC 
+[ invoices/NNS ]
+./. 
+
+Even/RB 
+[ the/DT U.S./NNP government/NN ]
+has/VBZ encouraged/VBN 
+[ its/PRP$ use/NN ]
+by/IN requiring/VBG 
+[ contractors/NNS ]
+to/TO include/VB 
+[ their/PRP$ Dun/NNP 's/POS number/NN ]
+on/IN 
+[ contracts/NNS ]
+or/CC with/IN 
+[ their/PRP$ bids/NNS ]
+./. 
+
+======================================
+
+[ The/DT Dun/NNP 's/POS number/NN ]
+gives/VBZ 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+
+[ a/DT big/JJ competitive/JJ advantage/NN ]
+in/IN 
+[ the/DT sale/NN ]
+of/IN ``/`` 
+[ business-to-business/JJ ]
+''/'' 
+[ marketing/NN information/NN ]
+such/JJ as/IN 
+[ mailing/NN lists/NNS ]
+./. 
+
+[ Companies/NNS ]
+can/MD easily/RB process/VB 
+[ D&B/NNP data/NNS ]
+and/CC merge/VB 
+[ it/PRP ]
+with/IN 
+[ their/PRP$ files/NNS thanks/NNS ]
+to/TO 
+[ the/DT Dun/NNP 's/POS number/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+is/VBZ very/RB expensive/JJ from/IN 
+[ a/DT processing/NN point/NN ]
+''/'' to/TO incorporate/VB 
+[ data/NNS ]
+from/IN 
+[ another/DT vendor/NN ]
+,/, says/VBZ 
+[ James/NNP Boylan/NNP ]
+,/, 
+[ marketing-data/NNS chief/NN ]
+for/IN 
+[ Bellcore/NNP ]
+,/, 
+[ the/DT research/NN ]
+and/CC 
+[ development/NN concern/NN ]
+owned/VBN by/IN 
+[ the/DT seven/CD ]
+``/`` 
+[ Baby/NNP Bell/NNP ]
+''/'' 
+[ phone/NN companies/NNS ]
+./. 
+
+[ The/DT Dun/NNP 's/POS number/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, encourages/VBZ 
+[ customers/NNS ]
+to/TO stick/VB with/IN 
+[ D&B/NNP ]
+because/IN 
+[ its/PRP$ system/NN ]
+is/VBZ incompatible/JJ with/IN 
+[ other/JJ data/NNS vendors/NNS '/POS offerings/NNS ]
+./. 
+
+======================================
+
+Not/RB surprisingly/RB ,/, 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+jealously/RB guards/VBZ 
+[ its/PRP$ valuable/JJ franchise/NN ]
+from/IN 
+[ rivals/NNS ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ the/DT Direct/NNP Marketing/NNP Association/NNP ]
+approached/VBD 
+[ D&B/NNP ]
+about/IN making/VBG 
+[ the/DT Dun/NNP 's/POS number/NN ]
+
+[ an/DT industry/NN standard/NN ]
+,/, hoping/VBG to/TO let/VB 
+[ D&B/NNP competitors/NNS ]
+incorporate/VB 
+[ the/DT numbering/NN system/NN ]
+in/IN 
+[ their/PRP$ own/JJ data/NNS bases/NNS ]
+./. 
+
+[ The/DT trade/NN group/NN ]
+argued/VBD that/IN 
+[ such/PDT a/DT move/NN ]
+would/MD be/VB highly/RB beneficial/JJ to/TO 
+[ the/DT direct-mail/NN industry/NN ]
+./. 
+
+If/IN 
+[ every/DT data/NNS vendor/NN ]
+could/MD assign/VB 
+[ Dun/NNP 's/POS numbers/NNS ]
+to/TO 
+[ its/PRP$ files/NNS ]
+,/, 
+[ direct/JJ marketers/NNS ]
+could/MD easily/RB weed/VB out/RP 
+[ duplicate/JJ names/NNS ]
+from/IN mailing/VBG 
+[ lists/NNS ]
+bought/VBN from/IN 
+[ different/JJ vendors/NNS ]
+,/, avoiding/VBG 
+[ the/DT expense/NN ]
+of/IN 
+[ duplicate/JJ mailings/NNS ]
+./. 
+
+While/IN 
+[ systems/NNS ]
+exist/VBP for/IN purging/VBG 
+[ duplicate/JJ names/NNS ]
+,/, 
+[ they/PRP ]
+are/VBP less/RBR efficient/JJ ./. 
+
+======================================
+
+But/CC 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+said/VBD no/UH ,/, according/VBG to/TO 
+[ an/DT official/NN ]
+of/IN 
+[ the/DT trade/NN group/NN ]
+,/, 
+[ Ann/NNP Zeller/NNP ]
+./. 
+
+[ A/DT D&B/NNP spokesman/NN ]
+says/VBZ 
+[ he/PRP ]
+does/VBZ n't/RB have/VB 
+[ any/DT knowledge/NN ]
+of/IN 
+[ the/DT trade/NN group/NN 's/POS request/NN ]
+./. 
+
+======================================
+
+ (/( See/VB related/JJ 
+[ story/NN ]
+:/: ``/`` 
+[ Credibility/NNP Gap/NNP ]
+:/: 
+[ Dun/NNP 's/POS Credit/NN Reports/NNS ]
+,/, 
+[ Vital/JJ Tool/NN ]
+of/IN 
+[ Business/NN ]
+,/, Can/MD Be/VB Off/IN 
+[ the/DT Mark/NNP ]
+--/: 
+[ Company/NN Ratings/NNS ]
+,/, Too/RB 
+[ High/JJ ]
+or/CC Too/RB 
+[ Low/JJ ]
+,/, 
+[ Often/RB Anger/VBP ]
+and/CC 
+[ Frustrate/VBP Customers/NNS ]
+--/: 
+[ Estimates/NNS ]
+and/CC 
+[ 'Guesstimates/NNS ]
+'/'' ''/'' --/: 
+[ WSJ/NNP Oct./NNP 5/CD ]
+,/, 
+[ 1989/CD ]

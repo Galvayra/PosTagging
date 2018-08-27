@@ -1,0 +1,659 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+personalized/VBN 
+[ advertising/NN ]
+in/IN 
+[ its/PRP$ weekly/JJ magazines/NNS ]
+--/: is/VBZ expected/VBN to/TO pull/VB in/RP 
+[ an/DT extra/JJ $/$ 20/CD million/CD ]
+to/TO 
+[ $/$ 25/CD million/CD ]
+in/IN 
+[ ad/NN revenue/NN ]
+in/IN 
+[ its/PRP$ first/JJ year/NN ]
+alone/RB ,/, says/VBZ 
+[ Donald/NNP M./NNP Elliman/NNP Jr./NNP ]
+,/, 
+[ the/DT magazine/NN group/NN 's/POS executive/JJ vice/NN president/NN ]
+of/IN marketing/NN ./. 
+
+======================================
+
+[ The/DT figure/NN ]
+is/VBZ surprisingly/RB large/JJ for/IN 
+[ a/DT start-up/JJ program/NN ]
+,/, and/CC shows/VBZ just/RB how/WRB 
+[ important/JJ the/DT new/JJ plan/NN ]
+will/MD be/VB in/IN 
+[ generating/VBG ad/NN revenue/NN ]
+for/IN 
+[ the/DT magazine/NN group/NN ]
+in/IN 
+[ the/DT 1990s/NNS ]
+./. 
+
+Indeed/RB ,/, 
+[ Time/NNP magazine/NN group/NN officials/NNS ]
+are/VBP already/RB planning/VBG to/TO expand/VB 
+[ the/DT program/NN ]
+,/, 
+[ which/WDT ]
+premieres/VBZ in/IN 
+[ January/NNP ]
+,/, to/TO include/VB 
+[ more/JJR magazines/NNS ]
+and/CC 
+[ types/NNS ]
+of/IN 
+[ ads/NNS ]
+./. 
+
+[ The/DT plan/NN ]
+,/, known/VBN as/IN 
+[ Target/NNP Select/NNP ]
+,/, initially/RB includes/VBZ 
+[ Time/NNP ]
+,/, 
+[ People/NNP ]
+and/CC 
+[ Sports/NNP Illustrated/NNP ]
+,/, as/RB well/RB as/IN 
+[ Money/NNP ]
+and/CC 
+[ Entertainment/NNP Weekly/NNP ]
+on/IN 
+[ a/DT more/RBR limited/JJ basis/NN ]
+./. 
+
+======================================
+
+[ Target/NNP Select/NNP ]
+uses/VBZ 
+[ a/DT computerized/VBN process/NN ]
+known/VBN as/IN 
+[ selective/JJ binding/NN ]
+to/TO place/VB 
+[ different/JJ ads/NNS ]
+in/IN 
+[ different/JJ subscribers/NNS '/POS magazine/NN copies/NNS ]
+./. 
+
+[ The/DT process/NN ]
+can/MD also/RB personalize/VB 
+[ ads/NNS ]
+,/, greeting/VBG 
+[ subscribers/NNS ]
+by/IN 
+[ name/NN ]
+or/CC listing/VBG 
+[ a/DT local/JJ store/NN address/NN ]
+./. 
+
+In/IN 
+[ effect/NN ]
+,/, 
+[ it/PRP ]
+allows/VBZ 
+[ Time/NNP 's/POS national/JJ magazines/NNS ]
+to/TO compete/VB 
+[ head-to-head/JJ ]
+with/IN 
+[ local/JJ newspapers/NNS ]
+and/CC with/IN 
+[ direct/JJ mail/NN ]
+./. 
+
+``/`` 
+[ Subscribers/NNS ]
+can/MD receive/VB 
+[ Time/NNP publications/NNS whose/WP$ ads/NNS ]
+have/VBP 
+[ information/NN ]
+geared/VBN specifically/RB towards/IN 
+[ them/PRP ]
+,/, ''/'' says/VBZ 
+[ Bruce/NNP Judson/NNP ]
+,/, 
+[ the/DT magazine/NN group/NN 's/POS director/NN ]
+of/IN 
+[ marketing/NN ]
+,/, 
+[ who/WP ]
+spearheaded/VBD 
+[ the/DT program/NN ]
+under/IN 
+[ Mr./NNP Elliman/NNP ]
+./. 
+
+``/`` 
+[ The/DT possibilities/NNS ]
+are/VBP tremendous/JJ ./. 
+
+''/'' 
+======================================
+
+[ Target/NNP Select/NNP ]
+wo/MD n't/RB be/VB announced/VBN officially/RB until/IN 
+[ Friday/NNP ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ already/RB jolting/VBG 
+[ other/JJ publishers/NNS ]
+into/IN 
+[ action/NN ]
+,/, and/CC could/MD well/RB transform/VB 
+[ the/DT magazine/NN ad/NN business/NN ]
+./. 
+
+While/IN 
+[ selective/JJ binding/NN ]
+has/VBZ been/VBN around/RP for/IN about/RB 
+[ 15/CD years/NNS ]
+,/, 
+[ it/PRP ]
+had/VBD been/VBN used/VBN only/RB by/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ smaller/JJR magazines/NNS ]
+like/IN 
+[ Farm/NNP Journal/NNP ]
+./. 
+
+But/CC 
+[ Time/NNP 's/POS titles/NNS ]
+account/VBP for/IN about/RB 
+[ 20/CD %/NN ]
+of/IN 
+[ all/DT U.S./NNP magazine/NN ad/NN revenue/NN ]
+,/, and/CC 
+[ any/DT splash/NN Time/NNP ]
+makes/VBZ tends/VBZ to/TO turn/VB into/IN 
+[ a/DT tidal/JJ wave/NN ]
+./. 
+
+======================================
+
+[ Hearst/NNP ]
+and/CC 
+[ Diamandis/NNP Communications/NNP ]
+are/VBP among/IN 
+[ the/DT magazine/NN publishers/NNS ]
+now/RB exploring/VBG 
+[ selective/JJ binding/NN ]
+./. 
+
+[ Ziff-Davis/NNP 's/POS PC/NNP Magazine/NNP ]
+is/VBZ testing/VBG 
+[ the/DT process/NN ]
+./. 
+
+And/CC 
+[ industry/NN executives/NNS ]
+say/VBP 
+[ Washington/NNP Post/NNP Co./NNP 's/POS Newsweek/NNP ]
+is/VBZ scrambling/VBG to/TO be/VB able/JJ to/TO offer/VB 
+[ its/PRP$ own/JJ program/NN early/JJ next/JJ year/NN ]
+to/TO compete/VB with/IN 
+[ Time/NNP ]
+./. 
+
+[ No/DT other/JJ magazine/NN companies/NNS ]
+,/, though/RB ,/, have/VBP 
+[ the/DT reach/NN ]
+of/IN 
+[ Time/NNP ]
+;/: 
+[ its/PRP$ three/CD weeklies/NNS ]
+alone/RB have/VBP combined/VBN 
+[ circulation/NN ]
+of/IN almost/RB 
+[ 10.5/CD million/CD ]
+and/CC had/VBD 
+[ ad/NN revenue/NN ]
+of/IN 
+[ $/$ 942/CD million/CD ]
+in/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ Time/NNP ]
+is/VBZ making/VBG 
+[ an/DT expensive/JJ gamble/NN ]
+./. 
+
+[ It/PRP ]
+has/VBZ invested/VBN 
+[ millions/NNS ]
+in/IN 
+[ a/DT new/JJ technology/NN ]
+
+[ that/WDT ]
+could/MD well/RB turn/VB out/RP to/TO be/VB 
+[ a/DT very/RB expensive/JJ gimmick/NN ]
+./. 
+
+[ Time/NNP ]
+declines/VBZ to/TO quantify/VB 
+[ its/PRP$ investment/NN ]
+,/, but/CC says/VBZ 
+[ the/DT program/NN ]
+will/MD be/VB profitable/JJ in/IN 
+[ its/PRP$ first/JJ year/NN ]
+./. 
+
+[ Other/JJ magazine/NN publishers/NNS ]
+are/VBP watching/VBG carefully/RB :/: ``/`` 
+[ Selective/JJ binding/NN ]
+has/VBZ been/VBN around/RP for/IN 
+[ 15/CD years/NNS ]
+,/, and/CC 
+[ no/DT one/PRP ]
+has/VBZ really/RB been/VBN able/JJ to/TO make/VB 
+[ it/PRP ]
+work/VB right/RB ,/, ''/'' says/VBZ 
+[ Claeys/NNP Bahrenburg/NNP ]
+,/, 
+[ group/NN publishing/VBG director/NN ]
+at/IN 
+[ Hearst/NNP magazines/NNS ]
+,/, 
+[ publisher/NN ]
+of/IN 
+[ Cosmopolitan/NNP ]
+and/CC 
+[ Redbook/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Bahrenburg/NNP ]
+says/VBZ 
+[ Hearst/NNP ]
+has/VBZ created/VBN 
+[ a/DT task/NN force/NN ]
+to/TO look/VB into/IN 
+[ selective/JJ binding/NN ]
+,/, and/CC says/VBZ 
+[ it/PRP ]
+is/VBZ considering/VBG using/VBG 
+[ the/DT technology/NN ]
+not/RB just/RB for/IN 
+[ advertisers/NNS ]
+,/, but/CC to/TO tailor/VB 
+[ articles/NNS ]
+to/TO 
+[ subscribers/NNS ]
+./. 
+
+[ Sports/NNP Afield/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, could/MD give/VB fishing/NN buffs/NNS 
+[ a/DT heavier/JJR dose/NN ]
+of/IN angling/NN 
+[ articles/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ Mr./NNP Bahrenburg/NNP ]
+adds/VBZ that/IN 
+[ magazines/NNS ]
+using/VBG 
+[ selective/JJ binding/NN ]
+to/TO personalize/VB 
+[ ads/NNS ]
+may/MD risk/VB undermining/VBG 
+[ their/PRP$ national/JJ ad/NN base/NN ]
+and/CC hurting/VBG 
+[ their/PRP$ overall/JJ cachet/NN ]
+./. 
+
+``/`` 
+[ This/DT ]
+raises/VBZ 
+[ some/DT major/JJ issues/NNS ]
+on/IN how/WRB 
+[ we/PRP ]
+sell/VBP 
+[ our/PRP$ product/NN ]
+:/: 
+[ You/PRP ]
+'re/VBP selling/VBG 
+[ demographic/JJ slices/NNS ]
+''/'' rather/RB than/IN 
+[ a/DT national/JJ magazine/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ Mr./NNP Judson/NNP ]
+,/, however/RB ,/, counters/VBZ that/IN 
+[ Target/NNP Select/NNP ]
+``/`` enhances/VBZ 
+[ the/DT franchise/NN ]
+of/IN 
+[ Time/NNP magazines/NNS ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ any/DT case/NN ]
+,/, 
+[ Target/NNP Select/NNP ]
+is/VBZ expensive/JJ enough/RB that/IN 
+[ it/PRP ]
+does/VBZ n't/RB seem/VB likely/RB to/TO spark/VB 
+[ an/DT immediate/JJ stampede/NN ]
+away/RB from/IN 
+[ national/JJ ads/NNS ]
+./. 
+
+[ The/DT plan/NN ]
+,/, in/IN 
+[ part/NN ]
+,/, will/MD allow/VB 
+[ marketers/NNS ]
+to/TO advertise/VB specifically/RB to/TO 
+[ three/CD groups/NNS ]
+of/IN 
+[ subscribers/NNS ]
+:/: 
+[ catalog/NN shoppers/NNS ]
+,/, 
+[ people/NNS ]
+
+[ who/WP ]
+have/VBP recently/RB moved/VBN and/CC 
+[ affluent/JJ readers/NNS ]
+over/IN 
+[ 50/CD years/NNS ]
+old/JJ ./. 
+
+[ A/DT furniture/NN company/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, could/MD advertise/VB only/RB in/IN 
+[ magazine/NN copies/NNS ]
+going/VBG to/TO 
+[ subscribers/NNS ]
+
+[ who/WP ]
+just/RB moved/VBD ./. 
+
+======================================
+
+But/CC 
+[ that/DT kind/NN ]
+of/IN pinpointing/VBG ,/, derived/VBN largely/RB from/IN 
+[ reader/NN surveys/NNS ]
+,/, does/VBZ n't/RB come/VB 
+[ cheap/JJ ]
+./. 
+
+[ Time/NNP magazine/NN ]
+currently/RB charges/VBZ about/RB 
+[ $/$ 28/CD ]
+to/TO reach/VB 
+[ each/DT 1,000/CD subscribers/NNS ]
+./. 
+
+But/CC 
+[ advertisers/NNS ]
+
+[ who/WP ]
+want/VBP to/TO target/VB 
+[ high/JJ income/NN older/JJR people/NNS ]
+--/: and/CC 
+[ Time/NNP promises/NNS ]
+to/TO reach/VB 
+[ 700,000/CD ]
+of/IN 
+[ them/PRP ]
+via/IN 
+[ the/DT three/CD weeklies/NNS ]
+and/CC 
+[ Money/NNP ]
+--/: will/MD pay/VB more/RBR than/IN double/RB 
+[ that/DT rate/NN ]
+,/, or/CC about/RB 
+[ $/$ 68/CD ]
+for/IN 
+[ each/DT 1,000/CD ]
+,/, according/VBG to/TO 
+[ the/DT 1990/CD rate/NN card/NN ]
+./. 
+
+Reaching/VBG 
+[ recent/JJ movers/NNS ]
+will/MD cost/VB 
+[ $/$ 51/CD ]
+for/IN 
+[ each/DT 1,000/CD ]
+./. 
+
+======================================
+
+[ Target/NNP Select/NNP ]
+also/RB will/MD use/VB 
+[ a/DT process/NN ]
+called/VBN 
+[ ink-jet/JJ printing/NN ]
+to/TO allow/VB 
+[ national/JJ advertisers/NNS ]
+to/TO personalize/VB 
+[ their/PRP$ ads/NNS ]
+./. 
+
+[ An/DT auto/NN maker/NN 's/POS ad/NN ]
+could/MD list/VB 
+[ the/DT nearest/JJS dealership/NN ]
+,/, or/CC even/RB offer/VB 
+[ a/DT discount/NN ]
+to/TO 
+[ selected/VBN subscribers/NNS ]
+./. 
+
+Depending/VBG on/IN 
+[ complexity/NN ]
+,/, 
+[ industry/NN executives/NNS ]
+say/VBP 
+[ ink-jet/JJ printing/NN ]
+can/MD add/VB 
+[ 35/CD %/NN ]
+to/TO 
+[ the/DT cost/NN ]
+of/IN 
+[ an/DT ad/NN ]
+,/, and/CC could/MD even/RB double/VB 
+[ the/DT price/NN ]
+./. 
+
+Even/RB more/RBR costly/JJ ,/, 
+[ Time/NNP ]
+is/VBZ offering/VBG 
+[ customized/VBN programs/NNS ]
+for/IN 
+[ advertisers/NNS ]
+./. 
+
+[ American/NNP Express/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, could/MD place/VB personalized/VBN 
+[ ads/NNS ]
+only/RB in/IN 
+[ magazine/NN copies/NNS ]
+going/VBG to/TO 
+[ gold-card-carrying/JJ subscribers/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT day/NN ]
+is/VBZ here/RB when/WRB 
+[ magazine/NN advertisers/NNS ]
+can/MD be/VB as/RB personalized/VBN as/IN 
+[ direct/JJ mail/NN ]
+,/, ''/'' 
+[ Mr./NNP Judson/NNP ]
+says/VBZ ./. 
+
+Indeed/RB ,/, 
+[ the/DT ink-jet/JJ capability/NN ]
+is/VBZ sure/JJ to/TO make/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ direct/JJ marketers/NNS ]
+angry/JJ ,/, and/CC 
+[ it/PRP ]
+'s/VBZ certain/JJ to/TO scare/VB 
+[ newspapers/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP already/RB facing/VBG 
+[ a/DT bleak/JJ retail/NN ad/NN market/NN ]
+./. 
+
+[ It/PRP ]
+swipes/VBZ especially/RB hard/JJ at/IN 
+[ cooperative/JJ ads/NNS ]
+,/, in/IN 
+[ which/WDT ]
+
+[ a/DT retail/JJ outlet/NN ]
+and/CC 
+[ a/DT brand/NN ]
+share/VBP 
+[ a/DT single/JJ ad/NN ]
+;/: 
+[ the/DT ink-jetting/JJ program/NN ]
+can/MD tailor/VB 
+[ a/DT national/JJ ad/NN ]
+right/RB down/IN to/TO 
+[ the/DT zip-code/NN level/NN ]
+,/, listing/VBG 
+[ the/DT nearest/JJS retail/JJ outlet/NN ]
+where/WRB 
+[ a/DT ]
+nationally/RB advertised/VBN 
+[ brand/NN ]
+is/VBZ sold/VBN ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ better/RBR targeting/NN than/IN 
+[ anything/NN ]
+available/JJ in/IN 
+[ local/JJ newspapers/NNS ]
+,/, ''/'' 
+[ Mr./NNP Judson/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ Ad/NN Notes/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ NEW/JJ ACCOUNTS/NNS ]
+:/: 
+[ Times/NNP Mirror/NNP Co./NNP ]
+,/, 
+[ Los/NNP Angeles/NNP ]
+,/, awarded/VBD 
+[ the/DT $/$ 5/CD million/CD ad/NN account/NN ]
+for/IN 
+[ its/PRP$ Newsday/NNP ]
+and/CC 
+[ New/NNP York/NNP Newsday/NNP newspapers/NNS ]
+to/TO 
+[ Margeotes/NNP Fertitta/NNP ]
+&/CC 
+[ Weiss/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+[ The/DT account/NN ]
+had/VBD been/VBN handled/VBN by/IN 
+[ Holland/NNP ]
+&/CC 
+[ Callaway/NNP Advertising/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ Glenbrook/NNP Laboratories/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Sterling/NNP Drug/NNP ]
+,/, said/VBD 
+[ Lintas/NNP New/NNP York/NNP ]
+and/CC 
+[ Dugan\/Farley/NNP Communications/NNP Associates/NNP ]
+,/, 
+[ Upper/NNP Saddle/NNP River/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, will/MD handle/VB advertising/NN for/IN 
+[ Therapy/NNP Bayer/NNP Aspirin/NNP ]
+,/, 
+[ a/DT new/JJ analgesic/NN ]
+./. 
+
+[ Lintas/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ the/DT Interpublic/NNP Group/NNP ]
+,/, will/MD handle/VB 
+[ consumer/NN ads/NNS ]
+;/: 
+[ Dugan\/Farley/NNP ]
+will/MD create/VB 
+[ a/DT trade/NN campaign/NN ]
+./. 
+
+[ Billings/NNS ]
+have/VBP n't/RB been/VBN determined/VBN ./. 
+
+======================================

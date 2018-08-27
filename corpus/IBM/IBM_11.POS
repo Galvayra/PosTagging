@@ -1,0 +1,1312 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1001/CD ]
+./. 
+
+[ You/PRP ]
+do/VBP not/RB have/VB to/TO create/VB 
+[ names/NNS ]
+for/IN 
+[ the/DT master/NN ]
+profiles/NNS 
+[ you/PRP ]
+want/VBP to/TO use/VB ./. 
+
+[ 1002/CD ]
+./. 
+
+[ The/DT work/NN station/NN function/NN configuration/NN program/NN ]
+provides/VBZ 
+[ names/NNS ]
+for/IN 
+[ all/DT profiles/NNS ]
+./. 
+
+[ 1003/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT names/NNS ]
+provided/VBN or/CC create/VB 
+[ your/PRP$ own/JJ ]
+./. 
+
+[ 1004/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT ]
+Enter/VB 
+[ key/NN ]
+,/, 
+[ the/DT Create/VB Master/NNP Profile/NNP display/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 1005/CD ]
+./. 
+
+[ It/PRP ]
+provides/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT master/NN ]
+profiles/NNS 
+[ you/PRP ]
+are/VBP working/VBG with/IN as/RB well/RB as/IN 
+[ information/NN ]
+about/IN 
+[ any/DT sessions/NNS ]
+assigned/VBN to/TO 
+[ the/DT master/NN ]
+./. 
+
+[ 1006/CD ]
+./. 
+
+[ You/PRP ]
+can/MD select/VB to/TO change/VB 
+[ your/PRP$ general/JJ options/NNS ]
+or/CC 
+[ your/PRP$ session/NN information/NN ]
+./. 
+
+[ 1007/CD ]
+./. 
+
+[ General/JJ Options/NNS ]
+are/VBP 
+[ the/DT options/NNS ]
+
+[ that/WDT ]
+affect/VBP 
+[ all/PDT the/DT display/NN ]
+and/CC 
+[ printer/NN sessions/NNS you/PRP ]
+run/VBP from/IN 
+[ one/CD personal/JJ computer/NN ]
+./. 
+
+[ 1008/CD ]
+./. 
+
+[ Select/VB General/JJ Options/NNS ]
+from/IN 
+[ the/DT action/NN bar/NN ]
+./. 
+
+[ 1009/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+provides/VBZ 
+[ the/DT prompt/JJ names/NNS ]
+,/, 
+[ their/PRP$ descriptions/NNS ]
+,/, and/CC 
+[ the/DT values/NNS you/PRP ]
+can/MD select/VB for/IN 
+[ each/DT ]
+./. 
+
+[ 1010/CD ]
+./. 
+
+[ Options/NNS Description/NNP Display/NNP ]
+Save/VB 
+[ Area/NNP Use/VB ]
+
+[ this/DT option/NN ]
+to/TO specify/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT area/NN ]
+in/IN 
+[ personal/JJ computer/NN memory/NN ]
+
+[ you/PRP ]
+want/VBP reserved/VBN for/IN 
+[ work/NN station/NN function/NN ]
+./. 
+
+[ 1011/CD ]
+./. 
+
+[ Graphics/NNS Buffer/NNP Select/VB option/NN 2/CD ]
+(/( 
+[ Graphics/NNS Buffer/NNP ]
+)/) if/IN 
+[ you/PRP ]
+are/VBP using/VBG 
+[ graphics/NNS ]
+and/CC 
+[ programs/NNS ]
+
+[ that/WDT ]
+require/VBP 
+[ multiple/JJ pages/NNS ]
+of/IN 
+[ the/DT display/NN adapter/NN ]
+./. 
+
+[ 1012/CD ]
+./. 
+
+[ The/DT graphics/NNS buffer/NN ]
+also/RB saves/VBZ 
+[ your/PRP$ DOS/NNP font/NN ]
+./. 
+
+[ 1013/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP Yes/UH ,/, but/CC 
+[ the/DT 8514\/A/NNP adapter/NN ]
+is/VBZ not/RB attached/VBN or/CC 
+[ the/DT DOS/NNP session/NN ]
+is/VBZ using/VBG 
+[ the/DT 8514\/A/NNP ]
+,/, 
+[ your/PRP$ selection/NN ]
+is/VBZ ignored/VBN ./. 
+
+[ 1014/CD ]
+./. 
+
+[ Select/JJ color/NN ]
+for/IN 
+[ a/DT color/NN monitor/NN ]
+attached/VBN to/TO 
+[ either/DT connector/NN ]
+on/IN 
+[ the/DT adapter/NN ]
+./. 
+
+[ 1015/CD ]
+./. 
+
+[ Printer/NNP Session/NNP Online/NNP Information/NNP ]
+
+[ This/DT option/NN ]
+allows/VBZ 
+[ you/PRP ]
+to/TO choose/VB whether/IN 
+[ you/PRP ]
+want/VBP 
+[ the/DT online/JJ help/NN information/NN ]
+available/JJ for/IN 
+[ printer/NN session/NN displays/NNS ]
+./. 
+
+[ 1016/CD ]
+./. 
+
+[ The/DT online/JJ help/NN information/NN ]
+is/VBZ moved/VBN into/IN 
+[ the/DT personal/JJ computer/NN memory/NN ]
+when/WRB 
+[ you/PRP ]
+select/VBP 
+[ the/DT ]
+Yes/UH 
+[ parameter/NN ]
+./. 
+
+[ 1017/CD ]
+./. 
+
+[ The/DT online/JJ help/NN information/NN ]
+uses/VBZ 
+[ additional/JJ personal/JJ computer/NN memory/NN ]
+./. 
+
+[ 1018/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+on/IN 
+[ memory/NN requirements/NNS ]
+,/, see/VB 
+[ the/DT PC/NNP Support/NNP Planning/NNP ]
+and/CC 
+[ Installation/NNP Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 1019/CD ]
+./. 
+
+[ Select/VB ]
+
+[ the/DT ]
+
+[ No/UH option/NN ]
+if/IN 
+[ you/PRP ]
+require/VBP 
+[ additional/JJ personal/JJ computer/NN memory/NN ]
+for/IN 
+[ DOS/NNP ]
+and/CC 
+[ other/JJ applications/NNS ]
+./. 
+
+[ 1020/CD ]
+./. 
+
+[ The/DT word/NN Starting/VBG blinks/NN ]
+as/IN 
+[ each/DT session/NN ]
+is/VBZ started/VBN ./. 
+
+[ 1021/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP 
+[ this/DT option/NN ]
+,/, 
+[ you/PRP ]
+do/VBP not/RB need/VB to/TO press/VB 
+[ a/DT key/NN ]
+to/TO continue/VB (/( unless/IN 
+[ an/DT error/NN ]
+has/VBZ occurred/VBN starting/VBG 
+[ a/DT session/NN ]
+)/) ./. 
+
+[ 1022/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+choose/VBP No/UH ,/, 
+[ it/PRP ]
+is/VBZ not/RB ./. 
+
+[ 1023/CD ]
+./. 
+
+[ The/DT default/NN ]
+for/IN 
+[ this/DT option/NN ]
+is/VBZ No/UH ./. 
+
+[ 1024/CD ]
+./. 
+
+Consider/VB using/VBG 
+[ this/DT option/NN ]
+if/IN 
+[ you/PRP ]
+leave/VBP 
+[ the/DT display/NN unattended/JJ ]
+,/, but/CC do/VB not/RB want/VB to/TO stop/VB 
+[ sessions/NNS ]
+./. 
+
+[ 1025/CD ]
+./. 
+
+[ This/DT option/NN ]
+does/VBZ not/RB 
+[ function/VB ]
+in/IN 
+[ personal/JJ computer/NN mode/NN ]
+./. 
+
+[ 1026/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB change/VB 
+[ the/DT keyboard/NN style/NN ]
+
+[ you/PRP ]
+use/VBP with/IN 
+[ this/DT master/NN profile/NN ]
+./. 
+
+[ 1027/CD ]
+./. 
+
+(/( 
+[ This/DT ]
+is/VBZ different/JJ from/IN 
+[ the/DT keyboard/NN type/NN ]
+,/, 
+[ which/WDT ]
+refers/VBZ to/TO 
+[ the/DT actual/JJ kind/NN ]
+of/IN 
+[ keyboard/NN ]
+attached/VBN to/TO 
+[ your/PRP$ personal/JJ computer/NN ]
+./. 
+
+)/) 
+[ 1028/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT Arrow/NN keys/NNS ]
+to/TO select/VB 
+[ the/DT keyboard/NN style/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB ./. 
+
+[ 1029/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT options/NNS ]
+on/IN 
+[ this/DT menu/NN ]
+./. 
+
+[ 1030/CD ]
+./. 
+
+[ Functions/NNS ]
+and/CC 
+[ characters/NNS ]
+are/VBP placed/VBN in/IN 
+[ the/DT same/JJ locations/NNS ]
+as/IN found/VBN on/IN 
+[ the/DT keyboard/NN ]
+of/IN 
+[ a/DT 5250/CD display/NN station/NN ]
+./. 
+
+[ 1031/CD ]
+./. 
+
+[ Functions/NNS ]
+and/CC 
+[ characters/NNS ]
+are/VBP placed/VBN on/IN 
+[ the/DT keyboard/NN ]
+where/WRB 
+[ you/PRP ]
+define/VBP 
+[ them/PRP ]
+./. 
+
+[ 1032/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+have/VBP selected/VBN 
+[ the/DT keyboard/NN style/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB ,/, press/VB 
+[ the/DT ]
+Enter/NN 
+[ key/NN ]
+./. 
+
+[ 1033/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP 
+[ any/DT ]
+of/IN 
+[ the/DT options/NNS ]
+
+[ that/WDT ]
+result/VBP in/IN saving/VBG 
+[ a/DT master/NN profile/NN ]
+,/, 
+[ a/DT window/NN ]
+is/VBZ shown/VBN containing/VBG 
+[ the/DT name/NN ]
+of/IN 
+[ a/DT master/NN profile/NN ]
+./. 
+
+[ 1034/CD ]
+./. 
+
+Confirm/VB or/CC change/VB 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT master/NN profile/NN ]
+
+[ you/PRP ]
+want/VBP saved/VBN ./. 
+
+[ 1035/CD ]
+./. 
+
+When/WRB 
+[ the/DT Enter/NNP key/NN ]
+is/VBZ pressed/VBN ,/, 
+[ another/DT window/NN ]
+is/VBZ shown/VBN containing/VBG 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT batch/NN file/NN ]
+
+[ you/PRP ]
+want/VBP changed/VBN to/TO include/VB 
+[ the/DT new/JJ master/NN profile/NN ]
+./. 
+
+[ 1036/CD ]
+./. 
+
+[ Press/VB F4/NNP ]
+(/( Prompt/JJ )/) to/TO display/VB 
+[ a/DT list/NN ]
+of/IN 
+[ batch/NN files/NNS ]
+from/IN 
+[ which/WDT ]
+
+[ you/PRP ]
+can/MD choose/VB ./. 
+
+[ 1037/CD ]
+./. 
+
+[ This/DT ]
+determines/VBZ 
+[ which/WDT ]
+
+[ master/JJR profile/NN ]
+is/VBZ read/VBN and/CC 
+[ the/DT type/NN ]
+of/IN 
+[ sessions/NNS ]
+established/VBN when/WRB 
+[ work/NN station/NN function/NN ]
+is/VBZ started/VBN ./. 
+
+[ 1038/CD ]
+./. 
+
+Now/RB that/IN 
+[ you/PRP ]
+have/VBP created/VBN 
+[ a/DT master/NN profile/NN ]
+,/, 
+[ you/PRP ]
+should/MD create/VB 
+[ a/DT session/NN profile/NN ]
+to/TO store/VB in/IN 
+[ it/PRP ]
+./. 
+
+[ 1039/CD ]
+./. 
+
+[ Session/NN profiles/NNS ]
+control/VBP 
+[ the/DT operation/NN ]
+of/IN 
+[ your/PRP$ display/NN sessions/NNS ]
+./. 
+
+[ 1040/CD ]
+./. 
+
+[ Select/VB Create/NNP ]
+from/IN 
+[ the/DT action/NN bar/NN ]
+./. 
+
+[ 1041/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+if/IN 
+[ you/PRP ]
+want/VBP to/TO use/VB 
+[ the/DT name/NN ]
+provided/VBN in/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 1042/CD ]
+./. 
+
+[ Type/VB ]
+
+[ a/DT new/JJ name/NN ]
+and/CC then/RB press/VB 
+[ the/DT ]
+Enter/NN 
+[ key/NN ]
+if/IN 
+[ you/PRP ]
+want/VBP to/TO use/VB 
+[ a/DT different/JJ name/NN ]
+./. 
+
+[ 1043/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT ]
+Enter/NNP key/VB 
+[ the/DT Create/VB Session/NNP Profile/NNP menu/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 1044/CD ]
+./. 
+
+[ This/DT menu/NN ]
+contains/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT session/NN profile/NN ]
+
+[ you/PRP ]
+are/VBP working/VBG with/IN and/CC 
+[ several/JJ prompts/NNS ]
+./. 
+
+[ 1045/CD ]
+./. 
+
+Select/VB 
+[ the/DT type/NN ]
+of/IN 
+[ device/NN ]
+
+[ you/PRP ]
+want/VBP 
+[ your/PRP$ session/NN ]
+to/TO function/VB as/IN ./. 
+
+[ 1046/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT options/NNS you/PRP ]
+can/MD select/VB ./. 
+
+[ 1047/CD ]
+./. 
+
+[ Your/PRP$ display/NN functions/VBZ ]
+like/IN 
+[ a/DT 3196/CD display/NN ]
+./. 
+
+[ 1048/CD ]
+./. 
+
+[ You/PRP ]
+can/MD display/VB 
+[ text/NN ]
+,/, but/CC not/RB 
+[ graphics/NNS ]
+./. 
+
+[ 1049/CD ]
+./. 
+
+[ 132/CD Column/NN ]
+support/NN 
+[ Your/PRP$ display/NN functions/NNS ]
+like/IN 
+[ a/DT 3180/CD model/NN 2/CD display/NN ]
+./. 
+
+[ 1050/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ two/CD forms/NNS ]
+of/IN 
+[ 132/CD column/NN support/NN ]
+./. 
+
+[ 1051/CD ]
+./. 
+
+[ The/DT first/JJ form/NN ]
+shows/VBZ 
+[ all/PDT 132/CD columns/NNS ]
+of/IN 
+[ text/NN ]
+at/IN 
+[ one/CD time/NN ]
+./. 
+
+[ 1052/CD ]
+./. 
+
+[ The/DT second/JJ form/NN shows/NNS ]
+either/CC 
+[ the/DT first/JJ 80/CD columns/NNS ]
+or/CC 
+[ the/DT last/JJ 80/CD columns/NNS ]
+of/IN 
+[ the/DT 132/CD columns/NNS ]
+of/IN 
+[ text/NN ]
+./. 
+
+[ 1053/CD ]
+./. 
+
+[ Your/PRP$ current/JJ hardware/NN ]
+determines/VBZ if/IN 
+[ you/PRP ]
+can/MD use/VB 
+[ 132/CD column/NN support/NN ]
+and/CC ,/, if/IN so/RB ,/, 
+[ which/WDT type/NN ]
+of/IN 
+[ support/NN ]
+./. 
+
+[ 1054/CD ]
+./. 
+
+[ You/PRP ]
+must/MD meet/VB 
+[ the/DT following/VBG requirements/NNS ]
+to/TO use/VB 
+[ this/DT support/NN ]
+:/: -/: 
+[ Full/JJ 132/CD column/NN support/NN ]
+needs/VBZ 
+[ an/DT 8514/CD display/NN ]
+,/, 
+[ 8514\/A/NNP adapter/NN ]
+,/, and/CC 
+[ 75K/NNP ]
+of/IN 
+[ PC/NNP memory/NN ]
+./. 
+
+[ 1055/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB use/VB 
+[ the/DT cursor/NN ]
+to/TO display/VB 
+[ the/DT text/NN ]
+not/RB currently/RB shown/VBN ./. 
+
+[ 1056/CD ]
+./. 
+
+[ The/DT cursor/NN ]
+does/VBZ not/RB shift/VB 
+[ the/DT display/NN ]
+,/, but/CC shows/VBZ either/RB 
+[ the/DT next/JJ character/NN ]
+or/CC 
+[ the/DT next/JJ field/NN ]
+of/IN 
+[ text/NN ]
+./. 
+
+[ 1057/CD ]
+./. 
+
+[ Graphics/NNS ]
+display/NN with/IN 
+[ plotter/NN ]
+./. 
+
+[ 1058/CD ]
+./. 
+
+[ Your/PRP$ PC/NNP printer/NN functions/NNS ]
+like/IN 
+[ a/DT 5256/CD printer/NN ]
+ 
+[ */SYM 5224/CD Printer/NN ]
+./. 
+
+[ 1059/CD ]
+./. 
+
+[ Your/PRP$ PC/NNP printer/NN functions/NNS ]
+like/IN 
+[ a/DT 5224/CD printer/NN ]
+./. 
+
+[ 1060/CD ]
+./. 
+
+Select/VB 
+[ the/DT type/NN ]
+of/IN 
+[ system/NN ]
+
+[ you/PRP ]
+will/MD be/VB communicating/VBG with/IN while/IN using/VBG 
+[ the/DT work/NN station/NN function/NN ]
+./. 
+
+[ 1061/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+have/VBP selected/VBN 
+[ the/DT options/NNS you/PRP ]
+want/VBP for/IN 
+[ each/DT prompt/NN ]
+on/IN 
+[ the/DT Create/VB Session/NNP Profile/NNP menu/NN ]
+,/, press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1062/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+selected/VBD 
+[ option/NN 1/CD ]
+,/, 
+[ 2/CD ]
+,/, 
+[ 3/CD ]
+,/, or/CC 
+[ 4/CD ]
+,/, 
+[ a/DT display/NN session/NN menu/NN ]
+corresponding/VBG to/TO 
+[ the/DT option/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 1063/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+selected/VBD 
+[ standard/JJ display/NN ]
+,/, 
+[ 132/CD column/NN support/NN ]
+,/, 
+[ graphics/NNS ]
+display/NN ,/, or/CC 
+[ graphics/NNS ]
+display/NN with/IN 
+[ plotter/NN ]
+for/IN 
+[ your/PRP$ device/NN type/NN ]
+,/, 
+[ you/PRP ]
+can/MD change/VB 
+[ your/PRP$ General/NNP session/NN options/NNS ]
+and/CC 
+[ Display/NN options/NNS ]
+from/IN 
+[ your/PRP$ Display/NNP Session/NNP menu/NN ]
+./. 
+
+[ 1064/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+selected/VBD 
+[ graphics/NNS display/NN ]
+or/CC 
+[ graphics/NNS ]
+display/NN with/IN 
+[ plotter/NN ]
+as/IN 
+[ your/PRP$ device/NN type/NN ]
+,/, 
+[ you/PRP ]
+can/MD also/RB change/VB 
+[ your/PRP$ graphics/NNS options/NNS ]
+from/IN 
+[ your/PRP$ display/NN session/NN menu/NN ]
+./. 
+
+[ 1065/CD ]
+./. 
+
+[ General/JJ session/NN options/NNS ]
+apply/VBP to/TO 
+[ all/DT display/NN sessions/NNS ]
+and/CC 
+[ graphics/NNS sessions/NNS ]
+./. 
+
+[ 1066/CD ]
+./. 
+
+[ Press/VB F10/NNP ]
+(/( 
+[ Actions/NNS ]
+)/) and/CC 
+[ select/JJ General/JJ session/NN options/NNS ]
+from/IN 
+[ the/DT action/NN bar/NN ]
+./. 
+
+[ 1067/CD ]
+./. 
+
+Select/VB 
+[ option/NN 1/CD ]
+(/( 
+[ General/JJ session/NN options/NNS ]
+)/) ./. 
+
+[ 1068/CD ]
+./. 
+
+[ The/DT General/JJ Session/NNP Options/NNS menu/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 1069/CD ]
+./. 
+
+[ This/DT menu/NN ]
+contains/VBZ 
+[ several/JJ prompts/NNS ]
+for/IN changing/VBG 
+[ the/DT features/NNS ]
+of/IN 
+[ your/PRP$ display/NN sessions/NNS ]
+./. 
+
+[ 1070/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT options/NNS ]
+on/IN 
+[ the/DT menu/NN ]
+and/CC 
+[ the/DT values/NNS you/PRP ]
+can/MD provide/VB for/IN 
+[ each/DT ]
+./. 
+
+[ 1071/CD ]
+./. 
+
+[ The/DT display/NN station/NN ID/NN changes/VBZ ]
+if/IN 
+[ you/PRP ]
+change/VBP 
+[ the/DT number/NN ]
+of/IN 
+[ sessions/NNS ]
+or/CC 
+[ the/DT location/NN name/NN ]
+of/IN 
+[ the/DT personal/JJ computer/NN ]
+./. 
+
+[ 1072/CD ]
+./. 
+
+[ The/DT display/NN station/NN ID/NN ]
+must/MD meet/VB 
+[ the/DT following/VBG requirements/NNS ]
+:/: 
+[ 1073/CD ]
+./. 
+
+Then/RB ,/, 
+[ you/PRP ]
+can/MD have/VB 
+[ direct/JJ access/NN ]
+to/TO 
+[ all/DT PC/NNP Support/NNP applications/NNS ]
+without/IN 
+[ the/DT need/NN ]
+for/IN 
+[ the/DT sign/NN ]
+on/IN 
+[ display/NN ]
+./. 
+
+[ 1074/CD ]
+./. 
+
+[ This/DT option/NN ]
+only/RB appears/VBZ when/WRB 
+[ you/PRP ]
+are/VBP configuring/VBG 
+[ a/DT display/NN session/NN ]
+./. 
+
+[ 1075/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+when/WRB 
+[ you/PRP ]
+have/VBP supplied/VBN 
+[ values/NNS ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT prompts/NNS ]
+on/IN 
+[ the/DT General/JJ Session/NNP Options/NNS display/NN ]
+./. 
+
+[ 1076/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB change/VB 
+[ your/PRP$ display/NN options/NNS ]
+./. 
+
+[ 1077/CD ]
+./. 
+
+[ These/DT ]
+apply/VBP only/RB to/TO 
+[ display/NN sessions/NNS ]
+./. 
+
+[ 1078/CD ]
+./. 
+
+If/IN 
+[ it/PRP ]
+uses/VBZ 
+[ any/DT other/JJ code/NN page/NN ]
+when/WRB 
+[ work/NN station/NN function/NN ]
+is/VBZ started/VBN ,/, 
+[ you/PRP ]
+may/MD notice/VB that/IN 
+[ some/DT characters/NNS ]
+may/MD not/RB appear/VB as/IN 
+[ you/PRP ]
+expected/VBD ./. 
+
+[ 1079/CD ]
+./. 
+
+[ This/DT option/NN ]
+allows/VBZ 
+[ you/PRP ]
+to/TO display/VB 
+[ the/DT column/NN separator/NN character/NN ]
+instead/RB of/IN 
+[ a/DT blank/NN ]
+in/IN 
+[ that/DT position/NN ]
+./. 
+
+[ 1080/CD ]
+./. 
+
+[ Print/VB Screen/NNP Character/NNP Set/NNP ]
+
+[ This/DT option/NN ]
+allows/VBZ 
+[ you/PRP ]
+to/TO specify/VB 
+[ the/DT number/NN ]
+of/IN 
+[ characters/NNS ]
+used/VBN when/WRB 
+[ you/PRP ]
+print/VBP 
+[ the/DT display/NN ]
+./. 
+
+[ 1081/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+selected/VBD 
+[ graphics/NNS display/NN ]
+or/CC 
+[ graphics/NNS ]
+display/NN with/IN 
+[ plotter/NN ]
+as/IN 
+[ your/PRP$ device/NN type/NN ]
+on/IN 
+[ the/DT Create/VB Session/NNP Profile/NNP menu/NN ]
+,/, 
+[ you/PRP ]
+can/MD also/RB change/VB 
+[ your/PRP$ graphics/NNS options/NNS ]
+./. 
+
+[ 1082/CD ]
+./. 
+
+[ The/DT options/NNS you/PRP ]
+can/MD work/VB with/IN are/VBP preceded/VBN by/IN 
+[ a/DT number/NN ]
+./. 
+
+[ 1083/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT options/NNS ]
+and/CC 
+[ what/WP ]
+
+[ you/PRP ]
+can/MD do/VB with/IN 
+[ them/PRP ]
+./. 
+
+[ 1084/CD ]
+./. 
+
+[ Any/DT increase/NN ]
+in/IN 
+[ VDI/NNP buffer/NN size/NN ]
+over/IN 
+[ the/DT 20K-byte/NN default/NN ]
+is/VBZ 
+[ additional/JJ memory/NN ]
+required/VBN by/IN 
+[ the/DT graphics/NNS session/NN ]
+./. 
+
+[ 1085/CD ]
+./. 
+
+[ VDI/NNP ]
+must/MD be/VB installed/VBN before/IN 
+[ you/PRP ]
+can/MD use/VB 
+[ this/DT option/NN ]
+./. 
+
+[ 1086/CD ]
+./. 
+
+Changing/VBG 
+[ the/DT writing/VBG modes/NNS ]
+may/MD cause/VB 
+[ unexpected/JJ results/NNS ]
+./. 
+
+[ 1087/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+when/WRB 
+[ you/PRP ]
+have/VBP completed/VBN 
+[ all/DT ]
+of/IN 
+[ the/DT prompts/NNS ]
+./. 
+
+[ 1088/CD ]
+./. 
+
+See/VB 
+[ Chapter/NN 11/CD ]
+,/, ``/`` Printing/VBG with/IN 
+[ PC/NNP Support/NNP ]
+:/: 
+[ 1089/CD ]
+./. 
+
+To/TO change/VB 
+[ your/PRP$ printer/NN options/NNS ]
+,/, complete/VB 
+[ the/DT following/VBG steps/NNS ]
+on/IN 
+[ the/DT Printer/NNP Session/NNP menu/NN ]
+associated/VBN with/IN 
+[ the/DT printer/NN device/NN ]
+
+[ you/PRP ]
+selected/VBD ./. 
+
+[ 1090/CD ]
+./. 
+
+If/IN 
+[ the/DT printer/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB is/VBZ not/RB listed/VBN and/CC 
+[ its/PRP$ operating/VBG requirements/NNS ]
+are/VBP different/JJ from/IN 
+[ the/DT printer/NN ]
+listed/VBN ,/, select/VB 
+[ the/DT Printer/NN function/NN table/NN option/NN ]
+./. 
+
+[ 1091/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+select/VBP 
+[ this/DT option/NN ]
+,/, 
+[ a/DT new/JJ prompt/NN ]
+is/VBZ shown/VBN on/IN 
+[ the/DT display/NN ]
+./. 
+
+[ 1092/CD ]
+./. 
+
+[ You/PRP ]
+must/MD supply/VB 
+[ the/DT file/NN name/NN ]
+of/IN 
+[ the/DT printer/NN function/NN table/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB ./. 
+
+[ 1093/CD ]
+./. 
+
+[ Press/VB F10/NNP ]
+(/( 
+[ Actions/NNS ]
+)/) and/CC select/VB 
+[ the/DT Printer/NN options/NNS option/NN ]
+from/IN 
+[ the/DT action/NN bar/NN ]
+./. 
+
+[ 1094/CD ]
+./. 
+
+Select/VB 
+[ option/NN 1/CD ]
+(/( 
+[ Printer/NN hardware/NN characteristics/NNS ]
+)/) to/TO change/VB 
+[ the/DT way/NN your/PRP$ printer/NN ]
+operates/VBZ ./. 
+
+[ 1095/CD ]
+./. 
+
+Select/VB 
+[ the/DT options/NNS ]
+and/CC enter/VB 
+[ the/DT values/NNS ]
+for/IN 
+[ the/DT prompts/NNS you/PRP ]
+want/VBP to/TO change/VB ./. 
+
+[ 1096/CD ]
+./. 
+
+[ The/DT following/VBG printer/NN hardware/NN options/NNS ]
+are/VBP 
+[ available/JJ ]
+:/: 
+[ 1097/CD ]
+./. 
+
+[ Printer/NNP Paper/NNP Width/NNP You/PRP ]
+can/MD specify/VB 
+[ a/DT paper/NN width/NN ]
+of/IN 
+[ either/CC ]
+
+[ 8/CD ]
+or/CC 
+[ 13.2/CD inches/NNS ]
+for/IN 
+[ the/DT attached/JJ printer/NN ]
+./. 
+
+[ 1098/CD ]
+./. 
+
+If/IN 
+[ a/DT line/NN ]
+has/VBZ more/RBR than/IN 
+[ the/DT maximum/JJ number/NN ]
+of/IN 
+[ characters/NNS ]
+,/, 
+[ the/DT remaining/VBG characters/NNS ]
+are/VBP printed/VBN on/IN 
+[ the/DT next/JJ line/NN ]
+./. 
+
+[ 1099/CD ]
+./. 
+
+[ Printer/NNP Paper/NNP Size/NNP ]
+
+[ This/DT option/NN ]
+is/VBZ used/VBN to/TO tell/VB 
+[ the/DT work/NN station/NN function/NN printer/NN ]
+
+[ what/WP size/NN ]
+of/IN 
+[ paper/NN ]
+will/MD be/VB fed/VBN in/IN 
+[ your/PRP$ printer/NN ]
+./. 
+
+[ 1100/CD ]
+./. 
+
+[ You/PRP ]
+can/MD select/VB 
+[ one/CD ]
+of/IN 
+[ 10/CD common/JJ paper/NN sizes/NNS ]
+./. 

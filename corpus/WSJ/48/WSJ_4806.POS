@@ -1,0 +1,556 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ President/NNP Bush/NNP ]
+offered/VBD to/TO cut/VB 
+[ U.S./NNP stockpiles/NNS ]
+of/IN 
+[ chemical/NN weapons/NNS 80/CD %/NN ]
+if/IN 
+[ the/DT Soviets/NNPS ]
+reduce/VBP 
+[ their/PRP$ larger/JJR stocks/NNS ]
+to/TO 
+[ an/DT equal/JJ level/NN ]
+and/CC if/IN 
+[ the/DT two/CD nations/NNS ]
+can/MD agree/VB on/IN 
+[ means/NNS ]
+to/TO verify/VB 
+[ compliance/NN ]
+with/IN 
+[ such/JJ an/DT accord/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Bush/NNP 's/POS initiative/NN ]
+,/, delivered/VBN in/IN 
+[ his/PRP$ first/JJ address/NN ]
+as/IN 
+[ president/NN ]
+to/TO 
+[ the/DT United/NNP Nations/NNPS ]
+,/, was/VBD intended/VBN to/TO give/VB 
+[ momentum/NN ]
+to/TO 
+[ long-running/JJ efforts/NNS ]
+by/IN 
+[ 40/CD nations/NNS ]
+to/TO sign/VB 
+[ a/DT treaty/NN ]
+to/TO ban/VB 
+[ production/NN ]
+of/IN 
+[ chemical/JJ weapons/NNS ]
+over/IN 
+[ a/DT 10-year/JJ period/NN ]
+./. 
+
+[ The/DT effort/NN ]
+also/RB was/VBD meant/VBN in/IN 
+[ part/NN ]
+to/TO answer/VB 
+[ Mr./NNP Bush/NNP 's/POS critics/NNS ]
+,/, 
+[ both/DT domestic/JJ ]
+and/CC 
+[ foreign/JJ ]
+,/, 
+[ who/WP ]
+say/VBP 
+[ he/PRP ]
+has/VBZ been/VBN too/RB timid/JJ in/IN responding/VBG to/TO changing/VBG 
+[ international/JJ developments/NNS ]
+--/: particularly/RB to/TO 
+[ diplomatic/JJ initiatives/NNS ]
+by/IN 
+[ the/DT Soviets/NNPS ]
+./. 
+
+======================================
+
+Although/IN 
+[ administration/NN officials/NNS ]
+touted/VBD 
+[ the/DT initiative/NN ]
+as/IN 
+[ a/DT bold/JJ move/NN ]
+,/, 
+[ U.S./NNP law/NN ]
+already/RB requires/VBZ 
+[ a/DT substantial/JJ cut/NN ]
+in/IN 
+[ chemical-weapons/NNS stocks/NNS ]
+by/IN 
+[ 1997/CD ]
+./. 
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ a/DT compromise/NN ]
+
+[ that/WDT ]
+allowed/VBD 
+[ the/DT Reagan/NNP administration/NN ]
+to/TO begin/VB producing/VBG 
+[ safer/JJR ]
+,/, 
+[ so-called/JJ binary/JJ chemical/NN weapons/NNS ]
+,/, 
+[ Congress/NNP ]
+insisted/VBD that/IN 
+[ the/DT U.S./NNP ]
+destroy/VB 
+[ all/DT ]
+of/IN 
+[ its/PRP$ older/JJR chemical-weapon/NN stocks/NNS ]
+by/IN 
+[ that/DT year/NN ]
+./. 
+
+[ Binary/JJ weapons/NNS ]
+consist/VBP of/IN 
+[ two/CD separate/JJ chemical/JJ agents/NNS ]
+
+[ that/WDT ]
+are/VBP harmless/JJ until/IN 
+[ they/PRP ]
+mix/VBP after/IN 
+[ the/DT shell/NN ]
+is/VBZ fired/VBN ./. 
+
+======================================
+
+[ Sen./NNP Sam/NNP Nunn/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ga./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Senate/NNP Armed/NNP Services/NNPS Committee/NNP ]
+,/, estimated/VBD that/IN 
+[ the/DT weapons/NNS ]
+already/RB earmarked/VBN for/IN 
+[ destruction/NN ]
+roughly/RB would/MD amount/VB to/TO 
+[ the/DT 80/CD %/NN ]
+cuts/NN 
+[ Mr./NNP Bush/NNP ]
+promised/VBD ./. 
+
+``/`` 
+[ He/PRP ]
+is/VBZ making/VBG 
+[ a/DT virtue/NN ]
+out/IN of/IN 
+[ necessity/NN ]
+,/, ''/'' said/VBD 
+[ Sen./NNP Nunn/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ Secretary/NNP ]
+of/IN 
+[ State/NNP James/NNP Baker/NNP ]
+said/VBD in/IN 
+[ a/DT news/NN conference/NN ]
+that/IN 
+[ the/DT president/NN 's/POS proposal/NN ]
+could/MD lead/VB to/TO 
+[ a/DT much/RB quicker/JJR reduction/NN ]
+in/IN 
+[ chemical-weapons/NNS stockpiles/NNS ]
+than/IN 
+[ the/DT U.S./NNP law/NN ]
+requires/VBZ ./. 
+
+[ He/PRP ]
+also/RB noted/VBD that/IN 
+[ the/DT plan/NN ]
+would/MD prevent/VB 
+[ a/DT build-up/NN ]
+in/IN 
+[ supplies/NNS ]
+of/IN 
+[ the/DT newer/JJR weapons/NNS ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+said/VBD could/MD grow/VB under/IN 
+[ the/DT law/NN ]
+to/TO 
+[ levels/NNS ]
+``/`` vastly/RB 
+[ greater/JJR ]
+''/'' than/IN 
+[ current/JJ stockpiles/NNS ]
+of/IN 
+[ the/DT older/JJR ones/NNS ]
+./. 
+
+======================================
+
+[ National/NNP Security/NNP Adviser/NNP Brent/NNP Scowcroft/NNP ]
+said/VBD 
+[ Soviet/JJ leaders/NNS ]
+had/VBD been/VBN apprised/VBN of/IN 
+[ the/DT U.S./NNP proposal/NN ]
+in/IN 
+[ advance/NN ]
+./. 
+
+[ Soviet/NNP Foreign/NNP Minister/NNP Eduard/NNP Shevardnadze/NNP ]
+later/RB said/VBD 
+[ the/DT Soviets/NNPS ]
+have/VBP 
+[ a/DT ]
+``/`` 
+[ positive/JJ view/NN ]
+of/IN 
+[ the/DT proposal/NN ]
+./. 
+
+''/'' At/IN 
+[ a/DT meeting/NN last/JJ weekend/NN ]
+in/IN 
+[ Wyoming/NNP ]
+,/, 
+[ Messrs./NNPS Shevardnadze/NNP ]
+and/CC 
+[ Baker/NNP ]
+signed/VBD 
+[ an/DT agreement/NN ]
+under/IN 
+[ which/WDT ]
+
+[ the/DT two/CD nations/NNS ]
+will/MD exchange/VB 
+[ information/NN ]
+about/IN 
+[ their/PRP$ stockpiles/NNS ]
+of/IN 
+[ chemical/NN weapons/NNS ]
+and/CC 
+[ facilities/NNS ]
+for/IN producing/VBG 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ The/DT president/NN 's/POS proposed/VBN cut/NN ]
+in/IN 
+[ U.S./NNP ]
+and/CC 
+[ Soviet/JJ chemical-weapon/NN stocks/NNS ]
+would/MD come/VB even/RB before/IN 
+[ a/DT multilateral/JJ treaty/NN ]
+to/TO end/VB 
+[ production/NN ]
+of/IN 
+[ chemical/NN weapons/NNS ]
+is/VBZ signed/VBN ./. 
+
+[ Mr./NNP Bush/NNP ]
+also/RB offered/VBD to/TO eliminate/VB 
+[ all/DT ]
+but/CC 
+[ 2/CD %/NN ]
+of/IN 
+[ such/JJ weapons/NNS ]
+within/IN 
+[ eight/CD years/NNS ]
+of/IN 
+[ the/DT signing/NN ]
+of/IN 
+[ such/JJ a/DT treaty/NN ]
+./. 
+
+And/CC 
+[ he/PRP ]
+said/VBD 
+[ the/DT U.S./NNP ]
+would/MD eliminate/VB 
+[ the/DT remaining/VBG stocks/NNS ]
+in/IN 
+[ the/DT next/JJ two/CD years/NNS ]
+,/, but/CC only/RB if/IN 
+[ all/DT nations/NNS ]
+capable/JJ of/IN producing/VBG 
+[ them/PRP ]
+--/: including/VBG 
+[ such/JJ intransigent/JJ countries/NNS ]
+as/IN 
+[ Libya/NNP ]
+--/: agree/VBP to/TO 
+[ a/DT ban/NN ]
+./. 
+
+======================================
+
+[ The/DT White/NNP House/NNP ]
+said/VBD 
+[ 20/CD nations/NNS ]
+currently/RB are/VBP capable/JJ of/IN producing/VBG 
+[ the/DT weapons/NNS ]
+./. 
+
+[ The/DT initiative/NN ]
+does/VBZ n't/RB include/VB 
+[ biological/JJ weapons/NNS ]
+,/, 
+[ Gen./NNP Scowcroft/NNP ]
+said/VBD ./. 
+
+======================================
+
+Although/IN 
+[ the/DT U.S./NNP ]
+refuses/VBZ to/TO disclose/VB 
+[ the/DT exact/JJ level/NN ]
+of/IN 
+[ its/PRP$ chemical-weapon/NN stocks/NNS ]
+,/, 
+[ many/JJ experts/NNS ]
+believe/VBP 
+[ the/DT U.S./NNP inventory/NN ]
+totals/VBZ 
+[ 30,000/CD tons/NNS ]
+./. 
+
+[ The/DT Soviets/NNPS ]
+claim/VBP to/TO have/VB 
+[ 50,000/CD tons/NNS ]
+of/IN 
+[ chemical/NN weapons/NNS ]
+,/, but/CC 
+[ U.S./NNP experts/NNS ]
+believe/VBP 
+[ the/DT number/NN ]
+could/MD be/VB as/RB high/JJ as/IN 
+[ 300,000/CD tons/NNS ]
+./. 
+
+======================================
+
+[ U.S./NNP officials/NNS ]
+admitted/VBD that/IN 
+[ the/DT difficulty/NN ]
+of/IN precisely/RB verifying/VBG 
+[ current/JJ quantities/NNS ]
+of/IN 
+[ chemical/NN weapons/NNS ]
+,/, or/CC even/RB 
+[ which/WDT nations/NNS ]
+possess/VBP 
+[ them/PRP ]
+,/, has/VBZ been/VBN 
+[ a/DT major/JJ obstacle/NN ]
+in/IN reaching/VBG 
+[ the/DT multilateral/JJ agreement/NN ]
+./. 
+
+[ Gen./NNP Scowcroft/NNP ]
+called/VBD 
+[ the/DT search/NN ]
+for/IN 
+[ acceptable/JJ verification/NN ]
+procedures/VBZ 
+[ a/DT ]
+``/`` 
+[ daunting/JJ challenge/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT chemical/NN weapons/NNS proposal/NN ]
+was/VBD 
+[ the/DT ]
+only/RB 
+[ new/JJ initiative/NN ]
+in/IN 
+[ Mr./NNP Bush/NNP 's/POS U.N./NNP speech/NN ]
+,/, 
+[ which/WDT ]
+challenged/VBD 
+[ the/DT organization/NN ]
+to/TO confront/VB 
+[ the/DT ]
+``/`` 
+[ global/JJ challenges/NNS ]
+of/IN 
+[ the/DT 21st/CD century/NN ]
+''/'' --/: including/VBG 
+[ economic/JJ growth/NN ]
+and/CC 
+[ environmental/JJ problems/NNS ]
+,/, 
+[ drug/NN ]
+trafficking/NN and/CC 
+[ terrorism/NN ]
+./. 
+
+[ He/PRP ]
+specifically/RB called/VBD on/IN 
+[ the/DT U.N./NNP General/NNP Assembly/NNP ]
+to/TO condemn/VB 
+[ the/DT killing/NN ]
+of/IN 
+[ U.S./NNP Lt./NNP Col./NNP William/NNP Higgins/NNP ]
+,/, 
+[ who/WP ]
+was/VBD kidnapped/VBN and/CC killed/VBN by/IN 
+[ a/DT Shiite/NNP terrorist/NN group/NN ]
+while/IN serving/VBG on/IN 
+[ a/DT peace-keeping/NN force/NN ]
+in/IN 
+[ Lebanon/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Bush/NNP ]
+also/RB lauded/VBD 
+[ what/WP ]
+
+[ he/PRP ]
+called/VBD 
+[ the/DT ascendancy/NN ]
+of/IN 
+[ freedom/NN ]
+and/CC 
+[ market/NN economies/NNS ]
+around/IN 
+[ the/DT world/NN ]
+,/, 
+[ a/DT theme/NN ]
+
+[ he/PRP ]
+also/RB sounded/VBD during/IN 
+[ his/PRP$ trip/NN last/JJ summer/NN ]
+to/TO 
+[ Poland/NNP ]
+and/CC 
+[ Hungary/NNP ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, reflecting/VBG 
+[ warming/VBG relations/NNS ]
+with/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+,/, 
+[ the/DT president/NN ]
+made/VBD only/RB 
+[ positive/JJ references/NNS ]
+to/TO 
+[ Moscow/NNP ]
+./. 
+
+Referring/VBG to/TO 
+[ last/JJ weekend/NN 's/POS meeting/NN ]
+between/IN 
+[ Messrs./NNPS Baker/NNP ]
+and/CC 
+[ Shevardnadze/NNP ]
+,/, 
+[ Mr./NNP Bush/NNP ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+am/VBP very/RB pleased/JJ by/IN 
+[ the/DT progress/NN ]
+
+[ we/PRP ]
+made/VBD ./. 
+
+''/'' 
+======================================
+
+[ Gen./NNP Scowcroft/NNP ]
+said/VBD 
+[ the/DT new/JJ chemical-weapon/NN initiative/NN ]
+was/VBD meant/VBN in/IN 
+[ part/NN ]
+to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ Moscow/NNP 's/POS cooperative/JJ attitude/NN ]
+on/IN 
+[ arms-control/NN issues/NNS ]
+./. 
+
+[ He/PRP ]
+noted/VBD ,/, for/IN 
+[ example/NN ]
+,/, that/IN 
+[ the/DT Soviets/NNPS ]
+have/VBP already/RB offered/VBN to/TO make/VB 
+[ far/JJ larger/JJR cuts/NNS ]
+than/IN 
+[ the/DT U.S./NNP ]
+in/IN 
+[ conventional/JJ weapons/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ Mr./NNP Bush/NNP ]
+was/VBD 
+[ a/DT former/JJ U.S./NNP representative/NN ]
+to/TO 
+[ the/DT U.N./NNP ]
+in/IN 
+[ the/DT 1970s/NNS ]
+,/, 
+[ his/PRP$ reception/NN ]
+by/IN 
+[ the/DT General/NNP Assembly/NNP ]
+was/VBD tepid/JJ ./. 
+
+[ The/DT 40-minute/JJ speech/NN ]
+was/VBD interrupted/VBN only/RB twice/RB by/IN 
+[ applause/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+and/CC 
+[ Mrs./NNP Bush/NNP ]
+,/, as/RB well/RB as/IN 
+[ Secretary/NNP Baker/NNP ]
+,/, were/VBD greeted/VBN warmly/RB by/IN 
+[ the/DT delegates/NNS ]
+before/IN 
+[ the/DT speech/NN ]
+./. 
+
+======================================
+
+[ Robert/NNP S./NNP Greenberger/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

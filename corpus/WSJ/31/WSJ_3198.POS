@@ -1,0 +1,196 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+said/VBD 
+[ one/CD ]
+newly/RB issued/VBN 
+[ stock/NN ]
+began/VBD trading/VBG ./. 
+
+======================================
+
+[ Enron/NNP Oil/NNP ]
+&/CC 
+[ Gas/NNP Co./NNP ]
+,/, 
+[ Houston/NNP ]
+,/, is/VBZ trading/VBG with/IN 
+[ the/DT symbol/NN EOG/NNP ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ engaged/VBN in/IN 
+[ exploration/NN ]
+and/CC 
+[ production/NN ]
+of/IN 
+[ oil/NN ]
+&/CC 
+[ natural/JJ gas/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+./. 
+
+======================================
+
+[ The/DT National/NNP Association/NNP ]
+of/IN 
+[ Securities/NNP Dealers/NNP ]
+said/VBD 
+[ three/CD ]
+newly/RB issued/VBN 
+[ stocks/NNS ]
+started/VBD trading/VBG on/IN 
+[ the/DT National/NNP Market/NNP System/NNP ]
+./. 
+
+======================================
+
+[ Digi/NNP International/NNP Inc./NNP ]
+,/, 
+[ St./NNP Louis/NNP Park/NNP ]
+,/, 
+[ Minn./NNP ]
+,/, was/VBD listed/VBN with/IN 
+[ the/DT symbol/NN DGII/NNP ]
+./. 
+
+[ Digi/NNP ]
+makes/VBZ 
+[ data/NNS communications/NNS products/NNS ]
+
+[ that/WDT ]
+allow/VBP 
+[ microcomputers/NNS ]
+to/TO function/VB as/IN 
+[ network/NN systems/NNS ]
+./. 
+
+======================================
+
+[ Hotelecopy/NNP Inc./NNP ]
+,/, 
+[ a/DT Miami/NNP provider/NN ]
+of/IN 
+[ hotel/NN facsimile/NN network/NN services/NNS ]
+,/, started/VBD trading/VBG with/IN 
+[ the/DT symbol/NN FAXM/NNP ]
+./. 
+
+======================================
+
+[ Surgical/NNP Laser/NNP Technologies/NNP Inc./NNP ]
+,/, 
+[ Malvern/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, started/VBD trading/VBG with/IN 
+[ the/DT symbol/NN SLTI/NNP ]
+./. 
+
+[ The/DT company/NN ]
+provides/VBZ 
+[ a/DT laser/NN system/NN ]
+for/IN 
+[ use/NN ]
+in/IN 
+[ surgery/NN ]
+./. 
+
+======================================
+
+[ The/DT American/NNP Stock/NNP Exchange/NNP ]
+said/VBD 
+[ it/PRP ]
+listed/VBD put/NN and/CC call/NN 
+[ options/NNS ]
+on/IN 
+[ the/DT common/JJ stock/NN ]
+of/IN 
+[ two/CD companies/NNS ]
+./. 
+
+======================================
+
+[ The/DT exchange/NN ]
+began/VBD trading/VBG 
+[ options/NNS ]
+on/IN 
+[ both/DT ]
+
+[ the/DT Class/NNP ]
+
+[ A/NNP ]
+and/CC 
+[ Class/NNP B/NNP stocks/NNS ]
+of/IN 
+[ Food/NNP Lion/NNP Inc./NNP ]
+,/, 
+[ a/DT Salisbury/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, 
+[ supermarket/NN chain/NN ]
+./. 
+
+[ Class/NNP ]
+
+[ A/NNP stock/NN ]
+does/VBZ n't/RB allow/VB voting/NN 
+[ rights/NNS ]
+,/, while/IN 
+[ Class/NNP B/NNP ]
+does/VBZ ./. 
+
+[ The/DT exchange/NN ]
+also/RB listed/VBD 
+[ options/NNS ]
+on/IN 
+[ Laidlaw/NNP Transportation/NNP Ltd./NNP ]
+,/, 
+[ a/DT Burlington/NNP ]
+,/, 
+[ Ontario/NNP ]
+,/, 
+[ transportation/NN ]
+,/, 
+[ courier/NN ]
+,/, and/CC 
+[ waste/NN services/NNS ]
+firm/NN ./. 
+
+[ The/DT Pacific/NNP Stock/NNP Exchange/NNP ]
+listed/VBD 
+[ options/NNS ]
+on/IN 
+[ the/DT common/JJ stock/NN ]
+of/IN 
+[ Octel/NNP Communications/NNP Corp./NNP ]
+,/, 
+[ a/DT Milpitas/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ voice/NN ]
+processing/NN 
+[ systems/NNS ]
+./. 

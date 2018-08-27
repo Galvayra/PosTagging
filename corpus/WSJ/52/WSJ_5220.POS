@@ -1,0 +1,161 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT federal/JJ judge/NN ]
+dismissed/VBD 
+[ a/DT lawsuit/NN ]
+brought/VBN by/IN 
+[ 18/CD states/NNS ]
+alleging/VBG that/IN 
+[ numerous/JJ big/JJ insurance/NN companies/NNS ]
+conspired/VBD to/TO control/VB 
+[ the/DT insurance/NN market/NN ]
+./. 
+
+======================================
+
+[ California/NNP Attorney/NNP General/NNP John/NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+,/, 
+[ whose/WP$ office/NN ]
+is/VBZ heading/VBG up/IN 
+[ the/DT states/NNS '/POS case/NN ]
+,/, immediately/RB vowed/VBD to/TO appeal/VB and/CC to/TO keep/VB 
+[ appealing/JJ all/PDT the/DT way/NN ]
+to/TO 
+[ the/DT U.S./NNP Supreme/NNP Court/NNP ]
+,/, if/IN 
+[ necessary/JJ ]
+./. 
+
+======================================
+
+Neither/CC 
+[ the/DT dismissal/NN ]
+nor/CC 
+[ the/DT promised/VBN appeal/NN ]
+are/VBP 
+[ a/DT surprise/NN ]
+./. 
+
+In/IN 
+[ his/PRP$ preliminary/JJ opinion/NN ]
+circulated/VBN in/IN 
+[ July/NNP ]
+,/, 
+[ Judge/NNP William/NNP W./NNP Schwarzer/NNP ]
+had/VBD said/VBN that/IN ,/, even/RB if/IN 
+[ the/DT companies/NNS ]
+colluded/VBD to/TO drive/VB up/IN 
+[ insurance/NN rates/NNS ]
+,/, 
+[ the/DT companies/NNS ]
+were/VBD probably/RB protected/VBN from/IN 
+[ any/DT liability/NN ]
+by/IN 
+[ the/DT McCarran-Ferguson/NNP Act/NNP ]
+of/IN 
+[ 1944/CD ]
+./. 
+
+[ That/DT act/NN ]
+grants/VBZ 
+[ the/DT insurance/NN industry/NN broad/JJ exemptions/NNS ]
+from/IN 
+[ antitrust/JJ laws/NNS ]
+./. 
+
+======================================
+
+[ The/DT suit/NN 's/POS primary/JJ targets/NNS ]
+included/VBD 
+[ Aetna/NNP Casualty/NNP ]
+&/CC 
+[ Surety/NNP ]
+,/, 
+[ Sears/NNP ]
+,/, 
+[ Roebuck/NNP ]
+&/CC 
+[ Co./NNP 's/POS Allstate/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ Hartford/NNP Fire/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ Cigna/NNP Corp./NNP ]
+and/CC 
+[ Lloyd/NNP 's/POS ]
+of/IN 
+[ London/NNP ]
+./. 
+
+Basically/RB ,/, 
+[ the/DT states/NNS ]
+alleged/VBD that/IN through/IN 
+[ threats/NNS ]
+and/CC 
+[ other/JJ coercive/JJ tactics/NNS ]
+beginning/VBG in/IN late/RB 
+[ 1984/CD ]
+,/, 
+[ the/DT companies/NNS ]
+illegally/RB conspired/VBD to/TO deny/VB 
+[ certain/JJ kinds/NNS ]
+of/IN 
+[ coverage/NN ]
+for/IN 
+[ such/JJ things/NNS ]
+as/IN 
+[ pollution/NN damage/NN ]
+./. 
+
+[ Insurance/NN rates/NNS ]
+skyrocketed/VBD and/CC 
+[ many/JJ communities/NNS ]
+were/VBD hurt/VBN because/IN 
+[ they/PRP ]
+had/VBD to/TO pay/VB 
+[ much/JJ higher/JJR premiums/NNS ]
+for/IN 
+[ far/RB less/JJR coverage/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ his/PRP$ final/JJ ruling/NN ]
+,/, 
+[ Judge/NNP Schwarzer/NNP ]
+said/VBD that/IN ,/, though/IN 
+[ the/DT insurance/NN companies/NNS '/POS conduct/NN ]
+``/`` may/MD well/RB state/VB 
+[ a/DT claim/NN ]
+for/IN 
+[ relief/NN ]
+''/'' under/IN 
+[ antitrust/JJ laws/NNS ]
+in/IN 
+[ any/DT other/JJ industries/NNS ]
+,/, 
+[ the/DT insurance/NN industry/NN 's/POS antitrust/JJ exemptions/NNS ]
+made/VBD 
+[ it/PRP ]
+immune/JJ from/IN 
+[ liability/NN ]
+in/IN 
+[ this/DT case/NN ]
+./. 

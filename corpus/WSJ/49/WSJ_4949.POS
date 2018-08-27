@@ -1,0 +1,866 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Part/NN ]
+of/IN 
+[ a/DT Series/NN ]
+ }/) 
+======================================
+
+To/TO get/VB 
+[ the/DT individual/JJ investor/NN ]
+off/IN 
+[ the/DT endangered/JJ species/NNS list/NN ]
+,/, 
+[ Wall/NNP Street/NNP ]
+might/MD consider/VB firing/VBG 
+[ the/DT arbitragers/NNS ]
+and/CC hiring/VBG 
+[ a/DT few/JJ Boy/NNP Scouts/NNPS ]
+./. 
+
+======================================
+
+[ The/DT investing/JJ public/NN ]
+distrusts/VBZ 
+[ the/DT securities/NNS industry/NN ]
+and/CC knows/VBZ precious/RB little/JJ about/IN 
+[ what/WP ]
+
+[ it/PRP ]
+sells/VBZ ,/, according/VBG to/TO 
+[ The/DT Wall/NNP Street/NNP Journal/NNP 's/POS ]
+``/`` 
+[ American/JJ Way/NN ]
+of/IN 
+[ Buying/VBG ]
+''/'' 
+[ consumer/NN survey/NN ]
+./. 
+
+Further/RB ,/, 
+[ conversations/NNS ]
+with/IN 
+[ individuals/NNS ]
+and/CC 
+[ marketing/NN professionals/NNS ]
+suggest/VBP that/IN 
+[ the/DT small/JJ investor/NN ]
+--/: effectively/RB missing/VBG from/IN 
+[ the/DT 1988-89/CD bull/NN market/NN ]
+--/: may/MD not/RB return/VB until/IN 
+[ stockbrokers/NNS ]
+demonstrate/VBP 
+[ more/JJR honesty/NN ]
+,/, 
+[ personal/JJ attention/NN ]
+to/TO 
+[ the/DT customer/NN ]
+and/CC 
+[ a/DT willingness/NN ]
+to/TO explain/VB 
+[ their/PRP$ investment/NN strategies/NNS ]
+more/RBR clearly/RB ./. 
+
+======================================
+
+[ What/WP ]
+
+[ the/DT public/NN ]
+wants/VBZ ,/, in/IN 
+[ short/JJ ]
+,/, is/VBZ 
+[ what/WP brokers/NNS ]
+derisively/RB refer/VBP to/TO as/RB hand-holding/NN ./. 
+
+[ A/DT face/NN lift/NN ]
+could/MD also/RB help/VB ./. 
+
+[ The/DT Ivan/NNP Boesky-greed-is-good/JJ stereotype/NN ]
+is/VBZ well/RB entrenched/VBN and/CC is/VBZ reinforced/VBN by/IN 
+[ the/DT power/NN messages/NNS ]
+and/CC 
+[ aggressive/JJ characters/NNS ]
+in/IN 
+[ much/JJ financial/JJ advertising/NN ]
+./. 
+
+For/IN 
+[ a/DT new/JJ image/NN ]
+,/, 
+[ some/DT ]
+
+[ marketing/NN specialists/NNS ]
+suggest/VBP 
+[ a/DT shift/NN ]
+to/TO 
+[ how-to/JJ primers/NNS ]
+and/CC 
+[ honest/JJ admissions/NNS ]
+that/IN 
+[ the/DT stock/NN market/NN ]
+has/VBZ been/VBN 
+[ a/DT terrifying/JJ place/NN ]
+lately/RB ./. 
+
+======================================
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ the/DT Journal/NNP survey/NN ]
+,/, 
+[ the/DT Roper/NNP Organization/NNP ]
+and/CC 
+[ Peter/NNP D./NNP Hart/NNP Research/NNP Associates/NNP ]
+
+[ each/DT ]
+asked/VBD 
+[ some/RB 2,000/CD adults/NNS ]
+about/IN 
+[ their/PRP$ savings/NNS ]
+and/CC 
+[ investment/NN attitudes/NNS ]
+./. 
+
+Among/IN 
+[ other/JJ things/NNS ]
+,/, 
+[ the/DT Roper/NNP Organization/NNP ]
+found/VBD that/IN 
+[ half/NN ]
+of/IN 
+[ all/DT consumers/NNS ]
+--/: including/VBG 
+[ a/DT quarter/NN ]
+of/IN 
+[ those/DT ]
+with/IN 
+[ incomes/NNS ]
+above/IN 
+[ $/$ 50,000/CD ]
+--/: say/VB 
+[ they/PRP ]
+do/VBP n't/RB even/RB know/VB how/WRB to/TO buy/VB 
+[ shares/NNS ]
+of/IN 
+[ stock/NN ]
+./. 
+
+And/CC in/IN 
+[ the/DT Hart/NNP survey/NN ]
+,/, even/RB among/IN 
+[ those/DT people/NNS ]
+in/IN 
+[ professional\/executive/JJ jobs/NNS ]
+,/, twice/RB as/IN 
+[ many/JJ rate/NN ]
+
+[ themselves/PRP ]
+as/IN 
+[ poor/JJ investment/NN consumers/NNS ]
+as/IN 
+[ good/JJ ones/NNS ]
+./. 
+
+======================================
+
+[ Roy/NNP Grace/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT Grace/NNP ]
+&/CC 
+[ Rothschild/NNP advertising/NN agency/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, lays/VBZ 
+[ the/DT blame/NN ]
+for/IN 
+[ investment/NN ignorance/NN ]
+on/IN 
+[ the/DT lack/NN ]
+of/IN 
+[ information/NN ]
+in/IN 
+[ Wall/NNP Street/NNP 's/POS marketing/NN ]
+./. 
+
+``/`` When/WRB 
+[ you/PRP ]
+have/VBP 
+[ an/DT industry/NN ]
+personified/VBN by/IN 
+[ bulls/NNS ]
+and/CC 
+[ a/DT variety/NN ]
+of/IN 
+[ other/JJ animals/NNS ]
+to/TO communicate/VB 
+[ confidence/NN ]
+,/, 
+[ you/PRP ]
+know/VBP 
+[ you/PRP ]
+'re/VBP in/IN 
+[ trouble/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Grace/NNP ]
+,/, 
+[ whose/WP$ clients/NNS ]
+include/VBP 
+[ Whittle/NNP Communications/NNP Inc./NNP ]
+and/CC 
+[ Salomon/NNP Brothers/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ He/PRP ]
+suggests/VBZ 
+[ advertising/NN ]
+
+[ that/WDT ]
+emphasizes/VBZ 
+[ the/DT basic/JJ strengths/NNS ]
+of/IN investing/VBG|NN and/CC tries/VBZ to/TO expand/VB 
+[ the/DT customer/NN base/NN ]
+,/, rather/RB than/IN 
+[ pitches/NNS ]
+to/TO 
+[ existing/JJ investors/NNS ]
+./. 
+
+``/`` 
+[ What/WP people/NNS ]
+really/RB need/VBP is/VBZ 
+[ an/DT education/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Grace/NNP ]
+./. 
+
+``/`` When/WRB 
+[ you/PRP ]
+have/VBP 
+[ a/DT truth/NN ]
+
+[ that/WDT ]
+is/VBZ conclusive/JJ and/CC 
+[ concrete/JJ ]
+--/: like/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT stock/NN market/NN ]
+has/VBZ outperformed/VBN 
+[ everything/NN ]
+else/RB historically/RB --/: and/CC 
+[ that/DT ]
+is/VBZ n't/RB being/VBG communicated/VBN ,/, 
+[ that/DT ]
+'s/VBZ 
+[ a/DT lost/JJ opportunity/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Journal/NNP survey/NN ]
+also/RB found/VBD that/IN 
+[ Americans/NNPS ]
+in/IN 
+[ general/JJ ]
+profess/VBP to/TO trust/VB 
+[ brokers/NNS ]
+less/RBR than/IN 
+[ bankers/NNS ]
+and/CC 
+[ other/JJ financial/JJ intermediaries/NNS ]
+--/: including/VBG 
+[ the/DT scandal-ridden/JJ ]
+,/, 
+[ shaky/JJ savings/NNS ]
+and/CC 
+[ loan/NN industry/NN ]
+./. 
+
+And/CC 
+[ consumers/NNS ]
+give/VB 
+[ stockbrokers/NNS '/POS service/NN ]
+
+[ a/DT poor/JJ rating/NN ]
+./. 
+
+======================================
+
+[ Carol/NNP Moog/NNP ]
+,/, 
+[ a/DT psychologist/NN ]
+and/CC 
+[ advertising/NN consultant/NN ]
+in/IN 
+[ Philadelphia/NNP ]
+,/, says/VBZ 
+[ the/DT low/JJ level/NN ]
+of/IN 
+[ confidence/NN ]
+in/IN 
+[ Wall/NNP Street/NNP ]
+is/VBZ 
+[ a/DT result/NN ]
+of/IN ``/`` failing/VBG to/TO be/VB sensitive/JJ to/TO 
+[ what/WP ]
+goes/VBZ on/RP psychologically/RB among/IN 
+[ investors/NNS ]
+./. 
+
+''/'' Since/IN 
+[ people/NNS 's/POS fears/NNS ]
+about/IN 
+[ volatility/NN ]
+and/CC 
+[ dishonesty/NN ]
+were/VBD reinforced/VBN by/IN 
+[ the/DT 1987/CD crash/NN ]
+and/CC 
+[ the/DT insider-trading/NN scandals/NNS ]
+,/, 
+[ she/PRP ]
+suggests/VBZ that/IN 
+[ a/DT confessional/JJ approach/NN ]
+to/TO 
+[ advertising/NN ]
+could/MD help/VB restore/VB 
+[ credibility/NN ]
+./. 
+
+======================================
+
+[ Brokers/NNS ]
+,/, 
+[ she/PRP ]
+advises/VBZ ,/, should/MD start/VB with/IN 
+[ an/DT apology/NN ]
+./. 
+
+``/`` 
+[ They/PRP ]
+should/MD say/VB ,/, 
+[ 'We/PRP  'We/PRP ]
+want/VBP to/TO get/VB 
+[ your/PRP$ trust/NN ]
+back/RP ./. 
+
+Maybe/RB in/IN 
+[ some/DT ways/NNS ]
+
+[ the/DT stock/NN market/NN ]
+was/VBD oversold/VBN ./. 
+
+Maybe/RB 
+[ some/DT ]
+of/IN 
+[ you/PRP ]
+were/VBD caught/VBN 
+[ unaware/JJ ]
+by/IN 
+[ all/PDT this/DT ]
+./. 
+
+So/RB were/VBD 
+[ we/PRP ]
+./. 
+
+'/'' ''/'' 
+======================================
+
+[ Apologies/NNS ]
+might/MD not/RB be/VB enough/JJ ,/, though/RB ,/, for/IN 
+[ some/DT skeptical/JJ consumers/NNS ]
+./. 
+
+Asked/VBN for/IN 
+[ the/DT first/JJ word/NN ]
+
+[ that/WDT ]
+comes/VBZ to/TO mind/VB when/WRB 
+[ he/PRP ]
+hears/VBZ 
+[ the/DT word/NN stockbroker/NN ]
+,/, 
+[ Cincinnati/NNP truck/NN driver/NN James/NNP Hines/NNP ]
+says/VBZ ``/`` 
+[ crash/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Hines/NNP ]
+and/CC 
+[ his/PRP$ wife/NN ]
+make/VBP nearly/RB 
+[ $/$ 50,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+[ All/PDT their/PRP$ savings/NNS ]
+--/: including/VBG 
+[ $/$ 5,000/CD ]
+in/IN 
+[ certificates/NNS ]
+of/IN 
+[ deposit/NN ]
+--/: is/VBZ at/IN 
+[ the/DT local/JJ bank/NN ]
+./. 
+
+Why/WRB not/RB reach/VB for/IN 
+[ a/DT higher/JJR return/NN ]
+,/, maybe/RB call/VB up/RP 
+[ a/DT broker/NN ]
+and/CC buy/VB 
+[ a/DT good/JJ common/JJ stock/NN ]
+?/. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+just/RB ca/MD n't/RB see/VB giving/VBG 
+[ it/PRP ]
+to/TO 
+[ someone/NN ]
+
+[ I/PRP ]
+do/VBP n't/RB trust/VB ,/, ''/'' says/VBZ 
+[ Mr./NNP Hines/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT participants/NNS ]
+in/IN 
+[ the/DT Journal/NNP survey/NN ]
+./. 
+
+``/`` 
+[ The/DT banks/NNS ]
+can/MD fold/VB up/RP as/RB easily/RB as/IN 
+[ the/DT other/JJ places/NNS ]
+,/, 
+[ I/PRP ]
+know/VBP ,/, but/CC at/IN 
+[ least/JJS they/PRP ]
+'re/VBP straight/JJ ./. 
+
+''/'' 
+======================================
+
+[ Andrew/NNP Stockdale/NNP ]
+,/, 
+[ a/DT postal/JJ clerk/NN ]
+in/IN 
+[ Wildwood/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, and/CC 
+[ his/PRP$ wife/NN ]
+earn/VBP 
+[ $/$ 40,000/CD ]
+to/TO 
+[ $/$ 45,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+With/IN 
+[ a/DT little/JJ ]
+extra/JJ saved/VBN ,/, 
+[ they/PRP ]
+'re/VBP buying/VBG 
+[ a/DT second/JJ house/NN ]
+to/TO generate/VB 
+[ rental/JJ income/NN ]
+./. 
+
+[ The/DT stock/NN market/NN ]
+?/. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB like/VB 
+[ it/PRP ]
+and/CC 
+[ I/PRP ]
+do/VBP n't/RB know/VB too/RB much/JJ about/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Stockdale/NNP ]
+./. 
+
+``/`` For/IN 
+[ the/DT customer/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT very/RB risky/JJ business/NN ]
+,/, but/CC 
+[ the/DT brokers/NNS ]
+are/VBP in/IN 
+[ a/DT no-lose/JJ situation/NN ]
+./. 
+
+[ They/PRP ]
+collect/VBP if/IN 
+[ it/PRP ]
+goes/VBZ up/RP and/CC 
+[ they/PRP ]
+collect/VBP if/IN 
+[ it/PRP ]
+goes/VBZ down/RP ./. 
+
+[ All/DT ]
+
+[ they/PRP ]
+want/VBP is/VBZ to/TO buy/VB and/CC sell/VB 
+[ your/PRP$ stocks/NNS ]
+like/IN 
+[ crazy/JJ ]
+./. 
+
+''/'' 
+======================================
+
+If/IN 
+[ they/PRP ]
+knew/VBD 
+[ a/DT little/JJ bit/NN ]
+more/JJR about/IN 
+[ investments/NNS ]
+,/, 
+[ Messrs./NNPS Hines/NNP ]
+and/CC 
+[ Stockdale/NNP ]
+add/VBP ,/, maybe/RB 
+[ they/PRP ]
+would/MD n't/RB be/VB so/RB afraid/JJ of/IN getting/VBG fleeced/VBN ./. 
+
+In/IN 
+[ the/DT Hart/NNP survey/NN ]
+,/, 
+[ respondents/NNS ]
+rate/VBP 
+[ themselves/PRP ]
+better/RBR informed/JJ on/IN 
+[ exercise/NN equipment/NN ]
+,/, 
+[ bank/NN loans/NNS ]
+,/, 
+[ insurance/NN ]
+and/CC 
+[ stereo/NN equipment/NN ]
+--/: 
+[ every/DT other/JJ product/NN ]
+in/IN 
+[ the/DT poll/NN ]
+except/IN 
+[ computers/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP 
+[ a/DT virtual/JJ dead/JJ heat/NN ]
+with/IN 
+[ stocks/NNS ]
+in/IN 
+[ inscrutability/NN ]
+./. 
+
+[ Misinformation/NN runs/VBZ ]
+rampant/JJ in/IN 
+[ the/DT survey/NN respondents/NNS '/POS answers/NNS ]
+to/TO 
+[ follow-up/JJ questions/NNS ]
+./. 
+
+[ One/CD blue-collar/JJ worker/NN ]
+in/IN 
+[ the/DT Midwest/NNP ]
+reckons/VBZ 
+[ mutual/JJ funds/NNS ]
+would/MD use/VB 
+[ his/PRP$ money/NN ]
+to/TO buy/VB ``/`` 
+[ futures/NNS ]
+or/CC 
+[ pork/NN bellies/NNS ]
+./. 
+
+''/'' 
+[ A/DT Texas/NNP homemaker/NN ]
+says/VBZ 
+[ commissions/NNS ]
+on/IN 
+[ stock/NN transactions/NNS ]
+are/VBP about/RB 
+[ 10/CD %/NN ]
+,/, instead/RB of/IN 
+[ the/DT 1/CD %/NN ]
+to/TO 
+[ 3/CD %/NN ]
+that/WDT 
+[ brokers/NNS ]
+typically/RB charge/VBP 
+[ individuals/NNS ]
+./. 
+
+[ A/DT retired/JJ Illinois/NNP custodian/NN ]
+does/VBZ n't/RB know/VB that/IN 
+[ securities/NNS ]
+in/IN 
+[ customers/NNS '/POS accounts/NNS ]
+are/VBP protected/VBN by/IN 
+[ federal/JJ insurance/NN ]
+./. 
+
+======================================
+
+[ Consumers/NNS ]
+are/VBP reasonably/RB confident/JJ 
+[ they/PRP ]
+know/VBP how/WRB to/TO invest/VB in/IN 
+[ certificates/NNS ]
+of/IN 
+[ deposit/NN ]
+,/, 
+[ U.S./NNP savings/NNS bonds/NNS ]
+or/CC 
+[ money/NN market/NN funds/NNS ]
+./. 
+
+But/CC 
+[ that/DT ]
+'s/VBZ where/WRB 
+[ it/PRP ]
+ends/VBZ ./. 
+
+[ Buying/VBG ]
+,/, say/UH ,/, 
+[ a/DT stock/NN mutual/JJ fund/NN ]
+is/VBZ beyond/IN 
+[ the/DT grasp/NN ]
+of/IN 
+[ half/NN ]
+of/IN 
+[ the/DT adult/JJ public/NN ]
+./. 
+
+[ Treasury/NNP ]
+,/, 
+[ corporate/JJ ]
+and/CC 
+[ municipal/JJ bonds/NNS ]
+are/VBP even/RB more/RBR befuddling/JJ ./. 
+
+======================================
+
+[ Investment/NN understanding/NN ]
+improves/VBZ with/IN 
+[ income/NN ]
+--/: but/CC not/RB by/IN much/JJ ./. 
+
+Among/IN 
+[ the/DT ]
+highly/RB taxed/VBN 
+[ citizens/NNS ]
+with/IN 
+[ incomes/NNS ]
+above/IN 
+[ $/$ 50,000/CD ]
+,/, about/RB 
+[ half/NN ]
+know/VBP how/WRB to/TO buy/VB 
+[ tax-free/JJ municipal/JJ bonds/NNS ]
+,/, but/CC more/JJR than/IN 
+[ 40/CD %/NN ]
+do/VBP n't/RB ./. 
+
+======================================
+
+Since/IN 
+[ the/DT 1975/CD deregulation/NN ]
+of/IN 
+[ fixed/JJ commissions/NNS ]
+,/, 
+[ variety/NN ]
+has/VBZ been/VBN 
+[ the/DT investment/NN industry/NN 's/POS strategy/NN ]
+for/IN broadening/VBG 
+[ its/PRP$ consumer/NN appeal/NN ]
+./. 
+
+[ The/DT industry/NN ]
+has/VBZ offered/VBN 
+[ a/DT supermarket/NN ]
+of/IN 
+[ diverse/JJ financial/JJ products/NNS ]
+to/TO attract/VB 
+[ customers/NNS ]
+
+[ who/WP ]
+might/MD then/RB be/VB switched/VBN into/IN 
+[ higher-profit/JJ ]
+investing/NN 
+[ such/JJ ]
+as/IN trading/VBG 
+[ stock/NN ]
+./. 
+
+[ Investment/NN firms/NNS ]
+have/VBP made/VBN 
+[ a/DT lot/NN ]
+of/IN 
+[ money/NN ]
+since/IN then/RB ,/, but/CC 
+[ the/DT Journal/NNP survey/NN ]
+shows/VBZ that/IN 
+[ consumers/NNS '/POS traditional/JJ financial/JJ loyalties/NNS ]
+remain/VBP 
+[ strong/JJ ]
+./. 
+
+======================================
+
+According/VBG to/TO 
+[ the/DT Roper/NNP segment/NN ]
+of/IN 
+[ the/DT Journal/NNP survey/NN ]
+,/, 
+[ two/CD ]
+out/IN of/IN 
+[ three/CD Americans/NNPS ]
+hold/VBP 
+[ certificates/NNS ]
+of/IN 
+[ deposit/NN ]
+,/, making/VBG 
+[ them/PRP ]
+
+[ the/DT most-owned/JJ investment/NN ]
+./. 
+
+Despite/IN 
+[ the/DT huge/JJ growth/NN ]
+in/IN 
+[ stock/NN market/NN volume/NN ]
+and/CC 
+[ mutual/JJ fund/NN assets/NNS ]
+,/, only/RB 
+[ one/CD ]
+in/IN 
+[ seven/CD people/NNS ]
+has/VBZ dealt/VBN with/IN 
+[ a/DT stockbroker/NN ]
+in/IN 
+[ the/DT past/JJ year/NN ]
+,/, and/CC only/RB 
+[ one/CD ]
+in/IN 
+[ five/CD ]
+says/VBZ 
+[ he/PRP ]
+holds/VBZ 
+[ stocks/NNS ]
+directly/RB or/CC through/IN 
+[ a/DT mutual/JJ fund/NN ]
+./. 
+
+======================================
+
+Too/RB often/RB ,/, says/VBZ 
+[ Michael/NNP Emmert/NNP ]
+,/, 
+[ a/DT Chicago/NNP business/NN consultant/NN ]
+,/, 
+[ stockbrokers/NNS ]
+do/VBP n't/RB even/RB view/VB 
+[ themselves/PRP ]
+as/IN 
+[ long-term/JJ service/NN providers/NNS ]
+./. 
+
+[ Mr./NNP Emmert/NNP ]
+says/VBZ 
+[ he/PRP ]
+deals/VBZ with/IN 
+[ brokers/NNS ]
+regularly/RB ,/, and/CC has/VBZ just/RB entrusted/VBN 
+[ one/CD ]
+with/IN 
+[ $/$ 20,000/CD ]
+to/TO help/VB finance/VB 
+[ his/PRP$ five-year-old/JJ son/NN 's/POS college/NN education/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+get/VBP called/VBN regularly/RB by/IN 
+[ brokers/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB want/VB to/TO know/VB 
+[ anything/NN ]
+about/IN 
+[ me/PRP ]
+or/CC 
+[ my/PRP$ goals/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Emmert/NNP ]
+./. 
+
+``/`` 
+[ All/DT ]
+
+[ they/PRP ]
+want/VBP is/VBZ to/TO sell/VB 
+[ me/PRP ]
+
+[ some/DT hot/JJ stock/NN ]
+./. 
+
+[ That/DT approach/NN ]
+just/RB turns/VBZ 
+[ me/PRP ]
+off/RP ./. 
+
+''/'' 
+======================================
+
+make/VB 
+[ each/DT investment/NN ]
+trust/VB most/JJS to/TO give/VB 
+[ good/JJ advice/NN ]
+on/IN investing/VBG 
+[ a/DT $/$ 10,000/CD windfall/NN ]
+
+======================================
+
+[ Source/NN ]
+:/: 
+[ Wall/NNP Street/NNP Journal/NNP Centennial/NNP ]

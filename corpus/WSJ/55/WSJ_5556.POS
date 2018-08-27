@@ -1,0 +1,712 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Maryann/NNP Keller/NNP ]
+,/, 
+[ a/DT financial/JJ analyst/NN ]
+
+[ who/WP ]
+tracks/VBZ 
+[ the/DT automobile/NN business/NN ]
+,/, is/VBZ 
+[ a/DT well-known/JJ ]
+,/, 
+[ one-woman/JJ cottage/NN industry/NN ]
+./. 
+
+[ She/PRP ]
+works/VBZ for/IN 
+[ the/DT New/NNP York/NNP investment/NN firm/NN ]
+of/IN 
+[ Furman/NNP ]
+,/, 
+[ Selz/NNP ]
+,/, 
+[ Mager/NNP ]
+,/, 
+[ Dietz/NNP ]
+&/CC 
+[ Birney/NNP Inc/NNP ]
+./. 
+
+[ She/PRP ]
+writes/VBZ for/IN 
+[ trade/NN publications/NNS ]
+,/, speaks/VBZ at/IN 
+[ industry/NN conferences/NNS ]
+and/CC advises/VBZ 
+[ auto/NN executives/NNS ]
+./. 
+
+======================================
+
+Now/RB 
+[ Ms./NNP Keller/NNP ]
+has/VBZ written/VBN ``/`` 
+[ Rude/NNP Awakening/NNP ]
+:/: 
+[ The/DT Rise/NNP ]
+,/, 
+[ Fall/NNP ]
+,/, and/CC 
+[ Struggle/NNP ]
+for/IN 
+[ Recovery/NNP ]
+of/IN 
+[ General/NNP Motors/NNPS ]
+''/'' (/( 
+[ William/NNP Morrow/NNP ]
+,/, 
+[ 275/CD pages/NNS ]
+,/, 
+[ $/$ 19.95/CD ]
+ )/) ./. 
+
+[ The/DT book/NN ]
+is/VBZ concise/JJ and/CC 
+[ accurate/JJ ]
+,/, but/CC also/RB 
+[ a/DT disappointment/NN ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ no/RB new/JJ revelations/NNS ]
+to/TO reward/VB 
+[ the/DT reader/NN ]
+slogging/VBG devotedly/RB through/IN 
+[ pages/NNS ]
+of/IN 
+[ auto-obscuria/NN ]
+describing/VBG ``/`` 
+[ transfer-pricing/JJ effects/NNS ]
+of/IN 
+[ the/DT component/NN divisions/NNS ]
+''/'' and/CC ``/`` 
+[ platform/NN groups/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ GM/NNP 's/POS recent/JJ woes/NNS ]
+amount/VBP to/TO 
+[ one/CD ]
+of/IN 
+[ the/DT more/RBR colossal/JJ industrial/JJ stumbles/NNS ]
+in/IN 
+[ history/NN ]
+./. 
+
+[ The/DT giant/NN 's/POS market/NN share/NN ]
+has/VBZ plunged/VBN 
+[ 10/CD points/NNS ]
+in/IN 
+[ five/CD years/NNS ]
+./. 
+
+As/IN 
+[ the/DT company/NN ]
+rushed/VBD into/IN 
+[ high/JJ technology/NN ]
+,/, 
+[ some/DT ]
+of/IN 
+[ its/PRP$ robots/NNS ]
+ran/VBD amok/RB ,/, and/CC 
+[ others/NNS ]
+would/MD n't/RB run/VB at/IN 
+[ all/DT ]
+./. 
+
+======================================
+
+So/RB excessively/RB did/VBD 
+[ GM/NNP Chairman/NNP Roger/NNP B./NNP Smith/NNP ]
+gasconade/VB 
+[ the/DT new/JJ Saturn/NNP subsidiary/NN ]
+--/: 
+[ a/DT project/NN ]
+using/VBG 
+[ innovative/JJ methods/NNS ]
+to/TO make/VB 
+[ a/DT small/JJ car/NN ]
+in/IN 
+[ the/DT U.S.that/NN ]
+
+[ it/PRP ]
+ca/MD n't/RB possibly/RB meet/VB 
+[ expectations/NNS ]
+by/IN 
+[ the/DT time/NN ]
+
+[ he/PRP ]
+drives/VBZ 
+[ the/DT first/JJ Saturn/NNP ]
+off/IN 
+[ the/DT assembly/NN line/NN ]
+next/IN 
+[ year/NN ]
+./. 
+
+[ His/PRP$ acquisition/NN ]
+of/IN 
+[ Electronic/NNP Data/NNP Systems/NNPS Corp./NNP ]
+produced/VBD 
+[ the/DT celebrated/VBN slugfest/JJS ]
+with/IN 
+[ billionaire/NN H./NNP Ross/NNP Perot/NNP ]
+./. 
+
+More/RBR recently/RB ,/, 
+[ Mr./NNP Smith/NNP ]
+managed/VBD to/TO acquire/VB 
+[ Hughes/NNP Aircraft/NNP Co./NNP ]
+,/, 
+[ a/DT major/JJ defense/NN contractor/NN ]
+--/: just/RB as/IN 
+[ the/DT defense/NN ]
+--/: 
+[ spending/NN cycle/NN ]
+was/VBD peaking/VBG ./. 
+
+======================================
+
+Too/RB much/RB of/IN ``/`` 
+[ Rude/NNP Awakening/NNP ]
+''/'' consists/VBZ of/IN 
+[ broad/JJ ]
+and/CC 
+[ familiar/JJ themes/NNS ]
+ (/( 
+[ GM/NNP ]
+is/VBZ 
+[ a/DT stifling/JJ bureaucracy/NN ]
+;/: 
+[ technology/NN ]
+should/MD be/VB 
+[ a/DT means/NN ]
+but/CC not/RB 
+[ an/DT end/NN ]
+ )/) ,/, backed/VBN up/IN by/IN 
+[ strings/NNS ]
+of/IN 
+[ quotes/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT talk/NN ]
+comes/VBZ from/IN 
+[ Jay/NNP Chai/NNP ]
+,/, 
+[ an/DT executive/NN ]
+at/IN 
+[ the/DT Japanese/JJ trading/NN company/NN ]
+,/, 
+[ C./NNP Itoh/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ who/WP ]
+served/VBD as/IN 
+[ a/DT key/NN ]
+go-between/IN in/IN 
+[ the/DT California/NNP joint/NN venture/NN ]
+between/IN 
+[ GM/NNP ]
+and/CC 
+[ Toyota/NNP ]
+./. 
+
+[ The/DT articulate/JJ Mr./NNP Chai/NNP ]
+happens/VBZ to/TO be/VB 
+[ Ms./NNP Keller/NNP 's/POS husband/NN ]
+,/, although/IN 
+[ she/PRP ]
+does/VBZ n't/RB tell/VB 
+[ the/DT reader/NN ]
+
+[ that/DT ]
+./. 
+
+======================================
+
+[ A/DT fresher/JJR approach/NN ]
+might/MD have/VB been/VBN to/TO recount/VB 
+[ GM/NNP 's/POS struggle/NN ]
+through/IN 
+[ the/DT eyes/NNS ]
+of/IN strategically/RB placed/VBN 
+[ managers/NNS ]
+and/CC 
+[ workers/NNS ]
+caught/VBN up/IN in/IN 
+[ the/DT maelstrom/NN ]
+./. 
+
+[ Ms./NNP Keller/NNP ]
+does/VBZ 
+[ this/DT ]
+in/IN 
+[ a/DT few/JJ places/NNS ]
+,/, notably/RB 
+[ the/DT mini-saga/NN ]
+of/IN 
+[ Brian/NNP Haun/NNP ]
+,/, 
+[ a/DT central/JJ office/NN staffer/NN ]
+at/IN 
+[ the/DT assembly/NN plant/NN ]
+in/IN 
+[ Van/NNP Nuys/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+[ He/PRP ]
+tells/VBZ 
+[ graphic/JJ tales/NNS ]
+of/IN 
+[ labor-management/NN clashes/NNS ]
+./. 
+
+======================================
+
+Less/RBR successful/JJ is/VBZ 
+[ her/PRP$ description/NN ]
+of/IN how/WRB 
+[ Robert/NNP Stempel/NNP ]
+,/, now/RB 
+[ GM/NNP 's/POS president/NN ]
+,/, fought/VBD off/IN 
+[ hostile/JJ superiors/NNS ]
+to/TO decentralize/VB 
+[ the/DT Buick-Oldsmobile-Cadillac/NNP group/NN ]
+that/IN 
+[ he/PRP ]
+ran/VBD after/IN 
+[ GM/NNP 's/POS 1984/CD reorganization/NN ]
+./. 
+
+[ This/DT battle/NN ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ Org/NNP Chart/NNP ]
+''/'' might/MD have/VB been/VBN enlivened/VBN by/IN reconstructing/VBG 
+[ the/DT tense/JJ meetings/NNS ]
+at/IN 
+[ which/WDT ]
+
+[ Mr./NNP Stempel/NNP ]
+wore/VBD down/IN 
+[ his/PRP$ bosses/NNS ]
+./. 
+
+Instead/RB ,/, 
+[ Ms./NNP Keller/NNP ]
+merely/RB quotes/VBZ 
+[ Mr./NNP Stempel/NNP 's/POS underlings/NNS ]
+./. 
+
+======================================
+
+[ Ms./NNP Keller/NNP ]
+concludes/VBZ that/IN 
+[ Mr./NNP Smith/NNP ]
+,/, 
+[ who/WP ]
+retires/VBZ 
+[ next/JJ June/NNP ]
+,/, ``/`` had/VBD 
+[ many/JJ ]
+of/IN 
+[ the/DT right/JJ ideas/NNS ]
+,/, but/CC 
+[ he/PRP ]
+seemed/VBD unable/JJ to/TO implement/VB 
+[ them/PRP ]
+in/IN 
+[ a/DT cohesive/JJ way/NN ]
+./. 
+
+''/'' 
+[ She/PRP ]
+sizes/VBZ up/IN 
+[ the/DT chances/NNS ]
+of/IN 
+[ the/DT six/CD executives/NNS ]
+contending/VBG for/IN 
+[ GM/NNP 's/POS top/JJ two/CD jobs/NNS ]
+next/IN 
+[ year/NN ]
+,/, but/CC does/VBZ n't/RB address/VB 
+[ the/DT question/NN ]
+of/IN whether/IN 
+[ GM/NNP ]
+needs/VBZ 
+[ an/DT outsider/NN ]
+as/IN 
+[ its/PRP$ next/JJ chairman/NN ]
+./. 
+
+Because/IN 
+[ the/DT company/NN 's/POS problems/NNS ]
+,/, as/IN described/VBN in/IN ``/`` 
+[ Rude/NNP Awakening/NNP ]
+,/, ''/'' run/VBP so/RB deep/JJ ,/, 
+[ Ms./NNP Keller/NNP 's/POS thoughts/NNS ]
+might/MD have/VB been/VBN intriguing/JJ ./. 
+
+======================================
+
+[ Two/CD industry/NN analysts/NNS ]
+
+[ who/WP ]
+seem/VBP to/TO believe/VB that/IN 
+[ GM/NNP ]
+needs/VBZ 
+[ an/DT outsider/NN ]
+are/VBP 
+[ Elmer/NNP W./NNP Johnson/NNP ]
+and/CC 
+[ Ira/NNP M./NNP Millstein/NNP ]
+,/, 
+[ both/DT high-powered/JJ corporate/JJ lawyers/NNS ]
+./. 
+
+[ Mr./NNP Johnson/NNP ]
+was/VBD 
+[ a/DT GM/NNP executive/NN ]
+until/IN 
+[ he/PRP ]
+quit/VBD in/IN 
+[ 1988/CD ]
+after/IN 
+[ five/CD years/NNS ]
+of/IN 
+[ frustration/NN ]
+./. 
+
+[ Mr./NNP Millstein/NNP ]
+is/VBZ outside/IN 
+[ counsel/NN ]
+to/TO 
+[ a/DT committee/NN ]
+of/IN 
+[ GM/NNP 's/POS board/NN ]
+./. 
+
+======================================
+
+[ Each/DT man/NN co-authors/VBZ parts/NNS ]
+of/IN ``/`` 
+[ The/DT U.S./NNP Business/NNP Corporation/NNP ]
+:/: 
+[ An/DT Institution/NNP ]
+in/IN 
+[ Transition/NNP ]
+''/'' (/( Ballinger/NNP ,/, 
+[ 249/CD pages/NNS ]
+,/, 
+[ $/$ 34.95/CD ]
+ )/) ,/, 
+[ a/DT collection/NN ]
+of/IN 
+[ essays/NNS ]
+on/IN 
+[ corporate/JJ governance/NN ]
+edited/VBN by/IN 
+[ John/NNP R./NNP Meyer/NNP ]
+of/IN 
+[ Harvard/NNP University/NNP ]
+and/CC 
+[ James/NNP M./NNP Gustafson/NNP ]
+of/IN 
+[ Emory/NNP University/NNP ]
+./. 
+
+[ The/DT book/NN ]
+will/MD never/RB make/VB 
+[ the/DT best-seller/NN list/NN ]
+,/, but/CC 
+[ it/PRP ]
+is/VBZ thoughtprovoking/JJ ,/, especially/RB on/IN 
+[ the/DT subject/NN ]
+of/IN 
+[ GM/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Millstein/NNP 's/POS message/NN ]
+:/: 
+[ Outside/JJ directors/NNS ]
+must/MD stop/VB being/VBG 
+[ captives/NNS ]
+to/TO 
+[ management/NN ]
+./. 
+
+``/`` In/IN 
+[ their/PRP$ permissive/JJ ]
+and/CC 
+[ passive/JJ stances/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+writes/VBZ in/IN 
+[ a/DT chapter/NN co-authored/VBN ]
+with/IN 
+[ Mr./NNP Meyer/NNP ]
+,/, ``/`` 
+[ most/JJS boards/NNS ]
+are/VBP likely/JJ (/( 
+[ 1/LS ]
+ )/) not/RB to/TO appraise/VB 
+[ the/DT performance/NN ]
+of/IN 
+[ CEOs/NNS ]
+critically/RB enough/RB ;/: (/( 
+[ 2/LS ]
+ )/) to/TO overestimate/VB 
+[ the/DT ability/NN ]
+of/IN 
+[ managers/NNS ]
+to/TO manage/VB 
+[ different/JJ kinds/NNS ]
+of/IN 
+[ businesses/NNS ]
+well/RB ;/: (/( 
+[ 3/LS ]
+ )/) to/TO allow/VB 
+[ managers/NNS ]
+to/TO build/VB 
+[ enterprises/NNS ]
+
+[ that/WDT ]
+may/MD be/VB too/RB large/JJ and/CC 
+[ diversified/JJ ]
+for/IN 
+[ anyone/NN ]
+to/TO manage/VB well/RB ;/: and/CC (/( 
+[ 4/LS ]
+ )/) to/TO wait/VB too/RB long/JJ to/TO respond/VB to/TO 
+[ ongoing/JJ political/JJ ]
+,/, 
+[ social/JJ ]
+and/CC 
+[ economic/JJ change/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Both/DT ]
+
+[ authors/NNS ]
+propose/VBP that/IN 
+[ corporate/JJ boards/NNS ]
+be/VB chaired/JJ by/IN 
+[ an/DT outside/JJ director/NN ]
+
+[ who/WP ]
+prepares/VBZ ``/`` 
+[ his/PRP$ ]
+or/CC 
+[ her/PRP$ own/JJ agenda/NN ]
+for/IN 
+[ the/DT meeting/NN ]
+,/, in/IN 
+[ close/JJ consultation/NN ]
+with/IN 
+[ the/DT CEO/NNP ]
+,/, 
+[ management/NN ]
+and/CC 
+[ fellow/NN directors/NNS ]
+./. 
+
+''/'' Might/MD 
+[ GM/NNP 's/POS woes/NNS ]
+have/VB been/VBN eased/VBN had/VBD 
+[ the/DT company/NN 's/POS outside/JJ directors/NNS ]
+followed/VBN 
+[ their/PRP$ own/JJ lawyer/NN 's/POS advice/NN ]
+?/. 
+
+======================================
+
+In/IN 
+[ a/DT separate/JJ chapter/NN ]
+,/, 
+[ Messrs./NNP Johnson/NNP ]
+and/CC 
+[ Gustafson/NNP ]
+quote/VBP from/IN 
+[ a/DT moving/VBG letter/NN ]
+written/VBN in/IN 
+[ July/NNP 1987/CD ]
+by/IN 
+[ a/DT GM/NNP hourly/JJ worker/NN ]
+,/, to/TO 
+[ a/DT high-school/JJ classmate/NN ]
+
+[ who/WP ]
+is/VBZ 
+[ a/DT GM/NNP manager/NN ]
+:/: 
+======================================
+
+``/`` Knowing/VBG that/IN 
+[ I/PRP ]
+never/RB had/VBD 
+[ a/DT chance/NN ]
+to/TO be/VB 
+[ anything/NN ]
+within/IN 
+[ the/DT company/NN ]
+,/, ''/'' 
+[ the/DT worker/NN ]
+wrote/VBD ,/, ``/`` 
+[ the/DT next/JJ obvious/JJ move/NN ]
+was/VBD for/IN 
+[ me/PRP ]
+to/TO become/VB 
+[ active/JJ ]
+in/IN 
+[ the/DT local/JJ union/NN ]
+,/, and/CC 
+[ I/PRP ]
+did/VBD ./. 
+
+[ I/PRP ]
+now/RB had/VBD 
+[ a/DT cause.../: ]
+to/TO screw/VB 
+[ the/DT sons/NNS ]
+of/IN 
+[ bitches/NNS ]
+in/IN 
+[ management/NN ]
+
+[ that/WDT ]
+had/VBD been/VBN too/RB good/JJ to/TO recognize/VB 
+[ me/PRP ]
+as/IN 
+[ another/DT human/JJ being/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ I/PRP ]
+picked/VBD on/IN 
+[ bad/JJ management/NN people/NNS ]
+and/CC 
+[ good/JJ management/NN people/NNS ]
+./. 
+
+[ It/PRP ]
+made/VBD 
+[ no/DT difference/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT worker/NN ]
+then/RB described/VBD 
+[ his/PRP$ conversion/NN ]
+to/TO 
+[ the/DT cause/NN ]
+of/IN 
+[ cooperation/NN ]
+after/IN realizing/VBG 
+[ the/DT animosities/NNS ]
+were/VBD taking/VBG 
+[ GM/NNP right/NN ]
+down/IN 
+[ the/DT tubes/NNS ]
+:/: ``/`` 
+[ We/PRP ]
+have/VBP to/TO truly/RB change/VB if/IN 
+[ we/PRP ]
+are/VBP to/TO survive/VB ./. 
+
+[ We/PRP ]
+have/VBP to/TO care/VB about/IN 
+[ the/DT consumer/NN ]
+./. 
+
+[ We/PRP ]
+have/VBP to/TO care/VB about/IN 
+[ the/DT stockholders/NNS ]
+./. 
+
+[ We/PRP ]
+have/VBP to/TO care/VB about/IN 
+[ the/DT people/NNS we/PRP ]
+represent/VBP ./. 
+
+But/CC most/RBS important/JJ ,/, 
+[ management/NN people/NNS ]
+and/CC 
+[ workers/NNS ]
+have/VBP to/TO care/VB about/IN 
+[ each/DT other/JJ ]
+./. 
+
+./. 
+
+./. 
+
+''/'' 
+======================================
+
+[ It/PRP ]
+is/VBZ ironic/JJ to/TO think/VB that/IN for/IN 
+[ GM/NNP ]
+,/, 
+[ which/WDT ]
+lurched/VBD from/IN 
+[ one/CD grand/JJ strategy/NN ]
+to/TO 
+[ another/DT ]
+for/IN most/JJS of/IN 
+[ this/DT decade/NN ]
+,/, 
+[ basic/JJ human/JJ relations/NNS ]
+might/MD take/VB 
+[ the/DT company/NN ]
+back/RB on/IN 
+[ the/DT path/NN ]
+to/TO 
+[ prosperity/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Ingrassia/NNP ]
+is/VBZ 
+[ The/NNP Journal/NNP 's/POS bureau/NN chief/NN ]
+in/IN 
+[ Detroit/NNP ]
+./. 

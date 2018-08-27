@@ -1,0 +1,70 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ McDonnell/NNP Douglas/NNP Corp./NNP ]
+received/VBD 
+[ contracts/NNS ]
+totaling/VBG 
+[ $/$ 244.8/CD million/CD ]
+for/IN 
+[ 72/CD F-A-18/NN aircraft/NN ]
+for/IN 
+[ the/DT Navy/NNP ]
+and/CC helicopter/NN 
+[ spare/JJ parts/NNS ]
+for/IN 
+[ the/DT Army/NNP ]
+./. 
+
+======================================
+
+[ Aerojet/NNP General/NNP Corp./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ GenCorp/NNP Inc./NNP ]
+,/, was/VBD awarded/VBN 
+[ a/DT $/$ 40.1/CD million/CD Air/NNP Force/NNP contract/NN ]
+for/IN 
+[ Minuteman/NNP missile/NN rocket/NN motors./NNS contract/NN ]
+for/IN 
+[ submarine/JJ ballistic/JJ missiles/NNS ]
+./. 
+
+======================================
+
+[ Honeywell/NNP Inc./NNP ]
+got/VBD 
+[ a/DT $/$ 22.3/CD million/CD Navy/NNP contract/NN ]
+for/IN 
+[ aircraft/NN missile/NN ]
+warning/VBG 
+[ sets/NNS ]
+./. 
+
+======================================
+
+[ Beech/NNP Aircraft/NNP Corp./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Raytheon/NNP Co./NNP ]
+,/, received/VBD 
+[ an/DT $/$ 11.5/CD million/CD Air/NNP Force/NNP contract/NN ]
+for/IN 
+[ C-12/NN aircraft/NN support/NN ]
+./. 

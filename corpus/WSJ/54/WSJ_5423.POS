@@ -1,0 +1,902 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Union/NNP Carbide/NNP Corp./NNP ]
+will/MD pay/VB 
+[ $/$ 15/CD million/CD ]
+to/TO 
+[ 375/CD former/JJ company/NN managers/NNS ]
+in/IN 
+[ a/DT settlement/NN ]
+
+[ that/WDT ]
+was/VBD approved/VBN by/IN 
+[ a/DT state/NN court/NN judge/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+At/IN 
+[ issue/NN ]
+in/IN 
+[ the/DT suit/NN ]
+was/VBD 
+[ a/DT management-incentive/JJ plan/NN ]
+,/, 
+[ which/WDT ]
+was/VBD dissolved/VBN after/IN 
+[ 1970/CD ]
+,/, under/IN 
+[ which/WDT management/NN employees/NNS ]
+were/VBD entitled/VBN to/TO cash/NN 
+[ payments/NNS ]
+equivalent/JJ to/TO 
+[ dividends/NNS ]
+paid/VBN to/TO 
+[ stockholders/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1986/CD ]
+,/, when/WRB 
+[ Union/NNP Carbide/NNP ]
+,/, of/IN 
+[ Danbury/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, sold/VBD 
+[ its/PRP$ Consumer/NNP Product/NNP businesses/NNS ]
+in/IN 
+[ a/DT successful/JJ attempt/NN ]
+to/TO fight/VB off/IN 
+[ a/DT hostile/JJ takeover/NN ]
+by/IN 
+[ GAF/NNP Corp./NNP ]
+,/, 
+[ it/PRP ]
+made/VBD 
+[ a/DT special/JJ payment/NN ]
+to/TO 
+[ stockholders/NNS ]
+./. 
+
+[ The/DT payment/NN ]
+prompted/VBD retired/VBN 
+[ managers/NNS ]
+,/, 
+[ who/WP ]
+were/VBD covered/VBN by/IN 
+[ the/DT incentive/NN plan/NN ]
+,/, to/TO contend/VB that/IN 
+[ they/PRP ]
+were/VBD entitled/VBN to/TO 
+[ the/DT special/JJ payment/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT unusual/JJ move/NN ]
+,/, 
+[ Union/NNP Carbide/NNP ]
+sued/VBD 
+[ a/DT class/NN ]
+of/IN 
+[ the/DT former/JJ employees/NNS ]
+in/IN 
+[ order/NN ]
+``/`` to/TO get/VB 
+[ the/DT entire/JJ problem/NN ]
+in/IN 
+[ one/CD place/NN ]
+so/IN that/IN 
+[ it/PRP ]
+could/MD be/VB addressed/VBN locally/RB and/CC hopefully/RB settled/VBN ,/, ''/'' said/VBD 
+[ William/NNP Krohley/NNP ]
+,/, 
+[ a/DT partner/NN ]
+at/IN 
+[ Kelley/NNP ]
+,/, 
+[ Drye/NNP ]
+&/CC 
+[ Warren/NNP ]
+,/, 
+[ which/WDT ]
+represents/VBZ 
+[ the/DT company/NN ]
+./. 
+
+[ The/DT company/NN ]
+sought/VBD 
+[ a/DT ruling/NN ]
+that/IN 
+[ the/DT board/NN 's/POS decision/NN ]
+not/RB to/TO issue/VB 
+[ the/DT payments/NNS ]
+to/TO 
+[ retirees/NNS ]
+was/VBD correct/JJ ./. 
+
+======================================
+
+[ Frederick/NNP T./NNP Davis/NNP ]
+,/, 
+[ who/WP ]
+represented/VBD 
+[ the/DT class/NN ]
+of/IN 
+[ former/JJ employees/NNS ]
+,/, said/VBD 
+[ his/PRP$ clients/NNS ]
+``/`` settled/VBD for/IN roughly/RB 
+[ 50/CD cents/NNS ]
+on/IN 
+[ the/DT dollar/NN ]
+./. 
+
+''/'' 
+[ State/NNP Supreme/NNP Court/NNP Justice/NNP Elliot/NNP Wilk/NNP ]
+awarded/VBD 
+[ Mr./NNP Davis/NNP 's/POS firm/NN ]
+,/, 
+[ Patterson/NNP ]
+,/, 
+[ Belknap/NNP ]
+,/, 
+[ Webb/NNP ]
+&/CC 
+[ Tyler/NNP ]
+,/, 
+[ $/$ 660,000/CD ]
+in/IN 
+[ legal/JJ fees/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Davis/NNP ]
+said/VBD 
+[ he/PRP ]
+believes/VBZ 
+[ this/DT ]
+was/VBD 
+[ the/DT only/JJ litigation/NN ]
+ever/RB filed/VBN over/IN 
+[ a/DT ]
+``/`` 
+[ dividend/NN equivalent/NN ]
+''/'' 
+[ plan/NN ]
+./. 
+
+======================================
+
+[ PATTON/NNP ]
+,/, 
+[ BOGGS/NNP ]
+&/CC 
+[ BLOW/NNP ]
+is/VBZ 
+[ a/DT limited/JJ partner/NN ]
+in/IN 
+[ a/DT new/JJ 1992/CD consulting/VBG firm/NN ]
+./. 
+
+======================================
+
+[ The/DT Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ law/NN firm/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT backers/NNS ]
+of/IN 
+[ Denman/NNP ]
+&/CC 
+[ Partners/NNPS ]
+,/, 
+[ which/WDT ]
+will/MD advise/VB 
+[ companies/NNS ]
+on/IN 
+[ strategic-planning/JJ issues/NNS ]
+related/VBN to/TO 
+[ the/DT opening/VBG trade/NN borders/NNS ]
+in/IN 
+[ Western/NNP Europe/NNP ]
+./. 
+
+[ The/DT new/JJ consulting/VBG firm/NN ]
+,/, based/VBN in/IN 
+[ Patton/NNP Boggs/NNP '/POS offices/NNS ]
+,/, will/MD also/RB advise/VB 
+[ companies/NNS ]
+on/IN 
+[ merger/NN ]
+and/CC 
+[ acquisition/NN opportunities/NNS ]
+in/IN 
+[ Europe/NNP ]
+./. 
+
+======================================
+
+[ Denman/NNP ]
+&/CC 
+[ Partners/NNPS ]
+was/VBD co-founded/JJ by/IN 
+[ Sir/NNP Roy/NNP Denman/NNP ]
+,/, 
+[ who/WP ]
+until/IN recently/RB was/VBD 
+[ the/DT Head/NNP ]
+of/IN 
+[ Delegation/NNP ]
+of/IN 
+[ the/DT Commission/NNP ]
+of/IN 
+[ the/DT European/NNP Communities/NNPS ]
+to/TO 
+[ the/DT U.S./NNP ]
+,/, essentially/RB 
+[ the/DT EC/NNP 's/POS ambassador/NN ]
+to/TO 
+[ the/DT U.S./NNP Hilliard/NNP A./NNP Zola/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ of/IN 
+[ counsel/NN ]
+to/TO 
+[ Patton/NNP Boggs/NNP ]
+,/, is/VBZ 
+[ the/DT other/JJ general/JJ partner/NN ]
+./. 
+
+Limited/JJ 
+[ partners/NNS ]
+include/VBP 
+[ Morris/NNP L./NNP Chucas/NNP ]
+,/, 
+[ who/WP ]
+practices/VBZ 
+[ law/NN ]
+in/IN 
+[ Philadelphia/NNP ]
+and/CC 
+[ Cherry/NNP Hill/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, and/CC 
+[ James/NNP Symington/NNP ]
+,/, 
+[ the/DT former/JJ Missouri/NNP congressman/NN ]
+
+[ who/WP ]
+is/VBZ 
+[ a/DT partner/NN ]
+at/IN 
+[ O'Connor/NNP ]
+&/CC 
+[ Hannon/NNP ]
+in/IN 
+[ Washington/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+felt/VBD 
+[ there/EX ]
+was/VBD 
+[ a/DT great/JJ deal/NN ]
+to/TO be/VB done/VBN in/IN informing/VBG 
+[ American/JJ companies/NNS ]
+about/IN 
+[ what/WP ]
+was/VBD going/VBG to/TO happen/VB in/IN 
+[ 1992/CD ]
+in/IN 
+[ Europe/NNP ]
+,/, ''/'' said/VBD 
+[ Sir/NNP Roy/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+wanted/VBD to/TO affiliate/VB with/IN 
+[ a/DT U.S./NNP firm/NN ]
+because/IN 
+[ he/PRP ]
+needed/VBD ``/`` 
+[ expert/NN ]
+advise/NN and/CC counsel/NN in/IN 
+[ legal/JJ affairs/NNS ]
+./. 
+
+''/'' 
+[ Denman/NNP ]
+&/CC 
+[ Partners/NNPS plans/VBZ ]
+to/TO open/VB 
+[ a/DT Brussels/NNP office/NN ]
+before/IN 
+[ year/NN end/NN ]
+./. 
+
+======================================
+
+[ Patton/NNP Boggs/NNP ]
+is/VBZ known/VBN for/IN 
+[ its/PRP$ trade/NN practice/NN ]
+./. 
+
+[ Its/PRP$ managing/VBG partner/NN ]
+,/, 
+[ Timothy/NNP May/NNP ]
+,/, said/VBD 
+[ the/DT firm/NN ]
+will/MD turn/VB to/TO 
+[ Denman/NNP ]
+&/CC 
+[ Partners/NNPS ]
+when/WRB 
+[ clients/NNS ]
+need/VBP 
+[ advice/NN ]
+on/IN 
+[ European/JJ problems/NNS ]
+./. 
+
+======================================
+
+Said/VBD 
+[ Mr./NNP May/NNP ]
+:/: ``/`` 
+[ We/PRP ]
+were/VBD looking/VBG for/IN 
+[ a/DT window/NN ]
+on/IN 
+[ Brussels/NNP ]
+short/JJ of/IN opening/VBG 
+[ an/DT office/NN ]
+or/CC acquiring/VBG 
+[ a/DT firm/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ CAREER/NNP ADVANCEMENT/NNP ]
+is/VBZ 
+[ a/DT hot/JJ topic/NN ]
+at/IN 
+[ in-house/JJ lawyers/NNS ]
+meeting/VBG at/IN 
+[ Duke/NNP ]
+./. 
+
+======================================
+
+[ Guy/NNP A./NNP Zoghby/NNP ]
+,/, 
+[ general/JJ counsel/NN ]
+at/IN 
+[ PPG/NNP Industries/NNPS Inc./NNP ]
+,/, of/IN 
+[ Pittsburgh/NNP ]
+,/, struck/VBD 
+[ a/DT responsive/JJ chord/NN ]
+
+[ this/DT week/NN ]
+when/WRB 
+[ he/PRP ]
+told/VBD 
+[ 43/CD in-house/JJ lawyers/NNS ]
+attending/VBG 
+[ a/DT seminar/NN ]
+at/IN 
+[ Duke/NNP University/NNP 's/POS Fuqua/NNP School/NNP ]
+of/IN 
+[ Business/NNP ]
+,/, ``/`` 
+[ I/PRP ]
+believe/VBP 
+[ a/DT dual/JJ ladder/NN ]
+is/VBZ essential/JJ ''/'' in/IN rewarding/VBG highly/RB valued/VBN 
+[ lawyers/NNS ]
+
+[ who/WP ]
+have/VBP 
+[ little/JJ chance/NN ]
+to/TO become/VB 
+[ senior/JJ managers/NNS ]
+in/IN 
+[ corporations/NNS ]
+./. 
+
+======================================
+
+By/IN 
+[ dual/JJ ladder/NN ]
+,/, 
+[ Mr./NNP Zoghby/NNP ]
+was/VBD referring/VBG to/TO 
+[ a/DT two-track/JJ hierarchical/JJ structure/NN ]
+
+[ which/WDT ]
+allows/VBZ 
+[ staff/NN lawyers/NNS ]
+to/TO reach/VB 
+[ the/DT equivalent/NN ]
+of/IN 
+[ senior-management/NN status/NN ]
+./. 
+
+[ Inhouse/JJ law/NN departments/NNS ]
+are/VBP small/JJ ,/, usually/RB employing/VBG no/RB more/JJR than/IN 
+[ 50/CD lawyers/NNS ]
+./. 
+
+Only/RB 
+[ a/DT handful/NN ]
+of/IN 
+[ the/DT lawyers/NNS ]
+can/MD hope/VB to/TO help/VB run/VB 
+[ a/DT corporate-law/NN department/NN ]
+./. 
+
+======================================
+
+So/RB how/WRB does/VBZ 
+[ a/DT general/JJ counsel/NN ]
+keep/VB proven/VBN 
+[ talent/NN ]
+happy/JJ ?/. 
+
+By/IN persuading/VBG 
+[ top/JJ management/NN ]
+to/TO create/VB 
+[ an/DT alternative/JJ path/NN ]
+for/IN 
+[ advancement/NN ]
+,/, said/VBD 
+[ Mr./NNP Zoghby/NNP ]
+./. 
+
+======================================
+
+When/WRB 
+[ Mr./NNP Zoghby/NNP ]
+joined/VBD 
+[ PPG/NNP ]
+from/IN 
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP two/CD years/NNS ]
+ago/IN ,/, 
+[ he/PRP ]
+pushed/VBD for/IN 
+[ a/DT dual/JJ ladder/NN ]
+so/IN that/IN 
+[ his/PRP$ most/JJS experienced/VBN lawyers/NNS ]
+would/MD be/VB eligible/JJ for/IN 
+[ senior-management/NN benefits/NNS ]
+such/JJ as/IN 
+[ stock/NN options/NNS ]
+,/, 
+[ bonuses/NNS ]
+,/, 
+[ higher/JJR salaries/NNS ]
+and/CC 
+[ larger/JJR office/NN space/NN ]
+./. 
+
+[ The/DT company/NN 's/POS top/JJ executives/NNS ]
+agreed/VBD ./. 
+
+======================================
+
+At/IN 
+[ the/DT 52-lawyer/JJ legal/JJ department/NN ]
+at/IN 
+[ Massachusetts/NNP Mutual/NNP Life/NNP Insurance/NNP Co./NNP ]
+,/, of/IN 
+[ Springfield/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ a/DT dual/JJ track/NN ]
+has/VBZ been/VBN in/IN 
+[ place/NN ]
+for/IN 
+[ 16/CD years/NNS ]
+,/, said/VBD 
+[ associate/JJ general/JJ counsel/NN Kenneth/NNP S./NNP Cohen/NNP ]
+,/, 
+[ who/WP ]
+attended/VBD 
+[ the/DT Duke/NNP seminar/NN ]
+./. 
+
+[ Lawyers/NNS ]
+not/RB involved/VBN in/IN 
+[ management/NN ]
+are/VBP 
+[ eligible/JJ ]
+for/IN 
+[ perks/NNS ]
+and/CC can/MD participate/VB in/IN 
+[ senior/JJ level/NN decision-making/NN ]
+,/, 
+[ Mr./NNP Cohen/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ Two/CD years/NNS ]
+ago/IN 
+[ Hershey/NNP Foods/NNPS Corp./NNP ]
+,/, of/IN 
+[ Hershey/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, began/VBD offering/VBG 
+[ lawyers/NNS ]
+with/IN 
+[ a/DT minimum/NN ]
+of/IN 
+[ 12-years/JJ experience/NN ]
+
+[ the/DT chance/NN ]
+to/TO attain/VB 
+[ managerial/JJ perks/NNS ]
+,/, 
+[ a/DT top/JJ salary/NN ]
+of/IN 
+[ $/$ 200,000/CD ]
+and/CC 
+[ the/DT title/NN ]
+of/IN 
+[ senior/JJ counsel/NN ]
+./. 
+
+[ Hershey/NNP 's/POS assistant/JJ general/JJ counsel/NN Robert/NNP M./NNP Reese/NNP ]
+cautioned/VBD against/IN dismissing/VBG 
+[ a/DT new/JJ title/NN ]
+as/IN 
+[ trivial/NN ]
+./. 
+
+``/`` 
+[ Lawyers/NNS value/VBP recognition/NN ]
+and/CC 
+[ professional/JJ pride/NN ]
+and/CC 
+[ self-esteem/NN ]
+as/RB much/RB as/IN 
+[ a/DT salary/NN increase/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ WEDTECH/NNP ASKS/VBZ ]
+for/IN 
+[ summary/NN judgment/NN ]
+in/IN 
+[ suit/NN ]
+against/IN 
+[ E./NNP Robert/NNP Wallach/NNP ]
+./. 
+
+======================================
+
+[ The/DT defunct/JJ defense/NN contractor/NN ]
+has/VBZ asked/VBN 
+[ a/DT federal/JJ court/NN ]
+in/IN 
+[ Manhattan/NNP ]
+to/TO grant/VB 
+[ a/DT summary/NN judgment/NN ]
+in/IN 
+[ its/PRP$ racketeering/NN suit/NN ]
+against/IN 
+[ Mr./NNP Wallach/NNP ]
+and/CC 
+[ his/PRP$ co-defendants/NNS ]
+./. 
+
+[ Mr./NNP Wallach/NNP ]
+was/VBD 
+[ the/DT former/JJ confidant/NN ]
+and/CC 
+[ personal/JJ legal/JJ advisor/NN ]
+to/TO 
+[ ex-Attorney/NNP General/NNP Edwin/NNP Meese/NNP ]
+./. 
+
+======================================
+
+[ Last/JJ month/NN ]
+,/, 
+[ Mr./NNP Wallach/NNP ]
+,/, 
+[ W./NNP Franklyn/NNP Chinn/NNP ]
+and/CC 
+[ R./NNP Kent/NNP London/NNP ]
+were/VBD found/VBN 
+[ guilty/JJ ]
+of/IN racketeering/NN ,/, 
+[ fraud/NN ]
+and/CC 
+[ conspiracy/NN ]
+./. 
+
+[ The/DT three/CD men/NNS ]
+were/VBD charged/VBN with/IN receiving/VBG 
+[ illegal/JJ payments/NNS ]
+from/IN 
+[ Wedtech/NNP ]
+in/IN 
+[ return/NN ]
+for/IN trying/VBG to/TO influence/VB 
+[ Mr./NNP Meese/NNP ]
+and/CC 
+[ other/JJ federal/JJ officials/NNS ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ Wedtech/NNP ]
+./. 
+
+======================================
+
+[ Wedtech/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ in/IN 
+[ bankruptcy/NN proceedings/NNS ]
+,/, sued/VBD 
+[ the/DT three/CD defendants/NNS ]
+in/IN 
+[ U.S./NNP Bankruptcy/NNP Court/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+in/IN 
+[ July/NNP 1987/CD ]
+./. 
+
+[ The/DT suit/NN ]
+was/VBD later/RB moved/VBN to/TO 
+[ federal/JJ district/NN court/NN ]
+./. 
+
+[ Wedtech/NNP ]
+accused/VBD 
+[ the/DT defendants/NNS ]
+of/IN racketeering/NN and/CC 
+[ common-law/NN fraud/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ its/PRP$ motion/NN ]
+,/, filed/VBD yesterday/NN ,/, 
+[ Wedtech/NNP ]
+said/VBD 
+[ the/DT defendants/NNS ]
+are/VBP prohibited/VBN by/IN 
+[ law/NN ]
+from/IN denying/VBG 
+[ their/PRP$ criminal/JJ acts/NNS ]
+because/IN of/IN 
+[ their/PRP$ convictions/NNS ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD 
+[ a/DT court/NN ]
+should/MD therefore/RB summarily/RB rule/VB in/IN 
+[ favor/NN ]
+of/IN 
+[ Wedtech/NNP ]
+./. 
+
+[ Wedtech/NNP ]
+seeks/VBZ to/TO recover/VB 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+from/IN 
+[ the/DT defendants/NNS ]
+./. 
+
+======================================
+
+[ The/DT defendants/NNS ]
+have/VBP vowed/VBN to/TO appeal/VB 
+[ the/DT convictions/NNS ]
+./. 
+
+======================================
+
+[ Gary/NNP Naftalis/NNP ]
+,/, 
+[ an/DT attorney/NN ]
+for/IN 
+[ Mr./NNP Wallach/NNP ]
+,/, said/VBD ,/, ``/`` 
+[ We/PRP ]
+are/VBP 
+[ very/RB confident/JJ Bob/NNP Wallach/NNP 's/POS unfounded/JJ conviction/NN ]
+will/MD be/VB set/VBN aside/RB and/CC that/IN 
+[ this/DT lawsuit/NN ]
+will/MD be/VB proved/VBN 
+[ meritless/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ COCAINE/NNP DEALERS/NNPS ]
+in/IN 
+[ California/NNP ]
+can/MD be/VB prosecuted/VBN for/IN 
+[ second-degree/NN murder/NN ]
+if/IN 
+[ a/DT customer/NN ]
+dies/VBZ of/IN 
+[ an/DT overdose/NN ]
+,/, according/VBG to/TO 
+[ a/DT recent/JJ California/NNP Supreme/NNP Court/NNP decision/NN ]
+./. 
+
+But/CC 
+[ the/DT ruling/NN ]
+was/VBD hardly/RB 
+[ a/DT victory/NN ]
+for/IN 
+[ prosecutors/NNS ]
+./. 
+
+In/IN 
+[ the/DT 4-3/CD vote/NN ]
+,/, 
+[ the/DT justices/NNS ]
+also/RB said/VBD 
+[ prosecutors/NNS ]
+must/MD be/VB able/JJ to/TO prove/VB 
+[ there/EX ]
+was/VBD 
+[ a/DT ]
+``/`` 
+[ high/JJ probability/NN ]
+''/'' that/IN 
+[ the/DT person/NN ]
+
+[ who/WP ]
+took/VBD 
+[ cocaine/NN ]
+would/MD die/VB ./. 
+
+In/IN dissenting/VBG 
+[ opinions/NNS Chief/NNP Justice/NNP Malcolm/NNP Lucas/NNP ]
+and/CC 
+[ two/CD other/JJ justices/NNS ]
+said/VBD 
+[ such/PDT a/DT rigid/JJ standard/NN ]
+of/IN 
+[ proof/NN ]
+would/MD discourage/VB 
+[ such/JJ cases/NNS ]
+against/IN 
+[ dealers/NNS ]
+./. 
+
+[ The/DT justice/NN ]
+
+[ who/WP ]
+wrote/VBD 
+[ the/DT majority/NN opinion/NN ]
+said/VBD 
+[ the/DT legislature/NN ]
+--/: and/CC not/RB 
+[ the/DT courts/NNS ]
+--/: should/MD encourage/VB 
+[ the/DT use/NN ]
+of/IN 
+[ second-degree/JJ murder/NN charges/NNS ]
+as/IN 
+[ a/DT deterence/NN ]
+to/TO 
+[ drug/NN dealers/NNS ]
+./. 
+
+======================================
+
+[ PAUL/NNP ]
+,/, 
+[ HASTINGS/NNP ]
+,/, 
+[ Janofsky/NNP ]
+&/CC 
+[ Walker/NNP recruits/NNS ]
+on/IN 
+[ Capitol/NNP Hill/NNP ]
+:/: 
+[ Ralph/NNP B./NNP Everett/NNP ]
+,/, 
+[ 38/CD ]
+,/, 
+[ chief/NN counsel/NN ]
+and/CC 
+[ staff/NN director/NN ]
+of/IN 
+[ the/DT U.S./NNP Senate/NNP Committee/NNP ]
+on/IN 
+[ Commerce/NNP ]
+,/, 
+[ Science/NNP ]
+,/, and/CC 
+[ Transportation/NNP ]
+,/, will/MD join/VB 
+[ the/DT 400-lawyer/JJ Los/NNP Angeles/NNP firm/NN ]
+of/IN 
+[ Paul/NNP ]
+,/, 
+[ Hastings/NNP ]
+,/, 
+[ Janofsky/NNP ]
+&/CC 
+[ Walker/NNP ]
+./. 
+
+[ Three/CD years/NNS ]
+ago/IN 
+[ Mr./NNP Everett/NNP ]
+became/VBD 
+[ the/DT ]
+first/RB black/JJ to/TO run/VB 
+[ a/DT committee/NN ]
+of/IN 
+[ the/DT U.S./NNP Senate/NNP ]
+./. 
+
+[ He/PRP ]
+will/MD be/VB 
+[ a/DT partner/NN ]
+in/IN 
+[ Paul/NNP Hasting/NNP 's/POS Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ office/NN ]
+where/WRB 
+[ he/PRP ]
+will/MD lead/VB 
+[ the/DT Legislative/NNP Practice/NNP Group/NNP ]
+./. 

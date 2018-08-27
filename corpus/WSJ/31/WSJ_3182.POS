@@ -1,0 +1,793 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Despite/IN 
+[ AMR/NNP Corp./NNP Chairman/NNP Robert/NNP Crandall/NNP 's/POS reputation/NN ]
+as/IN 
+[ the/DT top/JJ U.S./NNP airline/NN executive/NN ]
+,/, 
+[ some/DT AMR/NNP shareholders/NNS ]
+say/VBP 
+[ they/PRP ]
+would/MD n't/RB necessarily/RB back/VB 
+[ him/PRP ]
+in/IN 
+[ a/DT ]
+``/`` 
+[ just-say-no/JJ ]
+''/'' 
+[ defense/NN ]
+against/IN 
+[ a/DT $/$ 7.54/CD billion/CD bid/NN ]
+by/IN 
+[ Donald/NNP Trump/NNP ]
+./. 
+
+======================================
+
+[ AMR/NNP ]
+,/, 
+[ parent/NN ]
+of/IN 
+[ American/NNP Airlines/NNP ]
+,/, is/VBZ understood/VBN to/TO be/VB considering/VBG 
+[ such/PDT a/DT defense/NN ]
+among/IN 
+[ other/JJ alternatives/NNS ]
+including/VBG 
+[ a/DT recapitalization/NN ]
+,/, restructuring/NN ,/, or/CC 
+[ sale/NN ]
+to/TO 
+[ a/DT white-knight/NN buyer/NN ]
+./. 
+
+Although/IN 
+[ some/DT ]
+of/IN 
+[ the/DT alternatives/NNS ]
+may/MD include/VB 
+[ sale/NN ]
+of/IN 
+[ stock/NN ]
+to/TO 
+[ American/NNP employees/NNS ]
+,/, 
+[ that/WDT ]
+alone/RB would/MD n't/RB be/VB enough/JJ to/TO thwart/VB 
+[ a/DT hostile/JJ bid/NN ]
+./. 
+
+======================================
+
+[ The/DT appeal/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ just-say-no/JJ ]
+''/'' 
+[ defense/NN ]
+for/IN 
+[ Mr./NNP Crandall/NNP ]
+is/VBZ that/IN 
+[ it/PRP ]
+would/MD allow/VB 
+[ him/PRP ]
+to/TO match/VB 
+[ his/PRP$ record/NN ]
+as/IN 
+[ the/DT man/NN ]
+
+[ who/WP ]
+built/VBD 
+[ American/NNP ]
+into/IN 
+[ the/DT nation/NN 's/POS leading/JJ airline/NN ]
+against/IN 
+[ an/DT offer/NN ]
+from/IN 
+[ a/DT real-estate/NN promoter/NN ]
+./. 
+
+[ It/PRP ]
+would/MD force/VB 
+[ Mr./NNP Trump/NNP ]
+to/TO obtain/VB 
+[ financing/NN ]
+and/CC then/RB seek/VB to/TO oust/VB 
+[ AMR/NNP 's/POS 14/CD directors/NNS ]
+in/IN 
+[ a/DT special/JJ shareholder/NN vote/NN ]
+known/VBN as/IN 
+[ a/DT consent/NN solicitation/NN ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ institutional/JJ investors/NNS ]
+say/VBP 
+[ an/DT offer/NN ]
+with/IN 
+[ financing/NN ]
+could/MD be/VB 
+[ a/DT big/JJ vote-getter/NN ]
+./. 
+
+======================================
+
+``/`` At/IN 
+[ $/$ 120/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ I/PRP ]
+think/VBP 
+[ Mr./NNP Trump/NNP ]
+would/MD have/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ support/NN ]
+,/, ''/'' says/VBZ 
+[ Frank/NNP McGann/NNP ]
+,/, 
+[ an/DT airline/NN analyst/NN ]
+at/IN 
+[ Aetna/NNP Life/NNP ]
+&/CC 
+[ Casualty/NNP Co./NNP ]
+in/IN 
+[ Hartford/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+``/`` Even/RB 
+[ people/NNS ]
+
+[ who/WP ]
+say/VBP 
+[ that/IN Crandall/NNP ]
+is/VBZ 
+[ the/DT best/JJS airline/NN guy/NN ]
+in/IN 
+[ the/DT world/NN ]
+would/MD say/VB 
+[ the/DT shareholders/NNS ]
+have/VBP n't/RB seen/VBN 
+[ a/DT lot/NN ]
+of/IN 
+[ value/NN ]
+relative/JJ to/TO 
+[ other/JJ airlines/NNS ]
+over/IN 
+[ the/DT last/JJ five/CD years/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Richard/NNP Warden/NNP ]
+of/IN 
+[ IDS/NNP Financial/NNP Services/NNP Inc./NNP ]
+,/, 
+[ Minneapolis/NNP ]
+,/, agrees/VBZ ./. 
+
+``/`` Basically/RB ,/, 
+[ the/DT investor/NN ]
+would/MD like/VB to/TO support/VB 
+[ Mr./NNP Crandall/NNP ]
+and/CC 
+[ AMR/NNP ]
+./. 
+
+But/CC at/IN 
+[ the/DT same/JJ time/NN ]
+
+[ you/PRP ]
+have/VBP to/TO look/VB at/IN 
+[ the/DT valuation/NN ]
+of/IN 
+[ the/DT company/NN ]
+and/CC 
+[ the/DT stock/NN price/NN ]
+,/, and/CC 
+[ I/PRP ]
+think/VBP 
+[ you/PRP ]
+need/VBP to/TO have/VB 
+[ a/DT positive/JJ response/NN ]
+from/IN 
+[ the/DT company/NN ]
+,/, 
+[ something/NN ]
+
+[ that/WDT ]
+'s/VBZ going/VBG to/TO really/RB provide/VB 
+[ value/NN ]
+for/IN 
+[ the/DT shareholders/NNS ]
+,/, to/TO make/VB 
+[ a/DT decision/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Another/DT AMR/NNP stockholder/NN ]
+says/VBZ 
+[ Mr./NNP Crandall/NNP ]
+``/`` 
+[ has/VBZ n't/RB ]
+devoted/VBD 
+[ a/DT great/JJ deal/NN ]
+of/IN 
+[ energy/NN ]
+or/CC 
+[ focus/NN ]
+to/TO 
+[ the/DT concern/NN ]
+that/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT gap/NN ]
+between/IN 
+[ his/PRP$ share/NN price/NN ]
+and/CC 
+[ fair/JJ net/JJ asset/NN value/NN ]
+./. 
+
+''/'' 
+[ One/CD airline/NN analyst/NN ]
+says/VBZ that/IN in/IN focusing/VBG on/IN operating/VBG 
+[ the/DT airline/NN ]
+,/, 
+[ Mr./NNP Crandall/NNP ]
+``/`` has/VBZ always/RB had/VBD 
+[ a/DT certain/JJ amount/NN ]
+of/IN 
+[ disdain/NN ]
+for/IN 
+[ shareholders/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Even/RB if/IN 
+[ Mr./NNP Crandall/NNP ]
+lost/VBD 
+[ a/DT vote/NN ]
+,/, 
+[ he/PRP ]
+might/MD still/RB have/VB 
+[ time/NN ]
+to/TO pursue/VB 
+[ another/DT transaction/NN ]
+before/IN 
+[ Mr./NNP Trump/NNP ]
+could/MD gain/VB 
+[ control/NN ]
+./. 
+
+In/IN 
+[ the/DT meantime/NN ]
+,/, 
+[ AMR/NNP ]
+does/VBZ n't/RB show/VB 
+[ any/DT sign/NN ]
+of/IN rushing/VBG to/TO respond/VB ./. 
+
+[ Its/PRP$ next/JJ scheduled/VBN board/NN meeting/NN ]
+is/VBZ n't/RB until/IN 
+[ Oct./NNP 18/CD ]
+./. 
+
+Although/IN 
+[ directors/NNS ]
+can/MD convene/VB 
+[ a/DT special/JJ meeting/NN ]
+on/IN 
+[ 24/CD hours/NNS '/POS notice/NN ]
+,/, so/RB far/RB 
+[ it/PRP ]
+does/VBZ n't/RB appear/VB that/IN 
+[ such/PDT a/DT meeting/NN ]
+has/VBZ been/VBN held/VBN ./. 
+
+======================================
+
+[ AMR/NNP stock/NN ]
+advanced/VBD 
+[ Friday/NNP ]
+amid/IN 
+[ reports/NNS ]
+of/IN buying/NN by/IN 
+[ Bear/NNP ]
+,/, 
+[ Stearns/NNP ]
+&/CC 
+[ Co/NNP ]
+,/, 
+[ Mr./NNP Trump/NNP 's/POS stockbroker/NN ]
+./. 
+
+[ The/DT shares/NNS ]
+rose/VBD 
+[ $/$ 3.875/CD ]
+to/TO 
+[ $/$ 103.75/CD ]
+on/IN 
+[ volume/NN ]
+of/IN 
+[ 3.9/CD million/CD shares/NNS ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+[ Some/DT traders/NNS ]
+said/VBD 
+[ the/DT gain/NN ]
+reflected/VBD 
+[ more/JJR confidence/NN ]
+that/IN 
+[ Mr./NNP Trump/NNP ]
+is/VBZ serious/JJ about/IN pursuing/VBG 
+[ AMR/NNP ]
+./. 
+
+But/CC 
+[ the/DT price/NN ]
+remained/VBD far/RB below/IN 
+[ the/DT bid/NN level/NN ]
+,/, 
+[ a/DT sign/NN ]
+of/IN continuing/VBG 
+[ doubts/NNS ]
+about/IN 
+[ the/DT outcome/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ Mr./NNP Trump/NNP ]
+is/VBZ said/VBD to/TO be/VB pursuing/VBG 
+[ a/DT bank/NN financing/NN commitment/NN ]
+for/IN 
+[ his/PRP$ ]
+bid/NN ,/, 
+[ he/PRP ]
+is/VBZ doing/VBG without/IN 
+[ merger/NN advice/NN ]
+from/IN 
+[ a/DT Wall/NNP Street/NNP securities/NNS firm/NN ]
+,/, 
+[ which/WDT ]
+weakens/VBZ 
+[ his/PRP$ credibility/NN ]
+./. 
+
+[ AMR/NNP ]
+is/VBZ being/VBG advised/VBN by/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+and/CC 
+[ Salomon/NNP Brothers/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Takeover/NN experts/NNS ]
+warn/VBP that/IN 
+[ many/JJ ]
+of/IN 
+[ Mr./NNP Crandall/NNP 's/POS possible/JJ responses/NNS ]
+have/VBP 
+[ drawbacks/NNS ]
+./. 
+
+======================================
+
+Pursuing/VBG 
+[ political/JJ protection/NN ]
+in/IN 
+[ Washington/NNP ]
+by/IN arguing/VBG that/IN 
+[ airline/NN takeovers/NNS ]
+are/VBP generating/VBG 
+[ excessive/JJ levels/NNS ]
+of/IN 
+[ debt/NN ]
+is/VBZ n't/RB likely/JJ to/TO result/VB in/IN 
+[ a/DT bullet-proof/JJ defense/NN ]
+./. 
+
+[ The/DT Bush/NNP administration/NN ]
+has/VBZ already/RB allowed/VBN 
+[ one/CD leveraged/JJ airline/NN takeover/NN ]
+at/IN 
+[ Northwest/NNP Airlines/NNP parent/NN NWA/NNP Inc./NNP ]
+and/CC may/MD be/VB ready/JJ to/TO okay/VB 
+[ another/DT ]
+at/IN 
+[ United/NNP Airlines/NNP parent/NN UAL/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Crandall/NNP ]
+could/MD try/VB to/TO barricade/VB 
+[ the/DT company/NN ]
+by/IN 
+[ selling/VBG stock/NN ]
+to/TO 
+[ an/DT Employee/NNP Stock/NNP Ownership/NNP Plan/NNP ]
+;/: or/CC to/TO 
+[ a/DT friendly/JJ ]
+``/`` 
+[ white-squire/NN ]
+''/'' 
+[ stockholder/NN ]
+,/, perhaps/RB 
+[ a/DT foreign/JJ airline/NN ]
+,/, or/CC 
+[ both/DT ]
+./. 
+
+However/RB ,/, 
+[ it/PRP ]
+could/MD be/VB more/RBR difficult/JJ for/IN 
+[ AMR/NNP ]
+to/TO sell/VB 
+[ a/DT blocking/NN stake/NN ]
+now/RB that/IN 
+[ Mr./NNP Trump/NNP ]
+has/VBZ made/VBN 
+[ a/DT bid/NN ]
+and/CC caused/VBN 
+[ AMR/NNP stock/NN ]
+to/TO soar/VB ./. 
+
+======================================
+
+[ There/EX ]
+might/MD be/VB 
+[ legal/JJ problems/NNS ]
+if/IN 
+[ the/DT employees/NNS ]
+buy/VBP at/IN 
+[ an/DT inflated/JJ price/NN ]
+
+[ that/WDT ]
+later/RB collapses/VBZ because/IN 
+[ the/DT takeover/NN attempt/NN ]
+fails/VBZ ./. 
+
+And/CC 
+[ it/PRP ]
+could/MD be/VB difficult/JJ for/IN 
+[ American/NNP ]
+to/TO sell/VB 
+[ stock/NN ]
+to/TO 
+[ employees/NNS ]
+or/CC 
+[ a/DT white-squire/NN ]
+at/IN 
+[ a/DT price/NN ]
+below/IN 
+[ the/DT bid/NN ]
+while/IN rejecting/VBG 
+[ the/DT bid/NN ]
+
+[ itself/PRP ]
+as/RB inadequate/JJ ./. 
+
+======================================
+
+In/IN 
+[ an/DT interview/NN yesterday/NN ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+said/VBD 
+[ he/PRP ]
+believes/VBZ 
+[ it/PRP ]
+is/VBZ ``/`` highly/RB 
+[ unlikely/JJ ]
+''/'' that/IN 
+[ AMR/NNP ]
+would/MD seek/VB to/TO block/VB 
+[ his/PRP$ offer/NN ]
+with/IN 
+[ an/DT ESOP/NNP ]
+because/IN 
+[ it/PRP ]
+could/MD be/VB challenged/VBN legally/RB as/IN 
+[ an/DT unreasonable/JJ response/NN ]
+to/TO 
+[ his/PRP$ bid/NN ]
+./. 
+
+======================================
+
+[ Takeover/NN experts/NNS ]
+also/RB say/VBP selling/VBG 
+[ a/DT 20/CD %/NN stake/NN ]
+to/TO 
+[ employees/NNS ]
+would/MD n't/RB necessarily/RB block/VB 
+[ Mr./NNP Trump/NNP 's/POS takeover/NN effort/NN ]
+,/, even/RB though/IN 
+[ Delaware/NNP law/NN ]
+blocks/VBZ 
+[ hostile/JJ buyers/NNS ]
+
+[ who/WP ]
+fail/VBP to/TO obtain/VB more/JJR than/IN 
+[ 85/CD %/NN ]
+of/IN 
+[ a/DT target/NN 's/POS stock/NN ]
+./. 
+
+If/IN 
+[ Mr./NNP Trump/NNP ]
+can/MD oust/VB 
+[ the/DT board/NN ]
+before/IN buying/VBG 
+[ 15/CD %/NN ]
+of/IN 
+[ AMR/NNP stock/NN ]
+,/, 
+[ he/PRP ]
+could/MD gain/VB 
+[ board/NN approval/NN ]
+and/CC then/RB would/MD n't/RB be/VB subject/JJ to/TO 
+[ the/DT 85/CD %/NN requirement/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ American/NNP ]
+elects/VBZ to/TO compete/VB economically/RB with/IN 
+[ Mr./NNP Trump/NNP ]
+in/IN 
+[ a/DT recapitalization/NN ]
+,/, such/JJ as/IN 
+[ a/DT stock/NN buy-back/NN ]
+with/IN 
+[ a/DT special/JJ dividend/NN ]
+financed/VBN with/IN 
+[ new/JJ debt/NN ]
+,/, 
+[ it/PRP ]
+would/MD then/RB be/VB difficult/JJ to/TO make/VB 
+[ the/DT political/JJ argument/NN ]
+that/IN 
+[ excessive/JJ airline/NN debt/NN levels/NNS ]
+violate/VBP 
+[ the/DT public/JJ interest/NN ]
+./. 
+
+[ A/DT recapitalization/NN ]
+could/MD also/RB force/VB 
+[ AMR/NNP ]
+to/TO put/VB 
+[ itself/PRP ]
+up/RB for/IN 
+[ sale/NN ]
+to/TO 
+[ the/DT highest/JJS bidder/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ its/PRP$ longtime/JJ ]
+outside/JJ 
+[ counsel/NN ]
+,/, 
+[ Debevoise/NNP ]
+&/CC 
+[ Plimpton/NNP ]
+,/, 
+[ AMR/NNP ]
+is/VBZ also/RB being/VBG advised/VBN by/IN 
+[ the/DT takeover/NN defense/NN firm/NN ]
+of/IN 
+[ Wachtel/NNP ]
+,/, 
+[ Lipton/NNP ]
+,/, 
+[ Rosen/NNP ]
+&/CC 
+[ Katz/NNP ]
+./. 
+
+[ Mr./NNP Trump/NNP ]
+is/VBZ being/VBG advised/VBN by/IN 
+[ Willkie/NNP Farr/NNP ]
+&/CC 
+[ Gallagher/NNP ]
+./. 
+
+======================================
+
+[ Last/JJ Thursday/NNP ]
+,/, 
+[ the/DT same/JJ day/NN AMR/NNP ]
+disclosed/VBD 
+[ the/DT bid/NN ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+wrote/VBD 
+[ letters/NNS ]
+to/TO 
+[ U.S./NNP Transportation/NNP Secretary/NNP Samuel/NNP Skinner/NNP ]
+and/CC 
+[ congressional/JJ leaders/NNS ]
+noting/VBG 
+[ that/IN his/PRP$ bid/NN ]
+does/VBZ n't/RB include/VB 
+[ any/DT foreign/JJ airline/NN participation/NN ]
+./. 
+
+[ Mr./NNP Skinner/NNP ]
+has/VBZ already/RB forced/VBN Northwest/NNP to/TO pare/VB down/RP 
+[ an/DT investment/NN ]
+by/IN 
+[ KLM/NNP Royal/NNP Dutch/NNP Airlines/NNP PLC/NNP ]
+to/TO prevent/VB 
+[ KLM/NNP ]
+from/IN 
+[ exercising/VBG control/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Crandall/NNP 's/POS strongest/JJS defense/NN ]
+might/MD be/VB hooking/VBG up/RP with/IN 
+[ a/DT more/RBR compatible/JJ buyer/NN ]
+
+[ who/WP ]
+could/MD outbid/VB 
+[ Mr./NNP Trump/NNP ]
+,/, particularly/RB if/IN 
+[ they/PRP ]
+could/MD gain/VB 
+[ the/DT type/NN ]
+of/IN 
+[ financing/NN edge/NN ]
+from/IN 
+[ employee/NN cost/NN concessions/NNS ]
+that/IN 
+[ UAL/NNP Chairman/NNP Stephen/NNP Wolf/NNP ]
+won/VBD from/IN 
+[ his/PRP$ employees/NNS ]
+./. 
+
+======================================
+
+[ The/DT leader/NN ]
+of/IN 
+[ the/DT union/NN ]
+representing/VBG 
+[ American/NNP 's/POS flight/NN attendants/NNS '/POS union/NN ]
+,/, 
+[ Michael/NNP Kelleher/NNP ]
+,/, met/VBD with/IN 
+[ company/NN officials/NNS ]
+./. 
+
+But/CC 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT talks/NNS ]
+with/IN 
+[ Mr./NNP Kelleher/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Association/NNP ]
+of/IN 
+[ Professional/NNP Flight/NNP Attendants/NNPS ]
+,/, could/MD n't/RB be/VB determined/VBN ./. 
+
+======================================
+
+[ A/DT white-knight/NN buyer/NN ]
+could/MD be/VB 
+[ a/DT leveraged/JJ buy-out/NN fund/NN ]
+or/CC 
+[ a/DT wealthy/JJ investor/NN ]
+such/JJ as/IN 
+[ Robert/NNP Bass/NNP ]
+,/, 
+[ a/DT resident/NN ]
+of/IN 
+[ AMR/NNP 's/POS home/NN base/NN ]
+of/IN 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ Texas/NNP ]
+./. 
+
+[ Mr./NNP Bass/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ already/RB pursued/VBN 
+[ United/NNP Airlines/NNP ]
+and/CC invested/VBN indirectly/RB in/IN 
+[ the/DT takeover/NN ]
+of/IN 
+[ Northwest/NNP ]
+,/, could/MD n't/RB be/VB reached/VBN ./. 
+
+======================================
+
+Under/IN 
+[ certain/JJ circumstances/NNS ]
+,/, 
+[ a/DT change/NN ]
+in/IN 
+[ control/NN ]
+at/IN 
+[ American/NNP ]
+could/MD be/VB lucrative/JJ for/IN 
+[ Mr./NNP Crandall/NNP ]
+./. 
+
+Although/IN 
+[ he/PRP ]
+owns/VBZ only/RB 
+[ 38,500/CD shares/NNS ]
+and/CC has/VBZ 
+[ options/NNS ]
+on/IN 
+[ another/DT 26,000/CD ]
+,/, 
+[ he/PRP ]
+has/VBZ 
+[ the/DT right/NN ]
+to/TO 
+[ 355,000/CD shares/NNS ]
+if/IN 
+[ he/PRP ]
+is/VBZ fired/VBN or/CC quits/VBZ ``/`` for/IN 
+[ good/JJ reason/NN ]
+''/'' following/VBG 
+[ a/DT change/NN ]
+of/IN 
+[ control/NN ]
+./. 
+
+[ That/DT ]
+means/VBZ 
+[ he/PRP ]
+could/MD clear/VB more/JJR than/IN 
+[ $/$ 50/CD million/CD ]
+personally/RB in/IN 
+[ a/DT hostile/JJ takeover/NN ]
+./. 

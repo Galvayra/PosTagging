@@ -1,0 +1,419 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT new/JJ ]
+,/, 
+[ little-noticed/JJ savings-and-loan/JJ regulation/NN ]
+is/VBZ undercutting/VBG 
+[ one/CD benefit/NN ]
+given/VBN to/TO 
+[ the/DT financial-services/JJ industry/NN ]
+in/IN 
+[ the/DT S&L/NNP law/NN ]
+enacted/VBN 
+[ last/JJ month/NN ]
+./. 
+
+======================================
+
+[ The/DT regulation/NN ]
+,/, published/VBN 
+[ the/DT day/NN ]
+before/IN 
+[ President/NNP Bush/NNP ]
+signed/VBD 
+[ the/DT S&L/NNP bill/NN ]
+,/, makes/VBZ 
+[ it/PRP ]
+tougher/JJR for/IN 
+[ buyers/NNS ]
+of/IN 
+[ S&Ls/NNPS ] 
+to/TO sell/VB 
+[ their/PRP$ products/NNS ]
+to/TO 
+[ thrift/NN depositors/NNS ]
+./. 
+
+[ Congress/NNP ]
+allowed/VBD 
+[ this/DT ]
+``/`` 
+[ cross-marketing/VBG ]
+''/'' of/IN 
+[ products/NNS ]
+to/TO entice/VB 
+[ such/JJ concerns/NNS ]
+as/IN 
+[ banks/NNS ]
+,/, 
+[ securities/NNS firms/NNS ]
+and/CC 
+[ insurance/NN companies/NNS ]
+to/TO buy/VB 
+[ insolvent/JJ thrifts/NNS ]
+,/, 
+[ industry/NN analysts/NNS ]
+say/VBP ./. 
+
+======================================
+
+But/CC 
+[ the/DT new/JJ regulation/NN ]
+requires/VBZ 
+[ the/DT thrift/NN ]
+to/TO obtain/VB written/VBN 
+[ permission/NN ]
+from/IN 
+[ each/DT depositor/NN ]
+before/IN 
+[ the/DT parent/NN company/NN ]
+or/CC 
+[ other/JJ affiliates/NNS ]
+may/MD send/VB out/RP 
+[ mailings/NNS ]
+targeted/VBN ,/, say/VB ,/, to/TO home/VB 
+[ owners/NNS ]
+with/IN 
+[ children/NNS ]
+or/CC 
+[ people/NNS ]
+with/IN 
+[ deposits/NNS ]
+over/IN 
+[ $/$ 50,000/CD ]
+./. 
+
+[ Depositors/NNS ]
+would/MD have/VB to/TO give/VB 
+[ permission/NN ]
+
+[ every/DT two/CD years/NNS ]
+./. 
+
+[ Bank/NN ]
+holding/VBG 
+[ companies/NNS ]
+are/VBP n't/RB subject/JJ to/TO 
+[ those/DT restrictions/NNS ]
+./. 
+
+======================================
+
+Mailing/VBG out/RP 
+[ permission/NN letters/NNS ]
+and/CC 
+[ compiling/VBG responses/NNS ]
+is/VBZ 
+[ no/DT cheap/JJ feat/NN ]
+./. 
+
+``/`` 
+[ The/DT government/NN ]
+thinks/VBZ 
+[ it/PRP ]
+just/RB means/VBZ pushing/VBG 
+[ a/DT few/JJ buttons/NNS ]
+at/IN 
+[ computer/NN central/NN ]
+,/, ''/'' said/VBD 
+[ Karen/NNP Shaw/NNP ]
+of/IN 
+[ the/DT Institute/NNP ]
+for/IN 
+[ Strategy/NNP Development/NNP ]
+,/, 
+[ a/DT Washington/NNP firm/NN ]
+
+[ that/WDT ]
+monitors/VBZ 
+[ finance/NN regulations/NNS ]
+./. 
+
+``/`` But/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT real/JJ operational/JJ impediment/NN ]
+./. 
+
+''/'' 
+======================================
+
+For/IN 
+[ example/NN ]
+,/, 
+[ there/EX ]
+are/VBP 
+[ 69,814/CD passbook/NN accounts/NNS ]
+at/IN 
+[ Hill/NNP Financial/NNP Savings/NNPS Association/NNP ]
+,/, 
+[ an/DT insolvent/JJ thrift/NN ]
+in/IN 
+[ Red/NNP Hill/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ that/WDT ]
+has/VBZ 
+[ $/$ 2.6/CD billion/CD ]
+in/IN 
+[ assets/NNS ]
+and/CC is/VBZ 
+[ one/CD ]
+of/IN 
+[ 10/CD big/JJ thrifts/NNS federal/JJ regulators/NNS ]
+are/VBP pushing/VBG hardest/RB to/TO sell/VB ./. 
+
+[ Those/DT depositors/NNS ]
+would/MD have/VB to/TO submit/VB written/VBN 
+[ permission/NN ]
+before/IN 
+[ a/DT buyer/NN ]
+of/IN 
+[ the/DT thrift/NN ]
+could/MD sell/VB 
+[ them/PRP new/JJ products/NNS ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ 
+[ a/DT lot/NN ]
+of/IN 
+[ stamps/NNS ]
+to/TO lick/VB ,/, ''/'' said/VBD 
+[ Patrick/NNP Forte/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Association/NNP ]
+of/IN 
+[ Thrift/NNP Holding/NNP Companies/NNPS ]
+./. 
+
+``/`` Using/VBG 
+[ these/DT deposit/NN bases/NNS ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT few/JJ ways/NNS ]
+left/VBN for/IN 
+[ a/DT thrift/NN ]
+to/TO make/VB 
+[ money/NN ]
+./. 
+
+''/'' 
+======================================
+
+By/IN 
+[ a/DT margin/NN ]
+of/IN 
+[ 155-1/JJ ]
+,/, 
+[ the/DT regulation/NN ]
+was/VBD ``/`` overwhelmingly/RB and/CC vigorously/RB opposed/VBN ''/'' by/IN 
+[ companies/NNS ]
+
+[ who/WP ]
+commented/VBD to/TO 
+[ regulators/NNS ]
+on/IN 
+[ it/PRP ]
+,/, according/VBG to/TO 
+[ the/DT Federal/NNP Register/NNP ]
+./. 
+
+[ Customers/NNS '/POS response/NN ]
+to/TO 
+[ letters/NNS ]
+requesting/VBG 
+[ permission/NN ]
+,/, 
+[ the/DT company/NN comments/NNS ]
+said/VBD ,/, is/VBZ rarely/RB above/IN 
+[ 3/CD %/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+never/RB thought/VBD 
+[ they/PRP ]
+would/MD go/VB through/IN with/IN 
+[ this/DT ]
+,/, ''/'' said/VBD 
+[ one/CD industry/NN official/NN ]
+./. 
+
+``/`` 
+[ The/DT reaction/NN ]
+was/VBD so/RB negative/JJ ,/, and/CC 
+[ the/DT bill/NN ]
+seemed/VBD to/TO address/VB 
+[ the/DT question/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ officials/NNS ]
+of/IN 
+[ the/DT former/JJ Federal/NNP Home/NNP Loan/NNP Bank/NNP Board/NNP ]
+,/, now/RB 
+[ the/DT Office/NNP ]
+of/IN 
+[ Thrift/NNP Supervision/NNP ]
+,/, said/VBD 
+[ the/DT regulation/NN ]
+aims/VBZ to/TO protect/VB 
+[ the/DT privacy/NN ]
+of/IN 
+[ depositors/NNS ]
+./. 
+
+[ They/PRP ]
+added/VBD that/IN 
+[ the/DT restrictions/NNS ]
+are/VBP n't/RB as/RB onerous/JJ as/IN in/IN 
+[ the/DT past/NN ]
+,/, when/WRB 
+[ any/DT disclosure/NN ]
+of/IN 
+[ depositor/NN information/NN ]
+was/VBD prohibited/VBN ./. 
+
+======================================
+
+Under/IN 
+[ some/DT interpretations/NNS ]
+of/IN 
+[ the/DT regulation/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, 
+[ the/DT affiliate/NN ]
+might/MD be/VB able/JJ to/TO give/VB 
+[ the/DT thrift/NN ]
+
+[ the/DT material/NN ]
+to/TO be/VB mailed/VBN ,/, with/IN 
+[ instructions/NNS ]
+on/IN 
+[ the/DT sorts/NNS ]
+of/IN 
+[ customers/NNS ]
+to/TO receive/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT rule/NN ]
+may/MD obstruct/VB 
+[ the/DT intent/NN ]
+of/IN 
+[ Congress/NNP ]
+to/TO allow/VB 
+[ broader/JJR marketing/NN ]
+of/IN 
+[ affiliate/NN companies/NNS '/POS products/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ that/DT ]
+is/VBZ contrary/JJ to/TO 
+[ what/WP ]
+
+[ our/PRP$ intent/NN ]
+was/VBD ,/, ''/'' said/VBD 
+[ Rep./NNP Doug/NNP Barnard/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ga/NNP ]
+./. 
+
+ )/) ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ not/RB going/VBG to/TO insure/VB 
+[ any/DT greater/JJR safety/NN ]
+and/CC 
+[ soundness/NN ]
+ {/( of/IN 
+[ the/DT thrift/NN insurance/NN fund/NN ]
+ }/) ,/, but/CC 
+[ it/PRP ]
+'s/VBZ sure/RB going/VBG to/TO restrict/VB 
+[ profitability/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT new/JJ S&L/NN law/NN ]
+was/VBD passed/VBN to/TO replenish/VB 
+[ the/DT insolvent/JJ fund/NN ]
+
+[ that/WDT ]
+insures/VBZ 
+[ deposits/NNS ]
+at/IN 
+[ S&Ls/NNPS ]
+./. 
+
+But/CC 
+[ it/PRP ]
+also/RB laid/VBD out/RP 
+[ plans/NNS ]
+for/IN 
+[ the/DT government/NN ]
+to/TO sell/VB 
+[ sick/JJ S&Ls/NNPS ]
+,/, and/CC included/VBD 
+[ the/DT cross-marketing/JJ provisions/NNS ]
+to/TO attract/VB 
+[ bidders/NNS ]
+./. 
+
+Even/RB if/IN 
+[ thrift/NN regulators/NNS ]
+were/VBD trying/VBG to/TO protect/VB 
+[ the/DT privacy/NN ]
+of/IN 
+[ depositors/NNS ]
+,/, ``/`` 
+[ it/PRP ]
+does/VBZ seem/VB 
+[ quixotic/JJ ]
+at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ you/PRP ]
+are/VBP trying/VBG to/TO encourage/VB 
+[ the/DT sale/NN ]
+of/IN 
+[ thrifts/NNS ]
+,/, ''/'' said/VBD 
+[ Ms./NNP Shaw/NNP ]
+./. 

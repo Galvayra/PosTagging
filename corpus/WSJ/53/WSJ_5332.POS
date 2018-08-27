@@ -1,0 +1,640 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Mutual-fund/JJ investors/NNS ]
+trying/VBG to/TO assess/VB 
+[ the/DT damage/NN ]
+from/IN 
+[ the/DT recent/JJ junk-bond/JJ turmoil/NN ]
+are/VBP focusing/VBG on/IN 
+[ the/DT net/JJ asset/NN value/NN ]
+of/IN 
+[ their/PRP$ ]
+``/`` 
+[ high-yield/JJ ]
+''/'' 
+[ bond/NN funds/NNS ]
+./. 
+
+======================================
+
+In/IN at/IN 
+[ least/JJS two/CD cases/NNS ]
+,/, 
+[ the/DT net/JJ asset/NN value/NN ]
+has/VBZ plunged/VBN more/RBR than/IN 
+[ 4/CD %/NN ]
+in/IN 
+[ the/DT past/JJ 10/CD days/NNS ]
+./. 
+
+[ Other/JJ funds/NNS ]
+are/VBP off/IN less/RBR than/IN 
+[ 1/CD %/NN ]
+./. 
+
+======================================
+
+But/CC where/WRB 
+[ junk/NN bond/NN funds/NNS ]
+are/VBP concerned/VBN ,/, 
+[ the/DT published/JJ net/JJ asset/NN value/NN ]
+does/VBZ n't/RB tell/VB 
+[ the/DT whole/JJ story/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ an/DT indicator/NN ]
+,/, ''/'' not/RB 
+[ a/DT scientific/JJ measurement/NN ]
+,/, says/VBZ 
+[ A./NNP Michael/NNP Lipper/NNP ]
+,/, 
+[ whose/WP$ ]
+
+[ Lipper/NNP Analytical/NNP Services/NNPS Inc./NNP ]
+tracks/VBZ 
+[ fund/NN performance/NN ]
+./. 
+
+======================================
+
+[ The/DT net/JJ asset/NN value/NN ]
+of/IN 
+[ a/DT mutual/JJ fund/NN ]
+is/VBZ 
+[ its/PRP$ published/VBN price/NN ]
+per/IN 
+[ share/NN ]
+,/, before/IN taking/VBG into/IN 
+[ account/NN ]
+
+[ any/DT front-end/JJ sales/NNS charges/NNS ]
+or/CC 
+[ back-end/JJ exit/NN fees/NNS ]
+./. 
+
+[ It/PRP ]
+represents/VBZ 
+[ the/DT market/NN value/NN ]
+of/IN 
+[ a/DT fund/NN 's/POS assets/NNS ]
+,/, minus/CC 
+[ any/DT liabilities/NNS ]
+,/, divided/VBN by/IN 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ fund/NN shares/NNS ]
+outstanding/JJ ./. 
+
+======================================
+
+[ The/DT problem/NN ]
+is/VBZ that/IN determining/VBG 
+[ the/DT market/NN value/NN ]
+of/IN 
+[ the/DT assets/NNS ]
+in/IN 
+[ a/DT junk/NN bond/NN fund/NN ]
+is/VBZ tricky/JJ ./. 
+
+Because/IN 
+[ the/DT securities/NNS ]
+are/VBP traded/VBN privately/RB ,/, rather/RB than/IN on/IN 
+[ an/DT exchange/NN ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ no/DT ticker/NN tape/NN ]
+to/TO check/VB for/IN 
+[ the/DT latest/JJS junk/NN bond/NN prices/NNS ]
+./. 
+
+======================================
+
+[ Some/DT smaller/JJR issues/NNS ]
+change/VBP 
+[ hands/NNS ]
+so/RB rarely/RB that/IN 
+[ funds/NNS ]
+have/VBP to/TO use/VB estimated/VBN 
+[ prices/NNS ]
+,/, and/CC 
+[ the/DT accuracy/NN ]
+of/IN 
+[ those/DT estimates/NNS ]
+is/VBZ n't/RB clear/JJ ./. 
+
+``/`` 
+[ I/PRP ]
+almost/RB think/VBP 
+[ nobody/NN ]
+knows/VBZ ,/, ''/'' says/VBZ 
+[ Edward/NNP G./NNP Webb/NNP Jr./NNP ]
+,/, 
+[ portfolio/NN manager/NN ]
+of/IN 
+[ Bull/NNP ]
+&/CC 
+[ Bear/NNP High/NNP Yield/NNP Fund/NNP ]
+./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ the/DT net/JJ asset/NN values/NNS ]
+are/VBP figured/VBN assuming/VBG 
+[ a/DT normal/JJ level/NN ]
+of/IN 
+[ trading/NN activity/NN ]
+,/, not/RB 
+[ a/DT fire/NN sale/NN ]
+./. 
+
+If/IN 
+[ individual/JJ investors/NNS ]
+were/VBD to/TO stage/VB 
+[ a/DT massive/JJ exodus/NN ]
+from/IN 
+[ junk/NN bond/NN funds/NNS ]
+,/, 
+[ portfolio/NN managers/NNS ]
+would/MD end/VB up/RP selling/VBG 
+[ holdings/NNS ]
+at/IN 
+[ prices/NNS ]
+far/RB below/IN 
+[ their/PRP$ current/JJ carrying/VBG values/NNS ]
+,/, 
+[ market/NN participants/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ Fund/NN managers/NNS ]
+generally/RB defend/VBP 
+[ their/PRP$ ]
+pricing/NN ,/, saying/VBG 
+[ they/PRP ]
+scrutinize/VBP 
+[ price/NN estimates/NNS ]
+and/CC seek/VBP 
+[ information/NN ]
+from/IN 
+[ multiple/JJ sources/NNS ]
+./. 
+
+Many/RB also/RB have/VBP concentrated/VBN 
+[ their/PRP$ portfolios/NNS ]
+in/IN 
+[ larger/JJR ]
+,/, 
+[ more/RBR liquid/JJ junk/NN issues/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, about/RB 
+[ two-thirds/NNS ]
+of/IN 
+[ the/DT junk/NN issues/NNS ]
+held/VBN by/IN 
+[ Franklin/NNP AGE/NNP High/NNP Income/NNP Fund/NNP ]
+trade/VBP almost/RB 
+[ every/DT day/NN ]
+,/, 
+[ a/DT fund/NN official/NN ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+took/VBD ``/`` 
+[ a/DT hard/JJ look/NN ]
+''/'' at/IN 
+[ junk/NN bond/NN fund/NN ]
+pricing/VBG earlier/RB 
+[ this/DT year/NN ]
+and/CC ``/`` did/VBD not/RB see/VB 
+[ major/JJ problems/NNS ]
+,/, ''/'' says/VBZ 
+[ Kathryn/NNP McGrath/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT SEC/NNP division/NN ]
+of/IN 
+[ investment/NN management/NN ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ junk/NN bond/NN ]
+pricing/VBG continues/VBZ to/TO be/VB 
+[ an/DT area/NN ]
+of/IN 
+[ some/DT concern/NN ]
+and/CC 
+[ self-scrutiny/NN ]
+within/IN 
+[ the/DT fund/NN business/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ the/DT Vanguard/NNP Group/NNP ]
+of/IN 
+[ Investment/NNP Cos./NNP ]
+asked/VBD 
+[ its/PRP$ junk/NN fund/NN manager/NN ]
+to/TO review/VB pricing/VBG 
+[ procedures/NNS ]
+just/RB 
+[ a/DT few/JJ weeks/NNS ]
+ago/RB ./. 
+
+``/`` 
+[ We/PRP ]
+wanted/VBD to/TO be/VB absolutely/RB certain/JJ 
+[ we/PRP ]
+had/VBD 
+[ proper/JJ pricing/NN ]
+going/VBG on/RP at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT day/NN ]
+,/, ''/'' 
+[ a/DT Vanguard/NNP spokesman/NN ]
+says/VBZ ./. 
+
+======================================
+
+[ Bull/NNP ]
+and/CC 
+[ Bear/NNP 's/POS Mr./NNP Webb/NNP ]
+says/VBZ 
+[ the/DT pricing/NN services/NNS funds/NNS ]
+use/VBP ``/`` make/VBP 
+[ a/DT very/RB conscientious/JJ attempt/NN ]
+to/TO provide/VB 
+[ reasonable/JJ values/NNS ]
+./. 
+
+But/CC 
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ very/RB tough/JJ to/TO do/VB ./. 
+
+''/'' 
+======================================
+
+[ One/CD complication/NN ]
+,/, 
+[ Mr./NNP Webb/NNP ]
+says/VBZ ,/, is/VBZ that/IN 
+[ a/DT major/JJ source/NN ]
+of/IN 
+[ pricing/NN information/NN ]
+may/MD be/VB 
+[ the/DT securities/NNS firm/NN ]
+
+[ that/DT underwrote/NN ]
+
+[ an/DT issue/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ 
+[ an/DT inherent/JJ conflict/NN ]
+there/RB ,/, ''/'' in/IN that/IN 
+[ it/PRP ]
+'s/VBZ unpleasant/JJ for/IN 
+[ an/DT underwriter/NN ]
+to/TO admit/VB 
+[ problems/NNS ]
+with/IN 
+[ one/CD ]
+of/IN 
+[ its/PRP$ issues/NNS ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` But/CC then/RB again/RB ,/, 
+[ what/WP choice/NN ]
+is/VBZ there/RB ?/. 
+
+[ They/PRP ]
+are/VBP 
+[ the/DT people/NNS ]
+
+[ who/WP ]
+know/VBP 
+[ the/DT issue/NN ]
+and/CC 
+[ the/DT issuer/NN ]
+better/RB than/IN 
+[ anyone/NN ]
+else/RB ./. 
+
+''/'' 
+======================================
+
+Reviewing/VBG 
+[ the/DT past/JJ week/NN ]
+or/CC so/RB --/: 
+[ a/DT period/NN ]
+
+[ they/PRP ]
+would/MD rather/RB forget/VB --/: 
+[ junk/NN bond/NN fund/NN managers/NNS ]
+cite/VBP 
+[ several/JJ factors/NNS ]
+to/TO explain/VB 
+[ the/DT variation/NN ]
+in/IN 
+[ performance/NN ]
+among/IN 
+[ funds/NNS ]
+./. 
+
+======================================
+
+[ One/CD key/NN variable/NN ]
+has/VBZ been/VBN 
+[ the/DT degree/NN ]
+to/TO 
+[ which/WDT funds/NNS ]
+hold/VBP 
+[ debt/NN ]
+issued/VBN by/IN 
+[ units/NNS ]
+of/IN 
+[ Campeau/NNP Corp./NNP ]
+,/, 
+[ the/DT ]
+highly/RB 
+[ leveraged/VBN retailer/NN ]
+
+[ whose/WP$ financial/JJ woes/NNS ]
+spurred/VBD 
+[ the/DT decline/NN ]
+in/IN 
+[ the/DT entire/NN junk/NN bond/NN market/NN ]
+./. 
+
+======================================
+
+[ Campeau/NNP holdings/NNS ]
+clobbered/VBD 
+[ two/CD funds/NNS ]
+managed/VBN by/IN 
+[ Integrated/NNP Resources/NNPS Inc./NNP ]
+,/, 
+[ each/DT ]
+of/IN 
+[ which/WDT ]
+had/VBD between/IN 
+[ 4/CD %/NN ]
+and/CC 
+[ 5/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+in/IN 
+[ securities/NNS ]
+issued/VBN by/IN 
+[ Campeau/NNP 's/POS Federated/NNP ]
+and/CC 
+[ Allied/NNP units/NNS ]
+when/WRB 
+[ the/DT turmoil/NN ]
+began/VBD ./. 
+
+[ The/DT Integrated/NNP Income/NNP Plus/NNP Fund/NNP ]
+saw/VBD 
+[ its/PRP$ net/JJ asset/NN value/NN plummet/VB 4.5/CD %/NN ]
+between/IN 
+[ Sept./NNP 8/CD ]
+and/CC 
+[ Sept./NNP 19/CD ]
+,/, while/IN 
+[ the/DT price/NN ]
+of/IN 
+[ Integrated/NNP High/NNP Yield/NNP Portfolio/NNP ]
+fell/VBD 
+[ 4.1/CD %/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ large/JJ holdings/NNS ]
+of/IN 
+[ cash/NN ]
+and/CC 
+[ non-junk/JJ bonds/NNS ]
+were/VBD 
+[ a/DT boon/NN ]
+for/IN 
+[ other/JJ funds/NNS ]
+./. 
+
+[ The/DT Mid-America/NNP High/NNP Yield/NNP Fund/NNP ]
+was/VBD trading/VBG at/IN 
+[ the/DT same/JJ net/JJ asset/NN value/NN ]
+on/IN 
+[ Sept./NNP 19/CD ]
+as/IN 
+[ it/PRP ]
+was/VBD on/IN 
+[ Sept./NNP 8/CD ]
+,/, aided/VBN by/IN having/VBG more/RBR than/IN 
+[ 50/CD %/NN ]
+of/IN 
+[ its/PRP$ assets/NNS ]
+in/IN 
+[ investment-grade/JJ utility/NN bonds/NNS ]
+./. 
+
+======================================
+
+Among/IN 
+[ the/DT junk/NN bond/NN funds/NNS ]
+
+[ that/WDT ]
+looked/VBD relatively/RB good/JJ in/IN 
+[ the/DT past/NN week/NN ]
+are/VBP 
+[ a/DT few/JJ ]
+
+[ that/WDT ]
+have/VBP been/VBN 
+[ laggards/NNS ]
+for/IN 
+[ a/DT year/NN ]
+or/CC 
+[ more/JJR ]
+./. 
+
+[ These/DT ]
+include/VBP 
+[ the/DT Bull/NNP ]
+&/CC 
+[ Bear/NNP fund/NN ]
+,/, 
+[ which/WDT ]
+dropped/VBD just/RB 
+[ 1/CD %/NN ]
+between/IN 
+[ Sept./NNP 8/CD ]
+and/CC 
+[ Sept./NNP 19/CD ]
+,/, and/CC 
+[ Venture/NNP Income/NNP Plus/NNP Fund/NNP ]
+,/, 
+[ which/WDT ]
+dropped/VBD 
+[ 1.2/CD %/NN ]
+./. 
+
+[ Both/DT ]
+
+[ funds/NNS ]
+cite/VBP 
+[ recent/JJ upgradings/NNS ]
+in/IN 
+[ the/DT quality/NN ]
+of/IN 
+[ the/DT issues/NNS they/PRP ]
+own/VBP ./. 
+
+======================================
+
+In/IN 
+[ general/JJ ]
+,/, 
+[ the/DT higher/JJR quality/NN ]
+and/CC 
+[ more/JJR liquid/JJ junk/NN issues/NNS ]
+would/MD be/VB expected/VBN to/TO fall/VB less/JJR than/IN 
+[ other/JJ junk/NN issues/NNS ]
+in/IN 
+[ a/DT broad/JJ decline/NN ]
+./. 
+
+Still/RB ,/, 
+[ that/WDT ]
+was/VBD not/RB always/RB 
+[ the/DT case/NN ]
+in/IN 
+[ the/DT past/JJ week/NN ]
+or/CC so/RB ,/, junk/NN 
+[ fund/NN managers/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ Some/DT large/JJ high-quality/JJ junk/NN issues/NNS ]
+tumbled/VBD in/IN 
+[ price/NN last/JJ week/NN ]
+precisely/RB because/IN 
+[ so/RB many/JJ fund/NN managers/NNS ]
+moved/VBD to/TO sell/VB 
+[ those/DT ]
+easily/RB liquidated/VBN 
+[ issues/NNS ]
+in/IN 
+[ order/NN ]
+to/TO raise/VB 
+[ cash/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Lipper/NNP ]
+suspects/VBZ 
+[ there/EX ]
+are/VBP 
+[ some/DT riskier/JJR ]
+,/, 
+[ less-liquid/JJR issues/NNS ]
+
+[ that/WDT ]
+should/MD have/VB been/VBN written/VBN down/RP more/RBR than/IN 
+[ they/PRP ]
+were/VBD recently/RB ./. 
+
+``/`` 
+[ I/PRP ]
+would/MD assume/VB 
+[ there/EX ]
+is/VBZ 
+[ some/DT ]
+
+[ pretty/RB awful/JJ stuff/NN ]
+
+[ that/WDT ]
+did/VBD n't/RB go/VB down/RB much/RB  because/IN 
+[ nobody/NN ]
+was/VBD stupid/JJ enough/RB to/TO try/VB to/TO sell/VB 
+[ it/PRP ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+But/CC 
+[ one/CD fund/NN manager/NN ]
+,/, 
+[ who/WP ]
+asked/VBD not/RB to/TO be/VB identified/VBN ,/, says/VBZ 
+[ the/DT pricing/NN service/NN ]
+
+[ he/PRP ]
+uses/VBZ was/VBD probably/RB correct/JJ in/IN not/RB marking/VBG down/RP 
+[ some/DT ]
+of/IN 
+[ the/DT illiquid/JJ issues/NNS ]
+
+[ he/PRP ]
+holds/VBZ by/IN as/RB large/JJ 
+[ a/DT percentage/NN ]
+as/IN 
+[ the/DT liquid/JJ ones/NNS ]
+./. 
+
+[ The/DT illiquid/JJ ones/NNS ]
+``/`` long/RB since/IN have/VBP been/VBN marked/VBN down/RP to/TO 
+[ levels/NNS ]
+
+[ that/WDT ]
+represent/VBP 
+[ a/DT worst/JJS case/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 

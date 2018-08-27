@@ -1,0 +1,628 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Some/DT issues/NNS ]
+get/VBP rolling/VBG and/CC 
+[ there/EX ]
+'s/VBZ no/RB stopping/VBG 
+[ them/PRP ]
+./. 
+
+[ A/DT case/NN ]
+in/IN 
+[ point/NN ]
+is/VBZ 
+[ national/JJ health/NN insurance/NN ]
+,/, growing/VBG in/IN 
+[ popularity/NN ]
+in/IN 
+[ policy/NN circles/NNS ]
+even/RB as/IN 
+[ the/DT nation/NN 's/POS elderly/JJ cry/VBP ]
+for/IN 
+[ relief/NN ]
+from/IN 
+[ the/DT catastrophic/JJ burden/NN ]
+of/IN 
+[ federal/JJ catastrophic/JJ care/NN insurance/NN ]
+./. 
+
+======================================
+
+Now/RB ,/, in/IN 
+[ New/NNP York/NNP ]
+,/, 
+[ the/DT Cuomo/NNP team/NN ]
+has/VBZ barged/VBN into/IN 
+[ the/DT act/NN ]
+./. 
+
+[ David/NNP Axelrod/NNP ]
+,/, 
+[ the/DT governor/NN 's/POS chief/JJ health/NN official/NN ]
+,/, has/VBZ proposed/VBN 
+[ a/DT program/NN ]
+requiring/VBG 
+[ businesses/NNS ]
+to/TO buy/VB 
+[ health/NN insurance/NN ]
+for/IN 
+[ their/PRP$ employees/NNS ]
+or/CC contribute/VB to/TO 
+[ a/DT state/NN fund/NN ]
+for/IN 
+[ the/DT uninsured/JJ ]
+./. 
+
+[ The/DT state/NN ]
+would/MD pay/VB 
+[ all/DT medical/JJ bills/NNS ]
+--/: 
+[ hospitals/NNS ]
+,/, 
+[ doctors/NNS ]
+,/, 
+[ everything/NN ]
+--/: and/CC in/IN 
+[ turn/NN bill/VB ]
+
+[ the/DT patient/NN 's/POS private/JJ insurer/NN ]
+or/CC 
+[ the/DT state/NN fund/NN ]
+./. 
+
+======================================
+
+[ The/DT idea/NN ]
+is/VBZ to/TO extend/VB 
+[ coverage/NN ]
+to/TO 
+[ the/DT 2.5/CD million/CD uninsured/JJ New/NNPS Yorkers/NNPS ]
+while/IN giving/VBG 
+[ state/NN government/NN ]
+
+[ the/DT monopoly/NN buying/NN power/NN ]
+to/TO 
+[ force/VB costs/NNS ]
+down/RP ./. 
+
+[ The/DT problem/NN ]
+is/VBZ that/IN 
+[ the/DT proposal/NN ]
+takes/VBZ to/TO 
+[ the/DT logical/JJ extreme/NN all/PDT the/DT trends/NNS ]
+
+[ that/WDT ]
+have/VBP made/VBN for/IN 
+[ trouble/NN ]
+in/IN 
+[ our/PRP$ health-care/NN system/NN ]
+:/: 
+[ more/JJR central/JJ ]
+funding/NN ,/, 
+[ more/JJR central/JJ control/NN ]
+./. 
+
+======================================
+
+Until/IN recently/RB ,/, 
+[ conservatives/NNS ]
+did/VBD n't/RB 
+[ figure/VB ]
+in/RP 
+[ the/DT health-care/NN finance/NN debate/NN ]
+,/, except/IN as/IN 
+[ no-men/NNS ]
+./. 
+
+But/CC over/IN 
+[ the/DT summer/NN ]
+
+[ a/DT flagship/NN ]
+think/NN 
+[ tank/NN ]
+of/IN 
+[ the/DT right/NN ]
+,/, 
+[ the/DT Heritage/NNP Foundation/NNP ]
+,/, startled/VBD 
+[ the/DT nation/NN 's/POS capital/NN ]
+by/IN putting/VBG 
+[ forward/JJ its/PRP$ own/JJ plan/NN ]
+for/IN 
+[ reform/NN ]
+of/IN 
+[ our/PRP$ national/JJ health/NN system/NN ]
+./. 
+
+======================================
+
+[ Heritage/NNP ]
+noted/VBD that/IN 
+[ the/DT tax/NN code/NN ]
+has/VBZ virtually/RB shut/VBN 
+[ market/NN forces/NNS ]
+out/IN of/IN 
+[ U.S./NNP health/NN care/NN ]
+./. 
+
+More/JJR than/IN 
+[ anything/NN ]
+else/JJ ,/, 
+[ its/PRP$ study/NN ]
+observed/VBD ,/, 
+[ this/DT ]
+is/VBZ why/WRB 
+[ the/DT system/NN ]
+is/VBZ in/IN 
+[ trouble/NN ]
+./. 
+
+Here/RB 's/VBZ how/WRB 
+[ it/PRP ]
+works/VBZ :/: 
+======================================
+
+Most/JJS of/IN 
+[ us/PRP ]
+consider/VBP 
+[ company-paid/JJ health-insurance/NN premiums/NNS ]
+as/IN 
+[ extra/JJ income/NN ]
+,/, yet/CC 
+[ they/PRP ]
+do/VBP n't/RB count/VB as/IN 
+[ income/NN ]
+for/IN 
+[ taxes/NNS ]
+./. 
+
+In/IN 
+[ essence/NN ]
+,/, 
+[ we/PRP ]
+receive/VBP 
+[ tax/NN credits/NNS ]
+if/IN 
+[ our/PRP$ employers/NNS ]
+foot/VBP 
+[ the/DT bill/NN ]
+./. 
+
+But/CC if/IN 
+[ we/PRP ]
+pay/VBP for/IN 
+[ a/DT policy/NN ]
+or/CC for/IN 
+[ a/DT health/NN service/NN ]
+directly/RB ,/, 
+[ there/EX ]
+'s/VBZ 
+[ no/DT tax/NN break/NN ]
+./. 
+
+[ We/PRP ]
+pay/VBP in/IN 
+[ after-tax/NN  dollars/NNS ]
+./. 
+
+Not/RB surprisingly/RB ,/, 
+[ employers/NNS ]
+provide/VBP 
+[ comprehensive/JJ health/NN insurance/NN ]
+for/IN nearly/RB 
+[ two-thirds/NNS ]
+of/IN 
+[ the/DT nation/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ the/DT health-care/NN system/NN ]
+has/VBZ turned/VBN into/IN 
+[ a/DT one-industry/JJ example/NN ]
+of/IN 
+[ national/JJ industrial/JJ policy/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ run/VBN by/IN 
+[ a/DT consortium/NN ]
+of/IN 
+[ business/NN ]
+,/, 
+[ labor/NN ]
+and/CC 
+[ government/NN ]
+with/IN 
+[ the/DT consumer/NN ]
+out/IN of/IN 
+[ the/DT picture/NN ]
+./. 
+
+In/IN 
+[ a/DT market/NN economy/NN ]
+,/, 
+[ the/DT consumer/NN ]
+balances/VBZ 
+[ what/WP ]
+
+[ he/PRP ]
+pays/VBZ with/IN 
+[ what/WP ]
+
+[ he/PRP ]
+gets/VBZ ./. 
+
+But/CC 
+[ this/DT run-from-above/JJ health-care/NN economy/NN ]
+is/VBZ more/JJR like/IN 
+[ a/DT command/NN economy/NN ]
+./. 
+
+And/CC as/IN in/IN 
+[ command/NN economies/NNS ]
+,/, 
+[ the/DT cost/NN ]
+of/IN 
+[ service/NN ]
+is/VBZ virtually/RB invisible/JJ to/TO 
+[ the/DT consumer/NN ]
+./. 
+
+Freed/VBN from/IN 
+[ consumer/NN supervision/NN ]
+,/, 
+[ the/DT incentives/NNS ]
+for/IN 
+[ producers/NNS all/DT point/VBP ]
+to/TO 
+[ more/JJR production/NN ]
+at/IN 
+[ greater/JJR expense/NN ]
+./. 
+
+[ The/DT bumbling/JJ giants/NNS ]
+of/IN 
+[ business/NN ]
+,/, 
+[ labor/NN ]
+and/CC 
+[ government/NN ]
+can/MD not/RB substitute/VB for/IN 
+[ the/DT supple/JJ marketplace/NN ]
+./. 
+
+As/IN with/IN 
+[ command/NN economies/NNS ]
+around/IN 
+[ the/DT world/NN ]
+,/, 
+[ the/DT balance/NN ]
+between/IN 
+[ cost/NN ]
+and/CC 
+[ service/NN ]
+has/VBZ been/VBN lost/VBN ./. 
+
+======================================
+
+[ Stuart/NNP Butler/NNP ]
+and/CC 
+[ Edmund/NNP Haislmaier/NNP ]
+,/, 
+[ the/DT editors/NNS ]
+of/IN 
+[ the/DT Heritage/NNP study/NN ]
+,/, believe/VBP that/IN 
+[ the/DT U.S./NNP health-care/NN system/NN ]
+must/MD either/RB come/VB under/IN 
+[ more/RBR centralized/JJ control/NN ]
+or/CC adopt/VB 
+[ real/JJ market/NN controls/NNS ]
+./. 
+
+At/IN 
+[ the/DT moment/NN ]
+,/, 
+[ Washington/NNP ]
+is/VBZ toying/VBG with/IN 
+[ a/DT rigid/JJ system/NN ]
+of/IN 
+[ fees/NNS ]
+for/IN 
+[ specialties/NNS ]
+and/CC 
+[ procedures/NNS ]
+./. 
+
+[ Dr./NNP Axelrod/NNP 's/POS proposal/NN ]
+would/MD let/VB 
+[ New/NNP York/NNP state/NN ]
+impose/VB 
+[ its/PRP$ own/JJ system/NN ]
+./. 
+
+[ Mr./NNP Butler/NNP ]
+notes/VBZ that/IN 
+[ this/DT ]
+``/`` 
+[ relative/JJ value/NN system/NN ]
+,/, ''/'' as/IN 
+[ it/PRP ]
+is/VBZ called/VBN in/IN 
+[ Washington/NNP ]
+,/, is/VBZ just/RB 
+[ the/DT labor/NN theory/NN ]
+of/IN 
+[ value/NN ]
+--/: 
+[ anchor/NN ]
+of/IN 
+[ the/DT economics/NNS ]
+in/IN 
+[ collapse/NN most/JJS places/NNS ]
+east/RB of/IN 
+[ the/DT Iron/NNP Curtain/NNP ]
+but/CC apparently/RB resurgent/JJ on/IN 
+[ this/DT side/NN ]
+of/IN 
+[ the/DT Atlantic/NNP ]
+./. 
+
+======================================
+
+[ The/DT Heritage/NNP answer/NN ]
+?/. 
+
+Reverse/VB 
+[ the/DT tax/NN incentives/NNS ]
+./. 
+
+Give/VB 
+[ us/PRP ]
+
+[ tax/NN credits/NNS ]
+when/WRB 
+[ we/PRP ]
+purchase/VBP 
+[ health/NN insurance/NN ]
+and/CC 
+[ health/NN services/NNS ourselves/PRP ]
+;/: count/VB 
+[ as/RB taxable/JJ income/NN ]
+
+[ any/DT purchase/NN ]
+through/IN 
+[ our/PRP$ companies/NNS ]
+./. 
+
+As/IN 
+[ employers/NNS ]
+shifted/VBD 
+[ dollars/NNS ]
+out/IN of/IN 
+[ premium/NN payments/NNS ]
+and/CC into/IN 
+[ paychecks/NNS ]
+,/, 
+[ our/PRP$ real/JJ after-tax/NN incomes/NNS ]
+would/MD n't/RB change/VB ./. 
+
+But/CC 
+[ we/PRP ]
+,/, not/RB 
+[ our/PRP$ companies/NNS ]
+,/, would/MD soon/RB be/VB in/IN 
+[ control/NN ]
+of/IN 
+[ our/PRP$ health/NN purchases/NNS ]
+./. 
+
+[ Messrs./NNPS Butler/NNP ]
+and/CC 
+[ Haislmaier/NNP ]
+would/MD require/VB 
+[ us/PRP ]
+to/TO buy/VB 
+[ catastrophic/JJ coverage/NN ]
+./. 
+
+ (/( If/IN 
+[ we/PRP ]
+are/VBP poor/JJ ,/, 
+[ they/PRP ]
+would/MD extend/VB 
+[ government-provided/JJ coverage/NN ]
+to/TO 
+[ us/PRP ]
+./. 
+
+ )/) How/WRB 
+[ we/PRP ]
+pay/VBP for/IN 
+[ other/JJ services/NNS ]
+--/: directly/RB or/CC through/IN 
+[ insurance/NN ]
+--/: would/MD be/VB 
+[ our/PRP$ choice/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ Rand/NNP Corp./NNP ]
+found/VBD in/IN 
+[ studies/NNS ]
+certain/JJ to/TO figure/VB prominently/RB in/IN 
+[ the/DT debate/NN ]
+,/, when/WRB 
+[ people/NNS ]
+pay/VBP 
+[ a/DT fee/NN ]
+for/IN 
+[ health/NN services/NNS ]
+ (/( 
+[ emergency/NN rooms/NNS ]
+were/VBD 
+[ Rand/NNP 's/POS focus/NN ]
+ )/) ,/, 
+[ use/NN ]
+becomes/VBZ 
+[ wiser/JJR ]
+and/CC more/RBR sparing/JJ ./. 
+
+[ Health/NN ]
+improves/VBZ even/RB as/IN 
+[ visits/NNS ]
+to/TO 
+[ the/DT hospital/NN ]
+drop/VBP off/RB ./. 
+
+[ Messrs./NNPS Butler/NNP ]
+and/CC 
+[ Haislmaier/NNP ]
+believe/VBP that/IN 
+[ this/DT ]
+is/VBZ just/RB 
+[ what/WP ]
+will/MD happen/VB when/WRB 
+[ ordinary/JJ people/NNS ]
+take/VBP 
+[ a/DT long/JJ ]
+,/, 
+[ hard/JJ look/NN ]
+at/IN 
+[ insurance/NN premiums/NNS ]
+and/CC 
+[ other/JJ health/NN costs/NNS ]
+and/CC ask/VBP ,/, ``/`` 
+[ Am/VBP ]
+
+[ I/PRP ]
+getting/VBG 
+[ my/PRP$ money/NN 's/POS worth/NN ]
+?/. 
+
+''/'' 
+[ A/DT true/JJ market/NN ]
+in/IN 
+[ health/NN services/NNS ]
+will/MD spring/VB to/TO 
+[ life/NN ]
+,/, putting/VBG 
+[ a/DT brake/NN ]
+on/IN 
+[ health-care/NN inflation/NN ]
+and/CC creating/VBG 
+[ an/DT environment/NN ]
+in/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+will/MD be/VB easier/JJR for/IN 
+[ government/NN ]
+and/CC 
+[ business/NN ]
+to/TO insure/VB 
+[ those/DT ]
+not/RB now/RB insured/JJ ./. 
+
+======================================
+
+[ The/DT Heritage/NNP team/NN ]
+is/VBZ not/RB alone/RB in/IN 
+[ its/PRP$ general/JJ conclusions/NNS ]
+./. 
+
+[ Harvard/NNP Business/NNP School/NNP Prof./NNP Regina/NNP Herzlinger/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, has/VBZ developed/VBN 
+[ a/DT similar/JJ plan/NN ]
+,/, calling/VBG for/IN 
+[ tax/NN deductions/NNS ]
+rather/RB than/IN 
+[ credits/NNS ]
+./. 
+
+[ She/PRP ]
+would/MD have/VB 
+[ the/DT money/NN ]
+raised/VBN through/IN taxing/VBG 
+[ the/DT ]
+newly/RB counted/VBN 
+[ income/NN ]
+go/VB to/TO pay/VB for/IN 
+[ health/NN coverage/NN ]
+for/IN 
+[ the/DT poor/JJ ]
+./. 
+
+======================================
+
+[ Whatever/WDT ]
+
+[ the/DT details/NNS ]
+,/, outside/IN of/IN 
+[ Washington/NNP ]
+and/CC 
+[ New/NNP York/NNP ]
+,/, 
+[ who/WP ]
+can/MD doubt/VB 
+[ any/DT more/JJR ]
+that/IN 
+[ market/NN economics/NNS ]
+is/VBZ superior/JJ to/TO command/VB 
+[ economics/NNS ]
+?/. 
+
+And/CC 
+[ who/WP ]
+would/MD n't/RB agree/VB that/IN 
+[ our/PRP$ health-care/NN system/NN ]
+does/VBZ n't/RB need/VB 
+[ another/DT dose/NN ]
+of/IN 
+[ the/DT potion/NN ]
+
+[ that/WDT ]
+has/VBZ already/RB put/VBN 
+[ it/PRP ]
+under/IN 
+[ the/DT weather/NN ]
+?/. 
+
+[ It/PRP ]
+needs/VBZ 
+[ real/JJ medicine/NN ]
+for/IN 
+[ a/DT real/JJ cure/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Judge/NNP ]
+was/VBD 
+[ special/JJ assistant/NN ]
+to/TO 
+[ President/NNP Reagan/NNP ]
+for/IN speechwriting/NN ./. 

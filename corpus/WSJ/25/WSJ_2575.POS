@@ -1,0 +1,373 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Willamette/NNP Industries/NNP Inc./NNP ]
+and/CC 
+[ Potlatch/NNP Corp./NNP ]
+reported/VBD 
+[ strong/JJ earnings/NNS gains/NNS ]
+for/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, but/CC 
+[ another/DT Northwest/JJ forest-products/JJ company/NN ]
+,/, 
+[ Boise/NNP Cascade/NNP Corp./NNP ]
+,/, posted/VBD 
+[ a/DT decline/NN ]
+./. 
+
+======================================
+
+[ Willamette/NNP ]
+and/CC 
+[ Potlatch/NNP ]
+cited/VBD 
+[ favorable/JJ lumber/NN prices/NNS ]
+or/CC 
+[ strong/JJ demand/NN ]
+for/IN 
+[ pulp/NN ]
+and/CC 
+[ paperboard/NN products/NNS ]
+for/IN 
+[ their/PRP$ gains/NNS ]
+./. 
+
+[ Boise/NNP Cascade/NNP ]
+blamed/VBD 
+[ soft/JJ demand/NN ]
+for/IN 
+[ paper/NN ]
+and/CC 
+[ paper/NN products/NNS ]
+for/IN 
+[ its/PRP$ decrease/NN ]
+./. 
+
+======================================
+
+[ Boise/NNP Cascade/NNP ]
+said/VBD 
+[ earnings/NNS ]
+fell/VBD 
+[ 13/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+to/TO 
+[ $/$ 62.8/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.34/CD ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ $/$ 71.9/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.58/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+[ Revenue/NNP ]
+rose/VBD slightly/RB to/TO 
+[ $/$ 1.08/CD billion/CD ]
+from/IN 
+[ $/$ 1.04/CD billion/CD ]
+./. 
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ the/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+earned/VBD 
+[ $/$ 216.3/CD million/CD ]
+,/, or/CC 
+[ $/$ 4.76/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB slightly/RB from/IN 
+[ $/$ 212.7/CD million/CD ]
+,/, or/CC 
+[ $/$ 4.64/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Revenue/NNP ]
+amounted/VBD to/TO 
+[ $/$ 3.28/CD billion/CD ]
+,/, up/RB 
+[ 7/CD %/NN ]
+from/IN 
+[ $/$ 3.06/CD billion/CD ]
+./. 
+
+======================================
+
+While/IN 
+[ other/JJ product/NN lines/NNS ]
+improved/VBD ,/, 
+[ Boise/NNP Cascade/NNP 's/POS paper/NN ]
+and/CC 
+[ paper-products/JJ segment/NN ]
+posted/VBD 
+[ a/DT 31/CD %/NN drop/NN ]
+in/IN 
+[ operating/VBG income/NN ]
+to/TO 
+[ $/$ 93.5/CD million/CD ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD 
+[ demand/NN ]
+for/IN 
+[ uncoated/JJ white/JJ paper/NN ]
+,/, coated/VBN 
+[ grades/NNS ]
+and/CC 
+[ newsprint/NN ]
+slowed/VBD while/IN 
+[ new/JJ capacity/NN ]
+came/VBD on/IN 
+[ line/NN ]
+and/CC 
+[ wood-chip/NN costs/NNS ]
+rose/VBD ``/`` dramatically/RB 
+[ higher/RBR ]
+''/'' in/IN 
+[ the/DT Northwest/NNP ]
+./. 
+
+======================================
+
+[ Willamette/NNP ]
+said/VBD 
+[ it/PRP ]
+earned/VBD 
+[ $/$ 52.9/CD million/CD ]
+,/, or/CC 
+[ $/$ 2.08/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB 
+[ 35/CD %/NN ]
+from/IN 
+[ $/$ 39/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.54/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+[ Sales/NNP ]
+increased/VBD 
+[ 10/CD %/NN ]
+to/TO 
+[ $/$ 486.6/CD million/CD ]
+from/IN 
+[ $/$ 441/CD million/CD ]
+./. 
+
+[ The/DT rate/NN ]
+of/IN 
+[ earnings/NNS growth/NN ]
+was/VBD 
+[ seven/CD times/NNS ]
+
+[ the/DT 5/CD %/NN growth/NN rate/NN ]
+of/IN 
+[ the/DT prior/JJ six/CD months/NNS ]
+./. 
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Willamette/NNP ]
+reported/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 139.8/CD million/CD ]
+,/, or/CC 
+[ $/$ 5.50/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB 
+[ 15/CD %/NN ]
+from/IN 
+[ $/$ 121.7/CD million/CD ]
+,/, or/CC 
+[ $/$ 4.79/CD ]
+
+[ a/DT share/NN ]
+,/, in/IN 
+[ the/DT 1988/CD period/NN ]
+./. 
+
+[ Sales/NNP ]
+rose/VBD 
+[ 11/CD %/NN ]
+to/TO 
+[ $/$ 1.42/CD billion/CD ]
+from/IN 
+[ $/$ 1.27/CD billion/CD ]
+./. 
+
+======================================
+
+[ Potlatch/NNP ]
+reported/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 35.1/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.22/CD ]
+
+[ a/DT share/NN ]
+,/, for/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, up/RB 
+[ 24/CD %/NN ]
+from/IN 
+[ $/$ 28.3/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.02/CD ]
+
+[ a/DT share/NN ]
+,/, in/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+[ Sales/NNP ]
+increased/VBD 
+[ 16/CD %/NN ]
+to/TO 
+[ $/$ 318.4/CD million/CD ]
+from/IN 
+[ $/$ 273.7/CD million/CD ]
+./. 
+
+[ Earnings/NNS ]
+had/VBD risen/VBN 
+[ 21/CD %/NN ]
+in/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+./. 
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Potlatch/NNP ]
+said/VBD 
+[ it/PRP ]
+earned/VBD 
+[ $/$ 96.8/CD million/CD ]
+,/, or/CC 
+[ $/$ 3.41/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB 
+[ 22/CD %/NN ]
+from/IN 
+[ $/$ 79.3/CD million/CD ]
+,/, or/CC 
+[ $/$ 2.85/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Sales/NNP ]
+totaled/VBD 
+[ $/$ 911.9/CD million/CD ]
+,/, up/RB 
+[ 14/CD %/NN ]
+from/IN 
+[ $/$ 798.7/CD million/CD ]
+./. 
+
+======================================
+
+[ Potlatch/NNP ]
+said/VBD 
+[ the/DT earnings/NNS gains/NNS ]
+were/VBD achieved/VBN despite/IN continuing/VBG 
+[ problems/NNS ]
+at/IN 
+[ its/PRP$ Lewiston/NNP ]
+,/, 
+[ Idaho/NNP ]
+,/, 
+[ sawmill/NN ]
+and/CC with/IN 
+[ new/JJ equipment/NN ]
+at/IN 
+[ its/PRP$ Cloquet/NNP ]
+,/, 
+[ Minn./NNP ]
+,/, 
+[ paper/NN mill/NN ]
+./. 
+
+[ Willamette/NN ]
+said/VBD 
+[ its/PRP$ third-quarter/JJ earnings/NNS ]
+were/VBD reduced/VBN by/IN 
+[ a/DT $/$ 1.2/CD million/CD pretax/JJ write-off/NN ]
+for/IN 
+[ timber/NN losses/NNS ]
+from/IN 
+[ Hurricane/NNP Hugo/NNP ]
+in/IN 
+[ the/DT Carolinas/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ,/, 
+[ Boise/NNP Cascade/NNP ]
+fell/VBD 
+[ 37.5/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, to/TO 
+[ $/$ 42.875/CD ]
+,/, and/CC 
+[ Potlatch/NNP ]
+closed/VBD at/IN  
+[ $/$ 35.75/CD ]
+,/, up/RB 
+[ 12.5/CD cents/NNS ]
+./. 
+
+In/IN 
+[ over-the-counter/JJ ]
+trading/NN ,/, 
+[ Willamette/NNP ]
+closed/VBD at/IN 
+[ $/$ 51.75/CD ]
+,/, up/RB 
+[ $/$ 1.25/CD ]
+./. 

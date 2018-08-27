@@ -1,0 +1,471 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Chicago/NNP Mercantile/NNP Exchange/NNP ]
+plans/VBZ to/TO become/VB 
+[ the/DT first/JJ futures/NNS ]
+exchange/NN to/TO allow/VB 
+[ members/NNS ]
+to/TO match/VB 
+[ large/JJ ]
+buy/VB and/CC sell/VB 
+[ orders/NNS ]
+for/IN 
+[ contracts/NNS ]
+outside/IN 
+[ the/DT exchange/NN 's/POS trading/NN pits/NNS ]
+./. 
+
+======================================
+
+[ The/DT Merc/NNP proposal/NN ]
+applies/VBZ initially/RB to/TO 
+[ its/PRP$ stock-index/NN futures/NNS contract/NN ]
+,/, and/CC 
+[ similar/JJ plans/NNS ]
+are/VBP expected/VBN for/IN 
+[ the/DT Merc/NNP 's/POS foreign/JJ exchange/NN futures/NNS ]
+by/IN 
+[ year/NN end/NN ]
+./. 
+
+[ The/DT proposal/NN ]
+is/VBZ 
+[ an/DT admission/NN ]
+that/IN 
+[ the/DT more/JJR ]
+than/IN 
+[ century-old/JJ practice/NN ]
+of/IN shouting/VBG 
+[ orders/NNS ]
+in/IN 
+[ a/DT trading/NN pit/NN ]
+ca/MD n't/RB serve/VB 
+[ all/PDT the/DT needs/NNS ]
+of/IN 
+[ multibillion-dollar/JJ financial/JJ markets/NNS ]
+dominated/VBN by/IN 
+[ institutional/JJ players/NNS ]
+,/, 
+[ Merc/NNP officials/NNS ]
+said/VBD ./. 
+
+======================================
+
+Allowing/VBG 
+[ large/JJ futures/NNS ]
+trades/NNS to/TO be/VB matched/VBN off/IN 
+[ the/DT exchange/NN floor/NN ]
+may/MD swell/VB 
+[ the/DT amount/NN ]
+of/IN 
+[ program/NN ]
+trading/NN between/IN 
+[ the/DT stock-index/NN futures/NNS market/NN ]
+here/RB and/CC 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+But/CC 
+[ it/PRP ]
+wo/MD n't/RB necessarily/RB make/VB 
+[ the/DT markets/NNS ]
+more/RBR volatile/JJ ./. 
+
+Making/VBG 
+[ large/JJ institutional/JJ trades/NNS ]
+,/, 
+[ 300/CD contracts/NNS ]
+or/CC 
+[ more/JJR ]
+under/IN 
+[ the/DT stock-index/NN futures/NNS plan/NN ]
+,/, outside/IN 
+[ the/DT pit/NN ]
+may/MD actually/RB lessen/VB 
+[ the/DT price-jolting/JJ impact/NN large/JJ program/NN orders/NNS ]
+often/RB have/VBP on/IN 
+[ both/DT ]
+
+[ markets/NNS ]
+,/, 
+[ futures/NNS traders/NNS ]
+say/VBP ./. 
+
+======================================
+
+``/`` 
+[ This/DT rule/NN ]
+will/MD help/VB minimize/VB 
+[ the/DT impact/NN ]
+of/IN 
+[ institutional/JJ ]
+trading/NN on/IN 
+[ the/DT marketplace/NN ]
+,/, ''/'' said/VBD 
+[ John/NNP Geldermann/NNP ]
+,/, 
+[ Merc/NNP chairman/NN ]
+./. 
+
+======================================
+
+Matching/VBG 
+[ large/JJ orders/NNS ]
+outside/IN 
+[ a/DT trading/NN pit/NN ]
+,/, and/CC then/RB reporting/VBG 
+[ the/DT price/NN ]
+of/IN 
+[ the/DT trade/NN ]
+to/TO 
+[ the/DT market/NN ]
+,/, is/VBZ expected/VBN to/TO have/VB less/JJR of/IN 
+[ an/DT impact/NN ]
+on/IN 
+[ prices/NNS ]
+,/, in/IN 
+[ most/JJS cases/NNS ]
+,/, than/IN randomly/RB shouting/VBG out/IN 
+[ large/JJ ]
+buy/VB or/CC sell/VB 
+[ orders/NNS ]
+,/, when/WRB 
+[ other/JJ members/NNS ]
+often/RB are/VBP n't/RB immediately/RB willing/JJ to/TO take/VB 
+[ the/DT other/JJ side/NN ]
+of/IN 
+[ the/DT order/NN ]
+./. 
+
+======================================
+
+[ The/DT proposal/NN ]
+has/VBZ been/VBN under/IN 
+[ consideration/NN ]
+by/IN 
+[ the/DT Merc/NNP ]
+for/IN nearly/RB 
+[ two/CD years/NNS ]
+,/, and/CC still/RB requires/VBZ 
+[ regulatory/JJ approval/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ similar/JJ to/TO 
+[ the/DT off-exchange/NN ]
+matching/NN of/IN 
+[ big/JJ stock/NN orders/NNS ]
+by/IN 
+[ brokerage/NN firm/NN ]
+trading/NN 
+[ desks/NNS ]
+
+[ that/WDT ]
+has/VBZ accounted/VBN for/IN much/JJ of/IN 
+[ the/DT activity/NN ]
+on/IN 
+[ the/DT Big/NNP Board/NNP ]
+for/IN more/JJR than/IN 
+[ 20/CD years/NNS ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT Merc/NNP proposal/NN ]
+,/, 
+[ an/DT exchange/NN member/NN ]
+with/IN 
+[ an/DT order/NN ]
+for/IN 
+[ 300/CD ]
+or/CC 
+[ more/JJR S&P/NNP 500/CD futures/NNS ]
+contracts/NNS to/TO buy/VB or/CC sell/VB could/MD find/VB 
+[ another/DT member/NN ]
+outside/IN 
+[ the/DT pit/NN ]
+to/TO execute/VB 
+[ the/DT trade/NN ]
+at/IN 
+[ a/DT predetermined/VBN price/NN ]
+./. 
+
+[ The/DT member/NN ]
+with/IN 
+[ the/DT order/NN ]
+would/MD first/RB notify/VB 
+[ the/DT exchange/NN ]
+,/, and/CC then/RB announce/VB to/TO 
+[ the/DT members/NNS ]
+in/IN 
+[ the/DT trading/NN pit/NN ]
+
+[ the/DT size/NN ]
+of/IN 
+[ his/PRP$ ]
+buy/VB or/CC sell/VB 
+[ order/NN ]
+,/, but/CC not/RB 
+[ the/DT agreed-to/JJ price/NN ]
+./. 
+
+======================================
+
+[ The/DT pit/NN traders/NNS ]
+would/MD then/RB have/VB 
+[ the/DT opportunity/NN ]
+to/TO bid/VB on/IN 
+[ the/DT order/NN ]
+at/IN 
+[ whatever/WDT price/NN ]
+
+[ they/PRP ]
+chose/VBD ./. 
+
+[ The/DT member/NN ]
+with/IN 
+[ the/DT order/NN ]
+would/MD trade/VB 
+[ all/DT ]
+or/CC 
+[ part/NN ]
+of/IN 
+[ the/DT order/NN ]
+with/IN 
+[ pit/NN members/NNS ]
+offering/VBG 
+[ a/DT better/JJR price/NN ]
+,/, or/CC complete/VB 
+[ the/DT trade/NN ]
+as/IN planned/VBN with/IN 
+[ the/DT member/NN ]
+outside/IN 
+[ the/DT pit/NN ]
+./. 
+
+======================================
+
+[ Leo/NNP Melamed/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Merc/NNP 's/POS executive/NN committee/NN ]
+,/, said/VBD 
+[ the/DT proposal/NN ]
+was/VBD 
+[ a/DT pilot/NN plan/NN ]
+,/, and/CC 
+[ details/NNS ]
+such/JJ as/IN 
+[ the/DT 300-contract/JJ minimum/NN ]
+could/MD be/VB modified/VBN to/TO meet/VB 
+[ customer/NN demand/NN ]
+./. 
+
+[ Three/CD hundred/CD S&P/NNP 500/CD contracts/NNS ]
+have/VBP 
+[ a/DT value/NN ]
+of/IN about/IN 
+[ $/$ 52/CD million/CD ]
+at/IN 
+[ current/JJ levels/NNS ]
+./. 
+
+======================================
+
+[ Merc/NNP floor/NN traders/NNS ]
+contacted/VBN said/VBD 
+[ they/PRP ]
+favored/VBD 
+[ the/DT block/NN trading/NN plan/NN ]
+./. 
+
+[ Some/DT ]
+asserted/VBD that/IN 
+[ members/NNS ]
+at/IN 
+[ times/NNS ]
+illicitly/RB arrange/VBP 
+[ trades/NNS ]
+outside/IN 
+[ the/DT pit/NN ]
+to/TO facilitate/VB trading/NN ./. 
+
+``/`` 
+[ The/DT good/JJ news/NN ]
+is/VBZ 
+[ they/PRP ]
+want/VBP to/TO legalize/VB prearranged/VBN trading/NN ./. 
+
+[ The/DT bad/JJ news/NN ]
+is/VBZ 
+[ you/PRP ]
+have/VBP to/TO trade/VB 
+[ 300/CD ]
+or/CC 
+[ more/JJR ]
+,/, ''/'' said/VBD 
+[ one/CD trader/NN ]
+./. 
+
+======================================
+
+[ Many/JJ ]
+of/IN 
+[ the/DT 45/CD futures/NNS traders/NNS ]
+and/CC 
+[ one/CD clerk/NN ]
+indicted/VBN on/IN 
+[ fraud/NN charges/NNS last/JJ month/NN ]
+at/IN 
+[ the/DT Merc/NNP ]
+and/CC 
+[ the/DT Chicago/NNP Board/NNP ]
+of/IN 
+[ Trade/NNP ]
+were/VBD charged/VBN with/IN 
+[ various/JJ forms/NNS ]
+of/IN prearranged/VBN trading/NN ,/, or/CC not/RB offering/VBG 
+[ their/PRP$ orders/NNS ]
+to/TO 
+[ all/DT traders/NNS ]
+in/IN 
+[ the/DT pit/NN ]
+./. 
+
+======================================
+
+[ The/DT Merc/NNP plan/NN ]
+also/RB is/VBZ aimed/VBN at/IN 
+[ capturing/VBG part/NN ]
+of/IN 
+[ the/DT estimated/VBN 10/CD %/NN ]
+to/TO 
+[ 15/CD %/NN ]
+of/IN 
+[ all/DT program/NN trades/NNS ]
+in/IN 
+[ U.S./NNP securities/NNS ]
+
+[ that/WDT ]
+are/VBP executed/VBN overnight/RB in/IN 
+[ London/NNP ]
+./. 
+
+[ These/DT trades/NNS ]
+,/, known/VBN as/IN 
+[ exchanges/NNS ]
+for/IN 
+[ physicals/NNS ]
+,/, or/CC 
+[ EFPs/NNS ]
+,/, at/IN 
+[ times/NNS ]
+involve/VBP 
+[ 500/CD ]
+to/TO 
+[ 1,000/CD S&P/NNP 500/CD futures/NNS contracts/NNS ]
+and/CC 
+[ a/DT corresponding/JJ dollar/NN value/NN ]
+in/IN 
+[ stocks/NNS ]
+./. 
+
+[ They/PRP ]
+are/VBP made/VBN offshore/RB partly/RB to/TO ensure/VB 
+[ they/PRP ]
+can/MD be/VB executed/VBN at/IN 
+[ predetermined/VBN prices/NNS ]
+to/TO fit/VB 
+[ a/DT particular/JJ institution/NN 's/POS trading/NN strategy/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ the/DT orders/NNS ]
+were/VBD brought/VBN to/TO 
+[ the/DT U.S./NNP stock/NN ]
+and/CC 
+[ stock-index/JJ futures/NNS markets/NNS ]
+during/IN trading/NN 
+[ hours/NNS ]
+,/, 
+[ they/PRP ]
+might/MD have/VB to/TO be/VB broken/VBN up/IN to/TO be/VB executed/VBN ,/, depending/VBG on/IN 
+[ market/NN volatility/NN ]
+,/, and/CC 
+[ portions/NNS ]
+of/IN 
+[ the/DT order/NN ]
+would/MD be/VB executed/VBN at/IN 
+[ different/JJ prices/NNS ]
+./. 
+
+[ Merc/NNP members/NNS ]
+said/VBD that/IN allowing/VBG 
+[ members/NNS ]
+to/TO match/VB 
+[ S&P/NNP 500/CD futures/NNS orders/NNS ]
+outside/IN 
+[ the/DT trading/NN pit/NN ]
+could/MD attract/VB 
+[ part/NN ]
+of/IN 
+[ this/DT business/NN ]
+back/RB to/TO 
+[ Chicago/NNP ]
+./. 
+
+======================================
+
+Providing/VBG for/IN 
+[ block/NN ]
+trading/NN of/IN 
+[ stock-index/NN futures/NNS ]
+also/RB improves/VBZ 
+[ the/DT Merc/NNP 's/POS competitive/JJ standing/NN ]
+in/IN 
+[ relation/NN ]
+to/TO 
+[ the/DT Big/NNP Board/NNP ]
+./. 
+
+[ The/DT stock/NN exchange/NN ]
+is/VBZ expected/VBN within/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+to/TO gain/VB 
+[ regulatory/JJ approval/NN ]
+for/IN 
+[ a/DT stock/NN ]
+``/`` 
+[ basket/NN ]
+''/'' 
+[ product/NN ]
+
+[ that/WDT ]
+may/MD fulfull/VB 
+[ many/JJ ]
+of/IN 
+[ the/DT hedging/NN ]
+and/CC 
+[ arbitrage/NN functions/NNS ]
+currently/RB provided/VBN by/IN 
+[ stock-index/NN futures/NNS ]
+./. 

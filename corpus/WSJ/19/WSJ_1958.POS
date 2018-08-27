@@ -1,0 +1,58 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Zurn/NNP Industries/NNP Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+received/VBD 
+[ approval/NN ]
+to/TO proceed/VB on/IN 
+[ four/CD separate/JJ projects/NNS ]
+with/IN 
+[ a/DT total/JJ contract/NN value/NN ]
+of/IN 
+[ $/$ 59/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT projects/NNS ]
+include/VBP 
+[ construction/NN ]
+of/IN 
+[ a/DT 29,400/CD kilowatt/NN waste-to-energy/JJ plant/NN ]
+for/IN 
+[ Ada/NNP Cogeneration/NNP L.P./NNP ]
+,/, 
+[ Ada/NNP ]
+,/, 
+[ Mich./NNP ]
+;/: 
+[ a/DT steam/NN generating/NN plant/NN ]
+at/IN 
+[ Ontario/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ that/DT Zurn/NNP ]
+will/MD own/VB and/CC operate/VB ,/, and/CC 
+[ two/CD waste-water/NN control/NN projects/NNS ]
+in/IN 
+[ Orange/NNP County/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 

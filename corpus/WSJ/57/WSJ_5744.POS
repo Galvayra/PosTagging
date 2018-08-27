@@ -1,0 +1,337 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+but/CC more/RBR for/IN 
+[ the/DT whole/JJ meal/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ 
+[ the/DT prospect/NN ]
+facing/VBG 
+[ some/DT long-term/JJ investors/NNS ]
+in/IN 
+[ several/JJ stock/NN mutual/JJ funds/NNS ]
+managed/VBN by/IN 
+[ American/NNP Capital/NNP Management/NNP ]
+&/CC 
+[ Research/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT Houston-based/JJ fund/NN group/NN ]
+,/, 
+[ majority/NN ]
+owned/VBN by/IN 
+[ Primerica/NNP Corp./NNP ]
+,/, recently/RB cut/VBD 
+[ its/PRP$ fat/JJ up-front/JJ sales/NNS fee/NN ]
+,/, to/TO 
+[ 5.75/CD %/NN ]
+from/IN 
+[ 8.5/CD %/NN ]
+,/, for/IN 
+[ six/CD ]
+of/IN 
+[ its/PRP$ stock/NN funds/NNS ]
+./. 
+
+[ Sounds/VBZ ]
+good/JJ ./. 
+
+======================================
+
+But/CC here/RB 's/VBZ 
+[ the/DT hitch/NN ]
+:/: Now/RB 
+[ it/PRP ]
+'s/VBZ levying/VBG 
+[ a/DT separate/JJ ]
+,/, 
+[ annual/JJ charge/NN ]
+
+[ that/WDT ]
+could/MD eat/VB into/IN 
+[ returns/NNS ]
+for/IN 
+[ its/PRP$ buy-and-hold/JJ investors/NNS ]
+./. 
+
+And/CC 
+[ that/DT move/NN ]
+is/VBZ drawing/VBG 
+[ criticism/NN ]
+from/IN 
+[ some/DT fund/NN specialists/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ like/JJ bait/VB ]
+and/CC 
+[ switch/VB ]
+,/, ''/'' says/VBZ 
+[ Kurt/NNP Brouwer/NNP ]
+,/, 
+[ a/DT San/NNP Francisco/NNP investment/NN adviser/NN ]
+specializing/VBG in/IN 
+[ low-cost/JJ mutual/JJ funds/NNS ]
+./. 
+
+Calling/VBG 
+[ the/DT lowered/VBN load/NN ]
+``/`` 
+[ cosmetic/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ 
+[ investors/NNS ]
+could/MD end/VB up/RP shelling/VBG out/RP more/RBR over/IN 
+[ time/NN ]
+because/IN of/IN 
+[ the/DT funds/NNS '/POS annual/JJ so-called/JJ 12b-1/JJ fee/NN ]
+,/, 
+[ which/WDT ]
+soon/RB will/MD be/VB levied/VBN to/TO help/VB 
+[ market/VB ]
+
+[ the/DT funds/NNS ]
+./. 
+
+======================================
+ 
+[ (/( ]
+
+[ These/DT fees/NNS ]
+are/VBP named/VBN after/IN 
+[ the/DT 1980/CD rule/NN ]
+
+[ that/WDT ]
+first/RB allowed/VBD 
+[ funds/NNS ]
+to/TO siphon/VB 
+[ cash/NN ]
+annually/RB from/IN 
+[ fund/NN assets/NNS ]
+to/TO pay/VB for/IN 
+[ marketing/NN ]
+and/CC 
+[ distribution/NN costs/NNS ]
+./. 
+
+ )/) 
+======================================
+
+[ Several/JJ stock/NN funds/NNS ]
+have/VBP lowered/VBN 
+[ their/PRP$ loads/NNS ]
+since/IN 
+[ Black/NNP Monday/NNP ]
+in/IN 
+[ an/DT effort/NN ]
+to/TO revive/VB 
+[ sales/NNS ]
+./. 
+
+[ Others/NNS ]
+have/VBP opted/VBN to/TO cut/VB out/RP 
+[ front-end/JJ loads/NNS ]
+altogether/RB in/IN 
+[ favor/NN ]
+of/IN 
+[ 12b-1/JJ charges/NNS ]
+and/CC 
+[ exit/NN fees/NNS ]
+./. 
+
+But/CC 
+[ American/NNP Capital/NNP 's/POS new/JJ strategy/NN ]
+is/VBZ unusual/JJ because/IN of/IN 
+[ its/PRP$ combination/NN ]
+of/IN 
+[ both/DT ]
+
+[ a/DT steep/JJ up-front/JJ load/NN ]
+and/CC 
+[ a/DT marketing/NN fee/NN ]
+,/, at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ investors/NNS ]
+increasingly/RB are/VBP shunning/VBG 
+[ high-cost/JJ funds/NNS ]
+./. 
+
+======================================
+
+[ The/DT six/CD funds/NNS ]
+,/, with/IN 
+[ total/JJ assets/NNS ]
+of/IN more/RBR than/IN 
+[ $/$ 4/CD billion/CD ]
+,/, are/VBP 
+[ American/NNP Capital/NNP Pace/NNP ]
+,/, 
+[ Enterprise/NNP Fund/NNP ]
+,/, 
+[ Fund/NNP ]
+of/IN 
+[ America/NNP ]
+,/, 
+[ Harbor/NNP Fund/NNP ]
+,/, 
+[ Venture/NNP Fund/NNP ]
+and/CC 
+[ American/NNP OTC/NNP Fund/NNP ]
+./. 
+
+[ Investors/NNS ]
+will/MD be/VB charged/VBN 
+[ an/DT annual/JJ fee/NN ]
+of/IN 
+[ 0.25/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+,/, starting/VBG 
+[ Sept./NNP 29/CD ]
+,/, for/IN 
+[ the/DT life/NN ]
+of/IN 
+[ the/DT funds/NNS ]
+./. 
+
+======================================
+
+[ American/NNP Capital/NNP officials/NNS ]
+shrug/VBP off/RP 
+[ the/DT gripes/NNS ]
+./. 
+
+[ The/DT new/JJ fee/NN strategy/NN ]
+will/MD help/VB attract/VB 
+[ more/JJR money/NN ]
+into/IN 
+[ the/DT funds/NNS ]
+,/, 
+[ they/PRP ]
+contend/VBP ,/, 
+[ which/WDT ]
+in/IN 
+[ turn/NN ]
+will/MD lower/VB 
+[ costs/NNS ]
+for/IN 
+[ all/DT ]
+of/IN 
+[ their/PRP$ investors/NNS ]
+./. 
+
+[ The/DT new/JJ structure/NN ]
+,/, 
+[ they/PRP ]
+say/VBP ,/, should/MD help/VB 
+[ brokers/NNS ]
+
+[ who/WP ]
+had/VBD been/VBN having/VBG 
+[ trouble/NN peddling/VBG stock/NN funds/NNS ]
+to/TO 
+[ wary/JJ investors/NNS ]
+since/IN 
+[ the/DT October/NNP 1987/CD crash/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Brokers/NNS ]
+said/VBD ,/, 
+[ 'Look/VB  ]
+,/, 
+[ it/PRP ]
+'s/VBZ hard/JJ enough/RB to/TO sell/VB 
+[ equity/NN funds/NNS ]
+--/: much/RB less/RBR with/IN 
+[ an/DT 8.5/CD %/NN load/NN ]
+,/, '/'' ''/'' conceded/VBD 
+[ Thomas/NNP Goodwin/NNP ]
+,/, 
+[ American/NNP Capital/NNP 's/POS marketing/NN specialist/NN ]
+./. 
+
+But/CC ,/, says/VBZ 
+[ Mr./NNP Goodwin/NNP ]
+,/, ``/`` 
+[ Investors/NNS ]
+seem/VBP to/TO be/VB able/JJ to/TO swallow/VB 
+[ 5.75/CD %/NN ]
+./. 
+
+''/'' 
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ American/NNP Capital/NNP officials/NNS ]
+maintain/VBP that/IN 
+[ the/DT annual/JJ 12b-1/JJ charge/NN ]
+will/MD give/VB 
+[ brokers/NNS ]
+more/JJR incentive/NN to/TO provide/VB 
+[ better/JJR service/NN ]
+to/TO 
+[ shareholders/NNS ]
+./. 
+
+And/CC 
+[ they/PRP ]
+say/VBP 
+[ the/DT new/JJ fee/NN ]
+is/VBZ too/RB small/JJ to/TO make/VB much/RB of/IN 
+[ a/DT difference/NN ]
+to/TO 
+[ investors/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+only/RB have/VBP to/TO do/VB 
+[ a/DT tiny/JJ ]
+,/, 
+[ tiny/JJ bit/NN ]
+better/RB in/IN 
+[ terms/NNS ]
+of/IN 
+[ investment/NN performance/NN ]
+to/TO overcome/VB 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Don/NNP G./NNP Powell/NNP ]
+,/, 
+[ American/NNP Capital/NNP president/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+./. 

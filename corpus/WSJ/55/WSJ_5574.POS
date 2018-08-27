@@ -1,0 +1,885 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ little/JJ Serex/NNP Inc./NNP ]
+arranged/VBD 
+[ its/PRP$ first/JJ group/NN health-insurance/NN plan/NN ]
+,/, covering/VBG 
+[ six/CD workers/NNS ]
+./. 
+
+======================================
+
+[ Five/CD months/NNS ]
+later/RB 
+[ the/DT Englewood/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ medical-test/JJ kits/NNS ]
+switched/VBD to/TO 
+[ a/DT cheaper/JJR policy/NN ]
+with/IN 
+[ the/DT same/JJ insurer/NN ]
+,/, saving/VBG 
+[ $/$ 6,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+Besides/IN costing/VBG 
+[ more/JJR ]
+,/, 
+[ the/DT first/JJ policy/NN ]
+failed/VBD to/TO deliver/VB 
+[ all/PDT its/PRP$ promised/VBN advantages/NNS ]
+because/IN 
+[ doctors/NNS ]
+affiliated/VBN with/IN 
+[ the/DT plan/NN ]
+were/VBD too/RB hard/JJ to/TO find/VB ,/, 
+[ Serex/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ Judith/NNP Fitzpatrick-Davis/NNP ]
+,/, 
+[ Serex/NNP 's/POS president/NN ]
+,/, says/VBZ 
+[ she/PRP ]
+needs/VBZ 
+[ a/DT health/NN plan/NN ]
+to/TO attract/VB and/CC keep/VB 
+[ workers/NNS ]
+./. 
+
+But/CC 
+[ she/PRP ]
+still/RB is/VBZ n't/RB 
+[ happy/JJ paying/VBG premiums/NNS ]
+as/RB high/JJ as/IN 
+[ $/$ 3,500/CD ]
+
+[ a/DT year/NN ]
+for/IN 
+[ an/DT employee/NN ]
+earning/VBG 
+[ $/$ 21,000/CD ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'d/MD be/VB paying/VBG 
+[ a/DT lot/NN ]
+less/JJR if/IN 
+[ we/PRP ]
+were/VBD 
+[ a/DT big/JJ company/NN ]
+,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+[ Benefits/NNS specialists/NNS ]
+say/VBP 
+[ she/PRP ]
+is/VBZ probably/RB right/JJ ./. 
+
+======================================
+
+As/IN 
+[ benefits/NNS ]
+become/VBP more/RBR expensive/JJ ,/, 
+[ small/JJ companies/NNS ]
+like/IN 
+[ Serex/NNP ]
+are/VBP growing/VBG more/RBR aggressive/JJ in/IN slashing/VBG 
+[ costs/NNS ]
+or/CC getting/VBG 
+[ more/JJR ]
+for/IN 
+[ their/PRP$ money/NN ]
+./. 
+
+[ A/DT decade/NN ]
+ago/IN ,/, 
+[ specialists/NNS ]
+say/VBP ,/, 
+[ most/JJS employers/NNS ]
+would/MD sign/VB up/IN for/IN 
+[ a/DT group/NN policy/NN ]
+,/, quietly/RB pay/VB 
+[ the/DT premiums/NNS ]
+and/CC ignore/VB 
+[ the/DT subject/NN ]
+./. 
+
+Now/RB ,/, 
+[ companies/NNS ]
+are/VBP scrutinizing/VBG 
+[ their/PRP$ coverage/NN ]
+and/CC making/VBG 
+[ frequent/JJ changes/NNS ]
+./. 
+
+[ The/DT chief/NN executive/NN officer/NN ]
+rather/RB than/IN 
+[ a/DT personnel/NNS aide/NN ]
+often/RB makes/VBZ 
+[ the/DT decisions/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+ca/MD n't/RB tell/VB 
+[ you/PRP ]
+how/WRB 
+[ much/JJ energy/NN ]
+
+[ I/PRP ]
+'ve/VBP put/VBN into/IN 
+[ this/DT problem/NN ]
+,/, ''/'' says/VBZ 
+[ Mrs./NNP Fitzpatrick-Davis/NNP ]
+,/, 
+[ who/WP ]
+with/IN 
+[ an/DT assistant/NN ]
+spent/VBD nearly/RB 
+[ two/CD months/NNS ]
+studying/VBG 
+[ medical/JJ plans/NNS ]
+./. 
+
+======================================
+
+Most/JJS of/IN 
+[ the/DT scrutiny/NN ]
+focuses/VBZ on/IN 
+[ health-insurance/NN plans/NNS ]
+,/, 
+[ the/DT fringe/NN benefit/NN ]
+for/IN 
+[ which/WDT costs/NNS ]
+have/VBP been/VBN soaring/VBG fastest/RBS ./. 
+
+But/CC 
+[ some/DT small/JJ companies/NNS ]
+are/VBP taking/VBG 
+[ measures/NNS ]
+to/TO curb/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ retirement/NN plans/NNS ]
+and/CC 
+[ other/JJ benefits/NNS ]
+too/RB ./. 
+
+======================================
+
+[ The/DT cost/NN trimming/NN ]
+,/, though/IN resented/VBN by/IN 
+[ workers/NNS ]
+,/, is/VBZ paying/VBG off/IN for/IN 
+[ many/JJ companies/NNS ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, 
+[ Refined/NNP Sugars/NNPS Inc./NNP ]
+,/, of/IN 
+[ Yonkers/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, reduced/VBD 
+[ health-insurance/NN coverage/NN ]
+for/IN about/IN 
+[ 160/CD salaried/JJ workers/NNS ]
+,/, saving/VBG about/IN 
+[ $/$ 125,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+[ The/DT minimum/JJ deductible/JJ ]
+was/VBD doubled/VBN ,/, for/IN 
+[ example/NN ]
+,/, to/TO 
+[ $/$ 200/CD ]
+./. 
+
+To/TO achieve/VB 
+[ further/JJ savings/NNS ]
+of/IN 
+[ an/DT estimated/VBN $/$ 300,000/CD ]
+annually/RB ,/, 
+[ the/DT company/NN ]
+switched/VBD 
+[ insurance/NN carriers/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+[ The/DT new/JJ plan/NN ]
+has/VBZ 
+[ limits/NNS ]
+--/: on/IN 
+[ reimbursement/NN ]
+for/IN 
+[ psychiatric/JJ care/NN ]
+,/, for/IN 
+[ instance/NN ]
+--/: 
+[ that/WDT ]
+were/VBD n't/RB contained/VBN in/IN 
+[ the/DT old/JJ plan/NN ]
+./. 
+
+``/`` 
+[ The/DT first/JJ time/NN ]
+was/VBD 
+[ the/DT Band-Aid/NNP ]
+,/, ''/'' says/VBZ 
+[ Donald/NNP W./NNP Brainard/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ human/JJ resources/NNS ]
+for/IN 
+[ Refined/NNP Sugars/NNPS ]
+,/, 
+[ a/DT Canadian-owned/JJ company/NN ]
+,/, of/IN 
+[ the/DT wave/NN ]
+of/IN 
+[ cuts/NNS ]
+./. 
+
+``/`` 
+[ The/DT second/JJ time/NN ]
+was/VBD 
+[ the/DT major/JJ surgery/NN ]
+./. 
+
+''/'' 
+======================================
+
+Even/RB more/RBR extreme/JJ was/VBD 
+[ NPD/NNP Group/NNP Inc./NNP 's/POS decision/NN ]
+,/, about/IN 
+[ four/CD years/NNS ]
+ago/IN ,/, to/TO drop/VB 
+[ its/PRP$ major-medical/JJ insurer/NN ]
+./. 
+
+While/IN keeping/VBG 
+[ Blue/NNP Cross/NNP hospital/NN coverage/NN ]
+,/, 
+[ the/DT Port/NNP Washington/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ market-research/JJ company/NN ]
+became/VBD 
+[ self-insured/VBN ]
+for/IN 
+[ the/DT major-medical/JJ program/NN ]
+,/, 
+[ which/WDT ]
+covers/VBZ about/IN 
+[ 350/CD employees/NNS ]
+,/, and/CC for/IN 
+[ a/DT new/JJ dental/NN program/NN ]
+./. 
+
+``/`` In/IN 
+[ the/DT first/JJ couple/NN ]
+of/IN 
+[ years/NNS ]
+of/IN 
+[ self-funding/NN ]
+,/, 
+[ we/PRP ]
+clearly/RB saved/VBD 
+[ a/DT couple/NN ]
+of/IN 
+[ hundred/CD thousand/CD dollars/NNS ]
+,/, ''/'' says/VBZ 
+[ Lanny/NNP Catz/NNP ]
+,/, 
+[ senior/JJ vice/NN president/NN ]
+of/IN 
+[ NPD/NNP ]
+./. 
+
+======================================
+
+[ He/PRP ]
+adds/VBZ ,/, however/RB ,/, that/IN 
+[ claims/NNS ]
+have/VBP soared/VBN since/IN then/RB ,/, so/IN 
+[ NPD/NNP ]
+is/VBZ 
+[ no/DT ]
+longer/RB certain/JJ 
+[ it/PRP ]
+is/VBZ coming/VBG out/IN ahead/RB ./. 
+
+Indeed/RB ,/, 
+[ consultants/NNS ]
+warn/VBP 
+[ companies/NNS ]
+of/IN 
+[ fewer/JJR ]
+than/IN 
+[ a/DT couple/NN ]
+of/IN 
+[ hundred/CD employees/NNS ]
+about/IN 
+[ the/DT high/JJ cost/NN ]
+of/IN administering/VBG 
+[ their/PRP$ own/JJ programs/NNS ]
+./. 
+
+======================================
+
+[ The/DT conflicting/VBG needs/NNS ]
+of/IN keeping/VBG 
+[ costs/NNS ]
+down/IN and/CC 
+[ employee/NN morale/NN ]
+up/IN is/VBZ putting/VBG 
+[ a/DT lot/NN ]
+of/IN 
+[ companies/NNS ]
+in/IN 
+[ a/DT bind/NN ]
+./. 
+
+``/`` To/TO keep/VB 
+[ people/NNS ]
+,/, 
+[ you/PRP ]
+have/VBP to/TO offer/VB 
+[ them/PRP ]
+especially/RB 
+[ good/JJ health-care/NN packages/NNS ]
+,/, ''/'' says/VBZ 
+[ Bruce/NNP Blank/NNP ]
+,/, 
+[ chief/NN executive/NN officer/NN ]
+of/IN 
+[ Paragon/NNP Sporting/NNP Goods/NNP Co./NNP ]
+,/, 
+[ a/DT small/JJ New/NNP York/NNP specialty/NN retailer/NN ]
+./. 
+
+``/`` But/CC 
+[ health-care/NN costs/NNS ]
+are/VBP going/VBG 
+[ wild/JJ ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT major/JJ dilemma/NN ]
+./. 
+
+''/'' 
+======================================
+
+Indeed/RB ,/, 
+[ labor/NN shortages/NNS ]
+increasingly/RB are/VBP forcing/VBG 
+[ small/JJ employers/NNS ]
+to/TO match/VB 
+[ the/DT fringe/NN benefits/NNS ]
+of/IN 
+[ large/JJ ones/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP in/IN 
+[ the/DT mode/NN ]
+of/IN 
+[ adding/VBG employee/NN benefits/NNS ]
+,/, ''/'' says/VBZ 
+[ Michael/NNP Boudreau/NNP ]
+,/, 
+[ financial/JJ vice/NN president/NN ]
+of/IN 
+[ Voicetek/NNP Corp./NNP ]
+,/, 
+[ Chelmsford/NNP ]
+,/, 
+[ Mass/NNP ]
+./. 
+
+[ The/DT maker/NN ]
+of/IN 
+[ voice/NN computers/NNS ]
+,/, 
+[ which/WDT ]
+has/VBZ about/IN 
+[ 60/CD employees/NNS ]
+,/, has/VBZ added/VBN 
+[ a/DT dental/JJ plan/NN ]
+and/CC converted/VBN 
+[ an/DT inactive/JJ profit-sharing/JJ plan/NN ]
+into/IN 
+[ an/DT active/JJ 401/CD ]
+ (/( 
+[ k/NN ]
+ )/) 
+[ retirement/NN plan/NN ]
+,/, named/VBN after/IN 
+[ a/DT section/NN ]
+of/IN 
+[ the/DT Internal/NNP Revenue/NNP Service/NNP tax/NN code/NN ]
+./. 
+
+[ He/PRP ]
+adds/VBZ :/: ``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT matter/NN ]
+of/IN giving/VBG 
+[ people/NNS more/JJR reason/NN ]
+to/TO want/VB to/TO work/VB here/RB ./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ such/JJ benefits/NNS ]
+can/MD crunch/VB 
+[ budgets/NNS ]
+./. 
+
+[ Dennis/NNP M./NNP Sullivan/NNP ]
+,/, 
+[ vice/NN president/NN ]
+of/IN 
+[ the/DT benefits-services/JJ unit/NN ]
+of/IN 
+[ insurance/NN broker/NN Alexander/NNP ]
+&/CC 
+[ Alexander/NNP Inc./NNP ]
+,/, 
+[ New/NNP York/NNP ]
+,/, says/VBZ :/: ``/`` 
+[ The/DT cost/NN ]
+of/IN 
+[ benefits/NNS ]
+can/MD be/VB 
+[ a/DT major/JJ piece/NN ]
+of/IN 
+[ overall/JJ operating/VBG expenses/NNS ]
+for/IN 
+[ a/DT small/JJ company/NN ]
+./. 
+
+''/'' 
+======================================
+
+Thus/RB ,/, 
+[ companies/NNS ]
+say/VBP 
+[ they/PRP ]
+'re/VBP forced/VBN into/IN 
+[ a/DT balancing/VBG act/NN ]
+./. 
+
+Says/VBZ 
+[ Mr./NNP Brainard/NNP ]
+of/IN 
+[ Refined/NNP Sugars/NNPS ]
+,/, ``/`` 
+[ You/PRP ]
+'re/VBP really/RB walking/VBG 
+[ a/DT fine/JJ line/NN ]
+between/IN being/VBG 
+[ able/JJ ]
+to/TO attract/VB 
+[ good/JJ people/NNS ]
+and/CC being/VBG 
+[ able/JJ ]
+to/TO run/VB 
+[ a/DT profitable/JJ business/NN ]
+without/IN giving/VBG away/RB 
+[ the/DT store/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Many/JJ companies/NNS ]
+are/VBP working/VBG to/TO master/VB 
+[ the/DT balancing/NN act/NN ]
+./. 
+
+[ Linvure/NNP Co./NNP ]
+,/, 
+[ a/DT Somerville/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ flexible/JJ ]
+packaging/NN ,/, says/VBZ 
+[ it/PRP ]
+has/VBZ just/RB overhauled/VBN 
+[ benefits/NNS ]
+for/IN 
+[ 26/CD salaried/JJ workers/NNS ]
+without/IN 
+[ raising/VBG benefit/NN costs/NNS ]
+from/IN about/IN 
+[ $/$ 150,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+[ James/NNP Macare/NNP ]
+,/, 
+[ financial/JJ vice/NN president/NN ]
+,/, says/VBZ 
+[ Linvure/NNP ]
+added/VBD 
+[ a/DT dental/JJ plan/NN ]
+,/, 
+[ long-term/JJ disability/NN coverage/NN ]
+and/CC 
+[ 401/CD ]
+ (/( 
+[ k/NN ]
+ )/) 
+[ plan/NN ]
+;/: 
+[ employees/NNS ]
+share/VBP 
+[ the/DT costs/NNS ]
+of/IN 
+[ an/DT expanded/VBN health/NN program/NN ]
+./. 
+
+``/`` 
+[ What/WP ]
+
+[ we/PRP ]
+gained/VBD is/VBZ 
+[ employees/NNS '/POS perception/NN ]
+that/IN 
+[ they/PRP ]
+have/VBP 
+[ a/DT much/RB ]
+
+[ more/RBR comprehensive/JJ package/NN ]
+of/IN 
+[ benefits/NNS ]
+,/, ''/'' 
+[ Mr./NNP Macare/NNP ]
+says/VBZ ./. 
+
+======================================
+
+When/WRB 
+[ health/NN coverage/NN ]
+is/VBZ simply/RB cut/VBN ,/, 
+[ employees/NNS ]
+often/RB gripe/VBP loudly/RB ./. 
+
+[ Many/JJ companies/NNS ]
+are/VBP slashing/VBG anyway/RB ./. 
+
+Among/IN 
+[ other/JJ measures/NNS ]
+,/, 
+[ they/PRP ]
+frequently/RB increase/VBP 
+[ deductibles/NNS ]
+,/, or/CC require/VBP 
+[ workers/NNS ]
+to/TO pay/VB 
+[ a/DT bigger/JJR share/NN ]
+of/IN 
+[ the/DT medical/JJ bill/NN ]
+./. 
+
+[ Many/JJ concerns/NNS ]
+require/VBP 
+[ second/JJ medical/JJ opinions/NNS ]
+prior/RB to/TO 
+[ major/JJ surgery/NN ]
+or/CC 
+[ hospitalization/NN ]
+,/, or/CC otherwise/RB monitor/VBP 
+[ claims/NNS ]
+./. 
+
+======================================
+
+Most/RBS important/JJ ,/, say/VBP 
+[ benefits/NNS specialists/NNS ]
+,/, 
+[ so-called/JJ managed-care/JJ programs/NNS ]
+,/, in/IN 
+[ which/WDT ]
+
+[ the/DT insurers/NNS ]
+have/VBP 
+[ more/JJR influence/NN ]
+over/IN 
+[ which/WDT doctors/NNS ]
+and/CC 
+[ hospitals/NNS ]
+are/VBP used/VBN ,/, are/VBP becoming/VBG 
+[ widespread/JJ ]
+./. 
+
+Instead/RB of/IN just/RB paying/VBG 
+[ bills/NNS ]
+after/IN 
+[ the/DT fact/NN ]
+,/, 
+[ insurers/NNS ]
+negotiate/VBP 
+[ rates/NNS ]
+in/IN 
+[ advance/NN ]
+./. 
+
+``/`` 
+[ The/DT open-checkbook/NN days/NNS ]
+are/VBP going/VBG away/RB ,/, ''/'' says/VBZ 
+[ John/NNP W./NNP Word/NNP III/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Word/NNP ]
+&/CC 
+[ Brown/NNP Inc./NNP ]
+,/, 
+[ an/DT Orange/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ insurance/NN marketer/NN ]
+./. 
+
+======================================
+
+Besides/IN 
+[ health/NN costs/NNS ]
+,/, 
+[ some/DT small/JJ companies/NNS ]
+are/VBP taking/VBG 
+[ aim/NN ]
+at/IN 
+[ pension/NN costs/NNS ]
+./. 
+
+According/VBG to/TO 
+[ the/DT Employee/NNP Benefit/NNP Research/NNP Institute/NNP ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ 26/CD %/NN ]
+of/IN 
+[ small/JJ employers/NNS ]
+had/VBD 
+[ retirement/NN plans/NNS ]
+in/IN 
+[ 1985/CD ]
+./. 
+
+[ The/DT figure/NN ]
+is/VBZ dwarfed/VBN by/IN 
+[ the/DT 65/CD %/NN ]
+with/IN 
+[ health/NN plans/NNS ]
+,/, but/CC 
+[ pensions/NNS ]
+still/RB offer/VBP plenty/RB of/IN 
+[ scope/NN ]
+for/IN tinkering/NN ./. 
+
+======================================
+
+[ Consultants/NNS ]
+say/VBP 
+[ some/DT small/JJ companies/NNS ]
+are/VBP terminating/VBG 
+[ defined-benefit/JJ pension/NN plans/NNS ]
+
+[ that/WDT ]
+promise/VBP to/TO pay/VB specified/VBN 
+[ benefits/NNS ]
+in/IN 
+[ the/DT future/NN ]
+./. 
+
+[ They/PRP ]
+are/VBP turning/VBG to/TO 
+[ defined-contribution/NN plans/NNS ]
+,/, in/IN 
+[ which/WDT ]
+
+[ the/DT current/NN ]
+funding/NN rather/RB than/IN 
+[ the/DT future/JJ benefit/NN ]
+is/VBZ specified/VBN ./. 
+
+[ The/DT company/NN 's/POS obligation/NN ends/VBZ ]
+when/WRB 
+[ it/PRP ]
+makes/VBZ 
+[ the/DT contribution/NN ]
+rather/RB than/IN when/WRB 
+[ the/DT employee/NN ]
+dies/VBZ ./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ more/RBR new/JJ plans/NNS ]
+are/VBP ``/`` nonqualified/VBN ''/'' under/IN 
+[ the/DT tax/NN law/NN ]
+--/: 
+[ meaning/NN ]
+that/IN 
+[ employers/NNS ]
+have/VBP 
+[ more/JJR flexibility/NN ]
+in/IN meting/VBG out/IN 
+[ benefits/NNS ]
+./. 
+
+``/`` 
+[ Many/JJ companies/NNS ]
+are/VBP spending/VBG 
+[ less/JJR money/NN ]
+on/IN 
+[ lower-paid/JJ employees/NNS ]
+and/CC directing/VBG 
+[ more/JJR money/NN ]
+to/TO 
+[ the/DT top/JJ people/NNS they/PRP ]
+want/VBP to/TO favor/VB ,/, ''/'' says/VBZ 
+[ Andrew/NNP Freedman/NNP ]
+,/, 
+[ employee-benefits/JJ specialist/NN ]
+for/IN 
+[ Hoffman/NNP Raich/NNP Fine/NNP CPA/NNP Group/NNP ]
+,/, 
+[ East/NNP Meadow/NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT ]
+increasingly/RB 
+[ popular/JJ 401/CD ]
+ (/( 
+[ k/NN ]
+ )/) 
+[ plans/NNS ]
+,/, 
+[ employees/NNS ]
+can/MD shelter/VB 
+[ thousands/NNS ]
+of/IN 
+[ dollars/NNS ]
+in/IN 
+[ annual/JJ income/NN ]
+from/IN 
+[ taxes/NNS ]
+./. 
+
+[ Some/DT employers/NNS ]
+supplement/VBP 
+[ employee/NN savings/NNS ]
+,/, but/CC 
+[ others/NNS ]
+do/VBP n't/RB ./. 
+
+``/`` 
+[ Some/DT companies/NNS ]
+want/VBP to/TO give/VB 
+[ a/DT retirement/NN benefit/NN ]
+,/, but/CC 
+[ they/PRP ]
+want/VBP 
+[ it/PRP ]
+to/TO cost/VB 
+[ little/JJ ]
+or/CC 
+[ nothing/NN ]
+,/, ''/'' says/VBZ 
+[ David/NNP Gerstenblatt/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Pension/NNP Service/NNP Consultants/NNPS Inc./NNP ]
+,/, 
+[ Needham/NNP ]
+,/, 
+[ Mass/NNP ]
+./. 
+
+Indeed/RB ,/, 
+[ he/PRP ]
+says/VBZ 
+[ some/DT companies/NNS ]
+have/VBP terminated/VBN 
+[ active/JJ pension/NN plans/NNS ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ 401/CD ]
+ (/( 
+[ k/NN ]
+ )/) 
+[ plans/NNS ]
+./. 
+
+[ Such/JJ companies/NNS ]
+must/MD guarantee/VB to/TO pay/VB 
+[ any/DT benefits/NNS ]
+accrued/VBN under/IN 
+[ the/DT pension/NN ]
+plans/VBZ prior/RB to/TO 
+[ termination/NN ]
+,/, but/CC can/MD save/VB substantially/RB in/IN 
+[ the/DT future/NN ]
+./. 

@@ -1,0 +1,1014 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Imagine/VB 
+[ a/DT guy/NN ]
+
+[ who/WP ]
+sits/VBZ in/IN 
+[ his/PRP$ basement/NN 12/CD hours/NNS ]
+
+[ a/DT day/NN ]
+,/, poring/VBG over/IN 
+[ junk/NN ]
+mail/NN 
+[ the/DT way/NN Frank/NNP Perdue/NNP ]
+scrutinizes/VBZ 
+[ chickens/NNS ]
+./. 
+
+[ That/DT ]
+'s/VBZ 
+[ Denison/NNP Hatch/NNP ]
+./. 
+
+======================================
+
+To/TO 
+[ Mr./NNP Hatch/NNP ]
+,/, 
+[ junk/NN mail/NN ]
+is/VBZ 
+[ both/DT profession/NN ]
+and/CC 
+[ obsession/NN ]
+./. 
+
+[ He/PRP ]
+has/VBZ been/VBN creating/VBG 
+[ it/PRP ]
+since/IN 
+[ 1968/CD ]
+,/, collecting/VBG 
+[ it/PRP ]
+since/IN 
+[ 1976/CD ]
+and/CC publishing/VBG 
+[ Who/WP ]
+
+[ 's/VBZ Mailing/NNP ]
+
+[ What/WP ]
+ 
+]/) ,/, 
+[ a/DT monthly/JJ newsletter/NN ]
+about/IN 
+[ it/PRP ]
+,/, since/IN 
+[ 1984/CD ]
+./. 
+
+[ The/DT bottom/NN ]
+of/IN 
+[ Mr./NNP Hatch/NNP 's/POS split-level/JJ home/NN ]
+in/IN 
+[ Stamford/NNP ]
+is/VBZ 
+[ a/DT shrine/NN ]
+to/TO 
+[ junk/NN mail/NN ]
+,/, with/IN more/JJR than/IN 
+[ 8,000/CD pieces/NNS ]
+crammed/VBN into/IN 
+[ every/DT drawer/NN ]
+and/CC 
+[ basket/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ the/DT kind/NN ]
+of/IN 
+[ stuff/NN ]
+
+[ that/WDT ]
+'s/VBZ never/RB been/VBN gathered/VBN before/RB ,/, ''/'' says/VBZ 
+[ Mr./NNP Hatch/NNP ]
+,/, 
+[ who/WP ]
+estimates/VBZ that/IN 
+[ he/PRP ]
+reads/VBZ about/RB 
+[ 1,000/CD pieces/NNS ]
+of/IN 
+[ junk/NN ]
+mail/NN 
+[ a/DT week/NN ]
+./. 
+
+``/`` 
+[ Nobody/NN ]
+'s/VBZ ever/RB been/VBN crazy/JJ enough/RB ./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ fact/NN ]
+,/, for/IN 
+[ many/JJ people/NNS ]
+,/, just/RB having/VBG to/TO lug/VB 
+[ all/PDT those/DT smoked-ham/NN catalogs/NNS ]
+,/, 
+[ sweepstakes/NN teasers/NNS ]
+and/CC 
+[ fund-raising/NN appeals/NNS ]
+from/IN 
+[ mailbox/NN ]
+to/TO 
+[ wastebasket/NN ]
+is/VBZ annoying/NN enough/RB ./. 
+
+[ Last/JJ year/NN ]
+,/, almost/RB 
+[ 62/CD billion/CD pieces/NNS ]
+of/IN 
+[ such/JJ third-class/JJ mail/NN ]
+found/VBD 
+[ their/PRP$ way/NN ]
+into/IN 
+[ American/JJ homes/NNS ]
+,/, more/JJR than/IN double/RB 
+[ the/DT 26.3/CD billion/CD pieces/NNS 10/CD years/NNS ]
+earlier/RBR ,/, according/VBG to/TO 
+[ the/DT Direct/NNP Marketing/NNP Association/NNP ]
+,/, 
+[ an/DT industry/NN trade/NN group/NN ]
+./. 
+
+In/IN 
+[ a/DT 1987/CD study/NN ]
+,/, 
+[ the/DT U.S./NNP Postal/NNP Service/NNP ]
+found/VBD that/IN 
+[ the/DT average/JJ American/JJ household/NN ]
+was/VBD receiving/VBG about/RB 
+[ 10/CD pieces/NNS ]
+of/IN 
+[ junk/NN ]
+mail/NN 
+[ a/DT week/NN ]
+,/, and/CC that/IN 
+[ those/DT households/NNS ]
+definitely/RB would/MD n't/RB respond/VB to/TO 
+[ some/RB 59/CD %/NN ]
+of/IN 
+[ the/DT direct-mail/JJ advertising/NN ]
+
+[ they/PRP ]
+received/VBD ./. 
+
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+believes/VBZ that/IN however/WRB 
+[ much/RB people/NNS ]
+carp/VBP about/IN 
+[ junk/NN mail/NN ]
+,/, most/RBS could/MD n't/RB live/VB without/IN 
+[ it/PRP ]
+./. 
+
+``/`` 
+[ People/NNS ]
+are/VBP basically/RB 
+[ lonely/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, ``/`` and/CC 
+[ no/DT one/NN ]
+likes/VBZ 
+[ an/DT empty/JJ mailbox/NN ]
+./. 
+
+[ The/DT mail/NN ]
+is/VBZ 
+[ your/PRP$ private/JJ check/NN ]
+that/IN 
+[ the/DT system/NN ]
+is/VBZ working/VBG ./. 
+
+''/'' Furthermore/RB ,/, by/IN 
+[ the/DT year/NN 2000/CD ]
+,/, 
+[ Mr./NNP Hatch/NNP ]
+argues/VBZ ,/, ``/`` 
+[ the/DT entire/JJ country/NN ]
+will/MD be/VB 
+[ individuals/NNS ]
+sitting/VBG in/IN 
+[ their/PRP$ individual/JJ rooms/NNS ]
+looking/VBG at/IN 
+[ their/PRP$ individual/JJ television/NN sets/NNS ]
+./. 
+
+[ Direct/JJ mail/NN ]
+will/MD cash/VB in/RP on/IN 
+[ that/DT isolation/NN ]
+./. 
+
+''/'' 
+======================================
+
+Perhaps/RB 
+[ the/DT only/JJ one/NN ]
+as/RB addicted/JJ to/TO junk/VB 
+[ mail/NN ]
+as/IN 
+[ Mr./NNP Hatch/NNP ]
+is/VBZ 
+[ Axel/NNP Andersson/NNP ]
+,/, 
+[ a/DT semi-retired/JJ owner/NN ]
+of/IN 
+[ correspondence/NN schools/NNS ]
+in/IN 
+[ Europe/NNP ]
+
+[ who/WP ]
+often/RB spends/VBZ 
+[ days/NNS ]
+at/IN 
+[ the/DT Library/NNP ]
+of/IN 
+[ Congress/NNP ]
+studying/VBG 
+[ the/DT theory/NN ]
+and/CC 
+[ practice/NN ]
+of/IN 
+[ junk/NN mail/NN ]
+./. 
+
+``/`` 
+[ Direct/JJ mail/NN ]
+gives/VBZ 
+[ you/PRP extraordinary/JJ insight/NN ]
+into/IN 
+[ human/JJ nature/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Andersson/NNP ]
+,/, to/TO 
+[ whom/WP Mr./NNP Hatch/NNP ]
+sends/VBZ 
+[ his/PRP$ surplus/NN ]
+
+[ every/DT month/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+change/VBP 
+[ one/CD ]
+little/JJ 
+[ headline/NN ]
+,/, and/CC 
+[ you/PRP ]
+may/MD have/VB 
+[ 80/CD %/NN more/JJR response/NN ]
+./. 
+
+''/'' 
+======================================
+
+Until/IN 
+[ Mr./NNP Hatch/NNP ]
+set/VBD up/RP 
+[ shop/NN ]
+as/IN 
+[ self-appointed/JJ archivist/NN ]
+,/, 
+[ critic/NN ]
+and/CC 
+[ watchdog/NN ]
+of/IN 
+[ junk/NN mail/NN ]
+,/, 
+[ the/DT grass-roots/JJ industry/NN ]
+was/VBD largely/RB uncataloged/VBN ./. 
+
+Although/IN 
+[ the/DT people/NNS ]
+
+[ who/WP ]
+sent/VBD 
+[ it/PRP ]
+knew/VBD if/IN 
+[ it/PRP ]
+was/VBD working/VBG ,/, 
+[ no/DT one/NN ]
+else/RB was/VBD keeping/VBG 
+[ track/NN ]
+./. 
+
+[ There/EX ]
+was/VBD 
+[ no/DT central/JJ library/NN ]
+of/IN 
+[ direct/JJ mail/NN ]
+,/, nor/CC were/VBD there/RB 
+[ any/DT computerized/JJ data/NNS ]
+about/IN 
+[ it/PRP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP 
+[ the/DT only/JJ organization/NN ]
+trying/VBG to/TO tame/VB 
+[ what/WP ]
+'s/VBZ basically/RB 
+[ secret/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Now/RB ,/, 
+[ thanks/NNS ]
+to/TO 
+[ Mr./NNP Hatch/NNP 's/POS archive/NN ]
+and/CC 
+[ his/PRP$ research/NN ]
+about/IN 
+[ various/JJ mailings/NNS ]
+,/, 
+[ a/DT person/NN ]
+can/MD quickly/RB find/VB out/RP 
+[ such/JJ esoterica/NNS ] 
+as/IN how/WRB 
+[ many/JJ collectibles/NNS companies/NNS ]
+included/VBD 
+[ sweepstakes/NNS ]
+in/IN 
+[ their/PRP$ direct-mail/JJ ]
+offers/NNS in/IN 
+[ the/DT past/JJ year/NN ]
+,/, as/RB well/RB as/IN 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT envelopes/NNS ]
+used/VBN ./. 
+
+[ This/DT information/NN ]
+,/, 
+[ which/WDT ]
+
+[ Mr./NNP Hatch/NNP ]
+sells/VBZ to/TO 
+[ the/DT public/NN ]
+for/IN 
+[ a/DT modest/JJ fee/NN ]
+,/, is/VBZ free/JJ to/TO 
+[ the/DT 1,500/CD ]
+or/CC so/RB 
+[ subscribers/NNS ]
+
+[ who/WP ]
+pay/VBP 
+[ $/$ 168/CD ]
+
+[ a/DT year/NN ]
+to/TO get/VB 
+[ his/PRP$ newsletter/NN ]
+./. 
+
+======================================
+
+To/TO keep/VB 
+[ the/DT archive/NN ]
+up/IN to/TO 
+[ date/NN ]
+,/, 
+[ Mr./NNP Hatch/NNP ]
+relies/VBZ on/IN 
+[ 20/CD unpaid/JJ correspondents/NNS ]
+across/IN 
+[ the/DT country/NN ]
+,/, ranging/VBG from/IN 
+[ industry/NN insiders/NNS ]
+to/TO 
+[ Mr./NNP Hatch/NNP 's/POS brother-in-law/NN ]
+,/, 
+[ a/DT New/NNP Jersey/NNP lawyer/NN ]
+named/VBN 
+[ Ralph/NNP Neibart/NNP ]
+./. 
+
+[ Mr./NNP Neibart/NNP ]
+remembers/VBZ once/IN delivering/VBG 
+[ a/DT bag/NN ]
+of/IN 
+[ his/PRP$ junk/NN mail/NN ]
+by/IN 
+[ hand/NN ]
+to/TO 
+[ Mr./NNP Hatch/NNP 's/POS house/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD like/IN taking/VBG 
+[ him/PRP ]
+
+[ a/DT great/JJ present/NN ]
+--/: 
+[ his/PRP$ eyes/NNS ]
+lit/VBD up/RP ,/, and/CC 
+[ he/PRP ]
+went/VBD off/RB to/TO look/VB at/IN 
+[ it/PRP ]
+,/, ''/'' 
+[ Mr./NNP Neibart/NNP ]
+recalls/VBZ ./. 
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB ever/RB expect/VB to/TO have/VB 
+[ the/DT enthusiasm/NN ]
+for/IN 
+[ it/PRP ]
+that/WDT 
+[ he/PRP ]
+does/VBZ ,/, but/CC 
+[ I/PRP ]
+know/VBP enough/JJ not/RB to/TO call/VB 
+[ it/PRP ]
+junk/NN anymore/RB ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+employs/VBZ 
+[ three/CD part-time/JJ helpers/NNS ]
+to/TO open/VB ,/, measure/VB ,/, count/VB and/CC code/VB 
+[ each/DT piece/NN ]
+./. 
+
+When/WRB 
+[ these/DT tasks/NNS ]
+are/VBP done/VBN ,/, 
+[ he/PRP ]
+reads/VBZ 
+[ it/PRP ]
+
+[ all/DT ]
+
+[ himself/PRP ]
+./. 
+
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+estimates/VBZ that/IN 
+[ a/DT direct-mail/JJ package/NN ]
+has/VBZ about/RB 
+[ four/CD seconds/NNS ]
+to/TO capture/VB 
+[ someone/NN ]
+
+[ 's/POS attention/NN ]
+before/IN 
+[ it/PRP ]
+hits/VBZ 
+[ the/DT garbage/NN can/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ why/WRB 
+[ mailings/NNS ]
+
+[ that/WDT ]
+look/VBP like/IN  
+[ checks/NNS ]
+or/CC telegrams/VBZ ,/, or/CC that/WDT 
+[ incorporate/JJ tabs/NNS ]
+to/TO pull/VB or/CC 
+[ cards/NNS ]
+to/TO tear/VB apart/RB ,/, are/VBP so/RB successful/JJ ./. 
+
+[ People/NNS ]
+also/RB respond/VBP to/TO 
+[ packages/NNS ]
+
+[ that/WDT ]
+require/VBP 
+[ the/DT customer/NN ]
+to/TO insert/VB 
+[ disks/NNS ]
+into/IN 
+[ slots/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ Freudian/JJ ,/, ''/'' 
+[ Mr./NNP Hatch/NNP ]
+opines/VBZ ./. 
+
+======================================
+
+As/IN for/IN 
+[ what/WP ]
+makes/VBZ 
+[ a/DT piece/NN ]
+of/IN 
+[ junk/NN mail/NN ]
+``/`` 
+[ bad/JJ ]
+,/, ''/'' 
+[ Mr./NNP Hatch/NNP ]
+says/VBZ 
+[ the/DT sole/JJ criterion/NN ]
+is/VBZ that/IN 
+[ it/PRP ]
+fails/VBZ to/TO make/VB 
+[ a/DT sale/NN ]
+./. 
+
+But/CC 
+[ the/DT mystery/NN ]
+behind/IN 
+[ that/DT failure/NN ]
+is/VBZ 
+[ one/CD reason/NN Mr./NNP Hatch/NNP ]
+loves/VBZ 
+[ junk/NN mail/NN ]
+so/RB :/: 
+[ It/PRP ]
+'s/VBZ 
+[ both/CC ]
+mathematically/RB 
+[ precise/JJ ]
+ (/( 
+[ results/NNS ]
+of/IN 
+[ a/DT mailing/NN ]
+can/MD be/VB measured/VBN to/TO 
+[ the/DT hundredth/JJ ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+ )/) and/CC completely/RB unpredictable/JJ ./. 
+
+======================================
+
+When/WRB 
+[ Historical/NNP Times/NNP Co./NNP ]
+was/VBD soliciting/VBG 
+[ customers/NNS ]
+,/, in/IN 
+[ a/DT so-called/JJ dry/JJ test/NN ]
+,/, for/IN 
+[ Civil/NNP War-related/JJ products/NNS ]
+
+[ that/WDT ]
+did/VBD n't/RB yet/RB exist/VB ,/, 
+[ the/DT company/NN 's/POS lawyers/NNS ]
+insisted/VBD that/IN 
+[ the/DT package/NN ]
+include/VBP 
+[ a/DT microscopic/JJ line/NN ]
+noting/VBG that/IN 
+[ the/DT offer/NN ]
+was/VBD contingent/JJ on/IN receiving/VBG 
+[ enough/JJ orders/NNS ]
+./. 
+
+[ That/DT line/NN ]
+,/, 
+[ the/DT only/JJ difference/NN ]
+between/IN 
+[ the/DT new/JJ mailing/NN ]
+and/CC 
+[ earlier/JJR ones/NNS ]
+,/, increased/VBD 
+[ response/NN ]
+by/IN 
+[ 15/CD %/NN ]
+./. 
+
+From/IN then/RB on/RB ,/, 
+[ the/DT company/NN ]
+put/VBD 
+[ the/DT line/NN ]
+on/IN 
+[ all/PDT its/PRP$ offers/NNS ]
+./. 
+
+======================================
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ the/DT unpredictability/NN ]
+of/IN 
+[ junk/NN mail/NN ]
+sometimes/RB works/VBZ 
+[ the/DT other/JJ way/NN ]
+./. 
+
+[ Mr./NNP Hatch/NNP ]
+,/, 
+[ who/WP ]
+created/VBD 
+[ direct-mail/JJ offerings/NNS ]
+in/IN 
+[ a/DT variety/NN ]
+of/IN 
+[ jobs/NNS ]
+and/CC still/RB does/VBZ 
+[ free-lance/JJ work/NN ]
+,/, devised/VBD 
+[ a/DT package/NN ]
+for/IN 
+[ the/DT mutual-fund/NN giant/NN  Fidelity/NNP Investments/NNP ]
+
+[ that/WDT ]
+hit/VBD 
+[ mailboxes/NNS ]
+on/IN 
+[ Oct./NNP 19/CD ]
+,/, 
+[ 1987/CD ]
+./. 
+
+``/`` 
+[ The/DT mailing/NN ]
+got/VBD 
+[ one/CD letter/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+believes/VBZ 
+[ the/DT writing/NN ]
+in/IN 
+[ direct-mail/JJ packages/NNS ]
+is/VBZ 
+[ the/DT best/JJS being/NN ]
+done/VBN in/IN 
+[ English/NNP today/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+have/VBP to/TO put/VB 
+[ yourself/PRP ]
+inside/IN 
+[ the/DT head/NN ]
+of/IN 
+[ the/DT person/NN ]
+
+[ who/WP ]
+'s/VBZ going/VBG to/TO get/VB 
+[ the/DT mailing/NN ]
+and/CC 
+[ figure/NN ]
+out/RP 
+[ all/PDT the/DT reasons/NNS ]
+why/WRB 
+[ he/PRP ]
+is/VBZ n't/RB going/VBG to/TO buy/VB 
+[ the/DT product/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Hatch/NNP ]
+./. 
+
+``/`` 
+[ Four/CD weeks/NNS ]
+later/RB ,/, 
+[ someone/NN ]
+'s/VBZ going/VBG to/TO get/VB 
+[ this/DT thing/NN ]
+,/, 
+[ which/WDT ]
+
+[ they/PRP ]
+'ve/VBP forgotten/VBN 
+[ they/PRP ]
+ordered/VBD ,/, and/CC 
+[ you/PRP ]
+damn/RB well/RB better/RBR resell/VB 
+[ it/PRP ]
+./. 
+
+Then/RB 
+[ you/PRP ]
+'ve/VBP got/VBN to/TO figure/VB out/RP why/WRB 
+[ this/DT guy/NN ]
+is/VBZ n't/RB going/VBG to/TO mail/VB 
+[ his/PRP$ check/NN ]
+./. 
+
+[ You/PRP ]
+have/VBP to/TO think/VB so/RB 
+[ many/JJ steps/NNS ]
+ahead/RB ,/, 
+[ it/PRP ]
+'s/VBZ like/IN 
+[ a/DT good/JJ novel/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+acknowledges/VBZ that/IN 
+[ there/EX ]
+is/VBZ 
+[ some/DT deception/NN ]
+in/IN 
+[ junk/NN mail/NN ]
+--/: decorating/VBG 
+[ the/DT envelopes/NNS ]
+to/TO make/VB 
+[ people/NNS ]
+believe/VB 
+[ they/PRP ]
+are/VBP receiving/VBG 
+[ overnight/JJ mail/NN ]
+or/CC 
+[ interoffice/JJ envelopes/NNS ]
+,/, for/IN 
+[ example/NN ]
+./. 
+
+Even/RB 
+[ he/PRP ]
+is/VBZ occasionally/RB tricked/VBN into/IN opening/VBG 
+[ something/NN ]
+under/IN 
+[ false/JJ pretenses/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+got/VBD 
+[ a/DT letter/NN ]
+from/IN 
+[ Isaac/NNP Asimov/NNP ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` Now/RB ,/, 
+[ I/PRP ]
+'ve/VBP never/RB met/VBN 
+[ Isaac/NNP Asimov/NNP ]
+,/, but/CC 
+[ people/NNS ]
+occasionally/RB write/VBP to/TO 
+[ me/PRP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ I/PRP ]
+opened/VBD 
+[ it/PRP ]
+,/, and/CC 
+[ it/PRP ]
+was/VBD 
+[ a/DT pitch/NN ]
+for/IN {/( 
+[ public/JJ television/NN ]
+ }/) 
+[ Channel/NNP 13/NNP ]
+./. 
+
+[ I/PRP ]
+was/VBD ticked/JJ off/RP at/IN being/VBG duped/VBN ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Hatch/NNP ]
+also/RB says/VBZ 
+[ he/PRP ]
+goes/VBZ into/IN 
+[ terrible/JJ funks/NNS ]
+when/WRB 
+[ he/PRP ]
+sees/VBZ 
+[ the/DT scams/NNS ]
+
+[ that/WDT ]
+come/VBP in/IN 
+[ direct-mail/JJ packages/NNS ]
+./. 
+
+[ He/PRP ]
+hands/VBZ over/RP 
+[ 30/CD ]
+to/TO 
+[ 40/CD such/JJ mailings/NNS ]
+
+[ every/DT month/NN ]
+to/TO 
+[ the/DT local/JJ postal/JJ inspector/NN ]
+./. 
+
+Recently/RB ,/, 
+[ he/PRP ]
+has/VBZ been/VBN amazed/VBN by/IN 
+[ the/DT raft/NN ]
+of/IN 
+[ graphic/JJ fund-raising/NN solicitations/NNS ]
+from/IN 
+[ animal-rights/NNS groups/NNS ]
+./. 
+
+======================================
+
+[ Last/JJ April/NNP ]
+,/, using/VBG 
+[ the/DT pseudonym/NN George/NNP Haskins/NNP ]
+,/, 
+[ he/PRP ]
+sent/VBD 
+[ letters/NNS ]
+to/TO 
+[ some/RB 60/CD animal-rights/NNS groups/NNS ]
+,/, saying/VBG that/IN 
+[ his/PRP$ great/JJ aunt/NN ]
+had/VBD recently/RB died/VBN and/CC left/VBN 
+[ him/PRP ]
+in/IN 
+[ charge/NN ]
+of/IN distributing/VBG 
+[ a/DT large/JJ bequest/NN ]
+to/TO 
+[ groups/NNS ]
+like/IN 
+[ theirs/JJ ]
+./. 
+
+On/IN reviewing/VBG 
+[ their/PRP$ financial/JJ statements/NNS ]
+,/, 
+[ Mr./NNP Hatch/NNP ]
+says/VBZ 
+[ he/PRP ]
+found/VBD that/IN 
+[ some/DT ]
+were/VBD stuffing/VBG 
+[ an/DT ]
+``/`` 
+[ unconscionable/JJ ]
+''/'' 
+[ amount/NN ]
+of/IN 
+[ revenue/NN ]
+back/RB into/IN 
+[ the/DT bank/NN ]
+instead/RB of/IN paying/VBG for/IN 
+[ programs/NNS ]
+./. 
+
+[ Others/NNS ]
+were/VBD raising/VBG 
+[ money/NN ]
+without/IN having/VBG 
+[ any/DT programs/NNS ]
+in/IN 
+[ place/NN ]
+,/, simply/RB plowing/VBG 
+[ the/DT money/NN ]
+back/RB into/IN 
+[ more/JJR direct-mail/JJ efforts/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Little/JJ old/JJ ladies/NNS ]
+are/VBP throwing/VBG 
+[ money/NN ]
+at/IN 
+[ some/DT ]
+of/IN 
+[ these/DT guys/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ These/DT guys/NNS ]
+have/VBP discovered/VBN that/IN 
+[ women/NNS ]
+,/, 
+[ children/NNS ]
+and/CC 
+[ animals/NNS ]
+make/VBP 
+[ money/NN ]
+./. 
+
+''/'' 
+======================================
+
+Nevertheless/RB ,/, 
+[ Mr./NNP Hatch/NNP ]
+believes/VBZ that/IN ,/, at/IN 
+[ its/PRP$ best/JJS ]
+,/, 
+[ junk/NN mail/NN ]
+can/MD be/VB 
+[ a/DT force/NN ]
+for/IN 
+[ the/DT good/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT mall/NN ]
+on/IN 
+[ your/PRP$ shelf/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, especially/RB good/JJ for/IN 
+[ two-income/JJ couples/NNS ]
+with/IN 
+[ no/DT time/NN ]
+to/TO spare/VB ./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ two-career/JJ couples/NNS ]
+figure/VBP prominently/RB in/IN 
+[ his/PRP$ favorite/JJ junk-mail/NN fantasy/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT mailing/NN ]
+to/TO 
+[ a/DT two-income/JJ family/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` After/IN 
+[ dinner/NN ]
+,/, when/WRB 
+[ the/DT kids/NNS ]
+are/VBP in/IN 
+[ bed/NN ]
+,/, 
+[ the/DT wife/NN ]
+comes/VBZ in/IN to/TO 
+[ her/PRP$ husband/NN ]
+and/CC says/VBZ ,/, ``/`` 
+[ Darling/NN ]
+,/, 
+[ I/PRP ]
+got/VBD 
+[ the/DT most/RBS interesting/JJ mailing/NN today/NN ]
+,/, and/CC 
+[ I/PRP ]
+want/VBP to/TO sit/VB down/RP and/CC talk/VB to/TO 
+[ you/PRP ]
+about/IN 
+[ it/PRP ]
+./. 
+
+'/'' ''/'' 
+[ Mr./NNP Hatch/NNP ]
+pauses/VBZ 
+[ briefly/NN ]
+,/, then/RB adds/VBZ ,/, ``/`` 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ that/DT ]
+has/VBZ ever/RB happened/VBN ./. 

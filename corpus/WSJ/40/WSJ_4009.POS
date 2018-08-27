@@ -1,0 +1,262 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Eli/NNP Lilly/NNP ]
+&/CC 
+[ Co./NNP ]
+is/VBZ revamping/VBG 
+[ quality-control/NN procedures/NNS ]
+throughout/IN 
+[ the/DT company/NN ]
+following/VBG 
+[ U.S./NNP inspectors/NNS '/POS discovery/NN ]
+of/IN 
+[ widespread/JJ quality-control/NN problems/NNS ]
+at/IN 
+[ an/DT Indianapolis/NNP drug/NN plant/NN ]
+./. 
+
+======================================
+
+[ Lilly/NNP ]
+wants/VBZ to/TO have/VB ``/`` 
+[ good/JJ ]
+,/, 
+[ strong/JJ controls/NNS ]
+over/IN 
+[ the/DT whole/JJ thing/NN ]
+because/IN 
+[ we/PRP ]
+do/VBP n't/RB want/VB 
+[ more/JJR problems/NNS ]
+to/TO emerge/VB ,/, ''/'' said/VBD 
+[ Richard/NNP D./NNP Wood/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT pharmaceutical/JJ maker/NN ]
+,/, in/IN 
+[ an/DT interview/NN ]
+here/RB 
+[ Friday/NNP ]
+./. 
+
+[ The/DT steps/NNS ]
+mark/VBP 
+[ Lilly/NNP 's/POS first/JJ acknowledgment/NN ]
+of/IN 
+[ the/DT seriousness/NN ]
+of/IN 
+[ the/DT Indianapolis/NNP situation/NN ]
+,/, 
+[ which/WDT ]
+arose/VBD from/IN 
+[ a/DT U.S./NNP Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP investigation/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT departure/NN ]
+from/IN 
+[ industry/NN practice/NN ]
+,/, 
+[ Lilly/NNP ]
+now/RB will/MD oversee/VB 
+[ quality/NN control/NN ]
+from/IN 
+[ its/PRP$ Indianapolis/NNP headquarters/NN ]
+rather/RB than/IN leaving/VBG 
+[ it/PRP ]
+up/RP to/TO 
+[ individual/JJ facilities/NNS ]
+./. 
+
+Centralizing/VBG 
+[ responsibility/NN ]
+means/VBZ ``/`` 
+[ we/PRP ]
+will/MD have/VB 
+[ complete/JJ control/NN ]
+at/IN 
+[ the/DT corporate/JJ level/NN ]
+,/, ''/'' 
+[ Mr./NNP Wood/NNP ]
+said/VBD ./. 
+
+Before/IN ,/, ``/`` 
+[ there/EX ]
+was/VBD 
+[ oversight/NN ]
+but/CC 
+[ no/DT direct-line/JJ responsibility/NN ]
+''/'' for/IN 
+[ monitoring/VBG production/NN quality/NN ]
+./. 
+
+[ Lilly/NNP ]
+also/RB is/VBZ making/VBG 
+[ some/DT management/NN changes/NNS ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ this/DT overhaul/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Last/JJ month/NN ]
+,/, 
+[ Lilly/NNP ]
+halted/VBD 
+[ the/DT distribution/NN ]
+of/IN 
+[ all/DT drugs/NNS ]
+made/VBN at/IN 
+[ the/DT Indianapolis/NNP plant/NN ]
+and/CC recalled/VBD 
+[ 10/CD drugs/NNS ]
+after/IN 
+[ FDA/NNP inspectors/NNS ]
+sharply/RB criticized/VBD 
+[ quality-control/NN procedures/NNS ]
+./. 
+
+[ The/DT problems/NNS ]
+centered/VBD on/IN 
+[ submission/NN ]
+of/IN 
+[ false/JJ ]
+or/CC 
+[ incomplete/JJ data/NNS ]
+,/, 
+[ poor/JJ record/NN ]
+keeping/NN and/CC 
+[ Lilly/NNP 's/POS failure/NN ]
+to/TO adequately/RB train/VB 
+[ quality-control/NN officers/NNS ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP 's/POS report/NN ]
+triggered/VBD 
+[ a/DT separate/JJ probe/NN ]
+by/IN 
+[ the/DT investigations/NNS subcommittee/NN ]
+of/IN 
+[ the/DT U.S./NNP House/NNP Energy/NNP ]
+and/CC 
+[ Commerce/NNP Committee/NNP ]
+./. 
+
+[ The/DT panel/NN ]
+wants/VBZ to/TO learn/VB whether/IN 
+[ Lilly/NNP ]
+filed/VBD 
+[ false/JJ ]
+or/CC 
+[ misleading/JJ information/NN ]
+with/IN 
+[ the/DT FDA/NNP ]
+about/IN 
+[ its/PRP$ manufacturing/NN processes/NNS ]
+in/IN 
+[ Indianapolis/NNP ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT FDA/NNP ]
+now/RB is/VBZ looking/VBG at/IN 
+[ three/CD other/JJ Lilly/NNP drug/NN plants/NNS ]
+in/IN 
+[ Puerto/NNP Rico/NNP ]
+to/TO determine/VB whether/IN 
+[ they/PRP ]
+have/VBP 
+[ problems/NNS ]
+like/IN 
+[ the/DT ones/NNS ]
+found/VBN in/IN 
+[ Indianapolis/NNP ]
+./. 
+
+[ Lilly/NNP officials/NNS ]
+have/VBP tended/VBN to/TO downplay/VB 
+[ the/DT Indianapolis/NNP plant/NN 's/POS problems/NNS ]
+as/RB largely/RB 
+[ technical/JJ aberrations/NNS ]
+./. 
+
+[ The/DT company/NN ]
+hopes/VBZ 
+[ the/DT facility/NN ]
+``/`` will/MD shortly/RB resume/VB 
+[ full/JJ production/NN ]
+and/CC 
+[ shipment/NN ]
+,/, ''/'' 
+[ Mr./NNP Wood/NNP ]
+told/VBD 
+[ a/DT group/NN ]
+of/IN 
+[ U.K./NNP analysts/NNS ]
+and/CC 
+[ fund/NN managers/NNS ]
+here/RB ./. 
+
+======================================
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ the/DT quality-control/NN shakeup/NN ]
+,/, 
+[ Mr./NNP Wood/NNP ]
+said/VBD 
+[ Robert/NNP Williams/NNP ]
+has/VBZ assumed/VBN 
+[ the/DT new/JJ post/NN ]
+of/IN 
+[ vice/NN president/NN ]
+for/IN 
+[ quality/NN control/NN ]
+./. 
+
+[ Mr./NNP Williams/NNP ]
+previously/RB was/VBD 
+[ Lilly/NNP 's/POS vice/NN president/NN ]
+of/IN 
+[ agricultural/JJ research/NN ]
+./. 
+
+[ Two/CD other/JJ Lilly/NNP executives/NNS ]
+involved/VBN with/IN 
+[ directing/VBG quality/NN control/NN ]
+or/CC 
+[ the/DT Indianapolis/NNP facility/NN ]
+have/VBP been/VBN demoted/VBN to/TO 
+[ less/RBR responsible/JJ jobs/NNS ]
+,/, 
+[ the/DT Lilly/NNP chairman/NN ]
+indicated/VBD ./. 

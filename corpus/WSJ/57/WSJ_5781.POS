@@ -1,0 +1,807 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Burroughs-Wellcome/NNP Co./NNP ]
+,/, bowing/VBG to/TO 
+[ pressure/NN ]
+from/IN 
+[ patients/NNS ]
+and/CC 
+[ their/PRP$ advocates/NNS ]
+,/, announced/VBD 
+[ a/DT 20/CD %/NN price/NN ]
+cut/NN in/IN 
+[ its/PRP$ antiviral/JJ drug/NN AZT/NNP ]
+for/IN 
+[ acquired/VBN immune/JJ deficiency/NN syndrome/NN ]
+./. 
+
+======================================
+
+[ AIDS/NNP activists/NNS ]
+,/, 
+[ who/WP ]
+have/VBP been/VBN lobbying/VBG for/IN 
+[ a/DT price/NN ]
+cut/NN for/IN 
+[ months/NNS ]
+,/, gave/VBD 
+[ the/DT move/NN ]
+muted/JJ 
+[ praise/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ ``/`` 
+[ a/DT small/JJ step/NN ]
+in/IN 
+[ the/DT right/JJ direction/NN ]
+,/, ''/'' said/VBD 
+[ one/CD ]
+./. 
+
+======================================
+
+[ The/DT price/NN cut/NN ]
+,/, 
+[ which/WDT ]
+follows/VBZ 
+[ an/DT earlier/JJR price/NN reduction/NN ]
+of/IN 
+[ 20/CD %/NN ]
+in/IN 
+[ Dec./NNP 1987/CD ]
+,/, effectively/RB reduces/VBZ 
+[ AZT/NNP 's/POS retail/JJ price/NN ]
+to/TO 
+[ $/$ 6,400/CD ]
+from/IN 
+[ $/$ 8,000/CD ]
+
+[ a/DT year/NN ]
+per/IN 
+[ patient/NN ]
+./. 
+
+But/CC 
+[ recent/JJ studies/NNS ]
+suggest/VBP that/IN 
+[ the/DT drug/NN ]
+may/MD be/VB 
+[ effective/JJ ]
+at/IN 
+[ 40/CD %/NN ]
+or/CC 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT original/JJ dose/NN ]
+,/, 
+[ which/WDT ]
+could/MD further/RB reduce/VB 
+[ the/DT cost/NN ]
+to/TO 
+[ patients/NNS ]
+to/TO about/RB 
+[ $/$ 3,000/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT end/NN ]
+,/, 
+[ it/PRP ]
+
+[ was/VBD n't/RB consumer/NN pressure/NN ]
+alone/RB but/CC anticipated/VBN 
+[ growth/NN ]
+in/IN 
+[ its/PRP$ market/NN ]
+
+[ that/WDT ]
+brought/VBD 
+[ the/DT change/NN ]
+./. 
+
+[ AZT/NNP 's/POS market/NN ]
+is/VBZ expected/VBN to/TO mushroom/VB due/RB to/TO 
+[ findings/NNS ]
+that/IN 
+[ the/DT drug/NN ]
+slows/VBZ 
+[ the/DT onset/NN ]
+of/IN 
+[ AIDS/NNP ]
+in/IN 
+[ people/NNS ]
+infected/VBN with/IN 
+[ the/DT AIDS/NNP virus/NN ]
+but/CC not/RB yet/RB showing/VBG 
+[ any/DT symptoms/NNS ]
+of/IN 
+[ disease/NN ]
+./. 
+
+[ That/DT ]
+suggests/VBZ 
+[ the/DT drug/NN ]
+will/MD be/VB useful/JJ to/TO 
+[ hundreds/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ infected/JJ people/NNS ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT tens/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ patients/NNS ]
+with/IN 
+[ AIDS/NNP symptoms/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN 's/POS stock/NN ]
+surged/VBD 
+[ 32/CD %/NN ]
+in/IN 
+[ mid-August/NN ]
+when/WRB 
+[ those/DT findings/NNS ]
+were/VBD announced/VBN ,/, and/CC 
+[ analysts/NNS ]
+have/VBP projected/VBN that/IN 
+[ a/DT broadened/VBN market/NN ]
+for/IN 
+[ the/DT drug/NN ]
+could/MD boost/VB 
+[ AZT/NNP sales/NNS ]
+to/TO 
+[ $/$ 1/CD billion/CD ]
+by/IN 
+[ 1992/CD ]
+./. 
+
+[ The/DT company/NN ]
+,/, based/VBN in/IN 
+[ Research/NNP Triangle/NNP Park/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, is/VBZ 
+[ a/DT unit/NN ]
+of/IN 
+[ Wellcome/NNP PLC/NNP ]
+of/IN 
+[ London/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP pleased/VBN to/TO see/VB 
+[ the/DT price/NN ]
+lowered/VBN ,/, ''/'' said/VBD 
+[ Mervyn/NNP Silverman/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT American/NNP Foundation/NNP ]
+for/IN 
+[ AIDS/NNP Research/NNP ]
+./. 
+
+``/`` But/CC to/TO be/VB fair/JJ and/CC to/TO put/VB 
+[ AZT/NNP ]
+within/IN 
+[ reach/NN ]
+of/IN 
+[ most/JJS people/NNS ]
+with/IN 
+[ AIDS/NNP ]
+ {/( and/CC 
+[ its/PRP$ related/VBN infection/NN ]
+ }/) ,/, 
+[ the/DT price/NN ]
+needs/VBZ to/TO be/VB reduced/VBN much/RB further/RB ./. 
+
+''/'' 
+======================================
+
+[ Burroughs-Wellcome/NNP ]
+long/RB resisted/VBD 
+[ pressure/NN ]
+and/CC 
+[ pleas/NNS ]
+for/IN 
+[ a/DT price/NN cut/NN ]
+,/, citing/VBG 
+[ the/DT burden/NN ]
+of/IN 
+[ ongoing/JJ research/NN ]
+and/CC 
+[ doubts/NNS ]
+about/IN 
+[ AZT/NNP 's/POS useful/JJ product/NN life/NN ]
+./. 
+
+But/CC 
+[ T.E./NNP Haigler/NNP ]
+,/, 
+[ Jr./NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+,/, said/VBD yesterday/NN ,/, ``/`` 
+[ The/DT expected/VBN growth/NN ]
+in/IN 
+[ patient/NN population/NN ]
+,/, coupled/VBN with/IN 
+[ recent/JJ production/NN economies/NNS ]
+,/, will/MD reduce/VB 
+[ somewhat/RB our/PRP$ financial/JJ risk/NN ]
+and/CC will/MD remove/VB 
+[ some/DT ]
+of/IN 
+[ the/DT uncertainties/NNS ]
+
+[ which/WDT ]
+existed/VBD when/WRB 
+[ this/DT drug/NN ]
+was/VBD first/RB introduced/VBN ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Haigler/NNP ]
+added/VBD that/IN 
+[ the/DT company/NN ]
+,/, in/IN 
+[ its/PRP$ calculations/NNS ]
+,/, also/RB had/VBD to/TO consider/VB 
+[ the/DT health/NN ]
+of/IN 
+[ the/DT corporation/NN ]
+and/CC 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT stock/NN ]
+to/TO 
+[ shareholders/NNS ]
+./. 
+
+======================================
+
+[ Reactions/NNS ]
+to/TO 
+[ the/DT price/NN cut/NN ]
+,/, while/IN 
+[ favorable/JJ ]
+,/, were/VBD heavily/RB qualified/VBN ,/, and/CC hinted/VBN at/IN 
+[ continued/VBN public/JJ scrutiny/NN ]
+of/IN 
+[ Wellcome/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+know/VBP 
+[ their/PRP$ market/NN ]
+is/VBZ expanding/VBG exponentially/RB ,/, so/IN 
+[ we/PRP ]
+feel/VBP 
+[ a/DT further/JJ reduction/NN ]
+is/VBZ warranted/VBN ./. 
+
+[ Their/PRP$ stock/NN ]
+is/VBZ rising/VBG ,/, so/IN 
+[ we/PRP ]
+know/VBP 
+[ their/PRP$ profit/NN margins/NNS ]
+are/VBP n't/RB in/IN 
+[ jeopardy/NN ]
+./. 
+
+But/CC 
+[ what/WP ]
+is/VBZ in/IN 
+[ jeopardy/NN ]
+is/VBZ 
+[ the/DT life/NN ]
+and/CC 
+[ health/NN ]
+of/IN 
+[ many/JJ people/NNS ]
+,/, ''/'' said/VBD 
+[ Timothy/NNP Sweeney/NNP ]
+,/, acting/VBG 
+[ executive/JJ director/NN ]
+of/IN 
+[ Gay/NNP Men/NNPS 's/POS Health/NNP Crisis/NNP ]
+,/, 
+[ a/DT support/NN group/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT company/NN ]
+can/MD do/VB better/RB ,/, ''/'' agreed/VBD 
+[ Rep./NNP Henry/NNP Waxman/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, 
+[ who/WP ]
+held/VBD 
+[ hearings/NNS ]
+on/IN 
+[ AZT/NNP 's/POS price/NN ]
+when/WRB 
+[ it/PRP ]
+was/VBD introduced/VBN in/IN 
+[ 1987/CD ]
+./. 
+
+``/`` 
+[ Wellcome/NNP 's/POS cost/NN ]
+of/IN 
+[ production/NN ]
+is/VBZ clearly/RB 
+[ lower/JJR ]
+,/, and/CC 
+[ its/PRP$ market/NN ]
+is/VBZ clearly/RB larger/JJR ./. 
+
+[ The/DT Congress/NNP ]
+has/VBZ 
+[ the/DT responsibility/NN ]
+to/TO ensure/VB that/IN 
+[ this/DT life-saving/JJ drug/NN ]
+is/VBZ available/JJ to/TO 
+[ everyone/NN ]
+--/: through/IN 
+[ federal/JJ insurance/NN ]
+to/TO 
+[ the/DT poor/JJ ]
+,/, and/CC through/IN 
+[ a/DT reasonable/JJ price/NN ]
+to/TO 
+[ all/DT ]
+./. 
+
+''/'' 
+======================================
+
+So/IN far/RB ,/, 
+[ the/DT U.S./NNP government/NN ]
+has/VBZ loomed/VBN large/JJ as/IN 
+[ AZT/NNP 's/POS biggest/JJS single/JJ purchaser/NN ]
+,/, with/IN 
+[ $/$ 320/CD million/CD ]
+in/IN 
+[ subsidies/NNS ]
+to/TO 
+[ patients/NNS ]
+through/IN 
+[ its/PRP$ Medicaid/NNP program/NN ]
+and/CC 
+[ federal/JJ grants/NNS ]
+for/IN 
+[ the/DT purchase/NN ]
+of/IN 
+[ AZT/NNP ]
+./. 
+
+[ That/DT cost/NN ]
+is/VBZ expected/VBN to/TO increase/VB as/IN 
+[ earlier/JJR treatment/NN ]
+of/IN 
+[ the/DT infected/JJ population/NN ]
+begins/VBZ ,/, 
+[ a/DT program/NN ]
+
+[ that/WDT ]
+could/MD run/VB as/RB high/JJ as/IN 
+[ $/$ 5/CD billion/CD ]
+to/TO 
+[ $/$ 10/CD billion/CD ]
+in/IN 
+[ public/JJ ]
+and/CC 
+[ private/JJ outlays/NNS ]
+,/, according/VBG to/TO 
+[ an/DT article/NN ]
+in/IN 
+[ the/DT current/JJ issue/NN ]
+of/IN 
+[ the/DT Journal/NNP ]
+of/IN 
+[ the/DT American/NNP Medical/NNP Association/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Waxman/NNP ]
+,/, 
+[ meeting/NN ]
+with/IN 
+[ Wellcome/NNP executives/NNS ]
+yesterday/NN in/IN 
+[ Washington/NNP ]
+,/, again/RB pressed/VBD 
+[ the/DT company/NN ]
+to/TO disclose/VB 
+[ details/NNS ]
+of/IN 
+[ its/PRP$ development/NN costs/NNS ]
+and/CC threatened/VBD to/TO reopen/VB 
+[ hearings/NNS ]
+into/IN 
+[ AZT/NNP 's/POS price/NN ]
+--/: notwithstanding/IN 
+[ yesterday/NN 's/POS cut/NN ]
+--/: if/IN 
+[ he/PRP ]
+believes/VBZ 
+[ the/DT company/NN ]
+is/VBZ reaping/VBG too/RB high/JJ 
+[ a/DT rate/NN ]
+of/IN 
+[ return/NN ]
+./. 
+
+======================================
+
+[ Activists/NNS ]
+said/VBD 
+[ they/PRP ]
+will/MD continue/VB to/TO pursue/VB 
+[ their/PRP$ inquiries/NNS ]
+into/IN 
+[ Wellcome/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT good/JJ start/NN ]
+./. 
+
+But/CC 
+[ we/PRP ]
+'ll/MD continue/VB to/TO look/VB at/IN 
+[ a/DT possible/JJ challenge/NN ]
+of/IN 
+[ the/DT company/NN 's/POS patent/NN ]
+,/, ''/'' said/VBD 
+[ David/NNP Barr/NNP ]
+,/, 
+[ an/DT attorney/NN ]
+with/IN 
+[ the/DT Lambda/NNP Legal/NNP Defense/NNP Fund/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP public/JJ interest/NN firm/NN ]
+specializing/VBG in/IN 
+[ gay/JJ rights/NNS issues/NNS ]
+./. 
+
+======================================
+
+[ AZT/NNP ]
+,/, originally/RB created/VBN in/IN 
+[ 1964/CD ]
+by/IN 
+[ Jerome/NNP Horwitz/NNP ]
+of/IN 
+[ the/DT Michigan/NNP Cancer/NNP Foundation/NNP ]
+with/IN 
+[ federal/JJ grant/NN ]
+funding/NN ,/, was/VBD developed/VBN in/IN 
+[ close/JJ collaboration/NN ]
+with/IN 
+[ the/DT National/NNP Cancer/NNP Institute/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ the/DT National/NNP Institutes/NNPS ]
+of/IN 
+[ Health/NNP ]
+./. 
+
+[ Wellcome/NNP ]
+financed/VBD 
+[ clinical/JJ trials/NNS ]
+and/CC conducted/VBD 
+[ tests/NNS ]
+of/IN 
+[ AZT/NNP 's/POS toxicology/NN ]
+and/CC 
+[ pharmacology/NN ]
+;/: that/IN 
+[ the/DT company/NN ]
+stood/VBD on/IN 
+[ so/RB many/JJ shoulders/NNS ]
+in/IN making/VBG 
+[ the/DT product/NN ]
+further/RB heated/VBD up/RP 
+[ the/DT pricing/NN debate/NN ]
+./. 
+
+======================================
+
+[ The/DT compound/NN ]
+
+[ itself/PRP ]
+has/VBZ been/VBN in/IN 
+[ the/DT public/JJ domain/NN ]
+for/IN more/RBR than/IN 
+[ two/CD decades/NNS ]
+,/, but/CC 
+[ Wellcome/NNP ]
+holds/VBZ 
+[ a/DT so-called/JJ ]
+``/`` 
+[ use/NN patent/NN ]
+''/'' for/IN treating/VBG 
+[ AIDS/NNP ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT company/NN ]
+has/VBZ claimed/VBN 
+[ broad/JJ title/NN ]
+to/TO 
+[ AZT/NNP 's/POS use/NN ]
+in/IN 
+[ infections/NNS ]
+by/IN 
+[ other/JJ ]
+``/`` 
+[ retroviruses/NNS ]
+,/, ''/'' 
+[ a/DT class/NN ]
+of/IN 
+[ viruses/NNS ]
+encompassing/VBG 
+[ AIDS/NNP ]
+
+[ which/WDT ]
+are/VBP linked/VBN by/IN 
+[ their/PRP$ habit/NN ]
+of/IN transmitting/VBG 
+[ genetic/JJ information/NN ]
+in/IN 
+[ a/DT backwards/NNS flow/NN ]
+from/IN 
+[ RNA/NNP ]
+to/TO 
+[ DNA/NNP ]
+./. 
+
+But/CC 
+[ AZT/NNP 's/POS potential/JJ use/NN ]
+in/IN 
+[ retroviruses/NNS ]
+was/VBD first/RB published/VBN by/IN 
+[ West/JJ German/JJ researchers/NNS ]
+in/IN 
+[ 1974/CD ]
+,/, 
+[ a/DT quirk/NN ]
+of/IN 
+[ AZT/NNP 's/POS history/NN ]
+likely/RB to/TO be/VB exploited/VBN in/IN 
+[ any/DT assault/NN ]
+on/IN 
+[ Wellcome/NNP 's/POS patent/NN ]
+./. 
+
+======================================
+
+[ The/DT controversy/NN ]
+over/IN 
+[ AZT/NNP 's/POS price/NN ]
+prompted/VBD 
+[ government/NN lawyers/NNS ]
+to/TO consider/VB 
+[ a/DT range/NN ]
+of/IN 
+[ potential/JJ remedies/NNS ]
+,/, from/IN 
+[ price/NN controls/NNS ]
+to/TO 
+[ government/NN manufacture/NN ]
+of/IN 
+[ AZT/NNP ]
+,/, and/CC sparked/VBD 
+[ re-examination/NN ]
+of/IN 
+[ an/DT old/JJ statute/NN ]
+enabling/VBG 
+[ the/DT U.S./NNP ]
+to/TO invite/VB 
+[ patent/NN infringement/NN ]
+when/WRB 
+[ federal/JJ procurement/NN ]
+of/IN 
+[ a/DT strategic/JJ product/NN ]
+was/VBD threatened/VBN by/IN 
+[ activities/NNS ]
+of/IN 
+[ a/DT single/JJ supplier/NN ]
+./. 
+
+======================================
+
+[ The/DT uproar/NN ]
+also/RB inspired/VBD 
+[ a/DT ]
+``/`` 
+[ reasonable/JJ price/NN ]
+''/'' 
+[ clause/NN ]
+
+[ that/WDT ]
+now/RB is/VBZ inserted/VBN into/IN 
+[ all/DT technology/NN ]
+licensing/VBG 
+[ agreements/NNS ]
+between/IN 
+[ the/DT government/NN ]
+and/CC 
+[ companies/NNS ]
+./. 
+
+======================================
+
+Ultimately/RB ,/, 
+[ many/JJ experts/NNS ]
+believe/VBP 
+[ moderation/NN ]
+of/IN 
+[ AIDS-drug/JJ prices/NNS ]
+will/MD be/VB brought/VBN about/RP by/IN 
+[ competition/NN ]
+between/IN 
+[ many/JJ drugs/NNS ]
+and/CC 
+[ pharmaceutical/JJ companies/NNS ]
+./. 
+
+[ Real/JJ market/NN competition/NN ]
+is/VBZ still/RB 
+[ months/NNS ]
+away/RB ,/, however/RB ./. 
+
+======================================
+
+[ One/CD ]
+of/IN 
+[ the/DT earliest/JJS sources/NNS ]
+of/IN 
+[ such/JJ competition/NN ]
+may/MD be/VB 
+[ DDI/NNP ]
+,/, 
+[ a/DT related/VBN compound/NN ]
+patented/VBN by/IN 
+[ the/DT cancer/NN institute/NN ]
+and/CC licensed/VBN to/TO 
+[ Bristol-Myers/NNP Co/NNP ]
+./. 
+
+[ DDI/NNP ]
+has/VBZ passed/VBN 
+[ safety/NN tests/NNS ]
+and/CC now/RB is/VBZ entering/VBG 
+[ tests/NNS ]
+of/IN 
+[ effectiveness/NN ]
+needed/VBN for/IN 
+[ market/NN approval/NN ]
+./. 
+
+But/CC 
+[ the/DT company/NN ]
+already/RB has/VBZ pledged/VBN to/TO distribute/VB 
+[ DDI/NNP ]
+to/TO 
+[ patients/NNS ]
+in/IN 
+[ critical/JJ need/NN ]
+even/RB as/IN 
+[ such/JJ tests/NNS ]
+proceed/VB ./. 
+
+[ The/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+is/VBZ expected/VBN to/TO approve/VB 
+[ such/JJ a/DT giveaway/NN ]
+shortly/RB ,/, by/IN designating/VBG 
+[ DDI/NNP ]
+
+[ a/DT ]
+``/`` 
+[ treatment/NN I.N.D./NNP ]
+,/, ''/'' or/CC 
+[ investigational/JJ new/JJ drug/NN ]
+,/, 
+[ some/DT time/NN ]
+
+[ this/DT week/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+really/RB think/VBP 
+[ the/DT answer/NN ]
+from/IN 
+[ everybody/NN ]
+
+[ 's/POS point/NN ]
+of/IN 
+[ view/NN ]
+is/VBZ going/VBG to/TO be/VB having/VBG 
+[ lots/NNS ]
+of/IN 
+[ effective/JJ agents/NNS ]
+in/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ lots/NNS ]
+of/IN competing/VBG 
+[ companies/NNS ]
+,/, ''/'' said/VBD 
+[ Samuel/NNP Broder/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT National/NNP Cancer/NNP Institute/NNP ]
+./. 
+
+``/`` Until/IN then/RB ,/, 
+[ we/PRP ]
+never/RB will/MD have/VB 
+[ a/DT solution/NN ]
+satisfactory/JJ to/TO 
+[ everybody/NN ]
+./. 
+
+[ You/PRP ]
+run/VBP 
+[ a/DT better/JJR race/NN ]
+when/WRB 
+[ you/PRP ]
+have/VBP 
+[ a/DT competitor/NN ]
+./. 

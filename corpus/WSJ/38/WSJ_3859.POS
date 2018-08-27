@@ -1,0 +1,65 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Control/NNP Data/NNP Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+completed/VBD 
+[ the/DT sale/NN ]
+of/IN 
+[ its/PRP$ Imprimis/NNP Technology/NNP data-storage/JJ products/NNS unit/NN ]
+to/TO 
+[ Seagate/NNP Technology/NNP Inc/NNP ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT unit/NN ]
+,/, 
+[ Control/NNP ]
+said/VBD 
+[ it/PRP ]
+received/VBD 
+[ $/$ 250/CD million/CD ]
+in/IN 
+[ cash/NN ]
+,/, as/RB well/RB as/IN 
+[ 10.7/CD million/CD new/JJ Seagate/NNP common/JJ shares/NNS ]
+and/CC 
+[ a/DT $/$ 50/CD million/CD promissory/JJ note/NN ]
+./. 
+
+======================================
+
+[ Control/NNP Data/NNP ]
+makes/VBZ 
+[ computer/NN systems/NNS ]
+,/, 
+[ services/NNS ]
+and/CC 
+[ data-storage/JJ equipment/NN ]
+./. 
+
+[ Scotts/NNP Valley/NNP ]
+,/, 
+[ Calif.-based/JJ Seagate/NNP ]
+makes/VBZ 
+[ disk/NN drives/NNS ]
+for/IN 
+[ computers/NNS ]
+./. 

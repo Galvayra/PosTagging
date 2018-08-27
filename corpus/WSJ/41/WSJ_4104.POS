@@ -1,0 +1,445 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+After/IN 
+[ a/DT couple/NN ]
+of/IN statistically/RB 
+[ quiet/JJ weeks/NNS ]
+,/, 
+[ two/CD notable/JJ reports/NNS ]
+bring/VBP 
+[ fresh/JJ September/NNP figures/NNS ]
+--/: 
+[ the/DT purchasing/VBG agents/NNS '/POS index/NN ]
+and/CC 
+[ jobs/NNS data/NNS ]
+./. 
+
+======================================
+
+[ The/DT purchasers/NNS '/POS index/NN ]
+,/, 
+[ due/JJ ]
+out/IN at/IN 
+[ 10/CD ]
+a.m/RB ./. 
+
+ (/( 
+[ EDT/NNP ]
+ )/) 
+[ today/NN ]
+,/, will/MD be/VB watched/VBN for/IN 
+[ any/DT uptick/NN ]
+in/IN 
+[ a/DT reading/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN on/IN 
+[ the/DT weak/JJ side/NN ]
+for/IN 
+[ several/JJ months/NNS ]
+./. 
+
+[ It/PRP ]
+will/MD also/RB provide/VB 
+[ a/DT clue/NN ]
+on/IN 
+[ important/JJ employment/NN figures/NNS ]
+due/JJ out/IN 
+[ Friday/NNP ]
+./. 
+
+[ The/DT consensus/NN view/NN ]
+calls/VBZ for/IN 
+[ a/DT status/FW ]
+
+[ quo/FW ]
+jobs/NNS 
+[ report/NN ]
+showing/VBG 
+[ an/DT unchanged/JJ unemployment/NN rate/NN ]
+of/IN 
+[ 5.2/CD %/NN ]
+of/IN 
+[ the/DT work/NN force/NN ]
+and/CC 
+[ moderate/JJ new-job/JJ creation/NN ]
+,/, according/VBG to/TO 
+[ MMS/NNP International/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ McGraw-Hill/NNP Inc./NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+In/IN between/IN 
+[ the/DT buyers/NNS '/POS ]
+and/CC 
+[ the/DT workers/NNS '/POS statistics/NNS ]
+,/, come/VBP 
+[ August/NNP reports/NNS ]
+on/IN 
+[ new/JJ home/NN sales/NNS ]
+and/CC 
+[ manufacturers/NNS '/POS orders/NNS ]
+as/RB well/RB as/IN 
+[ September/NNP 's/POS tally/NN ]
+of/IN 
+[ auto/NN sales/NNS ]
+./. 
+
+[ August/NNP construction/NN spending/NN ]
+is/VBZ also/RB 
+[ forthcoming/JJ today/NN ]
+and/CC 
+[ the/DT month/NN 's/POS consumer/NN credit/NN report/NN ]
+finishes/VBZ 
+[ the/DT week/NN 's/POS figures/NNS ]
+on/IN 
+[ Friday/NNP ]
+./. 
+
+======================================
+
+[ The/DT September/NNP economic/JJ statistics/NNS ]
+are/VBP expected/VBN to/TO present/VB 
+[ a/DT familiar/JJ result/NN ]
+:/: 
+[ a/DT mixed/VBN signal/NN ]
+that/IN 
+[ economists/NNS ]
+say/VBP is/VBZ unlikely/JJ to/TO cause/VB 
+[ a/DT change/NN ]
+in/IN 
+[ interest/NN rate/NN policy/NN ]
+./. 
+
+======================================
+
+``/`` Looking/VBG at/IN 
+[ the/DT whole/JJ collection/NN ]
+of/IN 
+[ our/PRP$ survey/NN ]
+,/, 
+[ the/DT data/NN ]
+is/VBZ consistent/JJ with/IN 
+[ the/DT current/JJ view/NN ]
+that/IN 
+[ there/EX ]
+'s/VBZ 
+[ some/DT concern/NN ]
+about/IN 
+[ strength/NN ]
+,/, ''/'' said/VBD 
+[ Michael/NNP Englund/NNP ]
+,/, 
+[ research/NN director/NN ]
+of/IN 
+[ MMS/NNP International/NNP ]
+,/, 
+[ Belmont/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+If/IN 
+[ the/DT forecasts/NNS ]
+are/VBP correct/JJ ,/, ``/`` 
+[ we/PRP ]
+will/MD continue/VB to/TO produce/VB 
+[ data/NNS ]
+to/TO prevent/VB 
+[ the/DT ]
+ (/( 
+[ Federal/NNP Reserve/NNP ]
+ )/) from/IN 
+[ easing/VBG credit/NN ]
+,/, ''/'' 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+[ The/DT purchasers/NNS '/POS index/NN ]
+,/, 
+[ which/WDT ]
+gives/VBZ 
+[ an/DT early/JJ look/NN ]
+at/IN 
+[ the/DT manufacturing/VBG sector/NN 's/POS pace/NN ]
+,/, is/VBZ n't/RB normally/RB forecast/VBN by/IN 
+[ economists/NNS ]
+./. 
+
+But/CC 
+[ a/DT survey/NN ]
+of/IN 
+[ five/CD economists/NNS ]
+by/IN 
+[ Dow/NNP Jones/NNP Capital/NNP Markets/NNPS ]
+found/VBD that/IN 
+[ they/PRP ]
+expect/VBP 
+[ the/DT index/NN ]
+to/TO inch/VB ahead/RB to/TO 
+[ 46.3/CD %/NN ]
+from/IN 
+[ 45.2/CD %/NN ]
+in/IN 
+[ August/NNP ]
+./. 
+
+[ A/DT reading/NN ]
+below/IN 
+[ 50/CD %/NN ]
+generally/RB indicates/VBZ 
+[ a/DT declining/VBG economy/NN ]
+while/IN 
+[ a/DT reading/NN ]
+above/IN 
+[ 50/CD %/NN ]
+indicates/VBZ 
+[ an/DT expanding/VBG economy/NN ]
+./. 
+
+======================================
+
+[ A/DT fuller/JJR picture/NN ]
+comes/VBZ in/IN 
+[ Friday/NNP 's/POS employment/NN data/NNS ]
+./. 
+
+[ Economists/NNS ]
+figure/VBP 
+[ non-farm/JJ jobs/NNS ]
+grew/VBD by/IN about/IN 
+[ 200,000/CD ]
+,/, excluding/VBG 
+[ the/DT return/NN ]
+of/IN 
+[ some/DT 75,000/CD ]
+or/CC 
+[ so/RB striking/VBG telephone/NN workers/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT ]
+fairly/RB 
+[ strong/JJ number/NN ]
+''/'' even/RB after/IN 
+[ the/DT returning/VBG workers/NNS ]
+are/VBP subtracted/VBN from/IN 
+[ the/DT total/NN ]
+,/, said/VBD 
+[ Gary/NNP Ciminero/NNP ]
+,/, 
+[ chief/NN economist/NN ]
+at/IN 
+[ Fleet\/Norstar/NNP Financial/NNP Group/NNP ]
+,/, 
+[ Providence/NNP ]
+,/, 
+[ R.I/NNP ]
+./. 
+
+======================================
+
+``/`` But/CC 
+[ it/PRP ]
+is/VBZ n't/RB strong/JJ enough/RB to/TO cause/VB 
+[ the/DT Fed/NNP ]
+to/TO act/VB ,/, particularly/RB given/VBN 
+[ the/DT massive/JJ revision/NN ]
+that/IN 
+[ this/DT number/NN ]
+goes/VBZ through/IN ,/, ''/'' 
+[ he/PRP ]
+added/VBD ./. 
+
+[ Jobs/NNS ]
+have/VBP been/VBN growing/VBG at/IN about/IN 
+[ the/DT 200,000/CD pace/NN ]
+for/IN 
+[ several/JJ months/NNS ]
+./. 
+
+======================================
+
+[ Many/JJ economists/NNS ]
+expect/VBP 
+[ the/DT Fed/NNP 's/POS policy-making/JJ arm/NN ]
+to/TO maintain/VB 
+[ a/DT holding/VBG pattern/NN ]
+on/IN 
+[ interest/NN rates/NNS ]
+at/IN 
+[ its/PRP$ meeting/NN ]
+
+[ that/WDT ]
+begins/VBZ 
+[ tomorrow/NN ]
+,/, partly/RB because/IN of/IN 
+[ the/DT expected/VBN jobs/NNS data/NNS ]
+and/CC partly/RB because/IN 
+[ it/PRP ]
+may/MD have/VB to/TO ``/`` turn/VB 
+[ its/PRP$ attention/NN ]
+to/TO batting/VBG down/IN 
+[ the/DT dollar/NN ]
+,/, ''/'' 
+[ Mr./NNP Ciminero/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Construction/NN spending/NN ]
+in/IN 
+[ August/NNP ]
+is/VBZ thought/VBN to/TO have/VB increased/VBN 
+[ a/DT modest/JJ 0.2/CD %/NN ]
+after/IN 
+[ July/NNP 's/POS flat/JJ reading/NN ]
+./. 
+
+[ A/DT rebound/NN ]
+in/IN 
+[ residential/JJ ]
+and/CC 
+[ public/JJ building/NN activity/NN ]
+was/VBD probably/RB partly/RB offset/VBN by/IN 
+[ a/DT drop/NN ]
+in/IN 
+[ non-residential/JJ construction/NN ]
+,/, according/VBG to/TO 
+[ Stephen/NNP S./NNP Roach/NNP ]
+,/, 
+[ senior/JJ economist/NN ]
+at/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+And/CC 
+[ the/DT consensus/NN view/NN ]
+on/IN 
+[ new/JJ home/NN sales/NNS ]
+calls/VBZ for/IN 
+[ a/DT 5.3/CD %/NN fallback/NN ]
+in/IN 
+[ August/NNP ]
+following/VBG 
+[ July/NNP 's/POS sharp/JJ increase/NN ]
+./. 
+
+Even/RB so/RB ,/, 
+[ economists/NNS ]
+said/VBD 
+[ the/DT expected/VBN sale/NN ]
+of/IN 
+[ 700,000/CD ]
+or/CC so/RB 
+[ units/NNS ]
+is/VBZ still/RB fairly/RB robust/JJ and/CC could/MD trim/VB 
+[ inventories/NNS ]
+enough/RB to/TO spur/VB housing/NN 
+[ starts/NNS ]
+./. 
+
+But/CC 
+[ expectations/NNS ]
+are/VBP cloudy/JJ ,/, at/IN 
+[ best/JJS ]
+,/, judging/VBG from/IN 
+[ the/DT range/NN ]
+of/IN 
+[ economists/NNS '/POS estimates/NNS ]
+,/, 
+[ which/WDT ]
+run/VBP from/IN 
+[ a/DT drop/NN ]
+of/IN 
+[ 12.1/CD %/NN ]
+to/TO 
+[ an/DT increase/NN ]
+of/IN 
+[ 2/CD %/NN ]
+./. 
+
+======================================
+
+[ Wednesday/NNP 's/POS report/NN ]
+on/IN 
+[ September/NNP auto/NN sales/NNS ]
+is/VBZ eagerly/RB awaited/VBN for/IN 
+[ a/DT final/JJ call/NN ]
+on/IN 
+[ a/DT month/NN ]
+
+[ that/WDT ]
+started/VBD out/IN 
+[ weak/JJ ]
+but/CC picked/VBD up/IN sharply/RB during/IN 
+[ the/DT middle/JJ two/CD weeks/NNS ]
+./. 
+
+But/CC 
+[ new-model/JJ sales/NNS ]
+hold/VBP 
+[ even/RB bigger/JJR questions/NNS ]
+for/IN 
+[ economists/NNS ]
+and/CC 
+[ auto/NN makers/NNS ]
+as/IN 
+[ incentive-spurred/JJ sales/NNS ]
+of/IN 
+[ 1989/CD models/NNS ]
+have/VBP buoyed/VBN 
+[ the/DT economy/NN ]
+for/IN 
+[ months/NNS ]
+./. 
+
+======================================
+
+[ August/NNP consumer/NN credit/NN ]
+is/VBZ thought/VBN to/TO have/VB grown/VBN by/IN about/IN 
+[ $/$ 3.5/CD billion/CD ]
+,/, although/IN 
+[ the/DT MMS/NNP poll/NN ]
+found/VBD 
+[ a/DT wide/JJ range/NN ]
+of/IN 
+[ estimates/NNS ]
+running/VBG from/IN 
+[ a/DT flat/JJ reading/NN ]
+to/TO 
+[ a/DT jump/NN ]
+of/IN 
+[ $/$ 6/CD billion/CD ]
+./. 

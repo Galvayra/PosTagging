@@ -1,0 +1,316 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Eastman/NNP Kodak/NNP Co./NNP ]
+,/, elaborating/VBG on/IN 
+[ its/PRP$ latest/JJS restructuring/NN proposal/NN ]
+,/, reshuffled/VBD 
+[ some/DT ]
+
+[ existing/VBG business/NN units/NNS ]
+and/CC created/VBD 
+[ a/DT few/JJ new/JJ ones/NNS ]
+./. 
+
+======================================
+
+[ The/DT photographic/JJ ]
+,/, 
+[ chemical/JJ ]
+and/CC 
+[ pharmaceutical/JJ concern/NN ]
+did/VBD n't/RB ,/, however/RB ,/, specify/VB 
+[ which/WDT businesses/NNS ]
+
+[ it/PRP ]
+planned/VBD to/TO shed/VB to/TO reduce/VB 
+[ costs/NNS ]
+./. 
+
+======================================
+
+[ Last/JJ month/NN ]
+,/, after/IN 
+[ its/PRP$ second-quarter/JJ profit/NN ]
+fell/VBD 
+[ 85/CD %/NN ]
+,/, 
+[ Kodak/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD cut/VB 
+[ its/PRP$ work/NN force/NN ]
+by/IN 
+[ 4,500/CD ]
+and/CC sell/VB or/CC consolidate/VB about/IN 
+[ 20/CD ailing/VBG businesses/NNS ]
+with/IN 
+[ revenue/NN ]
+totaling/VBG 
+[ $/$ 1.25/CD billion/CD ]
+./. 
+
+But/CC 
+[ its/PRP$ latest/JJS announcement/NN ]
+did/VBD n't/RB indicate/VB exactly/RB how/WRB 
+[ those/DT cost/NN savings/NNS ]
+would/MD be/VB achieved/VBN ./. 
+
+======================================
+
+[ The/DT Rochester/NNP ]
+,/, 
+[ N.Y.-based/JJ company/NN ]
+said/VBD 
+[ it/PRP ]
+will/MD split/VB 
+[ its/PRP$ information/NN systems/NNS group/NN ]
+,/, 
+[ which/WDT ]
+posted/VBD 
+[ a/DT 93/CD %/NN drop/NN ]
+in/IN 
+[ second-quarter/JJ profit/NN ]
+,/, into/IN 
+[ two/CD separate/JJ groups/NNS ]
+./. 
+
+[ One/CD ]
+,/, 
+[ an/DT imaging/NN information/NN systems/NNS group/NN ]
+,/, will/MD concentrate/VB on/IN 
+[ software/NN ]
+,/, 
+[ sensors/NNS ]
+and/CC 
+[ scanners/NNS ]
+;/: 
+[ the/DT other/JJ ]
+,/, 
+[ the/DT commercial/JJ systems/NNS group/NN ]
+,/, will/MD manufacture/VB printing/NN and/CC 
+[ publishing/NN products/NNS ]
+./. 
+
+======================================
+
+[ Kodak/NNP 's/POS three/CD other/JJ major/JJ divisions/NNS ]
+,/, however/RB --/: 
+[ imaging/NN ]
+,/, 
+[ chemicals/NNS ]
+and/CC 
+[ health/NN ]
+--/: will/MD remain/VB essentially/RB 
+[ intact/JJ ]
+,/, although/IN 
+[ some/DT units/NNS ]
+will/MD be/VB reorganized/VBN ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ Kodak/NNP 's/POS health/NN business/NN ]
+will/MD consist/VB of/IN 
+[ four/CD separate/JJ units/NNS ]
+--/: 
+[ Sterling/NNP Drug/NNP ]
+,/, 
+[ health/NN sciences/NNS ]
+,/, 
+[ clinical/JJ products/NNS ]
+and/CC 
+[ household/NN products/NNS ]
+./. 
+
+Until/IN now/RB ,/, 
+[ household/NN products/NNS ]
+,/, 
+[ which/WDT ]
+manufactures/VBZ 
+[ Lysol/NNP disinfectant/NN ]
+,/, reported/VBD to/TO 
+[ Sterling/NNP Drug/NNP ]
+,/, while/IN 
+[ health/NN sciences/NNS ]
+and/CC 
+[ clinical/JJ products/NNS ]
+were/VBD grouped/VBN separately/RB ./. 
+
+======================================
+
+[ Analysts/NNS ]
+said/VBD 
+[ Kodak/NNP ]
+may/MD be/VB positioning/VBG 
+[ certain/JJ businesses/NNS ]
+,/, like/IN 
+[ household/NN products/NNS ]
+,/, for/IN 
+[ the/DT auction/NN block/NN ]
+./. 
+
+``/`` 
+[ Household/NN products/NNS ]
+just/RB does/VBZ n't/RB fit/VB with/IN 
+[ Kodak/NNP 's/POS other/JJ businesses/NNS ]
+,/, ''/'' said/VBD 
+[ Brenda/NNP Lee/NNP Landry/NNP ]
+of/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ A/DT Kodak/NNP spokesman/NN ]
+,/, however/RB ,/, said/VBD 
+[ its/PRP$ ]
+repositioning/NN of/IN 
+[ certain/JJ businesses/NNS ]
+does/VBZ n't/RB mean/VB 
+[ the/DT company/NN ]
+plans/VBZ to/TO shed/VB 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ Kodak/NNP observers/NNS ]
+were/VBD unimpressed/JJ by/IN 
+[ the/DT outlined/JJ changes/NNS ]
+./. 
+
+``/`` 
+[ These/DT ]
+ 
+(/( 
+[ organization/NN ]
+ )/) 
+[ changes/NNS ]
+are/VBP n't/RB going/VBG to/TO alter/VB 
+[ Kodak/NNP 's/POS fundamental/JJ difficulties/NNS ]
+,/, ''/'' said/VBD 
+[ Alex/NNP Henderson/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Prudential-Bache/NNP Securities/NNPS ]
+,/, 
+[ Inc/NNP ]
+./. 
+
+``/`` 
+[ This/DT ]
+is/VBZ n't/RB 
+[ the/DT major/JJ ]
+restructuring/NN 
+[ Wall/NNP Street/NNP ]
+is/VBZ looking/VBG for/IN ./. 
+
+''/'' 
+======================================
+
+[ Kodak/NN 's/POS announcement/NN ]
+came/VBD after/IN 
+[ the/DT close/NN ]
+of/IN trading/NN ./. 
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ,/, 
+[ its/PRP$ shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 46.75/CD ]
+,/, 
+[ unchanged/JJ ]
+./. 
+
+======================================
+
+[ Kodak/NNP ]
+announced/VBD 
+[ several/JJ management/NN changes/NNS ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ its/PRP$ business/NN realignment/NN ]
+./. 
+
+[ Lawrence/NNP J./NNP Matteson/NNP ]
+,/, currently/RB 
+[ a/DT company/NN group/NN vice/NN president/NN ]
+and/CC 
+[ general/JJ manager/NN ]
+,/, 
+[ commercial/JJ ]
+and/CC 
+[ information/NN systems/NNS ]
+,/, was/VBD named/VBN 
+[ general/JJ manager/NN ]
+of/IN 
+[ the/DT new/JJ imaging/NN information/NN systems/NNS group/NN ]
+./. 
+
+[ Frank/NNP P./NNP Strong/NNP ]
+,/, 
+[ general/JJ manager/NN ]
+of/IN 
+[ diversified/JJ technologies\/JJ science/JJ ]
+,/, was/VBD named/VBN 
+[ general/JJ manager/NN ]
+of/IN 
+[ the/DT ]
+newly/RB formed/VBN 
+[ commercial/JJ systems/NNS group/NN ]
+./. 
+
+======================================
+
+[ Leo/NNP J./NNP Thomas/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Kodak/NNP 's/POS Sterling/NNP Drug/NNP unit/NN ]
+,/, was/VBD named/VBN 
+[ general/JJ manager/NN ]
+of/IN 
+[ the/DT health/NN division/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ John/NNP P./NNP White/NNP ]
+,/, 
+[ a/DT general/JJ manager/NN ]
+in/IN 
+[ software/NN ]
+,/, was/VBD named/VBN 
+[ general/JJ manager/NN ]
+and/CC 
+[ vice/NN president/NN ]
+of/IN 
+[ the/DT ]
+newly/RB formed/VBN 
+[ integration/NN ]
+and/CC 
+[ systems/NNS product/NN division/NN ]
+,/, 
+[ a/DT part/NN ]
+of/IN 
+[ Kodak/NNP 's/POS imaging/NN business/NN ]
+./. 

@@ -1,0 +1,1502 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ the/DT lobby/NN ]
+of/IN 
+[ Gillette/NNP Co./NNP 's/POS razor/NN ]
+and/CC 
+[ blade/NN factory/NN ]
+,/, 
+[ a/DT glass/NN case/NN ]
+displays/VBZ 
+[ artifacts/NNS ]
+from/IN shaving/NN over/IN 
+[ the/DT ages/NNS ]
+:/: 
+[ An/DT Egyptian/JJ bronze/NN razor/NN ]
+from/IN 
+[ 1500/CD B.C./NN ]
+,/, 
+[ a/DT Turkish/JJ crescent/NN razor/NN ]
+from/IN 
+[ 1190/CD ]
+,/, 
+[ a/DT straight/JJ razor/NN ]
+from/IN 
+[ the/DT Franco/NNP Prussian/NNP War/NNP ]
+in/IN 
+[ 1870/CD ]
+./. 
+
+======================================
+
+Then/RB 
+[ there/EX ]
+is/VBZ 
+[ the/DT first/JJ safety/NN razor/NN ]
+,/, invented/VBN by/IN 
+[ company/NN founder/NN King/NNP C./NNP Gillette/NNP ]
+in/IN 
+[ 1903/CD ]
+,/, 
+[ the/DT Gillette/NNP Blue/NNP Blade/NNP ]
+ (/( 
+[ 1932/CD ]
+ )/) ,/, 
+[ the/DT Trac/NNP II/NNP twin-blade/JJ razor/NN ]
+ (/( 
+[ 1971/CD ]
+ )/) ./. 
+
+======================================
+
+Soon/RB ,/, 
+[ Sensor/NNP ]
+,/, 
+[ a/DT new/JJ razor/NN ]
+,/, will/MD be/VB added/VBN to/TO 
+[ the/DT case/NN ]
+./. 
+
+With/IN 
+[ twin/JJ blades/NNS ]
+mounted/VBN on/IN 
+[ tiny/JJ springs/NNS ]
+so/IN 
+[ they/PRP ]
+can/MD move/VB independently/RB --/: 
+[ the/DT better/JJR ]
+to/TO reach/VB 
+[ every/DT nook/NN ]
+and/CC 
+[ cranny/NN ]
+on/IN 
+[ your/PRP$ face/NN ]
+--/: 
+[ Sensor/NNP ]
+is/VBZ being/VBG touted/VBN as/IN providing/VBG 
+[ the/DT smoothest/JJS ]
+and/CC 
+[ closest/JJS shave/NN man/NN ]
+has/VBZ ever/RB known/VBN ./. 
+
+[ Gillette/NNP ]
+believes/VBZ 
+[ the/DT new/JJ razor/NN ]
+will/MD be/VB snapped/VBN up/RP by/IN 
+[ millions/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+better/RB be/VB ./. 
+
+======================================
+
+[ Ten/CD years/NNS ]
+in/IN 
+[ the/DT making/NN ]
+,/, 
+[ Sensor/NNP ]
+has/VBZ cost/VBN more/JJR than/IN 
+[ $/$ 200/CD million/CD ]
+to/TO develop/VB and/CC start/VB manufacturing/VBG ,/, and/CC will/MD cost/VB 
+[ an/DT additional/JJ $/$ 110/CD million/CD ]
+to/TO advertise/VB 
+[ it/PRP ]
+in/IN 
+[ its/PRP$ first/JJ year/NN ]
+alone/RB ./. 
+
+[ Gillette/NNP ]
+,/, still/RB recovering/VBG from/IN 
+[ years/NNS ]
+of/IN 
+[ turmoil/NN ]
+when/WRB 
+[ it/PRP ]
+was/VBD 
+[ a/DT repeated/VBN target/NN ]
+of/IN 
+[ corporate/JJ raiders/NNS ]
+,/, is/VBZ placing/VBG 
+[ the/DT biggest/JJS bet/NN ]
+in/IN 
+[ its/PRP$ history/NN ]
+on/IN 
+[ Sensor/NNP ]
+./. 
+
+======================================
+
+If/IN 
+[ the/DT new/JJ razor/NN ]
+is/VBZ 
+[ a/DT hit/NN ]
+,/, 
+[ it/PRP ]
+will/MD cap/VB 
+[ the/DT company/NN 's/POS recent/JJ comeback/NN ]
+and/CC vindicate/VB 
+[ management/NN 's/POS defense/NN ]
+that/IN 
+[ its/PRP$ strategies/NNS ]
+would/MD pay/VB off/RP for/IN 
+[ shareholders/NNS ]
+over/IN 
+[ the/DT long/JJ run/NN ]
+./. 
+
+If/IN 
+[ the/DT razor/NN ]
+flops/VBZ ,/, 
+[ it/PRP ]
+undoubtedly/RB will/MD renew/VB 
+[ charges/NNS ]
+that/IN 
+[ Gillette/NNP executives/NNS ]
+entrenched/VBD 
+[ themselves/PRP ]
+at/IN 
+[ the/DT expense/NN ]
+of/IN 
+[ stockholders/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ put/VBN up/RP or/CC shut/VB up/RP ,/, ''/'' says/VBZ 
+[ William/NNP Newbury/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ College/NNP Retirement/NNP Equities/NNP Fund/NNP ]
+,/, 
+[ a/DT major/JJ Gillette/NNP shareholder/NN ]
+
+[ that/WDT ]
+voted/VBD against/IN 
+[ management/NN ]
+in/IN 
+[ a/DT bitter/JJ proxy/NN fight/NN ]
+
+[ that/WDT ]
+narrowly/RB failed/VBD to/TO oust/VB 
+[ four/CD incumbent/JJ directors/NNS last/JJ year/NN ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ we/PRP ]
+do/VBP n't/RB get/VB 
+[ sizable/JJ returns/NNS ]
+''/'' on/IN 
+[ Sensor/NNP ]
+,/, concedes/VBZ 
+[ Gillette/NNP vice/NN chairman/NN Alfred/NNP M./NNP Zeien/NNP ]
+,/, ``/`` 
+[ we/PRP ]
+ought/MD to/TO be/VB criticized/VBN for/IN having/VBG 
+[ wasted/VBN lots/NNS ]
+of/IN 
+[ money/NN ]
+./. 
+
+''/'' 
+======================================
+
+To/TO substantially/RB increase/VB 
+[ Gillette/NNP 's/POS profits/NNS ]
+,/, 
+[ Sensor/NNP ]
+must/MD perform/VB 
+[ a/DT marketing/NN miracle/NN ]
+:/: halt/VB 
+[ a/DT 15-year/JJ trend/NN ]
+toward/IN 
+[ inexpensive/JJ disposable/JJ razors/NNS ]
+./. 
+
+At/IN double/RB 
+[ the/DT cost/NN ]
+of/IN shaving/VBG 
+[ using/VBG disposables/NNS ]
+,/, 
+[ Sensor/NNP ]
+will/MD be/VB 
+[ a/DT hard/JJ sell/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Men/NNS ]
+are/VBP 
+[ strange/JJ animals/NNS ]
+./. 
+
+[ They/PRP ]
+find/VBP 
+[ something/NN ]
+
+[ they/PRP ]
+like/VBP and/CC stick/VBP to/TO 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Angela/NNP Aguiar/NNP ]
+,/, 
+[ a/DT buyer/NN ]
+at/IN 
+[ Brooks/NNP Pharmacy/NNP ]
+,/, 
+[ a/DT New/NNP England/NNP chain/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ difficult/JJ to/TO get/VB 
+[ men/NNS ]
+to/TO change/VB 
+[ their/PRP$ grooming/NN habits/NNS ]
+./. 
+
+[ I/PRP ]
+'ve/VBP seen/VBN 
+[ a/DT lot/NN ]
+of/IN 
+[ good/JJ products/NNS ]
+go/VBP by/IN 
+[ the/DT wayside/NN ]
+or/CC grow/VB slowly/RB because/IN 
+[ men/NNS ]
+do/VBP n't/RB like/VB to/TO change/VB ./. 
+
+''/'' 
+======================================
+
+[ Gillette/NNP executives/NNS ]
+would/MD like/VB 
+[ nothing/NN ]
+more/JJR than/IN to/TO prove/VB 
+[ their/PRP$ critics/NNS ]
+wrong/JJ and/CC score/VB 
+[ a/DT victory/NN ]
+for/IN 
+[ mainstream/NN ]
+,/, 
+[ corporate/JJ America/NNP ]
+over/IN 
+[ Wall/NNP Street/NNP raiders/NNS ]
+./. 
+
+More/JJR than/IN 
+[ a/DT battle/NN ]
+over/IN 
+[ a/DT company/NN ]
+,/, 
+[ the/DT fight/NN ]
+over/IN 
+[ Gillette/NNP ]
+in/IN 
+[ some/DT ways/NNS ]
+epitomized/VBD 
+[ the/DT takeover/NN wars/NNS ]
+of/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+[ Takeover/NN artists/NNS ]
+offered/VBD 
+[ short-term/JJ profits/NNS ]
+./. 
+
+[ Management/NN ]
+promised/VBD 
+[ a/DT bigger/JJR long-term/JJ payoffif/NN  only/JJ shareholders/NNS ]
+were/VBD willing/JJ to/TO wait/VB for/IN 
+[ promising/JJ new/JJ products/NNS ]
+./. 
+
+======================================
+
+More/JJR than/IN 
+[ a/DT few/JJ ]
+are/VBP rooting/VBG for/IN 
+[ Gillette/NNP ]
+./. 
+
+``/`` 
+[ What/WP ]
+ 
+(/( 
+[ raiders/NNS ]
+ )/) are/VBP saying/VBG is/VBZ that/IN 
+[ any/DT time/NN ]
+
+[ a/DT stock/NN price/NN ]
+is/VBZ below/IN 
+[ what/WP ]
+
+[ we/PRP ]
+can/MD get/VB for/IN 
+[ it/PRP ]
+in/IN 
+[ frothy/JJ takeover/NN market/NN ]
+,/, 
+[ we/PRP ]
+'re/VBP entitled/VBN to/TO liquidate/VB 
+[ the/DT business/NN ]
+''/'' by/IN selling/VBG 
+[ it/PRP ]
+to/TO 
+[ the/DT high/JJ bidder/NN ]
+,/, says/VBZ 
+[ Louis/NNP Lowenstein/NNP ]
+,/, 
+[ a/DT Columbia/NNP Law/NNP School/NNP professor/NN ]
+and/CC 
+[ critic/NN ]
+of/IN 
+[ many/JJ takeovers/NNS ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ not/RB 
+[ good/JJ industrial/JJ policy/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT bit/NN stodgy/JJ ]
+,/, 
+[ Gillette/NNP ]
+became/VBD 
+[ a/DT takeover/NN target/NN ]
+because/IN of/IN 
+[ sluggish/JJ growth/NN ]
+in/IN 
+[ the/DT early/JJ ]
+and/CC 
+[ mid-1980s/NNS ]
+./. 
+
+Though/IN 
+[ it/PRP ]
+boasts/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT world/NN 's/POS best-known/JJ brand/NN names/NNS ]
+--/: among/IN 
+[ them/PRP Foamy/NNP shaving/NN cream/NN ]
+,/, 
+[ Right/NNP Guard/NNP deodorant/NN ]
+,/, 
+[ Oral/NNP B/NNP toothbrushes/NNS ]
+,/, 
+[ Papermate/NNP ]
+and/CC 
+[ Flair/NNP pens/NNS ]
+--/: 
+[ earnings/NNS ]
+and/CC 
+[ sales/NNS ]
+stagnated/VBD because/RB of/IN 
+[ lackluster/JJ marketing/NN ]
+./. 
+
+[ Efforts/NNS ]
+to/TO diversify/VB into/IN 
+[ such/JJ disjointed/JJ businesses/NNS ]
+as/IN 
+[ computer/NN accessories/NNS ]
+,/, 
+[ eyewear/NN ]
+,/, hearing/NN 
+[ aids/NNS ]
+and/CC 
+[ beauty/NN centers/NNS ]
+did/VBD n't/RB 
+[ help/VB ]
+./. 
+
+======================================
+
+[ Revlon/NNP Inc./NNP ]
+made/VBD 
+[ the/DT first/JJ takeover/NN bid/NN ]
+in/IN 
+[ November/NNP 1986/CD ]
+,/, but/CC withdrew/VBD after/IN being/VBG bought/VBN off/RP with/IN 
+[ a/DT $/$ 558/CD million/CD payment/NN ]
+for/IN 
+[ its/PRP$ stock/NN ]
+./. 
+
+[ Gillette/NNP ]
+rebuffed/VBD 
+[ two/CD more/JJR overtures/NNS ]
+from/IN 
+[ Revlon/NNP ]
+
+[ a/DT year/NN ]
+later/RBR ./. 
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ it/PRP ]
+fought/VBD off/RP 
+[ Coniston/NNP Partners/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP investment/NN firm/NN ]
+,/, 
+[ which/WDT ]
+had/VBD sought/VBN to/TO oust/VB 
+[ four/CD directors/NNS ]
+and/CC sell/VB 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+[ Revlon/NNP ]
+was/VBD trying/VBG to/TO buy/VB 
+[ the/DT company/NN ]
+on/IN 
+[ the/DT cheap/JJ ]
+,/, 
+[ Gillette/NNP ]
+insisted/VBD then/RB --/: and/CC now/RB ./. 
+
+In/IN 
+[ Gillette/NNP 's/POS defense/NN ]
+,/, adds/VBZ 
+[ Colman/NNP Mockler/NNP Jr./NNP ]
+,/, 
+[ its/PRP$ unassuming/JJ ]
+and/CC 
+[ shy/JJ chief/JJ executive/NN ]
+,/, 
+[ the/DT rate/NN ]
+of/IN 
+[ return/NN ]
+on/IN 
+[ Gillette/NNP stock/NN ]
+over/IN 
+[ the/DT past/NN decade/NN ]
+has/VBZ been/VBN 
+[ 24/CD %/NN ]
+annually/RB ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP in/IN 
+[ the/DT top/JJ 100/CD ]
+of/IN 
+[ the/DT Fortune/NNP 500/CD ]
+''/'' over/IN 
+[ that/DT period/NN ]
+,/, 
+[ he/PRP ]
+notes/VBZ ./. 
+
+======================================
+
+[ Gillette/NNP ]
+had/VBD made/VBN 
+[ huge/JJ investments/NNS ]
+in/IN 
+[ new/JJ products/NNS ]
+and/CC 
+[ manufacturing/NN efficiencies/NNS ]
+that/WDT 
+[ curtailed/VBD earnings/NNS ]
+in/IN 
+[ the/DT 1980s/NNS  ]
+,/, but/CC 
+[ executives/NNS ]
+expect/VBP 
+[ those/DT investments/NNS ]
+to/TO pay/VB off/RP in/IN 
+[ the/DT 1990s/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP not/RB criticizing/VBG (/( 
+[ Revlon/NNP 's/POS Ronald/NNP ]
+ )/) 
+[ Perelman/NNP ]
+for/IN perceiving/VBG 
+[ Gillette/NNP ]
+as/IN 
+[ an/DT undervalued/VBN asset/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Zeien/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+just/RB said/VBD 
+[ we/PRP ]
+'re/VBP not/RB going/VBG to/TO let/VB 
+[ you/PRP ]
+steal/VB 
+[ this/DT undervalued/VBN asset/NN ]
+./. 
+
+''/'' 
+======================================
+
+To/TO 
+[ the/DT surprise/NN ]
+of/IN 
+[ many/JJ ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+,/, 
+[ Gillette/NNP ]
+has/VBZ fashioned/VBN 
+[ a/DT turnaround/NN ]
+./. 
+
+Energized/VBN by/IN 
+[ its/PRP$ close/JJ shave/NN ]
+with/IN 
+[ corporate/JJ raiders/NNS ]
+,/, 
+[ it/PRP ]
+slashed/VBD 
+[ employment/NN 8/CD %/NN ]
+and/CC dumped/VBD 
+[ mediocre/JJ businesses/NNS ]
+ (/( taking/VBG 
+[ a/DT $/$ 243/CD million/CD pretax/JJ writeoff/NN ]
+ )/) ./. 
+
+[ It/PRP ]
+introduced/VBD 
+[ a/DT number/NN ]
+of/IN 
+[ successful/JJ new/JJ products/NNS ]
+and/CC increased/VBD 
+[ ad/NN spending/NN ]
+./. 
+
+``/`` Was/VBD 
+[ Gillette/NNP ]
+
+[ a/DT sleepy/JJ company/NN ]
+beforehand/RB ?/. 
+
+Did/VBD 
+[ Perelman/NNP trigger/VB change/NN ]
+?/. 
+
+Yeah/RB ,/, ''/'' concedes/VBZ 
+[ Mr./NNP Zeien/NNP ]
+./. 
+
+``/`` But/CC 
+[ what/WP ]
+
+[ it/PRP ]
+did/VBD n't/RB do/VB was/VBD change/VB 
+[ the/DT fundamental/JJ way/NN ]
+
+[ we/PRP ]
+do/VBP 
+[ business/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT result/NN ]
+:/: 
+[ 1989/CD earnings/NNS ]
+are/VBP expected/VBN to/TO reach/VB 
+[ $/$ 300/CD million/CD ]
+,/, up/RB from/IN 
+[ $/$ 181/CD million/CD ]
+ (/( before/IN 
+[ one-time/JJ charges/NNS ]
+ )/) in/IN 
+[ 1986/CD ]
+,/, and/CC 
+[ sales/NNS ]
+will/MD approach/VB 
+[ $/$ 3.9/CD billion/CD ]
+,/, up/RB from/IN 
+[ $/$ 2.82/CD billion/CD three/CD years/NNS ]
+ago/RB ./. 
+
+[ Its/PRP$ writing-instruments/JJ business/NN ]
+and/CC 
+[ Braun/NNP electric/JJ shaver/NN ]
+and/CC 
+[ small/JJ appliance/NN unit/NN ]
+--/: 
+[ which/WDT some/DT analysts/NNS ]
+wanted/VBD 
+[ Gillette/NNP ]
+to/TO jettison/VB 
+[ a/DT few/JJ years/NNS ]
+ago/RB --/: are/VBP growing/VBG robustly/RB ./. 
+
+[ Only/JJ its/PRP$ toiletries/NNS ]
+and/CC 
+[ cosmetics/NNS businesses/NNS ]
+have/VBP remained/VBN 
+[ laggards/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ the/DT company/NN 's/POS stock/NN ]
+,/, after/IN dropping/VBG to/TO 
+[ the/DT low/JJ $/$ 30s/NNS ]
+not/RB long/JJ after/IN 
+[ Gillette/NNP ]
+won/VBD 
+[ the/DT proxy/NN contest/NN ]
+and/CC 
+[ the/DT threat/NN ]
+of/IN 
+[ a/DT takeover/NN ]
+diminished/VBD ,/, has/VBZ recovered/VBN ./. 
+
+Now/RB hovering/VBG in/IN 
+[ the/DT mid/JJ $/$ 40s/NNS ]
+,/, 
+[ it/PRP ]
+closed/VBD yesterday/NN at/IN 
+[ $/$ 45.875/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Many/JJ ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+have/VBP climbed/VBN on/IN 
+[ the/DT bandwagon/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP that/IN 
+[ Gillette/NNP ]
+will/MD ultimately/RB vindicate/VB 
+[ itself/PRP ]
+,/, and/CC 
+[ there/EX ]
+is/VBZ 
+[ some/DT evidence/NN ]
+that/IN 
+[ it/PRP ]
+already/RB has/VBZ ,/, ''/'' says/VBZ 
+[ Andrew/NNP Shore/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP ]
+./. 
+
+And/CC 
+[ two/CD ]
+of/IN 
+[ America/NNP 's/POS savviest/JJS investors/NNS ]
+have/VBP loaded/VBN up/RP on/IN 
+[ Gillette/NNP stock/NN ]
+./. 
+
+[ Warren/NNP Buffett/NNP ]
+bought/VBD 
+[ $/$ 600/CD million/CD ]
+of/IN 
+[ preferred/VBN stock/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ convertible/JJ into/IN 
+[ an/DT 11/CD %/NN stake/NN ]
+./. 
+
+And/CC 
+[ Fidelity/NNP Investment/NNP mutual/JJ fund/NN guru/NN Peter/NNP Lynch/NNP ]
+has/VBZ added/VBN to/TO 
+[ Fidelity/NNP 's/POS holdings/NNS ]
+of/IN late/RB ./. 
+
+======================================
+
+But/CC 
+[ critics/NNS ]
+remain/VBP ./. 
+
+[ Revlon/NNP 's/POS last/JJ offer/NN ]
+of/IN 
+[ $/$ 47/CD ]
+
+[ a/DT share/NN ]
+would/MD have/VB paid/VBN off/RP handsomely/RB for/IN 
+[ shareholders/NNS ]
+had/VBD 
+[ they/PRP ]
+taken/VBN 
+[ the/DT money/NN ]
+and/CC reinvested/VBD 
+[ it/PRP ]
+in/IN 
+[ the/DT market/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ risen/VBN 
+[ 25/CD %/NN ]
+
+[ this/DT year/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP n't/RB too/RB satisfied/VBN ./. 
+
+[ They/PRP ]
+have/VBP n't/RB done/VBN better/RBR than/IN 
+[ the/DT market/NN ]
+,/, ''/'' says/VBZ 
+[ Jose/NNP Arau/NNP ]
+,/, 
+[ principal/JJ investment/NN officer/NN ]
+at/IN 
+[ California/NNP Public/NNP Employees/NNP Retirement/NNP System/NNP ]
+,/, 
+[ a/DT Gillette/NNP holder/NN ]
+
+[ that/WDT ]
+supported/VBD 
+[ Coniston/NNP ]
+in/IN 
+[ its/PRP$ proxy/NN fight/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+looks/VBZ as/IN if/IN 
+[ there/EX ]
+'s/VBZ 
+[ no/DT value/NN ]
+added/VBN here/RB ,/, so/IN 
+[ we/PRP ]
+ca/MD n't/RB be/VB too/RB happy/JJ ./. 
+
+''/'' 
+======================================
+
+So/RB ,/, to/TO deliver/VB on/IN 
+[ their/PRP$ promise/NN ]
+to/TO ``/`` maximize/VB 
+[ shareholder/NN value/NN ]
+,/, ''/'' 
+[ Gillette/NNP ]
+is/VBZ gambling/VBG on/IN 
+[ Sensor/NNP ]
+,/, 
+[ which/WDT ]
+will/MD be/VB announced/VBN 
+[ Tuesday/NNP ]
+at/IN 
+[ a/DT bash/NN ]
+at/IN 
+[ New/NNP York/NNP 's/POS Pierre/NNP Hotel/NNP ]
+./. 
+
+[ Stores/NNS ]
+will/MD start/VB selling/VBG 
+[ the/DT razor/NN ]
+after/IN 
+[ an/DT ad/NN blitz/NN ]
+
+[ that/WDT ]
+kicks/VBZ into/IN 
+[ high/JJ gear/NN ]
+with/IN 
+[ commercials/NNS ]
+during/IN 
+[ the/DT Super/NNP Bowl/NNP ]
+on/IN 
+[ Jan./NNP 28/CD ]
+./. 
+
+======================================
+
+For/IN 
+[ all/DT its/PRP$ other/JJ businesses/NNS ]
+,/, 
+[ Gillette/NNP ]
+means/VBZ 
+[ one/CD thing/NN ]
+to/TO 
+[ consumers/NNS ]
+world-wide/JJ :/: shaving/NN ./. 
+
+[ Gillette/NNP ]
+dominates/VBZ 
+[ the/DT business/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, with/IN 
+[ a/DT market/NN share/NN ]
+of/IN about/RB 
+[ 64/CD %/NN ]
+./. 
+
+[ Razors/NNS ]
+and/CC 
+[ blades/NNS ]
+account/VBP for/IN just/RB one-third/JJ of/IN 
+[ its/PRP$ sales/NNS ]
+--/: but/CC 
+[ two-thirds/NNS ]
+of/IN 
+[ profits/NNS ]
+./. 
+
+``/`` 
+[ Nothing/NN ]
+is/VBZ as/RB good/JJ as/IN 
+[ the/DT razor/NN business/NN ]
+,/, ''/'' says/VBZ 
+[ Derwin/NNP Phillips/NNP ]
+,/, 
+[ a/DT vice/NN chairman/NN ]
+./. 
+
+[ Gillette/NNP 's/POS operating/NN profit/NN margins/NNS ]
+from/IN 
+[ razors/NNS ]
+are/VBP 
+[ 34/CD %/NN ]
+compared/VBN with/IN 
+[ 10.3/CD %/NN ]
+in/IN 
+[ all/DT its/PRP$ other/JJ businesses/NNS ]
+combined/VBN ./. 
+
+======================================
+
+Still/RB ,/, 
+[ the/DT shaving/NN business/NN has/VBZ n't/RB ]
+been/VBN 
+[ the/DT same/JJ ]
+since/IN 
+[ disposable/JJ razors/NNS ]
+were/VBD introduced/VBN in/IN 
+[ the/DT mid-1970s/NNS ]
+./. 
+
+[ Disposables/NNS ]
+,/, once/RB used/VBN by/IN relatively/RB 
+[ few/JJ ]
+,/, now/RB are/VBP 
+[ the/DT razors/NNS ]
+of/IN 
+[ choice/NN ]
+for/IN more/JJR than/IN 
+[ half/NN ]
+of/IN 
+[ all/DT American/JJ shavers/NNS ]
+./. 
+
+But/CC 
+[ profits/NNS ]
+on/IN 
+[ them/PRP ]
+are/VBP thin/JJ ,/, because/IN 
+[ they/PRP ]
+cost/VBP more/JJR to/TO make/VB yet/CC sell/VBP for/IN less/JJS than/IN 
+[ the/DT cartridges/NNS ]
+used/VBN in/IN 
+[ permanent/JJ razors/NNS ]
+./. 
+
+======================================
+
+[ Sensor/NNP ]
+,/, 
+[ Gillette/NNP ]
+believes/VBZ ,/, can/MD reverse/VB 
+[ the/DT trend/NN ]
+by/IN providing/VBG 
+[ a/DT better/JJR shave/NN ]
+./. 
+
+But/CC 
+[ the/DT big/JJ question/NN ]
+is/VBZ n't/RB so/RB much/JJ whether/IN 
+[ Sensor/NNP ]
+offers/VBZ 
+[ a/DT better/JJR ]
+shave/NN ,/, but/CC whether/IN 
+[ that/DT ]
+matters/VBZ to/TO 
+[ customers/NNS ]
+./. 
+
+[ The/DT razor/NN market/NN ]
+is/VBZ n't/RB growing/VBG ,/, so/IN 
+[ Sensor/NNP ]
+will/MD have/VB to/TO win/VB over/IN 
+[ shavers/NNS ]
+
+[ who/WP ]
+use/VBP 
+[ other/JJ razors/NNS ]
+,/, namely/RB 
+[ disposables/NNS ]
+,/, including/VBG 
+[ its/PRP$ own/JJ ]
+./. 
+
+======================================
+
+[ New/NNP technology/NN ]
+is/VBZ 
+[ the/DT key/NN ]
+to/TO 
+[ the/DT Sensor/NNP ]
+./. 
+
+[ A/DT man/NN 's/POS face/NN ]
+may/MD look/VB smooth/JJ to/TO 
+[ the/DT naked/JJ eye/NN ]
+./. 
+
+But/CC magnified/VBN ,/, 
+[ it/PRP ]
+resembles/VBZ 
+[ the/DT streets/NNS ]
+of/IN 
+[ New/NNP York/NNP City/NNP ]
+:/: 
+[ there/EX ]
+are/VBP 
+[ potholes/NNS ]
+and/CC bumps/NNS 
+[ all/DT ]
+over/RP ./. 
+
+``/`` 
+[ Current/JJ twin/NN edge/NN razors/NNS ]
+are/VBP like/IN 
+[ a/DT car/NN ]
+
+[ that/WDT ]
+does/VBZ n't/RB have/VB 
+[ springs/NNS ]
+or/CC 
+[ shock/NN absorbers/NNS ]
+,/, ''/'' explains/VBZ 
+[ a/DT research/NN ]
+and/CC 
+[ development/NN executive/NN ]
+at/IN 
+[ Gillette/NNP ]
+./. 
+
+``/`` 
+[ They/PRP ]
+hit/VBP 
+[ the/DT whiskers/NNS ]
+at/IN 
+[ different/JJ points/NNS ]
+,/, so/IN 
+[ they/PRP ]
+leave/VBP 
+[ different/JJ heights/NNS ]
+of/IN 
+[ whiskers/NNS ]
+./. 
+
+In/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ the/DT blades/NNS ]
+dig/VBP into/IN 
+[ skin/NN ]
+''/'' and/CC 
+[ cause/VBP irritation/NN ]
+./. 
+
+======================================
+
+[ Sensor/NNP addresses/VBZ ]
+
+[ this/DT ]
+with/IN 
+[ a/DT novel/JJ suspension/NN system/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ the/DT two/CD blades/NNS ]
+to/TO move/VB separately/RB ./. 
+
+[ Each/DT blade/NN ]
+has/VBZ 
+[ tiny/JJ springs/NNS ]
+soldered/VBN to/TO 
+[ it/PRP ]
+./. 
+
+Thus/RB ,/, 
+[ the/DT blades/NNS ]
+move/VBP up/RB ,/, down/RB and/CC sideways/RB with/IN 
+[ the/DT contour/NN ]
+of/IN 
+[ the/DT face/NN ]
+./. 
+
+[ Springs/NNS ]
+are/VBP attached/VBN to/TO 
+[ a/DT guard/NN ]
+below/IN 
+[ the/DT twin/JJ blades/NNS ]
+./. 
+
+Because/IN 
+[ some/DT shavers/NNS ]
+press/VB too/RB hard/JJ and/CC 
+[ some/DT ]
+not/RB hard/JJ enough/RB ,/, 
+[ this/DT feature/NN ]
+,/, ``/`` like/IN 
+[ automatic/JJ transmission/NN ]
+,/, will/MD help/VB to/TO automatically/RB adjust/VB 
+[ the/DT force/NN ]
+,/, ''/'' 
+[ the/DT executive/NN ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT two/CD blades/NNS ]
+are/VBP farther/RBR apart/RB ,/, allowing/VBG 
+[ easier/JJR cleaning/NN ]
+,/, and/CC 
+[ the/DT razor/NN ]
+has/VBZ 
+[ a/DT mechanism/NN ]
+making/VBG 
+[ it/PRP ]
+easier/RBR to/TO change/VB 
+[ cartridges/NNS ]
+./. 
+
+[ The/DT head/NN ]
+is/VBZ slightly/RB smaller/JJR than/IN that/DT of/IN 
+[ top-of-the-line/JJ Atra/NNP ]
+,/, so/IN 
+[ shavers/NNS ]
+will/MD have/VB to/TO buy/VB 
+[ new/JJ razors/NNS ]
+to/TO use/VB 
+[ Sensor/NNP blades/NNS ]
+./. 
+
+======================================
+
+To/TO test/VB 
+[ the/DT razor/NN ]
+,/, 
+[ Gillette/NNP ]
+has/VBZ asked/VBN 
+[ a/DT number/NN ]
+of/IN 
+[ employees/NNS ]
+to/TO come/VB in/IN early/RB 
+[ every/DT morning/NN ]
+and/CC shave/VB at/IN 
+[ the/DT factory/NN ]
+here/RB ./. 
+
+[ Researchers/NNS ]
+measure/VBP 
+[ their/PRP$ whiskers/NNS ]
+by/IN mounting/VBG 
+[ a/DT microscopic/JJ camera/NN ]
+on/IN 
+[ the/DT razor/NN ]
+
+[ that/WDT ]
+calibrates/VBZ 
+[ the/DT shadow/NN ]
+of/IN 
+[ the/DT stub/NN ]
+;/: 
+[ they/PRP ]
+also/RB collect/VBP 
+[ the/DT cut/VBN whiskers/NNS ]
+and/CC measure/VBP 
+[ them/PRP ]
+,/, using/VBG 
+[ a/DT microscope/NN ]
+./. 
+
+======================================
+
+[ A/DT prototype/NN ]
+for/IN 
+[ what/WP ]
+became/VBD 
+[ the/DT Sensor/NNP razor/NN ]
+was/VBD first/RB developed/VBN in/IN 
+[ 1979/CD ]
+./. 
+
+[ Gillette/NNP ]
+had/VBD hoped/VBN to/TO introduce/VB 
+[ the/DT new/JJ system/NN ]
+in/IN 
+[ 1984/CD ]
+or/CC 
+[ 1985/CD ]
+,/, but/CC 
+[ it/PRP ]
+could/MD n't/RB figure/VB out/RP how/WRB to/TO mass/NN produce/VB 
+[ the/DT cartridges/NNS ]
+./. 
+
+ (/( 
+[ The/DT long/JJ delay/NN ]
+raised/VBD 
+[ some/DT  eyebrows/NNS ]
+in/IN 
+[ the/DT company/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+only/RB took/VBD 
+[ five/CD years/NNS ]
+to/TO fight/VB 
+[ World/NNP War/NNP II/NNP ]
+,/, ''/'' 
+[ grouses/VBZ one/CD marketing/NN executive/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ The/DT biggest/JJS obstacle/NN ]
+was/VBD attaching/VBG 
+[ the/DT springs/NNS ]
+to/TO 
+[ the/DT blades/NNS ]
+on/IN 
+[ a/DT high-speed/JJ assembly/NN line/NN ]
+
+[ that/WDT ]
+makes/VBZ 
+[ 2/CD 1\/2/CD cartridges/NNS ]
+
+[ a/DT second/NN ]
+./. 
+
+[ No/DT commercial/JJ lasers/NNS ]
+could/MD operate/VB at/IN 
+[ the/DT speed/NN Gillette/NNP ]
+needed/VBD to/TO weld/VB 
+[ the/DT springs/NNS ]
+to/TO 
+[ the/DT blades/NNS ]
+,/, so/IN 
+[ the/DT company/NN ]
+had/VBD to/TO develop/VB 
+[ its/PRP$ own/JJ lasers/NNS ]
+./. 
+
+[ A/DT test/NN line/NN ]
+in/IN 
+[ 1986/CD ]
+indicated/VBD 
+[ its/PRP$ technology/NN ]
+was/VBD feasible/JJ ./. 
+
+[ Gillette/NNP ]
+spent/VBD 
+[ the/DT next/JJ two/CD years/NNS ]
+--/: and/CC 
+[ $/$ 150/CD million/CD ]
+--/: to/TO build/VB 
+[ manufacturing/NN equipment/NN ]
+for/IN 
+[ mass/NN production/NN ]
+./. 
+
+======================================
+
+Though/IN 
+[ competitors/NNS ]
+such/JJ as/IN 
+[ Wilkinson/NNP ]
+,/, 
+[ Bic/NNP ]
+and/CC 
+[ Schick/NNP ]
+may/MD get/VB to/TO license/VB 
+[ the/DT technology/NN ]
+in/IN 
+[ the/DT future/NN ]
+,/, 
+[ they/PRP ]
+may/MD be/VB hampered/VBN because/RB of/IN 
+[ the/DT high/JJ cost/NN ]
+and/CC 
+[ complexity/NN ]
+of/IN 
+[ setting/VBG ]
+up/RP manufacturing/NN 
+[ facilities/NNS ]
+./. 
+
+``/`` To/TO replicate/VB (/( 
+[ Sensor/NNP ]
+ )/) would/MD be/VB 
+[ a/DT pretty/RB tough/JJ undertaking/NN ]
+,/, ''/'' says/VBZ 
+[ one/CD Gillette/NNP source/NN ]
+./. 
+
+======================================
+
+[ Gillette/NNP figures/VBZ ] 
+that/DT 
+[ a/DT portion/NN ]
+of/IN 
+[ the/DT profits/NNS ]
+will/MD come/VB as/IN 
+[ shavers/NNS ]
+
+[ who/WP ]
+use/VBP 
+[ topof-the-line/JJ  Atra/NNP ]
+and/CC 
+[ Trac/NNP II/NNP razors/NNS ]
+trade/VBP up/RP to/TO 
+[ Sensor/NNP ]
+;/: 
+[ they/PRP ]
+obviously/RB are/VBP willing/JJ to/TO pay/VB 
+[ a/DT premium/NN ]
+for/IN 
+[ a/DT better/JJR shave/NN ]
+./. 
+
+[ Sensor/NNP ]
+might/MD win/VB 
+[ customers/NNS ]
+from/IN 
+[ rivals/NNS ]
+like/IN 
+[ Warner-Lambert/NNP Co./NNP 's/POS Schick/NNP division/NN ]
+,/, 
+[ Bic/NNP Corp./NNP ]
+and/CC 
+[ Swedish/NNP Match/NNP 's/POS Wilkinson/NNP Sword/NNP unit/NN ]
+./. 
+
+Since/IN 
+[ Gillette/NNP ]
+already/RB has/VBZ 
+[ a/DT huge/JJ market/NN share/NN ]
+,/, 
+[ further/JJ gains/NNS ]
+wo/MD n't/RB be/VB easy/JJ ./. 
+
+======================================
+
+So/IN 
+[ the/DT only/JJ way/NN ]
+to/TO increase/VB 
+[ profits/NNS ]
+substantially/RB is/VBZ to/TO get/VB 
+[ users/NNS ]
+of/IN 
+[ disposables/NNS ]
+to/TO switch/VB ./. 
+
+Can/MD 
+[ Sensor/NNP ]
+do/VB 
+[ it/PRP ]
+?/. 
+
+[ A/DT former/JJ Gillette/NNP shaving/NN executive/NN ]
+is/VBZ skeptical/JJ ./. 
+
+[ He/PRP ]
+asks/VBZ :/: If/IN 
+[ products/NNS ]
+such/JJ as/IN 
+[ Atra/NNP ]
+already/RB offer/VB 
+[ a/DT closer/JJR ]
+shave/NN ,/, yet/CC 
+[ they/PRP ]
+have/VBP n't/RB wooed/VBN 
+[ a/DT substantial/JJ number/NN ]
+away/RB from/IN 
+[ disposables/NNS ]
+,/, can/MD 
+[ Sensor/NNP ]
+,/, expecially/RB since/IN 
+[ its/PRP$ price/NN ]
+will/MD be/VB 
+[ 25/CD %/NN ]
+higher/JJR than/IN 
+[ Atra/NNP 's/POS ]
+?/. 
+
+======================================
+
+Yes/RB ,/, insists/VBZ 
+[ John/NNP W./NNP Symons/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Gillette/NNP 's/POS North/NNP Atlantic/NNP shaving/NN group/NN ]
+,/, 
+[ who/WP ]
+headed/VBD 
+[ Gillette/NNP 's/POS European/JJ business/NN ]
+in/IN 
+[ the/DT mid-1980s/NNS ]
+./. 
+
+Upset/VBN that/IN 
+[ disposables/NNS ]
+were/VBD making/VBG 
+[ razors/NNS ]
+
+[ a/DT commodity/NN business/NN ]
+in/IN 
+[ Europe/NNP ]
+,/, 
+[ Mr./NNP Symons/NNP ]
+mapped/VBD 
+[ a/DT counterattack/NN ]
+with/IN 
+[ cartridge/NN razors/NNS ]
+./. 
+
+At/IN 
+[ sales/JJ meetings/NNS ]
+,/, 
+[ he/PRP ]
+would/MD stand/VB up/RP with/IN 
+[ a/DT disposable/NN ]
+in/IN 
+[ one/CD hand/NN ]
+and/CC 
+[ a/DT metal/NN Atra/NNP razor/NN ]
+in/IN 
+[ the/DT other/JJ ]
+and/CC 
+[ demand/VB ]
+,/, ``/`` Are/VBP 
+[ you/PRP ]
+
+[ a/DT plastic/JJ man/NN ]
+or/CC 
+[ a/DT steel/NN man/NN ]
+?/. 
+
+''/'' 
+[ The/DT strategy/NN ]
+is/VBZ working/VBG ./. 
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ the/DT unit/NN market/NN share/NN ]
+of/IN 
+[ cartridges/NNS ]
+in/IN 
+[ Europe/NNP ]
+had/VBD risen/VBN to/TO 
+[ 36/CD %/NN ]
+from/IN 
+[ 33.8/CD %/NN ]
+in/IN 
+======================================
+
+[ Emboldened/JJ ]
+,/, 
+[ Gillette/NNP ]
+stopped/VBD advertising/VBG 
+[ disposables/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+Now/RB ,/, 
+[ it/PRP ]
+promotes/VBZ 
+[ its/PRP$ cartridges/NNS ]
+as/IN ``/`` 
+[ the/DT best/JJS a/DT man/NN ]
+can/MD get/VB ./. 
+
+''/'' In/IN 
+[ the/DT first/JJ six/CD months/NNS ]
+of/IN 
+[ this/DT year/NN ]
+,/, 
+[ cartridges/NNS ]
+captured/VBD 
+[ 33/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+,/, up/RB from/IN 
+[ an/DT all-time/JJ ]
+low/NN of/IN 
+[ 31.7/CD %/NN last/JJ year/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ 
+[ the/DT first/JJ time/NN share/NN ]
+has/VBZ grown/VBN since/IN 
+[ disposables/NNS ]
+were/VBD launched/VBN in/IN 
+[ the/DT mid-1970s/NNS ]
+,/, ''/'' 
+[ Mr./NNP Symons/NNP chortles/VBZ ]
+./. 

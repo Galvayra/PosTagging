@@ -1,0 +1,230 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Scientists/NNS ]
+found/VBD 
+[ hints/NNS ]
+that/IN 
+[ a/DT gene/NN ]
+already/RB linked/VBN to/TO 
+[ colon/NN cancer/NN ]
+may/MD also/RB be/VB involved/VBN in/IN 
+[ lung/NN cancer/NN ]
+./. 
+
+======================================
+
+[ The/DT gene/NN ]
+,/, when/WRB 
+[ it/PRP ]
+functions/VBZ normally/RB ,/, is/VBZ believed/VBN to/TO suppress/VB 
+[ abnormal/JJ cell/NN growth/NN ]
+./. 
+
+But/CC as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ research/NN ]
+published/VBN in/IN 
+[ April/NNP ]
+,/, 
+[ scientists/NNS ]
+believe/VBP that/IN when/WRB 
+[ the/DT gene/NN ]
+mutates/VBZ ,/, 
+[ it/PRP ]
+allows/VBZ 
+[ cells/NNS ]
+to/TO grow/VB aberrantly/RB into/IN 
+[ a/DT malignancy/NN ]
+./. 
+
+Since/IN 
+[ April/NNP ]
+,/, 
+[ several/JJ teams/NNS ]
+have/VBP been/VBN searching/VBG in/IN 
+[ other/JJ cancers/NNS ]
+for/IN 
+[ the/DT gene/NN ]
+,/, known/VBN as/IN 
+[ p53/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ a/DT symposium/NN ]
+funded/VBN by/IN 
+[ Bristol-Myers/NNP Co./NNP ]
+in/IN 
+[ Toronto/NNP ]
+,/, 
+[ a/DT researcher/NN ]
+from/IN 
+[ the/DT U.S./NNP government/NN 's/POS National/NNP Cancer/NNP Institute/NNP ]
+said/VBD 
+[ he/PRP ]
+found/VBD 
+[ evidence/NN ]
+of/IN 
+[ mutated/VBN forms/NNS ]
+of/IN 
+[ the/DT p53/NN gene/NN ]
+in/IN 
+[ studies/NNS ]
+of/IN 
+[ lung/NN cancer/NN tissue/NN ]
+./. 
+
+[ The/DT researcher/NN ]
+,/, 
+[ John/NNP Minna/NNP ]
+,/, has/VBZ yet/RB to/TO publish/VB 
+[ the/DT findings/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD that/IN 
+[ he/PRP ]
+expected/VBD 
+[ the/DT defective/JJ gene/NN ]
+to/TO be/VB 
+[ one/CD ]
+of/IN 
+[ 10/CD ]
+to/TO 
+[ 20/CD genetic/JJ abnormalities/NNS ]
+
+[ that/WDT ]
+must/MD accumulate/VB to/TO trigger/VB and/CC then/RB spread/VB 
+[ a/DT malignancy/NN ]
+in/IN 
+[ the/DT lung/NN ]
+./. 
+
+======================================
+
+[ Researchers/NNS ]
+hope/VBP 
+[ that/DT discovery/NN ]
+of/IN 
+[ the/DT p53/NN gene/NN ]
+will/MD eventually/RB lead/VB to/TO 
+[ diagnostic/JJ tests/NNS ]
+
+[ that/WDT ]
+would/MD identify/VB 
+[ who/WP ]
+is/VBZ at/IN 
+[ risk/NN ]
+of/IN developing/VBG 
+[ certain/JJ cancers/NNS ]
+./. 
+
+Eventually/RB ,/, 
+[ scientists/NNS ]
+also/RB hope/VBP to/TO use/VB 
+[ the/DT gene/NN ]
+to/TO develop/VB 
+[ ways/NNS ]
+of/IN slowing/VBG or/CC perhaps/RB blocking/VBG 
+[ a/DT cancer/NN 's/POS growth/NN ]
+./. 
+
+======================================
+
+[ The/DT p53/CD gene/NN ]
+was/VBD first/RB identified/VBN earlier/RB 
+[ this/DT year/NN ]
+by/IN 
+[ Bert/NNP Vogelstein/NNP ]
+,/, 
+[ a/DT researcher/NN ]
+at/IN 
+[ Johns/NNP Hopkins/NNP University/NNP ]
+./. 
+
+[ Dr./NNP Vogelstein/NNP ]
+believes/VBZ 
+[ p53/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN about/IN 
+[ four/CD ]
+to/TO 
+[ six/CD genes/NNS ]
+
+[ that/WDT ]
+are/VBP involved/VBN in/IN turning/VBG 
+[ healthy/JJ colon/NN tissue/NN ]
+cancerous/JJ ./. 
+
+[ His/PRP$ research/NN ]
+suggests/VBZ that/IN 
+[ the/DT p53/NN gene/NN ]
+is/VBZ somehow/RB damaged/VBN ,/, perhaps/RB by/IN 
+[ a/DT carcinogen/NN ]
+,/, and/CC becomes/VBZ deactivated/VBN ./. 
+
+[ Some/DT people/NNS ]
+may/MD inherit/VB 
+[ the/DT gene/NN ]
+in/IN 
+[ a/DT damaged/VBN form/NN ]
+,/, thus/RB predisposing/VBG 
+[ them/PRP ]
+to/TO 
+[ a/DT cancer/NN ]
+./. 
+
+======================================
+
+[ Several/JJ teams/NNS ]
+are/VBP also/RB searching/VBG for/IN 
+[ the/DT gene/NN ]
+in/IN 
+[ cancers/NNS ]
+of/IN 
+[ the/DT breast/NN ]
+,/, 
+[ bladder/NN ]
+and/CC 
+[ other/JJ organs/NNS ]
+./. 
+
+[ The/DT gene/NN ]
+is/VBZ 
+[ the/DT second/NN ]
+of/IN 
+[ the/DT ]
+newly/RB identified/VBN 
+[ class/NN ]
+of/IN 
+[ cancer/NN genes/NNS ]
+called/VBN 
+[ tumor/NN suppressors/NNS ]
+./. 
+
+[ The/DT first/JJ ]
+,/, discovered/VBN in/IN 
+[ 1986/CD ]
+,/, causes/VBZ 
+[ a/DT rare/JJ eye/NN cancer/NN ]
+called/VBN 
+[ retinoblastoma/NN ]
+./. 

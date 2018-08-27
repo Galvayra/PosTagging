@@ -1,0 +1,317 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Coca-Cola/NNP Co./NNP ]
+said/VBD 
+[ third-quarter/JJ earnings/NNS ]
+jumped/VBD 
+[ 22/CD %/NN ]
+,/, as/IN 
+[ a/DT surge/NN ]
+in/IN 
+[ international/JJ sales/NNS ]
+made/VBD up/RP for/IN 
+[ disappointing/JJ domestic/JJ results/NNS ]
+./. 
+
+======================================
+
+[ The/DT giant/JJ soft-drink/NN company/NN ]
+posted/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 361.3/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.03/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB from/IN 
+[ $/$ 295.6/CD million/CD ]
+,/, or/CC 
+[ 81/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+[ The/DT most/RBS recent/JJ quarter/NN ]
+included/VBD 
+[ a/DT gain/NN ]
+of/IN 
+[ $/$ 36/CD million/CD ]
+,/, or/CC 
+[ 10/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ bottled-water/JJ operations/NNS ]
+./. 
+
+======================================
+
+[ Revenue/NN ]
+rose/VBD 
+[ 8.2/CD %/NN ]
+to/TO 
+[ $/$ 2.30/CD billion/CD ]
+from/IN 
+[ $/$ 2.13/CD billion/CD ]
+
+[ a/DT year/NN ]
+earlier/RBR ,/, due/RB largely/RB to/TO 
+[ a/DT 14/CD %/NN jump/NN ]
+in/IN 
+[ international/JJ volume/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Overseas/JJ operations/NNS ]
+are/VBP 
+[ the/DT bread/NN ]
+and/CC 
+[ butter/NN ]
+of/IN 
+[ Coca-Cola/NNP ]
+,/, and/CC 
+[ those/DT ]
+performed/VBD well/RB ,/, ''/'' said/VBD 
+[ Emanuel/NNP Goldman/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ PaineWebber/NNP ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ He/PRP ]
+noted/VBD that/IN about/RB 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT company/NN 's/POS earnings/NNS ]
+come/VBP from/IN 
+[ international/JJ operations/NNS ]
+./. 
+
+======================================
+
+[ The/DT 14/CD %/NN increase/NN ]
+in/IN 
+[ international/JJ gallon/NN sales/NNS ]
+well/RB exceeded/VBD 
+[ the/DT 8/CD %/NN ]
+to/TO 
+[ 10/CD %/NN goal/NN ]
+
+[ the/DT company/NN ]
+had/VBD set/VBN ./. 
+
+``/`` 
+[ A/DT 14/CD %/NN increase/NN ]
+on/IN 
+[ top/NN ]
+of/IN 
+[ a/DT very/RB big/JJ base/NN ]
+is/VBZ 
+[ a/DT very/RB strong/JJ performance/NN ]
+,/, ''/'' said/VBD 
+[ Randy/NNP Donaldson/NNP ]
+,/, 
+[ a/DT Coke/NNP spokesman/NN ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+said/VBD 
+[ a/DT variety/NN ]
+of/IN 
+[ factors/NNS ]
+,/, including/VBG 
+[ promotional/JJ activities/NNS ]
+and/CC 
+[ the/DT rollout/NN ]
+of/IN 
+[ new/JJ products/NNS ]
+--/: including/VBG 
+[ Sprite/NNP ]
+in/IN 
+[ Britain/NNP ]
+--/: contributed/VBD to/TO 
+[ the/DT strong/JJ growth/NN ]
+in/IN 
+[ most/JJS overseas/JJ markets/NNS ]
+./. 
+
+[ Unit/NN volume/NN ]
+in/IN 
+[ Europe/NNP ]
+showed/VBD 
+[ a/DT strong/JJ 17/CD %/NN growth/NN ]
+,/, while/IN 
+[ Japan/NNP ]
+,/, 
+[ another/DT major/JJ market/NN ]
+,/, showed/VBD 
+[ an/DT increase/NN ]
+of/IN 
+[ 10/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT ]
+firming/NN of/IN 
+[ the/DT dollar/NN ]
+against/IN 
+[ foreign/JJ currencies/NNS ]
+had/VBD 
+[ a/DT small/JJ effect/NN ]
+of/IN reducing/VBG 
+[ net/JJ income/NN ]
+by/IN about/RB 
+[ one/CD cent/NN ]
+in/IN 
+[ the/DT quarter/NN ]
+and/CC 
+[ five/CD cents/NNS ]
+for/IN 
+[ the/DT nine/CD months/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ contrast/NN ]
+to/TO 
+[ the/DT performance/NN ]
+overseas/RB ,/, 
+[ domestic/JJ unit/NN case/NN sales/NNS ]
+were/VBD flat/JJ in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, and/CC 
+[ sales/NNS ]
+of/IN 
+[ gallons/NNS ]
+of/IN 
+[ concentrate/NN ]
+dropped/VBD 
+[ 2/CD %/NN ]
+./. 
+
+[ The/DT company/NN ]
+attributed/VBD 
+[ the/DT results/NNS ]
+to/TO 
+[ consumers/NNS ]
+balking/VBG at/IN 
+[ higher/JJR prices/NNS ]
+and/CC 
+[ sluggish/JJ times/NNS ]
+in/IN 
+[ the/DT restaurant/NN business/NN ]
+./. 
+
+[ Domestic/JJ results/NNS ]
+``/`` are/VBP modestly/RB 
+[ disappointing/JJ ]
+,/, ''/'' said/VBD 
+[ George/NNP Thompson/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Prudential-Bache/NNP Securities/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ an/DT ]
+unusually/RB 
+[ rainy/JJ summer/NN ]
+in/IN 
+[ many/JJ parts/NNS ]
+of/IN 
+[ the/DT U.S./NNP ]
+also/RB hurt/VBD 
+[ sales/NNS ]
+./. 
+
+======================================
+
+[ Coca-Cola/NNP ]
+said/VBD 
+[ chilled/VBN orange-juice/NN volume/NN ]
+rose/VBD 
+[ 25/CD %/NN ]
+in/IN 
+[ the/DT quarter/NN ]
+due/JJ to/TO 
+[ growth/NN ]
+of/IN 
+[ its/PRP$ Minute/NNP Maid/NNP Premium/NNP Choice/NNP orange/NN juice/NN ]
+and/CC 
+[ a/DT new/JJ 96-ounce/CD plastic/NN bottle/NN ]
+for/IN 
+[ its/PRP$ chilled/JJ orange/NN juice/NN ]
+
+[ that/WDT ]
+comes/VBZ from/IN 
+[ concentrate/NN ]
+./. 
+
+However/RB ,/, frozen/VBN 
+[ orange-juice/NN volume/NN ]
+plummeted/VBD 
+[ 33/CD %/NN ]
+as/IN 
+[ consumers/NNS ]
+continue/VBP to/TO shift/VB to/TO 
+[ the/DT chilled/VBN juice/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Coca-Cola/NNP ]
+reported/VBD 
+[ net/JJ income/NN ]
+rose/VBD 
+[ 19/CD %/NN ]
+to/TO 
+[ $/$ 966.6/CD million/CD ]
+from/IN 
+[ $/$ 809.2/CD million/CD last/JJ year/NN ]
+,/, while/IN 
+[ revenue/NN ]
+increased/VBD 
+[ 6.4/CD %/NN ]
+for/IN 
+[ the/DT nine/CD months/NNS ]
+to/TO 
+[ $/$ 6.72/CD billion/CD ]
+from/IN 
+[ $/$ 6.31/CD billion/CD ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 

@@ -1,0 +1,546 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+After/IN 
+[ a/DT two-year/JJ boom/NN ]
+,/, 
+[ the/DT European/JJ steel/NN industry/NN ]
+is/VBZ facing/VBG up/IN to/TO 
+[ a/DT slight/JJ softening/NN ]
+in/IN 
+[ local/JJ demand/NN ]
+and/CC potentially/RB 
+[ weaker/JJR prices/NNS ]
+,/, focusing/VBG 
+[ attention/NN ]
+on/IN 
+[ tactics/NNS ]
+needed/VBN to/TO absorb/VB 
+[ the/DT expected/JJ downturn/NN ]
+./. 
+
+======================================
+
+[ Those/DT tactics/NNS ]
+are/VBP likely/JJ to/TO involve/VB 
+[ a/DT fine-tuning/NN ]
+of/IN 
+[ strategies/NNS ]
+already/RB in/IN 
+[ place/NN ]
+,/, rather/RB than/IN 
+[ the/DT big/JJ restructurings/NNS ]
+many/JJ of/IN 
+[ Europe/NNP 's/POS giant/JJ steelmakers/NNS ]
+engaged/VBD in/IN during/IN 
+[ the/DT leaner/JJR years/NNS ]
+of/IN 
+[ the/DT past/JJ decade/NN ]
+./. 
+
+======================================
+
+Reflecting/VBG 
+[ this/DT ]
+,/, 
+[ executives/NNS ]
+attending/VBG 
+[ this/DT week/NN 's/POS world/NN steel/NN industry/NN conference/NN ]
+in/IN 
+[ West/NNP Berlin/NNP ]
+see/VBP 
+[ their/PRP$ companies/NNS ]
+moving/VBG cautiously/RB into/IN 
+[ joint/JJ ventures/NNS ]
+and/CC 
+[ acquisitions/NNS ]
+to/TO help/VB fill/VB 
+[ specialty/NN market/NN niches/NNS ]
+./. 
+
+======================================
+
+[ European/JJ steelmakers/NNS ]
+say/VBP 
+[ their/PRP$ approach/NN ]
+to/TO 
+[ the/DT removal/NN ]
+of/IN 
+[ internal/JJ European/NNP Community/NNP trade/NN barriers/NNS ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ 1992/CD ]
+will/MD be/VB less/RBR flamboyant/JJ than/IN 
+[ those/DT ]
+seen/VBN elsewhere/RB ,/, notably/RB banking/NN ,/, 
+[ insurance/NN ]
+and/CC 
+[ food/NN retailing/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'ve/VBP carried/VBN out/RP 
+[ a/DT major/JJ ]
+restructuring/NN and/CC turned/VBN 
+[ the/DT group/NN ]
+around/RP ,/, ''/'' said/VBD 
+[ Robert/NNP Scholey/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ British/NNP Steel/NNP PLC/NNP ]
+./. 
+
+``/`` Now/RB 
+[ we/PRP ]
+are/VBP concentrating/VBG on/IN developing/VBG 
+[ our/PRP$ markets/NNS ]
+and/CC 
+[ products/NNS ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT past/JJ two/CD years/NNS steel/NN demand/NN ]
+in/IN 
+[ Europe/NNP ]
+has/VBZ soared/VBN ,/, helping/VBG convert/VB 
+[ some/DT ]
+of/IN 
+[ Europe/NNP 's/POS feeblest/JJS steelmakers/NNS ]
+into/IN 
+[ profit-making/JJ concerns/NNS ]
+./. 
+
+[ Steel/NN ]
+,/, once/RB 
+[ the/DT scourge/NN ]
+of/IN 
+[ investment/NN analysts/NNS ]
+,/, has/VBZ enjoyed/VBN 
+[ a/DT temporary/JJ place/NN ]
+in/IN 
+[ the/DT limelight/NN ]
+,/, with/IN 
+[ lively/JJ demand/NN ]
+from/IN 
+[ the/DT construction/NN ]
+and/CC 
+[ automobile/NN industries/NNS ]
+underpinning/VBG 
+[ the/DT surge/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ steel/NN consumption/NN ]
+in/IN 
+[ both/DT ]
+
+[ industries/NNS ]
+has/VBZ 
+[ peaked/JJ ]
+,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+[ The/DT downturn/NN ]
+will/MD force/VB 
+[ steelmakers/NNS ]
+to/TO accelerate/VB 
+[ their/PRP$ efforts/NNS ]
+to/TO improve/VB 
+[ margins/NNS ]
+by/IN improving/VBG 
+[ the/DT quality/NN ]
+and/CC 
+[ range/NN ]
+of/IN 
+[ products/NNS ]
+./. 
+
+As/IN 
+[ this/DT ]
+involves/VBZ 
+[ considerable/JJ capital/NN expenditure/NN ]
+,/, 
+[ the/DT advantage/NN ]
+will/MD go/VB increasingly/RB to/TO 
+[ the/DT companies/NNS ]
+with/IN 
+[ the/DT strongest/JJS balance/NN sheets/NNS ]
+./. 
+
+======================================
+
+[ The/DT International/NNP Iron/NNP ]
+&/CC 
+[ Steel/NNP Institute/NNP ]
+forecast/VBD that/IN 
+[ EC/NNP steel/NN consumption/NN ]
+,/, while/IN on/IN 
+[ a/DT slight/JJ uptrend/NN ]
+in/IN 
+[ 1989/CD ]
+compared/VBN with/IN 
+[ 1988/CD ]
+,/, would/MD slip/VB around/IN 
+[ 2.8/CD %/NN ]
+to/TO 
+[ 120/CD million/CD tons/NNS ]
+in/IN 
+======================================
+
+Though/IN 
+[ the/DT drop/NN ]
+is/VBZ n't/RB steep/JJ enough/RB to/TO be/VB called/VBN 
+[ a/DT slump/NN ]
+,/, 
+[ analysts/NNS ]
+say/VBP 
+[ the/DT hidden/JJ danger/NN ]
+is/VBZ that/IN 
+[ a/DT small/JJ retreat/NN ]
+in/IN 
+[ consumption/NN ]
+could/MD trigger/VB 
+[ a/DT nasty/JJ price/NN war/NN ]
+./. 
+
+Because/IN 
+[ steel/NN ]
+and/CC 
+[ its/PRP$ raw/JJ components/NNS ]
+trade/VBP like/IN 
+[ commodities/NNS ]
+,/, 
+[ fluctuations/NNS ]
+in/IN 
+[ prices/NNS ]
+could/MD be/VB severe/JJ ./. 
+
+======================================
+
+[ Prices/NNS ]
+of/IN 
+[ some/DT products/NNS ]
+,/, such/JJ as/IN 
+[ the/DT ]
+previously/RB 
+[ buoyant/JJ stainless/JJ steel/NN market/NN ]
+,/, already/RB show/VB 
+[ signs/NNS ]
+of/IN wilting/VBG ,/, with/IN 
+[ several/JJ European/JJ steelmakers/NNS ]
+expecting/VBG 
+[ declines/NNS ]
+as/RB great/JJ as/IN 
+[ 10/CD %/NN ]
+./. 
+
+======================================
+
+[ British/NNP Steel/NNP ]
+recently/RB closed/VBD 
+[ its/PRP$ stainless/JJ steel/NN division/NN ]
+for/IN 
+[ several/JJ days/NNS ]
+,/, indicating/VBG 
+[ slackening/VBG demand/NN ]
+from/IN 
+[ the/DT stock/NN holding/NN sector/NN ]
+./. 
+
+[ West/JJ German/JJ steel/NN group/NN Thyssen/NNP AG/NNP last/JJ month/NN ]
+cut/VBD 
+[ overtime/JJ work/NN ]
+at/IN 
+[ its/PRP$ stainless/JJ steel/NN unit/NN ]
+./. 
+
+======================================
+
+[ A/DT number/NN ]
+of/IN 
+[ other/JJ core/JJ products/NNS ]
+,/, such/JJ as/IN 
+[ galvanized/JJ ]
+ (/( reinforced/JJ )/) 
+[ coil/NN ]
+,/, and/CC 
+[ flat/JJ steel/NN products/NNS ]
+have/VBP also/RB seen/VBN 
+[ a/DT weakening/NN ]
+in/IN 
+[ demand/NN ]
+,/, 
+[ some/DT European/JJ companies/NNS ]
+say/VBP ./. 
+
+======================================
+
+Indeed/RB ,/, 
+[ British/NNP Steel/NNP 's/POS Mr./NNP Scholey/NNP ]
+said/VBD 
+[ U.K./NNP steel/NN demand/NN ]
+``/`` showed/VBD 
+[ signs/NNS ]
+of/IN cooling/VBG ./. 
+
+''/'' 
+[ Italy/NNP 's/POS state-owned/JJ Ilva/NNP S.p/NNP ]
+./. 
+
+[ A./NNP ]
+said/VBD 
+[ last/JJ month/NN ]
+
+[ it/PRP ]
+expects/VBZ 
+[ a/DT 14.4/CD %/NN decline/NN ]
+in/IN 
+[ domestic/JJ steel/NN demand/NN ]
+up/IN to/TO 
+[ 1992/CD ]
+./. 
+
+======================================
+
+[ Some/DT analysts/NNS ]
+,/, however/RB ,/, are/VBP confident/JJ that/IN 
+[ demand/NN ]
+for/IN 
+[ steel/NN ]
+will/MD remain/VB fairly/RB stable/JJ in/IN 
+[ the/DT run-up/NN ]
+to/TO 
+[ 1992/CD ]
+./. 
+
+[ Peter/NNP Fish/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ steel/NN analysis/NN group/NN Meps/NNP ]
+ (/( 
+[ Europe/NNP ]
+ )/) 
+[ Ltd./NNP ]
+,/, sees/VBZ 
+[ a/DT period/NN ]
+of/IN 
+[ quiet/JJ equilibrium/NN ]
+ahead/RB ./. 
+
+[ He/PRP ]
+reckons/VBZ 
+[ Europe/NNP 's/POS ]
+``/`` 
+[ pent-up/JJ need/NN ]
+for/IN 
+[ a/DT stronger/JJR infrastructure/NN ]
+''/'' will/MD serve/VB to/TO underpin/VB 
+[ demand/NN ]
+./. 
+
+In/IN 
+[ support/NN ]
+,/, 
+[ Mr./NNP Fish/NNP ]
+cites/VBZ 
+[ plans/NNS ]
+for/IN 
+[ a/DT high-speed/JJ pan-European/JJ rail/NN network/NN ]
+,/, updated/JJ 
+[ subway/NN systems/NNS ]
+,/, and/CC 
+[ new/JJ airport/NN developments/NNS ]
+./. 
+
+======================================
+
+If/IN and/CC when/WRB 
+[ the/DT slowdown/NN ]
+does/VBZ 
+[ bite/VB ]
+,/, 
+[ Europe/NNP 's/POS steelmakers/NNS ]
+will/MD find/VB 
+[ themselves/PRP ]
+in/IN relatively/RB 
+[ uncharted/JJ waters/NNS ]
+./. 
+
+[ The/DT ]
+previously/RB 
+[ protective/JJ hand/NN ]
+of/IN 
+[ the/DT EC/NNP ]
+has/VBZ now/RB been/VBN withdrawn/VBN ./. 
+
+======================================
+
+Before/IN 
+[ July/NNP 1988/CD ]
+,/, 
+[ the/DT EC/NNP ]
+operated/VBD 
+[ quota/NN arrangements/NNS ]
+
+[ that/WDT ]
+set/VBP 
+[ limits/NNS ]
+on/IN 
+[ company/NN production/NN ]
+,/, thereby/RB helping/VBG to/TO avert/VB 
+[ a/DT price/NN war/NN ]
+during/IN 
+[ a/DT market/NN downturn/NN ]
+./. 
+
+Under/IN 
+[ new/JJ EC/NNP guidelines/NNS ]
+,/, 
+[ quota/NN measures/NNS ]
+would/MD only/RB be/VB reintroduced/VBN in/IN 
+[ the/DT event/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ manifest/JJ crisis/NN ]
+./. 
+
+''/'' 
+======================================
+
+Against/IN 
+[ this/DT uncertain/JJ background/NN ]
+,/, 
+[ Europe/NNP 's/POS steelmakers/NNS ]
+are/VBP readying/VBG for/IN 
+[ 1992/CD ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'ll/MD see/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ joint/JJ ventures/NNS ]
+across/IN 
+[ borders/NNS ]
+in/IN coming/VBG 
+[ years/NNS ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ unlikely/JJ 
+[ there/EX ]
+will/MD be/VB 
+[ any/DT major/JJ acquisitions/NNS ]
+of/IN 
+[ steel/NN producers/NNS ]
+,/, ''/'' says/VBZ 
+[ analyst/NN Jim/NNP Lennon/NNP ]
+of/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP International/NNP ]
+in/IN 
+[ London/NNP ]
+./. 
+
+======================================
+
+[ British/NNP Steel/NNP ]
+announced/VBD 
+[ Thursday/NNP ]
+that/IN 
+[ it/PRP ]
+is/VBZ buying/VBG 
+[ C./NNP Walker/NNP ]
+&/CC 
+[ Sons/NNP ]
+ (/( 
+[ Holdings/NNS ]
+ )/) 
+[ Ltd/NN ]
+,/, 
+[ a/DT U.K./NNP steel-stock/NN holder/NN ]
+,/, for/IN 
+[ #/# 330/CD million/CD ]
+ (/( 
+[ $/$ 532/CD millilon/NN ]
+ )/) ,/, to/TO help/VB improve/VB 
+[ its/PRP$ distribution/NN network/NN ]
+for/IN 
+[ finished/JJ products/NNS ]
+and/CC complement/VB 
+[ its/PRP$ existing/JJ stock/NN ]
+holding/NN 
+[ operations/NNS ]
+in/IN 
+[ the/DT U.K./NNP ]
+,/, 
+[ Continental/NNP Europe/NNP ]
+and/CC 
+[ North/NNP America/NNP ]
+./. 
+
+======================================
+
+More/RBR adventurously/RB ,/, 
+[ Salzgitter/NNP AG/NNP ]
+,/, 
+[ the/DT state-owned/JJ West/JJ German/JJ steelmaker/NN ]
+
+[ that/WDT ]
+is/VBZ being/VBG sold/VBN to/TO 
+[ West/JJ German/JJ metals/NNS ]
+,/, 
+[ energy/NN ]
+and/CC 
+[ trading/NN concern/NN Preussag/NNP AG/NNP ]
+,/, is/VBZ looking/VBG to/TO 
+[ the/DT Eastern/JJ bloc/NN ]
+to/TO strengthen/VB 
+[ business/NN ]
+./. 
+
+At/IN 
+[ the/DT recent/JJ Leipzig/NNP trade/NN ]
+fair/NN 
+[ the/DT company/NN ]
+signed/VBD 
+[ an/DT agreement/NN ]
+with/IN 
+[ the/DT East/JJ German/JJ government/NN ]
+on/IN 
+[ a/DT long-term/JJ trading/NN pact/NN ]
+./. 
+
+Currently/RB ,/, around/IN 
+[ 20/CD %/NN ]
+of/IN 
+[ Salzgitter/NNP 's/POS sales/NNS ]
+are/VBP from/IN 
+[ the/DT Eastern/JJ bloc/NN ]
+./. 

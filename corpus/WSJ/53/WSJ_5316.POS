@@ -1,0 +1,480 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Japanese/JJ government/NN ]
+and/CC 
+[ the/DT country/NN 's/POS second-largest/JJ auto/NN maker/NN ]
+,/, acting/VBG separately/RB ,/, announced/VBD 
+[ plans/NNS they/PRP ]
+said/VBD were/VBD intended/VBN to/TO reduce/VB 
+[ trade/NN frictions/NNS ]
+./. 
+
+======================================
+
+[ Japan/NNP 's/POS Ministry/NNP ]
+of/IN 
+[ International/NNP Trade/NNP ]
+and/CC 
+[ Industry/NNP ]
+,/, or/CC 
+[ MITI/NNP ]
+,/, said/VBD 
+[ it/PRP ]
+is/VBZ stepping/VBG up/RP 
+[ talks/NNS ]
+on/IN 
+[ a/DT new/JJ tax/NN incentive/NN ]
+to/TO encourage/VB 
+[ the/DT importation/NN ]
+of/IN 
+[ manufactured/JJ products/NNS ]
+./. 
+
+And/CC 
+[ Nissan/NNP Motor/NNP Co./NNP ]
+,/, reacting/VBG to/TO 
+[ foreign/JJ pressure/NN ]
+on/IN 
+[ Japanese/JJ auto/NN makers/NNS ]
+,/, said/VBD 
+[ it/PRP ]
+plans/VBZ to/TO slash/VB 
+[ annual/JJ vehicle/NN exports/NNS ]
+in/IN 
+[ half/NN ]
+by/IN 
+[ the/DT late/JJ 1990s/NNS ]
+./. 
+
+[ Japan/NNP 's/POS auto/NN makers/NNS ]
+have/VBP frequently/RB said/VBD 
+[ they/PRP ]
+expect/VBP to/TO trim/VB 
+[ exports/NNS ]
+,/, mainly/RB by/IN manufacturing/VBG abroad/RB ,/, but/CC 
+[ Nissan/NNP 's/POS announcement/NN ]
+made/VBD 
+[ it/PRP ]
+
+[ the/DT first/JJ ]
+to/TO declare/VB 
+[ a/DT specific/JJ target/NN ]
+./. 
+
+======================================
+
+[ MITI/NNP officials/NNS ]
+explained/VBD 
+[ their/PRP$ import-incentive/JJ tax/NN plan/NN ]
+to/TO 
+[ the/DT foreign/JJ press/NN yesterday/NN ]
+and/CC said/VBD 
+[ they/PRP ]
+would/MD begin/VB 
+[ talks/NNS ]
+with/IN 
+[ the/DT Ministry/NNP ]
+of/IN 
+[ Finance/NNP ]
+./. 
+
+[ Specifics/NNS ]
+of/IN 
+[ the/DT tax/NN ]
+have/VBP n't/RB been/VBN decided/VBN ./. 
+
+If/IN 
+[ the/DT idea/NN ]
+is/VBZ agreed/VBN upon/IN ,/, 
+[ it/PRP ]
+might/MD be/VB proposed/VBN to/TO 
+[ the/DT Diet/NNP ]
+,/, 
+[ Japan/NNP 's/POS parliament/NN ]
+,/, as/RB early/RB as/IN 
+[ next/JJ February/NNP ]
+,/, said/VBD 
+[ Yuzuru/NNP Hatakeyama/NNP ]
+,/, 
+[ director/NN general/NN ]
+of/IN 
+[ MITI/NNP 's/POS International/NNP Trade/NNP Policy/NNP bureau/NN ]
+./. 
+
+======================================
+
+[ MITI/NNP ]
+is/VBZ under/IN 
+[ pressure/NN ]
+to/TO take/VB 
+[ action/NN ]
+because/IN 
+[ the/DT trade/NN imbalance/NN ]
+with/IN 
+[ the/DT U.S./NNP ]
+is/VBZ hovering/VBG at/IN about/RB   
+[ $/$ 50/CD billion/CD ]
+and/CC 
+[ the/DT rate/NN ]
+of/IN 
+[ growth/NN ]
+of/IN 
+[ Japan/NNP 's/POS imports/NNS ]
+of/IN 
+[ manufactured/JJ goods/NNS ]
+is/VBZ slowing/VBG ./. 
+
+Manufactured/JJ 
+[ imports/NNS ]
+from/IN 
+[ the/DT U.S./NNP ]
+increased/VBD by/IN 
+[ 33.2/CD %/NN ]
+in/IN 
+[ 1988/CD ]
+over/IN 
+[ the/DT previous/JJ year/NN ]
+to/TO 
+[ $/$ 23.5/CD billion/CD ]
+./. 
+
+In/IN 
+[ the/DT first/JJ eight/CD months/NNS ]
+of/IN 
+[ this/DT year/NN ]
+
+[ they/PRP ]
+increased/VBD by/IN less/RBR than/IN 
+[ 20/CD %/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ the/DT U.S./NNP Commerce/NNP Department/NNP ]
+is/VBZ pushing/VBG for/IN ``/`` 
+[ measurable/JJ results/NNS ]
+''/'' on/IN 
+[ the/DT trade/NN deficit/NN ]
+./. 
+
+[ Recent/JJ U.S.-Japan/JJ trade/NN talks/NNS ]
+seek/VBP to/TO change/VB deeply/RB rooted/VBN 
+[ business/NN practices/NNS ]
+in/IN 
+[ both/DT ]
+
+[ countries/NNS ]
+,/, but/CC 
+[ few/JJ experts/NNS ]
+expect/VBP 
+[ them/PRP ]
+to/TO yield/VB 
+[ rapid/JJ results/NNS ]
+./. 
+
+[ One/CD ]
+of/IN 
+[ the/DT easiest/JJS items/NNS ]
+on/IN 
+[ the/DT agenda/NN ]
+is/VBZ increasing/VBG 
+[ imports/NNS ]
+to/TO 
+[ Japan/NNP ]
+,/, where/WRB 
+[ an/DT incentive/NN tax/NN ]
+could/MD help/VB ./. 
+
+[ The/DT import/NN tax/NN initiative/NN faces/VBZ hitches/NNS ]
+./. 
+
+[ The/DT Finance/NNP Ministry/NNP ]
+could/MD balk/VB because/IN 
+[ it/PRP ]
+would/MD reduce/VB 
+[ government/NN revenue/NN ]
+./. 
+
+Also/RB ,/, 
+[ the/DT tax/NN ]
+probably/RB would/MD require/VB 
+[ legislative/JJ action/NN ]
+;/: but/CC 
+[ it/PRP ]
+could/MD get/VB lost/VBN in/IN 
+[ the/DT tumult/NN ]
+as/IN 
+[ the/DT Diet/NNP ]
+debates/VBZ 
+[ a/DT controversial/JJ consumption/NN tax/NN ]
+
+[ that/WDT ]
+was/VBD imposed/VBN in/IN 
+[ April/NNP ]
+./. 
+
+======================================
+
+[ Some/DT ruling/JJ party/NN politicians/NNS ]
+favor/VBP 
+[ more/RBR drastic/JJ action/NN ]
+to/TO cut/VB 
+[ the/DT trade/NN imbalance/NN ]
+,/, such/JJ as/IN imposing/VBG 
+[ an/DT export/NN surcharge/NN ]
+./. 
+
+[ MITI/NNP 's/POS Mr./NNP Hatakeyama/NNP ]
+says/VBZ 
+[ the/DT ministry/NN has/VBZ n't/RB ]
+pursued/VBN 
+[ the/DT idea/NN ]
+./. 
+
+``/`` Since/IN 
+[ there/EX ]
+was/VBD 
+[ no/DT request/NN ]
+from/IN 
+[ the/DT U.S./NNP ]
+to/TO 
+[ that/DT effect/NN ]
+,/, even/RB if/IN 
+[ we/PRP ]
+do/VBP 
+[ it/PRP ]
+,/, 
+[ it/PRP ]
+would/MD n't/RB be/VB appreciated/VBN by/IN 
+[ the/DT U.S./NNP ]
+or/CC 
+[ others/NNS ]
+and/CC maybe/RB 
+[ we/PRP ]
+'d/MD be/VB criticized/VBN for/IN doing/VBG 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Nissan/NNP 's/POS announcement/NN ]
+that/IN 
+[ it/PRP ]
+would/MD scale/VB 
+[ back/RP shipments/NNS ]
+abroad/RB follows/VBZ 
+[ four/CD years/NNS ]
+of/IN declining/VBG 
+[ exports/NNS ]
+since/IN 
+[ 1985/CD ]
+,/, when/WRB 
+[ they/PRP ]
+totaled/VBD 
+[ a/DT record/NN 1.4/CD million/CD cars/NNS ]
+and/CC 
+[ trucks/NNS ]
+./. 
+
+[ Exports/NNS ]
+have/VBP declined/VBN because/RB of/IN rising/VBG 
+[ overseas/JJ production/NN ]
+and/CC because/IN of/IN 
+[ slack/JJ sales/NNS ]
+in/IN 
+[ some/DT markets/NNS ]
+,/, particularly/RB in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ Hiroshi/NNP Nakajima/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ the/DT Yamaichi/NNP Research/NNP Institute/NNP ]
+of/IN 
+[ Securities/NNPS ]
+and/CC 
+[ Economics/NNP ]
+,/, affiliated/VBN with/IN 
+[ Yamaichi/NNP Securities/NNPS Co./NNP ]
+,/, said/VBD 
+[ it/PRP ]
+is/VBZ n't/RB unusual/JJ for/IN 
+[ a/DT Japanese/JJ auto/NN maker/NN ]
+to/TO declare/VB that/IN 
+[ exports/NNS ]
+will/MD decline/VB ,/, but/CC 
+[ it/PRP ]
+is/VBZ 
+[ the/DT first/JJ time/NN ]
+such/JJ 
+[ a/DT specific/JJ commitment/NN ]
+has/VBZ been/VBN made/VBN ./. 
+
+Just/RB as/IN 
+[ important/JJ ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ the/DT declaration/NN ]
+makes/VBZ 
+[ it/PRP ]
+difficult/JJ for/IN 
+[ Nissan/NNP ]
+to/TO try/VB to/TO offset/VB 
+[ a/DT future/JJ decline/NN ]
+in/IN 
+[ Japanese/JJ domestic/JJ demand/NN ]
+by/IN boosting/VBG 
+[ exports/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ an/DT analyst/NN ]
+with/IN 
+[ Daiwa/NNP Securities/NNPS Co/NNP ]
+./. 
+
+did/VBD n't/RB put/VB 
+[ much/JJ stock/NN ]
+in/IN 
+[ the/DT announcement/NN ]
+since/IN 
+[ Nissan/NNP 's/POS exports/NNS ]
+already/RB have/VBP been/VBN on/IN 
+[ the/DT decline/NN ]
+./. 
+
+In/IN 
+[ the/DT fiscal/JJ year/NN ]
+ended/VBN 
+[ March/NNP 31/CD ]
+,/, 
+[ Nissan/NNP ]
+exported/VBD 
+[ 1.09/CD million/CD units/NNS ]
+,/, down/RB from/IN 
+[ 1.14/CD million/CD units/NNS ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+[ Its/PRP$ exports/NNS ]
+are/VBP expected/VBN to/TO 
+[ further/RB decline/VB ]
+in/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+to/TO around/RB 
+[ 1.03/CD million/CD ]
+to/TO 
+[ 1.05/CD million/CD units/NNS ]
+,/, 
+[ the/DT Daiwa/NNP analyst/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Nissan/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD aim/VB at/IN producing/VBG 
+[ two/CD vehicles/NNS ]
+overseas/RB for/IN 
+[ every/DT vehicle/NN ]
+
+[ it/PRP ]
+exports/VBZ in/IN 
+[ the/DT next/JJ 10/CD years/NNS ]
+,/, 
+[ a/DT reversal/NN ]
+of/IN 
+[ the/DT current/JJ ratio/NN ]
+./. 
+
+[ The/DT company/NN ]
+produced/VBD 
+[ 570,000/CD  units/NNS ]
+at/IN 
+[ overseas/JJ plants/NNS ]
+during/IN 
+[ the/DT last/JJ fiscal/JJ year/NN ]
+./. 
+
+As/IN 
+[ a/DT first/JJ step/NN ]
+,/, 
+[ Nissan/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD slash/VB 
+[ its/PRP$ exports/NNS ]
+to/TO 
+[ one/CD million/CD units/NNS ]
+by/IN 
+[ early/JJ 1993/CD ]
+./. 
+
+[ Nissan/NNP ]
+has/VBZ 
+[ auto/NN factories/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ Britain/NNP ]
+,/, 
+[ Spain/NNP ]
+,/, 
+[ Mexico/NNP ]
+and/CC 
+[ Australia/NNP ]
+./. 
+
+======================================
+
+[ The/DT globalization/NN effort/NN ]
+also/RB calls/VBZ for/IN 
+[ the/DT company/NN ]
+to/TO quadruple/VB 
+[ its/PRP$ auto-parts/JJ imports/NNS ]
+by/IN 
+[ the/DT late/JJ 1990s/NNS ]
+,/, so/RB that/IN 
+[ they/PRP ]
+account/VBP for/IN 
+[ 10/CD %/NN ]
+of/IN 
+[ the/DT total/JJ value/NN ]
+of/IN 
+[ its/PRP$ Japan-made/JJ autos/NNS ]
+./. 
+
+[ Its/PRP$ imports/NNS ]
+in/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ March/NNP 31/CD ]
+totaled/VBD 
+[ $/$ 370/CD million/CD ]
+./. 

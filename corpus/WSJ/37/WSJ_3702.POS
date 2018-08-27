@@ -1,0 +1,654 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT combined/VBN foreign-currency/NN holdings/NNS ]
+of/IN 
+[ the/DT Federal/NNP Reserve/NNP ]
+and/CC 
+[ Treasury/NNP ]
+totaled/VBD 
+[ $/$ 34/CD billion/CD ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ July/NNP 1989/CD ]
+,/, 
+[ the/DT latest/JJS reporting/NN date/NN ]
+./. 
+
+[ That/DT figure/NN ]
+had/VBD increased/VBN by/IN 
+[ $/$ 23.2/CD billion/CD ]
+in/IN 
+[ the/DT 13/CD months/NNS ]
+since/IN 
+[ June/NNP 1988/CD ]
+,/, mainly/RB by/IN 
+[ purchases/NNS ]
+of/IN 
+[ yen/NNS ]
+and/CC 
+[ marks/NNS ]
+./. 
+
+[ This/DT activity/NN 's/POS costs/NNS ]
+appear/VBP to/TO outweigh/VB by/IN far/RB 
+[ the/DT benefits/NNS ]
+./. 
+
+======================================
+
+[ The/DT legal/JJ basis/NN ]
+for/IN 
+[ the/DT Federal/NNP Reserve/NNP 's/POS intervention/NN ]
+in/IN 
+[ foreign-exchange/NN markets/NNS ]
+is/VBZ questionable/JJ ./.  
+
+[ The/DT Federal/NNP Reserve/NNP Act/NNP ]
+provides/VBZ 
+[ no/DT general/JJ ]
+and/CC 
+[ positive/JJ authorization/NN ]
+to/TO operate/VB in/IN 
+[ foreign/JJ currencies/NNS ]
+./. 
+
+However/RB ,/, in/IN 
+[ early/JJ 1962/CD ]
+,/, 
+[ the/DT Federal/NNP Open/NNP Market/NNP Committee/NNP ]
+ (/( 
+[ FOMC/NNP ]
+,/, comprising/VBG 
+[ the/DT Fed/NNP board/NN ]
+and/CC 
+[ presidents/NNS ]
+of/IN 
+[ the/DT Fed/NNP regional/JJ banks/NNS ]
+ )/) approved/VBD 
+[ such/JJ operations/NNS ]
+with/IN 
+[ the/DT concurrence/NN ]
+of/IN 
+[ top/JJ U.S./NNP officials/NNS ]
+./. 
+
+======================================
+
+[ Congress/NNP ]
+,/, in/IN 
+[ the/DT Gold/NNP Reserve/NNP Act/NNP ]
+of/IN 
+[ 1934/CD ]
+,/, gave/VBD 
+[ the/DT Treasury/NNP ]
+
+[ a/DT limited/JJ authority/NN ]
+for/IN 
+[ operations/NNS ]
+to/TO stabilize/VB 
+[ the/DT dollar/NN 's/POS exchange/NN value/NN ]
+./. 
+
+In/IN 
+[ March/NNP 1961/CD ]
+,/, with/IN 
+[ the/DT Federal/NNP Reserve/NNP Bank/NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+as/IN 
+[ its/PRP$ agent/NN ]
+,/, 
+[ the/DT Treasury/NNP ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+since/IN 
+[ the/DT late/JJ 1930s/NNS ]
+entered/VBD into/IN 
+[ foreign-exchange/NN transactions/NNS ]
+for/IN 
+[ monetary/JJ purposes/NNS ]
+./. 
+
+[ The/DT Treasury/NNP ]
+and/CC 
+[ the/DT Fed/NNP ]
+effectively/RB have/VBP been/VBN coordinating/VBG 
+[ these/DT efforts/NNS ]
+ever/RB since/RB ,/, except/IN during/IN 
+[ the/DT ]
+
+[ the/DT first/JJ Reagan/NNP administration/NN ]
+,/, when/WRB 
+[ no/DT intervention/NN ]
+occurred/VBD ./. 
+
+Only/RB since/IN 
+[ the/DT start/NN ]
+of/IN 
+[ 1977/CD ]
+,/, however/RB ,/, has/VBZ 
+[ the/DT FOMC/NNP ]
+approved/VBD 
+[ an/DT overall/JJ open/JJ position/NN ]
+in/IN 
+[ all/DT foreign/JJ currencies/NNS ]
+./. 
+
+======================================
+
+Why/WRB do/VBP 
+[ the/DT authorities/NNS ]
+engage/VB in/IN 
+[ substantial/JJ foreign-currency/NN purchases/NNS ]
+?/. 
+
+Has/VBZ doing/VBG so/RB achieved/VBN 
+[ its/PRP$ objective/NN ]
+?/. 
+
+[ What/WDT costs/NNS ]
+are/VBP imposed/VBN on/IN 
+[ the/DT economy/NN ]
+?/. 
+
+======================================
+
+[ The/DT authorities/NNS ]
+buy/VBP 
+[ foreign/JJ currencies/NNS ]
+when/WRB 
+[ they/PRP ]
+want/VBP to/TO prevent/VB 
+[ the/DT dollar/NN ]
+from/IN appreciating/VBG ,/, and/CC sell/VBP 
+[ them/PRP ]
+when/WRB 
+[ they/PRP ]
+want/VBP to/TO prevent/VB 
+[ the/DT dollar/NN ]
+from/IN depreciating/VBG ./. 
+
+[ Ten/CD years/NNS ]
+ago/RB ,/, 
+[ foreign-currency/NN reserves/NNS ]
+were/VBD 
+[ $/$ 3.8/CD billion/CD ]
+./. 
+
+[ The/DT current/JJ figure/NN ]
+is/VBZ almost/RB tenfold/JJ as/RB 
+[ large/JJ ]
+,/, 
+[ a/DT far/RB greater/JJR increase/NN ]
+than/IN in/IN 
+[ the/DT total/JJ assets/NNS ]
+of/IN 
+[ the/DT Federal/NNP Reserve/NNP System/NNP ]
+,/, 
+[ which/WDT ]
+less/RBR than/IN doubled/VBD (/( 
+[ $/$ 160/CD billion/CD ]
+in/IN 
+[ 1979/CD ]
+;/: less/JJR than/IN 
+[ $/$ 300/CD billion/CD ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ June/NNP 1989/CD ]
+ )/) ./. 
+
+======================================
+
+[ The/DT foreign-currency/NN purchasing/NN binge/NN ]
+over/IN 
+[ the/DT past/JJ 13/CD months/NNS ]
+has/VBZ not/RB prevented/VBN 
+[ a/DT sizable/JJ appreciation/NN ]
+of/IN 
+[ the/DT dollar/NN ]
+./. 
+
+[ One/CD dollar/NN ]
+bought/VBD 
+[ 1.758/CD marks/NNS ]
+and/CC 
+[ 127.5/CD yen/NNS ]
+in/IN 
+[ June/NNP 1988/CD ]
+,/, and/CC 
+[ 1.89/CD marks/NNS ]
+and/CC 
+[ 140.4/CD yen/NNS ]
+in/IN 
+[ July/NNP 1989/CD ]
+./. 
+
+[ Intervention/NN ]
+has/VBZ been/VBN ineffective/JJ because/IN 
+[ the/DT Fed/NNP ]
+sterilized/VBD 
+[ the/DT monetary/JJ effects/NNS ]
+of/IN 
+[ purchases/NNS ]
+and/CC 
+[ sales/NNS ]
+--/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ it/PRP ]
+contracted/VBD or/CC expanded/VBD 
+[ the/DT domestic/JJ money/NN supply/NN ]
+to/TO counteract/VB 
+[ the/DT effects/NNS ]
+at/IN 
+[ home/NN ]
+of/IN 
+[ its/PRP$ moves/NNS ]
+in/IN 
+[ the/DT foreign-exchange/NN markets/NNS ]
+./. 
+
+======================================
+
+[ A/DT major/JJ source/NN ]
+of/IN 
+[ fluctuations/NNS ]
+in/IN 
+[ exchange/NN rates/NNS ]
+is/VBZ 
+[ the/DT change/NN ]
+in/IN 
+[ relative/JJ rates/NNS ]
+of/IN 
+[ money/NN growth/NN ]
+./. 
+
+[ Differences/NNS ]
+in/IN 
+[ money/NN growth/NN rates/NNS ]
+tend/VBP to/TO produce/VB 
+[ differences/NNS ]
+in/IN 
+[ inflation/NN rates/NNS ]
+./. 
+
+[ Differences/NNS ]
+in/IN 
+[ inflation/NN rates/NNS ]
+in/IN 
+[ turn/NN ]
+produce/VBP either/CC 
+[ exchange-rate/NN depreciation/NN ]
+or/CC 
+[ appreciation/NN ]
+./. 
+
+======================================
+
+Since/IN early/RB 
+[ 1987/CD ]
+,/, with/IN 
+[ the/DT exception/NN ]
+of/IN 
+[ the/DT months/NNS ]
+just/RB after/IN 
+[ the/DT 1987/CD stock/NN market/NN crash/NN ]
+,/, 
+[ the/DT Federal/NNP Reserve/NNP ]
+has/VBZ been/VBN restricting/VBG 
+[ monetary/JJ growth/NN ]
+;/: 
+[ Japan/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+on/IN 
+[ the/DT whole/NN ]
+have/VBP been/VBN expansionary/JJ ./. 
+
+[ Monetary/JJ policy/NN ]
+was/VBD expansionary/JJ in/IN 
+[ those/DT countries/NNS ]
+in/IN 
+[ 1987/CD ]
+and/CC 
+[ 1988/CD ]
+because/IN 
+[ they/PRP ]
+engaged/VBD in/IN 
+[ exchange-rate/NN intervention/NN ]
+in/IN 
+[ the/DT attempt/NN ]
+to/TO prevent/VB 
+[ dollar/NN depreciation/NN ]
+and/CC did/VBD not/RB fully/RB sterilize/VB 
+[ their/PRP$ purchases/NNS ]
+of/IN 
+[ dollars/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ monetary/JJ growth/NN ]
+has/VBZ accelerated/VBN in/IN 
+[ Japan/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+./. 
+
+======================================
+
+[ A/DT delayed/JJ result/NN ]
+of/IN 
+[ these/DT differences/NNS ]
+in/IN 
+[ monetary/JJ growth/NN rates/NNS ]
+is/VBZ 
+[ that/DT inflation/NN ]
+is/VBZ now/RB trending/VBG down/RB in/IN 
+[ the/DT U.S./NNP ]
+and/CC rising/VBG in/IN 
+[ the/DT other/JJ countries/NNS ]
+,/, with/IN 
+[ the/DT expected/JJ consequences/NNS ]
+for/IN 
+[ exchange/NN rates/NNS ]
+./. 
+
+[ Central-bank/NN intervention/NN ]
+in/IN 
+[ exchange/NN markets/NNS ]
+has/VBZ been/VBN 
+[ a/DT pointless/JJ activity/NN ]
+
+[ that/WDT ]
+has/VBZ imposed/VBN 
+[ costs/NNS ]
+on/IN 
+[ the/DT countries/NNS ]
+engaging/VBG in/IN 
+[ such/JJ intervention/NN ]
+./. 
+
+======================================
+
+[ One/CD cost/NN ]
+is/VBZ 
+[ an/DT increase/NN ]
+in/IN 
+[ exchange-rate/NN volatility/NN ]
+produced/VBN by/IN 
+[ the/DT erratic/JJ intervention/NN ]
+./. 
+
+[ A/DT second/NN ]
+is/VBZ that/IN 
+[ the/DT taxpayer/NN ]
+bears/VBZ 
+[ a/DT double/JJ pecuniary/JJ loss/NN ]
+./. 
+
+======================================
+
+[ The/DT first/JJ ]
+arises/VBZ from/IN 
+[ the/DT Fed/NNP 's/POS sterilization/NN activity/NN ]
+./. 
+
+[ It/PRP ]
+offsets/VBZ 
+[ open-market/NN purchases/NNS ]
+of/IN 
+[ foreign/JJ currency/NN ]
+with/IN 
+[ open-market/NN sales/NNS ]
+of/IN 
+[ Treasury/NNP ]
+and/CC 
+[ federal/JJ agency/NN obligations/NNS ]
+./. 
+
+Although/IN 
+[ the/DT monetary/JJ base/NN ]
+grew/VBN by/IN 
+[ $/$ 10/CD billion/CD ]
+from/IN 
+[ June/NNP 1988/CD ]
+to/TO 
+[ May/NNP 1989/CD ]
+,/, 
+[ domestic/JJ interest-bearing/JJ securities/NNS ]
+held/VBN by/IN 
+[ the/DT Fed/NNP ]
+over/IN 
+[ the/DT period/NN ]
+declined/VBD on/IN 
+[ net/NN ]
+by/IN 
+[ $/$ 7/CD billion/CD ]
+./. 
+
+[ Net/JJ income/NN ]
+of/IN 
+[ the/DT Federal/NNP Reserve/NNP Banks/NNPS ]
+,/, 
+[ which/WDT ]
+is/VBZ normally/RB rebated/VBN to/TO 
+[ the/DT Treasury/NNP ]
+,/, has/VBZ accordingly/RB been/VBN reduced/VBN ./. 
+
+[ That/DT ]
+is/VBZ 
+[ one/CD part/NN ]
+of/IN 
+[ the/DT loss/NN ]
+sustained/VBN by/IN 
+[ taxpayers/NNS ]
+,/, offset/VBN to/TO 
+[ an/DT extent/NN ]
+
+[ that/WDT ]
+is/VBZ not/RB reported/VBN by/IN 
+[ the/DT interest/NN ]
+earned/VBN on/IN 
+[ foreign-exchange/NN holdings/NNS ]
+./. 
+
+======================================
+
+[ The/DT second/JJ loss/NN ]
+relates/VBZ back/RB to/TO 
+[ exchange-rate/NN volatility/NN ]
+and/CC 
+[ the/DT risk/NN ]
+to/TO 
+[ which/WDT ]
+
+[ the/DT taxpayer/NN ]
+is/VBZ exposed/VBN as/IN 
+[ foreign-currency/NN assets/NNS ]
+held/VBN by/IN 
+[ the/DT Fed/NNP ]
+and/CC 
+[ the/DT Treasury/NNP balloon/VBP ]
+./. 
+
+By/IN acquiring/VBG 
+[ $/$ 34/CD billion/CD ]
+of/IN 
+[ foreign/JJ currency/NN ]
+,/, 
+[ the/DT monetary/JJ authorities/NNS ]
+have/VBP taken/VBN 
+[ a/DT speculative/JJ position/NN ]
+
+[ that/DT yen/NNS ]
+,/, 
+[ D-marks/NNS ]
+and/CC 
+[ other/JJ currencies/NNS ]
+will/MD appreciate/VB in/IN 
+[ relation/NN ]
+to/TO 
+[ the/DT dollar/NN ]
+./. 
+
+[ The/DT Fed/NNP ]
+and/CC 
+[ the/DT administration/NN ]
+assert/VBP that/IN 
+[ the/DT elimination/NN ]
+of/IN 
+[ inflation/NN ]
+is/VBZ 
+[ a/DT major/JJ goal/NN ]
+of/IN 
+[ policy/NN ]
+./. 
+
+Yet/RB in/IN 
+[ their/PRP$ foreign-exchange/NN operations/NNS ]
+,/, 
+[ the/DT U.S./NNP authorities/NNS ]
+are/VBP gambling/VBG 
+[ that/DT their/PRP$ own/JJ anti-inflationary/JJ policies/NNS ]
+will/MD fail/VB ./. 
+
+======================================
+
+[ The/DT Fed/NNP ]
+publishes/VBZ 
+[ a/DT quarterly/JJ report/NN ]
+on/IN 
+[ its/PRP$ foreign-exchange/NN operations/NNS three/CD months/NNS ]
+after/IN 
+[ their/PRP$ conclusion/NN ]
+./. 
+
+[ The/DT report/NN ]
+details/VBZ 
+[ the/DT dates/NNS ]
+of/IN 
+[ purchases/NNS ]
+and/CC 
+[ sales/NNS ]
+,/, but/CC not/RB 
+[ the/DT prices/NNS ]
+at/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+executed/VBD 
+[ the/DT transactions/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ the/DT latest/JJS year/NN ]
+for/IN 
+[ which/WDT information/NN ]
+is/VBZ available/JJ ,/, 
+[ the/DT realized/JJ ]
+and/CC 
+[ unrealized/JJ loss/NN ]
+on/IN 
+[ foreign-exchange-rate/NN transactions/NNS ]
+by/IN 
+[ the/DT Fed/NNP ]
+was/VBD 
+[ $/$ 511/CD million/CD ]
+./. 
+
+[ The/DT Treasury/NNP 's/POS losses/NNS ]
+,/, approximately/RB 
+[ equal/JJ ]
+,/, are/VBP not/RB reported/VBN ./. 
+
+======================================
+
+[ No/DT benefits/NNS ]
+offset/VBP 
+[ the/DT losses/NNS ]
+./. 
+
+Sterilized/JJ 
+[ intervention/NN ]
+has/VBZ 
+[ only/JJ temporary/JJ effects/NNS ]
+on/IN 
+[ exchange/NN rates/NNS ]
+./. 
+
+[ The/DT public/NN ]
+has/VBZ 
+[ a/DT right/NN ]
+to/TO insist/VB on/IN 
+[ a/DT full/JJ accounting/NN ]
+of/IN 
+[ the/DT realized/JJ ]
+and/CC 
+[ unrealized/JJ losses/NNS ]
+on/IN 
+[ official/JJ intervention/NN ]
+in/IN 
+[ foreign-exchange/NN markets/NNS ]
+./. 
+
+Is/VBZ 
+[ any/DT congressional/JJ committee/NN paying/VBG attention/NN ]
+to/TO 
+[ these/DT losses/NNS ]
+?/. 
+
+Is/VBZ 
+[ there/EX ]
+
+[ any/DT other/JJ mechanism/NN ]
+in/IN 
+[ existence/NN ]
+for/IN making/VBG 
+[ the/DT Treasury/NNP ]
+and/CC 
+[ the/DT Fed/NNP accountable/JJ ]
+for/IN 
+[ their/PRP$ speculation/NN ]
+in/IN 
+[ foreign/JJ exchange/NN ]
+?/. 
+
+======================================
+
+[ Ms./NNP Schwartz/NNP ]
+,/, 
+[ co-author/NN ]
+with/IN 
+[ Milton/NNP Friedman/NNP ]
+of/IN ``/`` 
+[ A/DT Monetary/NN History/NN ]
+of/IN 
+[ the/DT United/NNP States/NNPS ]
+,/, ''/'' is/VBZ affiliated/VBN with/IN 
+[ the/DT National/NNP Bureau/NNP ]
+of/IN 
+[ Economic/NNP Research/NNP ]
+./. 

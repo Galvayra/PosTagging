@@ -1,0 +1,436 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Wellcome/NNP PLC/NNP 's/POS antiviral/JJ drug/NN AZT/NNP ]
+may/MD prevent/VB ,/, rather/RB than/IN simply/RB alleviate/VB ,/, 
+[ a/DT common/JJ symptom/NN ]
+of/IN 
+[ acquired/JJ immune/JJ deficiency/NN syndrome/NN ]
+,/, 
+[ a/DT team/NN ]
+of/IN 
+[ Dutch/JJ scientists/NNS ]
+concluded/VBD ./. 
+
+======================================
+
+[ The/DT drug/NN ]
+appears/VBZ to/TO prevent/VB 
+[ dementia/NN ]
+--/: 
+[ which/WDT ]
+seriously/RB afflicts/VBZ about/IN 
+[ one-third/NN ]
+of/IN 
+[ people/NNS ]
+suffering/VBG from/IN 
+[ AIDS/NNP ]
+--/: according/VBG to/TO 
+[ a/DT study/NN ]
+of/IN 
+[ 196/CD Dutch/JJ patients/NNS ]
+./. 
+
+[ Previous/JJ research/NN ]
+indicated/VBD 
+[ AZT/NNP ]
+merely/RB could/MD relieve/VB 
+[ AIDS/NNP victims/NNS '/POS mental/JJ confusion/NN ]
+and/CC 
+[ memory/NN loss/NN ]
+./. 
+
+======================================
+
+[ The/DT latest/JJS findings/NNS ]
+,/, reported/VBN in/IN 
+[ this/DT week/NN 's/POS British/NNP Medical/NNP Journal/NNP ]
+,/, may/MD reduce/VB 
+[ AIDS/NNP patients/NNS '/POS need/NN ]
+to/TO be/VB hospitalized/VBN because/RB of/IN 
+[ their/PRP$ mental/JJ deterioration/NN ]
+./. 
+
+[ The/DT study/NN ]
+also/RB could/MD further/RBR spur/VB 
+[ the/DT use/NN ]
+of/IN 
+[ AZT/NNP ]
+,/, 
+[ the/DT world/NN 's/POS only/JJ prescription/NN medicine/NN ]
+approved/VBN for/IN treating/VBG 
+[ AIDS/NNP ]
+,/, at/IN 
+[ earlier/JJR stages/NNS ]
+of/IN 
+[ the/DT fatal/JJ disease/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+can/MD infer.../: from/IN 
+[ this/DT data/NN ]
+that/IN if/IN 
+[ you/PRP ]
+treat/VBP 
+[ healthy/JJ ]
+ {/( infected/JJ }/) 
+[ individuals/NNS ]
+,/, 
+[ dementia/NN ]
+will/MD never/RB occur/VB ,/, ''/'' said/VBD 
+[ Jaap/NNP Goudsmit/NNP ]
+,/, 
+[ a/DT virologist/NN ]
+and/CC 
+[ lead/JJ author/NN ]
+of/IN 
+[ the/DT report/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+looks/VBZ like/IN giving/VBG 
+[ AZT/NNP ]
+eliminates/VBZ 
+[ the/DT disease/NN course/NN ]
+in/IN 
+[ one/CD part/NN ]
+of/IN 
+[ your/PRP$ body/NN ]
+''/'' --/: 
+[ the/DT brain/NN ]
+,/, added/VBD 
+[ Dr./NNP Goudsmit/NNP ]
+,/, 
+[ chief/NN ]
+of/IN 
+[ the/DT Human/NNP Retrovirus/NNP Laboratory/NNP ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Amsterdam/NNP 's/POS Academic/NNP Medical/NNP Center/NNP ]
+./. 
+
+======================================
+
+[ Demand/NN ]
+for/IN 
+[ AZT/NNP ]
+already/RB is/VBZ expected/VBN to/TO mushroom/VB due/RB to/TO 
+[ findings/NNS ]
+announced/VBN in/IN 
+[ August/NNP ]
+that/IN 
+[ the/DT drug/NN ]
+slows/VBZ 
+[ the/DT onset/NN ]
+of/IN 
+[ AIDS/NNP ]
+in/IN 
+[ people/NNS ]
+infected/JJ with/IN 
+[ the/DT virus/NN ]
+but/CC not/RB yet/RB showing/VBG 
+[ any/DT symptoms/NNS ]
+of/IN 
+[ disease/NN ]
+./. 
+
+[ That/DT ]
+suggests/VBZ 
+[ the/DT Wellcome/NNP drug/NN ]
+will/MD benefit/VB 
+[ hundreds/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ infected/JJ people/NNS ]
+besides/IN 
+[ the/DT tens/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ patients/NNS ]
+with/IN 
+[ AIDS/NNP symptoms/NNS ]
+./. 
+
+[ Analysts/NNS ]
+have/VBP projected/VBN 
+[ a/DT broadened/VBN market/NN ]
+for/IN 
+[ the/DT British/JJ pharmaceutical/JJ maker/NN 's/POS product/NN ]
+could/MD boost/VB 
+[ AZT/NNP sales/NNS ]
+to/TO 
+[ $/$ 1/CD billion/CD ]
+by/IN 
+[ 1992/CD ]
+,/, from/IN 
+[ an/DT estimated/VBN $/$ 220/CD million/CD ]
+in/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ Aug./NNP 31/CD ]
+./. 
+
+======================================
+
+Anticipating/VBG 
+[ this/DT growth/NN ]
+and/CC 
+[ bowing/VBG ]
+to/TO 
+[ patient/NN pressure/NN ]
+,/, 
+[ London-based/JJ Wellcome/NNP ]
+announced/VBD 
+[ a/DT 20/CD %/NN price/NN ]
+cut/NN 
+[ last/JJ week/NN ]
+
+[ that/WDT ]
+effectively/RB reduced/VBD 
+[ AZT/NNP 's/POS retail/JJ price/NN ]
+to/TO 
+[ $/$ 6,400/CD ]
+from/IN 
+[ $/$ 8,000/CD ]
+
+[ a/DT year/NN ]
+per/IN 
+[ patient/NN ]
+./. 
+
+[ The/DT new/JJ realization/NN ]
+that/IN 
+[ AZT/NNP ]
+may/MD forestall/VB 
+[ dementia/NN ]
+represents/VBZ ``/`` 
+[ a/DT very/RB significant/JJ ]
+advance/NN ,/, ''/'' said/VBD 
+[ Charles/NNP Farthing/NNP ]
+,/, 
+[ an/DT AIDS/NNP investigator/NN ]
+at/IN 
+[ New/NNP York/NNP University/NNP Medical/NNP Center/NNP ]
+./. 
+
+[ Demented/JJ AIDS/NNP patients/NNS ]
+``/`` often/RB are/VBP 
+[ the/DT ones/NNS ]
+
+[ who/WP ]
+have/VBP to/TO be/VB institutionalized/VBN ./. 
+
+''/'' 
+======================================
+
+[ Dr./NNP Farthing/NNP ]
+believes/VBZ 
+[ the/DT study/NN ]
+also/RB ``/`` might/MD have/VB 
+[ the/DT good/JJ effect/NN ]
+of/IN persuading/VBG more/JJR {/( 
+[ AIDS/NNP ]
+ }/) 
+[ patients/NNS ]
+to/TO try/VB 
+[ the/DT drug/NN ]
+at/IN 
+[ any/DT stage/NN ]
+''/'' because/IN 
+[ many/JJ ]
+``/`` enormously/RB fear/VBP losing/VBG 
+[ their/PRP$ mental/JJ faculties/NNS ]
+./. 
+
+''/'' 
+[ Some/DT AIDS/NNP victims/NNS ]
+now/RB avoid/VBP 
+[ AZT/NNP ]
+because/IN 
+[ it/PRP ]
+can/MD cause/VB 
+[ serious/JJ side/NN effects/NNS ]
+such/JJ as/IN 
+[ anemia/NN ]
+and/CC 
+[ bone-marrow/NN suppression/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT Dutch/JJ study/NN ]
+,/, 
+[ Dr./NNP Goudsmit/NNP ]
+and/CC 
+[ his/PRP$ team/NN ]
+kept/VBD 
+[ track/NN ]
+of/IN 
+[ neurological/JJ symptoms/NNS ]
+in/IN 
+[ 196/CD AIDS/NNP patients/NNS ]
+between/IN 
+[ 1982/CD ]
+and/CC 
+[ 1988/CD ]
+./. 
+
+[ The/DT incidence/NN ]
+of/IN 
+[ dementia/NN ]
+dropped/VBD markedly/RB once/IN 
+[ AZT/NNP ]
+was/VBD introduced/VBN in/IN 
+[ May/NNP 1987/CD ]
+./. 
+
+[ The/DT scientists/NNS ]
+found/VBD 
+[ 38/CD ]
+of/IN 
+[ the/DT 107/CD patients/NNS ]
+not/RB taking/VBG 
+[ the/DT drug/NN ]
+developed/VBD 
+[ dementia/NN ]
+./. 
+
+By/IN 
+[ comparison/NN ]
+,/, only/RB 
+[ two/CD ]
+of/IN 
+[ the/DT 89/CD ]
+receiving/VBG 
+[ the/DT medication/NN ]
+became/VBD 
+[ demented/JJ ]
+./. 
+
+======================================
+
+[ The/DT fact/NN ]
+that/IN 
+[ some/DT AZT-treated/JJ patients/NNS ]
+still/RB showed/VBD 
+[ mental/JJ deterioration/NN ]
+implies/VBZ 
+[ the/DT drug/NN ]
+``/`` wo/MD n't/RB stop/VB 
+[ the/DT occurrence/NN ]
+of/IN 
+[ dementia/NN ]
+''/'' entirely/RB ,/, 
+[ Dr./NNP Farthing/NNP ]
+argued/VBD ./. 
+
+[ Dr./NNP Goudsmit/NNP ]
+disagreed/VBD ./. 
+
+``/`` 
+[ You/PRP ]
+do/VBP n't/RB know/VB if/IN 
+[ you/PRP ]
+have/VBP treated/VBN 
+[ people/NNS ]
+too/RB late/RB ''/'' to/TO avoid/VB 
+[ dementia/NN ]
+,/, 
+[ he/PRP ]
+noted/VBD ./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP {/( 
+[ the/DT drug/NN ]
+ }/) prevents/VBZ 
+[ it/PRP ]
+./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ final/JJ proof/NN ]
+should/MD emerge/VB from/IN 
+[ ongoing/JJ U.S./NNP studies/NNS ]
+involving/VBG 
+[ AZT/NNP ]
+and/CC 
+[ symptomless/JJ carriers/NNS ]
+of/IN 
+[ AIDS/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT related/JJ development/NN ]
+,/, 
+[ Wellcome/NNP ]
+announced/VBD 
+[ a/DT new/JJ chief/NN ]
+for/IN 
+[ Burroughs-Wellcome/NNP Co./NNP ]
+,/, 
+[ the/DT Research/NNP Triangle/NNP Park/NNP ]
+,/, 
+[ N.C.-based/JJ unit/NN ]
+
+[ that/WDT ]
+has/VBZ borne/VBN 
+[ the/DT brunt/NN ]
+of/IN 
+[ the/DT recent/JJ U.S./NNP uproar/NN ]
+over/IN 
+[ AZT/NNP 's/POS high/JJ price/NN ]
+./. 
+
+[ Philip/NNP Tracy/NNP ]
+,/, 
+[ Burroughs-Wellcome/NNP 's/POS executive/NN vice/NN president/NN ]
+,/, will/MD succeed/VB 
+[ T.E./NNP Haigler/NNP ]
+,/, 
+[ Jr./NNP ]
+as/IN 
+[ the/DT unit/NN 's/POS president/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+following/VBG 
+[ Mr./NNP Haigler/NNP 's/POS retirement/NN Nov./NNP 1/CD ]
+./. 
+
+[ Mr./NNP Tracy/NNP ]
+also/RB will/MD join/VB 
+[ the/DT parent/NN company/NN 's/POS board/NN ]
+,/, along/IN with/IN 
+[ David/NNP Barry/NNP ]
+,/, 
+[ Burroughs-Wellcome/NNP 's/POS vice/NN president/NN ]
+of/IN 
+[ research/NN ]
+and/CC 
+[ development/NN ]
+./. 

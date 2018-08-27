@@ -1,0 +1,523 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Central/NNP Newspapers/NNPS Inc./NNP ]
+,/, 
+[ Vice/NNP President/NNP Dan/NNP Quayle/NNP 's/POS family/NN ]
+'s/POS publishing/VBG 
+[ business/NN ]
+,/, joined/VBD 
+[ a/DT trend/NN ]
+among/IN 
+[ newspaper/NN chains/NNS ]
+by/IN 
+[ going/VBG public/NN ]
+but/CC 
+[ keeping/VBG control/NN ]
+in/IN 
+[ family/NN hands/NNS ]
+./. 
+
+======================================
+
+More/JJR than/IN 
+[ three/CD million/CD shares/NNS ]
+were/VBD snapped/VBN up/IN 
+[ yesterday/NN ]
+,/, as/IN 
+[ the/DT oversubscribed/VBN issue/NN ]
+opened/VBD at/IN 
+[ $/$ 22.75/CD ]
+,/, although/IN 
+[ it/PRP ]
+had/VBD been/VBN priced/VBN at/IN 
+[ $/$ 21/CD ]
+./. 
+
+[ The/DT stock/NN ]
+closed/VBD 
+[ its/PRP$ first/JJ day/NN ]
+of/IN 
+[ composite/JJ New/NNP York/NNP Stock/NNP Exchange/NNP ]
+trading/NN at/IN 
+[ $/$ 23.50/CD ]
+,/, up/IN 
+[ 75/CD cents/NNS ]
+,/, on/IN 
+[ volume/NN ]
+of/IN 
+[ 1.6/CD million/CD shares/NNS ]
+./. 
+
+Based/VBN on/IN 
+[ the/DT closing/NN price/NN ]
+,/, 
+[ Central/NNP ]
+would/MD have/VB 
+[ a/DT market/NN value/NN ]
+of/IN 
+[ $/$ 607/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT sale/NN ]
+represented/VBD less/JJR than/IN 
+[ 16/CD %/NN ]
+of/IN 
+[ the/DT company/NN 's/POS Class/NNP ]
+
+[ A/NNP common/JJ shares/NNS ]
+,/, most/JJS of/IN 
+[ which/WDT ]
+will/MD remain/VB in/IN 
+[ family/NN hands/NNS ]
+./. 
+
+More/RBR important/JJ ,/, nearly/RB 
+[ all/DT ]
+of/IN 
+[ the/DT Class/NNP B/NNP shares/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP 
+[ 10/CD times/NNS ]
+
+[ the/DT voting/VBG power/NN ]
+of/IN 
+[ the/DT Class/NNP ]
+
+[ A/NNP shares/NNS ]
+,/, still/RB are/VBP held/VBN by/IN 
+[ the/DT family/NN ]
+./. 
+
+======================================
+
+[ Other/JJ U.S./NNP newspaper/NN publishers/NNS ]
+with/IN 
+[ similar/JJ arrangements/NNS ]
+include/VBP 
+[ New/NNP York/NNP Times/NNP Co./NNP ]
+,/, 
+[ McClatchy/NNP Newspapers/NNPS Inc./NNP ]
+and/CC 
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ publisher/NN ]
+of/IN 
+[ this/DT newspaper/NN ]
+./. 
+
+======================================
+
+[ Central/NNP ]
+decided/VBD to/TO offer/VB 
+[ the/DT public/NN ]
+
+[ a/DT minority/NN stake/NN ]
+to/TO create/VB 
+[ liquidity/NN ]
+in/IN 
+[ the/DT stock/NN ]
+,/, and/CC to/TO establish/VB 
+[ a/DT market/NN price/NN ]
+./. 
+
+For/IN selling/VBG 
+[ shareholders/NNS ]
+
+[ the/DT result/NN ]
+was/VBD 
+[ a/DT windfall/NN ]
+./. 
+
+======================================
+
+[ The/DT biggest/JJS seller/NN ]
+was/VBD 
+[ tiny/JJ Franklin/NNP College/NNP ]
+,/, in/IN 
+[ Franklin/NNP ]
+,/, 
+[ Ind./NNP ]
+,/, 
+[ which/WDT ]
+disposed/VBD of/IN 
+[ 1.3/CD million/CD ]
+of/IN 
+[ its/PRP$ 1.52/CD million/CD shares/NNS ]
+--/: more/JJR than/IN doubling/VBG 
+[ its/PRP$ endowment/NN fund/NN ]
+in/IN 
+[ the/DT process/NN ]
+./. 
+
+Before/IN 
+[ the/DT ]
+offering/NN ``/`` 
+[ we/PRP ]
+had/VBD valued/VBN 
+[ all/PDT the/DT shares/NNS ]
+that/IN 
+[ we/PRP ]
+owned/VBD at/IN roughly/RB 
+[ $/$ 4/CD million/CD ]
+,/, ''/'' said/VBD 
+[ Sid/NNP Downey/NNP ]
+,/, 
+[ the/DT school/NN 's/POS vice/NN president/NN ]
+of/IN 
+[ finance/NN ]
+./. 
+
+[ The/DT 885-student/JJ school/NN ]
+is/VBZ expected/VBN to/TO receive/VB about/IN 
+[ $/$ 27/CD million/CD ]
+in/IN 
+[ proceeds/NNS ]
+./. 
+
+======================================
+
+[ Other/JJ selling/VBG shareholders/NNS ]
+included/VBD 
+[ DePauw/NNP University/NNP ]
+,/, 
+[ the/DT vice/NN president/NN 's/POS alma/NN mater/NN ]
+,/, 
+[ which/WDT ]
+sold/VBD 
+[ 181,818/CD ]
+of/IN 
+[ its/PRP$ 300,000/CD shares/NNS ]
+;/: and/CC 
+[ Liberty/NNP Fund/NNP Inc./NNP ]
+,/, 
+[ a/DT nonprofit/JJ foundation/NN ]
+set/VBN up/IN by/IN 
+[ a/DT businessman/NN ]
+
+[ who/WP ]
+helped/VBD finance/VB 
+[ the/DT newspapers/NNS ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT vice/NN president/NN was/VBD n't/RB ]
+among/IN 
+[ family/NN members/NNS ]
+selling/VBG 
+[ shares/NNS ]
+,/, 
+[ two/CD brothers/NNS ]
+and/CC 
+[ a/DT sister/NN ]
+were/VBD ,/, as/IN was/VBD 
+[ their/PRP$ mother/NN ]
+./. 
+
+[ His/PRP$ office/NN ]
+said/VBD that/IN 
+[ Mr./NNP Quayle/NNP ]
+continues/VBZ to/TO hold/VB 
+[ 19,800/CD shares/NNS ]
+of/IN 
+[ Class/NNP ]
+
+[ A/NNP ]
+and/CC 
+[ 25,000/CD shares/NNS ]
+of/IN 
+[ Class/NNP B/NNP ]
+./. 
+
+[ His/PRP$ wife/NN ]
+,/, 
+[ Marilyn/NNP ]
+,/, holds/VBZ 
+[ 8,000/CD Class/NNP ]
+
+[ A/NNP shares/NNS ]
+./. 
+
+======================================
+
+[ Central/NNP ]
+has/VBZ 
+[ two/CD daily/JJ newspaper/NN monopolies/NNS ]
+,/, in/IN 
+[ Indianapolis/NNP ]
+,/, 
+[ Ind./NNP ]
+and/CC 
+[ Phoenix/NNP ]
+,/, 
+[ Ariz./NNP ]
+,/, and/CC also/RB owns/VBZ 
+[ several/JJ smaller/JJR dailies/NNS ]
+in/IN 
+[ the/DT Midwest/NN ]
+./. 
+
+Unlike/IN 
+[ many/JJ media/NNS companies/NNS ]
+,/, however/RB ,/, 
+[ it/PRP ]
+has/VBZ 
+[ no/DT non-newspaper/JJ holdings/NNS ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+said/VBD 
+[ investors/NNS '/POS initial/JJ enthusiasm/NN ]
+for/IN 
+[ the/DT stock/NN ]
+may/MD be/VB based/VBN more/RBR on/IN 
+[ the/DT company/NN 's/POS potential/NN ]
+than/IN 
+[ recent/JJ results/NNS ]
+./. 
+
+``/`` 
+[ Their/PRP$ profit/NN margins/NNS ]
+are/VBP considerably/RB below/IN 
+[ industry/NN averages/NNS ]
+,/, ''/'' said/VBD 
+[ John/NNP Morton/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ the/DT Citicorp/NNP unit/NN ]
+of/IN 
+[ Lynch/NNP ]
+,/, 
+[ Jones/NNP ]
+&/CC 
+[ Ryan/NNP ]
+,/, in/IN 
+[ Washington/NNP ]
+./. 
+
+[ He/PRP ]
+calculated/VBD that/IN while/IN 
+[ the/DT average/NN operating/VBG margin/NN ]
+for/IN 
+[ comparable/JJ companies/NNS ]
+is/VBZ 
+[ 16.5/CD %/NN ]
+,/, 
+[ Central/NNP ]
+'s/POS for/IN 
+[ the/DT last/JJ 12/CD months/NNS ]
+was/VBD 
+[ 12.7/CD %/NN ]
+
+======================================
+
+But/CC ``/`` 
+[ there/EX ]
+are/VBP 
+[ some/DT obvious/JJ opportunities/NNS ]
+for/IN 
+[ them/PRP ]
+to/TO improve/VB 
+[ that/DT ]
+,/, ''/'' 
+[ Mr./NNP Morton/NNP ]
+said/VBD ./. 
+
+[ He/PRP ]
+noted/VBD that/IN 
+[ both/PDT ]
+
+[ the/DT Phoenix/NNP ]
+and/CC 
+[ Indianapolis/NNP papers/NNS ]
+publish/VBP 
+[ morning/NN ]
+and/CC 
+[ evening/NN editions/NNS ]
+with/IN 
+[ separate/JJ editorial/NN staffs/NNS ]
+./. 
+
+``/`` Even/RB without/IN collapsing/VBG down/IN to/TO 
+[ one/CD newspaper/NN ]
+
+[ a/DT day/NN ]
+
+[ they/PRP ]
+could/MD save/VB 
+[ some/DT money/NN ]
+./. 
+
+[ I/PRP ]
+'d/MD expect/VB 
+[ they/PRP ]
+would/MD follow/VB 
+[ the/DT trend/NN ]
+and/CC go/VB to/TO 
+[ once-a-day/JJ publication/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Central/NNP 's/POS offering/VBG prospectus/NN ]
+reported/VBD that/IN 
+[ earnings/NNS ]
+for/IN 
+[ the/DT 26/CD weeks/NNS ]
+ended/VBD 
+[ last/JJ June/NNP 25/CD ]
+were/VBD 
+[ $/$ 19.8/CD million/CD ]
+on/IN 
+[ revenue/NN ]
+of/IN 
+[ $/$ 216.3/CD million/CD ]
+./. 
+
+[ That/DT ]
+compares/VBZ with/IN 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 15.4/CD million/CD ]
+on/IN 
+[ revenue/NN ]
+of/IN 
+[ $/$ 207.7/CD million/CD ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+======================================
+
+But/CC 
+[ the/DT document/NN ]
+also/RB discloses/VBZ that/IN 
+[ fiscal/JJ 1988/CD 's/POS earnings/NNS ]
+were/VBD slightly/RB less/JJR than/IN that/IN for/IN 
+[ the/DT previous/JJ year/NN ]
+before/IN 
+[ a/DT change/NN ]
+in/IN 
+[ accounting/NN ]
+./. 
+
+During/IN 
+[ the/DT latest/JJS year/NN Central/NNP ]
+took/VBD 
+[ a/DT $/$ 7.6/CD million/CD charge/NN ]
+for/IN 
+[ workforce/NN reductions/NNS ]
+at/IN 
+[ its/PRP$ Phoenix/NNP dailies/NNS ]
+,/, 
+[ the/DT Arizona/NNP Republic/NNP ]
+and/CC 
+[ Phoenix/NNP Gazette/NNP ]
+./. 
+
+[ That/DT reduction/NN ]
+came/VBD as/IN advertising/NN 
+[ linage/NN ]
+declined/VBD ,/, reflecting/VBG 
+[ a/DT slump/NN ]
+in/IN 
+[ the/DT housing/NN market/NN ]
+and/CC 
+[ the/DT loss/NN ]
+of/IN 
+[ some/DT major/JJ retailers/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+was/VBD founded/VBN in/IN 
+[ 1934/CD ]
+by/IN 
+[ Eugene/NNP C./NNP Pulliam/NNP ]
+,/, 
+[ Mr./NNP Quayle/NNP 's/POS grandfather/NN ]
+./. 
+
+[ The/DT Vice/NNP President/NNP 's/POS father/NN ]
+,/, 
+[ James/NNP C./NNP Quayle/NNP ]
+,/, is/VBZ 
+[ a/DT director/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+[ A/DT majority/NN ]
+of/IN 
+[ the/DT Class/NNP B/NNP common/JJ stock/NN ]
+is/VBZ held/VBN by/IN 
+[ the/DT Eugene/NNP C./NNP Pulliam/NNP Trust/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ to/TO terminate/VB 
+[ 21/CD years/NNS ]
+after/IN 
+[ the/DT death/NN ]
+of/IN 
+[ certain/JJ family/NN descendants/NNS ]
+./. 
+
+According/VBG to/TO 
+[ mortality/NN tables/NNS ]
+,/, 
+[ that/WDT ]
+would/MD be/VB in/IN 
+[ 2060/CD ]
+,/, 
+[ the/DT prospectus/NN ]
+says/VBZ ./. 
+
+======================================
+
+As/IN 
+[ a/DT final/JJ reminder/NN ]
+that/IN 
+[ the/DT company/NN ]
+clearly/RB remains/VBZ in/IN 
+[ family/NN hands/NNS ]
+,/, 
+[ Central/NNP ]
+chose/VBD 
+[ a/DT fitting/NN trading/NN symbol/NN ]
+for/IN 
+[ its/PRP$ stock/NN ]
+:/: 
+[ ECP/NNP ]
+--/: in/IN 
+[ honor/NN ]
+of/IN 
+[ its/PRP$ founder/NN ]
+./. 

@@ -1,0 +1,539 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ford/NNP Motor/NNP Co./NNP ]
+has/VBZ quietly/RB formed/VBN 
+[ a/DT new/JJ holding/VBG company/NN ]
+for/IN 
+[ some/DT ]
+of/IN 
+[ its/PRP$ major/JJ financial/JJ units/NNS ]
+and/CC is/VBZ selling/VBG privately/RB 
+[ a/DT 25/CD %/NN stake/NN ]
+in/IN 
+[ it/PRP ]
+for/IN 
+[ $/$ 800/CD million/CD ]
+to/TO 
+[ institutional/JJ investors/NNS ]
+in/IN 
+[ a/DT move/NN ]
+
+[ that/WDT ]
+should/MD garner/VB 
+[ it/PRP major/JJ tax/NN savings/NNS ]
+./. 
+
+======================================
+
+While/IN 
+[ Ford/NNP officials/NNS ]
+wo/MD n't/RB discuss/VB 
+[ the/DT tax/NN savings/NNS ]
+from/IN 
+[ the/DT transaction/NN ]
+,/, 
+[ tax/NN experts/NNS ]
+say/VBP 
+[ the/DT auto/NN giant/NN ]
+should/MD save/VB 
+[ many/JJ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+./. 
+
+[ ```/NN ]
+
+[ We/PRP ]
+never/RB talk/VBP about/IN 
+[ our/PRP$ tax/NN returns/NNS ]
+,/, ''/'' says/VBZ 
+[ George/NNP V./NNP Brown/NNP III/NNP ]
+,/, 
+[ executive/JJ director/NN ]
+of/IN 
+[ strategic/JJ planning/NN ]
+for/IN 
+[ the/DT company/NN 's/POS Ford/NNP Financial/NNP Services/NNP operation/NN ]
+./. 
+
+======================================
+
+[ The/DT new/JJ holding/VBG company/NN ]
+,/, 
+[ Ford/NNP Holdings/NNPS Inc./NNP ]
+,/, includes/VBZ 
+[ Associates/NNPS Corp./NNP ]
+,/, 
+[ a/DT consumer/NN ]
+and/CC 
+[ commercial/JJ finance/NN company/NN ]
+
+[ that/WDT ]
+is/VBZ 
+[ Ford/NNP 's/POS most/RBS recent/JJ ]
+and/CC 
+[ largest/JJS acquisition/NN ]
+,/, as/RB well/RB as/IN 
+[ Ford/NNP 's/POS insurance/NN ]
+and/CC 
+[ leasing/NN subsidiaries/NNS ]
+./. 
+
+======================================
+
+[ The/DT transaction/NN ]
+will/MD allow/VB 
+[ Ford/NNP ]
+to/TO preserve/VB 
+[ major/JJ tax/NN benefits/NNS ]
+and/CC avoid/VB 
+[ an/DT increase/NN ]
+in/IN 
+[ taxes/NNS ]
+resulting/VBG from/IN 
+[ its/PRP$ $/$ 3.35/CD billion/CD acquisition/NN ]
+of/IN 
+[ Associates/NNPS ]
+from/IN 
+[ Paramount/NNP Communications/NNPS Inc./NNP ]
+,/, 
+[ a/DT purchase/NN ]
+
+[ that/WDT ]
+is/VBZ scheduled/VBN to/TO be/VB completed/VBN at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+Since/IN 
+[ 1986/CD ]
+,/, when/WRB 
+[ Congress/NNP ]
+passed/VBD 
+[ landmark/NN legislation/NN ]
+overhauling/VBG 
+[ the/DT U.S./NNP tax/NN code/NN ]
+,/, 
+[ U.S./NNP multinationals/NNS ]
+have/VBP been/VBN required/VBN to/TO allocate/VB 
+[ interest/NN expenses/NNS ]
+on/IN 
+[ a/DT consolidated/JJ basis/NN ]
+./. 
+
+[ The/DT effect/NN ]
+for/IN 
+[ many/JJ companies/NNS ]
+has/VBZ been/VBN to/TO increase/VB 
+[ the/DT effective/NN cost/NN ]
+of/IN 
+[ debt/NN financing/NN ]
+,/, because/IN 
+[ interest/NN expenses/NNS ]
+allocated/VBN against/IN 
+[ foreign/JJ income/NN ]
+``/`` crowd/VBP out/RP ''/'' 
+[ tax/NN credits/NNS ]
+
+[ that/WDT ]
+otherwise/RB might/MD be/VB available/JJ ./. 
+
+======================================
+
+Thus/RB ,/, 
+[ interest/NN expenses/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+must/MD now/RB be/VB allocated/VBN 
+[ prorata/FW ]
+to/TO 
+[ foreign-based/JJ assets/NNS ]
+./. 
+
+[ This/DT ]
+reduces/VBZ 
+[ the/DT calculation/NN ]
+of/IN 
+[ foreign/JJ tax/NN credits/NNS ]
+used/VBN in/IN 
+[ the/DT U.S./NNP ]
+,/, effectively/RB increasing/VBG 
+[ U.S./NNP tax/NN payments/NNS ]
+by/IN decreasing/VBG 
+[ foreign/JJ tax/NN credits/NNS ]
+,/, 
+[ tax/NN lawyers/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ Ford/NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ and/CC sells/VBZ 
+[ cars/NNS ]
+overseas/RB ,/, typically/RB has/VBZ 
+[ large/JJ foreign/JJ tax/NN ]
+credits/NNS 
+[ each/DT year/NN ]
+./. 
+
+However/RB ,/, by/IN setting/VBG up/RP 
+[ Ford/NNP Holdings/NNPS ]
+,/, and/CC selling/VBG 
+[ the/DT 25/CD %/NN stake/NN ]
+making/VBG 
+[ it/PRP ]
+
+[ a/DT stand-alone/JJ unit/NN ]
+under/IN 
+[ the/DT tax/NN law/NN ]
+,/, 
+[ Ford/NNP ]
+is/VBZ n't/RB required/VBN to/TO consolidate/VB 
+[ these/DT interest/NN expenses/NNS ]
+and/CC can/MD preserve/VB 
+[ its/PRP$ foreign/JJ tax/NN credits/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS push/NN ]
+to/TO trim/VB 
+[ its/PRP$ tax/NN bill/NN ]
+follows/VBZ 
+[ three/CD straight/JJ years/NNS ]
+of/IN 
+[ record/NN earnings/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP made/VBN 
+[ it/PRP ]
+
+[ one/CD ]
+of/IN 
+[ the/DT nation/NN ]
+'s/POS 
+[ most/RBS profitable/JJ corporations/NNS ]
+./. 
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ the/DT No./NN 2/CD auto/NN maker/NN ]
+earned/VBD 
+[ $/$ 5.3/CD billion/CD ]
+,/, 
+[ the/DT highest/JJS net/JJ income/NN ]
+ever/RB achieved/VBN by/IN 
+[ an/DT auto/NN maker/NN ]
+world-wide/JJ ./. 
+
+[ Earnings/NNS ]
+,/, however/RB ,/, are/VBP expected/VBN to/TO decline/VB 
+[ this/DT year/NN ]
+because/IN of/IN 
+[ slower/JJR U.S./NNP car/NN sales/NNS ]
+,/, 
+[ higher/JJR incentive/NN costs/NNS ]
+and/CC 
+[ temporary/JJ plant/NN shutdowns/NNS ]
+./. 
+
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ Ford/NNP executives/NNS ]
+have/VBP said/VBN 
+[ they/PRP ]
+expect/VBP 
+[ financial/JJ services/NNS ]
+to/TO take/VB 
+[ an/DT increasing/JJ role/NN ]
+in/IN 
+[ the/DT company/NN 's/POS profit/NN ]
+,/, eventually/RB constituting/VBG 
+[ one-third/NN ]
+of/IN 
+[ earnings/NNS ]
+,/, according/VBG to/TO 
+[ Ford/NNP Vice/NNP Chairman/NNP Harold/NNP A./NNP Poling/NNP ]
+./. 
+
+======================================
+
+[ The/DT Ford/NNP Motor/NNP Credit/NNP subsidiary/NN ]
+,/, 
+[ which/WDT ]
+was/VBD incorporated/VBN in/IN 
+[ Delaware/NNP ]
+in/IN 
+[ 1959/CD ]
+,/, received/VBD 
+[ a/DT special/JJ exemption/NN ]
+under/IN 
+[ the/DT 1986/CD tax/NN act/NN ]
+./. 
+
+[ The/DT 1986/CD law/NN ]
+generally/RB lowered/VBD 
+[ tax/NN rates/NNS ]
+while/IN closing/VBG 
+[ many/JJ loopholes/NNS ]
+./. 
+
+But/CC 
+[ the/DT more/RBR recent/JJ planned/VBN acquisition/NN ]
+of/IN 
+[ Associates/NNPS ]
+,/, 
+[ a/DT huge/JJ ]
+,/, highly/RB 
+[ leveraged/JJ company/NN ]
+,/, would/MD have/VB eaten/VBN up/RP much/JJ of/IN 
+[ Ford/NNP 's/POS foreign/JJ tax/NN ]
+credits/NNS if/IN 
+[ it/PRP ]
+
+[ was/VBD n't/RB ]
+established/VBN through/IN 
+[ a/DT separate/JJ company/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ Ford/NNP 's/POS Mr./NNP Brown/NNP ]
+said/VBD 
+[ the/DT auto/NN company/NN ]
+is/VBZ in/IN 
+[ the/DT midst/NN ]
+of/IN selling/VBG 
+[ $/$ 800/CD million/CD ]
+of/IN voting/NN 
+[ preferred/VBN stock/NN ]
+to/TO 
+[ institutions/NNS ]
+in/IN 
+[ the/DT so-called/JJ private/JJ placement/NN market/NN ]
+./. 
+
+[ This/DT ]
+nearly/RB 
+[ $/$ 200-billion/CD market/NN ]
+is/VBZ made/VBN up/RP of/IN 
+[ insurance/NN companies/NNS ]
+,/, 
+[ pension/NN funds/NNS ]
+and/CC 
+[ other/JJ big/JJ investors/NNS ]
+;/: 
+[ individual/JJ investors/NNS ]
+ca/MD n't/RB buy/VB 
+[ securities/NNS ]
+issued/VBN there/RB ./. 
+
+======================================
+
+[ Mr./NNP Brown/NNP ]
+confirms/VBZ that/IN 
+[ the/DT creation/NN ]
+of/IN 
+[ Ford/NNP Holdings/NNPS ]
+as/IN 
+[ a/DT separate/JJ entity/NN ]
+preserves/VBZ 
+[ tax/NN benefits/NNS Ford/NNP ]
+currently/RB receives/VBZ because/IN 
+[ Ford/NNP ]
+will/MD own/VB less/JJR than/IN 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT concern/NN ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ Mr./NNP Brown/NNP ]
+says/VBZ 
+[ Ford/NNP ]
+formed/VBD 
+[ the/DT new/JJ holding/VBG unit/NN ]
+primarily/RB to/TO help/VB finance/VB 
+[ Ford/NNP 's/POS acquisition/NN ]
+of/IN 
+[ Associates/NNPS ]
+and/CC to/TO begin/VB selling/VBG 
+[ preferred/JJ stock/NN ]
+,/, ``/`` 
+[ a/DT market/NN Ford/NNP has/VBZ n't/RB ]
+accessed/VBN ./. 
+
+''/'' As/IN for/IN avoiding/VBG 
+[ potential/JJ taxes/NNS ]
+,/, 
+[ he/PRP ]
+only/RB says/VBZ ,/, ``/`` 
+[ There/EX ]
+may/MD be/VB 
+[ some/DT tax/NN benefits/NNS ]
+and/CC 
+[ there/EX ]
+may/MD be/VB 
+[ some/DT tax/NN detriments/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT innovative/JJ Ford/NNP transaction/NN ]
+could/MD be/VB imitated/VBN by/IN 
+[ other/JJ multinational/JJ corporations/NNS ]
+,/, 
+[ investment/NN bankers/NNS ]
+and/CC 
+[ tax/NN lawyers/NNS ]
+say/VBP ./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT strategies/NNS ]
+that/IN 
+[ many/JJ U.S./NNP multinationals/NNS ]
+have/VBP explored/VBN to/TO alleviate/VB 
+[ the/DT adverse/JJ consequences/NNS ]
+of/IN 
+[ the/DT 1986/CD tax/NN act/NN ]
+,/, ''/'' says/VBZ 
+[ James/NNP A./NNP Duncan/NNP ]
+,/, 
+[ a/DT partner/NN ]
+at/IN 
+[ the/DT New/NNP York/NNP law/NN firm/NN ]
+of/IN 
+[ Cleary/NNP ]
+,/, 
+[ Gottlieb/NNP ]
+,/, 
+[ Steen/NNP ]
+&/CC 
+[ Hamilton/NNP ]
+./. 
+
+``/`` 
+[ Many/JJ U.S./NNP multinationals/NNS ]
+have/VBP explored/VBN 
+[ variations/NNS ]
+on/IN 
+[ this/DT strategy/NN ]
+./. 
+
+But/CC 
+[ its/PRP$ costs/NNS ]
+and/CC 
+[ benefits/NNS ]
+depend/VBP very/RB much/RB on/IN 
+[ complex/JJ considerations/NNS specific/JJ ]
+to/TO 
+[ each/DT company/NN ]
+,/, ''/'' 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+Unlike/IN 
+[ common/JJ stock/NN ]
+,/, 
+[ whose/WP$ price/NN ]
+fluctuates/VBZ with/IN 
+[ the/DT perceived/JJ value/NN ]
+of/IN 
+[ a/DT company/NN ]
+,/, 
+[ its/PRP$ assets/NNS ]
+and/CC 
+[ earnings/NNS ]
+,/, preferred/JJ 
+[ stock/NN ]
+has/VBZ 
+[ a/DT ]
+fixed/JJ ,/, stated/JJ 
+[ value/NN ]
+
+[ that/WDT ]
+does/VBZ n't/RB move/VB with/IN 
+[ the/DT actual/JJ value/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+[ Preferred/JJ stock/NN ]
+normally/RB pays/VBZ 
+[ dividends/NNS ]
+to/TO 
+[ holders/NNS ]
+comparable/JJ to/TO 
+[ interest/NN rates/NNS ]
+on/IN 
+[ some/DT money-market/JJ investments/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP Holdings/NNPS '/POS offering/NN ]
+of/IN preferred/JJ ,/, 
+[ which/WDT ]
+is/VBZ being/VBG arranged/VBN by/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+and/CC 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc./NNP ]
+,/, is/VBZ unusual/JJ because/IN 
+[ it/PRP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT rare/JJ instances/NNS ]
+when/WRB 
+[ so-called/JJ money/NN market/NN ]
+preferred/JJ has/VBZ been/VBN sold/VBN with/IN voting/NN 
+[ rights/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP required/VBN to/TO achieve/VB 
+[ beneficial/JJ tax/NN treatment/NN ]
+in/IN 
+[ this/DT case/NN ]
+./. 

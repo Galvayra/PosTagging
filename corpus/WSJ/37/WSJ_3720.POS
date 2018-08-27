@@ -1,0 +1,822 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Frustrated/JJ in/IN 
+[ its/PRP$ bid/NN ]
+to/TO buy/VB 
+[ LIN/NNP Broadcasting/NNP Corp./NNP 's/POS big-city/JJ cellular/JJ phone/NN franchises/NNS ]
+,/, 
+[ McCaw/NNP Cellular/NNP Communications/NNPS Inc./NNP ]
+agreed/VBD to/TO buy/VB 
+[ Metromedia/NNP Co./NNP 's/POS New/NNP York/NNP franchise/NN interests/NNS ]
+for/IN 
+[ $/$ 1.9/CD billion/CD ]
+./. 
+
+======================================
+
+[ McCaw/NNP ]
+also/RB agreed/VBD to/TO sell/VB 
+[ its/PRP$ Southeastern/JJ franchises/NNS ]
+to/TO 
+[ a/DT unit/NN ]
+of/IN 
+[ Atlanta-based/JJ Contel/NNP Corp./NNP ]
+for/IN 
+[ $/$ 1.3/CD billion/CD ]
+./. 
+
+======================================
+
+[ McCaw/NNP ]
+is/VBZ essentially/RB swapping/VBG 
+[ franchises/NNS ]
+in/IN 
+[ the/DT less/RBS populated/JJ states/NNS ]
+of/IN 
+[ Alabama/NNP ]
+,/, 
+[ Kentucky/NNP ]
+and/CC 
+[ Tennessee/NNP ]
+for/IN 
+[ a/DT large/JJ interest/NN ]
+in/IN 
+[ the/DT biggest/JJS market/NN ]
+of/IN 
+[ all-New/NNP York/NNP ] 
+./. 
+
+But/CC 
+[ LIN/NNP ]
+may/MD again/RB frustrate/VB 
+[ McCaw/NNP ]
+./. 
+
+[ LIN/NNP ]
+has/VBZ 
+[ a/DT right/NN ]
+of/IN 
+[ first/JJ refusal/NN ]
+to/TO buy/VB 
+[ Metromedia/NNP 's/POS interest/NN ]
+,/, and/CC 
+[ some/DT analysts/NNS ]
+expect/VBP 
+[ LIN/NNP ]
+to/TO exercise/VB 
+[ that/DT right/NN ]
+./. 
+
+======================================
+
+[ McCaw/NNP ]
+has/VBZ aggressively/RB acquired/VBN 
+[ franchises/NNS ]
+--/: and/CC 
+[ huge/JJ amounts/NNS ]
+of/IN 
+[ debt/NN ]
+--/: in/IN 
+[ efforts/NNS ]
+to/TO build/VB 
+[ a/DT national/JJ independent/JJ cellular/JJ network/NN ]
+./. 
+
+However/RB ,/, 
+[ many/JJ ]
+of/IN 
+[ McCaw/NNP 's/POS franchises/NNS ]
+are/VBP less/RBR populated/JJ 
+[ areas/NNS ]
+such/JJ as/IN 
+[ the/DT Southeast/NNP ]
+./. 
+
+Through/IN 
+[ an/DT unsolicited/JJ tender/NN offer/NN ]
+,/, 
+[ McCaw/NNP ]
+has/VBZ been/VBN seeking/VBG 
+[ LIN/NNP 's/POS valuable/JJ franchises/NNS ]
+in/IN 
+[ urban/JJ markets/NNS ]
+,/, including/VBG 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ Philadelphia/NNP ]
+,/, 
+[ Dallas/NNP ]
+,/, 
+[ Houston/NNP ]
+,/, and/CC 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+[ LIN/NNP ]
+,/, after/IN 
+[ rejecting/VBG McCaw/NN 's/POS $/$ 110-a-share/JJ bid/NN ]
+as/IN 
+[ inadequate/JJ ]
+,/, sought/VBD out/RP 
+[ a/DT merger/NN ]
+with/IN 
+[ BellSouth/NNP Corp./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ based/VBN in/IN 
+[ Atlanta/NNP ]
+./. 
+
+[ Shareholders/NNS ]
+are/VBP expected/VBN to/TO vote/VB on/IN 
+[ the/DT merger/NN ]
+within/IN 
+[ the/DT next/JJ two/CD months/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT Metromedia/NNP purchase/NN ]
+,/, 
+[ McCaw/NNP ]
+would/MD acquire/VB 
+[ a/DT 50/CD %/NN voting/NN interest/NN ]
+and/CC 
+[ a/DT 45.67/CD %/NN equity/NN interest/NN ]
+in/IN 
+[ the/DT New/NNP York/NNP City/NNP non-wireline/JJ cellular/JJ franchise/NN ]
+./. 
+
+[ New/NNP York-based/JJ LIN/NNP ]
+currently/RB owns/VBZ 
+[ a/DT 50/CD %/NN voting/NN interest/NN ]
+and/CC 
+[ a/DT 45/CD %/NN equity/NN interest/NN ]
+in/IN 
+[ the/DT franchise/NN ]
+./. 
+
+If/IN 
+[ LIN/NNP ]
+does/VBZ n't/RB exercise/VB 
+[ its/PRP$ option/NN ]
+,/, 
+[ it/PRP ]
+would/MD become/VB 
+[ partners/NNS ]
+in/IN 
+[ New/NNP York/NNP ]
+with/IN 
+[ McCaw/NNP ]
+./. 
+
+======================================
+
+[ Metromedia/NNP 's/POS stake/NN ]
+represents/VBZ about/IN 
+[ 6.8/CD million/CD potential/JJ customers/NNS ]
+,/, or/CC POPs/NNS in/IN 
+[ the/DT industry/NN jargon/NN ]
+./. 
+
+[ McCaw/NNP 's/POS $/$ 1.9/CD billion/CD offer/NN values/VBZ ]
+that/IN 
+[ stake/NN ]
+at/IN 
+[ $/$ 275/CD ]
+
+[ a/DT POP/NN ]
+./. 
+
+[ The/DT franchises/NNS ]
+being/VBG sold/VBN to/TO Contel/NNP represent/VBP about/IN 
+[ 6.1/CD million/CD potential/JJ customers/NNS ]
+,/, making/VBG 
+[ the/DT price/NN ]
+about/IN 
+[ $/$ 205/CD ]
+
+[ a/DT POP/NN ]
+./. 
+
+======================================
+
+[ BellSouth/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ the/DT finances/NNS ]
+to/TO exercise/VB 
+[ LIN/NNP 's/POS option/NN ]
+on/IN 
+[ New/NNP York/NNP franchise/NN ]
+,/, has/VBZ expressed/VBN 
+[ interest/NN ]
+in/IN attaining/VBG 
+[ the/DT remainder/NN ]
+of/IN 
+[ the/DT market/NN ]
+for/IN 
+[ the/DT merged/JJ company/NN ]
+./. 
+
+[ LIN/NNP ]
+has/VBZ said/VBN in/IN 
+[ the/DT past/NN ]
+that/IN 
+[ it/PRP ]
+wants/VBZ to/TO increase/VB 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ its/PRP$ current/JJ markets/NNS ]
+,/, if/IN 
+[ the/DT price/NN ]
+is/VBZ right/JJ ./. 
+
+======================================
+
+Thus/RB ,/, 
+[ some/DT analysts/NNS ]
+were/VBD n't/RB optimistic/JJ about/IN 
+[ McCaw/NNP 's/POS ability/NN ]
+to/TO acquire/VB 
+[ Metromedia/NNP 's/POS New/NNP York/NNP interests/NNS ]
+./. 
+
+[ Brad/NNP Peery/NNP ]
+,/, 
+[ a/DT communications/NNS analyst/NN ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+expects/VBZ 
+[ LIN/NNP ]
+would/MD exercise/VB 
+[ its/PRP$ right/NN ]
+to/TO 
+[ the/DT New/NNP York/NNP franchise/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+ca/MD n't/RB think/VB of/IN 
+[ any/DT reason/NN ]
+
+[ they/PRP ]
+would/MD n't/RB ./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ McCaw/NNP 's/POS only/JJ option/NN ]
+is/VBZ to/TO sweeten/VB 
+[ its/PRP$ tender/NN ]
+offer/NN before/IN 
+[ shareholders/NNS ]
+vote/VBP on/IN 
+[ the/DT LIN-BellSouth/JJ merger/NN ]
+./. 
+
+======================================
+
+[ Michael/NNP Plouf/NNP ]
+,/, 
+[ LIN/NNP 's/POS vice/NN president/NN ]
+and/CC 
+[ treasurer/NN ]
+,/, said/VBD yesterday/NN that/IN 
+[ LIN/NNP ]
+and/CC 
+[ BellSouth/NNP ]
+will/MD decide/VB independently/RB 
+[ what/WP ]
+to/TO do/VB ./. 
+
+But/CC 
+[ he/PRP ]
+added/VBD ,/, ``/`` If/IN 
+[ there/EX ]
+'s/VBZ 
+[ anything/NN ]
+in/IN 
+[ the/DT world/NN ]
+
+[ we/PRP ]
+'d/MD be/VB willling/VBG to/TO pay/VB 
+[ $/$ 275/CD ]
+ {/( per/IN 
+[ potential/JJ customer/NN ]
+ }/) for/IN ,/, 
+[ it/PRP ]
+'s/VBZ 
+[ this/DT ]
+./. 
+
+But/CC 
+[ we/PRP ]
+still/RB have/VB to/TO make/VB 
+[ the/DT economic/JJ judgment/NN ]
+before/IN 
+[ we/PRP ]
+spend/VBP 
+[ the/DT $/$ 2/CD billion/CD ]
+./. 
+
+''/'' 
+======================================
+
+[ Other/JJ analysts/NNS ]
+warned/VBD ,/, however/RB ,/, that/IN 
+[ the/DT combined/VBN cellular-phone/NN interests/NNS ]
+of/IN 
+[ BellSouth/NNP ]
+and/CC 
+[ LIN/NNP ]
+might/MD be/VB reluctant/JJ to/TO pile/VB on/RP 
+[ more/JJR debt/NN ]
+by/IN buying/VBG 
+[ New/NNP York-based/JJ Metromedia/NNP 's/POS interests/NNS ]
+,/, and/CC 
+[ BellSouth/NNP itself/PRP ]
+might/MD object/VB to/TO 
+[ the/DT price/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ McCaw/NNP 's/POS chairman/NN Craig/NNP McCaw/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+believes/VBZ 
+[ it/PRP ]
+is/VBZ ``/`` 
+[ a/DT possibility/NN ]
+''/'' that/IN 
+[ LIN/NNP ]
+will/MD exercise/VB 
+[ its/PRP$ right/NN ]
+,/, but/CC 
+[ he/PRP ]
+would/MD n't/RB speculate/VB on/IN 
+[ LIN/NNP 's/POS response/NN ]
+./. 
+
+[ He/PRP ]
+declined/VBD to/TO say/VB whether/IN 
+[ McCaw/NNP ]
+will/MD revise/VB 
+[ its/PRP$ bid/NN ]
+for/IN 
+[ LIN/NNP ]
+if/IN 
+[ LIN/NNP ]
+picks/VBZ up/RP 
+[ the/DT New/NNP York/NNP franchise/NN ]
+./. 
+
+[ That/DT bid/NN ]
+,/, for/IN 
+[ the/DT 90/CD %/NN ]
+of/IN 
+[ LIN/NNP ]
+that/IN 
+[ McCaw/NNP ]
+does/VBZ n't/RB already/RB 
+[ own/JJ ]
+,/, has/VBZ been/VBN extended/VBN to/TO 
+[ Oct/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP McCaw/NNP ]
+said/VBD 
+[ the/DT ]
+
+[ he/PRP ]
+does/VBZ n't/RB expect/VB 
+[ his/PRP$ company/NN ]
+will/MD sell/VB off/RP 
+[ any/DT other/JJ franchises/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+felt/VBD pretty/RB comfortable/JJ with/IN 
+[ Contel/NNP ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ like/IN 
+[ a/DT parent/NN ]
+placing/VBG 
+[ a/DT child/NN ]
+with/IN 
+[ a/DT good/JJ spouse/NN ]
+./. 
+
+''/'' However/RB ,/, ``/`` 
+[ we/PRP ]
+'re/VBP pretty/RB dedicated/VBN to/TO not/RB selling/VBG 
+[ other/JJ properties/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ McCaw/NNP ]
+,/, based/VBN in/IN 
+[ Kirkland/NNP ]
+,/, 
+[ Wash./NNP ]
+,/, currently/RB has/VBZ 
+[ rights/NNS ]
+to/TO sell/VB to/TO 
+[ 50/CD million/CD potential/JJ customers/NNS ]
+in/IN 
+[ 26/CD states/NNS ]
+,/, making/VBG 
+[ it/PRP ]
+
+[ the/DT biggest/JJS cellular-phone/NN operator/NN ]
+./. 
+
+======================================
+
+[ The/DT price/NN Contel/NNP ]
+paid/VBD for/IN 
+[ the/DT franchises/NNS ]
+in/IN 
+[ the/DT three/CD Southeastern/JJ states/NNS ]
+was/VBD considered/VBN 
+[ a/DT strong/JJ bid/NN ]
+
+[ that/WDT ]
+might/MD significantly/RB dilute/VB 
+[ its/PRP$ earnings/NNS ]
+./. 
+
+[ The/DT purchase/NN ]
+will/MD make/VB 
+[ Contel/NNP ]
+
+[ the/DT seventh-largest/JJ cellular/JJ operator/NN ]
+in/IN 
+[ the/DT country/NN ]
+,/, adding/VBG 
+[ 6.1/CD million/CD POPs/NNS ]
+to/TO 
+[ its/PRP$ ]
+existing/VBG 
+[ 14.4/CD million/CD potential/JJ customers/NNS ]
+./. 
+
+[ Contel/NNP ]
+expects/VBZ 
+[ the/DT acquisition/NN ]
+will/MD be/VB financed/VBN through/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ debt/NN ]
+and/CC 
+[ equity/NN ]
+./. 
+
+[ The/DT acquisition/NN ]
+is/VBZ expected/VBN to/TO dilute/VB 
+[ earnings/NNS ]
+about/IN 
+[ 15/CD %/NN ]
+to/TO 
+[ 20/CD %/NN ]
+,/, according/VBG to/TO 
+[ James/NNP Mason/NNP McCabe/NNP ]
+,/, 
+[ analyst/NN ]
+for/IN 
+[ Nomura/NNP Securities/NNPS International/NNP ]
+./. 
+
+In/IN 
+[ the/DT long/JJ term/NN ]
+,/, 
+[ he/PRP ]
+added/VBD ,/, 
+[ Contel/NNP ]
+will/MD benefit/VB significantly/RB from/IN 
+[ the/DT booming/JJ Southeastern/JJ region/NN ]
+and/CC 
+[ cellular/JJ industry/NN ]
+./. 
+
+======================================
+
+[ Don/NNP Weber/NNP ]
+,/, 
+[ Contel/NNP 's/POS president/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+,/, said/VBD 
+[ the/DT proposed/VBN deal/NN ]
+``/`` moves/VBZ 
+[ Contel/NNP ]
+out/IN of/IN 
+[ the/DT triple-A/JJ league/NN ]
+into/IN 
+[ the/DT major/JJ leagues/NNS ]
+./. 
+
+[ That/DT ]
+makes/VBZ 
+[ us/PRP ]
+
+[ a/DT major/JJ player/NN ]
+./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ There/EX ]
+will/MD be/VB 
+[ dilution/NN ]
+,/, ''/'' 
+[ Mr./NNP Weber/NNP ]
+conceded/VBD ,/, ``/`` but/CC how/WRB much/RB 
+[ I/PRP ]
+'m/VBP not/RB willing/JJ to/TO say/VB at/IN 
+[ this/DT time/NN ]
+,/, ''/'' adding/VBG that/IN 
+[ the/DT company/NN ]
+is/VBZ studying/VBG 
+[ financing/NN alternatives/NNS ]
+./. 
+
+However/RB ,/, 
+[ he/PRP ]
+expects/VBZ 
+[ the/DT dividend/NN ]
+to/TO remain/VB 
+[ the/DT same/JJ ]
+./. 
+
+``/`` 
+[ My/PRP$ golden/JJ rule/NN ]
+is/VBZ 
+[ thou/PRP ]
+shall/MD not/RB fool/VB with/IN 
+[ the/DT dividend/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ national/JJ over-the-counter/JJ trading/NN yesterday/NN ]
+,/, 
+[ McCaw/NNP 's/POS stock/NN ]
+closed/VBD up/RB 
+[ $/$ 1/CD ]
+
+[ a/DT share/NN ]
+,/, at/IN 
+[ $/$ 40.50/CD ]
+,/, and/CC 
+[ LIN/NNP 's/POS stock/NN ]
+closed/VBD down/RB 
+[ $/$ 3.125/CD ]
+at/IN 
+[ $/$ 108.50/CD ]
+./. 
+
+[ McCaw/NNP 's/POS move/NN ]
+sent/VBD 
+[ cellular-telephone/NN stocks/NNS ]
+surging/VBG again/RB ./. 
+
+======================================
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ,/, 
+[ Contel/NNP ]
+finished/VBD at/IN 
+[ $/$ 34.50/CD ]
+,/, down/RB 
+[ 62.5/CD cents/NNS ]
+,/, and/CC 
+[ BellSouth/NNP ]
+closed/VBD up/RB 
+[ $/$ 1/CD ]
+at/IN 
+[ $/$ 55.125/CD ]
+./. 
+
+======================================
+
+[ McCaw/NNP 's/POS proposition/NN ]
+is/VBZ ``/`` 
+[ a/DT very/RB shrewd/JJ move/NN ]
+to/TO salvage/VB 
+[ what/WP ]
+has/VBZ become/VBN 
+[ a/DT bad/JJ situation/NN ]
+''/'' in/IN 
+[ regard/NN ]
+to/TO 
+[ its/PRP$ tender/NN ]
+offer/NN still/RB outstanding/JJ for/IN 
+[ LIN/NNP ]
+,/, said/VBD 
+[ Jack/NNP Grubman/NNP ]
+,/, 
+[ a/DT telecommunications/NN analyst/NN ]
+with/IN 
+[ PaineWebber/NNP Inc/NNP ]
+./. 
+
+[ He/PRP ]
+believes/VBZ 
+[ McCaw/NNP ]
+has/VBZ basically/RB forced/VBN 
+[ LIN/NNP ]
+to/TO pay/VB 
+[ $/$ 275/CD ]
+or/CC more/JJR for/IN 
+[ the/DT New/NNP York/NNP City/NNP franchise/NN ]
+should/MD 
+[ LIN/NNP ]
+exercise/VB 
+[ its/PRP$ option/NN ]
+./. 
+
+[ BellSouth/NNP ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, may/MD not/RB be/VB willing/JJ to/TO pay/VB 
+[ such/JJ a/DT price/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT conservative/JJ Bell/NNP company/NN ]
+./. 
+
+''/'' Indeed/RB ,/, 
+[ BellSouth/NNP ]
+said/VBD 
+[ its/PRP$ merger/NN agreement/NN ]
+with/IN 
+[ LIN/NNP ]
+was/VBD 
+[ a/DT ]
+``/`` 
+[ great/JJ deal/NN ]
+''/'' because/IN 
+[ it/PRP ]
+did/VBD n't/RB have/VB to/TO pay/VB 
+[ the/DT lofty/JJ prices/NNS ]
+usually/RB associated/VBN with/IN 
+[ cellular/JJ franchises/NNS ]
+./. 
+
+======================================
+
+If/IN 
+[ LIN/NNP ]
+does/VBZ n't/RB exercise/VB 
+[ the/DT option/NN ]
+and/CC 
+[ McCaw/NNP ]
+does/VBZ acquire/VB 
+[ Metromedia/NNP 's/POS interest/NN ]
+,/, ``/`` 
+[ the/DT ironic/JJ thing/NN ]
+is/VBZ that/IN 
+[ McCaw/NNP ]
+could/MD end/VB up/IN being/VBG 
+[ LIN/NNP 's/POS controlling/VBG partner/NN ]
+''/'' in/IN 
+[ the/DT New/NNP York/NNP franchise/NN ]
+,/, 
+[ Mr./NNP Grubman/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ McCaw/NNP ]
+may/MD not/RB have/VB been/VBN able/JJ to/TO buy/VB 
+[ LIN/NNP ]
+,/, but/CC 
+[ it/PRP ]
+could/MD end/VB up/RB 
+[ as/RB its/PRP$ partner/NN ]
+./. 
+
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT face-saving/JJ move/NN ]
+for/IN 
+[ Craig/NNP McCaw/NNP ]
+,/, ''/'' 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+[ Contel/NNP 's/POS purchase/NN ]
+of/IN 
+[ McCaw/NNP 's/POS Southeastern/JJ properties/NNS ]
+is/VBZ n't/RB contingent/JJ on/IN 
+[ McCaw/NNP 's/POS plan/NN ]
+to/TO buy/VB into/IN 
+[ the/DT New/NNP York/NNP City/NNP market/NN ]
+./. 
+
+======================================
+
+[ Analysts/NNP ]
+said/VBD 
+[ the/DT transaction/NN ]
+may/MD signal/VB 
+[ a/DT consolidation/NN ]
+in/IN 
+[ the/DT young/JJ industry/NN ]
+./. 
+
+[ Most/JJS companies/NNS ]
+have/VBP 
+[ their/PRP$ cellular/JJ properties/NNS ]
+scattered/VBN through/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Analysts/NNP ]
+believe/VBP 
+[ many/JJ companies/NNS ]
+will/MD begin/VB swapping/VBG or/CC selling/VBG 
+[ certain/JJ cellular/JJ properties/NNS ]
+in/IN 
+[ order/NN ]
+to/TO buy/VB franchises/NNS closer/RBR to/TO 
+[ their/PRP$ desired/JJ markets/NNS ]
+./. 
+
+======================================
+
+[ The/DT LIN-BellSouth/JJ merger/NN proposal/NN ]
+is/VBZ valued/VBN at/IN 
+[ $/$ 105/CD ]
+to/TO 
+[ $/$ 150/CD ]
+per/IN 
+[ LIN/NNP share/NN ]
+,/, depending/VBG on/IN 
+[ the/DT value/NN ]
+placed/VBN on/IN 
+[ the/DT 45.5/CD million/CD potential/JJ customers/NNS ]
+
+[ the/DT merged/VBN cellular/JJ company/NN ]
+will/MD have/VB ./. 
+
+[ One/CD financial/JJ adviser/NN ]
+said/VBD 
+[ the/DT combined/VBN company/NN ]
+could/MD be/VB valued/VBN at/IN 
+[ $/$ 10/CD billion/CD ]
+./. 
+
+======================================
+
+[ Janet/NNP Guyon/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

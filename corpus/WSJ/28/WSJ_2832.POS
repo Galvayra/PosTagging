@@ -1,0 +1,706 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Laurie/NNP Anderson/NNP ]
+used/VBD to/TO light/VB up/IN 
+[ the/DT stage/NN ]
+./. 
+
+And/CC 
+[ she/PRP ]
+could/MD do/VB so/RB simply/RB by/IN putting/VBG 
+[ an/DT incandescent/JJ light/NN bulb/NN ]
+in/IN 
+[ her/PRP$ mouth/NN ]
+and/CC smiling/VBG 
+[ an/DT eerie/JJ half/NN smile/NN ]
+,/, 
+[ her/PRP$ teeth/NNS ]
+glowing/VBG 
+[ an/DT unsettling/VBG ]
+but/CC very/RB pretty/RB yellow/JJ ./. 
+
+[ She/PRP ]
+told/VBD 
+[ amusing/JJ stories/NNS ]
+about/IN 
+[ the/DT oddities/NNS ]
+of/IN 
+[ American/JJ life/NN ]
+
+[ that/WDT ]
+maybe/RB meant/VBD 
+[ something/NN ]
+more/JJR than/IN 
+[ their/PRP$ literal/JJ content/NN ]
+,/, or/CC maybe/RB did/VBD n't/RB ./. 
+
+But/CC 
+[ so/RB appealing/JJ ]
+was/VBD 
+[ her/PRP$ delivery/NN ]
+that/IN 
+[ no/DT one/NN ]
+really/RB cared/VBD ,/, especially/RB when/WRB 
+[ she/PRP ]
+illuminated/VBD 
+[ her/PRP$ vignettes/NNS ]
+by/IN drawing/VBG 
+[ elementary/JJ ]
+but/CC wonderfully/RB 
+[ apt/JJ images/NNS ]
+with/IN 
+[ a/DT light/NN pen/NN ]
+,/, by/IN playing/VBG 
+[ a/DT funny/JJ violin/NN ]
+with/IN 
+[ a/DT bow/NN ]
+made/VBN of/IN 
+[ recording/VBG tape/NN ]
+and/CC 
+[ a/DT playback/NN head/NN ]
+for/IN 
+[ the/DT bridge/NN ]
+,/, by/IN singing/VBG in/IN 
+[ a/DT goofy/JJ ]
+electronically/RB altered/VBN 
+[ voice/NN ]
+./. 
+
+======================================
+
+So/IN well/RB ,/, in/IN 
+[ fact/NN ]
+,/, did/VBD 
+[ Ms./NNP Anderson/NNP ]
+manipulate/VB 
+[ visual/JJ information/NN ]
+,/, 
+[ music/NN ]
+,/, 
+[ theater/NN ]
+and/CC 
+[ technology/NN ]
+to/TO make/VB 
+[ the/DT ordinary/JJ fresh/JJ ]
+and/CC 
+[ delightful/JJ ]
+--/: to/TO make/VB ,/, for/IN 
+[ instance/NN ]
+,/, 
+[ common/JJ objects/NNS ]
+like/IN 
+[ sunglasses/NN ]
+and/CC 
+[ airplanes/NNS ]
+appear/VB 
+[ avant-garde/JJ ]
+and/CC 
+[ miraculous/JJ ]
+--/: that/IN 
+[ it/PRP ]
+seemed/VBD as/IN if/IN 
+[ Ms./NNP Anderson/NNP ]
+just/RB might/MD become/VB 
+[ the/DT ultimate/JJ pop/NN artist/NN ]
+./. 
+
+But/CC 
+[ that/DT ]
+was/VBD 
+[ six/CD years/NNS ]
+ago/IN ,/, when/WRB 
+[ Ms./NNP Anderson/NNP ]
+had/VBD collected/VBN 
+[ all/PDT her/PRP$ material/NN ]
+together/RB into/IN 
+[ a/DT four-part/JJ ]
+,/, 
+[ two-evening/JJ performance/NN ]
+entitled/VBN ``/`` 
+[ United/NNP States/NNPS ]
+,/, ''/'' 
+[ which/WDT ]
+
+[ she/PRP ]
+presented/VBD live/JJ at/IN 
+[ the/DT Brooklyn/NNP Academy/NNP ]
+of/IN 
+[ Music/NNP ]
+and/CC released/VBD as/IN 
+[ a/DT recording/NN ]
+and/CC 
+[ a/DT book/NN ]
+./. 
+
+======================================
+
+Then/RB ,/, as/IN 
+[ her/PRP$ fame/NN ]
+grew/VBD ,/, 
+[ Ms./NNP Anderson/NNP ]
+began/VBD to/TO flounder/VB ./. 
+
+Overly/RB 
+[ complex/JJ technology/NN ]
+burdened/VBD 
+[ her/PRP$ stage/NN performances/NNS ]
+and/CC took/VBD away/RB 
+[ their/PRP$ fun/NN ]
+;/: 
+[ her/PRP$ songs/NNS ]
+started/VBD to/TO sound/VB pretentious/JJ as/IN 
+[ she/PRP ]
+gave/VBD ever/RB 
+[ more/JJR importance/NN ]
+to/TO 
+[ music/NN ]
+in/IN 
+[ her/PRP$ work/NN ]
+;/: 
+[ her/PRP$ material/NN ]
+lost/VBD 
+[ touch/NN ]
+with/IN 
+[ the/DT common/JJ world/NN ]
+as/IN 
+[ stardom/NN ]
+removed/VBD 
+[ her/PRP ]
+from/IN 
+[ it/PRP ]
+./. 
+
+For/IN 
+[ the/DT past/JJ couple/NN ]
+of/IN 
+[ years/NNS ]
+,/, 
+[ she/PRP ]
+was/VBD little/RB heard/VBN from/IN ./. 
+
+======================================
+
+Now/RB ,/, however/RB ,/, 
+[ Ms./NNP Anderson/NNP ]
+has/VBZ returned/VBN here/RB to/TO 
+[ the/DT site/NN ]
+of/IN 
+[ her/PRP$ greatest/JJS triumph/NN ]
+with/IN 
+[ a/DT new/JJ 90-minute/JJ solo/NN performance/NN ]
+./. 
+
+But/CC ,/, unfortunately/RB ,/, ``/`` 
+[ Empty/NNP Spaces/NNPS ]
+,/, ''/'' 
+[ which/WDT ]
+has/VBZ opened/VBN 
+[ this/DT year/NN 's/POS installment/NN ]
+of/IN 
+[ the/DT Next/NNP Wave/NNP Festival/NNP ]
+at/IN 
+[ BAM/NNP ]
+and/CC 
+[ runs/VBZ ]
+through/IN 
+[ Sunday/NNP ]
+,/, is/VBZ ,/, well/RB ,/, 
+[ what/WP ]
+
+[ its/PRP$ name/NN ]
+implies/VBZ ./. 
+
+In/IN 
+[ fairness/NN ]
+to/TO 
+[ Ms./NNP Anderson/NNP ]
+,/, 
+[ her/PRP$ show/NN ]
+really/RB is/VBZ 
+[ something/NN ]
+to/TO see/VB if/IN only/RB for/IN 
+[ the/DT sparkling/JJ slides/NNS ]
+,/, 
+[ animation/NN ]
+and/CC 
+[ film/NN ]
+so/RB beautifully/RB projected/VBN on/IN 
+[ various-sized/JJ screens/NNS ]
+around/IN 
+[ the/DT stage/NN ]
+./. 
+
+And/CC 
+[ the/DT diminutive/JJ ]
+,/, 
+[ spike-haired/JJ Ms./NNP Anderson/NNP ]
+ (/( 
+[ who/WP ]
+has/VBZ lately/RB complained/VBN of/IN being/VBG in/IN 
+[ a/DT weakened/VBN state/NN ]
+after/IN catching/VBG 
+[ an/DT ocean-pollution/NN disease/NN ]
+in/IN 
+[ Brazil/NNP last/JJ summer/NN ]
+,/, and/CC 
+[ who/WP ]
+had/VBD to/TO cancel/VB 
+[ two/CD performances/NNS last/JJ weekend/NN ]
+ )/) still/RB has/VBZ 
+[ a/DT way/NN ]
+of/IN commanding/VBG 
+[ the/DT stage/NN ]
+,/, as/IN 
+[ she/PRP ]
+uses/VBZ 
+[ all/DT ]
+that/DT 
+[ voice-altering/JJ technology/NN ]
+to/TO change/VB 
+[ personae/NNS ]
+as/IN if/IN by/IN 
+[ magic/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ all/PDT that/DT technology/NN ]
+now/RB feels/VBZ like/IN 
+[ part/NN ]
+of/IN 
+[ a/DT magician/NN 's/POS bag/NN ]
+of/IN 
+[ tricks/NNS ]
+,/, 
+[ something/NN ]
+employed/VBD to/TO make/VB 
+[ substance/NN ]
+out/IN of/IN 
+[ thin/JJ air/NN ]
+./. 
+
+[ That/DT ]
+is/VBZ most/RBS apparent/JJ in/IN 
+[ the/DT music/NN ]
+./. 
+
+[ Ms./NNP Anderson/NNP ]
+has/VBZ not/RB been/VBN idle/JJ during/IN 
+[ her/PRP$ absence/NN ]
+from/IN 
+[ the/DT stage/NN ]
+./. 
+
+[ She/PRP ]
+learned/VBD to/TO sing/VB ;/: and/CC 
+[ she/PRP ]
+turns/VBZ out/IN to/TO have/VB 
+[ an/DT effective/JJ ]
+,/, if/IN limited/VBN ,/, 
+[ soprano/JJ voice/NN ]
+./. 
+
+But/CC 
+[ she/PRP ]
+has/VBZ not/RB learned/VBN to/TO create/VB 
+[ music/NN ]
+
+[ that/WDT ]
+stands/VBZ on/IN 
+[ its/PRP$ own/JJ ]
+./. 
+
+[ Her/PRP$ music/NN ]
+had/VBD been/VBN minimal/JJ but/CC inspired/VBN in/IN 
+[ its/PRP$ way/NN ]
+of/IN adding/VBG 
+[ a/DT spunky/NN ]
+and/CC 
+[ clever/JJ accompaniment/NN ]
+to/TO 
+[ the/DT delivery/NN ]
+of/IN 
+[ her/PRP$ stories/NNS ]
+./. 
+
+When/WRB 
+[ she/PRP ]
+needed/VBD 
+[ more/JJR ]
+,/, 
+[ she/PRP ]
+relied/VBD on/IN 
+[ good/JJ musicians/NNS ]
+to/TO support/VB 
+[ her/PRP ]
+./. 
+
+======================================
+
+In/IN 
+[ her/PRP$ new/JJ performance/NN ]
+,/, 
+[ she/PRP ]
+relies/VBZ on/IN 
+[ machines/NNS ]
+--/: 
+[ a/DT space-age/JJ violin/NN ]
+,/, 
+[ keyboards/NNS ]
+ (/( 
+[ which/WDT ]
+
+[ she/PRP ]
+does/VBZ n't/RB play/VB with/IN 
+[ much/JJ proficiency/NN ]
+ )/) and/CC 
+[ microphones/NNS all/DT ]
+connected/VBN to/TO 
+[ computers/NNS ]
+./. 
+
+But/CC ,/, in/IN 
+[ her/PRP$ hands/NNS ]
+,/, 
+[ all/DT the/DT computers/NNS ]
+can/MD do/VB is/VBZ make/VB 
+[ big/JJ ]
+and/CC 
+[ unusual/JJ sounds/NNS ]
+out/IN of/IN 
+[ bland/JJ ]
+or/CC 
+[ banal/JJ ideas/NNS ]
+./. 
+
+Once/RB 
+[ Ms./NNP Anderson/NNP ]
+could/MD give/VB 
+[ human/JJ expression/NN ]
+to/TO 
+[ a/DT blowup/NN ]
+of/IN 
+[ a/DT wall/NN socket/NN ]
+,/, but/CC now/RB 
+[ Ms./NNP Anderson/NNP 's/POS parade/NN ]
+of/IN 
+[ images/NNS ]
+--/: 
+[ paper/NN coffee/NN cups/NNS ]
+,/, 
+[ Elvis/NNP ]
+or/CC 
+[ a/DT flying/VBG flashlight/NN ]
+--/: 
+[ neither/DT ]
+startle/VB nor/CC amaze/VB ./. 
+
+======================================
+
+Nor/CC do/VBP 
+[ her/PRP$ metaphors/NNS ]
+resonate/VB 
+[ any/DT longer/JJR ]
+./. 
+
+[ She/PRP ]
+compares/VBZ 
+[ Hitler/NNP 's/POS speaking/NN style/NN ]
+to/TO 
+[ a/DT drummer/NN ]
+and/CC 
+[ Reagan/NNP 's/POS ]
+to/TO 
+[ a/DT crooner/NN ]
+singing/VBG ``/`` When/WRB 
+[ You/PRP Wish/VB Upon/IN ]
+
+[ a/DT Star/NN ]
+,/, ''/'' but/CC 
+[ she/PRP ]
+does/VBZ little/RB more/JJR with/IN 
+[ those/DT ]
+not/RB 
+[ unobvious/JJ notions/NNS ]
+than/IN 
+[ a/DT standup/JJ comic/JJ might/NN ]
+./. 
+
+[ Worse/JJR ]
+,/, 
+[ much/JJ ]
+of/IN 
+[ her/PRP$ early/JJ irony/NN ]
+has/VBZ now/RB turned/VBN 
+[ angry/JJ ]
+and/CC 
+[ self-referential/JJ ]
+./. 
+
+======================================
+
+But/CC conventional/JJ as/IN 
+[ Ms./NNP Anderson/NNP ]
+has/VBZ become/VBN ,/, 
+[ she/PRP ]
+still/RB can/MD make/VB 
+[ the/DT inspired/JJ ]
+,/, 
+[ ironic/JJ ]
+,/, 
+[ off-beat/JJ observation/NN ]
+now/RB and/CC then/RB ,/, as/IN when/WRB 
+[ she/PRP ]
+offers/VBZ 
+[ her/PRP off-center/JJ interpretation/NN ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ Star-Spangled/NNP Banner/NNP ]
+./. 
+
+''/'' In/IN 
+[ fact/NN ]
+,/, 
+[ Ms./NNP Anderson/NNP 's/POS real/JJ talent/NN ]
+may/MD lie/VB more/JJR as/IN 
+[ an/DT interpretive/JJ artist/NN ]
+than/IN 
+[ a/DT creative/JJ one/CD ]
+,/, and/CC 
+[ one/NN ]
+could/MD imagine/VB 
+[ something/NN ]
+spectacular/JJ if/IN ,/, say/VB ,/, 
+[ an/DT opera/NN company/NN ]
+turned/VBD 
+[ her/PRP$ ]
+and/CC 
+[ her/PRP$ technology/NN ]
+loose/JJ on/IN 
+[ a/DT production/NN ]
+of/IN 
+[ a/DT standard/JJ repertoire/NN opera/NN ]
+./. 
+
+Or/CC even/RB 
+[ an/DT ]
+entirely/RB 
+[ nonstandard/JJ ]
+
+[ one/CD ]
+such/JJ as/IN 
+[ John/NNP Moran/NNP 's/POS ]
+``/`` 
+[ Jack/NNP Benny/NNP ]
+ /) ''/'' 
+[ which/WDT ]
+is/VBZ currently/RB 
+[ onstage/NN ]
+in/IN 
+[ Manhattan/NNP ]
+at/IN 
+[ La/NNP Mama/NNP E.T.C/NNP ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ right/JJ ,/, ``/`` 
+[ The/NNP Jack/NNP Benny/NNP Show/NNP ]
+''/'' happens/VBZ to/TO be/VB 
+[ the/DT latest/JJS American/JJ pop/NN icon/NN ]
+to/TO be/VB turned/VBN into/IN 
+[ an/DT opera/NN ]
+,/, in/IN 
+[ this/DT case/NN ]
+
+[ a/DT surreal/JJ hour-long/JJ fantasy/NN ]
+by/IN 
+[ Mr./NNP Moran/NNP ]
+,/, 
+[ a/DT cheeky/JJ 24-year-old/JJ composer/NN ]
+from/IN 
+[ Nebraska/NNP ]
+
+[ who/WP ]
+already/RB has/VBZ written/VBN 
+[ ballets/NNS ]
+on/IN 
+[ Freud/NNP ]
+and/CC 
+[ Faust/NNP ]
+and/CC 
+[ who/WP ]
+now/RB is/VBZ busily/RB penning/VBG 
+[ an/DT ]
+``/`` 
+[ epic/JJ opera/NN ]
+''/'' on/IN 
+[ the/DT Manson/NNP family/NN ]
+./. 
+
+[ What/WP ]
+
+[ Mr./NNP Moran/NNP ]
+has/VBZ done/VBN in/IN ``/`` 
+[ Jack/NNP Benny/NNP ]
+ /) ''/'' is/VBZ to/TO manipulate/VB 
+[ tapes/NNS ]
+of/IN 
+[ the/DT audio/JJ portion/NN ]
+of/IN 
+[ the/DT actual/JJ Benny/NNP TV/NN show/NN ]
+of/IN 
+[ the/DT 1950s/CD ]
+in/IN 
+[ order/NN ]
+to/TO concoct/VB 
+[ a/DT sort/NN ]
+of/IN 
+[ electronic/JJ music/NN ]
+./. 
+
+Against/IN 
+[ this/DT background/NN ]
+,/, 
+[ amusing/JJ actors/NNS ]
+from/IN 
+[ the/DT off-off-Broadway/NNP Ridge/NNP Theater/NNP ]
+pantomime/VBP 
+[ the/DT characters/NNS ]
+of/IN 
+[ the/DT show/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ top/NN ]
+of/IN 
+[ all/PDT this/DT ]
+,/, 
+[ Mr./NNP Moran/NNP ]
+adds/VBZ 
+[ a/DT favorite/JJ trick/NN ]
+of/IN 
+[ his/PRP$ own/JJ ]
+--/: stopping/VBG and/CC restarting/VBG 
+[ a/DT skit/NN many/JJ times/NNS ]
+over/IN ,/, adding/VBG 
+[ echoes/NNS ]
+,/, 
+[ buzzes/NNS ]
+and/CC harrowing/VBG 
+[ sound/JJ effects/NNS ]
+,/, or/CC just/RB 
+[ plain/JJ ear-splitting/JJ distortion/NN ]
+,/, to/TO 
+[ each/DT repetition/NN ]
+./. 
+
+Eventually/RB 
+[ the/DT aural/JJ surrealism/NN ]
+becomes/VBZ so/RB confused/VBN that/IN 
+[ the/DT authentic/JJ commercial/JJ breaks/NNS ]
+for/IN 
+[ products/NNS ]
+such/JJ as/IN 
+[ Listerine/NNP ]
+shown/VBN between/IN 
+[ skits/NNS ]
+seem/VBP nearly/RB as/RB bizarre/JJ as/IN 
+[ a/DT cross-dressing/JJ Don/NNP Wilson/NNP ]
+or/CC 
+[ a/DT black/JJ Dennis/NNP Day/NNP ]
+on/IN 
+[ stage/NN ]
+./. 
+
+And/CC 
+[ it/PRP ]
+probably/RB is/VBZ better/JJR not/RB to/TO ask/VB at/IN 
+[ all/DT ]
+
+[ what/WP ]
+
+[ the/DT apocalyptic/JJ prelude/NN ]
+or/CC 
+[ the/DT Hinduish/JJ dancers/NNS ]
+in/IN 
+[ the/DT glass/NN cage/NN ]
+have/VBP to/TO do/VB with/IN 
+[ anything/NN ]
+else/RB ./. 
+
+======================================
+
+But/CC if/IN 
+[ the/DT production/NN ]
+,/, wittily/RB directed/VBN by/IN 
+[ Bob/NNP McGrath/NNP ]
+,/, has/VBZ 
+[ little/JJ ]
+of/IN 
+[ Ms./NNP Anderson/NNP 's/POS polish/NN ]
+,/, and/CC if/IN 
+[ the/DT technology/NN ]
+looks/VBZ and/CC sounds/VBZ 
+[ crude/JJ ]
+in/IN 
+[ comparison/NN ]
+ (/( for/IN 
+[ all/DT ]
+of/IN 
+[ Mr./NNP Moran/NNP 's/POS fancy/JJ electronic/JJ sampling/NN ]
+ )/) ,/, ``/`` 
+[ Jack/NNP Benny/NNP ]
+ /) ''/'' is/VBZ ,/, nonetheless/RB ,/, 
+[ the/DT work/NN ]
+of/IN 
+[ an/DT original/JJ ]
+,/, if/IN somewhat/RB immature/JJ ,/, 
+[ voice/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ an/DT opera/NN ]
+
+[ that/WDT ]
+reminds/VBZ 
+[ one/NN ]
+exactly/RB of/IN 
+[ the/DT exciting/JJ new/JJ kinds/NNS ]
+of/IN 
+[ music/NN theater/NN Laurie/NNP Anderson/NNP ]
+was/VBD producing/VBG when/WRB 
+[ she/PRP ]
+was/VBD 
+[ Mr./NNP Moran/NNP 's/POS age/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Swed/NNP ]
+is/VBZ 
+[ a/DT free-lance/JJ music/NN critic/NN ]
+based/VBN in/IN 
+[ New/NNP York/NNP ]
+./. 

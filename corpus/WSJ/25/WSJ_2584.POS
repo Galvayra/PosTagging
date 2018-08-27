@@ -1,0 +1,660 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Qantas/NNP Airways/NNP Ltd./NNP ]
+,/, 
+[ Australia/NNP 's/POS government-owned/JJ international/JJ airline/NN ]
+,/, said/VBD 
+[ operating/NN profit/NN ]
+totaled/VBD 
+[ 176.8/CD million/CD Australian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 137.4/CD million/CD ]
+ )/) in/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ June/NNP 30/CD ]
+./. 
+
+======================================
+
+[ That/DT ]
+compares/VBZ with/IN 
+[ A$/$ 172.8/CD million/CD ]
+in/IN 
+[ the/DT 15/CD months/NNS ]
+ended/VBN 
+[ June/NNP 30/CD ]
+,/, 
+[ 1988/CD ]
+,/, when/WRB 
+[ the/DT company/NN ]
+changed/VBD 
+[ its/PRP$ fiscal/JJ year/NN ]
+./. 
+
+======================================
+
+[ Total/JJ revenue/NN ]
+was/VBD 
+[ A$/$ 3.27/CD billion/CD ]
+,/, compared/VBN with/IN 
+[ A$/$ 3.51/CD billion/CD ]
+in/IN 
+[ the/DT earlier/JJR period/NN ]
+./. 
+
+======================================
+
+[ James/NNP Leslie/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Qantas/NNP ]
+,/, said/VBD 
+[ the/DT result/NN ]
+``/`` fell/VBD 
+[ short/JJ ]
+''/'' of/IN 
+[ planned/VBN earnings/NNS ]
+./. 
+
+[ Tourism/NN ]
+into/IN 
+[ Australia/NNP ]
+,/, after/IN 
+[ two/CD years/NNS ]
+of/IN 
+[ sharp/JJ growth/NN ]
+,/, was/VBD less/JJR than/IN had/VBD been/VBN expected/VBN ,/, particularly/RB from/IN 
+[ Japan/NNP ]
+and/CC 
+[ New/NNP Zealand/NNP ]
+./. 
+
+======================================
+
+[ That/DT ]
+was/VBD partly/RB offset/VBN by/IN 
+[ an/DT increase/NN ]
+in/IN 
+[ the/DT number/NN ]
+of/IN 
+[ Australians/NNS ]
+traveling/VBG abroad/RB ./. 
+
+But/CC 
+[ the/DT strength/NN ]
+of/IN 
+[ the/DT Australian/JJ dollar/NN ]
+adversely/RB affected/VBN 
+[ profits/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Leslie/NNP ]
+said/VBD 
+[ late/JJ delivery/NN ]
+of/IN 
+[ aircraft/NN ]
+from/IN 
+[ Boeing/NNP Co./NNP ]
+and/CC 
+[ uncertain/JJ market/NN conditions/NNS ]
+caused/VBN by/IN 
+[ a/DT protracted/JJ strike/NN ]
+by/IN 
+[ Australia/NNP 's/POS domestic/JJ airline/NN pilots/NNS ]
+will/MD adversely/RB affect/VB 
+[ earnings/NNS ]
+
+[ this/DT fiscal/JJ year/NN ]
+./. 
+
+======================================
+
+[ Australia/NNP 's/POS opposition/NN Liberal/NNP ]
+and/CC 
+[ National/NNP political/JJ parties/NNS ]
+,/, 
+[ which/WDT ]
+governed/VBD 
+[ the/DT country/NN ]
+in/IN 
+[ a/DT coalition/NN ]
+for/IN most/JJS of/IN 
+[ the/DT 40/CD years/NNS ]
+until/IN 
+[ 1983/CD ]
+,/, pledged/VBD to/TO cut/VB 
+[ the/DT top/JJ personal-income-tax/JJ rate/NN ]
+and/CC sell/VB 
+[ 1.6/CD billion/CD Australian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 1.24/CD billion/CD ]
+ )/) of/IN 
+[ government/NN assets/NNS ]
+if/IN 
+[ they/PRP ]
+are/VBP re-elected/VBN to/TO 
+[ government/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT ]
+``/`` 
+[ Economic/NNP Action/NNP Plan/NNP ]
+,/, ''/'' 
+[ the/DT two/CD conservative/JJ parties/NNS ]
+said/VBD 
+[ they/PRP ]
+aim/VBP to/TO have/VB 
+[ the/DT top/JJ personal-income-tax/JJ rate/NN ]
+equal/VB 
+[ the/DT corporate-tax/JJ rate/NN ]
+of/IN 
+[ 39/CD %/NN ]
+;/: 
+[ the/DT top/JJ personal/JJ rate/NN ]
+is/VBZ currently/RB 
+[ 49/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT two/CD parties/NNS ]
+said/VBD that/IN in/IN 
+[ their/PRP$ first/JJ year/NN ]
+of/IN 
+[ government/NN ]
+
+[ they/PRP ]
+would/MD raise/VB 
+[ A$/$ 1.6/CD billion/CD ]
+by/IN 
+[ selling/VBG government/NN businesses/NNS ]
+including/VBG 
+[ Qantas/NNP Airways/NNP Ltd./NNP ]
+and/CC 
+[ Medibank/NNP Private/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ part/NN ]
+of/IN 
+[ the/DT government/NN 's/POS health-insurance/NN system/NN ]
+./. 
+
+======================================
+
+[ The/DT incumbent/JJ Labor/NNP Party/NNP government/NN ]
+is/VBZ expected/VBN to/TO call/VB 
+[ a/DT national/JJ election/NN ]
+in/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+of/IN 
+[ 1990/CD ]
+./. 
+
+[ Recent/JJ opinion/NN polls/NNS ]
+suggest/VBP 
+[ the/DT opposition/NN parties/NNS ]
+would/MD attract/VB about/RB 
+[ the/DT same/JJ number/NN ]
+of/IN 
+[ votes/NNS ]
+as/IN 
+[ the/DT current/JJ government/NN ]
+./. 
+
+======================================
+
+[ Panama/NNP 's/POS Gen./NNP Manuel/NNP Noriega/NNP ]
+made/VBD 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+by/IN investing/VBG in/IN 
+[ a/DT Mexican/JJ lab/NN ]
+
+[ that/WDT ]
+allegedly/RB produced/VBD 
+[ counterfeit/JJ steroids/NNS ]
+,/, 
+[ Mexican/JJ federal/JJ authorities/NNS ]
+said/VBD ./. 
+
+[ The/DT Panamanian/JJ leader/NN ]
+invested/VBD 
+[ $/$ 800,000/CD two/CD years/NNS ]
+ago/RB in/IN 
+[ Milano/NNP Laboratories/NNP ]
+of/IN 
+[ Mexico/NNP ]
+and/CC subsequently/RB reinvested/VBD 
+[ some/DT ]
+of/IN 
+[ his/PRP$ returns/NNS ]
+,/, said/VBD 
+[ Enrique/NNP Guillermo/NNP Salazar/NNP ]
+,/, 
+[ commander/NN ]
+of/IN 
+[ the/DT federal/JJ judicial/JJ police/NNS ]
+in/IN 
+[ Tijuana/NNP ]
+./. 
+
+[ The/DT lab/NN ]
+was/VBD closed/VBN in/IN 
+[ April/NNP ]
+by/IN 
+[ federal/JJ police/NNS ]
+./. 
+
+At/IN 
+[ the/DT time/NN ]
+,/, 
+[ U.S./NNP authorities/NNS ]
+said/VBD 
+[ it/PRP ]
+was/VBD 
+[ the/DT largest/JJS supplier/NN ]
+of/IN 
+[ counterfeit/JJ steroids/NNS ]
+to/TO 
+[ a/DT multimillion-dollar/JJ U.S./NNP black/JJ market/NN ]
+./. 
+
+======================================
+
+[ South/NNP African/NNP Breweries/NNP Ltd./NNP ]
+,/, or/CC 
+[ SAB/NNP ]
+,/, 
+[ the/DT country/NN 's/POS largest/JJS producer/NN ]
+of/IN 
+[ beer/NN ]
+,/, was/VBD hit/VBN by/IN 
+[ a/DT strike/NN ]
+at/IN 
+[ seven/CD ]
+of/IN 
+[ its/PRP$ 11/CD breweries/NNS ]
+around/IN 
+[ the/DT country/NN ]
+./. 
+
+[ The/DT strike/NN ]
+,/, involving/VBG about/RB 
+[ 5,500/CD employees/NNS ]
+,/, 
+[ stems/VBZ ]
+from/IN 
+[ a/DT wage/NN dispute/NN ]
+between/IN 
+[ SAB/NNP ]
+and/CC 
+[ the/DT Food/NNP ]
+and/CC 
+[ Allied/NNP Workers/NNP Union/NNP ]
+./. 
+
+[ SAB/NNP ]
+has/VBZ offered/VBN 
+[ a/DT 16/CD %/NN across-the-board/JJ wage/NN increase/NN ]
+
+[ which/WDT ]
+would/MD bring/VB 
+[ the/DT minimum/NN wage/NN ]
+up/IN to/TO 
+[ 1,063/CD rand/NNS ]
+ (/( about/RB 
+[ $/$ 388/CD ]
+ )/) per/IN 
+[ month/NN ]
+,/, 
+[ the/DT spokesman/NN ]
+said/VBD ./. 
+
+[ The/DT union/NN ]
+is/VBZ demanding/VBG 
+[ a/DT 38/CD %/NN increase/NN ]
+in/IN 
+[ the/DT minimum/NN wage/NN ]
+,/, 
+[ the/DT SAB/NNP spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Italy/NNP ]
+is/VBZ investigating/VBG 
+[ U.S./NNP allegations/NNS ]
+that/IN 
+[ Italy/NNP 's/POS Ing/NNP ]
+./. 
+
+[ C./NNP Olivetti/NNP ]
+&/CC 
+[ Co./NNP ]
+violated/VBD 
+[ Western/JJ export-control/JJ rules/NNS ]
+and/CC sold/VBD 
+[ the/DT Soviet/NNP Union/NNP computer/NN equipment/NN ]
+used/VBN to/TO manufacture/VB 
+[ a/DT ]
+highly/RB 
+[ sophisticated/JJ jet/NN fighter/NN ]
+./. 
+
+[ The/DT U.S./NNP case/NN ]
+regarding/VBG 
+[ Olivetti/NNP ]
+,/, 
+[ which/WDT officials/NNS ]
+say/VBP is/VBZ based/VBN on/IN 
+[ intelligence/NN information/NN ]
+,/, was/VBD brought/VBN up/RP at/IN 
+[ a/DT meeting/NN ]
+earlier/RBR 
+[ this/DT week/NN ]
+between/IN 
+[ President/NNP Bush/NNP ]
+and/CC 
+[ Italian/JJ President/NNP Francesco/NNP Cossiga/NNP ]
+./. 
+
+``/`` 
+[ The/DT President/NNP ]
+did/VBD mention/VB 
+[ the/DT concern/NN ]
+about/IN 
+[ the/DT Olivetti/NNP case/NN ]
+./. 
+
+And/CC 
+[ President/NNP Cossiga/NNP ]
+stressed/VBD that/IN 
+[ this/DT ]
+was/VBD being/VBG 
+[ pursued/VBN in.../: ]
+
+[ a/DT ]
+highly/RB 
+[ cooperative/JJ manner/NN ]
+,/, ''/'' said/VBD 
+[ Assistant/NNP Secretary/NNP ]
+of/IN 
+[ State/NNP Raymond/NNP Seitz/NNP ]
+./. 
+
+======================================
+
+[ South/NNP Korea/NNP 's/POS Trade/NNP ]
+and/CC 
+[ Industry/NNP Ministry/NNP ]
+announced/VBD 
+[ a/DT $/$ 38.8/CD billion/CD five-year/JJ plan/NN ]
+to/TO make/VB 
+[ South/NNP Korea/NNP one/CD ]
+of/IN 
+[ the/DT world/NN 's/POS top/JJ 10/CD high-technology/JJ nations/NNS ]
+by/IN 
+[ the/DT year/NN 2000/CD ]
+./. 
+
+[ Korea/NNP 's/POS current/JJ ranking/NN was/VBD n't/RB ]
+given/VBN ./. 
+
+[ The/DT plan/NN ]
+involves/VBZ 
+[ government/NN aid/NN ]
+to/TO 
+[ industry/NN ]
+through/IN 
+[ outright/JJ grants/NNS ]
+,/, 
+[ low-interest/JJ loans/NNS ]
+and/CC 
+[ tax/NN incentives/NNS ]
+such/JJ as/IN 
+[ deductions/NNS ]
+./. 
+
+[ Officials/NNS ]
+said/VBD 
+[ the/DT plan/NN ]
+was/VBD prompted/VBN partly/RB by/IN 
+[ the/DT reluctance/NN ]
+of/IN 
+[ some/DT countries/NNS ]
+,/, such/JJ as/IN 
+[ Japan/NNP ]
+,/, to/TO transfer/VB 
+[ high/JJ technology/NN ]
+to/TO 
+[ Korea/NNP ]
+for/IN 
+[ fear/NN ]
+of/IN hurting/VBG 
+[ their/PRP$ own/JJ business/NN ]
+./. 
+
+======================================
+
+[ Striking/VBG workers/NNS ]
+at/IN 
+[ Peugeot/NNP S.A./NNP 's/POS car/NN plant/NN ]
+at/IN 
+[ Mulhouse/NNP ]
+,/, in/IN 
+[ eastern/JJ France/NNP ]
+,/, voted/VBD to/TO evacuate/VB 
+[ a/DT press/NN shop/NN ]
+that/IN 
+[ they/PRP ]
+'ve/VBP been/VBN occupying/VBG ,/, clearing/VBG 
+[ the/DT way/NN ]
+for/IN 
+[ a/DT negotiated/VBN settlement/NN ]
+to/TO 
+[ a/DT six-week-long/JJ labor/NN dispute/NN ]
+./. 
+
+[ Peugeot/NNP management/NN ]
+refused/VBD to/TO open/VB 
+[ negotiations/NNS ]
+on/IN 
+[ strikers/NNS '/POS grievances/NNS ]
+while/IN 
+[ the/DT press/NN shop/NN ]
+was/VBD occupied/VBN ./. 
+
+[ The/DT strikers/NNS '/POS decision/NN ]
+means/VBZ that/IN 
+[ the/DT two/CD sides/NNS ]
+can/MD now/RB sit/VB down/RP and/CC negotiate/VB 
+[ compromise/NN proposals/NNS ]
+put/VBN forward/RB by/IN 
+[ a/DT government-appointed/JJ mediator/NN ]
+./. 
+
+======================================
+
+[ The/DT European/NNP Community/NNP ]
+agreed/VBD in/IN 
+[ principle/NN ]
+to/TO limit/VB 
+[ its/PRP$ steel/NN exports/NNS ]
+to/TO 
+[ the/DT U.S./NNP ]
+for/IN 
+[ a/DT further/JJ 2/CD 1\/2/CD years/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ return/NN ]
+,/, 
+[ the/DT EC/NNP Commission/NNP ]
+said/VBD 
+[ it/PRP ]
+obtained/VBD 
+[ concessions/NNS ]
+from/IN 
+[ Washington/NNP ]
+that/WDT ``/`` constitute/VBP 
+[ a/DT credible/JJ step/NN ]
+toward/IN 
+[ liberalization/NN ]
+of/IN 
+[ steel/NN trade/NN ]
+''/'' with/IN 
+[ the/DT U.S./NNP According/NNP ]
+to/TO 
+[ the/DT commission/NN ]
+,/, 
+[ these/DT concessions/NNS ]
+include/VBP 
+[ an/DT agreement/NN ]
+by/IN 
+[ the/DT U.S./NNP ]
+to/TO increase/VB 
+[ the/DT EC/NNP 's/POS quota/NN ]
+slightly/RB ,/, to/TO 
+[ 7/CD %/NN ]
+from/IN 
+[ 6.7/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP steel/NN market/NN ]
+./. 
+
+======================================
+
+[ The/DT U.S./NNP ]
+maintains/VBZ that/IN 
+[ subsidies/NNS ]
+handed/VBD out/RP in/IN 
+[ the/DT past/NN ]
+to/TO 
+[ EC/NNP steelmakers/NNS ]
+continue/VBP to/TO give/VB 
+[ them/PRP ]
+
+[ an/DT unfair/JJ advantage/NN ]
+when/WRB exporting/VBG to/TO 
+[ the/DT U.S/NNP ]
+./. 
+
+But/CC 
+[ the/DT Europeans/NNS ]
+say/VBP 
+[ that/DT argument/NN ]
+is/VBZ 
+[ a/DT pretext/NN ]
+for/IN 
+[ protectionism/NN ]
+while/IN 
+[ U.S./NNP steelmakers/NNS ]
+are/VBP posting/VBG 
+[ profits/NNS ]
+in/IN 
+[ a/DT buoyant/JJ market/NN ]
+./. 
+
+======================================
+
+[ The/DT EC/NNP ]
+has/VBZ made/VBN 
+[ it/PRP ]
+clear/JJ that/IN 
+[ it/PRP ]
+wo/MD n't/RB agree/VB to/TO extend/VB 
+[ the/DT quotas/NNS ]
+again/RB after/IN 
+[ March/NNP 1992/CD ]
+./. 
+
+======================================
+
+[ The/DT United/NNP Nations/NNP ]
+reported/VBD that/IN 
+[ members/NNS ]
+owed/VBD 
+[ it/PRP ]
+more/JJR than/IN 
+[ $/$ 1.1/CD billion/CD ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ September/NNP ]
+in/IN 
+[ budget/NN dues/NNS ]
+and/CC 
+[ assessments/NNS ]
+for/IN 
+[ peace-keeping/JJ operations/NNS ]
+./. 
+
+[ The/DT U.S./NNP ]
+was/VBD 
+[ the/DT biggest/JJS debtor/NN ]
+,/, 
+[ owing/VBG ]
+more/JJR than/IN 
+[ $/$ 495/CD million/CD ]
+towards/IN 
+[ the/DT U.N./NNP 's/POS regular/JJ budgets/NNS ]
+and/CC over/IN 
+[ $/$ 180/CD million/CD ]
+for/IN 
+[ peace-keeping/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ China/NNP ]
+said/VBD 
+[ its/PRP$ labor/NN ]
+and/CC ``/`` 
+[ re-education/NN ]
+''/'' 
+[ camps/NNS ]
+were/VBD 
+[ a/DT ]
+``/`` 
+[ miracle/NN ]
+on/IN 
+[ earth/NN ]
+,/, ''/'' where/WRB more/JJR than/IN 
+[ two/CD million/CD people/NNS ]
+were/VBD cured/VBN of/IN 
+[ their/PRP$ criminal/JJ ways/NNS ]
+in/IN 
+[ the/DT past/NN decade/NN ]
+./. 

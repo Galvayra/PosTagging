@@ -1,0 +1,250 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+ (/( During/IN 
+[ its/PRP$ centennial/NN year/NN ]
+,/, 
+[ The/DT Wall/NNP Street/NNP Journal/NNP ]
+will/MD report/VB 
+[ events/NNS ]
+of/IN 
+[ the/DT past/JJ century/NN ]
+
+[ that/WDT stand/VBP ]
+as/IN 
+[ milestones/NNS ]
+of/IN 
+[ American/JJ business/NN history/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ WALL/NNP STREET/NNP NEARLY/RB SELF-DESTROYED/VBN ]
+in/IN 
+[ a/DT convulsion/NN ]
+of/IN 
+[ stock/NN ]
+trading/NN in/IN 
+[ 1968/CD ]
+because/IN of/IN 
+[ its/PRP$ long/JJ neglect/NN ]
+of/IN 
+[ low-paid/JJ ]
+,/, overworked/JJ 
+[ back-room/NN clerks/NNS ]
+./. 
+
+======================================
+
+[ April/NNP 10/CD ]
+that/IN 
+[ year/NN ]
+--/: 
+[ 10/CD days/NNS ]
+after/IN 
+[ President/NNP Johnson/NNP ]
+said/VBD 
+[ he/PRP ]
+would/MD n't/RB run/VB again/RB --/: was/VBD 
+[ the/DT first/JJ 20/CD million-plus/JJ share/NN trading/NN day/NN ]
+in/IN 
+[ history/NN ]
+./. 
+
+[ More/RBR frenzied/JJ days/NNS ]
+ensued/VBD as/IN 
+[ dapper/JJ front-office/NN salesmen/NNS ]
+counted/VBD 
+[ their/PRP$ commissions/NNS ]
+,/, and/CC 
+[ clerks/NNS ]
+,/, often/RB unskilled/JJ or/CC 
+[ inept/JJ ]
+,/, in/IN 
+[ back/JJ ]
+``/`` 
+[ cages/NNS ]
+''/'' were/VBD swamped/VBN in/IN 
+[ piles/NNS ]
+of/IN 
+[ paper/NN ]
+./. 
+
+[ New/JJ stabs/NNS ]
+at/IN 
+[ automation/NN ]
+had/VBD 
+[ snafus/NNS ]
+./. 
+
+======================================
+
+``/`` Fails/NNS ,/, ''/'' 
+[ delivery/NN ]
+of/IN 
+[ securities/NNS ]
+later/RB than/IN 
+[ the/DT required/VBN five/CD days/NNS ]
+of/IN 
+[ the/DT transaction/NN ]
+,/, were/VBD common/JJ and/CC growing/JJ ./. 
+
+[ Certificates/NNS ]
+were/VBD 
+[ mislaid/VBN ]
+,/, lost/VBN and/CC stolen/VBN ./. 
+
+[ A/DT later/JJ Rand/NNP study/NN ]
+reported/VBD from/IN 
+[ 25/CD %/NN ]
+to/TO 
+[ 40/CD %/NN ]
+of/IN 
+[ broker/NN certificate/NN ]
+deliveries/NNS to/TO 
+[ banks/NNS ]
+in/IN 
+[ 1968/CD ]
+were/VBD rejected/VBN with/IN 
+[ the/DT cause/NN notation/NN ]
+of/IN ``/`` 
+[ D.K/NNP ''./: ]
+for/IN ``/`` do/VBP n't/RB know/VB ,/, ''/'' meaning/VBG 
+[ the/DT identity/NN ]
+of/IN 
+[ the/DT buyer/NN ]
+or/CC 
+[ seller/NN ]
+was/VBD unknown/JJ ./. 
+
+======================================
+
+Timidly/RB ,/, from/IN 
+[ Jan./NNP 22/CD ]
+to/TO 
+[ March/NNP 4/CD ]
+,/, 
+[ the/DT exchanges/NNS ]
+tried/VBD to/TO solve/VB 
+[ the/DT problem/NN ]
+by/IN cutting/VBG 
+[ daily/JJ trading/NN hours/NNS ]
+./. 
+
+But/CC ``/`` fails/NNS ''/''  still/RB rose/VBD ;/: so/IN 
+[ the/DT markets/NNS ]
+,/, 
+[ effective/JJ June/NNP 12/CD ]
+,/, closed/VBD 
+[ every/DT Wednesday/NNP ]
+to/TO give/VB 
+[ the/DT backrooms/NNS ]
+
+[ some/DT catchup/JJ time/NN ]
+./. 
+
+======================================
+
+[ Brokers/NNS ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+were/VBD fueling/VBG 
+[ the/DT national/JJ stock/NN hunger/NN ]
+with/IN 
+[ ads/NNS ]
+,/, hiring/VBG 
+[ more/JJR salesmen/NNS ]
+and/CC opening/VBG 
+[ new/JJ offices/NNS ]
+./. 
+
+[ Robert/NNP W./NNP Haack/NNP ]
+,/, 
+[ the/DT Big/NNP Board/NNP 's/POS new/JJ president/NN ]
+,/, in/IN 
+[ two/CD soft/JJ letters/NNS ]
+warned/VBD 
+[ them/PRP ]
+to/TO cool/VB 
+[ it/PRP ]
+./. 
+
+[ The/DT SEC/NNP ]
+even/RB threatened/VBD 
+[ fraud/NN action/NN ]
+against/IN 
+[ brokers/NNS ]
+accepting/VBG 
+[ more/JJR orders/NNS ]
+than/IN 
+[ they/PRP ]
+could/MD handle/VB ./. 
+
+======================================
+
+``/`` 
+[ Fails/NNS ]
+''/'' reached/VBD 
+[ a/DT record/NN $/$ 4.1/CD billion/CD ]
+in/IN 
+[ December/NNP ]
+./. 
+
+But/CC 
+[ the/DT market/NN ]
+finally/RB cooled/VBD ,/, and/CC 
+[ Wednesday/NNP closings/NNS ]
+ended/VBD 
+[ Jan./NNP 2/CD ]
+,/, 
+[ 1969/CD ]
+./. 
+
+[ Normal/JJ trading/NN hours/NNS ]
+were/VBD resumed/VBN May/MD 
+[ 4/CD ]
+,/, 
+[ 1970/CD ]
+,/, as/IN 
+[ the/DT market/NN ]
+headed/VBD into/IN 
+[ its/PRP$ plunge/NN ]
+and/CC about/IN 
+[ 100/CD brokers/NNS ]
+were/VBD out/IN of/IN 
+[ business/NN ]
+./. 
+
+======================================
+
+[ Today/NN ]
+,/, despite/IN 
+[ far/RB heavier/JJR ]
+trading/NN ,/, 
+[ back-office/NN booboos/NNS ]
+are/VBP fewer/JJR because/RB of/IN 
+[ the/DT use/NN ]
+of/IN 
+[ computers/NNS ]
+and/CC ``/`` 
+[ book/NN entries/NNS ]
+''/'' in/IN 
+[ lieu/IN ]
+of/IN 
+[ certificates/NNS ]
+./. 

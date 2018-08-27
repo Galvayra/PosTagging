@@ -1,0 +1,1144 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 101/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ made/VBN up/IN of/IN :/: 
+[ 102/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ them/PRP ]
+in/IN 
+[ System\/370/CD mode/NN ]
+only/RB ./. 
+
+[ 103/CD ]
+./. 
+
+[ They/PRP ]
+should/MD not/RB be/VB used/VBN by/IN 
+[ programs/NNS ]
+other/JJ than/IN 
+[ CMS/NNP ]
+./. 
+
+[ 104/CD ]
+./. 
+
+[ This/DT format/NN ]
+is/VBZ 
+[ language/NN ]
+dependent/JJ ./. 
+
+[ 105/CD ]
+./. 
+
+[ This/DT return/NN code/NN variable/NN ]
+must/MD be/VB 
+[ the/DT second/JJ parameter/NN ]
+in/IN 
+[ the/DT list/NN ]
+,/, and/CC 
+[ it/PRP ]
+must/MD be/VB 
+[ a/DT signed/VBN integer/NN variable/NN ]
+with/IN 
+[ a/DT length/NN ]
+of/IN 
+[ 4/CD ]
+./. 
+
+[ 106/CD ]
+./. 
+
+[ A/DT length/NN ]
+may/MD also/RB be/VB associated/VBN with/IN 
+[ a/DT parameter/NN ]
+if/IN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT character/NN string/NN ]
+
+[ that/WDT ]
+can/MD vary/VB in/IN 
+[ length/NN ]
+./. 
+
+[ 107/CD ]
+./. 
+
+[ Character/NN strings/NNS ]
+can/MD be/VB specified/VBN in/IN 
+[ lowercase/NN ]
+,/, mixed/JJ 
+[ case/NN ]
+,/, or/CC 
+[ uppercase/NN ]
+./. 
+
+[ 108/CD ]
+./. 
+
+For/IN 
+[ signed/JJ integer/NN parameters/NNS ]
+,/, 
+[ the/DT length/NN ]
+is/VBZ always/RB 
+[ 4/CD ]
+./. 
+
+[ 109/CD ]
+./. 
+
+Therefore/RB ,/, 
+[ a/DT length/NN parameter/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ an/DT integer/NN field/NN ]
+,/, must/MD follow/VB where/WRB indicated/VBN ./. 
+
+[ 110/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ all/DT ]
+preceding/VBG 
+[ optional/JJ parameters/NNS ]
+./. 
+
+[ 111/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT character/NN string/NN ]
+
+[ that/WDT ]
+contains/VBZ up/IN to/TO 
+[ 8/CD characters/NNS ]
+for/IN 
+[ file/NN name/NN ]
+followed/VBN by/IN up/IN to/TO 
+[ 8/CD characters/NNS ]
+for/IN 
+[ file/NN type/NN ]
+./. 
+
+[ 112/CD ]
+./. 
+
+[ There/EX ]
+must/MD be/VB at/IN 
+[ least/JJS one/CD blank/NN ]
+between/IN 
+[ the/DT file/NN name/NN ]
+and/CC 
+[ the/DT file/NN type/NN ]
+./. 
+
+[ 113/CD ]
+./. 
+
+[ This/DT character/NN string/NN ]
+may/MD be/VB in/IN 
+[ mixed/JJ case/NN ]
+./. 
+
+[ 114/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT character/NN string/NN ]
+defined/VBN as/IN follows/VBZ :/: 
+[ 115/CD ]
+./. 
+
+Specifying/VBG only/RB 
+[ a/DT period/NN ]
+(/( ./. 
+
+)/) 
+[ 116/CD ]
+./. 
+
+[ The/DT file/NN pool/NN name/NN ]
+can/MD be/VB up/IN to/TO 
+[ 8/CD characters/NNS ]
+long/RB ./. 
+
+[ 117/CD ]
+./. 
+
+[ The/DT first/JJ character/NN ]
+must/MD be/VB alphabetic/JJ ,/, but/CC 
+[ the/DT remaining/VBG characters/NNS ]
+can/MD be/VB alphabetic/JJ or/CC 
+[ numeric/JJ ]
+./. 
+
+[ 118/CD ]
+./. 
+
+[ The/DT user/NN ID/NN ]
+can/MD be/VB up/IN to/TO 
+[ 8/CD characters/NNS ]
+long/RB ./. 
+
+[ 119/CD ]
+./. 
+
+[ Lower/JJR case/NN ]
+is/VBZ converted/VBN to/TO 
+[ uppercase/NN ]
+./. 
+
+[ 120/CD ]
+./. 
+
+If/IN specified/VBN by/IN 
+[ itself/PRP ]
+,/, 
+[ it/PRP ]
+means/VBZ 
+[ the/DT user/NN 's/POS top/JJ directory/NN ]
+in/IN 
+[ the/DT default/NN file/NN pool/NN ]
+./. 
+
+[ 121/CD ]
+./. 
+
+[ Subdirectory/JJ names/NNS ]
+can/MD be/VB up/IN to/TO 
+[ 16/CD characters/NNS ]
+long/RB ./. 
+
+[ 122/CD ]
+./. 
+
+[ The/DT first/JJ character/NN ]
+must/MD be/VB alphabetic/JJ ,/, but/CC 
+[ the/DT remainder/NN ]
+can/MD be/VB alphabetic/JJ or/CC 
+[ numeric/JJ ]
+./. 
+
+[ 123/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ an/DT 8-byte/NN character/NN variable/NN ]
+used/VBN to/TO identify/VB 
+[ an/DT instance/NN ]
+of/IN 
+[ an/DT open/JJ file/NN ]
+or/CC 
+[ directory/NN ]
+./. 
+
+[ 124/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT signed/VBN integer/NN variable/NN ]
+with/IN 
+[ a/DT length/NN ]
+of/IN 
+[ 4/CD ]
+./. 
+
+[ 125/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT 4-byte/NN integer/NN field/NN ]
+./. 
+
+[ 126/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT character/NN variable/NN ]
+with/IN 
+[ a/DT length/NN ]
+of/IN 
+[ 6/CD ]
+./. 
+
+[ 127/CD ]
+./. 
+
+If/IN 
+[ it/PRP ]
+is/VBZ specified/VBN ,/, 
+[ it/PRP ]
+must/MD be/VB followed/VBN by/IN 
+[ a/DT length/NN field/NN ]
+./. 
+
+[ 128/CD ]
+./. 
+
+See/VB 
+[ the/DT associated/VBN reason/NN code/NN ]
+./. 
+
+[ 129/CD ]
+./. 
+
+Depending/VBG on/IN 
+[ the/DT program/NN function/NN ]
+and/CC 
+[ the/DT error/NN condition/NN ]
+,/, 
+[ file/NN pool/NN object/NN ]
+can/MD refer/VB to/TO 
+[ any/DT ]
+of/IN 
+[ the/DT above/JJ objects/NNS ]
+./. 
+
+[ 130/CD ]
+./. 
+
+[ Errors/NNS ]
+can/MD cause/VB 
+[ return/NN code/NN 8/CD ]
+or/CC 
+[ 12/CD ]
+./. 
+
+[ 131/CD ]
+./. 
+
+Refer/VB to/TO 
+[ topic/NN 2.2/CD ]
+for/IN 
+[ examples/NNS ]
+of/IN 
+[ call/NN formats/NNS ]
+./. 
+
+[ 132/CD ]
+./. 
+
+Is/VBZ open/JJ (/( for/IN read/VB or/CC write/VB )/) ./. 
+
+[ 133/CD ]
+./. 
+
+Up/IN to/TO 
+[ 10/CD input/NN character/NN strings/NNS ]
+are/VBP allowed/VBN on/IN 
+[ a/DT call/NN ]
+./. 
+
+[ 134/CD ]
+./. 
+
+(/( See/VB 
+[ Usage/NN Note/NN 3/CD ]
+./. 
+
+)/) 
+[ 135/CD ]
+./. 
+
+If/IN 
+[ the/DT buffer/NN ]
+is/VBZ too/RB long/JJ ,/, 
+[ the/DT unused/JJ part/NN ]
+of/IN 
+[ the/DT buffer/NN ]
+is/VBZ unchanged/JJ ./. 
+
+[ 136/CD ]
+./. 
+
+[ These/DT variables/NNS ]
+are/VBP then/RB available/JJ to/TO 
+[ the/DT application/NN program/NN ]
+./. 
+
+[ 137/CD ]
+./. 
+
+(/( 
+[ This/DT return/JJ code/NN ]
+is/VBZ issued/VBN from/IN 
+[ EXEC2/CD ]
+only/RB ./. 
+
+)/) 
+[ 138/CD ]
+./. 
+
+When/WRB 
+[ all/PDT the/DT variables/NNS ]
+have/VB been/VBN retrieved/VBN ,/, 
+[ a/DT return/NN code/NN ]
+of/IN 
+[ 206/CD ]
+is/VBZ set/VBN ./. 
+
+[ 139/CD ]
+./. 
+
+[ The/DT date/NN attribute/NN ]
+is/VBZ 
+[ the/DT date/NN ]
+that/IN 
+[ the/DT file/NN ]
+was/VBD last/RB modified/VBN ./. 
+
+[ 140/CD ]
+./. 
+
+[ The/DT time/NN attribute/NN ]
+is/VBZ 
+[ the/DT time/NN ]
+at/IN 
+[ which/WDT ]
+
+[ the/DT file/NN ]
+was/VBD last/RB modified/VBN ./. 
+
+[ 141/CD ]
+./. 
+
+[ This/DT request/NN ]
+was/VBD ignored/VBN 
+[ Note/NN ]
+:/: 
+[ 142/CD ]
+./. 
+
+[ The/DT value/NN ]
+of/IN 
+[ length5/NN ]
+must/MD not/RB be/VB greater/JJR than/IN 
+[ 80/CD ]
+./. 
+
+[ 143/CD ]
+./. 
+
+If/IN 
+[ user1/NN needs/VBZ ]
+to/TO share/VB 
+[ user2/NN 's/POS file/NN ]
+,/, 
+[ user2/NN ]
+can/MD grant/VB 
+[ user1/NN ]
+read/NN or/CC write/NN 
+[ authority/NN ]
+on/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 144/CD ]
+./. 
+
+[ System/NN error/NN System/NN error/NN System/NN error/NN ]
+./. 
+
+[ 145/CD ]
+./. 
+
+[ Any/DT number/NN ]
+of/IN 
+[ users/NNS ]
+can/MD 
+[ access/VB ]
+
+[ a/DT file/NN control/NN directory/NN ]
+in/IN 
+[ read\/write/NN status/NN ]
+./. 
+
+[ 146/CD ]
+./. 
+
+[ These/DT users/NNS ]
+can/MD write/VB to/TO 
+[ different/JJ files/NNS ]
+within/IN 
+[ the/DT directory/NN ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+[ 147/CD ]
+./. 
+
+[ Any/DT number/NN ]
+of/IN 
+[ users/NNS ]
+can/MD 
+[ access/VB file/NN control/NN directories/NNS ]
+in/IN 
+[ read-only/JJ status/NN ]
+./. 
+
+[ 148/CD ]
+./. 
+
+In/IN 
+[ particular/JJ ]
+,/, when/WRB 
+[ a/DT user/NN ]
+has/VBZ 
+[ a/DT directory/JJ control/NN directory/NN ]
+accessed/VBN in/IN 
+[ read\/write/NN mode/NN ]
+,/, 
+[ no/DT other/JJ user/NN ]
+can/MD write/VB to/TO 
+[ the/DT directory/NN ]
+./. 
+
+[ 149/CD ]
+./. 
+
+[ This/DT ]
+requires/VBZ that/IN 
+[ you/PRP ]
+do/VB not/RB have/VB 
+[ the/DT containing/VBG directory/NN ]
+accessed/VBN 
+[ read-only/JJ ]
+and/CC that/IN 
+[ no/DT other/JJ user/NN ]
+has/VBZ 
+[ it/PRP ]
+accessed/VBN 
+[ read\/write/NN ]
+./. 
+
+[ 150/CD ]
+./. 
+
+Only/RB 
+[ one/CD user/NN ]
+can/MD have/VB 
+[ the/DT ]
+update/NN 
+[ lock/NN ]
+at/IN 
+[ a/DT time/NN ]
+./. 
+
+[ 151/CD ]
+./. 
+
+[ Your/PRP$ system/NN administrator/NN ]
+can/MD tell/VB 
+[ you/PRP ]
+if/IN 
+[ the/DT batch/NN facility/NN ]
+
+[ you/PRP ]
+are/VBP using/VBG is/VBZ set/VBN up/RP 
+[ that/DT way/NN ]
+./. 
+
+[ 152/CD ]
+./. 
+
+If/IN 
+[ it/PRP ]
+is/VBZ ,/, 
+[ the/DT batch/NN machine/NN ]
+runs/VBZ 
+[ your/PRP$ job/NN ]
+under/IN 
+[ your/PRP$ user/NN ID/NN ]
+./. 
+
+[ 153/CD ]
+./. 
+
+[ Error/NN ]
+means/VBZ 
+[ the/DT request/NN ]
+failed/VBD ./. 
+
+[ 154/CD ]
+./. 
+
+[ Errors/NNS cause/VB return/NN code/NN 8/CD ]
+./. 
+
+[ 155/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+have/VB 
+[ the/DT directory/NN ]
+accessed/VBN ,/, 
+[ it/PRP ]
+will/MD be/VB released/VBN ./. 
+
+[ 156/CD ]
+./. 
+
+When/WRB 
+[ the/DT attribute/NN ]
+is/VBZ changed/VBN ,/, 
+[ any/DT user/NN ]
+
+[ who/WP ]
+has/VBZ 
+[ the/DT directory/NN ]
+accessed/VBN will/MD have/VB 
+[ it/PRP ]
+released/VBN automatically/RB with/IN 
+[ no/DT message/NN ]
+issued/VBN ./. 
+
+[ 157/CD ]
+./. 
+
+[ A/DT directory/NN ]
+can/MD be/VB erased/VBN only/RB by/IN 
+[ the/DT directory/JJ owner/NN ]
+or/CC 
+[ the/DT administrator/NN ]
+./. 
+
+[ 158/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB erase/VB 
+[ files/NNS ]
+in/IN 
+[ a/DT directory/NN ]
+
+[ that/WDT ]
+is/VBZ open/JJ ./. 
+
+[ 159/CD ]
+./. 
+
+[ This/DT ]
+means/VBZ that/IN 
+[ the/DT result/NN ]
+is/VBZ 
+[ the/DT same/JJ ]
+as/IN for/IN 
+[ recoverable/JJ files/NNS ]
+./. 
+
+[ 160/CD ]
+./. 
+
+For/IN 
+[ REPLACE/NNP ]
+,/, 
+[ this/DT field/NN ]
+is/VBZ passed/VBN in/RP by/IN 
+[ the/DT user/NN ]
+and/CC contains/VBZ 
+[ the/DT data/NN type/NN ]
+of/IN 
+[ the/DT data/NN ]
+being/VBG replaced/VBN ./. 
+
+[ 161/CD ]
+./. 
+
+For/IN 
+[ REPLACE/NNP ]
+,/, 
+[ this/DT field/NN ]
+will/MD be/VB passed/VBN in/RP by/IN 
+[ the/DT user/NN ]
+with/IN 
+[ the/DT length/NN ]
+,/, in/IN 
+[ bytes/NNS ]
+,/, of/IN 
+[ the/DT replacement/NN data/NN ]
+./. 
+
+[ 162/CD ]
+./. 
+
+[ Characters/NNS 4/CD ]
+through/IN 
+[ 8/CD ]
+are/VBP unused/JJ but/CC must/MD contain/VB 
+[ 0/CD ]
+or/CC 
+[ 1/CD ]
+./. 
+
+[ 163/CD ]
+./. 
+
+[ The/DT keyword/NN ]
+must/MD be/VB either/RB AND/NNP or/CC OR/NNP ./. 
+
+[ 164/CD ]
+./. 
+
+[ The/DT actual/JJ data/NN ]
+is/VBZ received/VBN in/IN 
+[ the/DT buffer/NN parameter/NN ]
+./. 
+
+[ 165/CD ]
+./. 
+
+-/: 
+[ buffer/NN ]
+will/MD contain/VB 
+[ the/DT character/NN data/NN ]
+./. 
+
+[ 166/CD ]
+./. 
+
+-/: 
+[ buffer/NN ]
+will/MD contain/VB 
+[ the/DT replacement/NN character/NN data/NNS ]
+./. 
+
+[ 167/CD ]
+./. 
+
+[ An/DT example/NN ]
+of/IN 
+[ this/DT ]
+is/VBZ 
+[ the/DT size/NN ]
+of/IN 
+[ your/PRP$ virtual/JJ storage/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ a/DT single/JJ value/NN ]
+./. 
+
+[ 168/CD ]
+./. 
+
+Make/VB sure/JJ that/IN 
+[ your/PRP$ actual/JJ buffer/NN ]
+is/VBZ at/IN 
+[ least/JJS ]
+
+[ this/DT long/JJ ]
+./. 
+
+[ 169/CD ]
+./. 
+
+[ The/DT value/NN ]
+passed/VBN in/IN 
+[ the/DT first/JJ character/NN ]
+of/IN 
+[ buffer/NN ]
+was/VBD not/RB 
+[ a/DT character/NN 0/CD ]
+or/CC 
+[ 1/CD ]
+./. 
+
+[ 170/CD ]
+./. 
+
+Only/RB 
+[ one/CD ]
+of/IN 
+[ these/DT characters/NNS ]
+can/MD be/VB set/VBN to/TO 
+[ 1/CD ]
+at/IN 
+[ a/DT time/NN ]
+./. 
+
+[ 171/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ an/DT invalid/JJ combination/NN ]
+./. 
+
+[ 172/CD ]
+./. 
+
+[ Check/VB ]
+
+[ the/DT explanation/NN ]
+of/IN 
+[ each/DT parameter/NN ]
+to/TO determine/VB 
+[ what/WP ]
+
+[ the/DT correct/JJ data/NN type/NN ]
+should/MD be/VB ./. 
+
+[ 173/CD ]
+./. 
+
+[ Check/NNP ]
+
+[ the/DT explanation/NN ]
+of/IN 
+[ each/DT parameter/NN ]
+to/TO determine/VB 
+[ what/WP ]
+
+[ the/DT correct/JJ length/NN ]
+should/MD be/VB ./. 
+
+[ 174/CD ]
+./. 
+
+When/WRB 
+[ the/DT directory/NN ]
+is/VBZ accessed/VBN ,/, 
+[ this/DT variable/NN ]
+indicates/VBZ whether/IN 
+[ the/DT directory/NN ]
+is/VBZ accessed/VBN in/IN 
+[ read\/write/NN status/NN ]
+./. 
+
+[ 175/CD ]
+./. 
+
+Or/CC ,/, if/IN 
+[ the/DT directory/NN ]
+is/VBZ accessed/VBN ,/, 
+[ it/PRP ]
+is/VBZ accessed/VBN in/IN 
+[ read-only/JJ status/NN ]
+./. 
+
+[ 176/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT character/NN variable/NN ]
+between/IN 
+[ 0/CD ]
+and/CC 
+[ 6/CD ]
+./. 
+
+[ 177/CD ]
+./. 
+
+If/IN not/RB specified/VBN and/CC 
+[ the/DT file/NN ]
+is/VBZ found/VBN ,/, 
+[ the/DT return/NN code/NN ]
+is/VBZ 
+[ 0/CD ]
+./. 
+
+[ 178/CD ]
+./. 
+
+[ F/NNP ]
+indicates/VBZ that/IN 
+[ all/PDT the/DT records/NNS ]
+in/IN 
+[ the/DT file/NN ]
+have/VB 
+[ the/DT same/JJ length/NN ]
+./. 
+
+[ 179/CD ]
+./. 
+
+[ V/NNP ]
+indicates/VBZ that/IN 
+[ the/DT records/NNS ]
+in/IN 
+[ the/DT file/NN ]
+may/MD have/VB 
+[ different/JJ lengths/NNS ]
+./. 
+
+[ 180/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT character/NN value/NN ]
+between/IN 
+[ '0/CD ]
+'/'' and/CC 
+[ '6/CD ]
+'/'' ./. 
+
+[ 181/CD ]
+./. 
+
+If/IN 
+[ an/DT entire/NN group/NN ]
+can/MD not/RB fit/VB in/IN 
+[ the/DT buffer/NN ]
+,/, 
+[ it/PRP ]
+does/VBZ not/RB return/VB 
+[ that/DT group/NN ]
+or/CC 
+[ any/DT ]
+of/IN 
+[ the/DT remaining/VBG fields/NNS ]
+of/IN 
+[ the/DT record/NN ]
+./. 
+
+[ 182/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT character/NN value/NN ]
+between/IN 
+[ 0/CD ]
+and/CC 
+[ 6/CD ]
+./. 
+
+[ 183/CD ]
+./. 
+
+When/WRB 
+[ REPLACE/NNP ]
+is/VBZ specified/VBN ,/, 
+[ the/DT attributes/NNS ]
+of/IN 
+[ the/DT source/NN file/NN ]
+(/( for/IN 
+[ example/NN ]
+,/, 
+[ record/NN format/NN ]
+and/CC 
+[ logical/JJ record/NN length/NN ]
+)/) and/CC 
+[ the/DT authorities/NNS ]
+of/IN 
+[ the/DT target/NN file/NN ]
+are/VBP kept/VBN ./. 
+
+[ 184/CD ]
+./. 
+
+(/( 
+[ This/DT parameter/NN ]
+is/VBZ ignored/VBN for/IN 
+[ existing/VBG target/NN files/NNS ]
+./. 
+
+)/) 
+[ 185/CD ]
+./. 
+
+Yes/NN means/VBZ 
+[ the/DT user/NN ]
+can/MD copy/VB 
+[ a/DT file/NN ]
+under/IN 
+[ the/DT specified/VBN lock/NN ]
+and/CC 
+[ No/NN means/VBZ ]
+
+[ he/PRP ]
+can/MD not/RB ./. 
+
+[ 186/CD ]
+./. 
+
+[ Immediately/NNP ]
+after/IN 
+[ Open/NNP Directory/NNP ]
+,/, Get/VB 
+[ Directory/NNP starts/VBZ ]
+with/IN 
+[ the/DT directory/NN ]
+
+[ that/WDT ]
+was/VBD opened/VBN ./. 
+
+[ 187/CD ]
+./. 
+
+Then/RB ,/, if/IN 
+[ there/EX ]
+are/VBP 
+[ subdirectories/NNS ]
+to/TO 
+[ that/DT directory/NN ]
+,/, 
+[ their/PRP$ entries/NNS ]
+are/VBP retrieved/VBN ,/, and/CC so/RB on/IN down/IN 
+[ the/DT directory/NN structure/NN ]
+./. 
+
+[ 188/CD ]
+./. 
+
+[ D/NNP ]
+indicates/VBZ that/IN 
+[ this/DT ]
+is/VBZ 
+[ a/DT directory/NN ]
+./. 
+
+[ 189/CD ]
+./. 
+
+[ Multiple/JJ ]
+calls/NNS to/TO Get/VB 
+[ Directory/NNP ]
+-/: 
+[ File/NNP ]
+may/MD be/VB used/VBN ./. 
+
+[ 190/CD ]
+./. 
+
+[ Immediately/RB ]
+after/IN 
+[ Open/VB Directory/NNP ]
+,/, Get/VB 
+[ Directory/NNP starts/VBZ ]
+with/IN 
+[ the/DT first/JJ directory/NN entry/NN ]
+./. 
+
+[ 191/CD ]
+./. 
+
+[ authority/NN ]
+for/IN 
+[ the/DT subdirectory/JJ ]
+is/VBZ not/RB provided/VBN by/IN 
+[ this/DT function/NN ]
+./. 
+
+[ 192/CD ]
+./. 
+
+[ D/NNP ]
+indicates/VBZ that/IN 
+[ this/DT ]
+is/VBZ 
+[ a/DT directory/JJ record/NN ]
+./. 
+
+[ 193/CD ]
+./. 
+
+[ A/DT file-not-found/JJ error/NN condition/NN ]
+can/MD occur/VB even/RB though/IN 
+[ the/DT Open/VB Directory/NNP ]
+indicated/VBD that/IN 
+[ the/DT file/NN ]
+does/VBZ exist/VB ./. 
+
+[ 194/CD ]
+./. 
+
+For/IN 
+[ performance/NN ]
+,/, 
+[ a/DT question/NN mark/NN ]
+(/( ?/. 
+
+)/) 
+[ 195/CD ]
+./. 
+
+[ Multiple/JJ ]
+calls/NNS to/TO Get/VB 
+[ Directory/NNP ]
+may/MD be/VB used/VBN ./. 
+
+[ 196/CD ]
+./. 
+
+[ The/DT number/NN ]
+of/IN 
+[ records/NNS ]
+must/MD be/VB greater/JJR than/IN 
+[ zero/CD ]
+./. 
+
+[ 197/CD ]
+./. 
+
+(/( 
+[ It/PRP ]
+does/VBZ not/RB return/VB 
+[ partial/JJ records/NNS ]
+./. 
+
+)/) 
+[ 198/CD ]
+./. 
+
+[ The/DT buffer/NN formats/NNS ]
+for/IN 
+[ the/DT various/JJ types/NNS ]
+of/IN 
+[ directory/JJ records/NNS ]
+are/VBP as/RB follows/VBZ :/: 
+[ 199/CD ]
+./. 
+
+When/WRB 
+[ status/NN =/SYM 3/CD ]
+,/, 
+[ this/DT field/NN ]
+will/MD always/RB be/VB blank/JJ because/IN 
+[ the/DT base/NN file/NN ]
+no/RB longer/RB exists/VBZ ./. 
+
+[ 200/CD ]
+./. 
+
+[ Immediately/RB ]
+after/IN 
+[ an/DT Open/VB Directory/NNP ]
+,/, Get/VB 
+[ Directory/NNP starts/VBZ ]
+with/IN 
+[ the/DT first/JJ directory/NN entry/NN ]
+./. 

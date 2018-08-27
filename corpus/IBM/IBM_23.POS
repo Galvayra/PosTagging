@@ -1,0 +1,1341 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 2201/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+after/IN 
+[ you/PRP ]
+have/VBP completed/VBN 
+[ the/DT necessary/JJ prompts/NNS ]
+./. 
+
+[ 2202/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+(/( 
+[ Exit/VB ]
+)/) and/CC select/VB 
+[ option/NN 1/CD ]
+(/( Save/VB and/CC exit/VB )/) ./. 
+
+[ 2203/CD ]
+./. 
+
+[ This/DT information/NN ]
+will/MD help/VB 
+[ you/PRP ]
+set/VBP up/RP 
+[ work/NN station/NN function/NN printers/NNS ]
+using/VBG 
+[ the/DT work/NN station/NN function/NN configuration/NN program/NN ]
+(/( 
+[ CFGWSF/NNP ]
+)/) ./. 
+
+[ 2204/CD ]
+./. 
+
+Select/VB 
+[ option/NN 2/CD ]
+(/( 
+[ Work/NNP Station/NNP Function/NNP Configuration/NNP ]
+)/) from/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 2205/CD ]
+./. 
+
+[ Press/VB F10/NNP ]
+(/( 
+[ Action/NN ]
+)/) and/CC select/VB 
+[ Create/VB ]
+from/IN 
+[ the/DT list/NN ]
+of/IN 
+[ options/NNS ]
+in/IN 
+[ the/DT action/NN list/NN ]
+./. 
+
+[ 2206/CD ]
+./. 
+
+[ Type/VB ]
+
+[ the/DT name/NN ]
+
+[ you/PRP ]
+want/VBP to/TO give/VB 
+[ the/DT printer/NN session/NN profile/NN ]
+./. 
+
+[ 2207/CD ]
+./. 
+
+[ Press/VB F4/NNP ]
+(/( Prompt/NN )/) for/IN 
+[ a/DT list/NN ]
+of/IN 
+[ names/NNS you/PRP ]
+can/MD use/VB ./. 
+
+[ 2208/CD ]
+./. 
+
+Move/VB 
+[ the/DT cursor/NN ]
+to/TO 
+[ the/DT printer/NN function/NN table/NN IBM4019PFT/NNP ]
+when/WRB 
+[ the/DT list/NN ]
+is/VBZ shown/VBN ,/, and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2209/CD ]
+./. 
+
+[ Press/VB F10/NNP ]
+(/( 
+[ Actions/NNS ]
+)/) and/CC select/VB 
+[ Printer/NN options/NNS ]
+from/IN 
+[ the/DT action/NN list/NN ]
+./. 
+
+[ 2210/CD ]
+./. 
+
+Select/VB 
+[ option/NN 1/CD ]
+(/( 
+[ Printer/NN hardware/NN characteristics/NNS ]
+)/) ./. 
+
+[ 2211/CD ]
+./. 
+
+[ The/DT first/JJ ]
+of/IN 
+[ several/JJ displays/NNS ]
+containing/VBG 
+[ printer/NN hardware/NN options/NNS ]
+is/VBZ shown/VBN ./. 
+
+[ 2212/CD ]
+./. 
+
+For/IN 
+[ this/DT example/NN ]
+,/, 
+[ */SYM Select/JJ option/NN 2/CD ]
+(/( 
+[ No/UH ]
+)/) for/IN 
+[ the/DT Prompt/JJ ]
+to/TO change/VB 
+[ font/NN option/NN ]
+./. 
+
+[ 2213/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+(/( 
+[ Exit/VB ]
+)/) and/CC select/VB 
+[ option/NN 1/CD ]
+(/( Save/VB 
+[ Session/NNP ]
+and/CC 
+[ Add/VB ]
+to/TO 
+[ a/DT Master/NN ]
+)/) ./. 
+
+[ 2214/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+to/TO verify/VB 
+[ the/DT session/NN profile/NN name/NN ]
+./. 
+
+[ 2215/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+to/TO use/VB 
+[ the/DT default/NN master/NN profile/NN name/NN ]
+,/, or/CC 
+[ type/VB ]
+
+[ the/DT name/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB for/IN 
+[ a/DT master/NN profile/NN ]
+and/CC then/RB press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2216/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+(/( 
+[ Exit/VB ]
+)/) and/CC select/VB 
+[ option/NN 1/CD ]
+(/( Save/VB 
+[ Master/NNP Profile/NNP ]
+and/CC 
+[ Return/VB ]
+)/) ./. 
+
+[ 2217/CD ]
+./. 
+
+[ You/PRP ]
+must/MD restart/VB 
+[ work/NN station/NN function/NN ]
+before/IN 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT work/NN station/NN printer/NN session/NN ]
+./. 
+
+[ 2218/CD ]
+./. 
+
+[ Printer/NN function/NN tables/NNS ]
+define/VBP 
+[ the/DT personal/JJ printer/NN functions/NNS ]
+to/TO 
+[ the/DT work/NN station/NN function/NN printer/NN session/NN ]
+./. 
+
+[ 2219/CD ]
+./. 
+
+Make/VB 
+[ a/DT copy/NN ]
+of/IN 
+[ the/DT printer/NN function/NN table/NN ]
+to/TO be/VB used/VBN ./. 
+
+[ 2220/CD ]
+./. 
+
+Change/VB to/TO drive/NN 
+[ I/NNP ]
+and/CC then/RB type/VB 
+[ the/DT following/NN ]
+at/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 2221/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+when/WRB 
+[ the/DT logo/NN screen/NN ]
+is/VBZ displayed/VBN ./. 
+
+[ 2222/CD ]
+./. 
+
+[ The/DT Printer/NNP Function/NNP Table/NNP Tasks/NNPS window/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 2223/CD ]
+./. 
+
+[ Type/VB ]
+
+[ the/DT name/NN ]
+of/IN 
+[ the/DT printer/NN function/NN table/NN ]
+to/TO use/VB in/IN 
+[ the/DT Table/NNP Name/NNP ]
+prompt/NN and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2224/CD ]
+./. 
+
+Enter/VB 
+[ the/DT initial/JJ control/NN sequence/NN ]
+for/IN 
+[ your/PRP$ personal/JJ printer/NN ]
+./. 
+
+[ 2225/CD ]
+./. 
+
+[ This/DT information/NN ]
+is/VBZ found/VBN in/IN 
+[ the/DT printer/NN 's/POS technical/JJ reference/NN manual/NN ]
+./. 
+
+[ 2226/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Esc/NNP key/NN ]
+to/TO 
+[ exit/VB ]
+./. 
+
+[ 2227/CD ]
+./. 
+
+Using/VBG 
+[ a/DT combination/NN ]
+of/IN 
+[ the/DT virtual/JJ printer/NN function/NN ]
+and/CC 
+[ the/DT work/NN station/NN function/NN ]
+allows/VBZ 
+[ several/JJ users/NNS ]
+to/TO share/VB 
+[ a/DT personal/JJ printer/NN ]
+./. 
+
+[ 2228/CD ]
+./. 
+
+[ Select/VB ]
+
+[ the/DT Work/NNP Station/NNP Function/NNP Configuration/NNP option/NN ]
+./. 
+
+[ 2229/CD ]
+./. 
+
+[ Select/VB ]
+
+[ the/DT Create/VB Session/NNP Profile/NNP option/NN ]
+./. 
+
+[ 2230/CD ]
+./. 
+
+[ Type/VB ]
+
+[ the/DT name/NN ]
+
+[ you/PRP ]
+want/VBP to/TO give/VB 
+[ the/DT printer/NN session/NN profile/NN ]
+in/IN 
+[ the/DT window/NN ]
+shown/VBN on/IN 
+[ the/DT Work/NNP Station/NNP Function/NNP Configuration/NNP menu/NN ]
+./. 
+
+[ 2231/CD ]
+./. 
+
+Then/RB ,/, press/VB 
+[ F4/NNP ]
+(/( Prompt/JJ )/) to/TO display/VB 
+[ a/DT list/NN ]
+of/IN 
+[ the/DT printer/NN function/NN table/NN names/NNS ]
+./. 
+
+[ 2232/CD ]
+./. 
+
+Move/VB 
+[ the/DT cursor/NN ]
+to/TO 
+[ the/DT printer/NN function/NN table/NN IBM4019PFT/NNP ]
+and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2233/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+,/, 
+[ the/DT list/NN ]
+is/VBZ removed/VBN and/CC 
+[ the/DT table/NN name/NN ]
+is/VBZ shown/VBN in/IN 
+[ the/DT Printer/NN function/NN table/NN file/NN name/NN prompt/NN ]
+./. 
+
+[ 2234/CD ]
+./. 
+
+[ The/DT S/NNP ]
+and/CC 
+[ the/DT work/NN station/NN function/NN printer/NN session/NN number/NN ]
+is/VBZ added/VBN to/TO 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT user/NN ID/NN ]
+./. 
+
+[ 2235/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP to/TO change/VB 
+[ your/PRP$ printer/NN hardware/NN characteristics/NNS ]
+,/, 
+[ press/VB F10/NNP ]
+(/( 
+[ Actions/NNS ]
+)/) ,/, select/VB 
+[ Printer/NN options/NNS ]
+from/IN 
+[ the/DT action/NN list/NN ]
+,/, and/CC then/RB select/VB 
+[ option/NN 1/CD ]
+(/( 
+[ Printer/NN hardware/NN characteristics/NNS ]
+)/) from/IN 
+[ the/DT window/NN ]
+shown/VBN ./. 
+
+[ 2236/CD ]
+./. 
+
+Enter/VB 
+[ new/JJ values/NNS ]
+for/IN 
+[ the/DT characteristics/NNS you/PRP ]
+want/VBP to/TO change/VB ./. 
+
+[ 2237/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+to/TO exit/VB and/CC then/RB select/VB 
+[ the/DT option/NN ]
+to/TO Save/VB 
+[ Master/NNP Profile/NNP ]
+and/CC 
+[ Return/VB ]
+./. 
+
+[ 2238/CD ]
+./. 
+
+When/WRB 
+[ ASCII/NNP data/NN ]
+is/VBZ selected/VBN for/IN 
+[ this/DT option/NN ]
+,/, most/RBS of/IN 
+[ the/DT remaining/VBG prompts/NNS ]
+on/IN 
+[ the/DT display/NN ]
+are/VBP not/RB used/VBN ./. 
+
+[ 2239/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+have/VBP completed/VBN 
+[ the/DT necessary/JJ prompts/NNS ]
+,/, press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2240/CD ]
+./. 
+
+[ PC/NNP Support\/36/NNP work/NN station/NN feature/NN session/NN profiles/NNS ]
+,/, 
+[ keyboard/NN profiles/NNS ]
+,/, and/CC 
+[ master/NN profiles/NNS ]
+./. 
+
+[ 2241/CD ]
+./. 
+
+[ You/PRP ]
+change/VBP 
+[ these/DT files/NNS ]
+and/CC 
+[ profiles/NNS ]
+with/IN 
+[ the/DT configuration/NN file/NN support/NN program/NN ]
+and/CC 
+[ the/DT work/NN station/NN function/NN configuration/NN program/NN ]
+./. 
+
+[ 2242/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+issue/VBP 
+[ a/DT command/NN ]
+
+[ that/WDT ]
+uses/VBZ 
+[ one/CD ]
+of/IN 
+[ these/DT files/NNS ]
+or/CC 
+[ programs/NNS ]
+,/, 
+[ PC/NNP Support/NNP ]
+may/MD issue/VB 
+[ an/DT error/NN message/NN ]
+./. 
+
+[ 2243/CD ]
+./. 
+
+[ EMLI/NNP identifier/NN ]
+:/: 
+[ the/DT link/NN name/NN ]
+,/, 
+[ work/NN station/NN address/NN ]
+,/, and/CC 
+[ user/NN ID/NN parameters/NNS ]
+have/VBP been/VBN added/VBN to/TO 
+[ this/DT identifier/NN ]
+./. 
+
+[ 2244/CD ]
+./. 
+
+[ The/DT following/VBG identifiers/NNS ]
+have/VBP been/VBN added/VBN :/: 
+[ 2245/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ only/JJ systems/NNS ]
+attached/VBN to/TO 
+[ the/DT same/JJ IBM/NNP Token-Ring/NNP Network/NNP ]
+as/IN 
+[ your/PRP$ personal/JJ computer/NN ]
+can/MD have/VB 
+[ a/DT link/NN attachment/NN ]
+to/TO 
+[ your/PRP$ personal/JJ computer/NN ]
+./. 
+
+[ 2246/CD ]
+./. 
+
+If/IN 
+[ your/PRP$ personal/JJ computer/NN connection/NN ]
+is/VBZ twinaxial/JJ ,/, 
+[ you/PRP ]
+can/MD have/VB only/RB 
+[ one/CD link/NN attachment/NN ]
+./. 
+
+[ 2247/CD ]
+./. 
+
+[ The/DT ADRS/NNP identifier/NN ]
+is/VBZ used/VBN to/TO add/VB 
+[ system/NN attachments/NNS ]
+./. 
+
+[ 2248/CD ]
+./. 
+
+[ ADRS/NNP ]
+identifies/VBZ 
+[ the/DT system/NN attachment/NN ]
+and/CC 
+[ the/DT link/NN attachment/NN system/NN ]
+to/TO be/VB used/VBN ./. 
+
+[ 2249/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ you/PRP ]
+already/RB have/VB 
+[ the/DT maximum/JJ number/NN ]
+(/( 
+[ 32/CD ]
+)/) of/IN 
+[ active/JJ names/NNS ]
+in/IN 
+[ the/DT router/NN internal/JJ system/NN name/NN table/NN ]
+,/, and/CC 
+[ you/PRP ]
+want/VBP to/TO use/VB 
+[ a/DT system/NN ]
+
+[ that/WDT ]
+is/VBZ not/RB in/IN 
+[ the/DT table/NN ]
+./. 
+
+[ 2250/CD ]
+./. 
+
+[ The/DT formats/NNS ]
+for/IN 
+[ these/DT identifiers/NNS ]
+are/VBP :/: 
+[ 2251/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ a/DT remote/JJ system/NN name/NN parameter/NN ]
+on/IN 
+[ the/DT ADRS/NNP entry/NN ]
+for/IN 
+[ the/DT system/NN ]
+with/IN 
+[ which/WDT ]
+
+[ you/PRP ]
+have/VBP 
+[ a/DT link/NN ]
+./. 
+
+[ 2252/CD ]
+./. 
+
+[ Refer/NNP ]
+to/TO 
+[ Appendix/NNP D/NNP ]
+,/, ``/`` 
+[ Configuring/VBG PC/NNP Support/NNP ]
+Using/VBG 
+[ the/DT Editor/NNP ]
+,/, 
+[ ''/'' ]
+for/IN 
+[ more/JJR information/NN ]
+on/IN how/WRB to/TO specify/VB 
+[ a/DT remote/JJ system/NN name/NN parameter/NN ]
+on/IN 
+[ the/DT ADRS/NNP entry/NN ]
+./. 
+
+[ 2253/CD ]
+./. 
+
+When/WRB using/VBG 
+[ multiple/JJ systems/NNS ]
+with/IN 
+[ PC/NNP Support/NNP ]
+,/, 
+[ the/DT systems/NNS ]
+should/MD be/VB at/IN 
+[ the/DT same/JJ security/NN level/NN ]
+./. 
+
+[ 2254/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT STARTRTR/NNP command/NN ]
+to/TO use/VB 
+[ the/DT message/NN function/NN ]
+on/IN 
+[ a/DT remote/JJ system/NN ]
+./. 
+
+[ 2255/CD ]
+./. 
+
+[ Refer/VB ]
+to/TO 
+[ Appendix/NNP D/NNP ]
+,/, ``/`` 
+[ Configuring/VBG PC/NNP Support/NNP ]
+Using/VBG 
+[ the/DT Editor/NNP ]
+,/, 
+[ ''/'' ]
+for/IN 
+[ the/DT format/NN ]
+of/IN 
+[ this/DT entry/NN ]
+./. 
+
+[ 2256/CD ]
+./. 
+
+If/IN 
+[ no/DT match/NN ]
+is/VBZ found/VBN ,/, 
+[ the/DT router/NN ]
+looks/VBZ at/IN 
+[ the/DT remote/JJ system/NN names/NNS ]
+(/( if/IN 
+[ any/DT ]
+are/VBP currently/RB set/VBN up/RP by/IN 
+[ the/DT router/NN ]
+)/) ./. 
+
+[ 2257/CD ]
+./. 
+
+[ The/DT message/NN function/NN ]
+is/VBZ active/JJ on/IN 
+[ only/JJ one/CD system/NN ]
+at/IN 
+[ a/DT time/NN ]
+./. 
+
+[ 2258/CD ]
+./. 
+
+[ You/PRP ]
+would/MD have/VB started/VBN 
+[ the/DT router/NN ]
+with/IN 
+[ the/DT following/VBG entry/NN ]
+in/IN 
+[ your/PRP$ configuration/NN file/NN ]
+:/: 
+[ 2259/CD ]
+./. 
+
+Or/CC ,/, 
+[ you/PRP ]
+can/MD start/VB 
+[ the/DT message/NN function/NN ]
+on/IN 
+[ the/DT DEPT/NNP system/NN ]
+by/IN entering/VBG 
+[ one/CD ]
+of/IN 
+[ the/DT following/VBG commands/NNS ]
+from/IN 
+[ the/DT DOS/NNP command/NN prompt/NN ]
+:/: 
+[ 2260/CD ]
+./. 
+
+[ The/DT shared/VBN folders/NNS function/NN ]
+supplies/VBZ 
+[ a/DT parameter/NN ]
+on/IN 
+[ the/DT FSPC/NNP ASSIGN/NNP command/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ you/PRP ]
+to/TO directly/RB 
+[ access/VB ]
+
+[ a/DT folder/NN ]
+on/IN 
+[ a/DT system/NN ]
+by/IN typing/VBG 
+[ the/DT following/VBG command/NN ]
+:/: 
+[ 2261/CD ]
+./. 
+
+If/IN 
+[ no/DT match/NN ]
+is/VBZ found/VBN here/RB ,/, 
+[ the/DT router/NN ]
+looks/VBZ at/IN 
+[ the/DT system/NN names/NNS ]
+if/IN 
+[ any/DT ]
+are/VBP currently/RB set/VBN up/RP by/IN 
+[ the/DT router/NN ]
+./. 
+
+[ 2262/CD ]
+./. 
+
+Use/VB 
+[ the/DT configuration/NN program/NN ]
+with/IN 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+to/TO enter/VB 
+[ information/NN ]
+(/( in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ a/DT four-character/JJ identifier/NN ]
+)/) directly/RB into/IN 
+[ a/DT PC/NNP Support/NNP configuration/NN file/NN ]
+./. 
+
+[ 2263/CD ]
+./. 
+
+[ The/DT editor/NN ]
+provides/VBZ 
+[ prompts/NNS ]
+and/CC help/NN 
+[ information/NN ]
+for/IN adding/VBG ,/, changing/VBG ,/, or/CC 
+[ deleting/VBG identifiers/NNS ]
+./. 
+
+[ 2264/CD ]
+./. 
+
+[ This/DT appendix/NN ]
+explains/VBZ how/WRB to/TO use/VB 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+with/IN 
+[ the/DT configuration/NN program/NN ]
+to/TO change/VB 
+[ the/DT way/NN PC/NNP Support/NNP ]
+operates/VBZ ./. 
+
+[ 2265/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB want/VB to/TO edit/VB 
+[ your/PRP$ configuration/NN files/NNS ]
+directly/RB ,/, see/VB 
+[ Chapter/NN 2/CD ]
+,/, ``/`` 
+[ Configuring/VBG PC/NNP Support/NNP ]
+with/IN 
+[ the/DT Configuration/NNP Program/NNP ''/'' ]
+for/IN 
+[ information/NN ]
+about/IN using/VBG 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+./. 
+
+[ 2266/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+with/IN 
+[ the/DT configuration/NN program/NN ]
+to/TO change/VB 
+[ the/DT information/NN ]
+in/IN 
+[ your/PRP$ PC/NNP Support/NNP configuration/NN file/NN ]
+./. 
+
+[ 2267/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+when/WRB 
+[ the/DT IBM/NNP logo/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 2268/CD ]
+./. 
+
+If/IN 
+[ the/DT file/NN ]
+exists/VBZ ,/, 
+[ the/DT contents/NNS ]
+of/IN 
+[ the/DT file/NN ]
+are/VBP shown/VBN ./. 
+
+[ 2269/CD ]
+./. 
+
+If/IN 
+[ the/DT file/NN ]
+does/VBZ not/RB exist/VB ,/, 
+[ a/DT display/NN ]
+is/VBZ shown/VBN where/WRB 
+[ you/PRP ]
+can/MD enter/VB 
+[ the/DT name/NN ]
+of/IN 
+[ another/DT configuration/NN file/NN ]
+./. 
+
+[ 2270/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+to/TO select/VB 
+[ the/DT option/NN PC/NNP Support/NNP editor/NN ]
+./. 
+
+[ 2271/CD ]
+./. 
+
+[ A/DT display/NN ]
+similar/JJ to/TO 
+[ the/DT following/NN ]
+is/VBZ shown/VBN :/: 
+[ 2272/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+to/TO select/VB 
+[ the/DT file/NN ]
+shown/VBN on/IN 
+[ the/DT display/NN ]
+,/, or/CC 
+[ type/VB ]
+
+[ the/DT name/NN ]
+of/IN 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+want/VBP to/TO edit/VB and/CC then/RB press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 2273/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+,/, 
+[ the/DT contents/NNS ]
+of/IN 
+[ the/DT specified/VBN file/NN ]
+are/VBP shown/VBN on/IN 
+[ your/PRP$ display/NN ]
+./. 
+
+[ 2274/CD ]
+./. 
+
+Once/RB 
+[ you/PRP ]
+have/VBP started/VBN 
+[ the/DT configuration/NN program/NN ]
+and/CC 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+,/, and/CC leave/VB displayed/VBN 
+[ the/DT contents/NNS ]
+of/IN 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+want/VBP to/TO change/VB ,/, 
+[ you/PRP ]
+can/MD begin/VB editing/VBG 
+[ the/DT file/NN ]
+./. 
+
+[ 2275/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT Identifiers/NNPS option/NN ]
+in/IN 
+[ the/DT action/NN list/NN ]
+at/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT ]
+edit/VB 
+[ display/NN ]
+to/TO add/VB 
+[ identifiers/NNS ]
+to/TO 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+are/VBP editing/VBG ./. 
+
+[ 2276/CD ]
+./. 
+
+[ Some/DT identifiers/NNS ]
+can/MD only/RB appear/VB once/RB in/IN 
+[ a/DT file/NN ]
+./. 
+
+[ 2277/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+try/VBP to/TO add/VB 
+[ a/DT second/JJ entry/NN ]
+,/, 
+[ you/PRP ]
+will/MD receive/VB 
+[ an/DT error/NN message/NN ]
+./. 
+
+[ 2278/CD ]
+./. 
+
+[ Select/VB ]
+
+[ the/DT Identifiers/NNPS option/NN ]
+from/IN 
+[ the/DT action/NN list/NN ]
+./. 
+
+[ 2279/CD ]
+./. 
+
+[ A/DT window/NN ]
+is/VBZ shown/VBN containing/VBG 
+[ several/JJ options/NNS ]
+./. 
+
+[ 2280/CD ]
+./. 
+
+-/: Select/VB 
+[ option/NN 1/CD ]
+(/( 
+[ Router/NN ]
+)/) to/TO display/VB 
+[ the/DT router/NN identifiers/NNS ]
+./. 
+
+[ 2281/CD ]
+./. 
+
+-/: Select/VB 
+[ option/NN 2/CD ]
+(/( 
+[ Virtual/NNP Printer/NNP ]
+)/) to/TO display/VB 
+[ the/DT virtual/JJ printer/NN function/NN identifiers/NNS ]
+./. 
+
+[ 2282/CD ]
+./. 
+
+-/: Select/VB 
+[ option/NN 3/CD ]
+(/( 
+[ Message/NNP Function/NNP ]
+)/) to/TO display/VB 
+[ the/DT message/NN function/NN identifiers/NNS ]
+./. 
+
+[ 2283/CD ]
+./. 
+
+-/: Select/VB 
+[ option/NN 4/CD ]
+(/( 
+[ Organizer/NN ]
+)/) to/TO display/VB 
+[ the/DT organizer/NN function/NN identifiers/NNS ]
+./. 
+
+[ 2284/CD ]
+./. 
+
+-/: Select/VB 
+[ option/NN 5/CD ]
+(/( 
+[ Shared/VBN Folders/NNPS Support/NNP ]
+)/) to/TO display/VB 
+[ the/DT shared/VBN folders/NNS function/NN identifiers/NNS ]
+./. 
+
+[ 2285/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT identifiers/NNS ]
+for/IN 
+[ changing/VBG translation/NN tables/NNS ]
+,/, display/NN 
+[ type/NN ]
+or/CC 
+[ speed/NN ]
+,/, are/VBP listed/VBN here/RB as/IN well/RB as/IN 
+[ the/DT software/NN ]
+interrupt/VB 
+[ number/NN ]
+./. 
+
+[ 2286/CD ]
+./. 
+
+Select/VB 
+[ an/DT option/NN ]
+or/CC enter/VB 
+[ a/DT value/NN ]
+for/IN 
+[ the/DT prompts/NNS ]
+./. 
+
+[ 2287/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Esc/NNP key/NN ]
+to/TO remove/VB 
+[ the/DT list/NN ]
+of/IN 
+[ identifiers/NNS ]
+./. 
+
+[ 2288/CD ]
+./. 
+
+[ Type/VB Exit/VB ]
+and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+to/TO return/VB to/TO 
+[ the/DT editing/VBG display/NN ]
+./. 
+
+[ 2289/CD ]
+./. 
+
+To/TO help/VB 
+[ you/PRP ]
+change/VB 
+[ an/DT identifier/NN ]
+already/RB existing/VBG in/IN 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+are/VBP editing/VBG ,/, 
+[ the/DT editor/NN ]
+displays/VBZ 
+[ the/DT prompt/NN ]
+and/CC 
+[ the/DT parameters/NNS you/PRP ]
+can/MD select/VB for/IN 
+[ that/DT identifier/NN ]
+when/WRB 
+[ you/PRP ]
+press/VBP 
+[ F4/NNP ]
+(/( 
+[ Prompt/NN ]
+)/) ./. 
+
+[ 2290/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+,/, 
+[ the/DT window/NN ]
+is/VBZ removed/VBN and/CC 
+[ the/DT new/JJ option/NN ]
+or/CC 
+[ value/NN ]
+is/VBZ shown/VBN next/JJ to/TO 
+[ the/DT identifier/NN ]
+in/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 2291/CD ]
+./. 
+
+Before/IN 
+[ you/PRP ]
+can/MD move/VB or/CC copy/VB 
+[ text/NN ]
+in/IN 
+[ a/DT file/NN ]
+,/, 
+[ you/PRP ]
+have/VBP to/TO mark/VB 
+[ it/PRP ]
+./. 
+
+[ 2292/CD ]
+./. 
+
+Move/VB or/CC copy/VB 
+[ the/DT marked/VBN text/NN ]
+./. 
+
+[ 2293/CD ]
+./. 
+
+[ You/PRP ]
+can/MD move/VB 
+[ a/DT line/NN ]
+of/IN 
+[ text/NN ]
+or/CC 
+[ a/DT block/NN ]
+of/IN 
+[ text/NN ]
+to/TO 
+[ another/DT location/NN ]
+in/IN 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+are/VBP editing/VBG ./. 
+
+[ 2294/CD ]
+./. 
+
+[ You/PRP ]
+can/MD copy/VB 
+[ text/NN ]
+from/IN 
+[ one/CD part/NN ]
+of/IN 
+[ the/DT file/NN ]
+
+[ you/PRP ]
+are/VBP editing/VBG to/TO 
+[ another/DT part/NN ]
+./. 
+
+[ 2295/CD ]
+./. 
+
+[ You/PRP ]
+will/MD not/RB be/VB able/JJ to/TO copy/VB 
+[ them/PRP ]
+./. 
+
+[ 2296/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+try/VBP to/TO copy/VB 
+[ it/PRP ]
+to/TO 
+[ another/DT part/NN ]
+of/IN 
+[ the/DT file/NN ]
+,/, 
+[ you/PRP ]
+will/MD receive/VB 
+[ an/DT error/NN message/NN ]
+./. 
+
+[ 2297/CD ]
+./. 
+
+[ A/DT blank/JJ line/NN ]
+is/VBZ inserted/VBN into/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 2298/CD ]
+./. 
+
+[ You/PRP ]
+can/MD delete/VB 
+[ one/CD line/NN ]
+at/IN 
+[ a/DT time/NN ]
+from/IN 
+[ a/DT file/NN ]
+
+[ you/PRP ]
+are/VBP editing/VBG ./. 
+
+[ 2299/CD ]
+./. 
+
+If/IN 
+[ there/EX ]
+is/VBZ only/RB 
+[ one/CD line/NN ]
+in/IN 
+[ the/DT file/NN ]
+,/, 
+[ you/PRP ]
+can/MD not/RB delete/VB 
+[ it/PRP ]
+./. 
+
+[ 2300/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Shift/NNP key/NN ]
+and/CC then/RB press/VB 
+[ the/DT F9/NNP key/NN ]
+./. 

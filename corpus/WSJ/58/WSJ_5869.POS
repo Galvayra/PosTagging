@@ -1,0 +1,635 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ McDonnell/NNP Douglas/NNP Corp./NNP ]
+,/, calling/VBG 
+[ it/PRP ]
+
+[ an/DT ]
+``/`` 
+[ obvious/JJ improvement/NN ]
+to/TO be/VB made/VBN ,/, ''/'' recommended/VBD that/IN 
+[ airlines/NNS ]
+add/VB 
+[ a/DT few/JJ simple/JJ parts/NNS ]
+to/TO 
+[ the/DT DC-10/NNP ]
+
+[ that/WDT ]
+could/MD prevent/VB 
+[ an/DT accident/NN ]
+like/IN 
+[ the/DT July/NNP crash/NN ]
+in/IN 
+[ Sioux/NNP City/NNP ]
+,/, 
+[ Iowa/NNP ]
+,/, 
+[ that/WDT ]
+killed/VBD 
+[ 112/CD people/NNS ]
+./. 
+
+======================================
+
+During/IN 
+[ that/DT disaster/NN ]
+,/, 
+[ the/DT rear/JJ engine/NN ]
+on/IN 
+[ United/NNP Airlines/NNP flight/NN 232/CD ]
+exploded/VBD ,/, severing/VBG 
+[ all/DT three/CD hydraulic/JJ lines/NNS ]
+on/IN 
+[ the/DT tri-jet/NN ]
+./. 
+
+[ The/DT lines/NNS ]
+,/, 
+[ a/DT series/NN ]
+of/IN 
+[ half-inch/JJ ]
+,/, 
+[ fluid-filled/JJ tubes/NNS ]
+raddled/VBN through/IN 
+[ the/DT plane/NN ]
+,/, are/VBP connected/VBN to/TO 
+[ devices/NNS ]
+on/IN 
+[ the/DT wings/NNS ]
+and/CC 
+[ tail/NN ]
+called/VBD 
+[ actuators/NNS ]
+;/: 
+[ they/PRP ]
+,/, in/IN 
+[ turn/NN ]
+,/, 
+[ direct/VBP movable/JJ flaps/NNS ]
+
+[ that/WDT ]
+give/VBP 
+[ the/DT pilot/NN control/NN ]
+of/IN 
+[ the/DT aircraft/NN ]
+./. 
+
+======================================
+
+But/CC if/IN 
+[ the/DT No./NN 3/CD hydraulic/JJ line/NN ]
+became/VBD ruptured/VBN with/IN 
+[ the/DT new/JJ design/NN ]
+in/IN 
+[ place/NN ]
+,/, 
+[ a/DT shut-off/JJ valve/NN ]
+would/MD automatically/RB close/VB ./. 
+
+[ That/DT ]
+would/MD keep/VB 
+[ the/DT fluid/NN ]
+from/IN 
+[ draining/VBG ]
+and/CC preserve/VB 
+[ enough/JJ pressure/NN ]
+in/IN 
+[ the/DT system/NN ]
+for/IN 
+[ the/DT plane/NN ]
+to/TO be/VB landed/VBN safely/RB --/: even/RB if/IN 
+[ the/DT other/JJ two/CD lines/NNS ]
+were/VBD also/RB crippled/VBN ./. 
+
+If/IN 
+[ such/JJ a/DT valve/NN ]
+had/VBD been/VBN present/JJ on/IN 
+[ flight/NN 232/CD ]
+,/, 
+[ the/DT crew/NN ]
+``/`` would/MD have/VB had/VBD 
+[ a/DT ]
+relatively/RB 
+[ easy/JJ time/NN ]
+to/TO arrive/VB at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT runway/NN ]
+,/, ''/'' said/VBD 
+[ Dale/NNP Warren/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+at/IN 
+[ the/DT company/NN 's/POS Douglas/NNP Aircraft/NNP Co./NNP subsidiary/NN ]
+here/RB ./. 
+
+======================================
+
+[ The/DT Federal/NNP Aviation/NNP Administration/NNP ]
+is/VBZ expected/VBN to/TO soon/RB make/VB 
+[ the/DT alteration/NN mandatory/NN ]
+on/IN 
+[ domestic/JJ DC-10s/NNS ]
+,/, and/CC 
+[ international/JJ regulatory/JJ bodies/NNS ]
+would/MD probably/RB follow/VB 
+[ suit/NN ]
+./. 
+
+About/RB 
+[ 400/CD ]
+of/IN 
+[ the/DT planes/NNS ]
+are/VBP in/IN 
+[ service/NN ]
+around/IN 
+[ the/DT world/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Warren/NNP ]
+likened/VBD 
+[ the/DT introduction/NN ]
+of/IN 
+[ the/DT valve/NN ]
+to/TO 
+[ adding/VBG airbags/NNS ]
+in/IN 
+[ automobiles/NNS ]
+,/, calling/VBG 
+[ it/PRP ]
+
+[ something/NN ]
+``/`` over/RB and/CC above/RB 
+[ the/DT basic/JJ industry/NN standard/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ the/DT catastrophic/JJ failure/NN ]
+of/IN 
+[ the/DT No./NN 2/CD engine/NN ]
+on/IN 
+[ Flight/NNP 232/CD ]
+was/VBD ``/`` 
+[ unprecedented/JJ ]
+,/, ''/'' adding/VBG that/IN 
+[ the/DT chances/NNS ]
+of/IN 
+[ such/JJ a/DT thing/NN ]
+happening/VBG ``/`` are/VBP less/RBR than/IN 
+[ one/CD ]
+in/IN 
+[ a/DT billion/CD ]
+./. 
+
+''/'' 
+======================================
+
+But/CC ,/, clearly/RB ,/, 
+[ McDonnell/NNP Douglas/NNP ]
+has/VBZ been/VBN under/IN 
+[ fire/NN ]
+since/IN 
+[ the/DT Sioux/NNP City/NNP ]
+crash/NN to/TO better/RBR protect/VB 
+[ the/DT DC-10/NNS 's/POS hydraulics/NNS ]
+./. 
+
+Indeed/RB ,/, 
+[ the/DT company/NN ]
+has/VBZ been/VBN walking/VBG 
+[ a/DT tightrope/NN ]
+--/: asserting/VBG that/IN 
+[ the/DT plane/NN ]
+is/VBZ safe/JJ as/IN is/VBZ ,/, while/IN trying/VBG to/TO figure/VB 
+[ what/WP action/NN ]
+might/MD assuage/VB 
+[ the/DT public/NN 's/POS growing/VBG fears/NNS ]
+about/IN flying/VBG on/IN 
+[ it/PRP ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT front-page/JJ story/NN ]
+in/IN 
+[ this/DT newspaper/NN ]
+after/IN 
+[ the/DT July/NNP accident/NN ]
+,/, 
+[ aviation/NN experts/NNS ]
+questioned/VBD 
+[ the/DT configuration/NN ]
+of/IN 
+[ the/DT DC-10/NNP 's/POS hydraulics/NNS ]
+and/CC said/VBD 
+[ other/JJ planes/NNS ]
+have/VBP 
+[ more/JJR fail-safe/JJ systems/NNS ]
+,/, including/VBG 
+[ the/DT use/NN ]
+of/IN 
+[ shut-off/JJ valves/NNS ]
+./. 
+
+Following/VBG 
+[ the/DT article/NN ]
+,/, 
+[ the/DT International/NNP Airline/NNP Passengers/NNP Association/NNP ]
+,/, 
+[ a/DT travelers/NNS '/POS advocacy/NN group/NN ]
+,/, called/VBD for/IN 
+[ the/DT grounding/NN ]
+of/IN 
+[ the/DT DC-10/NNP fleet/NN ]
+./. 
+
+And/CC 
+[ Sen./NNP Howard/NNP Metzenbaum/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ohio/NNP ]
+ )/) ,/, citing/VBG 
+[ The/DT Wall/NNP Street/NNP Journal/NNP story/NN ]
+,/, wrote/VBD to/TO 
+[ FAA/NNP Administrator/NNP James/NNP Busey/NNP ]
+,/, questioning/VBG whether/IN 
+[ the/DT crash/NN ]
+``/`` might/MD have/VB been/VBN averted/VBN if/IN 
+[ the/DT hydraulic/JJ system/NN ]
+was/VBD designed/VBN differently/RB ./. 
+
+''/'' 
+======================================
+
+After/IN 
+[ the/DT Douglas/NNP announcement/NN ]
+about/IN 
+[ the/DT modification/NN ]
+,/, 
+[ Mr./NNP Busey/NNP ]
+said/VBD in/IN 
+[ a/DT statement/NN ]
+that/IN 
+[ the/DT change/NN ]
+will/MD ``/`` make/VB 
+[ a/DT good/JJ airplane/NN ]
+even/RB better/RBR ./. 
+
+''/'' 
+======================================
+
+Still/RB ,/, for/IN 
+[ some/DT ]
+,/, 
+[ the/DT addition/NN ]
+of/IN 
+[ the/DT shut-off/JJ valve/NN ]
+seems/VBZ unduly/RB belated/JJ ./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD either/RB completely/RB overlooked/VBN or/CC else/RB 
+[ they/PRP ]
+were/VBD dead/RB set/VBN against/IN changing/VBG 
+[ a/DT damn/JJ thing/NN ]
+,/, ''/'' said/VBD 
+[ Rick/NNP Clarke/NNP ]
+,/, 
+[ a/DT pilot/NN ]
+and/CC 
+[ president/NN ]
+of/IN 
+[ an/DT Annapolis/NNP ]
+,/, 
+[ Md./NNP ]
+,/, consulting/NN 
+[ firm/NN ]
+called/VBN 
+[ Air/NNP Safety/NNP Planning/NNP Associates/NNP ]
+./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ the/DT airline/NN passengers/NNS association/NN ]
+added/VBD ,/, ``/`` 
+[ We/PRP ]
+'re/VBP delighted/VBN that/IN 
+[ they/PRP ]
+'re/VBP taking/VBG 
+[ steps/NNS ]
+without/IN waiting/VBG for/IN 
+[ regulatory/JJ intervention.../: ]
+but/CC 
+[ we/PRP ]
+'re/VBP saddened/VBN that/IN 
+[ time/NN ]
+and/CC 
+[ events/NNS ]
+seem/VBP to/TO have/VB been/VBN 
+[ the/DT final/JJ catalyst/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Clarke/NNP ]
+pointed/VBD out/RP that/IN 
+[ the/DT hydraulics/NNS ]
+on/IN 
+[ Lockheed/NNP Corp./NNP 's/POS L-1011/NNP tri-jet/NN ]
+include/VBP 
+[ a/DT shut-off/JJ valve/NN ]
+./. 
+
+[ An/DT L-1011/NNP design/NN manual/NN ]
+,/, in/IN 
+[ fact/NN ]
+,/, says/VBZ that/IN in/IN 
+[ the/DT event/NN ]
+of/IN ``/`` 
+[ an/DT explosive/JJ failure/NN ]
+of/IN 
+[ the/DT No./NN 2/CD engine.../: ]
+
+[ a/DT shut-off/JJ valve/NN ]
+closes/VBZ ,/, protecting/VBG against/IN 
+[ the/DT loss/NN ]
+of/IN 
+[ system/NN fluid/NN ]
+./. 
+
+''/'' In/IN 
+[ addition/NN ]
+,/, 
+[ Boeing/NNP Co./NNP ]
+put/VBD 
+[ shut-off/JJ valves/NNS ]
+on/IN 
+[ some/DT ]
+of/IN 
+[ its/PRP$ aircraft/NN ]
+after/IN 
+[ the/DT 1985/CD crash/NN ]
+of/IN 
+[ a/DT Japan/NNP Airlines/NNP 747/CD ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT plane/NN 's/POS rear/JJ bulkhead/NN ]
+broke/VBD loose/RB and/CC tore/VBD 
+[ hydraulic/JJ lines/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ Mr./NNP Warren/NNP ]
+--/: noting/VBG 
+[ many/JJ safety/NN features/NNS ]
+on/IN 
+[ the/DT DC-10/NNP ]
+,/, including/VBG 
+[ the/DT employment/NN ]
+of/IN 
+[ backup/NN ]
+,/, or/CC ``/`` 
+[ redundant/JJ ]
+''/'' 
+[ hydraulic/JJ systems/NNS ]
+--/: insisted/VBD that/IN until/IN 
+[ the/DT Sioux/NNP City/NNP accident/NN ]
+,/, 
+[ the/DT possibility/NN ]
+of/IN 
+[ such/JJ a/DT large/JJ failure/NN ]
+of/IN 
+[ the/DT No./NN 2/CD engine/NN ]
+was/VBD 
+[ something/NN ]
+``/`` that/IN probably/RB 
+[ nobody/NN ]
+has/VBZ recognized/VBN ./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+also/RB discouraged/VBD 
+[ comparisons/NNS ]
+to/TO 
+[ the/DT L-1011/NNP ]
+,/, explaining/VBG that/IN 
+[ the/DT DC-10/NNP 's/POS tail/NN ]
+is/VBZ designed/VBN very/RB differently/RB and/CC includes/VBZ 
+[ some/DT superior/JJ handling/NN features/NNS ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ 
+[ no/DT valve/NN ]
+such/JJ as/IN 
+[ this/DT ]
+on/IN 
+[ an/DT L-1011/NNP ]
+to/TO 
+[ our/PRP$ knowledge/NN ]
+,/, ''/'' 
+[ Mr./NNP Warren/NNP ]
+maintained/VBD ./. 
+
+======================================
+
+[ The/DT installation/NN ]
+of/IN 
+[ the/DT valve/NN ]
+--/: as/RB well/RB as/IN 
+[ a/DT pair/NN ]
+of/IN 
+[ switches/NNS ]
+in/IN 
+[ the/DT hydraulic/JJ fluid/NN reservoir/NN ]
+
+[ that/WDT ]
+can/MD shut/VB 
+[ the/DT device/NN ]
+if/IN 
+[ they/PRP ]
+sense/VBP 
+[ the/DT liquid/JJ level/NN ]
+getting/VBG too/RB low/JJ and/CC 
+[ an/DT indicator/NN light/NN ]
+in/IN 
+[ the/DT cockpit/NN ]
+to/TO signal/VB 
+[ a/DT problem/NN ]
+--/: is/VBZ 
+[ a/DT ]
+relatively/RB 
+[ simple/JJ ]
+and/CC 
+[ inexpensive/JJ procedure/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ expected/VBN to/TO cost/VB about/RB 
+[ $/$ 10,000/CD ]
+
+[ a/DT plane/NN ]
+,/, and/CC 
+[ the/DT entire/JJ fleet/NN ]
+could/MD be/VB retrofitted/VBN within/IN 
+[ 21/CD months/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ n't/RB clear/JJ yet/RB 
+[ who/WP ]
+will/MD pay/VB for/IN 
+[ the/DT new/JJ equipment/NN ]
+,/, but/CC typically/RB 
+[ the/DT carriers/NNS ]
+bear/VBP 
+[ the/DT financial/JJ burden/NN ]
+in/IN 
+[ situations/NNS ]
+such/JJ as/IN 
+[ this/DT ]
+./. 
+
+======================================
+
+[ McDonnell/NNP Doulgas/NNP ]
+indicated/VBD 
+[ it/PRP ]
+'s/VBZ also/RB likely/JJ to/TO introduce/VB 
+[ the/DT valve/NN ]
+on/IN 
+[ its/PRP$ MD-11/NNP ]
+,/, 
+[ the/DT scion/NN ]
+of/IN 
+[ the/DT DC-10/NNP ]
+and/CC 
+[ a/DT cornerstone/NN ]
+of/IN 
+[ the/DT company/NN 's/POS financial/JJ health/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Warren/NNP ]
+added/VBD that/IN 
+[ the/DT changes/NNS ]
+already/RB have/VBP been/VBN endorsed/VBN by/IN 
+[ several/JJ airlines/NNS ]
+and/CC 
+[ an/DT industry/NN task/NN force/NN ]
+formed/VBD 
+[ last/JJ month/NN ]
+to/TO study/VB whether/IN 
+[ any/DT redesign/NN ]
+is/VBZ needed/VBN to/TO improve/VB 
+[ the/DT survivability/NN ]
+of/IN 
+[ wide-body/JJ jets/NNS ]
+damaged/VBN during/IN 
+[ flight/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ The/DT National/NNP Transportation/NNP Safety/NNP Board/NNP ]
+is/VBZ still/RB examining/VBG 
+[ the/DT Sioux/NNP City/NNP crash/NN ]
+./. 
+
+[ Investigators/NNS ]
+suspect/VBP 
+[ the/DT engine/NN ]
+broke/VBD up/RP after/IN 
+[ the/DT fan/NN disk/NN ]
+--/: 
+[ a/DT huge/JJ hunk/NN ]
+of/IN 
+[ titanium/NN ]
+
+[ that/WDT ]
+holds/VBZ 
+[ the/DT fan/NN blades/NNS ]
+in/IN 
+[ place/NN ]
+--/: failed/VBD ,/, possibly/RB because/IN of/IN 
+[ a/DT tiny/JJ imperfection/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+are/VBP n't/RB certain/JJ because/IN 
+[ the/DT disk/NN ]
+is/VBZ still/RB lost/VBN amid/IN 
+[ the/DT corn/NN stalks/NNS ]
+in/IN 
+[ Iowa/NNP ]
+and/CC probably/RB wo/MD n't/RB be/VB found/VBN until/IN 
+[ the/DT autumn/NN harvest/NN ]
+./. 
+
+======================================
+
+Earlier/RBR 
+[ this/DT month/NN ]
+,/, 
+[ the/DT FAA/NNP ]
+said/VBD 
+[ it/PRP ]
+was/VBD preparing/VBG to/TO order/VB 
+[ expensive/JJ new/JJ tests/NNS ]
+on/IN 
+[ the/DT DC-10/NNP 's/POS engines/NNS ]
+./. 
+
+[ Mr./NNP Warren/NNP ]
+hinted/VBD that/IN 
+[ some/DT official/JJ action/NN ]
+could/MD come/VB ``/`` within/IN 
+[ a/DT matter/NN ]
+of/IN 
+[ days/NNS ]
+./. 
+
+''/'' 
+[ A/DT spokesman/NN ]
+for/IN 
+[ General/NNP Electric/NNP Co./NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ the/DT engines/NNS ]
+,/, said/VBD 
+[ it/PRP ]
+was/VBD premature/JJ to/TO comment/VB ./. 

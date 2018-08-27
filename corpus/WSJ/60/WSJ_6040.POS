@@ -1,0 +1,163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Alaska/NNP ]
+,/, 
+[ Wyoming/NNP ]
+,/, 
+[ Hawaii/NNP ]
+,/, 
+[ Nevada/NNP ]
+and/CC 
+[ North/NNP Dakota/NNP ]
+--/: have/VBP 
+[ more/JJR men/NNS ]
+than/IN 
+[ women/NNS ]
+,/, 
+[ a/DT new/JJ Census/NNP Bureau/NNP report/NN ]
+says/VBZ ./. 
+
+======================================
+
+As/IN of/IN 
+[ July/NNP 1/CD ]
+,/, 
+[ 1988/CD ]
+,/, 
+[ males/NNS ]
+accounted/VBD for/IN 
+[ 48.7/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP population/NN ]
+./. 
+
+But/CC 
+[ 52.9/CD %/NN ]
+of/IN 
+[ the/DT residents/NNS ]
+of/IN 
+[ Alaska/NNP ]
+were/VBD male/JJ ,/, 
+[ a/DT higher/JJR proportion/NN ]
+than/IN 
+[ any/DT other/JJ state/NN ]
+./. 
+
+[ Census/NN analysts/NNS ]
+suggest/VBP 
+[ this/DT ]
+largely/RB reflects/VBZ 
+[ the/DT migration/NN ]
+of/IN 
+[ young/JJ men/NNS ]
+to/TO work/VB in/IN 
+[ Alaska/NNP ]
+./. 
+
+======================================
+
+[ Alaska/NNP ]
+also/RB happens/VBZ to/TO be/VB 
+[ the/DT only/JJ state/NN ]
+where/WRB 
+[ the/DT median/JJ age/NN ]
+of/IN 
+[ men/NNS ]
+--/: 
+[ 29.1/CD years/NNS ]
+--/: is/VBZ higher/JJR than/IN 
+[ the/DT median/JJ age/NN ]
+of/IN 
+[ women/NNS ]
+--/: 
+[ 28.1/CD years/NNS ]
+./. 
+
+[ The/DT median/JJ age/NN ]
+of/IN 
+[ the/DT U.S./NNP population/NN ]
+as/IN 
+[ a/DT whole/NN ]
+is/VBZ 
+[ 32.3/CD years/NNS ]
+,/, meaning/VBG 
+[ half/PDT the/DT people/NNS ]
+are/VBP older/JJR and/CC half/RB are/VBP younger/JJR ./. 
+
+======================================
+
+[ Women/NNS ]
+outnumber/VBP 
+[ men/NNS ]
+by/IN 
+[ the/DT widest/JJS margin/NN ]
+in/IN 
+[ the/DT District/NNP ]
+of/IN 
+[ Columbia/NNP ]
+./. 
+
+Only/RB 
+[ 46.7/CD %/NN ]
+of/IN 
+[ the/DT residents/NNS ]
+of/IN 
+[ the/DT nation/NN 's/POS capital/NN ]
+are/VBP male/JJ ./. 
+
+[ New/NNP York/NNP ]
+is/VBZ next/JJ with/IN 
+[ 47.6/CD %/NN males/NNS ]
+./. 
+
+======================================
+
+[ Boy/NN newborns/NNS ]
+outnumber/VBP 
+[ girls/NNS ]
+by/IN 
+[ a/DT slight/JJ margin/NN ]
+,/, but/CC 
+[ a/DT ]
+substantially/RB 
+[ larger/JJR share/NN ]
+of/IN 
+[ male/JJ infants/NNS ]
+die/VBP before/IN 
+[ their/PRP$ first/JJ birthday/NN ]
+./. 
+
+Up/IN to/TO 
+[ age/NN 34/CD ]
+,/, 
+[ males/NNS ]
+still/RB outnumber/VBP 
+[ females/NNS ]
+in/IN 
+[ every/DT age/NN group/NN ]
+./. 
+
+In/IN 
+[ older/JJR age/NN groups/NNS ]
+,/, however/RB ,/, 
+[ women/NNS ]
+predominate/VBP because/IN 
+[ men/NNS ]
+tend/VBP to/TO die/VB 
+[ younger/JJR ]
+./. 

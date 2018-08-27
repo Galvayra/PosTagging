@@ -1,0 +1,183 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Assets/NNS ]
+of/IN 
+[ 468/CD money-market/JJ mutual/JJ funds/NNS ]
+rose/VBD 
+[ $/$ 191.6/CD million/CD ]
+in/IN 
+[ the/DT week/NN ]
+ended/VBN 
+[ Wednesday/NNP ]
+as/IN 
+[ assets/NNS ]
+in/IN 
+[ individual/JJ accounts/NNS ]
+registered/VBD 
+[ net/JJ deposits/NNS ]
+for/IN 
+[ the/DT 18th/JJ consecutive/JJ week/NN ]
+./. 
+
+======================================
+
+Even/RB with/IN 
+[ a/DT decrease/NN ]
+of/IN nearly/RB 
+[ a/DT half-billion/JJ dollars/NNS ]
+in/IN 
+[ institutional/JJ money/NN ]
+,/, 
+[ total/JJ assets/NNS ]
+stood/VBD at/IN 
+[ a/DT record/NN $/$ 349.23/CD billion/CD ]
+,/, 
+[ the/DT Investment/NNP Company/NNP Institute/NNP ]
+said/VBD ./. 
+
+======================================
+
+``/`` As/IN 
+[ the/DT yields/NNS ]
+offered/VBN by/IN 
+[ money-market/JJ funds/NNS ]
+stayed/VBD 
+[ unchanged/JJ ]
+in/IN 
+[ both/DT absolute/JJ terms/NNS ]
+and/CC relative/JJ to/TO yields/NNS 
+[ available/JJ ]
+elsewhere/RB ,/, 
+[ there/EX ]
+was/VBD little/JJ to/TO induce/VB 
+[ substantial/JJ asset/NN ]
+flows/NNS ,/, ''/'' said/VBD 
+[ Jacob/NNP Dreyer/NNP ]
+,/, 
+[ vice/NN president/NN ]
+and/CC 
+[ chief/JJ economist/NN ]
+of/IN 
+[ the/DT Washington-based/JJ trade/NN group/NN ]
+./. 
+
+======================================
+
+[ Institutional-type/JJ funds/NNS ]
+``/`` continued/VBD to/TO experience/VB 
+[ moderate/JJ erosion/NN ]
+of/IN 
+[ assets/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+But/CC 
+[ the/DT 18-week/JJ rise/NN ]
+in/IN 
+[ individual/JJ accounts/NNS ]
+matched/VBD 
+[ the/DT longest/JJS uninterrupted/JJ streak/NN ]
+of/IN 
+[ weekly/JJ increases/NNS ]
+since/IN 
+[ 1981/CD ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+[ The/DT 141/CD institutional/JJ funds/NNS ]
+fell/VBD 
+[ $/$ 453.6/CD million/CD ]
+to/TO 
+[ $/$ 83.76/CD billion/CD ]
+./. 
+
+Of/IN 
+[ the/DT individual-type/JJ funds/NNS ]
+,/, 
+[ 231/CD general-purpose/JJ funds/NNS ]
+added/VBD 
+[ $/$ 199.1/CD million/CD ]
+to/TO 
+[ $/$ 113.4/CD billion/CD ]
+,/, while/IN 
+[ 96/CD broker-dealer/JJ funds/NNS ]
+increased/VBD 
+[ $/$ 446.1/CD million/CD ]
+to/TO 
+[ $/$ 152.07/CD billion/CD ]
+./. 
+
+======================================
+
+[ Donoghue/NNP 's/POS Money/NNP Fund/NNP Report/NNP ]
+,/, 
+[ a/DT Holliston/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ newsletter/NN ]
+,/, said/VBD 
+[ average/JJ money-fund/JJ yields/NNS ]
+were/VBD unchanged/JJ in/IN 
+[ the/DT week/NN ]
+ended/VBN 
+[ Tuesday/NNP ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT compounded/VBN yield/NN ]
+remained/VBD at/IN 
+[ 8.60/CD %/NN ]
+for/IN 
+[ both/DT ]
+
+[ the/DT seven-day/JJ ]
+and/CC 
+[ 30-day/JJ methods/NNS ]
+of/IN 
+[ averaging/VBG fund/NN yields/NNS ]
+./. 
+
+======================================
+
+[ The/DT average/JJ yield/NN ]
+on/IN 
+[ a/DT six-month/JJ CD/NNP ]
+,/, 
+[ a/DT competing/VBG type/NN ]
+of/IN 
+[ investment/NN ]
+,/, was/VBD 
+[ 8.04/CD %/NN ]
+in/IN 
+[ the/DT week/NN ]
+ended/VBN 
+[ Tuesday/NNP ]
+,/, compared/VBN with/IN 
+[ 8.01/CD %/NN ]
+
+[ a/DT week/NN ]
+earlier/RBR ,/, according/VBG to/TO 
+[ New/NNP York/NNP information/NN service/NN Banxquote/NNP Money/NNP Markets/NNP ]
+./. 

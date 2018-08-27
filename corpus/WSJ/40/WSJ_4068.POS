@@ -1,0 +1,290 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Federal/NNP Communications/NNPS Commission/NNP ]
+voted/VBD to/TO allocate/VB 
+[ a/DT broadcast/NN frequency/NN ]
+nationwide/RB for/IN 
+[ systems/NNS ]
+used/VBN to/TO 
+[ track/VB ]
+down/RP 
+[ stolen/VBN vehicles/NNS ]
+./. 
+
+======================================
+
+[ Allocation/NN ]
+of/IN 
+[ the/DT frequency/NN 173.075/CD MHz/NNS ]
+follows/VBZ 
+[ a/DT 1986/CD decision/NN ]
+to/TO allow/VB 
+[ Lo-Jack/NNP Corp./NNP ]
+to/TO test/VB 
+[ its/PRP$ tracking/NN system/NN ]
+in/IN 
+[ Massachusetts/NNP ]
+./. 
+
+[ The/DT company/NN ]
+also/RB was/VBD given/VBN 
+[ permission/NN ]
+recently/RB to/TO test/VB 
+[ its/PRP$ system/NN ]
+in/IN 
+[ Florida/NNP ]
+./. 
+
+[ The/DT FCC/NNP ]
+said/VBD 
+[ the/DT spectrum/NN allocation/NN ]
+does/VBZ n't/RB apply/VB solely/RB to/TO 
+[ Lo-Jack/NNP ]
+or/CC 
+[ any/DT other/JJ company/NN ]
+or/CC 
+[ technology/NN ]
+but/CC rather/RB is/VBZ being/VBG set/VBN aside/RB specifically/RB for/IN 
+[ systems/NNS ]
+to/TO track/VB 
+[ stolen/JJ cars/NNS ]
+./. 
+
+======================================
+
+[ The/DT Lo-Jack/NNP system/NN ]
+uses/VBZ 
+[ transmitting/NN equipment/NN ]
+at/IN 
+[ law-enforcement/NN facilities/NNS ]
+,/, tracking/NN 
+[ devices/NNS ]
+in/IN 
+[ patrol/NN cars/NNS ]
+,/, 
+[ transmitters/NNS ]
+installed/VBN in/IN 
+[ customers/NNS '/POS vehicles/NNS ]
+and/CC 
+[ a/DT data/NNS base/NN ]
+with/IN 
+[ vehicle/NN identification/NN numbers/NNS ]
+and/CC 
+[ special/JJ identification/NN codes/NNS ]
+for/IN 
+[ each/DT customer/NN 's/POS tracking/NN device/NN ]
+./. 
+
+======================================
+
+[ The/DT system/NN ]
+is/VBZ designed/VBN to/TO help/VB 
+[ police/NNS ]
+find/VB 
+[ a/DT stolen/VBN vehicle/NN ]
+shortly/RB after/IN 
+[ the/DT theft/NN ]
+is/VBZ reported/VBN ./. 
+
+According/VBG to/TO 
+[ the/DT FCC/NNP ]
+,/, 
+[ 95/CD %/NN ]
+of/IN 
+[ the/DT stolen/VBN vehicles/NNS ]
+equipped/VBN with/IN 
+[ the/DT Lo-Jack/NNP system/NN ]
+were/VBD found/VBN ./. 
+
+Nearly/RB 
+[ 350/CD police/NN cars/NNS ]
+in/IN 
+[ Massachusetts/NNP ]
+are/VBP equipped/VBN with/IN 
+[ the/DT $/$ 1,750/CD tracking/NN devices/NNS ]
+,/, and/CC about/IN 
+[ 20,000/CD consumers/NNS ]
+have/VBP bought/VBN and/CC installed/VBN 
+[ transmitters/NNS ]
+for/IN about/IN 
+[ $/$ 500/CD each/DT ]
+./. 
+
+[ Lo-Jack/NNP ]
+is/VBZ based/VBN in/IN 
+[ Braintree/NNP ]
+,/, 
+[ Mass/NNP ]
+./. 
+
+======================================
+
+[ Some/DT broadcasters/NNS ]
+complained/VBD that/IN 
+[ the/DT new/JJ systems/NNS ]
+could/MD create/VB 
+[ interference/NN ]
+with/IN 
+[ television/NN channel/NN 7/CD ]
+./. 
+
+[ The/DT Federal/NNP Bureau/NNP ]
+of/IN 
+[ Investigation/NNP ]
+also/RB objected/VBD to/TO allocating/VBG 
+[ the/DT frequency/NN ]
+,/, 
+[ which/WDT ]
+
+[ it/PRP ]
+has/VBZ been/VBN using/VBG for/IN 
+[ concealed/JJ body/NN microphones/NNS ]
+in/IN 
+[ undercover/JJ investigations/NNS ]
+./. 
+
+======================================
+
+To/TO avoid/VB 
+[ interference/NN ]
+with/IN 
+[ channel/NN 7/CD ]
+,/, 
+[ the/DT agency/NN ]
+generally/RB is/VBZ requiring/VBG 
+[ applicants/NNS ]
+to/TO install/VB 
+[ base/NN stations/NNS ]
+at/IN 
+[ least/JJS 105/CD miles/NNS ]
+from/IN 
+[ a/DT channel/NN 7/CD transmitter/NN ]
+./. 
+
+As/IN for/IN 
+[ conflicts/NNS ]
+with/IN 
+[ the/DT FBI/NNP ]
+,/, 
+[ Fred/NNP Thomas/NNP ]
+of/IN 
+[ the/DT FCC/NNP 's/POS Office/NNP ]
+of/IN 
+[ Engineering/NNP ]
+and/CC 
+[ Technology/NNP ]
+said/VBD 
+[ the/DT National/NNP Telecommunications/NNPS ]
+and/CC 
+[ Information/NNP Administration/NNP ]
+is/VBZ working/VBG with/IN 
+[ the/DT FBI/NNP ]
+to/TO solve/VB 
+[ potential/JJ problems/NNS ]
+./. 
+
+======================================
+
+[ Lo-Jack/NNP ]
+is/VBZ n't/RB 
+[ the/DT ]
+only/RB 
+[ new/JJ system/NN ]
+being/VBG used/VBN to/TO discourage/VB 
+[ auto/NN theft/NN ]
+./. 
+
+[ A/DT Pacific/NNP Telesis/NNP Group/NNP unit/NN ]
+and/CC 
+[ North/NNP American/NNP Teletrac/NNP 's/POS International/NNP Teletrac/NNP Systems/NNPS unit/NN ]
+recently/RB announced/VBD 
+[ a/DT tracking/NN location/NN system/NN ]
+
+[ that/WDT ]
+combines/VBZ 
+[ paging/NN ]
+,/, 
+[ cellular/JJ radio/NN ]
+and/CC 
+[ computer/NN mapping/NN technologies/NNS ]
+./. 
+
+======================================
+
+[ Separately/RB ]
+,/, 
+[ the/DT FCC/NNP ]
+voted/VBD to/TO hold/VB 
+[ a/DT hearing/NN ]
+on/IN 
+[ the/DT decline/NN ]
+of/IN 
+[ AM/NNP ]
+
+[ radio/NN ]
+,/, 
+[ a/DT concern/NN ]
+of/IN 
+[ the/DT commission/NN 's/POS new/JJ chairman/NN ]
+,/, 
+[ Alfred/NNP C./NNP Sikes/NNP ]
+,/, 
+[ a/DT former/JJ Missouri/NNP broadcaster/NN ]
+./. 
+
+======================================
+
+[ The/DT commission/NN ]
+set/VBD 
+[ Nov./NNP 16/CD ]
+to/TO hear/VB 
+[ testimony/NN ]
+from/IN 
+[ the/DT industry/NN ]
+and/CC 
+[ the/DT public/NN ]
+on/IN 
+[ current/JJ ]
+
+[ AM/NNP ]
+
+[ service/NN ]
+and/CC 
+[ what/WDT ]
+steps/NNS 
+[ the/DT commission/NN ]
+could/MD take/VB to/TO improve/VB 
+[ it/PRP ]
+./. 
+
+[ Mr./NNP Sikes/NNP ]
+emphasized/VBD 
+[ the/DT session/NN ]
+is/VBZ aimed/VBN primarily/RB at/IN determining/VBG whether/IN 
+[ the/DT industry/NN ]
+,/, 
+[ the/DT public/NN ]
+and/CC 
+[ the/DT commission/NN ]
+are/VBP in/IN 
+[ general/JJ agreement/NN ]
+on/IN 
+[ the/DT major/JJ problems/NNS ]
+and/CC 
+[ possible/JJ solutions/NNS ]
+./. 

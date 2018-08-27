@@ -1,0 +1,748 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT mobilization/NN ]
+of/IN 
+[ federal/JJ government/NN resources/NNS ]
+in/IN 
+[ response/NN ]
+to/TO 
+[ the/DT AIDS/NNP outbreak/NN ]
+has/VBZ been/VBN unprecedented/JJ in/IN 
+[ the/DT history/NN ]
+of/IN 
+[ U.S./NNP public-health/JJ policy/NN ]
+./. 
+
+[ This/DT fiscal/JJ year/NN ]
+,/, 
+[ the/DT federal/JJ government/NN ]
+is/VBZ expected/VBN to/TO spend/VB 
+[ $/$ 1.59/CD billion/CD ]
+for/IN 
+[ AIDS/NNP research/NN ]
+and/CC 
+[ education/NN ]
+,/, more/RBR than/IN for/IN 
+[ any/DT other/JJ single/JJ disease/NN ]
+,/, and/CC more/RBR than/IN for/IN 
+[ heart/NN disease/NN ]
+,/, 
+[ stroke/NN ]
+,/, 
+[ hypertension/NN ]
+and/CC 
+[ diabetes/NN ]
+combined/VBN ./. 
+
+======================================
+
+While/IN 
+[ it/PRP ]
+is/VBZ easy/JJ to/TO find/VB 
+[ some/DT mistakes/NNS ]
+,/, 
+[ there/EX ]
+also/RB have/VBP been/VBN 
+[ breathtaking/JJ successes/NNS ]
+
+[ that/WDT ]
+have/VBP flowed/VBN directly/RB out/IN of/IN 
+[ federal/JJ AIDS/NNP expenditure/NN programs/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ possible/JJ today/NN ]
+,/, just/RB 
+[ eight/CD years/NNS ]
+after/IN 
+[ the/DT clinical/JJ discovery/NN ]
+of/IN 
+[ AIDS/NNP ]
+,/, and/CC 
+[ five/CD years/NNS ]
+after/IN 
+[ the/DT identification/NN ]
+of/IN 
+[ HIV/NNP ]
+ (/( 
+[ the/DT AIDS/NNP virus/NN ]
+ )/) ,/, to/TO realistically/RB consider/VB 
+[ the/DT possibility/NN ]
+that/IN 
+[ neither/CC death/NN ]
+nor/CC 
+[ AIDS/NNP ]
+will/MD be/VB 
+[ the/DT inevitable/JJ outcome/NN ]
+of/IN 
+[ an/DT HIV/NNP infection/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+now/RB know/VBP ,/, largely/RB as/IN 
+[ a/DT result/NN ]
+of/IN federally/RB sponsored/VBN 
+[ epidemiologic/JJ research/NN ]
+and/CC 
+[ disease/NN surveillance/NN ]
+,/, 
+[ what/WP ]
+
+[ the/DT general/JJ magnitude/NN ]
+of/IN 
+[ the/DT AIDS/NNP outbreak/NN ]
+has/VBZ been/VBN and/CC will/MD be/VB ,/, and/CC 
+[ who/WP ]
+is/VBZ most/JJS at/IN 
+[ risk/NN ]
+for/IN acquiring/VBG 
+[ HIV/NNP ]
+./. 
+
+[ Research/NN ]
+has/VBZ debunked/VBN 
+[ the/DT myth/NN ]
+that/IN 
+[ AIDS/NNP ]
+can/MD be/VB casually/RB transmitted/VBN ,/, and/CC established/VBN that/IN after/IN 
+[ more/JJR ]
+than/IN 
+[ a/DT decade/NN ]
+of/IN 
+[ HIV/NNP transmission/NN ]
+,/, 
+[ neither/CC AIDS/NNP ]
+nor/CC 
+[ HIV/NNP infection/NN ]
+has/VBZ moved/VBN much/RB beyond/IN 
+[ the/DT traditional/JJ risk/NN groups/NNS ]
+of/IN 
+[ gay\/bisexual/JJ men/NNS ]
+,/, 
+[ intravenous/JJ drug/NN abusers/NNS ]
+,/, 
+[ hemophiliacs/NNS ]
+,/, 
+[ transfusion/NN recipients/NNS ]
+of/IN 
+[ blood/NN ]
+or/CC 
+[ blood/NN products/NNS ]
+,/, or/CC 
+[ the/DT sexual/JJ partners/NNS ]
+and/CC perinatally/RB infected/VBN 
+[ children/NNS ]
+of/IN 
+[ those/DT ]
+in/IN 
+[ these/DT traditional/JJ risk/NN groups/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT overwhelming/JJ majority/NN ]
+of/IN 
+[ Americans/NNPS ]
+fit/VBP into/IN 
+[ none/NN ]
+of/IN 
+[ the/DT traditional/JJ HIV\/NNP risk/NN groups/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+will/MD become/VB increasingly/RB difficult/JJ to/TO ignore/VB 
+[ the/DT fact/NN ]
+that/IN 
+[ IV-drug-free/JJ females/NNS ]
+are/VBP at/IN 
+[ much/JJ greater/JJR risk/NN ]
+from/IN 
+[ breast/NN cancer/NN ]
+than/IN 
+[ they/PRP ]
+are/VBP from/IN 
+[ AIDS/NNP ]
+or/CC 
+[ HIV/NNP infection/NN ]
+./. 
+
+During/IN 
+[ 1988/CD there/EX ]
+were/VBD 
+[ 130,000/CD new/JJ breast-cancer/NN ]
+diagnoses/NNS and/CC 
+[ 43,020/CD breast-cancer/NN deaths/NNS ]
+,/, compared/VBN with/IN 
+[ 33,401/CD AIDS/NNP cases/NNS ]
+reported/VBN over/IN 
+[ the/DT past/JJ 12/CD months/NNS ]
+ (/( of/IN 
+[ which/WDT ]
+
+[ 10.8/CD %/NN ]
+were/VBD 
+[ female/JJ ]
+ )/) and/CC roughly/RB 
+[ 17,000/CD AIDS/NNP deaths/NNS ]
+in/IN 
+[ 1988/CD ]
+./. 
+
+[ Mammograms/NNS ]
+,/, 
+[ breast/NN self-examination/NN ]
+and/CC 
+[ other/JJ preventive/NN measures/NNS ]
+have/VBP 
+[ the/DT potential/NN ]
+to/TO drastically/RB reduce/VB 
+[ the/DT incidence/NN ]
+of/IN 
+[ these/DT cancers/NNS ]
+in/IN 
+[ the/DT population/NN ]
+,/, but/CC neither/CC 
+[ the/DT press/NN ]
+nor/CC 
+[ the/DT politicians/NNS ]
+nor/CC 
+[ the/DT Public/NNP Health/NNP Service/NNP ]
+is/VBZ devoting/VBG anywhere/RB near/IN 
+[ as/RB much/JJ attention/NN ]
+to/TO 
+[ breast-cancer/NN research/NN ]
+,/, 
+[ education/NN ]
+and/CC 
+[ prevention/NN ]
+as/IN 
+[ it/PRP ]
+is/VBZ to/TO 
+[ AIDS/NNP ]
+./. 
+
+======================================
+
+[ I/PRP ]
+have/VBP been/VBN chastised/VBN for/IN noting/VBG that/IN 
+[ the/DT federal/JJ government/NN ]
+spends/VBZ only/RB 
+[ a/DT few/JJ cents/NNS ]
+for/IN 
+[ research/NN ]
+per/IN 
+[ dollar/NN ]
+of/IN 
+[ patient/JJ care/NN ]
+on/IN 
+[ fatal/JJ diseases/NNS ]
+such/JJ as/IN 
+[ cancer/NN ]
+,/, 
+[ heart/NN disease/NN ]
+,/, 
+[ diabetes/NN ]
+,/, 
+[ stroke/NN ]
+,/, 
+[ Alzheimer/NNP 's/POS disease/NN ]
+and/CC 
+[ emphysema/NN ]
+,/, while/IN spending/VBG more/RBR than/IN 
+[ $/$ 2/CD ]
+on/IN 
+[ AIDS/NNP research/NN ]
+for/IN 
+[ every/DT dollar/NN ]
+of/IN 
+[ AIDS/NNP patient/NN care/NN ]
+./. 
+
+[ AIDS/NNP ]
+kills/VBZ 
+[ people/NNS ]
+mainly/RB in/IN 
+[ their/PRP$ prime/JJ years/NNS ]
+of/IN 
+[ adulthood/NN ]
+,/, but/CC as/IN 
+[ the/DT accompanying/VBG chart/NN ]
+indicates/VBZ ,/, so/IN do/VBP 
+[ many/JJ other/JJ ]
+potentially/RB 
+[ preventable/JJ causes/NNS ]
+of/IN 
+[ death/NN ]
+./. 
+
+ (/( See/VB 
+[ accompanying/VBG chart/NN ]
+--/: 
+[ WSJ/NNP Oct./NNP 3/CD ]
+,/, 
+[ 1989/CD ]
+ )/) And/CC among/IN 
+[ those/DT ]
+not/RB already/RB 
+[ HIV-infected/VBN ]
+,/, 
+[ AIDS/NNP ]
+is/VBZ probably/RB 
+[ the/DT ]
+most/RBS readily/RB 
+[ avoidable/JJ fatal/JJ risk/NN ]
+./. 
+
+======================================
+
+[ What/WP ]
+should/MD be/VB 
+[ the/DT appropriate/JJ level/NN ]
+of/IN 
+[ federal/JJ spending/NN ]
+on/IN 
+[ AIDS/NNP ]
+?/. 
+
+To/TO even/RB ask/VB 
+[ the/DT question/NN ]
+is/VBZ to/TO raise/VB 
+[ issues/NNS ]
+
+[ that/WDT ]
+are/VBP 
+[ anathema/NN ]
+,/, particularly/RB to/TO 
+[ many/JJ health-care/JJ providers/NNS ]
+./. 
+
+[ The/DT health-care/JJ sector/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+has/VBZ yet/RB to/TO awaken/VB to/TO 
+[ the/DT reality/NN ]
+,/, long/RB apparent/JJ to/TO 
+[ more/RBR competitive/JJ economic/JJ sectors/NNS ]
+,/, that/IN 
+[ resources/NNS ]
+are/VBP scarce/JJ and/CC must/MD be/VB allocated/VBN responsibly/RB across/IN 
+[ a/DT myriad/NN ]
+of/IN 
+[ opportunities/NNS ]
+
+[ both/DT ]
+within/IN and/CC beyond/IN 
+[ health/NN care/NN ]
+./. 
+
+======================================
+
+[ AIDS/NNP ]
+has/VBZ received/VBN 
+[ the/DT same/JJ sort/NN ]
+of/IN 
+[ haphazard/JJ high-tech/JJ crisis-response/JJ approach/NN ]
+
+[ that/WDT ]
+typifies/VBZ 
+[ both/DT ]
+
+[ the/DT strengths/NNS ]
+and/CC 
+[ weaknesses/NNS ]
+of/IN 
+[ American/JJ medicine/NN ]
+./. 
+
+[ The/DT cumulative/JJ federal/JJ AIDS/NNP costs/NNS ]
+through/IN 
+[ 1989/CD ]
+will/MD be/VB about/RB 
+[ $/$ 6/CD billion/CD ]
+./. 
+
+[ These/DT resources/NNS ]
+have/VBP played/VBN 
+[ a/DT major/JJ role/NN ]
+in/IN 
+[ disease/NN surveillance/NN ]
+,/, identifying/VBG 
+[ HIV/NNP ]
+,/, protecting/VBG 
+[ the/DT nation/NN 's/POS blood/NN supply/NN ]
+,/, developing/VBG 
+[ new/JJ standards/NNS ]
+of/IN 
+[ HIV\/AIDS/JJ patient/NN care/NN ]
+and/CC discovering/VBG 
+[ new/JJ therapies/NNS ]
+for/IN slowing/VBG 
+[ the/DT progression/NN ]
+of/IN 
+[ HIV-related/JJ disease/NN ]
+./. 
+
+For/IN 
+[ the/DT cost/NN ]
+of/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ B-2/NNP ]
+``/`` 
+[ stealth/NN ]
+''/'' 
+[ bombers/NNS ]
+,/, 
+[ the/DT societal/JJ benefits/NNS ]
+of/IN 
+[ federal/JJ AIDS/NNP expenditures/NNS ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ avoided/VBN HIV/NNP infections/NNS ]
+,/, improved/VBN 
+[ patient/NN care/NN ]
+and/CC 
+[ survival/NN ]
+,/, improved/VBN 
+[ national/JJ peace/NN ]
+of/IN 
+[ mind/NN ]
+,/, and/CC even/RB 
+[ national/JJ security/NN ]
+have/VBP been/VBN 
+[ an/DT unquestionable/JJ bargain/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ this/DT ]
+is/VBZ not/RB to/TO say/VB that/IN 
+[ all/DT federal/JJ AIDS/NNP funds/NNS ]
+have/VBP been/VBN well/RB spent/VBN ./. 
+
+[ The/DT $/$ 22/CD million/CD it/PRP ]
+cost/VBD to/TO mail/VB 
+[ the/DT surgeon/NN general/NN ]
+'s/VBZ vaguely/RB worded/VBN 
+[ AIDS/NNP pamphlet/NN ]
+to/TO 
+[ every/DT U.S./NNP household/NN ]
+could/MD have/VB been/VBN much/RB better/RB spent/VBN on/IN educating/VBG 
+[ those/DT ]
+at/IN 
+[ highest/JJS risk/NN ]
+./. 
+
+[ The/DT recent/JJ General/NNP Accounting/NNP Office/NNP AIDS/NNP study/NN ]
+,/, regurgitating/VBG and/CC arbitrarily/RB inflating/VBG 
+[ obsolete/JJ AIDS/NNP projection/NN models/NNS ]
+to/TO generate/VB 
+[ alarmist/JJ caseload/NN projections/NNS ]
+through/IN 
+[ 1991/CD ]
+,/, was/VBD 
+[ a/DT good/JJ example/NN ]
+of/IN 
+[ garbage-in/JJ garbage-out/JJ analysis/NN ]
+./. 
+
+======================================
+
+[ Forty/CD percent/NN ]
+of/IN 
+[ the/DT Centers/NNPS ]
+for/IN 
+[ Disease/NNP Control/NNP 's/POS budget/NN ]
+for/IN 
+[ the/DT fiscal/NN year/NN ]
+just/RB ended/VBN was/VBD used/VBN for/IN 
+[ HIV\/NNP ]
+./. 
+
+[ This/DT ]
+exceeded/VBN 
+[ total/JJ federal/JJ research/NN ]
+,/, 
+[ education/NN ]
+and/CC 
+[ prevention/NN ]
+spending/NN for/IN 
+[ any/DT ]
+
+[ one/CD ]
+of/IN 
+[ the/DT following/VBG categories/NNS ]
+:/: 
+[ diabetes/NN ]
+,/, 
+[ stroke/NN ]
+,/, 
+[ hypertension/NN ]
+,/, 
+[ Alzheimer/NNP 's/POS disease/NN ]
+and/CC 
+[ premature/JJ birth/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ likely/RB 
+[ the/DT major/JJ achievements/NNS ]
+
+[ that/WDT ]
+have/VBP resulted/VBN from/IN 
+[ federal/JJ AIDS/NNP spending/NN ]
+would/MD have/VB occurred/VBN even/RB at/IN 
+[ lower/JJR spending/NN levels/NNS ]
+./. 
+
+======================================
+
+With/IN 
+[ AIDS/NNP ]
+,/, as/IN with/IN 
+[ all/DT diseases/NNS ]
+,/, 
+[ rationalization/NN ]
+of/IN spending/NN for/IN 
+[ patient/NN care/NN ]
+,/, 
+[ research/NN ]
+,/, 
+[ education/NN ]
+and/CC 
+[ prevention/NN ]
+must/MD be/VB brought/VBN out/IN of/IN 
+[ the/DT dark/JJ ages/NNS ]
+./. 
+
+If/IN ,/, and/CC 
+[ it/PRP ]
+is/VBZ still/RB 
+[ a/DT big/JJ ]
+if/IN ,/, 
+[ the/DT recent/JJ press/NN releases/NNS ]
+on/IN 
+[ the/DT benefits/NNS ]
+of/IN 
+[ AZT/NNP therapy/NN ]
+in/IN 
+[ asymptomatic/JJ HIV-infected/JJ individuals/NNS ]
+prove/VBP 
+[ correct/JJ ]
+,/, 
+[ it/PRP ]
+will/MD not/RB be/VB possible/JJ to/TO avoid/VB 
+[ some/DT tough/JJ questions/NNS ]
+./. 
+
+[ Back-of-the-envelope/JJ calculations/NNS ]
+suggest/VBP that/IN if/IN 
+[ an/DT additional/JJ year/NN ]
+of/IN 
+[ life/NN ]
+could/MD be/VB saved/VBN for/IN 
+[ an/DT HIV-infected/JJ person/NN ]
+at/IN 
+[ the/DT cost/NN ]
+of/IN 
+[ $/$ 5,000/CD ]
+or/CC less/RBR ,/, 
+[ this/DT ]
+would/MD be/VB 
+[ a/DT real/JJ bargain/NN ]
+,/, as/IN 
+[ medical/JJ interventions/NNS ]
+go/VB ./. 
+
+======================================
+
+But/CC where/WRB would/MD 
+[ we/PRP ]
+get/VB 
+[ the/DT additional/JJ $/$ 2/CD billion/CD ]
+or/CC so/RB annually/RB needed/VBN to/TO fund/VB 
+[ this/DT additional/JJ care/NN ]
+?/. 
+
+Would/MD 
+[ that/DT $/$ 2/CD billion/CD ]
+save/VB even/RB 
+[ more/JJR years/NNS ]
+of/IN 
+[ life/NN ]
+if/IN 
+[ it/PRP ]
+were/VBD devoted/VBN to/TO 
+[ heart-disease/NN ]
+or/CC 
+[ breast-cancer/NN screening/NN ]
+and/CC 
+[ prevention/NN ]
+or/CC to/TO prenatal/RB care/VB or/CC to/TO 
+[ drug-abuse/JJ prevention/NN ]
+?/. 
+
+If/IN 
+[ the/DT taxpayer/NN ]
+is/VBZ going/VBG to/TO foot/VB 
+[ the/DT bill/NN ]
+for/IN 
+[ much/JJ ]
+of/IN 
+[ this/DT additional/JJ care/NN ]
+,/, does/VBZ 
+[ society/NN ]
+have/VB 
+[ a/DT right/NN ]
+or/CC even/RB 
+[ an/DT obligation/NN ]
+to/TO ensure/VB that/IN 
+[ those/DT ]
+receiving/VBG 
+[ government-sponsored/JJ care/NN ]
+not/RB continue/VB to/TO transmit/VB 
+[ the/DT HIV/NNP virus/NN ]
+?/. 
+
+[ These/DT questions/NNS ]
+were/VBD never/RB even/RB considered/VBN when/WRB 
+[ the/DT research/NN scientists/NNS ]
+at/IN 
+[ the/DT National/NNP Institutes/NNPS ]
+of/IN 
+[ Health/NNP ]
+bumped/VBD 
+[ AIDS/NNP ]
+to/TO 
+[ the/DT top/NN ]
+of/IN 
+[ their/PRP$ priority/NN list/NN ]
+./. 
+
+======================================
+
+[ Health-care/JJ spending/NN ]
+is/VBZ fast/RB approaching/VBG 
+[ $/$ 2/CD billion/CD ]
+per/IN 
+[ day/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, far/RB ahead/RB of/IN 
+[ every/DT other/JJ country/NN ]
+,/, either/CC per/FW 
+[ capita/FW ]
+or/CC as/IN 
+[ a/DT percentage/NN ]
+of/IN 
+[ gross/JJ national/JJ product/NN ]
+./. 
+
+Even/RB so/RB ,/, 
+[ many/JJ health/NN indicators/NNS ]
+are/VBP showing/VBG 
+[ very/RB poor/JJ trends/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ becoming/VBG increasingly/RB clear/JJ that/IN 
+[ difficult/JJ questions/NNS ]
+regarding/VBG 
+[ health-care/JJ spending/NN ]
+will/MD have/VB to/TO be/VB examined/VBN and/CC debated/VBN ./. 
+
+While/IN 
+[ government/NN health-care/NN programs/NNS ]
+are/VBP now/RB making/VBG 
+[ a/DT mess/NN ]
+of/IN almost/RB 
+[ half/NN ]
+of/IN 
+[ all/DT health-care/JJ spending/NN ]
+in/IN 
+[ this/DT country/NN ]
+,/, 
+[ the/DT latest/JJS not-so-new/JJ reaction/NN ]
+of/IN 
+[ the/DT starry-eyed/JJ liberals/NNS ]
+is/VBZ to/TO give/VB 
+[ them/PRP ]
+
+[ the/DT other/JJ half/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+are/VBP better/RB 
+[ market-oriented/JJ alternatives/NNS ]
+./. 
+
+[ My/PRP$ Stanford/NNP colleague/NN ]
+,/, 
+[ Prof./NNP Alain/NNP Enthoven/NNP ]
+,/, has/VBZ outlined/VBN 
+[ one/CD ]
+of/IN 
+[ these/DT ]
+./. 
+
+But/CC regardless/RB of/IN how/WRB 
+[ we/PRP ]
+move/VBP in/IN solving/VBG 
+[ the/DT health-care/JJ cost/NN crisis/NN ]
+,/, 
+[ we/PRP ]
+are/VBP going/VBG to/TO have/VB to/TO begin/VB 
+[ the/DT painful/JJ process/NN ]
+of/IN determining/VBG 
+[ which/WDT lines/NNS ]
+of/IN 
+[ biomedical/JJ research/NN ]
+,/, 
+[ prevention/NN ]
+,/, 
+[ education/NN ]
+and/CC 
+[ patient-care/JJ activities/NNS ]
+are/VBP cost-effective/JJ and/CC then/RB using/VBG 
+[ these/DT guidelines/NNS ]
+to/TO make/VB 
+[ tough/JJ choices/NNS ]
+about/IN allocating/VBG 
+[ resources/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Hay/NNP ]
+is/VBZ 
+[ a/DT research/NN fellow/NN ]
+and/CC 
+[ health/NN economist/NN ]
+at/IN 
+[ the/DT Hoover/NNP Institution/NNP ]
+./. 

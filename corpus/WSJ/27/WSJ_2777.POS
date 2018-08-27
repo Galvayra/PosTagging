@@ -1,0 +1,527 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ THE/DT HOUSE/NNP VOTED/VBD ]
+to/TO ease/VB 
+[ restrictions/NNS ]
+on/IN 
+[ federal/JJ ]
+funding/NN of/IN 
+[ abortion/NN ]
+./. 
+
+======================================
+
+Moving/VBG to/TO reverse/VB 
+[ eight/CD years/NNS ]
+of/IN 
+[ federal/JJ policy/NN ]
+,/, 
+[ the/DT chamber/NN ]
+voted/VBD 
+[ 216-206/RB ]
+to/TO permit/VB 
+[ Medicaid/NNP ]
+funding/NN for/IN 
+[ abortions/NNS ]
+in/IN 
+[ cases/NNS ]
+of/IN 
+[ poor/JJ women/NNS ]
+
+[ who/WP ]
+are/VBP 
+[ victims/NNS ]
+of/IN 
+[ rape/NN ]
+or/CC 
+[ incest/NN ]
+./. 
+
+[ Such/JJ ]
+funding/NN currently/RB is/VBZ limited/VBN to/TO 
+[ those/DT women/NNS whose/WP$ lives/NNS ]
+have/VBP been/VBN endangered/VBN by/IN 
+[ pregnancy/NN ]
+./. 
+
+[ The/DT action/NN ]
+appeared/VBD to/TO set/VB 
+[ the/DT stage/NN ]
+for/IN 
+[ a/DT confrontation/NN ]
+with/IN 
+[ Bush/NNP ]
+over/IN 
+[ the/DT underlying/VBG|JJ bill/NN ]
+funding/VBG 
+[ the/DT departments/NNS ]
+of/IN 
+[ Labor/NNP ]
+,/, 
+[ Education/NNP ]
+and/CC 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNPS ]
+./. 
+
+======================================
+
+[ Florida/NNP 's/POS legislature/NN ]
+adjourned/VBD 
+[ a/DT special/JJ session/NN ]
+on/IN 
+[ the/DT abortion/NN issue/NN ]
+,/, called/VBN after/IN 
+[ a/DT U.S./NNP Supreme/NNP Court/NNP ruling/NN ]
+in/IN 
+[ July/NNP ]
+,/, without/IN passing/VBG 
+[ any/DT laws/NNS ]
+./. 
+
+======================================
+
+[ EAST/NNP GERMANY/NNP EXPRESSED/VBD ]
+
+[ a/DT willingness/NN ]
+to/TO discuss/VB 
+[ internal/JJ change/NN ]
+./. 
+
+======================================
+
+[ The/DT country/NN 's/POS hard-line/JJ Communist/JJ leadership/NN ]
+reaffirmed/VBD 
+[ the/DT nation/NN 's/POS commitment/NN ]
+to/TO 
+[ socialism/NN ]
+,/, but/CC said/VBD 
+[ demands/NNS ]
+for/IN 
+[ the/DT types/NNS ]
+of/IN 
+[ changes/NNS ]
+sweeping/VBG much/RB of/IN 
+[ Eastern/NNP Europe/NNP ]
+``/`` are/VBP open/JJ to/TO 
+[ discussions/NNS ]
+./. 
+
+''/'' 
+[ The/DT statement/NN ]
+by/IN 
+[ the/DT Politburo/NNP ]
+capped/VBD 
+[ a/DT day/NN ]
+of/IN 
+[ mixed/JJ signals/NNS ]
+about/IN 
+[ East/NNP Germany/NNP 's/POS future/JJ course/NN ]
+./. 
+
+According/VBG to/TO 
+[ party/NN sources/NNS ]
+,/, 
+[ the/DT ruling/VBG body/NN ]
+also/RB warned/VBD of/IN 
+[ possible/JJ labor/NN unrest/NN ]
+and/CC demanded/VBD 
+[ a/DT report/NN ]
+on/IN 
+[ the/DT nation/NN 's/POS ]
+``/`` 
+[ critical/JJ situation/NN ]
+''/'' from/IN 
+[ leader/NN Honecker/NNP ]
+./. 
+
+======================================
+
+[ The/DT Politburo/NNP ]
+did/VBD n't/RB directly/RB mention/VB 
+[ the/DT country/NN 's/POS growing/VBG opposition/NN movement/NN ]
+,/, but/CC urged/VBD 
+[ East/NNP Germans/NNPS ]
+to/TO refrain/VB from/IN 
+[ street/NN demonstrations/NNS ]
+./. 
+
+======================================
+
+[ SOUTH/NNP AFRICA'S/NNP  DE/NNP KLERK/NNP MET/VBD ]
+with/IN 
+[ leading/JJ anti-apartheid/JJ activists/NNS ]
+./. 
+
+======================================
+
+Amid/IN 
+[ signs/NNS ]
+that/IN 
+[ the/DT Pretoria/NNP government/NN ]
+might/MD be/VB prepared/VBN to/TO negotiate/VB with/IN 
+[ the/DT outlawed/VBN African/NNP National/NNP Congress/NNP ]
+,/, 
+[ de/NNP Klerk/NNP ]
+held/VBD 
+[ talks/NNS ]
+with/IN 
+[ three/CD apartheid/NN foes/NNS ]
+,/, including/VBG 
+[ Anglican/JJ Archbishop/NNP Tutu/NNP ]
+./. 
+
+[ It/PRP ]
+was/VBD 
+[ the/DT first/JJ such/JJ meeting/NN ]
+since/IN de/NNP 
+[ Klerk/NNP ]
+assumed/VBD 
+[ the/DT presidency/NN ]
+and/CC followed/VBD 
+[ Tuesday/NNP 's/POS pledge/NN ]
+to/TO free/VB 
+[ eight/CD black/JJ political/JJ prisoners/NNS ]
+./. 
+
+[ The/DT clerics/NNS ]
+urged/VBD 
+[ him/PRP ]
+to/TO release/VB 
+[ Mandela/NNP ]
+,/, legalize/VB banned/VBN 
+[ political/JJ groups/NNS ]
+and/CC lift/VB 
+[ the/DT state/NN ]
+of/IN 
+[ emergency/NN ]
+./. 
+
+======================================
+
+[ State-run/JJ radio/NN ]
+in/IN 
+[ South/NNP Africa/NNP ]
+said/VBD 
+[ the/DT government/NN ]
+was/VBD ready/JJ to/TO negotiate/VB voting/NN 
+[ rights/NNS ]
+with/IN 
+[ genuine/JJ black/JJ leaders/NNS ]
+and/CC called/VBD 
+[ the/DT ANC/NNP ]
+``/`` 
+[ authentic/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT Norwegian/JJ professor/NN ]
+was/VBD awarded/VBN 
+[ the/DT 1989/CD Nobel/NNP Memorial/NNP Prize/NNP ]
+in/IN 
+[ Economic/NNP Science/NNP ]
+./. 
+
+[ The/DT Royal/NNP Swedish/NNP Academy/NNP ]
+of/IN 
+[ Sciences/NNPS ] 
+in/IN 
+[ Stockholm/NNP ]
+cited/VBD 
+[ Trygve/NNP Haavelmo/NNP ]
+,/, 
+[ 77/CD ]
+,/, for/IN 
+[ his/PRP$ pioneering/JJ work/NN ]
+in/IN 
+[ econometrics/NN ]
+,/, 
+[ the/DT use/NN ]
+of/IN 
+[ mathematical/JJ ]
+and/CC 
+[ statistical/JJ techniques/NNS ]
+to/TO develop/VB 
+[ economic/JJ theories/NNS ]
+./. 
+
+======================================
+
+[ NASA/NNP ]
+tentatively/RB rescheduled/VBD 
+[ the/DT launch/NN ]
+of/IN 
+[ the/DT space/NN shuttle/NN Atlantis/NNP ]
+for/IN 
+[ Tuesday/NNP ]
+./. 
+
+[ Technicians/NNS ]
+at/IN 
+[ Cape/NNP Canaveral/NNP ]
+,/, 
+[ Fla./NNP ]
+,/, meanwhile/RB ,/, began/VBD replacing/VBG 
+[ a/DT faulty/JJ engine/NN computer/NN ]
+
+[ that/WDT ]
+caused/VBD 
+[ the/DT space/NN agency/NN ]
+to/TO scrub/VB 
+[ today/NN 's/POS planned/VBN liftoff/NN ]
+./. 
+
+[ The/DT spacecraft/NN ]
+is/VBZ to/TO carry/VB 
+[ five/CD astronauts/NNS ]
+
+[ who/WP ]
+are/VBP to/TO launch/VB 
+[ the/DT Jupiter-bound/JJ Galileo/NNP space/NN probe/NN ]
+./. 
+
+======================================
+
+[ Bush/NNP ]
+conferred/VBD in/IN 
+[ Washington/NNP ]
+with/IN 
+[ Italy/NNP 's/POS President/NNP Cossiga/NNP ]
+and/CC expressed/VBD 
+[ concern/NN ]
+about/IN 
+[ an/DT Italian/JJ firm/NN ]
+suspected/VBD of/IN selling/VBG to/TO 
+[ the/DT Soviet/NNP Union/NNP technology/NN ]
+used/VBN to/TO build/VB 
+[ a/DT supersonic/JJ jet/NN fighter/NN ]
+,/, 
+[ officials/NNS ]
+said/VBD ./. 
+
+[ The/DT two/CD leaders/NNS ]
+also/RB urged/VBD 
+[ more/RBR Western/JJ aid/NN ]
+to/TO 
+[ Poland/NNP 's/POS Solidarity-led/JJ government/NN ]
+./. 
+
+======================================
+
+[ Tens/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ Armenians/NNPS ]
+rallied/VBD in/IN 
+[ the/DT capital/NN ]
+of/IN 
+[ Yerevan/NNP ]
+and/CC called/VBD for/IN creating/VBG 
+[ self-defense/JJ units/NNS ]
+,/, 
+[ activists/NNS ]
+said/VBD ./. 
+
+[ A/DT 19-month-old/JJ feud/NN ]
+between/IN 
+[ the/DT republic/NN ]
+and/CC 
+[ neighboring/VBG Azerbaijan/NNP ]
+over/IN 
+[ control/NN ]
+of/IN 
+[ the/DT enclave/NN ]
+of/IN 
+[ Nagorno-Karabakh/NNP ]
+has/VBZ deprived/VBN 
+[ Armenians/NNPS ]
+of/IN 
+[ food/NN ]
+and/CC 
+[ fuel/NN ]
+and/CC appeared/VBD to/TO be/VB nearing/VBG 
+[ full-fledged/JJ civil/JJ war/NN ]
+./. 
+
+======================================
+
+[ A/DT Syrian/JJ pilot/NN ]
+landed/VBD 
+[ a/DT Soviet-made/JJ MiG-23/NNP fighter/NN jet/NN ]
+in/IN 
+[ northern/JJ Israel/NNP ]
+and/CC 
+[ officials/NNS ]
+said/VBD 
+[ he/PRP ]
+requested/VBD 
+[ political/JJ asylum/NN ]
+./. 
+
+[ The/DT air/NN force/NN officer/NN ]
+would/MD be/VB 
+[ the/DT first/JJ Syrian/JJ pilot/NN ]
+to/TO defect/VB to/TO 
+[ Israel/NNP ]
+./. 
+
+[ Damascus/NNP ]
+,/, however/RB ,/, denied/VBD that/IN 
+[ the/DT flier/NN ]
+had/VBD 
+[ defected/VBN ]
+,/, saying/VBG 
+[ the/DT plane/NN ]
+was/VBD forced/VBN to/TO make/VB 
+[ an/DT emergency/JJ landing/NN ]
+because/IN of/IN 
+[ mechanical/JJ problems/NNS ]
+./. 
+
+======================================
+
+[ Seven/CD Latin/JJ American/JJ leaders/NNS ]
+convened/VBD 
+[ a/DT meeting/NN ]
+in/IN 
+[ Peru/NNP ]
+to/TO discuss/VB 
+[ the/DT proposed/VBN expulsion/NN ]
+of/IN 
+[ Panama/NNP ]
+from/IN 
+[ their/PRP$ Group/NNP ]
+of/IN 
+[ Eight/NNP ]
+./. 
+
+[ Panama/NNP 's/POS membership/NN ]
+was/VBD suspended/VBN in/IN 
+[ 1988/CD ]
+./. 
+
+[ The/DT Central/JJ American/JJ ]
+and/CC 
+[ South/JJ American/JJ presidents/NNS ]
+also/RB are/VBP expected/VBN to/TO express/VB 
+[ support/NN ]
+for/IN 
+[ the/DT Andean/JJ nations/NNS '/POS war/NN ]
+against/IN 
+[ drug/NN traffickers/NNS ]
+./. 
+
+======================================
+
+[ The/DT Census/NNP Bureau/NNP ]
+reported/VBD that/IN 
+[ the/DT number/NN ]
+of/IN 
+[ Hispanics/NNPS ]
+in/IN 
+[ the/DT U.S./NNP ]
+has/VBZ grown/VBN more/RBR than/IN 
+[ five/CD times/NNS ]
+as/RB fast/RB as/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT population/NN ]
+since/IN 
+[ 1980/CD ]
+./. 
+
+[ The/DT bureau/NN ]
+said/VBD 
+[ the/DT Hispanic/JJ population/NN ]
+totaled/VBD 
+[ 20.1/CD million/CD ]
+as/IN of/IN 
+[ March/NNP 1989/CD ]
+./. 
+
+[ The/DT bulk/NN ]
+of/IN 
+[ the/DT Hispanics/NNPS ]
+in/IN 
+[ the/DT U.S./NNP ]
+are/VBP of/IN 
+[ Mexican/JJ origin/NN ]
+./. 
+
+======================================
+
+[ The/DT Teamsters/NNPS leadership/NN ]
+was/VBD criticized/VBN for/IN 
+[ a/DT lack/NN ]
+of/IN 
+[ cooperation/NN ]
+in/IN 
+[ the/DT first/JJ progress/NN report/NN ]
+by/IN 
+[ a/DT court-appointed/JJ administrator/NN ]
+overseeing/VBG 
+[ the/DT union/NN ]
+./. 
+
+[ The/DT administrator/NN ]
+and/CC 
+[ two/CD other/JJ officers/NNS ]
+were/VBD appointed/VBN by/IN 
+[ a/DT federal/JJ judge/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ the/DT union/NN 's/POS settlement/NN last/JJ spring/NN ]
+of/IN 
+[ civil/JJ racketeering/NN charges/NNS ]
+./. 
+
+======================================
+
+[ Syrian-backed/JJ Moslems/NNPS ]
+agreed/VBD to/TO rejoin/VB 
+[ Lebanon/NNP 's/POS Christian-Moslem/JJ truce/NN commission/NN ]
+,/, strengthening/VBG 
+[ a/DT cease-fire/NN ]
+
+[ that/WDT ]
+began/VBD 
+[ last/JJ month/NN ]
+./. 
+
+In/IN 
+[ Saudi/NNP Arabia/NNP ]
+,/, 
+[ Arab/NNP mediators/NNS ]
+met/VBD with/IN 
+[ Lebanese/JJ lawmakers/NNS ]
+,/, 
+[ whose/WP$ sessions/NNS ]
+aimed/VBN at/IN reaching/VBG 
+[ a/DT political/JJ solution/NN ]
+to/TO 
+[ Lebanon/NNP 's/POS 14-year-old/JJ civil/JJ war/NN ]
+had/VBD been/VBN suspended/VBN because/RB of/IN 
+[ a/DT lack/NN ]
+of/IN 
+[ progress/NN ]
+./. 

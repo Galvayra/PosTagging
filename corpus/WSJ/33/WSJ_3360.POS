@@ -1,0 +1,463 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Program/NN ]
+trading/NN is/VBZ ``/`` ruining/VBG ''/'' 
+[ the/DT stock/NN market/NN ]
+for/IN 
+[ 60/CD %/NN ]
+of/IN 
+[ individual/JJ investors/NNS ]
+,/, and/CC 
+[ 58/CD %/NN ]
+of/IN 
+[ stockbrokers/NNS ]
+feel/VBP 
+[ the/DT same/JJ way/NN ]
+,/, 
+[ an/DT American/NNP Stock/NNP Exchange-sponsored/JJ survey/NN ]
+found/VBD ./. 
+
+======================================
+
+Nearly/RB as/IN 
+[ many/JJ investors/NNS ]
+agree/VBP with/IN 
+[ the/DT statement/NN ]
+that/IN ``/`` 
+[ buying/VBG stock/NN today/NN ]
+is/VBZ like/IN gambling/NN ./. 
+
+''/'' And/CC maybe/RB because/IN of/IN 
+[ such/JJ skepticism/NN ]
+,/, 
+[ fewer/JJR investors/NNS ]
+ (/( 
+[ 36/CD %/NN ]
+ )/) 
+[ plan/VBP ]
+soon/RB to/TO increase/VB 
+[ their/PRP$ activity/NN ]
+in/IN 
+[ the/DT market/NN ]
+than/IN 
+[ their/PRP$ stockbrokers/NNS ]
+think/VBP ;/: 
+[ 71/CD %/NN ]
+of/IN 
+[ brokers/NNS ]
+believe/VBP 
+[ they/PRP ]
+will/MD ./. 
+
+======================================
+
+[ One/CD ]
+of/IN 
+[ the/DT Amex/NNP 's/POS conclusions/NNS ]
+:/: 
+[ The/DT media/NNS ]
+should/MD be/VB more/RBR positive/JJ about/IN 
+[ the/DT market/NN ]
+./. 
+
+======================================
+
+[ The/DT securities/NNS industry/NN ]
+is/VBZ naturally/RB getting/VBG 
+[ antsy/RB ]
+over/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ so/RB many/JJ individual/JJ investors/NNS ]
+continue/VBP to/TO shun/VB 
+[ the/DT stock/NN market/NN ]
+,/, nearly/RB 
+[ two/CD years/NNS ]
+after/IN 
+[ Black/NNP Monday/NNP ]
+./. 
+
+[ The/DT results/NNS ]
+of/IN 
+[ the/DT Amex/NNP survey/NN ]
+--/: done/VBN by/IN 
+[ telephone/NN ]
+in/IN 
+[ August/NNP ]
+and/CC 
+[ September/NNP ]
+with/IN 
+[ 500/CD small/JJ investors/NNS ]
+and/CC 
+[ 100/CD stockbrokers/NNS ]
+--/: emphasize/VBP how/WRB 
+[ wary/JJ investors/NNS ]
+remain/VBP ./. 
+
+[ A/DT hundred/CD members/NNS ]
+of/IN 
+[ the/DT media/NNS ]
+,/, mostly/JJ 
+[ television/NN ]
+and/CC 
+[ radio/NN personnel/NNS ]
+,/, also/RB were/VBD surveyed/VBN by/IN 
+[ pollster/NN Research/NNP ]
+&/CC 
+[ Forecasts/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+Among/IN 
+[ other/JJ things/NNS ]
+,/, 
+[ 57/CD %/NN ]
+of/IN 
+[ investors/NNS ]
+agreed/VBN that/IN ``/`` 
+[ stockbrokers/NNS ]
+mainly/RB care/VBP about/IN 
+[ large/JJ investors/NNS ]
+./. 
+
+''/'' In/IN 
+[ a/DT surprising/JJ display/NN ]
+of/IN 
+[ candor/NN ]
+,/, 
+[ the/DT same/JJ percentage/NN ]
+of/IN 
+[ stockbrokers/NNS ]
+agreed/VBD with/IN 
+[ the/DT statement/NN ]
+./. 
+
+======================================
+
+But/CC at/IN 
+[ a/DT news/NN conference/NN ]
+,/, at/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+tried/VBD to/TO put/VB 
+[ a/DT positive/JJ spin/NN ]
+on/IN 
+[ the/DT survey/NN results/NNS ]
+,/, 
+[ the/DT exchange/NN ]
+emphasized/VBD 
+[ other/JJ findings/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, ``/`` only/RB 
+[ 28/CD %/NN ]
+''/'' of/IN 
+[ investors/NNS ]
+surveyed/VBN say/VBP 
+[ they/PRP ]
+lost/VBD 
+[ confidence/NN ]
+in/IN 
+[ the/DT stock/NN market/NN ]
+since/IN 
+[ the/DT October/NNP 1987/CD market/NN crash/NN ]
+,/, despite/IN 
+[ the/DT finding/NN ]
+that/IN 
+[ 68/CD %/NN ]
+of/IN 
+[ the/DT media/NNS ]
+and/CC 
+[ 81/CD %/NN ]
+of/IN 
+[ stockbrokers/NNS ]
+believe/VBP 
+[ investors/NNS ]
+have/VBP lost/VBN 
+[ their/PRP$ confidence/NN ]
+./. 
+
+``/`` 
+[ The/DT 1987/CD market/NN crash/NN ]
+did/VBD not/RB shake/VB 
+[ the/DT public/JJ investors/NNS '/POS confidence/NN ]
+in/IN 
+[ the/DT stock/NN market/NN ]
+as/IN 
+[ most/JJS people/NNS ]
+perceived/VBD ,/, ''/'' 
+[ the/DT Amex/NNP ]
+maintained/VBD ./. 
+
+======================================
+
+[ The/DT study/NN ]
+concluded/VBD boldly/RB that/IN 
+[ the/DT 1987/CD crash/NN ]
+is/VBZ ``/`` 
+[ ancient/JJ history/NN ]
+in/IN 
+[ investors/NNS '/POS minds/NNS ]
+and/CC 
+[ investors/NNS ]
+expect/VBP 
+[ the/DT media/NNS ]
+to/TO present/VB 
+[ a/DT more/RBR positive/JJ image/NN ]
+of/IN 
+[ the/DT stock/NN market/NN ]
+./. 
+
+''/'' But/CC 
+[ none/NN ]
+of/IN 
+[ the/DT survey/NN 's/POS questions/NNS ]
+and/CC 
+[ answers/NNS ]
+indicated/VBD 
+[ such/JJ an/DT expectation/NN ]
+on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ the/DT investors/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ the/DT survey/NN results/NNS ]
+correlate/VBP with/IN 
+[ previous/JJ studies/NNS ]
+done/VBN by/IN 
+[ the/DT media/NNS ]
+and/CC by/IN 
+[ brokerage/NN firms/NNS themselves/PRP ]
+,/, in/IN 
+[ which/WDT investors/NNS ]
+have/VBP shown/VBN 
+[ remarkable/JJ distrust/NN ]
+of/IN 
+[ Wall/NNP Street/NNP ]
+and/CC 
+[ such/JJ innovations/NNS ]
+as/IN 
+[ program/NN ]
+trading/NN ./. 
+
+[ Nicholas/NNP J./NNP Tortorello/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Research/NNP ]
+&/CC 
+[ Forecasts/NNPS ]
+,/, conceded/VBD that/IN 
+[ the/DT 500/CD small/JJ investors/NNS ]
+surveyed/VBN were/VBD ``/`` 
+[ active/JJ ]
+''/'' 
+[ investors/NNS ]
+,/, and/CC thus/RB not/RB so/RB pessimistic/JJ as/IN to/TO have/VB dropped/VBD out/RB altogether/RB ./. 
+
+======================================
+
+If/IN 
+[ the/DT investors/NNS ]
+surveyed/VBN were/VBD n't/RB thrilled/VBN with/IN 
+[ Wall/NNP Street/NNP ]
+,/, 
+[ they/PRP ]
+did/VBD n't/RB love/VB 
+[ the/DT business/NN press/NN ]
+,/, either/RB ./. 
+
+Only/RB 
+[ 62/CD %/NN ]
+agreed/VBD that/IN ``/`` 
+[ investment/NN information/NN ]
+in/IN 
+[ the/DT media/NNS ]
+is/VBZ reliable/JJ and/CC 
+[ credible/JJ ]
+,/, ''/'' and/CC 
+[ 34/CD %/NN ]
+disagreed/VBD ./. 
+
+[ Stockbrokers/NNS ]
+were/VBD even/RB more/RBR skeptical/JJ ,/, by/IN 
+[ 56/CD %/NN ]
+to/TO 
+[ 44/CD %/NN ]
+./. 
+
+[ Mr./NNP Tortorello/NNP ]
+said/VBD 
+[ bad/JJ stock-picking/NN advice/NN ]
+in/IN 
+[ the/DT media/NNS ]
+probably/RB accounts/VBZ for/IN 
+[ all/PDT the/DT dissatisfaction/NN ]
+./. 
+
+======================================
+
+[ Investors/NNS ]
+said/VBD 
+[ interest-bearing/JJ investments/NNS ]
+such/JJ as/IN 
+[ U.S./NNP Treasury/NNP securities/NNS ]
+,/, 
+[ municipal/JJ bonds/NNS ]
+and/CC 
+[ corporate/JJ bonds/NNS ]
+are/VBP 
+[ the/DT best/JJS investment/NN today/NN ]
+ (/( 
+[ 44/CD %/NN ]
+ )/) ./. 
+
+[ Next/RB ]
+came/VBD 
+[ real/JJ estate/NN ]
+ (/( 
+[ 27/CD %/NN ]
+ )/) ,/, then/RB 
+[ stocks/NNS ]
+ (/( 
+[ 24/CD %/NN ]
+ )/) ./. 
+
+======================================
+
+[ One/CD survey/NN result/NN ]
+should/MD n't/RB surprise/VB 
+[ Wall/NNP Street/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN hungrily/RB awaiting/VBG 
+[ the/DT return/NN ]
+of/IN 
+[ the/DT small/JJ investor/NN ]
+since/IN 
+[ the/DT 1987/CD crash/NN ]
+./. 
+
+Asked/VBN whether/IN 
+[ they/PRP ]
+considered/VBD 
+[ themselves/PRP ]
+
+[ buyers/NNS ]
+or/CC 
+[ sellers/NNS ]
+of/IN 
+[ stocks/NNS ]
+,/, or/CC ``/`` just/RB sitting/VBG ,/, ''/'' 
+[ 61/CD %/NN ]
+of/IN 
+[ the/DT investors/NNS ]
+picked/VBD sitting/VBG ./. 
+
+======================================
+
+[ There/EX ]
+was/VBD 
+[ one/CD ]
+
+[ last/JJ finding/NN ]
+that/IN 
+[ the/DT American/JJ exchange/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ given/VBN up/RP 
+[ prestige/NN ]
+to/TO 
+[ the/DT Nasdaq/NNP over-the-counter/JJ system/NN ]
+over/IN 
+[ the/DT years/NNS ]
+,/, did/VBD n't/RB talk/VB much/RB about/IN at/IN 
+[ the/DT news/NN conference/NN ]
+./. 
+
+When/WRB 
+[ investors/NNS ]
+were/VBD asked/VBN if/IN 
+[ they/PRP ]
+wanted/VBD to/TO learn/VB more/JJR about/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+,/, 
+[ Nasdaq/NNP ]
+or/CC 
+[ the/DT Amex/NNP ]
+,/, 
+[ the/DT fewest/JJS percentage/NN ]
+picked/VBD 
+[ the/DT Amex/NNP ]
+./. 
+
+[ Shrugged/VBN Amex/NNP President/NNP Kenneth/NNP R./NNP Liebler/NNP ]
+:/: ``/`` Obviously/RB 
+[ it/PRP ]
+shows/VBZ 
+[ the/DT survey/NN was/VBD n't/RB ]
+doctored/VBN ./. 
+
+''/'' 
+======================================
+
+[ Two/CD findings/NNS ]
+from/IN 
+[ a/DT survey/NN ]
+of/IN 
+[ 500/CD small/JJ investors/NNS ]
+and/CC 
+[ 100/CD stockbrokers/NNS ]
+:/: 
+======================================
+
+[ Program/NN ]
+trading/NN is/VBZ ruining/VBG 
+[ the/DT stock/NN market/NN ]
+for/IN 
+[ the/DT individual/JJ investor/NN ]
+./. 
+
+======================================
+
+[ Stockbrokers/NNS ]
+mainly/RB care/VBP about/IN 
+[ large/JJ investors/NNS ]
+./. 
+
+======================================
+ 
+[ \*/SYM ]
+Do/VBP n't/RB 
+[ know\/no/NN  answer/NN ]
+
+======================================
+
+[ Source/NN ]
+:/: 
+[ American/NNP Stock/NNP ]

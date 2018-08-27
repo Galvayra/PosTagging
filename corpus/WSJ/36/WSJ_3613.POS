@@ -1,0 +1,145 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT government/NN ]
+accused/VBD 
+[ four/CD  cities/NNS ]
+of/IN allowing/VBG 
+[ the/DT discharge/NN ]
+of/IN 
+[ untreated/JJ industrial/JJ pollutants/NNS ]
+into/IN 
+[ public/JJ sewage/NN systems/NNS ]
+./. 
+
+======================================
+
+[ The/DT cities/NNS ]
+are/VBP 
+[ Phoenix/NNP ]
+,/, 
+[ Ariz./NNP ]
+;/: 
+[ El/NNP Paso/NNP ]
+and/CC 
+[ San/NNP Antonio/NNP ]
+,/, 
+[ Texas/NNP ]
+,/, and/CC 
+[ Detroit/NNP ]
+./. 
+
+======================================
+
+[ The/DT suits/NNS ]
+,/, filed/VBN by/IN 
+[ the/DT Justice/NNP Department/NNP ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP ]
+,/, allege/VBP that/IN 
+[ the/DT cities/NNS ]
+have/VBP violated/VBN 
+[ the/DT Clean/NNP Water/NNP Act/NNP ]
+,/, 
+[ which/WDT ]
+requires/VBZ 
+[ cities/NNS ]
+to/TO control/VB 
+[ industrial/JJ discharges/NNS ]
+into/IN 
+[ their/PRP$ sewage-treatment/NN systems/NNS ]
+./. 
+
+======================================
+
+[ San/NNP Antonio/NNP ]
+has/VBZ settled/VBN 
+[ its/PRP$ suit/NN ]
+by/IN agreeing/VBG to/TO pay/VB 
+[ a/DT $/$ 225,000/CD penalty/NN ]
+and/CC to/TO develop/VB 
+[ new/JJ enforcement/NN procedures/NNS ]
+./. 
+
+[ The/DT suits/NNS ]
+against/IN 
+[ the/DT other/JJ cities/NNS ]
+seek/VBP 
+[ injunctions/NNS ]
+and/CC 
+[ civil/JJ penalties/NNS ]
+,/, but/CC 
+[ EPA/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+expect/VBP 
+[ them/PRP ]
+to/TO settle/VB as/RB well/RB ./. 
+
+======================================
+
+[ EPA/NNP Administrator/NNP William/NNP Reilly/NNP ]
+was/VBD joined/VBN in/IN 
+[ a/DT news/NN conference/NN ]
+by/IN 
+[ Attorney/NNP General/NNP Dick/NNP Thornburgh/NNP ]
+to/TO announce/VB 
+[ the/DT four/CD suits/NNS ]
+and/CC 
+[ 57/CD other/JJ actions/NNS ]
+
+[ the/DT EPA/NNP ]
+has/VBZ taken/VBN since/IN 
+[ January/NNP ]
+,/, 
+[ many/JJ ]
+of/IN 
+[ which/WDT ]
+have/VBP already/RB been/VBN settled/VBN ./. 
+
+======================================
+
+[ The/DT EPA/NNP estimates/VBZ ]
+that/IN more/JJR than/IN 
+[ one-third/NN ]
+of/IN 
+[ U.S./NNP cities/NNS ]
+are/VBP allowing/VBG 
+[ industries/NNS ]
+to/TO dump/VB 
+[ hazardous/JJ pollutants/NNS ]
+directly/RB into/IN 
+[ public/JJ sewage/NN ]
+./. 
+
+About/IN 
+[ 700,000/CD tons/NNS ]
+of/IN 
+[ industrial/JJ waste/NN ]
+is/VBZ released/VBN 
+[ each/DT year/NN ]
+and/CC as/RB much/JJ as/IN 
+[ 39/CD %/NN ]
+of/IN 
+[ it/PRP ]
+goes/VBZ 
+[ untreated/JJ ]
+into/IN 
+[ public/JJ waterways/NNS ]
+./. 

@@ -1,0 +1,222 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Midway/NNP Airlines/NNPS ]
+said/VBD 
+[ it/PRP ]
+plans/VBZ to/TO operate/VB 
+[ nonstop/JJ flights/NNS ]
+to/TO 
+[ 11/CD additional/JJ cities/NNS ]
+from/IN 
+[ Philadelphia/NNP International/NNP Airport/NNP ]
+./. 
+
+[ The/DT move/NN ]
+is/VBZ 
+[ the/DT carrier/NN 's/POS first/JJ scheduling/NN push/NN ]
+aimed/VBN at/IN building/VBG 
+[ a/DT hub/NN ]
+of/IN 
+[ operations/NNS ]
+in/IN 
+[ Philadelphia/NNP ]
+./. 
+
+======================================
+
+[ Midway/NNP plans/VBZ new/JJ Philadelphia/NNP service/NN ]
+to/TO 
+[ seven/CD Florida/NNP cities/NNS ]
+beginning/VBG 
+[ Nov./NNP 15/CD ]
+:/: 
+[ Fort/NNP Lauderdale/NNP ]
+,/, 
+[ Fort/NNP Myers/NNP ]
+,/, 
+[ Miami/NNP ]
+,/, 
+[ Orlando/NNP ]
+,/, 
+[ Sarasota/NNP ]
+,/, 
+[ Tampa/NNP ]
+and/CC 
+[ West/NNP Palm/NNP Beach/NNP ]
+./. 
+
+======================================
+
+[ Starting/VBG Dec./NNP 1/CD ]
+,/, Midway/NNP plans/VBZ to/TO start/VB 
+[ flights/NNS ]
+from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Albany/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ Boston/NNP ]
+,/, 
+[ Buffalo/NNP ]
+and/CC 
+[ Hartford\/Springfield/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+[ Albany/NNP ]
+,/, 
+[ Buffalo/NNP ]
+and/CC 
+[ Hartford/NNP ]
+are/VBP 
+[ new/JJ destinations/NNS ]
+for/IN 
+[ the/DT carrier/NN ]
+./. 
+
+======================================
+
+[ The/DT rise/NN ]
+of/IN 
+[ a/DT second/JJ hub/NN ]
+in/IN 
+[ Philadelphia/NNP ]
+is/VBZ significant/JJ because/IN 
+[ it/PRP ]
+marks/VBZ 
+[ Midway/NNP 's/POS attempt/NN ]
+to/TO shed/VB 
+[ its/PRP$ regional/JJ airline/NN image/NN ]
+and/CC become/VB more/RBR 
+[ a/DT national/JJ carrier/NN ]
+./. 
+
+[ The/DT carrier/NN 's/POS biggest/JJS rival/NN ]
+will/MD be/VB 
+[ USAir/NNP Group/NNP Inc./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ the/DT largest/JJS provider/NN ]
+of/IN 
+[ passenger/NN service/NN ]
+in/IN 
+[ Philadelphia/NNP ]
+with/IN about/RB 
+[ half/NN ]
+of/IN 
+[ the/DT airport/NN 's/POS daily/JJ boardings/NNS ]
+and/CC 
+[ departures/NNS ]
+./. 
+
+======================================
+
+To/TO woo/VB 
+[ customers/NNS ]
+,/, Midway/NNP began/VBD selling/VBG 
+[ introductory/JJ discount/JJ tickets/NNS ]
+yesterday/NN for/IN 
+[ its/PRP$ Philadelphia/NNP flights/NNS ]
+./. 
+
+======================================
+
+By/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1990/CD ]
+,/, 
+[ the/DT carrier/NN ]
+said/VBD 
+[ it/PRP ]
+plans/VBZ to/TO have/VB 
+[ 70/CD daily/JJ departures/NNS ]
+out/IN of/IN 
+[ Philadelphia/NNP ]
+;/: by/IN 
+[ early/JJ 1992/CD it/PRP ]
+said/VBD 
+[ it/PRP ]
+plans/VBZ to/TO have/VB 
+[ 120/CD departures/NNS ]
+daily/JJ to/TO 
+[ 35/CD cities/NNS ]
+./. 
+
+[ The/DT airline/NN ]
+currently/RB operates/VBZ 
+[ six/CD departures/NNS ]
+to/TO 
+[ its/PRP$ Chicago/NNP hub/NN ]
+./. 
+
+======================================
+
+[ Last/JJ month/NN ]
+,/, 
+[ a/DT federal/JJ bankruptcy/NN judge/NN ]
+cleared/VBD 
+[ the/DT path/NN ]
+for/IN 
+[ this/DT expansion/NN ]
+by/IN approving/VBG 
+[ the/DT sale/NN ]
+of/IN 
+[ eight/CD Philadelphia/NNP gates/NNS ]
+owned/VBN by/IN 
+[ Texas/NNP Air/NNP Corp./NNP 's/POS Eastern/NNP Airlines/NNPS ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN under/IN 
+[ Chapter/NN 11/CD ]
+of/IN 
+[ the/DT federal/JJ Bankruptcy/NNP Code/NNP ]
+since/IN 
+[ March/NNP 9/CD ]
+./. 
+
+======================================
+
+[ The/DT $/$ 210/CD million/CD transaction/NN ]
+also/RB included/VBD 
+[ the/DT sale/NN ]
+of/IN 
+[ 16/CD DC-9/JJ aircraft/NN ]
+,/, 
+[ route/NN authority/NN ]
+from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Toronto/NNP ]
+and/CC 
+[ Ontario/NNP ]
+and/CC 
+[ takeoff/NN ]
+and/CC 
+[ landing/NN slots/NNS ]
+at/IN 
+[ Washington/NNP 's/POS National/NNP ]
+and/CC 
+[ New/NNP York/NNP 's/POS La/NNP Guardia/NNP airports/NNS ]
+./. 

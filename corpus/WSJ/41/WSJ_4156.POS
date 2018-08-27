@@ -1,0 +1,540 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Sony/NNP Corp./NNP 's/POS effort/NN ]
+to/TO hire/VB 
+[ Peter/NNP Guber/NNP ]
+as/IN 
+[ chairman/NN ]
+of/IN 
+[ Columbia/NNP Pictures/NNPS Entertainment/NNP Inc./NNP ]
+hangs/VBZ on/IN 
+[ some/DT complex/JJ legal/JJ negotiations/NNS ]
+
+[ this/DT week/NN ]
+aimed/VBN at/IN disentangling/VBG 
+[ the/DT Hollywood/NNP producer/NN ]
+from/IN 
+[ a/DT five-year/JJ contract/NN ]
+with/IN 
+[ Warner/NNP Communications/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+[ Sony/NNP last/JJ week/NN ]
+agreed/VBD to/TO acquire/VB 
+[ Columbia/NNP Pictures/NNPS ]
+for/IN 
+[ $/$ 3.4/CD billion/CD ]
+and/CC subsequently/RB made/VBD 
+[ a/DT $/$ 200/CD million/CD offer/NN ]
+for/IN 
+[ Guber-Peters/NNP Entertainment/NNP Co./NNP ]
+,/, 
+[ a/DT Los/NNP Angeles-based/JJ film/NN ]
+and/CC 
+[ TV/NN production/NN company/NN ]
+where/WRB 
+[ Mr./NNP Peters/NNP ]
+is/VBZ 
+[ co-chief/NN executive/NN ]
+with/IN 
+[ partner/NN Jon/NNP Peters/NNP ]
+./. 
+
+[ Sony/NNP ]
+said/VBD 
+[ the/DT offer/NN ]
+for/IN 
+[ Guber-Peters/NNP ]
+,/, however/RB ,/, is/VBZ 
+[ contingent/NN ]
+on/IN 
+[ the/DT ]
+``/`` 
+[ modification/NN ]
+''/'' of/IN 
+[ the/DT Warner/NNP agreement/NN ]
+``/`` on/IN 
+[ terms/NNS ]
+satisfactory/JJ to/TO 
+[ Sony/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Guber-Peters/NNP representatives/NNS ]
+are/VBP scheduled/VBN to/TO meet/VB 
+[ today/NN ]
+with/IN 
+[ Warner/NNP ]
+to/TO try/VB to/TO hammer/VB out/IN 
+[ a/DT settlement/NN ]
+./. 
+
+[ Warner/NNP ]
+,/, for/IN 
+[ its/PRP$ part/NN ]
+,/, maintains/VBZ that/IN ``/`` 
+[ we/PRP ]
+have/VBP 
+[ a/DT binding/JJ contract/NN ]
+./. 
+
+''/'' 
+[ Warner/NNP advisers/NNS Friday/NNP ]
+said/VBD 
+[ the/DT company/NN ]
+is/VBZ prepared/VBN to/TO take/VB 
+[ legal/JJ action/NN ]
+to/TO protect/VB 
+[ its/PRP$ interests/NNS ]
+and/CC has/VBZ already/RB notified/VBN 
+[ Sony/NNP ]
+that/IN 
+[ it/PRP ]
+may/MD consider/VB 
+[ a/DT suit/NN ]
+against/IN 
+[ the/DT Japanese/JJ electronics/NNS ]
+giant/NN for/IN inducing/VBG 
+[ a/DT breach/NN ]
+of/IN 
+[ contract/NN ]
+between/IN 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Warner/NNP ]
+./. 
+
+Among/IN 
+[ other/JJ things/NNS ]
+,/, 
+[ Warner/NNP ]
+is/VBZ likely/JJ to/TO seek/VB 
+[ a/DT hefty/JJ financial/JJ settlement/NN ]
+for/IN 
+[ the/DT loss/NN ]
+of/IN 
+[ Mr./NNP Guber/NNP 's/POS services/NNS ]
+and/CC for/IN 
+[ any/DT damages/NNS ]
+from/IN 
+[ his/PRP$ withdrawal/NN ]
+as/IN 
+[ a/DT producer/NN ]
+on/IN 
+[ a/DT number/NN ]
+of/IN 
+[ Warner/NNP movies/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Warner/NNP ]
+had/VBD made/VBN 
+[ it/PRP ]
+clear/JJ that/IN 
+[ it/PRP ]
+is/VBZ going/VBG to/TO assert/VB 
+[ its/PRP$ rights/NNS ]
+and/CC ,/, if/IN 
+[ Sony/NNP ]
+wants/VBZ 
+[ these/DT guys/NNS ]
+,/, 
+[ they/PRP ]
+are/VBP going/VBG to/TO have/VB to/TO come/VB to/TO 
+[ terms/NNS ]
+with/IN 
+[ Warner/NNP ]
+,/, ''/'' said/VBD 
+[ a/DT Warner/NNP adviser/NN ]
+./. 
+
+[ The/DT Guber-Peters/NNP team/NN ]
+produced/VBD ,/, among/IN 
+[ other/JJ things/NNS ]
+,/, 
+[ Warner/NNP 's/POS blockbuster/NN ]
+hit/NN ``/`` 
+[ Batman/NNP ]
+''/'' and/CC is/VBZ deeply/RB involved/VBN in/IN 
+[ future/JJ Warner/NNP projects/NNS ]
+
+[ that/WDT ]
+include/VBP 
+[ sequels/NNS ]
+to/TO 
+[ that/DT film/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ Sony/NNP ]
+said/VBD ,/, ``/`` 
+[ we/PRP ]
+are/VBP hopeful/JJ that/IN 
+[ Peter/NNP Guber/NNP ]
+and/CC 
+[ Jon/NNP Peters/NNP ]
+can/MD work/VB out/IN 
+[ their/PRP$ problems/NNS ]
+with/IN 
+[ Warner/NNP ]
+in/IN 
+[ a/DT satisfactory/JJ manner/NN ]
+./. 
+
+''/'' 
+[ Sony/NNP officials/NNS ]
+indicated/VBD 
+[ they/PRP ]
+were/VBD n't/RB concerned/VBN about/IN 
+[ threats/NNS ]
+of/IN 
+[ a/DT breach/NN ]
+of/IN 
+[ contract/NN suit/NN ]
+by/IN 
+[ New/NNP York-based/JJ Warner/NNP ]
+./. 
+
+At/IN 
+[ issue/NN ]
+in/IN 
+[ the/DT battle/NN ]
+between/IN 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Warner/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ in/IN 
+[ the/DT process/NN ]
+of/IN being/VBG acquired/VBN by/IN 
+[ Time/NNP Warner/NNP Inc./NNP ]
+,/, is/VBZ 
+[ the/DT five-year/JJ contract/NN ]
+,/, signed/VBN 
+[ one/CD month/NN ]
+ago/IN ,/, 
+[ that/WDT ]
+provides/VBZ that/IN 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+will/MD produce/VB 
+[ movies/NNS ]
+exclusively/RB for/IN 
+[ the/DT Warner/NNP Bros./NNP studio/NN ]
+./. 
+
+[ The/DT contract/NN ]
+extends/VBZ 
+[ an/DT agreement/NN ]
+originally/RB signed/VBN by/IN 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+in/IN 
+======================================
+
+[ Terry/NNP Christensen/NNP ]
+,/, 
+[ whose/WP$ ]
+
+[ Los/NNP Angeles-based/JJ Christensen/NNP ]
+,/, 
+[ White/NNP ]
+,/, 
+[ Miller/NNP ]
+,/, 
+[ Fink/NNP ]
+&/CC 
+[ Jacobs/NNP ]
+is/VBZ 
+[ outside/JJ counsel/NN ]
+for/IN 
+[ Guber-Peters/NNP ]
+,/, said/VBD 
+[ a/DT combination/NN ]
+of/IN 
+[ oral/JJ agreements/NNS ]
+between/IN 
+[ Warner/NNP ]
+and/CC 
+[ the/DT producers/NNS ]
+and/CC 
+[ certain/JJ language/NN ]
+in/IN 
+[ the/DT new/JJ contract/NN ]
+clearly/RB allow/VBP for/IN 
+[ the/DT two/CD producers/NNS ]
+to/TO extricate/VB 
+[ themselves/PRP ]
+from/IN 
+[ the/DT Warner/NNP agreement/NN ]
+should/MD 
+[ the/DT opportunity/NN ]
+to/TO own/VB or/CC run/VB 
+[ a/DT major/JJ studio/NN ]
+come/VBN up/IN ./. 
+
+======================================
+
+[ Warner/NNP officials/NNS ]
+have/VBP declined/VBN  to/TO discuss/VB 
+[ specifics/NNS ]
+of/IN 
+[ the/DT contract/NN ]
+,/, but/CC 
+[ Mr./NNP Christensen/NNP ]
+said/VBD 
+[ Warner/NNP ]
+has/VBZ previously/RB consented/VBN to/TO release/VB 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+from/IN 
+[ their/PRP$ obligation/NN ]
+:/: once/RB 
+[ last/JJ year/NN ]
+when/WRB 
+[ the/DT two/CD ]
+launched/VBD 
+[ a/DT failed/VBN bid/NN ]
+to/TO buy/VB 
+[ a/DT stake/NN ]
+in/IN 
+[ MGM\/UA/NNP Entertainment/NNP Co./NNP ]
+and/CC once/RB in/IN 
+[ 1987/CD ]
+,/, when/WRB 
+[ the/DT duo/NN ]
+was/VBD having/VBG 
+[ exploratory/JJ talks/NNS ]
+with/IN 
+[ New/NNP York-based/JJ Columbia/NNP ]
+./. 
+
+[ The/DT new/JJ five-year/JJ contract/NN ]
+with/IN 
+[ Warner/NNP ]
+actually/RB omitted/VBD 
+[ language/NN ]
+
+[ that/WDT ]
+prohibited/VBD 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+from/IN working/VBG ``/`` in/IN 
+[ any/DT other/JJ capacity/NN ]
+in/IN 
+[ the/DT motion/NN picture/NN industry/NN ]
+,/, ''/'' while/IN keeping/VBG 
+[ a/DT provision/NN ]
+that/IN 
+[ they/PRP ]
+not/RB serve/VB as/IN 
+[ producer/NN ]
+or/CC 
+[ executive/NN producer/NN ]
+on/IN 
+[ any/DT film/NN ]
+other/JJ than/IN 
+[ one/CD ]
+for/IN 
+[ Warner/NNP ]
+,/, 
+[ Mr./NNP Christensen/NNP ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ a/DT business/NN ]
+where/WRB 
+[ relationships/NNS ]
+are/VBP key/JJ ,/, 
+[ executives/NNS ]
+of/IN 
+[ rival/JJ Hollywood/NNP studios/NNS ]
+said/VBD 
+[ Mr./NNP Guber/NNP ]
+made/VBD 
+[ a/DT serious/JJ tactical/JJ error/NN ]
+in/IN negotiating/VBG with/IN 
+[ Sony/NNP ]
+without/IN discussing/VBG 
+[ the/DT plan/NN ]
+with/IN 
+[ Warner/NNP first/JJ ]
+./. 
+
+But/CC 
+[ Mr./NNP Christensen/NNP ]
+said/VBD 
+[ Warner/NNP ]
+has/VBZ long/RB been/VBN aware/JJ of/IN 
+[ the/DT efforts/NNS ]
+of/IN 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+to/TO own/VB or/CC run/VB 
+[ a/DT major/JJ studio/NN ]
+and/CC was/VBD aware/JJ at/IN 
+[ least/JJS a/DT month/NN ]
+ago/IN that/IN 
+[ discussions/NNS ]
+with/IN 
+[ Sony/NNP ]
+had/VBD occurred/VBN ./. 
+
+``/`` 
+[ Warner/NNP ]
+has/VBZ known/VBN for/IN 
+[ two/CD years/NNS ]
+that/IN 
+[ this/DT ]
+is/VBZ 
+[ a/DT goal/NN ]
+and/CC 
+[ a/DT plan/NN ]
+of/IN 
+[ Jon/NNP Peters/NNP ]
+and/CC 
+[ Peter/NNP Guber/NNP ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ all/DT ]
+been/VBN very/RB open/JJ and/CC 
+[ honest/JJ ]
+and/CC 
+[ public/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Christensen/NNP ]
+said/VBD 
+[ Mr./NNP Guber/NNP ]
+and/CC 
+[ Mr./NNP Peters/NNP ]
+are/VBP prepared/VBN to/TO give/VB up/IN 
+[ substantial/JJ financial/JJ benefits/NNS ]
+to/TO settle/VB 
+[ the/DT Warner/NNP contract/NN ]
+,/, including/VBG 
+[ rights/NNS ]
+to/TO participate/VB in/IN 
+[ sequels/NNS ]
+to/TO ``/`` 
+[ Batman/NNP ]
+''/'' and/CC 
+[ fees/NNS ]
+from/IN 
+[ past/NN ]
+and/CC 
+[ future/NN movies/NNS ]
+,/, as/RB well/RB as/IN 
+[ rights/NNS ]
+to/TO 
+[ various/JJ scripts/NNS ]
+and/CC 
+[ projects/NNS they/PRP ]
+have/VBP acquired/VBN on/IN 
+[ behalf/NN ]
+of/IN 
+[ Warner/NNP ]
+./. 
+
+``/`` 
+[ Jon/NNP ]
+and/CC 
+[ Peter/NNP ]
+would/MD give/VB up/IN 
+[ 10/CD ]
+to/TO 
+[ 15/CD years/NNS ]
+of/IN 
+[ rolling/VBG inventory/NN ]
+at/IN 
+[ Warner/NNP ]
+,/, ''/'' 
+[ Mr./NNP Christensen/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT considerable/JJ financial/JJ sacrifice/NN ]
+./. 
+
+''/'' Among/IN 
+[ other/JJ things/NNS ]
+,/, 
+[ Guber-Peters/NNP ]
+is/VBZ producing/VBG 
+[ movie/NN versions/NNS ]
+of/IN 
+[ the/DT best/JJS sellers/NNS ]
+``/`` 
+[ Bonfire/NNP ]
+of/IN 
+[ the/DT Vanities/NNPS ]
+,/, ''/'' ``/`` 
+[ A/DT Bright/NNP ]
+and/CC 
+[ Shining/NNP Lie/NNP ]
+''/'' and/CC ``/`` 
+[ Contact/NNP ]
+''/'' for/IN 
+[ Warner/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ Everybody/NN ]
+will/MD benefit/VB if/IN 
+[ this/DT ]
+is/VBZ resolved/VBN quickly/RB and/CC in/IN 
+[ a/DT dignified/VBN manner/NN ]
+,/, ''/'' 
+[ Mr./NNP Christensen/NNP ]
+said/VBD ./. 
+
+``/`` But/CC if/IN 
+[ we/PRP ]
+have/VBP to/TO litigate/VB 
+[ it/PRP ]
+,/, 
+[ we/PRP ]
+will/MD ./. 

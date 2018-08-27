@@ -1,0 +1,886 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP ]
+is/VBZ in/IN 
+[ the/DT midst/NN ]
+of/IN trying/VBG to/TO sell/VB off/IN most/JJS of/IN 
+[ its/PRP$ consulting/VBG business/NN ]
+,/, but/CC 
+[ some/DT securities/NNS analysts/NNS ]
+say/VBP 
+[ the/DT sales/NNS price/NN ]
+may/MD well/RB fall/VB below/IN 
+[ the/DT company/NN 's/POS initial/JJ expectations/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ June/NNP ]
+,/, when/WRB 
+[ London-based/JJ Saatchi/NNP ]
+first/RB announced/VBD 
+[ its/PRP$ plans/NNS ]
+to/TO sell/VB 
+[ the/DT consulting/VBG business/NN ]
+,/, 
+[ it/PRP ]
+told/VBD 
+[ analysts/NNS ]
+
+[ the/DT sale/NN ]
+should/MD bring/VB in/IN 
+[ #/# 250/CD million/CD ]
+to/TO #/# 
+[ 350/CD million/CD ]
+ (/( 
+[ $/$ 392.5/CD million/CD ]
+to/TO 
+[ $/$ 549.5/CD million/CD ]
+ )/) ./. 
+
+But/CC 
+[ analysts/NNS ]
+have/VBP said/VBN 
+[ the/DT figure/NN ]
+will/MD be/VB much/RB closer/JJR to/TO 
+[ the/DT lower/JJR end/NN ]
+of/IN 
+[ the/DT spectrum/NN ]
+,/, and/CC now/RB 
+[ some/DT ]
+have/VBP cut/VBN 
+[ their/PRP$ estimates/NNS ]
+,/, saying/VBG 
+[ it/PRP ]
+'s/VBZ even/RB possible/JJ 
+[ the/DT figure/NN ]
+could/MD go/VB below/IN 
+[ #/# 250/CD million/CD ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, although/IN 
+[ Saatchi/NNP ]
+hoped/VBD to/TO find/VB 
+[ a/DT single/JJ buyer/NN ]
+for/IN 
+[ its/PRP$ various/JJ consulting/VBG operations/NNS ]
+,/, 
+[ it/PRP ]
+
+[ has/VBZ n't/RB ]
+had/VBN 
+[ any/DT luck/NN ]
+and/CC now/RB must/MD sell/VB 
+[ the/DT business/NN ]
+piecemeal/RB ./. 
+
+[ Some/DT analysts/NNS ]
+are/VBP also/RB getting/VBG 
+[ edgy/JJ ]
+because/IN 
+[ the/DT company/NN ]
+indicated/VBD that/IN 
+[ it/PRP ]
+might/MD announce/VB 
+[ some/DT sales/NNS ]
+by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ its/PRP$ fiscal/JJ year/NN ]
+,/, 
+[ Sept./NNP 30/CD ]
+,/, 
+[ a/DT goal/NN ]
+
+[ which/WDT ]
+now/RB seems/VBZ unlikely/JJ to/TO be/VB met/VBN ./. 
+
+======================================
+
+Still/RB ,/, 
+[ Saatchi/NNP ]
+continues/VBZ to/TO say/VB 
+[ it/PRP ]
+will/MD announce/VB 
+[ the/DT bulk/NN ]
+of/IN 
+[ the/DT sales/NNS ]
+by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT calendar/NN year/NN ]
+./. 
+
+And/CC 
+[ Stephen/NNP Schwarzman/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Blackstone/NNP Group/NNP ]
+,/, 
+[ Saatchi/NNP 's/POS investment/NN bank/NN ]
+,/, pointed/VBD out/IN that/IN 
+[ the/DT offering/NN memorandums/NNS ]
+were/VBD n't/RB even/RB mailed/VBN out/IN to/TO 
+[ prospective/JJ buyers/NNS ]
+until/IN 
+[ early/JJ August/NNP ]
+,/, and/CC ``/`` 
+[ it/PRP ]
+'s/VBZ unrealistic/JJ to/TO expect/VB completed/VBN deals/NNS within/IN 
+[ five/CD weeks/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Schwarzman/NNP ]
+said/VBD 
+[ there/EX ]
+are/VBP ``/`` 
+[ a/DT large/JJ number/NN ]
+of/IN 
+[ potential/JJ purchasers/NNS ]
+for/IN 
+[ various/JJ units/NNS ]
+./. 
+
+''/'' 
+[ A/DT Saatchi/NNP spokesman/NN ]
+added/VBD ,/, ``/`` Under/IN 
+[ no/DT circumstances/NNS ]
+do/VBP 
+[ we/PRP ]
+feel/VB compelled/VBN to/TO sell/VB 
+[ these/DT companies/NNS ]
+./. 
+
+If/IN 
+[ we/PRP ]
+do/VBP n't/RB get/VB 
+[ the/DT right/JJ price/NN ]
+,/, 
+[ we/PRP ]
+wo/MD n't/RB sell/VB ./. 
+
+''/'' 
+======================================
+
+``/`` Are/VBP 
+[ they/PRP ]
+not/RB being/VBG disappointed/VBN 
+[ a/DT ]
+little/RB prematurely/RB ?/. 
+
+[ It/PRP ]
+'s/VBZ only/RB 
+[ September/NNP ]
+,/, ''/'' 
+[ the/DT spokesman/NN ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP looking/VBG to/TO 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT calendar/NN year/NN ]
+to/TO be/VB able/JJ to/TO announce/VB 
+[ these/DT ]
+deals/NNS ,/, and/CC 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ we/PRP ]
+are/VBP far/RB away/RB from/IN 
+[ that/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ Saatchi/NNP ]
+paid/VBD about/IN 
+[ #/# 250/CD million/CD ]
+to/TO acquire/VB 
+[ its/PRP$ stable/NN ]
+of/IN consulting/VBG 
+[ firms/NNS ]
+,/, and/CC 
+[ most/JJS analysts/NNS ]
+interviewed/VBN believe/VBP 
+[ it/PRP ]
+will/MD make/VB 
+[ that/DT money/NN ]
+back/RP ,/, and/CC perhaps/RB 
+[ a/DT bit/NN ]
+more/JJR ./. 
+
+Yet/RB 
+[ several/JJ ]
+are/VBP n't/RB as/RB optimistic/JJ about/IN 
+[ the/DT price/NN ]
+as/IN 
+[ they/PRP ]
+were/VBD just/RB 
+[ a/DT few/JJ months/NNS ]
+ago/IN ./. 
+
+======================================
+
+[ Andrew/NNP Wallach/NNP ]
+,/, 
+[ a/DT Drexel/NNP Burnham/NNP Lambert/NNP analyst/NN ]
+,/, recently/RB slashed/VBD 
+[ his/PRP$ estimate/NN ]
+of/IN 
+[ the/DT sale/NN ]
+proceeds/NNS to/TO #/# 
+[ 275/CD million/CD ]
+from/IN 
+[ his/PRP$ previous/JJ estimate/NN ]
+of/IN 
+[ #/# 325/CD million/CD ]
+and/CC said/VBD 
+[ he/PRP ]
+now/RB is/VBZ looking/VBG at/IN 
+[ a/DT range/NN ]
+of/IN 
+[ #/# 225/CD million/CD ]
+to/TO #/# 
+[ 300/CD million/CD ]
+./. 
+
+[ Brian/NNP Sturgess/NNP ]
+of/IN 
+[ London-based/JJ Barclay/NNP ]
+de/NNP 
+[ Zoete/NNP Wedd/NNP ]
+also/RB slightly/RB lowered/VBD 
+[ his/PRP$ expectations/NNS ]
+,/, from/IN as/RB high/JJ as/IN 
+[ #/# 270/CD million/CD ]
+to/TO ``/`` #/# 
+[ 250/CD million/CD max/NN ]
+./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ The/DT nearer/JJR Saatchi/NNP ]
+gets/VBZ to/TO 
+[ December/NNP ]
+,/, 
+[ the/DT less/RBR likely/JJ they/PRP ]
+are/VBP to/TO get/VB 
+[ a/DT good/JJ price/NN ]
+,/, ''/'' 
+[ Mr./NNP Sturgess/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ A/DT potential/JJ buyer/NN ]
+knows/VBZ that/IN 
+[ Saatchi/NNP ]
+has/VBZ to/TO sell/VB {/( 
+[ the/DT consulting/NN businesses/NNS ]
+ }/) separately/RB and/CC knows/VBZ 
+[ he/PRP ]
+can/MD put/VB 
+[ pressure/NN ]
+on/IN 
+[ Saatchi/NNP ]
+on/IN 
+[ price/NN ]
+./. 
+
+[ A/DT desperate/JJ seller/NN ]
+never/RB gets/VBZ 
+[ the/DT best/JJS price/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Another/DT hitch/NN ]
+,/, according/VBG to/TO 
+[ Mr./NNP Wallach/NNP ]
+,/, is/VBZ 
+[ the/DT recent/JJ weakness/NN ]
+of/IN 
+[ the/DT junk/NN bond/NN market/NN ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ turn/NN ]
+is/VBZ cooling/VBG 
+[ the/DT market/NN ]
+for/IN 
+[ any/DT sort/NN ]
+of/IN 
+[ leveraged/JJ acquisition/NN ]
+./. 
+
+``/`` 
+[ People/NNS ]
+are/VBP reassessing/VBG 
+[ the/DT transaction/NN values/NNS ]
+''/'' for/IN 
+[ all/DT kinds/NNS ]
+of/IN 
+[ acquisitions/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+So/IN far/RB ,/, 
+[ the/DT analysts/NNS '/POS changing/VBG estimates/NNS ]
+have/VBP n't/RB affected/VBN 
+[ their/PRP$ 1989/CD ]
+and/CC 
+[ 1990/CD earnings/NNS forecasts/NNS ]
+./. 
+
+But/CC 
+[ both/DT Jim/NNP Dougherty/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ County/NNP NatWest/NNP Securities/NNPS ]
+,/, and/CC 
+[ Emma/NNP Hill/NNP ]
+,/, of/IN 
+[ Wertheim/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, said/VBD that/IN if/IN 
+[ the/DT sales/NNS ]
+are/VBP delayed/VBN too/RB long/RB ,/, 
+[ it/PRP ]
+will/MD cut/VB into/IN 
+[ 1990/CD estimates/NNS ]
+./. 
+
+[ Mr./NNP Dougherty/NNP ]
+currently/RB is/VBZ looking/VBG for/IN 
+[ 1990/CD pretax/JJ earnings/NNS ]
+of/IN 
+[ #/# 82/CD million/CD ]
+,/, or/CC 
+[ 18/CD pence/NN ]
+
+[ a/DT share/NN ]
+,/, including/VBG 
+[ #/# 7/CD million/CD ]
+of/IN 
+[ interest/NN income/NN ]
+on/IN 
+[ the/DT proceeds/NNS ]
+of/IN 
+[ the/DT sale/NN ]
+./. 
+
+[ That/DT estimate/NN ]
+assumes/VBZ ,/, however/RB ,/, ``/`` that/IN 
+[ the/DT business/NN ]
+would/MD have/VB been/VBN sold/VBN fairly/RB early/JJ in/IN 
+[ the/DT year/NN ]
+''/'' for/IN 
+[ net/JJ proceeds/NNS ]
+of/IN 
+[ #/# 265/CD million/CD ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Saatchi/NNP ]
+would/MD n't/RB comment/VB on/IN 
+[ which/WDT companies/NNS ]
+are/VBP interested/JJ in/IN 
+[ its/PRP$ various/JJ consulting/NN units/NNS ]
+./. 
+
+But/CC 
+[ industry/NN executives/NNS ]
+said/VBD 
+[ Marsh/NNP ]
+&/CC 
+[ McLennan/NNP ]
+has/VBZ expressed/VBN 
+[ interest/NN ]
+in/IN 
+[ the/DT Cleveland/NNP Consulting/NNP unit/NN ]
+,/, and/CC 
+[ McGraw-Hill/NNP ]
+,/, 
+[ Alexander/NNP Proudfoot/NNP ]
+,/, and/CC 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+have/VBP made/VBN 
+[ some/DT inquiries/NNS ]
+./. 
+
+[ Those/DT firms/NNS ]
+either/CC could/MD n't/RB be/VB reached/VBN or/CC declined/VBD to/TO comment/VB ./. 
+
+[ One/CD executive/NN ]
+familiar/JJ with/IN 
+[ the/DT situation/NN ]
+said/VBD 
+[ a/DT price/NN ]
+is/VBZ on/IN 
+[ the/DT table/NN ]
+for/IN 
+[ one/CD ]
+of/IN 
+[ Saatchi/NNP 's/POS consulting/VBG companies/NNS ]
+,/, and/CC 
+[ discussions/NNS ]
+are/VBP getting/VBG close/RB on/IN 
+[ two/CD others/NNS ]
+./. 
+
+======================================
+
+[ Several/JJ ]
+of/IN 
+[ the/DT consulting/VBG firms/NNS ]
+,/, meanwhile/RB ,/, are/VBP trying/VBG to/TO put/VB together/RB 
+[ management/NN buy-outs/NNS ]
+,/, 
+[ people/NNS ]
+familiar/JJ with/IN 
+[ the/DT discussions/NNS ]
+said/VBD ./. 
+
+[ They/PRP ]
+said/VBD 
+[ Saatchi/NNP 's/POS largest/JJS consulting/NN unit/NN ]
+,/, 
+[ Hay/NNP Group/NNP ]
+,/, was/VBD attracting/VBG 
+[ less/JJR interest/NN ]
+than/IN 
+[ some/DT ]
+of/IN 
+[ the/DT smaller/JJR companies/NNS ]
+because/IN of/IN 
+[ its/PRP$ size/NN ]
+and/CC 
+[ some/DT financial/JJ problems/NNS ]
+at/IN 
+[ the/DT unit/NN ]
+./. 
+
+[ Hay/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT companies/NNS ]
+
+[ that/WDT ]
+may/MD end/VB up/IN in/IN 
+[ a/DT management/NN buy-out/NN ]
+,/, 
+[ the/DT people/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ Another/DT firm/NN ]
+trying/VBG to/TO put/VB together/RB 
+[ a/DT buy-out/NN ]
+is/VBZ 
+[ Gartner/NNP Group/NNP ]
+,/, 
+[ a/DT computer/NN consulting/VBG firm/NN ]
+,/, said/VBD 
+[ executives/NNS ]
+close/JJ to/TO 
+[ the/DT situation/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+said/VBD 
+[ Gartner/NNP management/NN ]
+would/MD offer/VB less/JJR than/IN 
+[ the/DT ]
+approximately/RB 
+[ $/$ 85/CD million/CD Saatchi/NNP ]
+paid/VBD for/IN 
+[ the/DT consultant/NN ]
+,/, while/IN 
+[ Saatchi/NNP ]
+hopes/VBZ to/TO command/VB 
+[ a/DT premium/NN ]
+for/IN 
+[ the/DT firm/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ attracted/VBN 
+[ a/DT fair/JJ amount/NN ]
+of/IN 
+[ interest/NN ]
+./. 
+
+Also/RB ,/, 
+[ Saatchi/NNP 's/POS Peterson/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+ca/MD n't/RB be/VB sold/VBN without/IN 
+[ the/DT approval/NN ]
+of/IN 
+[ its/PRP$ principals/NNS ]
+and/CC could/MD end/VB up/IN remaining/VBG 
+[ a/DT Saatchi/NNP unit/NN ]
+,/, 
+[ the/DT executives/NNS ]
+said/VBD ./. 
+
+[ Officials/NNS ]
+of/IN 
+[ the/DT consulting/VBG firms/NNS ]
+either/CC declined/VBD to/TO comment/VB or/CC could/MD n't/RB be/VB reached/VBN ./. 
+
+======================================
+
+[ J.P./NNP Morgan/NNP Picks/VBZ Backer/NNP ]
+
+======================================
+
+[ Backer/NNP Spielvogel/NNP Bates/NNP Worldwide/NNP ]
+yesterday/NN picked/VBD up/IN 
+[ J.P./NNP Morgan/NNP 's/POS $/$ 10/CD million/CD world-wide/JJ ad/NN account/NN ]
+./. 
+
+======================================
+
+[ J.P./NNP Morgan/NNP ]
+,/, 
+[ the/DT New/NNP York-based/JJ parent/NN ]
+of/IN 
+[ Morgan/NNP Guaranty/NNP Trust/NNP ]
+,/, began/VBD 
+[ the/DT search/NN ]
+for/IN 
+[ an/DT ad/NN agency/NN ]
+when/WRB 
+[ its/PRP$ former/JJ shop/NN ]
+,/, 
+[ the/DT now-defunct/JJ Doyle/NNP Graf/NNP Raj/NNP ]
+,/, crumbled/VBD in/IN 
+[ June/NNP ]
+./. 
+
+Most/JJS of/IN 
+[ Doyle/NNP Graf/NNP 's/POS other/JJ clients/NNS ]
+,/, including/VBG 
+[ Swissair/NNP ]
+,/, 
+[ Kobrand/NNP ]
+and/CC 
+[ Haagen-Dazs/NNP ]
+,/, have/VBP already/RB reassigned/VBN 
+[ their/PRP$ accounts/NNS ]
+to/TO 
+[ new/JJ agencies/NNS ]
+./. 
+
+======================================
+
+[ Backer/NNP Spielvogel/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP ]
+,/, will/MD develop/VB 
+[ campaigns/NNS ]
+for/IN 
+[ J.P./NNP Morgan/NNP 's/POS corporate/JJ ]
+and/CC 
+[ product/NN ]
+advertising/NN and/CC 
+[ its/PRP$ private/JJ banking/NN business/NN ]
+./. 
+
+[ Morgan/NNP ]
+saw/VBD 
+[ many/JJ agencies/NNS ]
+before/IN narrowing/VBG 
+[ the/DT competition/NN ]
+to/TO 
+[ Backer/NNP Spielvogel/NNP ]
+and/CC 
+[ two/CD other/JJ New/NNP York/NNP shops/NNS ]
+,/, 
+[ Della/NNP Femina/NNP McNamee/NNP WCRS/NNP ]
+and/CC 
+[ TBWA/NNP Advertising/NNP ]
+./. 
+
+======================================
+
+[ Ad/NNP Notes/NNPS ]
+.../: ./. 
+
+======================================
+
+[ NEW/NNP ACCOUNTS/NNPS ]
+:/: 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP ]
+,/, 
+[ Cincinnati/NNP ]
+,/, moved/VBD 
+[ its/PRP$ ]
+estimated/VBN 
+[ $/$ 15/CD million/CD Sure/NNP deodorant/JJ account/NN ]
+to/TO 
+[ Grey/NNP Advertising/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+[ The/DT account/NN ]
+had/VBD previously/RB been/VBN handled/VBN by/IN 
+[ Wells/NNP ]
+,/, 
+[ Rich/NNP ]
+,/, 
+[ Greene/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ White/NNP Castle/NNP System/NNP ]
+,/, 
+[ Chicago/NNP ]
+,/, awarded/VBD 
+[ its/PRP$ $/$ 9/CD million/CD restaurant/NN account/NN ]
+to/TO 
+[ Gunder/NNP ]
+&/CC 
+[ Associates/NNPS ]
+,/, 
+[ Columbus/NNP ]
+,/, 
+[ Ohio/NNP ]
+./. 
+
+[ Lord/NNP ]
+,/, 
+[ Sullivan/NNP ]
+&/CC 
+[ Yoder/NNP ]
+,/, 
+[ Columbus/NNP ]
+,/, previously/RB handled/VBD 
+[ the/DT account/NN ]
+./. 
+
+[ The/DT additional/JJ assignment/NN ]
+brings/VBZ to/TO about/IN 
+[ $/$ 11/CD million/CD ]
+
+[ the/DT White/NNP Castle/NNP ad/NN business/NN ]
+at/IN 
+[ Gunder/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ J.I./NNP Case/NNP ]
+,/, 
+[ Racine/NNP ]
+,/, 
+[ Wis./NNP ]
+,/, awarded/VBD 
+[ its/PRP$ $/$ 5/CD million/CD construction/NN equipment/NN division/NN account/NN ]
+to/TO 
+[ WPP/NNP Group/NNP 's/POS J./NNP Walter/NNP Thompson/NNP unit/NN ]
+,/, 
+[ Detroit/NNP ]
+./. 
+
+[ The/DT Tenneco/NNP unit/NN 's/POS account/NN ]
+had/VBD previously/RB been/VBN serviced/VBN by/IN 
+[ Bozell/NNP ]
+,/, 
+[ Chicago/NNP ]
+./. 
+
+======================================
+
+[ INVESTIGATION/NNP ]
+:/: 
+[ Meineke/NNP Discount/NNP Muffler/NNP Shops/NNPS ]
+,/, 
+[ Charlotte/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, has/VBZ pulled/VBN 
+[ TV/NN ads/NNS ]
+in/IN 
+[ the/DT New/NNP York/NNP area/NN ]
+touting/VBG 
+[ its/PRP$ low/JJ prices/NNS ]
+after/IN 
+[ the/DT city/NN 's/POS department/NN ]
+of/IN 
+[ consumer/NN affairs/NNS ]
+informed/VBD 
+[ Meineke/NNP ]
+of/IN 
+[ its/PRP$ intent/NN ]
+to/TO file/VB 
+[ suit/NN ]
+for/IN 
+[ deceptive/JJ advertising/NN ]
+./. 
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ the/DT agency/NN ]
+said/VBD 
+[ it/PRP ]
+visited/VBD 
+[ 20/CD Meineke/NNP shops/NNS ]
+in/IN 
+[ New/NNP York/NNP ]
+and/CC found/VBD that/IN 
+[ none/NN ]
+of/IN 
+[ them/PRP ]
+fixed/VBD 
+[ mufflers/NNS ]
+on/IN 
+[ city/NN vehicles/NNS ]
+for/IN 
+[ the/DT prices/NNS ]
+advertised/VBN (/( 
+[ ''$/$ 18.93/CD ]
+to/TO 
+[ $/$ 26.95/CD ]
+''/'' )/) ./. 
+
+[ The/DT average/JJ price/NN ]
+,/, 
+[ the/DT department/NN ]
+said/VBD ,/, was/VBD 
+[ $/$ 99.21/CD ]
+./. 
+
+[ David/NNP J./NNP Kaufmann/NNP ]
+,/, 
+[ Meineke/NNP 's/POS outside/JJ counsel/NN ]
+,/, said/VBD 
+[ the/DT company/NN ]
+stands/VBZ by/IN 
+[ its/PRP$ ad/NN slogan/NN ]
+./. 
+
+[ Meineke/NNP ]
+has/VBZ admitted/VBN 
+[ no/DT guilt/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, adding/VBG 
+[ the/DT agency/NN ]
+has/VBZ refused/VBN to/TO show/VB 
+[ the/DT company/NN its/PRP$ data/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB believe/VB 
+[ their/PRP$ numbers/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+[ No/DT suit/NN ]
+has/VBZ been/VBN filed/VBN ,/, and/CC 
+[ the/DT two/CD sides/NNS ]
+are/VBP expected/VBN to/TO discuss/VB 
+[ the/DT charges/NNS ]
+in/IN 
+[ the/DT near/JJ future/NN ]
+./. 
+
+======================================
+
+[ NEW/NNP AGENCY/NNP ]
+:/: 
+[ Sandy/NNP Carlson/NNP ]
+,/, 
+[ who/WP ]
+resigned/VBD as/IN 
+[ executive/JJ vice/NN president/NN ]
+at/IN 
+[ Wells/NNP ]
+,/, 
+[ Rich/NNP ]
+,/, 
+[ Greene/NNP ]
+on/IN 
+[ Monday/NNP ]
+,/, opened/VBD 
+[ a/DT new/JJ agency/NN ]
+called/VBN 
+[ Carlson/NNP ]
+&/CC 
+[ Partners/NNPS ]
+to/TO service/VB 
+[ the/DT $/$ 10/CD million/CD Polo\/Ralph/NNP Lauren/NNP account/NN ]
+./. 
+
+[ Polo\/Ralph/NNP Lauren/NNP ]
+,/, 
+[ a/DT Wells/NNP Rich/NNP client/NN ]
+for/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+,/, left/VBD 
+[ the/DT agency/NN Friday/NNP ]
+./. 

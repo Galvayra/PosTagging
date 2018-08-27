@@ -1,0 +1,83 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Arx/NNP Inc./NNP ]
+agreed/VBD to/TO acquire/VB 
+[ Comstron/NNP Corp./NNP ]
+,/, 
+[ a/DT Melville/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ manufacturer/NN ]
+of/IN 
+[ frequency-control/JJ products/NNS ]
+,/, for/IN 
+[ $/$ 8/CD million/CD ]
+plus/CC 
+[ additional/JJ payments/NNS ]
+for/IN 
+[ three/CD years/NNS ]
+based/VBN on/IN 
+[ performance/NN ]
+./. 
+
+======================================
+
+Closely/RB held/VBN 
+[ Comstron/NNP 's/POS products/NNS ]
+are/VBP used/VBN in/IN 
+[ radar/NN ]
+and/CC 
+[ other/JJ systems/NNS ]
+./. 
+
+======================================
+
+[ Arx/NNP ]
+designs/VBZ and/CC makes/VBZ 
+[ electronic/JJ ]
+and/CC 
+[ magnetic/JJ products/NNS ]
+,/, and/CC 
+[ mechanical/JJ systems/NNS ]
+used/VBN in/IN 
+[ spacecraft/NN ]
+and/CC 
+[ military/JJ vehicles/NNS ]
+./. 
+
+[ Arx/NNP ]
+also/RB provides/VBZ engineering/NN 
+[ services/NNS ]
+to/TO 
+[ the/DT government/NN ]
+and/CC holds/VBZ 
+[ 70/CD %/NN ]
+of/IN 
+[ VTX/NNP Electronics/NNPS Corp./NNP ]
+,/, 
+[ a/DT Farmingdale/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ distributor/NN ]
+of/IN 
+[ wire/NN ]
+and/CC 
+[ cable/NN products/NNS ]
+./. 

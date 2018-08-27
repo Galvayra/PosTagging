@@ -1,0 +1,654 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Scientists/NNS ]
+have/VB long/RB known/VBN that/IN breathing/VBG 
+[ ozone/NN ]
+on/IN especially/RB 
+[ smoggy/JJ days/NNS ]
+is/VBZ bad/JJ for/IN 
+[ people/NNS ]
+and/CC can/MD cause/VB coughing/VBG ,/, 
+[ chest/NN pains/NNS ]
+and/CC 
+[ temporary/JJ respiratory/JJ ailments/NNS ]
+./. 
+
+======================================
+
+But/CC now/RB 
+[ concern/NN ]
+is/VBZ growing/VBG 
+[ that/DT ozone/NN ]
+at/IN 
+[ levels/NNS ]
+occurring/VBG regularly/RB in/IN 
+[ big/JJ cities/NNS ]
+may/MD cause/VB 
+[ permanent/JJ damage/NN ]
+,/, chewing/VBG up/RP 
+[ lung/NN tissue/NN ]
+little/JJ by/IN little/JJ over/IN 
+[ many/JJ years/NNS ]
+./. 
+
+[ This/DT ]
+could/MD make/VB 
+[ many/JJ people/NNS ]
+prone/JJ to/TO 
+[ a/DT precipitous/JJ ]
+and/CC 
+[ irreversible/JJ loss/NN ]
+of/IN 
+[ breathing/NN power/NN ]
+in/IN 
+[ later/JJR life/NN ]
+./. 
+
+======================================
+
+[ Research/NN ]
+on/IN 
+[ the/DT matter/NN ]
+is/VBZ far/RB from/IN 
+[ conclusive/JJ ]
+./. 
+
+But/CC 
+[ some/DT recent/JJ animal/NN tests/NNS ]
+suggest/VBP that/IN 
+[ permanent/JJ changes/NNS ]
+occur/VBP in/IN 
+[ human/JJ lungs/NNS ]
+exposed/VBN to/TO 
+[ big-city/JJ ozone/NN levels/NNS ]
+over/IN 
+[ long/JJ periods/NNS ]
+./. 
+
+In/IN 
+[ a/DT study/NN ]
+by/IN 
+[ researchers/NNS ]
+from/IN 
+[ Duke/NNP University/NNP ]
+and/CC 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP ]
+,/, 
+[ rats/NNS ]
+exposed/VBN to/TO 
+[ ozone/NN ]
+for/IN 
+[ 18/CD months/NNS ]
+developed/VBD 
+[ lung-tissue/JJ abnormalities/NNS ]
+resembling/VBG 
+[ the/DT early/JJ stages/NNS ]
+of/IN 
+[ fibrosis/NN ]
+,/, 
+[ a/DT disease/NN ]
+
+[ that/WDT ]
+can/MD fatally/RB narrow/VB 
+[ air/NN passages/NNS ]
+./. 
+
+======================================
+
+[ Such/JJ studies/NNS ]
+are/VBP notoriously/RB 
+[ tricky/JJ ]
+;/: in/IN 
+[ fact/NN ]
+,/, 
+[ one/CD other/JJ recent/JJ animal/NN study/NN ]
+showed/VBD 
+[ no/DT signs/NNS ]
+of/IN 
+[ long-term/JJ ozone/NN damage/NN ]
+./. 
+
+But/CC ``/`` 
+[ there/EX ]
+are/VBP 
+[ many/JJ reasons/NNS ]
+to/TO strongly/RB suspect/VB 
+[ that/IN ozone/NN 's/POS mechanism/NN ]
+of/IN 
+[ action/NN ]
+on/IN 
+[ cells/NNS ]
+,/, if/IN repeated/VBN 
+[ many/JJ times/NNS ]
+,/, would/MD lead/VB to/TO 
+[ chronic/JJ lung/NN disease/NN ]
+,/, ''/'' says/VBZ 
+[ Bernard/NNP Goldstein/NNP ]
+,/, 
+[ former/JJ EPA/NNP research/NN director/NN ]
+./. 
+
+``/`` Now/RB 
+[ we/PRP ]
+are/VBP starting/VBG to/TO see/VB 
+[ studies/NNS ]
+suggesting/VBG 
+[ that/IN ozone/NN ]
+ {/( at/IN 
+[ big-city/JJ levels/NNS ]
+ }/) accelerate/VBP 
+[ lung-function/JJ decline/NN ]
+as/IN 
+[ we/PRP ]
+get/VBP 
+[ older/JJR ]
+./. 
+
+''/'' 
+[ Dr./NNP Goldstein/NNP ]
+now/RB heads/VBZ 
+[ the/DT New/NNP Jersey/NNP Environmental/NNP ]
+and/CC 
+[ Occupational/NNP Health/NNP Sciences/NNP Institute/NNP ]
+in/IN 
+[ Piscataway/NNP ]
+./. 
+
+======================================
+
+[ The/DT research/NN ]
+is/VBZ important/JJ because/IN more/RBR than/IN 
+[ a/DT decade/NN ]
+of/IN 
+[ efforts/NNS ]
+to/TO stem/VB 
+[ ozone/NN pollution/NN ]
+have/VBP failed/VBN ./. 
+
+About/IN 
+[ half/NN ]
+of/IN 
+[ Americans/NNS ]
+live/VBP in/IN 
+[ areas/NNS ]
+where/WRB 
+[ ozone/NN levels/NNS ]
+exceed/VBP 
+[ the/DT federal/JJ ceiling/NN ]
+at/IN 
+[ least/JJS ]
+once/IN 
+[ a/DT year/NN ]
+,/, ranging/VBG from/IN 
+[ Los/NNP Angeles/NNP ]
+to/TO 
+[ rural/JJ Maine/NNP ]
+./. 
+
+======================================
+
+[ Ozone/NN ]
+,/, 
+[ a/DT ]
+highly/RB 
+[ corrosive/JJ form/NN ]
+of/IN 
+[ oxygen/NN ]
+,/, blocks/VBZ 
+[ harmful/JJ solar/JJ rays/NNS ]
+at/IN 
+[ high/JJ altitudes/NNS ]
+but/CC is/VBZ 
+[ a/DT problem/NN ]
+at/IN 
+[ ground/NN level/NN ]
+./. 
+
+[ It/PRP ]
+forms/VBZ when/WRB 
+[ sunlight/NN ]
+hits/VBZ 
+[ auto/NN exhaust/NN ]
+and/CC 
+[ smoke/NN ]
+from/IN 
+[ power/NN plants/NNS ]
+and/CC 
+[ factories/NNS ]
+./. 
+
+[ Auto/NN makers/NNS ]
+have/VBP slashed/VBN 
+[ their/PRP$ engines/NNS '/POS ozone-forming/JJ emissions/NNS ]
+since/IN 
+[ 1970/CD ]
+,/, but/CC 
+[ the/DT gains/NNS ]
+have/VBP been/VBN offset/VBN by/IN rising/VBG 
+[ numbers/NNS ]
+of/IN 
+[ cars/NNS ]
+traveling/VBG 
+[ more/JJR miles/NNS ]
+than/IN ever/RB ./. 
+
+======================================
+
+``/`` 
+[ Most/JJS air/NN pollutants/NNS ]
+are/VBP at/IN 
+[ levels/NNS thousands/NNS ]
+of/IN 
+[ times/NNS ]
+below/IN 
+[ what/WP ]
+would/MD be/VB lethal/JJ ,/, ''/'' 
+[ Dr./NNP Goldstein/NNP ]
+says/VBZ ./. 
+
+``/`` But/CC in/IN 
+[ some/DT cities/NNS ]
+on/IN 
+[ the/DT worst/JJS days/NNS ]
+,/, 
+[ ozone/NN ]
+is/VBZ only/RB 
+[ 10/CD ]
+or/CC 
+[ 20/CD times/NNS ]
+below/IN 
+[ lethal/JJ levels/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ President/NNP Bush/NNP ]
+'s/POS recently/RB proposed/VBN 
+[ clean/JJ air/NN package/NN ]
+would/MD further/RBR clamp/VB down/RP on/IN 
+[ ozone/NN precursors/NNS ]
+./. 
+
+But/CC in/IN 
+[ July/NNP ]
+,/, 
+[ the/DT congressional/JJ Office/NNP ]
+of/IN 
+[ Technology/NNP Assessment/NNP ]
+projected/VBD that/IN without/IN 
+[ new/JJ technologies/NNS ]
+and/CC 
+[ life-style/JJ changes/NNS ]
+,/, 
+[ dozens/NNS ]
+of/IN 
+[ U.S./NNP cities/NNS ]
+will/MD remain/VB in/IN 
+[ violation/NN ]
+of/IN 
+[ the/DT federal/JJ ]
+``/`` 
+[ safe/JJ ]
+''/'' 
+[ level/NN ]
+of/IN 
+[ 0.12/CD parts/NNS ]
+per/IN 
+[ million/CD ]
+./. 
+
+======================================
+
+Surprisingly/RB little/JJ is/VBZ known/VBN about/IN 
+[ ozone/NN 's/POS chronic/JJ effects/NNS ]
+./. 
+
+[ That/DT ]
+'s/VBZ partly/RB because/IN 
+[ smog/NN ]
+only/RB became/VBD 
+[ a/DT serious/JJ public-health/JJ problem/NN ]
+in/IN 
+[ the/DT past/JJ 20/CD years/NNS ]
+or/CC so/RB ./. 
+
+[ The/DT picture/NN ]
+is/VBZ further/RBR confused/VBN by/IN 
+[ countless/JJ common/JJ chemicals/NNS ]
+
+[ that/WDT ]
+also/RB hurt/VBP 
+[ lungs/NNS ]
+./. 
+
+And/CC 
+[ lung/NN diseases/NNS ]
+tend/VBP to/TO develop/VB insidiously/RB ,/, often/RB causing/VBG 
+[ marked/JJ breathing/NN difficulties/NNS ]
+only/RB after/IN knocking/VBG out/RP 
+[ a/DT critical/JJ mass/NN ]
+of/IN 
+[ lung/NN tissue/NN ]
+--/: about/RB 
+[ 25/CD %/NN ]
+./. 
+
+======================================
+
+Only/RB 
+[ one/CD study/NN ]
+has/VBZ traced/VBN 
+[ the/DT impact/NN ]
+of/IN 
+[ long-term/JJ ozone/NN exposure/NN ]
+on/IN 
+[ humans/NNS ]
+./. 
+
+Conducted/VBN by/IN 
+[ researchers/NNS ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ California/NNP ]
+at/IN 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ the/DT study/NN ]
+suggested/VBD that/IN in/IN 
+[ Glendora/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ a/DT smoggy/NN town/NN ]
+east/JJ of/IN 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ lung/NN functions/NNS ]
+develop/VBP more/RBR slowly/RB in/IN 
+[ youngsters/NNS ]
+and/CC decline/VBP faster/RBR in/IN 
+[ adults/NNS ]
+than/IN in/IN 
+[ Lancaster/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ a/DT town/NN ]
+with/IN 
+[ cleaner/JJR air/NN ]
+./. 
+
+But/CC 
+[ the/DT study/NN was/VBD n't/RB conclusive/JJ ]
+,/, partly/RB because/IN 
+[ some/DT initial/JJ participants/NNS ]
+dropped/VBD out/RP ./. 
+
+======================================
+
+In/IN 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ researchers/NNS ]
+are/VBP studying/VBG 
+[ the/DT lungs/NNS ]
+of/IN 
+[ people/NNS ]
+
+[ who/WP ]
+have/VBP died/VBN from/IN 
+[ various/JJ causes/NNS ]
+in/IN 
+[ their/PRP$ late/JJ teens/NNS ]
+and/CC early/RB 
+[ 20s/NNS ]
+--/: 
+[ members/NNS ]
+of/IN 
+[ the/DT first/JJ generation/NN ]
+to/TO grow/VB up/RP 
+[ breathing/VBG heavy/JJ smog/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP seeing/VBG 
+[ lung/NN disease/NN ]
+more/RBR serious/JJ than/IN 
+[ I/PRP ]
+'d/MD have/VB expected/VBN in/IN 
+[ these/DT kids/NNS ]
+,/, ''/'' says/VBZ 
+[ Russell/NNP Sherwin/NNP ]
+,/, 
+[ a/DT University/NNP ]
+of/IN 
+[ Southern/NNP California/NNP researcher/NN ]
+leading/VBG 
+[ the/DT study/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+is/VBZ n't/RB yet/RB sure/JJ whether/IN 
+[ ozone/NN ]
+is/VBZ to/TO blame/VB ./. 
+
+======================================
+
+[ That/DT ]
+leaves/VBZ 
+[ animal/NN research/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ yielded/VBN 
+[ conflicting/VBG results/NNS ]
+./. 
+
+[ The/DT Duke/NNP University-EPA/NNP  study/NN ]
+followed/VBD 
+[ research/NN ]
+with/IN 
+[ monkeys/NNS ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ California/NNP ]
+at/IN 
+[ Davis/NNP ]
+
+[ that/WDT ]
+also/RB showed/VBD 
+[ tentative/JJ evidence/NN ]
+of/IN 
+[ long-term/JJ ozone/NN damage/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ a/DT recent/JJ rat/NN study/NN ]
+,/, conducted/VBN by/IN 
+[ General/NNP Motors/NNP Corp./NNP researchers/NNS ]
+,/, did/VBD n't/RB show/VB 
+[ such/JJ signs/NNS ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, ``/`` 
+[ we/PRP ]
+were/VBD surprised/VBN at/IN how/WRB 
+[ little/JJ effect/NN ]
+
+[ we/PRP ]
+could/MD see/VB ''/'' after/IN 
+[ 18/CD months/NNS ]
+of/IN 
+[ ozone/NN exposures/NNS ]
+far/RB higher/JJR than/IN 
+[ people/NNS ]
+get/VBP in/IN 
+[ big/JJ cities/NNS ]
+,/, says/VBZ 
+[ Elaine/NNP Wright/NNP ]
+,/, 
+[ co-author/NN ]
+of/IN 
+[ the/DT GM/NNP study/NN ]
+./. 
+
+[ The/DT Duke-EPA/JJ study/NN ]
+,/, however/RB ,/, used/VBD 
+[ an/DT ]
+especially/RB 
+[ sensitive/JJ technique/NN ]
+to/TO spot/VB 
+[ lung/NN abnormalities/NNS ]
+
+[ that/WDT ]
+may/MD have/VB been/VBN missed/VBN in/IN 
+[ the/DT GM/NNP study/NN ]
+,/, 
+[ some/DT researchers/NNS ]
+say/VBP ./. 
+
+======================================
+
+In/IN 
+[ another/DT recent/JJ study/NN ]
+,/, 
+[ scientists/NNS ]
+exposed/VBD 
+[ rats/NNS ]
+to/TO 
+[ city-like/JJ ozone/NN ]
+for/IN 
+[ six/CD weeks/NNS ]
+,/, then/RB to/TO 
+[ airborne/JJ asbestos/NN ]
+for/IN 
+[ five/CD hours/NNS ]
+./. 
+
+[ A/DT month/NN ]
+later/RBR ,/, 
+[ the/DT ozone-exposed/JJ rats/NNS ]
+had/VBD retained/VBN twice/RB as/IN 
+[ many/JJ asbestos/NN fibers/NNS ]
+in/IN 
+[ their/PRP$ lungs/NNS ]
+as/IN had/VBD 
+[ a/DT control/NN group/NN ]
+exposed/VBN to/TO 
+[ asbestos/NN ]
+after/IN breathing/VBG 
+[ pure/JJ air/NN ]
+./. 
+
+[ That/DT ]
+indicates/VBZ 
+[ ozone/NN ]
+may/MD impair/VB 
+[ the/DT lungs/NNS '/POS ability/NN ]
+to/TO clear/VB 
+[ toxic/JJ substances/NNS ]
+,/, increasing/VBG 
+[ risks/NNS ]
+of/IN 
+[ cancer/NN ]
+and/CC 
+[ other/JJ diseases/NNS ]
+,/, says/VBZ 
+[ Kent/NNP Pinkerton/NNP ]
+,/, 
+[ who/WP ]
+led/VBD 
+[ the/DT research/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ California/NNP ]
+at/IN 
+[ Davis/NNP ]
+./. 
+
+======================================
+
+[ Scientists/NNP ]
+agree/VBP ,/, however/RB ,/, that/IN 
+[ the/DT ozone-cancer/JJ link/NN ]
+remains/VBZ 
+[ weak/JJ ]
+./. 
+
+More/RBR worrisome/JJ ,/, 
+[ they/PRP ]
+say/VBP ,/, is/VBZ 
+[ that/IN ozone/NN ]
+may/MD be/VB quietly/RB compounding/VBG 
+[ effects/NNS ]
+of/IN 
+[ viral/JJ attacks/NNS ]
+and/CC 
+[ other/JJ respiratory/JJ insults/NNS ]
+./. 
+
+[ Such/JJ factors/NNS ]
+wipe/VBP out/RP 
+[ lung/NN tissue/NN ]
+in/IN 
+[ all/DT people/NNS ]
+as/IN 
+[ they/PRP ]
+age/VBP ./. 
+
+Accelerated/VBN by/IN 
+[ ozone/NN ]
+,/, 
+[ these/DT factors/NNS ]
+may/MD wipe/VB out/RP 
+[ reserves/NNS ]
+
+[ that/WDT ]
+normally/RB provide/VBP 
+[ a/DT protective/JJ cushion/NN ]
+against/IN breathing/NN 
+[ problems/NNS ]
+./. 
+
+[ Scientists/NNP ]
+add/VBP that/IN 
+[ children/NNS 's/POS developing/VBG lungs/NNS ]
+are/VBP particularly/RB susceptible/JJ to/TO 
+[ permanent/JJ damage/NN ]
+./. 
+
+And/CC 
+[ short-term/JJ studies/NNS ]
+indicate/VBP that/IN 
+[ children/NNS 's/POS lungs/NNS ]
+are/VBP irritated/VBN by/IN 
+[ ozone/NN ]
+at/IN 
+[ levels/NNS ]
+below/IN 
+[ the/DT federal/JJ standard/NN ]
+./. 

@@ -1,0 +1,305 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT U.S./NNP Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+approved/VBD 
+[ Merck/NNP ]
+&/CC 
+[ Co./NNP 's/POS new/JJ ulcer/NN drug/NN ]
+,/, 
+[ Losec/NNP ]
+,/, for/IN 
+[ limited/JJ use/NN ]
+in/IN treating/VBG 
+[ rare/JJ disorders/NNS ]
+caused/VBN by/IN 
+[ gastrointestinal/JJ acid/NN ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP ]
+decided/VBD to/TO initially/RB restrict/VB 
+[ Losec/NNP 's/POS use/NN ]
+until/IN 
+[ Merck/NNP ]
+conducts/VBZ 
+[ extensive/JJ studies/NNS ]
+regarding/VBG 
+[ the/DT drug/NN 's/POS long-term/JJ safety/NN ]
+./. 
+
+[ Losec/NNP ]
+is/VBZ expected/VBN eventually/RB to/TO gain/VB 
+[ wide/JJ use/NN ]
+in/IN treating/VBG 
+[ mild/JJ ]
+to/TO 
+[ severe/JJ ulcers/NNS ]
+and/CC to/TO provide/VB 
+[ an/DT alternative/NN ]
+to/TO 
+[ Tagamet/NNP ]
+and/CC 
+[ Zantac/NNP ]
+,/, 
+[ the/DT ]
+most/RBS commonly/RB prescribed/VBN 
+[ medicines/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP combined/VBN 
+[ world-wide/JJ sales/NNS ]
+of/IN about/RB 
+[ $/$ 3/CD billion/CD ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP approval/NN ]
+for/IN 
+[ Losec/NNP ]
+only/RB allows/VBZ 
+[ its/PRP$ use/NN ]
+in/IN treating/VBG 
+[ inflammations/NNS ]
+of/IN 
+[ the/DT esophagus/NN ]
+and/CC 
+[ stomach/NN lining/NN ]
+,/, 
+[ which/WDT ]
+cause/VBP 
+[ a/DT symptom/NN ]
+similar/JJ to/TO 
+[ severe/JJ heartburn/NN ]
+,/, and/CC in/IN treating/VBG 
+[ a/DT rare/JJ condition/NN ]
+,/, known/VBN as/IN 
+[ Zollinger-Ellison/NNP Syndrome/NNP ]
+,/, caused/VBN by/IN 
+[ excessive/JJ secretion/NN ]
+of/IN 
+[ gastric/JJ acids/NNS ]
+./. 
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ an/DT advisory/JJ committee/NN ]
+to/TO 
+[ the/DT FDA/NNP ]
+recommended/VBD 
+[ the/DT restricted/VBN approval/NN ]
+because/IN 
+[ an/DT early/JJ study/NN ]
+of/IN 
+[ the/DT drug/NN ]
+in/IN 
+[ laboratory/NN animals/NNS ]
+produced/VBD 
+[ some/DT cases/NNS ]
+of/IN 
+[ cancer/NN ]
+./. 
+
+[ Human/JJ studies/NNS ]
+have/VBP yet/RB to/TO uncover/VB 
+[ such/JJ problems/NNS ]
+,/, but/CC 
+[ the/DT FDA/NNP advisory/NN group/NN ]
+said/VBD 
+[ it/PRP ]
+nonetheless/RB wanted/VBD 
+[ lengthier/RBR safety/NN studies/NNS ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+
+[ who/WP ]
+follow/VBP 
+[ the/DT pharmaceutical/JJ industry/NN ]
+expect/VBP 
+[ Losec/NNP ]
+eventually/RB to/TO gain/VB 
+[ approval/NN ]
+for/IN 
+[ wider/JJR use/NN ]
+./. 
+
+[ Merck/NNP ]
+said/VBD 
+[ it/PRP ]
+expects/VBZ to/TO present/VB 
+[ safety/NN data/NNS ]
+to/TO 
+[ the/DT FDA/NNP next/JJ year/NN ]
+./. 
+
+[ Robert/NNP Uhl/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Salomon/NNP Bros./NNP ]
+,/, said/VBD that/IN even/RB with/IN 
+[ the/DT FDA/NNP restrictions/NNS ]
+,/, 
+[ many/JJ doctors/NNS ]
+will/MD begin/VB using/VBG 
+[ the/DT drug/NN ]
+to/TO treat/VB 
+[ patients/NNS whose/WP$ ulcers/NNS ]
+do/VBP n't/RB respond/VB to/TO 
+[ Tagamet/NNP ]
+or/CC 
+[ Zantac/NNP ]
+./. 
+
+Once/RB 
+[ a/DT drug/NN ]
+is/VBZ approved/VBN for/IN 
+[ sale/NN ]
+,/, 
+[ doctors/NNS ]
+could/MD prescribe/VB 
+[ it/PRP ]
+for/IN 
+[ ulcers/NNS ]
+./. 
+
+[ Merck/NNP ]
+,/, however/RB ,/, is/VBZ n't/RB permitted/VBN to/TO market/VB 
+[ Losec/NNP ]
+to/TO 
+[ doctors/NNS ]
+as/IN 
+[ a/DT common/JJ ulcer/NN treatment/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Uhl/NNP ]
+said/VBD 
+[ Losec/NNP ]
+may/MD generate/VB 
+[ $/$ 100/CD million/CD ]
+in/IN 
+[ sales/NNS ]
+for/IN 
+[ Merck/NNP ]
+in/IN 
+[ 1990/CD ]
+,/, rising/VBG to/TO 
+[ $/$ 400/CD million/CD ]
+by/IN 
+[ 1992/CD ]
+if/IN 
+[ the/DT FDA/NNP ]
+lifts/VBZ 
+[ its/PRP$ restrictions/NNS ]
+./. 
+
+======================================
+
+[ Losec/NNP ]
+,/, known/VBN also/RB by/IN 
+[ the/DT generic/JJ name/NN omeprazole/NN ]
+,/, was/VBD developed/VBN by/IN 
+[ a/DT division/NN ]
+of/IN 
+[ Swedish/JJ drug/NN maker/NN AB/NNP Astra/NNP ]
+,/, 
+[ which/WDT ]
+sells/VBZ 
+[ the/DT drug/NN ]
+in/IN about/RB 
+[ 10/CD European/JJ countries/NNS ]
+./. 
+
+[ Rahway/NNP ]
+,/, 
+[ N.J.-based/JJ Merck/NNP ]
+holds/VBZ only/RB 
+[ the/DT U.S./NNP ]
+marketing/NN 
+[ rights/NNS ]
+to/TO 
+[ the/DT drug/NN ]
+./. 
+
+[ A/DT European/JJ study/NN ]
+,/, published/VBN 
+[ January/NNP ]
+in/IN 
+[ the/DT New/NNP England/NNP Journal/NNP ]
+of/IN 
+[ Medicine/NNP ]
+,/, said/VBD 
+[ Losec/NNP ]
+healed/VBD 
+[ a/DT greater/JJR proportion/NN ]
+of/IN 
+[ ulcers/NNS ]
+faster/RBR and/CC kept/VBD 
+[ them/PRP ]
+healed/VBN longer/RBR than/IN 
+[ Zantac/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ sold/VBN by/IN 
+[ Glaxo/NNP PLC/NNP ]
+of/IN 
+[ Great/NNP Britain/NNP ]
+./. 
+
+======================================
+
+[ Sources/NNS ]
+close/JJ to/TO 
+[ the/DT FDA/NNP ]
+said/VBD 
+[ the/DT agency/NN ]
+is/VBZ impressed/VBN by/IN 
+[ Losec/NNP 's/POS effectiveness/NN ]
+and/CC is/VBZ worried/VBN that/IN if/IN 
+[ the/DT FDA/NNP ]
+granted/VBD 
+[ an/DT unrestricted/JJ approval/NN ]
+,/, 
+[ doctors/NNS ]
+might/MD use/VB 
+[ the/DT drug/NN ]
+in/IN 
+[ great/JJ numbers/NNS ]
+before/IN 
+[ a/DT fuller/JJR safety/NN profile/NN ]
+is/VBZ produced/VBN ./. 
+
+[ The/DT FDA/NNP ]
+``/`` hopes/VBZ 
+[ the/DT limited/VBN label/NN ]
+will/MD keep/VB use/NN down/RP until/IN 
+[ everyone/NN ]
+is/VBZ more/RBR comfortable/JJ with/IN 
+[ the/DT drug/NN ]
+,/, ''/'' 
+[ the/DT FDA/NNP source/NN ]
+said/VBD ./. 

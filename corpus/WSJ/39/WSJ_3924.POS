@@ -1,0 +1,140 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD add/VB 
+[ American/NNP Greetings/NNP Corp/NNP ]
+./. 
+
+[ Class/NNP ]
+
+[ A/NNP stock/NN ]
+to/TO 
+[ its/PRP$ 500-stock/JJ index/NN ]
+at/IN 
+[ the/DT close/NN ]
+of/IN trading/NN 
+[ Wednesday/NNP ]
+./. 
+
+[ Concurrently/NNP ]
+,/, 
+[ S&P/NNP ]
+will/MD delete/VB 
+[ Squibb/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ The/DT early/JJ announcement/NN ]
+is/VBZ 
+[ S&P/NNP 's/POS first/JJ ]
+under/IN 
+[ an/DT experimental/JJ plan/NN ]
+designed/VBN to/TO 
+[ head/VB ]
+off/RP 
+[ disruptions/NNS ]
+in/IN trading/NN resulting/VBG from/IN 
+[ changes/NNS ]
+in/IN 
+[ the/DT broad-based/JJ index/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ widely/RB duplicated/VBN by/IN 
+[ investment/NN managers/NNS ]
+./. 
+
+When/WRB 
+[ stocks/NNS ]
+have/VBP been/VBN added/VBN to/TO 
+[ the/DT S&P/NNP 500/NNP ]
+in/IN 
+[ the/DT past/NN ]
+,/, 
+[ a/DT flurry/NN ]
+of/IN 
+[ buy/NN orders/NNS ]
+often/RB forced/VBD 
+[ the/DT exchanges/NNS ]
+to/TO halt/VB trading/NN because/RB of/IN 
+[ an/DT imbalance/NN ]
+./. 
+
+======================================
+
+[ S&P/NNP ]
+previously/RB announced/VBD 
+[ changes/NNS ]
+as/IN 
+[ it/PRP ]
+made/VBD 
+[ them/PRP ]
+,/, after/IN trading/NN on/IN 
+[ Wednesdays/NNPS ]
+./. 
+
+[ The/DT rating/NN ]
+and/CC 
+[ publishing/NN concern/NN ]
+initially/RB said/VBD 
+[ it/PRP ]
+would/MD announce/VB 
+[ changes/NNS ]
+
+[ a/DT week/NN ]
+in/IN 
+[ advance/NN ]
+./. 
+
+[ No/DT spokesman/NN ]
+was/VBD available/JJ to/TO comment/VB on/IN 
+[ the/DT policy/NN yesterday/NN ]
+./. 
+
+======================================
+
+[ Squibb/NNP ]
+,/, 
+[ a/DT Princeton/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ pharmaceuticals/NNS maker/NN ]
+,/, has/VBZ agreed/VBN to/TO merge/VB with/IN 
+[ Bristol-Myers/NNP Co/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ over-the-counter/JJ trading/NN yesterday/NN ]
+,/, 
+[ the/DT Class/NNP ]
+
+[ A/NNP shares/NNS ]
+of/IN 
+[ Cleveland-based/JJ American/NNP Greetings/NNP ]
+closed/VBD at/IN 
+[ $/$ 32.50/CD ]
+,/, up/RB 
+[ 25/CD cents/NNS ]
+./. 

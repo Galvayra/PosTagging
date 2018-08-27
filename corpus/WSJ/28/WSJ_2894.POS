@@ -1,0 +1,303 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT dollar/NN ]
+shot/VBD higher/JJR while/IN 
+[ stocks/NNS ]
+and/CC 
+[ bonds/NNS ]
+retreated/VBD after/IN 
+[ traders/NNS ]
+interpreted/VBD 
+[ remarks/NNS ]
+by/IN 
+[ Federal/NNP Reserve/NNP Chairman/NNP Alan/NNP Greenspan/NNP ]
+to/TO mean/VB 
+[ the/DT central/JJ bank/NN ]
+wo/MD n't/RB lower/VB 
+[ interest/NN rates/NNS ]
+to/TO halt/VB 
+[ the/DT dollar/NN 's/POS rally/NN ]
+./. 
+
+======================================
+
+[ The/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+fell/VBD 
+[ 6.08/CD ]
+to/TO 
+[ 2785.33/CD ]
+,/, breaking/VBG 
+[ a/DT five-session/NN string/NN ]
+of/IN 
+[ new/JJ highs/NNS ]
+./. 
+
+[ The/DT benchmark/NN 30year/JJ Treasury/NNP bond/NN ]
+fell/VBD about/IN 
+[ 1\/8/CD point/NN ]
+,/, or/CC 
+[ $/$ 1.25/CD ]
+for/IN 
+[ each/DT $/$ 1,000/CD face/NN amount/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Greenspan/NNP ]
+,/, in/IN 
+[ a/DT prepared/VBN speech/NN ]
+,/, said/VBD governing/VBG 
+[ monetary/JJ policy/NN ]
+through/IN 
+[ intermediate/JJ targets/NNS ]
+for/IN 
+[ exchange/NN ]
+and/CC 
+[ interest/NN rates/NNS ]
+may/MD not/RB coincide/VB with/IN 
+[ the/DT Fed/NNP 's/POS long-term/JJ inflation-fighting/JJ goals/NNS ]
+./. 
+
+[ The/DT dollar/NN ]
+responded/VBD immediately/RB by/IN rising/VBG sharply/RB against/IN 
+[ other/JJ major/JJ currencies/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+is/VBZ very/RB surprising/JJ to/TO have/VB 
+[ the/DT Fed/NNP chairman/NN ]
+backing/VBG away/RB from/IN 
+[ a/DT G-7/CD commitment/NN ]
+in/IN 
+[ public/NN ]
+,/, ''/'' said/VBD 
+[ Louis/NNP v.B./NNP Crandall/NNP ]
+,/, 
+[ economist/NN ]
+with/IN 
+[ R.H./NNP Wrightson/NNP Associates/NNPS Inc/NNP ]
+./. 
+
+``/`` 
+[ The/DT policy/NN disputes/NNS ]
+have/VBP happened/VBN before/IN ,/, but/CC behind/IN 
+[ closed/VBN doors/NNS ]
+./. 
+
+[ He/PRP ]
+is/VBZ drawing/VBG 
+[ a/DT distinction/NN ]
+between/IN 
+[ a/DT policy/NN ]
+to/TO stabilize/VB 
+[ the/DT dollar/NN ]
+and/CC 
+[ one/CD ]
+to/TO drive/VB 
+[ it/PRP ]
+lower/JJR ./. 
+
+''/'' 
+======================================
+
+But/CC even/RB before/IN 
+[ Mr./NNP Greenspan/NNP 's/POS remarks/NNS ]
+hit/VBD 
+[ the/DT news/NN wires/NNS ]
+,/, 
+[ the/DT British/JJ pound/NN ]
+was/VBD sinking/VBG further/RB ./. 
+
+[ Traders/NNS ]
+said/VBD 
+[ the/DT United/NNP Kingdom/NNP 's/POS currency/NN ]
+is/VBZ facing/VBG 
+[ a/DT crisis/NN ]
+of/IN 
+[ confidence/NN ]
+./. 
+
+[ Last/JJ week/NN ]
+,/, 
+[ Britain/NNP ]
+raised/VBD 
+[ commercial/JJ bank/NN ]
+lending/VBG 
+[ rates/NNS ]
+to/TO 
+[ 15/CD %/NN ]
+in/IN 
+[ an/DT effort/NN ]
+to/TO defend/VB 
+[ the/DT pound/NN ]
+from/IN 
+[ further/JJ declines/NNS ]
+./. 
+
+But/CC 
+[ that/DT rate/NN ]
+may/MD be/VB high/JJ enough/RB to/TO choke/VB off/IN 
+[ economic/JJ growth/NN ]
+in/IN 
+[ Britain/NNP ]
+;/: 
+[ institutional/JJ investors/NNS ]
+are/VBP fleeing/VBG from/IN 
+[ U.K./NNP investments/NNS ]
+because/IN of/IN 
+[ the/DT threat/NN ]
+of/IN 
+[ recession/NN ]
+./. 
+
+In/IN 
+[ late/JJ New/NNP York/NNP ]
+trading/NN ,/, 
+[ the/DT pound/NN ]
+stood/VBD at/IN 
+[ $/$ 1.5530/CD ]
+,/, down/IN from/IN 
+[ $/$ 1.5775/CD Monday/NNP ]
+./. 
+
+======================================
+
+[ U.S./NNP stocks/NNS ]
+lost/VBD 
+[ some/DT ground/NN ]
+on/IN 
+[ Mr./NNP Greenspan/NNP 's/POS comments/NNS ]
+./. 
+
+[ Monday/NNP ]
+'s/POS buying/NN of/IN 
+[ stocks/NNS ]
+
+[ that/WDT ]
+are/VBP sensitive/JJ to/TO 
+[ the/DT economic/JJ cycle/NN ]
+turned/VBD abruptly/RB into/IN 
+[ profit-taking/JJ yesterday/NN ]
+./. 
+
+[ Compaq/NNP Computer/NNP shares/NNS ]
+rose/VBD 
+[ $/$ 6.25/CD Monday/NNP ]
+,/, but/CC yesterday/NN sank/VBD 
+[ $/$ 2.625/CD ]
+to/TO close/VB at/IN 
+[ $/$ 102.25/CD ]
+./. 
+
+======================================
+
+[ Treasury/NNP bonds/NNS ]
+rose/VBD 
+[ a/DT bit/NN yesterday/NN morning/NN ]
+,/, but/CC after/IN 
+[ Mr./NNP Greenspan/NNP 's/POS remarks/NNS ]
+
+[ the/DT market/NN ]
+fell/VBD back/RB to/TO near/VB 
+[ Friday/NNP 's/POS closing/VBG levels/NNS ]
+./. 
+
+ (/( 
+[ The/DT Treasury/NNP market/NN ]
+was/VBD closed/VBN for/IN 
+[ U.S./NNP holidays/NNS Monday/NNP ]
+./. 
+
+ )/) 
+[ Short-term/JJ Treasurys/NNP ]
+,/, from/IN 
+[ bills/NNS ]
+to/TO 
+[ two-year/JJ notes/NNS ]
+,/, were/VBD hit/VBN hardest/RBS by/IN 
+[ the/DT reversal/NN ]
+./. 
+
+[ Many/JJ dealers/NNS ]
+had/VBD stocked/VBN up/IN on/IN 
+[ those/DT securities/NNS ]
+in/IN 
+[ anticipation/NN ]
+of/IN 
+[ a/DT rate/NN ]
+cut/VBN by/IN 
+[ the/DT Federal/NNP Reserve/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ major/JJ market/NN activity/NN ]
+:/: 
+======================================
+
+[ Stocks/NNS ]
+fell/VBD back/RB ./. 
+
+[ The/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+fell/VBD 
+[ 6.08/CD ]
+to/TO 
+[ 2785.33/CD ]
+./. 
+
+[ New/NNP York/NNP Stock/NNP Exchange/NNP volume/NN ]
+was/VBD anemic/JJ ,/, with/IN 
+[ 147,560,000/CD shares/NNS ]
+changing/VBG 
+[ hands/NNS ]
+./. 
+
+======================================
+
+[ Bonds/NNS ]
+eased/VBD ./. 
+
+[ The/DT yield/NN ]
+on/IN 
+[ the/DT benchmark/NN Treasury/NNP bond/NN ]
+rose/VBD to/TO 
+[ 8/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT dollar/NN ]
+rose/VBD sharply/RB ./. 
+
+In/IN 
+[ late/JJ New/NNP York/NNP ]
+trading/NN ,/, 
+[ the/DT dollar/NN ]
+was/VBD quoted/VBN at/IN 
+[ 1.9080/CD marks/NNS ]
+and/CC 
+[ 144.55/CD yen/NN ]
+,/, up/IN from/IN 
+[ 1.8875/CD marks/NNS ]
+and/CC 
+[ 142.80/CD yen/NN ]
+./. 

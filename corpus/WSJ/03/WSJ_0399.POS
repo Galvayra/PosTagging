@@ -1,0 +1,52 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Dillard/NNP Department/NNP Stores/NNPS Inc./NNP ]
+said/VBD that/IN 
+[ stockholders/NNS ]
+at/IN 
+[ a/DT special/JJ meeting/NN ]
+approved/VBD 
+[ an/DT amendment/NN ]
+to/TO increase/VB 
+[ the/DT authorized/JJ shares/NNS ]
+of/IN 
+[ its/PRP$ Class/NNP ]
+
+[ A/NNP ]
+and/CC 
+[ Class/NNP B/NNP common/JJ stock/NN ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+said/VBD that/IN authorized/JJ 
+[ Class/NNP ]
+
+[ A/NNP common/JJ shares/NNS ]
+will/MD increase/VB to/TO 
+[ 144.5/CD million/CD ]
+from/IN 
+[ 76.8/CD million/CD ]
+and/CC 
+[ the/DT authorized/JJ Class/NNP B/NNP common/JJ ]
+will/MD increase/VB to/TO 
+[ 5.5/CD million/CD ]
+from/IN 
+[ 3.2/CD million/CD shares/NNS ]
+./. 

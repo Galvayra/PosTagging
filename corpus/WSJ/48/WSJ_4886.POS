@@ -1,0 +1,120 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ McClatchy/NNP Newspapers/NNPS Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+signed/VBD 
+[ an/DT agreement/NN ]
+to/TO acquire/VB 
+[ three/CD daily/JJ newspapers/NNS ]
+and/CC 
+[ five/CD other/JJ publications/NNS ]
+from/IN 
+[ News/NNP ]
+&/CC 
+[ Observer/NNP Publishing/NNP Co./NNP ]
+of/IN 
+[ Raleigh/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, for/IN 
+[ $/$ 74.1/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT publications/NNS ]
+are/VBP in/IN 
+[ South/NNP Carolina/NNP 's/POS York/NNP ]
+and/CC 
+[ Beaufort/NNP counties/NNS ]
+./. 
+
+[ Their/PRP$ purchase/NN ]
+would/MD mark/VB 
+[ the/DT Sacramento/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ media/NNS chain/NN 's/POS first/JJ acquisition/NN ]
+of/IN 
+[ newspapers/NNS ]
+outside/IN 
+[ the/DT Western/JJ states/NNS ]
+./. 
+
+======================================
+
+[ McClatchy/NNP ]
+said/VBD 
+[ the/DT proposed/VBN acquisitions/NNS ]
+are/VBP 
+[ part/NN ]
+of/IN 
+[ a/DT longtime/JJ company/NN strategy/NN ]
+to/TO acquire/VB and/CC publish/VB 
+[ small/JJ ]
+and/CC 
+[ medium-sized/JJ ]
+``/`` 
+[ quality/JJ newspapers/NNS ]
+in/IN 
+[ quality/JJ markets/NNS ]
+./. 
+
+''/'' Closing/NN of/IN 
+[ the/DT transaction/NN ]
+is/VBZ scheduled/VBN for/IN 
+[ Jan./NNP 1/CD ]
+./. 
+
+======================================
+
+[ The/DT South/NNP Carolina/NNP daily/JJ newspapers/NNS ]
+are/VBP 
+[ The/DT Herald/NNP ]
+of/IN 
+[ Rock/NNP Hill/NNP ]
+ {/( 
+[ circulation/NN 28,000/CD ]
+ }/) ,/, 
+[ The/DT Island/NN Packet/NN ]
+of/IN 
+[ Hilton/NNP Head/NNP ]
+ {/( 
+[ circulation/NN 10,000/CD ]
+ }/) and/CC 
+[ The/DT Beaufort/NNP Gazette/NNP ]
+ {/( 
+[ circulation/NN 9,000/CD ]
+ }/) ./. 
+
+======================================
+
+[ McClatchy/NNP ]
+publishes/VBZ 
+[ six/CD daily/JJ newspapers/NNS ]
+and/CC 
+[ seven/CD smaller/JJR newspapers/NNS ]
+in/IN 
+[ California/NNP ]
+,/, 
+[ Washington/NNP state/NN ]
+and/CC 
+[ Alaska/NNP ]
+./. 

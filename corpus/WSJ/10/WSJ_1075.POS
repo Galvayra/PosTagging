@@ -1,0 +1,53 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Birmingham/NNP Steel/NNP Corp./NNP ]
+said/VBD 
+[ that/DT its/PRP$ Emeryville/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ minimill/NN ]
+sustained/VBD only/RB 
+[ minor/JJ damage/NN ]
+from/IN 
+[ last/JJ week/NN 's/POS earthquake/NN ]
+./. 
+
+======================================
+
+Steelmaking/NN 
+[ resumed/VBD Oct./NNP 18/CD ]
+,/, but/CC 
+[ the/DT company/NN ]
+expects/VBZ 
+[ production/NN ]
+to/TO be/VB hampered/VBN in/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+by/IN 
+[ traffic/NN disruptions/NNS ]
+around/IN 
+[ the/DT plant/NN ]
+and/CC 
+[ outages/NNS ]
+for/IN 
+[ repair/NN ]
+to/TO 
+[ gas/NN ]
+and/CC 
+[ electric/JJ power/NN systems/NNS ]
+./. 

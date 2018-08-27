@@ -1,0 +1,272 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ CFM/NNP International/NNP Inc./NNP ]
+,/, 
+[ a/DT consortium/NN ]
+of/IN 
+[ General/NNP Electric/NNP Co./NNP ]
+and/CC 
+[ France/NNP 's/POS Snecma/NNP ]
+,/, received/VBD 
+[ a/DT $/$ 497.7/CD million/CD Air/NNP Force/NNP contract/NN ]
+for/IN replacing/VBG 
+[ engines/NNS ]
+on/IN 
+[ KC-135/NNP tanker/NN aircraft/NN ]
+./. 
+
+======================================
+
+[ United/NNP Technologies/NNP Corp./NNP ]
+got/VBD 
+[ $/$ 319.2/CD million/CD ]
+in/IN 
+[ Air/NNP Force/NNP ]
+contracts/NNS for/IN 
+[ the/DT Advanced/NNP Tactical/NNP Fighter/NNP engine/NN ]
+,/, 
+[ other/JJ aircraft/NN parts/NNS ]
+and/CC 
+[ Navy/NNP submarine/JJ research/NN ]
+./. 
+
+======================================
+
+[ Hughes/NNP Aircraft/NNP Co./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ General/NNP Motors/NNP Corp./NNP ]
+,/, received/VBD 
+[ $/$ 174.6/CD million/CD ]
+in/IN 
+[ contracts/NNS ]
+for/IN 
+[ air-defense/JJ tests/NNS ]
+and/CC 
+[ battlefield-electronic/JJ equipment/NN ]
+for/IN 
+[ the/DT Army/NNP ]
+,/, and/CC 
+[ missiles/NNS ]
+and/CC 
+[ aircraft/NN radars/NNS ]
+for/IN 
+[ the/DT Air/NNP Force/NNP ]
+./. 
+
+======================================
+
+[ McDonnell/NNP Douglas/NNP Corp./NNP ]
+won/VBD 
+[ $/$ 105.9/CD million/CD ]
+in/IN 
+[ contracts/NNS ]
+for/IN 
+[ Navy/NNP drone/NN aircraft/NN ]
+and/CC 
+[ Harpoon/NNP missile/NN improvements/NNS ]
+,/, and/CC 
+[ Air/NNP Force/NNP KC-10/NNP aircraft/NN support/NN ]
+./. 
+
+======================================
+
+[ Other/JJ contracts/NNS ]
+announced/VBN by/IN 
+[ the/DT Pentagon/NNP ]
+went/VBD to/TO :/: 
+======================================
+
+--/: 
+[ Martin/NNP Marietta/NNP Corp./NNP ]
+,/, 
+[ $/$ 36.5/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP force/NNP ]
+for/IN 
+[ Titan/NNP missile/NN parts/NNS ]
+and/CC 
+[ manufacturing/NN technology/NN ]
+./. 
+
+======================================
+
+--/: 
+[ General/NNP Dynamics/NNP Corp./NNP ]
+,/, 
+[ $/$ 33.9/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ F-16/NNP electronics/NNS ]
+and/CC advanced/JJ 
+[ fighter/NN research/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Honeywell/NNP Inc./NNP ]
+,/, 
+[ $/$ 30.4/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ missile/NN ]
+and/CC 
+[ aircraft/NN guidance/NN sets/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Rockwell/NNP International/NNP Corp./NNP ]
+,/, 
+[ $/$ 23.8/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ mobile/JJ MX/NNP missile/NN studies/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Ford/NNP Aerospace/NNP Corp./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Ford/NNP Motor/NNP Co./NNP ]
+,/, 
+[ $/$ 22.9/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ support/NN ]
+of/IN 
+[ the/DT Space/NNP Defense/NNP Operations/NNP Center/NNP ]
+./. 
+
+======================================
+
+--/: 
+[ Unisys/NNP Corp./NNP ]
+,/, 
+[ $/$ 18/CD million/CD ]
+from/IN 
+[ the/DT Navy/NNP ]
+for/IN 
+[ Trident/NNP missile/NN navigation/NN systems/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Serv-Air/NNP Inc./NNP ]
+,/, 
+[ $/$ 17.4/CD million/CD ]
+from/IN 
+[ the/DT Army/NNP ]
+for/IN operating/VBG 
+[ an/DT ammunition/NN plant/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Dyncorp./NNP ]
+,/, 
+[ $/$ 17/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ NATO/NNP jet/NN pilot/NN training./NN ]
+--/: 
+[ Boeing/NNP Co./NNP ]
+,/, 
+[ $/$ 16.8/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ missile/NN ]
+and/CC 
+[ aircraft/NN research/NN ]
+./. 
+
+======================================
+
+--/: 
+[ TGS/NNP Technology/NNP Inc./NNP ]
+,/, 
+[ $/$ 15.4/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ support/NN ]
+of/IN 
+[ the/DT Eastern/NNP Test/NNP Range/NNP ]
+./. 
+
+======================================
+
+--/: 
+[ Todd/NNP Pacific/NNP Shipyards/NNP Corp./NNP ]
+,/, 
+[ $/$ 12.5/CD million/CD ]
+from/IN 
+[ the/DT Navy/NNP ]
+for/IN 
+[ ship/NN overhaul/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Abbott/NNP Products/NNP Inc./NNP ]
+,/, 
+[ $/$ 12/CD million/CD ]
+from/IN 
+[ the/DT Army/NNP ]
+for/IN 
+[ practice/NN bombs/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Harris/NNP Corp./NNP ]
+,/, 
+[ $/$ 11.2/CD million/CD ]
+from/IN 
+[ the/DT Air/NNP Force/NNP ]
+for/IN 
+[ meteorological/JJ satellite/NN support/NN ]
+./. 
+
+======================================
+
+--/: 
+[ FMC/NNP Corp./NNP ]
+,/, 
+[ $/$ 11.1/CD million/CD ]
+from/IN 
+[ the/DT Army/NNP ]
+for/IN 
+[ Bradley/NNP Fighting/NNP Vehicle/NNP improvements/NNS ]
+./. 

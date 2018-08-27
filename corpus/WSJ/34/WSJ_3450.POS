@@ -1,0 +1,96 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Gold/NNP Fields/NNP ]
+of/IN 
+[ South/NNP Africa/NNP Ltd./NNP ]
+,/, 
+[ Johannesburg/NNP ]
+,/, 
+[ South/NNP Africa/NNP ]
+,/, said/VBD 
+[ total/JJ earnings/NNS ]
+of/IN 
+[ its/PRP$ seven/CD gold/NN mines/NNS ]
+dropped/VBD 
+[ 11.1/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+of/IN 
+[ 1989/CD ]
+from/IN 
+[ the/DT previous/JJ quarter/NN ]
+./. 
+
+======================================
+
+[ Earnings/NNS ]
+fell/VBD to/TO 
+[ 265.5/CD million/CD rand/NN ]
+ (/( 
+[ $/$ 98.9/CD million/CD ]
+ )/) from/IN 
+[ 298.7/CD million/CD rand/NN ]
+in/IN 
+[ the/DT quarter/NN ]
+./. 
+
+[ The/DT average/JJ gold/NN price/NN ]
+received/VBN was/VBD 
+[ 32,429/CD rand/NN ]
+
+[ a/DT kilogram/NN ]
+,/, slightly/RB up/RB on/IN 
+[ the/DT previous/JJ quarter/NN 's/POS 32,020/CD rand/NN ]
+
+[ a/DT kilogram/NN ]
+./. 
+
+[ The/DT average/JJ grade/NN ]
+rose/VBD slightly/RB to/TO 
+[ 7.3/CD grams/NNS ]
+
+[ a/DT ton/NN ]
+from/IN 
+[ 7.2/CD grams/NNS ]
+
+[ a/DT ton/NN ]
+while/IN working/NN 
+[ costs/NNS ]
+increased/VBD on/IN 
+[ average/NN 6.8/CD %/NN ]
+over/IN 
+[ the/DT previous/JJ period/NN ]
+./. 
+
+======================================
+
+[ GFSA/NNP ]
+is/VBZ 
+[ the/DT first/JJ South/JJ African/JJ mining/NN house/NN ]
+to/TO release/VB 
+[ its/PRP$ quarterly/JJ results/NNS ]
+./. 
+
+[ The/DT other/JJ houses/NNS ]
+are/VBP scheduled/VBN to/TO announce/VB 
+[ their/PRP$ results/NNS ]
+after/IN 
+[ the/DT middle/NN ]
+of/IN 
+[ the/DT month/NN ]
+./. 

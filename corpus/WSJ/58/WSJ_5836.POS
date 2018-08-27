@@ -1,0 +1,389 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Time/NNP Warner/NNP Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD create/VB 
+[ its/PRP$ first/JJ trade/NN magazine/NN ]
+by/IN spinning/VBG off/RP 
+[ a/DT physicians/NNS '/POS version/NN ]
+of/IN 
+[ its/PRP$ 50%-owned/JJ bimonthly/JJ consumer/NN health/NN ]
+and/CC 
+[ fitness/NN magazine/NN ]
+,/, 
+[ Hippocrates/NNP ]
+./. 
+
+======================================
+
+[ Time/NNP Inc/NNP ]
+./. 
+
+[ Magazine/NNP ]
+,/, 
+[ the/DT ]
+wholly/RB owned/VBN 
+[ subsidiary/NN ]
+of/IN 
+[ Time/NNP Warner/NNP ]
+,/, said/VBD that/IN ,/, starting/VBG with/IN 
+[ its/PRP$ January/NNP 1990/CD issue/NN ]
+,/, 
+[ the/DT consumer/NN version/NN ]
+of/IN 
+[ Hippocrates/NNP ]
+will/MD change/VB 
+[ its/PRP$ name/NN ]
+to/TO In/IN 
+[ Health/NNP magazine/NN ]
+./. 
+
+[ The/DT company/NN ]
+will/MD publish/VB 
+[ Hippocrates/NNP ]
+as/IN 
+[ a/DT more/RBR specialized/VBN trade/NN magazine/NN ]
+directed/VBN at/IN 
+[ physicians/NNS ]
+and/CC drawing/VBG primarily/RB 
+[ pharmaceutical/JJ advertising/NN ]
+./. 
+
+[ Both/DT ]
+will/MD be/VB monthly/JJ by/IN 
+[ 1991/CD ]
+./. 
+
+======================================
+
+[ Time/NNP Warner/NNP ]
+owns/VBZ 
+[ a/DT 50/CD %/NN share/NN ]
+of/IN 
+[ the/DT Sausalito/NNP ]
+,/, 
+[ Calif.-based/JJ Hippocrates/NNP ]
+,/, and/CC has/VBZ 
+[ an/DT option/NN ]
+to/TO buy/VB 
+[ the/DT other/JJ half/NN ]
+in/IN 
+[ 1991/CD ]
+./. 
+
+[ Three-year-old/JJ Hippocrates/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ several/JJ Time/NNP Warner/NNP ]
+publishing/NN 
+[ joint/JJ ventures/NNS ]
+,/, but/CC 
+[ it/PRP ]
+is/VBZ 
+[ the/DT first/JJ magazine/NN joint/JJ venture/NN ]
+
+[ that/WDT ]
+has/VBZ produced/VBN 
+[ a/DT spinoff/NN publication/NN ]
+./. 
+
+======================================
+
+[ The/DT creation/NN ]
+of/IN 
+[ Hippocrates/NNS ]
+as/IN 
+[ a/DT trade/NN magazine/NN ]
+is/VBZ 
+[ a/DT move/NN ]
+by/IN 
+[ Time/NN Warner/NNP ]
+to/TO cash/VB in/IN on/IN 
+[ the/DT lucrative/JJ pharmaceutical/JJ advertising/NN market/NN ]
+./. 
+
+According/VBG to/TO 
+[ Medical/NNP Marketing/NNP ]
+&/CC 
+[ Media/NNP ]
+,/, 
+[ a/DT trade/NN publication/NN ]
+,/, in/IN 
+[ 1988/CD medical/JJ advertising/NN ]
+in/IN 
+[ trade/NN magazines/NNS ]
+totaled/VBD 
+[ $/$ 550/CD million/CD ]
+,/, of/IN 
+[ which/WDT ]
+
+[ pharmaceutical/JJ ads/NNS ]
+represented/VBD 
+[ $/$ 400/CD million/CD ]
+./. 
+
+[ The/DT consumer/NN market/NN ]
+for/IN 
+[ prescription/NN drugs/NNS ]
+is/VBZ estimated/VBN at/IN 
+[ $/$ 50/CD billion/CD ]
+./. 
+
+======================================
+
+[ Pharmaceutical/JJ advertising/NN ]
+by/IN 
+[ product/NN ]
+is/VBZ barred/VBN by/IN 
+[ federal/JJ law/NN ]
+in/IN 
+[ consumer/NN magazines/NNS ]
+,/, though/IN 
+[ Hippocrates/NNS ]
+and/CC 
+[ other/JJ consumer/NN magazines/NNS ]
+are/VBP allowed/VBN to/TO carry/VB 
+[ corporate-image/JJ ads/NNS ]
+from/IN 
+[ the/DT companies/NNS ]
+./. 
+
+======================================
+
+[ Time/NNP ]
+has/VBZ avoided/VBN 
+[ trade-magazine/JJ ]
+publishing/NN ,/, considering/VBG 
+[ it/PRP ]
+reliable/JJ but/CC not/RB as/RB financially/RB rewarding/JJ as/IN 
+[ consumer/NN magazines/NNS ]
+./. 
+
+[ Christopher/NNP Meigher/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+and/CC 
+[ group/NN publisher/NN ]
+of/IN 
+[ Time/NNP magazines/NNS ]
+,/, said/VBD spinning/VBG off/RP 
+[ Hippocrates/NNP ]
+was/VBD n't/RB 
+[ an/DT indication/NN Time/NNP Warner/NNP ]
+was/VBD making/VBG 
+[ a/DT wholesale/JJ move/NN ]
+into/IN 
+[ trade/NN magazines/NNS ]
+./. 
+
+However/RB ,/, 
+[ he/PRP ]
+said/VBD 
+[ Time/NNP Warner/NNP ]
+could/MD explore/VB 
+[ trade/NN spinoffs/NNS ]
+of/IN existing/VBG 
+[ titles/NNS ]
+,/, such/JJ as/IN 
+[ a/DT magazine/NN ]
+for/IN 
+[ top/JJ financial/JJ executives/NNS ]
+derived/VBN from/IN 
+[ Time/NNP Warner/NNP 's/POS Money/NNP magazine/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ Hippocrates/NNP ]
+has/VBZ won/VBN 
+[ two/CD National/NNP Magazine/NNP awards/NNS ]
+in/IN 
+[ two/CD years/NNS ]
+,/, 
+[ the/DT name/NN ]
+has/VBZ generally/RB been/VBN 
+[ a/DT difficult/JJ sell/NN ]
+to/TO 
+[ a/DT wide/JJ consumer/NN audience/NN ]
+./. 
+
+[ Mr./NNP Meigher/NNP ]
+said/VBD 
+[ he/PRP ]
+is/VBZ hoping/VBG to/TO accelerate/VB 
+[ the/DT circulation/NN growth/NN ]
+with/IN 
+[ the/DT ]
+In/IN 
+[ Health/NNP name/NN ]
+./. 
+
+[ Hippocrates/NNP ]
+,/, subtitled/VBN ``/`` 
+[ The/DT magazine/NN ]
+of/IN 
+[ health/NN ]
+&/CC 
+[ medicine/NN ]
+,/, ''/'' has/VBZ paid/VBN 
+[ circulation/NN ]
+of/IN about/RB 
+[ 400,000/CD ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ 125,000/CD copies/NNS ]
+sent/VBN free/RB to/TO 
+[ doctors/NNS '/POS waiting/NN rooms/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+hate/VBP to/TO mess/VB with/IN 
+[ a/DT success/NN ]
+,/, but/CC 
+[ we/PRP ]
+think/VBP that/IN with/IN 
+[ the/DT name/NN ]
+In/IN 
+[ Health/NNP we/PRP ]
+'ll/MD have/VB 
+[ greater/JJR success/NN ]
+in/IN 
+[ developing/VBG circulation/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Meigher/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+can/MD go/VB further/RBR with/IN 
+[ that/DT name/NN ]
+than/IN with/IN 
+[ Hippocrates/NNP ]
+./. 
+
+In/IN 
+[ Health/NNP ]
+gives/VBZ 
+[ us/PRP more/JJR accessibility/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ Health/NNP ]
+will/MD have/VB 
+[ stiff/JJ competition/NN ]
+from/IN 
+[ a/DT group/NN ]
+of/IN 
+[ more/RBR ]
+established/VBN 
+[ health-related/JJ magazines/NNS ]
+,/, such/JJ as/IN 
+[ American/NNP Health/NNP Partners/NNP '/POS American/NNP Health/NNP ]
+,/, 
+[ Family/NNP Media/NNP Inc./NNP 's/POS Health/NNP ]
+,/, 
+[ Rodale/NNP Press/NNP 's/POS Prevention/NNP ]
+,/, 
+[ Conde/NNP Nast/NNP Publications/NNP '/POS Self/NNP ]
+,/, and/CC 
+[ Weider/NNP Publications/NNP '/POS Shape/NNP magazine/NN ]
+./. 
+
+======================================
+
+[ Hippocrates/NNP ]
+will/MD carry/VB largely/RB 
+[ pharmaceutical/JJ ads/NNS ]
+directed/VBN at/IN 
+[ 120,000/CD physicians/NNS ]
+--/: 
+[ including/VBG general/JJ ]
+and/CC 
+[ family/NN practitioners/NNS ]
+,/, 
+[ internists/NNS ]
+,/, and/CC 
+[ cardiologists/NNS ]
+--/: 
+[ who/WP ]
+will/MD receive/VB 
+[ it/PRP ]
+free/JJ ./. 
+
+[ The/DT new/JJ Hippocrates/NNP ]
+will/MD have/VB 
+[ editorial/JJ matter/NN ]
+similar/JJ to/TO In/IN 
+[ Health/NNP ]
+,/, but/CC with/IN 
+[ some/DT added/VBN features/NNS ]
+
+[ that/WDT ]
+address/VBP 
+[ physicians/NNS '/POS interests/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+found/VBD 
+[ physicians/NNS ]
+were/VBD reading/VBG 
+[ our/PRP$ magazine/NN ]
+like/IN crazy/JJ because/IN 
+[ it/PRP ]
+helped/VBD 
+[ them/PRP ]
+keep/VB up/RP with/IN 
+[ patients/NNS ]
+,/, ''/'' said/VBD 
+[ Eric/NNP Schrier/NNP ]
+,/, 
+[ Hippocrates/NNP '/POS founder/NN ]
+and/CC 
+[ editor/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+had/VBD 
+[ a/DT great/JJ franchise/NN ]
+with/IN 
+[ the/DT consumer/NN ]
+,/, but/CC 
+[ we/PRP ]
+found/VBD 
+[ we/PRP ]
+could/MD expand/VB 
+[ it/PRP ]
+by/IN using/VBG 
+[ the/DT Hippocrates/NNP name/NN ]
+to/TO attract/VB 
+[ doctors/NNS ]
+./. 

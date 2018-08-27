@@ -1,0 +1,102 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ AD/NN REVENUE/NN ]
+:/: 
+[ Times/NNP Mirror/NNP Co./NNP 's/POS ad/NN revenue/NN ]
+at/IN 
+[ its/PRP$ Newspaper/NNP Publishing/NNP Group/NNP ]
+rose/VBD 
+[ 1.8/CD %/NN ]
+for/IN 
+[ the/DT four/CD weeks/NNS ]
+ended/VBD 
+[ Sept./NNP 3/CD ]
+to/TO 
+[ $/$ 120.8/CD million/CD ]
+from/IN 
+[ $/$ 118.7/CD million/CD ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+For/IN 
+[ the/DT first/JJ 35/CD weeks/NNS ]
+of/IN 
+[ the/DT year/NN ]
+,/, 
+[ total/JJ ad/NN revenue/NN ]
+rose/VBD 
+[ 5.6/CD %/NN ]
+to/TO 
+[ $/$ 1.12/CD billion/CD ]
+from/IN 
+[ $/$ 1.06/CD billion/CD ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+[ This/DT year/NN 's/POS cumulative/JJ results/NNS ]
+included/VBD 
+[ five/CD more/JJR days/NNS ]
+,/, including/VBG 
+[ a/DT Sunday/NNP ]
+./. 
+
+======================================
+
+[ JOINT/JJ VENTURE/NN ]
+:/: 
+[ DTH/NNP Media/NNP Inc./NNP 's/POS Dallas/NNP Times/NNPS Herald/NNP ]
+signed/VBD 
+[ a/DT joint-venture/JJ agreement/NN ]
+to/TO print/VB and/CC distribute/VB 
+[ Investor/NNP 's/POS Daily/NNP ]
+in/IN 
+[ the/DT North/NNP Texas/NNP area/NN ]
+,/, 
+[ effective/VBN Nov./NNP 7/CD ]
+./. 
+
+[ Investor/NNP 's/POS Daily/NNP ]
+is/VBZ owned/VBN by/IN 
+[ William/NNP O'Neil/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Los/NNP Angeles/NNP ]
+./. 
+
+======================================
+
+[ WHO'S/WP  NEWS/NNS ]
+:/: 
+[ MCA/NNP Inc./NNP ]
+named/VBD 
+[ Tom/NNP Martin/NNP vice/NN president/NN ]
+of/IN 
+[ print/NN ]
+advertising/NN for/IN 
+[ its/PRP$ Universal/NNP Pictures/NNPS unit/NN ]
+./. 
+
+[ He/PRP ]
+had/VBD been/VBN 
+[ director/NN ]
+of/IN 
+[ print/NN advertising/NN ]
+./. 

@@ -1,0 +1,695 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Steamed/VBN 
+[ milk/NN ]
+may/MD make/VB 
+[ great/JJ cappuccino/NN ]
+,/, but/CC would/MD 
+[ people/NNS ]
+drink/VB 
+[ it/PRP ]
+
+[ all/PDT the/DT time/NN ]
+?/. 
+
+======================================
+
+[ Dairy/NN producers/NNS ]
+are/VBP experimenting/VBG with/IN 
+[ new/JJ technologies/NNS ]
+--/: including/VBG 
+[ steaming/VBG cholesterol/NN ]
+out/IN of/IN 
+[ milk/NN ]
+and/CC 
+[ ice/NN cream/NN ]
+and/CC 
+[ filtering/VBG milk/NN ]
+through/IN 
+[ pressurized/VBN carbon/NN dioxide/NN ]
+--/: 
+[ that/WDT ]
+aim/VBP to/TO make/VB 
+[ dairy/NN products/NNS ]
+healthier/RBR without/IN detracting/VBG very/RB much/RB from/IN 
+[ their/PRP$ taste/NN ]
+and/CC 
+[ texture/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ no/DT question/NN ]
+
+[ the/DT market/NN ]
+is/VBZ 
+[ there/EX ]
+,/, ''/'' says/VBZ 
+[ Mona/NNP Doyle/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Consumer/NNP Network/NNP ]
+,/, 
+[ a/DT Philadelphia-based/JJ consumer/NN research/NN ]
+and/CC 
+[ marketing/NN concern/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ a/DT very/RB broad/JJ interest/NN ]
+in/IN 
+[ low/JJ cholesterol/NN ]
+across/IN 
+[ a/DT spectrum/NN ]
+of/IN 
+[ ages/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Consider/VB that/IN between/IN 
+[ 1985/CD ]
+and/CC 
+[ 1988/CD ]
+,/, 
+[ whole-milk/NN production/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+declined/VBD 
+[ 12/CD %/NN ]
+to/TO 
+[ 2.83/CD billion/CD gallons/NNS ]
+,/, according/VBG to/TO 
+[ the/DT Milk/NNP Industry/NNP Foundation/NNP ]
+./. 
+
+But/CC 
+[ low-fat/JJ milk/NN output/NN ]
+increased/VBN 
+[ 16/CD %/NN ]
+to/TO 
+[ 2.65/CD billion/CD gallons/NNS ]
+,/, and/CC 
+[ skim-milk/NN production/NN ]
+increased/VBN 
+[ 48/CD %/NN ]
+to/TO 
+[ 515/CD million/CD gallons/NNS ]
+./. 
+
+======================================
+
+So/RB far/RB ,/, 
+[ efforts/NNS ]
+to/TO reduce/VB 
+[ cholesterol/NN ]
+in/IN 
+[ dairy/NN products/NNS ]
+have/VBP focused/VBN on/IN reducing/VBG 
+[ fat/JJ content/NN ]
+,/, 
+[ which/WDT ]
+often/RB alters/VBZ 
+[ taste/NN ]
+,/, or/CC developing/VBG 
+[ fat/JJ substitutes/NNS ]
+,/, 
+[ which/WDT ]
+can/MD invite/VB 
+[ lengthy/JJ reviews/NNS ]
+by/IN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+./. 
+
+[ Both/DT olestra/NN ]
+--/: 
+[ a/DT fat/JJ substitute/NN ]
+introduced/VBN by/IN 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP Co./NNP ]
+in/IN 
+[ 1987/CD ]
+--/: and/CC 
+[ Simplesse/NNP ]
+--/: 
+[ a/DT fat/JJ substitute/NN ]
+unveiled/VBN by/IN 
+[ Monsanto/NNP Co./NNP last/JJ year/NN ]
+--/: are/VBP still/RB under/IN 
+[ FDA/NNP scrutiny/NN ]
+./. 
+
+[ The/DT latest/JJS entry/NN ]
+,/, 
+[ a/DT nonfat/JJ ice/NN cream/NN ]
+with/IN 
+[ cellulose/NN gel/NN ]
+introduced/VBN 
+[ a/DT few/JJ weeks/NNS ]
+ago/RB by/IN 
+[ Kraft/NNP General/NNP Foods/NNPS ]
+,/, is/VBZ also/RB expected/VBN to/TO attract/VB 
+[ FDA/NNP attention/NN ]
+./. 
+
+======================================
+
+[ The/DT new/JJ technologies/NNS ]
+,/, because/IN 
+[ they/PRP ]
+focus/VBP on/IN 
+[ removing/VBG cholesterol/NN ]
+from/IN 
+[ fat/NN ]
+rather/RB than/IN replacing/VBG 
+[ fat/NN ]
+with/IN 
+[ another/DT ingredient/NN ]
+,/, will/MD probably/RB face/VB much/RB 
+[ less/JJR red/JJ tape/NN ]
+in/IN 
+[ Washington/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ there/EX ]
+are/VBP 
+[ other/JJ problems/NNS ]
+./. 
+
+[ Dairies/NNS ]
+are/VBP generally/RB 
+[ small/JJ ]
+,/, 
+[ low-margin/JJ businesses/NNS ]
+
+[ that/WDT ]
+are/VBP notoriously/RB conservative/JJ about/IN investing/VBG in/IN 
+[ new/JJ products/NNS ]
+and/CC 
+[ equipment/NN ]
+./. 
+
+Moreover/RB ,/, while/IN 
+[ the/DT new/JJ technologies/NNS ]
+remove/VBP 
+[ cholesterol/NN ]
+,/, 
+[ they/PRP ]
+leave/VBP in/RP 
+[ butterfat/NN ]
+./. 
+
+And/CC 
+[ butterfat/NN ]
+can/MD stimulate/VB 
+[ the/DT body/NN ]
+to/TO produce/VB 
+[ cholesterol/NN ]
+on/IN 
+[ its/PRP$ own/JJ ]
+,/, 
+[ which/WDT some/DT nutritionists/NNS ]
+believe/VBP may/MD be/VB more/JJR of/IN 
+[ a/DT problem/NN ]
+than/IN 
+[ the/DT cholesterol/NN ]
+in/IN 
+[ the/DT food/NN ]
+./. 
+
+[ Experts/NNS ]
+also/RB say/VBP that/IN for/IN 
+[ some/DT people/NNS ]
+
+[ a/DT diet/NN ]
+high/JJ in/IN 
+[ fat/NN ]
+,/, including/VBG 
+[ butterfat/NN ]
+,/, appears/VBZ to/TO raise/VB 
+[ the/DT risk/NN ]
+of/IN getting/VBG 
+[ certain/JJ kinds/NNS ]
+of/IN 
+[ cancer/NN ]
+./. 
+
+======================================
+
+[ The/DT big/JJ dairy/NN companies/NNS ]
+--/: including/VBG 
+[ Dairymen/NNP Inc./NNP ]
+,/, 
+[ Borden/NNP Inc./NNP ]
+and/CC 
+[ Kraft/NNP ]
+--/: are/VBP close-mouthed/JJ about/IN 
+[ the/DT new/JJ cholesterol-reduction/NN processes/NNS ]
+,/, saying/VBG only/RB that/IN 
+[ they/PRP ]
+are/VBP watching/VBG 
+[ them/PRP ]
+with/IN 
+[ interest/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ marketing/NN specialists/NNS ]
+say/VBP that/IN despite/IN 
+[ the/DT hurdles/NNS ]
+,/, 
+[ it/PRP ]
+may/MD be/VB only/RB 
+[ a/DT matter/NN ]
+of/IN 
+[ time/NN ]
+before/IN 
+[ the/DT industry/NN giants/NNS ]
+follow/VBP 
+[ the/DT lead/NN ]
+of/IN 
+[ small/JJ entrepreneurs/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Burnsville/NNP ]
+,/, 
+[ Minn./NNP ]
+,/, 
+[ OmegaSource/NNP Corp./NNP ]
+has/VBZ built/VBN 
+[ a/DT pilot/NN plant/NN ]
+
+[ that/WDT ]
+uses/VBZ 
+[ steam/NN ]
+to/TO remove/VB 
+[ 93/CD %/NN ]
+to/TO 
+[ 94/CD %/NN ]
+of/IN 
+[ the/DT cholesterol/NN ]
+from/IN 
+[ butterfat/NN ]
+,/, says/VBZ 
+[ Richard/NNP D./NNP Kiley/NNP ]
+,/, 
+[ the/DT company/NN 's/POS president/NN ]
+./. 
+
+[ The/DT process/NN ]
+involves/VBZ 
+[ isolating/VBG the/DT butterfat/NN ]
+,/, heating/VBG 
+[ it/PRP ]
+and/CC moving/VBG 
+[ it/PRP ]
+across/IN 
+[ a/DT series/NN ]
+of/IN 
+[ stainless/JJ steel/NN plates/NNS ]
+and/CC 
+[ rings/NNS ]
+,/, forcing/VBG 
+[ contact/NN ]
+with/IN 
+[ steam/NN ]
+./. 
+
+[ The/DT technique/NN ]
+is/VBZ close/JJ to/TO 
+[ commercial/JJ application/NN ]
+,/, says/VBZ 
+[ Mr./NNP Kiley/NNP ]
+,/, 
+[ who/WP ]
+estimates/VBZ 
+[ the/DT process/NN ]
+will/MD increase/VB 
+[ the/DT price/NN ]
+of/IN 
+[ a/DT gallon/NN ]
+of/IN 
+[ whole/JJ milk/NN ]
+by/IN less/JJR than/IN 
+[ five/CD cents/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Kiley/NNP ]
+stumbled/VBD onto/IN 
+[ the/DT technology/NN ]
+./. 
+
+In/IN 
+[ the/DT mid-1980s/NNS ]
+,/, 
+[ he/PRP ]
+was/VBD 
+[ part/NN ]
+of/IN 
+[ a/DT General/NNP Mills/NNP Inc./NNP group/NN ]
+trying/VBG to/TO neutralize/VB 
+[ the/DT smell/NN ]
+of/IN 
+[ fish/NN oil/NN ]
+./. 
+
+Experimenting/VBG with/IN 
+[ the/DT steam/NN process/NN ]
+,/, 
+[ researchers/NNS ]
+discovered/VBD that/IN 
+[ it/PRP ]
+also/RB removed/VBD 
+[ cholesterol/NN ]
+./. 
+
+But/CC 
+[ General/NNP Mills/NNPS ]
+decided/VBD against/IN pursuing/VBG 
+[ the/DT technology/NN ]
+,/, 
+[ Mr./NNP Kiley/NNP ]
+says/VBZ ,/, and/CC licensed/VBD 
+[ it/PRP ]
+exclusively/RB to/TO 
+[ OmegaSource/NNP ]
+for/IN 
+[ 20/CD years/NNS ]
+./. 
+
+======================================
+
+[ Ben/NNP ]
+&/CC 
+[ Jerry/NNP 's/POS Homemade/NNP Inc./NNP ]
+,/, among/IN 
+[ other/JJ food/NN companies/NNS ]
+,/, is/VBZ taking/VBG 
+[ a/DT close/JJ look/NN ]
+at/IN 
+[ the/DT process/NN ]
+./. 
+
+[ Jim/NNP Miller/NNP ]
+,/, 
+[ director/NN ]
+of/IN manufacturing/NN for/IN 
+[ the/DT Vermont-based/JJ ice/NN cream/NN maker/NN ]
+,/, has/VBZ been/VBN experimenting/VBG with/IN 
+[ ice/NN creams/NNS ]
+using/VBG 
+[ butterfat/NN ]
+from/IN 
+[ the/DT OmegaSource/NNP plant/NN ]
+./. 
+
+[ The/DT big/JJ question/NN ]
+:/: Will/MD 
+[ the/DT steam/NN ]
+extract/VB too/RB many/JJ of/IN 
+[ the/DT flavor/NN nodes/NNS ]
+in/IN 
+[ the/DT butterfat/NN ]
+?/. 
+
+[ Mr./NNP Miller/NNP ]
+says/VBZ 
+[ he/PRP ]
+is/VBZ optimistic/JJ that/IN 
+[ the/DT taste/NN ]
+will/MD match/VB that/IN of/IN 
+[ the/DT company/NN 's/POS current/JJ premium/JJ offerings/NNS ]
+./. 
+
+======================================
+
+[ Another/DT process/NN ]
+designed/VBN to/TO remove/VB 
+[ cholesterol/NN ]
+,/, known/VBN as/IN 
+[ supercritical/JJ fluid/NN extraction/NN ]
+,/, 
+[ uses/NNS ]
+pressurized/VBN 
+[ carbon/NN dioxide/NN ]
+./. 
+
+So/RB far/RB ,/, 
+[ costs/NNS ]
+are/VBP high/JJ --/: about/IN 
+[ 13/CD cents/NNS ]
+for/IN 
+[ a/DT gallon/NN ]
+of/IN 
+[ milk/NN ]
+,/, says/VBZ 
+[ Richard/NNP A./NN Novak/NNP ]
+,/, 
+[ senior/JJ engineer/NN ]
+at/IN 
+[ Supercritical/NNP Processing/NNP Inc./NNP ]
+,/, 
+[ an/DT Allentown/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ company/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN studying/VBG 
+[ the/DT technology/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT process/NN ]
+may/MD have/VB 
+[ other/JJ benefits/NNS ]
+./. 
+
+[ Syed/NNP Rizvi/NNP ]
+,/, 
+[ a/DT Cornell/NNP University/NNP professor/NN ]
+of/IN 
+[ food/NN engineering/NN ]
+,/, says/VBZ 
+[ it/PRP ]
+can/MD help/VB reduce/VB 
+[ the/DT unhealthy/JJ saturated/JJ fats/NNS ]
+in/IN 
+[ butterfat/NN ]
+
+[ that/WDT ]
+are/VBP still/RB present/JJ after/IN 
+[ cholesterol/NN ]
+has/VBZ been/VBN removed/VBN ./. 
+
+[ It/PRP ]
+is/VBZ still/RB unclear/JJ 
+[ what/WDT effect/NN ]
+
+[ the/DT process/NN ]
+will/MD have/VB on/IN 
+[ taste/NN ]
+./. 
+
+======================================
+
+Still/RB 
+[ another/DT approach/NN ]
+to/TO 
+[ the/DT cholesterol/NN problem/NN ]
+requires/VBZ more/RBR 
+[ marketing/NN savvy/NN ]
+than/IN 
+[ technological/JJ innovation/NN ]
+./. 
+
+[ Jersey/NNP Farms/NNPS International/NNP Inc./NNP ]
+of/IN 
+[ Charlotte/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, is/VBZ trying/VBG to/TO sell/VB 
+[ a/DT concoction/NN ]
+of/IN 
+[ soy/NN ]
+and/CC 
+[ other/JJ vegetable/NN fats/NNS ]
+to/TO 
+[ dairies/NNS ]
+./. 
+
+[ Dairies/NNS ]
+would/MD add/VB 
+[ the/DT blend/NN ]
+to/TO skim/JJ 
+[ milk/NN ]
+,/, making/VBG 
+[ the/DT product/NN ]
+taste/VB 
+[ something/NN ]
+akin/JJ to/TO 
+[ whole/JJ milk/NN ]
+./. 
+
+======================================
+
+[ The/DT Jersey/NNP Farms/NNPS product/NN ]
+contains/VBZ less/JJR than/IN 
+[ two/CD milligrams/NNS ]
+of/IN 
+[ cholesterol/NN ]
+
+[ a/DT serving/NN ]
+,/, so/RB 
+[ it/PRP ]
+qualifies/VBZ as/IN ``/`` 
+[ cholesterol/NN free/JJ ]
+''/'' under/IN 
+[ FDA/NNP regulations/NNS ]
+./. 
+
+[ The/DT idea/NN ]
+of/IN mixing/VBG 
+[ skim/JJ milk/NN ]
+and/CC 
+[ vegetable/NN fats/NNS ]
+is/VBZ n't/RB new/JJ ,/, but/CC marketing/VBG 
+[ the/DT product/NN ]
+as/IN 
+[ a/DT cholesterol-free/JJ food/NN ]
+is/VBZ ,/, says/VBZ 
+[ Pat/NNP Arcadipane/NNP ]
+,/, 
+[ Jersey/NNP Farms/NNPS 's/POS president/NN ]
+and/CC 
+[ a/DT former/JJ Citibank/NNP executive/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ Jersey/NNP Farms/NNP ]
+still/RB has/VBZ to/TO convince/VB 
+[ skeptical/JJ dairy/NN producers/NNS ]
+that/IN 
+[ the/DT product/NN ]
+will/MD sell/VB ./. 
+
+[ One/CD problem/NN ]
+is/VBZ 
+[ what/WP ]
+to/TO call/VB 
+[ it/PRP ]
+./. 
+
+[ Regulators/NNS ]
+in/IN 
+[ North/NNP Carolina/NNP ]
+have/VBP informally/RB approved/VBN 
+[ a/DT label/NN ]
+saying/VBG ``/`` 
+[ Fortified/VBN Processed/VBN Skim/JJ Milk/NNP ]
+With/IN 
+[ 3/CD %/NN Vegetable/NN Fat/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Arcadipane/NNP ]
+says/VBZ 
+[ the/DT product/NN ]
+should/MD be/VB in/IN 
+[ groceries/NNS ]
+in/IN 
+[ Charlotte/NNP ]
+,/, 
+[ the/DT company/NN 's/POS first/JJ target/NN market/NN ]
+,/, within/IN 
+[ a/DT month/NN ]
+./. 
+
+======================================
+
+[ Other/JJ approaches/NNS ]
+to/TO offering/VBG 
+[ cholesterol-free/JJ products/NNS ]
+,/, including/VBG 
+[ the/DT use/NN ]
+of/IN 
+[ enzymes/NNS ]
+to/TO neutralize/VB 
+[ cholesterol/NN ]
+in/IN 
+[ butterfat/NN ]
+,/, are/VBP still/RB on/IN 
+[ the/DT drawing/NN board/NN ]
+./. 
+
+But/CC 
+[ industry/NN executives/NNS ]
+say/VBP 
+[ demand/NN ]
+for/IN 
+[ healthier/JJR foods/NNS ]
+will/MD accelerate/VB 
+[ the/DT research/NN ]
+./. 
+
+Says/VBZ 
+[ Mr./NNP Novak/NNP ]
+in/IN 
+[ Allentown/NNP ]
+:/: ``/`` When/WRB 
+[ you/PRP ]
+can/MD go/VB into/IN 
+[ a/DT store/NN ]
+and/CC buy/VB 
+[ bananas/NNS ]
+
+[ that/WDT ]
+say/VBP ,/, `/`` 
+[ No/DT cholesterol/NN ]
+,/, '/'' 
+[ you/PRP ]
+know/VBP 
+[ there/EX ]
+'s/VBZ 
+[ a/DT concern/NN ]
+out/IN there/RB ./. 

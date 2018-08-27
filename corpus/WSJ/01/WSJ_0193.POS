@@ -1,0 +1,42 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ NCR/NNP Corp./NNP ]
+unveiled/VBD 
+[ two/CD models/NNS ]
+of/IN 
+[ its/PRP$ Tower/NNP line/NN ]
+of/IN 
+[ midrange/JJ computers/NNS ]
+and/CC introduced/VBD advanced/VBN 
+[ networking/NN software/NN ]
+to/TO allow/VB 
+[ the/DT Tower/NNP family/NN ]
+to/TO operate/VB as/IN 
+[ a/DT central/JJ hub/NN ]
+in/IN 
+[ a/DT network/NN ]
+of/IN 
+[ computers/NNS ]
+./. 
+
+======================================
+
+[ The/DT new/JJ software/NN ]
+is/VBZ based/VBN on/IN 
+[ Novell/NNP Inc./NNP 's/POS NetWare/NNP network/NN operating/VBG system/NN software/NN ]
+./. 

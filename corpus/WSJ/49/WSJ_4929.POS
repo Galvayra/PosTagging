@@ -1,0 +1,587 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Senate/NNP Finance/NNP Committee/NNP Chairman/NNP Lloyd/NNP Bentsen/NNP ]
+sent/VBD 
+[ chills/NNS ]
+through/IN 
+[ the/DT suspender-clad/JJ warriors/NNS ]
+of/IN 
+[ Wall/NNP Street/NNP last/JJ week/NN ]
+by/IN suggesting/VBG 
+[ he/PRP ]
+might/MD propose/VB 
+[ a/DT new/JJ tax/NN ]
+on/IN 
+[ short-term/JJ trades/NNS ]
+by/IN 
+[ pension/NN funds/NNS ]
+./. 
+
+[ Those/DT mammoth/JJ pools/NNS ]
+of/IN 
+[ capital/NN ]
+,/, now/RB 
+[ tax-exempt/JJ ]
+,/, hold/VBP more/JJR than/IN 
+[ a/DT quarter/NN ]
+of/IN 
+[ all/PDT the/DT stocks/NNS ]
+listed/VBN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+,/, and/CC 
+[ account/NN ]
+for/IN 
+[ an/DT even/RB greater/JJR share/NN ]
+of/IN 
+[ daily/JJ stock/NN transactions/NNS ]
+./. 
+
+[ A/DT tax/NN ]
+on/IN 
+[ their/PRP$ trades/NNS ]
+would/MD transform/VB 
+[ the/DT nation/NN 's/POS financial/JJ markets/NNS ]
+,/, as/RB well/RB as/IN raise/VB 
+[ money/NN ]
+for/IN 
+[ the/DT Treasury/NNP ]
+./. 
+
+======================================
+
+[ The/DT Senator/NNP 's/POS trial/NN balloon/NN ]
+probably/RB wo/MD n't/RB fly/VB 
+[ this/DT year/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT clear/JJ violation/NN ]
+of/IN 
+[ the/DT President/NNP 's/POS ]
+``/`` 
+[ no-tax/JJ ]
+''/'' 
+[ pledge/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT complicated/JJ proposal/NN ]
+
+[ that/WDT ]
+can/MD not/RB --/: and/CC should/MD not/RB --/: be/VB pushed/VBN through/IN 
+[ Congress/NNP ]
+during/IN 
+[ the/DT year-end/JJ rush/NN ]
+to/TO adjourn/VB ./. 
+
+======================================
+
+But/CC 
+[ next/JJ year/NN ]
+is/VBZ 
+[ another/DT matter/NN ]
+./. 
+
+[ Top/JJ Bush/NNP administration/NN officials/NNS ]
+have/VBP privately/RB been/VBN discussing/VBG 
+[ a/DT similar/JJ pension/NN tax/NN proposal/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT broad/JJ plan/NN ]
+to/TO overhaul/VB 
+[ the/DT corporate/JJ tax/NN ]
+./. 
+
+[ President/NNP Bush/NNP 's/POS economic/JJ trio/NN ]
+--/: 
+[ Treasury/NNP Secretary/NNP Nicholas/NNP Brady/NNP ]
+,/, 
+[ Economic/NNP Adviser/NNP Michael/NNP Boskin/NNP ]
+and/CC 
+[ Budget/NNP Director/NNP Richard/NNP Darman/NNP ]
+--/: are/VBP 
+[ all/DT sympathetic/JJ ]
+to/TO 
+[ the/DT pension-tax/NN idea/NN ]
+./. 
+
+Indeed/RB ,/, 
+[ it/PRP ]
+could/MD surface/VB as/RB early/RB as/IN 
+[ next/JJ year/NN 's/POS State/NNP ]
+of/IN 
+[ the/DT Union/NNP address/NN ]
+./. 
+
+======================================
+
+[ The/DT administration/NN 's/POS plan/NN ]
+,/, still/RB 
+[ vague/JJ ]
+,/, would/MD bundle/VB 
+[ the/DT pension/NN tax/NN ]
+and/CC 
+[ other/JJ corporate/JJ tax/NN changes/NNS ]
+into/IN 
+[ a/DT single/JJ package/NN ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT changes/NNS ]
+under/IN 
+[ study/NN ]
+,/, such/JJ as/IN 
+[ a/DT new/JJ deduction/NN ]
+for/IN 
+[ dividends/NNS ]
+paid/VBN out/RP by/IN 
+[ corporations/NNS ]
+,/, would/MD drain/VB 
+[ revenue/NN ]
+from/IN 
+[ the/DT Treasury/NNP ]
+./. 
+
+[ Others/NNS ]
+,/, like/IN 
+[ the/DT pension/NN tax/NN ]
+,/, would/MD raise/VB 
+[ revenue/NN ]
+./. 
+
+Taken/VBN together/RB ,/, 
+[ they/PRP ]
+would/MD be/VB 
+[ a/DT wash/NN ]
+,/, enabling/VBG 
+[ President/NNP Bush/NNP ]
+to/TO say/VB 
+[ he/PRP ]
+'s/VBZ sticking/VBG to/TO 
+[ his/PRP$ no-new-tax/JJ pledge/NN ]
+./. 
+
+======================================
+
+[ The/DT point/NN ]
+of/IN 
+[ all/PDT this/DT ]
+,/, in/IN 
+[ the/DT words/NNS ]
+of/IN 
+[ Treasury/NNP Secretary/NNP Nicholas/NNP Brady/NNP ]
+,/, is/VBZ to/TO ``/`` encourage/VB 
+[ Americans/NNPS ]
+to/TO take/VB 
+[ the/DT long-term/JJ view/NN ]
+in/IN 
+[ their/PRP$ economic/JJ thinking/NN ]
+./. 
+
+''/'' 
+[ Pension/NN fund/NN managers/NNS ]
+have/VBP got/VBN 
+[ a/DT reputation/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+for/IN buying/VBG and/CC selling/VBG 
+[ huge/JJ blocks/NNS ]
+of/IN 
+[ stock/NN ]
+at/IN 
+[ the/DT drop/NN ]
+of/IN 
+[ a/DT hat/NN ]
+./. 
+
+[ Some/DT analysts/NNS ]
+say/VBP that/DT 
+[ increases/VBZ stock/NN market/NN volatility/NN ]
+;/: 
+[ panicky/JJ pension/NN funds/NNS ]
+are/VBP frequently/RB blamed/VBN for/IN turning/VBG 
+[ a/DT stock/NN market/NN correction/NN ]
+on/IN 
+[ Oct./NNP 19/CD ]
+,/, 
+[ 1987/CD ]
+,/, into/IN 
+[ a/DT full-fledged/JJ rout/NN ]
+./. 
+
+More/RBR importantly/RB ,/, 
+[ critics/NNS ]
+charge/VBP 
+[ that/DT hyperactive/JJ pension/NN funds/NNS ]
+force/VBP 
+[ corporate/JJ managers/NNS ]
+to/TO focus/VB on/IN 
+[ short-term/JJ performance/NN ]
+,/, and/CC ignore/VB 
+[ investments/NNS ]
+
+[ that/WDT ]
+pay/VBP off/RP in/IN 
+[ the/DT long-haul/NN ]
+./. 
+
+======================================
+
+[ The/DT drive/NN ]
+to/TO 
+[ damp/JJ pension/NN fund/NN ]
+trading/NN is/VBZ especially/RB strong/JJ in/IN 
+[ the/DT corporate/JJ community/NN ]
+,/, where/WRB 
+[ pension/NN funds/NNS ]
+are/VBP blamed/VBN for/IN fueling/VBG 
+[ the/DT takeover/NN trend/NN ]
+./. 
+
+[ Andrew/NNP Sigler/NNP ]
+,/, 
+[ chief/JJ executive/NN ]
+of/IN 
+[ Champion/NNP International/NNP Corporation/NNP ]
+,/, has/VBZ argued/VBN before/IN 
+[ his/PRP$ Business/NNP Roundtable/NNP colleagues/NNS ]
+that/IN 
+[ pension/NN funds/NNS ]
+have/VBP 
+[ a/DT ]
+``/`` 
+[ short-term/JJ ]
+''/'' 
+[ investment/NN orientation/NN ]
+
+[ which/WDT ]
+``/`` increases/VBZ 
+[ the/DT pressure/NN ]
+on/IN 
+[ corporate/JJ managers/NNS ]
+to/TO produce/VB 
+[ immediate/JJ results/NNS ]
+,/, leading/VBG to/TO 
+[ actions/NNS ]
+
+[ which/WDT ]
+can/MD endanger/VB 
+[ our/PRP$ country/NN 's/POS future/JJ global/JJ competitiveness/NN ]
+./. 
+
+''/'' 
+======================================
+
+Even/RB 
+[ a/DT few/JJ Wall/NNP Street/NNP executives/NNS ]
+share/VBP 
+[ Mr./NNP Sigler/NNP 's/POS concerns/NNS ]
+,/, fearing/VBG that/IN 
+[ elephantine/JJ pension/NN funds/NNS ]
+are/VBP scaring/VBG 
+[ small/JJ investors/NNS ]
+away/RB from/IN 
+[ the/DT market/NN ]
+./. 
+
+In/IN 
+[ testimony/NN ]
+to/TO 
+[ the/DT House/NNP Ways/NNP ]
+and/CC 
+[ Means/NNP Committee/NNP last/JJ February/NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, 
+[ Prudential-Bache/NNP Securities/NNP Chairman/NNP George/NNP Ball/NNP ]
+proposed/VBD imposing/VBG 
+[ a/DT 5/CD %/NN surcharge/NN ]
+on/IN 
+[ all/DT short-term/JJ stock/NN gains/NNS ]
+,/, including/VBG 
+[ those/DT ]
+by/IN 
+[ tax-exempt/JJ pensions/NNS ]
+./. 
+
+``/`` 
+[ The/DT collective/JJ lust/NN ]
+for/IN 
+[ immediate/JJ financial/JJ gratification/NN ]
+has/VBZ fostered/VBN 
+[ an/DT ]
+unhealthily/RB 
+[ promiscuous/JJ approach/NN ]
+to/TO investing/VBG ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` Fully/RB curbing/VBG 
+[ that/DT lust/NN ]
+may/MD be/VB impossible/JJ ,/, but/CC 
+[ it/PRP ]
+can/MD be/VB bridled/VBN ./. 
+
+''/'' 
+======================================
+
+Moreover/RB ,/, 
+[ support/NN ]
+for/IN taxing/VBG 
+[ short-term/JJ trades/NNS ]
+by/IN 
+[ pension/NN funds/NNS ]
+is/VBZ growing/VBG on/IN 
+[ Capitol/NNP Hill/NNP ]
+./. 
+
+[ Last/JJ week/NN ]
+,/, 
+[ Republican/NNP Senator/NNP Nancy/NNP Kassebaum/NNP ]
+of/IN 
+[ Kansas/NNP ]
+introduced/VBD 
+[ a/DT bill/NN ]
+
+[ that/WDT ]
+would/MD slap/VB 
+[ a/DT 10/CD %/NN tax/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+earned/VBN by/IN 
+[ pension/NN funds/NNS ]
+on/IN 
+[ assets/NNS ]
+held/VBD less/RBR than/IN 
+[ 30/CD days/NNS ]
+,/, and/CC 
+[ a/DT 5/CD %/NN tax/NN ]
+on/IN 
+[ assets/NNS ]
+held/VBN less/RBR than/IN 
+[ 180/CD days/NNS ]
+./. 
+
+[ The/DT plan/NN 's/POS co-sponsor/NN ]
+is/VBZ 
+[ Senate/NNP Minority/NNP Leader/NNP Robert/NNP Dole/NNP ]
+./. 
+
+======================================
+
+Despite/IN 
+[ the/DT growing/VBG support/NN ]
+,/, however/RB ,/, 
+[ the/DT obstacles/NNS ]
+in/IN 
+[ the/DT way/NN ]
+of/IN 
+[ the/DT pension-tax/NN bandwagon/NN ]
+are/VBP huge/JJ ./. 
+
+[ Wall/NNP Street/NNP ]
+will/MD howl/VB ./. 
+
+[ Labor/NN unions/NNS ]
+may/MD attack/VB 
+[ the/DT idea/NN ]
+by/IN arguing/VBG 
+[ it/PRP ]
+raids/VBZ 
+[ the/DT retirement/NN nest/NN eggs/NNS ]
+of/IN 
+[ middle-income/JJ Americans/NNPS ]
+./. 
+
+[ Democrats/NNPS ]
+are/VBP sure/JJ to/TO feast/VB on/IN 
+[ the/DT idea/NN ]
+of/IN 
+[ Republicans/NNPS ]
+cutting/VBG 
+[ corporate/JJ taxes/NNS ]
+while/IN taking/VBG 
+[ a/DT bite/NN ]
+out/IN of/IN 
+[ the/DT working/VBG man/NN 's/POS pension/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ that/DT ]
+'s/VBZ only/RB partly/RB true/JJ ./. 
+
+More/JJS than/IN 
+[ two-thirds/NNS ]
+of/IN 
+[ nation/NN 's/POS workers/NNS ]
+
+[ who/WP ]
+are/VBP covered/VBN by/IN 
+[ pensions/NNS ]
+are/VBP in/IN 
+[ so-called/JJ defined/JJ benefit/NN plans/NNS ]
+./. 
+
+Under/IN 
+[ those/DT plans/NNS ]
+,/, 
+[ the/DT retiree/NN ]
+is/VBZ entitled/VBN to/TO 
+[ a/DT certain/JJ benefit/NN ]
+,/, regardless/RB of/IN how/WRB 
+[ much/JJ the/DT pension/NN fund/NN ]
+earns/VBZ ./. 
+
+Indeed/RB ,/, since/IN 
+[ 1980/CD ]
+,/, 
+[ corporations/NNS ]
+have/VBP made/VBN 
+[ billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+by/IN 
+[ taking/VBG money/NN ]
+back/RP from/IN 
+[ pension/NN plans/NNS ]
+
+[ that/WDT ]
+are/VBP overfunded/VBN ./. 
+
+======================================
+
+More/RBR troublesome/JJ may/MD be/VB 
+[ the/DT opposition/NN ]
+from/IN 
+[ state/NN ]
+and/CC 
+[ local/JJ government/NN officials/NNS ]
+,/, 
+[ who/WP ]
+are/VBP sure/JJ to/TO attack/VB 
+[ any/DT plan/NN ]
+
+[ that/WDT ]
+taxes/VBZ 
+[ their/PRP$ massive/JJ public-employee/NN pension/NN fund/NN ]
+./. 
+
+[ State/NN ]
+and/CC 
+[ local/JJ officials/NNS ]
+are/VBP 
+[ a/DT potent/JJ lobbying/NN force/NN ]
+in/IN 
+[ Washington/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ far/RB from/IN 
+[ clear/JJ ]
+that/IN 
+[ the/DT pension/NN fund/NN tax/NN ]
+would/MD have/VB 
+[ the/DT beneficial/JJ effects/NNS its/PRP$ proponents/NNS ]
+claim/VBP ./. 
+
+[ Many/JJ market/NN analysts/NNS ]
+say/VBP 
+[ it/PRP ]
+would/MD simply/RB make/VB 
+[ financial/JJ markets/NNS ]
+less/RBR liquid/JJ ,/, and/CC thus/RB less/RBR efficient/JJ ./. 
+
+``/`` 
+[ There/EX ]
+'s/VBZ not/RB 
+[ much/JJ sense/NN ]
+in/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Merton/NNP Miller/NNP ]
+,/, 
+[ professor/NN ]
+of/IN 
+[ finance/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Chicago/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ not/RB 
+[ all/DT ]
+
+[ that/RB ]
+clear/JJ 
+[ it/PRP ]
+'s/VBZ in/IN 
+[ the/DT social/JJ interest/NN ]
+to/TO stop/VB 
+[ this/DT ]
+shifting/VBG around/RB of/IN 
+[ assets/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Free-marketeers/NNS ]
+like/IN 
+[ Mr./NNP Miller/NNP ]
+might/MD have/VB held/VBN sway/VB 
+[ a/DT year/NN ]
+ago/RB ,/, when/WRB 
+[ Ronald/NNP Reagan/NNP ]
+was/VBD in/IN 
+[ power/NN ]
+./. 
+
+But/CC 
+[ President/NNP Bush/NNP ]
+is/VBZ more/RBR willing/JJ than/IN 
+[ his/PRP$ predecessor/NN ]
+to/TO use/VB 
+[ the/DT government/NN 's/POS power/NN ]
+to/TO engineer/VB 
+[ economic/JJ change/NN ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ the/DT pension-fund/NN tax/NN ]
+may/MD well/RB find/VB 
+[ its/PRP$ way/NN ]
+onto/IN 
+[ the/DT administration/NN 's/POS second-year/JJ agenda/NN ]
+./. 

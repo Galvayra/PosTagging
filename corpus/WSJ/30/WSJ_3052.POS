@@ -1,0 +1,823 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Lobbyists/NNS ]
+working/VBG for/IN 
+[ Puerto/NNP Rico/NNP ]
+are/VBP sweeping/VBG through/IN 
+[ Congress/NNP ]
+with/IN 
+[ the/DT force/NN ]
+of/IN 
+[ Hurricane/NNP Hugo/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT eye/NN ]
+of/IN 
+[ this/DT political/JJ storm/NN ]
+is/VBZ pending/VBG 
+[ legislation/NN ]
+calling/VBG for/IN 
+[ a/DT referendum/NN ]
+in/IN 
+[ 1991/CD ]
+on/IN whether/CC 
+[ Puerto/NNS Ricans/NNS ]
+want/VBP 
+[ independence/NN ]
+,/, 
+[ statehood/NN ]
+or/CC to/TO continue/VB 
+[ their/PRP$ commonwealth/NN status/NN ]
+,/, but/CC with/IN 
+[ a/DT bit/NN more/JJR autonomy/NN ]
+./. 
+
+[ The/DT bill/NN ]
+has/VBZ attracted/VBN 
+[ scant/JJ attention/NN ]
+here/RB ,/, but/CC 
+[ the/DT stakes/NNS ]
+are/VBP high/JJ --/: not/RB only/JJ for/IN 
+[ Puerto/NNP Rico/NNP ]
+,/, but/CC for/IN 
+[ scores/NNS ]
+of/IN 
+[ U.S./NNP companies/NNS ]
+
+[ that/WDT ]
+enjoy/VBP 
+[ big/JJ tax/NN ]
+breaks/VBZ by/IN maintaining/VBG 
+[ subsidiaries/NNS ]
+there/RB ./. 
+
+======================================
+
+[ The/DT largest/JJS lobbying/VBG contingent/NN ]
+represents/VBZ 
+[ Puerto/NNP Rico/NNP 's/POS Popular/NNP Democratic/NNP Party/NNP ]
+,/, also/RB known/VBN as/IN 
+[ the/DT Commonwealth/NNP Party/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN in/IN 
+[ power/NN ]
+since/IN 
+[ 1985/CD ]
+and/CC is/VBZ committed/VBN to/TO keeping/VBG 
+[ Puerto/NNP Rico/NNP ]
+
+[ a/DT commonwealth/NN ]
+./. 
+
+On/IN 
+[ its/PRP$ payroll/NN ]
+are/VBP more/JJR than/IN 
+[ a/DT dozen/NN law/NN firms/NNS ]
+,/, 
+[ lobbyists/NNS ]
+and/CC 
+[ consultants/NNS ]
+,/, including/VBG 
+[ two/CD former/JJ U.S./NNP senators/NNS ]
+,/, 
+[ Democrat/NNP John/NNP Culver/NNP ]
+of/IN 
+[ Iowa/NNP ]
+and/CC 
+[ Republican/NNP Marlow/NNP Cook/NNP ]
+of/IN 
+[ Kentucky/NNP ]
+;/: 
+[ the/DT powerhouse/NN law/NN firm/NN ]
+of/IN 
+[ Covington/NNP ]
+&/CC 
+[ Burling/NNP ]
+,/, 
+[ which/WDT ]
+receives/VBZ approximately/RB 
+[ $/$ 2/CD million/CD ]
+in/IN 
+[ annual/JJ payments/NNS ]
+from/IN 
+[ the/DT commonwealth/NN government/NN ]
+;/: 
+[ the/DT ]
+politically/RB 
+[ well-connected/JJ lobbying/VBG firm/NN ]
+of/IN 
+[ Black/NNP ]
+,/, 
+[ Manafort/NNP ]
+,/, 
+[ Stone/NNP ]
+&/CC 
+[ Kelly/NNP ]
+;/: 
+[ a/DT pair/NN ]
+of/IN 
+[ prominent/JJ Democratic/JJ National/NNP Committee/NNP ]
+activists/VBZ ;/: 
+[ former/JJ top/JJ officials/NNS ]
+from/IN 
+[ the/DT Treasury/NNP ]
+and/CC 
+[ the/DT Department/NNP ]
+of/IN 
+[ Energy/NNP ]
+and/CC 
+[ a/DT constitutional-law/JJ expert/NN ]
+from/IN 
+[ Harvard/NNP Law/NNP School/NNP ]
+,/, 
+[ Laurence/NNP Tribe/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+need/VBP 
+[ all/DT the/DT help/NN ]
+
+[ we/PRP ]
+can/MD get/VB ,/, ''/'' explains/VBZ 
+[ Jaime/NNP Fuster/NNP ]
+,/, 
+[ Puerto/NNP Rico/NNP 's/POS non-voting/JJ delegate/NN ]
+to/TO 
+[ the/DT House/NNP ]
+of/IN 
+[ Representatives/NNP ]
+./. 
+
+[ The/DT commonwealth/NN side/NN ]
+also/RB draws/VBZ 
+[ sustenance/NN ]
+from/IN 
+[ a/DT potent/JJ business/NN lobby/NN ]
+of/IN 
+[ 70/CD U.S./NNP corporations/NNS ]
+
+[ that/WDT ]
+are/VBP fighting/VBG for/IN 
+[ retention/NN ]
+of/IN 
+[ Section/NNP 936/CD ]
+of/IN 
+[ the/DT Internal/NNP Revenue/NNP Code/NNP ]
+,/, 
+[ which/WDT ]
+allows/VBZ 
+[ mainland/NN companies/NNS ]
+
+[ that/WDT ]
+have/VBP 
+[ subsidiaries/NNS ]
+in/IN 
+[ Puerto/NNP Rico/NNP ]
+to/TO repatriate/VB 
+[ their/PRP$ profits/NNS ]
+without/IN paying/VBG 
+[ taxes/NNS ]
+./. 
+
+[ Statehood/NN ]
+would/MD put/VB 
+[ an/DT end/NN ]
+to/TO 
+[ their/PRP$ tax-free/JJ status/NN ]
+./. 
+
+======================================
+
+[ Puerto/NNP Rico/NNP 's/POS New/NNP Progressive/NNP Party/NNP ]
+,/, also/RB known/VBN as/IN 
+[ the/DT Statehood/NNP Party/NNP ]
+,/, is/VBZ also/RB well-fortified/JJ here/RB ./. 
+
+[ Its/PRP$ ]
+
+[ most/RBS potent/JJ ally/NN ]
+is/VBZ 
+[ President/NNP Bush/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ a/DT vocal/NN supporter/NN ]
+of/IN 
+[ statehood/NN ]
+and/CC 
+[ a/DT longtime/NN friend/NN ]
+of/IN 
+[ former/JJ Governor/NNP Luis/NNP Ferre/NNP ]
+,/, 
+[ the/DT patron/NN saint/NN ]
+of/IN 
+[ Puerto/NNP Rican/NNP statehood/NN ]
+./. 
+
+ (/( 
+[ The/DT president/NN ]
+personally/RB inserted/VBN into/IN 
+[ his/PRP$ State/NNP ]
+of/IN 
+[ the/DT Union/NNP address/NN strong/JJ language/NN supporting/VBG statehood/NN ]
+./. 
+
+ )/) 
+[ Harry/NNP McPherson/NNP ]
+,/, 
+[ an/DT influential/JJ Democratic/JJ lawyer/NN ]
+,/, along/IN with/IN 
+[ former/JJ Bush/NNP press/NN spokesman/NN Peter/NNP Teeley/NNP ]
+,/, are/VBP 
+[ both/DT ]
+lobbying/VBG on/IN 
+[ the/DT statehood/NN side/NN ]
+./. 
+
+And/CC 
+[ the/DT statehooders/NNS ]
+have/VBP 
+[ their/PRP$ own/JJ constitutional-law/JJ heavyweight/NN ]
+,/, 
+[ Yale/NNP Law/NNP School/NNP 's/POS Paul/NNP Gewirtz/NNP ]
+./. 
+
+======================================
+
+So/IN far/RB ,/, 
+[ the/DT Independence/NNP Party/NNP ]
+,/, 
+[ the/DT small/JJ ]
+but/CC 
+[ vocal/JJ minority/NN ]
+
+[ that/WDT ]
+favors/VBZ 
+[ Puerto/NNP Rican/NNP independence/NN ]
+,/, 
+[ has/VBZ n't/RB ]
+hired/VBN 
+[ a/DT Washington/NNP lobbying/VBG team/NN ]
+and/CC is/VBZ relying/VBG on/IN 
+[ volunteer/NN lawyers/NNS ]
+and/CC 
+[ law/NN professors/NNS ]
+./. 
+
+But/CC 
+[ the/DT referendum/NN bill/NN ]
+would/MD provide/VB 
+[ $/$ 500,000/CD ]
+to/TO 
+[ each/DT party/NN ]
+,/, so/IN 
+[ that/DT situation/NN ]
+could/MD change/VB ./. 
+
+======================================
+
+[ The/DT well-heeled/JJ Section/NN 936/CD  business/NN alliance/NN ]
+backing/VBG 
+[ the/DT commonwealth/NN cause/NN ]
+includes/VBZ virtually/RB 
+[ all/DT the/DT major/JJ pharmaceutical/JJ companies/NNS ]
+ (/( among/IN 
+[ them/PRP ]
+
+[ Eli/NNP Lilly/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Johnson/NNP ]
+&/CC 
+[ Johnson/NNP ]
+,/, 
+[ Merck/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Pfizer/NNP Inc./NNP ]
+,/, 
+[ Squibb/NNP Corp./NNP ]
+,/, 
+[ G.D./NNP Searle/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+ )/) as/RB well/RB as/IN 
+[ PepsiCo/NNP Inc./NNP ]
+and/CC 
+[ General/NNP Electric/NNP Co./NNP ]
+,/, 
+[ which/WDT ]
+have/VBP formed/VBN 
+[ the/DT Puerto/NNP Rico/NNP ]
+,/, 
+[ U.S.A./NNP Foundation/NNP ]
+./. 
+
+[ The/DT foundation/NN ]
+flies/VBZ 
+[ key/JJ lawmakers/NNS ]
+down/IN to/TO 
+[ the/DT islands/NNS ]
+so/IN 
+[ they/PRP ]
+can/MD see/VB 
+[ the/DT fruits/NNS ]
+of/IN 
+[ the/DT tax/NN loophole/NN first-hand/JJ ]
+,/, while/IN 
+[ they/PRP ]
+enjoy/VBP 
+[ Puerto/NNP Rico/NNP 's/POS beaches/NNS ]
+./. 
+
+======================================
+
+[ Peter/NNP Holmes/NNP ]
+,/, 
+[ whose/WP$ ]
+
+[ Washington/NNP law/NN firm/NN ]
+houses/VBZ 
+[ the/DT foundation/NN ]
+,/, says/VBZ that/IN 
+[ his/PRP$ organization/NN ]
+is/VBZ officially/RB neutral/JJ on/IN 
+[ the/DT referendum/NN bill/NN ]
+,/, but/CC that/IN 
+[ the/DT loss/NN ]
+of/IN 
+[ Section/NNP 936/CD ]
+would/MD sour/VB 
+[ investment/NN ]
+and/CC ``/`` 
+[ cause/NN unemployment/NN ]
+in/IN 
+[ Puerto/NNP Rico/NNP ]
+to/TO skyrocket/VB ./. 
+
+''/'' 
+[ Covington/NNP ]
+&/CC 
+[ Burling/NNP 's/POS Richard/NNP Copaken/NNP ]
+paints/VBZ 
+[ an/DT ]
+even/RB 
+[ bleaker/JJR picture/NN ]
+./. 
+
+``/`` 
+[ People/NNS ]
+thrown/VBN off/IN 
+[ the/DT payroll/NN ]
+will/MD find/VB 
+[ their/PRP$ way/NN ]
+onto/IN 
+[ the/DT welfare/NN ]
+rolls/NNS ,/, ''/'' 
+[ he/PRP ]
+warns/VBZ ./. 
+
+``/`` 
+[ The/DT net/JJ result/NN ]
+will/MD be/VB 
+[ a/DT substantial/JJ increase/NN ]
+in/IN 
+[ the/DT federal/JJ deficit/NN ]
+./. 
+
+''/'' 
+[ Another/DT likely/JJ casualty/NN ]
+of/IN 
+[ statehood/NN ]
+,/, unmentioned/VBN by/IN 
+[ Mr./NNP Copaken/NNP ]
+,/, would/MD be/VB 
+[ Covington/NNP 's/POS seven-figure/JJ billings/NNS ]
+,/, since/IN 
+[ a/DT new/JJ government/NN ]
+presumably/RB would/MD hire/VB 
+[ different/JJ Washington/NNP lawyers/NNS ]
+./. 
+
+======================================
+
+[ The/DT Senate/NNP Energy/NNP ]
+and/CC 
+[ Natural/NNP Resources/NNP Committee/NNP ]
+,/, 
+[ which/WDT ]
+approved/VBD 
+[ a/DT 1991/CD referendum/NN measure/NN ]
+in/IN 
+[ August/NNP ]
+,/, has/VBZ proposed/VBN 
+[ a/DT gradual/JJ phasing-out/NN ]
+of/IN 
+[ Section/NNP 936/CD ]
+if/IN 
+[ Puerto/NNP Rico/NNP opts/VBZ ]
+for/IN 
+[ statehood/NN ]
+./. 
+
+But/CC 
+[ the/DT commonwealth/NN lobbyists/NNS ]
+are/VBP brandishing/VBG 
+[ a/DT legal/JJ opinion/NN ]
+by/IN 
+[ Harvard/NNP Law/NNP School/NNP Prof./NNP Tribe/NNP ]
+
+[ that/WDT ]
+says/VBZ 
+[ a/DT phase-out/NN ]
+--/: as/IN opposed/VBN to/TO 
+[ immediate/JJ termination/NN ]
+--/: would/MD violate/VB 
+[ the/DT tax-uniformity/NN clause/NN ]
+of/IN 
+[ the/DT Constitution/NNP ]
+./. 
+
+======================================
+
+Because/IN of/IN 
+[ the/DT sensitive/JJ tax/NN issue/NN ]
+,/, 
+[ the/DT Senate/NNP Finance/NNP Committee/NNP ]
+is/VBZ poised/VBN to/TO review/VB 
+[ the/DT referendum/NN bill/NN ]
+./. 
+
+[ The/DT fight/NN ]
+over/IN 
+[ Section/NNP 936/CD ]
+is/VBZ 
+[ a/DT replay/NN ]
+for/IN 
+[ the/DT tax-writing/JJ panel/NN ]
+,/, since/IN 
+[ the/DT provision/NN ]
+was/VBD targeted/VBN for/IN 
+[ extinction/NN ]
+during/IN 
+[ the/DT 1986/CD tax-overhaul/JJ debate/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD saved/VBN after/IN 
+[ furious/JJ ]
+lobbying/NN by/IN 
+[ Michael/NNP Deaver/NNP ]
+,/, 
+[ the/DT former/JJ Reagan/NNP White/NNP House/NNP aide/NN ]
+turned/VBN 
+[ lobbyist/NN ]
+,/, among/IN 
+[ others/NNS ]
+./. 
+
+======================================
+
+Lacking/VBG 
+[ voting/NN representation/NN ]
+in/IN 
+[ Congress/NNP ]
+,/, 
+[ Puerto/NNP Rico/NNP ]
+has/VBZ for/IN 
+[ years/NNS ]
+retained/VBN politically/RB 
+[ potent/JJ lobbyists/NNS ]
+to/TO defend/VB 
+[ its/PRP$ interests/NNS ]
+here/RB ./. 
+
+During/IN 
+[ the/DT 1985-86/JJ fight/NN ]
+over/IN 
+[ Section/NNP 936/CD ]
+,/, 
+[ Mr./NNP Deaver/NNP ]
+was/VBD joined/VBN by/IN 
+[ Frederick/NNP Bush/NNP ]
+,/, 
+[ a/DT former/JJ aide/NN ]
+to/TO and/CC fundraiser/NN for/IN 
+[ President/NNP Bush/NNP ]
+ (/( 
+[ no/DT relation/NN ]
+ )/) ./. 
+
+[ Frederick/NNP Bush/NNP 's/POS lobbying/NN firm/NN ]
+was/VBD paid/VBN 
+[ $/$ 60,000/CD ]
+to/TO set/VB up/RP 
+[ meetings/NNS ]
+with/IN 
+[ top/JJ government/NN officials/NNS ]
+,/, including/VBG 
+[ then-Treasury/NNP  Secretary/NNP James/NNP Baker/NNP ]
+./. 
+
+[ Last/JJ summer/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT commonwealth/NN 's/POS chief/JJ lobbying/NN firms/NNS ]
+,/, 
+[ Black/NNP Manafort/NNP ]
+,/, was/VBD ensnared/VBN in/IN 
+[ the/DT influence-peddling/JJ scandal/NN ]
+at/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Housing/NNP ]
+and/CC 
+[ Urban/NNP Development/NNP ]
+./. 
+
+Among/IN 
+[ the/DT HUD/NNP projects/NNS ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT firm/NN ]
+reaped/VBD 
+[ huge/JJ consulting/NN fees/NNS ]
+were/VBD several/JJ in/IN 
+[ Puerto/NNP Rico/NNP ]
+./. 
+
+But/CC 
+[ Jose/NNP Martinez/NNP ]
+of/IN 
+[ the/DT Puerto/NNP Rico/NNP Federal/NNP Affairs/NNP Administration/NNP ]
+says/VBZ 
+[ Black/NNP Manafort/NNP ]
+is/VBZ still/RB lobbying/VBG on/IN 
+[ the/DT referendum/NN bill/NN ]
+``/`` and/CC 
+[ helping/VBG iron/VB ]
+out/RP 
+[ problems/NNS ]
+with/IN 
+[ the/DT hurricane/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Critics/NNS ]
+of/IN 
+[ the/DT referendum/NN bill/NN ]
+complain/VBP that/IN 
+[ it/PRP ]
+slants/VBZ toward/IN 
+[ statehood/NN ]
+./. 
+
+[ Mr./NNP Fuster/NNP ]
+says/VBZ 
+[ it/PRP ]
+``/`` 
+[ front-loads/VBZ ]
+''/'' 
+[ benefits/NNS ]
+and/CC that/IN 
+[ Puerto/NNS Ricans/NNS ]
+could/MD be/VB bribed/VBN into/IN voting/VBG for/IN 
+[ statehood/NN ]
+because/IN 
+[ the/DT legislation/NN ]
+would/MD immediately/RB entitle/VB 
+[ them/PRP ]
+to/TO receive/VB 
+[ mainland/NN levels/NNS ]
+of/IN 
+[ welfare/NN ]
+and/CC 
+[ other/JJ social/JJ programs/NNS ]
+ (/( 
+[ which/WDT ]
+are/VBP limited/VBN in/IN 
+[ Puerto/NNP Rico/NNP ]
+now/RB )/) and/CC to/TO defer/VB paying/VBG 
+[ federal/JJ taxes/NNS ]
+until/IN 
+[ 1994/CD ]
+./. 
+
+[ Other/JJ critics/NNS ]
+say/VBP 
+[ Congress/NNP ]
+has/VBZ failed/VBN to/TO spell/VB out/RP 
+[ the/DT true/JJ cost/NN ]
+of/IN 
+[ Puerto/JJ Rican/JJ statehood/NN ]
+to/TO 
+[ the/DT U.S./NNP Treasury/NNP ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT bill/NN ]
+,/, 
+[ whichever/WDT option/NN ]
+receives/VBZ 
+[ a/DT majority/NN vote/NN ]
+in/IN 
+[ a/DT referendum/NN ]
+ (/( or/CC 
+[ a/DT runoff/NN ]
+,/, if/IN 
+[ there/EX ]
+is/VBZ n't/RB 
+[ a/DT majority/NN ]
+ )/) would/MD automatically/RB take/VB 
+[ effect/NN ]
+without/IN 
+[ further/JJ congressional/JJ action/NN ]
+./. 
+
+[ The/DT last/JJ Puerto/JJ Rican/JJ referendum/NN ]
+was/VBD in/IN 
+[ 1967/CD ]
+,/, when/WRB 
+[ commonwealth/NN supporters/NNS ]
+won/VBD by/IN  
+[ a/DT large/JJ margin/NN ]
+./. 
+
+[ Recent/JJ public-opinion/JJ polls/NNS ]
+show/VBP 
+[ Puerto/NNP Ricans/NNP ]
+closely/RB divided/VBN between/IN 
+[ commonwealth/NN ]
+and/CC 
+[ statehood/NN ]
+,/, with/IN less/JJR than/IN 
+[ 5/CD %/NN favoring/VBG independence/NN ]
+./. 
+
+======================================
+
+But/CC before/IN 
+[ Congress/NNP ]
+approves/VBZ holding/VBG 
+[ a/DT vote/NN ]
+in/IN 
+[ 1991/CD ]
+,/, 
+[ there/EX ]
+will/MD be/VB 
+[ even/RB more/JJR ]
+lobbying/NN over/IN 
+[ the/DT wording/NN ]
+of/IN 
+[ the/DT three/CD options/NNS ]
+./. 
+
+``/`` 
+[ This/DT ]
+would/MD be/VB 
+[ the/DT time/NN ]
+to/TO cash/VB in/RP and/CC work/VB on/IN building/VBG 
+[ some/DT trust/NN funds/NNS ]
+for/IN 
+[ my/PRP$ grandchildren/NNS ]
+,/, ''/'' jokes/VBZ 
+[ a/DT Democratic/JJ congressional/JJ staffer/NN ]
+
+[ who/WP ]
+has/VBZ worked/VBN closely/RB on/IN 
+[ the/DT Puerto/NNP Rico/NNP referendum/NN ]
+./. 
+
+======================================
+
+[ Puerto/NNP Rico/NNP Lobbying/NN Blitz/NN ]
+
+======================================
+
+[ Covington/NNP ]
+&/CC 
+[ Burling/NNP ]
+ (/( 
+[ Washington/NNP law/NN firm/NN ]
+ )/) 
+======================================
+
+[ Black/NNP ]
+,/, 
+[ Manafort/NNP ]
+,/, 
+[ Stone/NNP ]
+&/CC 
+[ Kelly/NNP ]
+ (/( 
+[ Washington/NNP lobbying/NN firm/NN ]
+ )/) 
+======================================
+
+[ John/NNP Culver/NNP ]
+ (/( 
+[ former/JJ Democratic/JJ senator/NN ]
+from/IN 
+[ Iowa/NNP ]
+and/CC 
+[ Washington/NNP lawyer/NN ]
+ )/) 
+======================================
+
+[ Marlow/NNP Cook/NNP ]
+ (/( 
+[ former/JJ GOP/NNP senator/NN ]
+from/IN 
+[ Kentucky/NNP ]
+and/CC 
+[ Washington/NNP lawyer/NN ]
+ )/) 
+======================================
+
+[ Mark/NNP Siegel/NNP ]
+ (/( 
+[ former/JJ Democratic/NNP National/NNP Committee/NNP member/NN ]
+ )/) 
+======================================
+
+[ Anne/NNP Campbell/NNP ]
+ (/( 
+[ Democratic/NNP National/NNP Committee/NNP member/NN ]
+ )/) 
+======================================
+
+[ Roger/NNP Mentz/NNP ]
+ (/( 
+[ former/JJ assistant/NN Treasury/NNP secretary/NN ]
+and/CC 
+[ Washington/NNP lawyer/NN ]
+ )/) 
+======================================
+
+[ Lynn/NNP Coleman/NNP ]
+ (/( 
+[ former/JJ deputy/NN energy/NN secretary/NN ]
+and/CC 
+[ Washington/NNP lawyer/NN ]
+ )/) 
+[ Laurence/NNP Tribe/NNP ]
+ (/( 
+[ Harvard/NNP Law/NNP School/NNP professor/NN ]
+ )/) 
+======================================
+
+[ Harry/NNP McPherson/NNP ]
+ (/( 
+[ former/JJ adviser/NN ]
+to/TO 
+[ President/NNP Johnson/NNP ]
+and/CC 
+[ Washington/NNP lawyer/NN ]
+ )/) 
+======================================
+
+[ Peter/NNP Teeley/NNP ]
+ (/( 
+[ former/JJ press/NN spokesman/NN ]
+for/IN 
+[ George/NNP Bush/NNP ]
+and/CC 
+[ consultant/NN ]
+ )/) 
+======================================
+
+[ Paul/NNP Gewirtz/NNP ]
+ (/( 
+[ Yale/NNP Law/NNP School/NNP professor/NN ]

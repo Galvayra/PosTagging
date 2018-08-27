@@ -1,0 +1,510 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+,/, responding/VBG to/TO 
+[ a/DT rush/NN ]
+among/IN 
+[ food/NN companies/NNS ]
+to/TO cash/VB in/RB on/IN 
+[ concerns/NNS ]
+about/IN 
+[ cholesterol/NN ]
+,/, raised/VBD 
+[ questions/NNS ]
+about/IN 
+[ the/DT addition/NN ]
+of/IN 
+[ the/DT grain/NN psyllium/NN ]
+to/TO 
+[ products/NNS ]
+before/IN 
+[ its/PRP$ safety/NN ]
+has/VBZ been/VBN assured/VBN ./. 
+
+======================================
+
+[ The/DT agency/NN ]
+,/, as/IN expected/VBN ,/, wrote/VBD 
+[ letters/NNS ]
+to/TO 
+[ General/NNP Mills/NNPS Inc./NNP ]
+and/CC 
+[ Kellogg/NNP Co./NNP ]
+,/, ordering/VBG 
+[ them/PRP ]
+to/TO show/VB why/WRB 
+[ they/PRP ]
+should/MD continue/VB to/TO 
+[ market/VB cereals/NNS ]
+containing/VBG 
+[ fibrous/JJ psyllium/NN husks/NNS ]
+./. 
+
+But/CC 
+[ the/DT FDA/NNP ]
+stopped/VBD 
+[ short/JJ ]
+of/IN requesting/VBG that/IN 
+[ the/DT cereals/NNS ]
+be/VB taken/VBN off/IN 
+[ the/DT market/NN ]
+./. 
+
+[ Both/DT ]
+
+[ companies/NNS ]
+said/VBD 
+[ they/PRP ]
+would/MD cooperate/VB with/IN 
+[ the/DT government/NN ]
+in/IN 
+[ the/DT controversy/NN ]
+,/, 
+[ which/WDT ]
+comes/VBZ amid/IN 
+[ heightened/JJ concern/NN ]
+about/IN 
+[ health/NN claims/NNS ]
+made/VBN by/IN 
+[ food/NN makers/NNS ]
+./. 
+
+======================================
+
+[ General/NNP Mills/NNPS ]
+was/VBD 
+[ the/DT first/JJ manufacturer/NN ]
+to/TO seize/VB on/IN 
+[ psyllium/NN 's/POS reported/VBN therapeutic/JJ effect/NN ]
+on/IN 
+[ blood/NN cholesterol/NN levels/NNS ]
+by/IN introducing/VBG 
+[ a/DT cereal/NN ]
+called/VBN 
+[ Benefit/NNP last/JJ April/NNP ]
+./. 
+
+[ The/DT boxes/NNS ]
+advertise/VBP that/IN ,/, as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT low-fat/JJ diet/NN ]
+,/, 
+[ Benefit/NNP ]
+can/MD help/VB reduce/VB 
+[ cholesterol/NN ]
+./. 
+
+[ Benefit/NNP ]
+also/RB contains/VBZ 
+[ sugar/NN beet/NN fiber/NN ]
+,/, and/CC 
+[ the/DT FDA/NNP ]
+told/VBD 
+[ the/DT company/NN ]
+to/TO justify/VB using/VBG that/DT as/RB well/RB ./. 
+
+======================================
+
+[ Kellogg/NNP ]
+has/VBZ marketed/VBN 
+[ two/CD cereals/NNS ]
+containing/VBG 
+[ psyllium/NN ]
+,/, 
+[ Bran/NNP Buds/NNPS ]
+and/CC 
+[ Heartwise/NNP ]
+,/, 
+[ the/DT latter/JJ ]
+
+[ an/DT apparent/JJ response/NN ]
+to/TO 
+[ General/NNP Mills/NNPS ]
+,/, 
+[ its/PRP$ chief/JJ rival/NN ]
+in/IN 
+[ the/DT ready-to-eat/JJ cereal/NN business/NN ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP ]
+did/VBD n't/RB 
+[ address/VB ]
+
+[ the/DT issue/NN ]
+of/IN 
+[ psyllium/NN 's/POS effect/NN ]
+on/IN 
+[ cholesterol/NN ]
+,/, 
+[ something/NN ]
+
+[ that/WDT ]
+disappointed/VBD 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP Co./NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ the/DT laxative/NN Metamucil/NN ]
+,/, 
+[ which/WDT ]
+contains/VBZ 
+[ large/JJ amounts/NNS ]
+of/IN 
+[ psyllium/NN ]
+./. 
+
+[ The/DT FDA/NNP ]
+has/VBZ refused/VBN to/TO let/VB 
+[ P&G/NNP ]
+make/VB 
+[ a/DT link/NN ]
+between/IN 
+[ Metamucil/NN ]
+and/CC 
+[ cholesterol/NN ]
+in/IN 
+[ its/PRP$ ads/NNS ]
+./. 
+
+When/WRB 
+[ General/NNP Mills/NNPS ]
+did/VBD that/IN with/IN 
+[ Benefit/NNP ]
+,/, 
+[ P&G/NNP ]
+cried/VBD 
+[ foul/UH ]
+,/, arguing/VBG that/IN 
+[ the/DT General/NNP Mills/NNPS cereal/NN ]
+``/`` is/VBZ 
+[ a/DT drug/NN ]
+pretending/VBG to/TO be/VB 
+[ a/DT food/NN ]
+./. 
+
+''/'' 
+[ P&G/NNP ]
+said/VBD that/IN 
+[ either/CC ]
+
+[ the/DT FDA/NNP ]
+should/MD prevent/VB 
+[ General/NNP Mills/NNPS ]
+from/IN making/VBG 
+[ the/DT claims/NNS ]
+or/CC allow/VB 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP ]
+to/TO make/VB 
+[ them/PRP ]
+as/RB well/RB ./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+hope/VBP 
+[ the/DT FDA/NNP ]
+will/MD take/VB 
+[ further/JJ action/NN ]
+to/TO eliminate/VB 
+[ the/DT inconsistency/NN ]
+in/IN allowing/VBG 
+[ these/DT cereals/NNS ]
+to/TO make/VB 
+[ cholesterol/NN reduction/NN claims/NNS ]
+while/IN 
+[ Metamucil/NN ]
+can/MD not/RB ,/, ''/'' 
+[ P&G/NN ]
+said/VBD in/IN 
+[ Cincinnati/NNP ]
+yesterday/NN ./. 
+
+======================================
+
+[ The/DT FDA/NNP ]
+agreed/VBD that/IN 
+[ the/DT amounts/NNS ]
+of/IN 
+[ psyllium/NN ]
+in/IN 
+[ both/DT Benefit/NNP ]
+and/CC 
+[ Heartwise/NNP ]
+may/MD define/VB 
+[ it/PRP ]
+as/IN 
+[ a/DT drug/NN ]
+./. 
+
+[ The/DT agency/NN ]
+noted/VBD 
+[ psyllium/NN ]
+is/VBZ described/VBN in/IN 
+[ government/NN documents/NNS ]
+as/IN ``/`` 
+[ an/DT evacuant/NN ]
+to/TO prevent/VB 
+[ constipation/NN ]
+from/IN 
+[ impacted/JJ stools/NNS ]
+./. 
+
+''/'' 
+[ It/PRP ]
+said/VBD that/IN sharply/RB increasing/VBG 
+[ the/DT amount/NN ]
+of/IN 
+[ soluble/JJ fiber/NN ]
+,/, such/JJ as/IN 
+[ psyllium/NN ]
+,/, in/IN 
+[ a/DT diet/NN ]
+``/`` has/VBZ 
+[ the/DT potential/NN ]
+for/IN 
+[ harmful/JJ intestinal/JJ effects/NNS ]
+including/VBG 
+[ depletion/NN ]
+of/IN 
+[ beneficial/JJ colonic/JJ bacteria/NNS ]
+,/, 
+[ constipation/NN ]
+,/, 
+[ fecal/JJ impaction/NN ]
+or/CC altered/JJ 
+[ nutrient/JJ intake/NN ]
+or/CC 
+[ absorption/NN ]
+./. 
+
+''/'' 
+======================================
+
+Accordingly/RB ,/, ``/`` 
+[ we/PRP ]
+have/VBP 
+[ serious/JJ concerns/NNS ]
+about/IN 
+[ the/DT introduction/NN ]
+of/IN 
+[ significant/JJ amounts/NNS ]
+of/IN 
+[ psyllium/NN seed/NN husks/NNS ]
+in/IN 
+[ food/NN ]
+without/IN 
+[ an/DT appropriate/JJ safety/NN review/NN ]
+,/, ''/'' 
+[ the/DT FDA/NNP ]
+concluded/VBD ./. 
+
+Anticipating/VBG that/IN 
+[ other/JJ companies/NNS ]
+want/VBP to/TO jump/VB on/RB 
+[ the/DT psyllium/NN bandwagon/NN ]
+,/, 
+[ the/DT FDA/NNP ]
+said/VBD 
+[ it/PRP ]
+was/VBD ``/`` concerned/JJ about/IN 
+[ the/DT cumulative/JJ exposure/NN ]
+of/IN 
+[ the/DT population/NN ]
+to/TO 
+[ psyllium/NN ]
+from/IN 
+[ all/DT potential/JJ food/NN sources/NNS ]
+,/, and/CC strongly/RB questions/VBZ whether/IN 
+[ the/DT available/JJ information/NN ]
+justifies/VBZ 
+[ this/DT potential/JJ exposure/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Both/DT Kellogg/NNP ]
+and/CC 
+[ General/NNP Mills/NNP ]
+were/VBD asked/VBN to/TO submit/VB 
+[ data/NNS ]
+to/TO demonstrate/VB 
+[ the/DT safety/NN ]
+of/IN 
+[ psyllium/NN ]
+as/IN 
+[ a/DT source/NN ]
+of/IN 
+[ dietary/JJ fiber/NN ]
+in/IN 
+[ cereals/NNS ]
+./. 
+
+So/RB far/RB ,/, 
+[ the/DT only/JJ FDA/NNP approval/NN ]
+of/IN 
+[ psyllium/NN ]
+in/IN 
+[ food/NN ]
+has/VBZ been/VBN for/IN 
+[ minute/JJ quantities/NNS ]
+in/IN 
+[ frozen/JJ desserts/NNS ]
+./. 
+
+In/IN 
+[ Benefit/NNP ]
+,/, 
+[ psyllium/NN ]
+makes/VBZ up/RB about/IN 
+[ 8/CD %/NN ]
+of/IN 
+[ the/DT weight/NN ]
+,/, and/CC 
+[ the/DT FDA/NNP ]
+told/VBD 
+[ General/NNP Mills/NNPS ]
+
+[ it/PRP ]
+was/VBD unaware/JJ of/IN 
+[ any/DT data/NNS ]
+
+[ that/WDT ]
+would/MD justify/VB 
+[ the/DT use/NN ]
+of/IN 
+[ psyllium/NN ]
+at/IN 
+[ that/DT level/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ Minneapolis/NNP ]
+,/, 
+[ a/DT General/NNP Mills/NNPS spokesman/NN ]
+said/VBD ,/, ``/`` 
+[ We/PRP ]
+think/VBP 
+[ we/PRP ]
+have/VBP 
+[ the/DT data/NN ]
+gathered/VBD ,/, and/CC 
+[ we/PRP ]
+'ve/VBP already/RB begun/VBN 
+[ work/NN ]
+to/TO prepare/VB 
+[ those/DT documents/NNS ]
+for/IN 
+[ submission/NN ]
+./. 
+
+[ We/PRP ]
+feel/VBP very/RB comfortable/JJ with/IN responding/VBG to/TO 
+[ their/PRP$ request/NN ]
+./. 
+
+''/'' 
+======================================
+
+While/IN 
+[ the/DT spokesman/NN ]
+said/VBD 
+[ the/DT psyllium/NN controversy/NN ]
+had/VBD 
+[ damped/VBN sales/NNS ]
+of/IN 
+[ Benefit/NNP ]
+,/, 
+[ he/PRP ]
+added/VBD that/IN 
+[ the/DT FDA/NNP 's/POS expressed/VBN concern/NN ]
+would/MD n't/RB affect/VB 
+[ the/DT product/NN 's/POS continued/JJ rollout/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+do/VBP n't/RB anticipate/VB doing/VBG 
+[ anything/NN ]
+differently/RB ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Benefit/NNP ]
+is/VBZ available/JJ in/IN about/IN 
+[ one-third/NN ]
+of/IN 
+[ the/DT states/NNS ]
+./. 
+
+[ Texas/NNP ]
+has/VBZ refused/VBN to/TO allow/VB 
+[ its/PRP$ introduction/NN ]
+because/IN of/IN 
+[ misgivings/NNS ]
+about/IN 
+[ the/DT product/NN 's/POS health/NN claims/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Battle/NNP Creek/NNP ]
+,/, 
+[ Mich./NNP ]
+,/, 
+[ Kellogg/NNP ]
+said/VBD :/: ``/`` 
+[ We/PRP ]
+are/VBP 
+[ confident/JJ psyllium/NN ]
+is/VBZ safe/JJ ./. 
+
+[ Psyllium/NN ]
+is/VBZ 
+[ a/DT natural/JJ grain/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN consumed/VBN by/IN 
+[ humans/NNS ]
+for/IN 
+[ generations/NNS ]
+./. 
+
+[ We/PRP ]
+welcome/VBP 
+[ the/DT opportunity/NN ]
+to/TO provide/VB 
+[ the/DT FDA/NNP ]
+with/IN 
+[ additional/JJ scientific/JJ data/NNS ]
+./. 

@@ -1,0 +1,1011 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT federal/JJ appeals/NNS court/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+will/MD decide/VB whether/IN obtaining/VBG inside/IN 
+[ information/NN ]
+through/IN 
+[ a/DT breach/NN ]
+of/IN 
+[ confidence/NN ]
+among/IN 
+[ family/NN members/NNS ]
+constitutes/VBZ 
+[ insider/NN ]
+trading/NN ./. 
+
+======================================
+
+[ The/DT ruling/NN ]
+,/, 
+[ which/WDT ]
+would/MD be/VB 
+[ the/DT first/JJ ]
+on/IN 
+[ the/DT issue/NN ]
+by/IN 
+[ a/DT federal/JJ appeals/NNS court/NN ]
+,/, is/VBZ expected/VBN to/TO help/VB define/VB 
+[ the/DT scope/NN ]
+of/IN 
+[ insider/NN ]
+trading/NN ,/, 
+[ a/DT murky/JJ area/NN ]
+of/IN 
+[ securities/NNS law/NN ]
+./. 
+
+Defining/VBG 
+[ insider/NN ]
+trading/NN is/VBZ especially/RB difficult/JJ when/WRB 
+[ the/DT investor/NN ]
+is/VBZ n't/RB 
+[ a/DT corporate/JJ insider/NN ]
+but/CC has/VBZ simply/RB heard/VBN 
+[ the/DT information/NN ]
+by/IN 
+[ accident/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT case/NN ]
+,/, 
+[ information/NN ]
+was/VBD inadvertently/RB leaked/VBN through/IN 
+[ a/DT chain/NN ]
+of/IN 
+[ communications/NNS ]
+within/IN 
+[ a/DT family/NN ]
+./. 
+
+[ The/DT case/NN ]
+involves/VBZ 
+[ Robert/NNP Chestman/NNP ]
+,/, 
+[ a/DT former/JJ broker/NN ]
+and/CC 
+[ vice/NN president/NN ]
+of/IN 
+[ the/DT New/NNP York/NNP brokerage/NN firm/NN Gruntal/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ Mr./NNP Chestman/NNP ]
+was/VBD convicted/VBN in/IN 
+[ March/NNP ]
+on/IN 
+[ 30/CD counts/NNS ]
+of/IN 
+[ securities/NNS ]
+and/CC 
+[ mail/NN fraud/NN ]
+and/CC 
+[ one/CD count/NN ]
+of/IN 
+[ perjury/NN ]
+in/IN 
+[ relation/NN ]
+to/TO 
+[ the/DT 1986/CD sale/NN ]
+of/IN 
+[ Waldbaum/NNP Inc./NNP ]
+to/TO 
+[ Great/JJ Atlantic/NNP ]
+&/CC 
+[ Pacific/NNP Tea/NNP Co/NNP ]
+./. 
+
+[ He/PRP ]
+was/VBD sentenced/VBN to/TO 
+[ two/CD years/NNS ]
+in/IN 
+[ prison/NN ]
+and/CC to/TO pay/VB approximately/RB 
+[ $/$ 250,000/CD ]
+in/IN 
+[ restitution/NN ]
+to/TO 
+[ people/NNS ]
+
+[ who/WP ]
+sold/VBD 
+[ Waldbaum/NNP stock/NN ]
+on/IN 
+[ Nov./NNP 26/CD ]
+,/, 
+[ 1986/CD ]
+./. 
+
+======================================
+
+[ The/DT government/NN 's/POS star/NN witness/NN ]
+was/VBD 
+[ Keith/NNP Loeb/NNP ]
+,/, 
+[ the/DT nephew/NN ]
+by/IN 
+[ marriage/NN ]
+of/IN 
+[ Waldbaum/NNP President/NNP Ira/NNP Waldbaum/NNP ]
+./. 
+
+[ Mr./NNP Loeb/NNP ]
+testified/VBD that/IN 
+[ he/PRP ]
+passed/VBD 
+[ material/JJ nonpublic/JJ information/NN ]
+to/TO 
+[ his/PRP$ broker/NN ]
+,/, 
+[ Mr./NNP Chestman/NNP ]
+,/, before/IN 
+[ the/DT public/JJ announcement/NN ]
+of/IN 
+[ the/DT $/$ 50-a-share/JJ sale/NN ]
+to/TO 
+[ A&P/NNP ]
+./. 
+
+[ The/DT government/NN ]
+said/VBD 
+[ Mr./NNP Chestman/NNP ]
+then/RB bought/VBD 
+[ 11,000/CD Waldbaum/NNP shares/NNS ]
+for/IN 
+[ himself/PRP ]
+,/, 
+[ Mr./NNP Loeb/NNP ]
+and/CC 
+[ other/JJ clients/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Loeb/NNP ]
+learned/VBD of/IN 
+[ A&P/NNP 's/POS takeover/NN plans/NNS ]
+through/IN 
+[ a/DT family/NN grapevine/NN ]
+initiated/VBN by/IN 
+[ Mr./NNP Waldbaum/NNP ]
+./. 
+
+During/IN 
+[ the/DT trial/NN ]
+
+[ it/PRP ]
+was/VBD disclosed/VBN that/IN 
+[ Mr./NNP Waldbaum/NNP ]
+told/VBD 
+[ his/PRP$ sister/NN ]
+to/TO gather/VB 
+[ her/PRP$ shares/NNS ]
+in/IN 
+[ anticipation/NN ]
+of/IN 
+[ the/DT sale/NN ]
+./. 
+
+[ The/DT sister/NN ]
+was/VBD 
+[ an/DT older/JJR woman/NN ]
+in/IN 
+[ frail/JJ health/NN ]
+
+[ who/WP ]
+asked/VBD 
+[ her/PRP$ daughter/NN ]
+to/TO give/VB 
+[ her/PRP ]
+
+[ a/DT lift/NN ]
+to/TO 
+[ the/DT bank/NN ]
+to/TO pick/VB up/RP 
+[ the/DT stock/NN ]
+certificates/NNS ./. 
+
+[ The/DT daughter/NN ]
+,/, in/IN 
+[ turn/NN ]
+,/, asked/VBD 
+[ her/PRP$ sister/NN ]
+--/: 
+[ who/WP ]
+was/VBD married/VBN to/TO 
+[ Mr./NNP Loeb/NNP ]
+--/: to/TO pick/VB up/RP 
+[ her/PRP$ children/NNS ]
+from/IN 
+[ school/NN ]
+so/IN 
+[ she/PRP ]
+could/MD take/VB 
+[ their/PRP$ mother/NN ]
+to/TO 
+[ the/DT bank/NN ]
+./. 
+
+[ That/DT sister/NN ]
+told/VBD 
+[ her/PRP$ husband/NN ]
+about/IN 
+[ the/DT plans/NNS ]
+,/, and/CC 
+[ he/PRP ]
+passed/VBD 
+[ them/PRP ]
+on/IN to/TO 
+[ Mr./NNP Chestman/NNP ]
+./. 
+
+[ No/DT member/NN ]
+of/IN 
+[ the/DT Waldbaum/NNP family/NN ]
+was/VBD accused/VBN of/IN 
+[ wrongdoing/NN ]
+./. 
+
+======================================
+
+[ Elkan/NNP Abramowitz/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP lawyer/NN ]
+representing/VBG 
+[ Mr./NNP Chestman/NNP ]
+,/, said/VBD 
+[ his/PRP$ ]
+is/VBZ n't/RB 
+[ an/DT insider-trading/JJ case/NN ]
+because/IN ``/`` 
+[ the/DT information/NN ]
+came/VBD from/IN 
+[ a/DT non-insider/NN ]
+,/, 
+[ a/DT distant/JJ relative/NN ]
+of/IN 
+[ Ira/NNP Waldbaum/NNP ]
+
+[ who/WP ]
+did/VBD not/RB get/VB 
+[ the/DT information/NN ]
+in/IN 
+[ a/DT corporate/JJ capacity/NN ]
+./. 
+
+''/'' 
+[ The/DT appeals/NNS court/NN ]
+will/MD hear/VB 
+[ arguments/NNS ]
+
+[ the/DT week/NN ]
+of/IN 
+[ Oct./NNP 9/CD ]
+./. 
+
+======================================
+
+[ Harvey/NNP Pitt/NNP ]
+,/, 
+[ an/DT insider-trading/JJ expert/NN ]
+and/CC 
+[ a/DT partner/NN ]
+at/IN 
+[ Fried/NNP ]
+,/, 
+[ Frank/NNP ]
+,/, 
+[ Harris/NNP ]
+,/, 
+[ Shriver/NNP ]
+&/CC 
+[ Jacobson/NNP ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, said/VBD 
+[ a/DT critical/JJ point/NN ]
+is/VBZ 
+[ the/DT reliability/NN ]
+of/IN 
+[ the/DT source/NN ]
+of/IN 
+[ information/NN ]
+./. 
+
+If/IN 
+[ someone/NN ]
+acts/VBZ on/IN 
+[ information/NN ]
+overheard/VBN in/IN 
+[ a/DT conversation/NN ]
+between/IN 
+[ people/NNS ]
+
+[ who/WP ]
+are/VBP n't/RB identified/VBN ,/, 
+[ there/EX ]
+is/VBZ 
+[ no/DT wrongdoing/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+However/WRB ``/`` 
+[ Mr./NNP Chestman/NNP ]
+knew/VBD that/IN 
+[ the/DT information/NN ]
+emanated/VBD from/IN 
+[ the/DT family/NN ]
+
+[ who/WP ]
+owned/VBD 
+[ the/DT business/NN ]
+./. 
+
+That/IN 
+[ it/PRP ]
+was/VBD reliable/JJ ,/, and/CC that/IN 
+[ he/PRP ]
+acted/VBD on/IN 
+[ it/PRP ]
+,/, is/VBZ critical/JJ here/RB ,/, ''/'' said/VBD 
+[ Mr./NNP Pitt/NNP ]
+./. 
+
+======================================
+
+[ JIM/NNP BEAM/NNP SUES/VBZ its/PRP$ insurer/NN ]
+over/IN 
+[ legal/JJ fees/NNS ]
+in/IN 
+[ fetal-alcohol/JJ suit/NN ]
+./. 
+
+======================================
+
+[ Jim/NNP Beam/NNP Brands/NNP Co./NNP ]
+won/VBD 
+[ a/DT key/JJ legal/JJ victory/NN ]
+in/IN 
+[ May/NNP ]
+when/WRB 
+[ a/DT jury/NN ]
+in/IN 
+[ Seattle/NNP ]
+ruled/VBD 
+[ the/DT company/NN ]
+could/MD n't/RB be/VB held/VBN liable/JJ for/IN 
+[ a/DT child/NN 's/POS birth/NN defects/NNS ]
+./. 
+
+[ The/DT child/NN 's/POS parents/NNS ]
+claimed/VBD 
+[ the/DT company/NN ]
+failed/VBD to/TO warn/VB 
+[ consumers/NNS ]
+of/IN 
+[ the/DT risks/NNS ]
+of/IN drinking/VBG 
+[ alcoholic/JJ beverages/NNS ]
+during/IN 
+[ pregnancy/NN ]
+./. 
+
+======================================
+
+[ The/DT Deerfield/NNP ]
+,/, 
+[ Ill./NNP ]
+,/, 
+[ distiller/NN ]
+is/VBZ back/RB in/IN 
+[ court/NN ]
+,/, claiming/VBG 
+[ Travelers/NNP Indemnity/NNP Co./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Travelers/NNP Corp./NNP ]
+of/IN 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, balked/VBD at/IN 
+[ reimbursing/VBG Beam/NNP ]
+for/IN 
+[ legal/JJ fees/NNS ]
+incurred/VBN during/IN 
+[ that/DT successful/JJ defense/NN ]
+./. 
+
+======================================
+
+[ The/DT New/NNP York/NNP law/NN firm/NN ]
+of/IN 
+[ Chadbourne/NNP ]
+&/CC 
+[ Parke/NNP ]
+and/CC 
+[ the/DT Seattle/NNP law/NN firm/NN ]
+of/IN 
+[ Stafford/NNP ]
+,/, 
+[ Frey/NNP ]
+,/, 
+[ Cooper/NNP ]
+&/CC 
+[ Stewart/NNP ]
+,/, 
+[ which/WDT ]
+
+[ both/DT ]
+represented/VBD 
+[ Jim/NNP Beam/NNP ]
+,/, were/VBD selected/VBN with/IN 
+[ Travelers/NNP '/POS consent/NN ]
+,/, 
+[ the/DT complaint/NN ]
+said/VBD ./. 
+
+======================================
+
+According/VBG to/TO 
+[ the/DT complaint/NN ]
+,/, filed/VBD 
+[ last/JJ week/NN ]
+in/IN 
+[ federal/JJ court/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, 
+[ Travelers/NNP ]
+encouraged/VBD 
+[ the/DT distiller/NN ]
+to/TO ``/`` defend/VB 
+[ the/DT litigation/NN ]
+with/IN 
+[ particular/JJ ]
+and/CC 
+[ thorough/JJ diligence/NN ]
+in/IN 
+[ light/NN ]
+of/IN 
+[ the/DT novel/JJ issues/NNS ]
+involved/VBN ./. 
+
+''/'' 
+[ Beam/NNP ]
+says/VBZ 
+[ Travelers/NNP ]
+was/VBD breaching/VBG 
+[ its/PRP$ insurance/NN contract/NN ]
+by/IN refusing/VBG to/TO pay/VB 
+[ the/DT legal/JJ fees/NNS ]
+./. 
+
+======================================
+
+[ The/DT fetal-alcohol/JJ case/NN ]
+was/VBD viewed/VBN as/IN having/VBG 
+[ national/JJ significance/NN ]
+./. 
+
+If/IN 
+[ Jim/NNP Beam/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ American/NNP Brands/NNP Inc./NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+,/, had/VBD lost/VBN ,/, 
+[ lawyers/NNS ]
+said/VBD ,/, 
+[ many/JJ other/JJ such/JJ cases/NNS ]
+might/MD have/VB been/VBN filed/VBN against/IN 
+[ liquor/NN companies/NNS ]
+./. 
+
+======================================
+
+[ William/NNP Tribou/NNP ]
+,/, 
+[ second/JJ vice/NN president/NN ]
+of/IN 
+[ Travelers/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+could/MD n't/RB comment/VB on/IN 
+[ the/DT suit/NN ]
+because/IN 
+[ he/PRP ]
+had/VBD n't/RB seen/VBN 
+[ the/DT papers/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Travelers/NNP ]
+already/RB paid/VBD 
+[ Jim/NNP Beam/NNP ]
+in/IN 
+[ excess/NN ]
+of/IN 
+[ $/$ 500,000/CD ]
+for/IN 
+[ legal/JJ fees/NNS ]
+and/CC had/VBD ``/`` 
+[ strong/JJ legal/JJ ]
+and/CC 
+[ factual/JJ reasons/NNS ]
+''/'' for/IN not/RB paying/VBG 
+[ the/DT additional/JJ fees/NNS ]
+in/IN 
+[ dispute/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Tribou/NNP ]
+said/VBD continuing/VBG 
+[ discussions/NNS ]
+were/VBD held/VBN with/IN 
+[ Jim/NNP Beam/NNP ]
+and/CC 
+[ American/NNP Brands/NNP ]
+over/IN 
+[ the/DT disputed/VBN fees/NNS ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+said/VBD totaled/VBD 
+[ several/JJ million/CD dollars/NNS ]
+./. 
+
+======================================
+
+[ FSLIC/NNP SEEKS/VBZ criminal/JJ restitution/NN ]
+in/IN 
+[ Sunrise/NNP Savings/NNP case/NN ]
+./. 
+
+======================================
+
+[ The/DT Federal/NNP Savings/NNP ]
+and/CC 
+[ Loan/NNP Insurance/NNP Corp./NNP ]
+asked/VBD 
+[ a/DT federal/JJ court/NN ]
+in/IN 
+[ Miami/NNP ]
+to/TO order/VB 
+[ two/CD former/JJ officers/NNS ]
+of/IN 
+[ the/DT defunct/JJ Sunrise/NNP Savings/NNP ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+to/TO repay/VB 
+[ $/$ 2.9/CD million/CD ]
+in/IN ``/`` misapplied/VBN 
+[ funds/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT two/CD ]
+are/VBP 
+[ Robert/NNP C./NNP Jacoby/NNP ]
+--/: 
+[ former/JJ chairman/NN ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+of/IN 
+[ the/DT thrift/NN ]
+--/: and/CC 
+[ Thomas/NNP Skubal/NNP ]
+,/, 
+[ who/WP ]
+was/VBD vice/NN 
+[ president/NN ]
+of/IN 
+[ the/DT savings/NNS ]
+and/CC 
+[ loan/NN 's/POS mortgage/NN unit/NN ]
+./. 
+
+[ They/PRP ]
+were/VBD recently/RB convicted/VBN on/IN 
+[ various/JJ charges/NNS ]
+,/, including/VBG 
+[ fraud/NN ]
+and/CC 
+[ misapplication/NN ]
+of/IN 
+[ funds/NNS ]
+,/, in/IN 
+[ connection/NN ]
+with/IN 
+[ real-estate/NN loans/NNS ]
+to/TO 
+[ developers/NNS ]
+./. 
+
+Sentencing/NN ,/, 
+[ which/WDT ]
+had/VBD been/VBN scheduled/VBN for/IN 
+[ last/JJ week/NN ]
+,/, has/VBZ been/VBN set/VBN for/IN 
+[ Oct/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ recent/JJ years/NNS ]
+,/, 
+[ the/DT FSLIC/NNP ]
+has/VBZ become/VBN increasingly/RB aggressive/JJ in/IN 
+[ seeking/VBG restitution/NN ]
+in/IN 
+[ criminal/JJ cases/NNS ]
+involving/VBG 
+[ wrongdoing/NN ]
+in/IN 
+[ the/DT thrift/NN industry/NN ]
+./. 
+
+Although/IN 
+[ prosecutors/NNS ]
+concede/VBP 
+[ the/DT chance/NN ]
+of/IN collecting/VBG 
+[ much/JJ money/NN ]
+is/VBZ slim/JJ ,/, 
+[ they/PRP ]
+say/VBP 
+[ they/PRP ]
+are/VBP under/IN 
+[ considerable/JJ pressure/NN ]
+from/IN 
+[ the/DT Bush/NNP administration/NN ]
+to/TO make/VB 
+[ the/DT effort/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP going/VBG to/TO be/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ these/DT cases/NNS ]
+coming/VBG up/RP ,/, ''/'' says/VBZ 
+[ Howard/NNP Feinstein/NNP ]
+,/, 
+[ special/JJ counsel/NN ]
+for/IN 
+[ the/DT Federal/NNP Home/NNP Loan/NNP Bank/NNP Board/NNP ]
+,/, 
+[ which/WDT ]
+oversees/VBZ 
+[ the/DT FSLIC/NNP ]
+./. 
+
+In/IN 
+[ October/NNP ]
+,/, 
+[ the/DT FSLIC/NNP ]
+will/MD come/VB under/IN 
+[ the/DT jurisdiction/NN ]
+of/IN 
+[ the/DT Federal/NNP Deposit/NNP Insurance/NNP Corp/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT Sunrise/NNP case/NN ]
+,/, 
+[ the/DT amount/NN ]
+being/VBG sought/VBD includes/VBZ 
+[ $/$ 1.3/CD million/CD ]
+,/, 
+[ the/DT price/NN ]
+of/IN 
+[ a/DT 26-carat/JJ diamond/NN ring/NN ]
+purchased/VBN by/IN 
+[ a/DT real-estate/NN developer/NN ]
+./. 
+
+[ Mr./NNP Jacoby/NNP ]
+was/VBD convicted/VBN of/IN misallocating/VBG 
+[ the/DT thrift/NN 's/POS funds/NNS ]
+by/IN letting/VBG 
+[ the/DT developer/NN ]
+cover/VB 
+[ the/DT purchase/NN ]
+with/IN 
+[ a/DT construction/NN loan/NN ]
+./. 
+
+======================================
+
+[ Lawyers/NNP ]
+for/IN 
+[ Messrs./NNS Jacoby/NNP ]
+and/CC 
+[ Skubal/NNP ]
+say/VBP 
+[ they/PRP ]
+will/MD fight/VB 
+[ the/DT FSLIC/NNP ]
+,/, arguing/VBG that/IN 
+[ neither/DT man/NN ]
+received/VBD 
+[ any/DT ]
+of/IN 
+[ the/DT money/NN ]
+in/IN 
+[ question/NN ]
+./. 
+
+======================================
+
+[ NEW/NNP JERSEY'S/NNP HIGHEST/JJS COURT/NN ]
+will/MD be/VB 
+[ a/DT defendant/NN ]
+in/IN 
+[ a/DT suit/NN ]
+by/IN 
+[ two/CD lawyers/NNS ]
+./. 
+
+======================================
+
+Filed/VBN by/IN 
+[ Mark/NNP Guralnick/NNP ]
+and/CC 
+[ Joel/NNP Wayne/NNP Gerber/NNP ]
+,/, of/IN 
+[ Mount/NNP Laurel/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ the/DT suit/NN ]
+challenges/VBZ 
+[ the/DT state/NN 's/POS system/NN ]
+of/IN 
+[ arbitrating/VBG fee/NN disputes/NNS ]
+between/IN 
+[ lawyers/NNS ]
+and/CC 
+[ clients/NNS ]
+rather/RB than/IN letting/VBG 
+[ such/JJ conflicts/NNS ]
+go/VB to/TO 
+[ court/NN ]
+./. 
+
+======================================
+
+[ The/DT arbitration/NN panels/NNS ]
+,/, comprising/VBG 
+[ both/DT ]
+
+[ lawyers/NNS ]
+and/CC 
+[ lay/JJ people/NNS ]
+,/, are/VBP 
+[ arms/NNS ]
+of/IN 
+[ the/DT New/NNP Jersey/NNP Supreme/NNP Court/NNP ]
+./. 
+
+[ Their/PRP$ mission/NN ]
+is/VBZ to/TO hear/VB 
+[ both/DT ]
+
+[ sides/NNS ]
+and/CC then/RB come/VB up/RP with/IN 
+[ a/DT fair/JJ ]
+--/: and/CC binding/JJ --/: 
+[ settlement/NN ]
+./. 
+
+======================================
+
+[ The/DT lawyers/NNS ]
+say/VBP 
+[ the/DT system/NN ]
+is/VBZ unconstitutional/JJ because/IN 
+[ it/PRP ]
+deprives/VBZ 
+[ them/PRP ]
+of/IN 
+[ a/DT right/NN ]
+to/TO 
+[ a/DT trial/NN ]
+before/IN 
+[ a/DT jury/NN ]
+in/IN 
+[ such/JJ fee/NN disputes/NNS ]
+./. 
+
+======================================
+
+[ The/DT federal/JJ suit/NN ]
+names/VBZ 
+[ the/DT New/NNP Jersey/NNP high/JJ court/NN ]
+,/, 
+[ an/DT arbitration/NN panel/NN ]
+and/CC 
+[ a/DT former/JJ client/NN ]
+in/IN 
+[ a/DT divorce/NN case/NN ]
+
+[ who/WP ]
+
+[ the/DT lawyers/NNS claim/VBP ]
+still/RB owes/VBZ 
+[ them/PRP ]
+
+[ $/$ 1,000/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+feel/VBP entitled/VBN to/TO have/VB 
+[ the/DT same/JJ redress/NN ]
+in/IN 
+[ court/NN ]
+that/IN 
+[ other/JJ citizens/NNS ]
+have/VBP ,/, '/'' said/VBD 
+[ Mr./NNP Guralnick/NNP ]
+./. 
+
+======================================
+
+[ JURY/NN REJECTS/VBZ religious/NN  defense/NN ]
+to/TO 
+[ sex-for-hire/JJ charges/NNS ]
+./. 
+
+======================================
+
+When/WRB 
+[ the/DT Los/NNP Angeles/NNP City/NNP Attorney/NNP 's/POS office/NN ]
+accused/VBD 
+[ the/DT leaders/NNS ]
+of/IN 
+[ the/DT Church/NNP ]
+of/IN 
+[ the/DT Most/NNP High/NNP Goddess/NNP ]
+of/IN running/VBG 
+[ a/DT brothel/NN ]
+,/, 
+[ the/DT defendants/NNS ]
+countered/VBD that/IN 
+[ the/DT sexual/JJ practices/NNS ]
+in/IN 
+[ question/NN ]
+were/VBD 
+[ an/DT integral/JJ part/NN ]
+of/IN 
+[ their/PRP$ religion/NN ]
+./. 
+
+======================================
+
+[ High/NNP Priest/NNP Wilbur/NNP Tracy/NNP ]
+and/CC 
+[ High/NNP Priestess/NNP Mary/NNP Ellen/NNP Tracy/NNP ]
+said/VBD at/IN 
+[ their/PRP$ trial/NN last/JJ month/NN ]
+that/IN 
+[ rites/NNS ]
+for/IN 
+[ would-be/JJ members/NNS ]
+include/VBP 
+[ sexual/JJ relations/NNS ]
+with/IN 
+[ Ms./NNP Tracy/NNP ]
+,/, as/RB well/RB as/IN 
+[ donations/NNS ]
+to/TO 
+[ the/DT church/NN ]
+./. 
+
+[ The/DT Tracys/NNP '/POS lawyers/NNS ]
+argued/VBD that/IN to/TO construe/VB 
+[ the/DT rites/NNS ]
+as/IN 
+[ prostitution/NN ]
+would/MD deny/VB 
+[ the/DT Tracys/NNP their/PRP$ First/NNP Amendment/NNP right/NN ]
+to/TO practice/VB 
+[ religion/NN ]
+according/VBG to/TO 
+[ their/PRP$ beliefs/NNS ]
+,/, regardless/RB of/IN how/WRB 
+[ unconventional/JJ the/DT beliefs/NNS ]
+may/MD be/VB ./. 
+
+======================================
+
+``/`` 
+[ The/DT question/NN ]
+became/VBD whether/IN 
+[ they/PRP ]
+honestly/RB were/VBD practicing/VBG 
+[ their/PRP$ beliefs/NNS ]
+or/CC using/VBG 
+[ the/DT beliefs/NNS ]
+as/IN 
+[ a/DT front/NN ]
+for/IN 
+[ illegal/JJ activities/NNS ]
+,/, ''/'' said/VBD 
+[ Jonni/NNP Hoffman/NNP ]
+,/, 
+[ deputy/NN city/NN attorney/NN ]
+./. 
+
+======================================
+
+Rendering/VBG 
+[ their/PRP$ decision/NN ]
+earlier/RBR 
+[ this/DT month/NN ]
+,/, 
+[ the/DT jury/NN ]
+rejected/VBD 
+[ the/DT defense/NN ]
+and/CC convicted/VBD 
+[ the/DT High/NNP Priest/NNP ]
+and/CC 
+[ Priestess/NNP ]
+./. 
+
+======================================
+
+But/CC ,/, with/IN 
+[ the/DT help/NN ]
+of/IN 
+[ First/NNP Amendment/NNP advocates/NNS ]
+
+[ who/WP ]
+took/VBD up/RP 
+[ their/PRP$ cause/NN ]
+,/, 
+[ the/DT Tracys/NNS ]
+are/VBP planning/VBG to/TO appeal/VB ./. 

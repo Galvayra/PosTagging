@@ -1,0 +1,263 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+ (/( During/IN 
+[ its/PRP$ centennial/NN year/NN ]
+,/, 
+[ The/DT Wall/NNP Street/NNP Journal/NNP ]
+will/MD report/VB 
+[ events/NNS ]
+of/IN 
+[ the/DT past/JJ century/NN ]
+
+[ that/WDT stand/VBP  ]
+as/IN 
+[ milestones/NNS ]
+of/IN 
+[ American/JJ business/NN history/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ TELEVISION/NN ]
+AND/CC 
+[ THE/DT RUSH/NN ]
+TO/TO 
+[ SUBURBIA/NN ]
+,/, 
+[ two/CD post-World/NNP War/NNP II/NNP phenomena/NNS ]
+,/, would/MD eventually/RB spell/VB 
+[ big/JJ trouble/NN ]
+for/IN 
+[ big-city/JJ newspapers/NNS ]
+./. 
+
+[ Giants/NNS ]
+like/IN 
+[ William/NNP Randolph/NNP Hearst/NNP ]
+could/MD hang/VB on/RB to/TO 
+[ a/DT 26-paper/JJ chain/NN ]
+but/CC after/RB 
+[ he/PRP ]
+died/VBD in/IN 
+[ 1951/CD ]
+,/, 
+[ his/PRP$ heirs/NNS ]
+folded/VBD ,/, merged/VBD or/CC sold/VBD 
+[ dailies/NNS ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ Milwaukee/NNP ]
+,/, 
+[ Chicago/NNP ]
+,/, 
+[ Detroit/NNP ]
+,/, 
+[ Pittsburgh/NNP ]
+and/CC 
+[ Boston/NNP ]
+./. 
+
+[ May/NNP 7/CD ]
+,/, 
+[ 1967/CD ]
+,/, was/VBD 
+[ a/DT day/NN ]
+of/IN 
+[ foreboding/NN ]
+,/, particularly/RB for/IN 
+[ afternoon/NN papers/NNS ]
+,/, long/RB 
+[ the/DT dominant/JJ force/NN ]
+among/IN 
+[ daily/JJ newspapers/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ that/DT day/NN ]
+,/, 
+[ Hearst/NNP ]
+lost/VBD 
+[ his/PRP$ voice/NN ]
+in/IN 
+[ New/NNP York/NNP City/NNP ]
+,/, as/IN did/VBD 
+[ two/CD other/JJ major/JJ publishers/NNS ]
+,/, 
+[ the/DT Scripps-Howard/NNP chain/NN ]
+and/CC 
+[ John/NNP Hay/NNP Whitney/NNP ]
+./. 
+
+======================================
+
+[ The/DT last/JJ gasp/NN ]
+for/IN 
+[ all/DT three/CD ]
+was/VBD 
+[ an/DT afternoon/NN paper/NN ]
+called/VBN 
+[ the/DT World-Journal-Tribune/NNP ]
+,/, 
+[ an/DT eight-month/JJ old/JJ amalgam/NN ]
+of/IN 
+[ Hearst/NNP 's/POS afternoon/NN Journal-American/NNP ]
+and/CC 
+[ Scripp/NNP 's/POS World-Telegram/NNP ]
+&/CC 
+[ Sun/NNP ]
+and/CC 
+[ Whitney/NNP 's/POS morning/NN Herald-Tribune/NNP ]
+./. 
+
+[ The/DT Journal/NNP ]
+and/CC 
+[ the/DT World-Telegram/NNP ]
+had/VBD been/VBN 
+[ flagships/NNS ]
+of/IN 
+[ their/PRP$ chains/NNS ]
+and/CC 
+[ Jock/NNP Whitney/NNP 's/POS Trib/NNP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS respected/JJ papers/NNS ]
+in/IN 
+[ the/DT country/NN ]
+./. 
+
+======================================
+
+[ All/DT three/CD papers/NNS ]
+had/VBD been/VBN plagued/VBN by/IN falling/VBG and/CC 
+[ volume/NN ]
+and/CC 
+[ rising/VBG labor/NN costs/NNS ]
+./. 
+
+In/IN 
+[ desperation/NN ]
+,/, 
+[ they/PRP ]
+merged/VBD in/IN 
+[ 1966/CD ]
+into/IN 
+[ the/DT World-Journal-Tribune/NNP ]
+,/, ``/`` 
+[ The/DT Widget/NNP ]
+./. 
+
+''/'' 
+[ Symptomatic/JJ ]
+of/IN 
+[ their/PRP$ troubles/NNS ]
+was/VBD that/IN after/IN merging/VBG in/IN 
+[ April/NNP ]
+,/, 
+[ labor/NN bickering/NN ]
+kept/VBD 
+[ the/DT Widget/NNP ]
+off/IN 
+[ the/DT newsstands/NNS ]
+until/IN 
+[ September/NNP ]
+./. 
+
+[ The/DT end/NN ]
+came/VBD when/WRB 
+[ Whitney/NNP ]
+refused/VBD to/TO keep/VB subsidizing/VBG 
+[ the/DT paper/NN 's/POS $/$ 700,000-a-month/JJ losses/NNS ]
+./. 
+
+[ Its/PRP$ death/NN ]
+left/VBD 
+[ the/DT afternoon/NN field/NN ]
+to/TO 
+[ the/DT ever-dying/JJ ]
+,/, 
+[ everlasting/JJ Post/NNP ]
+,/, and/CC 
+[ the/DT mornings/NNS ]
+to/TO 
+[ the/DT New/NNP York/NNP Times/NNP ]
+and/CC 
+[ the/DT tabloid/NN Daily/NNP News/NNP ]
+as/IN 
+[ general/JJ newspapers/NNS ]
+./. 
+
+======================================
+
+[ The/DT balance/NN ]
+between/IN 
+[ morning/NN ]
+and/CC 
+[ afternoon/NN dailies/NNS ]
+would/MD remain/VB constant/JJ until/IN 
+[ the/DT mid-1970s/NNS ]
+,/, but/CC 
+[ television/NN ]
+and/CC 
+[ the/DT newer/JJR suburban/JJ dailies/NNS ]
+were/VBD taking/VBG 
+[ their/PRP$ toll/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD to/TO be/VB 
+[ death/NN ]
+in/IN 
+[ the/DT afternoon/NN ]
+./. 
+
+In/IN 
+[ 1975/CD ]
+,/, 
+[ there/EX ]
+were/VBD 
+[ 339/CD morning/NN papers/NNS ]
+and/CC 
+[ 1,436/CD afternoons/NNS ]
+./. 
+
+By/IN 
+[ 1980/CD ]
+,/, 
+[ the/DT AMs/NNS ]
+were/VBD up/RB to/TO 
+[ 387/CD ]
+and/CC 
+[ the/DT PMs/NNS ]
+down/RB to/TO 
+[ 1,388/CD ]
+,/, and/CC by/IN 
+[ 1988/CD morning/NN readers/NNS ]
+could/MD find/VB 
+[ 529/CD papers/NNS ]
+while/IN 
+[ the/DT going-home/JJ crowd/NN ]
+was/VBD down/RB to/TO 
+[ 1,141/CD ]
+./. 

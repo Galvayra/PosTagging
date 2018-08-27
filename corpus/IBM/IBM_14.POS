@@ -1,0 +1,1270 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1301/CD ]
+./. 
+
+[ The/DT number/NN ]
+
+[ you/PRP ]
+use/VBP may/MD range/VB from/IN 
+[ 1/CD ]
+to/TO 
+[ 5/CD ]
+./. 
+
+[ 1302/CD ]
+./. 
+
+[ You/PRP ]
+must/MD have/VBN already/RB configured/VBN 
+[ the/DT session/NN ]
+./. 
+
+[ 1303/CD ]
+./. 
+
+[ The/DT following/VBG example/NN ]
+shows/VBZ 
+[ two/CD display/NN sessions/NNS ]
+and/CC 
+[ one/CD printer/NN session/NN ]
+./. 
+
+[ 1304/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ while/IN 
+[ a/DT session/NN ]
+is/VBZ starting/VBG ,/, 
+[ a/DT message/NN ]
+appears/VBZ next/JJ to/TO 
+[ the/DT session/NN number/NN ]
+./. 
+
+[ 1305/CD ]
+./. 
+
+When/WRB 
+[ the/DT session/NN ]
+is/VBZ successfully/RB started/VBN ,/, 
+[ the/DT status/NN ]
+changes/VBZ to/TO Started/VBN (/( as/RB shown/VBN )/) ./. 
+
+[ 1306/CD ]
+./. 
+
+[ Printer/NN sessions/NNS ]
+start/VBP first/RB followed/VBN by/IN 
+[ display/NN sessions/NNS ]
+./. 
+
+[ 1307/CD ]
+./. 
+
+[ The/DT hot-key/JJ sequence/NN ]
+allows/VBZ 
+[ you/PRP ]
+to/TO switch/VB 
+[ sessions/NNS ]
+within/IN 
+[ the/DT work/NN station/NN mode/NN ]
+and/CC from/IN 
+[ the/DT work/NN station/NN mode/NN ]
+to/TO 
+[ the/DT personal/JJ computer/NN mode/NN ]
+./. 
+
+[ 1308/CD ]
+./. 
+
+[ The/DT default/NN hot-key/NN sequence/NN ]
+is/VBZ 
+[ Alt/NNP +/SYM Esc/NNP ]
+./. 
+
+[ 1309/CD ]
+./. 
+
+[ STOPWSF/NNP ]
+has/VBZ 
+[ one/CD required/VBN parameter/NN ]
+,/, 
+[ session/NN number/NN ]
+,/, and/CC 
+[ one/CD optional/JJ parameter/NN ]
+,/, 
+[ force/NN ]
+./. 
+
+[ 1310/CD ]
+./. 
+
+[ The/DT command/NN ]
+has/VBZ 
+[ the/DT following/VBG format/NN ]
+:/: 
+[ 1311/CD ]
+./. 
+
+[ STOPWSF/NNP S/NNP \/F/NNP ]
+where/WRB :/: 
+[ 1312/CD ]
+./. 
+
+[ S/NNP ]
+Is/VBZ 
+[ the/DT session/NN number/NN ]
+to/TO stop/VB ./. 
+
+[ 1313/CD ]
+./. 
+
+[ This/DT number/NN ]
+may/MD be/VB in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 1/CD ]
+to/TO 
+[ 5/CD ]
+./. 
+
+[ 1314/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+intend/VBP to/TO use/VB 
+[ work/NN station/NN function/NN graphics/NNS ]
+,/, 
+[ you/PRP ]
+must/MD run/VB 
+[ this/DT command/NN ]
+
+[ each/DT time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ the/DT personal/JJ computer/NN ]
+./. 
+
+[ 1315/CD ]
+./. 
+
+Be/VB sure/JJ to/TO run/VB 
+[ this/DT command/NN ]
+before/IN 
+[ you/PRP ]
+start/VBP 
+[ work/NN station/NN function/NN ]
+./. 
+
+[ 1316/CD ]
+./. 
+
+[ This/DT program/NN ]
+must/MD be/VB running/VBG in/IN 
+[ the/DT DOS/NNP session/NN ]
+before/IN 
+[ you/PRP ]
+can/MD process/VB 
+[ graphics/NNS data/NNS ]
+./. 
+
+[ 1317/CD ]
+./. 
+
+[ This/DT ]
+does/VBZ not/RB affect/VB 
+[ programs/NNS ]
+used/VBN by/IN 
+[ the/DT work/NN station/NN function/NN ]
+./. 
+
+[ 1318/CD ]
+./. 
+
+Using/VBG 
+[ work/NN station/NN function/NN graphics/NNS ]
+support/VB 
+[ every/DT time/NN ]
+
+[ you/PRP ]
+use/VBP 
+[ work/NN station/NN function/NN ]
+./. 
+
+[ 1319/CD ]
+./. 
+
+Therefore/RB ,/, 
+[ the/DT cursor/NN ]
+appears/VBZ when/WRB 
+[ the/DT work/NN station/NN function/NN ]
+is/VBZ waiting/VBG for/IN 
+[ the/DT host/NN system/NN ]
+to/TO provide/VB 
+[ more/JJR graphics/NNS data/NNS ]
+./. 
+
+[ 1320/CD ]
+./. 
+
+[ Cursor/NN movement/NN keys/NNS ]
+move/VBP 
+[ the/DT cursor/NN ]
+when/WRB 
+[ the/DT type/NN ]
+of/IN 
+[ display/NN ]
+being/VBG shown/VBN allows/VBZ 
+[ it/PRP ]
+./. 
+
+[ 1321/CD ]
+./. 
+
+Switching/VBG 
+[ sessions/NNS You/PRP ]
+can/MD use/VB 
+[ the/DT hot-key/JJ sequence/NN ]
+at/IN 
+[ any/DT time/NN ]
+to/TO 
+[ switch/VB sessions/NNS ]
+./. 
+
+[ 1322/CD ]
+./. 
+
+[ You/PRP ]
+can/MD end/VB 
+[ WSF/NNP ]
+and/CC use/VB 
+[ CFGWSF/NNP ]
+to/TO increase/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT VDI/NNP buffer/NN ]
+./. 
+
+[ 1323/CD ]
+./. 
+
+[ The/DT default/NN size/NN ]
+is/VBZ 
+[ the/DT minimum/NN ]
+,/, 
+[ 20K/CD bytes/NNS ]
+;/: 
+[ 64K/CD bytes/NNS ]
+is/VBZ 
+[ the/DT maximum/JJ size/NN ]
+./. 
+
+[ 1324/CD ]
+./. 
+
+[ Any/DT size/NN increase/NN ]
+will/MD be/VB 
+[ additional/JJ memory/NN ]
+required/VBN by/IN 
+[ the/DT work/NN station/NN function/NN ]
+for/IN 
+[ the/DT session/NN ]
+./. 
+
+[ 1325/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+have/VBP requested/VBN 
+[ graphics/NNS ]
+from/IN 
+[ the/DT host/NN system/NN ]
+,/, 
+[ the/DT data/NN ]
+is/VBZ processed/VBN even/RB if/IN 
+[ you/PRP ]
+are/VBP in/IN 
+[ another/DT session/NN ]
+./. 
+
+[ 1326/CD ]
+./. 
+
+[ The/DT work/NN station/NN function/NN ]
+supports/VBZ 
+[ these/DT same/JJ capabilities/NNS ]
+for/IN 
+[ graphics/NNS sessions/NNS ]
+or/CC as/IN 
+[ many/JJ ]
+of/IN 
+[ these/DT capabilities/NNS ]
+as/IN 
+[ the/DT display/NN ]
+
+[ you/PRP ]
+use/VBP allows/VBZ ./. 
+
+[ 1327/CD ]
+./. 
+
+[ The/DT graphics/NNS ]
+display/NN on/IN 
+[ a/DT personal/JJ computer/NN ]
+is/VBZ not/RB identical/JJ to/TO 
+[ the/DT IBM/NNP 5292/CD graphics/NNS ]
+display/NN ./. 
+
+[ 1328/CD ]
+./. 
+
+[ The/DT local/JJ select/JJ mode/NN ]
+lets/VBZ 
+[ you/PRP ]
+use/VB 
+[ the/DT keyboard/NN ]
+for/IN 
+[ several/JJ functions/NNS ]
+while/IN 
+[ the/DT display/NN ]
+is/VBZ in/IN 
+[ the/DT graphics/NNS state/NN ]
+./. 
+
+[ 1329/CD ]
+./. 
+
+[ The/DT only/JJ local/JJ select/JJ function/NN ]
+
+[ you/PRP ]
+can/MD use/VB for/IN 
+[ displays/NNS ]
+
+[ that/WDT ]
+are/VBP not/RB in/IN 
+[ the/DT graphics/NNS state/NN ]
+is/VBZ 
+[ the/DT function/NN ]
+to/TO change/VB 
+[ your/PRP$ text/NN data/NNS ]
+into/IN 
+[ graphics/NNS ]
+./. 
+
+[ 1330/CD ]
+./. 
+
+To/TO avoid/VB 
+[ this/DT condition/NN ]
+,/, use/VB 
+[ CFGWSF/NNP ]
+to/TO make/VB 
+[ the/DT buffer/NN size/NN ]
+larger/JJR than/IN 
+[ 20K/NNP bytes/NNS ]
+./. 
+
+[ 1331/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT ]
+only/RB 
+[ local/JJ select/JJ function/NN ]
+
+[ you/PRP ]
+can/MD use/VB when/WRB 
+[ the/DT display/NN ]
+is/VBZ not/RB in/IN 
+[ graphics/NNS state/NN ]
+,/, but/CC is/VBZ showing/VBG 
+[ text/NN ]
+only/RB ./. 
+
+[ 1332/CD ]
+./. 
+
+[ The/DT change/NN ]
+has/VBZ 
+[ no/DT effect/NN ]
+until/IN 
+[ the/DT next/JJ chart/NN ]
+is/VBZ requested/VBN from/IN 
+[ the/DT host/NN system/NN ]
+./. 
+
+[ 1333/CD ]
+./. 
+
+During/IN 
+[ local/JJ select/JJ mode/NN ]
+,/, 
+[ any/DT keys/NNS ]
+other/JJ than/IN 
+[ the/DT correct/JJ local/JJ select/JJ keys/NNS ]
+cause/VBP 
+[ a/DT beep/NN ]
+and/CC are/VBP cleared/VBN ./. 
+
+[ 1334/CD ]
+./. 
+
+To/TO use/VB 
+[ a/DT plotter/NN ]
+with/IN 
+[ a/DT graphics/NNS session/NN ]
+,/, 
+[ you/PRP ]
+must/MD 
+[ configure/VB ]
+
+[ the/DT display/NN session/NN type/NN ]
+as/IN 
+[ host/NN graphics/NNS ]
+support/NN with/IN 
+[ a/DT plotter/NN ]
+attached/VBN ./. 
+
+[ 1335/CD ]
+./. 
+
+[ You/PRP ]
+may/MD 
+[ configure/VB ]
+
+[ any/DT graphics/NNS ]
+display/NN 
+[ session/NN ]
+for/IN 
+[ a/DT plotter/NN ]
+./. 
+
+[ 1336/CD ]
+./. 
+
+[ Work/NN station/NN function/NN ]
+does/VBZ not/RB support/VB 
+[ any/DT plotter/NN ]
+
+[ that/WDT ]
+is/VBZ not/RB directly/RB attached/VBN to/TO 
+[ the/DT personal/JJ computer/NN ]
+./. 
+
+[ 1337/CD ]
+./. 
+
+[ The/DT graphics/NNS data/NN stream/NN ]
+generated/VBN by/IN 
+[ the/DT host/NN system/NN ]
+uses/VBZ 
+[ an/DT IEEE-488/NNP protocol/NN ]
+./. 
+
+[ 1338/CD ]
+./. 
+
+[ The/DT work/NN station/NN function/NN ]
+removes/VBZ 
+[ IEEE-488/NNP protocol/NN ]
+commands/NNS and/CC sends/VBZ 
+[ the/DT remaining/VBG data/NN ]
+to/TO 
+[ the/DT plotter/NN ]
+by/IN 
+[ way/NN ]
+of/IN 
+[ the/DT interface/NN ]
+./. 
+
+[ 1339/CD ]
+./. 
+
+[ The/DT VDI/NNP commands/NNS ]
+are/VBP not/RB used/VBN ./. 
+
+[ 1340/CD ]
+./. 
+
+[ The/DT work/NN station/NN function/NN ]
+can/MD not/RB support/VB 
+[ a/DT plotter/NN ]
+when/WRB 
+[ both/CC ]
+
+[ an/DT asynchronous/JJ communications/NNS adapter/NN ]
+and/CC 
+[ an/DT SDLC/NNP ]
+or/CC 
+[ BSC/NNP adapter/NN ]
+are/VBP used/VBN at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+[ 1341/CD ]
+./. 
+
+[ You/PRP ]
+must/MD first/RB set/VB up/RP 
+[ a/DT printer/NN session/NN ]
+using/VBG 
+[ the/DT work/NN station/NN function/NN configuration/NN program/NN ]
+,/, 
+[ CFGWSF/NNP ]
+./. 
+
+[ 1342/CD ]
+./. 
+
+For/IN 
+[ details/NNS ]
+,/, see/VB ``/`` 
+[ Setting/VBG ]
+Up/RP 
+[ a/DT Session/NNP Profile/NNP ''/'' ]
+in/IN 
+[ topic/NN 5.4/CD ]
+./. 
+
+[ 1343/CD ]
+./. 
+
+[ You/PRP ]
+should/MD not/RB control/VB 
+[ your/PRP$ printer/NN session/NN ]
+from/IN 
+[ the/DT operator/NN panel/NN ]
+on/IN 
+[ the/DT printer/NN ]
+./. 
+
+[ 1344/CD ]
+./. 
+
+[ You/PRP ]
+should/MD control/VB 
+[ it/PRP ]
+from/IN 
+[ the/DT printer/NN operator/NN panel/NN ]
+displayed/VBN in/IN 
+[ your/PRP$ printer/NN session/NN ]
+./. 
+
+[ 1345/CD ]
+./. 
+
+[ Printer/NN sessions/NNS ]
+use/VBP 
+[ the/DT same/JJ keyboard/NN arrangement/NN ]
+as/IN 
+[ display/NN sessions/NNS ]
+./. 
+
+[ 1346/CD ]
+./. 
+
+To/TO control/VB 
+[ printers/NNS ]
+from/IN 
+[ your/PRP$ printer/NN panel/NN display/NN ]
+,/, select/VB 
+[ the/DT option/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB ./. 
+
+[ 1347/CD ]
+./. 
+
+If/IN 
+[ the/DT Ready/NNP indicator/NN ]
+is/VBZ on/IN ,/, 
+[ you/PRP ]
+do/VBP not/RB have/VB to/TO use/VB 
+[ this/DT option/NN ]
+./. 
+
+[ 1348/CD ]
+./. 
+
+To/TO continue/VB printing/VBG ,/, 
+[ you/PRP ]
+must/MD use/VB 
+[ the/DT Start/NNP option/NN ]
+./. 
+
+[ 1349/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+turn/VBP on/RP 
+[ the/DT power/NN ]
+again/RB ,/, 
+[ you/PRP ]
+should/MD use/VB 
+[ the/DT Start/NNP option/NN ]
+./. 
+
+[ 1350/CD ]
+./. 
+
+Be/VB sure/JJ to/TO use/VB 
+[ this/DT option/NN ]
+from/IN 
+[ the/DT panel/NN ]
+./. 
+
+[ 1351/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+use/VBP 
+[ the/DT Line/NNP Feed/NN switch/NN ]
+on/IN 
+[ the/DT printer/NN ]
+during/IN 
+[ a/DT printer/NN session/NN ]
+,/, 
+[ the/DT paper/NN ]
+may/MD no/RB longer/RB be/VB aligned/VBN ./. 
+
+[ 1352/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+use/VBP 
+[ the/DT Form/NNP Feed/NN switch/NN ]
+on/IN 
+[ the/DT printer/NN ]
+,/, 
+[ the/DT paper/NN ]
+may/MD no/RB longer/RB be/VB aligned/VBN ./. 
+
+[ 1353/CD ]
+./. 
+
+[ Select/VB Printer/NNP Values/NNPS Allows/VBZ you/PRP ]
+to/TO specify/VB 
+[ the/DT number/NN ]
+of/IN 
+[ lines/NNS ]
+per/IN 
+[ inch/NN ]
+and/CC 
+[ the/DT number/NN ]
+of/IN 
+[ characters/NNS ]
+per/IN 
+[ inch/NN ]
+to/TO be/VB printed/VBN ./. 
+
+[ 1354/CD ]
+./. 
+
+To/TO select/VB 
+[ an/DT option/NN ]
+on/IN 
+[ the/DT display/NN ]
+,/, type/VB 
+[ the/DT number/NN ]
+of/IN 
+[ the/DT option/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB or/CC move/VB 
+[ the/DT cursor/NN ]
+to/TO 
+[ that/DT option/NN ]
+and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1355/CD ]
+./. 
+
+[ A/DT box/NN ]
+to/TO 
+[ the/DT left/NN ]
+of/IN 
+[ an/DT item/NN ]
+on/IN 
+[ the/DT display/NN ]
+indicates/VBZ 
+[ you/PRP ]
+can/MD select/VB 
+[ that/DT item/NN ]
+./. 
+
+[ 1356/CD ]
+./. 
+
+Remember/VB that/IN 
+[ the/DT printer/NN operator/NN panel/NN ]
+has/VBZ 
+[ the/DT same/JJ keyboard/NN arrangement/NN ]
+as/IN 
+[ your/PRP$ display/NN session/NN ]
+./. 
+
+[ 1357/CD ]
+./. 
+
+[ A/DT work/NN station/NN function/NN printer/NN session/NN ]
+has/VBZ 
+[ status/NN indicators/NNS ]
+
+[ that/WDT ]
+appear/VBP on/IN 
+[ the/DT lower/JJR half/NN ]
+of/IN 
+[ the/DT display/NN ]
+./. 
+
+[ 1358/CD ]
+./. 
+
+When/WRB 
+[ an/DT indicator/NN ]
+is/VBZ on/RB ,/, 
+[ it/PRP ]
+is/VBZ highlighted/VBN ./. 
+
+[ 1359/CD ]
+./. 
+
+[ The/DT following/VBG section/NN ]
+describes/VBZ 
+[ the/DT status/NN indicators/NNS ]
+
+[ that/WDT ]
+can/MD appear/VB on/IN 
+[ your/PRP$ printer/NN operator/NN panel/NN display/NN ]
+./. 
+
+[ 1360/CD ]
+./. 
+
+[ These/DT indicators/NNS ]
+are/VBP explained/VBN in/IN 
+[ more/JJR detail/NN ]
+below/RB ./. 
+
+[ 1361/CD ]
+./. 
+
+[ It/PRP ]
+tells/VBZ 
+[ you/PRP ]
+that/IN 
+[ the/DT printer/NN ]
+is/VBZ ready/JJ and/CC waiting/VBG to/TO receive/VB 
+[ data/NNS ]
+./. 
+
+[ 1362/CD ]
+./. 
+
+[ This/DT indicator/NN ]
+turns/VBZ off/RP when/WRB 
+[ the/DT printer/NN ]
+needs/VBZ 
+[ you/PRP ]
+to/TO take/VB 
+[ some/DT action/NN ]
+,/, such/JJ as/IN changing/VBG 
+[ a/DT printer/NN font/NN ]
+or/CC 
+[ paper/NN ]
+./. 
+
+[ 1363/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP 
+[ the/DT Stop\/VB option/NN ]
+on/IN 
+[ the/DT printer/NN operator/NN panel/NN ]
+,/, 
+[ the/DT Attention/NN indicator/NN ]
+turns/VBZ off/RP ./. 
+
+[ 1364/CD ]
+./. 
+
+When/WRB 
+[ the/DT Forms/NNPS indicator/NN ]
+is/VBZ highlighted/VBN ,/, 
+[ one/CD ]
+of/IN 
+[ the/DT following/VBG messages/NNS ]
+appears/VBZ on/IN 
+[ the/DT work/NN station/NN function/NN printer/NN operator/NN panel/NN ]
+:/: 
+[ 1365/CD ]
+./. 
+
+When/WRB 
+[ the/DT Change/VB Setup/NNP indicator/NN ]
+is/VBZ highlighted/VBN ,/, 
+[ a/DT message/NN ]
+is/VBZ displayed/VBN on/IN 
+[ the/DT work/NN station/NN function/NN printer/NN operator/NN panel/NN ]
+./. 
+
+[ 1366/CD ]
+./. 
+
+[ The/DT message/NN ]
+and/CC 
+[ the/DT two-digit/JJ code/NN ]
+displayed/VBN in/IN 
+[ the/DT output/NN data/NN field/NN ]
+tell/VBP 
+[ you/PRP ]
+
+[ the/DT type/NN ]
+of/IN 
+[ paper/NN feed/NN ]
+needed/VBN ./. 
+
+[ 1367/CD ]
+./. 
+
+[ It/PRP ]
+can/MD be/VB 
+[ any/DT ]
+of/IN 
+[ the/DT following/VBG ]
+:/: 
+[ 1368/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT key/NN ]
+
+[ that/WDT ]
+functions/VBZ as/IN 
+[ the/DT personal/JJ computer/NN PrtSc/NN key/NN ]
+,/, 
+[ the/DT personal/JJ computer/NN printer/NN ]
+prints/VBZ 
+[ the/DT display/NN ]
+./. 
+
+[ 1369/CD ]
+./. 
+
+[ All/DT characters/NNS ]
+on/IN 
+[ the/DT display/NN ]
+are/VBP sent/VBN to/TO 
+[ the/DT printer/NN ]
+as/IN is/VBZ ./. 
+
+[ 1370/CD ]
+./. 
+
+See/VB 
+[ the/DT instructions/NNS ]
+for/IN 
+[ your/PRP$ printer/NN ]
+to/TO determine/VB 
+[ the/DT action/NN ]
+taken/VBN ./. 
+
+[ 1371/CD ]
+./. 
+
+[ The/DT print/VB screen/NN function/NN ]
+can/MD print/VB 
+[ graphics/NNS data/NNS ]
+while/IN in/IN 
+[ the/DT graphics/NNS state/NN ]
+./. 
+
+[ 1372/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+,/, see/VB 
+[ the/DT PC/NNP Support/NNP User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 1373/CD ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ online/JJ information/NN ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT work/NN station/NN function/NN commands/NNS ]
+./. 
+
+[ 1374/CD ]
+./. 
+
+To/TO see/VB 
+[ the/DT online/JJ information/NN type/VB ]
+
+[ the/DT work/NN station/NN function/NN command/NN ]
+followed/VBN by/IN 
+[ a/DT question/NN mark/NN ]
+(/( ?/SYM 
+
+)/) ./. 
+
+[ 1375/CD ]
+./. 
+
+[ The/DT question/NN mark/NN ]
+(/( ?/SYM 
+
+)/) 
+[ 1376/CD ]
+./. 
+
+is/VBZ 
+[ the/DT only/JJ parameter/NN ]
+
+[ you/PRP ]
+should/MD have/VB on/IN 
+[ the/DT command/NN line/NN ]
+./. 
+
+[ 1377/CD ]
+./. 
+
+If/IN 
+[ work/NN station/NN function/NN ]
+is/VBZ started/VBN successfully/RB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 0/CD ]
+./. 
+
+[ 1378/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ ,/, but/CC 
+[ work/NN station/NN function/NN ]
+is/VBZ able/JJ to/TO continue/VB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 10/CD ]
+./. 
+
+[ 1379/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ and/CC 
+[ work/NN station/NN function/NN ]
+can/MD not/RB continue/VB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 20/CD ]
+./. 
+
+[ 1380/CD ]
+./. 
+
+If/IN 
+[ STARTWSF/NNP ]
+is/VBZ started/VBN successfully/RB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 0/CD ]
+./. 
+
+[ 1381/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ but/CC 
+[ STARTWSF/NNP ]
+is/VBZ able/JJ to/TO continue/VB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 10/CD ]
+./. 
+
+[ 1382/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ and/CC 
+[ STARTWSF/NNP ]
+can/MD not/RB continue/VB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 20/CD ]
+./. 
+
+[ 1383/CD ]
+./. 
+
+If/IN 
+[ the/DT process/NN ]
+was/VBD successful/JJ ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 0/CD ]
+./. 
+
+[ 1384/CD ]
+./. 
+
+If/IN 
+[ the/DT process/NN ]
+was/VBD not/RB 
+[ successful/JJ ]
+,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 20/CD ]
+./. 
+
+[ 1385/CD ]
+./. 
+
+[ All/DT states/NNS ]
+can/MD be/VB defined/VBN by/IN 
+[ the/DT user/NN ]
+./. 
+
+[ 1386/CD ]
+./. 
+
+[ Data/NN entry/NN ]
+from/IN 
+[ right/NN ]
+to/TO left/NN as/RB well/RB as/IN from/IN 
+[ left/NN ]
+to/TO 
+[ right/NN ]
+./. 
+
+[ 1387/CD ]
+./. 
+
+-/: Insert/VB 
+[ mode/NN ]
+is/VBZ 
+[ reset/NN ]
+./. 
+
+[ 1388/CD ]
+./. 
+
+-/: If/IN 
+[ the/DT cursor/NN direction/NN ]
+is/VBZ now/RB left/NN to/TO 
+[ right/NN ]
+,/, 
+[ the/DT cursor/NN ]
+is/VBZ positioned/VBN at/IN 
+[ the/DT first/JJ null/JJ character/NN ]
+to/TO 
+[ the/DT right/NN ]
+of/IN 
+[ the/DT joined/VBN text/NN ]
+./. 
+
+[ 1389/CD ]
+./. 
+
+[ Pressing/VBG ]
+
+[ the/DT Base/NNP key/NN ]
+again/RB starts/VBZ 
+[ this/DT function/NN ]
+./. 
+
+[ 1390/CD ]
+./. 
+
+As/IN 
+[ you/PRP ]
+read/VBP 
+[ this/DT chapter/NN ]
+,/, 
+[ you/PRP ]
+should/MD keep/VB in/IN 
+[ mind/NN ]
+
+[ the/DT programs/NNS you/PRP ]
+use/VBP most/RBS often/RB ./. 
+
+[ 1391/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+on/IN how/WRB to/TO install/VB 
+[ PC/NNP Support/NNP ]
+,/, see/VB 
+[ the/DT PC/NNP Support/NNP Planning/NNP ]
+and/CC 
+[ Installation/NNP Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 1392/CD ]
+./. 
+
+To/TO use/VB 
+[ the/DT organizer/NN ]
+,/, 
+[ you/PRP ]
+must/MD choose/VB 
+[ the/DT work/NN station/NN function/NN ]
+when/WRB installing/VBG 
+[ PC/NNP Support/NNP ]
+./. 
+
+[ 1393/CD ]
+./. 
+
+[ The/DT organizer/NN ]
+runs/VBZ in/IN 
+[ all/DT ]
+of/IN 
+[ your/PRP$ configured/VBN work/NN station/NN function/NN sessions/NNS ]
+./. 
+
+[ 1394/CD ]
+./. 
+
+[ Work/NN station/NN function/NN ]
+provides/VBZ 
+[ defaults/NNS ]
+for/IN 
+[ each/DT session/NN ]
+./. 
+
+[ 1395/CD ]
+./. 
+
+However/RB ,/, if/IN 
+[ you/PRP ]
+do/VBP not/RB want/VB to/TO use/VB 
+[ the/DT defaults/NNS ]
+,/, 
+[ you/PRP ]
+must/MD use/VB 
+[ the/DT work/NN station/NN function/NN configuration/NN program/NN ]
+to/TO change/VB 
+[ them/PRP ]
+./. 
+
+[ 1396/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+
+[ configure/VBP your/PRP$ personal/JJ computer/NN ]
+,/, 
+[ you/PRP ]
+identify/VBP how/WRB 
+[ you/PRP ]
+want/VBP to/TO use/VB 
+[ your/PRP$ work/NN station/NN function/NN sessions/NNS ]
+./. 
+
+[ 1397/CD ]
+./. 
+
+[ The/DT number/NN ]
+and/CC 
+[ kind/NN ]
+of/IN 
+[ sessions/NNS you/PRP ]
+
+[ configure/VBP ]
+depends/VBZ on/IN 
+[ the/DT type/NN ]
+of/IN 
+[ tasks/NNS you/PRP ]
+want/VBP to/TO do/VB ./. 
+
+[ 1398/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP using/VBG 
+[ the/DT work/NN station/NN function/NN ]
+,/, 
+[ you/PRP ]
+can/MD 
+[ configure/VB ]
+up/IN to/TO 
+[ five/CD sessions/NNS ]
+./. 
+
+[ 1399/CD ]
+./. 
+
+[ You/PRP ]
+can/MD choose/VB 
+[ printer/NN sessions/NNS ]
+or/CC 
+[ display/NN sessions/NNS ]
+./. 
+
+[ 1400/CD ]
+./. 
+
+[ You/PRP ]
+can/MD switch/VB from/IN 
+[ one/CD session/NN ]
+to/TO 
+[ another/DT ]
+using/VBG 
+[ the/DT hot-key/JJ sequence/NN ]
+(/( pressing/VBG and/CC holding/VBG 
+[ the/DT Alt/NNP key/NN ]
+,/, and/CC then/RB pressing/VBG 
+[ the/DT Esc/NNP key/NN ]
+)/) ./. 

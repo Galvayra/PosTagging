@@ -1,0 +1,736 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+For/IN 
+[ Wall/NNP Street/NNP firms/NNS ]
+,/, 
+[ the/DT October/NNP 1987/CD stock/NN market/NN crash/NN ]
+never/RB ended/VBD ./. 
+
+======================================
+
+Despite/IN 
+[ this/DT year/NN 's/POS spectacular/JJ rallies/NNS ]
+in/IN 
+[ the/DT stock/NN ]
+and/CC 
+[ bond/NN markets/NNS ]
+--/: including/VBG 
+[ a/DT record/NN ]
+high/NN for/IN 
+[ the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+and/CC 
+[ a/DT one-percentage-point/JJ drop/NN ]
+in/IN 
+[ interest/NN rates/NNS ]
+--/: 
+[ the/DT good/JJ times/NNS ]
+have/VBP n't/RB returned/VBN ./. 
+
+[ The/DT securities/NNS industry/NN ]
+is/VBZ on/IN 
+[ the/DT defensive/NN ]
+and/CC still/RB retrenching/VBG ./. 
+
+======================================
+
+``/`` 
+[ The/DT crash/NN ]
+came/VBD 
+[ two/CD years/NNS ]
+ago/IN ,/, but/CC for/IN 
+[ many/JJ people/NNS ]
+
+[ it/PRP ]
+seems/VBZ like/IN yesterday/NN ,/, ''/'' says/VBZ 
+[ Jean-Louis/NNP Lelogeais/NNP ]
+,/, 
+[ a/DT principal/NN ]
+at/IN 
+[ the/DT consulting/VBG firm/NN ]
+of/IN 
+[ Booz/NNP ]
+,/, 
+[ Allen/NNP ]
+&/CC 
+[ Hamilton/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ completed/VBN 
+[ an/DT analysis/NN ]
+
+[ that/WDT ]
+paints/VBZ 
+[ a/DT depressing/JJ picture/NN ]
+of/IN 
+[ Wall/NNP Street/NNP 's/POS problems/NNS ]
+./. 
+
+======================================
+
+Trading/NN 
+[ volumes/NNS ]
+in/IN 
+[ stocks/NNS ]
+and/CC 
+[ bonds/NNS ]
+--/: and/CC therefore/RB 
+[ the/DT commissions/NNS brokers/NNS ]
+earn/VBP --/: have/VBP plummeted/VBN from/IN 
+[ their/PRP$ 1987/CD peaks/NNS ]
+./. 
+
+[ The/DT instant/NN dissemination/NN ]
+of/IN 
+[ market/NN information/NN ]
+through/IN 
+[ news/NN services/NNS ]
+and/CC 
+[ other/JJ vendors/NNS ]
+is/VBZ robbing/VBG 
+[ firms/NNS ]
+of/IN 
+[ the/DT proprietary/JJ information/NN ]
+
+[ that/WDT ]
+enabled/VBD 
+[ them/PRP ]
+to/TO charge/VB 
+[ fat/JJ fees/NNS ]
+./. 
+
+[ Commissions/NNS ]
+from/IN underwriting/VBG 
+[ new/JJ issues/NNS ]
+of/IN 
+[ stocks/NNS ]
+and/CC 
+[ bonds/NNS ]
+have/VBP nose-dived/VBN ./. 
+
+And/CC 
+[ commercial/JJ banks/NNS ]
+increasingly/RB are/VBP competing/VBG for/IN 
+[ whatever/WDT business/NN ]
+is/VBZ left/VBN ./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ Wall/NNP Street/NNP 's/POS biggest/JJS firms/NNS ]
+--/: 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc./NNP ]
+,/, 
+[ Salomon/NNP Inc./NNP ]
+,/, 
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc./NNP ]
+,/, 
+[ CS/NNP First/NNP Boston/NNP Group/NNP ]
+,/, 
+[ PaineWebber/NNP Group/NNP Inc./NNP ]
+,/, 
+[ Bear/NNP Stearns/NNP Cos./NNP ]
+,/, 
+[ Dean/NNP Witter/NNP Reynolds/NNP Inc./NNP ]
+and/CC 
+[ Morgan/NNP Stanley/NNP Group/NNP Inc./NNP ]
+--/: show/VBP 
+[ no/DT signs/NNS ]
+of/IN ending/VBG 
+[ the/DT 18-month-old/JJ payroll-paring/JJ process/NN ]
+
+[ that/WDT ]
+has/VBZ already/RB lopped/VBN off/IN 
+[ an/DT estimated/VBN 20,000/CD employees/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ an/DT industry/NN ]
+
+[ that/WDT ]
+'s/VBZ definitely/RB in/IN 
+[ turmoil/NN ]
+,/, ''/'' says/VBZ 
+[ Eugene/NNP Wong/NNP ]
+,/, 
+[ a/DT former/JJ executive/NN ]
+at/IN 
+[ Prudential-Bache/NNP Securities/NNPS Inc./NNP ]
+and/CC 
+[ Drexel/NNP ]
+
+[ who/WP ]
+started/VBD 
+[ his/PRP$ own/JJ investment-banking/NN partnership/NN ]
+,/, 
+[ International/NNP Harvest/NNP Group/NNP ]
+,/, earlier/RBR 
+[ this/DT year/NN ]
+./. 
+
+``/`` 
+[ The/DT retail/JJ side/NN ]
+,/, ''/'' 
+[ which/WDT ]
+includes/VBZ 
+[ thousands/NNS ]
+of/IN 
+[ brokers/NNS ]
+
+[ who/WP ]
+cater/VBP to/TO 
+[ individual/JJ investors/NNS ]
+,/, ``/`` is/VBZ bleeding/VBG ./. 
+
+''/'' 
+[ The/DT ]
+only/RB 
+[ bright/JJ spot/NN ]
+,/, as/IN 
+[ the/DT retail/JJ brokerage/NN firms/NNS ]
+see/VBP 
+[ it/PRP ]
+,/, is/VBZ that/IN 
+[ they/PRP ]
+at/IN 
+[ least/JJS ]
+have/VBP had/VBN 
+[ more/JJR success/NN ]
+recently/RB at/IN corralling/VBG 
+[ investors/NNS '/POS assets/NNS ]
+./. 
+
+Even/RB though/IN 
+[ investors/NNS ]
+are/VBP n't/RB playing/VBG 
+[ the/DT stock/NN market/NN ]
+as/IN 
+[ they/PRP ]
+used/VBD to/TO ,/, 
+[ they/PRP ]
+'re/VBP letting/VBG 
+[ Wall/NNP Street/NNP ]
+have/VB more/JJR of/IN 
+[ their/PRP$ money/NN ]
+./. 
+
+======================================
+
+[ PaineWebber/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, says/VBZ 
+[ the/DT $/$ 40/CD billion/CD ]
+of/IN 
+[ individuals/NNS '/POS money/NN ]
+
+[ it/PRP ]
+held/VBD at/IN 
+[ year-end/NN 1987/CD ]
+grew/VBD to/TO 
+[ $/$ 60/CD billion/CD ]
+by/IN 
+[ this/DT past/JJ June/NNP ]
+./. 
+
+[ Donald/NNP B./NNP Marron/NNP ]
+,/, 
+[ PaineWebber/NNP chairman/NN ]
+,/, says/VBZ 
+[ that/DT ]
+shows/VBZ that/IN ``/`` even/RB with/IN 
+[ the/DT crash/NN ]
+of/IN 
+[ 1987/CD ]
+and/CC 
+[ all/PDT the/DT problems/NNS ]
+,/, 
+[ individuals/NNS ]
+were/VBD 
+[ liquid/JJ ]
+;/: 
+[ they/PRP ]
+had/VBD 
+[ their/PRP$ money/NN ]
+and/CC 
+[ they/PRP ]
+were/VBD willing/JJ to/TO entrust/VB 
+[ it/PRP ]
+to/TO 
+[ the/DT securities/NNS industry/NN ]
+./. 
+
+''/'' But/CC 
+[ he/PRP ]
+says/VBZ 
+[ it/PRP ]
+will/MD take/VB at/IN 
+[ least/JJS ]
+``/`` 
+[ a/DT couple/NN ]
+of/IN 
+[ more/JJR years/NNS ]
+''/'' before/IN 
+[ individuals/NNS ]
+will/MD want/VB to/TO trade/VB 
+[ securities/NNS ]
+as/RB actively/RB as/IN 
+[ they/PRP ]
+used/VBD to/TO ./. 
+
+Meanwhile/RB ,/, much/JJ of/IN 
+[ the/DT money/NN ]
+is/VBZ stashed/VBN in/IN 
+[ brokerage/NN firms/NNS '/POS money-market/NN funds/NNS ]
+,/, 
+[ which/WDT ]
+do/VBP n't/RB give/VB 
+[ the/DT firms/NNS big/JJ commissions/NNS ]
+./. 
+
+======================================
+
+[ Hardwick/NNP Simmons/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ Shearson/NNP 's/POS 10,600-broker/JJ retail/JJ  network/NN ]
+and/CC 
+[ chairman/NN ]
+of/IN 
+[ the/DT Securities/NNPS Industry/NNP Association/NNP ]
+,/, says/VBZ ,/, ``/`` Are/VBP 
+[ investors/NNS ]
+falling/VBG over/IN 
+[ themselves/PRP ]
+to/TO get/VB in/IN 
+[ the/DT equity/NN market/NN ]
+?/. 
+
+[ No/UH ]
+./. 
+
+But/CC 
+[ things/NNS ]
+of/IN 
+[ this/DT kind/NN ]
+take/VBP 
+[ time/NN ]
+./. 
+
+''/'' 
+======================================
+
+Like/IN 
+[ PaineWebber/NNP ]
+,/, 
+[ Shearson/NNP ]
+has/VBZ rounded/VBN up/IN 
+[ more/JJR money/NN ]
+from/IN 
+[ investors/NNS ]
+--/: 
+[ $/$ 190/CD billion/CD ]
+as/IN of/IN now/RB ,/, compared/VBN with/IN 
+[ $/$ 150/CD billion/CD ]
+early/RB in/IN 
+[ the/DT year/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+bodes/VBZ well/RB ''/'' for/IN 
+[ the/DT future/NN ]
+,/, 
+[ Mr./NNP Simmons/NNP ]
+says/VBZ ./. 
+
+======================================
+
+Still/RB ,/, 
+[ it/PRP ]
+is/VBZ 
+[ the/DT so-called/JJ boutiques/NNS ]
+,/, including/VBG 
+[ some/DT old-line/NN Wall/NNP Street/NNP firms/NNS ]
+
+[ that/WDT ]
+missed/VBD 
+[ the/DT boom/NN ]
+trading/VBG 
+[ days/NNS ]
+of/IN 
+[ the/DT pre-crash/JJ 1980s/CD ]
+,/, 
+[ that/WDT ]
+suddenly/RB are/VBP 
+[ the/DT rage/NN ]
+./. 
+
+[ Dillon/NNP ]
+,/, 
+[ Read/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, was/VBD considered/VBN 
+[ the/DT epitome/NN ]
+of/IN 
+[ the/DT stodgy/JJ ]
+,/, 
+[ white-shoe/JJ investment/NN bank/NN ]
+
+[ that/WDT ]
+would/MD never/RB survive/VB because/IN 
+[ its/PRP$ capital/NN ]
+was/VBD puny/JJ and/CC 
+[ it/PRP ]
+lacked/VBD trading/NN 
+[ muscle/NN ]
+./. 
+
+But/CC 
+[ the/DT 159-year-old/JJ firm/NN ]
+,/, 
+[ which/WDT ]
+became/VBD 
+[ a/DT unit/NN ]
+of/IN 
+[ Travelers/NNPS Corp./NNP ]
+in/IN 
+[ 1985/CD ]
+,/, says/VBZ 
+[ it/PRP ]
+is/VBZ having/VBG 
+[ its/PRP$ best/JJS year/NN ]
+ever/RB by/IN 
+[ picking/VBG business/NN niches/NNS ]
+,/, such/JJ as/IN 
+[ mergers/NNS ]
+and/CC 
+[ acquisitions/NNS ]
+and/CC 
+[ other/JJ corporate/JJ advisory/NN work/NN ]
+,/, 
+[ that/WDT ]
+require/VBP little/RB overhead/RB and/CC generate/VBP 
+[ large/JJ fees/NNS ]
+./. 
+
+======================================
+
+[ Some/DT big/JJ firms/NNS ]
+,/, such/JJ as/IN 
+[ Salomon/NNP ]
+,/, 
+[ that/WDT ]
+relied/VBD heavily/RB on/IN trading/NN to/TO earn/VB 
+[ double-digit/JJ returns/NNS ]
+on/IN 
+[ their/PRP$ multibilliondollar/JJ capital/NN bases/NNS ]
+,/, are/VBP shifting/VBG 
+[ their/PRP$ emphasis/NN ]
+to/TO 
+[ investment/NN banking/NN ]
+./. 
+
+[ Morgan/NNP Stanley/NNP ]
+,/, 
+[ a/DT traditional/JJ heavyweight/NN ]
+in/IN 
+[ investment/NN banking/NN ]
+,/, now/RB restricts/VBZ 
+[ its/PRP$ full-service/JJ stock-market/NN coverage/NN ]
+to/TO 
+[ only/JJ its/PRP$ largest/JJS trading/NN customers/NNS ]
+--/: after/IN substantially/RB expanding/VBG 
+[ its/PRP$ securities/NNS operations/NNS ]
+during/IN 
+[ the/DT past/JJ decade/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ People/NNS ]
+treated/VBD {/( 
+[ the/DT securities/NNS industry/NN ]
+ }/) like/IN 
+[ it/PRP ]
+was/VBD 
+[ a/DT growth/NN business/NN ]
+,/, ''/'' says/VBZ 
+[ John/NNP Birkelund/NNP ]
+,/, 
+[ Dillon/NNP Read/NNP 's/POS chief/NN executive/NN ]
+./. 
+
+``/`` But/CC 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT cyclical/JJ business/NN ]
+./. 
+
+[ Anyone/NN ]
+
+[ who/WP ]
+built/VBD 
+[ a/DT substantial/JJ apparatus/NN ]
+on/IN 
+[ the/DT assumption/NN ]
+
+[ that/DT growth/NN ]
+would/MD be/VB continuous/JJ has/VBZ 
+[ a/DT lot/NN ]
+of/IN 
+[ problems/NNS ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT U.S./NNP government/NN bond/NN market/NN ]
+--/: 
+[ which/WDT ]
+witnessed/VBD 
+[ one/CD ]
+of/IN 
+[ its/PRP$ biggest/JJS rallies/NNS ]
+ever/RB between/IN 
+[ 1982/CD ]
+and/CC 
+[ July/NNP 1986/CD ]
+--/: 
+[ daily/JJ customer/NN transactions/NNS ]
+are/VBP down/IN 
+[ 30/CD %/NN ]
+from/IN 
+[ their/PRP$ peak/NN ]
+in/IN 
+[ 1987/CD ]
+and/CC hovering/VBG at/IN 
+[ a/DT fiveyear/JJ low/NN ]
+,/, according/VBG to/TO 
+[ Booz/NNP Allen/NNP ]
+./. 
+
+[ It/PRP ]
+'s/VBZ difficult/JJ to/TO make/VB 
+[ money/NN ]
+trading/VBG 
+[ bonds/NNS ]
+--/: for/IN 
+[ example/NN ]
+,/, 
+[ the/DT spread/NN ]
+between/IN 
+[ the/DT bid/NN ]
+and/CC 
+[ offer/NN prices/NNS ]
+on/IN 
+[ long-term/JJ Treasury/NN bonds/NNS ]
+is/VBZ only/RB one-fourth/NN as/RB wide/JJ as/IN 
+[ it/PRP ]
+was/VBD in/IN 
+[ 1980/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT stock/NN market/NN ]
+,/, 
+[ commissions/NNS ]
+have/VBP tumbled/VBN to/TO nearly/RB 
+[ five/CD cents/NNS ]
+
+[ a/DT share/NN ]
+from/IN almost/RB 
+[ 15/CD cents/NNS ]
+in/IN 
+[ 1983/CD ]
+and/CC 
+[ 25/CD cents/NNS ]
+in/IN 
+[ 1975/CD ]
+./. 
+
+``/`` 
+[ Market/NN share/NN ]
+does/VBZ n't/RB necessarily/RB correlate/VB with/IN 
+[ profitability/NN ]
+
+[ any/RB ]
+more/RB ;/: in/IN 
+[ fact/NN ]
+
+[ it/PRP ]
+is/VBZ quite/RB often/RB 
+[ the/DT opposite/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Lelogeais/NNP ]
+of/IN 
+[ Booz/NNP Allen/NNP ]
+./. 
+
+``/`` 
+[ These/DT trends/NNS ]
+were/VBD clearly/RB under/IN 
+[ way/NN ]
+well/RB before/IN 
+[ the/DT crash/NN ]
+,/, but/CC 
+[ they/PRP ]
+were/VBD masked/VBN by/IN 
+[ the/DT huge/JJ trading/NN volume/NN ]
+of/IN 
+[ the/DT mid-1980s/CD ]
+./. 
+
+When/WRB 
+[ the/DT volumes/NNS ]
+collapsed/VBD ,/, 
+[ the/DT industry/NN ]
+suddenly/RB was/VBD hurting/VBG on/IN 
+[ all/DT fronts/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Where/WRB 
+[ Wall/NNP Street/NNP ]
+has/VBZ been/VBN making/VBG 
+[ money/NN ]
+--/: 
+[ lots/NNS ]
+of/IN 
+[ it/PRP ]
+--/: is/VBZ in/IN 
+[ the/DT business/NN ]
+of/IN helping/VBG 
+[ clients/NNS ]
+take/VB over/IN and/CC 
+[ restructure/VB corporations/NNS ]
+./. 
+
+As/RB long/RB as/IN 
+[ the/DT takeover/NN boom/NN ]
+continues/VBZ ,/, 
+[ that/DT ]
+'s/VBZ fine/JJ ./. 
+
+======================================
+
+But/CC 
+[ some/DT ]
+wonder/VBP if/IN 
+[ investment/NN bankers/NNS '/POS well-paid/JJ role/NN ]
+in/IN 
+[ the/DT takeover/NN frenzy/NN ]
+will/MD come/VB back/RB to/TO haunt/VB 
+[ Wall/NNP Street/NNP ]
+./. 
+
+======================================
+
+[ James/NNP Harmon/NNP ]
+,/, 
+[ a/DT 30-year/JJ veteran/NN ]
+of/IN 
+[ the/DT securities/NNS business/NN ]
+and/CC 
+[ chairman/NN ]
+of/IN 
+[ Wertheim/NNP Schroder/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, says/VBZ ,/, ``/`` 
+[ Wall/NNP Street/NNP today/NN ]
+generally/RB has/VBZ placed/VBN {/( 
+[ the/DT pursuit/NN ]
+of/IN }/) 
+[ its/PRP$ own/JJ fees/NNS ]
+above/IN 
+[ the/DT best/JJS interests/NNS ]
+of/IN 
+[ its/PRP$ clients/NNS ]
+./. 
+
+[ Corporations/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+do/VBP n't/RB trust/VB 
+[ investment/NN bankers/NNS ]
+,/, and/CC 
+[ we/PRP ]
+do/VBP n't/RB have/VB 
+[ any/DT strong/JJ leadership/NN ]
+in/IN 
+[ the/DT investment-banking/JJ community/NN ]
+./. 
+
+''/'' 
+======================================
+
+Will/MD 
+[ Wall/NNP Street/NNP ]
+be/VB forced/VBN to/TO act/VB 
+[ humble/JJ ]
+?/. 
+
+[ Brokerage-firm/JJ executives/NNS ]
+are/VBP already/RB saying/VBG that/IN 
+[ the/DT pet/NN phrase/NN ]
+of/IN 
+[ the/DT 1990s/CD ]
+will/MD be/VB ``/`` 
+[ customer/NN service/NN ]
+./. 
+
+''/'' 
+======================================
+
+ (/( See/VB related/VBN 
+[ story/NN ]
+:/: ``/`` 
+[ Abreast/NNP ]
+of/IN 
+[ the/DT Market/NNP ]
+:/: 
+[ Investors/NNS Recall/VBP Downside/JJ Risks/NNS ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 9/CD ]
+,/, 
+[ 1989/CD ]

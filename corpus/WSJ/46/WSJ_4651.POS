@@ -1,0 +1,328 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ CBS/NNP Inc./NNP ]
+signed/VBD 
+[ an/DT agreement/NN ]
+with/IN 
+[ Turner/NNP Broadcasting/NNP System/NNP Inc./NNP ]
+for/IN 
+[ cable/NN rights/NNS ]
+to/TO 
+[ the/DT Winter/NNP Olympics/NNPS ]
+in/IN 
+[ 1992/CD ]
+and/CC 
+[ 1994/CD ]
+,/, giving/VBG 
+[ Turner/NNP 's/POS new/JJ TNT/NNP channel/NN ]
+
+[ a/DT programming/NN boost/NN ]
+and/CC helping/VBG 
+[ CBS/NNP ]
+defray/VB 
+[ a/DT small/JJ portion/NN ]
+of/IN 
+[ its/PRP$ own/JJ costs/NNS ]
+./. 
+
+======================================
+
+[ The/DT TNT/NNP deal/NN ]
+would/MD be/VB 
+[ the/DT first/JJ time/NN ]
+
+[ a/DT broadcast/NN network/NN ]
+has/VBZ sold/VBN 
+[ a/DT portion/NN ]
+of/IN 
+[ exclusive/JJ Olympics/NNPS ]
+programming/VBG to/TO 
+[ a/DT basic-cable/JJ rival/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ likely/JJ to/TO raise/VB 
+[ questions/NNS ]
+of/IN 
+[ saturation/NN ]
+,/, and/CC 
+[ the/DT pact/NN ]
+also/RB may/MD draw/VB 
+[ criticism/NN ]
+from/IN 
+[ CBS/NNP affiliates/NNS ]
+./. 
+
+======================================
+
+[ CBS/NNP ]
+alone/RB will/MD air/VB up/IN to/TO 
+[ 120/CD hours/NNS ]
+of/IN 
+[ Winter/NNP Games/NNPS ]
+,/, 
+[ 27/CD %/NN more/JJR time/NN ]
+than/IN 
+[ the/DT ABC/NNP network/NN ]
+aired/VBD for/IN 
+[ the/DT disappointing/JJ 1988/CD Winter/NNP Games/NNPS ]
+./. 
+
+Now/RB 
+[ TNT/NNP ]
+will/MD have/VB 
+[ 50/CD hours/NNS ]
+of/IN 
+[ its/PRP$ own/JJ daytime/JJ events/NNS ]
+,/, plus/CC 
+[ 50/CD hours/NNS ]
+of/IN 
+[ late-night/JJ reruns/NNS ]
+of/IN 
+[ CBS/NNP 's/POS prime-time/JJ coverage/NN ]
+./. 
+
+======================================
+
+[ The/DT cable/NN deal/NN ]
+with/IN 
+[ Turner/NNP ]
+,/, 
+[ the/DT company/NN ]
+
+[ that/WDT ]
+put/VBD 
+[ CBS/NNP ]
+into/IN 
+[ takeover/NN ]
+play/NN 
+[ several/JJ years/NNS ]
+ago/RB ,/, will/MD give/VB 
+[ CBS/NNP ]
+at/IN 
+[ least/JJS $/$ 50/CD million/CD total/NN ]
+from/IN 
+[ Turner/NNP ]
+for/IN 
+[ the/DT two/CD Winter/NNP Games/NNPS ]
+./. 
+
+======================================
+
+[ That/DT ]
+is/VBZ 
+[ a/DT tiny/JJ sum/NN ]
+given/VBN 
+[ CBS/NNP 's/POS rights/NNS fees/NNS ]
+,/, 
+[ which/WDT ]
+total/VBP 
+[ $/$ 543/CD million/CD ]
+./. 
+
+But/CC 
+[ CBS/NNP ]
+may/MD get/VB 
+[ another/DT $/$ 10/CD million/CD ]
+by/IN handling/VBG 
+[ all/DT national/JJ ad/NN sales/NNS ]
+for/IN 
+[ TNT/NNP ]
+and/CC sharing/VBG 
+[ the/DT proceeds/NNS ]
+with/IN 
+[ the/DT cable/NN partner/NN ]
+./. 
+
+======================================
+
+ (/( 
+[ CBS/NNP ]
+will/MD pay/VB 
+[ $/$ 243/CD million/CD ]
+for/IN 
+[ rights/NNS ]
+to/TO 
+[ the/DT 1992/CD Winter/NNP Games/NNPS ]
+in/IN 
+[ Albertville/NNP ]
+,/, 
+[ France/NNP ]
+,/, and/CC 
+[ $/$ 300/CD million/CD ]
+for/IN 
+[ the/DT 1994/CD Games/NNPS ]
+in/IN 
+[ Lillehammer/NNP ]
+,/, 
+[ Norway/NNP ]
+./. 
+
+[ The/DT Olympic/NNP Games/NNPS ]
+had/VBD occurred/VBN 
+[ every/DT four/CD years/NNS ]
+,/, but/CC after/IN 
+[ 1992/CD ]
+
+[ the/DT Summer/NNP ]
+and/CC 
+[ Winter/NNP Games/NNPS ]
+will/MD alternate/VB 
+[ every/DT two/CD years/NNS ]
+,/, starting/VBG with/IN 
+[ winter/NN 1994/CD ]
+,/, then/RB 
+[ summer/NN 1996/CD ]
+,/, and/CC so/RB forth/RB ./. 
+
+ )/) 
+======================================
+
+[ Philip/NNP A./NNP Jones/NNP ]
+,/, 
+[ immediate/JJ past/NN chairman/NN ]
+of/IN 
+[ the/DT CBS/NNP affiliates/NNS board/NN ]
+,/, said/VBD 
+[ stations/NNS ]
+must/MD accept/VB that/IN 
+[ some/DT cable/NN programming/NN ]
+will/MD be/VB necessary/JJ to/TO offset/VB 
+[ CBS/NNP 's/POS huge/JJ costs/NNS ]
+./. 
+
+[ He/PRP ]
+praised/VBD 
+[ the/DT TNT/NNP deal/NN ]
+for/IN protecting/VBG 
+[ affiliates/NNS ]
+by/IN giving/VBG 
+[ CBS/NNP control/NN ]
+of/IN 
+[ TNT/NNP ad/NN sales/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT CBS-Turner/NNP pact/NN ]
+could/MD upset/VB 
+[ some/DT affiliates/NNS ]
+./. 
+
+[ The/DT saturation/NN issue/NN ]
+will/MD become/VB important/JJ to/TO 
+[ local/JJ stations/NNS ]
+if/IN 
+[ the/DT Winter/NNP Games/NNPS lack/VBP drama/NN ]
+and/CC if/IN 
+[ the/DT American/JJ team/NN ]
+does/VBZ poorly/RB ,/, said/VBD 
+[ Mr./NNP Jones/NNP ]
+./. 
+
+[ Another/DT snag/NN ]
+may/MD be/VB 
+[ one/CD ]
+of/IN 
+[ time-zone/JJ considerations/NNS ]
+./. 
+
+======================================
+
+Virtually/RB 
+[ all/DT ]
+of/IN 
+[ CBS/NNP 's/POS prime-time/JJ coverage/NN ]
+will/MD be/VB taped/VBN 
+[ events/NNS ]
+
+[ that/WDT ]
+happened/VBD earlier/RB in/IN 
+[ the/DT day/NN ]
+;/: 
+[ CBS/NNP ]
+will/MD have/VB 
+[ daytime/JJ coverage/NN ]
+only/RB on/IN 
+[ weekends/NNS ]
+./. 
+
+But/CC 
+[ TNT/NNP ]
+will/MD cover/VB 
+[ events/NNS ]
+from/IN 
+[ 1/CD p.m./NN ]
+to/TO 
+[ 6/CD p.m./NN ]
+and/CC thereby/RB include/VB 
+[ contests/NNS ]
+as/IN 
+[ they/PRP ]
+happen/VBP ./. 
+
+======================================
+
+[ CBS/NNP ]
+therefore/RB will/MD be/VB careful/JJ to/TO give/VB 
+[ TNT/NNP ]
+only/RB 
+[ the/DT events/NNS ]
+that/IN 
+[ CBS/NNP ]
+wo/MD n't/RB want/VB to/TO 
+[ air/NN ]
+,/, on/IN 
+[ tape/NN ]
+,/, later/RB in/IN 
+[ the/DT evening/NN ]
+,/, said/VBD 
+[ CBS/NNP Sports/NNP President/NNP Neal/NNP H./NNP Pilson/NNP ]
+./. 
+
+Indeed/RB ,/, 
+[ the/DT onetime/JJ adversaries/NNS ]
+turned/VBN 
+[ partners/NNS ]
+have/VBP n't/RB yet/RB worked/VBN out/RP exactly/RB 
+[ which/WDT events/NNS CBS/NNP ]
+will/MD give/VB 
+[ Turner/NNP ]
+./. 
+
+======================================
+
+[ Terence/NNP F./NNP McGuirk/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Turner/NNP Sports/NNPS ]
+,/, said/VBD 
+[ he/PRP ]
+'s/VBZ confident/JJ that/IN 
+[ TNT/NNP ]
+will/MD end/VB up/RP with/IN ``/`` 
+[ a/DT full/JJ cross-section/NN ]
+''/'' of/IN 
+[ attractive/JJ events/NNS ]
+,/, even/RB though/IN 
+[ CBS/NNP ]
+has/VBZ 
+[ first/JJ choice/NN ]
+./. 

@@ -1,0 +1,904 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Texas/NNP Supreme/NNP Court/NNP ]
+,/, noting/VBG ``/`` 
+[ glaring/JJ disparities/NNS ]
+''/'' between/IN 
+[ rich/JJ ]
+and/CC 
+[ poor/JJ school/NN districts/NNS ]
+,/, said/VBD 
+[ the/DT state/NN 's/POS system/NN ]
+of/IN financing/VBG 
+[ the/DT education/NN ]
+of/IN 
+[ public-school/JJ children/NNS ]
+is/VBZ unconstitutional/JJ ./. 
+
+======================================
+
+[ The/DT court/NN ]
+did/VBD n't/RB specify/VB exactly/RB how/WRB to/TO change/VB 
+[ the/DT Texas/NNP system/NN ]
+,/, 
+[ which/WDT ]
+,/, like/IN 
+[ most/JJS states/NNS ]
+,/, gets/VBZ 
+[ its/PRP$ money/NN ]
+through/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ state/NN ]
+funding/NN and/CC 
+[ local/JJ property/NN taxes/NNS ]
+./. 
+
+But/CC 
+[ it/PRP ]
+told/VBD 
+[ the/DT Texas/NNP Legislature/NNP ]
+to/TO come/VB up/IN with/IN 
+[ a/DT solution/NN ]
+by/IN 
+[ May/NNP ]
+
+======================================
+
+``/`` 
+[ Children/NNS ]
+
+[ who/WP ]
+live/VBP in/IN 
+[ poor/JJ districts/NNS ]
+and/CC 
+[ children/NNS ]
+
+[ who/WP ]
+live/VBP in/IN 
+[ rich/JJ districts/NNS ]
+must/MD be/VB afforded/VBN 
+[ a/DT ]
+substantially/RB 
+[ equal/JJ opportunity/NN ]
+to/TO have/VB 
+[ access/NN ]
+to/TO 
+[ educational/JJ funds/NNS ]
+,/, ''/'' 
+[ the/DT court/NN ]
+declared/VBD in/IN 
+[ a/DT 9-0/CD decision/NN ]
+./. 
+
+======================================
+
+[ Texas/NNP ]
+has/VBZ about/RB 
+[ three/CD million/CD public-school/JJ children/NNS ]
+,/, 
+[ the/DT second/JJ largest/JJS public-school/JJ system/NN ]
+in/IN 
+[ the/DT country/NN ]
+after/IN 
+[ California/NNP ]
+./. 
+
+About/RB 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT ]
+funding/NN for/IN 
+[ public/JJ schools/NNS ]
+comes/VBZ from/IN 
+[ local/JJ property/NN taxes/NNS ]
+,/, 
+[ 42/CD %/NN ]
+from/IN 
+[ state/NN sales/NNS ]
+,/, 
+[ severance/NN ]
+and/CC 
+[ excise/NN taxes/NNS ]
+,/, and/CC 
+[ the/DT remainder/NN ]
+from/IN 
+[ various/JJ other/JJ sources/NNS ]
+,/, including/VBG 
+[ federal/JJ funds/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT court/NN ]
+said/VBD 
+[ the/DT system/NN ]
+is/VBZ n't/RB fulfilling/VBG 
+[ a/DT Texas/NNP constitutional/JJ provision/NN ]
+requiring/VBG 
+[ the/DT Legislature/NNP ]
+to/TO establish/VB 
+[ an/DT ]
+``/`` 
+[ efficient/JJ ]
+''/'' 
+[ system/NN ]
+
+[ that/WDT ]
+provides/VBZ 
+[ a/DT ]
+``/`` 
+[ general/JJ diffusion/NN ]
+of/IN 
+[ knowledge/NN ]
+,/, ''/'' 
+[ the/DT court/NN ]
+ruled/VBD ./. 
+
+Because/IN 
+[ the/DT property-tax/JJ base/NN ]
+varies/VBZ so/RB widely/RB between/IN 
+[ school/NN districts/NNS ]
+,/, 
+[ schools/NNS ]
+in/IN 
+[ property-rich/JJ districts/NNS ]
+are/VBP able/JJ to/TO provide/VB 
+[ better/JJR equipment/NN ]
+and/CC 
+[ teachers/NNS ]
+and/CC 
+[ broader/JJR educational/JJ experiences/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ property-poor/JJ districts/NNS ]
+,/, 
+[ the/DT educational/JJ programs/NNS ]
+are/VBP ``/`` typically/RB 
+[ inferior/JJ ]
+,/, ''/'' 
+[ the/DT court/NN ]
+said/VBD ./. 
+
+[ It/PRP ]
+cited/VBD 
+[ one/CD school/NN district/NN ]
+
+[ that/WDT ]
+offers/VBZ 
+[ no/DT foreign/JJ languages/NNS ]
+,/, 
+[ no/DT pre-kindergarten/NN program/NN ]
+,/, 
+[ no/DT chemistry/NN ]
+,/, 
+[ no/DT physics/NN ]
+,/, 
+[ no/DT calculus/NN ]
+and/CC 
+[ no/DT college/NN ]
+preparatory/JJ or/CC honors/JJ 
+[ program/NN  ]
+./. 
+
+``/`` 
+[ We/PRP ]
+conclude/VBP that/IN ,/, in/IN 
+[ mandating'efficiency/NN ]
+,/, '/'' 
+[ the/DT constitutional/JJ framers/NNS ]
+and/CC 
+[ ratifiers/NNS ]
+did/VBD not/RB intend/VB 
+[ a/DT system/NN ]
+with/IN 
+[ such/JJ vast/JJ disparities/NNS ]
+as/RB now/RB exist/VBP ,/, ''/'' 
+[ the/DT court/NN ]
+said/VBD ./. 
+
+[ The/DT decision/NN ]
+noted/VBD that/IN 
+[ courts/NNS ]
+in/IN 
+[ nine/CD other/JJ states/NNS ]
+with/IN 
+[ similar/JJ school-financing/JJ systems/NNS ]
+have/VBP held/VBN 
+[ those/DT systems/NNS ]
+to/TO be/VB unconstitutional/JJ for/IN varying/VBG 
+[ reasons/NNS ]
+./. 
+
+======================================
+
+[ The/DT case/NN ]
+was/VBD brought/VBN in/IN 
+[ 1984/CD ]
+by/IN 
+[ a/DT group/NN ]
+of/IN 
+[ 67/CD property-poor/JJ school/NN districts/NNS ]
+./. 
+
+[ A/DT state/NN district/NN judge/NN ]
+held/VBD 
+[ the/DT system/NN ]
+unconstitutional/JJ in/IN 
+[ 1987/CD ]
+,/, but/CC 
+[ that/DT ruling/NN ]
+was/VBD overturned/VBN 
+[ last/JJ December/NNP ]
+by/IN 
+[ a/DT state/NN ]
+appeals/NNS 
+[ court/NN ]
+./. 
+
+[ The/DT Texas/NNP Supreme/NNP Court/NNP opinion/NN ]
+essentially/RB upholds/VBZ 
+[ the/DT district/NN judge/NN 's/POS decision/NN ]
+./. 
+
+======================================
+
+[ JUDGE/NN APPROVES/VBZ $/$ 78/CD million/CD settlement/NN ]
+in/IN 
+[ suit/NN ]
+against/IN 
+[ contractor/NN ]
+at/IN 
+[ defense/NN plant/NN ]
+./. 
+
+======================================
+
+[ The/DT settlement/NN ]
+ends/VBZ more/RBR than/IN 
+[ four/CD years/NNS ]
+of/IN 
+[ litigation/NN ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ 14,000/CD residents/NNS ]
+living/VBG near/IN 
+[ the/DT Fernald/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, 
+[ plant/NN ]
+,/, where/WRB 
+[ uranium-waste/JJ products/NNS ]
+seeped/VBN into/IN 
+[ surrounding/VBG soil/NN ]
+,/, 
+[ atmosphere/NN ]
+and/CC 
+[ water/NN ]
+./. 
+
+======================================
+
+[ The/DT residents/NNS ]
+originally/RB sought/VBD 
+[ $/$ 300/CD million/CD ]
+from/IN 
+[ NLO/NNP Inc./NNP ]
+and/CC 
+[ its/PRP$ parent/NN ]
+,/, 
+[ NL/NNP Industries/NNPS Inc./NNP ]
+,/, 
+[ Houston/NNP ]
+,/, 
+[ the/DT private/JJ contractor/NN ]
+
+[ that/WDT ]
+operated/VBD 
+[ the/DT plant/NN ]
+until/IN 
+[ 1986/CD ]
+./. 
+
+[ The/DT government/NN ]
+provides/VBZ 
+[ indemnity/NN ]
+for/IN 
+[ its/PRP$ weapons-plant/JJ contractors/NNS ]
+,/, so/IN 
+[ NLO/NNP ]
+wo/MD n't/RB pay/VB 
+[ any/DT ]
+of/IN 
+[ the/DT settlement/NN ]
+./. 
+
+======================================
+
+[ The/DT U.S./NNP Energy/NNP Department/NNP ]
+will/MD provide/VB 
+[ $/$ 73/CD million/CD ]
+to/TO compensate/VB 
+[ claimants/NNS ]
+and/CC to/TO pay/VB for/IN 
+[ long-term/JJ medical/JJ tests/NNS ]
+and/CC 
+[ epidemiological/JJ studies/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT government/NN ]
+will/MD put/VB up/RP 
+[ $/$ 5/CD million/CD ]
+to/TO cover/VB 
+[ damage/NN claims/NNS ]
+by/IN 
+[ industrial-property/NN ]
+and/CC 
+[ commercial-property/NN owners/NNS ]
+./. 
+
+======================================
+
+[ Federal/NNP Judge/NNP S./NNP Arthur/NNP Spiegel/NNP ]
+of/IN 
+[ Cincinnati/NNP ]
+earmarked/VBD 
+[ 20/CD %/NN ]
+of/IN 
+[ the/DT fund/NN ]
+,/, or/CC as/RB much/JJ as/IN 
+[ $/$ 15.6/CD million/CD ]
+,/, for/IN 
+[ legal/JJ fees/NNS ]
+for/IN 
+[ plaintiffs/NNS '/POS attorneys/NNS ]
+./. 
+
+[ He/PRP ]
+also/RB awarded/VBD 
+[ the/DT attorneys/NNS $/$ 974,720/CD ]
+as/IN 
+[ reimbursement/NN ]
+for/IN 
+[ their/PRP$ out-of-pocket/JJ expenses/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ his/PRP$ opinion/NN ]
+,/, 
+[ Judge/NNP Spiegel/NNP ]
+wrote/VBD that/IN 
+[ the/DT lawyers/NNS ]
+earned/VBD 
+[ the/DT hefty/JJ fees/NNS ]
+in/IN 
+[ light/NN ]
+of/IN 
+[ the/DT obstacles/NNS they/PRP ]
+faced/VBD in/IN bringing/VBG 
+[ the/DT suit/NN ]
+,/, including/VBG 
+[ the/DT fact/NN ]
+that/IN 
+[ no/DT one/NN ]
+has/VBZ ever/RB obtained/VBN 
+[ a/DT verdict/NN ]
+against/IN 
+[ a/DT contractor/NN ]
+at/IN 
+[ a/DT government-owned/JJ plant/NN ]
+./. 
+
+======================================
+
+[ An/DT advisory/JJ jury/NN ]
+in/IN 
+[ federal/JJ court/NN ]
+,/, 
+[ which/WDT ]
+heard/VBD 
+[ the/DT case/NN ]
+in/IN 
+[ June/NNP ]
+,/, reached/VBD 
+[ a/DT non-binding/JJ verdict/NN ]
+of/IN 
+[ $/$ 136/CD million/CD ]
+for/IN 
+[ the/DT plaintiffs/NNS ]
+./. 
+
+[ The/DT settlement/NN ]
+was/VBD tentatively/RB reached/VBN 
+[ June/NNP 30/CD ]
+./. 
+
+======================================
+
+[ Stanley/NNP M./NNP Chesley/NNP ]
+,/, 
+[ lead/NN counsel/NN ]
+for/IN 
+[ the/DT plaintiffs/NNS ]
+,/, said/VBD 
+[ the/DT case/NN ]
+could/MD prompt/VB 
+[ other/JJ lawsuits/NNS ]
+against/IN 
+[ contractors/NNS ]
+at/IN 
+[ the/DT 16/CD other/JJ ]
+federally/RB owned/VBN 
+[ nuclear-power/JJ plants/NNS ]
+./. 
+
+======================================
+
+[ JIM/NNP ]
+AND/CC 
+[ TAMMY/NNP BAKKER/NNP ]
+can/MD be/VB sued/VBN under/IN 
+[ RICO/NNP law/NN ]
+,/, 
+[ court/NN rules/VBZ ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT decision/NN ]
+
+[ that/WDT ]
+could/MD open/VB 
+[ the/DT door/NN ]
+for/IN 
+[ more/JJR civil/JJ suits/NNS ]
+by/IN 
+[ disgruntled/JJ followers/NNS ]
+,/, 
+[ a/DT federal/JJ appeals/NNS court/NN ]
+determined/VBD that/IN 
+[ the/DT Bakkers/NNPS ]
+are/VBP subject/JJ to/TO 
+[ suits/NNS ]
+for/IN alleged/VBN racketeering/NN under/IN 
+[ the/DT Racketeer/NNP Influenced/NNP ]
+and/CC 
+[ Corrupt/NNP Organizations/NNPS law/NN ]
+./. 
+
+======================================
+
+[ The/DT appeals/NNS court/NN ]
+in/IN 
+[ Richmond/NNP ]
+,/, 
+[ Va./NNP ]
+,/, reinstated/VBD 
+[ a/DT suit/NN ]
+filed/VBN by/IN 
+[ a/DT West/NNP Virginia/NNP couple/NN ]
+./. 
+
+[ They/PRP ]
+contend/VBP that/IN 
+[ Mr./NNP Bakker/NNP ]
+,/, 
+[ his/PRP$ wife/NN ]
+and/CC 
+[ former/JJ top/NN aide/NN Richard/NNP Dortch/NNP ]
+engaged/VBD in/IN racketeering/NN when/WRB 
+[ Mr./NNP Bakker/NNP 's/POS PTL/NNP ministry/NN ]
+sold/VBD more/JJR than/IN 
+[ 55,000/CD life-time/JJ memberships/NNS ]
+to/TO 
+[ Heritage/NNP Park/NNP USA/NNP ]
+,/, 
+[ the/DT television/NN ministry/NN 's/POS Christian/JJ resort/NN ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+was/VBD filed/VBN in/IN 
+[ 1987/CD ]
+by/IN 
+[ David/NNP ]
+and/CC 
+[ Sarah/NNP Combs/NNP ]
+,/, 
+[ a/DT disabled/VBN West/NNP Virginia/NNP couple/NN ]
+
+[ who/WP ]
+bought/VBD 
+[ Mr./NNP Bakker/NNP 's/POS package/NN ]
+in/IN 
+[ 1984/CD ]
+./. 
+
+In/IN 
+[ exchange/NN ]
+for/IN 
+[ a/DT $/$ 1,000/CD donation/NN ]
+to/TO 
+[ the/DT ministry/NN ]
+,/, 
+[ they/PRP ]
+were/VBD promised/VBN 
+[ an/DT annual/JJ four-day/JJ ]
+,/, 
+[ three-night/JJ stay/NN ]
+at/IN 
+[ Heritage/NNP Park/NNP ]
+for/IN 
+[ life/NN ]
+./. 
+
+[ The/DT Combses/NNPS ]
+never/RB got/VBD 
+[ their/PRP$ promised/VBN vacations/NNS ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, 
+[ their/PRP$ suit/NN ]
+was/VBD dismissed/VBN in/IN 
+[ July/NNP 1988/CD ]
+by/IN 
+[ federal/JJ Judge/NNP Robert/NNP D./NNP Potter/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ currently/RB presiding/VBG over/IN 
+[ Mr./NNP Bakker/NNP 's/POS criminal/JJ trial/NN ]
+on/IN 
+[ fraud/NN ]
+and/CC 
+[ conspiracy/NN charges/NNS ]
+in/IN 
+[ Charlotte/NNP ]
+,/, 
+[ N.C/NNP ]
+./. 
+
+[ He/PRP ]
+ruled/VBD that/IN 
+[ RICO/NNP claims/NNS ]
+could/MD only/RB be/VB based/VBN on/IN 
+[ a/DT pattern/NN ]
+of/IN 
+[ criminal/JJ activity/NN ]
+involving/VBG 
+[ separate/JJ types/NNS ]
+of/IN 
+[ activity/NN ]
+./. 
+
+Repeating/VBG 
+[ the/DT same/JJ act/NN ]
+,/, 
+[ Judge/NNP Potter/NNP ]
+ruled/VBD ,/, is/VBZ insufficient/JJ to/TO support/VB 
+[ a/DT RICO/NNP claim/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT appeals/NNS court/NN ]
+threw/VBD out/RP 
+[ the/DT distinction/NN last/JJ week/NN ]
+,/, saying/VBG 
+[ the/DT RICO/NNP statute/NN ]
+requires/VBZ only/RB that/IN 
+[ the/DT underlying/VBG criminal/JJ acts/NNS ]
+show/VBP 
+[ a/DT pattern/NN ]
+of/IN ``/`` 
+[ relatedness/NN and.../: continuity/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Combses/NNPS ]
+are/VBP seeking/VBG 
+[ $/$ 10,000/CD ]
+in/IN 
+[ damages/NNS ]
+,/, 
+[ which/WDT ]
+would/MD be/VB tripled/VBN under/IN 
+[ the/DT RICO/NNP statute/NN ]
+./. 
+
+[ Lawyers/NNS ]
+for/IN 
+[ Mr./NNP Bakker/NNP ]
+in/IN 
+[ Hendersonville/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, could/MD n't/RB be/VB reached/VBN for/IN 
+[ comment/NN ]
+./. 
+
+======================================
+
+[ HENRY/NNP KISSINGER/NNP ]
+backs/VBZ 
+[ former/JJ Indian/JJ prime/JJ minister/NN ]
+in/IN 
+[ libel/NN suit/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kissinger/NNP ]
+,/, 
+[ the/DT former/JJ secretary/NN ]
+of/IN 
+[ state/NN ]
+,/, testified/VBN in/IN 
+[ federal/JJ court/NN ]
+in/IN 
+[ Chicago/NNP ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ Morarji/NNP Desai/NNP ]
+in/IN 
+[ his/PRP$ $/$ 100/CD million/CD libel/NN suit/NN ]
+against/IN 
+[ journalist/NN Seymour/NNP Hersh/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Kissinger/NNP ]
+said/VBD 
+[ he/PRP ]
+had/VBD ``/`` 
+[ no/DT reason/NN ]
+to/TO believe/VB ''/'' 
+[ Mr./NNP Desai/NNP ]
+had/VBD been/VBN 
+[ a/DT paid/VBN informant/NN ]
+of/IN 
+[ the/DT Central/NNP Intelligence/NNP Agency/NNP ]
+,/, as/IN charged/VBN by/IN 
+[ Mr./NNP Hersh/NNP ]
+in/IN 
+[ his/PRP$ book/NN ]
+``/`` 
+[ The/DT Price/NN ]
+of/IN 
+[ Power/NN ]
+:/: 
+[ Kissinger/NNP ]
+in/IN 
+[ the/DT Nixon/NNP White/NNP House/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Kissinger/NNP ]
+recorded/VBD 
+[ a/DT videotaped/VBN deposition/NN several/JJ years/NNS ]
+ago/RB in/IN 
+[ exchange/NN ]
+for/IN 
+[ a/DT promise/NN ]
+that/IN 
+[ he/PRP ]
+would/MD n't/RB be/VB called/VBN to/TO testify/VB at/IN 
+[ the/DT trial/NN ]
+./. 
+
+However/RB ,/, after/IN 
+[ much/JJ ]
+of/IN 
+[ his/PRP$ videotaped/VBN testimony/NN ]
+was/VBD suppressed/VBN by/IN 
+[ the/DT court/NN last/JJ month/NN ]
+,/, 
+[ Mr./NNP Kissinger/NNP ]
+was/VBD served/VBN with/IN 
+[ a/DT subpoena/NN ]
+by/IN 
+[ Mr./NNP Desai/NNP 's/POS attorneys/NNS ]
+./. 
+
+======================================
+
+Under/IN questioning/VBG by/IN 
+[ Mr./NNP Hersh/NNP 's/POS attorney/NN ]
+,/, 
+[ Bernard/NNP J./NNP Nussbaum/NNP ]
+,/, 
+[ Mr./NNP Kissinger/NNP ]
+held/VBD to/TO 
+[ his/PRP$ position/NN ]
+that/IN 
+[ he/PRP ]
+intentionally/RB remained/VBD unaware/JJ of/IN 
+[ the/DT names/NNS ]
+of/IN 
+[ CIA/NNP intelligence/NN sources/NNS ]
+during/IN 
+[ his/PRP$ years/NNS ]
+as/IN 
+[ national/JJ security/NN adviser/NN ]
+and/CC 
+[ secretary/NN ]
+of/IN 
+[ state/NN ]
+in/IN 
+[ the/DT Nixon/NNP ]
+and/CC 
+[ Ford/NNP administrations/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Nussbaum/NNP ]
+quizzed/VBD 
+[ him/PRP ]
+about/IN 
+[ a/DT meeting/NN ]
+
+[ he/PRP ]
+had/VBD with/IN 
+[ former/JJ CIA/NNP chief/NN Richard/NNP Helms/NNP ]
+while/IN preparing/VBG 
+[ his/PRP$ initial/JJ deposition/NN ]
+in/IN 
+[ the/DT case/NN ]
+./. 
+
+[ Mr./NNP Kissinger/NNP ]
+admitted/VBD 
+[ he/PRP ]
+asked/VBD 
+[ Mr./NNP Helms/NNP ]
+if/IN 
+[ Mr./NNP Desai/NNP ]
+had/VBD indeed/RB been/VBN 
+[ the/DT U.S./NNP government/NN 's/POS source/NN ]
+for/IN 
+[ intelligence/NN reports/NNS ]
+that/IN 
+[ Indian/JJ Prime/NNP Minister/NNP Indira/NNP Gandhi/NNP ]
+planned/VBD to/TO attack/VB 
+[ Pakistan/NNP ]
+in/IN 
+[ the/DT winter/NN ]
+of/IN 
+======================================
+
+[ Mr./NNP Kissinger/NNP ]
+testified/VBD that/IN 
+[ Mr./NNP Helms/NNP ]
+did/VBD n't/RB answer/VB 
+[ the/DT question/NN ]
+directly/RB but/CC rather/RB agreed/VBD with/IN 
+[ Mr./NNP Kissinger/NNP ]
+that/IN 
+[ Mr./NNP Kissinger/NNP ]
+would/MD n't/RB have/VB known/VBN 
+[ Mr./NNP Desai/NNP 's/POS status/NN ]
+at/IN 
+[ the/DT time/NN ]
+./. 
+
+``/`` 
+[ He/PRP ]
+gave/VBD 
+[ me/PRP ]
+
+[ the/DT answer/NN ]
+that/IN 
+[ I/PRP ]
+was/VBD on/IN perfectly/RB 
+[ safe/JJ ground/NN ]
+in/IN making/VBG 
+[ the/DT statements/NNS ]
+that/IN 
+[ I/PRP ]
+was/VBD going/VBG to/TO make/VB ,/, ''/'' 
+[ Mr./NNP Kissinger/NNP ]
+said/VBD ./. 
+
+======================================
+
+After/IN 
+[ his/PRP$ testimony/NN ]
+,/, 
+[ Mr./NNP Kissinger/NNP ]
+said/VBD 
+[ he/PRP ]
+,/, too/RB ,/, contemplated/VBD 
+[ a/DT libel/NN action/NN ]
+against/IN 
+[ Mr./NNP Hersh/NNP ]
+after/IN 
+[ the/DT book/NN ]
+was/VBD published/VBN in/IN 
+[ 1983/CD ]
+./. 
+
+======================================
+
+[ D.C./NNP DEFECTOR/NN ]
+:/: 
+[ Michael/NNP J./NNP Horowitz/NNP ]
+,/, 
+[ Myerson/NNP ]
+&/CC 
+[ Kuhn/NNP 's/POS managing/VBG partner/NN ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, has/VBZ left/VBN 
+[ the/DT law/NN firm/NN ]
+to/TO join/VB 
+[ the/DT Washington/NNP office/NN ]
+of/IN 
+[ Windels/NNP ]
+,/, 
+[ Marx/NNP ]
+,/, 
+[ Davies/NNP ]
+&/CC 
+[ Ives/NNP ]
+./. 
+
+[ Both/DT Myerson/NNP ]
+&/CC 
+[ Kuhn/NNP ]
+and/CC 
+[ Windels/NNP Marx/NNP ]
+are/VBP based/VBN in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+[ Mr./NNP Horowitz/NNP ]
+,/, 
+[ 51/CD ]
+,/, is/VBZ 
+[ the/DT former/JJ general/JJ counsel/NN ]
+of/IN 
+[ the/DT Office/NNP ]
+of/IN 
+[ Management/NNP ]
+and/CC 
+[ Budget/NNP ]
+./. 

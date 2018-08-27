@@ -1,0 +1,138 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT Zapata/NNP Corp./NNP unit/NN ]
+filed/VBD 
+[ a/DT $/$ 20/CD million/CD lawsuit/NN ]
+against/IN 
+[ Occidental/NNP Petroleum/NNP Corp./NNP ]
+,/, seeking/VBG 
+[ damages/NNS ]
+related/VBN to/TO 
+[ an/DT explosion/NN ]
+
+[ that/WDT ]
+occurred/VBD when/WRB 
+[ a/DT Zapata/NNP fishing/NN vessel/NN ]
+ran/VBD into/IN 
+[ an/DT Occidental/NNP natural/NN gas/NN pipeline/NN ]
+in/IN 
+[ the/DT Gulf/NNP ]
+of/IN 
+[ Mexico/NNP ]
+./. 
+
+======================================
+
+[ Zapata/NNP ]
+alleges/VBZ that/IN 
+[ the/DT pipeline/NN ]
+,/, operated/VBN by/IN 
+[ Occidental/NNP ]
+
+[ 's/POS Natural/NNP Gas/NNP Pipeline/NNP Co./NNP ]
+of/IN 
+[ America/NNP unit/NN ]
+,/, was/VBD at/IN 
+[ least/JJS one/CD foot/NN ]
+from/IN 
+[ the/DT bottom/NN ]
+of/IN 
+[ the/DT sea/NN floor/NN ]
+in/IN about/RB 
+[ 10/CD feet/NNS ]
+of/IN 
+[ water/NN ]
+./. 
+
+[ Eleven/CD crew/NN members/NNS ]
+were/VBD killed/VBN in/IN 
+[ the/DT explosion/NN ]
+and/CC 
+[ fire/NN Oct./NNP 3/CD ]
+and/CC 
+[ three/CD others/NNS ]
+were/VBD injured/VBN ,/, 
+[ Zapata/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Natural/NNP Gas/NNP Pipeline/NNP ]
+,/, 
+[ meantime/NN ]
+,/, filed/VBD 
+[ a/DT suit/NN ]
+against/IN 
+[ the/DT Zapata/NNP unit/NN ]
+,/, 
+[ Zapata/NNP Haynie/NNP Corp./NNP ]
+,/, for/IN 
+[ damages/NNS ]
+caused/VBN to/TO 
+[ the/DT pipeline/NN ]
+and/CC 
+[ loss/NN ]
+of/IN 
+[ the/DT natural/NN gas/NN ]
+and/CC 
+[ natural/NN gas/NN liquid/NN ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+,/, filed/VBN in/IN 
+[ federal/JJ court/NN ]
+for/IN 
+[ the/DT Southern/NNP District/NNP ]
+of/IN 
+[ Texas/NNP ]
+,/, alleges/VBZ that/IN ``/`` 
+[ the/DT 45-year-old/JJ vessel/NN ]
+was/VBD operating/VBG in/IN 
+[ very/JJ shallow/JJ waters/NNS ]
+and/CC apparently/RB 
+[ was/VBD n't/RB ]
+equipped/VBN with/IN 
+[ depth/NN finders/NNS ]
+,/, 
+[ metal/NN detectors/NNS ]
+,/, or/CC 
+[ any/DT navigational/JJ maps/NNS ]
+showing/VBG 
+[ the/DT underwater/JJ pipeline/NN ]
+,/, ''/'' 
+[ Natural/NNP Gas/NNP Pipeline/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ An/DT Occidental/NNP spokesman/NN ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+said/VBD 
+[ the/DT total/JJ extent/NN ]
+of/IN 
+[ the/DT damages/NNS ]
+is/VBZ n't/RB known/VBN ,/, ``/`` but/CC 
+[ it/PRP ]
+will/MD certainly/RB be/VB in/IN 
+[ the/DT millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+./. 

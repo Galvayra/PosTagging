@@ -1,0 +1,156 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ First/NNP Banc/NNP Securities/NNPS Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+agreed/VBD to/TO merge/VB with/IN 
+[ a/DT unit/NN ]
+of/IN 
+[ Huntington/NNP Bancshares/NNPS Inc./NNP ]
+for/IN 
+[ a/DT stock/NN swap/NN ]
+valued/VBN at/IN about/IN 
+[ $/$ 100/CD million/CD ]
+./. 
+
+======================================
+
+[ Terms/NNS ]
+include/VBP converting/VBG 
+[ each/DT First/NNP Banc/NNP share/NN ]
+into/IN 
+[ a/DT number/NN ]
+of/IN 
+[ Huntington/NNP Bancshares/NNP common/JJ shares/NNS ]
+,/, determined/VBN by/IN 
+[ a/DT formula/NN ]
+using/VBG 
+[ the/DT average/NN closing/VBG price/NN ]
+of/IN 
+[ Huntington/NNP 's/POS common/NN ]
+during/IN 
+[ the/DT five/CD days/NNS ]
+prior/RB to/TO 
+[ the/DT accord/NN ]
+./. 
+
+======================================
+
+Based/VBN on/IN 
+[ Huntington/NNP 's/POS current/JJ market/NN price/NN ]
+,/, 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT transaction/NN ]
+is/VBZ about/IN 
+[ $/$ 100/CD million/CD ]
+./. 
+
+======================================
+
+First/NNP 
+[ Banc/NNP ]
+had/VBD let/VBN expire/VB 
+[ an/DT earlier/JJR letter/NN ]
+of/IN 
+[ intent/NN ]
+to/TO be/VB acquired/VBN by/IN 
+[ Huntington/NNP ]
+for/IN about/IN 
+[ $/$ 85/CD million/CD ]
+,/, so/IN that/IN 
+[ it/PRP ]
+could/MD consider/VB 
+[ other/JJ offers/NNS ]
+./. 
+
+======================================
+
+[ A/DT final/JJ pact/NN ]
+on/IN 
+[ the/DT most/RBS recent/JJ offer/NN ]
+is/VBZ subject/JJ to/TO 
+[ approval/NN ]
+by/IN 
+[ First/NNP Banc/NNP shareholders/NNS ]
+and/CC 
+[ various/JJ regulatory/JJ authorities/NNS ]
+./. 
+
+But/CC First/NNP 
+[ Banc/NNP ]
+has/VBZ granted/VBN 
+[ Huntington/NNP ]
+
+[ a/DT warrant/NN ]
+to/TO purchase/VB 
+[ 24.9/CD %/NN ]
+of/IN 
+[ its/PRP$ stock/NN ]
+and/CC agreed/VBN to/TO pay/VB up/IN to/TO 
+[ $/$ 1/CD million/CD ]
+in/IN 
+[ expenses/NNS ]
+and/CC 
+[ a/DT cancellation/NN fee/NN ]
+of/IN nearly/RB 
+[ $/$ 3/CD million/CD ]
+if/IN 
+[ the/DT proposed/VBN merger/NN ]
+is/VBZ n't/RB completed/VBN ./. 
+
+======================================
+
+First/NNP 
+[ Banc/NNP ]
+,/, based/VBN in/IN 
+[ Morgantown/NNP ]
+,/, 
+[ W.Va./NNP ]
+,/, had/VBD 
+[ $/$ 520/CD million/CD ]
+in/IN 
+[ assets/NNS ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ June/NNP ]
+and/CC has/VBZ 
+[ 12/CD offices/NNS ]
+in/IN 
+[ West/NNP Virginia/NNP ]
+and/CC 
+[ Pennsylvania/NNP ]
+./. 
+
+[ Huntington/NNP ]
+,/, 
+[ a/DT Columbus/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, 
+[ bank/NN holding/VBG company/NN ]
+with/IN 
+[ $/$ 10.4/CD billion/CD ]
+of/IN 
+[ assets/NNS ]
+,/, has/VBZ 
+[ 248/CD offices/NNS ]
+in/IN 
+[ 11/CD states/NNS ]
+./. 

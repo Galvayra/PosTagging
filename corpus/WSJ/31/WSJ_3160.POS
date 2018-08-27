@@ -1,0 +1,623 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Computer/NN makers/NNS ]
+are/VBP expected/VBN to/TO report/VB 
+[ spotty/JJ third-quarter/JJ results/NNS ]
+due/JJ to/TO 
+[ slowing/VBG growth/NN ]
+in/IN 
+[ most/JJS sectors/NNS ]
+,/, while/IN 
+[ software/NN makers/NNS '/POS results/NNS ]
+vary/VBP depending/VBG on/IN 
+[ factors/NNS ]
+such/JJ as/IN 
+[ product/NN cycles/NNS ]
+and/CC 
+[ acquisitions/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT personal-computer/NN software/NN market/NN ]
+,/, 
+[ giant/JJ Microsoft/NNP Corp./NNP ]
+,/, 
+[ Redmond/NNP ]
+,/, 
+[ Wash./NNP ]
+,/, already/RB has/VBZ surprised/VBN 
+[ analysts/NNS ]
+by/IN disclosing/VBG 
+[ a/DT better-than-expected/JJ 34/CD %/NN revenue/NN increase/NN ]
+./. 
+
+[ Lotus/NNP Development/NNP Corp./NNP ]
+,/, 
+[ Cambridge/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, is/VBZ expected/VBN to/TO post/VB 
+[ gains/NNS ]
+after/IN 
+[ a/DT year/NN ]
+of/IN 
+[ negative/JJ earnings/NNS comparisons/NNS ]
+./. 
+
+However/RB ,/, 
+[ Ashton-Tate/NNP Corp./NNP ]
+,/, 
+[ Torrance/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, remains/VBZ mired/JJ in/IN 
+[ losses/NNS ]
+related/VBN to/TO updating/VBG 
+[ its/PRP$ key/JJ dBase/NNP software/NN ]
+./. 
+
+======================================
+
+Among/IN 
+[ makers/NNS ]
+of/IN 
+[ software/NN ]
+for/IN 
+[ larger/JJR computers/NNS ]
+,/, 
+[ Oracle/NNP Systems/NNP Corp./NNP ]
+,/, 
+[ Belmont/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, is/VBZ slowing/VBG from/IN 
+[ the/DT 100/CD %/NN growth/NN pace/NN ]
+of/IN 
+[ past/JJ years/NNS ]
+to/TO 
+[ 60/CD %/NN ]
+or/CC so/RB ,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+But/CC 
+[ Computer/NNP Associates/NNP International/NNP Inc./NNP ]
+,/, 
+[ Garden/NNP City/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, is/VBZ 
+[ an/DT unknown/JJ quantity/NN ]
+because/IN of/IN 
+[ questions/NNS ]
+about/IN 
+[ the/DT accounting/NN treatment/NN ]
+for/IN 
+[ its/PRP$ acquisition/NN ]
+of/IN 
+[ Cullinet/NNP Software/NNP Inc./NNP last/JJ month/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT more/RBR predictable/JJ computer-services/NNS sector/NN ]
+,/, 
+[ analysts/NNS ]
+see/VBP continued/JJ 
+[ steady/JJ growth/NN ]
+for/IN 
+[ big/JJ companies/NNS ]
+such/JJ as/IN 
+[ payroll/NN processor/NN Automatic/NNP Data/NNP Processing/NNP Inc./NNP ]
+,/, 
+[ Roseland/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ General/NNP Motors/NNP Corp./NNP 's/POS Electronic/NNP Data/NNP Systems/NNP Corp./NNP ]
+and/CC 
+[ Computer/NNP Sciences/NNP Corp./NNP ]
+,/, 
+[ El/NNP Segundo/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+[ The/DT last/JJ two/CD ]
+are/VBP benefiting/VBG from/IN 
+[ customers/NNS '/POS growing/VBG eagerness/NN ]
+to/TO turn/VB over/RP to/TO 
+[ independent/JJ experts/NNS ]
+
+[ the/DT job/NN ]
+of/IN connecting/VBG and/CC managing/VBG 
+[ their/PRP$ networks/NNS ]
+of/IN 
+[ computers/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT broad-based/JJ computing/NN trends/NNS ]
+--/: downsizing/NN and/CC 
+[ open/JJ systems/NNS ]
+--/: are/VBP clearly/RB differentiating/VBG 
+[ the/DT software/NN vendors/NNS ]
+,/, ''/'' says/VBZ 
+[ David/NNP Readerman/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP ]
+./. 
+
+======================================
+
+[ Bahar/NNP Gadwani/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Kidder/NNP ]
+,/, 
+[ Peabody/NNP Inc./NNP ]
+,/, adds/VBZ :/: ``/`` 
+[ There/EX ]
+'s/VBZ 
+[ some/DT evidence/NN ]
+of/IN 
+[ concentration/NN ]
+in/IN 
+[ the/DT industry/NN ]
+./. 
+
+[ The/DT majors/NNS ]
+are/VBP broadening/VBG 
+[ their/PRP$ product/NN lines/NNS ]
+and/CC putting/VBG 
+[ a/DT squeeze/NN ]
+on/IN 
+[ smaller/JJR companies/NNS ]
+./. 
+
+''/'' 
+[ He/PRP ]
+notes/VBZ 
+[ Microsoft/NNP ]
+and/CC 
+[ Lotus/NNP ]
+are/VBP 
+[ both/DT ]
+signing/VBG 
+[ joint/JJ marketing/NN agreements/NNS ]
+with/IN 
+[ some/DT big/JJ hardware/NN makers/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+should/MD result/VB in/IN 
+[ a/DT stock/NN price/NN premium/NN ]
+for/IN 
+[ the/DT big/JJ guys/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Microsoft/NNP ]
+and/CC 
+[ Lotus/NNP 's/POS gains/NNS ]
+are/VBP coming/VBG in/IN 
+[ the/DT face/NN ]
+of/IN 
+[ a/DT sharp/JJ slowdown/NN ]
+in/IN 
+[ PC/NNP sales/NNS ]
+from/IN 
+[ 1988/CD growth/NN rates/NNS ]
+./. 
+
+Overall/RB ,/, ``/`` 
+[ it/PRP ]
+'s/VBZ 
+[ the/DT worst/JJS year/NN ]
+for/IN 
+[ PC/NNP software/NN ]
+in/IN 
+[ the/DT history/NN ]
+of/IN 
+[ the/DT industry/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Gadwani/NNP ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ Microsoft/NNP 's/POS fiscal/JJ first/JJ quarter/NN ]
+ended/VBD 
+[ Sept./NNP 30/CD ]
+was/VBD bolstered/VBN by/IN growing/VBG 
+[ sales/NNS ]
+of/IN 
+[ its/PRP$ Windows/NNPS software/NN ]
+,/, 
+[ growth/NN ]
+in/IN 
+[ Europe/NNP ]
+and/CC 
+[ Asia/NNP ]
+,/, and/CC 
+[ sales/NNS ]
+of/IN 
+[ its/PRP$ hardware/NN mouse/NN ]
+,/, or/CC 
+[ hand-operated/JJ controller/NN ]
+,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+After/IN 
+[ Microsoft/NNP ]
+disclosed/VBD 
+[ the/DT revenue/NN gains/NNS ]
+,/, 
+[ analysts/NNS ]
+boosted/VBD 
+[ their/PRP$ earnings/NNS estimates/NNS ]
+for/IN 
+[ the/DT quarter/NN ]
+to/TO about/RB 
+[ 85/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, up/RB about/RB 
+[ 30/CD %/NN ]
+from/IN 
+[ the/DT year-earlier/JJ $/$ 36.6/CD million/CD ]
+,/, or/CC 
+[ 65/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+Based/VBN on/IN 
+[ the/DT company/NN 's/POS first-quarter/JJ strength/NN ]
+,/, 
+[ Mr./NNP Readerman/NNP ]
+thinks/VBZ 
+[ Microsoft/NNP ]
+will/MD become/VB 
+[ the/DT first/JJ PC/NNP software/NN company/NN ]
+to/TO top/VB 
+[ the/DT $/$ 1/CD billion/CD level/NN ]
+in/IN 
+[ sales/NNS ]
+for/IN 
+[ its/PRP$ fiscal/JJ year/NN ]
+ending/VBG 
+[ June/NNP 30/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ Lotus/NNP ]
+,/, 
+[ we/PRP ]
+also/RB think/VBP ,/, is/VBZ going/VBG to/TO have/VB 
+[ a/DT good/JJ quarter/NN ]
+,/, ''/'' says/VBZ 
+[ David/NNP Bayer/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Montgomery/NNP Securities/NNP ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ Lotus/NNP ]
+finally/RB started/VBD shipping/VBG updates/NNS of/IN 
+[ its/PRP$ best-selling/JJ 1-2-3/NNP spreadsheet/NN ]
+during/IN 
+[ the/DT quarter/NN ]
+and/CC 
+[ pent-up/JJ demand/NN ]
+for/IN 
+[ the/DT upgrades/NNS ]
+resulted/VBD in/IN 
+[ a/DT 28/CD %/NN revenue/NN gain/NN ]
+to/TO about/RB 
+[ $/$ 150/CD million/CD ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ Earnings/NNS ]
+rose/VBD about/RB 
+[ 50/CD %/NN ]
+,/, to/TO 
+[ 45/CD cents/NNS ]
+to/TO 
+[ 50/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ $/$ 14.3/CD million/CD ]
+,/, or/CC 
+[ 31/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ Mr./NNP Gadwani/NNP ]
+says/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT sales/NNS growth/NN ]
+``/`` is/VBZ coming/VBG primarily/RB from/IN stuffing/VBG 
+[ the/DT ]
+ (/( 
+[ dealer/NN ]
+ )/) 
+[ channel/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+suspects/VBZ 
+[ the/DT software/NN ]
+may/MD be/VB piling/VBG up/RP on/IN 
+[ dealers/NNS '/POS shelves/NNS ]
+rather/RB than/IN being/VBG snapped/VBN up/RP by/IN 
+[ users/NNS ]
+./. 
+
+However/RB ,/, 
+[ other/JJ analysts/NNS ]
+,/, and/CC 
+[ Lotus/NNP ]
+
+[ itself/PRP ]
+,/, say/VBP 
+[ dealer/NN stocks/NNS ]
+are/VBP n't/RB excessive/JJ ./. 
+
+======================================
+
+[ Ashton-Tate/NNP ]
+remains/VBZ 
+[ the/DT weakest/JJS ]
+of/IN 
+[ the/DT major/JJ software/NN stocks/NNS ]
+,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+After/IN 
+[ customers/NNS ]
+complained/VBD about/IN 
+[ numerous/JJ bugs/NNS ]
+in/IN 
+[ its/PRP$ dBase/NNP IV/NNP ]
+upgrade/NN of/IN 
+[ its/PRP$ bestselling/JJ software/NN ]
+,/, 
+[ the/DT company/NN ]
+pulled/VBD 
+[ the/DT product/NN ]
+off/IN 
+[ the/DT market/NN ]
+./. 
+
+[ The/DT revised/JJ rewrite/NN ]
+is/VBZ expected/VBN soon/RB ,/, but/CC 
+[ Mr./NNP Gadwani/NNP ]
+says/VBZ 
+[ Ashton-Tate/NNP ]
+will/MD probably/RB report/VB 
+[ losses/NNS ]
+for/IN 
+[ the/DT third/JJ quarter/NN ]
+ended/VBN 
+[ Sept./NNP 30/CD ]
+of/IN around/IN 
+[ 54/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, including/VBG 
+[ onetime/JJ write-offs/NNS ]
+./. 
+
+[ Revenue/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, declined/VBD about/RB 
+[ 26/CD %/NN ]
+to/TO 
+[ $/$ 56/CD million/CD ]
+from/IN 
+[ $/$ 75.7/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT growth/NN pace/NN ]
+of/IN 
+[ database/NN giant/NN Oracle/NNP Systems/NNP ]
+continues/VBZ to/TO astound/VB 
+[ analysts/NNS ]
+./. 
+
+[ Mr./NNP Readerman/NNP ]
+says/VBZ ,/, ``/`` 
+[ I/PRP ]
+went/VBD to/TO 
+[ a/DT users/NNS group/NN meeting/NN ]
+in/IN 
+[ Dallas/NNP last/JJ week/NN ]
+looking/VBG for/IN 
+[ a/DT reason/NN ]
+to/TO downgrade/VB 
+[ the/DT stock/NN ]
+,/, and/CC 
+[ I/PRP ]
+could/MD n't/RB find/VB 
+[ one/CD ]
+./. 
+
+''/'' 
+[ He/PRP ]
+notes/VBZ that/IN 
+[ data/NNS ]
+processing/NN 
+[ managers/NNS ]
+like/VBP 
+[ the/DT idea/NN ]
+of/IN being/VBG 
+[ able/JJ ]
+to/TO use/VB 
+[ Oracle/NNP 's/POS software/NN ]
+on/IN 
+[ many/JJ different/JJ computers/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT fiscal/JJ second/JJ quarter/NN ending/VBG Nov./NNP 30/CD ]
+,/, 
+[ he/PRP ]
+predicts/VBZ 
+[ earnings/NNS ]
+and/CC 
+[ revenue/NN ]
+will/MD grow/VB 
+[ 60/CD %/NN ]
+to/TO 
+[ 21/CD cents/NNS ]
+
+[ a/DT share/NN ]
+on/IN 
+[ $/$ 200/CD million/CD ]
+in/IN 
+[ revenue/NN ]
+./. 
+
+======================================
+
+[ Computer/NNP Associates/NNP ]
+,/, 
+[ the/DT biggest/JJS company/NN ]
+in/IN 
+[ the/DT industry/NN ]
+,/, acquired/VBD 
+[ Cullinet/NNP Software/NNP ]
+in/IN 
+[ a/DT ]
+pooling/NN of/IN 
+[ interest/NN ]
+in/IN 
+[ September/NNP ]
+./. 
+
+[ Mr./NNP Bayer/NNP ]
+says/VBZ that/IN ,/, without/IN 
+[ the/DT acquisition/NN ]
+,/, 
+[ he/PRP ]
+believes/VBZ 
+[ Computer/NNP Associates/NNP ]
+would/MD have/VB earned/VBN about/RB 
+[ 20/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, up/RB from/IN 
+[ 18/CD cents/NNS ]
+
+[ a/DT share/NN ]
+in/IN 
+[ the/DT year-ago/JJ period/NN ]
+./. 
+
+[ Revenue/NN ]
+would/MD have/VB been/VBN up/RB 
+[ 27/CD %/NN ]
+to/TO about/RB 
+[ $/$ 285/CD million/CD ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+With/IN 
+[ Cullinet/NNP ]
+included/VBN ,/, ``/`` 
+[ revenue/NN ]
+should/MD be/VB higher/JJR and/CC 
+[ earnings/NNS ]
+per/IN 
+[ share/NN lower/JJR ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+After/IN adjusting/VBG 
+[ both/DT ]
+
+[ this/DT year/NN ]
+and/CC 
+[ last/JJ ]
+for/IN 
+[ the/DT merger/NN ]
+,/, 
+[ Mr./NNP Readerman/NNP ]
+says/VBZ 
+[ he/PRP ]
+expects/VBZ 
+[ earnings/NNS ]
+per/IN 
+[ share/NN ]
+to/TO drop/VB to/TO about/RB 
+[ nine/CD cents/NNS ]
+from/IN 
+[ 16/CD cents/NNS ]
+in/IN 
+[ the/DT yearearlier/JJ period/NN ]
+./. 
+
+Adjusted/JJ 
+[ revenue/NN ]
+will/MD rise/VB about/RB 
+[ 15/CD %/NN ]
+to/TO about/RB 
+[ $/$ 315/CD million/CD ]
+,/, 
+[ he/PRP ]
+predicts/VBZ ./. 

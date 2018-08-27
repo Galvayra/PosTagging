@@ -1,0 +1,66 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Forest/NNP City/NNP Enterprises/NNPS Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+plans/VBZ 
+[ a/DT $/$ 350/CD million/CD expansion/NN ]
+of/IN 
+[ the/DT Summit/NNP Park/NNP Mall/NNP ]
+in/IN 
+[ Wheatfield/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ that/WDT ]
+includes/VBZ shopping/NN 
+[ centers/NNS ]
+,/, 
+[ a/DT hotel/NN ]
+and/CC 
+[ an/DT industrial/JJ park/NN ]
+./. 
+
+======================================
+
+[ The/DT real/JJ estate/NN developer/NN ]
+said/VBD 
+[ the/DT project/NN ]
+would/MD be/VB built/VBN in/IN 
+[ several/JJ years/NNS ]
+,/, with/IN 
+[ the/DT first/JJ part/NN ]
+to/TO be/VB completed/VBN in/IN 
+[ fall/NN ]
+
+======================================
+
+[ The/DT first/JJ $/$ 150/CD million/CD phase/NN ]
+of/IN 
+[ the/DT project/NN ]
+includes/VBZ 
+[ $/$ 30/CD million/CD ]
+of/IN 
+[ public/JJ revenue/NN bond/NN ]
+financing/NN for/IN 
+[ infrastructure/NN ]
+and/CC 
+[ road/NN improvements/NNS ]
+,/, 
+[ Forest/NNP City/NNP ]
+said/VBD ./. 

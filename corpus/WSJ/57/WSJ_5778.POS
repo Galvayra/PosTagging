@@ -1,0 +1,682 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Until/IN now/RB ,/, 
+[ many/JJ ]
+troubled/JJ 
+[ junk-bond/JJ issuers/NNS ]
+have/VBP been/VBN able/JJ to/TO 
+[ restructure/VB bad/JJ debt/NN ]
+--/: rather/RB than/IN default/VB on/IN 
+[ it/PRP ]
+./. 
+
+But/CC with/IN 
+[ the/DT junk/NN market/NN ]
+in/IN 
+[ turmoil/NN ]
+,/, 
+[ analysts/NNS ]
+say/VBP 
+[ they/PRP ]
+expect/VBP 
+[ more/JJR defaults/NNS ]
+./. 
+
+======================================
+
+[ M.D.C./NNP Holdings/NNPS ]
+could/MD be/VB 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ companies/NNS ]
+to/TO test/VB 
+[ that/DT thesis/NN ]
+./. 
+
+======================================
+
+[ The/DT Denver-based/JJ developer/NN ]
+has/VBZ been/VBN on/IN 
+[ the/DT ropes/NNS ]
+because/IN of/IN 
+[ depressed/JJ housing/NN markets/NNS ]
+in/IN 
+[ Denver/NNP ]
+,/, 
+[ Texas/NNP ]
+and/CC 
+[ Arizona/NNP ]
+./. 
+
+[ Its/PRP$ 11/CD 1\/4/CD %/NN senior/JJ subordinated/VBN notes/NNS ]
+,/, 
+[ underwritten/VBN ]
+by/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP ]
+have/VBP fallen/VBN to/TO about/RB 
+[ 35/CD cents/NNS ]
+on/IN 
+[ the/DT dollar/NN ]
+./. 
+
+[ Its/PRP$ stock/NN ]
+has/VBZ plummeted/VBN to/TO 
+[ 2/CD 5\/8/CD ]
+from/IN 
+[ a/DT 1988/CD high/NN ]
+of/IN 
+[ 6/CD 7\/8/CD ]
+./. 
+
+======================================
+
+But/CC 
+[ Brian/NNP E./NNP Bogart/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+for/IN 
+[ McCarthy/NNP ]
+,/, 
+[ Crisanti/NNP ]
+&/CC 
+[ Maffei/NNP ]
+,/, says/VBZ 
+[ the/DT company/NN 's/POS bonds/NNS ]
+,/, and/CC probably/RB 
+[ its/PRP$ stock/NN ]
+,/, are/VBP trading/VBG too/RB high/JJ ./. 
+
+======================================
+
+In/IN 
+[ a/DT ]
+strongly/RB worded/VBN 
+[ report/NN ]
+,/, 
+[ Mr./NNP Bogart/NNP ]
+says/VBZ 
+[ the/DT probability/NN ]
+
+[ that/DT M.D.C./NN ]
+will/MD default/VB or/CC exchange/VB 
+[ its/PRP$ bonds/NNS ]
+,/, of/IN 
+[ which/WDT ]
+
+[ $/$ 256/CD million/CD ]
+are/VBP outstanding/JJ ,/, ``/`` has/VBZ risen/VBN to/TO 
+[ the/DT highest/JJS level/NN ]
+./. 
+
+[ The/DT company/NN ]
+has/VBZ experienced/VBN 
+[ difficulty/NN ]
+in/IN renewing/VBG 
+[ some/DT ]
+of/IN 
+[ its/PRP$ ]
+revolving/VBG {/( 
+[ bank/NN ]
+ }/) 
+[ credit/NN ]
+,/, and/CC 
+[ we/PRP ]
+expect/VBP 
+[ the/DT situation/NN ]
+to/TO worsen/VB ./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ Mr./NNP Bogart/NNP ]
+asserts/VBZ that/IN with/IN 
+[ M.D.C./NNP 's/POS bonds/NNS ]
+trading/VBG at/IN 
+[ such/JJ distressed/JJ levels/NNS ]
+,/, 
+[ the/DT bondholders/NNS ]
+would/MD be/VB unlikely/JJ to/TO swap/VB 
+[ them/PRP ]
+for/IN 
+[ new/JJ paper/NN ]
+if/IN 
+[ such/JJ a/DT restructuring/NN ]
+were/VBD to/TO be/VB proposed/VBN ./. 
+
+``/`` 
+[ My/PRP$ feeling/NN ]
+is/VBZ :/: 
+[ They/PRP ]
+will/MD most/RBS likely/RB end/VB up/RP in/IN 
+[ bankruptcy/NN ]
+''/'' 
+[ proceedings/NNS ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Spencer/NNP Browne/NNP ]
+,/, 
+[ M.D.C./NNP 's/POS executive/JJ vice/NN president/NN ]
+and/CC 
+[ general/JJ counsel/NN ]
+,/, disagrees/VBZ ./. 
+
+``/`` 
+[ We/PRP ]
+'ve/VBP never/RB missed/VBN 
+[ a/DT payment/NN ]
+./. 
+
+[ We/PRP ]
+closed/VBD 
+[ seven/CD divisions/NNS ]
+and/CC 
+[ we/PRP ]
+'re/VBP still/RB building/VBG 
+[ homes/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, adding/VBG 
+[ that/DT M.D.C./NNP ]
+is/VBZ ``/`` 
+[ the/DT ]
+only/RB 
+[ major/JJ survivor/NN ]
+''/'' among/IN 
+[ Denver/NNP 's/POS home/NN builders/NNS ]
+./. 
+
+Although/IN 
+[ banks/NNS ]
+have/VBP reduced/VBN 
+[ M.D.C./NNP 's/POS credit/NN lines/NNS ]
+,/, 
+[ he/PRP ]
+argues/VBZ that/IN 
+[ the/DT now-smaller/JJ company/NN ]
+does/VBZ n't/RB need/VB as/IN 
+[ much/JJ capital/NN ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ the/DT company/NN ]
+concedes/VBZ that/IN 
+[ it/PRP ]
+has/VBZ been/VBN selling/VBG 
+[ homes/NNS ]
+and/CC 
+[ mortgages/NNS ]
+in/IN 
+[ its/PRP$ inventory/NN ]
+,/, as/RB well/RB as/IN 
+[ other/JJ assets/NNS ]
+,/, to/TO meet/VB 
+[ its/PRP$ expenses/NNS ]
+./. 
+
+[ Mr./NNP Bogart/NNP estimates/NNS ]
+that/IN operating/VBG 
+[ cash/NN flow/NN ]
+will/MD cover/VB only/RB 
+[ 81/CD %/NN ]
+of/IN 
+[ this/DT year/NN 's/POS interest/NN bill/NN ]
+./. 
+
+======================================
+
+Whether/IN 
+[ it/PRP ]
+lives/VBZ or/CC dies/VBZ ,/, 
+[ M.D.C./NNP 's/POS plight/NN ]
+speaks/VBZ 
+[ volumes/NNS ]
+about/IN how/WRB 
+[ junk/NN issuers/NNS ]
+got/VBD in/IN 
+[ trouble/NN ]
+./. 
+
+Not/RB only/RB did/VBD 
+[ its/PRP$ own/JJ business/NN sour/NN ]
+,/, but/CC 
+[ it/PRP ]
+took/VBD 
+[ a/DT $/$ 49.7/CD million/CD write-down/NN ]
+on/IN 
+[ investments/NNS last/JJ year/NN ]
+--/: largely/RB from/IN 
+[ selling/VBG junk/NN bonds/NNS ]
+issued/VBN by/IN 
+[ others/NNS ]
+./. 
+
+======================================
+
+[ What/WP ]
+was/VBD 
+[ M.D.C./NNP ]
+doing/VBG with/IN 
+[ other/JJ people/NNS 's/POS junk/NN ]
+?/. 
+
+======================================
+
+In/IN 
+[ 1986/CD Drexel/NNP ]
+--/: then/RB in/IN 
+[ its/PRP$ heyday/NN ]
+as/IN 
+[ a/DT junk-bond/JJ marketer/NN ]
+--/: raised/VBN 
+[ $/$ 506/CD million/CD ]
+in/IN 
+[ M.D.C./NNP senior/JJ subordinated/VBN notes/NNS ]
+./. 
+
+[ Jeff/NNP Sussman/NNP ]
+,/, 
+[ chief/JJ investment/NN officer/NN ]
+at/IN 
+[ Far/NNP West/NNP Savings/NNPS ]
+&/CC 
+[ Loan/NNP ]
+,/, says/VBZ ,/, ``/`` 
+[ their/PRP$ strategy/NN was'give/VBD  ]
+
+[ me/PRP ]
+
+[ half/PDT a/DT billion/CD dollars/NNS ]
+and/CC 
+[ I/PRP ]
+'ll/MD go/VB find/VB 
+[ places/NNS ]
+for/IN 
+[ it/PRP ]
+./. 
+
+'/'' 
+[ It/PRP ]
+was/VBD 
+[ a/DT big/JJ blind/JJ pool/NN ]
+./. 
+
+''/'' When/WRB 
+[ various/JJ acquisition/NN attempts/NNS ]
+failed/VBD ,/, 
+[ M.D.C./NNP ]
+found/VBD 
+[ itself/PRP ]
+overfunded/VBN and/CC paying/VBG 
+[ high/JJ interest/NN ]
+./. 
+
+Looking/VBG to/TO earn/VB as/IN high/RB 
+[ a/DT yield/NN ]
+as/IN 
+[ it/PRP ]
+was/VBD paying/VBG ,/, 
+[ it/PRP ]
+invested/VBD 
+[ $/$ 200/CD million/CD ]
+in/IN 
+[ third-party/JJ junk/NN ]
+./. 
+
+[ Ray/NNP Garea/NNP ]
+,/, of/IN 
+[ Donaldson/NNP Lufkin/NNP ]
+&/CC 
+[ Jenrette/NNP ]
+,/, says/VBZ ``/`` 
+[ that/DT ]
+was/VBD 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT Drexel/NNP game/NN ]
+of/IN 
+[ a/DT few/JJ years/NNS ]
+ago/RB ./. 
+
+''/'' Overfunding/VBG ,/, 
+[ he/PRP ]
+says/VBZ ,/, helped/VBD insure/VB that/IN 
+[ buyers/NNS ]
+would/MD be/VB there/RB for/IN 
+[ Drexel/NNP 's/POS next/JJ deal/NN ]
+./. 
+
+======================================
+
+[ A/DT Drexel/NNP spokesman/NN ]
+says/VBZ ``/`` 
+[ M.D.C./NNP ]
+raised/VBD 
+[ funds/NNS ]
+so/IN 
+[ they/PRP ]
+could/MD expand/VB in/IN 
+[ home/NN building/NN ]
+,/, and/CC 
+[ they/PRP ]
+did/VBD ./. 
+
+[ They/PRP ]
+were/VBD also/RB looking/VBG to/TO expand/VB into/IN 
+[ financial/JJ services/NNS ]
+./. 
+
+When/WRB 
+[ they/PRP ]
+could'nt/VB 
+[ could'nt/NN ]
+find/VB 
+[ a/DT suitable/JJ company/NN ]
+
+[ they/PRP ]
+put/VBD 
+[ money/NN ]
+into/IN 
+[ high-yield/JJ bonds/NNS ]
+./. 
+
+''/'' 
+[ Mr./NNP Browne/NNP ]
+says/VBZ 
+[ M.D.C./NNP ]
+bought/VBD 
+[ bonds/NNS ]
+from/IN 
+[ other/JJ underwriters/NNS ]
+as/RB well/RB as/IN 
+[ Drexel/NNP ]
+./. 
+
+======================================
+
+[ Curiously/NNP ]
+,/, 
+[ M.D.C./NNP ]
+has/VBZ been/VBN helped/VBN by/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ its/PRP$ own/JJ bonds/NNS ]
+fell/VBD faster/JJR than/IN 
+[ those/DT ]
+
+[ it/PRP ]
+invested/VBN in/IN ./. 
+
+Although/IN 
+[ it/PRP ]
+sold/VBD 
+[ third-party/JJ junk/NN bonds/NNS ]
+at/IN 
+[ a/DT loss/NN ]
+,/, 
+[ it/PRP ]
+used/VBD 
+[ the/DT proceeds/NNS ]
+to/TO buy/VB back/RP 
+[ its/PRP$ own/JJ bonds/NNS ]
+at/IN 
+[ deeper/JJR discounts/NNS ]
+and/CC booked/VBD 
+[ a/DT $/$ 55.3/CD million/CD gain/NN last/JJ year/NN ]
+./. 
+
+[ That/DT move/NN ]
+also/RB reduced/VBD 
+[ the/DT company/NN 's/POS interest/NN charges/NNS ]
+./. 
+
+But/CC now/RB ,/, 
+[ M.D.C./NNP 's/POS bank/NN covenants/NNS ]
+prevent/VBP 
+[ it/PRP ]
+from/IN buying/VBG back/RP more/JJR of/IN 
+[ its/PRP$ bonds/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Browne/NNP ]
+says/VBZ ``/`` in/IN 
+[ retrospect/NN ]
+,/, 
+[ we/PRP ]
+should/MD have/VB 
+ 
+{/( borrowed/VBN less/RBR }/) ./. 
+
+[ The/DT company/NN ]
+expanded/VBD very/RB fast/RB and/CC used/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ leverage/NN ]
+./. 
+
+''/'' About/RB 
+[ 42/CD %/NN ]
+of/IN 
+[ M.D.C/NNP 's/POS raw/JJ land/NN ]
+and/CC 
+[ land/NN ]
+under/IN 
+[ development/NN ]
+is/VBZ in/IN 
+[ Colorado/NNP ]
+,/, perhaps/RB 
+[ the/DT worst/JJS U.S./NNP real/JJ estate/NN market/NN ]
+./. 
+
+[ It/PRP ]
+also/RB has/VBZ 
+[ real/JJ estate/NN ]
+in/IN 
+[ strong/JJ markets/NNS ]
+,/, such/JJ as/IN 
+[ California/NNP ]
+and/CC 
+[ Virginia/NNP ]
+./. 
+
+[ Mr./NNP Browne/NNP ]
+says/VBZ 
+[ M.D.C./NNP ]
+is/VBZ hoping/VBG to/TO sell/VB 
+[ some/DT ]
+of/IN 
+[ its/PRP$ California/NNP assets/NNS ]
+./. 
+
+``/`` 
+[ That/DT ]
+would/MD worsen/VB 
+[ the/DT long-term/JJ earnings/NN outlook/NN ]
+,/, ''/'' 
+[ Mr./NNP Bogart/NNP ]
+says/VBZ ./. 
+
+======================================
+
+But/CC 
+[ M.D.C./NNP ]
+may/MD not/RB have/VB 
+[ the/DT luxury/NN ]
+of/IN 
+[ thinking/VBG long-term/JJ ]
+./. 
+
+[ James/NNP Spirrison/NNP ]
+,/, 
+[ a/DT trader/NN ]
+at/IN 
+[ Rodman/NNP ]
+&/CC 
+[ Renshaw/NNP ]
+,/, says/VBZ ``/`` 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT horse/NN race/NN ]
+whether/IN 
+[ they/PRP ]
+can/MD turn/VB 
+[ the/DT business/NN ]
+around/IN before/IN 
+[ they/PRP ]
+run/VBP out/IN of/IN 
+[ cash/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Many/JJ ]
+of/IN 
+[ M.D.C./NNP 's/POS bank/NN lines/NNS ]
+mature/VBP 
+[ next/JJ year/NN ]
+,/, but/CC 
+[ Mr./NNP Browne/NNP ]
+predicts/VBZ 
+[ they/PRP ]
+will/MD be/VB renewed/VBN ./. 
+
+And/CC 
+[ MDC/NNP ]
+recently/RB settled/VBD 
+[ charges/NNS ]
+against/IN 
+[ it/PRP ]
+by/IN 
+[ the/DT Securities/NNPS ] 
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+relating/VBG to/TO 
+[ its/PRP$ accounting/NN ]
+;/: 
+[ the/DT company/NN ]
+did/VBD n't/RB admit/VB or/CC deny/VB 
+[ any/DT wrongdoing/NN ]
+./. 
+
+[ Mr./NNP Browne/NNP ]
+boasts/VBZ that/IN 
+[ the/DT SEC/NNP ]
+``/`` did/VBD n't/RB take/VB 
+[ action/NN ]
+against/IN 
+[ any/DT official/NN ]
+./. 
+
+''/'' Now/RB ,/, 
+[ he/PRP ]
+says/VBZ ,/, ``/`` 
+[ We/PRP ]
+'re/VBP trying/VBG to/TO get/VB 
+[ our/PRP$ house/NN ]
+in/IN 
+[ order/NN ]
+./. 
+
+''/'' But/CC ,/, 
+[ he/PRP ]
+adds/VBZ ,/, 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT McCarthy/NNP report/NN ]
+may/MD be/VB read/VBN by/IN 
+[ the/DT company/NN 's/POS creditors/NNS ]
+``/`` does/VBZ n't/RB help/VB ./. 
+
+''/'' 
+======================================
+
+[ M.D.C./NNP Holdings/NNPS ]
+
+======================================
+
+ (/( 
+[ NYSE/NNP ]
+;/: 
+[ Symbol/NN ]
+:/: 
+[ MDC/NNP ]
+ )/) 
+======================================
+
+[ Business/NN ]
+:/: 
+[ Home/NN builder/NN ]
+
+======================================
+
+[ Year/NN ]
+ended/VBN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+:/: 
+======================================
+
+[ Revenue/NN ]
+:/: 
+[ $/$ 840.6/CD million/CD ]
+
+======================================
+
+[ Net/JJ loss/NN ]
+:/: 
+[ $/$ 5.3/CD million/CD vs./IN loss/NN $/$ 16.8/CD million/CD ]
+
+======================================
+
+[ Second/JJ quarter/NN ]
+,/, 
+[ June/NNP 30/CD ]
+,/, 
+[ 1989/CD ]
+:/: 
+======================================
+
+[ Net/JJ loss/NN ]
+:/: 
+[ $/$ 5.3/CD million/CD vs./IN loss/NN $/$ 16.8/CD million/CD ]
+
+======================================
+
+[ Average/JJ daily/JJ trading/NN volume/NN ]
+:/: 
+======================================
+
+[ 6,651/CD shares/NNS ]
+
+======================================
+
+[ Common/JJ shares/NNS ]
+outstanding/JJ :/: 
+[ 15.9/CD ]

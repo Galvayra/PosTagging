@@ -1,0 +1,474 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+,/, in/IN 
+[ another/DT sign/NN ]
+of/IN 
+[ widespread/JJ problems/NNS ]
+in/IN 
+[ Wall/NNP Street/NNP 's/POS back/NN offices/NNS ]
+,/, censured/VBD 
+[ Prudential-Bache/NNP Securities/NNPS Inc./NNP ]
+for/IN incorrectly/RB monitoring/VBG about/IN 
+[ $/$ 200/CD million/CD ]
+in/IN 
+[ securities/NNS ]
+./. 
+
+======================================
+
+[ Prudential-Bache/NNP ]
+settled/VBD 
+[ the/DT charges/NNS ]
+,/, 
+[ neither/DT ]
+admitting/VBG nor/CC 
+[ denying/VBG guilt/NN ]
+regarding/VBG 
+[ the/DT violations/NNS ]
+,/, 
+[ which/WDT ]
+
+[ the/DT SEC/NNP alleges/VBZ ]
+took/VBD 
+[ place/NN ]
+in/IN 
+[ early/JJ 1988/CD ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT firm/NN ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Prudential/NNP Insurance/NNP Co./NNP ]
+of/IN 
+[ America/NNP ]
+,/, agreed/VBD to/TO set/VB aside/RB 
+[ what/WP industry/NN officials/NNS estimate/VBP ]
+is/VBZ 
+[ $/$ 200/CD million/CD ]
+to/TO 
+[ $/$ 300/CD million/CD ]
+of/IN 
+[ its/PRP$ own/JJ capital/NN ]
+for/IN 
+[ a/DT period/NN ]
+of/IN 
+[ two/CD years/NNS ]
+,/, as/IN 
+[ a/DT penalty/NN ]
+for/IN 
+[ the/DT alleged/JJ abuses/NNS ]
+./. 
+
+[ That/DT reserve/NN ]
+,/, 
+[ which/WDT ]
+must/MD be/VB held/VBN in/IN 
+[ cash/NN ]
+or/CC 
+[ equivalent/JJ securities/NNS ]
+,/, is/VBZ likely/JJ to/TO cost/VB 
+[ Prudential-Bache/NNP ]
+about/IN 
+[ $/$ 2/CD million/CD ]
+to/TO 
+[ $/$ 3/CD million/CD ]
+in/IN borrowing/NN 
+[ costs/NNS ]
+,/, 
+[ the/DT officials/NNS ]
+estimated/VBD ./. 
+
+======================================
+
+Neither/CC 
+[ the/DT SEC/NNP ]
+nor/CC 
+[ Prudential-Bache/NNP ]
+would/MD confirm/VB 
+[ the/DT figures/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP not/RB going/VBG to/TO give/VB 
+[ you/PRP ]
+
+[ the/DT number/NN ]
+,/, ''/'' said/VBD 
+[ Loren/NNP Schechter/NNP ]
+,/, 
+[ an/DT executive/NN vice/NN president/NN ]
+and/CC 
+[ general/JJ counsel/NN ]
+at/IN 
+[ the/DT firm/NN ]
+./. 
+
+``/`` 
+[ Whoever/WP ]
+said/VBD 
+[ it/PRP ]
+was/VBD 
+[ $/$ 200/CD million/CD ]
+said/VBD 
+[ it/PRP ]
+was/VBD 
+[ $/$ 200/CD million/CD ]
+./. 
+
+''/'' 
+======================================
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ the/DT settlement/NN ]
+,/, 
+[ the/DT firm/NN ]
+also/RB agreed/VBD to/TO have/VB 
+[ its/PRP$ back/JJ office/NN ]
+monitored/VBN on/IN 
+[ a/DT semi-annual/JJ basis/NN ]
+by/IN 
+[ an/DT independent/JJ auditor/NN ]
+,/, 
+[ who/WP ]
+will/MD report/VB to/TO 
+[ the/DT commission/NN ]
+./. 
+
+======================================
+
+[ Brokerage/NN firms/NNS '/POS back/JJ offices/NNS ]
+are/VBP 
+[ the/DT huge/JJ ]
+,/, 
+[ behind-the-scenes/JJ operations/NNS ]
+
+[ that/WDT ]
+support/VBP 
+[ the/DT firms/NNS '/POS sales/NNS ]
+and/CC 
+[ trading/NN departments/NNS ]
+./. 
+
+[ The/DT back/NN office/NN ]
+'s/POS 
+[ most/RBS  important/JJ function/NN ]
+is/VBZ to/TO maintain/VB and/CC organize/VB 
+[ securities/NNS ]
+owned/VBN by/IN 
+[ the/DT firm/NN ]
+and/CC 
+[ its/PRP$ customers/NNS ]
+,/, and/CC 
+[ SEC/NNP officials/NNS ]
+worry/VBP that/IN poorly/RB organized/JJ 
+[ back/JJ offices/NNS ]
+jeopardize/VBP 
+[ customer/NN funds/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+was/VBD 
+[ a/DT serious/JJ breakdown/NN ]
+of/IN 
+[ record-keeping/NN ]
+,/, ''/'' said/VBD 
+[ Martin/NNP Kuperberg/NNP ]
+,/, 
+[ an/DT SEC/NNP ]
+associate/NN 
+[ regional/JJ administrator/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, where/WRB 
+[ the/DT case/NN ]
+was/VBD brought/VBN ./. 
+
+``/`` While/IN 
+[ we/PRP ]
+have/VBP 
+[ no/DT indication/NN ]
+that/IN 
+[ it/PRP ]
+was/VBD deliberate/JJ ,/, 
+[ there/EX ]
+were/VBD 
+[ some/DT clear/JJ control/NN problems/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Prudential-Bache/NNP 's/POS Mr./NNP Schechter/NNP ]
+said/VBD 
+[ the/DT firm/NN 's/POS problems/NNS ]
+stemmed/VBD from/IN 
+[ the/DT inability/NN ]
+of/IN 
+[ its/PRP$ back/JJ office/NN ]
+to/TO identify/VB 
+[ changes/NNS ]
+in/IN 
+[ various/JJ transactions/NNS ]
+during/IN 
+[ the/DT business/NN day/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+could/MD n't/RB tell/VB whether/IN 
+[ we/PRP ]
+received/VBD or/CC delivered/VBD 
+[ securities/NNS ]
+in/IN 
+[ the/DT intraday/JJ period/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` But/CC 
+[ we/PRP ]
+could/MD 
+[ the/DT following/JJ day/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+added/VBD :/: ``/`` 
+[ I/PRP ]
+'m/VBP not/RB trivializing/VBG 
+[ this/DT ]
+,/, but/CC 
+[ no/DT funds/NNS ]
+were/VBD lost/VBN and/CC 
+[ no/DT customers/NNS ]
+were/VBD affected/VBN ./. 
+
+[ We/PRP ]
+should/MD count/VB 
+[ the/DT beans/NNS ]
+better/RBR ,/, 
+[ that/DT ]
+'s/VBZ 
+[ all/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT censure/NN ]
+is/VBZ 
+[ the/DT second/JJ major/JJ case/NN ]
+to/TO 
+[ surface/NN ]
+in/IN 
+[ the/DT past/JJ month/NN ]
+concerning/VBG 
+[ brokerages/NNS '/POS back/JJ offices/NNS ]
+./. 
+
+[ Last/JJ month/NN ]
+,/, 
+[ a/DT wide-ranging/JJ probe/NN ]
+of/IN 
+[ major/JJ firms/NNS '/POS stock-loan/NN departments/NNS ]
+was/VBD disclosed/VBN after/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc./NNP 's/POS former/JJ stock-loan/NN head/NN ]
+agreed/VBD to/TO plead/VB guilty/RB to/TO 
+[ felony/NN charges/NNS ]
+./. 
+
+[ Stock-loan/NN departments/NNS ]
+are/VBP 
+[ back-office/NN operations/NNS ]
+
+[ that/WDT ]
+lend/VBP 
+[ billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+of/IN 
+[ stocks/NNS ]
+,/, 
+[ bonds/NNS ]
+and/CC 
+[ other/JJ securities/NNS ]
+in/IN 
+[ exchange/NN ]
+for/IN 
+[ fees/NNS ]
+./. 
+
+[ The/DT government/NN 's/POS stock-loan/NN investigation/NN ]
+is/VBZ continuing/VBG ./. 
+
+======================================
+
+[ The/DT case/NN ]
+against/IN 
+[ Prudential-Bache/NNP centers/VBZ ]
+on/IN 
+[ government/NN securities/NNS ]
+
+[ that/WDT ]
+were/VBD bought/VBN by/IN 
+[ customers/NNS ]
+but/CC held/VBN by/IN 
+[ the/DT firm/NN ]
+./. 
+
+Under/IN 
+[ SEC/NNP rules/NNS ]
+designed/VBN to/TO protect/VB 
+[ firms/NNS '/POS clients/NNS ]
+,/, 
+[ those/DT securities/NNS ]
+should/MD have/VB been/VBN held/VBN in/IN 
+[ an/DT account/NN ]
+separate/JJ from/IN 
+[ Prudential-Bache/NNP 's/POS own/JJ holdings/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT SEC/NNP ]
+said/VBD 
+[ the/DT firm/NN ]
+failed/VBD to/TO keep/VB 
+[ those/DT safeguards/NNS ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ it/PRP ]
+was/VBD so/RB lax/JJ in/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ the/DT SEC/NNP ]
+said/VBD ,/, that/IN 
+[ it/PRP ]
+bought/VBD ,/, but/CC did/VBD n't/RB receive/VB or/CC pay/VB for/IN ,/, 
+[ securities/NNS ]
+
+[ that/WDT ]
+had/VBD been/VBN pledged/VBN as/IN collateral/JJ for/IN 
+[ customer/NN transactions/NNS ]
+./. 
+
+``/`` How/WRB can/MD 
+[ you/PRP ]
+safekeep/VB 
+[ securities/NNS ]
+that/IN 
+[ you/PRP ]
+did/VBD n't/RB 
+[ own/JJ ]
+?/. ''/'' asked/VBD 
+[ Mr./NNP Kuperberg/NNP ]
+./. 
+
+``/`` 
+[ They/PRP ]
+did/VBD n't/RB have/VB 
+[ possession/NN ]
+of/IN 
+[ them/PRP ]
+./. 
+
+''/'' 
+======================================
+
+Moreover/RB ,/, 
+[ the/DT SEC/NNP ]
+charged/VBD that/IN 
+[ Prudential-Bache/NNP ]
+did/VBD n't/RB really/RB know/VB how/WRB 
+[ much/JJ customer/NN money/NN ]
+
+[ it/PRP ]
+held/VBD ./. 
+
+Under/IN 
+[ current/JJ rules/NNS ]
+,/, 
+[ all/DT firms/NNS ]
+have/VBP to/TO compute/VB 
+[ a/DT weekly/JJ ]
+``/`` 
+[ customer/NN reserve/NN formula/NN ]
+,/, ''/'' 
+[ which/WDT ]
+discloses/VBZ how/WRB 
+[ much/JJ a/DT firm/NN ]
+is/VBZ holding/VBG for/IN 
+[ its/PRP$ customers/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+had/VBD 
+[ a/DT computation/NN ]
+and/CC 
+[ a/DT formula/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Kuperberg/NNP ]
+,/, ``/`` but/CC after/IN 
+[ a/DT review/NN ]
+,/, 
+[ we/PRP ]
+'ve/VBP alleged/VBN 
+[ they/PRP ]
+were/VBD not/RB able/JJ to/TO determine/VB 
+[ the/DT accuracy/NN ]
+of/IN 
+[ that/DT computation/NN ]
+./. 
+
+''/'' After/IN examining/VBG 
+[ Prudential/NNP ]
+
+[ 's/POS books/NNS ]
+,/, 
+[ the/DT complaint/NN ]
+alleged/VBD ,/, 
+[ the/DT SEC/NNP ]
+found/VBD that/IN 
+[ the/DT firm/NN ]
+overstated/VBD 
+[ the/DT reserve/NN formula/NN ]
+by/IN as/RB much/JJ as/IN 
+[ $/$ 18/CD million/CD ]
+./. 

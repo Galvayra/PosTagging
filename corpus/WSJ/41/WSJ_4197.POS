@@ -1,0 +1,672 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Senate/NNP leaders/NNS ]
+
+[ who/WP ]
+tried/VBD to/TO stop/VB 
+[ a/DT capital-gains/JJ tax/NN ]
+cut/VBN by/IN replacing/VBG 
+[ it/PRP ]
+with/IN 
+[ an/DT expansion/NN ]
+of/IN 
+[ the/DT individual/JJ retirement/NN account/NN deduction/NN ]
+now/RB face/VBP 
+[ the/DT prospect/NN ]
+of/IN getting/VBG 
+[ both/DT ]
+./. 
+
+======================================
+
+[ Chairman/NNP Lloyd/NNP Bentsen/NNP ]
+of/IN 
+[ the/DT Senate/NNP Finance/NNP Committee/NNP ]
+has/VBZ included/VBN 
+[ an/DT enhanced/JJ IRA/NNP proposal/NN ]
+in/IN 
+[ a/DT package/NN ]
+of/IN 
+[ tax/NN changes/NNS ]
+that/IN 
+[ he/PRP ]
+intends/VBZ to/TO present/VB to/TO 
+[ the/DT panel/NN today/NN ]
+./. 
+
+[ The/DT package/NN ]
+would/MD raise/VB more/JJR than/IN 
+[ $/$ 5.4/CD billion/CD ]
+in/IN 
+[ fiscal/JJ 1990/CD ]
+without/IN increasing/VBG 
+[ the/DT top/JJ individual/JJ tax/NN rate/NN ]
+./. 
+
+[ Committee/NNP members/NNS ]
+
+[ who/WP ]
+saw/VBD 
+[ the/DT package/NN late/JJ last/JJ week/NN ]
+generally/RB approved/VBD of/IN 
+[ it/PRP ]
+,/, and/CC 
+[ the/DT IRA/NNP proposal/NN ]
+in/IN 
+[ particular/JJ ]
+was/VBD greeted/VBN enthusiastically/RB ./. 
+
+======================================
+
+[ Capital/NN gains/NNS ]
+,/, however/RB ,/, remain/VBP 
+[ the/DT major/JJ unresolved/JJ issue/NN ]
+./. 
+
+[ The/DT Texas/NNP Democrat/NNP 's/POS package/NN ]
+does/VBZ n't/RB contain/VB 
+[ a/DT capital/NN ]
+gains/NNS 
+[ component/NN ]
+,/, but/CC 
+[ behind-the-scenes/JJ pressure/NN ]
+has/VBZ been/VBN intense/JJ to/TO add/VB 
+[ a/DT provision/NN ]
+
+[ that/WDT ]
+cuts/VBZ that/DT 
+[ tax/NN rate/NN ]
+./. 
+
+[ The/DT 20-member/JJ Finance/NNP Committee/NNP ]
+is/VBZ evenly/RB split/VBN on/IN 
+[ the/DT question/NN ]
+,/, but/CC 
+[ a/DT majority/NN ]
+in/IN 
+[ the/DT Senate/NNP ]
+appears/VBZ to/TO favor/VB 
+[ some/DT sort/NN ]
+of/IN 
+[ capital/NN gains/NNS tax/NN reduction/NN ]
+./. 
+
+======================================
+
+[ Sen./NNP Bentsen/NNP ]
+said/VBD 
+[ he/PRP ]
+expects/VBZ drafting/NN of/IN 
+[ his/PRP$ tax/NN plan/NN ]
+to/TO be/VB ``/`` 
+[ difficult/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ Last/JJ week/NN ]
+,/, 
+[ the/DT House/NNP ]
+approved/VBD 
+[ a/DT gains-tax/JJ ]
+cut/NN over/IN 
+[ the/DT objections/NNS ]
+of/IN 
+[ its/PRP$ Democratic/JJ leaders/NNS ]
+./. 
+
+In/IN 
+[ the/DT Senate/NNP ]
+,/, 
+[ the/DT next/JJ stop/NN ]
+for/IN 
+[ the/DT legislation/NN ]
+,/, 
+[ Democratic/JJ leaders/NNS ]
+again/RB are/VBP opposed/VBN ./. 
+
+But/CC as/IN in/IN 
+[ the/DT House/NNP ]
+,/, 
+[ the/DT Senate/NNP ]
+has/VBZ 
+[ a/DT sizable/JJ minority/NN ]
+of/IN 
+[ Democrats/NNPS ]
+and/CC 
+[ near-solid/JJ block/NN ]
+of/IN 
+[ Republicans/NNPS ]
+
+[ who/WP ]
+favor/VBP 
+[ some/DT sort/NN ]
+of/IN 
+[ reduction/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN 
+[ a/DT priority/NN ]
+of/IN 
+[ President/NNP Bush/NNP ]
+./. 
+
+On/IN 
+[ NBC/NNP News/NNP 's/POS ]
+``/`` Meet/NNP 
+[ the/DT Press/NNP ]
+''/'' 
+[ yesterday/NN ]
+,/, 
+[ Senate/NNP Majority/NNP Leader/NNP George/NNP Mitchell/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Maine/NNP ]
+ )/) declared/VBD that/IN 
+[ the/DT capital-gains/JJ plan/NN ]
+approved/VBN by/IN 
+[ the/DT House/NNP ]
+``/`` will/MD not/RB be/VB enacted/VBN in/IN 
+[ the/DT Senate/NNP ]
+./. 
+
+''/'' But/CC 
+[ Mr./NNP Mitchell/NNP ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+acknowledged/VBD that/IN 
+[ a/DT capital-gains/JJ proposal/NN ]
+could/MD pass/VB 
+[ the/DT Senate/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ the/DT outcome/NN ]
+of/IN 
+[ any/DT alternative/JJ proposal/NN ]
+``/`` will/MD depend/VB on/IN 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT plan/NN ]
+,/, and/CC 
+[ I/PRP ]
+think/VBP 
+[ the/DT vote/NN ]
+
+[ there/EX ]
+will/MD be/VB very/RB close/JJ ./. 
+
+''/'' 
+======================================
+
+[ The/DT House/NNP plan/NN ]
+would/MD cut/VB 
+[ the/DT capital/NN ]
+gains/NNS 
+[ tax/NN rate/NN ]
+for/IN 
+[ 2/CD 1\/2/CD years/NNS ]
+to/TO 
+[ 19.6/CD %/NN ]
+from/IN 
+[ the/DT current/JJ maximum/NN ]
+of/IN 
+[ 33/CD %/NN ]
+./. 
+
+Afterward/RB ,/, 
+[ the/DT rate/NN ]
+would/MD be/VB 
+[ 28/CD %/NN ]
+,/, with/IN 
+[ gains/NNS ]
+from/IN newly/RB acquired/VBN 
+[ assets/NNS ]
+indexed/VBN to/TO 
+[ inflation/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ the/DT House/NNP ]
+debated/VBD 
+[ its/PRP$ capital/NN gains/NNS provision/NN ]
+,/, 
+[ several/JJ Democratic/JJ senators/NNS ]
+met/VBD in/IN 
+[ the/DT office/NN ]
+of/IN 
+[ Florida/NNP Sen./NNP Bob/NNP Graham/NNP ]
+to/TO discuss/VB 
+[ their/PRP$ common/JJ interest/NN ]
+in/IN cutting/VBG 
+[ the/DT capital/NN ]
+gains/NNS 
+[ tax/NN rate/NN ]
+./. 
+
+Since/IN then/RB ,/, 
+[ Sen./NNP David/NNP Boren/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Okla./NNP ]
+ )/) ,/, 
+[ a/DT conservative/JJ member/NN ]
+of/IN 
+[ the/DT tax-writing/JJ Finance/NNP Committee/NNP ]
+,/, has/VBZ undertaken/VBN 
+[ the/DT chore/NN ]
+of/IN devising/VBG 
+[ a/DT plan/NN ]
+
+[ that/WDT ]
+meets/VBZ 
+[ their/PRP$ ]
+widely/RB varied/VBN 
+[ interests/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ Friday/NNP ]
+,/, 
+[ Sen./NNP Boren/NNP ]
+told/VBD 
+[ a/DT meeting/NN ]
+of/IN 
+[ the/DT Democratic/JJ committee/NN members/NNS ]
+that/IN 
+[ he/PRP ]
+intends/VBZ to/TO offer/VB 
+[ an/DT amendment/NN ]
+to/TO 
+[ Sen./NNP Bentsen/NNP 's/POS proposal/NN ]
+
+[ that/WDT ]
+would/MD reduce/VB 
+[ the/DT capital/NN ]
+gains/NNS 
+[ rate/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'ve/VBP got/VBN to/TO come/VB up/IN with/IN 
+[ something/NN ]
+
+[ that/WDT ]
+accepts/VBZ 
+[ the/DT IRA/NNP proposal/NN ]
+,/, but/CC also/RB does/VBZ 
+[ something/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD afterward/RB ./. 
+
+======================================
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ Sen./NNP Boren/NNP ]
+said/VBD 
+[ he/PRP ]
+dislikes/VBZ 
+[ the/DT House/NNP version/NN ]
+of/IN 
+[ the/DT capital/NN gains/NNS ]
+cut/NN ,/, 
+[ which/WDT ]
+would/MD produce/VB 
+[ a/DT ]
+``/`` 
+[ fire/NN sale/NN ]
+of/IN 
+[ assets/NNS ]
+''/'' by/IN reducing/VBG 
+[ the/DT rate/NN ]
+for/IN 
+[ 2/CD 1\/2/CD years/NNS ]
+and/CC then/RB increasing/VBG 
+[ it/PRP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+favors/VBZ 
+[ a/DT permanent/JJ tax/NN cut/NN ]
+
+[ that/WDT ]
+helps/VBZ 
+[ start-up/VB companies/NNS ]
+and/CC encourages/VBZ 
+[ long-term/JJ investment/NN ]
+./. 
+
+[ He/PRP ]
+spoke/VBD highly/RB of/IN 
+[ plans/NNS ]
+
+[ that/WDT ]
+remove/VBP from/IN 
+[ taxation/NN gains/NNS ]
+
+[ that/WDT ]
+are/VBP attributable/JJ to/TO 
+[ inflation/NN ]
+and/CC 
+[ that/WDT ]
+mostly/RB benefit/VBP newly/RB acquired/VBN 
+[ assets/NNS ]
+./. 
+
+[ His/PRP$ biggest/JJS ]
+challenge/NN ,/, 
+[ he/PRP ]
+said/VBD ,/, is/VBZ financing/VBG 
+[ the/DT proposal/NN ]
+./. 
+
+======================================
+
+[ The/DT proponents/NNS ]
+of/IN 
+[ a/DT gains-tax/NN ]
+cut/NN 
+[ Sen./NNP Boren/NNP ]
+hopes/VBZ to/TO satisfy/VB are/VBP 
+[ a/DT diverse/JJ lot/NN ]
+,/, ranging/VBG from/IN 
+[ liberal/JJ Sens./NNP Alan/NNP Cranston/NNP ]
+of/IN 
+[ California/NNP ]
+and/CC 
+[ John/NNP Kerry/NNP ]
+of/IN 
+[ Massachusetts/NNP ]
+,/, 
+[ who/WP ]
+represent/VBP 
+[ states/NNS ]
+with/IN 
+[ high-technology/NN industries/NNS ]
+,/, to/TO 
+[ Sens./NNP Sam/NNP Nunn/NNP ]
+of/IN 
+[ Georgia/NNP ]
+and/CC 
+[ Dale/NNP Bumpers/NNP ]
+of/IN 
+[ Arkansas/NNP ]
+,/, 
+[ whose/WP$ states/NNS ]
+have/VBP 
+[ large/JJ timber/NN interests/NNS ]
+./. 
+
+[ High-tech/NN companies/NNS ]
+need/VBP 
+[ capital/NN ]
+,/, while/IN 
+[ timber/NN sales/NNS ]
+would/MD receive/VB 
+[ the/DT preferential/JJ tax/NN treatment/NN ]
+of/IN 
+[ capital/NN gains/NNS ]
+./. 
+
+[ Freshmen/NNS senators/NNS ]
+such/JJ as/IN 
+[ Charles/NNP Robb/NNP ]
+of/IN 
+[ Virginia/NNP ]
+and/CC 
+[ Joseph/NNP Lieberman/NNP ]
+of/IN 
+[ Connecticut/NNP ]
+also/RB have/VBP expressed/VBN 
+[ interest/NN ]
+./. 
+
+======================================
+
+[ All/DT ]
+told/VBD ,/, perhaps/RB 
+[ 15/CD Democratic/JJ senators/NNS ]
+favor/VBP 
+[ a/DT cut/NN ]
+in/IN 
+[ the/DT capital/NN ]
+gains/NNS 
+[ tax/NN ]
+,/, more/RBR than/IN enough/RB to/TO produce/VB 
+[ a/DT majority/NN ]
+in/IN 
+[ the/DT Senate/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ 55/CD Democrats/NNPS ]
+and/CC 
+[ 45/CD Republicans/NNPS ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ Sen./NNP Bentsen/NNP ]
+holds/VBZ out/IN 
+[ the/DT hope/NN ]
+that/IN 
+[ the/DT Boren/NNP amendment/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+could/MD fail/VB narrowly/RB in/IN 
+[ his/PRP$ committee/NN ]
+,/, and/CC 
+[ that/IN his/PRP$ package/NN ]
+could/MD be/VB sent/VBN to/TO 
+[ the/DT floor/NN ]
+without/IN 
+[ much/JJ change/NN ]
+./. 
+
+Once/RB there/RB ,/, 
+[ Senate/NNP rules/NNS ]
+might/MD make/VB 
+[ it/PRP ]
+hard/JJ to/TO add/VB 
+[ a/DT capital-gains/JJ proposal/NN ]
+./. 
+
+[ Sen./NNP Bentsen/NNP ]
+argues/VBZ that/IN 
+[ it/PRP ]
+would/MD be/VB too/RB costly/JJ to/TO approve/VB 
+[ both/PDT ]
+
+[ a/DT capital/NN ]
+gains/NNS 
+[ tax/NN ]
+cut/NN and/CC 
+[ an/DT enhanced/JJ IRA/NNP deduction/NN ]
+./. 
+
+[ His/PRP$ plan/NN ]
+would/MD give/VB 
+[ a/DT 50/CD %/NN deduction/NN ]
+for/IN up/IN to/TO 
+[ $/$ 2,000/CD ]
+of/IN 
+[ IRA/NNP contributions/NNS ]
+made/VBN by/IN 
+[ people/NNS ]
+
+[ who/WP ]
+currently/RB do/VBP n't/RB qualify/VB ./. 
+
+[ It/PRP ]
+also/RB would/MD allow/VB 
+[ penalty-free/JJ withdrawals/NNS ]
+for/IN 
+[ retirement/NN ]
+,/, 
+[ higher/JJR education/NN ]
+or/CC 
+[ the/DT purchase/NN ]
+of/IN 
+[ a/DT first/JJ home/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT possible/JJ fallback/NN position/NN ]
+,/, 
+[ Sen./NNP Bentsen/NNP ]
+is/VBZ watching/VBG 
+[ efforts/NNS ]
+by/IN 
+[ committee/NN member/NN David/NNP Pryor/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ark/NNP ]
+./. 
+
+ )/) ./. 
+
+[ Sen./NNP Pryor/NNP ]
+,/, with/IN 
+[ leadership/NN encouragement/NN ]
+,/, is/VBZ trying/VBG to/TO see/VB 
+[ what/WP ]
+,/, 
+[ short/JJ ]
+of/IN 
+[ a/DT capital/NN ]
+gains/NNS 
+[ tax/NN cut/NN ]
+,/, is/VBZ acceptable/JJ to/TO 
+[ fellow/JJ timber-state/JJ senators/NNS ]
+./. 
+
+So/IN far/RB ,/, 
+[ he/PRP ]
+has/VBZ come/VBN up/IN with/IN 
+[ income/NN averaging/NN ]
+,/, 
+[ a/DT plan/NN ]
+
+[ that/WDT ]
+would/MD spread/VB 
+[ gains/NNS ]
+over/IN 
+[ a/DT number/NN ]
+of/IN 
+[ years/NNS ]
+./. 
+
+But/CC 
+[ it/PRP ]
+is/VBZ n't/RB clear/JJ that/IN 
+[ the/DT plan/NN ]
+would/MD help/VB 
+[ fledgling/NN high-tech/NN companies/NNS ]
+./. 
+
+======================================
+
+[ Separately/RB ]
+,/, 
+[ Treasury/NNP Secretary/NNP Nicholas/NNP Brady/NNP ]
+urged/VBD 
+[ the/DT Senate/NNP ]
+to/TO go/VB beyond/IN 
+[ the/DT House/NNP proposal/NN ]
+and/CC approve/VB 
+[ a/DT permanent/JJ capital-gains/JJ differential/NN ]
+./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ Sen./NNP Bentsen/NNP 's/POS IRA/NNP proposal/NN ]
+was/VBD ``/`` too/RB expensive/JJ at/IN 
+[ a/DT time/NN ]
+when/WRB reaching/VBG 
+[ Gramm-Rudman/NNP deficit-reduction/JJ targets/NNS ]
+is/VBZ 
+[ our/PRP$ first/JJ concern/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Brady/NNP 's/POS comments/NNS Friday/NNP ]
+about/IN 
+[ IRAs/NNPS ]
+came/VBD only/RB 
+[ 2/CD 1\/2/CD weeks/NNS ]
+after/IN 
+[ he/PRP ]
+announced/VBD that/IN 
+[ a/DT team/NN ]
+of/IN 
+[ Treasury/NNP officials/NNS ]
+was/VBD studying/VBG 
+[ ways/NNS ]
+to/TO bolster/VB 
+[ the/DT nation/NN 's/POS savings/NN rate/NN ]
+through/IN 
+[ tax/NN incentives/NNS ]
+,/, including/VBG 
+[ new/JJ deductions/NNS ]
+for/IN 
+[ IRAs/NNPS ]
+./. 
+
+[ He/PRP ]
+retreated/VBD from/IN 
+[ his/PRP$ earlier/JJR remarks/NNS ]
+,/, saying/VBG ``/`` 
+[ there/EX ]
+is/VBZ 
+[ no/DT firm/JJ consensus/NN ]
+over/IN whether/IN 
+[ IRAs/NNPS ]
+''/'' are/VBP 
+[ effective/JJ ]
+in/IN 
+[ stimulating/JJ savings/NNS ]
+./. 
+
+======================================
+
+[ Hilary/NNP Stout/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

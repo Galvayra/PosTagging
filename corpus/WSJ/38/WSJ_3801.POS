@@ -1,0 +1,652 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Indicted/VBN 
+[ junk-bond/NN king/NN Michael/NNP Milken/NNP ]
+may/MD be/VB entitled/VBN to/TO 
+[ the/DT best/JJS legal/JJ defense/NN money/NN ]
+can/MD buy/VB ./. 
+
+But/CC 
+[ his/PRP$ former/JJ employer/NN ]
+,/, 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc./NNP ]
+,/, has/VBZ decided/VBN 
+[ he/PRP ]
+is/VBZ n't/RB entitled/VBN to/TO 
+[ all/PDT the/DT legal/JJ defense/NN its/PRP$ money/NN ]
+can/MD buy/VB ./. 
+
+======================================
+
+[ Drexel/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ footing/VBG 
+[ the/DT bill/NN ]
+,/, is/VBZ putting/VBG 
+[ Mr./NNP Milken/NNP 's/POS lawyers/NNS ]
+on/IN 
+[ a/DT strict/JJ budget/NN ]
+:/: 
+[ $/$ 1,250,000/CD ]
+
+[ a/DT month/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ Arthur/NNP Liman/NNP ]
+and/CC 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT Milken/NNP criminal-defense/NN team/NN ]
+,/, 
+[ the/DT budget/NN ]
+is/VBZ 
+[ a/DT style-cramper/NN ]
+./. 
+
+Until/IN now/RB ,/, 
+[ they/PRP ]
+have/VBP coasted/VBD along/IN with/IN 
+[ bills/NNS ]
+as/RB high/JJ as/IN 
+[ $/$ 2/CD million/CD ]
+
+[ a/DT month/NN ]
+./. 
+
+======================================
+
+[ The/DT crackdown/NN ]
+--/: 
+[ which/WDT ]
+covers/VBZ 
+[ the/DT defense/NN ]
+of/IN 
+[ Mr./NNP Milken/NNP ]
+and/CC 
+[ his/PRP$ brother/NN Lowell/NNP Milken/NNP ]
+--/: prohibits/VBZ 
+[ the/DT attorneys/NNS ]
+from/IN 
+[ flying/VBG first-class/NN ]
+or/CC staying/VBG in/IN 
+[ deluxe/JJ hotel/NN suites/NNS ]
+./. 
+
+[ Drexel/NNP ]
+says/VBZ 
+[ it/PRP ]
+will/MD keep/VB 
+[ close/JJ tabs/NNS ]
+on/IN 
+[ consultants/NNS ]
+
+[ the/DT lawyers/NNS ]
+hire/VBP ,/, 
+[ documents/NNS they/PRP ]
+copy/VBP and/CC overtime/NN 
+[ they/PRP ]
+pay/VBP to/TO 
+[ secretaries/NNS ]
+and/CC 
+[ paralegals/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Liman/NNP ]
+,/, 
+[ who/WP ]
+reportedly/RB has/VBZ been/VBN billing/VBG 
+[ $/$ 450/CD ]
+
+[ an/DT hour/NN ]
+for/IN 
+[ his/PRP$ services/NNS ]
+,/, is/VBZ irate/JJ ./. 
+
+======================================
+
+``/`` 
+[ The/DT quality/NN ]
+of/IN 
+[ Michael/NNP Milken/NNP 's/POS representation/NN ]
+will/MD not/RB be/VB affected/VBN by/IN 
+[ Drexel/NNP 's/POS ]
+nickeling/VBG and/CC diming/VBG 
+[ their/PRP$ lawyers/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Liman/NNP ]
+,/, 
+[ former/JJ counsel/NN ]
+to/TO 
+[ the/DT congressional/JJ Iran-Contra/NNP committee/NN ]
+./. 
+
+If/IN 
+[ Drexel/NNP ]
+wants/VBZ ``/`` 
+[ us/PRP ]
+to/TO take/VB 
+[ the/DT train/NN ]
+to/TO 
+[ California/NNP ]
+and/CC 
+[ we/PRP ]
+want/VBP to/TO go/VB by/IN 
+[ plane/NN ]
+,/, 
+[ Michael/NNP ]
+will/MD pay/VB ,/, ''/'' 
+[ he/PRP ]
+insists/VBZ ./. 
+
+======================================
+
+Until/IN recently/RB ,/, 
+[ the/DT former/JJ $/$ 550/CD million-a-year/JJ head/NN ]
+of/IN 
+[ Drexel/NNP 's/POS junk-bond/JJ department/NN ]
+,/, had/VBD 
+[ a/DT common/JJ purpose/NN ]
+with/IN 
+[ Drexel/NNP ]
+./. 
+
+[ They/PRP ]
+were/VBD fighting/VBG 
+[ charges/NNS they/PRP ]
+had/VBD engaged/VBN in/IN 
+[ insider/NN ]
+trading/NN and/CC 
+[ other/JJ securities-law/JJ violations/NNS ]
+./. 
+
+======================================
+
+But/CC in/IN 
+[ December/NNP ]
+,/, 
+[ Drexel/NNP ]
+agreed/VBD to/TO plead/VB guilty/JJ to/TO 
+[ six/CD felony/NN ]
+counts/NNS rather/RB than/IN 
+[ face/VB ]
+racketeering/NN 
+[ charges/NNS ]
+./. 
+
+[ Drexel/NNP ]
+promised/VBD to/TO continue/VB paying/VBG 
+[ the/DT legal/JJ bills/NNS ]
+for/IN 
+[ the/DT Milkens/NNPS ]
+,/, 
+[ who/WP ]
+decided/VBD to/TO fight/VB ./. 
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ the/DT brothers/NNS ]
+were/VBD charged/VBN in/IN 
+[ a/DT 98-count/JJ indictment/NN ]
+alleging/VBG racketeering/NN ,/, 
+[ securities/NNS ]
+,/, 
+[ mail/NN ]
+and/CC 
+[ tax/NN fraud/NN ]
+./. 
+
+[ They/PRP ]
+have/VBP declared/VBN 
+[ their/PRP$ innocence/NN ]
+./. 
+
+======================================
+
+[ Relations/NNS ]
+between/IN 
+[ Drexel/NNP ]
+and/CC 
+[ the/DT Milken/NNP attorneys/NNS ]
+have/VBP been/VBN chilly/JJ since/IN 
+[ Drexel/NNP 's/POS plea/NN agreement/NN ]
+,/, 
+[ which/WDT ]
+involved/VBD 
+[ a/DT promise/NN ]
+that/IN 
+[ it/PRP ]
+would/MD cooperate/VB in/IN 
+[ a/DT continuing/JJ investigation/NN ]
+of/IN 
+[ the/DT Milkens/NNPS ]
+./. 
+
+[ The/DT cool/JJ relations/NNS ]
+gave/VBD 
+[ way/NN ]
+to/TO 
+[ a/DT Cold/NNP War/NNP ]
+after/IN 
+[ Drexel/NNP first/RB ]
+sought/VBD in/IN 
+[ late/JJ August/NNP ]
+to/TO crack/VB down/RP on/IN mounting/JJ 
+[ legal/JJ fees/NNS ]
+./. 
+
+======================================
+
+To/TO 
+[ the/DT Milken/NNP attorneys/NNS ]
+,/, 
+[ the/DT crackdown/NN ]
+smacked/VBD of/IN 
+[ hypocrisy/NN ]
+./. 
+
+After/IN 
+[ all/DT ]
+,/, 
+[ Drexel/NNP 's/POS attorneys/NNS ]
+spared/VBD 
+[ no/DT expense/NN ]
+when/WRB 
+[ it/PRP ]
+was/VBD battling/VBG 
+[ the/DT government/NN ]
+,/, racking/VBG up/RP as/RB much/JJ as/IN 
+[ $/$ 100/CD million/CD ]
+in/IN 
+[ legal/JJ fees/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ that/DT ]
+was/VBD under/IN 
+[ the/DT old/JJ regime/NN ]
+./. 
+
+With/IN 
+[ a/DT cleaned-up/JJ Drexel/NNP ]
+operating/VBG with/IN 
+[ a/DT new/JJ chairman/NN ]
+,/, 
+[ John/NNP Shad/NNP ]
+,/, and/CC 
+[ a/DT new/JJ general/JJ counsel/NN ]
+,/, 
+[ Saul/NNP Cohen/NNP ]
+,/, 
+[ cost-consciousness/NN ]
+has/VBZ taken/VBN 
+[ hold/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Cohen/NNP ]
+emphasizes/VBZ 
+[ that/DT Drexel/NNP ]
+is/VBZ n't/RB singling/VBG out/RP 
+[ the/DT Milkens/NNPS ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ Mr./NNP Liman/NNP 's/POS law/NN firm/NN ]
+was/VBD 
+[ one/CD ]
+of/IN more/RBR than/IN 
+[ 50/CD firms/NNS ]
+to/TO 
+[ which/WDT ]
+
+[ he/PRP ]
+wrote/VBD in/IN 
+[ late/JJ August/NNP ]
+to/TO inform/VB 
+[ them/PRP ]
+of/IN 
+[ the/DT investment/NN bank/NN 's/POS attempt/NN ]
+to/TO cut/VB 
+[ legal/JJ costs/NNS ]
+./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ Mr./NNP Cohen/NNP ]
+asserts/VBZ 
+[ that/DT Drexel/NNP ]
+is/VBZ n't/RB seeking/VBG to/TO ``/`` 
+[ second-guess/JJ counsel/NN ]
+''/'' for/IN 
+[ any/DT ]
+of/IN 
+[ its/PRP$ current/JJ ]
+or/CC 
+[ former/JJ employees/NNS ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ the/DT cost-cutting/JJ measure/NN ]
+was/VBD ``/`` 
+[ a/DT specific/JJ response/NN ]
+to/TO 
+[ the/DT need/NN ]
+to/TO make/VB 
+[ this/DT place/NN ]
+as/RB profitable/JJ as/IN 
+[ possible/JJ ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT Milken/NNP defense/NN effort/NN ]
+,/, 
+[ cost-cutters/NNS ]
+have/VBP 
+[ a/DT tempting/JJ target/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO traveling/VBG in/IN 
+[ style/NN ]
+,/, 
+[ the/DT Milken/NNP attorneys/NNS ]
+have/VBP left/VBN 
+[ no/DT stone/NN ]
+unturned/JJ in/IN 
+[ their/PRP$ defense/NN efforts/NNS ]
+./. 
+
+======================================
+
+[ They/PRP ]
+are/VBP understood/VBN to/TO have/VB spent/VBN more/JJR than/IN 
+[ $/$ 500,000/CD ]
+on/IN 
+[ a/DT team/NN ]
+of/IN 
+[ economists/NNS ]
+to/TO study/VB 
+[ the/DT market/NN impact/NN ]
+of/IN 
+[ stock/NN parking/NN ]
+,/, 
+[ a/DT practice/NN ]
+at/IN 
+[ the/DT core/NN ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT charges/NNS ]
+against/IN 
+[ Mr./NNP Milken/NNP ]
+./. 
+
+[ The/DT study/NN ]
+yielded/VBD 
+[ results/NNS ]
+considered/VBN to/TO be/VB ``/`` 
+[ predictable/JJ ]
+,/, ''/'' according/VBG to/TO 
+[ lawyers/NNS ]
+
+[ who/WP ]
+learned/VBD of/IN 
+[ the/DT conclusions/NNS ]
+./. 
+
+[ The/DT Milken/NNP attorneys/NNS ]
+have/VBP hired/VBN 
+[ dozens/NNS ]
+of/IN 
+[ other/JJ academics/NNS ]
+as/IN 
+[ consultants/NNS ]
+on/IN 
+[ a/DT variety/NN ]
+of/IN 
+[ matters/NNS ]
+./. 
+
+======================================
+
+And/CC when/WRB 
+[ defendants/NNS ]
+in/IN 
+[ the/DT government/NN 's/POS related/JJ case/NN ]
+against/IN 
+[ Princeton\/Newport/NNP Limited/NNP Partnership/NNP ]
+went/VBD on/IN 
+[ trial/NN ]
+earlier/RB 
+[ this/DT year/NN ]
+,/, as/RB many/JJ as/IN 
+[ six/CD attorneys/NNS ]
+connected/VBN with/IN 
+[ the/DT Milken/NNP defense/NN ]
+showed/VBD up/RP in/IN 
+[ court/NN many/JJ days/NNS ]
+to/TO view/VB 
+[ the/DT proceedings/NNS ]
+while/IN 
+[ the/DT meter/NN ]
+ticked/VBD ./. 
+
+======================================
+
+[ Mr./NNP Liman/NNP 's/POS law/NN firm/NN ]
+of/IN 
+[ Paul/NNP ]
+,/, 
+[ Weiss/NNP ]
+,/, 
+[ Rifkind/NNP ]
+,/, 
+[ Wharton/NNP ]
+&/CC 
+[ Garrison/NNP ]
+has/VBZ staffed/VBN 
+[ the/DT case/NN ]
+liberally/RB ./. 
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ two/CD $/$ 450-an-hour/JJ partners/NNS ]
+working/VBG 
+[ full-time/JJ ]
+on/IN 
+[ the/DT matter/NN ]
+,/, 
+[ Mr./NNP Liman/NNP ]
+and/CC 
+[ Martin/NNP Flumenbaum/NNP ]
+,/, 
+[ it/PRP ]
+has/VBZ more/RBR than/IN 
+[ a/DT dozen/NN associates/NNS ]
+and/CC 
+[ paralegals/NNS ]
+assigned/VBN to/TO 
+[ the/DT case/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ a/DT second/JJ premium-priced/JJ law/NN firm/NN ]
+,/, 
+[ Williams/NNP ]
+&/CC 
+[ Connolly/NNP ]
+,/, assists/VBZ in/IN 
+[ the/DT defense/NN planning/NN ]
+./. 
+
+In/IN 
+[ Beverly/NNP Hills/NNP ]
+,/, 
+[ Michael/NNP Milken/NNP 's/POS longtime/JJ friend/NN Richard/NNP Sandler/NNP ]
+works/VBZ on/IN 
+[ the/DT case/NN ]
+./. 
+
+And/CC now/RB 
+[ Mr./NNP Milken/NNP ]
+is/VBZ searching/VBG for/IN 
+[ another/DT top/JJ criminal/JJ lawyer/NN ]
+to/TO assist/VB 
+[ Mr./NNP Liman/NNP ]
+at/IN 
+[ trial/NN ]
+,/, 
+[ which/WDT ]
+wo/MD n't/RB begin/VB before/IN 
+[ late/RB next/JJ year/NN ]
+./. 
+
+======================================
+
+Despite/IN 
+[ Drexel/NNP 's/POS cost/NN crusade/NN ]
+,/, 
+[ Mr./NNP Liman/NNP ]
+says/VBZ 
+[ he/PRP ]
+and/CC 
+[ his/PRP$ client/NN ]
+are/VBP committed/VBN to/TO waging/VBG 
+[ the/DT most/RBS effective/JJ war/NN ]
+against/IN 
+[ the/DT government/NN 's/POS charges/NNS ]
+as/IN 
+[ possible/JJ ]
+./. 
+
+From/IN now/RB on/IN ,/, 
+[ he/PRP ]
+says/VBZ ,/, ``/`` 
+[ Michael/NNP ]
+is/VBZ paying/VBG 
+[ the/DT lion/NN 's/POS share/NN ]
+of/IN 
+[ his/PRP$ own/JJ legal/JJ fees/NNS ]
+and/CC 
+[ expenses/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Defense/NN attorneys/NNS ]
+say/VBP 
+[ they/PRP ]
+are/VBP particularly/RB upset/JJ about/IN 
+[ Drexel/NNP 's/POS demand/NN ]
+that/IN 
+[ outside/JJ counsel/NN ]
+include/VBP in/IN 
+[ all/DT bills/NNS ]
+
+[ a/DT detailed/JJ description/NN ]
+of/IN 
+[ work/NN ]
+done/VBN ./. 
+
+[ They/PRP ]
+say/VBP 
+[ they/PRP ]
+fear/VBP 
+[ the/DT government/NN ]
+will/MD subpoena/VB 
+[ those/DT bills/NNS ]
+in/IN 
+[ an/DT attempt/NN ]
+to/TO discern/VB 
+[ what/WP ]
+
+[ the/DT defense/NN ]
+is/VBZ up/IN to/TO ./. 
+
+[ Some/DT note/VBP ]
+that/IN with/IN 
+[ Drexel/NNP ]
+cooperating/VBG with/IN 
+[ the/DT government/NN ]
+,/, 
+[ a/DT subpoena/NN ]
+may/MD not/RB even/RB be/VB necessary/JJ ./. 
+
+======================================
+
+[ Mr./NNP Cohen/NNP ]
+,/, 
+[ the/DT new/JJ Drexel/NNP general/JJ counsel/NN ]
+,/, says/VBZ 
+[ several/JJ attorneys/NNS ]
+have/VBP told/VBN 
+[ him/PRP ]
+
+[ they/PRP ]
+would/MD n't/RB submit/VB detailed/VBN 
+[ bills/NNS ]
+because/IN of/IN 
+[ a/DT concern/NN ]
+
+[ the/DT bills/NNS ]
+would/MD later/RB be/VB viewed/VBN by/IN 
+[ the/DT government/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+understand/VBP 
+[ that/DT concern/NN ]
+and/CC 
+[ we/PRP ]
+'ve/VBP asked/VBD 
+[ them/PRP ]
+to/TO tell/VB 
+[ us/PRP ]
+
+[ what/WP ]
+
+[ they/PRP ]
+can/MD ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 

@@ -1,0 +1,962 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+With/IN 
+[ 4,000/CD pedigree/NN livestock/NN ]
+on/IN 
+[ display/NN ]
+at/IN 
+[ the/DT annual/JJ Rural/NNP Society/NNP Fair/NNP ]
+in/IN 
+[ this/DT cosmopolitan/JJ capital/NN ]
+,/, 
+[ President/NNP Carlos/NNP Saul/NNP Menem/NNP ]
+seized/VBD 
+[ the/DT moment/NN ]
+to/TO suggest/VB that/IN 
+[ an/DT agrarian/JJ revival/NN ]
+was/VBD in/IN 
+[ the/DT air/NN ]
+./. 
+
+======================================
+
+Arriving/VBG at/IN 
+[ the/DT showgrounds/NNS ]
+in/IN 
+[ a/DT vintage/JJ Cadillac/NNP convertible/NN ]
+with/IN 
+[ a/DT cavalry/NN escort/NN ]
+,/, 
+[ he/PRP ]
+climbed/VBD 
+[ the/DT stands/NNS ]
+crowded/VBN with/IN ``/`` 
+[ estancieros/NNS ]
+''/'' --/: 
+[ the/DT elite/JJ farm/NN families/NNS ]
+--/: and/CC uttered/VBD 
+[ words/NNS they/PRP ]
+had/VBD waited/VBN more/JJR than/IN 
+[ four/CD decades/NNS ]
+to/TO hear/VB from/IN 
+[ a/DT chief/NN ]
+of/IN 
+[ state/NN ]
+:/: 
+======================================
+
+``/`` 
+[ The/DT future/NN ]
+is/VBZ in/IN 
+[ the/DT countryside/NN ]
+./. 
+
+./. 
+
+./. 
+
+[ Our/PRP$ prosperity/NN ]
+will/MD depend/VB upon/IN 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ That/DT ]
+'s/VBZ 
+[ a/DT painful/JJ admission/NN ]
+for/IN 
+[ any/DT Argentine/JJ leader/NN ]
+,/, especially/RB 
+[ a/DT Peronist/NNP ]
+like/IN 
+[ Mr./NNP Menem/NNP ]
+./. 
+
+Ever/RB since/IN 
+[ army/NN officer/NN Juan/NNP Domingo/NNP Peron/NNP ]
+rose/VBD to/TO 
+[ power/NN ]
+in/IN 
+[ the/DT 1940s/NNS ]
+espousing/VBG 
+[ Mussolini-like/JJ notions/NNS ]
+of/IN 
+[ national/JJ grandeur/NN ]
+,/, 
+[ this/DT country/NN ]
+has/VBZ tried/VBN to/TO fit/VB 
+[ itself/PRP ]
+into/IN 
+[ an/DT urban/JJ industrialized/VBN mold/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ part/NN ]
+of/IN 
+[ our/PRP$ mentality/NN ]
+to/TO equate/VB 
+[ agriculture/NN ]
+with/IN 
+[ backwardness/NN ]
+,/, ''/'' laments/VBZ 
+[ Fernando/NNP Urien/NNP ]
+,/, 
+[ an/DT estanciero/NN ]
+and/CC 
+[ a/DT director/NN ]
+of/IN 
+[ the/DT Rural/NNP Society/NNP ]
+,/, 
+[ the/DT ]
+leading/JJ 
+[ agrarian/JJ association/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Western/NNP Europe/NNP ]
+encourage/VBP --/: sometimes/RB even/RB coddle/VBP --/: 
+[ farmers/NNS ]
+,/, 
+[ Argentina/NNP ]
+taxes/VBZ 
+[ them/PRP ]
+into/IN 
+[ despair/NN ]
+./. 
+
+For/IN 
+[ every/DT dollar/NN ]
+earned/VBN by/IN 
+[ agricultural/JJ exports/NNS ]
+,/, 
+[ the/DT state/NN ]
+claims/VBZ at/IN 
+[ least/JJS 40/CD cents/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT revenue/NN ]
+is/VBZ used/VBN to/TO overstaff/VB 
+[ government/NN agencies/NNS ]
+./. 
+
+[ The/DT rest/NN ]
+subsidizes/VBZ overprotected/VBN 
+[ industries/NNS ]
+
+[ that/WDT ]
+turn/VBP out/RP 
+[ uncompetitive/JJ goods/NNS ]
+:/: When/WRB ``/`` made/VBN in/IN 
+[ Argentina/NNP ]
+''/'' gets/VBZ stamped/VBN on/IN 
+[ automobiles/NNS ]
+,/, 
+[ televisions/NNS ]
+and/CC 
+[ refrigerators/NNS ]
+,/, 
+[ they/PRP ]
+will/MD only/RB be/VB ``/`` sold/VBN in/IN 
+[ Argentina/NNP ]
+./. 
+
+''/'' 
+======================================
+
+But/CC mired/VBN in/IN 
+[ their/PRP$ worst/JJS economic/JJ crisis/NN ]
+of/IN 
+[ this/DT century/NN ]
+,/, 
+[ Argentines/NNS ]
+are/VBP being/VBG forced/VBN to/TO 
+[ reassess/VB their/PRP$ image/NN ]
+as/IN 
+[ an/DT industrialized/VBN nation/NN ]
+./. 
+
+To/TO combat/VB 
+[ hyperinflation/NN ]
+,/, 
+[ deep/JJ cutbacks/NNS ]
+must/MD be/VB made/VBN in/IN 
+[ factory/NN subsidies/NNS ]
+and/CC bloated/VBN 
+[ government/NN rolls/NNS ]
+./. 
+
+And/CC 
+[ the/DT most/RBS obvious/JJ path/NN ]
+to/TO 
+[ economic/JJ revival/NN ]
+is/VBZ through/IN 
+[ agriculture/NN ]
+./. 
+
+So/IN 
+[ Mr./NNP Menem/NNP ]
+has/VBZ turned/VBN to/TO 
+[ the/DT estancieros/NNS ]
+as/IN 
+[ Argentina/NNP 's/POS salvation/NN ]
+./. 
+
+======================================
+
+[ Farm/NN produce/NN ]
+already/RB accounts/VBZ for/IN 
+[ 80/CD %/NN ]
+of/IN 
+[ goods/NNS ]
+sold/VBN abroad/RB ./. 
+
+[ The/DT hope/NN ]
+is/VBZ that/IN 
+[ a/DT lighter/JJR tax/NN burden/NN ]
+will/MD stimulate/VB 
+[ new/JJ agrarian/JJ investment/NN ]
+,/, raise/VB 
+[ exports/NNS ]
+to/TO even/RB 
+[ higher/JJR levels/NNS ]
+,/, and/CC gain/VB 
+[ the/DT country/NN ]
+
+[ some/DT ]
+desperately/RB needed/VBN 
+[ currency/NN ]
+to/TO cope/VB with/IN 
+[ its/PRP$ $/$ 60/CD billion/CD foreign/JJ debt/NN ]
+./. 
+
+======================================
+
+[ These/DT ]
+are/VBP n't/RB 
+[ unreasonable/JJ expectations/NNS ]
+./. 
+
+In/IN 
+[ the/DT 1920s/NNS ]
+,/, before/IN turning/VBG 
+[ its/PRP$ back/NN ]
+on/IN 
+[ an/DT agriculture-based/JJ economy/NN ]
+,/, 
+[ Argentina/NNP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT eight/CD wealthiest/JJS nations/NNS ]
+in/IN 
+[ the/DT world/NN ]
+,/, 
+[ thanks/NNS ]
+to/TO 
+[ exports/NNS ]
+of/IN 
+[ meat/NN ]
+,/, 
+[ wool/NN ]
+and/CC 
+[ grains/NNS ]
+to/TO 
+[ war-torn/JJ ]
+,/, economically/RB depressed/VBN 
+[ Europe/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ Rich/JJ ]
+as/IN 
+[ an/DT Argentine/NNP ]
+''/'' meant/VBD 
+[ something/NN ]
+back/RB then/RB ./. 
+
+[ Estancieros/NNS ]
+crossed/VBD 
+[ the/DT Atlantic/NNP ]
+
+[ every/DT year/NN ]
+with/IN 
+[ their/PRP$ families/NNS ]
+,/, 
+[ maids/NNS ]
+,/, 
+[ cooks/NNS ]
+,/, 
+[ chauffeurs/NNS ]
+and/CC even/RB cows/NNS to/TO supply/VB 
+[ fresh/JJ milk/NN ]
+aboard/IN 
+[ ship/NN ]
+./. 
+
+In/IN 
+[ France/NNP ]
+,/, 
+[ the/DT women/NNS ]
+were/VBD 
+[ the/DT darlings/NNS ]
+of/IN 
+[ the/DT haute/FW couture/FW houses/NNS ]
+./. 
+
+In/IN 
+[ England/NNP ]
+,/, 
+[ the/DT men/NNS ]
+were/VBD 
+[ the/DT toast/NN ]
+of/IN 
+[ the/DT polo/NN crowd/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT ]
+``/`` 
+[ good/JJ old/JJ days/NNS ]
+''/'' are/VBP n't/RB fondly/RB evoked/VBN by/IN 
+[ most/JJS Argentines/NNS ]
+,/, 
+[ who/WP ]
+have/VBP grown/VBN up/RP believing/VBG that/IN 
+[ their/PRP$ forebears/NNS ]
+played/VBD 
+[ serfs/NNS ]
+to/TO 
+[ the/DT estanciero/NN ]
+lords/NNS ./. 
+
+Just/RB ask/VB 
+[ Roberto/NNP Mendoza/NNP ]
+,/, 
+[ a/DT 48-year-old/JJ electrician/NN ]
+
+[ who/WP ]
+remembers/VBZ 
+[ his/PRP$ father/NN 's/POS constant/JJ complaints/NNS ]
+of/IN 
+[ long/JJ hours/NNS ]
+and/CC 
+[ poor/JJ pay/NN ]
+as/IN 
+[ a/DT handyman/NN ]
+at/IN 
+[ an/DT ]
+``/`` 
+[ estancia/NN ]
+''/'' or/CC 
+[ country/NN estate/NN ]
+south/RB of/IN 
+[ Buenos/NNP Aires/NNP ]
+./. 
+
+``/`` 
+[ The/DT animals/NNS ]
+were/VBD treated/VBN better/RBR than/IN 
+[ he/PRP ]
+was/VBD ,/, ''/'' asserts/VBZ 
+[ the/DT son/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ all/DT the/DT evils/NNS ]
+of/IN 
+[ Peron/NNP ]
+,/, 
+[ he/PRP ]
+and/CC 
+[ his/PRP$ successors/NNS ]
+are/VBP widely/RB credited/VBN with/IN spreading/VBG 
+[ the/DT country/NN 's/POS riches/NN ]
+beyond/IN 
+[ the/DT estanciero/NN class/NN ]
+./. 
+
+[ Taxes/NNS ]
+on/IN 
+[ agriculture/NN ]
+created/VBD 
+[ the/DT state-owned/JJ power/NN plant/NN ]
+where/WRB 
+[ Mr./NNP Mendoza/NNP ]
+is/VBZ employed/VBN ./. 
+
+[ Obstacles/NNS ]
+to/TO 
+[ farm/NN exports/NNS ]
+meant/VBD 
+[ more/JJR produce/NN ]
+had/VBD to/TO be/VB sold/VBN on/IN 
+[ the/DT domestic/JJ market/NN ]
+,/, and/CC at/IN 
+[ cheap/JJ enough/RB prices/NNS ]
+to/TO make/VB 
+[ steak/NN ]
+
+[ the/DT daily/JJ staple/NN ]
+of/IN 
+[ his/PRP$ family/NN 's/POS diet/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ these/DT policies/NNS ]
+were/VBD popular/JJ in/IN 
+[ the/DT cities/NNS ]
+--/: and/CC sparked/VBD 
+[ a/DT rural/JJ exodus/NN ]
+
+[ that/WDT ]
+has/VBZ transformed/VBN 
+[ 85/CD %/NN ]
+of/IN 
+[ Argentines/NNS ]
+into/IN 
+[ urban/JJ dwellers/NNS ]
+--/: 
+[ they/PRP ]
+undermined/VBD 
+[ productivity/NN ]
+in/IN 
+[ the/DT countryside/NN ]
+./. 
+
+[ The/DT pampas/NNS ]
+fanning/VBG out/RB in/IN 
+[ a/DT 350-mile/JJ arc/NN ]
+from/IN 
+[ Buenos/NNP Aires/NNP ]
+are/VBP still/RB among/IN 
+[ the/DT most/RBS fecund/JJ lands/NNS ]
+in/IN 
+[ the/DT world/NN ]
+./. 
+
+But/CC 
+[ their/PRP$ output/NN ]
+is/VBZ held/VBN back/RB by/IN 
+[ minimum/NN use/NN ]
+of/IN 
+[ fertilizers/NNS ]
+,/, 
+[ pesticides/NNS ]
+and/CC 
+[ tractors/NNS ]
+./. 
+
+With/IN 
+[ profit/NN margins/NNS ]
+so/RB low/JJ ,/, ``/`` 
+[ the/DT more/JJR a/DT farmer/NN ]
+invests/VBZ ,/, 
+[ the/DT more/RBR likely/JJ ]
+
+[ he/PRP ]
+'ll/MD go/VB 
+[ broke/JJ ]
+,/, ''/'' says/VBZ 
+[ Enrique/NNP Gobbee/NNP ]
+,/, 
+[ a/DT leading/VBG agronomist/NN ]
+./. 
+
+======================================
+
+Consider/VB ,/, for/IN 
+[ example/NN ]
+,/, 
+[ the/DT way/NN Mr./NNP Urien/NNP ]
+,/, 
+[ the/DT stocky/JJ ]
+,/, 
+[ red-cheeked/JJ Rural/NNP Society/NNP director/NN ]
+,/, oversees/VBZ 
+[ three/CD family/NN estancias/NNS ]
+totaling/VBG about/RB 
+[ 15,000/CD acres/NNS ]
+./. 
+
+Because/IN 
+[ interest/NN rates/NNS ]
+on/IN 
+[ credit/NN ]
+are/VBP prohibitive/JJ ,/, 
+[ he/PRP ]
+often/RB forgoes/VBZ 
+[ fertilizers/NNS ]
+and/CC instead/RB relies/VBZ on/IN 
+[ crop/NN rotation/NN ]
+to/TO help/VB restore/VB 
+[ nutrients/NNS ]
+to/TO 
+[ the/DT soil/NN ]
+:/: 
+[ Some/DT fields/NNS ]
+are/VBP planted/VBN with/IN 
+[ soy/NN ]
+,/, 
+[ wheat/NN ]
+,/, 
+[ corn/NN ]
+and/CC 
+[ sunflower/NN ]
+for/IN 
+[ several/JJ years/NNS ]
+,/, and/CC then/RB returned/VBN to/TO pasture/VB for/IN 
+[ the/DT cattle/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ n't/RB 
+[ the/DT most/RBS efficient/JJ way/NN ]
+to/TO use/VB 
+[ prime/JJ agrarian/JJ land/NN ]
+,/, 
+[ he/PRP ]
+concedes/VBZ ./. 
+
+``/`` But/CC 
+[ I/PRP ]
+'d/MD be/VB out/IN of/IN 
+[ business/NN ]
+if/IN 
+[ I/PRP ]
+tried/VBD to/TO work/VB 
+[ these/DT fields/NNS ]
+intensively/RB ./. 
+
+[ The/DT prices/NNS we/PRP ]
+get/VBP for/IN 
+[ grains/NNS ]
+and/CC 
+[ beef/NN ]
+would/MD never/RB cover/VB 
+[ the/DT costs/NNS ]
+./. 
+
+''/'' 
+======================================
+
+To/TO help/VB meet/VB 
+[ expenses/NNS ]
+at/IN 
+[ their/PRP$ main/JJ estancia/NN ]
+--/: with/IN 
+[ its/PRP$ sumptuous/JJ compound/NN ]
+of/IN 
+[ colonial/JJ buildings/NNS ]
+and/CC 
+[ 50/CD acres/NNS ]
+of/IN 
+[ manicured/VBN lawns/NNS ]
+--/: 
+[ the/DT Urien/NNP family/NN woos/VBZ tourists/NNS ]
+./. 
+
+[ That/DT ]
+means/VBZ dressing/VBG up/RP 
+[ the/DT farmhands/NNS ]
+in/IN 
+[ traditional/JJ pantaloons/NNS ]
+and/CC 
+[ saggy/JJ boots/NNS ]
+,/, hiring/VBG 
+[ white-coated/JJ waiters/NNS ]
+to/TO 
+[ hand/NN ]
+out/IN 
+[ drinks/NNS ]
+,/, even/RB opening/VBG 
+[ a/DT boutique/NN ]
+with/IN 
+[ ready-to-wear/JJ gaucho/NN apparel/NN ]
+./. 
+
+======================================
+
+Only/RB 
+[ a/DT small/JJ number/NN ]
+of/IN 
+[ estancieros/NNS ]
+have/VBP diversified/VBN into/IN 
+[ fields/NNS ]
+other/JJ than/IN 
+[ agriculture/NN ]
+./. 
+
+``/`` 
+[ The/DT traditional/JJ families/NNS ]
+were/VBD always/RB prejudiced/VBN against/IN 
+[ industry/NN ]
+and/CC 
+[ commerce/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Gobbee/NNP ]
+,/, 
+[ the/DT agronomist/NN ]
+./. 
+
+``/`` Even/RB in/IN 
+[ farming/NN ]
+,/, 
+[ they/PRP ]
+lost/VBD 
+[ the/DT entrepreneurial/JJ spirit/NN ]
+./. 
+
+Too/RB many/JJ of/IN 
+[ the/DT sons/NNS ]
+spent/VBD 
+[ their/PRP$ time/NN playing/VBG polo/NN ]
+./. 
+
+''/'' 
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, only/RB 
+[ the/DT richest/JJS heirs/NNS ]
+can/MD aspire/VB to/TO 
+[ the/DT life/NN style/NN ]
+of/IN 
+[ the/DT Roaring/NNP Twenties/NNP ]
+./. 
+
+[ The/DT rest/NN ]
+survive/VBP comfortably/RB by/IN selling/VBG off/RP 
+[ parcels/NNS ]
+of/IN 
+[ land/NN ]
+and/CC speculating/VBG on/IN 
+[ the/DT financial/JJ markets/NNS ]
+./. 
+
+``/`` Most/JJS of/IN 
+[ them/PRP ]
+live/VBP in/IN 
+[ Buenos/NNP Aires/NNP ]
+,/, ''/'' says/VBZ 
+[ Virginia/NNP Dardalla/NNP ]
+,/, 
+[ who/WP ]
+runs/VBZ 
+[ a/DT public/JJ relations/NNS ]
+firm/NN that/IN 
+[ rents/NNS ]
+out/RP 
+[ country/NN estates/NNS ]
+for/IN 
+[ business/NN conferences/NNS ]
+./. 
+
+``/`` And/CC 
+[ they/PRP ]
+do/VBP n't/RB have/VB 
+[ a/DT clue/NN ]
+about/IN 
+[ what/WP ]
+'s/VBZ growing/VBG on/IN 
+[ their/PRP$ land/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ These/DT urbane/JJ cowboys/NNS ]
+have/VBP settled/VBN mainly/RB in/IN 
+[ the/DT Barrio/NNP Norte/NNP stretching/VBG north/NN ]
+of/IN 
+[ the/DT city/NN 's/POS financial/JJ district/NN ]
+and/CC along/IN 
+[ the/DT River/NNP Plate/NNP ]
+./. 
+
+[ The/DT neighborhood/NN 's/POS style/NN ]
+is/VBZ 
+[ Paris/NNP ]
+at/IN 
+[ its/PRP$ toniest/JJS ]
+:/: 
+[ Heavy/JJ oak/NN doors/NNS ]
+with/IN 
+[ brass/NN knockers/NNS ]
+guard/VBP 
+[ the/DT marble/NN entrances/NNS ]
+of/IN 
+[ apartment/NN buildings/NNS ]
+;/: 
+[ nannies/NNS ]
+watch/VBP over/IN 
+[ kids/NNS ]
+romping/VBG through/IN 
+[ leafy/JJ parks/NNS ]
+
+[ that/WDT ]
+could/MD have/VB inspired/VBN 
+[ Impressionism/NNP ]
+;/: in/IN 
+[ boutiques/NNS ]
+selling/VBG 
+[ designer/NN sweaters/NNS ]
+,/, 
+[ shoes/NNS ]
+and/CC 
+[ riding/NN accessories/NNS ]
+,/, 
+[ sales/NNS clerks/NNS size/VBP ]
+up/RP 
+[ customers/NNS ]
+and/CC decide/VBP whether/IN 
+[ it/PRP ]
+'s/VBZ 
+[ time/NN ]
+for/IN 
+[ arrogance/NN ]
+or/CC 
+[ obsequiousness/NN ]
+./. 
+
+======================================
+
+[ Three/CD weeks/NNS ]
+
+[ every/DT year/NN ]
+,/, 
+[ the/DT neighborhood/NN ]
+is/VBZ also/RB 
+[ the/DT setting/NN ]
+for/IN 
+[ the/DT Rural/NNP Society/NNP Fair/NNP ]
+,/, where/WRB 
+[ two/CD million/CD visitors/NNS ]
+trooping/VBG through/IN 
+[ the/DT 50-square-block/JJ showgrounds/NNS ]
+can/MD witness/VB 
+[ the/DT sort/NN ]
+of/IN 
+[ bovine/JJ worship/NN ]
+
+[ that/WDT ]
+drove/VBD 
+[ Moses/NNP ]
+into/IN 
+[ a/DT tablet-shattering/JJ frenzy/NN ]
+./. 
+
+In/IN 
+[ preparation/NN ]
+for/IN 
+[ the/DT judges/NNS ]
+,/, 
+[ the/DT bulls/NNS ]
+and/CC 
+[ heifers/NNS ]
+are/VBP shampooed/VBN ,/, clipped/VBN ,/, massaged/VBN ,/, braided/VBN and/CC covered/VBN with/IN 
+[ cloaks/NNS ]
+./. 
+
+[ Gauchos/NNS ]
+wielding/VBG 
+[ long-handled/JJ copper/NN buckets/NNS ]
+deftly/RB catch/VBP 
+[ the/DT animals/NNS '/POS droppings/NNS ]
+before/IN 
+[ they/PRP ]
+can/MD soil/VB 
+[ their/PRP$ sawdust/NN beds/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT estancieros/NNS ]
+,/, 
+[ this/DT ]
+is/VBZ as/RB much/JJ 
+[ a/DT social/JJ event/NN ]
+as/IN 
+[ a/DT livestock/NN exhibition/NN ]
+./. 
+
+If/IN 
+[ they/PRP ]
+ca/MD n't/RB bring/VB 
+[ a/DT champion/NN bull/NN ]
+,/, 
+[ they/PRP ]
+can/MD at/IN 
+[ least/JJS gather/VB ]
+at/IN 
+[ the/DT Hereford/NNP Bar/NNP ]
+to/TO vent/VB 
+[ their/PRP$ agrarian/JJ malaise/NN ]
+over/IN 
+[ rounds/NNS ]
+of/IN 
+[ Tom/NNP Collins/NNP ]
+./. 
+
+======================================
+
+[ Alistair/NNP Henderson/NNP ]
+,/, 
+[ a/DT reedy/JJ ]
+,/, 
+[ tweedy/JJ Anglo-Argentine/NNP ]
+
+[ whose/WP$ estancia/NN ]
+lies/VBZ southwest/RB of/IN 
+[ Buenos/NNP Aires/NNP ]
+,/, blamed/VBD 
+[ the/DT tardiness/NN ]
+of/IN 
+[ the/DT state-owned/JJ railways/NNS ]
+for/IN 
+[ the/DT souring/NN ]
+of/IN 
+[ his/PRP$ recent/JJ dairy/NN production/NN ]
+./. 
+
+[ Johnny/NNP Winterhalder/NNP ]
+,/, 
+[ an/DT Austrian-Argentine/JJ estanciero/NN ]
+,/, 
+[ who/WP ]
+spends/VBZ most/JJS of/IN 
+[ his/PRP$ time/NN ]
+in/IN 
+[ Buenos/NNP Aires/NNP ]
+,/, suggested/VBD 
+[ that/DT agriculture/NN ]
+would/MD be/VB in/IN 
+[ better/JJR shape/NN ]
+if/IN 
+[ there/EX ]
+were/VBD fewer/RBR 
+[ absentee/JJ landowners/NNS ]
+:/: ``/`` 
+[ We/PRP ]
+own/VBP 
+[ properties/NNS worth/JJ millions/NNS ]
+and/CC 
+[ we/PRP ]
+pay/VBP 
+[ an/DT overseer/NN $/$ 100/CD ]
+
+[ a/DT month/NN ]
+to/TO look/VB after/IN 
+[ them/PRP ]
+./. 
+
+''/'' And/CC 
+[ a/DT whiskey-baritoned/JJ friend/NN ]
+,/, displaying/VBG 
+[ the/DT hauteur/NN ]
+of/IN 
+[ his/PRP$ grandfather/NN 's/POS era/NN ]
+,/, asserted/VBD 
+[ the/DT real/JJ problem/NN ]
+was/VBD ``/`` 
+[ the/DT low/JJ cultural/JJ level/NN ]
+''/'' of/IN 
+[ employees/NNS ]
+./. 
+
+For/IN 
+[ emphasis/NN ]
+,/, 
+[ he/PRP ]
+bullied/VBD 
+[ the/DT waiter/NN ]
+:/: ``/`` 
+[ I/PRP ]
+said/VBD 
+[ English/JJ mustard/NN ]
+,/, not/RB 
+[ this/DT Argentine/JJ garbage/NN ]
+ /) ''/'' 
+======================================
+
+[ A/DT few/JJ yards/NNS ]
+away/RB ,/, 
+[ Miguel/NNP Scasi/NNP ]
+,/, 
+[ a/DT burly/JJ 50-year-old/JJ metallurgical/JJ worker/NN ]
+,/, was/VBD queuing/VBG with/IN 
+[ his/PRP$ wife/NN ]
+and/CC 
+[ kids/NNS ]
+at/IN 
+[ a/DT sausage/NN stand/NN ]
+./. 
+
+[ They/PRP ]
+had/VBD spent/VBN 
+[ hours/NNS ]
+gazing/VBG in/IN 
+[ wonder/NN ]
+at/IN 
+[ the/DT pedigree/NN ]
+champions/NNS ,/, and/CC with/IN considerably/RB 
+[ less/JJR awe/NN ]
+at/IN 
+[ their/PRP$ owners/NNS ]
+./. 
+
+``/`` 
+[ Sure/NNP ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ agriculture/NN boom/NN ]
+again/RB ,/, ''/'' said/VBD 
+[ Mr./NNP Scasi/NNP ]
+./. 
+
+``/`` But/CC 
+[ I/PRP ]
+ca/MD n't/RB bear/VB 
+[ the/DT idea/NN ]
+of/IN having/VBG 
+[ the/DT estancieros/NNS ]
+back/RB in/IN 
+[ the/DT saddle/NN ]
+./. 

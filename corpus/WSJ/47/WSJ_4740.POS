@@ -1,0 +1,392 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Soviet/NNP Union/NNP ]
+is/VBZ hoping/VBG to/TO halve/VB 
+[ its/PRP$ $/$ 200/CD billion/CD budget/NN deficit/NN next/JJ year/NN ]
+by/IN 
+[ cutting/VBG spending/NN ]
+on/IN 
+[ defense/NN ]
+,/, selling/VBG off/IN 
+[ unprofitable/JJ state/NN companies/NNS ]
+and/CC 
+[ issuing/VBG government/NN bonds/NNS ]
+./. 
+
+======================================
+
+[ The/DT government/NN 's/POS draft/NN budget/NN ]
+,/, presented/VBN to/TO 
+[ Parliament/NNP yesterday/NN ]
+,/, also/RB foresees/VBZ 
+[ a/DT major/JJ reorientation/NN ]
+of/IN 
+[ foreign/JJ trade/NN policy/NN ]
+./. 
+
+[ Imports/NNS ]
+of/IN 
+[ industrial/JJ machinery/NN ]
+and/CC 
+[ equipment/NN ]
+,/, 
+[ metal/NN ]
+and/CC 
+[ chemical/NN products/NNS ]
+will/MD be/VB cut/VBN ,/, while/IN 
+[ purchases/NNS ]
+of/IN 
+[ consumer/NN goods/NNS ]
+,/, 
+[ medical/JJ supplies/NNS ]
+and/CC 
+[ raw/JJ materials/NNS ]
+for/IN 
+[ light/JJ industry/NN ]
+will/MD be/VB increased/VBN ./. 
+
+======================================
+
+[ Finance/NNP Minister/NNP Valentin/NNP Pavlov/NNP ]
+hinted/VBD that/IN 
+[ Soviet/JJ borrowing/NN ]
+abroad/RB would/MD also/RB be/VB held/VBN in/IN 
+[ check/NN ]
+./. 
+
+[ A/DT government/NN newspaper/NN ]
+disclosed/VBD 
+[ last/JJ week/NN ]
+that/IN 
+[ Soviet/JJ hard-currency/NN debt/NN ]
+now/RB totals/VBZ more/JJR than/IN 
+[ $/$ 46/CD billion/CD ]
+,/, 
+[ a/DT level/NN Mr./NNP Pavlov/NNP ]
+said/VBD is/VBZ already/RB causing/VBG 
+[ debt-service/JJ problems/NNS ]
+./. 
+
+======================================
+
+[ The/DT finance/NN minister/NN ]
+,/, 
+[ who/WP ]
+was/VBD appointed/VBN by/IN 
+[ Parliament/NNP ]
+
+[ this/DT summer/NN ]
+,/, also/RB said/VBD 
+[ Moscow/NNP ]
+is/VBZ seeking/VBG to/TO slow/VB 
+[ the/DT growth/NN ]
+of/IN 
+[ Soviet/JJ inflation/NN ]
+,/, currently/RB estimated/VBN by/IN 
+[ Soviet/JJ economists/NNS ]
+at/IN 
+[ 8%-10/CD  %/NN ]
+./. 
+
+[ The/DT government/NN ]
+aims/VBZ to/TO reduce/VB 
+[ the/DT amount/NN ]
+of/IN 
+[ money/NN ]
+
+[ it/PRP ]
+issues/VBZ to/TO 
+[ 10/CD billion/CD rubles/NNS ]
+ (/( 
+[ $/$ 16.6/CD billion/CD ]
+ )/) 
+[ next/JJ year/NN ]
+from/IN 
+[ an/DT estimated/VBN 18/CD billion/CD rubles/NNS ]
+in/IN 
+[ 1989/CD ]
+,/, 
+[ Mr./NNP Pavlov/NNP ]
+said/VBD ./. 
+
+======================================
+
+Ever/RB since/IN admitting/VBG 
+[ a/DT year/NN ]
+ago/IN that/IN 
+[ the/DT country/NN ]
+has/VBZ 
+[ a/DT budget/NN deficit/NN ]
+,/, 
+[ Soviet/JJ officials/NNS ]
+have/VBP been/VBN trying/VBG to/TO find/VB 
+[ ways/NNS ]
+to/TO reduce/VB 
+[ it/PRP ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ the/DT Kremlin/NNP ]
+approved/VBD sweeping/JJ 
+[ cuts/NNS ]
+in/IN 
+[ capital/NN expenditures/NNS ]
+
+[ that/WDT ]
+are/VBP expected/VBN to/TO narrow/VB 
+[ the/DT deficit/NN ]
+to/TO 
+[ 92/CD billion/CD rubles/NNS ]
+by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT year/NN ]
+from/IN 
+[ the/DT 120/CD billion/CD rubles/NNS ]
+currently/RB ./. 
+
+But/CC 
+[ some/DT Western/JJ analysts/NNS ]
+in/IN 
+[ Moscow/NNP ]
+believe/VBP that/IN 
+[ the/DT plans/NNS ]
+for/IN 
+[ next/JJ year/NN ]
+,/, 
+[ which/WDT ]
+call/VBP for/IN 
+[ further/JJ reductions/NNS ]
+to/TO 
+[ 60/CD billion/CD rubles/NNS ]
+,/, may/MD be/VB too/RB optimistic/JJ ./. 
+
+======================================
+
+[ The/DT most/RBS concrete/JJ details/NNS ]
+about/IN 
+[ forthcoming/JJ cuts/NNS ]
+were/VBD given/VBN for/IN 
+[ the/DT military/JJ budget/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ supposed/VBN to/TO fall/VB to/TO 
+[ 70.9/CD billion/CD rubles/NNS ]
+from/IN 
+[ 77.3/CD billion/CD ]
+in/IN 
+[ 1989/CD ]
+,/, or/CC about/IN 
+[ 9/CD %/NN ]
+of/IN 
+[ gross/JJ national/JJ product/NN ]
+./. 
+
+Spending/NN on/IN 
+[ military/JJ research/NN ]
+and/CC 
+[ hardware/NN ]
+,/, including/VBG 
+[ tanks/NNS ]
+,/, 
+[ combat/NN planes/NNS ]
+and/CC 
+[ helicopters/NNS ]
+,/, will/MD be/VB cut/VBN along/IN with/IN 
+[ military/JJ construction/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ the/DT nation/NN 's/POS defense/NN industries/NNS ]
+are/VBP expected/VBN to/TO boost/VB 
+[ their/PRP$ output/NN ]
+of/IN 
+[ consumer/NN goods/NNS ]
+./. 
+
+[ Dozens/NNS ]
+of/IN 
+[ defense/NN plants/NNS ]
+across/IN 
+[ the/DT country/NN ]
+have/VBP already/RB started/VBN converting/VBG 
+[ their/PRP$ production/NN facilities/NNS ]
+,/, according/VBG to/TO 
+[ Soviet/JJ media/NNS reports/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ analysts/NNS ]
+said/VBD 
+[ the/DT government/NN ]
+may/MD have/VB 
+[ a/DT tough/JJ time/NN ]
+implementing/VBG 
+[ the/DT measures/NNS ]
+aimed/VBN at/IN 
+[ boosting/VBG state/NN revenues/NNS ]
+,/, including/VBG 
+[ sales/NNS ]
+of/IN 
+[ loss-making/JJ enterprises/NNS ]
+and/CC 
+[ issuing/VBG bonds/NNS ]
+./. 
+
+[ It/PRP ]
+did/VBD n't/RB 
+[ spell/VB ]
+out/IN how/WRB 
+[ much/JJ ]
+
+[ it/PRP ]
+hopes/VBZ to/TO raise/VB from/IN 
+[ each/DT ]
+,/, although/IN 
+[ the/DT overall/JJ 1990/CD budget/NN ]
+foresees/VBZ 
+[ that/IN revenue/NN ]
+will/MD increase/VB by/IN 
+[ 54.2/CD billion/CD rubles/NNS ]
+./. 
+
+======================================
+
+[ The/DT Kremlin/NNP ]
+is/VBZ already/RB seeking/VBG to/TO encourage/VB 
+[ workers/NNS ]
+at/IN 
+[ unprofitable/JJ plants/NNS ]
+to/TO lease/VB 
+[ them/PRP ]
+from/IN 
+[ the/DT state/NN ]
+,/, but/CC 
+[ there/EX ]
+are/VBP 
+[ no/DT indications/NNS ]
+about/IN how/WRB 
+[ successful/JJ the/DT campaign/NN ]
+has/VBZ been/VBN and/CC whether/IN 
+[ it/PRP ]
+can/MD be/VB expanded/VBN on/IN 
+[ the/DT huge/JJ scale/NN ]
+that/IN 
+[ Moscow/NNP ]
+evidently/RB anticipates/VBZ ./. 
+
+======================================
+
+Issuing/VBG 
+[ large/JJ amounts/NNS ]
+of/IN 
+[ bonds/NNS ]
+could/MD also/RB prove/VB 
+[ tricky/JJ ]
+,/, apart/RB from/IN adding/VBG to/TO 
+[ the/DT current/JJ domestic/JJ debt/NN ]
+of/IN 
+[ 400/CD billion/CD rubles/NNS ]
+./. 
+
+[ Mr./NNP Pavlov/NNP ]
+said/VBD 
+[ the/DT issues/NNS ]
+would/MD create/VB 
+[ the/DT beginnings/NNS ]
+of/IN 
+[ a/DT capital/NN market/NN ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+But/CC 
+[ it/PRP ]
+is/VBZ unclear/JJ 
+[ what/WDT incentives/NNS ]
+
+[ the/DT government/NN ]
+will/MD offer/VB to/TO 
+[ prospective/JJ Soviet/JJ buyers/NNS ]
+./. 
+
+[ People/NNS ]
+already/RB have/VBP 
+[ large/JJ amounts/NNS ]
+of/IN 
+[ money/NN ]
+in/IN 
+[ savings/NNS ]
+accounts/NNS because/IN of/IN 
+[ a/DT nationwide/JJ lack/NN ]
+of/IN 
+[ consumer/NN goods/NNS ]
+to/TO spend/VB 
+[ it/PRP ]
+on/IN ./. 
+
+And/CC many/RB bitterly/RB remember/VBP 
+[ a/DT major/JJ bond/NN issue/NN ]
+in/IN 
+[ Stalin/NNP 's/POS era/NN ]
+shortly/RB after/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, when/WRB 
+[ people/NNS ]
+were/VBD forced/VBN to/TO buy/VB 
+[ bonds/NNS ]
+but/CC never/RB received/VBD 
+[ the/DT promised/VBN interest/NN payments/NNS ]
+./. 
+
+======================================
+
+[ One/CD possible/JJ way/NN ]
+to/TO overcome/VB 
+[ such/JJ problems/NNS ]
+has/VBZ been/VBN aired/VBN by/IN 
+[ Soviet/JJ economist/NN Abel/NNP Aganbegyan/NNP ]
+./. 
+
+[ He/PRP ]
+suggested/VBD 
+[ special/JJ incentives/NNS ]
+
+[ that/WDT ]
+would/MD enable/VB 
+[ bondholders/NNS ]
+to/TO bypass/VB 
+[ the/DT long/JJ waiting/VBG lists/NNS ]
+for/IN housing/NN and/CC 
+[ cars/NNS ]
+./. 
+
+[ Mr./NNP Pavlov/NNP ]
+did/VBD n't/RB indicate/VB whether/IN 
+[ the/DT Kremlin/NNP ]
+planned/VBD to/TO adopt/VB 
+[ such/JJ ideas/NNS ]
+./. 

@@ -1,0 +1,93 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Campeau/NNP Corp./NNP ]
+said/VBD 
+[ its/PRP$ board/NN ]
+decided/VBD to/TO forgo/VB 
+[ dividend/NN payments/NNS ]
+of/IN 
+[ $/$ 101/CD million/CD ]
+on/IN 
+[ its/PRP$ preference/NN shares/NNS ]
+because/RB of/IN 
+[ the/DT company/NN 's/POS liquidity/NN needs/NNS ]
+./. 
+
+======================================
+
+[ The/DT dividends/NNS ]
+were/VBD scheduled/VBN to/TO be/VB paid/VBN 
+[ Saturday/NNP ]
+on/IN 
+[ Campeau/NNP 's/POS Series/NNP B/NNP ]
+,/, 
+[ C/NNP ]
+,/, and/CC 
+[ D/NNP preference/NN shares/NNS ]
+and/CC on/IN 
+[ its/PRP$ convertible/JJ subordinate/JJ shares/NNS ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+will/MD review/VB 
+[ the/DT payment/NN ]
+of/IN 
+[ the/DT dividends/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP cumulative/JJ ,/, before/IN 
+[ year/NN end/NN ]
+./. 
+
+======================================
+
+[ Olympia/NNP ]
+&/CC 
+[ York/NNP Developments/NNP Ltd./NNP last/JJ week/NN ]
+agreed/VBN to/TO 
+[ loan/VB Campeau/NNP $/$ 250/CD million/CD ]
+,/, in/IN 
+[ part/NN ]
+to/TO help/VB 
+[ it/PRP ]
+meet/VB 
+[ liquidity/NN needs/NNS ]
+./. 
+
+======================================
+
+[ Campeau/NNP common/JJ stock/NN ]
+has/VBZ fallen/VBN sharply/RB on/IN 
+[ the/DT Toronto/NNP Stock/NNP Exchange/NNP ]
+in/IN 
+[ the/DT past/JJ two/CD days/NNS ]
+./. 
+
+Yesterday/NN 
+[ it/PRP ]
+closed/VBD at/IN 
+[ 9.50/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 8.07/CD ]
+ )/) ,/, down/RB 
+[ C$/$ 1.875/CD ]
+,/, after/IN falling/VBG 
+[ C$/$ 1.25/NNP/CD Wednesday/NNP ]
+./. 

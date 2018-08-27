@@ -1,0 +1,643 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Oil/NN prices/NNS ]
+declined/VBD as/IN 
+[ concern/NN ]
+receded/VBD that/IN 
+[ members/NNS ]
+of/IN 
+[ the/DT Organization/NNP ]
+of/IN 
+[ Petroleum/NNP Exporting/NNP Countries/NNPS ]
+might/MD clash/VB at/IN 
+[ next/JJ week/NN 's/POS meeting/NN ]
+./. 
+
+======================================
+
+[ Market/NN participants/NNS ]
+expect/VBP 
+[ the/DT gathering/NN ]
+of/IN 
+[ oil/NN producers/NNS ]
+to/TO be/VB uneventful/JJ ./. 
+
+[ Reports/NNS ]
+that/IN 
+[ Saudi/NNP Arabian/NNP Oil/NNP Minister/NNP Hisham/NNP Nazer/NNP ]
+wo/MD n't/RB be/VB attending/VBG 
+[ the/DT meeting/NN ]
+due/JJ to/TO 
+[ illness/NN ]
+has/VBZ disappointed/VBN 
+[ some/DT traders/NNS ]
+
+[ who/WP ]
+had/VBD been/VBN expecting/VBG 
+[ the/DT Saudis/NNPS ]
+to/TO vent/VB 
+[ their/PRP$ frustrations/NNS ]
+over/IN 
+[ quota/NN violations/NNS ]
+./. 
+
+======================================
+
+[ OPEC/NNP ]
+has/VBZ been/VBN consistently/RB producing/VBG beyond/IN 
+[ its/PRP$ 19.5/CD million/CD daily/JJ quota/NN ]
+since/IN 
+[ the/DT oil/NN ministers/NNS ]
+met/VBD 
+[ last/JJ June/NNP ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ production/NN ]
+may/MD have/VB exceeded/VBN 
+[ 21/CD million/CD ]
+to/TO 
+[ 22/CD million/CD barrels/NNS ]
+
+[ a/DT day/NN ]
+at/IN 
+[ certain/JJ times/NNS ]
+in/IN 
+[ recent/JJ weeks/NNS ]
+./. 
+
+======================================
+
+``/`` Even/RB if/IN 
+[ they/PRP ]
+decide/VBP to/TO increase/VB 
+[ their/PRP$ quota/NN ]
+at/IN 
+[ the/DT meeting/NN ]
+,/, 
+[ they/PRP ]
+'ll/MD still/RB be/VB producing/VBG beyond/IN 
+[ their/PRP$ allotment/NN ]
+,/, ''/'' said/VBD 
+[ Andrew/NNP Lebow/NNP ]
+,/, 
+[ analyst/NN ]
+for/IN 
+[ E.D./NNP ]
+&/CC 
+[ F/NNP ]
+./. 
+
+[ Man/NN International/NNP Futures/NNPS Inc./NNP ]
+
+[ whose/WP$ remarks/NNS ]
+echoed/VBD 
+[ similar/JJ comments/NNS ]
+from/IN 
+[ traders/NNS ]
+
+[ who/WP ]
+said/VBD 
+[ it/PRP ]
+'s/VBZ unlikely/JJ 
+[ any/DT OPEC/NNP action/NN ]
+will/MD really/RB change/VB 
+[ the/DT actual/JJ supply/NN ]
+and/CC 
+[ demand/NN situation/NN ]
+./. 
+
+======================================
+
+[ Hurricane/NN jitters/NNS ]
+are/VBP also/RB declining/VBG as/IN 
+[ it/PRP ]
+becomes/VBZ clear/JJ that/IN 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS powerful/JJ tropical/NN storms/NNS ]
+of/IN 
+[ recent/JJ years/NNS ]
+is/VBZ unlikely/JJ to/TO hit/VB 
+[ any/DT ]
+of/IN 
+[ the/DT refineries/NNS ]
+located/VBN along/IN 
+[ the/DT coast/NN ]
+in/IN 
+[ the/DT Gulf/NNP ]
+of/IN 
+[ Mexico/NNP ]
+./. 
+
+[ Caribbean/JJ refineries/NNS ]
+
+[ that/WDT ]
+have/VBP already/RB been/VBN lashed/VBN by/IN 
+[ the/DT storm/NN ]
+appear/VBP to/TO have/VB escaped/VBN with/IN 
+[ minimal/JJ damage/NN ]
+./. 
+
+[ The/DT ]
+only/RB remaining/VBG 
+[ concern/NN ]
+is/VBZ that/IN 
+[ gasoline/NN shipments/NNS ]
+along/IN 
+[ the/DT East/NNP Coast/NNP ]
+could/MD be/VB disrupted/VBN if/IN 
+[ Hurricane/NNP Hugo/NNP slams/VBZ ]
+into/IN 
+[ that/DT shoreline/NN ]
+./. 
+
+======================================
+
+Also/RB weighing/VBG 
+[ prices/NNS ]
+down/RP is/VBZ 
+[ a/DT temporary/JJ glut/NN ]
+of/IN 
+[ heating/NN oil/NN supplies/NNS ]
+in/IN 
+[ New/NNP York/NNP Harbor/NNP ]
+./. 
+
+[ Market/NN participants/NNS ]
+report/VBP 
+[ that/DT major/JJ oil/NN companies/NNS ]
+are/VBP selling/VBG 
+[ the/DT home/NN heating/NN fuel/NN ]
+at/IN 
+[ a/DT discount/NN ]
+of/IN up/IN to/TO 
+[ one/CD cent/NN ]
+
+[ a/DT gallon/NN ]
+to/TO 
+[ futures/NNS prices/NNS ]
+./. 
+
+======================================
+
+[ Crude/JJ oil/NN prices/NNS ]
+for/IN 
+[ delivery/NN ]
+during/IN 
+[ October/NNP ]
+may/MD become/VB especially/RB vulnerable/JJ to/TO declines/VBZ because/IN 
+[ several/JJ refineries/NNS ]
+will/MD be/VB closed/VBN for/IN 
+[ scheduled/JJ maintenance/NN turnarounds/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ demand/NN ]
+for/IN 
+[ crude/NN ]
+would/MD decline/VB temporarily/RB ./. 
+
+======================================
+
+[ Crude/NN ]
+for/IN 
+[ October/NNP delivery/NN ]
+yesterday/NN fell/VBD 
+[ 32/CD cents/NNS ]
+
+[ a/DT barrel/NN ]
+to/TO 
+[ $/$ 19.56/CD ]
+in/IN 
+[ moderate/JJ ]
+to/TO 
+[ heavy/JJ trading/NN action/NN ]
+./. 
+
+In/IN 
+[ other/JJ commodity/NN markets/NNS ]
+yesterday/RB :/: 
+======================================
+
+[ COPPER/NN ]
+:/: 
+[ Futures/NNS prices/NNS ]
+fell/VBD after/IN 
+[ a/DT sharp/JJ early/JJ advance/NN ]
+./. 
+
+[ The/DT December/NNP contract/NN ]
+settled/VBD at/IN 
+[ $/$ 1.2595/CD ]
+
+[ a/DT pound/NN ]
+,/, down/RB 
+[ 1.75/CD cents/NNS ]
+./. 
+
+[ The/DT December/NNP contract/NN ]
+traded/VBD as/RB high/JJ as/IN 
+[ $/$ 1.2990/CD ]
+,/, up/RB 
+[ 3.20/CD cents/NNS ]
+from/IN 
+[ Monday/NNP ]
+./. 
+
+However/RB ,/, 
+[ the/DT most/RBS dramatic/JJ turnaround/NN ]
+was/VBD in/IN 
+[ the/DT spot/NN September/NNP contract/NN ]
+,/, 
+[ which/WDT ]
+will/MD cease/VB trading/VBG 
+[ Sept./NNP 27/CD ]
+./. 
+
+At/IN 
+[ first/RB it/PRP ]
+traded/VBD up/RB to/TO 
+[ a/DT new/JJ life-of-contract/JJ ]
+high/NN of/IN 
+[ $/$ 1.4050/CD ]
+,/, then/RB dropped/VBD to/TO end/VB at/IN 
+[ $/$ 1.37/CD ]
+,/, for/IN 
+[ a/DT net/JJ loss/NN ]
+of/IN 
+[ 0.80/CD cent/NN ]
+./. 
+
+[ The/DT price/NN retreat/NN ]
+began/VBD following/VBG 
+[ an/DT announcement/NN ]
+by/IN 
+[ the/DT Commodity/NNP Exchange/NNP ]
+that/IN 
+[ its/PRP$ margin/NN committee/NN ]
+has/VBZ raised/VBN 
+[ the/DT original/JJ margin/NN requirement/NN ]
+,/, or/CC 
+[ good/JJ faith/NN money/NN ]
+,/, for/IN 
+[ the/DT September/NNP contract/NN ]
+to/TO 
+[ its/PRP$ full/JJ value/NN ]
+from/IN 
+[ $/$ 2,600/CD ]
+for/IN 
+[ each/DT speculative/JJ contract/NN ]
+and/CC 
+[ $/$ 2,000/CD ]
+for/IN 
+[ each/DT hedge/JJ contract/NN ]
+./. 
+
+Based/VBN on/IN 
+[ $/$ 1.4050/CD ]
+
+[ a/DT pound/NN ]
+,/, 
+[ which/WDT ]
+prevailed/VBD in/IN 
+[ the/DT September/NNP contract/NN ]
+prior/RB to/TO 
+[ the/DT issuance/NN ]
+of/IN 
+[ the/DT margin/NN notice/NN ]
+,/, 
+[ each/DT 25,000-pound/JJ futures/NNS contract/NN ]
+would/MD have/VB been/VBN 
+[ worth/JJ $/$ 35,125/CD ]
+./. 
+
+[ The/DT September/NNP contract/NN ]
+has/VBZ been/VBN at/IN 
+[ a/DT premium/NN ]
+over/IN 
+[ December/NNP ]
+since/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT month/NN ]
+as/IN 
+[ Commodity/NNP Exchange/NNP warehouse/NN stocks/NNS ]
+of/IN 
+[ copper/NN ]
+for/IN 
+[ delivery/NN ]
+against/IN 
+[ September/NNP ]
+have/VBP dwindled/VBN ,/, said/VBD 
+[ John/NNP Gross/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ J.E./NNP Gross/NNP ]
+&/CC 
+[ Associates/NNPS ]
+,/, 
+[ a/DT New/NNP City/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ industry/NN consulting/NN firm/NN ]
+./. 
+
+``/`` 
+[ The/DT premium/NN ]
+has/VBZ risen/VBN from/IN 
+[ 3.3/CD cents/NNS ]
+on/IN 
+[ Sept./NNP 1/CD ]
+to/TO 
+[ 11.05/CD cents/NNS ]
+yesterday/NN ,/, with/IN 
+[ the/DT September/NNP settlement/NN price/NN ]
+of/IN 
+[ $/$ 1.37/CD ]
+,/, compared/VBN with/IN 
+[ December/NNP ]
+at/IN 
+[ $/$ 1.2595/CD ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+[ Yesterday/NN ]
+,/, 
+[ Comex/NNP copper/NN warehouse/NN stocks/NNS ]
+fell/VBD by/IN 
+[ 1,156/CD tons/NNS ]
+to/TO 
+[ 11,987/CD tons/NNS ]
+./. 
+
+[ Mr./NNP Gross/NNP ]
+observed/VBD that/IN 
+[ the/DT open/JJ interest/NN ]
+,/, or/CC 
+[ the/DT number/NN ]
+of/IN 
+[ contracts/NNS ]
+remaining/VBG to/TO be/VB nullified/VBN by/IN 
+[ an/DT opposite/JJ trade/NN ]
+or/CC fulfilled/VBN by/IN 
+[ delivery/NN ]
+of/IN 
+[ copper/NN ]
+,/, at/IN 
+[ 3,750/CD contracts/NNS ]
+yesterday/NN was/VBD equal/JJ to/TO 
+[ 46,875/CD tons/NNS ]
+,/, or/CC about/IN 
+[ three/CD times/NNS ]
+
+[ the/DT amount/NN ]
+of/IN 
+[ copper/NN ]
+in/IN 
+[ storage/NN ]
+for/IN 
+[ delivery/NN ]
+against/IN 
+[ the/DT September/NNP contract/NN ]
+./. 
+
+``/`` With/IN 
+[ that/DT kind/NN ]
+of/IN 
+[ discrepancy/NN ]
+,/, 
+[ one/PRP ]
+would/MD have/VB to/TO believe/VB that/IN 
+[ the/DT majority/NN ]
+of/IN 
+[ the/DT buying/NN ]
+of/IN 
+[ contracts/NNS ]
+has/VBZ to/TO be/VB by/IN 
+[ traders/NNS ]
+
+[ who/WP ]
+'d/MD previously/RB sold/VBN in/IN 
+[ anticipation/NN ]
+that/IN 
+[ prices/NNS ]
+would/MD go/VB down/RP ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ GRAINS/NNS ]
+and/CC 
+[ SOYBEANS/NNS ]
+:/: 
+[ The/DT prices/NNS ]
+of/IN 
+[ most/JJS corn/NN ]
+and/CC 
+[ wheat/NN futures/NNS contracts/NNS ]
+dipped/VBD amid/IN 
+[ continued/JJ speculation/NN ]
+that/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+might/MD skip/VB 
+[ its/PRP$ usual/JJ autumn/NN buying/NN binge/NN ]
+of/IN 
+[ U.S./NNP grains/NNS ]
+./. 
+
+[ The/DT speculation/NN ]
+was/VBD touched/VBN off/RB 
+[ last/JJ week/NN ]
+by/IN 
+[ a/DT top/JJ Soviet/JJ trade/NN official/NN 's/POS remarks/NNS ]
+that/IN 
+[ it/PRP ]
+does/VBZ n't/RB need/VB to/TO import/VB 
+[ grain/NN ]
+for/IN 
+[ the/DT remainder/NN ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+
+[ Most/JJS U.S./NNP analysts/NNS ]
+are/VBP skeptical/JJ --/: 
+[ the/DT Soviet/NNP Union/NNP ]
+has/VBZ long/RB depended/VBN on/IN 
+[ imports/NNS ]
+to/TO meet/VB 
+[ its/PRP$ internal/JJ food/NN needs/NNS ]
+and/CC might/MD be/VB trying/VBG to/TO depress/VB 
+[ the/DT prices/NNS ]
+of/IN 
+[ the/DT grains/NNS ]
+
+[ it/PRP ]
+needs/VBZ ./. 
+
+[ Remarks/NNS ]
+by/IN 
+[ other/JJ Soviet/JJ officials/NNS ]
+seem/VBP to/TO indicate/VB that/IN 
+[ it/PRP ]
+will/MD continue/VB to/TO be/VB 
+[ a/DT major/JJ purchaser/NN ]
+of/IN 
+[ world/NN crops/NNS ]
+./. 
+
+But/CC 
+[ analysts/NNS ]
+are/VBP nonetheless/RB 
+[ jittery/JJ ]
+:/: 
+[ the/DT Soviet/JJ purchases/NNS ]
+are/VBP 
+[ one/CD ]
+of/IN 
+[ the/DT biggest/JJS price-moving/JJ developments/NNS ]
+to/TO occur/VB in/IN 
+[ the/DT fall/NN ]
+,/, and/CC 
+[ prices/NNS ]
+would/MD dip/VB sharply/RB if/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+actually/RB did/VBD n't/RB buy/VB 
+[ U.S./NNP grain/NN ]
+for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+
+[ That/DT ]
+would/MD help/VB 
+[ Soviet/JJ agriculture/NN officials/NNS ]
+avoid/VBP 
+[ the/DT political/JJ embarrassment/NN ]
+of/IN importing/VBG 
+[ massive/JJ amounts/NNS ]
+of/IN 
+[ crops/NNS ]
+at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ they/PRP ]
+are/VBP trying/VBG to/TO encourage/VB 
+[ more/JJR production/NN ]
+from/IN 
+[ Soviet/JJ farmers/NNS ]
+with/IN 
+[ cash/NN bonuses/NNS ]
+./. 
+
+Indeed/RB ,/, 
+[ there/EX ]
+is/VBZ 
+[ speculation/NN ]
+that/IN 
+[ the/DT management/NN ]
+of/IN 
+[ the/DT Soviet/NNP Union/NNP 's/POS importing/NN arm/NN ]
+is/VBZ being/VBG changed/VBN ,/, and/CC that/IN 
+[ this/DT ]
+reflects/VBZ 
+[ a/DT new/JJ import/NN policy/NN ]
+./. 
+
+======================================
+
+[ SUGAR/NN ]
+:/: 
+[ Futures/NNS prices/NNS ]
+dropped/VBD slightly/RB from/IN 
+[ Monday/NNP 's/POS strong/JJ gains/NNS ]
+./. 
+
+[ The/DT October/NNP contract/NN ]
+ended/VBD with/IN 
+[ a/DT loss/NN ]
+of/IN 
+[ 0.09/CD cent/NN ]
+
+[ a/DT pound/NN ]
+at/IN 
+[ 14.27/CD cents/NNS ]
+./. 
+
+[ One/CD analyst/NN ]
+said/VBD 
+[ Hurricane/NNP Hugo/NNP ]
+had/VBD bypassed/VBN 
+[ Cuba/NNP ]
+and/CC that/IN ,/, as/IN 
+[ concern/NN ]
+over/IN 
+[ possible/JJ damage/NN ]
+to/TO 
+[ sugar-growing/NN areas/NNS ]
+on/IN 
+[ that/DT island/NN ]
+diminished/VBD ,/, so/RB did/VBD 
+[ demand/NN ]
+for/IN 
+[ contracts/NNS ]
+./. 
+
+However/RB ,/, 
+[ he/PRP ]
+noted/VBD ,/, 
+[ there/EX ]
+is/VBZ increasing/VBG 
+[ belief/NN ]
+that/IN 
+[ India/NNP ]
+,/, after/IN having/VBG rejected/VBN offers/NNS 
+[ three/CD times/NNS ]
+recently/RB ,/, will/MD buy/VB 
+[ sugar/NN ]
+on/IN 
+[ the/DT world/NN market/NN ]
+
+[ this/DT week/NN ]
+,/, along/IN with/IN 
+[ several/JJ other/JJ countries/NNS ]
+./. 
+
+``/`` 
+[ This/DT spate/NN ]
+of/IN 
+[ anticipated/JJ demand/NN ]
+was/VBD sufficient/JJ to/TO provide/VB 
+[ some/DT support/NN ]
+and/CC minimize/VB 
+[ reaction/NN ]
+from/IN 
+[ Hurricane/NNP Hugo/NNP ]
+,/, ''/'' 
+[ the/DT analyst/NN ]
+said/VBD ./. 

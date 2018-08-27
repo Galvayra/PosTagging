@@ -1,0 +1,621 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co./NNP ]
+maintained/VBD 
+[ a/DT hammerlock/NN ]
+on/IN 
+[ its/PRP$ position/NN ]
+as/IN 
+[ the/DT top/JJ underwriter/NN ]
+of/IN 
+[ stocks/NNS ]
+and/CC 
+[ bonds/NNS ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, but/CC 
+[ a/DT paucity/NN ]
+of/IN 
+[ lucrative/JJ underwritings/NNS ]
+continued/VBD to/TO depress/VB 
+[ profits/NNS ]
+in/IN 
+[ the/DT securities/NNS industry/NN ]
+./. 
+
+======================================
+
+Despite/IN 
+[ a/DT big/JJ drop/NN ]
+in/IN 
+[ interest/NN rates/NNS ]
+and/CC 
+[ the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP 's/POS rise/NN ]
+to/TO record/NN 
+[ levels/NNS ]
+during/IN 
+[ the/DT quarter/NN ]
+,/, 
+[ Wall/NNP Street/NNP still/JJ has/VBZ n't/RB ]
+recovered/VBN from/IN 
+[ the/DT shakeout/NN ]
+sparked/VBN by/IN 
+[ the/DT October/NNP 1987/CD stock/NN market/NN crash/NN ]
+./. 
+
+Disclosed/VBN 
+[ fees/NNS ]
+from/IN 
+[ new/JJ securities/NNS offerings/NNS ]
+plummeted/VBD 
+[ $/$ 830/CD million/CD ]
+,/, or/CC 
+[ 28/CD %/NN ]
+,/, to/TO 
+[ $/$ 2.1/CD billion/CD ]
+in/IN 
+[ the/DT first/JJ nine/CD months/NNS ]
+of/IN 
+[ 1989/CD ]
+./. 
+
+======================================
+
+[ Equity/NN financings/NNS ]
+,/, 
+[ the/DT traditional/JJ money-maker/NN ]
+for/IN 
+[ brokerage/NN firms/NNS ]
+,/, fell/VBD 
+[ 37/CD %/NN ]
+in/IN 
+[ the/DT three/CD quarters/NNS ]
+,/, and/CC only/RB 
+[ $/$ 15/CD billion/CD ]
+has/VBZ been/VBN raised/VBN with/IN 
+[ stock/NN ]
+so/RB far/RB 
+[ this/DT year/NN ]
+,/, compared/VBN with/IN 
+[ $/$ 23.8/CD billion/CD ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+[ The/DT volume/NN ]
+of/IN 
+[ initial/JJ public/JJ stock/NN offerings/NNS ]
+declined/VBD 
+[ 48/CD %/NN ]
+to/TO 
+[ $/$ 9.8/CD billion/CD ]
+from/IN 
+[ last/JJ year/NN ]
+'s/POS relatively/RB 
+[ anemic/JJ $/$ 19/CD billion/CD ]
+;/: and/CC 
+[ 151/CD companies/NNS ]
+have/VBP gone/VBN 
+[ public/JJ ]
+so/RB far/RB 
+[ this/DT year/NN ]
+,/, compared/VBN with/IN 
+[ 210/CD ]
+in/IN 
+[ the/DT first/JJ three/CD quarters/NNS ]
+of/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+[ Fees/NNS ]
+from/IN 
+[ common/JJ stock/NN offerings/NNS ]
+fell/VBD about/IN 
+[ $/$ 640/CD million/CD ]
+in/IN 
+[ the/DT first/JJ nine/CD months/NNS ]
+to/TO 
+[ $/$ 868/CD million/CD ]
+from/IN 
+[ $/$ 1.5/CD billion/CD ]
+./. 
+
+Not/RB since/IN 
+[ 1984/CD ]
+have/VBP 
+[ investment/NN bankers/NNS ]
+made/VBN 
+[ less/JJR money/NN ]
+from/IN underwriting/VBG 
+[ common/JJ ]
+,/, according/VBG to/TO 
+[ Securities/NNPS Data/NNP Co/NNP ]
+./. 
+
+======================================
+
+Even/RB at/IN 
+[ Merrill/NNP Lynch/NNP ]
+,/, 
+[ the/DT top/JJ U.S./NNP underwriter/NN ]
+for/IN 
+[ seven/CD consecutive/JJ quarters/NNS ]
+,/, 
+[ competitors/NNS ]
+as/RB well/RB as/IN 
+[ analysts/NNS ]
+say/VBP 
+[ its/PRP$ growing/VBG market/NN share/NN has/VBZ n't/RB ]
+resulted/VBN in/IN significantly/RB 
+[ greater/JJR profitability/NN ]
+./. 
+
+``/`` 
+[ The/DT general/JJ problem/NN ]
+continues/VBZ to/TO be/VB that/IN 
+[ securities/NNS firms/NNS ]
+have/VBP allocated/VBN 
+[ too/RB many/JJ resources/NNS ]
+to/TO 
+[ businesses/NNS ]
+
+[ that/WDT ]
+are/VBP n't/RB particularly/RB 
+[ profitable/JJ ]
+,/, ''/'' says/VBZ 
+[ Lawrence/NNP Eckenfelder/NNP ]
+,/, 
+[ securities/NNS industry/NN analyst/NN ]
+at/IN 
+[ Prudential-Bache/NNP Securities/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ Merrill/NNP ]
+has/VBZ made/VBN 
+[ its/PRP$ biggest/JJS push/NN ]
+in/IN 
+[ the/DT market/NN ]
+for/IN 
+[ investment-grade/JJ corporate/JJ bonds/NNS ]
+./. 
+
+As/IN 
+[ interest/NN rates/NNS ]
+declined/VBD ,/, 
+[ Merrill/NNP ]
+raised/VBD 
+[ its/PRP$ market/NN ]
+share/NN more/JJR than/IN 
+[ four/CD percentage/NN ]
+points/NNS to/TO 
+[ 21.5/CD %/NN ]
+./. 
+
+[ Merrill/NNP ]
+is/VBZ 
+[ the/DT only/JJ firm/NN ]
+
+[ that/WDT ]
+has/VBZ increased/VBN 
+[ its/PRP$ market/NN share/NN ]
+and/CC 
+[ new-issue/JJ volume/NN ]
+for/IN 
+[ four/CD consecutive/JJ years/NNS ]
+in/IN 
+[ the/DT investment-grade/JJ bond/NN market/NN ]
+./. 
+
+======================================
+
+But/CC underwriting/VBG 
+[ investment-grade/JJ corporate/JJ bonds/NNS ]
+has/VBZ been/VBN among/IN 
+[ the/DT least/JJS profitable/JJ activities/NNS ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+``/`` 
+[ Profit/NN margins/NNS ]
+have/VBP n't/RB been/VBN good/JJ for/IN 
+[ some/DT time/NN ]
+and/CC are/VBP n't/RB likely/JJ to/TO get/VB better/RB ,/, ''/'' says/VBZ 
+[ Perin/NNP Long/NNP ]
+,/, 
+[ a/DT securities/NNS industry/NN analyst/NN ]
+at/IN 
+[ Lipper/NNP Analytical/NNP Securities/NNPS Corp/NNP ]
+./. 
+
+[ People/NNS ]
+at/IN 
+[ Merrill/NNP ]
+say/VBP much/JJ of/IN 
+[ its/PRP$ net/JJ income/NN last/JJ year/NN ]
+and/CC so/RB far/RB 
+[ this/DT year/NN ]
+was/VBD generated/VBN by/IN 
+[ its/PRP$ merchant/NN banking/NN division/NN ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ high-yield/JJ junk/NN bonds/NNS ]
+./. 
+
+======================================
+
+[ Edson/NNP V./CC Mitchell/NNP ]
+,/, 
+[ a/DT senior/JJ managing/VBG director/NN ]
+responsible/JJ for/IN 
+[ orchestrating/VBG Merrill/NNP 's/POS rise/NN ]
+to/TO 
+[ No./NN 1/CD ]
+,/, concedes/VBZ that/IN increased/VBN 
+[ competition/NN ]
+has/VBZ made/VBN 
+[ the/DT traditional/JJ underwriting/NN business/NN ]
+--/: buying/VBG 
+[ securities/NNS ]
+from/IN 
+[ corporations/NNS ]
+and/CC reselling/VBG 
+[ them/PRP ]
+--/: tougher/JJR ./. 
+
+======================================
+
+``/`` When/WRB 
+[ you/PRP ]
+integrate/VBP 
+[ the/DT new-issue/JJ effort/NN ]
+with/IN 
+[ secondary/JJ market/NN ]
+trading/NN ,/, 
+[ you/PRP ]
+can/MD be/VB profitable/JJ ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ We/PRP ]
+believe/VBP 
+[ we/PRP ]
+have/VBP 
+[ the/DT best/JJS fixed-income/NN distribution/NN system/NN ]
+in/IN 
+[ the/DT world/NN ]
+,/, ''/'' and/CC 
+[ that/DT ]
+'s/VBZ 
+[ what/WP ]
+
+[ he/PRP ]
+says/VBZ will/MD make/VB 
+[ money/NN ]
+in/IN 
+[ the/DT long/JJ run/NN ]
+./. 
+
+======================================
+
+[ Whatever/WDT ]
+
+[ the/DT case/NN ]
+,/, 
+[ the/DT 36-year-old/JJ Mr./NNP Mitchell/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ described/VBN by/IN 
+[ colleagues/NNS ]
+as/IN 
+[ tough/JJ ]
+and/CC 
+[ humorless/JJ ]
+,/, is/VBZ 
+[ a/DT rising/VBG star/NN ]
+at/IN 
+[ Merrill/NNP ]
+./. 
+
+[ He/PRP ]
+ousted/VBD 
+[ several/JJ New/NNP York/NNP ]
+and/CC 
+[ London/NNP colleagues/NNS ]
+
+[ who/WP ]
+questioned/VBD 
+[ his/PRP$ often-repeated/JJ assertion/NN ]
+that/IN rising/VBG 
+[ market/NN share/NN ]
+and/CC 
+[ greater/JJR profitability/NN ]
+in/IN 
+[ corporate/JJ bond/NN underwriting/NN ]
+are/VBP compatible/JJ ./. 
+
+[ Thanks/NNS ]
+to/TO 
+[ Mr./NNP Mitchell/NNP 's/POS efforts/NNS ]
+,/, 
+[ Merrill/NNP ]
+also/RB seems/VBZ to/TO be/VB getting/VBG 
+[ business/NN ]
+
+[ that/WDT ]
+would/MD have/VB been/VBN unlikely/JJ 
+[ a/DT year/NN ]
+ago/IN ./. 
+
+======================================
+
+In/IN 
+[ August/NNP ]
+,/, 
+[ Canada/NNP 's/POS Export/NNP Development/NNP Corp./NNP ]
+and/CC 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP Co./NNP ]
+,/, 
+[ traditional/JJ clients/NNS ]
+of/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, selected/VBD 
+[ Merrill/NNP ]
+to/TO arrange/VB 
+[ large/JJ U.S./NNP bond/NN offerings/NNS ]
+./. 
+
+[ The/DT same/JJ month/NN ]
+,/, 
+[ British/NNP Gas/NNP PLC/NNP ]
+selected/VBD 
+[ Merrill/NNP ]
+to/TO sell/VB 
+[ its/PRP$ first/JJ offering/NN ]
+in/IN 
+[ the/DT Eurobond/NNP market/NN ]
+./. 
+
+[ Merrill/NNP ]
+also/RB has/VBZ been/VBN 
+[ the/DT most/RBS active/JJ underwriter/NN ]
+of/IN 
+[ new/JJ preferred/VBN stock/NN issues/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT first/JJ nine/CD months/NNS ]
+,/, 
+[ Merrill/NNP ]
+expanded/VBD 
+[ its/PRP$ share/NN ]
+of/IN 
+[ the/DT U.S./NNP debt/NN ]
+and/CC 
+[ equity/NN underwriting/NN market/NN ]
+to/TO 
+[ 16.5/CD %/NN ]
+from/IN 
+[ 14/CD %/NN ]
+over/IN 
+[ the/DT same/JJ period/NN last/JJ year/NN ]
+./. 
+
+[ Goldman/NNP Sachs/NNP ]
+,/, 
+[ which/WDT ]
+ranked/VBD 
+[ No./NN 2/CD ]
+,/, had/VBD 
+[ 13.6/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+,/, while/IN 
+[ Salomon/NNP Brothers/NNPS Inc./NNP ]
+,/, 
+[ First/NNP Boston/NNP Corp./NNP ]
+and/CC 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc./NNP ]
+had/VBD 
+[ 11/CD %/NN ]
+,/, 
+[ 10.9/CD %/NN ]
+and/CC 
+[ 8.9/CD %/NN ]
+,/, respectively/RB ,/, according/VBG to/TO 
+[ Securities/NNPS Data/NNP ]
+./. 
+
+[ World-wide/JJ ]
+,/, 
+[ Merrill/NNP ]
+also/RB was/VBD 
+[ No./NN 1/CD ]
+,/, with/IN 
+[ a/DT market/NN share/NN ]
+of/IN 
+[ 15.4/CD %/NN ]
+./. 
+
+======================================
+
+Overall/RB ,/, 
+[ the/DT volume/NN ]
+of/IN 
+[ new/JJ U.S./NNP issues/NNS ]
+of/IN 
+[ debt/NN ]
+and/CC 
+[ equity/NN ]
+totaled/VBD 
+[ $/$ 214.5/CD billion/CD ]
+in/IN 
+[ the/DT first/JJ nine/CD months/NNS ]
+,/, just/RB above/IN 
+[ 1988/CD 's/POS new-issue/JJ volume/NN ]
+of/IN 
+[ $/$ 210.4/CD billion/CD ]
+in/IN 
+[ the/DT like/JJ period/NN ]
+./. 
+
+[ A/DT one/CD percentage-point/JJ drop/NN ]
+in/IN 
+[ interest/NN rates/NNS ]
+
+[ this/DT year/NN ]
+helped/VBD raise/VB 
+[ the/DT volume/NN ]
+of/IN 
+[ new/JJ debt/NN securities/NNS ]
+to/TO 
+[ a/DT record/NN $/$ 193.9/CD billion/CD ]
+from/IN 
+[ $/$ 181.4/CD billion/CD ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+======================================
+
+Elsewhere/RB in/IN 
+[ the/DT U.S./NNP capital/NN markets/NNS ]
+,/, 
+[ mortgage/NN ]
+and/CC 
+[ asset-backed/JJ bonds/NNS ]
+issued/VBN in/IN 
+[ the/DT first/JJ three/CD quarters/NNS ]
+totaled/VBD 
+[ $/$ 88.7/CD billion/CD ]
+,/, or/CC 
+[ 41/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP debt/NN ]
+and/CC 
+[ equity/NN new-issue/NN market/NN ]
+./. 
+
+[ Investment-grade/JJ corporate/JJ bonds/NNS ]
+totaled/VBD 
+[ $/$ 79.3/CD billion/CD ]
+,/, or/CC 
+[ 37/CD %/NN ]
+./. 
+
+[ High-yield/JJ junk/NN bonds/NNS ]
+totaled/VBD 
+[ $/$ 20.2/CD billion/CD ]
+,/, or/CC 
+[ 9.4/CD %/NN ]
+./. 
+
+======================================
+
+[ Initial/JJ public/JJ stock/NN offerings/NNS ]
+amounted/VBD to/TO 
+[ $/$ 9.8/CD billion/CD ]
+,/, or/CC 
+[ 4.6/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+;/: 
+[ secondary/JJ common/JJ offerings/NNS ]
+,/, 
+[ $/$ 5.2/CD billion/CD ]
+,/, or/CC 
+[ 2.4/CD %/NN ]
+;/: 
+[ convertible/JJ bonds/NNS ]
+,/, 
+[ $/$ 3.4/CD billion/CD ]
+,/, or/CC 
+[ 1.6/CD %/NN ]
+;/: preferred/VBN 
+[ stock/NN issues/NNS ]
+,/, 
+[ $/$ 5.6/CD billion/CD ]
+,/, or/CC 
+[ 2.6/CD %/NN ]
+;/: and/CC 
+[ taxable/JJ municipal/JJ bonds/NNS ]
+totaled/VBD 
+[ $/$ 2.3/CD billion/CD ]
+,/, or/CC 
+[ 1/CD %/NN ]
+./. 
+
+======================================
+
+Overseas/RB ,/, 
+[ the/DT volume/NN ]
+of/IN 
+[ international/JJ debt/NN ]
+and/CC 
+[ equity/NN securities/NNS offerings/NNS ]
+climbed/VBD to/TO 
+[ a/DT record/NN $/$ 186.2/CD billion/CD ]
+during/IN 
+[ the/DT first/JJ nine/CD months/NNS ]
+from/IN 
+[ $/$ 159/CD billion/CD ]
+in/IN 
+[ the/DT 1988/CD period/NN ]
+./. 
+
+[ Japanese-based/JJ Nomura/NNP Securities/NNPS Co./NNP ]
+,/, 
+[ Nikko/NNP Securities/NNPS Co./NNP ]
+,/, 
+[ Daiwa/NNP Securities/NNPS Co./NNP ]
+and/CC 
+[ Yamaichi/NNP Securities/NNPS Co./NNP ]
+dominated/VBD 
+[ the/DT Eurobond/NNP market/NN ]
+,/, where/WRB 
+[ corporations/NNS ]
+and/CC 
+[ governments/NNS ]
+issue/VBP 
+[ securities/NNS ]
+outside/IN 
+[ their/PRP$ home/NN markets/NNS ]
+./. 

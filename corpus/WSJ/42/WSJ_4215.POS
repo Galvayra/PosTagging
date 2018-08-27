@@ -1,0 +1,464 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT Salomon/NNP Inc./NNP unit/NN 's/POS issue/NN ]
+of/IN 
+[ warrants/NNS ]
+for/IN 
+[ the/DT stock/NN ]
+of/IN 
+[ Hongkong/NNP ]
+&/CC 
+[ Shanghai/NNP Banking/NNP Corp./NNP ]
+marks/VBZ 
+[ the/DT first/JJ time/NN ]
+
+[ a/DT third/JJ party/NN ]
+has/VBZ sold/VBN 
+[ warrants/NNS ]
+for/IN 
+[ a/DT Hong/NNP Kong/NNP company/NN 's/POS shares/NNS ]
+,/, and/CC might/MD lead/VB to/TO further/JJ 
+[ such/JJ offerings/NNS ]
+,/, 
+[ analysts/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT warrant/NN ]
+offering/NN in/IN 
+[ London/NNP ]
+by/IN 
+[ Salomon/NNP Brothers/NNPS International/NNP Ltd./NNP ]
+is/VBZ 
+[ an/DT attempt/NN ]
+by/IN 
+[ the/DT investment/NN house/NN ]
+to/TO capitalize/VB on/IN 
+[ interest/NN ]
+in/IN 
+[ the/DT Hong/NNP Kong/NNP stock/NN market/NN ]
+./. 
+
+[ The/DT warrants/NNS '/POS popularity/NN ]
+could/MD be/VB aided/VBN by/IN 
+[ persistent/JJ rumors/NNS ]
+that/IN 
+[ Hongkong/NNP Bank/NNP ]
+may/MD merge/VB with/IN 
+[ Midland/NNP Bank/NNP PLC/NNP ]
+of/IN 
+[ Britain/NNP ]
+,/, although/IN 
+[ Salomon/NNP ]
+said/VBD 
+[ that/DT was/VBD n't/RB ]
+
+[ a/DT reason/NN ]
+for/IN 
+[ the/DT issue/NN ]
+./. 
+
+======================================
+
+[ Ian/NNP Hannam/NNP ]
+,/, 
+[ who/WP ]
+arranged/VBD 
+[ the/DT issue/NN ]
+for/IN 
+[ Salomon/NNP ]
+in/IN 
+[ London/NNP ]
+,/, said/VBD 
+[ Hongkong/NNP Bank/NNP ]
+was/VBD selected/VBN because/IN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT blue-chip/JJ company/NN ]
+and/CC 
+[ its/PRP$ performance/NN ]
+closely/RB matches/VBZ that/IN of/IN 
+[ the/DT Hong/NNP Kong/NNP market/NN ]
+as/IN 
+[ a/DT whole/NN ]
+./. 
+
+======================================
+
+[ A/DT warrant/NN ]
+gives/VBZ 
+[ the/DT buyer/NN ]
+
+[ the/DT right/NN ]
+,/, but/CC not/RB 
+[ the/DT obligation/NN ]
+,/, to/TO buy/VB 
+[ stock/NN ]
+at/IN 
+[ a/DT fixed/JJ price/NN ]
+./. 
+
+[ Each/DT Salomon/NNP warrant/NN ]
+gives/VBZ 
+[ the/DT holder/NN ]
+
+[ the/DT right/NN ]
+to/TO buy/VB 
+[ one/CD Hongkong/NNP Bank/NNP share/NN ]
+for/IN 
+[ 6.40/CD Hong/NNP Kong/NNP dollars/NNS ]
+ (/( 
+[ 82/CD U.S./NNP cents/NNS ]
+ )/) within/IN 
+[ two/CD years/NNS ]
+./. 
+
+[ The/DT bank/NN 's/POS stock/NN ]
+closed/VBD yesterday/NN in/IN 
+[ Hong/NNP Kong/NNP ]
+at/IN 
+[ HK$/$ 6.30/CD ]
+./. 
+
+======================================
+
+[ Salomon/NNP ]
+issued/VBD 
+[ 43/CD million/CD warrants/NNS ]
+
+[ this/DT week/NN ]
+at/IN 
+[ HK$/$ 1.32/CD ]
+apiece/RB ,/, making/VBG 
+[ them/PRP ]
+profitable/JJ if/IN 
+[ the/DT stock/NN 's/POS price/NN ]
+rises/VBZ above/IN 
+[ HK$/$ 7.72/CD ]
+./. 
+
+[ Stock-market/NN analysts/NNS ]
+said/VBD 
+[ the/DT warrants/NNS ]
+will/MD be/VB popular/JJ with/IN 
+[ investors/NNS ]
+
+[ who/WP ]
+want/VBP to/TO limit/VB 
+[ the/DT money/NN ]
+
+[ they/PRP ]
+invest/VBP initially/RB and/CC still/RB take/VB 
+[ advantage/NN ]
+of/IN 
+[ price/NN gains/NNS ]
+on/IN 
+[ the/DT volatile/JJ Hong/NNP Kong/NNP market/NN ]
+./. 
+
+======================================
+
+[ Salomon/NNP ]
+said/VBD 
+[ the/DT warrants/NNS ]
+were/VBD sold/VBN mainly/RB to/TO 
+[ European/JJ investors/NNS ]
+./. 
+
+[ The/DT investment/NN bank/NN ]
+has/VBZ targeted/VBN 
+[ Europe/NNP ]
+as/IN 
+[ its/PRP$ main/JJ market/NN ]
+initially/RB because/IN of/IN 
+[ the/DT success/NN ]
+of/IN 
+[ similar/JJ instruments/NNS ]
+in/IN 
+[ London/NNP ]
+in/IN 
+[ the/DT past/JJ two/CD years/NNS ]
+and/CC because/RB of/IN 
+[ difficulties/NNS ]
+and/CC 
+[ delays/NNS ]
+in/IN issuing/VBG 
+[ a/DT new/JJ instrument/NN ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+./. 
+
+======================================
+
+[ Government/NN officials/NNS ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+were/VBD unavailable/JJ for/IN 
+[ comment/NN ]
+on/IN whether/IN 
+[ they/PRP ]
+would/MD allow/VB 
+[ a/DT third-party/JJ issue/NN ]
+to/TO be/VB listed/VBN in/IN 
+[ the/DT colony/NN ]
+./. 
+
+[ Hong/NNP Kong/NNP companies/NNS ]
+have/VBP issued/VBN 
+[ warrants/NNS ]
+on/IN 
+[ their/PRP$ own/JJ shares/NNS ]
+,/, and/CC 
+[ these/DT warrants/NNS ]
+trade/VBP locally/RB ./. 
+
+======================================
+
+[ Mr./NNP Hannam/NNP ]
+said/VBD 
+[ Salomon/NNP ]
+is/VBZ ``/`` committed/JJ to/TO making/VBG 
+[ a/DT secondary/JJ market/NN ]
+''/'' in/IN 
+[ the/DT warrants/NNS ]
+./. 
+
+[ Analysts/NNS ]
+said/VBD 
+[ liquidity/NN ]
+in/IN 
+[ the/DT secondary/JJ market/NN ]
+will/MD be/VB essential/JJ in/IN 
+[ convincing/JJ third/JJ parties/NNS ]
+to/TO take/VB 
+[ the/DT risk/NN ]
+of/IN issuing/VBG 
+[ warrants/NNS ]
+./. 
+
+======================================
+
+[ A/DT successful/JJ issue/NN ]
+might/MD be/VB followed/VBN by/IN 
+[ offerings/NNS ]
+of/IN 
+[ warrants/NNS ]
+on/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ Hong/NNP Kong/NNP 's/POS biggest/JJS and/CC most/RBS international/JJ companies/NNS ]
+and/CC might/MD open/VB up/RP 
+[ a/DT new/JJ area/NN ]
+of/IN 
+[ business/NN ]
+for/IN 
+[ Hong/NNP Kong/NNP 's/POS merchant/NN banks/NNS ]
+,/, 
+[ analysts/NNS ]
+said/VBD ./. 
+
+[ They/PRP ]
+noted/VBD ,/, however/RB ,/, that/IN 
+[ the/DT number/NN ]
+would/MD be/VB limited/JJ because/IN 
+[ the/DT shares/NNS ]
+of/IN only/RB 
+[ a/DT few/JJ companies/NNS ]
+are/VBP liquid/JJ enough/RB to/TO sustain/VB 
+[ a/DT secondary/JJ market/NN ]
+in/IN 
+[ warrants/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+believe/VBP 
+[ there/EX ]
+'s/VBZ 
+[ a/DT lot/NN ]
+of/IN 
+[ interest/NN ]
+in/IN 
+[ the/DT Hong/NNP Kong/NNP market/NN ]
+./. 
+
+[ We/PRP ]
+would/MD like/VB to/TO issue/VB 
+[ more/JJR ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Hannam/NNP ]
+./. 
+
+======================================
+
+[ The/DT warrants/NNS ]
+issued/VBN 
+[ this/DT week/NN ]
+are/VBP covered/VBN in/IN that/IN 
+[ Salomon/NNP ]
+has/VBZ 
+[ access/NN ]
+to/TO 
+[ enough/JJ Hongkong/NNP Bank/NNP ]
+shares/NNS to/TO back/VB 
+[ them/PRP ]
+;/: 
+[ the/DT investment/NN house/NN ]
+has/VBZ bought/VBN 
+[ Hongkong/NNP Bank/NNP stock/NN ]
+or/CC 
+[ options/NNS ]
+to/TO buy/VB 
+[ the/DT shares/NNS ]
+from/IN 
+[ other/JJ institutions/NNS ]
+,/, 
+[ a/DT spokesman/NN ]
+said/VBD ./. 
+
+[ Some/DT analysts/NNS ]
+were/VBD surprised/VBN by/IN 
+[ the/DT issue/NN ]
+because/IN of/IN 
+[ the/DT risk/NN Salomon/NNP ]
+may/MD take/VB in/IN 
+[ obtaining/VBG access/NN ]
+to/TO 
+[ 43/CD million/CD shares/NNS ]
+of/IN 
+[ the/DT bank/NN 's/POS stock/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Hannam/NNP ]
+would/MD n't/RB say/VB how/WRB 
+[ many/JJ Hongkong/NNP Bank/NNP shares/NNS Salomon/NNP ]
+had/VBD bought/VBN outright/RB ./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ many/JJ ways/NNS ]
+of/IN hedging/VBG 
+[ this/DT ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+For/IN 
+[ investors/NNS ]
+,/, 
+[ Hongkong/NNP Bank/NNP ]
+is/VBZ attractive/JJ because/IN 
+[ there/EX ]
+have/VBP been/VBN 
+[ rumors/NNS ]
+that/IN 
+[ the/DT bank/NN ]
+is/VBZ preparing/VBG to/TO move/VB 
+[ its/PRP$ headquarters/NNS ]
+out/IN of/IN 
+[ the/DT colony/NN ]
+by/IN arranging/VBG 
+[ a/DT merger/NN ]
+with/IN 
+[ Britain/NNP 's/POS Midland/NNP Bank/NNP ]
+before/IN 
+[ 1997/CD ]
+,/, when/WRB 
+[ Hong/NNP Kong/NNP ]
+will/MD return/VB to/TO 
+[ Chinese/JJ control/NN ]
+./. 
+
+[ Hongkong/NNP Bank/NNP ]
+is/VBZ 
+[ the/DT largest/JJS shareholder/NN ]
+in/IN 
+[ Midland/NNP ]
+,/, with/IN 
+[ a/DT 14.9/CD %/NN stake/NN ]
+,/, and/CC after/IN 
+[ a/DT standstill/JJ agreement/NN ]
+expires/VBZ in/IN 
+[ December/NNP 1990/CD ]
+,/, 
+[ it/PRP ]
+can/MD alter/VB 
+[ its/PRP$ stake/NN ]
+./. 
+
+======================================
+
+[ Hongkong/NNP Bank/NNP officials/NNS ]
+have/VBP said/VBN 
+[ they/PRP ]
+are/VBP committed/JJ to/TO staying/VBG in/IN 
+[ the/DT territory/NN ]
+,/, but/CC in/IN 
+[ recent/JJ statements/NNS they/PRP ]
+have/VBP n't/RB ruled/VBN out/IN 
+[ the/DT possibility/NN ]
+of/IN 
+[ a/DT merger/NN ]
+in/IN 
+[ the/DT future/NN ]
+if/IN 
+[ it/PRP ]
+makes/VBZ 
+[ commercial/JJ sense/NN ]
+for/IN 
+[ the/DT two/CD banks/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT big/JJ attraction/NN ]
+''/'' of/IN 
+[ the/DT warrants/NNS ]
+``/`` is/VBZ if/IN 
+[ all/PDT the/DT talk/NN ]
+about/IN 
+[ a/DT Midland/NNP merger/NN ]
+comes/VBZ 
+[ true/JJ ]
+,/, ''/'' said/VBD 
+[ Eric/NNP Sandlund/NNP ]
+,/, 
+[ a/DT stock/NN analyst/NN ]
+at/IN 
+[ Tyndall/NNP International/NNP Ltd./NNP ]
+,/, 
+[ a/DT Hong/NNP Kong/NNP brokerage/NN company/NN ]
+./. 
+
+[ A/DT rise/NN ]
+in/IN 
+[ Hongkong/NNP Bank/NNP 's/POS share/NN price/NN ]
+in/IN 
+[ recent/JJ weeks/NNS ]
+has/VBZ been/VBN fueled/VBN by/IN 
+[ those/DT rumors/NNS ]
+./. 

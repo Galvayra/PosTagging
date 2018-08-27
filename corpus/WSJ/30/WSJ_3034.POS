@@ -1,0 +1,456 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP ]
+said/VBD 
+[ third-quarter/JJ net/JJ income/NN ]
+fell/VBD 
+[ 9.9/CD %/NN ]
+from/IN 
+[ the/DT year-earlier/JJ period/NN ]
+,/, 
+[ which/WDT ]
+included/VBD 
+[ a/DT one-time/JJ gain/NN ]
+./. 
+
+======================================
+
+[ Net/JJ ]
+fell/VBD to/TO 
+[ $/$ 28.8/CD million/CD ]
+,/, or/CC 
+[ 29/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ $/$ 32/CD million/CD ]
+,/, or/CC 
+[ 33/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ The/DT 1988/CD period/NN ]
+included/VBD 
+[ a/DT one-time/JJ gain/NN ]
+of/IN 
+[ $/$ 3.5/CD million/CD ]
+,/, or/CC 
+[ four/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ investments/NNS ]
+./. 
+
+Operating/NN 
+[ income/NN ]
+was/VBD flat/JJ at/IN 
+[ $/$ 71.5/CD million/CD ]
+./. 
+
+[ Revenue/NN ]
+gained/VBD 
+[ 5.3/CD %/NN ]
+to/TO 
+[ $/$ 404.1/CD million/CD ]
+from/IN 
+[ $/$ 383.8/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT results/NNS ]
+reflect/VBP continued/VBN 
+[ softness/NN ]
+in/IN 
+[ financial/JJ advertising/NN ]
+at/IN 
+[ The/DT Wall/NNP Street/NNP Journal/NNP ]
+and/CC 
+[ Barron/NNP 's/POS magazine/NN ]
+,/, as/RB well/RB as/IN 
+[ an/DT 18/CD %/NN decline/NN ]
+in/IN 
+[ profit/NN ]
+at/IN 
+[ Telerate/NNP Inc./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 67%-owned/JJ ]
+by/IN 
+[ Dow/NNP Jones/NNP ]
+./. 
+
+[ Dow/NNP Jones/NNP ]
+has/VBZ made/VBN 
+[ a/DT tender/NN offer/NN ]
+for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ Telerate/NNP ]
+at/IN 
+[ $/$ 18/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/NN trading/NN yesterday/NN ]
+,/, 
+[ Dow/NNP Jones/NNP ]
+rose/VBD 
+[ 25/CD cents/NNS ]
+to/TO 
+[ $/$ 38.125/CD ]
+,/, while/IN 
+[ Telerate/NNP ]
+dropped/VBD 
+[ 12.5/CD cents/NNS ]
+to/TO 
+[ $/$ 20.25/CD ]
+./. 
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+said/VBD 
+[ operating/NN income/NN ]
+at/IN 
+[ its/PRP$ business/NN publications/NNS segment/NN ]
+rose/VBD 
+[ 1/CD %/NN ]
+to/TO 
+[ $/$ 13.4/CD million/CD ]
+./. 
+
+Advertising/NN 
+[ linage/NN ]
+at/IN 
+[ The/DT Wall/NNP Street/NNP Journal/NNP ]
+fell/VBD 
+[ 6.1/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, or/CC 
+[ 4.6/CD %/NN ]
+
+[ an/DT issue/NN ]
+;/: 
+[ there/EX ]
+was/VBD 
+[ one/CD ]
+
+[ fewer/JJR issue/NN ]
+published/VBN in/IN 
+[ the/DT latest/JJS quarter/NN ]
+./. 
+
+In/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Journal/NNP ad/NN linage/NN ]
+dropped/VBD 
+[ 7.9/CD %/NN ]
+overall/RB and/CC 
+[ 7.4/CD %/NN ]
+
+[ an/DT issue/NN ]
+./. 
+
+[ Barron/NNP 's/POS magazine/NN advertising/NN linage/NN ]
+declined/VBD 
+[ 9.4/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+and/CC 
+[ 17/CD %/NN ]
+in/IN 
+[ the/DT nine/CD months/NNS ]
+./. 
+
+[ Third-quarter/JJ revenue/NN ]
+was/VBD about/RB flat/JJ at/IN 
+[ $/$ 170/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT information/NN services/NNS segment/NN ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ Telerate/NNP 's/POS results/NNS ]
+,/, posted/VBD 
+[ an/DT operating/NN income/NN gain/NN ]
+of/IN 
+[ 4.4/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+as/IN 
+[ revenue/NN ]
+rose/VBD 
+[ 13/CD %/NN ]
+to/TO 
+[ $/$ 175.3/CD million/CD ]
+./. 
+
+======================================
+
+[ Excluding/VBG Telerate/NNP ]
+,/, 
+[ the/DT Dow/NNP Jones/NNP Information/NNP Services/NNP Group/NNP ]
+reported/VBD 
+[ a/DT 6.8/CD %/NN increase/NN ]
+in/IN 
+[ operating/NN income/NN ]
+as/IN 
+[ revenue/NN ]
+increased/VBD 
+[ 10/CD %/NN ]
+./. 
+
+======================================
+
+[ Ottaway/NNP Newspapers/NNP Inc./NNP ]
+,/, 
+[ the/DT company/NN 's/POS community/NN newspapers/NNS segment/NN ]
+,/, saw/VBD operating/NN 
+[ income/NN fall/VB 13/CD %/NN ]
+to/TO 
+[ $/$ 8.6/CD million/CD ]
+,/, as/IN 
+[ ad/NN linage/NN ]
+at/IN 
+[ Ottaway/NNP 's/POS 23/CD daily/JJ newspapers/NNS ]
+fell/VBD 
+[ 3.4/CD %/NN ]
+./. 
+
+[ Revenue/NN ]
+gained/VBD 
+[ 1.5/CD %/NN ]
+to/TO 
+[ $/$ 58.7/CD million/CD ]
+./. 
+
+In/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Dow/NNP Jones/NNP ]
+had/VBD 
+[ net/JJ ]
+of/IN 
+[ $/$ 277.2/CD million/CD ]
+,/, or/CC 
+[ $/$ 2.75/CD ]
+
+[ a/DT share/NN ]
+,/, up/RB 
+[ 50/CD %/NN ]
+from/IN 
+[ $/$ 185.1/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.92/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ The/DT latest/JJS period/NN ]
+included/VBD 
+[ an/DT after-tax/JJ gain/NN ]
+of/IN 
+[ $/$ 164.1/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.63/CD ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ the/DT January/NNP sale/NN ]
+of/IN 
+[ Dow/NNP Jones/NNP 's/POS holdings/NNS ]
+in/IN 
+[ Continental/NNP Cablevision/NNP Inc./NNP ]
+;/: 
+[ the/DT 1988/CD period/NN ]
+included/VBD 
+[ an/DT after-tax/JJ gain/NN ]
+of/IN 
+[ $/$ 68/CD million/CD ]
+,/, or/CC 
+[ 71/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, largely/RB from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ a/DT book-publishing/JJ subsidiary/NN ]
+./. 
+
+Without/IN 
+[ the/DT gains/NNS ]
+,/, 
+[ net/JJ ]
+would/MD have/VB fallen/VBN 
+[ 3.5/CD %/NN ]
+./. 
+
+======================================
+
+[ Revenue/NN ]
+in/IN 
+[ the/DT nine/CD months/NNS ]
+increased/VBD 
+[ 4.9/CD %/NN ]
+to/TO 
+[ $/$ 1.25/CD billion/CD ]
+from/IN 
+[ $/$ 1.19/CD billion/CD ]
+./. 
+
+======================================
+
+At/IN 
+[ Telerate/NNP ]
+,/, 
+[ net/JJ income/NN ]
+fell/VBD 
+[ 18/CD %/NN ]
+to/TO 
+[ $/$ 19.5/CD million/CD ]
+,/, or/CC 
+[ 21/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ $/$ 23.6/CD million/CD ]
+,/, or/CC 
+[ 25/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Dow/NNP Jones/NNP ]
+consolidates/VBZ 
+[ all/DT ]
+of/IN 
+[ Telerate/NNP 's/POS revenue/NN ]
+,/, operating/NN 
+[ expenses/NNS ]
+and/CC 
+[ operating/NN income/NN ]
+with/IN 
+[ its/PRP$ own/JJ ]
+./. 
+
+Operating/NN 
+[ income/NN ]
+at/IN 
+[ Telerate/NNP ]
+gained/VBD 
+[ 5.1/CD %/NN ]
+to/TO 
+[ $/$ 40.8/CD million/CD ]
+from/IN 
+[ $/$ 38.8/CD million/CD ]
+./. 
+
+[ Revenue/NN ]
+rose/VBD to/TO 
+[ $/$ 127.8/CD million/CD ]
+,/, 
+[ a/DT 14/CD %/NN gain/NN ]
+from/IN 
+[ $/$ 112.3/CD million/CD ]
+./. 
+
+======================================
+
+[ Neil/NNP S./NNP Hirsch/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+of/IN 
+[ Telerate/NNP ]
+,/, said/VBD 
+[ earnings/NNS ]
+were/VBD hurt/VBN by/IN 
+[ costs/NNS ]
+associated/VBN with/IN 
+[ the/DT introduction/NN ]
+of/IN 
+[ the/DT Trading/NNP Service/NNP ]
+,/, 
+[ a/DT foreign-exchange/JJ electronic-transaction/JJ service/NN venture/NN ]
+with/IN 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co/NNP ]
+./. 
+
+[ Mr./NNP Hirsch/NNP ]
+said/VBD 
+[ these/DT costs/NNS ]
+will/MD continue/VB to/TO affect/VB 
+[ results/NNS ]
+in/IN 
+[ the/DT fourth/JJ quarter/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Telerate/NNP ]
+continues/VBZ to/TO have/VB 
+[ growth/NN ]
+in/IN 
+[ subscriptions/NNS ]
+to/TO 
+[ its/PRP$ services/NNS ]
+./. 
+
+======================================
+
+[ Separately/NNP ]
+,/, 
+[ Telerate/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ in/IN 
+[ negotiations/NNS ]
+with/IN 
+[ AT&T/NNP ]
+for/IN 
+[ the/DT purchase/NN ]
+of/IN 
+[ AT&T/NNP 's/POS 50/CD %/NN ]
+of/IN 
+[ Global/NNP Transactions/NNP Services/NNP Co/NNP ]
+./. 
+
+[ The/DT venture/NN ]
+runs/VBZ 
+[ the/DT Trading/NNP Service/NNP ]
+./. 

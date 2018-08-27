@@ -1,0 +1,150 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ GTE/NNP Airfone/NNP Inc./NNP ]
+,/, citing/VBG 
+[ confusion/NN ]
+among/IN 
+[ some/DT airline/NN passengers/NNS ]
+about/IN 
+[ prices/NNS ]
+,/, said/VBD 
+[ it/PRP ]
+will/MD 
+[ restructure/VB its/PRP$ rates/NNS ]
+,/, 
+[ effective/VBN Sunday/NNP ]
+./. 
+
+======================================
+
+[ Air-to-ground/JJ telephone/NN users/NNS ]
+now/RB pay/VBP 
+[ $/$ 7.50/CD ]
+for/IN 
+[ the/DT first/JJ three/CD minutes/NNS ]
+and/CC 
+[ $/$ 1.25/CD ]
+for/IN 
+[ each/DT additional/JJ minute/NN ]
+./. 
+
+Under/IN 
+[ the/DT new/JJ rates/NNS ]
+,/, 
+[ each/DT call/NN ]
+will/MD cost/VB 
+[ $/$ 2/CD ]
+for/IN 
+[ a/DT connection/NN fee/NN ]
+and/CC 
+[ $/$ 2/CD ]
+for/IN 
+[ each/DT minute/NN ]
+./. 
+
+[ This/DT ]
+means/VBZ 
+[ a/DT rate/NN ]
+cut/NN for/IN 
+[ short/JJ calls/NNS ]
+,/, but/CC 
+[ an/DT increase/NN ]
+for/IN 
+[ calls/NNS ]
+of/IN 
+[ three/CD minutes/NNS ]
+or/CC 
+[ longer/JJR ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ a/DT two-minute/JJ call/NN ]
+will/MD decline/VB to/TO 
+[ $/$ 6/CD ]
+from/IN 
+[ $/$ 7.50/CD ]
+,/, while/IN 
+[ a/DT three-minute/JJ conversation/NN ]
+will/MD rise/VB to/TO 
+[ $/$ 8/CD ]
+./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ the/DT unit/NN ]
+of/IN 
+[ GTE/NNP Corp./NNP ]
+,/, 
+[ a/DT Stamford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, 
+[ telecommunications/NNS ]
+,/, lighting/NN and/CC 
+[ precision-materials/NNS company/NN ]
+,/, said/VBD ,/, ``/`` 
+[ We/PRP ]
+'re/VBP looking/VBG for/IN 
+[ this/DT new/JJ rate/NN structure/NN ]
+to/TO allow/VB 
+[ more/JJR people/NNS ]
+to/TO use/VB 
+[ the/DT service/NN ]
+./. 
+
+''/'' 
+[ The/DT current/JJ rates/NNS ]
+,/, 
+[ he/PRP ]
+explained/VBD ,/, had/VBD left/VBN ``/`` 
+[ misimpressions/NNS ]
+''/'' of/IN 
+[ higher/JJR prices/NNS ]
+for/IN making/VBG 
+[ calls/NNS ]
+,/, especially/RB among/IN 
+[ leisure/NN travelers/NNS ]
+./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+at/IN 
+[ one/CD airline/NN ]
+said/VBD 
+[ its/PRP$ passengers/NNS '/POS Airfone/NNP ]
+calls/NNS typically/RB 
+[ last/JJ three/CD ]
+to/TO 
+[ five/CD minutes/NNS ]
+./. 
+
+[ Airfone/NNP ]
+is/VBZ 
+[ part/NN ]
+of/IN 
+[ GTE/NNP Mobile/NNP Communications/NNPS Group/NNP ]
+and/CC does/VBZ n't/RB break/VB out/RP 
+[ operating/NN profit/NN ]
+or/CC 
+[ revenue/NN ]
+./. 

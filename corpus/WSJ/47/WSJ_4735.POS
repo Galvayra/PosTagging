@@ -1,0 +1,487 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Senate/NNP ]
+rejected/VBD 
+[ a/DT White/NNP House/NNP ]
+bid/NN to/TO restore/VB 
+[ cuts/NNS ]
+from/IN 
+[ fiscal/JJ 1990/CD appropriations/NNS ]
+for/IN 
+[ the/DT D-5/NNP Trident/NNP missile/NN ]
+and/CC 
+[ the/DT Pentagon/NNP 's/POS ambitious/JJ Strategic/NNP Defense/NNP Initiative/NNP ]
+./. 
+
+======================================
+
+[ The/DT 66-34/CD roll/NN call/NN ]
+represents/VBZ 
+[ a/DT significant/JJ defeat/NN ]
+for/IN 
+[ SDI/NNP ]
+and/CC puts/VBZ 
+[ pressure/NN ]
+on/IN 
+[ Senate/NNP ]
+negotiators/VBZ to/TO move/VB closer/JJR to/TO 
+[ the/DT ]
+lower/JJR authorized/VBN 
+[ funding/NN level/NN ]
+approved/VBN by/IN 
+[ the/DT House/NNP ]
+./. 
+
+[ The/DT fate/NN ]
+of/IN 
+[ the/DT D-5/CD remains/VBZ ]
+unclear/JJ ,/, but/CC 
+[ the/DT impact/NN ]
+of/IN 
+[ last/JJ night/NN 's/POS vote/NN ]
+is/VBZ to/TO let/VB stand/VB 
+[ a/DT Senate/NNP Appropriations/NNPS Committee/NNP decision/NN ]
+to/TO withhold/VB 
+[ all/DT new/JJ procurement/NN money/NN ]
+for/IN 
+[ the/DT troubled/JJ weapon/NN system/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ SDI/NNP ]
+is/VBZ 
+[ a/DT perishable/JJ commodity/NN ]
+and/CC 
+[ it/PRP ]
+is/VBZ going/VBG downhill/RB on/IN 
+[ both/DT ]
+
+[ sides/NNS ]
+of/IN 
+[ Congress/NNP ]
+,/, ''/'' said/VBD 
+[ Armed/NNP Services/NNPS Committee/NNP Chairman/NNP Sam/NNP Nunn/NNP ]
+,/, 
+[ who/WP ]
+backed/VBD 
+[ the/DT restoration/NN ]
+of/IN 
+[ funds/NNS ]
+but/CC said/VBD 
+[ he/PRP ]
+had/VBD n't/RB crafted/VBN 
+[ the/DT specific/JJ amendment/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT big/JJ pot/NN ]
+of/IN 
+[ money/NN ]
+,/, ''/'' said/VBD 
+[ the/DT Georgia/NNP Democrat/NNP ]
+,/, ``/`` and/CC 
+[ the/DT goals/NNS ]
+are/VBP elusive/JJ and/CC 
+[ vague/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT administration/NN ]
+fared/VBD better/RB on/IN 
+[ two/CD separate/JJ issues/NNS ]
+as/IN 
+[ the/DT Senate/NNP ]
+rejected/VBD ,/, 
+[ 7129/CD ]
+,/, 
+[ an/DT effort/NN ]
+to/TO withhold/VB 
+[ production/NN ]
+funding/NN for/IN 
+[ Northrop/NNP Corp./NNP 's/POS B-2/NNP bomber/NN ]
+,/, and/CC on/IN 
+[ a/DT 65-34/CD roll/NN call/NN ]
+,/, 
+[ senators/NNS ]
+effectively/RB blocked/VBD 
+[ a/DT proposal/NN ]
+that/IN 
+[ U.S./NNP troop/NN strength/NN ]
+in/IN 
+[ South/NNP Korea/NNP ]
+be/VB cut/VBN by/IN 
+[ 3,000/CD ]
+./. 
+
+======================================
+
+[ The/DT action/NN ]
+came/VBD as/IN 
+[ the/DT Senate/NNP ]
+approved/VBD 
+[ major/JJ revisions/NNS ]
+adding/VBG almost/RB 
+[ $/$ 8.5/CD billion/CD ]
+to/TO 
+[ a/DT $/$ 279.6/CD billion/CD spending/NN bill/NN ]
+funding/VBG 
+[ the/DT Pentagon/NNP ]
+through/IN 
+[ the/DT new/JJ fiscal/JJ year/NN ]
+beginning/VBG 
+[ Sunday/NNP ]
+./. 
+
+Although/IN 
+[ the/DT modified/VBN bill/NN ]
+represents/VBZ 
+[ a/DT 2/CD %/NN increase/NN ]
+above/IN 
+[ current/JJ appropriations/NNS ]
+,/, in/IN judging/VBG where/WRB to/TO spend/VB 
+[ the/DT additional/JJ funds/NNS ]
+,/, 
+[ the/DT Armed/NNP Services/NNPS Committee/NNP ]
+found/VBD 
+[ itself/PRP ]
+in/IN 
+[ competition/NN ]
+with/IN 
+[ the/DT appropriations/NNS panel/NN ]
+./. 
+
+======================================
+
+[ Defense/NN contractors/NNS ]
+lobbied/VBD alongside/IN 
+[ arms/NNS control/NN advocates/NNS ]
+in/IN 
+[ the/DT hallways/NNS ]
+outside/IN 
+[ the/DT chamber/NN ]
+,/, and/CC 
+[ the/DT parliamentary/JJ situation/NN ]
+forced/VBD 
+[ conservative/JJ Republicans/NNPS ]
+to/TO choose/VB in/IN 
+[ some/DT cases/NNS ]
+between/IN 
+[ SDI/NNP ]
+and/CC 
+[ expenditures/NNS ]
+on/IN 
+[ space/NN programs/NNS ]
+and/CC 
+[ conventional/JJ weapons/NNS ]
+important/JJ to/TO 
+[ interests/NNS ]
+at/IN 
+[ home/NN ]
+./. 
+
+======================================
+
+Among/IN 
+[ the/DT biggest/JJS beneficiaries/NNS ]
+of/IN 
+[ the/DT competition/NN ]
+was/VBD 
+[ McDonnell/NNP Douglas/NNP Corp./NNP ]
+,/, 
+[ manufacturer/NN ]
+of/IN 
+[ the/DT Army/NNP 's/POS Apache/NNP helicopter/NN ]
+,/, and/CC almost/RB 
+[ $/$ 1.49/CD billion/CD ]
+is/VBZ allocated/VBN for/IN 
+[ various/JJ shipbuilding/NN accounts/NNS ]
+,/, including/VBG 
+[ a/DT major/JJ initiative/NN ]
+to/TO expand/VB 
+[ the/DT military/NN 's/POS sealift/NN capacity/NN ]
+./. 
+
+======================================
+
+[ Sufficient/JJ SDI/NNP ]
+funding/NN is/VBZ preserved/VBN to/TO allow/VB 
+[ the/DT space-based/JJ anti-missile/JJ program/NN ]
+to/TO keep/VB 
+[ pace/NN ]
+with/IN 
+[ inflation/NN ]
+./. 
+
+But/CC 
+[ the/DT Senate/NNP appropriations/NNS level/NN ]
+--/: 
+[ $/$ 3.7/CD billion/CD ]
+--/: is/VBZ estimated/VBN to/TO be/VB 
+[ $/$ 600/CD million/CD ]
+below/IN 
+[ the/DT amount/NN ]
+first/RB authorized/VBN by/IN 
+[ the/DT Senate/NNP ]
+
+[ this/DT year/NN ]
+./. 
+
+Even/RB 
+[ the/DT GOP/NNP amendment/NN yesterday/NN ]
+sought/VBD only/RB to/TO restore/VB about/IN 
+[ half/DT ]
+,/, or/CC 
+[ $/$ 298.4/CD million/CD ]
+,/, of/IN 
+[ this/DT cut/NN ]
+,/, and/CC similarly/RB ,/, 
+[ the/DT panel/NN ]
+proposed/VBD adding/VBG back/RB only/RB 
+[ half/DT ]
+of/IN 
+[ $/$ 1.8/CD billion/CD ]
+initially/RB requested/VBN by/IN 
+[ the/DT Pentagon/NNP ]
+for/IN 
+[ D-5/NNP procurement/NN ]
+./. 
+
+======================================
+
+[ The/DT defense/NN debate/NN ]
+came/VBD as/IN 
+[ the/DT Senate/NNP ]
+gave/VBD 
+[ quick/JJ approval/NN ]
+to/TO 
+[ back-to-back/JJ fiscal/JJ 1990/CD bills/NNS ]
+covering/VBG 
+[ U.S./NNP foreign/JJ assistance/NN ]
+as/RB well/RB as/IN 
+[ the/DT Departments/NNPS ]
+of/IN 
+[ Labor/NNP ]
+,/, 
+[ Education/NNP ]
+,/, and/CC 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNPS ]
+./. 
+
+[ The/DT action/NN ]
+ends/VBZ 
+[ an/DT impasse/NN ]
+
+[ that/WDT ]
+has/VBZ prolonged/VBN 
+[ the/DT entire/JJ appropriations/NNS process/NN ]
+,/, but/CC with/IN 
+[ just/JJ days/NNS ]
+left/VBN in/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+,/, 
+[ Congress/NNP ]
+has/VBZ 
+[ no/DT expectation/NN ]
+of/IN 
+[ reaching/VBG agreement/NN ]
+on/IN 
+[ the/DT bulk/NN ]
+of/IN 
+[ fiscal/JJ 1990/CD spending/NN ]
+before/IN 
+[ the/DT deadline/NN Sunday/NNP ]
+./. 
+
+======================================
+
+By/IN 
+[ a/DT 274-152/CD margin/NN ]
+,/, 
+[ the/DT House/NNP ]
+yesterday/NN approved/VBD 
+[ a/DT stopgap/NN measure/NN ]
+to/TO keep/VB 
+[ the/DT government/NN ]
+operating/VBG through/IN 
+[ Oct./NNP 25/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ expected/VBN to/TO become/VB 
+[ the/DT new/JJ deadline/NN ]
+for/IN resolving/VBG 
+[ a/DT host/NN ]
+of/IN 
+[ budgetary/JJ issues/NNS ]
+complicated/VBN by/IN 
+[ the/DT certain/JJ threat/NN ]
+of/IN at/IN 
+[ least/JJS a/DT temporary/JJ across-the-board/JJ spending/NN ]
+cut/NN under/IN 
+[ the/DT Gramm-Rudman/NNP deficit/NN law/NN ]
+./. 
+
+======================================
+
+[ The/DT ]
+nearly/RB 
+[ $/$ 14.4/CD billion/CD foreign-assistance/NN bill/NN ]
+,/, approved/VBD 
+[ 89-11/CD ]
+,/, includes/VBZ 
+[ an/DT estimated/VBN $/$ 100/CD million/CD ]
+in/IN 
+[ economic/JJ aid/NN ]
+and/CC guarantees/NNS for/IN 
+[ Poland/NNP ]
+,/, and/CC authorizes/VBZ 
+[ the/DT Overseas/NNP Private/NNP Investment/NNP Corp./NNP ]
+to/TO begin/VB 
+[ operations/NNS ]
+in/IN 
+[ Poland/NNP ]
+and/CC 
+[ Hungary/NNP ]
+./. 
+
+======================================
+
+[ The/DT massive/JJ Labor/NNP ]
+,/, 
+[ Education/NNP ]
+and/CC 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNPS bill/NN ]
+,/, adopted/VBN 
+[ 81-19/CD ]
+,/, allocates/VBZ more/JJR than/IN 
+[ $/$ 140/CD billion/CD ]
+among/IN 
+[ major/JJ social/JJ ]
+and/CC 
+[ medical/JJ programs/NNS ]
+,/, including/VBG 
+[ a/DT 30/CD %/NN increase/NN ]
+for/IN 
+[ research/NN ]
+and/CC 
+[ treatment/NN activities/NNS ]
+for/IN 
+[ acquired/VBN immune/JJ deficiency/NN syndrome/NN ]
+./. 
+
+[ The/DT measure/NN ]
+also/RB contains/VBZ 
+[ what/WP ]
+amounts/VBZ to/TO down/JJ 
+[ payments/NNS ]
+on/IN 
+[ promised/VBN initiatives/NNS ]
+for/IN 
+[ child/NN care/NN ]
+and/CC 
+[ federal/JJ aid/NN ]
+for/IN 
+[ elementary/JJ public-school/JJ students/NNS ]
+from/IN 
+[ lower-income/JJ families/NNS ]
+./. 
+
+======================================
+
+[ The/DT Senate/NNP action/NN ]
+came/VBD as/IN 
+[ negotiators/NNS ]
+neared/VBD 
+[ an/DT agreement/NN ]
+
+[ that/WDT ]
+would/MD clear/VB 
+[ the/DT way/NN ]
+for/IN 
+[ lawmakers/NNS ]
+to/TO consider/VB 
+[ a/DT $/$ 3.1/CD billion/CD anti-drug/JJ initiatve/NN ]
+,/, adding/VBG 
+[ $/$ 900/CD million/CD ]
+to/TO 
+[ President/NNP Bush/NNP 's/POS proposals/NNS ]
+for/IN 
+[ fiscal/JJ 1990/CD ]
+and/CC imposing/VBG 
+[ an/DT 0.43/CD %/NN ]
+cut/NN on/IN 
+[ defense/NN ]
+and/CC 
+[ domestic/JJ accounts/NNS ]
+./. 
+
+[ The/DT remaining/VBG issue/NN ]
+involved/VBD 
+[ a/DT procedure/NN ]
+for/IN 
+[ Senate/NNP consideration/NN ]
+of/IN 
+[ Mr./NNP Bush/NNP 's/POS legislative/JJ anti-crime/JJ package/NN ]
+before/IN 
+[ Congress/NNP ]
+quits/VBZ for/IN 
+[ the/DT year/NN ]
+./. 
+
+======================================
+
+[ The/DT anti-drug/JJ package/NN ]
+,/, agreed/VBD to/TO by/IN 
+[ Senate/NNP Democrats/NNPS ]
+and/CC 
+[ the/DT Bush/NNP administration/NN ]
+,/, includes/VBZ about/IN 
+[ $/$ 1/CD billion/CD ]
+in/IN 
+[ new/JJ spending/VBG authority/NN ]
+for/IN 
+[ federal/JJ prison/NN construction/NN ]
+,/, 
+[ another/DT ]
+approximately/RB 
+[ $/$ 1/CD billion/CD ]
+for/IN 
+[ various/JJ treatment/NN ]
+and/CC 
+[ prevention/NN programs/NNS ]
+,/, about/IN 
+[ $/$ 806/CD million/CD ]
+for/IN 
+[ federal/JJ law-enforcement/NN ]
+and/CC 
+[ drug-interdiction/NN agencies/NNS ]
+,/, and/CC about/IN 
+[ $/$ 120/CD million/CD ]
+for/IN 
+[ the/DT federal/JJ judiciary/NN ]
+./. 

@@ -1,0 +1,1018 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1/CD ]
+./. 
+
+[ The/DT storage/NN ]
+containing/VBG 
+[ the/DT data/NN ]
+may/MD have/VB been/VBN changed/VBN ./. 
+
+[ 2/CD ]
+./. 
+
+[ SYS1LOGREC/NNP System/NNP Action/NNP ]
+:/: 
+[ 3/CD ]
+./. 
+
+If/IN 
+[ possible/JJ ]
+,/, 
+[ the/DT system/NN formats/VBZ ]
+
+[ the/DT entry/NN ]
+./. 
+
+[ 4/CD ]
+./. 
+
+[ It/PRP ]
+will/MD be/VB formatted/VBN as/IN 
+[ hexadecimal/JJ data/NNS ]
+./. 
+
+[ 5/CD ]
+./. 
+
+[ The/DT system/NN formats/VBZ ]
+
+[ the/DT entry/NN ]
+in/IN 
+[ hexadecimal/JJ ]
+and/CC 
+[ EBCDIC/NNP ]
+./. 
+
+[ 6/CD ]
+./. 
+
+Remaining/VBG 
+[ entries/NNS ]
+formatted/VBN as/IN 
+[ hexadecimal/JJ data/NNS ]
+./. 
+
+[ 7/CD ]
+./. 
+
+[ The/DT system/NN formats/VBZ all/DT remaining/VBG entries/NNS ]
+in/IN 
+[ hexadecimal/JJ ]
+and/CC 
+[ EBCDIC/NNP ]
+./. 
+
+[ 8/CD ]
+./. 
+
+[ The/DT system/NN ]
+does/VBZ not/RB 
+[ format/VB ]
+
+[ any/DT further/JJR entries/NNS ]
+./. 
+
+[ 9/CD ]
+./. 
+
+[ The/DT data/NN ]
+could/MD not/RB be/VB located/VBN ./. 
+
+[ 10/CD ]
+./. 
+
+[ The/DT system/NN ]
+does/VBZ not/RB 
+[ format/VB ]
+
+[ the/DT entry/NN ]
+./. 
+
+[ 11/CD ]
+./. 
+
+[ SYS1LOGREC/NNP Explanation/NNP ]
+:/: 
+[ 12/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB set/VB up/RP 
+[ a/DT recovery/NN environment/NN ]
+for/IN 
+[ master/NN trace/NN processing/NN ]
+./. 
+
+[ 13/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB find/VB 
+[ resources/NNS ]
+needed/VBN to/TO locate/VB 
+[ the/DT master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 14/CD ]
+./. 
+
+[ The/DT system/NN ]
+does/VBZ not/RB 
+[ format/VB ]
+
+[ the/DT master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 15/CD ]
+./. 
+
+If/IN 
+[ no/DT fix/NN ]
+exists/VBZ ,/, obtain/VB 
+[ a/DT dump/NN ]
+./. 
+
+[ 16/CD ]
+./. 
+
+[ The/DT master/NN trace/NN table/NN ]
+did/VBD not/RB exist/VB in/IN 
+[ the/DT system/NN ]
+when/WRB 
+[ the/DT dump/NN ]
+was/VBD written/VBN ./. 
+
+[ 17/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB use/VB 
+[ the/DT master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 18/CD ]
+./. 
+
+[ The/DT system/NN formats/VBZ ]
+
+[ the/DT recovery/NN master/NN trace/NN table/NN ]
+instead/RB ./. 
+
+[ 19/CD ]
+./. 
+
+[ The/DT system/NN formats/VBZ ]
+
+[ the/DT recovery/NN master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 20/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB 
+[ format/VB ]
+
+[ this/DT data/NN ]
+./. 
+
+[ 21/CD ]
+./. 
+
+[ A/DT page/NN ]
+of/IN 
+[ the/DT master/NN trace/NN table/NN ]
+is/VBZ not/RB in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 22/CD ]
+./. 
+
+[ The/DT dump/NN ]
+may/MD not/RB be/VB complete/JJ ./. 
+
+[ 23/CD ]
+./. 
+
+[ The/DT system/NN ]
+stops/VBZ formatting/VBG 
+[ the/DT master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 24/CD ]
+./. 
+
+[ The/DT system/NN ]
+may/MD have/VB formatted/VBN 
+[ a/DT portion/NN ]
+of/IN 
+[ the/DT master/NN trace/NN table/NN ]
+./. 
+
+[ 25/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB obtain/VB 
+[ the/DT storage/NN ]
+required/VBN to/TO 
+[ format/VB ]
+
+[ the/DT master/NN trace/NN table/NN ]
+./. 
+
+[ 26/CD ]
+./. 
+
+[ The/DT system/NN ]
+does/VBZ 
+[ format/VB ]
+
+[ the/DT master/NN trace/NN table/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 27/CD ]
+./. 
+
+[ The/DT system/NN ends/VBZ ]
+dump/NN formatting/VBG ./. 
+
+[ 28/CD ]
+./. 
+
+[ The/DT message/NN text/NN ]
+contains/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT following/NN ]
+:/: 
+[ 29/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT following/NN ]
+:/: 
+[ 30/CD ]
+./. 
+
+[ Depending/VBG ]
+on/IN 
+[ the/DT message/NN text/NN ]
+,/, 
+[ the/DT system/NN ]
+does/VBZ 
+[ the/DT following/NN ]
+:/: 
+[ 31/CD ]
+./. 
+
+In/IN 
+[ these/DT cases/NNS ]
+,/, 
+[ the/DT system/NN ]
+continues/VBZ formatting/VBG ./. 
+
+[ 32/CD ]
+./. 
+
+[ Depending/VBG ]
+on/IN 
+[ the/DT message/NN text/NN ]
+,/, do/VB 
+[ the/DT following/NN ]
+:/: 
+[ 33/CD ]
+./. 
+
+[ The/DT message/NN text/NN length/NN ]
+is/VBZ incorrect/JJ ./. 
+
+[ 34/CD ]
+./. 
+
+Dump/NN 
+[ analysis/NN changes/VBZ ]
+
+[ the/DT index/NN ]
+to/TO 
+[ one/CD ]
+./. 
+
+[ 35/CD ]
+./. 
+
+[ The/DT system/NN ]
+continues/VBZ 
+[ processing/VBG ]
+and/CC changes/VBZ 
+[ the/DT index/NN ]
+to/TO 
+[ one/CD ]
+./. 
+
+[ 36/CD ]
+./. 
+
+Verify/VB that/IN 
+[ the/DT correct/JJ dump/NN ]
+is/VBZ being/VBG processed/VBN ./. 
+
+[ 37/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ probably/RB 
+[ a/DT user/NN error/NN ]
+./. 
+
+[ 38/CD ]
+./. 
+
+If/IN 
+[ it/PRP ]
+is/VBZ not/RB ,/, obtain/VB 
+[ a/DT new/JJ dump/NN ]
+containing/VBG 
+[ the/DT control/NN block/NN ]
+./. 
+
+[ 39/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ an/DT error/NN ]
+for/IN 
+[ an/DT active/JJ configuration/NN ]
+./. 
+
+[ 40/CD ]
+./. 
+
+[ User/NN 's/POS Guide/NN ]
+for/IN 
+[ further/JJR information/NN ]
+about/IN 
+[ the/DT return/NN code/NN ]
+./. 
+
+[ 41/CD ]
+./. 
+
+[ The/DT formatted/VBN dump/NN data/NNS ]
+that/IN 
+[ you/PRP ]
+requested/VBD follows/VBZ 
+[ this/DT message/NN ]
+./. 
+
+[ 42/CD ]
+./. 
+
+[ This/DT message/NN ]
+marks/VBZ 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT formatted/VBN dump/NN data/NNS ]
+that/IN 
+[ you/PRP ]
+requested/VBD ./. 
+
+[ 43/CD ]
+./. 
+
+[ Specify/VB ]
+
+[ the/DT keywords/NNS ]
+so/IN that/IN only/RB 
+[ one/CD address/NN space/NN ]
+is/VBZ selected/VBN ./. 
+
+[ 44/CD ]
+./. 
+
+[ The/DT address/NN space/NN ]
+identified/VBN in/IN 
+[ the/DT message/NN text/NN ]
+was/VBD selected/VBN for/IN 
+[ data/NNS ]
+formatting/VBG ./. 
+
+[ 45/CD ]
+./. 
+
+[ This/DT message/NN ]
+is/VBZ informational/JJ ;/: 
+[ the/DT system/NN ]
+continues/VBZ 
+[ processing/VBG ]
+./. 
+
+[ 46/CD ]
+./. 
+
+Check/VB 
+[ the/DT dump/NN ]
+for/IN 
+[ the/DT error/NN ]
+described/VBN in/IN 
+[ the/DT message/NN ]
+
+[ which/WDT ]
+preceded/VBD 
+[ IKJ58639I/CD ]
+./. 
+
+[ 47/CD ]
+./. 
+
+Check/VB 
+[ the/DT dump/NN ]
+for/IN 
+[ the/DT error/NN ]
+described/VBN in/IN 
+[ message/NN IKJ58642I/CD ]
+./. 
+
+[ 48/CD ]
+./. 
+
+[ This/DT message/NN ]
+is/VBZ informational/JJ only/RB ./. 
+
+[ 49/CD ]
+./. 
+
+Look/VB at/IN 
+[ the/DT dump/NN ]
+for/IN 
+[ the/DT error/NN ]
+described/VBN in/IN 
+[ message/NN IKJ58649I/CD ]
+./. 
+
+[ 50/CD ]
+./. 
+
+[ The/DT pointer/NN ]
+to/TO 
+[ the/DT top/JJ element/NN ]
+on/IN 
+[ the/DT stack/NN ]
+should/MD contain/VB 
+[ a/DT valid/JJ address/NN ]
+./. 
+
+[ 51/CD ]
+./. 
+
+[ The/DT pointer/NN ]
+to/TO 
+[ the/DT first/JJ symbol/NN name/NN table/NN ]
+should/MD contain/VB 
+[ a/DT valid/JJ address/NN ]
+,/, but/CC 
+[ it/PRP ]
+contains/VBZ 
+[ a/DT zero/NN ]
+./. 
+
+[ 52/CD ]
+./. 
+
+Check/VB 
+[ the/DT dump/NN ]
+for/IN 
+[ the/DT error/NN ]
+described/VBN in/IN 
+[ message/NN ]
+immediately/RB preceding/VBG 
+[ IKJ58677I/CD ]
+./. 
+
+[ 53/CD ]
+./. 
+
+[ The/DT address/NN ]
+of/IN 
+[ the/DT symbol/NN value/NN ]
+is/VBZ not/RB in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ valid/JJ symbol/NN value/NN table/NN element/NN addresses/NNS ]
+./. 
+
+[ 54/CD ]
+./. 
+
+[ The/DT system/NN ]
+does/VBZ not/RB display/VB 
+[ the/DT symbol/NN value/NN ]
+for/IN 
+[ this/DT particular/JJ symbol/NN ]
+./. 
+
+[ 55/CD ]
+./. 
+
+[ The/DT system/NN ]
+displays/VBZ only/RB 
+[ the/DT first/JJ 256/CD characters/NNS ]
+of/IN 
+[ the/DT symbol/NN value/NN ]
+./. 
+
+[ 56/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ necessary/JJ to/TO process/VB 
+[ the/DT symbols/NNS keyword/NN ]
+./. 
+
+[ 57/CD ]
+./. 
+
+[ None/NN ]
+of/IN 
+[ the/DT address/NN spaces/NNS ]
+in/IN 
+[ the/DT dump/NN ]
+meet/VB 
+[ the/DT selection/NN criteria/NNS ]
+for/IN 
+[ the/DT address/NN space/NN keywords/NNS ]
+in/IN 
+[ effect/NN ]
+./. 
+
+[ 58/CD ]
+./. 
+
+Therefore/RB ,/, 
+[ the/DT global/JJ symbols/NNS ]
+can/MD not/RB be/VB displayed/VBN ./. 
+
+[ 59/CD ]
+./. 
+
+[ The/DT two/CD values/NNS ]
+do/VB not/RB match/VB ./. 
+
+[ 60/CD ]
+./. 
+
+[ No/DT data/NN ]
+will/MD be/VB formatted/VBN ./. 
+
+[ 61/CD ]
+./. 
+
+[ Control/NN blocks/NNS ]
+for/IN 
+[ the/DT specified/JJ keyword/NN ]
+will/MD not/RB be/VB displayed/VBN ./. 
+
+[ 62/CD ]
+./. 
+
+[ The/DT data/NN stack/NN ]
+will/MD not/RB be/VB displayed/VBN ./. 
+
+[ 63/CD ]
+./. 
+
+[ The/DT data/NN stack/NN ]
+will/MD be/VB displayed/VBN following/VBG 
+[ this/DT message/NN ]
+./. 
+
+[ 64/CD ]
+./. 
+
+[ The/DT address/NN ]
+of/IN 
+[ a/DT data/NN stack/NN element/NN ]
+should/MD never/RB be/VB 
+[ zero/CD ]
+./. 
+
+[ 65/CD ]
+./. 
+
+If/IN 
+[ the/DT address/NN ]
+of/IN 
+[ a/DT data/NN stack/NN element/NN ]
+is/VBZ 
+[ zero/CD ]
+,/, then/RB 
+[ the/DT data/NN stack/NN element/NN ]
+is/VBZ not/RB valid/JJ ./. 
+
+[ 66/CD ]
+./. 
+
+[ Information/NN ]
+contained/VBN in/IN 
+[ a/DT data/NN stack/NN element/NN ]
+is/VBZ not/RB 
+[ valid/JJ ]
+,/, indicating/VBG that/IN 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT data/NN stack/NN element/NN ]
+may/MD not/RB be/VB valid/JJ ./. 
+
+[ 67/CD ]
+./. 
+
+[ Contact/VB your/PRP$ system/NN programmer/NN ]
+for/IN 
+[ assistance/NN ]
+./. 
+
+[ 68/CD ]
+./. 
+
+[ A/DT control/NN block/NN ]
+was/VBD not/RB successfully/RB accessed/VBN in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 69/CD ]
+./. 
+
+[ The/DT system/NN ]
+could/MD not/RB 
+[ access/VB ]
+
+[ a/DT control/NN block/NN ]
+in/IN 
+[ the/DT dump/NN ]
+./. 
+
+[ 70/CD ]
+./. 
+
+[ The/DT system/NN ]
+detected/VB 
+[ hot/JJ I\/O/NN ]
+on/IN 
+[ a/DT device/NN ]
+./. 
+
+[ 71/CD ]
+./. 
+
+[ Message/NN BLS18058I/CD ]
+or/CC 
+[ IRA10201I/CD ]
+indicates/VBZ 
+[ the/DT error/NN ]
+./. 
+
+[ 72/CD ]
+./. 
+
+[ Confirm/VB ]
+that/IN 
+[ the/DT address/NN space/NN ]
+is/VBZ on/IN 
+[ the/DT expected/JJ queue/NN ]
+./. 
+
+[ 73/CD ]
+./. 
+
+[ Confirm/VB ]
+that/IN 
+[ this/DT description/NN ]
+matches/VBZ 
+[ the/DT expected/JJ state/NN ]
+of/IN 
+[ the/DT address/NN space/NN ]
+./. 
+
+[ 74/CD ]
+./. 
+
+[ The/DT message/NN ]
+indicates/VBZ 
+[ the/DT progress/NN ]
+of/IN 
+[ the/DT swap/NN ]
+out/RB ./. 
+
+[ 75/CD ]
+./. 
+
+[ The/DT system/NN ]
+found/VBD that/IN 
+[ it/PRP ]
+could/MD not/RB resolve/VB 
+[ a/DT forward/JJ pointer/NN ]
+./. 
+
+[ 76/CD ]
+./. 
+
+[ The/DT system/NN ]
+requested/VBD 
+[ storage/NN ]
+to/TO 
+[ format/VB resources/NNS ]
+,/, but/CC 
+[ the/DT request/NN ]
+failed/VBD ./. 
+
+[ 77/CD ]
+./. 
+
+[ The/DT system/NN ]
+has/VBZ 
+[ no/DT global/JJ resources/NNS ]
+allocated/VBN ./. 
+
+[ 78/CD ]
+./. 
+
+During/IN 
+[ processing/NN ]
+,/, 
+[ the/DT system/NN ]
+detected/VBD 
+[ damage/NN ]
+to/TO 
+[ a/DT control/NN block/NN ]
+./. 
+
+[ 79/CD ]
+./. 
+
+Ask/VB for/IN 
+[ a/DT different/JJ trace/NN ]
+to/TO be/VB processed/VBN ./. 
+
+[ 80/CD ]
+./. 
+
+If/IN 
+[ an/DT installation/NN exit/NN ]
+specified/VBD 
+[ them/PRP ]
+,/, check/VB 
+[ their/PRP$ spelling/NN ]
+./. 
+
+[ 81/CD ]
+./. 
+
+[ A/DT trace/NN entry/NN ]
+contains/VBZ 
+[ a/DT format/NN ID/NN ]
+
+[ which/WDT ]
+could/MD not/RB be/VB found/VBN in/IN 
+[ the/DT format/NN table/NN ]
+./. 
+
+[ 82/CD ]
+./. 
+
+[ The/DT time/NN range/NN ]
+requested/VBN by/IN 
+[ the/DT user/NN ]
+is/VBZ outside/IN 
+[ the/DT range/NN ]
+of/IN 
+[ times/NNS ]
+in/IN 
+[ the/DT trace/NN entries/NNS ]
+./. 
+
+[ 83/CD ]
+./. 
+
+[ A/DT format/NN table/NN ]
+for/IN 
+[ the/DT requested/VBN trace/NN ]
+is/VBZ either/RB not/RB specified/VBN or/CC could/MD not/RB be/VB loaded/VBN ./. 
+
+[ 84/CD ]
+./. 
+
+[ No/DT definition/NN ]
+was/VBD found/VBN for/IN 
+[ the/DT specified/VBN trace/NN ]
+./. 
+
+[ 85/CD ]
+./. 
+
+[ Specify/VB ]
+
+[ a/DT different/JJ trace/NN ]
+to/TO 
+[ process/VB ]
+./. 
+
+[ 86/CD ]
+./. 
+
+[ The/DT system/NN ]
+stops/VBZ 
+[ processing/VBG ]
+of/IN 
+[ data-in-virtual/JJ data/NNS ]
+for/IN 
+[ the/DT address/NN space/NN ]
+and/CC will/MD not/RB process/VB 
+[ any/DT further/JJR local/JJ data-in-virtual/JJ data/NNS ]
+./. 
+
+[ 87/CD ]
+./. 
+
+[ That/DT trace/NN table/NN ]
+is/VBZ 
+[ no/DT ]
+longer/RB 
+[ available/JJ ]
+,/, so/IN 
+[ any/DT subsequent/JJ data-in-virtual/JJ trace/NN table/NN entries/NNS ]
+were/VBD put/VBN in/IN 
+[ a/DT new/JJ table/NN ]
+./. 
+
+[ 88/CD ]
+./. 
+
+If/IN 
+[ the/DT incorrect/JJ length/NN field/NN ]
+is/VBZ 
+[ the/DT first/JJ word/NN ]
+of/IN 
+[ the/DT hex/NN dump/NN ]
+,/, 
+[ the/DT message/NN ]
+displays/VBZ up/IN to/TO 
+[ 1024/CD bytes/NNS ]
+of/IN 
+[ the/DT trace/NN table/NN ]
+preceding/VBG 
+[ the/DT first/JJ word/NN ]
+./. 
+
+[ 89/CD ]
+./. 
+
+[ The/DT member/NN state/NN ]
+for/IN 
+[ the/DT current/JJ member/NN ]
+did/VBD not/RB match/VB 
+[ the/DT status/NN ]
+of/IN 
+[ the/DT group/NN exit/NN ]
+./. 
+
+[ 90/CD ]
+./. 
+
+[ The/DT member/NN state/NN ]
+for/IN 
+[ the/DT current/JJ member/NN ]
+is/VBZ not/RB valid/JJ ./. 
+
+[ 91/CD ]
+./. 
+
+[ It/PRP ]
+must/MD be/VB 
+[ either/CC zero/NN ]
+or/CC 
+[ a/DT full/JJ second/JJ multiple/JJ ]
+./. 
+
+[ 92/CD ]
+./. 
+
+Preceding/VBG 
+[ message/NN IXC80305I/CD ]
+or/CC 
+[ IXC80306I/CD ]
+explains/VBZ 
+[ the/DT error/NN ]
+./. 
+
+[ 93/CD ]
+./. 
+
+[ The/DT system/NN ]
+found/VBD 
+[ permanent/JJ error/NN ]
+processing/VBG 
+[ either/CC active/JJ ]
+or/CC 
+[ inactive/JJ ]
+for/IN 
+[ the/DT data/NN set/NN ]
+./. 
+
+[ 94/CD ]
+./. 
+
+[ The/DT system/NN ]
+entered/VBD 
+[ a/DT wait/NN state/NN ]
+./. 
+
+[ 95/CD ]
+./. 
+
+[ The/DT problem/NN ]
+is/VBZ explained/VBN in/IN 
+[ the/DT text/NN ]
+./. 
+
+[ 96/CD ]
+./. 
+
+See/VB 
+[ the/DT system/NN programmer/NN response/NN ]
+for/IN 
+[ the/DT wait/NN state/NN code/NN ]
+./. 
+
+[ 97/CD ]
+./. 
+
+[ The/DT message/NN ]
+contains/VBZ 
+[ a/DT hexadecimal/JJ dump/NN ]
+of/IN 
+[ the/DT specified/VBN data/NN area/NN ]
+./. 
+
+[ 98/CD ]
+./. 
+
+[ They/PRP ]
+are/VBP listed/VBN alphabetically/RB below/RB ./. 
+
+[ 99/CD ]
+./. 
+
+[ System/NN programmers/NNS ]
+and/CC 
+[ IBM/NNP system/NN support/NN personnel/NNS ]
+may/MD also/RB find/VB 
+[ this/DT book/NN ]
+useful/JJ ./. 
+
+[ 100/CD ]
+./. 
+
+[ The/DT CMS/NNP programming/NN interface/NN ]
+is/VBZ 
+[ a/DT way/NN ]
+for/IN 
+[ you/PRP ]
+to/TO get/VB 
+[ CMS/NNP ]
+to/TO do/VB 
+[ work/NN ]
+for/IN 
+[ you/PRP ]
+./. 

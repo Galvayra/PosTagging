@@ -1,0 +1,992 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ the/DT early/JJ 1970s/NNS ]
+,/, 
+[ Zenith/NNP Electronics/NNP Corp./NNP ]
+designed/VBD 
+[ the/DT ultimate/JJ portable/JJ radio/NN ]
+:/: 
+[ Matchbook-sized/JJ ]
+,/, 
+[ it/PRP ]
+would/MD be/VB worn/VBN like/IN 
+[ a/DT pendant/NN ]
+,/, 
+[ its/PRP$ antenna/NN ]
+doubling/VBG as/IN 
+[ a/DT chain/NN ]
+./. 
+
+[ An/DT earphone/NN ]
+carried/VBD 
+[ music/NN ]
+to/TO 
+[ the/DT ear/NN ]
+./. 
+
+======================================
+
+But/CC ``/`` 
+[ My/PRP$ Radio/NN ]
+''/'' was/VBD owl-shaped/JJ ,/, and/CC 
+[ Zenith/NNP executives/NNS ]
+thought/VBD 
+[ it/PRP ]
+looked/VBD like/IN 
+[ a/DT ridiculous/JJ toy/NN ]
+./. 
+
+[ They/PRP ]
+killed/VBD 
+[ the/DT project/NN ]
+and/CC donated/VBD 
+[ thousands/NNS ]
+of/IN 
+[ the/DT gizmos/NNS ]
+to/TO 
+[ veterans/NNS '/POS hospitals/NNS ]
+./. 
+
+[ A/DT decade/NN ]
+later/RBR ,/, 
+[ Sony/NNP ]
+started/VBD 
+[ a/DT revolution/NN ]
+with/IN 
+[ its/PRP$ Walkman/NNP radio/NN ]
+,/, and/CC 
+[ Zenith/NNP ]
+watched/VBD as/IN 
+[ Asian/JJ companies/NNS ]
+snatched/VBD away/RB yet/RB 
+[ another/DT chunk/NN ]
+of/IN 
+[ the/DT market/NN ]
+
+[ it/PRP ]
+had/VBD pioneered/VBN since/IN 
+======================================
+
+[ That/DT kind/NN ]
+of/IN 
+[ experience/NN ]
+in/IN 
+[ the/DT 1970s/NNS ]
+in/IN 
+[ consumer/NN electronics/NNS ]
+led/VBD 
+[ Zenith/NNP ]
+to/TO diversify/VB into/IN 
+[ computers/NNS ]
+./. 
+
+In/IN 
+[ the/DT last/JJ decade/NN ]
+
+[ it/PRP ]
+built/VBD 
+[ a/DT profitable/JJ billion-dollar/JJ personal-computer/JJ business/NN ]
+,/, at/IN 
+[ the/DT expense/NN ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ those/DT same/JJ foreign/JJ competitors/NNS ]
+./. 
+
+======================================
+
+Now/RB 
+[ Zenith/NNP ]
+suddenly/RB is/VBZ reversing/VBG 
+[ course/NN ]
+by/IN chucking/VBG 
+[ the/DT computer/NN business/NN ]
+
+[ that/WDT ]
+became/VBD 
+[ its/PRP$ crown/NN jewel/NN ]
+./. 
+
+With/IN 
+[ the/DT proposed/VBN $/$ 635/CD million/CD sale/NN ]
+of/IN 
+[ that/DT unit/NN ]
+to/TO 
+[ Cie./NNP des/NNP Machines/NNP Bull/NNP ]
+of/IN 
+[ France/NNP ]
+,/, 
+[ Zenith/NNP ]
+is/VBZ returning/VBG to/TO 
+[ its/PRP$ roots/NNS ]
+./. 
+
+[ It/PRP ]
+wants/VBZ to/TO focus/VB exclusively/RB on/IN making/VBG 
+[ a/DT success/NN ]
+of/IN 
+[ its/PRP$ struggling/VBG television/NN business/NN ]
+,/, pinning/VBG 
+[ its/PRP$ fortunes/NNS ]
+on/IN 
+[ an/DT emerging/VBG technology/NN system/NN ]
+--/: 
+[ high-definition/JJ television/NN ]
+--/: 
+[ that/WDT ]
+promises/VBZ 
+[ pictures/NNS ]
+as/RB clear/JJ as/IN 
+[ 35mm/CD slides/NNS ]
+./. 
+
+======================================
+
+[ The/DT change/NN ]
+of/IN 
+[ direction/NN ]
+is/VBZ risky/JJ ./. 
+
+Over/IN 
+[ the/DT years/NNS ]
+,/, 
+[ one/CD ]
+after/IN 
+[ another/DT U.S./NNP TV/NN maker/NN ]
+--/: from/IN 
+[ Motorola/NNP Inc./NNP ]
+to/TO 
+[ General/NNP Electric/NNP Co./NNP ]
+--/: has/VBZ left/VBN 
+[ the/DT business/NN ]
+as/IN 
+[ foreign/JJ makers/NNS ]
+invaded/VBD 
+[ the/DT market/NN ]
+with/IN 
+[ state-of-the-art/JJ sets/NNS ]
+and/CC 
+[ cut-rate/JJ prices/NNS ]
+./. 
+
+[ Zenith/NNP ]
+has/VBZ stubbornly/RB held/VBN on/RP ,/, even/RB as/IN 
+[ it/PRP ]
+posted/VBD 
+[ losses/NNS ]
+totaling/VBG 
+[ $/$ 42/CD million/CD ]
+since/IN 
+[ 1985/CD ]
+and/CC saw/VBD 
+[ its/PRP$ share/NN ]
+of/IN 
+[ the/DT U.S./NNP color/NN TV/NN market/NN shrink/VB ]
+to/TO 
+[ 12/CD %/NN ]
+from/IN 
+[ 18.5/CD %/NN ]
+in/IN 
+[ the/DT past/JJ seven/CD years/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT chances/NNS ]
+are/VBP 
+[ 95/CD %/NN ]
+that/IN 
+[ they/PRP ]
+'ll/MD fail/VB ,/, ''/'' predicts/VBZ 
+[ George/NNP Stalk/NNP ]
+,/, 
+[ a/DT consultant/NN ]
+at/IN 
+[ Boston/NNP Consulting/NNP Group/NNP ]
+,/, 
+[ which/WDT ]
+specializes/VBZ in/IN analyzing/VBG 
+[ competitive/JJ strategies/NNS ]
+./. 
+
+[ He/PRP ]
+questions/VBZ ,/, for/IN 
+[ instance/NN ]
+,/, whether/IN 
+[ Zenith/NNP ]
+can/MD keep/VB 
+[ pace/NN ]
+with/IN 
+[ the/DT rapid/JJ changes/NNS ]
+in/IN 
+[ TV/NN technology/NN ]
+,/, when/WRB 
+[ stronger/JJR competitors/NNS ]
+far/RB outspend/VBP 
+[ it/PRP ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, while/IN 
+[ Zenith/NNP ]
+spent/VBD 
+[ $/$ 100.6/CD million/CD ]
+for/IN 
+[ research/NN ]
+and/CC engineering/NN ,/, 
+[ some/DT ]
+of/IN 
+[ its/PRP$ Japanese/JJ ]
+and/CC 
+[ French/JJ ]
+rivals/NNS 
+[ each/DT ]
+spent/VBD nearly/RB 
+[ $/$ 1/CD billion/CD ]
+on/IN 
+[ that/DT ]
+./. 
+
+======================================
+
+Not/RB even/RB 
+[ Zenith/NNP Chairman/NNP Jerry/NNP K./NNP Pearlman/NNP ]
+is/VBZ 
+[ all/DT ]
+that/RB 
+[ confident/JJ ]
+./. 
+
+[ The/DT 50-year-old/JJ chief/JJ executive/JJ officer/NN ]
+,/, asked/VBN in/IN 
+[ July/NNP ]
+when/WRB 
+[ Zenith/NNP 's/POS business/NN ]
+might/MD turn/VB around/RP ,/, said/VBD 
+[ the/DT answer/NN ]
+clearly/RB hinges/VBZ on/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ TV/NN prices/NNS ]
+./. 
+
+``/`` 
+[ My/PRP$ crystal/NN ball/NN ]
+is/VBZ n't/RB clear/JJ ./. 
+
+[ It/PRP ]
+'s/VBZ been/VBN cloudy/JJ for/IN 
+[ 15/CD years/NNS ]
+./. 
+
+''/'' 
+[ Zenith/NNP ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, requires/VBZ 
+[ a/DT ]
+``/`` 
+[ responsible/JJ pricing/NN environment/NN ]
+''/'' --/: 
+[ something/NN ]
+over/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+clearly/RB has/VBZ 
+[ no/DT control/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ Zenith/NNP ]
+can/MD persevere/VB ,/, 
+[ high-definition/JJ TV/NN ]
+could/MD be/VB 
+[ its/PRP$ savior/NN ]
+./. 
+
+Although/IN 
+[ Japanese/JJ firms/NNS ]
+took/VBD 
+[ an/DT early/JJ lead/NN ]
+developing/VBG 
+[ the/DT technology/NN ]
+,/, 
+[ European/JJ ]
+and/CC 
+[ U.S./NNP rivals/NNS ]
+are/VBP scrambling/VBG to/TO come/VB up/RP with/IN 
+[ their/PRP$ own/JJ systems/NNS ]
+./. 
+
+======================================
+
+[ Zenith/NNP ]
+is/VBZ betting/VBG that/IN 
+[ Uncle/NNP Sam/NNP ]
+--/: swayed/VBN in/IN 
+[ part/NN ]
+by/IN 
+[ patriotic/JJ pride/NN ]
+and/CC 
+[ a/DT fear/NN ]
+
+[ the/DT U.S./NNP electronic/JJ industry/NN 's/POS future/NN ]
+rests/VBZ on/IN 
+[ HDTV/NNP ]
+--/: will/MD favor/VB 
+[ its/PRP$ system/NN ]
+./. 
+
+[ Zenith/NNP ]
+boasts/VBZ that/IN 
+[ its/PRP$ system/NN ]
+takes/VBZ 
+[ full/JJ advantage/NN ]
+of/IN 
+[ unused/JJ TV/NN channels/NNS ]
+for/IN 
+[ broadcasting/NN ]
+,/, without/IN affecting/VBG 
+[ existing/VBG channels/NNS ]
+./. 
+
+In/IN 
+[ any/DT case/NN ]
+,/, 
+[ the/DT Federal/NNP Communications/NNP Commission/NNP ]
+already/RB has/VBZ said/VBD 
+[ the/DT new/JJ system/NN ]
+must/MD n't/RB make/VB 
+[ current/JJ TV/NN sets/NNS ]
+obsolete/JJ ./. 
+
+======================================
+
+While/IN 
+[ Mr./NNP Pearlman/NNP ]
+insists/VBZ 
+[ Zenith/NNP ]
+is/VBZ in/IN 
+[ high-definition/JJ TV/NN ]
+to/TO stay/VB --/: with/IN or/CC without/IN 
+[ government/NN help/NN ]
+--/: 
+[ it/PRP ]
+'s/VBZ clear/RB 
+[ the/DT company/NN ]
+ca/MD n't/RB do/VB 
+[ it/PRP ]
+alone/RB ./. 
+
+Short/RB on/IN 
+[ cash/NN ]
+,/, 
+[ Zenith/NNP ]
+already/RB has/VBZ reached/VBN to/TO 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+to/TO help/VB develop/VB 
+[ its/PRP$ system/NN ]
+./. 
+
+And/CC in/IN 
+[ May/NNP ]
+,/, 
+[ Mr./NNP Pearlman/NNP ]
+asked/VBD 
+[ the/DT government/NN ]
+to/TO 
+[ tax/VB color/NN television/NN sales/NNS ]
+--/: at/IN 
+[ $/$ 5/CD ]
+
+[ a/DT set/NN ]
+--/: to/TO raise/VB 
+[ $/$ 100/CD million/CD ]
+for/IN 
+[ a/DT trust/NN fund/NN ]
+for/IN 
+[ HDTV/NNP research/NN ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+ (/( 
+[ Zenith/NNP ]
+says/VBZ 
+[ it/PRP ]
+plans/VBZ to/TO spend/VB 
+[ some/DT ]
+of/IN 
+[ the/DT proceeds/NNS ]
+from/IN 
+[ the/DT proposed/VBN computer-unit/JJ sale/NN ]
+for/IN 
+[ such/JJ research/NN ]
+./. 
+
+ )/) 
+======================================
+
+Even/RB with/IN 
+[ U.S./NNP help/NN ]
+,/, 
+[ any/DT reward/NN ]
+for/IN 
+[ Zenith/NNP ]
+in/IN 
+[ high-definition/JJ TV/NN ]
+is/VBZ 
+[ years/NNS ]
+away/RB ./. 
+
+[ Consumers/NNS ]
+are/VBP n't/RB expected/VBN to/TO see/VB 
+[ the/DT expensive/JJ sets/NNS ]
+in/IN 
+[ their/PRP$ local/JJ electronics/NNS ]
+store/NN until/IN at/IN 
+[ least/JJS 1993/CD ]
+./. 
+
+Then/RB 
+[ the/DT technology/NN ]
+could/MD take/VB 
+[ years/NNS ]
+to/TO catch/VB on/RP ./. 
+
+After/IN 
+[ all/DT ]
+,/, 
+[ it/PRP ]
+took/VBD 
+[ color/NN TV/NN ]
+
+[ a/DT decade/NN ]
+to/TO reach/VB 
+[ annual/JJ sales/NNS ]
+of/IN 
+[ one/CD million/CD units/NNS ]
+./. 
+
+ (/( With/IN 
+[ 1988/CD sales/NNS ]
+of/IN 
+[ 20/CD million/CD sets/NNS ]
+,/, 
+[ color/NN TV/NN ]
+is/VBZ now/RB in/IN 
+[ 95/CD %/NN ]
+of/IN 
+[ U.S./NNP households/NNS ]
+./. 
+
+ )/) 
+======================================
+
+In/IN 
+[ the/DT meantime/NN ]
+,/, 
+[ Zenith/NNP ]
+must/MD survive/VB 
+[ the/DT industry/NN 's/POS perennial/JJ wars/NNS ]
+--/: and/CC 
+[ history/NN ]
+is/VBZ against/IN 
+[ it/PRP ]
+./. 
+
+In/IN 
+[ the/DT last/JJ two/CD decades/NNS ]
+,/, 
+[ Asian/JJ nations/NNS ]
+took/VBD 
+[ advantage/NN ]
+of/IN 
+[ their/PRP$ low/JJ production/NN costs/NNS ]
+to/TO sell/VB 
+[ TVs/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+at/IN 
+[ bargain/NN prices/NNS ]
+./. 
+
+[ That/DT trend/NN ]
+accelerated/VBD as/IN 
+[ the/DT growing/VBG number/NN ]
+of/IN 
+[ discount/NN electronics/NNS store/NN chains/NNS ]
+demanded/VBD 
+[ special/JJ deals/NNS ]
+./. 
+
+======================================
+
+Recurring/VBG 
+[ predictions/NNS ]
+of/IN 
+[ higher/JJR prices/NNS ]
+were/VBD trashed/VBN ,/, as/IN 
+[ foreign/JJ competitors/NNS ]
+found/VBD 
+[ ways/NNS ]
+to/TO make/VB 
+[ TVs/NNS ]
+more/RBR efficiently/RB ./. 
+
+By/IN 
+[ last/JJ year/NN ]
+,/, 
+[ the/DT average/JJ retail/JJ price/NN ]
+of/IN 
+[ a/DT color/NN TV/NN ]
+was/VBD 
+[ $/$ 411/CD ]
+--/: well/RB below/IN 
+[ the/DT $/$ 560/CD price/NN tag/NN ]
+in/IN 
+[ 1965/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT TV/NN business/NN today/NN ]
+is/VBZ 
+[ a/DT dog-eat-dog/JJ business/NN ]
+,/, ''/'' says/VBZ 
+[ Michael/NNP McLaughlin/NNP ]
+,/, 
+[ a/DT Booz-Allen/NNP ]
+&/CC 
+[ Hamilton/NNP Inc./NNP consultant/NN ]
+in/IN 
+[ Chicago/NNP ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ more/JJR people/NNS ]
+entering/VBG 
+[ this/DT business/NN ]
+than/IN leaving/VBG 
+[ it/PRP ]
+,/, principally/RB from/IN 
+[ other/JJ Asian/JJ countries/NNS ]
+,/, such/JJ as/IN 
+[ Korea/NNP ]
+./. 
+
+''/'' 
+======================================
+
+Facing/VBG 
+[ the/DT brutal/JJ competition/NN ]
+,/, 
+[ most/JJS TV/NN producers/NNS ]
+got/VBD 
+[ bigger/JJR ]
+or/CC got/VBD out/RB ./. 
+
+[ Motorola/NNP ]
+sold/VBD 
+[ its/PRP$ TV/NN operation/NN ]
+to/TO 
+[ Matsushita/NNP Electric/NNP Industrial/NNP Co./NNP ]
+of/IN 
+[ Japan/NNP ]
+,/, opting/VBG to/TO take/VB on/RP 
+[ the/DT Japanese/NNS ]
+in/IN 
+[ other/JJ areas/NNS ]
+such/JJ as/IN 
+[ electronic/JJ pagers/NNS ]
+./. 
+
+[ GTE/NNP Corp./NNP ]
+sold/VBD 
+[ its/PRP$ Sylvania/NNP business/NN ]
+to/TO 
+[ Philips/NNP Industries/NNP N.V./NNP ]
+of/IN 
+[ the/DT Netherlands/NNP ]
+to/TO concentrate/VB on/IN 
+[ the/DT telephone/NN business/NN ]
+./. 
+
+And/CC 
+[ General/NNP Electric/NNP ]
+acquired/VBD 
+[ RCA/NNP ]
+before/IN selling/VBG 
+[ the/DT combined/VBN consumer-electronics/NNS operations/NNS ]
+to/TO 
+[ Thomson/NNP S.A/NNP ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ giants/NNS ]
+like/IN 
+[ Thomson/NNP ]
+and/CC 
+[ Philips/NNP ]
+now/RB market/VBP globally/RB 
+[ several/JJ brands/NNS ]
+over/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+can/MD spread/VB 
+[ research/NN ]
+and/CC 
+[ development/NN costs/NNS ]
+./. 
+
+[ They/PRP ]
+and/CC 
+[ their/PRP$ Japanese/JJ rivals/NNS ]
+also/RB can/MD take/VB 
+[ advantage/NN ]
+of/IN 
+[ sheer/JJ size/NN ]
+to/TO make/VB 
+[ key/JJ TV/NN components/NNS ]
+like/IN 
+[ semiconductor/NN chips/NNS ]
+./. 
+
+======================================
+
+Thus/RB ,/, 
+[ Zenith/NNP ]
+persevered/VBD in/IN 
+[ its/PRP$ sole/JJ U.S./NNP market/NN ]
+and/CC with/IN 
+[ its/PRP$ one/CD TV/NN brand/NN ]
+--/: but/CC not/RB without/IN 
+[ cost/NN ]
+./. 
+
+Losing/VBG 
+[ money/NN year/NN ]
+after/IN 
+[ year/NN ]
+,/, 
+[ the/DT consumer-electronics/JJ unit/NN ]
+was/VBD forced/VBN to/TO buy/VB 
+[ its/PRP$ video-cassette/NN recorders/NNS ]
+and/CC 
+[ camcorders/NNS ]
+from/IN 
+[ Victor/NNP Co./NNP ]
+of/IN 
+[ Japan/NNP ]
+,/, 
+[ which/WDT ]
+slapped/VBD 
+[ the/DT Zenith/NNP name/NN ]
+on/IN 
+[ them/PRP ]
+./. 
+
+In/IN 
+[ 1983/CD ]
+,/, 
+[ Zenith/NNP ]
+introduced/VBD 
+[ the/DT industry/NN 's/POS biggest/JJS TV/NN tube/NN ]
+,/, 
+[ a/DT 27-incher/CD ]
+,/, but/CC since/IN then/RB ,/, 
+[ the/DT Japanese/NNS ]
+have/VBP dominated/VBN 
+[ the/DT big-tube/JJ market/NN ]
+./. 
+
+And/CC 
+[ Thomson/NNP ]
+recently/RB announced/VBD 
+[ a/DT $/$ 75/CD million/CD effort/NN ]
+to/TO grab/VB 
+[ a/DT share/NN ]
+of/IN 
+[ that/DT market/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ it/PRP ]
+still/RB benefits/VBZ from/IN 
+[ a/DT familiar/JJ name/NN ]
+and/CC 
+[ a/DT broad/JJ product/NN line/NN ]
+,/, 
+[ Zenith/NNP ]
+now/RB is/VBZ 
+[ a/DT distant/JJ No./NN 2/CD ]
+in/IN 
+[ the/DT U.S./NNP TV/NN market/NN ]
+to/TO 
+[ Thomson/NNP ]
+./. 
+
+And/CC 
+[ it/PRP ]
+'s/VBZ being/VBG chased/VBN from/IN 
+[ behind/NN ]
+./. 
+
+[ Some/DT 33/CD brands/NNS ]
+,/, including/VBG 
+[ Sony/NNP ]
+,/, 
+[ Sharp/NNP ]
+,/, 
+[ Goldstar/NNP ]
+and/CC 
+[ Samsung/NNP ]
+,/, vie/VBP for/IN 
+[ 95/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP market/NN ]
+,/, according/VBG to/TO 
+[ TV/NNP Digest/NNP ]
+,/, 
+[ which/WDT ]
+compiles/VBZ 
+[ market-share/JJ data/NNS ]
+./. 
+
+======================================
+
+[ The/DT sale/NN ]
+of/IN 
+[ the/DT computer/NN business/NN ]
+--/: 
+[ which/WDT ]
+still/RB must/MD be/VB cleared/VBN by/IN 
+[ regulators/NNS ]
+and/CC 
+[ Zenith/NNP shareholders/NNS ]
+--/: reflects/VBZ 
+[ Mr./NNP Pearlman/NNP 's/POS dearth/NN ]
+of/IN 
+[ options/NNS ]
+./. 
+
+Although/IN 
+[ several/JJ companies/NNS ]
+in/IN 
+[ the/DT past/JJ year/NN ]
+or/CC so/RB have/VBP investigated/VBN buying/VBG 
+[ Zenith/NNP 's/POS consumer-electronics/NNS business/NN ]
+,/, 
+[ they/PRP ]
+concluded/VBD 
+[ it/PRP ]
+would/MD take/VB 
+[ huge/JJ investments/NNS ]
+to/TO turn/VB 
+[ it/PRP ]
+around/RP ./. 
+
+When/WRB 
+[ offers/NNS ]
+came/VBD ,/, 
+[ Zenith/NNP ]
+considered/VBD 
+[ them/PRP ]
+far/RB too/RB low/JJ ./. 
+
+======================================
+
+And/CC recently/RB ,/, 
+[ Zenith/NNP 's/POS chance/NN ]
+to/TO get/VB 
+[ a/DT good/JJ price/NN ]
+for/IN 
+[ its/PRP$ computer/NN business/NN ]
+began/VBD to/TO erode/VB ./. 
+
+Although/IN 
+[ the/DT Zenith/NNP Data/NNP Systems/NNP unit/NN ]
+sits/VBZ atop/IN 
+[ the/DT fast-growing/JJ market/NN ]
+for/IN 
+[ battery-operated/JJ laptop/NN computers/NNS ]
+,/, 
+[ its/PRP$ market/NN share/NN slips/VBZ ]
+
+[ each/DT time/NN giants/NNS ]
+such/JJ as/IN 
+[ Compaq/NNP Computer/NNP Corp./NNP ]
+and/CC 
+[ Apple/NNP Computer/NNP Inc./NNP ]
+enter/VBP 
+[ the/DT fray/NN ]
+./. 
+
+[ An/DT individual/NN ]
+involved/VBN in/IN 
+[ Zenith/NNP 's/POS bargaining/NN ]
+with/IN 
+[ Bull/NNP ]
+says/VBZ 
+[ price/NN ]
+was/VBD 
+[ the/DT big/JJ sticking/VBG point/NN ]
+on/IN 
+[ the/DT computer/NN unit/NN 's/POS sale/NN ]
+:/: 
+[ The/DT two/CD sides/NNS ]
+had/VBD to/TO keep/VB lowering/VBG 
+[ it/PRP ]
+as/IN 
+[ Zenith/NNP 's/POS outlook/NN ]
+dimmed/VBD ./. 
+
+[ A/DT Zenith/NNP spokesman/NN ]
+says/VBZ ``/`` ranges/NNS of/IN 
+[ value/NN ]
+''/'' were/VBD exchanged/VBN by/IN 
+[ the/DT two/CD sides/NNS ]
+,/, but/CC declines/VBZ to/TO say/VB if/IN 
+[ the/DT figures/NNS ]
+were/VBD lowered/VBN over/IN 
+[ time/NN ]
+./. 
+
+======================================
+
+[ Proceeds/NNS ]
+from/IN 
+[ the/DT sale/NN ]
+would/MD provide/VB 
+[ some/DT breathing/NN room/NN ]
+for/IN 
+[ Zenith/NNP ]
+,/, 
+[ laden/JJ ]
+with/IN nearly/RB 
+[ $/$ 600/CD million/CD ]
+of/IN borrowing/NN ./. 
+
+[ Lenders/NNS ]
+and/CC 
+[ vendors/NNS ]
+grew/VBD 
+[ anxious/JJ ]
+,/, as/IN 
+[ rating/NN agencies/NNS ]
+downgraded/VBD 
+[ Zenith/NNP 's/POS debt/NN ]
+and/CC threatened/VBD to/TO lower/VB 
+[ it/PRP ]
+
+[ another/DT notch/NN ]
+
+[ this/DT fall/NN ]
+./. 
+
+======================================
+
+Erasing/VBG 
+[ that/DT debt/NN ]
+,/, coupled/VBN with/IN 
+[ a/DT recent/JJ modest/JJ upturn/NN ]
+in/IN 
+[ TV/NN prices/NNS ]
+and/CC 
+[ brisk/JJ picture-tube/JJ sales/NNS ]
+,/, gives/VBZ 
+[ Zenith/NNP ]
+
+[ a/DT chance/NN ]
+to/TO turn/VB 
+[ a/DT profit/NN ]
+next/IN 
+[ year/NN ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ Zenith/NNP ]
+says/VBZ 
+[ it/PRP ]
+would/MD have/VB been/VBN profitable/JJ in/IN 
+[ the/DT last/JJ 12/CD months/NNS ]
+if/IN 
+[ it/PRP ]
+had/VBD n't/RB incurred/VBN 
+[ the/DT hefty/JJ interest/NN expense/NN ]
+on/IN 
+[ its/PRP$ debt/NN load/NN ]
+./. 
+
+But/CC if/IN 
+[ TV/NN sales/NNS slump/VB ]
+or/CC 
+[ prices/NNS ]
+ease/VB ,/, 
+[ Zenith/NNP ]
+could/MD be/VB back/RB in/IN 
+[ a/DT familiar/JJ position/NN ]
+:/: 
+[ losing/VBG money/NN ]
+and/CC 
+[ market/NN share/NN ]
+./. 
+
+For/IN 
+[ Mr./NNP Pearlman/NNP ]
+,/, 
+[ the/DT cut-throat/JJ competition/NN ]
+has/VBZ taken/VBN 
+[ its/PRP$ toll/NN ]
+./. 
+
+With/IN 
+[ little/JJ ]
+to/TO show/VB after/IN 
+[ six/CD years/NNS ]
+at/IN 
+[ the/DT helm/NN ]
+,/, 
+[ he/PRP ]
+laments/VBZ :/: ``/`` 
+[ We/PRP ]
+neglected/VBD along/IN 
+[ the/DT way/NN ]
+to/TO find/VB 
+[ a/DT cash/NN cow/NN ]
+./. 

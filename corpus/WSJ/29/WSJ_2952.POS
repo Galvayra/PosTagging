@@ -1,0 +1,294 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Yields/NNS ]
+on/IN 
+[ certificates/NNS ]
+of/IN 
+[ deposits/NNS ]
+offered/VBN to/TO 
+[ consumers/NNS ]
+by/IN 
+[ major/JJ banks/NNS ]
+were/VBD little/RB changed/JJ in/IN 
+[ the/DT latest/JJS week/NN ]
+,/, but/CC 
+[ those/DT ]
+on/IN 
+[ large-deposit/JJ issues/NNS ]
+plummeted/VBD ./. 
+
+======================================
+
+[ The/DT average/JJ one-year/JJ CD/NN ]
+targeted/VBN at/IN 
+[ consumers/NNS ]
+gained/VBD 
+[ 0.01/CD ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+to/TO 
+[ 8.16/CD %/NN ]
+./. 
+
+[ The/DT average/JJ six-month/JJ issue/NN ]
+was/VBD down/IN 
+[ the/DT same/JJ amount/NN ]
+at/IN 
+[ 8.12/CD %/NN ]
+,/, according/VBG to/TO 
+[ Banxquote/NNP Money/NNP Markets/NNPS ]
+,/, 
+[ a/DT New/NNP York/NNP information/NN service/NN ]
+./. 
+
+[ These/DT consumer/NN CDs/NNS ]
+usually/RB have/VBP 
+[ minimum/JJ deposit/NN requirements/NNS ]
+below/IN 
+[ $/$ 50,000/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ Consumer/NN CDs/NNS ]
+from/IN 
+[ major/JJ banks/NNS ]
+are/VBP still/RB resisting/VBG 
+[ a/DT fall/NN ]
+,/, ''/'' said/VBD 
+[ Norberto/NNP Mehl/NNP ]
+,/, 
+[ Banxquote/NNP 's/POS chairman/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ the/DT resistance/NN ]
+is/VBZ 
+[ a/DT result/NN ]
+of/IN ``/`` 
+[ this/DT very/RB heavy/JJ rollover/NN period/NN ]
+''/'' of/IN 
+[ October/NNP ]
+,/, when/WRB 
+[ a/DT huge/JJ amount/NN ]
+of/IN 
+[ CDs/NNS ]
+is/VBZ maturing/VBG and/CC 
+[ banks/NNS ]
+are/VBP trying/VBG to/TO lure/VB 
+[ depositors/NNS ]
+with/IN 
+[ attractive/JJ yields/NNS ]
+./. 
+
+[ The/DT heavy/JJ rollover/NN ]
+at/IN 
+[ this/DT time/NN ]
+of/IN 
+[ year/NN ]
+is/VBZ due/JJ to/TO 
+[ several/JJ factors/NNS ]
+including/VBG 
+[ the/DT anniversary/NN ]
+of/IN 
+[ the/DT deregulation/NN ]
+of/IN 
+[ CD/NN rates/NNS ]
+in/IN 
+[ 1983/CD ]
+,/, 
+[ the/DT anniversary/NN ]
+of/IN 
+[ the/DT stock/NN market/NN crash/NN ]
+in/IN 
+[ 1987/CD ]
+and/CC 
+[ the/DT fact/NN ]
+that/IN 
+[ it/PRP ]
+'s/VBZ 
+[ six/CD months/NNS ]
+after/IN 
+[ the/DT April/NNP income/NN tax/NN filing/NN deadline/NN ]
+./. 
+
+======================================
+
+[ Large-deposit/JJ CD/NN ]
+yields/NNS ,/, meanwhile/RB ,/, fell/VBD in/IN 
+[ the/DT week/NN ]
+ended/VBN yesterday/NN to/TO 
+[ an/DT average/NN ]
+of/IN 
+[ 8.08/CD %/NN ]
+from/IN 
+[ 8.30/CD %/NN ]
+in/IN 
+[ the/DT one-year/JJ maturity/NN ]
+./. 
+
+[ So-called/JJ jumbo/JJ CDs/NNS ]
+are/VBP 
+[ those/DT ]
+sold/VBN in/IN 
+[ denominations/NNS ]
+of/IN more/JJR than/IN 
+[ $/$ 90,000/CD ]
+./. 
+
+[ The/DT average/JJ six-month/JJ jumbo/NN ]
+was/VBD off/IN 
+[ 0.19/CD ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+to/TO 
+[ 8.10/CD %/NN ]
+./. 
+
+======================================
+
+``/`` Normally/RB ,/, when/WRB 
+[ the/DT jumbo/JJ CD/NN yields/NNS ]
+fall/VBP so/RB sharply/RB ,/, 
+[ the/DT banks/NNS ]
+will/MD move/VB quickly/RB to/TO cut/VB 
+[ their/PRP$ consumer/NN CD/NN ]
+yields/NNS ''/'' accordingly/RB ,/, 
+[ Mr./NNP Mehl/NNP ]
+said/VBD ./. 
+
+[ He/PRP ]
+said/VBD 
+[ sales/NNS ]
+of/IN 
+[ consumer/NN CDs/NNS ]
+have/VBP been/VBN ``/`` 
+[ slow/JJ ]
+''/'' so/RB far/RB in/IN 
+[ October/NNP ]
+,/, 
+[ which/WDT ]
+could/MD have/VB helped/VBN keep/VB yields/NNS up/RB ./. 
+
+======================================
+
+[ Yields/NNS ]
+on/IN 
+[ CDs/NNS ]
+sold/VBD through/IN 
+[ broker-dealer/NN networks/NNS ]
+were/VBD off/RP even/RB more/RBR sharply/RB than/IN 
+[ the/DT average/NN ]
+yields/NNS on/IN 
+[ jumbo/JJ CDs/NNS ]
+,/, 
+[ Banxquote/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Declines/NNS ]
+on/IN 
+[ jumbo/JJ ]
+and/CC 
+[ broker-dealer/NN CDs/NNS ]
+``/`` did/VBD n't/RB signal/VB 
+[ anything/NN ]
+but/CC 
+[ a/DT fall/NN ]
+ {/( of/IN 
+[ rates/NNS ]
+ }/) in/IN 
+[ the/DT Treasury/NNP market/NN ]
+,/, ''/'' 
+[ Mr./NNP Mehl/NNP ]
+said/VBD ./. 
+
+In/IN 
+[ contrast/NN ]
+to/TO 
+[ consumer/NN CD/NNP ]
+yields/NNS ,/, 
+[ which/WDT ]
+banks/NNS generally/RB keep/VBP at/IN 
+[ the/DT same/JJ level/NN ]
+for/IN 
+[ a/DT week/NN ]
+at/IN 
+[ a/DT time/NN ]
+,/, 
+[ jumbo/JJ CD/NNP yields/NNS ]
+fluctuate/VBP daily/RB to/TO more/RBR accurately/RB reflect/VB 
+[ prevailing/VBG interest/NN rates/NNS ]
+./. 
+
+In/IN 
+[ the/DT week/NN ]
+ended/VBN yesterday/NN ,/, 
+[ the/DT biggest/JJS cuts/NNS ]
+in/IN 
+[ jumbo/JJ CD/NNP yields/NNS ]
+--/: as/RB much/RB as/IN 
+[ half/NN ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+--/: were/VBD made/VBN at/IN 
+[ large/JJ New/NNP York/NNP ]
+and/CC 
+[ Texas/NNP banks/NNS ]
+./. 
+
+======================================
+
+[ New/JJ U.S./NNP Treasury/NNP bills/NNS ]
+,/, meanwhile/RB ,/, were/VBD auctioned/VBN yesterday/NN with/IN significantly/RB 
+[ lower/JJR yields/NNS ]
+./. 
+
+[ The/DT average/JJ six-month/JJ bill/NN ]
+was/VBD sold/VBN with/IN 
+[ a/DT yield/NN ]
+of/IN 
+[ 8.01/CD %/NN ]
+,/, compared/VBN with/IN 
+[ 8.36/CD %/NN Oct./NNP 2/CD ]
+./. 
+
+[ The/DT recent/JJ changes/NNS ]
+in/IN 
+[ CD/NNP yields/NNS ]
+were/VBD made/VBN yesterday/NN 
+[ morning/NN ]
+,/, well/RB before/IN 
+[ the/DT afternoon/NN Treasury/NNP auction/NN ]
+./. 
+
+======================================
+
+[ The/DT average/JJ bank/NN money/NN market/NN deposit/NN yield/NN ]
+was/VBD 
+[ 6.96/CD %/NN ]
+,/, compared/VBN with/IN 
+[ 6.97/CD %/NN ]
+
+[ a/DT week/NN ]
+earlier/RB ,/, 
+[ Banxquote/NNP ]
+said/VBD ./. 

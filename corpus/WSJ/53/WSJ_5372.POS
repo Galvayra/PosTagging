@@ -1,0 +1,217 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT House/NNP panel/NN ]
+voted/VBD to/TO strip/VB from/IN 
+[ President/NNP Bush/NNP 's/POS clean-air/JJ bill/NN ]
+
+[ a/DT provision/NN ]
+favored/VBN by/IN 
+[ auto/NN makers/NNS ]
+,/, in/IN 
+[ a/DT move/NN ]
+
+[ the/DT administration/NN ]
+says/VBZ will/MD substantially/RB raise/VB 
+[ the/DT cost/NN ]
+of/IN building/VBG 
+[ less-polluting/JJ cars/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Mr./NNP Bush/NNP 's/POS first/JJ defeat/NN ]
+as/IN 
+[ his/PRP$ bill/NN ]
+begins/VBZ moving/VBG through/IN 
+[ Congress/NNP ]
+,/, 
+[ the/DT Energy/NNP ]
+and/CC 
+[ Commerce/NNP subcommittee/NN ]
+on/IN 
+[ health/NN ]
+and/CC 
+[ the/DT environment/NN ]
+rejected/VBD on/IN 
+[ a/DT voice/NN ]
+vote/NN 
+[ his/PRP$ proposal/NN ]
+to/TO switch/VB to/TO 
+[ an/DT averaging/JJ system/NN ]
+for/IN 
+[ car/NN emissions/NNS ]
+./. 
+
+[ An/DT averaging/JJ system/NN ]
+already/RB is/VBZ in/IN 
+[ place/NN ]
+for/IN 
+[ fuel-efficiency/JJ standards/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+think/VBP 
+[ this/DT ]
+will/MD add/VB 
+[ several/JJ hundred/CD million/CD dollars/NNS ]
+''/'' annually/RB to/TO 
+[ the/DT cost/NN ]
+of/IN complying/VBG with/IN 
+[ stricter/JJR tailpipe-emissions/JJ standards/NNS ]
+being/VBG proposed/VBN for/IN 
+[ car/NN makers/NNS ]
+,/, said/VBD 
+[ William/NNP Rosenberg/NNP ]
+,/, 
+[ chief/NN ]
+of/IN 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP 's/POS clean-air/JJ office/NN ]
+./. 
+
+======================================
+
+[ The/DT Bush/NNP administration/NN 's/POS proposal/NN ]
+had/VBD been/VBN targeted/VBN by/IN 
+[ environmental/JJ groups/NNS ]
+as/IN 
+[ a/DT loophole/NN ]
+
+[ that/WDT ]
+would/MD have/VB led/VBN to/TO 
+[ an/DT overall/JJ increase/NN ]
+in/IN 
+[ pollution/NN ]
+by/IN 
+[ new/JJ cars/NNS ]
+./. 
+
+Currently/RB ,/, 
+[ every/DT new/JJ car/NN ]
+must/MD meet/VB 
+[ the/DT same/JJ pollution/NN limits/NNS ]
+on/IN 
+[ tailpipe/NN exhaust/NN ]
+./. 
+
+[ The/DT proposal/NN ]
+would/MD have/VB let/VBD 
+[ car/NN makers/NNS ]
+build/VBP 
+[ some/DT dirtier-running/JJ cars/NNS ]
+,/, as/RB long/RB as/IN 
+[ their/PRP$ fleets/NNS ]
+on/IN 
+[ average/NN ]
+met/VBD 
+[ the/DT tailpipe/NN standards/NNS ]
+./. 
+
+[ Auto/NN makers/NNS ]
+believed/VBD 
+[ they/PRP ]
+could/MD save/VB on/IN 
+[ engineering-design/JJ costs/NNS ]
+if/IN 
+[ they/PRP ]
+did/VBD n't/RB have/VB to/TO make/VB 
+[ each/DT engine/NN family/NN ]
+meet/VB 
+[ the/DT pollution/NN standards/NNS ]
+./. 
+
+======================================
+
+Besides/IN 
+[ environmentalists/NNS ]
+,/, though/RB ,/, 
+[ emissions/NNS ]
+averaging/VBG was/VBD opposed/VBN by/IN 
+[ cities/NNS ]
+and/CC 
+[ states/NNS ]
+
+[ that/WDT ]
+fear/VBP 
+[ they/PRP ]
+wo/MD n't/RB be/VB able/JJ to/TO clean/VB up/RP 
+[ their/PRP$ smog/NN problems/NNS ]
+without/IN 
+[ tough/JJ nationwide/JJ standards/NNS ]
+on/IN 
+[ cars/NNS ]
+./. 
+
+======================================
+
+[ The/DT House/NNP panel/NN 's/POS surprise/NN rejection/NN ]
+of/IN 
+[ emissions/NNS ]
+averaging/VBG also/RB was/VBD 
+[ a/DT setback/NN ]
+for/IN 
+[ Energy/NNP ]
+and/CC 
+[ Commerce/NNP Chairman/NNP John/NNP Dingell/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mich./NNP ]
+ )/) ,/, 
+[ a/DT powerful/JJ auto-industry/NN ally/NN ]
+,/, 
+[ who/WP ]
+did/VBD n't/RB 
+[ rule/NN ]
+out/RP trying/VBG to/TO resurrect/VB 
+[ the/DT provision/NN ]
+later/RB in/IN 
+[ the/DT lawmaking/JJ process/NN ]
+./. 
+
+[ Many/JJ observers/NNS ]
+,/, however/RB ,/, considered/VBD 
+[ the/DT subcommittee/NN 's/POS action/NN ]
+
+[ a/DT death/NN knell/NN ]
+for/IN 
+[ the/DT provision/NN ]
+./. 
+
+======================================
+
+[ The/DT House/NNP panel/NN ]
+will/MD be/VB working/VBG for/IN 
+[ several/JJ weeks/NNS ]
+on/IN 
+[ the/DT complex/JJ legislation/NN ]
+./. 
+
+[ Congressional/JJ leaders/NNS ]
+said/VBD 
+[ they/PRP ]
+might/MD be/VB able/JJ to/TO send/VB 
+[ Mr./NNP Bush/NNP ]
+
+[ a/DT clean-air/JJ bill/NN ]
+by/IN 
+[ early/JJ next/JJ year/NN ]
+./. 

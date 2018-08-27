@@ -1,0 +1,505 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ President/NNP Bush/NNP ]
+and/CC 
+[ Soviet/JJ leader/NN Mikhail/NNP Gorbachev/NNP ]
+have/VBP agreed/VBN in/IN 
+[ principle/NN ]
+to/TO meet/VB for/IN 
+[ their/PRP$ first/JJ summit/NN ]
+,/, and/CC 
+[ a/DT time/NN ]
+should/MD be/VB set/VBN in/IN 
+[ the/DT next/JJ few/JJ days/NNS ]
+./. 
+
+======================================
+
+[ The/DT wheels/NNS ]
+were/VBD set/VBN in/IN 
+[ motion/NN yesterday/NN ]
+when/WRB 
+[ Mr./NNP Bush/NNP ]
+met/VBD 
+[ Soviet/NNP Foreign/NNP Minister/NNP Eduard/NNP Shevardnadze/NNP ]
+at/IN 
+[ the/DT White/NNP House/NNP ]
+./. 
+
+[ Mr./NNP Shevardnadze/NNP ]
+said/VBD afterward/RB ,/, ``/`` 
+[ We/PRP ]
+have/VBP concluded/VBN that/IN 
+[ a/DT summit/NN ]
+is/VBZ necessary/JJ ,/, 
+[ there/EX ]
+is/VBZ 
+[ no/DT doubt/NN ]
+about/IN 
+[ that/DT ]
+./. 
+
+''/'' And/CC 
+[ Secretary/NNP ]
+of/IN 
+[ State/NNP James/NNP Baker/NNP ]
+said/VBD that/IN 
+[ he/PRP ]
+and/CC 
+[ Mr./NNP Shevardnadze/NNP ]
+plan/VBP to/TO set/VB 
+[ a/DT ]
+``/`` 
+[ general/JJ time/NN framework/NN ]
+''/'' for/IN 
+[ a/DT meeting/NN ]
+when/WRB 
+[ he/PRP ]
+holds/VBZ 
+[ a/DT series/NN ]
+of/IN 
+[ lengthy/JJ discussions/NNS ]
+with/IN 
+[ the/DT Soviet/JJ foreign/JJ minister/NN ]
+in/IN Wyoming/NNP 
+[ this/DT weekend/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ his/PRP$ hour-and-a-half/NN ]
+of/IN 
+[ discussions/NNS ]
+at/IN 
+[ the/DT White/NNP House/NNP ]
+,/, 
+[ Mr./NNP Shevardnadze/NNP ]
+also/RB told/VBD 
+[ the/DT president/NN ]
+that/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+is/VBZ n't/RB seeking/VBG 
+[ direct/JJ American/JJ economic/JJ assistance/NN ]
+to/TO help/VB 
+[ it/PRP ]
+work/VB out/IN 
+[ its/PRP$ enormous/JJ economic/JJ problems/NNS ]
+./. 
+
+[ Rather/RB ]
+,/, 
+[ Mr./NNP Baker/NNP ]
+said/VBD afterward/RB ,/, 
+[ the/DT Soviet/JJ foreign/JJ minister/NN ]
+said/VBD 
+[ his/PRP$ government/NN ]
+would/MD like/VB 
+[ the/DT U.S./NNP ]
+to/TO provide/VB ``/`` 
+[ technical/JJ advice/NN ]
+''/'' on/IN how/WRB to/TO reform/VB 
+[ its/PRP$ economic/JJ system/NN ]
+./. 
+
+======================================
+
+[ State/NNP Department/NNP officials/NNS ]
+already/RB had/VBD been/VBN planning/VBG 
+[ a/DT series/NN ]
+of/IN 
+[ talks/NNS ]
+with/IN 
+[ their/PRP$ Soviet/JJ counterparts/NNS ]
+
+[ this/DT weekend/NN ]
+in/IN Wyoming/NNP on/IN how/WRB to/TO overhaul/VB and/CC revitalize/VB 
+[ the/DT Soviet/JJ economy/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ President/NNP Bush/NNP ]
+said/VBD 
+[ this/DT week/NN ]
+that/IN 
+[ Mr./NNP Baker/NNP ]
+and/CC 
+[ Mr./NNP Shevardnadze/NNP ]
+will/MD discuss/VB 
+[ Soviet/JJ progress/NN ]
+on/IN 
+[ human-rights/JJ issues/NNS ]
+such/JJ as/IN 
+[ emigration/NN ]
+
+[ that/WDT ]
+might/MD lead/VB to/TO 
+[ a/DT liberalization/NN ]
+of/IN 
+[ U.S.-Soviet/NNP trade/NN restrictions/NNS ]
+./. 
+
+======================================
+
+[ The/DT White/NNP House/NNP meeting/NN ]
+came/VBD at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ Mr./NNP Bush/NNP ]
+and/CC 
+[ his/PRP$ administration/NN ]
+are/VBP being/VBG chided/VBN by/IN 
+[ political/JJ opponents/NNS ]
+
+[ who/WP ]
+charge/VBP that/IN 
+[ they/PRP ]
+have/VBP been/VBN too/RB slow/JJ and/CC 
+[ timid/JJ ]
+in/IN responding/VBG to/TO 
+[ changes/NNS ]
+in/IN 
+[ the/DT Soviet/JJ bloc/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT meeting/NN ]
+comes/VBZ at/IN 
+[ a/DT time/NN ]
+when/WRB ,/, in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+,/, 
+[ Mr./NNP Gorbachev/NNP ]
+is/VBZ facing/VBG 
+[ unprecedented/JJ economic/JJ problems/NNS ]
+and/CC 
+[ unrest/NN ]
+in/IN 
+[ outlying/JJ Soviet/JJ republics/NNS ]
+./. 
+
+======================================
+
+Thus/RB ,/, 
+[ both/DT ]
+
+[ sides/NNS ]
+can/MD benefit/VB from/IN setting/VBG 
+[ a/DT summit/NN date/NN ]
+now/RB ./. 
+
+For/IN 
+[ Mr./NNP Bush/NNP ]
+,/, 
+[ such/PDT a/DT step/NN ]
+would/MD buttress/VB 
+[ his/PRP$ claim/NN ]
+that/IN 
+[ he/PRP ]
+is/VBZ making/VBG 
+[ steady/JJ ]
+but/CC 
+[ orderly/JJ progress/NN ]
+in/IN 
+[ Soviet/JJ relations/NNS ]
+./. 
+
+For/IN 
+[ Mr./NNP Gorbachev/NNP ]
+,/, 
+[ it/PRP ]
+will/MD help/VB show/VB 
+[ critics/NNS ]
+at/IN 
+[ home/NN ]
+that/IN 
+[ his/PRP$ policies/NNS ]
+of/IN 
+[ reform/NN ]
+and/CC 
+[ openness/NN ]
+are/VBP winning/VBG 
+[ some/DT international/JJ rewards/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Gorbachev/NNP ]
+,/, 
+[ who/WP ]
+sent/VBD 
+[ Mr./NNP Shevardnadze/NNP ]
+to/TO 
+[ the/DT U.S./NNP ]
+with/IN 
+[ a/DT long/JJ letter/NN ]
+on/IN 
+[ arms/NNS control/NN ]
+,/, also/RB won/VBD 
+[ a/DT new/JJ statement/NN ]
+of/IN 
+[ American/JJ support/NN ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ yesterday/NN 's/POS White/NNP House/NNP meetings/NNS ]
+./. 
+
+[ Mr./NNP Baker/NNP ]
+said/VBD ,/, as/IN 
+[ the/DT Bush/NNP administration/NN ]
+has/VBZ in/IN 
+[ the/DT past/NN ]
+,/, that/IN 
+[ the/DT U.S./NNP ]
+wants/VBZ 
+[ Mr./NNP Gorbachev/NNP 's/POS program/NN ]
+of/IN 
+[ perestroika/FW ]
+,/, or/CC 
+[ internal/JJ reform/NN ]
+,/, to/TO succeed/VB ./. 
+
+But/CC 
+[ he/PRP ]
+also/RB went/VBD beyond/IN that/IN to/TO say/VB that/IN 
+[ the/DT U.S./NNP ]
+wants/VBZ 
+[ Mr./NNP Gorbachev/NNP ]
+personally/RB to/TO survive/VB as/IN 
+[ general/JJ secretary/NN ]
+of/IN 
+[ the/DT Communist/JJ party/NN ]
+to/TO continue/VB overseeing/VBG 
+[ the/DT reforms/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+is/VBZ 
+[ the/DT position/NN ]
+of/IN 
+[ the/DT president/NN ]
+,/, 
+[ the/DT position/NN ]
+of/IN 
+[ the/DT administration/NN ]
+,/, that/IN 
+[ we/PRP ]
+want/VBP 
+[ perestroika/FW ]
+to/TO succeed/VB ,/, and/CC 
+[ we/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ the/DT general/JJ secretary/NN ]
+to/TO succeed/VB as/IN well/RB ,/, ''/'' 
+[ Mr./NNP Baker/NNP ]
+said/VBD after/IN 
+[ the/DT meeting/NN ]
+./. 
+
+``/`` Because/IN 
+[ we/PRP ]
+think/VBP ,/, frankly/RB ,/, that/IN 
+[ his/PRP$ success/NN ]
+is/VBZ very/RB important/JJ in/IN whether/IN or/CC not/RB 
+[ perestroika/FW ]
+succeeds/VBZ ./. 
+
+''/'' 
+======================================
+
+[ Administration/NN officials/NNS ]
+sometimes/RB have/VBP attempted/VBN to/TO distinguish/VB between/IN supporting/VBG 
+[ reforms/NNS ]
+and/CC counting/VBG on/IN 
+[ Mr./NNP Gorbachev/NNP ]
+to/TO remain/VB in/IN 
+[ charge/NN ]
+./. 
+
+[ Mr./NNP Baker/NNP 's/POS comment/NN ]
+represented/VBD 
+[ a/DT more/RBR pointed/JJ ]
+,/, 
+[ public/JJ personal/JJ endorsement/NN ]
+than/IN 
+[ the/DT administration/NN ]
+has/VBZ generally/RB expressed/VBN ./. 
+
+======================================
+
+In/IN 
+[ his/PRP$ comments/NNS ]
+to/TO 
+[ reporters/NNS ]
+,/, 
+[ Mr./NNP Baker/NNP ]
+seemed/VBD to/TO imply/VB that/IN 
+[ the/DT Bush-Gorbachev/NNP summit/NN ]
+is/VBZ likely/JJ to/TO take/VB place/VB 
+[ early/JJ next/JJ year/NN ]
+,/, though/IN 
+[ he/PRP ]
+insisted/VBD that/IN 
+[ such/PDT a/DT time/NN frame/NN has/VBZ n't/RB ]
+been/VBN set/VBN ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ important/JJ that/IN 
+[ the/DT leaders/NNS ]
+of/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+and/CC 
+[ the/DT United/NNP States/NNPS ]
+get/VBP together/RB periodically/RB ,/, ''/'' 
+[ Mr./NNP Baker/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+will/MD have/VB been/VBN 
+[ some/DT time/NN ]
+,/, if/IN 
+[ we/PRP ]
+'re/VBP looking/VBG at/IN 
+[ something/NN ]
+into/IN 
+[ next/JJ year/NN ]
+--/: and/CC 
+[ I/PRP ]
+'m/VBP not/RB saying/VBG that/IN 
+[ that/DT ]
+'s/VBZ 
+[ the/DT time/NN frame/NN ]
+
+[ we/PRP ]
+'re/VBP going/VBG to/TO give/VB 
+[ you/PRP ]
+in/IN Wyoming/NNP ./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ Mr./NNP Baker/NNP ]
+also/RB stressed/VBD that/IN 
+[ the/DT White/NNP House/NNP meeting/NN ]
+failed/VBD to/TO produce/VB 
+[ much/JJ progress/NN ]
+in/IN resolving/VBG 
+[ one/CD ]
+particularly/RB nagging/VBG 
+[ sticking/VBG point/NN ]
+between/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Mr./NNP Gorbachev/NNP ]
+./. 
+
+[ The/DT U.S./NNP ]
+reiterated/VBD 
+[ its/PRP$ complaints/NNS ]
+that/IN 
+[ Soviet/JJ arms/NNS ]
+continue/VBP to/TO flow/VB to/TO 
+[ Nicaragua/NNP ]
+at/IN 
+[ high/JJ levels/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Baker/NNP ]
+implied/VBD that/IN 
+[ Soviet/JJ officials/NNS ]
+repeated/VBD past/JJ 
+[ claims/NNS ]
+that/IN 
+[ they/PRP ]
+have/VBP stopped/VBN 
+[ shipping/VBG arms/NNS ]
+directly/RB to/TO 
+[ Nicaragua/NNP ]
+./. 
+
+But/CC 
+[ U.S./NNP officials/NNS ]
+complain/VBP that/IN ,/, while/IN 
+[ direct/JJ Soviet/JJ arms/NNS shipments/NNS ]
+may/MD have/VB been/VBN stopped/VBN ,/, 
+[ record/NN amounts/NNS ]
+of/IN 
+[ Soviet-made/JJ weaponry/NN ]
+continue/VBP to/TO flow/VB to/TO 
+[ Nicaragua/NNP ]
+through/IN 
+[ Cuba/NNP ]
+./. 
+
+======================================
+
+Asked/VBN how/WRB 
+[ the/DT Soviets/NNPS ]
+respond/VBP to/TO 
+[ that/DT American/JJ complaint/NN ]
+,/, 
+[ Mr./NNP Baker/NNP ]
+replied/VBD :/: ``/`` 
+[ They/PRP ]
+demur/VBP 
+[ a/DT bit/NN ]
+on/IN 
+[ that/DT ]
+,/, and/CC 
+[ they/PRP ]
+take/VBP 
+[ the/DT position/NN ]
+that/IN 
+[ they/PRP ]
+ca/MD n't/RB totally/RB control/VB 
+[ what/WP ]
+happens/VBZ with/IN 
+[ respect/NN ]
+to/TO 
+[ Cuba/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ We/PRP ]
+have/VBP 
+[ some/DT difficulty/NN ]
+with/IN 
+[ that/DT ]
+./. 

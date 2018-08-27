@@ -1,0 +1,63 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ OLYMPIA/NNP ]
+&/CC 
+[ YORK/NNP DEVELOPMENTS/NNPS Ltd./NNP ]
+has/VBZ agreed/VBN to/TO help/VB arrange/VB 
+[ an/DT $/$ 800/CD million/CD loan/NN ]
+to/TO 
+[ Campeau/NNP Corp./NNP ]
+to/TO help/VB 
+[ the/DT company/NN ]
+repurchase/VBD 
+[ junk-bond/NN securities/NNS ]
+issued/VBN by/IN 
+[ its/PRP$ Federated/NNP Department/NNP Stores/NNPS ]
+and/CC 
+[ Allied/NNP Stores/NNPS units/NNS ]
+./. 
+
+[ The/DT loan/NN ]
+is/VBZ separate/JJ from/IN 
+[ a/DT financing/NN ]
+that/IN 
+[ Campeau/NNP ]
+is/VBZ seeking/VBG to/TO pay/VB off/IN 
+[ an/DT $/$ 800/CD million/CD bridge/NN loan/NN ]
+made/VBN by/IN 
+[ Citibank/NNP ]
+and/CC 
+[ which/WDT ]
+is/VBZ 
+[ due/JJ April/NNP 1990/CD ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Campeau/NNP 's/POS Emergency/NNP Loan/NNP Agreement/NNP ]
+Could/MD 
+[ Set/VB ]
+Off/IN 
+[ Battle/NN ]
+With/IN 
+[ Bondholders/NNS ]
+''/'' --/: 
+[ WSJ/NNP Sept./NNP 22/CD ]
+,/, 
+[ 1989/CD ]

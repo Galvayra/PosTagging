@@ -1,0 +1,465 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT surge/NN ]
+in/IN 
+[ truck/NN sales/NNS ]
+by/IN 
+[ General/NNP Motors/NNPS Corp./NNP
+in/IN 
+[ sales/NNS ]
+of/IN 
+[ North/NNP American-built/JJ vehicles/NNS ]
+in/IN 
+[ mid-September/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ auto/NN makers/NNS ]
+still/RB face/VBP 
+[ a/DT sales/NNS environment/NN ]
+
+[ that/WDT ]
+gives/VBZ 
+[ them/PRP ]
+and/CC 
+[ their/PRP$ dealers/NNS ]
+
+[ the/DT jitters/NN ]
+./. 
+
+[ Ford/NNP Motor/NNP Co./NNP ]
+announced/VBD 
+[ late/JJ yesterday/NN ]
+that/IN ,/, beginning/VBG 
+[ next/JJ week/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ closing/VBG 
+[ a/DT truck/NN plant/NN ]
+in/IN 
+[ Kentucky/NNP ]
+for/IN 
+[ one/CD week/NN ]
+and/CC 
+[ a/DT car-assembly/NN plant/NN ]
+in/IN 
+[ Ohio/NNP ]
+for/IN 
+[ two/CD weeks/NNS ]
+./. 
+
+[ The/DT company/NN ]
+cited/VBN ``/`` 
+[ a/DT shortage/NN ]
+of/IN 
+[ dealer/NN orders/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Consumers/NNS ]
+bought/VBD 
+[ 342,492/CD domestic-made/JJ vehicles/NNS ]
+in/IN 
+[ the/DT period/NN ]
+ended/VBN 
+[ Sept./NNP 20/CD ]
+,/, compared/VBN with/IN 
+[ 270,299/CD ]
+
+[ a/DT year/NN ]
+earlier/RB ./.  
+
+[ There/EX ]
+were/VBD 
+[ nine/CD selling/VBG days/NNS ]
+in/IN 
+[ the/DT latest/JJS period/NN ]
+compared/VBN with/IN 
+[ eight/CD ]
+
+[ a/DT year/NN ]
+ago/RB ,/, so/RB based/VBN on/IN 
+[ the/DT daily/JJ rate/NN ]
+
+[ the/DT sales/NNS increase/NN ]
+was/VBD 
+[ 12.6/CD %/NN ]
+./. 
+
+======================================
+
+[ Sales/NNS ]
+of/IN 
+[ North/NNP American-made/JJ cars/NNS ]
+alone/RB ,/, excluding/VBG 
+[ trucks/NNS ]
+,/, rose/VBD to/TO 
+[ 211,966/CD vehicles/NNS ]
+from/IN 
+[ 170,988/CD ]
+in/IN 
+[ the/DT like/JJ 10-day/JJ ]
+,/, 
+[ year-ago/JJ period/NN ]
+./. 
+
+That/IN produced/VBN 
+[ a/DT strong/JJ annual/JJ selling/NN rate/NN ]
+of/IN 
+[ 8.4/CD million/CD cars/NNS ]
+,/, according/VBG to/TO 
+[ a/DT Commerce/NNP Department/NNP formula/NN ]
+./. 
+
+======================================
+
+[ The/DT overall/JJ sales/NNS increase/NN ]
+was/VBD led/VBN by/IN 
+[ General/NNP Motors/NNPS trucks/NNS ]
+,/, 
+[ which/WDT ]
+shot/VBD up/RP 
+[ 45/CD %/NN ]
+to/TO 
+[ 62,064/CD vehicles/NNS ]
+in/IN 
+[ mid-September/NNP ]
+./. 
+
+[ Bargain-hunting/NN buyers/NNS ]
+responded/VBD to/TO particularly/RB 
+[ generous/JJ incentives/NNS ]
+
+[ that/WDT ]
+included/VBD 
+[ cash/NN rebates/NNS ]
+to/TO 
+[ customers/NNS ]
+and/CC 
+[ cash/NN incentives/NNS ]
+to/TO 
+[ dealers/NNS ]
+
+[ who/WP ]
+met/VBD 
+[ sales/NNS quotas/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, on/IN 
+[ the/DT Chevy/NNP S-10/NN pickup/NN ]
+,/, 
+[ GM/NNP ]
+also/RB made/VBD 
+[ cash/NN awards/NNS ]
+to/TO 
+[ dealership/NN sales/NNS personnel/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+'re/VBP getting/VBG 
+[ the/DT shrewd/JJ buyers/NNS ]
+,/, ''/'' said/VBD 
+[ R.E./NNP Cochran/NNP ]
+,/, 
+[ whose/WP$ family/NN ]
+owns/VBZ 
+[ two/CD dealerships/NNS ]
+in/IN 
+[ the/DT Pittsburgh/NNP area/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+really/RB have/VBP 
+[ the/DT people/NNS ]
+
+[ that/WDT ] 
+are/VBP out/RP for/IN 
+[ every/DT nickel/NN ]
+and/CC 
+[ dime/NN ]
+./. 
+
+''/'' 
+[ GM/NNP 's/POS domestic/JJ car/NN sales/NNS ]
+also/RB registered/VBD 
+[ a/DT healthy/JJ 11.2/CD %/NN increase/NN ]
+,/, helped/VBN by/IN 
+[ customer/NN rebates/NNS ]
+and/CC 
+[ the/DT extra/JJ incentive/NN ]
+of/IN 
+[ cash/NN awards/NNS ]
+to/TO 
+[ dealers/NNS ]
+
+[ who/WP ]
+met/VBD 
+[ sales/JJ targets/NNS ]
+./. 
+
+[ Ford/NNP Motor/NNP ]
+,/, 
+[ which/WDT ]
+offered/VBD 
+[ customer/NN rebates/NNS ]
+but/CC 
+[ no/DT special/JJ cash/NN incentives/NNS ]
+to/TO 
+[ dealers/NNS ]
+,/, posted/VBD 
+[ a/DT 2.6/CD %/NN gain/NN ]
+in/IN 
+[ domestic/JJ cars/NNS ]
+and/CC 
+[ a/DT 4.5/CD %/NN gain/NN ]
+in/IN domestically/RB made/JJ 
+[ trucks/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS disclosure/NN ]
+that/IN 
+[ it/PRP ]
+will/MD close/VB 
+[ its/PRP$ truck/NN plant/NN ]
+in/IN 
+[ Louisville/NNP ]
+,/, 
+[ Ky./NNP ]
+,/, for/IN 
+[ one/CD week/NN ]
+seems/VBZ to/TO indicate/VB that/IN 
+[ the/DT company/NN ]
+is/VBZ losing/VBG 
+[ ground/NN ]
+in/IN 
+[ its/PRP$ truck-sales/NNS battle/NN ]
+with/IN 
+[ GM/NNP 's/POS Chevrolet/NNP division/NN ]
+./. 
+
+[ Chevy/NNP ]
+traditionally/RB has/VBZ led/VBN 
+[ the/DT nation/NN ]
+in/IN 
+[ pickup/NN truck/NN sales/NNS ]
+,/, but/CC 
+[ Ford/NNP ]
+has/VBZ taken/VBN over/RP 
+[ top/JJ spot/NN ]
+in/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS truck/NN sales/NNS ]
+have/VBP been/VBN hurt/VBN by/IN 
+[ a/DT continuing/VBG shortage/NN ]
+of/IN 
+[ trucks/NNS ]
+with/IN 
+[ automatic/JJ transmissions/NNS ]
+./. 
+
+[ Ford/NNP ]
+has/VBZ recently/RB expanded/VBN 
+[ its/PRP$ capacity/NN ]
+to/TO build/VB 
+[ automatic/JJ transmissions/NNS ]
+,/, and/CC 
+[ plans/VBZ ]
+to/TO put/VB 
+[ more/JJR ]
+of/IN 
+[ them/PRP ]
+in/IN 
+[ its/PRP$ 1990/CD model/NN pickups/NNS ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ Ford/NNP 's/POS closure/NN ]
+of/IN 
+[ the/DT Lorain/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, 
+[ car-assembly/NN plant/NN ]
+reflects/VBZ 
+[ slow/JJ sales/NNS ]
+of/IN 
+[ the/DT Thunderbird/NNP ]
+and/CC 
+[ Cougar/NNP coupes/NNS ]
+built/VBN there/RB ./. 
+
+[ The/DT Thunderbird/NNP SC/NNP ]
+won/VBD 
+[ Motor/NNP Trend/NNP magazine/NN 's/POS coveted/JJ car/NN ]
+of/IN 
+[ the/DT year/NN award/NN ]
+,/, but/CC 
+[ the/DT car/NN 's/POS sales/NNS ]
+have/VBP proved/VBN 
+[ disappointing/JJ ]
+./. 
+
+[ The/DT two/CD plant/NN closedowns/NNS ]
+together/RB will/MD idle/VB 
+[ 4,700/CD employees/NNS ]
+./. 
+
+======================================
+
+[ Chrysler/NNP Corp./NNP 's/POS domestic/JJ car/NN sales/NNS ]
+increased/VBD 
+[ 2.1/CD %/NN ]
+,/, while/IN 
+[ its/PRP$ mid-September/NNP domestic/JJ truck/NN sales/NNS ]
+rose/VBD 
+[ a/DT mere/JJ 0.7/CD %/NN ]
+./. 
+
+======================================
+
+[ Honda/NNP Motor/NNP Co./NNP 's/POS sales/NNS ]
+of/IN domestically/RB built/JJ 
+[ cars/NNS ]
+rose/VBD 
+[ 64.7/CD %/NN ]
+from/IN 
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+[ Honda/NNP dealers/NNS ]
+also/RB are/VBP slashing/VBG 
+[ prices/NNS ]
+to/TO move/VB out/RP 
+[ 1989-model/NN automobiles/NNS ]
+./. 
+
+[ Dan/NNP Klawitter/NNP ]
+,/, 
+[ sales/JJ manager/NN ]
+of/IN 
+[ Gardena/NNP Honda/NNP Automobiles/NNPS ]
+in/IN 
+[ Gardena/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, said/VBD 
+[ a/DT 1989/CD Honda/NNP Accord/NNP LX/NNP car/NN ]
+with/IN 
+[ a/DT standard/JJ transmission/NN ]
+is/VBZ selling/VBG for/IN about/IN 
+[ $/$ 12,500/CD ]
+,/, 
+[ $/$ 700/CD ]
+to/TO 
+[ $/$ 800/CD cheaper/JJR ]
+than/IN 
+[ its/PRP$ price/NN ]
+
+[ a/DT few/JJ months/NNS ]
+earlier/RB ./. 
+
+======================================
+
+[ Auto/NN makers/NNS ]
+continue/VBP to/TO worry/VB that/IN 
+[ the/DT brisk/JJ sales/NNS ]
+in/IN 
+[ the/DT waning/VBG weeks/NNS ]
+of/IN 
+[ the/DT 1989/CD model/NN year/NN ]
+will/MD give/VB 
+[ way/NN ]
+to/TO 
+[ a/DT slump/NN ]
+after/IN 
+[ the/DT 1990/CD model/NN year/NN ]
+begins/VBZ 
+[ next/JJ week/NN ]
+./. 
+
+[ GM/NNP ]
+and/CC 
+[ Chrysler/NNP ]
+have/VBP taken/VBN 
+[ the/DT unusual/JJ move/NN ]
+of/IN putting/VBG 
+[ incentives/NNS ]
+on/IN 
+[ their/PRP$ 1990/CD models/NNS ]
+before/IN 
+[ they/PRP ]
+officially/RB go/VBP on/IN 
+[ sale/NN ]
+./. 
+
+======================================
+
+[ a-Totals/NNS ] 
+include/VBP 
+[ only/JJ vehicle/NN sales/NNS ]
+reported/VBN in/IN 
+[ the/DT period/NN ]
+./. 
+
+======================================
+
+[ b-Percent/NN  change/NN ]
+greater/JJR than/IN 
+[ 999/CD %/NN ]
+
+======================================
+
+[ c-Domestic/JJ  car/NN ]
+
+======================================
+
+[ x-There/EX ] 
+were/VBD 
+[ nine/CD selling/NN days/NNS ]
+in/IN 
+[ the/DT most/RBS recent/JJ period/NN ]
+and/CC 
+[ eight/CD ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+[ Percentage/NN differences/NNS ]
+based/VBN on/IN 
+[ daily/JJ sales/NNS rate/NN ]
+rather/RB than/IN 
+[ sales/NNS volume/NN ]
+./. 

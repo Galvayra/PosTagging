@@ -1,0 +1,70 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ SYSCO/NNP Corp./NNP ]
+of/IN 
+[ Houston/NNP ]
+said/VBD 
+[ it/PRP ]
+issued/VBD 
+[ $/$ 330/CD million/CD face/NN value/NN ]
+of/IN 
+[ zero-coupon/JJ ]
+,/, subordinated/JJ 
+[ notes/NNS due/JJ October/NNP 2004/CD ]
+at/IN 
+[ $/$ 397.27/CD ]
+per/IN 
+[ $/$ 1,000/CD face/NN amount/NN ]
+,/, or/CC 
+[ a/DT yield/NN ]
+to/TO 
+[ maturity/NN ]
+of/IN 
+[ 6.25/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT food/NN service/NN concern/NN ]
+said/VBD 
+[ the/DT notes/NNS ]
+are/VBP convertible/JJ into/IN 
+[ 12.256/CD shares/NNS ]
+of/IN 
+[ Sysco/NNP ]
+per/IN 
+[ $/$ 1,000/CD face/NN amount/NN ]
+./. 
+
+[ Sysco/NNP ]
+said/VBD that/IN 
+[ proceeds/NNS ]
+from/IN 
+[ the/DT liquid/JJ yield/NN option/NN notes/NNS ]
+of/IN approximately/RB 
+[ $/$ 130/CD million/CD ]
+will/MD be/VB used/VBN to/TO reduce/VB 
+[ outstanding/JJ commercial/JJ paper/NN ]
+and/CC reduce/VB 
+[ the/DT company/NN 's/POS revolving/JJ loan/NN ]
+./. 
+
+[ Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP ]
+was/VBD 
+[ the/DT underwriter/NN ]
+./. 

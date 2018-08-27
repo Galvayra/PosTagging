@@ -1,0 +1,461 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Boatmen/NNPS 's/POS Bancshares/NNPS Inc./NNP ]
+,/, helped/VBN by/IN 
+[ economies/NNS ]
+associated/JJ with/IN 
+[ a/DT recent/JJ acquisition/NN ]
+,/, expects/VBZ to/TO report/VB 
+[ third-quarter/JJ earnings/NNS ]
+in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 90/CD cents/NNS ]
+to/TO 
+[ 95/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ an/DT indicated/VBN $/$ 31.2/CD million/CD ]
+to/TO 
+[ $/$ 33.6/CD million/CD ]
+,/, said/VBD 
+[ Andrew/NNP B./NNP Craig/NNP III/NNP ]
+,/, 
+[ chairman/NN ]
+,/, 
+[ chief/JJ executive/NN officer/NN ]
+and/CC 
+[ president/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+would/MD represent/VB about/IN 
+[ a/DT 5.8/CD %/NN ]
+to/TO 
+[ 14/CD %/NN increase/NN ]
+from/IN 
+[ the/DT year-earlier/JJ period/NN ]
+,/, when/WRB 
+[ the/DT regional/JJ bank-holding/JJ company/NN ]
+had/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 29.5/CD million/CD ]
+,/, or/CC 
+[ 86/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ The/DT per-share/JJ figures/NNS ]
+reflect/VBP 
+[ an/DT increase/NN ]
+in/IN 
+[ common/JJ shares/NNS ]
+outstanding/JJ to/TO 
+[ 34.3/CD million/CD ]
+from/IN 
+[ 33.5/CD million/CD ]
+./. 
+
+======================================
+
+[ Last/JJ year/NN 's/POS results/NNS ]
+have/VBP been/VBN restated/VBN to/TO reflect/VB 
+[ Boatmen/NNPS 's/POS $/$ 467/CD million/CD acquisition/NN ]
+of/IN 
+[ a/DT former/JJ rival/NN ]
+,/, 
+[ Centerre/NNP Bancorp/NNP ]
+./. 
+
+[ The/DT December/NNP acquisition/NN ]
+,/, 
+[ which/WDT ]
+made/VBD 
+[ Boatmen/NNPS ]
+'s/VBZ 
+[ the/DT nation/NN 's/POS 39th-largest/JJ bank-holding/JJ company/NN ]
+,/, was/VBD accounted/VBN for/IN on/IN 
+[ a/DT pooling-of-interest/JJ basis/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'ve/VBP been/VBN concentrating/VBG during/IN 
+[ 1989/CD ]
+on/IN implementing/VBG 
+[ the/DT consolidation/NN ]
+of/IN 
+[ Centerre/NNP ]
+,/, ''/'' 
+[ Mr./NNP Craig/NNP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+,/, ``/`` concentrating/VBG on/IN 
+[ the/DT internal/JJ growth/NN ]
+of/IN 
+[ the/DT company/NN ]
+,/, taking/VBG 
+[ advantage/NN ]
+of/IN 
+[ opportunities/NNS ]
+to/TO reduce/VB 
+[ costs/NNS ]
+,/, to/TO improve/VB 
+[ the/DT quality/NN ]
+of/IN 
+[ our/PRP$ loan/NN portfolio/NN ]
+,/, and/CC increase/VB 
+[ noninterest/JJ income/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT acquisition/NN ]
+has/VBZ allowed/VBN 
+[ the/DT company/NN ]
+to/TO cut/VB 
+[ costs/NNS ]
+by/IN consolidating/VBG 
+[ certain/JJ functions/NNS ]
+,/, such/JJ as/IN 
+[ its/PRP$ credit-card/NN operations/NNS ]
+,/, 
+[ Mr./NNP Craig/NNP ]
+said/VBD ./. 
+
+[ The/DT company/NN ]
+had/VBD projected/VBN 
+[ $/$ 55/CD million/CD ]
+in/IN 
+[ savings/NNS ]
+from/IN 
+[ the/DT acquisition/NN ]
+over/IN 
+[ a/DT three-year/JJ period/NN ]
+,/, said/VBD 
+[ Mr./NNP Craig/NNP ]
+,/, and/CC ``/`` 
+[ the/DT first/JJ year/NN ]
+is/VBZ right/JJ on/IN 
+[ schedule/NN ]
+./. 
+
+''/'' 
+[ Third-period/NN expenses/NNS ]
+will/MD be/VB down/IN about/IN 
+[ $/$ 2/CD million/CD ]
+from/IN 
+[ $/$ 108.7/CD million/CD ]
+in/IN 
+[ the/DT second/JJ quarter/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, and/CC 
+[ 6/CD %/NN ]
+below/IN 
+[ those/DT ]
+of/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+is/VBZ getting/VBG 
+[ some/DT help/NN ]
+from/IN 
+[ lower/JJR tax/NN rates/NNS ]
+,/, as/IN well/RB ,/, with/IN 
+[ an/DT effective/JJ tax/NN rate/NN ]
+in/IN 
+[ the/DT latest/JJS period/NN ]
+of/IN about/IN 
+[ 20/CD %/NN ]
+,/, compared/VBN with/IN 
+[ 22.5/CD %/NN ]
+
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+======================================
+
+Also/RB ,/, ``/`` 
+[ We/PRP ]
+'re/VBP seeing/VBG 
+[ some/DT good/JJ ]
+,/, 
+[ solid/JJ growth/NN ]
+in/IN 
+[ our/PRP$ trust/NN business/NN ]
+,/, ''/'' with/IN 
+[ the/DT third/JJ quarter/NN ]
+expected/VBN to/TO show/VB about/IN 
+[ a/DT 10/CD %/NN year-to-year/JJ increase/NN ]
+in/IN 
+[ operating/NN income/NN ]
+,/, said/VBD 
+[ Mr./NNP Craig/NNP ]
+./. 
+
+[ Centerre/NNP 's/POS sizable/JJ trust/NN operation/NN ]
+,/, when/WRB combined/VBN with/IN 
+[ Boatmen/NNPS 's/POS ]
+,/, created/VBD 
+[ the/DT nation/NN 's/POS 12th-largest/JJ trust/NN department/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Boatmen/NNPS 's/POS ]
+is/VBZ emphasizing/VBG 
+[ development/NN ]
+of/IN 
+[ such/JJ noninterest-income/NN sources/NNS ]
+,/, said/VBD 
+[ Mr./NNP Craig/NNP ]
+,/, calling/VBG that/IN 
+[ an/DT area/NN ]
+where/WRB ``/`` 
+[ we/PRP ]
+'ve/VBP been/VBN historically/RB low/JJ ./. 
+
+''/'' 
+[ Boatmen/NNPS 's/POS ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` along/IN with/IN banking/NN 
+[ institutions/NNS ]
+in/IN 
+[ general/JJ ]
+,/, ''/'' 
+[ will/MD ]
+in/IN 
+[ the/DT future/NN ]
+feel/VB 
+[ a/DT longterm/JJ squeeze/NN ]
+on/IN 
+[ net/JJ interest/NN margins/NNS ]
+--/: 
+[ the/DT so-called/JJ ]
+``/`` 
+[ spread/NN ]
+''/'' between/IN 
+[ what/WP ]
+
+[ a/DT bank/NN ]
+pays/VBZ for/IN 
+[ funds/NNS ]
+and/CC 
+[ what/WDT interest/NN ]
+
+[ it/PRP ]
+can/MD charge/VB for/IN 
+[ loans/NNS ]
+./. 
+
+Although/IN 
+[ final/JJ figures/NNS ]
+are/VBP n't/RB yet/RB 
+[ available/JJ ]
+,/, 
+[ the/DT third/JJ period/NN 's/POS net/JJ interest/NN margin/NN ]
+narrowed/VBD somewhat/RB from/IN 
+[ 4.11/CD %/NN ]
+in/IN 
+[ the/DT second/JJ quarter/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Craig/NNP ]
+wants/VBZ to/TO see/VB 
+[ noninterest/JJ income/NN ]
+grow/VB eventually/RB to/TO about/IN 
+[ 35/CD %/NN ]
+of/IN 
+[ operating/NN profit/NN ]
+from/IN about/IN 
+[ 30/CD %/NN ]
+in/IN 
+[ the/DT latest/JJS period/NN ]
+and/CC 
+[ 25/CD %/NN ]
+before/IN 
+[ the/DT acquisition/NN ]
+./. 
+
+[ Such/JJ revenue/NN ]
+offers/VBZ 
+[ a/DT way/NN ]
+to/TO stabilize/VB 
+[ income/NN ]
+stream/NN and/CC diminish/VB 
+[ the/DT impact/NN ]
+of/IN narrowing/VBG 
+[ spreads/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, ``/`` 
+[ We/PRP ]
+'ll/MD see/VB 
+[ a/DT moderate/JJ increase/NN ]
+in/IN nonperforming/JJ 
+[ loans/NNS ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Craig/NNP ]
+,/, but/CC ``/`` 
+[ nothing/NN ]
+dramatic/JJ ./. 
+
+''/'' 
+[ Assets/NNS ]
+at/IN 
+[ the/DT close/NN ]
+of/IN 
+[ the/DT quarter/NN ]
+will/MD be/VB between/IN 
+[ $/$ 14/CD billion/CD ]
+and/CC 
+[ $/$ 14.5/CD billion/CD ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+[ Boatmen/NNPS 's/POS ]
+,/, 
+[ which/WDT ]
+has/VBZ historically/RB been/VBN very/RB strongly/RB capitalized/VBN ,/, will/MD have/VB 
+[ a/DT very/RB robust/JJ ]
+--/: about/IN 
+[ 7.5/CD %/NN ]
+--/: 
+[ equity-to-asset/NN rate/NN ]
+at/IN 
+[ the/DT quarter/NN 's/POS close/NN ]
+,/, placing/VBG 
+[ it/PRP ]
+among/IN 
+[ the/DT top/JJ 10/CD major/JJ U.S./NNP banks/NNS ]
+in/IN 
+[ that/DT category/NN ]
+,/, 
+[ Mr./NNP Craig/NNP ]
+said/VBD ./. 
+
+[ The/DT strong/JJ capitalization/NN ]
+,/, besides/IN allowing/VBG 
+[ Boatmen/NNPS ]
+'s/POS to/TO be/VB ``/`` 
+[ comfortable/JJ ]
+with/IN 
+[ a/DT ]
+relatively/RB 
+[ high/JJ ]
+ {/( 
+[ dividend/NN ]
+ }/) 
+[ payout/NN level/NN ]
+,/, ''/'' allows/VBZ 
+[ the/DT company/NN ]
+,/, ``/`` when/WRB 
+[ considering/VBG acquisitions/NNS ]
+,/, to/TO increase/VB 
+[ our/PRP$ leverage/NN ]
+if/IN 
+[ appropriate/JJ ]
+./. 
+
+''/'' 
+[ Mr./NNP Craig/NNP ]
+,/, asked/VBD if/IN 
+[ the/DT holding/VBG company/NN ]
+was/VBD interested/JJ in/IN acquiring/VBG 
+[ any/DT thrifts/NNS ]
+,/, said/VBD ,/, ``/`` 
+[ We/PRP ]
+'re/VBP always/RB looking/VBG at/IN 
+[ opportunities/NNS ]
+./. 
+
+''/'' If/IN 
+[ a/DT thrift/NN ]
+were/VBD available/JJ at/IN 
+[ the/DT right/JJ price/NN ]
+and/CC ``/`` offered/VBD 
+[ entry/NN ]
+into/IN 
+[ the/DT right/JJ market/NN ]
+,/, 
+[ we/PRP ]
+would/MD be/VB interested/JJ ./. 
+
+''/'' 
+[ He/PRP ]
+cautioned/VBD that/IN 
+[ the/DT company/NN ]
+is/VBZ ``/`` not/RB involved/JJ in/IN 
+[ anything/NN ]
+at/IN 
+[ the/DT moment/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Craig/NNP ]
+said/VBD 
+[ Boatmen/NNPS 's/POS ]
+is/VBZ ``/`` reasonably/RB confident/JJ about/IN 
+[ 1990/CD ]
+,/, ''/'' 
+[ which/WDT ]
+
+[ he/PRP ]
+says/VBZ will/MD be/VB 
+[ a/DT ]
+``/`` 
+[ positive/JJ year/NN ]
+,/, ''/'' during/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+will/MD realize/VB 
+[ the/DT biggest/JJS portion/NN ]
+of/IN 
+[ its/PRP$ projected/VBN cost/NN savings/NNS ]
+from/IN 
+[ the/DT Centerre/NNP acquisition/NN ]
+./. 

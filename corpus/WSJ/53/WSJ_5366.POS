@@ -1,0 +1,447 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT congressional/JJ subcommittee/NN ]
+voted/VBD to/TO subpoena/VB 
+[ former/JJ Housing/NNP ]
+and/CC 
+[ Urban/NNP Development/NNP Secretary/NNP Samuel/NNP Pierce/NNP ]
+,/, 
+[ who/WP ]
+abruptly/RB canceled/VBD 
+[ his/PRP$ scheduled/JJ appearance/NN last/JJ week/NN ]
+before/IN 
+[ the/DT panel/NN ]
+investigating/VBG 
+[ allegations/NNS ]
+of/IN 
+[ fraud/NN ]
+and/CC 
+[ mismanagement/NN ]
+at/IN 
+[ the/DT agency/NN ]
+./. 
+
+======================================
+
+With/IN 
+[ a/DT series/NN ]
+of/IN 
+[ unanimous/JJ roll-call/JJ votes/NNS ]
+yesterday/NN ,/, 
+[ the/DT House/NNP Government/NNP Operations/NNPS Employment/NNP ]
+and/CC 
+[ Housing/NNP subcommittee/NN ]
+directed/VBN 
+[ Mr./NNP Pierce/NNP ]
+to/TO appear/VB before/IN 
+[ it/PRP ]
+on/IN 
+[ three/CD separate/JJ dates/NNS ]
+--/: 
+[ next/JJ Tuesday/NNP ]
+,/, and/CC on/IN 
+[ Oct./NNP 27/CD ]
+and/CC 
+[ Nov./NNP 3/CD ]
+./. 
+
+======================================
+
+[ Rep./NNP Thomas/NNP Lantos/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT subcommittee/NN ]
+,/, said/VBD 
+[ the/DT panel/NN ]
+``/`` had/VBD 
+[ no/DT option/NN ]
+''/'' but/CC to/TO order/VB 
+[ Mr./NNP Pierce/NNP 's/POS appearance/NN ]
+after/IN 
+[ he/PRP ]
+canceled/VBD 
+[ his/PRP$ Sept./NNP 15/CD testimony/NN ]
+./. 
+
+======================================
+
+[ Robert/NNP Plotkin/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ Mr./NNP Pierce/NNP 's/POS lawyers/NNS ]
+,/, said/VBD 
+[ his/PRP$ client/NN ]
+will/MD obey/VB 
+[ the/DT subpoena/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+definitely/RB will/MD be/VB there/RB 
+[ Tuesday/NNP ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP 
+[ a/DT subpoena/NN ]
+,/, and/CC 
+[ we/PRP ]
+will/MD obey/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Separately/RB ]
+,/, 
+[ Mr./NNP Lantos/NNP ]
+released/VBD 
+[ a/DT letter/NN ]
+from/IN 
+[ the/DT Justice/NNP Department/NNP ]
+
+[ that/WDT ]
+says/VBZ 
+[ criminal/JJ investigations/NNS ]
+involving/VBG 
+[ HUD/NNP ]
+``/`` are/VBP under/IN 
+[ way/NN ]
+in/IN virtually/RB 
+[ all/PDT the/DT ]
+ {/( 
+[ Justice/NNP ]
+ }/) 
+[ Department/NNP 's/POS judicial/JJ districts/NNS ]
+./. 
+
+[ Eighty-three/JJ ]
+of/IN 
+[ the/DT 93/CD U.S./NNP attorneys/NNS ]
+have/VBP initiated/VBN over/IN 
+[ 700/CD criminal/JJ matters/NNS ]
+,/, with/IN 
+[ the/DT potential/NN ]
+to/TO evolve/VB into/IN over/IN 
+[ 1,000/CD individual/JJ cases/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Most/RBS of/IN 
+[ the/DT investigations/NNS concern/VBP ]
+alleged/VBN 
+[ fraud/NN ]
+in/IN 
+[ mortgage-insurance/JJ ]
+and/CC 
+[ rent-subsidy/JJ programs/NNS ]
+,/, according/VBG to/TO 
+[ the/DT letter/NN ]
+from/IN 
+[ Carol/NNP Crawford/NNP ]
+,/, 
+[ an/DT assistant/JJ attorney/NN ]
+general/JJ for/IN 
+[ legislative/JJ affairs/NNS ]
+./. 
+
+[ The/DT letter/NN ]
+stated/VBD :/: ``/`` 
+[ A/DT large/JJ number/NN ]
+involve/VBP 
+[ investigations/NNS ]
+of/IN 
+[ corruption/NN ]
+ (/( 
+[ e.g./FW bribery/NN ]
+or/CC 
+[ embezzlement/NN ]
+ )/) committed/VBN by/IN 
+[ local/JJ HUD/NNP employees/NNS ]
+
+[ who/WP ]
+administered/VBD 
+[ HUD/NNP funds/NNS ]
+or/CC by/IN 
+[ local/JJ officials/NNS ]
+
+[ who/WP ]
+were/VBD in/IN 
+[ receipt/NN ]
+of/IN 
+[ HUD/NNP grants/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Subcommittee/NN members/NNS ]
+had/VBD been/VBN critical/JJ of/IN 
+[ the/DT slow/JJ pace/NN ]
+of/IN 
+[ the/DT Justice/NNP Department/NNP 's/POS criminal/JJ investigations/NNS ]
+,/, and/CC 
+[ some/DT panel/NN members/NNS ]
+have/VBP called/VBN for/IN 
+[ the/DT appointment/NN ]
+of/IN 
+[ a/DT special/JJ prosecutor/NN ]
+to/TO investigate/VB 
+[ the/DT HUD/NNP scandals/NNS ]
+./. 
+
+Although/IN 
+[ Mr./NNP Lantos/NNP ]
+said/VBD 
+[ he/PRP ]
+had/VBD n't/RB made/VBN 
+[ a/DT decision/NN ]
+about/IN 
+[ the/DT need/NN ]
+for/IN 
+[ a/DT special/JJ prosecutor/NN ]
+,/, 
+[ he/PRP ]
+indicated/VBD that/IN 
+[ he/PRP ]
+
+[ was/VBD n't/RB ]
+satisfied/JJ with/IN 
+[ the/DT information/NN ]
+
+[ the/DT Justice/NNP Department/NNP ]
+provided/VBD in/IN 
+[ the/DT letter/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+really/RB are/VBP not/RB informed/VBN in/IN 
+[ any/DT meaningful/JJ ]
+and/CC 
+[ analytical/JJ fashion/NN ]
+on/IN 
+[ what/WP ]
+'s/VBZ happening/VBG ,/, ''/'' 
+[ he/PRP ]
+told/VBD 
+[ reporters/NNS ]
+after/IN 
+[ the/DT panel/NN 's/POS meeting/NN yesterday/NN ]
+./. 
+
+======================================
+
+[ The/DT former/JJ HUD/NNP secretary/NN ]
+voluntarily/RB testified/VBD before/IN 
+[ the/DT subcommittee/NN ]
+on/IN 
+[ May/NNP 25/CD ]
+./. 
+
+Since/IN then/RB ,/, 
+[ conflicts/NNS ]
+have/VBP arisen/VBN between/IN 
+[ his/PRP$ statements/NNS ]
+and/CC 
+[ the/DT testimony/NN ]
+of/IN 
+[ other/JJ witnesses/NNS ]
+./. 
+
+[ There/EX ]
+also/RB were/VBD 
+[ news/NN accounts/NNS ]
+indicating/VBG 
+[ that/DT his/PRP$ involvement/NN ]
+in/IN 
+[ certain/JJ HUD/NNP projects/NNS ]
+may/MD have/VB resulted/VBN in/IN 
+[ favored/JJ treatment/NN ]
+for/IN 
+[ his/PRP$ associates/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Pierce/NNP ]
+agreed/VBD to/TO testify/VB again/RB on/IN 
+[ Aug./NNP 3/CD ]
+,/, but/CC according/VBG to/TO 
+[ Mr./NNP Lantos/NNP ]
+,/, asked/VBD for/IN 
+[ a/DT postponement/NN ]
+because/IN 
+[ the/DT former/JJ secretary/NN ]
+said/VBD 
+[ he/PRP ]
+had/VBD 
+[ difficulty/NN ]
+securing/VBG 
+[ a/DT lawyer/NN ]
+./. 
+
+[ That/DT hearing/NN ]
+was/VBD rescheduled/VBN for/IN 
+[ last/JJ Friday/NNP ]
+,/, when/WRB 
+[ Mr./NNP Pierce/NNP ]
+refused/VBD to/TO appear/VB ./. 
+
+======================================
+
+[ Mr./NNP Pierce/NNP 's/POS lawyer/NN ]
+said/VBD yesterday/NN that/IN 
+[ his/PRP$ client/NN ]
+always/RB intended/VBN to/TO cooperate/VB with/IN 
+[ the/DT subcommittee/NN ]
+,/, but/CC needed/VBD 
+[ adequate/JJ time/NN ]
+to/TO prepare/VB ./. 
+
+``/`` 
+[ We/PRP ]
+continue/VBP to/TO be/VB concerned/VBN that/IN 
+[ the/DT committee/NN ]
+promotes/VBZ 
+[ speed/NN ]
+over/IN 
+[ fairness/NN ]
+,/, 
+[ accuracy/NN ]
+and/CC 
+[ truth/NN ]
+,/, ''/'' 
+[ he/PRP ]
+added/VBD ./. 
+
+[ Mr./NNP Plotkin/NNP ]
+would/MD n't/RB say/VB if/IN 
+[ Mr./NNP Pierce/NNP ]
+would/MD invoke/VB 
+[ his/PRP$ Fifth/NNP Amendment/NNP right/NN ]
+against/IN 
+[ self-incrimination/NN ]
+and/CC 
+[ decline/NN ]
+to/TO testify/VB ./. 
+
+======================================
+
+[ Voluntary/JJ agreements/NNS ]
+between/IN 
+[ congressional/JJ committees/NNS ]
+and/CC 
+[ witnesses/NNS ]
+``/`` are/VBP not/RB 
+[ social/JJ engagements/NNS ]
+to/TO be/VB broken/VBN at/IN 
+[ the/DT last/JJ minute/NN ]
+on/IN 
+[ a/DT unilateral/JJ basis/NN ]
+,/, ''/'' 
+[ Mr./NNP Lantos/NNP ]
+said/VBD before/IN 
+[ the/DT subpoena/NN votes/NNS ]
+were/VBD taken/VBN ./. 
+
+======================================
+
+[ Rep./NNP Ted/NNP Weiss/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ N.Y./NNP ]
+ )/) ,/, 
+[ a/DT panel/NN member/NN ]
+,/, accused/VBD 
+[ Mr./NNP Pierce/NNP ]
+of/IN ``/`` toying/VBG with/IN 
+[ the/DT subcommittee/NN ]
+''/'' in/IN 
+[ an/DT attempt/NN ]
+to/TO evade/VB 
+[ his/PRP$ responsibility/NN ]
+./. 
+
+======================================
+
+Because/IN 
+[ Mr./NNP Pierce/NNP ]
+broke/VBD 
+[ the/DT agreement/NN ]
+to/TO appear/VB ,/, 
+[ Mr./NNP Lantos/NNP ]
+said/VBD 
+[ he/PRP ]
+no/RB longer/RB feels/VBZ bound/VBN by/IN 
+[ an/DT understanding/NN ]
+
+[ he/PRP ]
+had/VBD with/IN 
+[ Mr./NNP Pierce/NNP ]
+about/IN 
+[ what/WP topics/NNS ]
+would/MD be/VB covered/VBN at/IN 
+[ the/DT hearing/NN ]
+./. 
+
+[ The/DT earlier/JJR agreement/NN ]
+was/VBD that/IN questioning/NN would/MD be/VB limited/VBN to/TO 
+[ topics/NNS ]
+discussed/VBN in/IN 
+[ Mr./NNP Pierce/NNP 's/POS May/NNP testimony/NN ]
+;/: 
+[ his/PRP$ role/NN ]
+in/IN providing/VBG 
+[ funds/NNS ]
+for/IN 
+[ a/DT Durham/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, housing/JJ 
+[ project/NN ]
+for/IN 
+[ the/DT elderly/JJ ]
+;/: and/CC 
+[ Mr./NNP Pierce/NNP 's/POS decision/NN ]
+to/TO lift/VB 
+[ restrictions/NNS ]
+on/IN 
+[ a/DT HUD/NNP co-insurance/NN lender/NN ]
+
+[ who/WP ]
+was/VBD represented/VBN by/IN 
+[ former/JJ HUD/NNP Secretary/NNP Carla/NNP Hills/NNP ]
+,/, now/RB 
+[ the/DT U.S./NNP trade/NN representative/NN ]
+./. 

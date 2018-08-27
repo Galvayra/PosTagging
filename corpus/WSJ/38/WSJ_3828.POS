@@ -1,0 +1,424 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Allianz/NNP AG/NNP ]
+agreed/VBD to/TO acquire/VB 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT insurance/NN interests/NNS ]
+of/IN 
+[ Cie./NNP ]
+de/NNP 
+[ Navigation/NNP Mixte/NNP ]
+for/IN about/RB 
+[ 6.5/CD billion/CD French/JJ francs/NNS ]
+ (/( 
+[ $/$ 1.02/CD billion/CD ]
+ )/) ./. 
+
+======================================
+
+[ Marc/NNP Fournier/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Navigation/NNP Mixte/NNP ]
+,/, of/IN 
+[ Paris/NNP ]
+,/, said/VBD 
+[ the/DT move/NN ]
+is/VBZ aimed/VBN at/IN 
+[ boosting/VBG Allianz/NNP 's/POS presence/NN ]
+in/IN 
+[ France/NNP ]
+while/IN giving/VBG 
+[ the/DT French/JJ company/NN 's/POS insurance/NN holdings/NNS access/NN ]
+to/TO 
+[ other/JJ markets/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ the/DT European/NNP Community/NNP proceeds/NNS ]
+with/IN 
+[ efforts/NNS ]
+to/TO 
+[ lower/VB barriers/NNS ]
+in/IN 
+[ financial/JJ services/NNS ]
+,/, 
+[ insurance/NN companies/NNS ]
+across/IN 
+[ the/DT Continent/NNP ]
+are/VBP attempting/VBG to/TO gain/VB 
+[ footholds/NNS ]
+in/IN 
+[ other/JJ EC/NNP markets/NNS ]
+./. 
+
+[ Italian/JJ ]
+and/CC 
+[ French/JJ insurance/NN companies/NNS ]
+have/VBP forged/VBN 
+[ several/JJ alliances/NNS ]
+./. 
+
+Most/RBS recently/RB in/IN 
+[ France/NNP ]
+,/, 
+[ Groupe/NNP Victoire/NNP ]
+acquired/VBD 
+[ Colonia/NNP Versicherung/NNP AG/NNP ]
+of/IN 
+[ West/NNP Germany/NNP ]
+before/IN being/VBG acquired/VBN 
+[ itself/PRP ]
+by/IN 
+[ France/NNP 's/POS Suez/NNP Group/NNP ]
+./. 
+
+======================================
+
+[ Many/JJ French/JJ competitors/NNS ]
+feared/VBD 
+[ the/DT giant/JJ Allianz/NNP Group/NNP ]
+would/MD make/VB 
+[ a/DT splashy/JJ ]
+,/, perhaps/RB 
+[ unfriendly/JJ ]
+,/, 
+[ takeover/NN move/NN ]
+in/IN 
+[ France/NNP ]
+./. 
+
+Instead/RB ,/, 
+[ the/DT West/JJ German/JJ company/NN ]
+seems/VBZ to/TO be/VB entering/VBG 
+[ the/DT market/NN ]
+as/IN 
+[ a/DT friendly/JJ partner/NN ]
+for/IN 
+[ Navigation/NNP Mixte/NNP ]
+,/, 
+[ which/WDT ]
+had/VBD feared/VBN 
+[ an/DT unfriendly/JJ investment/NN ]
+from/IN 
+[ a/DT French/JJ competitor/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Fournier/NNP ]
+said/VBD 
+[ Allianz/NNP ]
+will/MD boost/VB 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ Navigation/NNP Mixte/NNP ]
+to/TO 
+[ more/RBR ]
+than/IN 
+[ 5/CD %/NN ]
+and/CC will/MD take/VB 
+[ a/DT seat/NN ]
+on/IN 
+[ the/DT company/NN 's/POS board/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Allianz/NNP ]
+currently/RB holds/VBZ 
+[ a/DT small/JJ stake/NN ]
+in/IN 
+[ Navigation/NNP Mixte/NNP ]
+,/, but/CC declined/VBD to/TO specify/VB 
+[ the/DT amount/NN ]
+./. 
+
+[ The/DT 5/CD %/NN holding/NN ]
+has/VBZ 
+[ an/DT indicated/VBN market/NN value/NN ]
+of/IN 
+[ 720/CD million/CD francs/NNS ]
+based/VBN on/IN 
+[ Wednesday/NNP 's/POS share/NN price/NN ]
+of/IN 
+[ 1,364/CD francs/NNS ]
+,/, 
+[ the/DT latest/JJS figure/NN ]
+available/JJ ./. 
+
+======================================
+
+[ The/DT agreement/NN ]
+will/MD help/VB 
+[ Navigation/NNP Mixte/NNP ]
+fend/VB off/RP 
+[ potential/JJ raiders/NNS ]
+and/CC end/VB 
+[ speculative/JJ interest/NN ]
+
+[ that/WDT ]
+has/VBZ led/VBN to/TO 
+[ flurries/NNS ]
+of/IN 
+[ interest/NN ]
+in/IN 
+[ its/PRP$ stock/NN ]
+during/IN 
+[ the/DT past/JJ year/NN ]
+./. 
+
+Not/RB only/RB will/MD 
+[ it/PRP ]
+put/VB 
+[ half/PDT the/DT group/NN 's/POS much-coveted/JJ insurance/NN interests/NNS ]
+in/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ a/DT powerful/JJ ally/NN ]
+,/, but/CC 
+[ Mr./NNP Fournier/NNP ]
+also/RB noted/VBD that/IN 
+[ the/DT accord/NN ]
+will/MD boost/VB 
+[ Navigation/NNP Mixte/NNP 's/POS cash/NN hoard/NN ]
+to/TO about/RB 
+[ 11/CD billion/CD francs/NNS ]
+by/IN 
+[ year/NN end/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ Wednesday/NNP ]
+,/, 
+[ Navigation/NNP Mixte/NNP ]
+obtained/VBD 
+[ a/DT suspension/NN ]
+of/IN 
+[ its/PRP$ stock/NN ]
+on/IN 
+[ the/DT Paris/NNP Bourse/NNP ]
+after/IN 
+[ it/PRP ]
+shot/VBD up/RB to/TO 
+[ 1,364/CD francs/NNS ]
+
+[ a/DT share/NN ]
+,/, apparently/RB on/IN 
+[ speculative/JJ demand/NN ]
+./. 
+
+[ Cie/NNP ]
+./. 
+
+[ Financiere/NNP ]
+de/NNP 
+[ Paribas/NNP ]
+,/, 
+[ an/DT ally/NN ]
+,/, later/RB announced/VBD 
+[ it/PRP ]
+boosted/VBD 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ the/DT group/NN ]
+to/TO 
+[ 7/CD %/NN ]
+from/IN 
+[ 2/CD %/NN ]
+,/, after/IN 
+[ a/DT similar/JJ move/NN ]
+by/IN 
+[ the/DT state-owned/JJ insurer/NN Assurances/NNP Generales/NNP ]
+de/NNP 
+[ France/NNP ]
+./. 
+
+[ Mr./NNP Fournier/NNP ]
+stopped/VBD 
+[ short/JJ ]
+of/IN saying/VBG 
+[ AGF/NNP 's/POS move/NN ]
+was/VBD unwelcome/JJ ,/, but/CC said/VBD at/IN 
+[ a/DT news/NN conference/NN ]
+yesterday/NN that/IN 
+[ he/PRP ]
+had/VBD n't/RB been/VBN informed/VBN of/IN 
+[ the/DT decision/NN ]
+and/CC suggested/VBD 
+[ that/DT such/JJ communication/NN ]
+would/MD be/VB 
+[ part/NN ]
+of/IN 
+[ a/DT ]
+truly/RB 
+[ friendly/JJ gesture/NN ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT accord/NN ]
+,/, 
+[ Navigation/NNP Mixte/NNP ]
+will/MD establish/VB 
+[ a/DT holding/VBG company/NN ]
+to/TO control/VB 
+[ its/PRP$ Via/NNP Assurances/NNP ]
+and/CC 
+[ Rhin/NNP ]
+&/CC 
+[ Moselle/NNP units/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP expected/VBN to/TO have/VB 
+[ revenue/NN ]
+of/IN about/RB 
+[ eight/CD billion/CD francs/NNS ]
+in/IN 
+[ 1989/CD ]
+./. 
+
+[ Allianz/NNP Europe/NNP Ltd./NNP ]
+will/MD take/VB 
+[ a/DT 50/CD %/NN stake/NN ]
+in/IN 
+[ the/DT new/JJ holding/VBG company/NN ]
+and/CC will/MD set/VB 
+[ its/PRP$ general/JJ strategy/NN ]
+for/IN 
+[ the/DT insurance/NN sector/NN ]
+./. 
+
+[ Financial/JJ decisions/NNS ]
+will/MD be/VB made/VBN by/IN 
+[ a/DT joint/JJ committee/NN ]
+;/: 
+[ the/DT new/JJ holding/VBG company/NN 's/POS presidency/NN ]
+will/MD alternate/VB between/IN 
+[ its/PRP$ two/CD shareholders/NNS ]
+
+[ every/DT three/CD years/NNS ]
+./. 
+
+[ Navigation/NNP Mixte/NNP ]
+will/MD install/VB 
+[ the/DT first/JJ president/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Fournier/NNP ]
+said/VBD 
+[ both/DT ]
+
+[ groups/NNS ]
+have/VBP 
+[ first-refusal/JJ rights/NNS ]
+if/IN 
+[ the/DT other/JJ ]
+decides/VBZ to/TO leave/VB 
+[ the/DT venture/NN ]
+./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ Allianz/NNP ] 
+does/VBZ n't/RB currently/RB plan/VB to/TO transfer/VB 
+[ its/PRP$ ]
+existing/VBG 
+[ French/JJ interests/NNS ]
+to/TO 
+[ the/DT new/JJ holding/VBG company/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+added/VBD that/IN 
+[ such/JJ a/DT move/NN ]
+could/MD be/VB made/VBN in/IN 
+[ the/DT future/NN ]
+./. 
+
+======================================
+
+[ Allianz/NNP ]
+is/VBZ 
+[ Europe/NNP 's/POS biggest/JJS insurer/NN ]
+,/, with/IN 
+[ annual/JJ premium/NN income/NN ]
+of/IN about/RB 
+[ 100/CD billion/CD francs/NNS ]
+,/, 
+[ the/DT companies/NNS ]
+said/VBD ./. 
+
+For/IN 
+[ 1988/CD ]
+,/, 
+[ it/PRP ]
+posted/VBD 
+[ world-wide/JJ group/NN pretax/NN profit/NN ]
+of/IN 
+[ 1.24/CD billion/CD marks/NNS ]
+ (/( 
+[ $/$ 671.4/CD million/CD ]
+ )/) ./. 
+
+======================================
+
+[ Navigation/NNP Mixte/NNP ]
+,/, 
+[ which/WDT ]
+also/RB controls/VBZ 
+[ a/DT portfolio/NN ]
+of/IN 
+[ transport/NN ]
+,/, 
+[ travel/NN ]
+,/, 
+[ industrial/JJ ]
+and/CC 
+[ food-sector/JJ holdings/NNS ]
+,/, had/VBD consolidated/VBN 
+[ net/JJ profit/NN ]
+of/IN 
+[ 989/CD million/CD francs/NNS ]
+in/IN 
+[ 1988/CD ]
+on/IN 
+[ revenue/NN ]
+of/IN 
+[ 18.13/CD billion/CD francs/NNS ]
+./. 
+
+About/RB 
+[ 38/CD %/NN ]
+of/IN 
+[ its/PRP$ consolidated/JJ revenue/NN ]
+is/VBZ generated/VBN by/IN 
+[ insurance/NN operations/NNS ]
+,/, 
+[ Mr./NNP Fournier/NNP ]
+said/VBD ./. 

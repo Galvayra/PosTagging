@@ -1,0 +1,946 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Unusual/JJ things/NNS ]
+are/VBP happening/VBG as/IN 
+[ this/DT ]
+sparsely/RB populated/VBN 
+[ British/JJ colony/NN ]
+becomes/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT world/NN 's/POS fastest-growing/JJ tax/NN havens/NNS ]
+:/: 
+[ Government/NN typists/NNS ]
+are/VBP being/VBG hired/VBN away/RB at/IN 
+[ triple/JJ their/PRP$ pay/NN ]
+;/: 
+[ a/DT charter-boat/NN skipper/NN ]
+is/VBZ raking/VBG in/IN 
+[ a/DT six-figure/JJ income/NN ]
+as/IN 
+[ an/DT engraver/NN ]
+;/: and/CC 
+[ people/NNS ]
+are/VBP saying/VBG 
+[ nice/JJ things/NNS ]
+about/IN 
+[ Panamanian/JJ strongman/NN Gen./NNP Manuel/NNP Noriega/NNP ]
+./. 
+
+======================================
+
+[ Thousands/NNS ]
+of/IN 
+[ foreigners/NNS ]
+--/: but/CC almost/RB 
+[ no/DT Americans/NNPS ]
+--/: looking/VBG to/TO avoid/VB 
+[ the/DT long/JJ arm/NN ]
+of/IN 
+[ the/DT tax/NN man/NN ]
+are/VBP setting/VBG up/IN 
+[ dummy/JJ corporations/NNS ]
+on/IN 
+[ these/DT small/JJ islands/NNS ]
+east/JJ of/IN 
+[ Puerto/NNP Rico/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP described/VBN as/IN 
+[ the/DT Delaware/NNP ]
+of/IN 
+[ the/DT Caribbean/NNP ]
+,/, ''/'' says/VBZ 
+[ Financial/NNP Secretary/NNP Robert/NNP A./NNP Mathavious/NNP ]
+./. 
+
+``/`` 
+[ The/DT growth/NN ]
+has/VBZ exceeded/VBN 
+[ our/PRP$ wildest/JJS imaginations/NNS ]
+./. 
+
+''/'' 
+======================================
+
+On/IN 
+[ reclaimed/VBN land/NN ]
+on/IN 
+[ Wickhams/NNP Cay/NNP ]
+in/IN 
+[ Road/NNP Town/NNP ]
+,/, 
+[ the/DT capital/NN ]
+,/, 
+[ new/JJ office/NN buildings/NNS ]
+are/VBP encroaching/VBG on/IN 
+[ the/DT T-shirt/NN shops/NNS ]
+and/CC 
+[ sailor/NN bars/NNS ]
+./. 
+
+[ The/DT main/JJ drag/NN ]
+is/VBZ torn/VBN up/IN as/IN 
+[ workers/NNS ]
+lay/VBP 
+[ new/JJ power/NN lines/NNS ]
+./. 
+
+[ Jobs/NNS ]
+at/IN 
+[ trust/NN companies/NNS ]
+,/, 
+[ law/NN firms/NNS ]
+,/, 
+[ banks/NNS ]
+and/CC 
+[ the/DT like/JJ ]
+are/VBP being/VBG added/VBN by/IN 
+[ the/DT score/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Mathavious/NNP ]
+,/, 
+[ a/DT 36-year-old/JJ economics/NNS ]
+graduate/JJ of/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ the/DT West/NNP Indies/NNPS ]
+,/, says/VBZ 
+[ the/DT booming/JJ financial/JJ sector/NN ]
+here/RB will/MD soon/RB pull/VB even/RB with/IN 
+[ tourism/NN ]
+,/, 
+[ the/DT dominant/JJ industry/NN ]
+,/, in/IN supporting/VBG 
+[ the/DT island/NN government/NN 's/POS $/$ 32/CD million/CD annual/JJ budget/NN ]
+./. 
+
+[ Mr./NNP Mathavious/NNP ]
+,/, 
+[ who/WP ]
+makes/VBZ 
+[ $/$ 30,000/CD ]
+
+[ a/DT year/NN ]
+,/, says/VBZ 
+[ the/DT trust/NN companies/NNS ]
+are/VBP hiring/VBG away/RB 
+[ his/PRP$ clerical/JJ workers/NNS ]
+,/, 
+[ some/DT ]
+at/IN 
+[ salaries/NNS ]
+higher/JJR than/IN 
+[ his/PRP$ own/JJ ]
+./. 
+
+======================================
+
+For/IN 
+[ a/DT quarter-century/NN the/DT British/NNP Virgin/NNP Islands/NNPS ] 
+enjoyed/VBD 
+[ favorable/JJ tax/NN treatment/NN ]
+through/IN 
+[ a/DT United/NNP Kingdom/NNP treaty/NN ]
+with/IN 
+[ the/DT U.S./NNP ]
+
+[ that/WDT ]
+enabled/VBD 
+[ it/PRP ]
+to/TO build/VB 
+[ a/DT modest/JJ tax-haven/JJ business/NN ]
+./. 
+
+But/CC in/IN 
+[ the/DT late/JJ 1970s/CD ]
+,/, 
+[ Uncle/NNP Sam/NNP ]
+got/VBD 
+[ nasty/JJ ]
+,/, 
+[ demanding/JJ information/NN ]
+previously/RB held/VBN 
+[ secret/JJ ]
+and/CC insisting/VBG on/IN 
+[ limits/NNS ]
+on/IN 
+[ who/WP ]
+could/MD form/VB 
+[ tax-haven/JJ companies/NNS ]
+here/RB ,/, 
+[ Mr./NNP Mathavious/NNP ]
+says/VBZ ./. 
+
+As/IN 
+[ negotiations/NNS ]
+for/IN 
+[ a/DT new/JJ treaty/NN ]
+dragged/VBD into/IN 
+[ the/DT Reagan/NNP administration/NN ]
+,/, 
+[ it/PRP ]
+became/VBD clear/JJ to/TO 
+[ BVIslanders/NNS ]
+--/: as/IN 
+[ they/PRP ]
+call/VBP 
+[ themselves/PRP ]
+--/: that/IN 
+[ they/PRP ]
+would/MD have/VB to/TO develop/VB 
+[ an/DT offshore/JJ haven/NN ]
+
+[ that/WDT was/VBD n't/RB ]
+reliant/JJ on/IN 
+[ the/DT ]
+
+======================================
+
+``/`` 
+[ The/DT Reagan/NNP administration/NN ]
+wanted/VBD 
+[ us/PRP ]
+to/TO become/VB 
+[ an/DT arm/NN ]
+of/IN 
+[ the/DT IRS/NNP ]
+,/, ''/'' 
+[ Mr./NNP Mathavious/NNP ]
+recalls/VBZ ./. 
+
+``/`` Give/VB 
+[ them/PRP ]
+
+[ an/DT inch/NN ]
+and/CC 
+[ they/PRP ]
+want/VBP 
+[ a/DT mile/NN ]
+,/, ''/'' says/VBZ 
+[ Richard/NNP Peters/NNP ]
+,/, 
+[ the/DT leading/VBG tax/NN lawyer/NN ]
+on/IN 
+[ the/DT island/NN ]
+of/IN 
+[ Tortola/NNP ]
+,/, and/CC 
+[ guardian/NN ]
+to/TO more/JJR than/IN 
+[ 3,000/CD companies/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+'re/VBP not/RB 
+[ gentlemen/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT treaty/NN ]
+was/VBD terminated/VBN in/IN 
+[ 1984/CD ]
+,/, and/CC 
+[ Mr./NNP Peters/NNP ]
+and/CC 
+[ others/NNS ]
+drew/VBD up/IN 
+[ the/DT BVI/NNP 's/POS International/NNP Business/NNP Companies/NNPS Ordinance/NNP ]
+./. 
+
+For/IN 
+[ $/$ 300/CD ]
+down/IN and/CC 
+[ $/$ 300/CD ]
+
+[ a/DT year/NN ]
+to/TO 
+[ the/DT government/NN ]
+,/, 
+[ you/PRP ]
+can/MD park/VB 
+[ any/DT lawful/JJ assets/NNS ]
+in/IN 
+[ a/DT company/NN ]
+here/RB ,/, avoid/VB 
+[ taxes/NNS ]
+from/IN 
+[ all/DT sorts/NNS ]
+of/IN 
+[ places/NNS ]
+,/, and/CC not/RB tell/VB 
+[ anybody/NN ]
+
+[ who/WP ]
+--/: or/CC where/WRB 
+[ --you/JJ ]
+are/VBP ./. 
+
+======================================
+
+Typically/RB ,/, 
+[ two/CD layers/NNS ]
+of/IN 
+[ discreet/JJ lawyers/NNS ]
+stand/VBP between/IN 
+[ you/PRP ]
+and/CC 
+[ nosy/JJ government/NN types/NNS ]
+./. 
+
+[ One/CD ]
+of/IN 
+[ those/DT layers/NNS ]
+is/VBZ in/IN 
+[ the/DT investor/NN 's/POS home/NN country/NN ]
+,/, meaning/VBG that/IN in/IN 
+[ the/DT BVI/NNP ]
+,/, 
+[ lawyers/NNS ]
+,/, 
+[ trust/NN companies/NNS ]
+and/CC 
+[ the/DT government/NN ]
+rarely/RB have/VBP 
+[ the/DT faintest/JJS idea/NN ]
+
+[ who/WP ]
+has/VBZ set/VBN up/IN 
+[ a/DT company/NN ]
+here/RB ./. 
+
+======================================
+
+Under/IN 
+[ the/DT old/JJ tax/NN treaty/NN ]
+,/, 
+[ Mr./NNP Peters/NNP ]
+says/VBZ ,/, 
+[ U.S./NNP withholding/NN ]
+on/IN 
+[ dividends/NNS ]
+and/CC 
+[ royalties/NNS ]
+was/VBD reduced/VBN substantially/RB for/IN 
+[ non-U.S./JJ citizens/NNS ]
+holding/VBG 
+[ U.S./NNP assets/NNS ]
+through/IN 
+[ a/DT company/NN ]
+here/RB ./. 
+
+And/CC 
+[ BVI/NNP taxes/NNS ]
+on/IN 
+[ that/DT income/NN ]
+were/VBD little/JJ or/CC 
+[ nothing/NN ]
+in/IN 
+[ most/JJS cases/NNS ]
+./. 
+
+======================================
+
+When/WRB 
+[ the/DT treaty/NN ]
+was/VBD lost/VBN ,/, that/DT 
+[ tax/NN benefit/NN ]
+was/VBD ,/, too/RB ./. 
+
+But/CC 
+[ the/DT new/JJ BVI/NNP ordinance/NN ]
+provides/VBZ 
+[ a/DT broader/JJR array/NN ]
+of/IN 
+[ benefits/NNS ]
+./. 
+
+For/IN 
+[ investors/NNS ]
+,/, such/JJ as/IN 
+[ those/DT ]
+in/IN 
+[ Eastern/NNP Europe/NNP ]
+,/, 
+[ who/WP ]
+fear/VBP 
+[ their/PRP$ wealth/NN ]
+could/MD be/VB seized/VBN ,/, 
+[ the/DT law/NN ]
+allows/VBZ 
+[ them/PRP ]
+to/TO transfer/VB 
+[ control/NN ]
+of/IN 
+[ assets/NNS ]
+here/RB and/CC keep/VB 
+[ their/PRP$ true/JJ ownership/NN secret/NN ]
+./. 
+
+For/IN 
+[ wealthy/JJ men/NNS ]
+
+[ who/WP ]
+want/VBP to/TO evade/VB 
+[ laws/NNS ]
+in/IN 
+[ Latin/NNP America/NNP ]
+and/CC 
+[ parts/NNS ]
+of/IN 
+[ Europe/NNP ]
+
+[ that/WDT ]
+require/VBP 
+[ portions/NNS ]
+of/IN 
+[ estates/NNS ]
+to/TO go/VB to/TO 
+[ wives/NNS ]
+,/, placing/VBG 
+[ assets/NNS ]
+in/IN 
+[ a/DT BVI/NNP company/NN ]
+gives/VBZ 
+[ them/PRP ]
+
+[ the/DT freedom/NN ]
+to/TO leave/VB 
+[ their/PRP$ wealth/NN ]
+to/TO 
+[ anyone/NN ]
+
+[ they/PRP ]
+choose/VBP ./. 
+
+[ The/DT BVI/NNP law/NN ]
+also/RB makes/VBZ 
+[ it/PRP ]
+easier/JJR for/IN 
+[ majority/NN stockholders/NNS ]
+to/TO squeeze/VB out/IN 
+[ minority/NN holders/NNS ]
+,/, and/CC allows/VBZ 
+[ the/DT issuance/NN ]
+of/IN 
+[ so-called/JJ bearer/NN shares/NNS ]
+,/, meaning/VBG 
+[ that/IN ownership/NN ]
+in/IN 
+[ a/DT company/NN ]
+can/MD be/VB transferred/VBN easily/RB and/CC anonymously/RB ./. 
+
+======================================
+
+Though/IN 
+[ the/DT tax/NN ]
+breaks/NNS of/IN 
+[ the/DT old/JJ treaty/NN ]
+are/VBP gone/VBN ,/, 
+[ individuals/NNS ]
+and/CC 
+[ private/JJ companies/NNS ]
+in/IN 
+[ Latin/NNP America/NNP ]
+,/, 
+[ Europe/NNP ]
+and/CC 
+[ Asia/NNP ]
+can/MD still/RB reduce/VB 
+[ their/PRP$ taxes/NNS ]
+by/IN holding/VBG 
+[ assets/NNS ]
+through/IN 
+[ a/DT string/NN ]
+of/IN 
+[ companies/NNS ]
+based/VBN here/RB and/CC in/IN 
+[ other/JJ tax/NN havens/NNS ]
+,/, 
+[ lawyers/NNS ]
+say/VBP ./. 
+
+But/CC 
+[ BVI/NNP companies/NNS ]
+are/VBP of/IN almost/RB 
+[ no/DT use/NN ]
+to/TO 
+[ residents/NNS ]
+of/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ tax/NN laws/NNS ]
+
+[ that/WDT ]
+look/VBP askance/RB at/IN 
+[ dummy/JJ corporations/NNS ]
+,/, 
+[ Mr./NNP Peters/NNP notes/VBZ ]
+./. 
+
+======================================
+
+[ The/DT Reagan/NNP Treasury/NNP 's/POS hard/JJ line/NN ]
+cost/VBD 
+[ BVI-based/JJ companies/NNS ]
+
+[ a/DT valuable/JJ ]
+,/, though/IN 
+[ narrow/JJ ]
+,/, 
+[ tax/NN benefit/NN ]
+./. 
+
+But/CC 
+[ the/DT new/JJ tax-haven/JJ law/NN ]
+made/VBD 
+[ the/DT colony/NN ]
+
+[ a/DT broader/JJR offshore/JJ financial/JJ center/NN ]
+./. 
+
+After/IN 
+[ the/DT law/NN ]
+was/VBD instituted/VBN ,/, 
+[ all/DT it/PRP ]
+needed/VBD was/VBD 
+[ a/DT panic/NN ]
+in/IN 
+[ an/DT established/VBN tax/NN haven/NN ]
+to/TO chase/VB 
+[ some/DT business/NN ]
+
+[ this/DT way/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ just/RB 
+[ what/WP ]
+happened/VBD when/WRB 
+[ Gen./NNP Noriega/NNP ]
+,/, facing/VBG 
+[ U.S./NNP financial/JJ pressure/NN ]
+to/TO get/VB 
+[ him/PRP ]
+to/TO step/VB down/IN ,/, declared/VBD 
+[ a/DT banking/NN holiday/NN ]
+in/IN 
+[ 1988/CD ]
+./. 
+
+[ Wealthy/NNP Latin/NNP Americans/NNPS ]
+,/, 
+[ Europeans/NNPS ]
+and/CC 
+[ Asians/NNPS ]
+pulled/VBD 
+[ their/PRP$ hidden/VBN assets/NNS ]
+out/IN of/IN 
+[ Panama/NNP ]
+for/IN 
+[ more/JJR stable/JJ havens/NNS ]
+./. 
+
+======================================
+
+Since/IN then/RB ,/, 
+[ formation/NN ]
+of/IN 
+[ companies/NNS ]
+in/IN 
+[ the/DT BVI/NNP ]
+has/VBZ mushroomed/VBN ,/, to/TO 
+[ 6,600/CD last/JJ year/NN ]
+--/: 
+[ many/JJ ]
+of/IN 
+[ them/PRP transfers/NNS ]
+of/IN 
+[ Panamanian/JJ companies/NNS ]
+./. 
+
+In/IN 
+[ all/DT ]
+,/, 
+[ tax-haven/NN companies/NNS ]
+now/RB outnumber/VBP 
+[ the/DT 12,000/CD ]
+or/CC so/RB 
+[ residents/NNS ]
+of/IN 
+[ the/DT colony/NN ]
+./. 
+
+``/`` 
+[ Noriega/NNP ]
+has/VBZ given/VBN 
+[ us/PRP ]
+quite/RB 
+[ a/DT boost/NN ]
+,/, ''/'' says/VBZ 
+[ Janice/NNP M./NNP George-Creque/NNP ]
+,/, 
+[ one/CD ]
+of/IN just/RB 
+[ five/CD BVIslander/NN lawyers/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ top/NN ]
+of/IN 
+[ the/DT government/NN fee/NN ]
+,/, 
+[ a/DT law/NN firm/NN ]
+or/CC 
+[ trust/NN company/NN ]
+here/RB typically/RB charges/VBZ about/IN 
+[ $/$ 1,000/CD ]
+to/TO set/VB up/IN 
+[ a/DT company/NN ]
+./. 
+
+[ The/DT orders/NNS ]
+usually/RB come/VBP through/IN 
+[ an/DT overseas/JJ law/NN firm/NN ]
+,/, so/IN 
+[ nobody/NN ]
+in/IN 
+[ Road/NNP Town/NNP ]
+knows/VBZ 
+[ who/WP ]
+owns/VBZ 
+[ the/DT company/NN ]
+./. 
+
+Or/CC for/IN 
+[ what/WDT purpose/NN ]
+./. 
+
+[ There/EX ]
+apparently/RB is/VBZ n't/RB 
+[ any/DT way/NN ]
+to/TO know/VB whether/IN 
+[ a/DT company/NN 's/POS assets/NNS ]
+represent/VBP 
+[ profits/NNS ]
+of/IN 
+[ the/DT drug/NN trade/NN ]
+,/, 
+[ the/DT plague/NN ]
+of/IN 
+[ most/JJS Caribbean/JJ tax/NN havens/NNS ]
+./. 
+
+[ BVI/NNP lawyers/NNS ]
+and/CC 
+[ trust/NN companies/NNS ]
+say/VBP 
+[ they/PRP ]
+depend/VBP on/IN 
+[ the/DT overseas/JJ lawyers/NNS ]
+to/TO screen/VB out/IN 
+[ money/NN launderers/NNS ]
+or/CC 
+[ others/NNS whose/WP$ motives/NNS ]
+are/VBP suspect/JJ ./. 
+
+``/`` 
+[ Money/NN changes/NNS hands/NNS ]
+,/, ''/'' says/VBZ 
+[ Geoff/NNP Williams/NNP ]
+,/, 
+[ manager/NN ]
+of/IN 
+[ Barclays/NNP Banks/NNPS PLC/NNP 's/POS office/NN ]
+in/IN 
+[ Road/NNP Town/NNP ]
+./. 
+
+``/`` 
+[ Who/WP ]
+can/MD tell/VB if/IN 
+[ it/PRP ]
+'s/VBZ dirty/JJ or/CC 
+[ it/PRP ]
+'s/VBZ clean/JJ ?/. 
+
+''/'' Even/RB so/RB ,/, 
+[ BVI/NNP banks/NNS ]
+have/VBP voluntarily/RB limited/VBN 
+[ each/DT cash/NN transaction/NN ]
+to/TO 
+[ $/$ 5,000/CD ]
+in/IN 
+[ an/DT effort/NN ]
+to/TO curb/VB 
+[ money/NN ]
+laundering/NN ./. 
+
+======================================
+
+[ Barclays/NNPS ]
+and/CC 
+[ the/DT three/CD other/JJ banks/NNS ]
+here/RB have/VBP combined/VBN 
+[ deposits/NNS ]
+of/IN about/IN 
+[ $/$ 200/CD million/CD ]
+,/, far/RB more/RBR than/IN 
+[ they/PRP ]
+are/VBP able/JJ to/TO lend/VB locally/RB ./. 
+
+[ Money/NN ]
+on/IN 
+[ deposit/NN ]
+is/VBZ expected/VBN to/TO keep/VB growing/VBG ,/, and/CC 
+[ more/JJR banks/NNS ]
+are/VBP expected/VBN to/TO seek/VB 
+[ charters/NNS ]
+./. 
+
+[ The/DT government/NN ]
+is/VBZ also/RB preparing/VBG to/TO lure/VB 
+[ insurance/NN companies/NNS ]
+with/IN 
+[ a/DT tax/NN law/NN ]
+just/RB for/IN 
+[ them/PRP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+ca/MD n't/RB have/VB 
+[ a/DT one-product/NN financial/JJ center/NN ]
+,/, ''/'' 
+[ Mr./NNP Mathavious/NNP ]
+says/VBZ ./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ the/DT colony/NN 's/POS 40/CD ]
+or/CC so/RB 
+[ islands/NNS ]
+,/, more/JJR than/IN 
+[ half/DT uninhabited/JJ ]
+,/, are/VBP as/RB natural/JJ 
+[ a/DT haven/NN ]
+for/IN 
+[ dope/NN smugglers/NNS ]
+as/IN 
+[ they/PRP ]
+were/VBD for/IN 
+[ pirates/NNS ]
+when/WRB 
+[ Sir/NNP Francis/NNP Drake/NNP ]
+passed/VBD 
+[ this/DT way/NN centuries/NNS ]
+ago/IN ./. 
+
+[ The/DT U.S./NNP Virgin/NNP Islands/NNPS ]
+,/, 
+[ an/DT entry/NN point/NN ]
+for/IN 
+[ drugs/NNS ]
+headed/VBD for/IN 
+[ the/DT mainland/NN ]
+,/, are/VBP less/JJR than/IN 
+[ a/DT mile/NN ]
+from/IN 
+[ the/DT BVI/NNP 's/POS main/JJ island/NN ]
+of/IN 
+[ Tortola/NNP ]
+./. 
+
+And/CC 
+[ drug/NN runners/NNS ]
+have/VBP stopped/VBN 
+[ paying/VBG cash/NN ]
+to/TO 
+[ locals/NNS ]
+
+[ who/WP ]
+help/VBP 
+[ them/PRP ]
+,/, 
+[ the/DT government/NN ]
+says/VBZ ,/, instead/RB paying/VBG ``/`` in/IN 
+[ kind/NN ]
+,/, ''/'' leading/VBG to/TO 
+[ increased/VBN cocaine/NN use/NN ]
+here/RB ./. 
+
+======================================
+
+[ Another/DT looming/VBG problem/NN ]
+:/: 
+[ Few/JJ BVIslanders/NNS ]
+have/VBP moved/VBN past/IN 
+[ the/DT bottom/NN ]
+rung/NN of/IN 
+[ the/DT financial/JJ ladder/NN ]
+./. 
+
+[ Chief/NNP Minister/NNP H./NNP Lavity/NNP Stoutt/NNP ]
+,/, 
+[ the/DT BVI/NNP 's/POS top/JJ elected/VBN official/NN ]
+,/, has/VBZ made/VBN moving/VBG 
+[ BVIslanders/NNS ]
+into/IN 
+[ professional-level/JJ financial/JJ jobs/NNS ]
+
+[ a/DT top/JJ goal/NN ]
+of/IN 
+[ his/PRP$ administration/NN ]
+./. 
+
+======================================
+
+For/IN now/RB ,/, 
+[ expatriates/NNS ]
+do/VBP most/JJS of/IN 
+[ the/DT ]
+lawyering/NN ,/, lending/NN and/CC managing/NN ./. 
+
+And/CC getting/VBG 
+[ them/PRP ]
+to/TO share/VB is/VBZ n't/RB always/RB easy/JJ ./. 
+
+======================================
+
+[ Dirk/NNP de/NNP Jong/NNP ]
+knocked/VBD around/IN 
+[ the/DT Caribbean/NNP ]
+for/IN 
+[ 20/CD years/NNS ]
+,/, skippering/VBG 
+[ a/DT charter/NN boat/NN ]
+,/, before/IN moving/VBG to/TO 
+[ Tortola/NNP ]
+with/IN 
+[ no/DT job/NN ]
+and/CC 
+[ no/DT business/NN ]
+./. 
+
+Over/IN 
+[ drinks/NNS ]
+,/, 
+[ he/PRP ]
+met/VBD 
+[ a/DT fellow/NN Dutchman/NNP ]
+
+[ who/WP ]
+runs/VBZ 
+[ a/DT trust/NN company/NN ]
+./. 
+
+[ The/DT man/NN ]
+suggested/VBD that/IN 
+[ Mr./NNP de/NNP Jong/NNP ]
+learn/VB to/TO engrave/VB 
+[ the/DT corporate/JJ seals/NNS ]
+required/VBN for/IN 
+[ each/DT dummy/JJ corporation/NN ]
+so/IN that/IN 
+[ law/NN firms/NNS ]
+and/CC 
+[ trust/NN companies/NNS ]
+would/MD n't/RB have/VB to/TO send/VB away/RB to/TO 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP de/NNP Jong/NNP ]
+says/VBZ 
+[ the/DT government/NN ]
+issued/VBD 
+[ him/PRP ]
+
+[ a/DT business/NN license/NN ]
+on/IN 
+[ the/DT condition/NN ]
+
+[ he/PRP ]
+hire/VB 
+[ an/DT islander/NN ]
+as/IN 
+[ an/DT apprentice/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+never/RB has/VBZ ,/, instead/RB working/VBG 
+[ 70/CD hours/NNS ]
+or/CC more/JJR 
+[ a/DT week/NN ]
+to/TO keep/VB up/IN with/IN 
+[ demand/NN ]
+./. 
+
+[ He/PRP ]
+engraves/VBZ 
+[ 100/CD ]
+
+[ a/DT week/NN ]
+,/, 
+[ $/$ 25/CD each/DT ]
+,/, 
+[ $/$ 7.50/CD extra/JJ ]
+for/IN 
+[ rush/NN jobs/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP 
+[ a/DT loner/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, in/IN 
+[ his/PRP$ workshop/NN ]
+atop/IN 
+[ Tortola/NNP 's/POS highest/JJS peak/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'d/MD be/VB distracted/VBN ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Bailey/NNP ]
+is/VBZ 
+[ a/DT staff/NN reporter/NN ]
+in/IN 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP 's/POS Chicago/NNP bureau/NN ]
+./. 

@@ -1,0 +1,531 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ MCI/NNP Communications/NNPS Corp./NNP ]
+turned/VBD up/IN 
+[ the/DT heat/NN ]
+in/IN 
+[ the/DT phone/NN wars/NNS ]
+by/IN suing/VBG 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+for/IN allegedly/RB false/JJ and/CC 
+[ deceptive/JJ advertising/NN claims/NNS ]
+./. 
+
+======================================
+
+[ AT*/NNP&T/NN ]
+said/VBD 
+[ it/PRP ]
+is/VBZ planning/VBG 
+[ a/DT countersuit/NN ]
+,/, 
+[ an/DT action/NN ]
+
+[ that/WDT ]
+guarantees/VBZ 
+[ an/DT intriguing/JJ insight/NN ]
+into/IN 
+[ the/DT ]
+ferociously/RB 
+[ competitive/JJ long-distance/JJ telephone/NN industry/NN ]
+./. 
+
+======================================
+
+[ MCI/NNP ]
+filed/VBD 
+[ suit/NN ]
+in/IN 
+[ federal/JJ district/NN court/NN ]
+here/RB under/IN 
+[ the/DT Lanham/NNP Act/NNP ]
+,/, 
+[ a/DT law/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ competitors/NNS ]
+to/TO seek/VB 
+[ damages/NNS ]
+for/IN 
+[ false/JJ advertising/NN ]
+./. 
+
+[ MCI/NNP ]
+,/, 
+[ which/WDT ]
+asked/VBD for/IN 
+[ a/DT jury/NN trial/NN ]
+,/, wants/VBZ 
+[ preliminary/JJ ]
+and/CC 
+[ permanant/JJ injunctions/NNS ]
+to/TO stop/VB 
+[ AT&T/NNP ]
+from/IN making/VBG 
+[ allegedly/RB false/JJ claims/NNS ]
+that/IN 
+[ AT&T/NNP service/NN ]
+is/VBZ better/JJR or/CC cheaper/JJR than/IN 
+[ MCI/NNP 's/POS ]
+,/, or/CC that/IN 
+[ MCI/NNP ]
+has/VBZ misrepresented/VBN 
+[ the/DT price/NN ]
+or/CC 
+[ quality/NN ]
+of/IN 
+[ its/PRP$ service/NN ]
+./. 
+
+[ MCI/NNP ]
+also/RB asked/VBD that/IN 
+[ AT&T/NNP 's/POS ads/NNS ]
+contain/VB 
+[ a/DT ]
+``/`` 
+[ court-approved/JJ corrective/JJ notice/NN ]
+''/'' to/TO mitigate/VB 
+[ any/DT ]
+
+[ lingering/VBG effects/NNS ]
+of/IN 
+[ the/DT allegedly/RB deceptive/JJ ]
+advertising/NN ,/, and/CC 
+[ it/PRP ]
+seeks/VBZ 
+[ an/DT unspecified/JJ amount/NN ]
+of/IN 
+[ damages/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Our/PRP$ goal/NN ]
+is/VBZ to/TO put/VB 
+[ an/DT end/NN ]
+to/TO 
+[ this/DT torrent/NN ]
+of/IN 
+[ lies/NNS ]
+,/, 
+[ misstatements/NNS ]
+and/CC 
+[ distortions/NNS ]
+,/, ''/'' 
+[ MCI/NNP Chairman/NNP William/NNP McGowan/NNP ]
+told/VBD 
+[ a/DT news/NN conference/NN ]
+./. 
+
+Among/IN 
+[ the/DT examples/NNS ]
+
+[ he/PRP ]
+cited/VBD were/VBD 
+[ AT&T/NNP 's/POS warning/NN ]
+to/TO 
+[ business/NN customers/NNS ]
+
+[ who/WP ]
+were/VBD n't/RB using/VBG 
+[ AT&T/NNP ]
+that/IN ``/`` 
+[ you/PRP ]
+could/MD be/VB doing/VBG 
+[ business/NN ]
+up/IN to/TO 
+[ 30/CD %/NN ]
+slower/JJR than/IN 
+[ your/PRP$ competition/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP McGowan/NNP ]
+also/RB cited/VBD 
+[ ads/NNS ]
+about/IN 
+[ MCI/NNP Fax/NNP ]
+being/VBG more/RBR error-prone/JJ than/IN 
+[ AT&T/NNP 's/POS switched/JJ network/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP McGowan/NNP ]
+said/VBD 
+[ the/DT company/NN ]
+has/VBZ been/VBN examining/VBG 
+[ AT&T/NNP 's/POS ad/NN campaign/NN ]
+since/IN 
+[ it/PRP ]
+was/VBD launched/VBN in/IN 
+[ January/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ MCI/NNP ]
+became/VBD alarmed/VBN at/IN 
+[ the/DT broadcast/NN ]
+and/CC 
+[ print/NN ads/NNS ]
+
+[ that/WDT ]
+appeared/VBD 
+[ this/DT summer/NN ]
+after/IN 
+[ MCI/NNP ]
+announced/VBD 
+[ a/DT push/NN ]
+for/IN more/RBR of/IN 
+[ the/DT $/$ 23/CD billion/CD residential/JJ market/NN ]
+./. 
+
+======================================
+
+[ MCI/NNP 's/POS outside/JJ counsel/NN ]
+,/, 
+[ Richard/NNP J./NNP Leighton/NNP ]
+of/IN 
+[ the/DT Washington/NNP law/NN firm/NN ]
+of/IN 
+[ Leighton/NNP ]
+and/CC 
+[ Regnery/NNP ]
+,/, said/VBD 
+[ MCI/NNP ]
+has/VBZ begun/VBN 
+[ conducting/VBG surveys/NNS ]
+of/IN 
+[ consumers/NNS ]
+and/CC 
+[ businesses/NNS ]
+to/TO determine/VB 
+[ the/DT negative/JJ effect/NN ]
+from/IN 
+[ the/DT advertising/NN campaign/NN ]
+./. 
+
+In/IN 
+[ August/NNP ]
+,/, 
+[ Mr./NNP Leighton/NNP 's/POS firm/NN ]
+won/VBD 
+[ $/$ 10.4/CD million/CD ]
+in/IN 
+[ damages/NNS ]
+for/IN 
+[ Alpo/NNP Petfoods/NNPS Inc./NNP ]
+after/IN filing/VBG 
+[ a/DT Lanham/NNP Act/NNP suit/NN ]
+against/IN 
+[ Ralston/NNP Purina/NNP Co./NNP ]
+,/, alleging/VBG 
+[ false/JJ claims/NNS ]
+made/VBN for/IN 
+[ Purina/NNP Puppy/NNP Chow/NNP ]
+,/, 
+[ which/WDT ]
+dominates/VBZ that/IN 
+[ market/NN niche/NN ]
+./. 
+
+======================================
+
+[ News/NN ]
+of/IN 
+[ the/DT lawsuit/NN ]
+and/CC expected/VBN 
+[ counterclaim/NN ]
+--/: and/CC perhaps/RB 
+[ some/DT fallout/NN ]
+from/IN 
+[ US/NNP ]
+
+[ Sprint/NNP earnings/NNS ]
+
+[ that/WDT ]
+did/VBD n't/RB live/VB up/IN to/TO 
+[ analysts/NNS '/POS projections/NNS ]
+--/: sent/VBD 
+[ shares/NNS ]
+of/IN 
+[ both/DT MCI/NNP ]
+and/CC 
+[ AT&T/NNP lower/JJR ]
+./. 
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ,/, 
+[ AT&T/NNP ]
+closed/VBD at/IN 
+[ $/$ 43/CD ]
+,/, down/IN 
+[ 75/CD cents/NNS ]
+,/, and/CC in/IN 
+[ over-the-counter/JJ ]
+trading/NN ,/, 
+[ MCI/NNP 's/POS shares/NNS ]
+lost/VBD 
+[ $/$ 1.375/CD ]
+to/TO close/VB at/IN 
+[ $/$ 46.375/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+ca/MD n't/RB believe/VB 
+[ this/DT ]
+,/, ''/'' said/VBD 
+[ Jack/NNP Grubman/NNP ]
+,/, 
+[ a/DT telecommunications/NNS analyst/NN ]
+with/IN 
+[ PaineWebber/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+love/VBP 
+[ these/DT stocks/NNS ]
+,/, but/CC 
+[ these/DT two/CD yahoos/NNS ]
+are/VBP throwing/VBG 
+[ darts/NN ]
+at/IN 
+[ each/DT other/JJ ]
+when/WRB 
+[ they/PRP ]
+should/MD be/VB counting/VBG 
+[ their/PRP$ money/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Leighton/NNP ]
+suggested/VBD that/IN 
+[ other/JJ long-distance/JJ carriers/NNS ]
+might/MD join/VB 
+[ the/DT suit/NN ]
+./. 
+
+In/IN 
+[ Kansas/NNP City/NNP ]
+,/, 
+[ Mo./NNP ]
+,/, 
+[ a/DT spokesman/NN ]
+for/IN 
+[ US/PRP ]
+
+[ Sprint/NNP Communications/NNPS Co./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ United/NNP Telecommunications/NNPS Inc./NNP ]
+said/VBD 
+[ the/DT third-largest/JJ long-distance/JJ carrier/NN ]
+would/MD carefully/RB examine/VB 
+[ the/DT lawsuit/NN ]
+./. 
+
+``/`` 
+[ US/NNP ]
+
+[ Sprint/NNP ]
+and/CC 
+[ MCI/NNP ]
+differ/VBP on/IN 
+[ a/DT lot/NN ]
+of/IN 
+[ issues/NNS ]
+but/CC not/RB on/IN 
+[ AT&T/NNP 's/POS use/NN ]
+of/IN misleading/VBG 
+[ ads/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP 
+[ fans/NNS ]
+on/IN 
+[ their/PRP$ side/NN ]
+of/IN 
+[ the/DT stadium/NN ]
+,/, but/CC 
+[ it/PRP ]
+remains/VBZ to/TO be/VB seen/VBN whether/IN 
+[ we/PRP ]
+will/MD stay/VB in/IN 
+[ the/DT stands/NNS ]
+or/CC suit/VB up/IN and/CC join/VB 
+[ them/PRP ]
+on/IN 
+[ the/DT field/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ An/DT AT&T/NNP spokesman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+stands/VBZ by/IN 
+[ its/PRP$ advertising/NN campaign/NN ]
+and/CC was/VBD surprised/VBN by/IN 
+[ the/DT suit/NN ]
+./. 
+
+``/`` 
+[ Long-distance/NN ]
+is/VBZ ferociously/RB 
+[ competitive/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ This/DT ]
+is/VBZ not/RB 
+[ a/DT patty-cake/JJ operation/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ The/DT fact/NN ]
+of/IN 
+[ the/DT matter/NN ]
+is/VBZ that/IN 
+[ prices/NNS ]
+vary/VBP across/IN 
+[ the/DT lot/NN ]
+and/CC 
+[ the/DT customer/NN ]
+must/MD be/VB 
+[ the/DT ultimate/JJ arbiter/NN ]
+of/IN 
+[ quality/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT AT&T/NNP spokesman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+recently/RB sent/VBD 
+[ letters/NNS ]
+to/TO 
+[ the/DT major/JJ television/NN networks/NNS ]
+about/IN allegedly/RB misleading/VBG 
+[ MCI/NNP ads/NNS ]
+aimed/VBN at/IN 
+[ residential/JJ customers/NNS ]
+./. 
+
+[ AT&T/NNP ]
+asked/VBD 
+[ the/DT networks/NNS ]
+to/TO stop/VB 
+[ airing/VBG ads/NNS ]
+
+[ that/WDT ]
+claim/VBP ``/`` 
+[ MCI/NNP ]
+always/RB saves/VBZ 
+[ you/PRP ]
+
+[ money/NN ]
+over/IN 
+[ AT&T/NNP ]
+,/, ''/'' and/CC that/IN ``/`` 
+[ every/DT week/NN 100,000/CD AT&T/NNP customers/NNS ]
+switch/VBP to/TO 
+[ MCI/NNP ]
+./. 
+
+''/'' 
+[ AT&T/NNP ]
+said/VBD that/IN 
+[ ABC/NNP ]
+and/CC 
+[ CBS/NNP officials/NNS ]
+have/VBP said/VBN 
+[ they/PRP ]
+are/VBP looking/VBG into/IN 
+[ the/DT matter/NN ]
+./. 
+
+======================================
+
+[ MCI/NNP ]
+expects/VBZ to/TO pull/VB in/IN 
+[ a/DT raft/NN ]
+of/IN 
+[ economists/NNS ]
+to/TO analyze/VB how/WRB 
+[ the/DT AT*/NNP&T/NN ad/NN campaign/NN ]
+has/VBZ bitten/VBN into/IN 
+[ its/PRP$ growth/NN ]
+./. 
+
+[ That/DT ]
+may/MD prove/VB difficult/JJ because/IN 
+[ the/DT suit/NN ]
+comes/VBZ at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ MCI/NNP ]
+has/VBZ been/VBN growing/VBG rapidly/RB ./. 
+
+[ Analysts/NNS ]
+expect/VBP 
+[ third-quarter/NN earnings/NNS ]
+due/JJ out/IN 
+[ next/JJ week/NN ]
+to/TO exceed/VB 
+[ 60/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, up/IN from/IN 
+[ 38/CD cents/NNS ]
+
+[ the/DT year/NN ]
+before/IN ./. 
+
+[ The/DT company/NN ]
+claims/VBZ about/IN 
+[ 12/CD %/NN ]
+of/IN 
+[ the/DT $/$ 50/CD billion/CD long-distance/JJ market/NN ]
+./. 

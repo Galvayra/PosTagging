@@ -1,0 +1,67 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ GARY/NNP W./NNP CHAMBERS/NNP has/VBZ n't/RB ]
+been/VBN barred/VBN by/IN 
+[ the/DT Securities/NNP ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+from/IN supervising/VBG 
+[ any/DT broker/NN ]
+,/, 
+[ securities/NNS dealer/NN ]
+or/CC 
+[ other/JJ investment/NN adviser/NN ]
+for/IN 
+[ a/DT year/NN ]
+,/, as/RB incorrectly/RB reported/VBN in/IN 
+[ Thursday/NNP 's/POS edition/NN ]
+./. 
+
+[ He/PRP ]
+is/VBZ scheduled/VBN to/TO respond/VB to/TO 
+[ SEC/NNP allegations/NNS ]
+against/IN 
+[ him/PRP ]
+later/RB 
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Brokers/NNS Disciplined/VBN ]
+in/IN 
+[ Alleged/JJ Churning/NN ]
+of/IN 
+[ Cities/NNS '/POS Accounts/NNS ]
+--/: 
+[ Municipalities/NNS ]
+in/IN 
+[ California/NNP ]
+Were/VBD 
+[ Victims/NNS ]
+,/, 
+[ SEC/NNP ]
+Says/VBZ ;/: 
+[ Two/CD Brothers/NNS ]
+Are/VBP 
+[ Barred/VBN ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 5/CD ]
+,/, 
+[ 1989/CD ]

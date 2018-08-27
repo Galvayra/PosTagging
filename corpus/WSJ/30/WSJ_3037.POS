@@ -1,0 +1,340 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Hewlett-Packard/NNP Co./NNP today/NN ]
+will/MD unveil/VB 
+[ a/DT desktop/NN computer/NN ]
+
+[ that/WDT ]
+is/VBZ 
+[ the/DT first/JJ ]
+to/TO use/VB 
+[ a/DT new/JJ computer/NN standard/NN ]
+aimed/VBN at/IN unseating/VBG 
+[ International/NNP Business/NNP Machines/NNP Corp./NNP ]
+from/IN 
+[ its/PRP$ standard-setting/JJ role/NN ]
+in/IN 
+[ personal/JJ computers/NNS ]
+./. 
+
+======================================
+
+Called/VBN 
+[ the/DT Vectra/NNP 486/CD PC/NNP ]
+,/, 
+[ the/DT machine/NN ]
+is/VBZ built/VBN around/IN 
+[ Extended/NNP Industry/NNP Standard/NNP Architecture/NNP ]
+,/, or/CC 
+[ EISA/NNP ]
+,/, 
+[ a/DT Hewlett-Packard/NNP official/NN ]
+said/VBD ./. 
+
+[ That/DT standard/NN ]
+was/VBD created/VBN 
+[ last/JJ year/NN ]
+by/IN 
+[ the/DT so-called/JJ ]
+``/`` 
+[ Gang/NNP ]
+of/IN 
+[ Nine/CD ]
+,/, ''/'' 
+[ a/DT group/NN ]
+of/IN 
+[ U.S./NNP ]
+and/CC 
+[ foreign/JJ computer/NN companies/NNS ]
+,/, as/IN 
+[ an/DT alternative/NN ]
+to/TO 
+[ IBM/NNP 's/POS Microchannel/NNP standard/NN ]
+used/VBN in/IN 
+[ the/DT IBM/NNP PS\/2/NNP personal/JJ computers/NNS ]
+./. 
+
+[ The/DT standards/NNS ]
+govern/VBP 
+[ the/DT accessories/NNS ]
+used/VBN in/IN and/CC with/IN 
+[ the/DT machines/NNS ]
+./. 
+
+======================================
+
+[ Hewlett-Packard/NNP ]
+also/RB will/MD announce/VB 
+[ today/NN ]
+that/IN 
+[ it/PRP ]
+plans/VBZ eventually/RB to/TO build/VB 
+[ all/DT its/PRP$ work/NN stations/NNS ]
+and/CC 
+[ personal/JJ computers/NNS ]
+around/IN 
+[ the/DT EISA/NNP standard/NN ]
+./. 
+
+[ The/DT Hewlett-Packard/NNP machine/NN ]
+will/MD be/VB 
+[ a/DT catalyst/NN ]
+for/IN 
+[ EISA/NNP ]
+,/, said/VBD 
+[ Michael/NNP Heylin/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ the/DT market-research/JJ firm/NN ]
+of/IN 
+[ Creative/NNP Strategies/NNP Research/NNP International/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+legitimizes/VBZ 
+[ EISA/NNP ]
+dramatically/RB ,/, ''/'' said/VBD 
+[ Mr./NNP Heylin/NNP ]
+./. 
+
+``/`` Now/RB 
+[ the/DT world/NN ]
+has/VBZ 
+[ an/DT actual/JJ ]
+,/, physically/RB 
+[ available/JJ ]
+,/, alternative/NN to/TO 
+[ the/DT IBM/NNP PS\/2/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Vectra/NNP 486/CD ]
+,/, 
+[ which/WDT ]
+
+[ Hewlett-Packard/NNP ]
+says/VBZ is/VBZ 
+[ 33/CD %/NN ]
+faster/JJR than/IN  
+[ today/NN 's/POS fastest/JJS personal/JJ computers/NNS ]
+,/, is/VBZ also/RB 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ ]
+in/IN 
+[ the/DT industry/NN ]
+to/TO use/VB 
+[ Intel/NNP Corp./NNP 's/POS 80486/CD microprocessor/NN ]
+,/, 
+[ a/DT super-fast/JJ 32-bit/JJ ]
+``/`` 
+[ brain/NN ]
+''/'' 
+[ chip/NN ]
+
+[ that/WDT ]
+is/VBZ expected/VBN to/TO power/VB 
+[ the/DT next/JJ generation/NN ]
+of/IN 
+[ desktop/NN machines/NNS ]
+./. 
+
+[ The/DT machine/NN ]
+can/MD hold/VB up/IN to/TO 
+[ 64/CD megabytes/NNS ]
+of/IN 
+[ random/JJ access/NN memory/NN ]
+,/, 
+[ Hewlett-Packard/NNP ]
+said/VBD ,/, and/CC includes/VBZ 
+[ groups/NNS ]
+of/IN 
+[ chips/NNS ]
+
+[ that/WDT ]
+allow/VBP much/RB faster/RBR routing/VBG of/IN 
+[ data/NNS ]
+within/IN 
+[ the/DT computer/NN ]
+./. 
+
+======================================
+
+[ The/DT machine/NN ]
+will/MD come/VB in/IN 
+[ three/CD base/NN configurations/NNS ]
+,/, ranging/VBG from/IN 
+[ a/DT $/$ 13,999/CD model/NN ]
+with/IN 
+[ a/DT 150-megabyte/JJ hard/JJ disk/NN ]
+to/TO 
+[ a/DT $/$ 19,999/CD model/NN ]
+with/IN 
+[ a/DT 670-megabyte/JJ hard/JJ disk/NN ]
+./. 
+
+[ Each/DT ]
+comes/VBZ with/IN 
+[ a/DT standard/JJ two/CD megabytes/NNS ]
+of/IN 
+[ memory/NN ]
+and/CC 
+[ a/DT floppy/JJ disk/NN drive/NN ]
+./. 
+
+[ The/DT more/RBR expensive/JJ models/NNS ]
+include/VBP 
+[ hard/JJ disks/NNS ]
+
+[ that/WDT ]
+transfer/VBP 
+[ 20/CD million/CD bits/NNS ]
+of/IN 
+[ data/NN ]
+
+[ a/DT second/JJ ]
+,/, about/RB 
+[ 33/CD %/NN ]
+faster/RBR ,/, 
+[ industry/NN analysts/NNS ]
+said/VBD ,/, than/IN 
+[ other/JJ disks/NNS available/JJ today/NN ]
+./. 
+
+[ The/DT move/NN ]
+is/VBZ 
+[ a/DT surprising/JJ one/CD ]
+for/IN 
+[ Hewlett-Packard/NNP ]
+,/, 
+[ analysts/NNS ]
+said/VBD ,/, because/IN 
+[ the/DT company/NN ]
+has/VBZ tended/VBN to/TO be/VB 
+[ a/DT follower/NN ]
+rather/RB than/IN 
+[ a/DT leader/NN ]
+in/IN 
+[ desktop/NN computers/NNS ]
+./. 
+
+But/CC 
+[ Hewlett-Packard/NNP ]
+has/VBZ been/VBN trying/VBG to/TO position/VB 
+[ itself/PRP ]
+as/IN 
+[ a/DT high-end/JJ desktop/NN computer/NN company/NN ]
+,/, said/VBD 
+[ Leslie/NNP Fiering/NNP ]
+,/, 
+[ research/NN analyst/NN ]
+at/IN 
+[ the/DT Gartner/NNP Group/NNP ]
+./. 
+
+``/`` 
+[ Hewlett-Packard/NNP ]
+is/VBZ taking/VBG 
+[ a/DT leaf/NN ]
+from/IN 
+[ Compaq/NNP ]
+ {/( 
+[ Computer/NNP Corp./NNP 's/POS ]
+ }/) 
+[ book/NN ]
+,/, ''/'' 
+[ she/PRP ]
+said/VBD ,/, by/IN being/VBG first/RB to/TO announce/VB 
+[ a/DT working/VBG model/NN ]
+of/IN 
+[ a/DT new/JJ generation/NN system/NN ]
+./. 
+
+``/`` 
+[ Hewlett-Packard/NNP ]
+wants/VBZ to/TO make/VB 
+[ a/DT statement/NN ]
+about/IN 
+[ its/PRP$ technical/JJ innovation/NN ]
+./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ We/PRP ]
+really/RB wanted/VBD to/TO be/VB 
+[ first/JJ ]
+to/TO 
+[ market/NN ]
+''/'' with/IN 
+[ an/DT EISA/NNP machine/NN ]
+,/, said/VBD 
+[ Robert/NNP Puette/NNP ]
+,/, 
+[ general/JJ manager/NN ]
+of/IN 
+[ HP/NNP 's/POS personal/JJ computer/NN group/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+provides/VBZ 
+[ unbelievable/JJ leverage/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Hewlett-Packard/NNP ]
+is/VBZ targeting/VBG 
+[ the/DT markets/NNS ]
+for/IN 
+[ workstations/NNS ]
+used/VBN by/IN 
+[ engineers/NNS ]
+,/, for/IN 
+[ computers/NNS ]
+
+[ that/WDT ]
+manage/VBP 
+[ huge/JJ databases/NNS ]
+,/, and/CC 
+[ machines/NNS ]
+
+[ that/WDT ]
+can/MD handle/VB 
+[ huge/JJ financial/JJ calculations/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+expects/VBZ to/TO start/VB shipping/VBG 
+[ the/DT machines/NNS ]
+by/IN 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1990/CD ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 

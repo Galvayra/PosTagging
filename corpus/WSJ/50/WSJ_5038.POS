@@ -1,0 +1,495 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT ]
+following/VBG 
+[ U.S./NNP Treasury/NNP ]
+,/, 
+[ corporate/JJ ]
+and/CC 
+[ municipal/JJ offerings/NNS ]
+are/VBP tentatively/RB scheduled/VBN for/IN 
+[ sale/NN ]
+
+[ this/DT week/NN ]
+,/, according/VBG to/TO 
+[ Dow/NNP Jones/NNP Capital/NNP Markets/NNPS Report/NNP ]
+:/: 
+======================================
+
+[ $/$ 14.8/CD billion/CD ]
+of/IN 
+[ three/CD ]
+ -/: and/CC 
+[ six-month/JJ bills/NNS ]
+./. 
+
+[ Settlement/NN ]
+of/IN 
+[ Federal/NNP Home/NNP Loan/NNP Banks/NNPS '/POS $/$ 550/CD million/CD ]
+of/IN 
+[ one-year/JJ bonds/NNS ]
+./. 
+
+======================================
+
+[ $/$ 9.75/CD billion/CD ]
+of/IN 
+[ two-year/JJ notes/NNS ]
+./. 
+
+[ Settlement/NN ]
+of/IN 
+[ The/DT Financing/NNP Corp./NNP 's/POS $/$ 665/CD million/CD ]
+of/IN 
+[ 30-year/JJ bonds/NNS ]
+./. 
+
+======================================
+
+[ $/$ 7.75/CD billion/CD ]
+of/IN 
+[ four-year/JJ notes/NNS ]
+./. 
+
+======================================
+
+[ Secondary/JJ ]
+trading/NN on/IN 
+[ Federal/NNP Farm/NNP Credit/NNP Banks/NNPS Funding/NNP Corp./NNP 's/POS $/$ 2.868/CD billion/CD ]
+of/IN 
+[ systemwide/JJ bonds/NNS ]
+./. 
+
+[ Settlement/NN ]
+of/IN 
+[ Treasury/NNP 's/POS $/$ 9.5/CD billion/CD ]
+of/IN 
+[ 52-week/JJ bills/NNS ]
+./. 
+
+[ Settlement/NN ]
+of/IN 
+[ Treasury/NNP 's/POS $/$ 14.8/CD billion/CD ]
+in/IN 
+[ three/CD ]
+ -/: and/CC 
+[ six-month/JJ bills/NNS ]
+./. 
+
+======================================
+
+[ Federal/NNP National/NNP Mortgage/NNP Association/NNP debt/NN offering/NN ]
+,/, refinancing/VBG approximately/RB 
+[ $/$ 800/CD million/CD ]
+in/IN 
+[ maturing/VBG debt/NN ]
+./. 
+
+======================================
+
+[ Chile/NNP Fund/NNP Inc./NNP ]
+--/: 
+[ 4/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[  Salomon/NNP Brothers/NNPS Inc/NNP ]
+./. 
+
+[ Van/NNP Kampen/NNP Merritt/NNP Prime/NNP Rate/NNP Income/NNP Trust/NNP ]
+--/: 
+[ 11.5/CD million/CD shares/NNS ]
+of/IN 
+[ beneficial/JJ interest/NN ]
+,/, via/IN 
+[ Prudential-Bache/NNP ]
+./. 
+
+======================================
+
+[ Petrolane/NNP Gas/NNP Service/NNP L.P./NNP ]
+and/CC 
+[ Petrolane/NNP Finance/NNP Corp./NNP ]
+--/: 
+[ $/$ 125/CD million/CD ]
+of/IN 
+[ senior/JJ secured/VBN notes/NNS ]
+,/, and/CC 
+[ $/$ 375/CD million/CD ]
+of/IN 
+[ senior/JJ debentures/NNS ]
+,/, via/IN 
+[ First/JJ Boston/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Intervoice/NNP Inc./NNP ]
+--/: 
+[ 1.3/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ Woodruff/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+[ Abiomed/NNP Inc./NNP ]
+--/: 
+[ 1.4/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ PaineWebber/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Ackerley/NNP Communications/NNPS Inc./NNP ]
+--/: 
+[ 2.2/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ Merrill/NNP Lynch/NNP Capital/NNP Markets/NNPS ]
+./. 
+
+======================================
+
+[ Albany/NNP International/NNP Corp./NNP ]
+--/: 
+[ 3/CD million/CD Class/NNP ]
+
+[ A/JJ shares/NNS ]
+,/, via/IN 
+[ Merrill/NNP Lynch/NNP ]
+./. 
+
+======================================
+
+[ Allstate/NNP Municipal/NNP Income/NNP Trust/NNP III/NNP ]
+--/: 
+[ 10/CD million/CD shares/NNS ]
+,/, via/IN 
+[ Dean/NNP Witter/NNP Capital/NNP Markets/NNPS ]
+./. 
+
+======================================
+
+[ American/NNP Opportunity/NNP Income/NNP Fund/NNP Inc./NNP ]
+--/: 
+[ 6/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ Piper/NNP Jaffray/NNP Hopwood/NNP ]
+&/CC 
+[ Inc/NNP ]
+./. 
+
+======================================
+
+[ Aztar/NNP Funding/NNP Inc./NNP ]
+--/: 
+[ $/$ 130/CD million/CD ]
+in/IN 
+[ senior/JJ reset/NN notes/NNS ]
+and/CC 
+[ $/$ 100/CD million/CD ]
+in/IN 
+[ senior/JJ notes/NNS ]
+,/, via/IN 
+[ Salomon/NNP Brothers/NNPS ]
+./. 
+
+======================================
+
+[ Aztar/NNP Mortgage/NNP Funding/NNP Inc./NNP ]
+--/: 
+[ $/$ 170/CD million/CD ]
+in/IN 
+[ first/JJ mortgage/NN notes/NNS ]
+,/, via/IN 
+[ Salomon/NNP Brothers/NNPS ]
+./. 
+
+======================================
+
+[ Cable/NNP ]
+&/CC 
+[ Wireless/NNP PLC/NNP ]
+--/: 
+[ 8.5/CD million/CD American/NNP Depository/NNP Receipts/NNPS ]
+,/, representing/VBG 
+[ 25.5/CD million/CD ordinary/JJ shares/NNS ]
+,/, via/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+[ Federal/NNP Realty/NNP Investment/NNP Trust/NNP ]
+--/: 
+[ 2/CD million/CD shares/NNS ]
+,/, via/IN 
+[ Alex/NNP Brown/NNP ]
+&/CC 
+[ Sons/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+[ Kaneb/NNP Pipe/NNP Line/NNP Partners/NNPS L.P./NNP ]
+--/: 
+[ 4.65/CD million/CD units/NNS ]
+,/, representing/VBG 
+[ senior/JJ Limited/NNP Partnership/NNP interests/NNS ]
+,/, via/IN 
+[ Goldman/NNP Sachs/NNP ]
+./. 
+
+======================================
+
+[ Long/NNP Island/NNP Lighting/NNP Co./NNP ]
+--/: 
+[ 12.8/CD million/CD shares/NNS ]
+of/IN 
+[ Series/NNP Y/JJ ]
+preferred/JJ ,/, via/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Robec/NNP Inc./NNP ]
+--/: 
+[ 1.35/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ Robinson/NNP Humphrey/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ Surgical/NNP Laser/NNP Technologies/NNP ]
+--/: 
+[ 1.5/CD million/CD common/JJ shares/NNS ]
+,/, via/IN 
+[ Smith/NNP Barney/NNP Harris/NNP Upham/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+[ Massachusetts/NNP Bay/NNP Transportation/NNP Authority/NNP ]
+--/: 
+[ $/$ 120/CD million/CD notes/NNS ]
+,/, via/IN 
+[ competitive/JJ bid/NN ]
+./. 
+
+======================================
+
+[ Los/NNP Angeles/NNP Department/NNP ]
+of/IN 
+[ Water/NNP ]
+and/CC 
+[ Power/NNP ]
+--/: 
+[ $/$ 85,795,000/CD electric/JJ plant/NN refunding/JJ revenue/NN bonds/NNS ]
+,/, 
+[ 1989/CD issue/NN ]
+,/, via/IN 
+[ competitive/JJ bid/NN ]
+./. 
+
+[ Wisconsin/NNP ]
+--/: 
+[ $/$ 63,365,000/CD general/JJ obligation/NN bonds/NNS ]
+of/IN 
+[ 1989/CD Series/NNP E/JJ ]
+,/, via/IN 
+[ competitive/JJ bid/NN ]
+./. 
+
+======================================
+
+[ Maryland/NNP ]
+--/: 
+[ $/$ 80/CD million/CD general/JJ obligation/NN bonds/NNS ]
+,/, 
+[ State/NNP ]
+and/CC 
+[ Local/NNP Facilities/NNP Loan/NNP ]
+of/IN 
+[ 1989-Third/NNP Series/NNP ]
+,/, via/IN 
+[ competitive/JJ bid/NN ]
+./. 
+
+======================================
+
+[ California/NNP Educational/NNP Facilities/NNPS Authority/NNP ]
+--/: 
+[ $/$ 105/CD million/CD revenue/NN bonds/NNS ]
+ (/( 
+[ Stanford/NNP University/NNP Project/NNP ]
+ )/) ,/, via/IN 
+[ a/DT Prager/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+./. 
+
+======================================
+
+[ Detroit/NNP ]
+,/, 
+[ Michigan/NNP ]
+--/: 
+[ $/$ 65/CD million/CD sewer/NN disposal/NN system/NN revenue/NN bonds/NNS ]
+,/, via/IN 
+[ a/DT Goldman/NNP Sachs/NNP group/NN ]
+./. 
+
+======================================
+
+[ Fairfax/NNP County/NNP Water/NNP Authority/NNP ]
+,/, 
+[ Virginia/NNP ]
+--/: 
+[ $/$ 150/CD million/CD water/NN revenue/NN bonds/NNS ]
+,/, 
+[ 1989/CD Series/NN ]
+,/, via/IN 
+[ a/DT Wheat/NNP First/JJ Securities/NNPS Inc./NNP group/NN ]
+./. 
+
+======================================
+
+[ Florida/NNP Board/NNP ]
+of/IN 
+[ Education/NNP ]
+--/: 
+[ $/$ 950/CD million/CD public/JJ education/NN ]
+refunding/JJ 
+[ bonds/NNS ]
+,/, via/IN 
+[ a/DT Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+./. 
+
+======================================
+
+[ New/NNP Jersey/NNP Highway/NNP Authority-Garden/NNP State/NNP Parkway/NNP ]
+--/: 
+[ $/$ 225/CD million/CD senior/JJ parkway/NN revenue/NN bonds/NNS ]
+,/, 
+[ 1989/CD Series/NNP ]
+,/, via/IN 
+[ a/DT Dillon/NNP Read/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+./. 
+
+======================================
+
+[ New/NNP York/NNP City/NNP ]
+--/: 
+[ $/$ 750/CD million/CD general/JJ obligation/NN bonds/NNS ]
+,/, via/IN 
+[ a/DT Goldman/NNP Sachs/NNP group/NN ]
+./. 
+
+======================================
+
+[ San/NNP Diego/NNP County/NNP Regional/NNP Transportation/NNP Commission/NNP ]
+,/, 
+[ California/NNP ]
+--/: 
+[ $/$ 175/CD million/CD sales/NNS tax/NN revenue/NN bonds/NNS ]
+ (/( limited/JJ 
+[ tax/NN bonds/NNS ]
+ )/) ,/, 
+[ 1989/CD Series/NNP ]
+
+[ A/JJ ]
+,/, via/IN 
+[ a/DT First/NNP Boston/NNP group/NN ]
+./. 
+
+======================================
+
+[ West/NNP Virginia/NNP Public/NNP Energy/NNP Authority/NNP ]
+--/: 
+[ $/$ 120/CD million/CD energy/NN revenue/NN bonds/NNS ]
+,/, 
+[ 1989/CD Series/NNP ]
+
+[ A/JJ ]
+ (/( 
+[ Morgantown/NNP Energy/NNP Association/NNP Projects/NNP ]
+ )/) ,/, via/IN 
+[ a/DT Goldman/NNP Sachs/NNP group/NN ]
+./. 
+
+======================================
+
+[ Pending/NNP Cambria/NNP County/NNP Industrial/NNP Development/NNP Authority/NNP ]
+,/, 
+[ Philadelphia/NNP ]
+--/: 
+[ $/$ 120/CD million/CD resource/NN recovery/NN revenue/NN bonds/NNS ]
+ (/( 
+[ Cabria/NNP CoGen/NNP Project/NNP ]
+ )/) ,/, via/IN 
+[ a/DT Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+./. 
+
+======================================
+
+[ San/NNP Antonio/NNP ]
+,/, 
+[ Texas/NNP ]
+--/: 
+[ $/$ 640/CD million/CD gas/NN ]
+and/CC 
+[ electric/JJ revenue/NN ]
+refunding/JJ 
+[ bonds/NNS ]
+,/, via/IN 
+[ a/DT First/NNP Boston/NNP group/NN ]
+./. 
+
+======================================
+
+[ South/NNP Dakota/NNP Health/NNP ]
+and/CC 
+[ Educational/NNP Facilities/NNPS Authority/NNP  ]
+--/: 
+[ $/$ 51,135,000/CD revenue/NN ]
+refunding/JJ 
+[ bonds/NNS ]
+ (/( 
+[ Rapid/NNP City/NNP Regional/NNP Hospital/NNP ]
+ )/) ,/, 
+[ 1989/CD Series/NNP ]
+,/, via/IN 
+[ a/DT Dougherty/NNP Dawkins/NNP Strand/NNP ]
+&/CC 
+[ Yost/NNP Inc./NNP group/NN ]
+./. 

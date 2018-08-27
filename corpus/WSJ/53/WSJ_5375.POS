@@ -1,0 +1,652 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Would/MD 
+[ You/PRP Buy/VB ]
+
+[ a/DT Car/NN ]
+
+======================================
+
+From/IN 
+[ This/DT Woman/NNP ]
+?/. 
+
+======================================
+
+[ CAR/NN SELLING/VBG ]
+is/VBZ n't/RB 
+[ the/DT man/NN 's/POS world/NN ]
+
+[ it/PRP ]
+once/RB was/VBD ./. 
+
+======================================
+
+In/IN 
+[ part/NN ]
+to/TO appeal/VB to/TO 
+[ women/NNS buyers/NNS ]
+,/, 
+[ auto/NN dealers/NNS ]
+say/VBP 
+[ they/PRP ]
+are/VBP starting/VBG to/TO add/VB 
+[ more/JJR women/NNS ]
+to/TO 
+[ their/PRP$ ranks/NNS ]
+./. 
+
+[ The/DT number/NN ]
+of/IN 
+[ saleswomen/NNS ]
+enrolled/VBN in/IN 
+[ the/DT National/NNP Automobile/NNP Dealers/NNPS Association/NNP 's/POS ownership/NN training/NN school/NN ]
+has/VBZ more/RBR than/IN doubled/VBN in/IN 
+[ the/DT past/JJ five/CD years/NNS ]
+,/, according/VBG to/TO 
+[ Frank/NNP McCarthy/NNP ]
+,/, 
+[ the/DT group/NN 's/POS executive/JJ vice/NN president/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Car/NN dealers/NNS ]
+are/VBP no/RB longer/RB 
+[ the/DT good/JJ ol/JJ ]
+'/''  
+[ boys/NNS ]
+
+[ who/WP ]
+sit/VBP around/RB and/CC drink/VBP 
+[ coffee/NN ]
+,/, read/VBD 
+[ the/DT paper/NN ]
+and/CC 
+[ smoke/VBP cigarettes/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ A/DT few/JJ years/NNS ]
+back/RB ,/, 
+[ women/NNS ]
+started/VBD complaining/VBG about/IN 
+[ condescending/JJ salesmen/NNS ]
+
+[ who/WP ]
+assumed/VBD that/IN 
+[ female/JJ buyers/NNS ]
+cared/VBD only/RB about/IN 
+[ the/DT car/NN 's/POS color/NN ]
+,/, 
+[ Mr./NNP McCarthy/NNP ]
+says/VBZ ./. 
+
+Recognizing/VBG that/IN about/RB 
+[ 45/CD %/NN ]
+of/IN 
+[ new/JJ car/NN purchases/NNS ]
+are/VBP made/VBN directly/RB by/IN 
+[ women/NNS ]
+and/CC 
+[ another/DT 30/CD %/NN ]
+are/VBP influenced/VBN by/IN 
+[ them/PRP ]
+,/, 
+[ some/DT dealers/NNS ]
+figured/VBD 
+[ one/CD way/NN ]
+to/TO attract/VB 
+[ female/JJ buyers/NNS ]
+was/VBD to/TO add/VB 
+[ more/JJR women/NNS ]
+to/TO 
+[ the/DT sales/NNS force/NN ]
+./. 
+
+======================================
+
+[ Car/NN saleswomen/NNS ]
+,/, of/IN 
+[ course/NN ]
+,/, also/RB sell/VB to/TO 
+[ men/NNS ]
+,/, and/CC 
+[ they/PRP ]
+tend/VBP to/TO use/VB 
+[ different/JJ tactics/NNS ]
+than/IN 
+[ salesmen/NNS ]
+,/, according/VBG to/TO 
+[ a/DT study/NN ]
+by/IN 
+[ sociologist/NN Helene/NNP Lawson/NNP ]
+at/IN 
+[ Loyola/NNP University/NNP ]
+of/IN 
+[ Chicago/NNP ]
+./. 
+
+While/IN observing/VBG and/CC interviewing/VBG 
+[ 45/CD Chicago-area/JJ saleswomen/NNS ]
+and/CC 
+[ men/NNS ]
+,/, 
+[ Ms./NNP Lawson/NNP ]
+found/VBD that/IN 
+[ some/DT women/NNS ]
+``/`` take/VB on/RP 
+[ roles/NNS men/NNS ]
+expect/VBP of/IN 
+[ them/PRP ]
+--/: 
+[ the/DT matronly/JJ grandmother/NN ]
+or/CC 
+[ mother/NN ]
+--/: or/CC 
+[ they/PRP ]
+act/VBP 
+[ silly/JJ or'dizzy/JJ  ]
+./. 
+
+'/'' ''/'' 
+======================================
+
+Not/RB 
+[ all/DT customers/NNS ]
+respond/VBP well/RB to/TO 
+[ car/NN saleswomen/NNS ]
+,/, 
+[ Ms./NNP Lawson/NNP ]
+says/VBZ ./. 
+
+[ Some/DT men/NNS ]
+,/, especially/RB 
+[ older/JJR ones/NNS ]
+,/, simply/RB wo/MD n't/RB buy/VB 
+[ a/DT car/NN ]
+from/IN 
+[ a/DT woman/NN ]
+,/, 
+[ she/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ They/PRP ]
+'ll/MD try/VB to/TO stump/VB 
+[ the/DT female/JJ salesperson/NN ]
+by/IN asking/VBG 
+[ tough/JJ technical/JJ questions/NNS they/PRP ]
+would/MD n't/RB pose/VB to/TO 
+[ a/DT man/NN ]
+,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Or/CC 
+[ they/PRP ]
+can/MD be/VB rude/JJ ,/, asking/VBG ,/, ``/`` Where/WRB 
+[ 's/VBZ your/PRP$ father/NN ]
+?/. ''/'' or/CC ``/`` Can/MD 
+[ I/PRP ]
+talk/VBP to/TO 
+[ a/DT real/JJ salesman/NN ]
+?/. 
+
+''/'' 
+======================================
+
+[ Most/JJS customers/NNS ]
+,/, though/RB ,/, like/VBP to/TO find/VB 
+[ women/NNS ]
+on/IN 
+[ the/DT sales/NNS floor/NN ]
+,/, 
+[ Ms./NNP Lawson/NNP ]
+and/CC 
+[ Mr./NNP McCarthy/NNP ]
+agree/VBP ./. 
+
+[ Women/NNS ]
+,/, 
+[ they/PRP ]
+say/VBP ,/, are/VBP perceived/VBN as/IN less/RBR hard/RB sell/VB ./. 
+
+======================================
+
+[ Aluminum-Bat/NN Makers/NNS ]
+
+======================================
+
+Are/VBP 
+[ Pitching/VBG Overseas/RB ]
+
+======================================
+
+WITH/IN 
+[ THE/DT U.S./NNP aluminum/JJ bat/NN market/NN approaching/VBG saturation/NN ]
+,/, 
+[ some/DT companies/NNS ]
+are/VBP trying/VBG to/TO get/VB 
+[ foreign/JJ baseball/NN players/NNS ]
+hooked/VBN on/IN 
+[ metal/NN right/NN ]
+from/IN 
+[ the/DT start/NN ]
+./. 
+
+======================================
+
+Hoping/VBG to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ the/DT growth/NN ]
+of/IN 
+[ baseball/NN 's/POS popularity/NN ]
+overseas/RB --/: 
+[ baseball/NN ]
+becomes/VBZ 
+[ an/DT official/JJ Olympic/JJ medal/NN sport/NN ]
+in/IN 
+[ 1992/CD ]
+--/: 
+[ Jas/NNP D./NNP Easton/NNP Corp./NNP ]
+is/VBZ supplying/VBG 
+[ aluminum/JJ bats/NNS ]
+to/TO 
+[ national/JJ teams/NNS ]
+in/IN 
+[ several/JJ countries/NNS ]
+including/VBG 
+[ Italy/NNP ]
+,/, 
+[ Australia/NNP ]
+and/CC 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ Easton/NNP ]
+is/VBZ running/VBG 
+[ ads/NNS ]
+in/IN 
+[ foreign/JJ sports/NNS publications/NNS ]
+and/CC 
+[ sponsoring/VBG baseball/NN clinics/NNS ]
+overseas/RB to/TO sell/VB 
+[ the/DT sport/NN ]
+,/, as/RB well/RB as/IN 
+[ aluminum/JJ bats/NNS ]
+./. 
+
+======================================
+
+[ Other/JJ bat/NN makers/NNS ]
+are/VBP also/RB taking/VBG 
+[ a/DT swing/NN ]
+at/IN 
+[ building/VBG business/NN ]
+overseas/RB ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT boundless/JJ new/JJ market/NN ]
+,/, ''/'' says/VBZ 
+[ Mike/NNP McGrath/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ international/JJ marketing/NN ]
+for/IN 
+[ Hillerich/NNP ]
+&/CC 
+[ Bradsby/NNP Inc/NNP ]
+./. 
+
+[ Hillerich/NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ Louisville/NNP Slugger/NNP brand/NN ]
+bats/NNS ,/, is/VBZ covering/VBG 
+[ its/PRP$ bases/NNS ]
+overseas/RB by/IN marketing/VBG 
+[ both/DT aluminum/NN ]
+and/CC 
+[ wooden/JJ bats/NNS ]
+./. 
+
+======================================
+
+[ Aluminum/JJ bat/NN sales/NNS ]
+have/VBP grown/VBN to/TO 
+[ 90/CD %/NN ]
+of/IN 
+[ all/DT bats/NNS ]
+sold/VBN in/IN 
+[ America/NNP ]
+,/, up/RB from/IN 
+[ 18/CD %/NN ]
+in/IN 
+[ 1973/CD ]
+,/, according/VBG to/TO 
+[ Easton/NNP ]
+./. 
+
+But/CC because/IN 
+[ aluminum/NN bats/NNS ]
+--/: 
+[ which/WDT ]
+do/VBP n't/RB break/VB easily/RB --/: are/VBP n't/RB replaced/VBN as/RB often/RB as/IN 
+[ wooden/JJ ones/NNS ]
+,/, 
+[ the/DT company/NN ]
+decided/VBD 
+[ the/DT only/JJ way/NN ]
+
+[ it/PRP ]
+could/MD boost/VB 
+[ sales/NNS ]
+substantially/RB was/VBD to/TO expand/VB overseas/RB ,/, says/VBZ 
+[ Jim/NNP Darby/NNP ]
+,/, 
+[ a/DT senior/JJ vice/NN president/NN ]
+at/IN 
+[ the/DT Easton/NNP Sports/NNPS division/NN ]
+./. 
+
+======================================
+
+Because/IN 
+[ many/JJ foreigners/NNS ]
+are/VBP just/RB starting/VBG to/TO get/VB interested/VBN in/IN 
+[ America/NNP 's/POS favorite/JJ sport/NN ]
+,/, 
+[ aluminum/JJ bat/NN makers/NNS ]
+should/MD n't/RB have/VB 
+[ the/DT same/JJ problem/NN ]
+
+[ they/PRP ]
+face/VBP with/IN 
+[ baseball/NN purists/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ Professional/JJ ballplayers/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+ca/MD n't/RB use/VB 
+[ aluminum/NN bats/NNS ]
+./. 
+
+[ Metal/NN bats/NNS ]
+make/VBP 
+[ it/PRP ]
+easier/JJR to/TO hit/VB 
+[ home/NN runs/NNS ]
+and/CC artificially/RB raise/VBP 
+[ players/NNS '/POS averages/NNS ]
+,/, says/VBZ 
+[ Jim/NNP Small/NNP ]
+,/, 
+[ a/DT major/JJ league/NN spokesman/NN ]
+./. 
+
+[ What/WP ]
+'s/VBZ more/JJR ,/, 
+[ aluminum/JJ bats/NNS ]
+do/VBP n't/RB provide/VB 
+[ the/DT same/JJ resounding/JJ crack/NN ]
+that/IN 
+[ wooden/JJ bats/NNS ]
+do/VB ,/, 
+[ he/PRP ]
+says/VBZ ,/, adding/VBG ,/, ``/`` As/RB long/RB as/IN 
+[ there/EX ]
+are/VBP 
+[ trees/NNS ]
+,/, 
+[ we/PRP ]
+'re/VBP going/VBG to/TO use/VB 
+[ wooden/JJ bats/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Cartoon/NN Ads/NNS Appeal/VBP ]
+
+======================================
+
+To/TO 
+[ Older/JJ Generation/NN ]
+
+======================================
+
+[ ADVERTISERS/NNS ]
+are/VBP discovering/VBG that/IN 
+[ grownups/NNS ]
+like/VBP 
+[ cartoons/NNS ]
+as/RB much/RB as/IN 
+[ kids/NNS ]
+./. 
+
+======================================
+
+[ A/DT Butterfinger/NNP candy/NN bar/NN television/NN spot/NN ]
+--/: featuring/VBG 
+[ the/DT cartoon/NN family/NN ]
+
+[ the/DT ]
+``/`` 
+[ Simpsons/NNPS ]
+''/'' from/IN ``/`` 
+[ The/DT Tracey/NNP Ullman/NNP Show/NNP ]
+''/'' --/: ranked/VBD in/IN 
+[ the/DT top/JJ 10/CD ]
+in/IN 
+[ Video/NNP Storyboard/NNP Tests/NNPS Inc./NNP 's/POS first/JJ quarter/NN 1989/CD poll/NN ]
+of/IN 
+[ the/DT most/RBS popular/JJ ads/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, Garfield/NNP 
+[ the/DT cat/NN ]
+for/IN 
+[ Embassy/NNP Suites/NNPS hotels/NNS ]
+and/CC 
+[ the/DT Peanuts/NNPS gang/NN ]
+for/IN 
+[ Metropolitan/NNP Life/NNP Insurance/NNP ]
+were/VBD 
+[ pitchmen/NNS ]
+in/IN 
+[ two/CD ]
+of/IN 
+[ the/DT top/JJ 12/CD print/NN ads/NNS ]
+of/IN 
+[ 1988/CD ]
+,/, according/VBG to/TO 
+[ a/DT study/NN ]
+by/IN 
+[ Starch/NNP INRA/NNP Hooper/NNP Inc/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/NN ]
+,/, 
+[ Madison/NNP Avenue/NNP ]
+frequently/RB shied/VBD away/RB from/IN 
+[ comic/JJ book/NN characters/NNS ]
+,/, believing/VBG 
+[ they/PRP ]
+appealed/VBD only/RB to/TO 
+[ youngsters/NNS ]
+,/, says/VBZ 
+[ David/NNP Vadehra/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Video/NNP Storyboard/NNP ]
+./. 
+
+``/`` But/CC 
+[ their/PRP$ appeal/NN ]
+is/VBZ much/RB stronger/JJR than/IN 
+[ advertisers/NNS ]
+thought/VBD ./. 
+
+''/'' 
+======================================
+
+[ These/DT cartoon/NN characters/NNS ]
+have/VBP 
+[ more/JJR pull/NN ]
+than/IN 
+[ most/JJS flesh/NN ]
+and/CC 
+[ blood/NN celebrities/NNS ]
+,/, 
+[ both/DT Starch/NNP ]
+and/CC 
+[ Video/NNP Storyboard/NNP ]
+found/VBD ./. 
+
+[ What/WP ]
+'s/VBZ more/JJR ,/, 
+[ a/DT cartoon/NN spokesman/NN ]
+is/VBZ n't/RB as/RB risky/JJ as/IN 
+[ a/DT ]
+``/`` 
+[ live/JJ ]
+''/'' 
+[ celebrity/NN ]
+,/, says/VBZ 
+[ Mr./NNP Vadehra/NNP ]
+./. 
+
+``/`` No/RB {/( 
+[ cartoon/NN ]
+ }/) is/VBZ going/VBG to/TO jump/VB up/IN and/CC say/VB 
+[ 'I/PRP  ]
+never/RB used/VBN that/IN 
+[ product/NN ]
+ /) '/'' like/IN 
+[ Cybill/NNP Shepherd/NNP ]
+did/VBD with/IN 
+[ beef/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Odds/NNS ] 
+and/CC 
+[ Ends/NNS ]
+
+======================================
+
+[ BLACK/JJ CONSUMERS/NNS ]
+are/VBP less/RBR likely/JJ than/IN 
+[ whites/NNS ]
+to/TO use/VB 
+[ coupons/NNS ]
+,/, 
+[ shop/VB ]
+in/IN 
+[ department/NN stores/NNS ]
+and/CC 
+[ shop/NN ]
+by/IN 
+[ catalog/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+'re/VBP more/RBR apt/JJ to/TO shop/VB in/IN 
+[ convenience/NN stores/NNS ]
+and/CC 
+[ order/NN products/NNS ]
+through/IN 
+[ TV/NN ]
+shopping/NN 
+[ shows/NNS ]
+,/, according/VBG to/TO 
+[ a/DT study/NN ]
+by/IN 
+[ Impact/NNP Resources/NNPS ]
+,/, 
+[ Columbus/NNP ]
+,/, 
+[ Ohio/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+Watch/VB out/RP 
+[ Ernest/NNP ]
+and/CC 
+[ Julio/NNP ]
+:/: 
+[ Anheuser-Busch/NNP Cos./NNP ]
+will/MD promote/VB 
+[ Michelob/NNP Dry/NNP 's/POS new/JJ 20-ounce/JJ longneck/JJ bottle/NN ]
+as/IN ``/`` 
+[ the/DT beer/NN ]
+to/TO be/VB shared/VBN ./. 
+
+''/'' Touting/VBG 
+[ the/DT beer/NN ]
+as/IN 
+[ an/DT alternative/NN ]
+to/TO 
+[ wine/NN ]
+at/IN 
+[ dinner/NN ]
+,/, 
+[ TV/NN commercials/NNS ]
+feature/VBP 
+[ the/DT decorative/JJ bottle/NN ]
+in/IN 
+[ an/DT ice-filled/JJ bucket/NN ]
+./. 

@@ -1,0 +1,244 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ NetFrame/NNP Systems/NNP Inc./NNP ]
+introduced/VBD 
+[ three/CD computers/NNS ]
+aimed/VBN at/IN helping/VBG 
+[ businesses/NNS ]
+satisfy/VB 
+[ their/PRP$ growing/VBG desire/NN ]
+to/TO assemble/VB 
+[ personal/JJ computers/NNS ]
+in/IN 
+[ networks/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+are/VBP first/RB in/IN 
+[ a/DT new/JJ niche/NN ]
+
+[ that/WDT ]
+could/MD potentially/RB be/VB very/RB significant/JJ ,/, ''/'' said/VBD 
+[ Douglas/NNP A./NNP Cayne/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ the/DT Gartner/NNP Group/NNP ]
+,/, 
+[ a/DT market-research/NN firm/NN ]
+in/IN 
+[ Stamford/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+======================================
+
+[ NetFrame/NNP 's/POS computers/NNS ]
+,/, 
+[ which/WDT ]
+range/VBP in/IN 
+[ price/NN ]
+from/IN 
+[ $/$ 22,500/CD ]
+to/TO more/JJR than/IN 
+[ $/$ 45,000/CD ]
+,/, enable/VBP 
+[ users/NNS ]
+of/IN 
+[ personal/JJ computers/NNS ]
+to/TO share/VB 
+[ files/NNS ]
+and/CC 
+[ data/NNS ]
+and/CC send/VB 
+[ messages/NNS ]
+to/TO 
+[ one/NN another/DT ]
+./. 
+
+Somewhat/RB 
+[ more/RBR expensive/JJ minicomputer/NN ]
+or/CC 
+[ server/NN systems/NNS ]
+sold/VBN by/IN 
+[ companies/NNS ]
+such/JJ as/IN 
+[ Hewlett-Packard/NNP Co./NNP ]
+and/CC 
+[ Sun/NNP Microsystems/NNP Inc./NNP ]
+perform/VBP 
+[ similar/JJ tasks/NNS ]
+,/, but/CC 
+[ these/DT machines/NNS ]
+are/VBP n't/RB designed/VBN to/TO work/VB easily/RB with/IN 
+[ the/DT kinds/NNS ]
+of/IN 
+[ software/NN ]
+required/VBN by/IN 
+[ personal/JJ computers/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Cayne/NNP ]
+said/VBD 
+[ NetFrame/NNP ]
+has/VBZ ``/`` hit/VBN on/IN 
+[ the/DT missing/JJ link/NN ]
+''/'' in/IN 
+[ blending/VBG minicomputer/NN power/NN ]
+with/IN 
+[ personal-computer/NN software/NN ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, 
+[ the/DT company/NN ]
+faces/VBZ 
+[ a/DT crowded/JJ market/NN ]
+./. 
+
+Besides/IN 
+[ competition/NN ]
+from/IN 
+[ minicomputer/NN makers/NNS ]
+,/, 
+[ the/DT company/NN ]
+will/MD square/VB off/RP with/IN 
+[ makers/NNS ]
+of/IN 
+[ high-powered/JJ personal/JJ computers/NNS ]
+./. 
+
+[ Many/JJ businesses/NNS today/NN outfit/VBP such/JJ machines/NNS ]
+with/IN 
+[ communications/NN software/NN ]
+to/TO run/VB 
+[ their/PRP$ networks/NNS ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ analysts/NNS ]
+said/VBD 
+[ NetFrame/NNP 's/POS approach/NN ]
+to/TO networking/VBG appears/VBZ superior/JJ because/IN 
+[ it/PRP ]
+uses/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT techniques/NNS ]
+for/IN 
+[ sending/VBG information/NN ]
+around/IN 
+[ networks/NNS ]
+that/WDT far/RB more/RBR expensive/JJ and/CC 
+[ powerful/JJ mainframe/JJ computers/NNS ]
+use/VBP ./. 
+
+======================================
+
+``/`` 
+[ The/DT result/NN ]
+is/VBZ 
+[ a/DT very/RB viable/JJ technical/JJ solution/NN ]
+
+[ that/WDT ]
+'s/VBZ going/VBG to/TO avoid/VB 
+[ data/NNS blocks/NNS ]
+,/, ''/'' said/VBD 
+[ Stella/NNP Kelly/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Infocorp./NNP ]
+,/, 
+[ a/DT Santa/NNP Clara/NNP market/NN researcher/NN ]
+./. 
+
+======================================
+
+[ NetFrame/NNP ]
+has/VBZ received/VBN 
+[ investments/NNS ]
+from/IN 
+[ Apple/NNP Computer/NNP Inc./NNP ]
+,/, 
+[ Xerox/NNP Corp./NNP ]
+and/CC 
+[ Olivetti/NNP ]
+,/, 
+[ the/DT Italian/JJ computer/NN maker/NN ]
+./. 
+
+======================================
+
+[ Enzo/NNP Torresi/NNP ]
+,/, 
+[ NetFrame/NNP 's/POS chief/JJ executive/JJ officer/NN ]
+and/CC 
+[ a/DT co-founder/NN ]
+of/IN 
+[ Businessland/NNP Inc./NNP ]
+,/, said/VBD 
+[ the/DT company/NN ]
+has/VBZ raised/VBN 
+[ a/DT total/NN ]
+of/IN 
+[ $/$ 17/CD million/CD ]
+in/IN 
+[ private/JJ investments/NNS ]
+,/, including/VBG 
+[ $/$ 12/CD million/CD ]
+in/IN 
+[ February/NNP ]
+./. 
+
+======================================
+
+[ The/DT company/NN 's/POS machines/NNS ]
+,/, 
+[ which/WDT ]
+will/MD be/VB 
+[ available/JJ beginning/VBG ]
+in/IN 
+[ November/NNP ]
+,/, 
+[ use/VBP Intel/NNP Corp./NNP 's/POS 80386/NNP ]
+and/CC 
+[ new/JJ 80486/NNP microprocessors/NNS ]
+./. 
+
+======================================
+
+[ Businessland/NNP Inc./NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ offices/NNS ]
+in/IN 
+[ 50/CD major/JJ U.S./NNP metropolitan/JJ areas/NNS ]
+,/, will/MD sell/VB 
+[ the/DT computers/NNS ]
+./. 

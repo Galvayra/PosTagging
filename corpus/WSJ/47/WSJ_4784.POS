@@ -1,0 +1,966 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+When/WRB 
+[ it/PRP ]
+comes/VBZ to/TO 
+[ advertising/NN ]
+,/, 
+[ Circuit/NNP City/NNP Stores/NNPS ]
+is/VBZ 
+[ no/DT Burger/NNP King/NNP ]
+./. 
+
+[ Its/PRP$ account/NN ]
+is/VBZ big/JJ ,/, but/CC hardly/RB enormous/JJ ./. 
+
+[ Its/PRP$ chain/NN ]
+of/IN 
+[ consumer-electronics/NNS stores/NNS ]
+is/VBZ n't/RB exactly/RB sexy/JJ ./. 
+
+And/CC 
+[ it/PRP ]
+does/VBZ n't/RB offer/VB 
+[ the/DT same/JJ prestige/NN ]
+,/, 
+[ the/DT high-profile/JJ cachet/NN ]
+,/, 
+[ that/WDT ]
+prompts/VBZ 
+[ ad/NN agencies/NNS ]
+to/TO pursue/VB 
+[ the/DT fast-food/NN ]
+and/CC 
+[ soft/JJ drink/NN giants/NNS ]
+of/IN 
+[ the/DT world/NN ]
+./. 
+
+======================================
+
+Why/WRB ,/, then/RB ,/, were/VBD 
+[ dozens/NNS ]
+of/IN 
+[ agencies/NNS ]
+apparently/RB willing/JJ to/TO go/VB through/IN almost/RB 
+[ anything/NN ]
+--/: 
+[ countless/JJ all-nighters/NNS ]
+,/, 
+[ thousands/NNS ]
+of/IN 
+[ dollars/NNS ]
+in/IN 
+[ unrecoverable/JJ expenses/NNS ]
+--/: to/TO win/VB 
+[ the/DT account/NN ]
+?/. 
+
+======================================
+
+[ The/DT answer/NN ]
+lies/VBZ in/IN 
+[ agencies/NNS '/POS increasing/VBG desperation/NN ]
+to/TO woo/VB 
+[ potential/JJ new/JJ clients/NNS ]
+./. 
+
+As/IN 
+[ big/JJ pieces/NNS ]
+of/IN 
+[ new/JJ business/NN ]
+become/VBP increasingly/RB scarce/JJ ,/, 
+[ clients/NNS ]
+are/VBP finding/VBG that/IN 
+[ they/PRP ]
+can/MD ask/VB almost/RB 
+[ anything/NN ]
+of/IN 
+[ agencies/NNS ]
+clamoring/VBG for/IN 
+[ their/PRP$ business/NN ]
+./. 
+
+And/CC 
+[ they/PRP ]
+do/VBP ./. 
+
+======================================
+
+How/WRB far/RB will/MD 
+[ agencies/NNS ]
+go/VB ?/. 
+
+``/`` As/RB far/RB as/IN 
+[ you/PRP ]
+can/MD imagine/VB ,/, ''/'' says/VBZ 
+[ Leslie/NNP Winthrop/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Advertising/NNP Agency/NNP Register/NNP ]
+,/, 
+[ which/WDT ]
+helps/VBZ 
+[ clients/NNS ]
+find/VB 
+[ agencies/NNS ]
+and/CC 
+[ which/WDT ]
+was/VBD involved/VBN in/IN 
+[ the/DT early/JJ stages/NNS ]
+of/IN 
+[ the/DT Circuit/NNP City/NNP search/NN ]
+./. 
+
+``/`` With/IN 
+[ the/DT environment/NN ]
+for/IN 
+[ new/JJ business/NN ]
+,/, 
+[ the/DT competitiveness/NN ]
+,/, 
+[ agencies/NNS ]
+do/VBP n't/RB have/VB 
+[ a/DT choice/NN ]
+any/RB more/RBR ./. 
+
+[ There/EX ]
+'s/VBZ 
+[ one-upmanship/NN ]
+
+[ no/DT matter/NN ]
+
+[ what/WP ]
+
+[ you/PRP ]
+do/VBP ./. 
+
+[ There/EX ]
+'s/VBZ 
+[ 10/CD agencies/NNS ]
+
+[ that/WDT ]
+will/MD do/VB more/RBR and/CC spend/VB 
+[ more/JJR ]
+./. 
+
+''/'' 
+======================================
+
+[ Ms./NNP Winthrop/NNP ]
+says/VBZ 
+[ she/PRP ]
+does/VBZ n't/RB believe/VB 
+[ clients/NNS ]
+set/VBN out/IN to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ ad/NN agencies/NNS ]
+,/, to/TO push/VB to/TO see/VB how/WRB 
+[ far/JJ agencies/NNS ]
+will/MD go/VB ./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ they/PRP ]
+just/RB know/VBP 
+[ they/PRP ]
+can/MD have/VB 
+[ it/PRP ]
+,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Circuit/NNP City/NNP 's/POS  ]
+became/VBD just/RB 
+[ the/DT latest/JJS ]
+in/IN 
+[ a/DT string/NN ]
+of/IN 
+[ heavy-handed/JJ account/NN pitches/NNS ]
+when/WRB 
+[ the/DT company/NN ]
+tapped/VBD 
+[ WPP/NNP Group/NNP 's/POS J./NNP Walter/NNP Thompson/NNP last/JJ week/NN ]
+for/IN 
+[ its/PRP$ $/$ 20/CD million/CD ]
+to/TO 
+[ $/$ 25/CD million/CD account/NN ]
+./. 
+
+[ The/DT company/NN ]
+began/VBD looking/VBG for/IN 
+[ an/DT agency/NN ]
+in/IN 
+[ February/NNP ]
+,/, narrowing/VBG 
+[ its/PRP$ list/NN ]
+of/IN 
+[ prospective/JJ agencies/NNS ]
+from/IN 
+[ 60/CD ]
+to/TO 
+[ 30/CD ]
+to/TO 
+[ 11/CD ]
+to/TO 
+[ seven/CD ]
+to/TO 
+[ five/CD ]
+and/CC ,/, finally/RB ,/, to/TO 
+[ two/CD ]
+./. 
+
+[ It/PRP ]
+still/RB could/MD n't/RB make/VB up/IN 
+[ its/PRP$ mind/NN ]
+,/, so/IN 
+[ it/PRP ]
+paid/VBD 
+[ the/DT two/CD agencies/NNS ]
+,/, 
+[ Thompson/NNP ]
+and/CC 
+[ Young/NNP ]
+&/CC 
+[ Rubicam/NNP ]
+,/, to/TO work/VB for/IN 
+[ it/PRP ]
+for/IN 
+[ three/CD months/NNS ]
+./. 
+
+[ The/DT entire/JJ process/NN ]
+took/VBD 
+[ eight/CD months/NNS ]
+and/CC at/IN 
+[ least/JJS four/CD separate/JJ rounds/NNS ]
+of/IN 
+[ full-blown/JJ agency/NN presentations/NNS ]
+./. 
+
+While/IN 
+[ other/JJ clients/NNS ]
+have/VBP held/VBN 
+[ several/JJ rounds/NNS ]
+of/IN 
+[ agency/NN presentations/NNS ]
+,/, 
+[ Circuit/NNP City/NNP 's/POS summer-long/JJ trial/NN ]
+carried/VBD 
+[ the/DT process/NN ]
+to/TO 
+[ extremes/NNS ]
+./. 
+
+[ Greg/NNP Jones/NNP ]
+,/, 
+[ Circuit/NNP City/NNP 's/POS assistant/JJ vice/NN president/NN ]
+of/IN 
+[ corporate/JJ ]
+advertising/NN ,/, says/VBZ 
+[ the/DT trial/NN run/NN was/VBD n't/RB ]
+initially/RB 
+[ a/DT part/NN ]
+of/IN 
+[ the/DT company/NN 's/POS plans/NNS ]
+./. 
+
+``/`` But/CC in/IN 
+[ retrospect/NN ]
+
+[ I/PRP ]
+would/MD do/VB 
+[ it/PRP ]
+again/RB ./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ I/PRP ]
+would/MD recommend/VB 
+[ it/PRP ]
+''/'' to/TO 
+[ others/NNS ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Even/RB with/IN 
+[ the/DT fee/NN Circuit/NNP City/NNP ]
+paid/VBD 
+[ the/DT two/CD finalists/NNS ]
+for/IN 
+[ their/PRP$ summer/NN 's/POS work/NN ]
+,/, 
+[ ad/NN executives/NNS ]
+believe/VBP that/IN 
+[ all/PDT the/DT participants/NNS ]
+lost/VBD 
+[ money/NN ]
+on/IN 
+[ the/DT pitch/NN ]
+./. 
+
+But/CC 
+[ all/DT ]
+went/VBD along/IN for/IN 
+[ the/DT ride/NN ]
+largely/RB because/IN 
+[ Circuit/NNP City/NNP ]
+has/VBZ emerged/VBN as/IN 
+[ one/CD ]
+of/IN 
+[ the/DT strongest/JJS ]
+and/CC 
+[ fastest-growing/JJ consumer/NN electronics/NNS chains/NNS ]
+in/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Agencies/NNS ]
+were/VBD also/RB encouraged/VBN because/IN 
+[ the/DT chain/NN ]
+spends/VBZ 
+[ a/DT total/NN ]
+of/IN about/IN 
+[ $/$ 125/CD million/CD ]
+in/IN advertising/NN annually/RB --/: holding/VBG out/IN 
+[ hope/NN ]
+that/IN 
+[ the/DT victorious/JJ agency/NN ]
+might/MD get/VB more/JJR than/IN 
+[ $/$ 25/CD million/CD ]
+in/IN 
+[ business/NN ]
+./. 
+
+And/CC even/RB if/IN 
+[ the/DT account/NN ]
+does/VBZ n't/RB grow/VB ,/, 
+[ every/DT bit/NN ]
+helps/VBZ ./. 
+
+======================================
+
+[ The/DT pitch/NN ]
+``/`` was/VBD done/VBN in/IN 
+[ a/DT very/RB fair/JJ way/NN ]
+,/, ''/'' insists/VBZ 
+[ Bert/NNP Metter/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Thompson/NNP 's/POS U.S./NNP operations/NNS ]
+,/, 
+[ the/DT winner/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD n't/RB 
+[ them/PRP ]
+
+[ taking/VBG advantage/NN ]
+of/IN 
+[ anybody/NN ]
+./. 
+
+If/IN {/( 
+[ a/DT client/NN ]
+ }/) goes/VBZ through/IN 
+[ a/DT search/NN ]
+and/CC 
+[ they/PRP ]
+are/VBP n't/RB sure/JJ ,/, 
+[ they/PRP ]
+should/MD go/VB 
+[ a/DT little/RB further/JJ ]
+and/CC do/VB 
+[ whatever/WDT ]
+
+[ it/PRP ]
+takes/VBZ ./. 
+
+''/'' 
+======================================
+
+But/CC how/WRB 
+[ fair/JJ ]
+is/VBZ 
+[ it/PRP ]
+,/, really/RB ,/, for/IN 
+[ any/DT prospective/JJ client/NN ]
+to/TO make/VB 
+[ those/DT kinds/NNS ]
+of/IN 
+[ all-consuming/JJ demands/NNS ]
+on/IN 
+[ an/DT agency/NN ]
+?/. 
+
+[ Chiat\/NNP ]
+was/VBD also/RB asked/VBN to/TO take/VB 
+[ part/NN ]
+in/IN 
+[ the/DT tie-breaker/NN ]
+,/, but/CC declined/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD like/IN 
+[ a/DT carrot/NN ]
+
+[ that/WDT ]
+was/VBD being/VBG held/VBN out/IN to/TO 
+[ you/PRP ]
+./. 
+
+[ The/DT rules/NNS ]
+of/IN 
+[ the/DT game/NN ]
+just/RB kept/VBD changing/VBG as/IN 
+[ they/PRP ]
+went/VBD along/IN ,/, ''/'' says/VBZ 
+[ Jane/NNP Newman/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT agency/NN 's/POS New/NNP York/NNP office/NN ]
+./. 
+
+[ She/PRP ]
+says/VBZ that/IN while/IN 
+[ Chiat/NNP ]
+liked/VBD 
+[ Circuit/NNP City/NNP management/NN ]
+,/, ``/`` 
+[ it/PRP ]
+definitely/RB 
+[ was/VBD n't/RB ]
+fair/JJ to/TO 
+[ existing/VBG clients/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Still/RB ,/, 
+[ most/JJS agencies/NNS ]
+are/VBP so/RB willing/JJ to/TO jump/VB through/IN 
+[ hoops/NNS ]
+that/IN perhaps/RB 
+[ it/PRP ]
+
+[ 's/VBZ their/PRP$ own/JJ fault/NN ]
+that/IN 
+[ prospective/JJ clients/NNS ]
+demand/VBP so/RB much/JJ of/IN 
+[ them/PRP ]
+./. 
+
+[ Circuit/NNP City/NNP ]
+first/RB had/VBD 
+[ agencies/NNS ]
+fill/VB out/IN 
+[ a/DT detailed/VBN questionnaire/NN ]
+./. 
+
+Then/RB 
+[ the/DT agencies/NNS ]
+had/VBD to/TO fill/VB out/IN 
+[ a/DT more/RBR detailed/VBN questionnaire/NN ]
+and/CC send/VB along/IN 
+[ short/JJ ]
+``/`` 
+[ video/JJ presentations/NNS ]
+./. 
+
+''/'' Then/RB 
+[ each/DT ]
+had/VBD to/TO give/VB 
+[ a/DT two-hour/JJ presentation/NN ]
+./. 
+
+Then/RB 
+[ five/CD semifinalists/NNS ]
+had/VBD to/TO trek/VB to/TO 
+[ Circuit/NNP City/NNP 's/POS headquarters/NN ]
+in/IN 
+[ Richmond/NNP ]
+,/, 
+[ Va./NNP ]
+,/, for/IN 
+[ another/DT presentation/NN ]
+./. 
+
+======================================
+
+After/IN 
+[ all/PDT that/DT ]
+,/, 
+[ Circuit/NNP City/NNP ]
+declared/VBD 
+[ a/DT tie/NN ]
+and/CC tapped/VBD 
+[ Thompson/NNP ]
+and/CC 
+[ Young/NNP ]
+&/CC 
+[ Rubicam/NNP ]
+
+[ both/DT ]
+to/TO work/VB on/IN 
+[ the/DT account/NN ]
+until/IN 
+[ it/PRP ]
+could/MD make/VB up/IN 
+[ its/PRP$ mind/NN ]
+./. 
+
+Then/RB ,/, earlier/RB 
+[ this/DT month/NN ]
+,/, 
+[ each/DT ]
+had/VBD to/TO give/VB yet/RB 
+[ another/DT full-blown/NN presentation/NN ]
+,/, including/VBG 
+[ creative/JJ work/NN ]
+./. 
+
+After/IN 
+[ eight/CD months/NNS ]
+of/IN 
+[ weekends/NNS ]
+and/CC 
+[ late/JJ nights/NNS ]
+,/, after/IN 
+[ scores/NNS ]
+of/IN 
+[ creative/JJ concepts/NNS ]
+were/VBD produced/VBN and/CC discarded/VBN ,/, after/IN 
+[ research/NN ]
+was/VBD commissioned/VBN and/CC 
+[ media/NNS plans/NNS ]
+created/VBN ,/, 
+[ Thompson/NNP ]
+finally/RB got/VBD 
+[ the/DT business/NN ]
+./. 
+
+======================================
+
+Throughout/IN 
+[ the/DT entire/JJ grueling/VBG process/NN ]
+,/, ``/`` 
+[ We/PRP ]
+received/VBD 
+[ no/DT reluctance/NN ]
+from/IN 
+[ any/DT ]
+of/IN 
+[ them/PRP ]
+,/, ''/'' says/VBZ 
+[ Richard/NNP Sharp/NNP ]
+,/, 
+[ Circuit/NNP City/NNP 's/POS president/NN ]
+and/CC 
+[ chief/NN executive/NN officer/NN ]
+./. 
+
+======================================
+
+Indeed/RB ,/, despite/IN 
+[ the/DT rigorous/JJ paces/NNS Circuit/NNP City/NNP ]
+put/VBD 
+[ the/DT agencies/NNS ]
+through/IN ,/, 
+[ other/JJ agencies/NNS ]
+clamored/VBD to/TO be/VB considered/VBN ./. 
+
+After/IN 
+[ Interpublic/NNP 's/POS Lintas/NNP unit/NN ]
+was/VBD cut/VBN in/IN 
+[ one/CD ]
+of/IN 
+[ the/DT earlier/JJR rounds/NNS ]
+,/, 
+[ executive/JJ vice/NN president/NN Don/NNP Peppers/NNP ]
+showed/VBD up/IN ,/, 
+[ unannounced/JJ ]
+,/, at/IN 
+[ a/DT New/NNP Jersey/NNP hotel/NN ]
+where/WRB 
+[ Circuit/NNP City/NNP executives/NNS ]
+were/VBD listening/VBG to/TO 
+[ six/CD finalists/NNS ]
+./. 
+
+[ He/PRP ]
+rushed/VBD in/IN at/IN 
+[ lunchtime/NN ]
+with/IN 
+[ pizzas/NNS ]
+and/CC 
+[ a/DT spiel/NN ]
+for/IN 
+[ his/PRP$ agency/NN ]
+./. 
+
+======================================
+
+[ The/DT pizza/NN caper/NN ]
+got/VBD 
+[ Lintas/NNP ]
+back/RB into/IN 
+[ the/DT game/NN ]
+,/, but/CC 
+[ it/PRP ]
+was/VBD later/RB cut/VBN from/IN 
+[ the/DT group/NN ]
+of/IN 
+[ finalists/NNS ]
+./. 
+
+And/CC while/IN 
+[ Mr./NNP Peppers/NNP ]
+wo/MD n't/RB comment/VB on/IN 
+[ the/DT incident/NN ]
+,/, 
+[ he/PRP ]
+has/VBZ 
+[ only/JJ praise/NN ]
+for/IN 
+[ Circuit/NNP City/NNP 's/POS handling/NN ]
+of/IN 
+[ the/DT pitch/NN ]
+./. 
+
+Like/IN 
+[ most/JJS agency/NN executives/NNS ]
+,/, 
+[ he/PRP ]
+knows/VBZ never/RB to/TO criticize/VB 
+[ anyone/NN ]
+
+[ who/WP ]
+might/MD someday/RB still/RB become/VB 
+[ a/DT client/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Circuit/NNP City/NNP 's/POS process/NN ]
+was/VBD designed/VBN to/TO get/VB to/TO know/VB 
+[ an/DT agency/NN ]
+./. 
+
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT good/JJ idea/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` Now/RB ,/, 
+[ we/PRP ]
+can/MD quibble/VB over/IN whether/IN 
+[ it/PRP ]
+'s/VBZ fair/JJ economically/RB or/CC not/RB to/TO 
+[ the/DT two/CD agencies/NNS ]
+involved/VBN ./. 
+
+But/CC 
+[ this/DT ]
+is/VBZ 
+[ capitalism/NN ]
+,/, and/CC 
+[ you/PRP ]
+'re/VBP free/JJ to/TO turn/VB 
+[ it/PRP ]
+down/IN if/IN 
+[ you/PRP ]
+do/VBP n't/RB like/VB 
+[ it/PRP ]
+./. 
+
+''/'' Besides/IN ,/, 
+[ he/PRP ]
+points/VBZ out/IN ,/, if/IN 
+[ trial/NN runs/NNS ]
+``/`` became/VBD 
+[ a/DT custom/NN ]
+,/, then/RB 
+[ the/DT cost/NN ]
+of/IN doing/VBG 
+[ this/DT ]
+would/MD be/VB automatically/RB built/VBN into/IN 
+[ agencies/NNS '/POS rates/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Pioneer/NNP Throws/VBZ Switch/NN ]
+
+======================================
+
+[ Pioneer/NNP Electronics/NNP ]
+ (/( 
+[ U.S.A./NNP ]
+ )/) ,/, 
+[ Long/NNP Beach/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, yesterday/NN awarded/VBD 
+[ its/PRP$ $/$ 10/CD million/CD consumer/NN electronics/NNS ]
+account/NN to/TO 
+[ Goodby/NNP ]
+,/, 
+[ Berlin/NNP ]
+&/CC 
+[ Silverstein/NNP ]
+of/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+======================================
+
+[ The/DT account/NN ]
+had/VBD been/VBN serviced/VBN since/IN 
+[ 1985/CD ]
+by/IN 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP DFS\/Pacific/NNP ]
+,/, 
+[ the/DT Torrance/NNP ]
+,/, 
+[ Calif.-based/JJ unit/NN ]
+of/IN 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP ]
+./. 
+
+[ Michael/NNP Fidler/NNP ]
+,/, 
+[ a/DT Pioneer/NNP senior/JJ vice/NN president/NN ]
+,/, said/VBD 
+[ the/DT merger/NN ]
+of/IN 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Compton/NNP ]
+and/CC 
+[ Dancer/NNP Fitzgerald/NNP Sample/NNP ]
+in/IN 
+[ June/NNP 1987/CD ]
+was/VBD 
+[ a/DT key/JJ factor/NN ]
+in/IN 
+[ the/DT firm/NN 's/POS decision/NN ]
+to/TO name/VB 
+[ a/DT new/JJ agency/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+did/VBD n't/RB 
+[ feel/VB ]
+after/IN 
+[ the/DT first/JJ two/CD years/NNS ]
+that/IN 
+[ they/PRP ]
+provided/VBD 
+[ us/PRP ]
+with/IN 
+[ the/DT right/JJ type/NN ]
+of/IN 
+[ account/NN ]
+and/CC 
+[ media/NNS ]
+support/NN 
+[ we/PRP ]
+needed/VBD ,/, ''/'' 
+[ Mr./NNP Fidler/NNP ]
+said/VBD ./. 
+
+======================================
+
+For/IN 
+[ Goodby/NNP Berlin/NNP ]
+,/, now/RB 
+[ a/DT $/$ 50/CD million/CD shop/NN ]
+
+[ whose/WP$ clients/NNS ]
+include/VBP 
+[ Royal/NNP Viking/NNP Line/NNP ]
+and/CC 
+[ the/DT San/NNP Francisco/NNP Examiner/NNP ]
+,/, 
+[ the/DT account/NN ]
+represents/VBZ 
+[ a/DT major/JJ national/JJ win/NN ]
+./. 
+
+[ Other/JJ finalists/NNS ]
+in/IN 
+[ the/DT search/NN ]
+,/, 
+[ which/WDT ]
+began/VBD in/IN 
+[ July/NNP ]
+,/, included/VBD 
+[ the/DT Los/NNP Angeles/NNP offices/NNS ]
+of/IN 
+[ J./NNP Walter/NNP Thompson/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ WPP/NNP Group/NNP ]
+;/: 
+[ Della/NNP Femina/NNP ]
+,/, 
+[ McNamee/NNP WCRS/NNP ]
+;/: and/CC 
+[ Omnicom/NNP Group/NNP 's/POS BBDO/NNP agency/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Fidler/NNP ]
+said/VBD 
+[ Goodby/NNP Berlin/NNP 's/POS advertising/NN ]
+will/MD replace/VB 
+[ Pioneer/NNP 's/POS campaign/NN ]
+,/, tagged/VBN ``/`` 
+[ We/PRP ]
+bring/VBP 
+[ the/DT revolution/NN home/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+hopes/VBZ 
+[ the/DT new/JJ advertising/NN ]
+will/MD help/VB 
+[ foster/VB uniformity/NN ]
+among/IN 
+[ its/PRP$ many/JJ product/NN lines/NNS ]
+and/CC update/VB 
+[ Pioneer/NNP 's/POS image/NN ]
+as/IN 
+[ a/DT leader/NN ]
+in/IN 
+[ consumer/NN electronics/NNS technology/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP still/RB looked/VBN at/IN as/IN 
+[ a/DT brand/NN ]
+of/IN 
+[ the/DT 1970s/CD ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Ad/NNP Notes/NNPS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ CUTTY/NNP SARK/NNP ]
+:/: 
+[ Buckingham/NNP Wile/NNP Co./NNP ]
+,/, 
+[ the/DT New/NNP York-based/JJ importer/NN ]
+of/IN 
+[ Cutty/NNP Sark/NNP scotch/NN ]
+,/, is/VBZ set/VBN to/TO return/VB to/TO 
+[ its/PRP$ advertising/NN roots/NNS ]
+in/IN 
+[ November/NNP ]
+by/IN bringing/VBG back/RB 
+[ the/DT Cutty/NNP Sark/NNP schooner/NN ]
+in/IN 
+[ print/NN ads/NNS ]
+./. 
+
+[ Don/NNP Klein/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ ad/NN agency/NN MacNamara/NNP Clapp/NNP ]
+&/CC 
+[ Klein/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+,/, said/VBD 
+[ focus/NN group/NN research/NN ]
+indicated/VBD 
+[ consumers/NNS ]
+overwhelmingly/RB associate/VBP 
+[ the/DT ship/NN ]
+with/IN 
+[ the/DT brand/NN ]
+even/RB though/IN 
+[ it/PRP ]
+has/VBZ n't/RB been/VBN featured/VBN prominently/RB in/IN 
+[ ads/NNS ]
+for/IN 
+[ years/NNS ]
+./. 
+
+[ The/DT new/JJ ads/NNS ]
+,/, 
+[ which/WDT ]
+feature/VBP 
+[ the/DT tagline/NN ]
+``/`` Live/VB 
+[ a/DT Cutty/NNP Above/IN ]
+,/, ''/'' replace/VBP 
+[ black/JJ  ]
+and/CC 
+[ white/JJ shots/NNS ]
+of/IN partying/VBG 
+[ socialites/NNS ]
+./. 

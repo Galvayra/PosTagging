@@ -1,0 +1,9871 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ Equations/NNS ]
+describing/VBG 
+[ unsteady/JJ distribution/NN ]
+of/IN 
+[ temperature/NN ]
+,/, 
+[ pressure,and/NN  saturation/NN ]
+in/IN 
+[ the/DT two-phase/JJ flow/NN system/NN ]
+in/IN 
+[ porous/JJ medium/NN ]
+were/VBD derived/VBN ,/, and/CC 
+[ some/DT hydraulic/JJ characteristics/NNS ]
+of/IN 
+[ the/DT two-phase/JJ flow/NN system/NN ]
+were/VBD investigated/VBN ./. 
+
+[ Effects/NNS ]
+of/IN 
+[ change/NN ]
+in/IN 
+[ external/JJ loads/NNS ]
+on/IN 
+[ geothermal/JJ state/NN ]
+could/MD be/VB neglected/VBN ./. 
+
+Perturbing/VBG 
+[ a/DT quiscent/JJ horizontal/JJ reservoir/NN ]
+by/IN 
+[ small/JJ perturbation/NN ]
+,/, 
+[ a/DT diffusion/NN equation/NN concerning/VBG propagation/NN ]
+of/IN 
+[ pressure/NN change/NN ]
+was/VBD deduced/VBN ./. 
+
+Checking/VBG up/RP 
+[ its/PRP$ coefficients/NNS ]
+,/, 
+[ followings/NNS ]
+were/VBD clarified/VBN :/: 
+[ The/DT most/RBS significant/JJ hydraulic/JJ storativity/NN ]
+(/( 
+[ compressibility/NN ]
+)/) of/IN 
+[ the/DT system/NN ]
+was/VBD originated/VBN from/IN 
+[ the/DT phase/NN ]
+change/NN 
+[ Its/PRP$ value/NN ]
+depended/VBD mainly/RB on/IN 
+[ temperature/NN ]
+./. 
+
+Therefore/RB 
+[ it/PRP ]
+is/VBZ very/RB important/JJ from/IN 
+[ the/DT hydraulic/JJ viewpoint/NN ]
+to/TO elucidate/VB 
+[ the/DT distribution/NN ]
+of/IN 
+[ underground/JJ temperature/NN Heat/NN conductivity/NN ]
+may/MD affect/VB 
+[ the/DT propagation/NN ]
+of/IN 
+[ pressure/NN change/NN ]
+in/IN 
+[ the/DT two/CD phase/NN reservoir/NN ]
+of/IN 
+[ which/WDT permeability/NN ]
+is/VBZ 
+[ 10/CD ]
+{/( 
+[ sup/NN -3/CD ]
+}/) 
+[ darcy/NN ]
+in/IN 
+[ the/DT magnitude/NN ]
+and/CC 
+[ temperature/NN ]
+is/VBZ below/IN 
+[ 200-250/CD ]
+./. 
+
+(/( 
+[ 11/CD refs/NNS ]
+,/, 
+[ 6/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Radioactive/JJ mineral/NN ages/NNS ]
+in/IN 
+[ some/DT granite/NN bodies/NNS ]
+obtained/VBN by/IN 
+[ K-Ar/NN ]
+,/, 
+[ Rb-Sr/NN ]
+and/CC 
+[ fission/NN track/NN methods/NNS ]
+had/VBD 
+[ specific/JJ closure/NN temperature/NN estimates/NNS ]
+respectively/RB and/CC 
+[ their/PRP$ thermal/JJ histories/NNS ]
+could/MD be/VB clarified/VBN by/IN 
+[ these/DT methods/NNS ]
+./. 
+
+[ Rokko/NNP Nunobiki/NNP ]
+and/CC 
+[ Mikumo/NNP plutons/NNS ]
+,/, and/CC 
+[ Tanakami/NNP stock/NN ]
+were/VBD found/VBN to/TO be/VB cooled/VBN slowly/RB compared/VBN with/IN 
+[ Kumano/NNP acidic/JJ body/NN ]
+from/IN 
+[ their/PRP$ radiometric/JJ ages/NNS ]
+./. 
+
+[ More/JJR shallow/JJ ]
+
+[ the/DT intrusion/NN ]
+and/CC 
+[ smaller/JJR the/DT body/NN ]
+,/, more/RBR rapidly/RB 
+[ the/DT cooling/NN rates/NNS ]
+of/IN 
+[ the/DT formers/NNS ]
+./. 
+
+[ The/DT latter/JJ ]
+began/VBD to/TO cool/VB slowly/RB at/IN 
+[ first/JJ ]
+as/IN 
+[ uplift/NN ]
+and/CC then/RB progressively/RB quicker/RBR as/IN 
+[ the/DT surface/NN ]
+was/VBD approached/VBN ./. 
+
+[ K-Ar/NN ages/NNS ]
+for/IN 
+[ Kurobe/NNP granite/NN pluton/NN ]
+intruded/VBN 
+[ 50Ma/NN ]
+ago/RB were/VBD in/IN 
+[ proportion/NN ]
+to/TO 
+[ square/JJ root/NN ]
+of/IN 
+[ the/DT altitude/NN ]
+and/CC could/MD be/VB explained/VBN by/IN cooling/NN from/IN 
+[ the/DT upper/JJ surface/NN ]
+./. 
+
+[ High/JJ temperatures/NNS ]
+in/IN 
+[ the/DT tunnel/NN ]
+near/IN 
+[ Sennin/NNP Dam/NNP ]
+along/IN 
+[ Kurobe/NNP River/NNP ]
+were/VBD caused/VBN by/IN 
+[ residual/JJ heat/NN ]
+of/IN 
+[ the/DT granite/NN body/NN ]
+./. 
+
+(/( 
+[ 25/CD refs/NNS ]
+,/, 
+[ 6/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Majour/NN items/NNS ]
+of/IN 
+[ this/DT lecture/NN ]
+covered/VBD 
+[ the/DT assessment/NN ]
+on/IN 
+[ the/DT quantity/NN ]
+of/IN 
+[ U.S./NNP geothermal/JJ resources/NNS ]
+./. 
+
+[ The/DT geothermal/JJ resources/NNS ]
+are/VBP classified/VBN into/IN 
+[ 3/CD categories/NNS ]
+;/: 
+[ high/JJ temperature/NN ]
+(/( 
+[ 150/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC above/RB )/) at/IN 
+[ which/WDT power/NN ]
+can/MD be/VB generated/VBN by/IN 
+[ the/DT hot/JJ water/NN convection/NN system/NN ]
+,/, 
+[ medium/NN temperature/NN ]
+(/( 
+[ 90/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+-/: 
+[ 150/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+)/) for/IN 
+[ direct/JJ use/NN ]
+(/( 
+[ multiple/JJ purposes/NNS ]
+)/) with/IN 
+[ the/DT hot/JJ water/NN convection/NN system/NN ]
+and/CC 
+[ low/JJ temperature/NN ]
+(/( 
+[ 90/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC less/JJR )/) in/IN 
+[ which/WDT ]
+
+[ the/DT geothermal/JJ system/NN ]
+includes/VBZ 
+[ the/DT hot/JJ water/NN convection/NN system/NN ]
+and/CC 
+[ heat/NN conduction/NN dominant/JJ zone/NN ]
+./. 
+
+For/IN 
+[ assessing/VBG energy/NN ]
+stored/VBN in/IN 
+[ the/DT reservoir/NN ]
+,/, 
+[ the/DT volumetric/JJ method/NN ]
+is/VBZ used/VBN ,/, in/IN 
+[ which/WDT multiplication/NN calculation/NN ]
+is/VBZ used/VBN with/IN 
+[ the/DT 3/CD parameters/NNS ]
+of/IN 
+[ the/DT volumetric/JJ specific/JJ heat/NN ]
+of/IN 
+[ a/DT mix/NN ]
+of/IN 
+[ water/NN ]
+and/CC 
+[ rock/NN ]
+in/IN 
+[ ratio/NN 15:85/CD ]
+,/, 
+[ volume/NN ]
+of/IN 
+[ reservoir/NN ]
+and/CC 
+[ difference/NN ]
+between/IN 
+[ reservoir/NN ]
+and/CC 
+[ annual/JJ mean/JJ atmospheric/JJ temperatures/NNS ]
+./. 
+
+[ Other/JJ explanations/NNS ]
+include/VBP 
+[ terrestrial/JJ temperature/NN gradient/NN map/NN ]
+in/IN 
+[ the/DT U.S.A./NNP ]
+,/, 
+[ quantity/NN ]
+of/IN 
+[ energy/NN ]
+in/IN 
+[ the/DT hot/JJ water/NN convection/NN system/NN ]
+,/, 
+[ etc./RB ]
+(/( 
+[ 3/CD figs/NNS ]
+,/, 
+[ 2/CD tables/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ The/DT latest/JJS information/NN ]
+of/IN 
+[ the/DT geothermal/JJ development/NN ]
+in/IN 
+[ U.S.A./NNP ]
+was/VBD gathered/VBN by/IN visiting/VBG to/TO 
+[ Geysers/NNP Geothermal/NNP Power/NNP Plant/NNP ]
+in/IN 
+[ the/DT world/NN largest/JJS geothermal/JJ field/NN ]
+,/, 
+[ the/DT steam/NN ]
+and/CC 
+[ binary/JJ cycle/NN power/NN plants/NNS ]
+in/IN 
+[ Imperial/NNP Valley/NNP ]
+,/, and/CC 
+[ Lawrence/NNP Berkeley/NNP Laboratory/NNP ]
+of/IN 
+[ University/NNP ]
+of/IN 
+[ California/NNP ]
+./. 
+
+[ Concerning/VBG Imperial/NNP Valley/NNP zone/NN ]
+,/, 
+[ the/DT single/JJ flash/NN generating/NN system/NN ]
+in/IN 
+[ Salton/NNP Sea/NNP area/NN ]
+,/, and/CC 
+[ the/DT 2-stage/JJ binary/NN cycle/NN generating/NN project/NN ]
+in/IN 
+[ Heber/NNP area/NN ]
+were/VBD reported/VBN ./. 
+
+[ Concerning/VBG ]
+
+[ the/DT Geysers/NNP Power/NNP Plant/NNP ]
+,/, 
+[ desulfurization/NN technique/NN ]
+of/IN 
+[ hydrogen/NN sulfide/NN ]
+against/IN 
+[ envionmental/JJ regulation/NN ]
+was/VBD reported/VBN in/IN 
+[ details/NNS ]
+./. 
+
+[ Many/JJ information/NN ]
+about/IN 
+[ the/DT MT/NNP method/NN ]
+for/IN 
+[ geothermal/JJ exploration/NN ]
+are/VBP obtained/VBN ,/, and/CC 
+[ it/PRP ]
+was/VBD impressed/VBN that/IN 
+[ the/DT revolutional/JJ progress/NN ]
+for/IN 
+[ MT/NNP method/NN ]
+would/MD 
+[ occure/VB ]
+in/IN 
+[ near/JJ future/NN ]
+./. 
+
+(/( 
+[ 6/CD figs/NNS ]
+,/, 
+[ 5/CD photos/NNS ]
+)/) 
+======================================
+
+[ Hydrothermal/JJ alteration/NN minerals/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP formed/VBN when/WRB 
+[ hot/JJ water/NN ]
+reacts/VBZ on/IN 
+[ rocks/NNS ]
+in/IN 
+[ a/DT geothermal/JJ zone/NN ]
+,/, contain/VBP 
+[ a/DT great/JJ deal/NN ]
+of/IN 
+[ information/NN ]
+concerning/VBG 
+[ the/DT hydrothermal/JJ activities/NNS ]
+important/JJ for/IN 
+[ the/DT geothermal/JJ exploration/NN ]
+./. 
+
+[ Wairakite/NNP ]
+is/VBZ 
+[ an/DT index/NN ]
+of/IN 
+[ the/DT high/JJ temperature/NN hydrothermal/JJ activities/NNS ]
+in/IN 
+[ a/DT geothermal/JJ zone/NN ]
+since/IN 
+[ it/PRP ]
+is/VBZ formed/VBN at/IN 
+[ 200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC 
+[ more/JJR ]
+./. 
+
+[ The/DT kind/NN ]
+of/IN 
+[ alteration/NN mineral/NN ]
+is/VBZ greatly/RB affected/VBN by/IN 
+[ the/DT chemical/JJ character/NN ]
+of/IN 
+[ the/DT hot/JJ water/NN ]
+./. 
+
+Therefore/RB 
+[ the/DT chemical/JJ character/NN ]
+of/IN 
+[ the/DT hot/JJ water/NN ]
+
+[ which/WDT ]
+formed/VBD 
+[ an/DT alteration/NN zone/NN ]
+may/MD be/VB deduced/VBN by/IN surveying/VBG 
+[ the/DT kinds/NNS ]
+of/IN 
+[ alteration/NN mineral/NN ]
+in/IN 
+[ the/DT zone/NN ]
+concerned/VBN ./. 
+
+Since/IN in/IN 
+[ many/JJ cases/NNS ]
+,/, 
+[ hydrothermal/JJ activities/NNS ]
+are/VBP governed/VBN by/IN 
+[ fissures/NNS ]
+of/IN 
+[ rocks/NNS ]
+
+[ which/WDT ]
+were/VBD caused/VBN by/IN 
+[ a/DT fault/NN ]
+or/CC 
+[ fold/NN ]
+of/IN 
+[ strata/NNS ]
+,/, 
+[ the/DT information/NN ]
+about/IN 
+[ the/DT change/NN etc./RB ]
+of/IN 
+[ the/DT passage/NN ]
+or/CC 
+[ chemical/JJ character/NN ]
+of/IN 
+[ the/DT geothermal/JJ fluid/NN ]
+is/VBZ obtained/VBN from/IN 
+[ the/DT distribution/NN ]
+and/CC 
+[ outline/NN ]
+of/IN 
+[ the/DT alteration/NN zone/NN ]
+and/CC 
+[ the/DT kinds/NNS ]
+of/IN 
+[ alteration/NN mineral/NN ]
+./. 
+
+In/IN 
+[ order/NN ]
+to/TO elucidate/VB whether/IN or/CC not/RB 
+[ the/DT hydrothermal/JJ activities/NNS ]
+
+[ which/WDT ]
+formed/VBD 
+[ the/DT alteration/NN zone/NN ]
+concerned/VBN still/RB continue/VB now/RB and/CC whether/IN or/CC not/RB 
+[ the/DT information/NN ]
+about/IN 
+[ the/DT zone/NN ]
+concerned/VBN reflects/VBZ 
+[ the/DT current/JJ geothermal/JJ activities/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ important/JJ to/TO determine/VB 
+[ the/DT time/NN ]
+when/WRB 
+[ the/DT alteration/NN action/NN ]
+occurred/VBD ./. 
+
+Furthermore/RB ,/, from/IN 
+[ the/DT alteration/NN minerals/NNS ]
+collected/VBN during/IN 
+[ the/DT drilling/NN ]
+of/IN 
+[ a/DT production/NN ]
+well/NN ,/, 
+[ the/DT prospect/NN ]
+and/CC 
+[ other/JJ points/NNS ]
+of/IN 
+[ the/DT well/NN ]
+can/MD be/VB assessed/VBN ./. 
+
+(/( 
+[ 5/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 9/CD refs/NNS ]
+)/) 
+======================================
+
+[ There/EX ]
+exists/VBZ 
+[ no/DT MT/NN technology/NN ]
+yet/RB in/IN 
+[ Japan/NNP ]
+
+[ which/WDT ]
+is/VBZ usable/JJ at/IN 
+[ a/DT practical/JJ level/NN ]
+./. 
+
+Therefore/RB ,/, 
+[ the/DT conditions/NNS ]
+of/IN 
+[ development/NN ]
+are/VBP :/: (/( 
+[ 1/LS ]
+)/) 
+[ A/DT device/NN ]
+should/MD be/VB able/JJ to/TO be/VB manually/RB transported/VBN in/IN 
+[ order/NN ]
+to/TO make/VB 
+[ a/DT measurement/NN ]
+at/IN 
+[ a/DT point/NN ]
+where/WRB 
+[ a/DT car/NN traffic/NN ]
+is/VBZ possible/JJ ./. 
+
+(/( 
+[ 2/LS ]
+)/) 
+[ Quality/NN control/NN ]
+of/IN 
+[ the/DT data/NNS ]
+obtained/VBN should/MD be/VB fully/RB possible/JJ ./. 
+
+(/( 
+[ 3/LS ]
+)/) Highly/RB 
+[ dense/JJ measurement/NN ]
+should/MD be/VB possible/JJ to/TO match/VB 
+[ the/DT complicated/JJ geological/JJ structure/NN ]
+./. 
+
+More/RBR concretely/RB saying/VBG ;/: (/( 
+[ a/LS ]
+)/) 
+[ Measuring/VBG device/NN ]
+:/: 
+[ Weight/NN ]
+of/IN 
+[ the/DT measuring/NN part/NN ]
+must/MD be/VB less/JJR than/IN 
+[ 25/CD kgs/NNS ]
+per/IN 
+[ unit/NN ]
+./. 
+
+[ Data/NN transmission/NN distance/NN ]
+should/MD be/VB above/IN 
+[ 5/CD km/NNS ]
+./. 
+
+[ An/DT optical/JJ fiber/NN ]
+is/VBZ ideal/JJ for/IN 
+[ a/DT transmission/NN path/NN ]
+./. (/( 
+[ b/LS ]
+)/) 
+[ Data/NNS ]
+processing/NN 
+[ technique/NN ]
+:/: 
+[ It/PRP ]
+is/VBZ necessary/JJ to/TO develop/VB 
+[ a/DT device/NN ]
+
+[ which/WDT ]
+enables/VBZ to/TO judge/VB 
+[ the/DT correctness/NN ]
+while/IN obtaining/VBG 
+[ the/DT data/NNS ]
+to/TO check/VB 
+[ the/DT accuracy/NN ]
+of/IN 
+[ the/DT data./NNS ]
+(/( 
+[ c/LS ]
+)/) 
+[ Analytical/JJ technique/NN ]
+:/: To/TO develop/VB 
+[ a/DT quasi-3-dimensional/JJ model/NN analytical/JJ technique/NN ]
+
+[ which/WDT ]
+involves/VBZ 
+[ a/DT two-dimensional/JJ forward/JJ analysis/NN ]
+,/, and/CC 
+[ a/DT two-dimensional/JJ inverse/JJ analysis./NN ]
+(/( 
+[ d/LS ]
+)/) 
+[ Economy/NN ]
+:/: 
+[ Cost/NN ]
+of/IN 
+[ survey/NN ]
+per/IN 
+[ one/CD measuring-point/NN ]
+is/VBZ to/TO be/VB reduced/VBN less/RBR than/IN 
+[ half/DT ]
+of/IN 
+[ the/DT current/JJ cost/NN ]
+./. 
+
+(/( 
+[ 3/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+)/) 
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT report/NN ]
+of/IN 
+[ the/DT result/NN ]
+of/IN 
+[ the/DT Curie/NNP points/NNS analysis/NN ]
+of/IN 
+[ the/DT existing/JJ data/NNS ]
+owned/VBN by/IN 
+[ the/DT Geological/NNP Survey/NNP ]
+of/IN 
+[ Japan/NNP ]
+together/RB with/IN 
+[ the/DT result/NN ]
+of/IN 
+[ the/DT survey/NN ]
+of/IN 
+[ the/DT nation-wide/JJ distribution/NN ]
+of/IN 
+[ the/DT magnetic/JJ fields/NNS ]
+of/IN 
+[ the/DT earth/NN ]
+in/IN 
+[ Japan/NNP ]
+
+[ which/WDT ]
+
+[ NEDO/NNP ]
+contracted/VBD with/IN 
+[ Geotricks/NNP Co./NNP ]
+,/, 
+[ USA/NNP ]
+during/IN 
+[ the/DT period/NN ]
+from/IN 
+[ 1980/CD ]
+through/IN 
+[ 1983/CD ]
+./. 
+
+[ The/DT data/NNS ]
+were/VBD obtained/VBN in/IN 
+[ the/DT measuring/NN line/NN interval/NN ]
+of/IN 
+[ 3/CD ]
+to/TO 
+[ 4km/CD ] 
+./. 
+
+[ The/DT results/NNS ]
+of/IN 
+[ the/DT analysis/NN ]
+were/VBD arranged/VBN in/IN 
+[ the/DT whole/JJ Japan/NNP contour/NN map/NN ]
+of/IN 
+[ the/DT Curie/NNP ]
+points/NNS 
+[ which/WDT ]
+indicates/VBZ in/IN 
+[ the/DT constant/JJ depth/NN ]
+
+[ the/DT Curie/NNP constant/JJ temperature/NN level/NN ]
+representing/VBG 
+[ 580/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+under/IN 
+[ the/DT ground/NN ]
+./. 
+
+[ The/DT depth/NN ]
+of/IN 
+[ the/DT Curie/NNP points/NNS ]
+is/VBZ 
+[ 7km/CD  ]
+or/CC 
+[ less/JJR ]
+under/IN 
+[ the/DT sea/NN level/NN ]
+in/IN 
+[ the/DT shallowest/JJS area/NN ]
+and/CC 
+[ 20km/CD ]
+under/IN 
+[ the/DT sea/NN level/NN ]
+in/IN 
+[ the/DT deepest/JJS area/NN ]
+./. 
+
+(/( 
+[ 1/CD fig/NN ]
+,/, 
+[ 2/CD photos/NNS ]
+)/) 
+======================================
+
+[ The/DT survey/NN ]
+has/VBZ been/VBN launched/VBN in/IN 
+[ 1980/CD ]
+to/TO study/VB 
+[ nation-wide/JJ distribution/NN ]
+of/IN 
+[ geothermal/JJ resources/NNS ]
+./. 
+
+[ Major/JJ survey/NN methods/NNS ]
+in/IN 
+[ use/NN ]
+include/VBP 
+[ the/DT remote/JJ sensing/NN technology/NN ]
+for/IN 
+[ geological/JJ survey/NN ]
+,/, 
+[ Curie/NNP point/NN method/NN ]
+for/IN 
+[ heat/NN sources/NNS ]
+and/CC 
+[ the/DT gravity/NN prospecting/NN method/NN ]
+for/IN 
+[ base/NN structure/NN ]
+,/, 
+[ etc/RB ]
+./. 
+
+Thus/RB ,/, 
+[ districts/NNS ]
+having/VBG 
+[ high/JJ probabilities/NNS ]
+of/IN 
+[ resource/NN preservation/NN ]
+are/VBP extracted/VBN and/CC selected/VBN while/IN compiling/VBG 
+[ prospective/JJ geothermal/JJ energy/NN resource/NN map/NN ]
+and/CC 
+[ section/NN model/NN chart/NN ]
+,/, 
+[ etc./RB ]
+in/IN 
+[ 1\/200,000/CD scale/NN ]
+covering/VBG 
+[ overall/JJ Japan/NNP ]
+in/IN 
+[ 1983/CD ]
+./. 
+
+[ These/DT surveys/NNS ]
+provide/VBP 
+[ the/DT primary/JJ assessment/NN ]
+./. 
+
+[ Typical/JJ 4/CD areas/NNS ]
+will/MD be/VB selected/VBN for/IN 
+[ each/DT type/NN ]
+of/IN 
+[ geothermal/JJ energy/NN ]
+among/IN 
+[ these/DT districts/NNS ]
+and/CC surveyed/VBN additionally/RB ,/, thereby/RB subjected/VBN to/TO 
+[ comprehensive/JJ ]
+analyses/VBZ concerning/VBG 
+[ the/DT scale/NN ]
+of/IN 
+[ heat/NN source/NN ]
+,/, 
+[ reserve/NN structure/NN ]
+and/CC 
+[ geothermal/JJ fluidic/JJ behavior/NN ]
+./. 
+
+(/( 
+[ 5/CD figs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ A/DT underground/JJ thermal/JJ structure/NN ]
+become/VB able/JJ to/TO estimate/VB with/IN 
+[ mathematical/JJ models/NNS ]
+./. 
+
+[ A/DT new/JJ boundary/NN condition/NN ]
+was/VBD proposed/VBN 
+[ concerning/VBG heat/NN discharge/NN ]
+from/IN 
+[ a/DT permeable/JJ surface/NN ]
+and/CC 
+[ this/DT condition/NN ]
+was/VBD applied/VBN to/TO 
+[ Takenoyu/NNP ]
+in/IN 
+[ Kumamoto/NNP Prefecture/NNP ]
+to/TO analyze/VB 
+[ the/DT geothermal/JJ structure/NN ]
+and/CC 
+[ the/DT results/NNS ]
+were/VBD compared/VBN with/IN 
+[ field/NN data/NNS ]
+./. 
+
+When/WRB 
+[ surface/NN permeability/NN ]
+is/VBZ incorporated/VBN in/IN 
+[ boundary/NN condition/NN ]
+,/, 
+[ it/PRP ]
+becomes/VBZ necessary/JJ to/TO consider/VB 
+[ heat/NN discharges/NNS ]
+due/JJ to/TO heat/VB 
+[ transfer/NN ]
+and/CC 
+[ springs/NNS ]
+./. 
+
+When/WRB 
+[ both/DT heat/NN discharges/NNS ]
+are/VBP considered/VBN ,/, 
+[ surface/NN temperature/NN ]
+becomes/VBZ 
+[ discontinuos/JJ ]
+and/CC 
+[ numerical/JJ solution/NN ]
+becomes/VBZ more/RBR difficult/JJ to/TO obtain/VB ./. 
+
+But/CC 
+[ it/PRP ]
+became/VBD possible/JJ to/TO get/VB 
+[ numerical/JJ solution/NN ]
+of/IN 
+[ heat/NN discharges/NNS ]
+due/JJ to/TO heat/VB 
+[ transfer/NN ]
+and/CC 
+[ mass/NN discharge/NN ]
+by/IN applying/VBG 
+[ this/DT proposed/JJ boundary/NN condition/NN ]
+./. 
+
+[ The/DT optimal/JJ model/NN ]
+was/VBD applied/VBN to/TO 
+[ Takenoyu/NNP geothermal/JJ area/NN ]
+and/CC calculated/VBN 
+[ results/NNS ]
+of/IN 
+[ heat/NN ]
+and/CC 
+[ mass/NN discharge/NN ]
+and/CC 
+[ underground/JJ temperature/NN distribution/NN ]
+agreed/VBD well/RB with/IN 
+[ observed/VBN ones/NNS ]
+./. 
+
+(/( 
+[ 15/CD refs/NNS ]
+,/, 
+[ 9/CD figs/NNS ]
+,/, 
+[ 1/CD tabs/NNS ]
+)/) 
+======================================
+
+[ An/DT outline/NN ]
+of/IN 
+[ the/DT geothermal/JJ energy/NN development/NN survey/NN ]
+,/, carried/VBN out/RP by/IN 
+[ NEDO/NNP ]
+,/, are/VBP described/VBN for/IN 
+[ the/DT 11/CD zones/NNS ]
+where/WRB 
+[ the/DT entire/JJ surveys/NNS ]
+are/VBP completed/VBN ./. 
+
+[ The/DT 11/CD zones/NNS ]
+are/VBP 
+[ the/DT east/JJ part/NN ]
+of/IN 
+[ Hachimantai/NNP ]
+,/, downstream/RB of/IN 
+[ Dosan/NNP River/NNP ]
+,/, 
+[ Kurino/NNP ]
+,/, 
+[ Tearai/NNP ]
+,/, 
+[ Kimofuri/NNP ]
+,/, 
+[ Okiura/NNP ]
+,/, 
+[ west/JJ part/NN ]
+of/IN 
+[ Deshiku/NNP ]
+,/, 
+[ Uzawa/NNP ]
+,/, 
+[ Okachi/NNP ]
+,/, 
+[ Okuaizu/NNP ]
+,/, 
+[ Shimokita/NNP ]
+,/, 
+[ vicinity/NN ]
+of/IN 
+[ Lake/NNP Ikeda/NNP ]
+and/CC 
+[ north/JJ part/NN ]
+of/IN 
+[ Azuma/NN ]
+./. 
+
+[ Survey/NN item/NN ]
+include/VB 
+[ the/DT surveys/NNS ]
+of/IN 
+[ geography/NN ]
+,/, 
+[ geochemistry/NN ]
+,/, 
+[ electricity/NN ]
+,/, 
+[ electromagnetism/NN ]
+,/, 
+[ geothermal/JJ flow/NN ]
+and/CC 
+[ test/NN boring/NN ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT survey/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ revealed/VBN that/IN 
+[ there/EX ]
+are/VBP 
+[ high-temperature/JJ zones/NNS ]
+of/IN 
+[ 200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC 
+[ above/JJ ]
+except/IN for/IN 
+[ Okiura/NNP ]
+,/, 
+[ Deshiku/NNP ]
+and/CC 
+[ vicinity/NN ]
+of/IN 
+[ Lake/NNP Ikeda/NNP ]
+./. 
+
+(/( 
+[ 2/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Cetyl-trimethyl-ammonium/NN bromide/NN ]
+(/( 
+[ CTAB/NN ]
+)/) was/VBD added/VBN to/TO 
+[ sodium/NN silicate/NN solution/NN ]
+and/CC 
+[ geothermal/JJ hot/JJ water/NN ]
+(/( 
+[ Ohtake/NNP Geothermal/NNP Power/NNP Plant/NNP ]
+and/CC 
+[ Hatchobaru/NNP Geo-thermal/NNP Power/NNP Plant/NNP ]
+)/) to/TO precipitate/VB 
+[ silica/NN ]
+./. 
+
+[ 1/LS ]
+)/) 
+[ CTA/NN ions/NNS ]
+do/VBP not/RB react/VB with/IN 
+[ monosilicic/JJ acid/NN ]
+,/, but/CC only/RB 
+[ the/DT polymerization/NN ]
+among/IN 
+[ the/DT polysilicic/JJ acids/NNS ]
+proceeds/VBZ and/CC causes/VBZ 
+[ silica/NN ]
+to/TO precipitate/VB ./. 
+
+[ Optimum/JJ pH/NN ]
+for/IN 
+[ the/DT silica/NN precipitation/NN ]
+is/VBZ 
+[ 6/CD ]
+-/:
+[ 7/CD ]
+and/CC 
+[ the/DT higher/JJR concentration/NN ]
+of/IN 
+[ polysilicic/JJ acid/NN ]
+will/MD cause/VB 
+[ more/JJR precipitation/NN ]
+./. 
+
+[ 2/LS ]
+)/) When/WRB added/VBN to/TO 
+[ geothermal/JJ hot/JJ water/NN ]
+,/, 
+[ the/DT silica/NN precipita-tion/NN increases/VBZ ]
+with/IN 
+[ the/DT increase/NN ]
+of/IN 
+[ CTAB/NN concentration/NN ]
+within/IN 
+[ the/DT range/NN ]
+of/IN 
+[ 10/CD ]
+{/( 
+[ sup/NN -7/CD ]
+}/) -/: 
+[ 10/CD ]
+{/( 
+[ sup/NN -4/CD ]
+}/) 
+[ mol/NN dm/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ concentration/NN ]
+./. 
+
+Almost/RB 
+[ all/DT poly-silicic/NN acid/NN ]
+precipitated/VBN at/IN 
+[ 10/CD ]
+{/( 
+[ sup/NN -4/CD ]
+}/) 
+[ mol/NN dm/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) when/WRB measured/VBN for/IN 
+[ silica/NN precipitation/NN ]
+after/IN 
+[ 5/CD minutes/NNS ]
+./. 
+
+[ Total/JJ concentration/NN ]
+of/IN 
+[ silicic/JJ acid/NN ]
+was/VBD higher/JJR in/IN 
+[ the/DT Hatchobaru/NNP geothermal/JJ water/NN ]
+than/IN 
+[ that/DT ]
+of/IN 
+[ the/DT Ohtake/NNP geothermal/JJ water/NN ]
+./. 
+
+(/( 
+[ 10/CD figs/NNS ]
+,/, 
+[ 14/CD refs/NNS ]
+)/) 
+======================================
+
+[ Geothermal/JJ reservoir/NN evaluation/NN ]
+is/VBZ to/TO create/VB 
+[ a/DT geothermal/JJ reservoir/NN model/NN ]
+by/IN collecting/VBG 
+[ data/NNS ]
+to/TO get/VB 
+[ information/NN ]
+about/IN 
+[ the/DT structure/NN ]
+and/CC 
+[ condition/NN ]
+of/IN 
+[ the/DT geothermal/JJ reservoir/NN ]
+under/IN 
+[ consideration/NN ]
+and/CC analyzing/VBG 
+[ the/DT collected/VBN data/NN using/VBG computer/NN simulation/NN ]
+and/CC ,/, using/VBG 
+[ the/DT created/VBN model/NN ]
+,/, to/TO predict/VB 
+[ the/DT behavior/NN ]
+of/IN 
+[ the/DT geothermal/JJ reservoir/NN ]
+after/IN 
+[ steam/NN production/NN ]
+./. 
+
+[ NEDO/NNP ]
+has/VBZ been/VBN developing/VBG 
+[ techniques/NNS ]
+for/IN 
+[ this/DT evaluation/NN ]
+by/IN implementing/VBG 
+[ a/DT four-year/JJ plan/NN ]
+
+[ which/WDT ]
+started/VBD in/IN 
+[ 1984/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ four/CD points/NNS ]
+on/IN 
+[ this/DT development/NN ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ A/DT conceptual/JJ model/NN ]
+on/IN 
+[ which/WDT ]
+to/TO base/VB 
+[ analysis/NN ]
+of/IN 
+[ the/DT entire/JJ geothermal/JJ system/NN ]
+should/MD be/VB created/VBN ;/: (/( 
+[ 2/LS ]
+)/) Actually/RB measured/VBN 
+[ values/NNS ]
+should/MD be/VB compared/VBN with/IN 
+[ the/DT results/NNS ]
+of/IN 
+[ simulation/NN ]
+based/VBN on/IN 
+[ a/DT tentative/NN model/NN ]
+to/TO modify/VB 
+[ the/DT model/NN ]
+so/RB that/IN 
+[ the/DT temperature/NN ]
+,/, 
+[ pressure/NN ]
+,/, 
+[ flow/NN distribution/NN ]
+,/, and/CC 
+[ other/JJ gethermal/JJ parameter/NN ]
+can/MD be/VB determined/VBN quantitatively/RB ;/: (/( 
+[ 3/LS ]
+)/) 
+[ The/DT permeability/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ geothermal/JJ reservoir/NN parameters/NNS ]
+,/, can/MD be/VB evaluated/VBN with/IN 
+[ a/DT high/JJ accuracy/NN ]
+by/IN conducting/VBG well/NN testing/VBG ;/: (/( 
+[ 4/LS ]
+)/) 
+[ A/DT power/NN generation/NN plan/NN ]
+should/MD be/VB worked/VBN out/RP according/VBG to/TO 
+[ the/DT ]
+quantitatively/RB established/VBN 
+[ model/NN ]
+./. 
+
+[ The/DT model/NN field/NN ]
+is/VBZ 
+[ the/DT Kirishima/NNP area/NN ]
+in/IN 
+[ Kyushu/NNP ]
+./. 
+
+(/( 
+[ 6/CD figs/NNS ]
+)/) 
+======================================
+
+[ This/DT project/NN ]
+has/VBZ been/VBN executed/VBN as/IN 
+[ a/DT 5-years/JJ plan/NN ]
+since/IN 
+[ Oct/NNP ]
+,/, 
+[ 1983/CD ]
+,/, and/CC is/VBZ in/IN 
+[ progress/NN ]
+as/IN summarized/VBN below/RB ./. 
+
+[ 1/LS ]
+)/) In/IN 
+[ the/DT study/NN ]
+of/IN 
+[ the/DT rock/NN body/NN deformation/NN ]
+and/CC 
+[ destruction/NN behavior/NN ]
+in/IN 
+[ the/DT underground/JJ environment/NN ]
+,/, 
+[ experimental/JJ data/NNS ]
+are/VBP now/RB arranged/VBN ,/, 
+[ e.g./RB ]
+,/, concerning/VBG 
+[ the/DT stress-corrosion-cracking/NN ]
+;/: 
+[ numerous/JJ branched/JJ cracks/NNS ]
+are/VBP observed/VBN in/IN 
+[ the/DT high/JJ temperature/NN \//NN pressure/NN water/NN ]
+./. 
+
+[ 2/LS ]
+)/) According/VBG to/TO 
+[ the/DT monitoring/NN ]
+of/IN 
+[ destruction/NN stage/NN ]
+of/IN 
+[ the/DT underground/JJ rock/NN body/NN ]
+and/CC 
+[ measurement/NN ]
+of/IN 
+[ the/DT underground/JJ crack/NN shapes/NNS ]
+by/IN 
+[ the/DT AE/NN ]
+(/( 
+[ Accoustic/JJ Emission/NN ]
+)/) 
+[ method/NN ]
+,/, 
+[ a/DT case/NN study/NN ]
+of/IN 
+[ assessment/NN ]
+of/IN 
+[ the/DT underground/JJ cracks/NNS ]
+was/VBD carried/VBN out/RP ./. 
+
+[ 3/LS ]
+)/) 
+[ New/JJ plan/NN ]
+and/CC 
+[ evaluation/NN methods/NNS ]
+in/IN 
+[ progress/NN ]
+are/VBP 
+[ a/DT new/JJ rock/NN pressure/NN measuring/NN method/NN ]
+,/, 
+[ a/DT new/JJ interpretation/NN ]
+of/IN 
+[ pressureflow/JJ curve/NN ]
+of/IN 
+[ the/DT hydraulic/JJ ]
+cracking/NN ,/, 
+[ an/DT ISRM/NNP boring/NN core/NN sample/NN destruction/NN resilience/NN test/NN ]
+,/, 
+[ etc./NN ]
+(/( 
+[ 11/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 17/CD refs/NNS ]
+)/) 
+======================================
+
+[ This/DT report/NN ]
+describes/VBZ 
+[ the/DT outline/NN ]
+of/IN 
+[ the/DT measures/NNS ]
+for/IN 
+[ the/DT lost/JJ circulation/NN ]
+and/CC 
+[ the/DT manner/NN ]
+of/IN 
+[ proceeding/VBG R\/D/NN ]
+in/IN 
+[ the/DT study/NN group/NN ]
+
+[ which/WDT ]
+started/VBD in/IN 
+[ 1984/CD ]
+./. 
+
+[ Detection/NN ]
+of/IN 
+[ the/DT location/NN ]
+,/, 
+[ scale/NN ]
+,/, 
+[ shape/NN ]
+of/IN 
+[ the/DT lost/JJ circulation/NN layer/NN ]
+is/VBZ presently/RB made/VBN manually/RB ;/: 
+[ preventing/VBG agent/NN ]
+for/IN 
+[ lost/VBN circulation/NN ]
+is/VBZ made/VBN by/IN 
+[ the/DT repeated/JJ trial/NN ]
+and/CC 
+[ error/NN method/NN ]
+until/IN 
+[ it/PRP ]
+reaches/VBZ 
+[ the/DT layer/NN ]
+and/CC starts/VBZ crosslinking/VBG ;/: 
+[ cement/NN slurry/NN ]
+involves/VBZ 
+[ such/JJ problems/NNS ]
+as/IN coagulating/NN 
+[ time/NN ]
+at/IN 
+[ high/JJ temperature/NN ]
+,/, 
+[ contamination/NN ]
+by/IN 
+[ mud/NN slurry/NN ]
+,/, 
+[ impermeability/NN ]
+into/IN 
+[ the/DT fine/JJ local/JJ structures/NNS ]
+,/, 
+[ etc/NN ]
+../. For/IN 
+[ the/DT future/NN ]
+
+[ it/PRP ]
+is/VBZ required/VBN to/TO develop/VB 
+[ a/DT triple/JJ component/NN radiosonde/NN ]
+for/IN 
+[ the/DT flow/NN rate/NN ]
+,/, 
+[ temperature/NN ]
+,/, and/CC 
+[ pressure/NN ]
+,/, 
+[ an/DT additive/NN ]
+for/IN 
+[ the/DT cement/NN slurry/NN ]
+,/, and/CC 
+[ chemicals/NNS ]
+with/IN 
+[ proper/JJ heat/NN stability/NN ]
+,/, curing/NN 
+[ speed/NN ]
+,/, and/CC 
+[ permeability/NN ]
+./. 
+
+[ Report/NN ]
+on/IN 
+[ the/DT R/NN ]
+and/CC 
+[ D/NN ]
+at/IN 
+[ Sandia/NNP National/NNP Laboratories/NNP ]
+is/VBZ added/VBN as/IN 
+[ an/DT appendix/NN ]
+./. 
+
+(/( 
+[ 9/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 3/CD refs/NNS ]
+)/) 
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ an/DT outline/NN report/NN ]
+on/IN 
+[ a/DT geothermal/JJ layer/NN detecting/NN system/NN ]
+and/CC 
+[ its/PRP$ field/NN test/NN ]
+during/IN 
+[ the/DT 8/CD years/NNS ]
+since/IN 
+[ 1976/CD ]
+./. 
+
+[ Common/JJ systems/NNS ]
+for/IN 
+[ the/DT layer/NN detection/NN ]
+are/VBP 
+[ layer/NN detecting/NN cable/NN ]
+,/, 
+[ layer/NN detecting/NN vehicle/NN ]
+,/, 
+[ cable/NN head/NN ]
+,/, 
+[ water-stopping/JJ mechanism/NN ]
+,/, 
+[ insulation/NN mechanism/NN ]
+for/IN 
+[ protection/NN ]
+of/IN 
+[ in-well/JJ electronics/NNS ]
+,/, 
+[ arm/NN drive/NN mechanism/NN ]
+,/, and/CC 
+[ on-the-ground/JJ instrument/NN system/NN ]
+./. 
+
+Based/VBN on/IN 
+[ the/DT above/JJ ]
+,/, 
+[ 11/CD items/NNS ]
+of/IN 
+[ layer/NN ]
+detecting/NN 
+[ machines/NNS ]
+were/VBD developed/VBN ,/, and/CC 
+[ its/PRP$ field/NN test/NN ]
+extended/VBD over/IN 
+[ 200/CD km/NNS ]
+through/IN 
+[ the/DT 3/CD stages/NNS ]
+of/IN 
+[ the/DT initial/JJ ]
+,/, 
+[ middle/JJ ]
+,/, and/CC 
+[ final/JJ stages/NNS ]
+./. 
+
+As/IN 
+[ a/DT part/NN ]
+of/IN 
+[ the/DT above/JJ tests/NNS ]
+,/, 
+[ such/JJ examples/NNS ]
+introduced/VBN are/VBP 
+[ temperature/NN recovery/NN test/NN ]
+,/, 
+[ evaluation/NN ]
+of/IN 
+[ injection/NN ]
+and/CC 
+[ production/NN layers/NNS ]
+by/IN 
+[ a/DT flow-meter/NN ]
+,/, 
+[ evaluation/NN ]
+of/IN 
+[ fracture/NN ]
+,/, and/CC distinguishing/VBG 
+[ the/DT rock/NN phases/NNS ]
+,/, 
+[ etc/NN ]
+../. (/( 
+[ 14/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+)/) 
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ an/DT outline/NN report/NN ]
+on/IN 
+[ the/DT development/NN ]
+after/IN 
+[ 1981/CD ]
+
+[ which/WDT ]
+had/VBD been/VBN carried/VBN out/RP since/IN 
+[ 1974/CD ]
+by/IN 
+[ Japan/NNP Industrial/NNP Machiney/NNP Association/NNP ]
+./. 
+
+[ A/DT roller/NN cutter/NN bit/NN ]
+was/VBD trially/RB made/VBN aiming/VBG at/IN improving/VBG 
+[ the/DT heat/NN resistance/NN ]
+and/CC tested/VBN with/IN 
+[ a/DT bit/NN tester/NN ]
+and/CC in/IN 
+[ the/DT field/NN ]
+,/, obtaining/VBG 
+[ a/DT result/NN ]
+of/IN 
+[ practical/JJ applicability/NN ]
+./. 
+
+Concerning/VBG 
+[ the/DT air/NN friction/NN bit/NN ]
+,/, 
+[ the/DT target/NN ]
+is/VBZ 
+[ a/DT bit/NN ]
+
+[ which/WDT ]
+requires/VBZ 
+[ no/DT lubricant/NN ]
+./. 
+
+Although/IN 
+[ the/DT ultra-hard/JJ liner/NN ]
+of/IN 
+[ the/DT bit/NN axis/NN ]
+was/VBD treated/VBN with/IN 
+[ titanium/NN nitride/NN ]
+for/IN 
+[ this/DT purpose/NN ]
+,/, 
+[ the/DT result/NN ]
+indicates/VBZ 
+[ the/DT need/NN ]
+of/IN 
+[ further/JJR study/NN ]
+./. 
+
+[ R\/D/NN ]
+are/VBP in/IN 
+[ progress/NN ]
+for/IN 
+[ a/DT seal/NN ]
+for/IN 
+[ a/DT bit/NN ]
+,/, 
+[ protector/NN ]
+of/IN 
+[ rotating/JJ head/NN ]
+,/, and/CC 
+[ a/DT percussion/NN drill/NN ]
+;/: 
+[ a/DT certain/JJ level/NN ]
+of/IN 
+[ protection/NN ]
+has/VBZ been/VBN obtained/VBN ./. 
+
+(/( 
+[ 5/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ a/DT report/NN ]
+of/IN 
+[ the/DT 5-year/JJ research/NN ]
+started/VBN in/IN 
+[ 1980/CD ]
+with/IN 
+[ an/DT experimental/JJ plant/NN ]
+in/IN 
+[ Akita/NNP Prefecture/NNP ]
+./. 
+
+[ Number/NN ]
+of/IN 
+[ the/DT test/NN wells/NNS ]
+(/( 
+[ 1400/CD m/NNS depth/NN ]
+)/) was/VBD 
+[ four/CD ]
+and/CC 
+[ various/JJ tests/NNS ]
+were/VBD made/VBN respectively/RB for/IN 
+[ the/DT wells/NNS ]
+to/TO collect/VB 
+[ the/DT evaluation/NN data/NN ]
+./. 
+
+[ Verification/NN test/NN ]
+on/IN 
+[ the/DT collection\/reinjection/NN ]
+was/VBD carried/VBN out/RP with/IN 
+[ NO.1-NO.2/JJ wells/NNS ]
+(/( 
+[ each/DT ]
+roughly/RB 
+[ 100/CD m/NNS ]
+apart/RB )/) at/IN 
+[ 20/CD t\/h/NN flow/NN rate/NN ]
+and/CC 
+[ No./NN 4/CD reinjection/NN ]
+well/NN ,/, 
+[ 1200/CD m/NNS ]
+apart/RB ,/, at/IN 
+[ 60/CD t\/h/NN flow/NN rate/NN ]
+./. 
+
+In/IN 
+[ this/DT test/NN ]
+,/, 
+[ such/JJ phenomena/NNS ]
+as/IN 
+[ reduction/NN ]
+of/IN 
+[ the/DT reinjected/JJ amount/NN ]
+in/IN 
+[ the/DT initial/JJ period/NN ]
+,/, 
+[ reduction/NN ]
+of/IN 
+[ reinjection/NN temperature/NN ]
+,/, and/CC 
+[ the/DT increase/NN ]
+of/IN 
+[ the/DT reinjected/JJ amount/NN ]
+due/JJ to/TO 
+[ the/DT operation/NN stoppage/NN ]
+were/VBD observed/VBN ./. 
+
+On/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ above/JJ data/NNS ]
+and/CC 
+[ the/DT basic/JJ test/NN ]
+,/, 
+[ a/DT hydraulic/JJ crushing/NN test/NN ]
+for/IN 
+[ the/DT geothermal/JJ reservoir/NN ]
+was/VBD carried/VBN out/RP at/IN 
+[ 60/CD t\/h/NN test/NN ]
+./. 
+
+In/IN 
+[ the/DT test/NN ]
+,/, 
+[ geothermal/JJ water/NN ]
+with/IN 
+[ 68/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP temperature/NN ]
+was/VBD used/VBN to/TO heat/VB 
+[ the/DT river/NN water/NN ]
+(/( 
+[ 2/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+)/) 
+[ 40/CD t\/h/NN ]
+up/IN to/TO 
+[ 55/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C./NNP ]
+(/( 
+[ 6/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+,/, 
+[ 4/CD refs/NNS ]
+)/) 
+======================================
+
+[ This/DT study/NN ]
+has/VBZ been/VBN continued/VBN since/IN 
+[ 1980/CD ]
+on/IN 
+[ the/DT development/NN ]
+and/CC 
+[ proper/JJ selection/NN ]
+per/IN 
+[ use/NN ]
+of/IN 
+[ materials/NNS ]
+
+[ which/WDT ]
+excels/VBZ in/IN 
+[ resistance/NN ]
+to/TO 
+[ heat/NN ]
+,/, 
+[ corrosion/NN ]
+,/, 
+[ erosion/NN ]
+,/, and/CC 
+[ abrasion/NN ]
+./. 
+
+[ 1/LS ]
+)/) 
+[ Study/NN ]
+on/IN 
+[ the/DT corrosion/NN damage/NN mechanism/NN ]
+:/: 
+[ Damage/NN ]
+by/IN 
+[ erosion/NN ]
+is/VBZ studied/VBN by/IN 
+[ a/DT cavitation-erosion/JJ test/NN ]
+,/, and/CC 
+[ erosion/NN ]
+by/IN 
+[ an/DT electrochemical/JJ method/NN ]
+./. 
+
+[ 2/LS ]
+)/) 
+[ Evaluation/NN study/NN ]
+of/IN 
+[ geothermal/JJ materials/NNS ]
+:/: 
+[ A/DT simulation/NN test/NN ]
+and/CC 
+[ a/DT local/JJ corrosion/NN test/NN ]
+are/VBP being/VBG carried/VBN out/RP aiming/VBG to/TO be/VB completed/VBN by/IN 
+[ 1985/CD ]
+./. 
+
+In/IN 
+[ an/DT analysis/NN ]
+by/IN 
+[ a/DT regression/NN method/NN ]
+,/, 
+[ correlation/NN factors/NNS ]
+of/IN 
+[ each/DT factor/NN ]
+of/IN 
+[ 0.8/CD ]
+are/VBP targeted/VBN ./. 
+
+[ 3/LS ]
+)/) 
+[ Study/NN ]
+of/IN 
+[ new/JJ materials/NNS ]
+for/IN 
+[ the/DT geothermal/JJ application/NN ]
+:/: 
+[ A/DT complex/JJ tube/NN ]
+is/VBZ being/VBG developed/VBN wherein/WRB 
+[ a/DT ceramic/JJ material/NN ]
+with/IN 
+[ high/JJ corrosion\/erosion/NN resistance/NN ]
+is/VBZ used/VBN in/IN 
+[ the/DT inside/NN ]
+,/, and/CC 
+[ a/DT metal/NN ]
+with/IN 
+[ excellent/JJ mechanical/JJ strength/NN ]
+as/IN 
+[ an/DT outer/JJ material/NN ]
+./. 
+
+(/( 
+[ 9/CD figs/NNS ]
+,/, 
+[ 7/CD refs/NNS ]
+)/) 
+======================================
+
+[ Geothermal/JJ reservoir/NN ]
+is/VBZ evaluated/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ correct/JJ assessment/NN ]
+for/IN 
+[ the/DT structure/NN ]
+and/CC 
+[ state/NN ]
+of/IN 
+[ the/DT geothermal/JJ stratum/NN ]
+and/CC 
+[ prediction/NN ]
+of/IN 
+[ behavior/NN ]
+of/IN 
+[ the/DT reservoir/NN layer/NN ]
+during/IN 
+[ steam/NN production/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ therefore/RB required/VBN to/TO urgently/RB develop/VB to/TO precisely/RB evaluate/VB 
+[ optimum/JJ power/NN generation/NN capacity/NN ]
+,/, 
+[ etc./RB ]
+for/IN 
+[ the/DT reservoir/NN layer/NN ]
+before/IN 
+[ exploitation/NN ]
+./. 
+
+[ The/DT evaluation/NN ]
+is/VBZ carried/VBN out/RP by/IN creating/VBG 
+[ qualitative/JJ ]
+and/CC 
+[ conceptual/JJ model/NN ]
+for/IN 
+[ the/DT entire/JJ thermal/JJ system/NN ]
+and/CC surveying/VBG quantitatively/RB 
+[ the/DT natural/JJ conditions/NNS ]
+of/IN 
+[ the/DT reservoir/NN ]
+in/IN 
+[ that/DT order/NN ]
+./. 
+
+In/IN 
+[ detail/NN ]
+,/, 
+[ the/DT process/NN ]
+is/VBZ carried/VBN out/RP in/IN 
+[ the/DT procedure/NN ]
+of/IN 
+[ the/DT measurement/NN ]
+of/IN 
+[ permeability/NN distribution/NN ]
+-/: 
+[ prediction/NN ]
+of/IN 
+[ behavior/NN ]
+after/IN 
+[ production/NN ]
+-/: 
+[ submission/NN ]
+of/IN 
+[ proposed/JJ survey/NN guideline/NN ]
+-/: 
+[ decision/NN ]
+of/IN 
+[ optimum/JJ power/NN generation/NN capacity/NN ]
+./. 
+
+[ The/DT present/JJ project/NN ]
+to/TO be/VB performed/VBN includes/VBZ 
+[ the/DT development/NN ]
+of/IN 
+[ software/NN ]
+such/DT as/IN 
+[ simulation/NN codes/NNS ]
+,/, 
+[ etc./RB ]
+,/, 
+[ establishment/NN ]
+of/IN 
+[ method/NN ]
+for/IN collecting/VBG 
+[ data/NNS ]
+of/IN well/NN drilling/NN 
+[ test/NN ]
+,/, 
+[ execution/NN ]
+of/IN 
+[ drilling/VBG observation/NN wells/NNS ]
+in/IN 
+[ 2/CD model/JJ field/NN areas/NNS ]
+,/, 
+[ analysis/NN ]
+on/IN 
+[ each/DT stage/NN ]
+and/CC 
+[ modification/NN ]
+and/CC 
+[ verification/NN ]
+of/IN 
+[ the/DT software/NN ]
+in/IN 
+[ the/DT process/NN ]
+of/IN 
+[ assessment/NN ]
+./. 
+
+(/( 
+[ 2/CD figs/NNS ]
+)/) 
+======================================
+
+[ Ultimate/JJ target/NN ]
+of/IN 
+[ the/DT development/NN ]
+is/VBZ 
+[ a/DT portable/JJ nondelay/JJ 4/CD measurement/NN 3/CD check/NN MT/NN method/NN ]
+for/IN surveying/VBG 
+[ underground/JJ specific/JJ resistance/NN ]
+in/IN 
+[ the/DT geothermal/JJ area/NN ]
+in/IN 
+[ Japan/NNP ]
+,/, in/IN 
+[ high/JJ accuracies/NNS ]
+./. 
+
+[ Nondelay/JJ 2/CD measurement/NN double/JJ check/NN MT/NN method/NN ]
+,/, developed/VBN so/RB far/RB ,/, is/VBZ reported/VBN ./. 
+
+[ This/DT instrument/NN ]
+consists/VBZ of/IN 
+[ magnetic/JJ ]
+and/CC 
+[ electric/JJ field/NN sensors/NNS ]
+,/, 
+[ DOP/NN ]
+,/, 
+[ DPU/NN ]
+and/CC 
+[ a/DT field/NN optical/JJ link/NN unit/NN ]
+./. 
+
+[ Items/NNS ]
+of/IN 
+[ development/NN ]
+,/, reported/VB herein/RB  ,/, include/VBP 
+[ each/DT elementary/JJ technologys/NNS ]
+,/, 
+[ meter/NN control/NN program/NN ]
+,/, 
+[ data/NNS processing/NN program/NN ]
+,/, 
+[ data/NNS quality/NN check/NN ]
+by/IN 
+[ real/JJ time/NN ]
+processing/NN and/CC 
+[ various/JJ analysis/NN technologies/NNS ]
+for/IN 
+[ the/DT 1/CD ]
+and/CC 
+[ 2/CD dimension/NN models/NNS ]
+(/( 
+[ horizontal/JJ multi-layer/JJ structural/JJ underground/JJ models/NNS ]
+)/) ./. 
+
+[ A/DT field/NN test/NN ]
+was/VBD performed/VBN in/IN 
+[ Hohi/NNP ]
+,/, 
+[ Oita/NNP Prefecture/NNP ]
+in/IN 
+[ October/NNP ]
+,/, 
+[ 1986/CD ]
+for/IN measuring/VBG at/IN 
+[ 30/CD points/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ confirmed/VBN that/IN 
+[ series/NN works/NNS ]
+from/IN acquiring/VBG to/TO 
+[ analyzing/VBG data/NNS ]
+can/MD be/VB performed/VBN ./. 
+
+(/( 
+[ 7/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+Though/IN 
+[ many/JJ models/NNS ]
+have/VBP been/VBN proposed/VBN to/TO give/VB 
+[ quantitative/JJ interpretation/NN ]
+to/TO 
+[ self-potential/JJ observations/NNS ]
+,/, 
+[ few/JJ theoretical/JJ studies/NNS ]
+have/VBP been/VBN made/VBN on/IN 
+[ the/DT physical/JJ mechanism/NN ]
+of/IN 
+[ its/PRP$ generation/NN ]
+because/IN of/IN 
+[ its/PRP$ complexity/NN ]
+./. 
+
+In/IN 
+[ this/DT study/NN ]
+,/, 
+[ observations/NNS ]
+of/IN 
+[ self-potential/JJ ]
+previously/RB made/VBN at/IN 
+[ the/DT Onikobe/NNP geothermal/JJ area/NN ]
+are/VBP reanalyzed/VBN using/VBG 
+[ the/DT finite/JJ element/NN method/NN ]
+./. 
+
+[ The/DT analysis/NN ]
+employs/VBZ 
+[ a/DT new/JJ model/NN ]
+developed/VBN based/VBN on/IN 
+[ the/DT fact/NN ]
+
+[ that/WDT ]
+flows/NNS of/IN 
+[ heat/NN ]
+existing/VBG in/IN 
+[ a/DT geothermal/JJ area/NN ]
+can/MD act/VB as/IN 
+[ a/DT source/NN ]
+for/IN 
+[ self-potential/NN ]
+./. 
+
+[ Self-potential/JJ survey/NN results/NNS ]
+are/VBP compared/VBN with/IN 
+[ calculations/NNS ]
+based/VBN on/IN 
+[ the/DT model/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ results/NNS ]
+of/IN 
+[ D/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ survey/NN line/NN ]
+can/MD be/VB reasonably/RB interpreted/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ a/DT thermal/JJ source/NN model/NN ]
+./. 
+
+For/IN 
+[ B/NN survey/NN line/NN ]
+,/, on/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ observations/NNS ]
+can/MD not/RB be/VB explained/VBN by/IN 
+[ the/DT thermal/JJ source/NN model/NN ]
+alone/RB ,/, but/CC 
+[ interpretation/NN ]
+is/VBZ possible/JJ by/IN assuming/VBG that/IN 
+[ the/DT generation/NN source/NN ]
+has/VBZ 
+[ relations/NNS ]
+with/IN 
+[ streaming/NN potential/NN ]
+./. 
+
+For/IN 
+[ analysis/NN ]
+of/IN 
+[ self-potential/JJ anomalies/NNS ]
+,/, 
+[ both/DT ]
+
+[ the/DT thermal/JJ model/NN ]
+and/CC 
+[ the/DT streaming/NN potential/NN model/NN ]
+should/MD be/VB taken/VBN into/IN 
+[ account/NN ]
+instead/RB of/IN considering/VBG 
+[ one/CD ]
+of/IN 
+[ them/PRP ]
+alone/RB ./. 
+
+(/( 
+[ 10/CD refs/NNS ]
+,/, 
+[ 17/CD figs/NNS ]
+)/) 
+======================================
+
+[ Observation/NN ]
+of/IN 
+[ seismic/JJ noise/NN ]
+was/VBD made/VBN at/IN 
+[ the/DT Takenoyu/NNP area/NN ]
+,/, where/WRB 
+[ the/DT ground-surface/NN geothermal/JJ symptoms/NNS ]
+are/VBP evident/JJ and/CC 
+[ the/DT noise-source/NN ]
+is/VBZ relatively/RB 
+[ less/JJR ]
+,/, in/IN 
+[ order/NN ]
+to/TO investigate/VB 
+[ the/DT relation/NN ]
+between/IN 
+[ the/DT seismic/JJ noise/NN ]
+and/CC 
+[ the/DT geothermal/JJ phenomena/NNS ]
+./. 
+
+[ Results/NNS ]
+of/IN 
+[ the/DT investigation/NN ]
+are/VBP as/RB follows/VBZ :/: 
+[ 1/LS ]
+)/) 
+[ Seismic/JJ noise/NN ]
+at/IN 
+[ the/DT Takenoyu/NNP area/NN ]
+is/VBZ originated/VBN from/IN 
+[ the/DT geothermal/JJ activities/NNS ]
+and/CC is/VBZ stable/JJ ./. 
+
+[ 2/LS ]
+)/) 
+[ Amplitude/NN distribution/NN ]
+of/IN 
+[ the/DT seismic/JJ noise/NN ]
+shows/VBZ quite/RB 
+[ high/JJ correspondence/NN ]
+with/IN 
+[ the/DT distribution/NN ]
+of/IN 
+[ ground/NN temperature/NN ]
+at/IN 
+[ 1/CD m/NN depth/NN ]
+./. 
+
+[ It/PRP ]
+generates/VBZ from/IN 
+[ the/DT point/NN ]
+under/IN 
+[ a/DT wide/JJ amplitude/NN ]
+and/CC propagates/VBZ around/RB in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ a/DT bodily/JJ wave/NN ]
+./. 
+
+[ 3/LS ]
+)/) 
+[ Source/NN ]
+of/IN 
+[ the/DT seismic/JJ noise/NN ]
+is/VBZ not/RB near/JJ to/TO 
+[ the/DT ground/NN surface/NN ]
+,/, but/CC is/VBZ about/IN 
+[ 10/CD ]
+-/: 
+[ 30/CD m/NNS ]
+deep/JJ ./. 
+
+[ The/DT noise/NN ]
+is/VBZ estimated/VBN to/TO be/VB caused/VBN by/IN 
+[ the/DT boiling/NN ]
+of/IN 
+[ hot/JJ water/NN ]
+at/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT geothermal/JJ reservoir/NN ]
+from/IN 
+[ the/DT viewpoint/NN ]
+of/IN 
+[ relationship/NN ]
+between/IN 
+[ the/DT depth/NN ]
+of/IN 
+[ the/DT noise/NN source/NN ]
+and/CC 
+[ the/DT temperature/NN distribution/NN ]
+of/IN 
+[ the/DT well/NN temperature/NN ]
+./. 
+
+(/( 
+[ 23/CD figs/NNS ]
+,/, 
+[ 25/CD refs/NNS ]
+)/) 
+======================================
+
+[ A/DT study/NN ]
+was/VBD made/VBN on/IN 
+[ the/DT relation/NN ]
+between/IN 
+[ the/DT geological/JJ structure/NN ]
+and/CC 
+[ the/DT geothermal/JJ symptoms/NNS ]
+in/IN 
+[ the/DT Noya/NNP area/NN ]
+,/, 
+[ Central/NNP Oita/NNP prefecture/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ ELF/NNP ]
+-/: 
+[ MT/NN survey/NN method/NN ]
+./. 
+
+(/( 
+[ 1/LS ]
+)/) In/IN 
+[ the/DT vicinity/NN ]
+of/IN 
+[ Noya/NNP village/NN ]
+(/( 
+[ zone/NN ]
+
+[ A/NN ]
+)/) ,/, 
+[ geothermal/JJ symptoms/NNS ]
+were/VBD relatively/RB significant/JJ and/CC 
+[ the/DT apparent/JJ resistivity/NN distribution/NN ]
+was/VBD distinctively/RB low/JJ ./. 
+
+[ There/EX ]
+was/VBD 
+[ a/DT good/JJ coincidence/NN ]
+between/IN 
+[ the/DT area/NN ]
+of/IN 
+[ low/JJ apparent/JJ resistivity/NN ]
+of/IN 
+[ 25/CD ohm/NN ]
+-/: 
+[ m/NN ]
+and/CC 
+[ the/DT area/NN ]
+of/IN 
+[ high/JJ heat/NN discharge/NN ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) 
+[ Eastern/JJ zone/NN ]
+of/IN 
+[ Noya/NNP village/NN ]
+(/( 
+[ zone/NN B/NN ]
+)/) showed/VBD 
+[ less/RBR geothermal/JJ symptoms/NNS ]
+in/IN 
+[ comparison/NN ]
+with/IN 
+[ the/DT zone/NN ]
+
+[ A/NN ]
+,/, but/CC is/VBZ considered/VBN to/TO have/VB 
+[ higher/JJR underground/JJ temperature/NN ]
+./. 
+
+In/IN 
+[ the/DT center/NN ]
+of/IN 
+[ this/DT site/NN ]
+,/, 
+[ a/DT high/JJ resistivity/NN zone/NN ]
+was/VBD located/VBN ,/, and/CC was/VBD surrounded/VBN by/IN 
+[ a/DT low/JJ sensitivity/NN zone/NN ]
+./. 
+
+[ A/DT high/JJ resistivity/NN zone/NN ]
+was/VBD found/VBN extending/VBG over/IN in/IN 
+[ the/DT vicinities/NNS ]
+of/IN 
+[ Mt./NNP Karutoyama/NNP ]
+in/IN 
+[ the/DT north/NN ]
+and/CC 
+[ Mt./NNP Noinedaka/NNP ]
+in/IN 
+[ the/DT south/NN ]
+./. 
+
+(/( 
+[ 7/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+[ Observations/NNS ]
+were/VBD made/VBN on/IN 
+[ the/DT seismic/JJ noise/NN ]
+in/IN 
+[ Takinoue/NNP geothermal/JJ area/NN ]
+,/, 
+[ Iwate/NNP prefecture/NN ]
+,/, giving/VBG 
+[ the/DT following/JJ informations/NNS ]
+./. 
+
+(/( 
+[ 1/LS ]
+)/) 
+[ Vibrations/NNS ]
+mainly/RB of/IN 
+[ high/JJ frequency/NN ]
+above/IN 
+[ 10/CD Hz/NNS ]
+are/VBP generated/VBN in/IN 
+[ connection/NN ]
+with/IN 
+[ the/DT flow/NN ]
+of/IN 
+[ River/NNP Kakkonda/NNP ]
+./. 
+
+[ Its/PRP$ influence/NN ]
+is/VBZ extended/VBN over/IN 
+[ the/DT area/NN ]
+within/IN 
+[ 20/CD ]
+-/: 
+[ 40/CD m/NNS ]
+from/IN 
+[ the/DT river/NN side/NN ]
+./. 
+
+[ 2/LS ]
+)/) 
+[ The/DT seismic/JJ waves/NNS ]
+generated/VBN by/IN 
+[ the/DT activities/NNS ]
+of/IN 
+[ the/DT steam/NN supply/NN system/NN ]
+,/, mainly/RB 
+[ production/NN ]
+well/NN ,/, 
+[ reinjection/NN ]
+well/NN ,/, and/CC 
+[ separator/NN ]
+,/, have/VBP 
+[ spectral/JJ characteristics/NNS ]
+of/IN 
+[ high/JJ frequency/NN ]
+above/IN 
+[ 20/CD Hz/NNS ]
+./. 
+
+[ The/DT radius/NN ]
+of/IN 
+[ influence/NN ]
+is/VBZ about/IN 
+[ 150/CD m/NNS ]
+for/IN 
+[ the/DT production/NN wells/NNS ]
+./. 
+
+Around/IN 
+[ the/DT steam/NN pipelines/NNS ]
+,/, 
+[ seismic/JJ noise/NN ]
+of/IN 
+[ high/JJ frequency/NN elements/NNS ]
+above/IN 
+[ 20/CD Hz/NNS ]
+is/VBZ generated/VBN although/IN limited/VBN in/IN 
+[ a/DT narrow/JJ range/NN ]
+./. 
+
+[ 3/LS ]
+)/) Within/IN 
+[ the/DT fumarole/NN area/NN ]
+,/, 
+[ high/JJ frequency/NN ]
+elememts/NNS above/IN 
+[ 20/CD Hz/NNS ]
+
+[ which/WDT ]
+seems/VBZ to/TO be/VB due/JJ to/TO 
+[ a/DT blow-out/NN ]
+of/IN 
+[ steam/NN ]
+and/CC 
+[ hot/JJ water/NN ]
+from/IN 
+[ the/DT fumaroles/NNS ]
+or/CC by/IN 
+[ the/DT flow/NN ]
+in/IN 
+[ the/DT shallow/JJ ]
+underground/NN are/VBP observed/VBN ./. 
+
+[ The/DT seismic/JJ noise/NN ]
+in/IN 
+[ the/DT frequency/NN band/NN 5/CD ]
+-/: 
+[ 15/CD Hz/NNS ]
+is/VBZ dominant/JJ in/IN 
+[ the/DT wide/JJ area/NN ]
+around/IN 
+[ the/DT fumaroles/NNS ]
+./. 
+
+(/( 
+[ 26/CD figs/NNS ]
+,/, 
+[ 5/CD refs/NNS ]
+)/) 
+======================================
+
+[ This/DT analysis/NN ]
+was/VBD carried/VBN out/RP as/IN  
+[ a/DT part/NN ]
+of/IN 
+[ Analysis/NNP ]
+of/IN 
+[ the/DT Reservoir/NNP Characteristics/NNP ]
+,/, 
+[ a/DT NEDO/NNP project/NN ]
+entrusted/VBN by/IN 
+[ MITI/NNP ]
+./. 
+
+[ Discharge/NN performance/NN ]
+of/IN Well/NN 
+[ DY-1/NNP ]
+was/VBD analyzed/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT simulator/NN ]
+on/IN 
+[ the/DT two-phase/JJ flow/NN ]
+in/IN 
+[ the/DT well/NN ]
+./. 
+
+[ The/DT analysis/NN ]
+showed/VBD 
+[ very/RB good/JJ coincidence/NN ]
+between/IN 
+[ the/DT values/NNS ]
+calculated/VBN and/CC actually/RB measured/VBN ./. 
+
+(/( 
+[ 1/LS ]
+)/) 
+[ Wellhead/NN pressure/NN ]
+of/IN 
+[ DY-1/NNP ]
+well/NN during/IN 
+[ the/DT discharge/NN ]
+was/VBD as/RB low/JJ as/IN 
+[ 2.5/CD bar/NN max./NN ]
+,/, but/CC 
+[ a/DT simulation/NN ]
+on/IN 
+[ the/DT well/JJ design/NN ]
+in/IN dicated/VBD  that/IN 
+[ the/DT wellhead/NN pressure/NN ]
+could/MD be/VB raised/VBN by/IN enlarging/VBG 
+[ a/DT casing/NN ]
+bore/NN at/IN above/IN 
+[ the/DT flash-starting/JJ depth/NN ]
+and/CC by/IN lowering/VBG 
+[ the/DT wellhead/NN position/NN ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) 
+[ Discharge/NN ]
+of/IN 
+[ DY-1/NNP ]
+well/NN stopped/VBD by/IN 
+[ the/DT ]
+depositing/NN of/IN 
+[ calcium/NN carbonate/NN scale/NN ]
+
+[ which/WDT ]
+seemed/VBD to/TO have/VB occurred/VBN ever/RB since/IN 
+[ the/DT start/NN ]
+of/IN 
+[ the/DT discharge/NN ]
+./. 
+
+(/( 
+[ 3/LS ]
+)/) 
+[ This/DT simulation/NN analysis/NN ]
+was/VBD quite/RB 
+[ effective/JJ ]
+for/IN 
+[ the/DT ]
+under/IN standing/NN  of/IN 
+[ the/DT discharge/NN performance/NN ]
+and/CC 
+[ the/DT scale/NN deposition/NN ]
+and/CC for/IN 
+[ the/DT design/NN ]
+of/IN 
+[ the/DT production/NN wells/NNS ]
+./. 
+
+(/( 
+[ 18/CD figs/NNS ]
+,/, 
+[ 3/CD refs/NNS ]
+)/) 
+======================================
+
+[ Development/NN ]
+of/IN 
+[ non-volcanic/JJ deep-seated/JJ geothermal/JJ hot/JJ water/NN supply/NN system/NN ]
+,/, promoted/VBN by/IN 
+[ NEDO/NNP ]
+,/, is/VBZ reviewed/VBN with/IN 
+[ a/DT description/NN ]
+on/IN 
+[ the/DT results/NNS ]
+and/CC 
+[ future/JJ planning/NN ]
+./. 
+
+In/IN 
+[ 1979/CD ]
+,/, 
+[ an/DT experimental/JJ site/NN ]
+was/VBD placed/VBN at/IN 
+[ Akita/NNP Pref/NNP ]
+./. 
+
+By/IN 
+[ 1982/CD ]
+,/, 
+[ 4/CD test/NN ]
+wells/NNS of/IN 
+[ 1,300/CD m/NNS class/NN ]
+were/VBD drilled/VBN for/IN 
+[ performing/VBG extraction/NN ]
+and/CC 
+[ reinjection/NN tests/NNS ]
+./. 
+
+[ The/DT 20/CD ton\/h/NN rate/NN test/NN ]
+was/VBD performed/VBN continuously/RB for/IN 
+[ 365/CD days/NNS ]
+up/IN to/TO 
+[ May/NNP ]
+,/, 
+[ 1983/CD ]
+./. 
+
+[ The/DT 60/CD ton\/h/NN rate/NN test/NN ]
+was/VBD carried/VBN out/RP 
+[ 45/CD days/NNS ]
+./. 
+
+[ Details/NNS ]
+of/IN 
+[ these/DT tests/NNS ]
+are/VBP reported/VBN ,/, indicating/VBG that/IN 
+[ the/DT injection/NN efficiency/NN ]
+per/IN 
+[ unit/NN power/NN ]
+consumed/VBN for/IN 
+[ the/DT latter/JJ test/NN ]
+becomes/VBZ about/IN 
+[ 2/CD times/NNS ]
+as/IN 
+[ high/JJ ]
+,/, available/JJ for/IN 
+[ mass/JJ supply/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ large-scale/JJ facilities/NNS ]
+./. 
+
+Based/VBN on/IN 
+[ the/DT test/NN data/NNS ]
+,/, 
+[ a/DT three/CD dimension/NN model/NN ]
+of/IN 
+[ the/DT deep-seated/JJ hot/JJ water/NN reservoir/NN ]
+is/VBZ created/VBN for/IN 
+[ simulation/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ influence/NN ]
+to/TO 
+[ ground/NN subsidence/NN ]
+is/VBZ also/RB surveyed/VBN ./. 
+
+(/( 
+[ 6/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ Basic/JJ study/NN ]
+on/IN 
+[ the/DT elementary/JJ technology/NN ]
+for/IN 
+[ the/DT total/JJ flow/NN power/NN generation/NN ]
+is/VBZ performed/VBN with/IN 
+[ particular/JJ emphasis/NN ]
+on/IN 
+[ the/DT inner/JJ seals/NNS ]
+(/( 
+[ leakage/NN characteristics/NNS ]
+of/IN 
+[ the/DT labyrinth/NN seal/NN ]
+and/CC 
+[ the/DT flat/JJ seal/NN ]
+)/) ,/, 
+[ uniform/JJ supply/NN ]
+of/IN 
+[ steam/NN ]
+and/CC 
+[ water/NN ]
+(/( 
+[ structure/NN ]
+for/IN 
+[ supplying/VBG air/NN ]
+by/IN 
+[ using/VBG inertia/NN ]
+supercharging/NN )/) and/CC 
+[ the/DT expansion/NN ]
+of/IN 
+[ 2-phase/CD flow/NN ]
+of/IN 
+[ steam/NN ]
+and/CC 
+[ water/NN ]
+./. 
+
+[ A/DT test/NN machine/NN ]
+is/VBZ designed/VBN and/CC manufacturered/VBN (/( 
+[ output/NN 300/CD KW/NN ]
+)/) and/CC 
+[ test/NN ]
+operated/VBN at/IN 
+[ the/DT works/NNS ]
+with/IN 
+[ a/DT result/NN ]
+of/IN 
+[ 54/CD %/SYM engine/NN efficiency/NN ]
+and/CC 
+[ 290/CD KW/NN shaft/NN output/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ technical/JJ prospects/NNS ]
+are/VBP established/VBN through/IN 
+[ conceptual/JJ design/NN ]
+of/IN 
+[ the/DT 1,000/CD KW/NN class/NN practical/JJ machine/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ revealed/VBN that/IN 
+[ the/DT total/JJ flow/NN power/NN generation/NN ]
+can/MD provide/VB 
+[ 14/CD %/SYM higher/JJR output/NN ]
+with/IN 
+[ 11/CD %/SYM lower/JJR cost/NN ]
+in/IN 
+[ the/DT same/JJ inlet/NN fluidic/JJ conditions/NNS ]
+,/, than/IN 
+[ the/DT shaft/NN gate/NN power/NN generation/NN ]
+./. 
+
+Although/IN manufacturing/NN becomes/VBZ 
+[ prospective/JJ ]
+,/, 
+[ there/EX ]
+are/VBP 
+[ various/JJ tasks/NNS ]
+remaining/VBG for/IN fabricating/VBG 
+[ large-scale/JJ system/NN ]
+,/, such/DT as/IN 
+[ reduction/NN ]
+of/IN 
+[ unit/NN weight/NN ]
+per/IN 
+[ output/NN ]
+,/, 
+[ improvement/NN ]
+of/IN 
+[ the/DT structure/NN ]
+and/CC 
+[ higher/JJR corrosion/NN resistance/NN ]
+to/TO 
+[ geothermal/JJ fluid/NN ]
+./. 
+
+(/( 
+[ 4/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ Development/NN ]
+of/IN 
+[ the/DT 10,000/CD KW/NN class/NN demonstration/NN plant/NN ]
+is/VBZ required/VBN to/TO prove/VB 
+[ comprehensive/JJ performance/NN ]
+of/IN 
+[ a/DT practical/JJ power/NN plant/NN ]
+with/IN 
+[ particular/JJ emphasis/NN ]
+on/IN 
+[ economic/JJ merits/NNS ]
+and/CC 
+[ maintenability/NN ]
+./. 
+
+For/IN 
+[ this/DT purpose/NN ]
+,/, 
+[ research/NN ]
+and/CC 
+[ development/NN ]
+has/VBZ been/VBN launched/VBN in/IN 
+[ 1974/CD ]
+while/IN constructing/VBG 
+[ a/DT 1,000/CD KW/NN class/NN binary/JJ cycle/NN power/NN plant/NN ]
+./. 
+
+[ Study/NN ]
+on/IN 
+[ various/JJ elementary/JJ items/NNS ]
+(/( 
+[ heat/NN media/NNS ]
+,/, 
+[ corrosion/NN resistant/JJ materials/NNS ]
+,/, 
+[ turbine/NN shaft/NN seal/NN ]
+,/, 
+[ heat/NN exchanger/NN ]
+)/) has/VBZ begun/VBN in/IN 
+[ 1979/CD ]
+./. 
+
+[ Four/CD years/NNS ]
+later/RB ,/, 
+[ the/DT development/NN ]
+of/IN 
+[ the/DT down/JJ hole/NN pump/NN ]
+has/VBZ been/VBN started/VBN to/TO utilize/VB 
+[ weak-artesian/JJ ]
+well/NN ./. 
+
+[ Problems/NNS ]
+to/TO be/VB solved/VBN are/VBP summarized/VBN at/IN 
+[ economic/JJ performance/NN ]
+of/IN 
+[ the/DT plant/NN ]
+,/, 
+[ temperature/NN drop/NN ]
+in/IN 
+[ reservoir/NN ]
+and/CC 
+[ scaling/NN ]
+of/IN 
+[ injection/NN ]
+well/NN ./. 
+
+[ Future/JJ tasks/NNS ]
+to/TO be/VB carried/VBN out/RP include/VBP 
+[ the/DT development/NN ]
+of/IN 
+[ cyclic/JJ power/NN generation/NN technology/NN ]
+using/VBG 
+[ the/DT down/JJ hole/NN pump/NN ]
+,/, 
+[ establishment/NN ]
+of/IN 
+[ optimum/JJ thermal/JJ cycle/NN system/NN ]
+and/CC 
+[ construction/NN ]
+of/IN 
+[ a/DT plant/NN ]
+conforming/VBG to/TO 
+[ the/DT conditions/NNS ]
+of/IN 
+[ geothermal/JJ field/NN ]
+./. 
+
+(/( 
+[ 2/CD figs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ Adjustable/JJ vane/NN type/NN vertical/JJ ]
+mixed/JJ 
+[ flow/NN pumps/NNS ]
+,/, 
+[ which/WDT ]
+can/MD change/VB 
+[ the/DT setting/NN|JJ angle/NN ]
+of/IN 
+[ its/PRP$ vane/NN ]
+during/IN 
+[ its/PRP$ operation/NN ]
+,/, can/MD be/VB operated/VBN at/IN 
+[ higher/JJR efficiency/NN ]
+than/IN fixed/JJ 
+[ vane/NN type/NN vertical/JJ ]
+mixed/JJ 
+[ flow/NN pumps/NNS ]
+in/IN 
+[ case/NN ]
+when/WRB 
+[ the/DT operation/NN ]
+is/VBZ made/VBN in/IN 
+[ the/DT wide/JJ range/NN ]
+of/IN 
+[ flow/NN ]
+./. 
+
+Because/IN of/IN 
+[ this/DT ]
+,/, 
+[ the/DT modification/NN ]
+of/IN 
+[ vertical/JJ mixed/JJ flow/NN pumps/NNS ]
+from/IN 
+[ the/DT fixed/JJ vane/NN type/NN ]
+to/TO 
+[ the/DT adjustable/JJ vane/NN type/NN ]
+has/VBZ recently/RB been/VBN promoted/VBN positively/RB as/IN 
+[ an/DT energy/NN saving/NN measure/NN ]
+./. 
+
+In/IN 
+[ this/DT view/NN ]
+,/, 
+[ this/DT report/NN ]
+describes/VBZ about/IN 
+[ the/DT conditions/NNS ]
+and/CC 
+[ structure/NN ]
+,/, 
+[ etc./RB ]
+concerning/VBG 
+[ the/DT modification/NN ]
+from/IN 
+[ the/DT fixed/JJ vanes/NNS ]
+to/TO 
+[ the/DT adjustable/JJ vanes/NNS ]
+at/IN 
+[ the/DT time/NN ]
+of/IN 
+[ inspection/NN ]
+and/CC 
+[ repair/NN ]
+of/IN 
+[ pumps/NNS ]
+used/VBN for/IN 
+[ many/JJ years/NNS ]
+./. 
+
+Although/IN 
+[ auxiliary/JJ equipment/NN ]
+,/, 
+[ panel/NN ]
+and/CC 
+[ others/NNS ]
+are/VBP newly/RB needed/VBN in/IN 
+[ connection/NN ]
+with/IN 
+[ the/DT modification/NN ]
+to/TO 
+[ the/DT adjustable/JJ vane/NN type/NN ]
+,/, 
+[ the/DT space/NN ]
+for/IN 
+[ installation/NN remains/NNS ]
+unchanged/JJ from/IN 
+[ the/DT time/NN ]
+of/IN 
+[ the/DT installation/NN ]
+of/IN 
+[ the/DT fixed/JJ vane/NN type/NN pump/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ necessary/JJ to/TO examine/VB well/RB 
+[ the/DT layout/NN ]
+of/IN 
+[ the/DT equipment/NN ]
+beforehand/RB ./. 
+
+(/( 
+[ 7/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+[ Corrosion/NN ]
+of/IN 
+[ cast/JJ iron/NN ]
+in/IN 
+[ the/DT sea/NN water/NN advances/VBZ ]
+as/IN 
+[ the/DT flow/NN velocity/NN ]
+becomes/VBZ higher/JJR as/IN 
+[ a/DT rule/NN ]
+,/, however/RB in/IN 
+[ case/NN ]
+where/WRB 
+[ a/DT flow/NN velocity/NN distribution/NN ]
+exists/VBZ as/IN 
+[ the/DT inside/NN ]
+of/IN 
+[ a/DT pump/NN ]
+in/IN 
+[ operation/NN ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ a/DT phenomenon/NN ]
+that/IN 
+[ a/DT differential/JJ velocity/NN cell/NN ]
+is/VBZ formed/VBN and/CC 
+[ the/DT corrosion/NN ]
+at/IN 
+[ the/DT low/JJ flow/NN velocity/NN section/NN ]
+is/VBZ considerably/RB accerelated/VBN contrary/JJ to/TO 
+[ the/DT above/JJ ]
+./. 
+
+[ This/DT article/NN ]
+reports/VBZ 
+[ the/DT results/NNS ]
+of/IN 
+[ the/DT quantitative/JJ ]
+grasping/NN of/IN 
+[ the/DT differential/JJ velocity/NN cell/NN corrosion/NN ]
+inside/IN 
+[ the/DT pump/NN ]
+through/IN 
+[ the/DT experiment/NN ]
+using/VBG 
+[ actual/JJ pumps/NNS ]
+and/CC of/IN 
+[ the/DT examination/NN ]
+of/IN 
+[ the/DT ways/NNS ]
+to/TO reduce/VB 
+[ it/PRP ]
+./. 
+
+As/IN 
+[ the/DT countermeasures/NNS ]
+against/IN 
+[ the/DT differential/JJ velocity/NN cell/NN corrosion/NN ]
+,/, 
+[ the/DT following/JJ methods/NNS ]
+are/VBP 
+[ effective/NN ]
+:/: (/( 
+[ 1/LS ]
+)/) In/IN designing/VBG ,/, 
+[ consideration/NN ]
+should/MD be/VB given/VBN so/RB that/IN 
+[ the/DT flow/NN velocity/NN gradient/NN ]
+may/MD become/VB 
+[ small/JJ ]
+and/CC bearing/VBG in/IN 
+[ mind/NN ]
+
+[ the/DT area/NN ratio/NN ]
+between/IN 
+[ anode/NN ]
+and/CC 
+[ cathode/NN ]
+,/, 
+[ the/DT area/NN ]
+of/IN 
+[ the/DT cathode/NN ]
+may/MD relatively/RB become/VB 
+[ small/JJ ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) 
+[ The/DT material/NN ]
+
+[ which/WDT ]
+is/VBZ insensible/JJ of/IN 
+[ the/DT differential/JJ velocity/NN cell/NN corrosion/NN ]
+should/MD be/VB used/VBN ./. 
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ the/DT adoption/NN ]
+of/IN 
+[ the/DT sea/NN water/NN resistant/JJ low/JJ chrome/NN cast/JJ iron/NN ]
+,/, 
+[ etc./RB ]
+is/VBZ also/RB 
+[ effective/NN ]
+./. 
+
+(/( 
+[ 17/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 3/CD refs/NNS ]
+)/) 
+======================================
+
+[ The/DT downhole/JJ pump/NN ]
+is/VBZ developed/VBN aiming/VBG at/IN pumping/VBG up/RP 
+[ hot/JJ water/NN ]
+from/IN 
+[ geothermal/JJ well/NN ]
+and/CC using/VBG for/IN 
+[ binary/JJ power/NN generation/NN ]
+./. 
+
+[ The/DT pump/NN ]
+consists/VBZ of/IN 
+[ a/DT vertical/JJ multistage/JJ diagonal/JJ flow/NN type/NN ]
+,/, while/IN 
+[ the/DT motor/NN ]
+comprising/VBG 
+[ a/DT ]
+can/MD structure/VB 
+[ oil-shield/JJ submersible/JJ motor/NN ]
+./. 
+
+[ A/DT practical/JJ machine/NN ]
+will/MD be/VB developed/VBN after/IN 
+[ completion/NN ]
+of/IN manufacturing/NN and/CC testing/NN 
+[ 2/CD trial/NN models/NNS ]
+in/IN 
+[ 2/CD phases/NNS ]
+,/, because/IN 
+[ technical/JJ difficulties/NNS ]
+are/VBP expected/VBN in/IN 
+[ the/DT development/NN plan/NN ]
+./. 
+
+[ The/DT target/NN performance/NN ]
+of/IN 
+[ test/NN machine/NN No./NN 1/CD ]
+includes/VBZ 
+[ a/DT hot/JJ water/NN flow/NN rate/NN ]
+of/IN 
+[ 50/CD ton\/h/NN ]
+,/, 
+[ a/DT hot/JJ water/NN temperature/NN ]
+of/IN 
+[ 170/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+and/CC 
+[ an/DT installation/NN depth/NN ]
+of/IN 
+[ 400/CD m./NN Study/NN ]
+on/IN 
+[ elementary/JJ components/NNS ]
+is/VBZ carried/VBN out/RP for/IN 
+[ thrust/NN bearing/NN ]
+and/CC 
+[ shaft/NN seal/NN ]
+,/, sealed/JJ 
+[ oil/NN ]
+,/, 
+[ status/NN coil/NN ]
+,/, 
+[ cable/NN ]
+and/CC 
+[ motor/NN tandem/NN joint/NN ]
+./. 
+
+[ Test/NN machine/NN No./NN 1/CD ]
+is/VBZ completed/VBN in/IN 
+[ 1985/CD ]
+and/CC tested/VBN satisfactorily/RB in/IN 
+[ Kuju/NNP area/NN ]
+,/, 
+[ Oita/NNP prefecture/NN ]
+at/IN 
+[ a/DT hot/JJ water/NN temperature/NN ]
+of/IN 
+[ 170/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+for/IN 
+[ a/DT period/NN ]
+of/IN 
+[ 1,000/CD hours/NNS ]
+./. 
+
+[ The/DT results/NNS ]
+will/MD be/VB completely/RB transferred/VBN and/CC referred/VBN to/TO 
+[ the/DT development/NN ]
+of/IN 
+[ test/NN machine/NN No./NN 2/CD ]
+./. 
+
+(/( 
+[ 1/CD fig/NN ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 3/CD photos/NNS ]
+)/) 
+======================================
+
+Following/JJ 
+[ results/NNS ]
+were/VBD obtained/VBN from/IN 
+[ the/DT small/JJ scale/NN hydraulic/JJ crushing/NN experiment/NN ]
+and/CC 
+[ the/DT two-well/JJ connection/NN ]
+and/CC 
+[ circulation/NN test/NN ]
+./. 
+
+[ 1/LS ]
+)/) 
+[ Ground/NN pressure/NN ]
+in/IN 
+[ the/DT vicinity/NN ]
+of/IN 
+[ the/DT experimented/JJ site/NN ]
+was/VBD maximum/JJ along/IN 
+[ the/DT east-west/JJ direction/NN ]
+in/IN 
+[ the/DT horizontal/JJ plane/NN ]
+;/: 
+[ impedance/NN ]
+of/IN 
+[ the/DT fracture/NN system/NN ]
+decreased/VBD as/IN 
+[ the/DT circulation/NN time/NN ]
+increased/VBD ,/, and/CC 
+[ the/DT flow/NN rate/NN ]
+of/IN 
+[ the/DT pouring/VBG water/NN ]
+out/IN of/IN 
+[ the/DT ]
+well/RB 
+[ I-2/NNP ]
+decreased/VBD ./. 
+
+[ This/DT ]
+is/VBZ because/IN 
+[ the/DT fracture/NN ]
+grew/VBD in/IN 
+[ the/DT east-west/JJ direction/NN ]
+from/IN 
+[ the/DT ]
+well/NN 
+[ V-2/NNP ]
+and/CC crossed/VBD with/IN 
+[ the/DT ]
+already/RB existing/VBG 
+[ fracture/NN ]
+./. 
+
+[ 2/LS ]
+)/) 
+[ Temperature/NN drop/NN ]
+in/IN 
+[ the/DT well/NN I-2/NNP ]
+at/IN 
+[ 17/CD m/NN depth/NN ]
+is/VBZ quite/RB significant/JJ in/IN 
+[ spite/NN ]
+of/IN 
+[ the/DT small/JJ flow-in/JJ quantity/NN ]
+./. 
+
+Although/IN 
+[ water/NN ]
+does/VBZ not/RB 
+[ spring/VB ]
+out/RP at/IN 
+[ the/DT mouth/NN ]
+of/IN 
+[ the/DT wells/NNS I-1/NNP ]
+and/CC 
+[ V-1/NNP ]
+,/, 
+[ fracture/NN ]
+were/VBD suspected/VBN at/IN 
+[ several/JJ spots/NNS ]
+in/IN 
+[ view/NN ]
+of/IN 
+[ the/DT temperature/NN measurement/NN ]
+in/IN 
+[ the/DT circulating/JJ test/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD also/RB suspected/VBN that/IN 
+[ the/DT increase/NN ]
+of/IN 
+[ the/DT fracture/NN width/NN ]
+and/CC 
+[ the/DT expansion/NN ]
+of/IN 
+[ the/DT fracture/NN ]
+due/JJ to/TO 
+[ the/DT rock/NN body/NN cooling/NN ]
+were/VBD in/IN 
+[ progress/NN ]
+./. 
+
+(/( 
+[ 8/CD figs/NNS ]
+)/) 
+======================================
+
+[ Development/NN ]
+of/IN 
+[ a/DT geothermal/JJ binary/JJ cycle/NN power/NN generation/NN plant/NN ]
+is/VBZ ,/, since/IN 
+[ 1979/CD ]
+,/, in/IN 
+[ the/DT stage/NN ]
+of/IN 
+[ element/NN research/NN ]
+for/IN 
+[ the/DT demonstration/NN plant/NN ]
+of/IN 
+[ 10,000/CD KW/NNP capacity/NN ]
+./. 
+
+[ 1/LS ]
+)/) 
+[ Studies/NNS ]
+are/VBP made/VBN on/IN 
+[ both/DT ]
+
+[ methods/NNS ]
+of/IN 
+[ single/JJ binary/JJ ]
+and/CC 
+[ double/JJ binary/JJ systems/NNS ]
+concerning/VBG 
+[ the/DT utilization/NN ]
+of/IN 
+[ geothermal/JJ water/NN ]
+./. 
+
+[ 2/LS ]
+)/) From/IN 
+[ the/DT viewpoint/NN ]
+of/IN 
+[ NEDO/NNP 's/POS own/JJ survey/NN ]
+on/IN 
+[ the/DT overseas/JJ technology/NN ]
+and/CC 
+[ petroleum-substitution/JJ energy/NN ]
+,/, 
+[ an/DT independent/JJ system/NN ]
+of/IN 
+[ a/DT binary/JJ cycle/NN power/NN plant/NN using/VBG downhde/JJ pumps/NNS ]
+for/IN 
+[ the/DT purpose/NN ]
+of/IN handling/VBG 
+[ the/DT medium\/JJ temperature/NN geothermal/JJ water/NN ]
+is/VBZ being/VBG investigated/VBN ./. 
+
+[ 3/LS ]
+)/) 
+[ Problems/NNS ]
+involved/VBN in/IN 
+[ the/DT development/NN ]
+are/VBP :/: 
+[ a/LS ]
+)/) 
+[ R/NN ]
+and/CC 
+[ D/NN ]
+on/IN 
+[ the/DT downhole/JJ pump./NN b/LS ]
+)/) 
+[ Improvement/NN ]
+of/IN 
+[ economy/NN ]
+(/( totalizing/VBG 
+[ the/DT surface/NN ]
+and/CC 
+[ underground/NN )./NN c/LS ]
+)/) 
+[ Measures/NNS ]
+for/IN 
+[ the/DT silica/NN scale./NN d/LS ]
+)/) 
+[ Assessment/NN ]
+of/IN 
+[ influence/NN ]
+of/IN 
+[ the/DT reservoir/NN ]
+./. 
+
+(/( 
+[ 4/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 1/CD ref/NN ]
+)/) 
+======================================
+
+[ Fracture/NN toughness/NN ]
+of/IN 
+[ rocks/NNS ]
+at/IN 
+[ high/JJ temperatures/NNS ]
+is/VBZ investigated/VBN to/TO obtain/VB 
+[ information/NN ]
+required/VBN for/IN 
+[ effective/JJ hydraulic/JJ ]
+fracturing/NN of/IN 
+[ hot-dry-rock/JJ systems/NNS ]
+./. 
+
+In/IN 
+[ KIMACHI/NNP sandstone/NN ]
+(/( 
+[ Rock/NN ]
+
+[ A/NN ]
+)/) ,/, 
+[ the/DT maximum/JJ splitting/JJ load/NN ]
+is/VBZ comparable/JJ between/IN 
+[ room/NN temperature/NN ]
+and/CC 
+[ 100/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, but/CC increases/VBZ as/IN 
+[ the/DT temperature/NN ]
+increases/VBZ to/TO 
+[ 200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+and/CC then/RB to/TO 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+./. 
+
+On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ it/PRP ]
+decreases/VBZ in/IN 
+[ the/DT case/NN ]
+of/IN 
+[ ONADA/NNP granite/NN ]
+(/( 
+[ Rock/NN B/NN ]
+)/) ./. 
+
+[ The/DT ceack/NN ]
+generally/RB propagates/VBZ with/IN increasing/JJ 
+[ crack/JJ opening/NN displacement/NN ]
+accompanying/VBG 
+[ the/DT crack/NN propagation/NN increases/NNS ]
+with/IN 
+[ increasing/JJ temperature/NN ]
+./. 
+
+[ The/DT stress/NN intensity/NN factor/NN ]
+becomes/VBZ nearly/RB constant/JJ at/IN 
+[ a/DT crack/NN length/NN ]
+of/IN about/RB 
+[ 85/CD mm/NNS ]
+in/IN 
+[ both/DT ]
+
+[ rocks/NNS ]
+./. 
+
+Thus/RB 
+[ the/DT value/NN ]
+at/IN 
+[ this/DT point/NN ]
+is/VBZ regarded/VBN as/IN showing/VBG 
+[ the/DT fracture/NN toughness/NN ]
+./. 
+
+[ The/DT fracture/NN toughness/NN ]
+of/IN 
+[ Rock/NN ]
+
+[ A/NN ]
+slightly/RB decreases/VBZ as/IN 
+[ temperature/NN ]
+rises/VBZ from/IN 
+[ room/NN temperature/NN ]
+to/TO 
+[ 100/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, but/CC increases/VBZ above/IN 
+[ 100/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+./. 
+
+At/IN 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ it/PRP ]
+becomes/VBZ about/RB 
+[ 1.4/CD times/NNS ]
+that/DT at/IN 
+[ room/NN temperature/NN ]
+./. 
+
+In/IN 
+[ Rock/NN B/NN ]
+,/, 
+[ fracture/NN toughness/NN ]
+decreases/VBZ monotonously/RB as/IN 
+[ temperature/NN ]
+rises/VBZ ,/, reaching/VBG about/RB 
+[ 0.65/CD times/NNS ]
+that/DT at/IN 
+[ room/NN temperature/NN ]
+at/IN 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C./NNP ]
+(/( 
+[ 16/CD refs/NNS ]
+,/, 
+[ 11/CD figs/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ order/NN ]
+to/TO find/VB 
+[ an/DT optimal/JJ design/NN ]
+for/IN 
+[ the/DT downhole/JJ coaxial/JJ heat/NN exchanger/NN ]
+,/, following/JJ 
+[ results/NNS ]
+were/VBD obtained/VBN using/VBG 
+[ a/DT numerical/JJ simulator/NN ]
+./. 
+
+[ Reverse/JJ circulation/NN ]
+was/VBD more/RBR suitable/JJ than/IN 
+[ forward/JJ circulation/NN ]
+to/TO obtain/VB 
+[ more/JJR thermal/JJ output/NN ]
+,/, because/IN of/IN 
+[ shorter/JJR length/NN ]
+of/IN 
+[ heat/NN loss/NN ]
+./. 
+
+[ Much/RB higher/JJR outlet/NN water/NN temperature/NN ]
+and/CC 
+[ net/JJ thermal/JJ output/NN ]
+could/MD be/VB obtained/VBN with/IN 
+[ an/DT insulated/JJ inner/JJ piping/NN ]
+./. 
+
+[ Due/JJ ]
+to/TO 
+[ difference/NN ]
+in/IN 
+[ water/NN density/NN ]
+,/, 
+[ circulation/NN pressure/NN ]
+arose/VBD in/IN 
+[ the/DT downhole/JJ coaxial/JJ heat/NN exchanger/NN ]
+,/, and/CC 
+[ no/DT pumping/JJ work/NN ]
+was/VBD required/VBN for/IN 
+[ circulation/NN ]
+when/WRB 
+[ temperature/NN difference/NN ]
+between/IN 
+[ inlet/NN water/NN ]
+and/CC 
+[ outlet/NN water/NN ]
+were/VBD sufficiently/RB large/JJ and/CC 
+[ the/DT design/NN ]
+of/IN 
+[ heat/NN exchanger/NN ]
+was/VBD appropriate/JJ ./. 
+
+[ Thermal/JJ output/NN ]
+of/IN 
+[ this/DT heat/NN exchanger/NN ]
+with/IN 
+[ an/DT insulated/JJ inner/JJ piping/NN ]
+and/CC 
+[ reverse/JJ circulation/NN ]
+was/VBD much/RB larger/JJR than/IN that/DT of/IN 
+[ a/DT U-tube/NN heat/NN exchanger/NN ]
+./. 
+
+[ Thermal/JJ output/NN ]
+increased/VBD with/IN 
+[ increasing/JJ diameter/NN ]
+of/IN 
+[ wellbore/NN ]
+but/CC 
+[ the/DT increase/NN rate/NN ]
+was/VBD smaller/JJR ./. 
+
+[ The/DT inner/JJ pipe/NN diameter/NN ]
+also/RB related/VBN to/TO 
+[ thermal/JJ output/NN ]
+and/CC 
+[ friction/NN loss/NN ]
+and/CC 
+[ well-head/JJ pressure/NN difference/NN ]
+were/VBD very/RB sensitive/JJ to/TO 
+[ the/DT inner/JJ pipe/NN diameter/NN ]
+./. 
+
+(/( 
+[ 17/CD refs/NNS ]
+,/, 
+[ 10/CD figs/NNS ]
+,/, 
+[ 7/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Some/DT laboratory/NN ]
+and/CC 
+[ field/NN experiments/NNS ]
+of/IN fluid/NN circulation/NN ,/, 
+and/CC 
+[ numerical/JJ approach/NN ]
+were/VBD carried/VBN out/RP concerning/VBG 
+[ fractures/NNS ]
+created/VBN by/IN 
+[ a/DT hydraulic/JJ fracturing/NN technique/NN ]
+to/TO clarify/VB 
+[ the/DT fracture/NN aperture/NN behaviors/NNS ]
+and/CC 
+[ flow/NN behaviors/NNS ]
+when/WRB 
+[ the/DT geothermal/JJ energy/NN ]
+from/IN 
+[ hot/JJ dry/JJ rocks/NNS ]
+were/VBD extracted/VBN by/IN 
+[ circulating/VBG fluid/NN ]
+through/IN 
+[ fractures/NNS ]
+./. 
+
+[ The/DT fracture/NN ]
+under/IN 
+[ stress/NN condition/NN ]
+resulted/VBD 
+[ 0.5/CD mm/NN aperture/NN distribution/NN ]
+in/IN 
+[ Inada/NNP granite/NN ]
+./. 
+
+[ Channels/NNS ]
+between/IN 
+[ wells/NNS ]
+comprised/VBN of/IN 
+[ multiple/JJ created/JJ fractures/NNS ]
+and/CC 
+[ joints/NNS ]
+./. 
+
+[ The/DT fracture/NN aperture/NN distribution/NN ]
+had/VBD 
+[ influences/NNS ]
+on/IN 
+[ flow/NN behavior/NN ]
+and/CC 
+[ circulating/JJ flow/NN rate/NN ]
+and/CC therefore/RB coupled/VBD 
+[ stress-flow/JJ analysis/NN ]
+were/VBD required/VBN ./. 
+
+In/IN 
+[ simulated/JJ four/CD models/NNS ]
+,/, 
+[ each/DT model/NN ]
+had/VBD 
+[ different/JJ effects/NNS ]
+to/TO 
+[ applied/JJ items/NNS ]
+,/, 
+[ that/DT ]
+is/VBZ ,/, 
+[ injection/NN pressure/NN ]
+,/, circulating/JJ 
+[ flow/NN rate/NN ]
+,/, circulating/JJ 
+[ area/NN ]
+and/CC 
+[ flow/NN rate/NN distribution/NN ]
+./. 
+
+(/( 
+[ 10/CD refs/NNS ]
+,/, 
+[ 26/CD figs/NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+)/) 
+======================================
+
+[ NEDO/NNP ]
+is/VBZ participating/VBG 
+[ Phase/NN 2/CD ]
+of/IN 
+[ U.S./NNP Hot/NNP Dry/NNP Rock/NNP Project/NNP ]
+(/( since/IN 
+[ 1979/CD ]
+)/) under/IN 
+[ the/DT IEA/NNP implementing/NN agreement/NN ]
+./. 
+
+[ Major/JJ technical/JJ results/NNS ]
+,/, so/RB far/RB obtained/VBN ,/, include/VB 
+[ deep/JJ parallel/JJ slope/NN ]
+boring/NN of/IN 
+[ hot/JJ hard/JJ rock/NN ]
+(/( 
+[ accumulation/NN ]
+of/IN 
+[ boring/NN technology/NN ]
+for/IN 
+[ crystalline/JJ hard/JJ rock/NN ]
+,/, 
+[ development/NN ]
+of/IN 
+[ abrasion/NN resistant/JJ tools/NNS ]
+and/CC 
+[ devices/NNS ]
+for/IN cutting/VBG 
+[ hard/JJ rock/NN ]
+at/IN 
+[ high/JJ temperature/NN ]
+,/, such/DT as/IN 
+[ rotary/JJ bit/NN ]
+)/) ,/, 
+[ practical/JJ use/NN ]
+of/IN 
+[ various/JJ inspection/NN layers/NNS ]
+in/IN 
+[ high-temperature/JJ ]
+and/CC 
+[ high-pressure/JJ ]
+well/NN ,/, 
+[ development/NN ]
+of/IN 
+[ direction/NN ]
+and/CC 
+[ slope/NN ] 
+controlled/JJ 
+[ tools/NNS ]
+and/CC 
+[ equipment/NN ]
+,/, 
+[ execution/NN ]
+of/IN 
+[ hydraulic/JJ ]
+fracturing/NN in/IN 
+[ deep/JJ hot/JJ well/NN ]
+,/, 
+[ study/NN ]
+on/IN 
+[ optimum/JJ heat/NN extraction/NN ]
+based/VBN on/IN 
+[ injection/NN water/NN circulation/NN ]
+(/( 
+[ analysis/NN ]
+of/IN 
+[ geopressure/NN ]
+,/, 
+[ execution/NN ]
+of/IN 
+[ optimum/JJ hydraulic/JJ ]
+fracturing/NN ,/, improved/JJ 
+[ accuracy/NN ]
+of/IN 
+[ artificial/JJ reservoir/NN selecting/NN technology/NN ]
+,/, 
+[ establishment/NN ]
+of/IN 
+[ optimum/JJ heat/NN control/NN ]
+for/IN 
+[ artificial/JJ reservoir/NN ]
+)/) ,/, 
+[ etc/RB ]
+./. 
+
+[ Japan/NNP ]
+will/MD participate/VB in/IN exploiting/VBG advanced/JJ 
+[ HDR/NN technology/NN including/VBG expoitation/NN ]
+,/, 
+[ heat/NN extraction/NN ]
+and/CC 
+[ applications/NNS ]
+of/IN 
+[ geothermal/JJ resources/NNS ]
+./. 
+
+(/( 
+[ 2/CD figs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ order/NN ]
+to/TO study/VB 
+[ the/DT silica/NN deposition/NN mechanism/NN ]
+in/IN 
+[ a/DT reservoir/NN ]
+in/IN 
+[ a/DT geothermal/JJ power/NN station/NN ]
+in/IN 
+[ case/NN ]
+of/IN reinjecting/VBG 
+[ geothermal/JJ water/NN ]
+and/CC 
+[ the/DT decrease/NN ]
+of/IN 
+[ the/DT permeability/NN ]
+due/JJ to/TO 
+[ silica/NN deposition/NN ]
+,/, 
+[ tests/NNS ]
+were/VBD conducted/VBN by/IN supplying/VBG 
+[ the/DT Otake/NNP geothermal/JJ water/NN ]
+of/IN 
+[ constant/JJ temperature/NN ]
+and/CC 
+[ pH/NN ]
+to/TO 
+[ a/DT cylindrical/JJ cell/NN ]
+filled/VBN with/IN 
+[ alumina/NN beads/NNS ]
+and/CC 
+[ rock/NN particles/NNS ]
+./. 
+
+[ The/DT flow/NN rate/NN ]
+decreased/VBD with/IN 
+[ time/NN ]
+,/, and/CC 
+[ the/DT decrease/NN rate/NN ]
+was/VBD larger/JJR with/IN 
+[ increase/NN ]
+of/IN 
+[ silica/NN concentration/NN ]
+in/IN 
+[ the/DT geothermal/JJ water/NN ]
+./. 
+
+[ The/DT initial/JJ decrease/NN rate/NN ]
+in/IN 
+[ rock/NN particles/NNS ]
+was/VBD 
+[ a/DT little/JJ larger/JJR ]
+in/IN 
+[ alumina/NN beads/NNS ]
+./. 
+
+[ Silica/NN ]
+was/VBD mainly/RB deposited/VBN at/IN 
+[ the/DT column/NN inlet/NN ]
+and/CC 
+[ the/DT silica/NN scale/NN amount/NN ]
+decreased/VBD rapidly/RB with/IN 
+[ distance/NN ]
+./. 
+
+[ The/DT relation/NN ]
+between/IN 
+[ the/DT permeability/NN ]
+and/CC 
+[ the/DT silica/NN scale/NN amount/NN ]
+could/MD be/VB expressed/VBN by/IN 
+[ Kozeny-Stein/NNP formula/NN ]
+./. 
+
+(/( 
+[ 6/CD refs/NNS ]
+,/, 
+[ 13/CD figs/NNS ]
+,/, 
+[ 1/CD tabs/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ pursuit/NN ]
+of/IN 
+[ effective/JJ techniques/NNS ]
+for/IN utilizing/VBG 
+[ thermal/JJ energy/NN ]
+of/IN 
+[ hot-dry-rock/JJ systems/NNS ]
+,/, 
+[ high/JJ temperature/NN uniaxial/JJ compression/NN tests/NNS ]
+are/VBP carried/VBN out/RP on/IN 
+[ AKIYOSHI/NNP marble/NN ]
+,/, 
+[ INADA/NNP granite/NN ]
+,/, 
+[ OGINO/NNP tuff/NN ]
+and/CC 
+[ EMOCHI/NNP ]
+welded/JJ 
+[ tuff/NN ]
+to/TO obtain/VB 
+[ information/NN ]
+on/IN 
+[ the/DT mechanical/JJ behaviors/NNS ]
+of/IN 
+[ heated/VBN rocks/NNS ]
+./. 
+
+[ The/DT mechanical/JJ behaviours/NNS ]
+of/IN 
+[ heated/VBN rocks/NNS ]
+are/VBP very/RB different/JJ among/IN 
+[ various/JJ rock/NN types/NNS ]
+,/, with/IN 
+[ some/DT rocks/NNS ]
+showing/VBG 
+[ a/DT tendency/NN ]
+contrary/JJ to/TO 
+[ that/DT ]
+of/IN 
+[ others/NNS ]
+./. 
+
+[ The/DT values/NNS ]
+of/IN 
+[ compressive/JJ strength/NN ]
+and/CC 
+[ secant/NN Young/NNP 's/POS mudulus/NN ]
+of/IN 
+[ OGINO/NNP tuff/NN ]
+decrease/VB as/IN 
+[ temperature/NN ]
+increases/VBZ up/IN to/TO 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, and/CC then/RB 
+[ they/PRP ]
+increase/VBP beyond/IN 
+[ that/DT temperature/NN ]
+./. 
+
+In/IN 
+[ EMOCHI/NNP ]
+welded/JJ 
+[ tuff/NN ]
+,/, 
+[ these/DT values/NNS ]
+increase/VBP with/IN 
+[ increasing/JJ temperature/NN ]
+,/, whereas/IN 
+[ they/PRP ]
+decrease/VBP as/IN 
+[ temperature/NN ]
+rises/VBZ in/IN 
+[ AKIYOSHI/NNP marble/NN ]
+and/CC 
+[ INADA/NNP granite/NN ]
+./. 
+
+[ The/DT value/NN ]
+of/IN 
+[ strain/NN ]
+at/IN 
+[ failure/NN point/NN ]
+becomes/VBZ 
+[ smaller/JJR ]
+in/IN 
+[ EMOCHI/NNP ]
+welded/JJ 
+[ tuff/NN ]
+with/IN 
+[ increasing/JJ temperature/NN ]
+,/, whereas/IN 
+[ the/DT contrary/JJ tendency/NN ]
+is/VBZ seen/VBN in/IN 
+[ other/JJ rocks/NNS ]
+./. 
+
+(/( 
+[ 15/CD refs/NNS ]
+,/, 
+[ 5/CD figs/NNS ]
+)/) 
+======================================
+
+[ Present/JJ status/NN ]
+of/IN 
+[ coal/NN ]
+deashing/NN and/CC 
+[ desulfurizing/NN technology/NN ]
+;/: 
+[ Coal/NNP Cleaning/NNP ]
+,/, aiming/VBG at/IN 
+[ improving/VBG coal/NN qualities/NNS ]
+,/, is/VBZ introduced/VBN ./. 
+
+Conventionally/RB ,/, established/JJ 
+[ coal/NN ]
+selecting/VBG 
+[ technologies/NNS ]
+are/VBP used/VBN as/IN 
+[ coal/NN cleaning/NN process/NN ]
+in/IN 
+[ broader/JJR sense/NN ]
+./. 
+
+However/RB ,/, 
+[ many/JJ disadvantages/NNS ]
+occur/VBP in/IN 
+[ coal/NN applications/NNS ]
+if/IN 
+[ only/JJ coal/NN processing/NN step/NN ]
+is/VBZ used/VBN ,/, in/IN 
+[ terms/NNS ]
+of/IN 
+[ lower/JJR ash/NN ]
+and/CC 
+[ sulfur/NN contents/NNS ]
+./. 
+
+In/IN 
+[ particular/JJ ]
+,/, 
+[ various/JJ new/JJ methods/NNS ]
+,/, such/DT as/IN 
+[ physical/JJ ]
+,/, 
+[ chemical/JJ ]
+or/CC 
+[ bacteria/NNS technologies/NNS ]
+,/, have/VBP been/VBN positively/RB studied/VBN to/TO remove/VB 
+[ organic/JJ sulfur/NN content/NN directory/NN ]
+bonded/VBN to/TO 
+[ the/DT grain/NN structure/NN ]
+of/IN 
+[ hydrocarbon/NN ]
+and/CC 
+[ ash/NN content/NN ]
+dispersed/VBN finely/RB in/IN 
+[ the/DT grain/NN ]
+./. 
+
+[ Methods/NNS ]
+under/IN 
+[ development/NN ]
+in/IN 
+[ Japan/NNP ]
+include/VBP 
+[ oil/NN addition/NN granulation/NN method/NN ]
+(/( 
+[ OA/NN method/NN ]
+)/) 
+[ flotation/NN ]
+,/, 
+[ etc/RB ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ many/JJ overseas/JJ reports/NNS ]
+for/IN 
+[ the/DT OA/NN process/NN ]
+published/VBN and/CC presented/VBN in/IN 
+[ international/JJ symposiums/NNS ]
+./. 
+
+(/( 
+[ 1/CD fig/NN ]
+,/, 
+[ 3/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT properties/NNS ]
+of/IN 
+[ hydrodenitrification/NN product/NN ]
+of/IN 
+[ coal/NN tar/NN pitch/NN ]
+were/VBD examined/VBN and/CC 
+[ the/DT denitrification/NN mechanism/NN ]
+of/IN 
+[ heavy/NN distillate/NN ]
+was/VBD investigated/VBN ./. 
+
+[ The/DT specific/JJ gravity/NN ]
+,/, 
+[ viscosity/NN ]
+,/, softening/NN 
+[ point/NN ]
+and/CC 
+[ carbon/NN residue/NN content/NN ]
+of/IN 
+[ the/DT product/NN oil/NN ]
+were/VBD remarkably/RB increased/VBN as/IN 
+[ the/DT denitrification/NN reaction/NN proceeds/VBZ ]
+./. 
+
+Lowering/NN of/IN 
+[ the/DT boiling/JJ point/NN ]
+by/IN 
+[ the/DT nuclear/JJ hydrogenation/NN ]
+of/IN 
+[ aromatic/JJ cycle/NN ]
+in/IN 
+[ the/DT product/NN ]
+and/CC 
+[ the/DT increase/NN ]
+of/IN 
+[ affinity/NN ]
+of/IN 
+[ the/DT product/NN ]
+to/TO 
+[ the/DT non-aromatic/JJ extraction/NN solvent/NN ]
+make/VBP 
+[ the/DT product/NN lighter/NN ]
+./. 
+
+[ The/DT contribution/NN ]
+of/IN hydrocracking/NN is/VBZ low/JJ ./. 
+
+[ The/DT light/JJ distillate/NN ]
+seems/VBZ to/TO be/VB denitrified/VBN in/IN 
+[ such/PDT a/DT way/NN ]
+that/IN 
+[ nitrogen/NN compounds/NNS ]
+are/VBP selectively/RB adsorbed/VBN on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ catalyst/NN ]
+and/CC 
+[ the/DT nitrogen/NN atoms/NNS ]
+are/VBP eliminated/VBN from/IN 
+[ the/DT saturated/JJ compounds/NNS ]
+after/IN 
+[ the/DT nuclear/JJ hydrogenation/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ most/RBS probable/JJ that/IN 
+[ the/DT C-N/NN bond/NN ]
+is/VBZ dissociated/VBN from/IN 
+[ the/DT product/NN ]
+in/IN 
+[ which/WDT ]
+
+[ two/CD ]
+to/TO 
+[ three/CD aromatic/JJ cycles/NNS ]
+undergo/VBP 
+[ the/DT partial/JJ nuclear/JJ hydrogenation/NN ]
+./. 
+
+(/( 
+[ 7/CD refs/NNS ]
+,/, 
+[ 5/CD figs/NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Carbonization/NN ]
+of/IN 
+[ 15/CD aromatics/NNS ]
+composed/VBN of/IN 
+[ 1/CD ]
+to/TO 
+[ 4/CD rings/NNS ]
+from/IN 
+[ benzene/NN ]
+to/TO 
+[ pyrene/NN ]
+,/, was/VBD made/VBN 
+[ using/VBG tetrachloromethane/NN ]
+as/IN 
+[ a/DT promoter/NN ]
+,/, and/CC 
+[ the/DT reactivity/NN ]
+and/CC 
+[ development/NN ]
+of/IN 
+[ optical/JJ anisotropy/NN ]
+were/VBD studied/VBN ./. 
+
+[ Further/JJR kinds/NNS ]
+of/IN 
+[ carbon/NN halides/NNS ]
+used/VBN as/IN 
+[ promoters/NNS ]
+were/VBD also/RB investigated/VBN ./. 
+
+[ The/DT reactivity/NN ]
+of/IN 
+[ aromatics/NNS ]
+in/IN 
+[ carbon/NN tetrachloride/NN ]
+increased/VBD as/IN 
+[ the/DT number/NN ]
+of/IN 
+[ polycyclic/JJ aromatic/JJ rings/NNS ]
+increased/VBN and/CC 
+[ the/DT number/NN ]
+of/IN 
+[ hydropolycyclic/JJ aromatic/JJ rings/NNS ]
+decreased/VBD ./. 
+
+[ Lin-type/JJ molecules/NNS ]
+were/VBD more/RBR reactive/JJ than/IN 
+[ peri-type/JJ ones/NNS ]
+./. 
+
+[ Optical/JJ anisotropy/NN ]
+tended/VBD to/TO be/VB better/RBR developed/JJ in/IN 
+[ those/DT ]
+from/IN 
+[ lin-type/JJ molecules/NNS ]
+than/IN from/IN 
+[ the/DT ang-type/JJ ]
+and/CC 
+[ peri-type/JJ ones/NNS ]
+./. 
+
+[ Optical/JJ anisotropy/NN ]
+tended/VBD to/TO be/VB developed/JJ with/IN 
+[ the/DT increase/NN ]
+of/IN 
+[ hydrocyclic/JJ rings/NNS ]
+and/CC appeared/VBD more/RBR remarkably/RB in/IN 
+[ lin-type/JJ molecules/NNS ]
+than/IN in/IN 
+[ peri-type/JJ ones/NNS ]
+./. 
+
+[ The/DT performance/NN ]
+of/IN 
+[ carbon/NN halides/NNS ]
+in/IN 
+[ carbonization/NN ]
+was/VBD remarkable/JJ in/IN 
+[ halides/NNS ]
+
+[ which/WDT ]
+had/VBD 
+[ higher/JJR chlorine/NN contents/NNS ]
+and/CC 
+[ lower/JJR C-C1/NN bond/NN dissociation/NN energy/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD observed/VBN that/IN in/IN 
+[ reactions/NNS ]
+with/IN 
+[ aromatics/NNS ]
+richer/JJR in/IN 
+[ aromaticity/NN ]
+
+[ the/DT growth/NN ]
+of/IN 
+[ optical/JJ anisotropy/NN ]
+was/VBD faciliated/VBN when/WRB 
+[ a/DT promoter/NN ]
+of/IN 
+[ low/JJ chlorine/NN content/NN ]
+was/VBD used/VBN ,/, whereas/IN in/IN 
+[ reactions/NNS ]
+with/IN 
+[ aromatics/NNS ]
+richer/JJR in/IN 
+[ hydroaromaticity/NN ]
+,/, 
+[ it/PRP ]
+was/VBD facilitated/VBN only/RB when/WRB 
+[ a/DT promoter/NN ]
+of/IN 
+[ high/JJ chlorine/NN content/NN ]
+was/VBD used/VBN ./. 
+
+(/( 
+[ 8/CD refs/NNS ]
+,/, 
+[ 16/CD figs/NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Two/CD deasphalted/JJ oils/NNS ]
+produced/VBN by/IN 
+[ supercritical/JJ solvent/NN extracion/NN ]
+of/IN 
+[ heavy/JJ ends/NNS ]
+
+[ which/WDT ]
+were/VBD 
+[ residues/NNS ]
+of/IN 
+[ CHERRY-P/NN process/NN ]
+were/VBD analyzed/VBN and/CC 
+[ the/DT hydrotreatment/NN ]
+with/IN 
+[ Ni-Mo-Al/NNP ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ 0/CD ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ catalyst/NN ]
+was/VBD studied/VBN ./. 
+
+[ The/DT deasphalted/JJ oils/NNS ]
+were/VBD efficiently/RB desulfurized/VBN and/CC denitrificated/VBN ,/, and/CC 
+[ polar/JJ compounds/NNS ]
+(/( 
+[ P-2/NNP ]
+)/) and/CC 
+[ asphaltene/NN ]
+were/VBD significantly/RB reduced/VBN ./. 
+
+[ The/DT hydrotreated/JJ oils/NNS ]
+were/VBD suitable/JJ for/IN 
+[ FCC/NNP feedstocks/NNS ]
+./. 
+
+[ P-2/NNP fractions/NNS ]
+were/VBD found/VBN to/TO contain/VB 
+[ pyrrole-and/JJ amide-type/JJ compounds/NNS ]
+and/CC 
+[ the/DT ratio/NN ]
+of/IN 
+[ pyrroles\/amides/NNS ]
+depended/VBD on/IN 
+[ extraction/NN conditions/NNS ]
+but/CC 
+[ it/PRP ]
+was/VBD unchanged/JJ after/IN hydrotreating/NN|VBG ./. 
+
+[ The/DT amide-type/JJ compounds/NNS ]
+could/MD be/VB further/RB classified/VBN into/IN 
+[ two/CD groups/NNS ]
+
+[ which/WDT ]
+had/VBD 
+[ different/JJ characteristics/NNS ]
+of/IN 
+[ hydrodenitrogenation/NN ]
+./. 
+
+[ Polyaromatics/NNS ]
+in/IN 
+[ feedstocks/NNS ]
+were/VBD found/VBN to/TO contain/VB 
+[ three/CD ring/NN aromatic/JJ compounds/NNS ]
+and/CC 
+[ dibenzothiophene/NN derivatives/NNS ]
+as/IN 
+[ the/DT major/JJ components/NNS ]
+but/CC 
+[ most/JJS ]
+of/IN 
+[ them/PRP ]
+were/VBD converted/VBN to/TO 
+[ mono-aromatics/NNS ]
+,/, 
+[ di-aromatics/NNS ]
+and/CC saturated/JJ 
+[ hydrocarbons/NNS ]
+./. 
+
+[ The/DT major/JJ components/NNS ]
+in/IN 
+[ the/DT hydrotreated/JJ oils/NNS ]
+were/VBD 
+[ three-ring/JJ aromatics/NNS ]
+
+[ which/WDT ]
+appeared/VBD to/TO be/VB less/RBR condensed/JJ than/IN 
+[ those/DT ]
+before/IN 
+[ the/DT reaction/NN ]
+./. 
+
+(/( 
+[ 13/CD refs/NNS ]
+,/, 
+[ 9/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Characteristics/NNS ]
+of/IN 
+[ Ni/NN ]
+impregnated/JJ 
+[ alumina/NN
+ catalysts/NNS ]
+were/VBD studied/VBN using/VBG 
+[ two/CD types/NNS ]
+of/IN 
+[ aluminas/NNS ]
+and/CC 
+[ methanol/NN ]
+,/, 
+[ ethanol/NN ]
+and/CC 
+[ 1-propanol/NN ]
+as/IN 
+[ solvents/NNS ]
+./. 
+
+[ The/DT degree/NN ]
+of/IN 
+[ Ni/NN ]
+(/( 
+[ 2/CD ]
+)/) 
+[ ion/NN absorption/NN ]
+on/IN 
+[ alumina/NN supports/NNS ]
+increased/VBD with/IN 
+[ carbon/NN number/NN ]
+of/IN 
+[ alcohol/NN ]
+used/VBN ./. 
+
+[ The/DT degree/NN ]
+of/IN 
+[ Ni/NN reduction/NN ]
+was/VBD expressed/VBN as/IN 
+[ the/DT function/NN ]
+of/IN 
+[ the/DT total/JJ Ni/NN content/NN ]
+and/CC 
+[ the/DT degree/NN ]
+of/IN 
+[ reduction/NN ]
+was/VBD independent/JJ of/IN 
+[ solvents/NNS ]
+and/CC 
+[ supports/NNS ]
+./. 
+
+[ The/DT variance/NN ]
+and/CC 
+[ average/NN ]
+of/IN 
+[ Ni/NN particle/NN size/NN ]
+increased/VBD with/IN 
+[ total/JJ Ni/NN content/NN ]
+./. 
+
+[ The/DT rate/NN ]
+of/IN 
+[ benzene/NN hydrogenation/NN ]
+was/VBD proportioned/VBN to/TO 
+[ the/DT Ni/NN surface/NN area/NN ]
+,/, and/CC 
+[ independent/JJ ]
+of/IN 
+[ solvents/NNS ]
+,/, 
+[ supports/NNS ]
+and/CC 
+[ Ni/NN particle/NN size/NN ]
+./. 
+
+(/( 
+[ 11/CD refs/NNS ]
+,/, 
+[ 10/CD figs/NNS ]
+,/, 
+[ 2tabs/NNS ]
+)/) 
+======================================
+
+[ A/DT 2-stage/JJ process/NN ]
+,/, for/IN separating/VBG and/CC refining/VBG 
+[ high-purity/JJ CO/NN ]
+from/IN 
+[ the/DT converter/NN gas/NN ]
+of/IN 
+[ high/JJ CO/NN concentration/NN ]
+(/( higher/JJR than/IN 
+[ 80/CD %/SYM ]
+)/) for/IN 
+[ raw/JJ material/NN ]
+of/IN 
+[ C/NN ]
+{/( sub/IN 
+[ 1/CD ]
+}/) ,/, is/VBZ tested/VBN by/IN 
+[ a/DT 20-60/CD Nm/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ \/h/NN pressure/NN pulsation/NN adsorption/NN separation/NN ]
+(/( 
+[ PSA/NN ]
+)/) 
+[ pilot/NN plant/NN ]
+./. 
+
+[ High-purity/JJ ]
+(/( 
+[ 99/CD %/SYM ]
+)/) 
+[ CO/NN ]
+can/MD now/RB be/VB separated/VBN and/CC refined/VBN at/IN 
+[ a/DT recovery/NN ratio/NN ]
+of/IN 
+[ 60-70/CD %/SYM ]
+simply/RB at/IN 
+[ low/JJ cost/NN ]
+by/IN using/VBG 
+[ the/DT purging/NN ]
+under/IN 
+[ vacuum/NN ]
+with/IN 
+[ an/DT adsorptive/JJ column/NN ]
+and/CC applying/VBG 
+[ optimum/JJ pressure/NN pulsation/NN pattern/NN ]
+for/IN removing/VBG 
+[ CO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) and/CC 
+[ N/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ which/WDT ]
+could/MD not/RB be/VB easily/RB removed/VBN by/IN 
+[ conventional/JJ processes/NNS ]
+because/IN of/IN 
+[ difficulty/NN ]
+of/IN 
+[ separation/NN ]
+and/CC 
+[ co-adsorptive/JJ property/NN  ]
+,/, respectively/RB ./. 
+
+Thus/RB ,/, 
+[ the/DT current/JJ separation/NN technology/NN ]
+can/MD be/VB modified/VBN to/TO expand/VB 
+[ the/DT scope/NN ]
+of/IN 
+[ applications/NNS ]
+for/IN 
+[ the/DT PSA/NN method/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ other/JJ contributions/NNS ]
+of/IN 
+[ the/DT system/NN ]
+include/VBP 
+[ the/DT production/NN ]
+of/IN 
+[ high-value/JJ added/JJ byproduct/NN gas/NN ]
+of/IN 
+[ steal/NN ]
+making/NN and/CC 
+[ diversification/NN ]
+of/IN 
+[ raw/JJ materials/NNS ]
+for/IN 
+[ synthetic/JJ chemicals/NNS ]
+./. 
+
+(/( 
+[ 8/CD refs/NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+In/IN 
+[ order/NN ]
+to/TO separate/VB and/CC purify/VB 
+[ CO/NN ]
+from/IN 
+[ the/DT converter/NN exhaust/NN gas/NN ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT pressure/NN swing/NN adsorption/NN method/NN using/VBG zeolite/NN ]
+,/, 
+[ an/DT experimental/JJ unit/NN ]
+of/IN 
+[ a/DT two-tower/JJ process/NN ]
+was/VBD used/VBN to/TO grasp/VB 
+[ the/DT fundamental/JJ characteristics/NNS ]
+./. 
+
+After/IN removing/VBG 
+[ such/DT ]
+strongly/RB adsorbing/VBG 
+[ components/NNS ]
+as/IN 
+[ CO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) and/CC 
+[ H/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+,/, 
+[ an/DT adsorption\/JJ coefficient/NN ]
+was/VBD calculated/VBN for/IN 
+[ a/DT CO-N/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ system/NN ]
+,/, 
+[ CaA/NN type/NN zeolite/NN ]
+was/VBD selected/VBN as/IN 
+[ an/DT adsorbent/NN ]
+,/, and/CC 
+[ the/DT test/NN ]
+on/IN 
+[ the/DT influence/NN ]
+of/IN 
+[ adsorbing/NN pressure/NN ]
+,/, 
+[ concentration/NN ]
+,/, and/CC 
+[ temperature/NN ]
+on/IN 
+[ the/DT adsorption/NN characteristics/NNS ]
+,/, shows/VBZ that/IN 
+[ the/DT high/JJ pressure\/low/NN temperature/NN ]
+is/VBZ 
+[ effective/NN ]
+;/: 
+[ concentration/NN ]
+was/VBD 
+[ an/DT independent/JJ factor/NN ]
+./. 
+
+[ Measurement/NN ]
+of/IN 
+[ the/DT cleaning/NN characteristics/NNS ]
+,/, 
+[ the/DT relation/NN ]
+between/IN 
+[ the/DT washed/JJ CO/NN gas/NN quantity/NN ]
+and/CC 
+[ the/DT product/NN purity/NN ]
+,/, indicated/VBD 
+[ the/DT raise/NN ]
+of/IN 
+[ the/DT purity/NN ]
+up/IN to/TO 
+[ 99.9/CD %/SYM ]
+as/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ the/DT gas/NN ]
+increased/VBD ./. 
+
+[ The/DT adsorption/NN method/NN ]
+adopted/VBN consists/VBZ of/IN 
+[ four/CD stages/NNS ]
+in/IN 
+[ a/DT cycle/NN ]
+,/, 
+[ i.e./FW ]
+,/, 
+[ adsorption/NN ]
+,/, washed/JJ 
+[ gas/NN ]
+./. 
+
+[ Recovery/NN rate/NN ]
+of/IN 
+[ CO/NN ]
+was/VBD 
+[ 75/CD ]
+-/: 
+[ 80/CD %/SYM ]
+./. 
+
+(/( 
+[ 9/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 5/CD refs/NNS ]
+)/) 
+======================================
+
+[ Catalysts/NNS ]
+useful/JJ for/IN 
+[ hydrodenitrogenation/NN ]
+(/( 
+[ HDN/NN ]
+)/) of/IN 
+[ coal/NN tar/NN pitch/NN ]
+were/VBD screened/VBN from/IN 
+[ 16/CD commercial/JJ Ni/NN ]
+,/, 
+[ Co\/NN ]
+,/, 
+[ W/NN bifunctional/JJ catalysts/NNS ]
+./. 
+
+[ The/DT HDN/NN activity/NN ]
+decreased/VBD in/IN 
+[ the/DT order/NN Ni-Mo/NN >/NN Ni-Co-Mo/NN =/NN Co-Mo/NN >/NN Ni-W/NN ]
+at/IN 
+[ test/NN conditions/NNS ]
+in/IN 
+[ the/DT activity/NN measuerement/NN apparatus/NN ]
+./. 
+
+[ Catalysts/NNS ]
+containing/VBG 
+[ Al/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ composite/JJ oxide/NN ]
+promoted/VBN by/IN 
+[ P/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+{/( sub/IN 
+[ 5/CD ]
+}/) ,/, 
+[ SiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) or/CC 
+[ B/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) possess/VBP 
+[ high/JJ HDN/NN activities/NNS ]
+./. 
+
+[ Every/DT catalyst/NN ]
+had/VBD 
+[ high/JJ hydrogenation/NN activity/NN ]
+but/CC at/IN 
+[ the/DT same/JJ removal/NN basis/NN ]
+,/, 
+[ Ni-Mo/NN catalysts/NNS ]
+need/VBP relatively/RB 
+[ low/JJ hydrogen/NN uptake/NN ]
+in/IN 
+[ HDN/NN ]
+and/CC 
+[ hydrodesulfurization/NN ]
+(/( 
+[ HDS/NN ]
+)/) compared/VBN with/IN 
+[ Co-Mo/NN catalysts/NNS ]
+./. 
+
+[ HDS/NN rate/NN ]
+was/VBD higher/JJR than/IN 
+[ HDN/NN rate/NN ]
+in/IN 
+[ all/DT catalysts/NNS ]
+./. 
+
+[ Three/CD Ni-Mo/NN catalysts/NNS ]
+were/VBD selected/VBN as/IN most/RBS suitable/JJ for/IN 
+[ HDN/NN ]
+of/IN 
+[ coal/NN tar/NN pitch/NN ]
+because/IN 
+[ they/PRP ]
+had/VBD 
+[ higher/JJR HDN/NN ]
+and/CC 
+[ HDS/NN activities/NNS ]
+and/CC 
+[ lower/JJR increase/NN ]
+of/IN 
+[ H\/C/NN ]
+(/( 
+[ dH\/C/NN )./NN ]
+(/( 
+[ 16/CD refs/NNS ]
+,/, 
+[ 8/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Coal/NN tar/NN pitch/NN ]
+was/VBD characterized/VBN for/IN 
+[ nitrogen/NN type/NN ]
+and/CC 
+[ average/JJ molecular/JJ structure/NN ]
+to/TO hydrodenitrogenate/VB 
+[ coal/NN tar/NN pitch/NN ]
+./. 
+
+[ Coal/NN tar/NN pitch/NN ]
+contained/VBD 
+[ many/JJ molecules/NNS ]
+
+[ which/WDT ]
+had/VBD hardly/RB 
+[ naphthenic/JJ ring/NN ]
+or/CC 
+[ alkyl/NN group/NN ]
+and/CC were/VBD comprised/VBN of/IN 
+[ condensed/JJ aromatics/NNS ]
+./. 
+
+[ Number/NN ]
+of/IN 
+[ naphthenic/JJ ring/NN ]
+was/VBD 
+[ one/CD ]
+at/IN 
+[ the/DT most/JJS ]
+and/CC 
+[ alkyl/NN substituents/NNS ]
+were/VBD almost/RB exclusively/RB 
+[ methyl/NN ]
+./. 
+
+[ The/DT average/JJ molecular/JJ parameters/NNS ]
+were/VBD 
+[ 3/CD ]
+to/TO 
+[ 4/CD ]
+for/IN 
+[ n-hexane-soluble/JJ fraction/NN ]
+,/, 
+[ 6/CD ]
+for/IN 
+[ n-hexane-insoluble/JJ ]
+,/, 
+[ toluene-soluble/JJ fraction/NN ]
+and/CC 
+[ 18/CD ]
+for/IN 
+[ toluene-insoluble/JJ ]
+(/( 
+[ TI/JJ ]
+)/) 
+[ fraction/NN ]
+./. 
+
+[ The/DT nitrogen/NN content/NN ]
+was/VBD higher/JJR in/IN 
+[ the/DT TI/JJ heavier/JJR fraction/NN ]
+./. 
+
+[ Nitrogen/NN ]
+was/VBD contained/VBN in/IN 
+[ basic/JJ components/NNS ]
+(/( 
+[ BC/NNS ]
+)/) by/IN 
+[ 70/CD %/SYM ]
+,/, in/IN 
+[ pyrrole/NN type/NN components/NNS ]
+(/( 
+[ PC/NNS ]
+)/) by/IN 
+[ 20/CD %/SYM ]
+,/, and/CC in/IN 
+[ neutral/JJ type/NN components/NNS ]
+(/( 
+[ NC/NNS ]
+)/) by/IN 
+[ 10/CD %/SYM ]
+and/CC 
+[ basisty/NN ]
+was/VBD higher/JJR in/IN 
+[ the/DT heavier/JJR fraction/NN ]
+./. 
+
+[ Major/JJ nitrogen/NN compounds/NNS ]
+were/VBD 
+[ pyridine/NN types/NNS ]
+in/IN 
+[ BC/NNS ]
+,/, 
+[ PC/NNS ]
+in/IN 
+[ acidic/JJ components/NNS ]
+and/CC 
+[ hydroxypyridine/NN types/NNS ]
+in/IN 
+[ NC/NNS ]
+./. 
+
+[ Basic/JJ nitrogen/NN compounds/NNS ]
+had/VBD 
+[ similar/JJ molecular/JJ structure/NN ]
+with/IN 
+[ that/DT ]
+of/IN 
+[ hydrocarbons/NNS ]
+,/, in/IN 
+[ which/WDT ]
+
+[ one/CD ]
+or/CC 
+[ two/CD carbon/NN atoms/NNS ]
+were/VBD replaced/VBN by/IN 
+[ nitrogen/NN ]
+./. 
+
+(/( 
+[ 12/CD refs/NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+,/, 
+[ 11/CD tabs/NNS ]
+)/) 
+======================================
+
+Since/IN 
+[ fuel/NN oil/NN ]
+meeting/VBG 
+[ the/DT requirements/NNS ]
+of/IN 
+[ current/JJ petroleum/NN products/NNS ]
+can/MD be/VB produced/VBN by/IN 
+[ SASOL/NNP F-T/NNP synthetic/JJ process/NN ]
+,/, 
+[ the/DT manufacturing/NN process/NN ]
+of/IN 
+[ hydrocarbon/NN fuel/NN oil/NN ]
+from/IN 
+[ the/DT coal-derived/JJ synthesis/NN gas/NN ]
+,/, 
+[ downstream/JJ processes/NNS ]
+are/VBP being/VBG successively/RB investigated/VBN ./. 
+
+[ Mobile/NNP M-gasoline/NNP ]
+,/, 
+[ MTG/NNP ]
+,/, 
+[ process/NN ]
+
+[ which/WDT ]
+produces/VBZ 
+[ gasoline/NN ]
+from/IN 
+[ the/DT natural/JJ gas-derived/JJ synthesis/NN gas/NN ]
+through/IN 
+[ methanol/NN ]
+went/VBD into/IN 
+[ commercial/JJ operation/NN ]
+in/IN 
+[ New/NNP Zealand/NNP ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+Although/IN 
+[ the/DT gasoline/NN ]
+suffices/VBZ 
+[ the/DT quality/NN ]
+of/IN 
+[ commercial/JJ gasoline/NN ]
+by/IN 
+[ both/DT ]
+fixed/JJ 
+[ bed/NN ]
+and/CC fluidized/JJ 
+[ bed/NN systems/NNS ]
+,/, 
+[ the/DT price/NN ]
+and/CC 
+[ service/NN life/NN ]
+of/IN 
+[ catalyst/NN ]
+and/CC 
+[ control/NN ]
+of/IN 
+[ by-product/NN durene/NN ]
+must/MD be/VB improved/VBN ./. 
+
+[ Any/DT STG/NN processes/NNS ]
+have/VBP not/RB been/VBN completed/VBN yet/RB and/CC 
+[ the/DT yield/NN ]
+and/CC 
+[ quality/NN ]
+of/IN 
+[ gasoline/NN ]
+are/VBP inferior/JJ to/TO 
+[ those/DT ]
+of/IN 
+[ gasoline/NN ]
+produced/VBN by/IN 
+[ the/DT MTG/NN process/NN ]
+./. 
+
+Applying/VBG 
+[ two-stage/JJ process/NN ]
+,/, 
+[ the/DT STG/NN process/NN ]
+will/MD be/VB more/RBR economically/RB 
+[ effective/JJ ]
+./. 
+
+(/( 
+[ 21/CD refs/NNS ]
+,/, 
+[ 4/CD figs/NNS ]
+,/, 
+[ 10/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT hydrogenative/JJ gasification/NN ]
+of/IN 
+[ coal/NN ]
+in/IN 
+[ the/DT low-temperature/JJ region/NN ]
+of/IN 
+[ 600/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NN ]
+or/CC under/RB ,/, especially/RB 
+[ the/DT catalyst/NN ]
+for/IN 
+[ in-situ/JJ hydrogenerative/JJ methanation/NN ]
+of/IN 
+[ the/DT volatile/JJ matters/NNS ]
+produced/VBN by/IN 
+[ the/DT low-temperature/JJ dry/JJ distillation/NN ]
+,/, was/VBD investigated/VBN 
+[ using/VBG Shinyubari/NNP coal/NN ]
+./. 
+
+[ Ni-montmorillonite/NN ]
+intercalated/JJ 
+[ compound/NN ]
+has/VBZ 
+[ high/JJ catalytic/JJ activity/NN ]
+,/, showing/VBG 
+[ a/DT conversion/NN ]
+of/IN 
+[ 90/CD %/SYM ]
+or/CC 
+[ more/JJR ]
+./. 
+
+[ The/DT activity/NN ]
+of/IN 
+[ Ni-supported/JJ catalyst/NN ]
+largely/RB varies/VBZ according/VBG to/TO 
+[ the/DT material/NN ]
+of/IN 
+[ carrier/NN ]
+in/IN 
+[ the/DT order/NN ]
+of/IN 
+[ montmorillonite/NN >/NN zeolite/NN >/NN titania/NN >/NN alpha-alumina/NN >/NN magnesia/NN >/NN silica/NN ]
+{/( 
+[ approx/RB ]
+_/: equal/JJ }/) 
+[ amma-alumina/NN ]
+./. 
+
+Since/IN 
+[ montmorillonite/NN releases/VBZ ] 
+intercalated/JJ 
+[ water/NN ]
+,/, most/JJS of/IN  
+[ the/DT intercalated/JJ spaces/NNS ]
+are/VBP crushed/VBN in/IN 
+[ the/DT working/JJ temperature/NN range/NN ]
+of/IN 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC 
+[ higher/JJR ]
+of/IN 
+[ Ni-montmorillonite/NN catalyst/NN ]
+./. 
+
+[ Ni/NN ]
+in/IN 
+[ the/DT montmorillonite/NN ]
+intercalated/JJ 
+[ compound/NN ]
+is/VBZ dispersedly/RB supported/VBN in/IN 
+[ form/NN ]
+of/IN 
+[ metal/NN ]
+on/IN 
+[ the/DT surface/NN ]
+and/CC in/IN 
+[ the/DT surface/NN ]
+and/CC in/IN 
+[ the/DT intercalation/NN ]
+of/IN 
+[ montmorillonite/NN ]
+./. 
+
+(/( 
+[ 6/CD refs/NNS ]
+,/, 
+[ 6/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Eighteen/CD ranks/NNS ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ twelve/CD ranks/NNS ]
+of/IN 
+[ deashed/JJ coal/NN ]
+were/VBD gasified/VBN with/IN 
+[ steam/NN ]
+at/IN 
+[ 1185/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+by/IN 
+[ a/DT high-heating/JJ rate/NN thermobalance/NN reactor/NN ]
+to/TO examine/VB 
+[ the/DT gasification/NN ]
+of/IN 
+[ coal/NN ]
+in/IN 
+[ the/DT high/JJ temperature/NN ]
+of/IN 
+[ 1000/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+or/CC 
+[ higher/JJR ]
+./. 
+
+[ The/DT minerals/NNS ]
+have/VBP 
+[ catalytic/JJ action/NN ]
+on/IN 
+[ the/DT gasification/NN ]
+of/IN 
+[ low/JJ grade/NN coal/NN ]
+even/RB at/IN 
+[ the/DT temperature/NN ]
+as/RB high/JJ as/IN 
+[ 1185/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, while/IN 
+[ the/DT minerals/NNS ]
+contained/VBN in/IN 
+[ high/JJ grade/NN coal/NN ]
+(/( 
+[ C-content/NN ]
+:/: higher/JJR than/IN 
+[ 75/CD %/SYM ]
+)/) do/VBP not/RB affect/VB 
+[ it/PRP ]
+./. 
+
+In/IN 
+[ the/DT chemical/JJ reaction/NN rate-determining/JJ gasification/NN process/NN ]
+of/IN 
+[ coal/NN ]
+and/CC deashed/JJ 
+[ coal/NN ]
+with/IN 
+[ negligible/JJ catalytic/JJ action/NN ]
+,/, 
+[ the/DT gasification/NN rate/NN ]
+is/VBZ lowered/VBN with/IN decreasing/NN of/IN 
+[ the/DT ]
+pare/JJ  
+[ surface/NN area/NN ]
+of/IN 
+[ char/NN ]
+and/CC with/IN increasing/NN of/IN 
+[ crystalline/JJ size/NN ]
+of/IN 
+[ carbon/NN ]
+./. 
+
+Even/RB in/IN 
+[ the/DT gasification/NN ]
+at/IN 
+[ high/JJ temperature/NN ]
+,/, 
+[ the/DT gasification/NN rate/NN ]
+is/VBZ raised/VBN with/IN increasing/NN of/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ oxygen/NN ]
+trapped/VBN in/IN 
+[ the/DT char/NN ]
+(/( by/IN 
+[ flash/NN desorption/NN method/NN ]
+)/) ./. 
+
+(/( 
+[ 25/CD refs/NNS ]
+,/, 
+[ 10/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+As/IN 
+[ a/DT part/NN ]
+of/IN 
+[ gasification/NN study/NN ]
+on/IN 
+[ heavy/JJ fractions/NNS ]
+of/IN 
+[ coal/NN ]
+,/, 
+[ hydropyrolysis/NN ]
+of/IN 
+[ five/CD heavy/JJ oils/NNS ]
+having/VBG 
+[ different/JJ characteristics/NNS ]
+was/VBD performed/VBN ./. 
+
+[ The/DT experiments/NNS ]
+were/VBD carried/VBN out/RP ,/, using/VBG 
+[ a/DT tublar/JJ flow/NN reactor/NN ]
+,/, at/IN 
+[ temperatures/NNS ]
+of/IN 
+[ 500/CD ]
+to/TO 
+[ 1,000/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ pressures/NNS ]
+from/IN 
+[ 10/CD ]
+to/TO 
+[ 60/CD kg\/cm/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) 
+[ G/NN ]
+,/, 
+[ residence/NN times/NNS ]
+of/IN 
+[ 15/CD ]
+to/TO 
+[ 60/CD sec./NNS ]
+,/, and/CC 
+[ H/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ \/oil/NN ]
+ratios/NNS from/IN 
+[ 0.2/CD ]
+to/TO 
+[ 3.0/CD g\/g/NN ]
+./. 
+
+[ The/DT reaction/NN temperature/NN ]
+had/VBD 
+[ the/DT most/RBS eminent/JJ effect/NN ]
+while/IN 
+[ the/DT reaction/NN pressure/NN ]
+,/, 
+[ resident/JJ time/NN ]
+and/CC 
+[ H/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ \/oil/NN ratio/NN ]
+had/VBD 
+[ little/JJ effect/NN ]
+./. 
+
+[ A/DT simulation/NN model/NN ]
+of/IN 
+[ hydropyrolysis/NN ]
+was/VBD developed/VBN ./. 
+
+[ It/PRP ]
+was/VBD clarified/VBN that/IN 
+[ reactivities/NNS ]
+of/IN 
+[ heavy/JJ oils/NNS ]
+could/MD be/VB predicted/VBN ,/, utilizing/VBG 
+[ this/DT simulation/NN model/NN ]
+,/, from/IN 
+[ the/DT ratio/NN ]
+of/IN 
+[ saturated/JJ hydrocarbon/NN ]
+to/TO 
+[ aromatic/JJ hydrocarbon/NN ]
+in/IN 
+[ the/DT oil/NN ]
+./. 
+
+(/( 
+[ 21/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 8/CD refs/NNS ]
+)/) 
+======================================
+
+[ This/DT paper/NN ]
+presents/VBZ 
+[ the/DT development/NN ]
+of/IN 
+[ the/DT tecnology/NN ]
+of/IN 
+[ coal/NN gasification/NN ]
+combined/JJ 
+[ cycle/NN power/NN generation/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT important/JJ subjects/NNS ]
+of/IN 
+[ wide/JJ application/NN ]
+of/IN 
+[ coal/NN ]
+as/IN 
+[ the/DT source/NN ]
+of/IN 
+[ cost-effective/JJ energy/NN ]
+
+[ which/WDT ]
+is/VBZ supplied/VBN stably/RB ./. 
+
+[ The/DT construction/NN ]
+of/IN 
+[ plant/NN ]
+,/, 
+[ process/NN ]
+and/CC 
+[ situation/NN ]
+of/IN 
+[ development/NN ]
+on/IN 
+[ the/DT inside/NN ]
+and/CC 
+[ outside/NN ]
+of/IN 
+[ Japan/NNP ]
+are/VBP described/VBN ./. 
+
+In/IN 
+[ Central/NNP Research/NNP Inst./NNP ]
+of/IN 
+[ Electric/NNP Power/NNP Industry/NNP eight/CD plans/NNS ]
+formulated/VBN from/IN 
+[ the/DT construction/NN ]
+of/IN 
+[ furnace/NN ]
+and/CC 
+[ gasifying/NN materials/NNS ]
+for/IN 
+[ it/PRP ]
+,/, 
+[ coal/NN feeding/NN system/NN ]
+and/CC 
+[ gas/NN clean-up/NN system/NN ]
+are/VBP being/VBG evaluated/VBN by/IN 
+[ the/DT multi-purpose/JJ evaluation/NN method/NN ]
+to/TO select/VB 
+[ the/DT optimum/JJ plan/NN ]
+./. 
+
+[ A/DT two/CD chamber/NN ]
+,/, 
+[ two/CD stage/NN ]
+pressurized/JJ entrained/JJ 
+[ bed/NN gasifier/NN ]
+and/CC 
+[ dry/JJ clean-up/NN technology/NN ]
+are/VBP being/VBG developed/VBN ./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT researches/NNS ]
+such/DT as/IN 
+[ a/DT metallic/JJ combustion/NN furnace/NN ]
+resistant/JJ to/TO 
+[ 1300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ ceramic/JJ gas/NN turbine/NN ]
+and/CC 
+[ technologies/NNS ]
+of/IN 
+[ components/NNS ]
+of/IN 
+[ gas/NN turbine/NN ]
+including/VBG 
+[ the/DT evaluation/NN ]
+of/IN 
+[ serviceability/NN ]
+of/IN 
+[ superalloy/NN blade/NN ]
+made/VBN of/IN 
+[ single-crystalline/JJ material/NN ]
+are/VBP being/VBG actively/RB conducted/VBN ./. 
+
+(/( 
+[ 4/CD refs/NNS ]
+,/, 
+[ 16/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 4/CD photos/NNS ]
+)/) 
+======================================
+
+[ Raw/JJ coal/NN ]
+,/, deashed/JJ 
+[ coal/NN ]
+and/CC 
+[ ash/NN ]
+were/VBD mixed/VBN with/IN 
+[ phenolic/JJ resin/NN ]
+and/CC 
+[ petroleum/NN pitch/NN ]
+./. 
+
+[ Each/DT mixture/NN ]
+was/VBD thermally/RB treated/VBN at/IN 
+[ 1200/CD ]
+,/, 
+[ 2000/CD ]
+and/CC 
+[ 2800/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+./. 
+
+[ The/DT effects/NNS ]
+of/IN 
+[ graphitizability/NN ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ ash/NN content/NN ]
+on/IN 
+[ the/DT structural/JJ change/NN ]
+were/VBD examined/VBN by/IN 
+[ transmission/NN electron/NN microscopy/NN ]
+./. 
+
+[ The/DT microstructure/NN ]
+of/IN 
+[ Taiheiyo/NNP coal/NN ]
+in/IN composed/VBN of/IN 
+[ micropore/NN phase/NN ]
+
+[ that/WDT ]
+pores/NNS of/IN 
+[ 5/CD ]
+to/TO 
+[ 6/CD nm/NN ]
+thick/JJ ./. 
+
+[ The/DT microstructure/NN ]
+of/IN 
+[ micropore/NN ]
+,/, 
+[ lamella/NN ]
+and/CC 
+[ mesopore/NN phases/NNS ]
+formed/VBN from/IN 
+[ the/DT micropore/NN phase/NN ]
+by/IN 
+[ the/DT catalytic/JJ action/NN ]
+of/IN 
+[ the/DT ash/NN ]
+./. 
+
+[ The/DT microstructure/NN ]
+of/IN 
+[ Yubari/NNP ]
+and/CC 
+[ Cerro/NNP coals/NNS ]
+are/VBP 
+[ lamella/NN phase/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT carbon/NN lamination/NN layers/NNS ]
+are/VBP selectively/RB oriented/VBN ./. 
+
+[ The/DT graphitizability/NN ]
+of/IN 
+[ Cerro/NNP coal/NN ]
+is/VBZ higher/JJR than/IN that/DT of/IN 
+[ Yubari/NNP coal/NN ]
+./. 
+
+Since/IN 
+[ small/JJ quantities/NNS ]
+of/IN 
+[ macropore/NN ]
+and/CC 
+[ mesopore/NN phases/NNS ]
+are/VBP formed/VBN ,/, 
+[ the/DT ash/NN ]
+retards/VBZ 
+[ the/DT graphitization/NN ]
+of/IN 
+[ both/DT ]
+
+[ coals/NNS ]
+./. 
+
+[ Mesopore/NN phase/NN ]
+is/VBZ formed/VBN at/IN 
+[ a/DT temperature/NN ]
+of/IN 
+[ 1200/CD ]
+to/TO 
+[ 2000/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP owing/JJ ]
+to/TO 
+[ the/DT pressence/NN ]
+of/IN 
+[ the/DT ash/NN ]
+./. 
+
+(/( 
+[ 15/CD refs/NNS ]
+,/, 
+[ 10/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT Electric/NNP Power/NNP Research/NNP Institute/NNP ]
+(/( 
+[ EPRI/NNP ]
+)/) and/CC 
+[ the/DT 3/CD plants/NNS ]
+are/VBP visited/VBN to/TO study/VB 
+[ the/DT present/JJ status/NN ]
+of/IN 
+[ coal/NN gasification/NN ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ 7/CD coal/NN gasification/NN plants/NNS ]
+in/IN 
+[ the/DT U.S./NNP EPRI/NNP ]
+says/VBZ to/TO place/VB 
+[ emphasis/NN ]
+on/IN 
+[ 4/CD jet/NN ]
+fluidized/JJ 
+[ bed/NN furnaces/NNS ]
+including/VBG 
+[ Texaco/NNP furnace/NN ]
+./. 
+
+[ The/DT Cool/NNP Water/NNP Plant/NNP ]
+will/MD be/VB proof-tested/VBN up/IN to/TO 
+[ 1989/CD ]
+,/, meanwhile/RB performing/VBG 
+[ gasification/NN ]
+of/IN 
+[ Australian/JJ coal/NN ]
+according/VBG to/TO 
+[ the/DT demand/NN ]
+from/IN 
+[ Japan/NNP ]
+./. 
+
+[ The/DT TVA/NNP Project/NNP ]
+is/VBZ 
+[ a/DT Texaco/NNP quench/NN type/NN pilot/NN plant/NN ]
+of/IN 
+[ 200/CD ton\/day/NN ]
+
+[ which/WDT ]
+was/VBD operated/VBN up/IN to/TO 
+[ 1985/CD ]
+while/IN playing/VBG 
+[ a/DT pioneering/JJ role/NN ]
+for/IN 
+[ coal/NN gasification/NN ]
+./. 
+
+[ The/DT Great/NNP Plains/NNP Project/NNP processes/VBZ coal/NN ]
+at/IN 
+[ a/DT rate/NN ]
+of/IN 
+[ 14,000/CD ton\/day/NN ]
+using/VBG 
+[ a/DT fixed/JJ bed/NN Lurgi/NNP furnace/NN ]
+while/IN proucing/VBG 
+[ SNG/NNP ]
+at/IN 
+[ 3.5/CD million/CD m/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ \/day/NN ]
+./. 
+
+(/( 
+[ 1/CD fig/NN ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 3/CD photos/NNS ]
+)/) 
+======================================
+
+[ The/DT effective/JJ thermal/JJ conductivity/NN ]
+of/IN 
+[ a/DT packed/JJ bed/NN ]
+of/IN 
+[ coal/NN ]
+was/VBD measured/VBN by/IN 
+[ the/DT hot/JJ wire/NN method/NN ]
+modified/VBN so/RB as/IN to/TO be/VB applicable/JJ to/TO 
+[ a/DT continuous/JJ heating/NN process/NN ]
+./. 
+
+[ Measurements/NNS ]
+were/VBD carried/VBN out/RP for/IN 
+[ binary/JJ ]
+or/CC 
+[ ternary/JJ mixtures/NNS ]
+of/IN 
+[ 11/CD kinds/NNS ]
+of/IN 
+[ coals/NNS ]
+as/RB well/RB as/IN 
+[ each/DT coal/NN ]
+at/IN 
+[ the/DT heating/NN rate/NN ]
+of/IN 
+[ 0.05K\/NN ]
+and/CC 
+[ an/DT apparent/JJ density/NN ]
+of/IN 
+[ 85kg/NNS \//NN m/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) from/IN 
+[ 300K./NN ]
+to/TO 
+[ 1200K/NN ]
+./. 
+
+[ The/DT effective/JJ thermal/JJ conductivities/NNS ]
+for/IN 
+[ packed/JJ beds/NNS ]
+of/IN 
+[ coals/NNS ]
+except/IN 
+[ Coal/NNP Cliff/NNP ]
+,/, 
+[ Blair/NNP Athol/NNP ]
+and/CC 
+[ Akabira/NNP coals/NNS ]
+could/MD be/VB correlated/VBN by/IN 
+[ vitrinite/NN reflection/NN ]
+./. 
+
+[ The/DT thermal/JJ properties/NNS ]
+of/IN 
+[ coal\/coke/NN ]
+obtained/VBN from/IN 
+[ temperature/NN responses/NNS ]
+in/IN 
+[ a/DT practical/JJ coke/NN oven/NN ]
+were/VBD studied/VBN with/IN 
+[ the/DT thermal/JJ transfer/NN model/NN ]
+,/, considering/VBG 
+[ fissures/NNS ]
+grown/VBN during/IN coking/VBG ./. 
+
+[ The/DT estimated/JJ thermal/JJ properties/NNS ]
+varied/VBD with/IN 
+[ geometical/JJ configurations/NNS ]
+of/IN 
+[ ovens/NNS ]
+./. 
+
+(/( 
+[ 20/CD refs/NNS ]
+,/, 
+[ 17/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Basic/JJ experiment/NN ]
+for/IN 
+[ a/DT gasifier/NN ]
+using/VBG 
+[ entrained/JJ bed/NN ]
+,/, at/IN 
+[ a/DT coal/NN supply/NN rate/NN ]
+of/IN 
+[ 1/CD ton\/d/NN ]
+,/, is/VBZ carried/VBN out/RP ./. 
+
+[ It/PRP ]
+is/VBZ revealed/VBN that/IN ,/, from/IN 
+[ the/DT result/NN ]
+of/IN 
+[ the/DT gasification/NN test/NN ]
+,/, 
+[ the/DT 1-stage/JJ gasification/NN method/NN ]
+can/MD not/RB obtain/VB simultaneously/RB stabilized/VBN 
+[ flow/NN ]
+down/RP of/IN 
+[ slag/NN ]
+and/CC 
+[ high/JJ gasification/NN rate/NN ]
+./. 
+
+[ The/DT 2-stage/JJ gasification/NN method/NN ]
+can/MD improve/VB 
+[ gasification/NN efficiency/NN ]
+while/IN ensuring/VBG 
+[ stabilized/JJ flow/NN ]
+down/RP of/IN 
+[ slag/NN ]
+by/IN selecting/VBG 
+[ a/DT suitable/JJ distribution/NN ratio/NN ]
+of/IN 
+[ oxigen/NN ]
+and/CC 
+[ coal/NN ]
+,/, despite/IN 
+[ an/DT oxigen/NN ratio/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ a/DT suitable/JJ basic/NN form/NN ]
+of/IN 
+[ the/DT gasifier/NN ]
+is/VBZ selected/VBN by/IN quantitatively/RB analyzing/VBG 
+[ the/DT fluidic/JJ characteristics/NNS ]
+of/IN 
+[ gas/NN ]
+and/CC 
+[ particles/NNS ]
+using/VBG 
+[ a/DT normal/JJ temperature/NN visible/JJ flow/NN model/NN ]
+./. 
+
+[ Various/JJ other/JJ study/NN items/NNS ]
+reported/VBN herein/RB ,/, include/VBP 
+[ the/DT pulvelized/JJ coal/NN supply/NN system/NN ]
+,/, 
+[ slag/NN tap/NN ]
+,/, 
+[ coal/NN burner/NN ]
+,/, 
+[ refructries/NNS ]
+and/CC 
+[ collusion/NN resistant/JJ material/NN ]
+./. 
+
+[ A/DT pilot/NN plant/NN ]
+of/IN 
+[ 20-50/CD ton\/d/NN ]
+can/MD be/VB basically/RB designed/VBN referring/VBG to/TO 
+[ the/DT results/NNS ]
+of/IN 
+[ these/DT basic/JJ studies/NNS ]
+and/CC 
+[ elementary/JJ developments/NNS ]
+./. 
+
+(/( 
+[ 13/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+,/, 
+[ 4/CD refs/NNS ]
+)/) 
+======================================
+
+[ A/DT conception/NN ]
+of/IN 
+[ development/NN ]
+on/IN 
+[ the/DT entrained/JJ bed/NN coal/NN gasification/NN ]
+combined/JJ 
+[ cycle/NN power/NN generation/NN ]
+are/VBP reviewed/VBN ./. 
+
+[ A/DT pilot/NN plant/NN ]
+of/IN 
+[ 200/CD ton\/d/NN ]
+,/, to/TO be/VB launched/VBN from/IN 
+[ 1986/CD ]
+,/, is/VBZ required/VBN to/TO have/VB 
+[ higher/JJR efficiency/NN ]
+and/CC 
+[ lower/JJR cost/NN ]
+than/IN 
+[ the/DT overseas/JJ plans/NNS ]
+such/DT as/IN 
+[ Cool/NNP Water/NNP Plan/NNP ]
+./. 
+
+[ The/DT dry-feed/JJ air/NN oxidation/NN ] 
+pressurizing/JJ 
+[ 1-stage/JJ furnace/NN ]
+is/VBZ used/VBN as/IN 
+[ a/DT kernel/NN ]
+in/IN 
+[ view/NN ]
+of/IN 
+[ better/JJR applicability/NN ]
+to/TO 
+[ multiple/JJ types/NNS ]
+of/IN 
+[ coal/NN ]
+,/, while/IN additionally/RB developing/VBG 
+[ dry/JJ gas/NN purification/NN system/NN ]
+and/CC 
+[ a/DT 1300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NN class/NN gas/NN turbine/NN ]
+./. 
+
+[ The/DT gasifier/NN technology/NN ]
+is/VBZ based/VBN on/IN 
+[ the/DT results/NNS ]
+of/IN 
+[ technical/JJ development/NN ]
+with/IN 
+[ the/DT bench/NN scale/NN furnace/NN ]
+./. 
+
+[ The/DT dry/JJ gas/NN purification/NN ]
+and/CC 
+[ gas/NN turbine/NN technologies/NNS ]
+make/VBP 
+[ use/NN ]
+of/IN 
+[ the/DT results/NNS sunshine/NN project/NN ]
+and/CC 
+[ private/JJ sectors/NNS ]
+./. 
+
+(/( 
+[ 12/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Development/NN ]
+for/IN 
+[ the/DT process/NN development/NN unit/NN ]
+(/( 
+[ PDU/NN ]
+)/) of/IN 
+[ a/DT coal/NN processing/NN rate/NN ]
+of/IN 
+[ 5/CD ton\/d/NN ]
+and/CC 
+[ the/DT pilot/NN plant/NN ]
+(/( 
+[ PP/NN ]
+)/) of/IN 
+[ 40/CD ton\/d/NN ]
+is/VBZ described/VBN ./. 
+
+[ Gasifieres/NNS ]
+for/IN 
+[ PDU/NN ]
+and/CC 
+[ PP/NN ]
+are/VBP 
+[ the/DT air/NN ]
+pressurerized/VBN 
+[ 2-stage/JJ fluidized/JJ bed/NN types/NNS ]
+./. 
+
+[ Inner/JJ diameter/NN ]
+of/IN 
+[ the/DT furnace/NN ]
+and/CC 
+[ the/DT ]
+hight/NN of/IN 
+[ fluidized/JJ bed/NN ]
+are/VBP modified/VBN and/CC tested/VBN by/IN 
+[ changing/JJ gasification/NN conditions/NNS ]
+of/IN 
+[ PDU/NN ]
+and/CC 
+[ PP/NN ]
+./. 
+
+[ Various/JJ measures/NNS ]
+are/VBP concreted/VBN through/IN 
+[ such/DT processes/NNS ]
+,/, including/VBG 
+[ operating/NN method/NN ]
+,/, 
+[ high-efficiency/JJ gasification/NN conditions/NNS ]
+and/CC 
+[ improvement/NN ]
+of/IN 
+[ furnace/NN operability/NN ]
+,/, resulting/VBG in/IN 
+[ a/DT cold/JJ gas/NN efficiency/NN ]
+of/IN 
+[ 75/CD %/SYM ]
+or/CC 
+[ above/RB ]
+and/CC 
+[ a/DT carbon/NN conversion/NN ratio/NN ]
+of/IN 
+[ 95/CD %/SYM ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ an/DT integrated/JJ operation/NN ]
+of/IN 
+[ the/DT system/NN ]
+has/VBZ been/VBN performed/VBN toward/IN 
+[ a/DT goal/NN ]
+in/IN 
+[ 1987/CD ]
+,/, including/VBG 
+[ dry/JJ gas/NN purification/NN test/NN ]
+and/CC 
+[ the/DT elementary/JJ test/NN ]
+for/IN 
+[ high/JJ temperature/NN gas/NN turbine/NN ]
+,/, 
+[ necessary/JJ keys/NNS ]
+for/IN developing/VBG 
+[ practical/JJ complex/JJ technology/NN ]
+./. 
+
+[ The/DT results/NNS ]
+will/MD be/VB further/RB developed/VBN to/TO design/VB 
+[ a/DT larger/JJR plant/NN ]
+./. 
+
+(/( 
+[ 9/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 3/CD refs/NNS ]
+)/) 
+======================================
+
+[ A/DT 7000/CD m/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ \/d/NN plant/NN ]
+is/VBZ developed/VBN aiming/VBG at/IN 
+[ producing/VBG highcalorie/JJ gas/NN ]
+from/IN 
+[ coal/NN ]
+./. 
+
+With/IN 
+[ this/DT process/NN ]
+,/, 
+[ a/DT mixed/JJ slurry/NN ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ heavy/JJ oil/NN ]
+is/VBZ fed/VBN to/TO 
+[ the/DT fluidized/JJ bed/NN reactor/NN ]
+through/IN 
+[ a/DT special/JJ pump/NN ]
+,/, in/IN 
+[ which/WDT ]
+
+[ the/DT slurry/NN ]
+is/VBZ gasified/VBN at/IN 
+[ 850-950/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+and/CC 
+[ 30/CD kg\/cm/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) 
+[ G/NN using/VBG oxygen/NN ]
+and/CC 
+[ steam/NN ]
+./. 
+
+[ The/DT gasifier/NN ]
+is/VBZ 
+[ a/DT 1-column/JJ pressure/NN type/NN ]
+fluidized/JJ 
+[ bed/NN gasification/NN system/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT slurry/NN ]
+is/VBZ thermally/RB decomposed/VBN and/CC 
+[ char/NN ]
+is/VBZ partially/RB oxydized/VBN ./. 
+
+[ The/DT temperature/NN ]
+of/IN 
+[ the/DT fluidized/JJ bed/NN ]
+can/MD be/VB maintained/VBN higher/RBR than/IN 
+[ 900/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+because/IN 
+[ gasifier/NN temperature/NN ]
+is/VBZ increased/VBN for/IN 
+[ higher/JJR reliability/NN ]
+and/CC 
+[ efficiency/NN ]
+,/, thereby/RB achieving/VBG 
+[ a/DT target/NN gasification/NN ratio/NN ]
+of/IN 
+[ 70/CD %/SYM ]
+./. 
+
+Further/RB more/RB ,/, 
+[ the/DT system/NN ]
+can/MD be/VB continuously/RB operated/VBN 
+[ 500/CD hours/NNS ]
+by/IN improving/VBG 
+[ the/DT nozzle/NN ]
+and/CC 
+[ incorporating/VBG the/DT coarse/JJ grain/NN discharge/NN mechanism/NN ]
+./. 
+
+[ Complete/JJ measures/NNS ]
+,/, for/IN 
+[ preventing/VBG in-furnace/JJ nodules/NNS ]
+,/, are/VBP also/RB established/VBN ./. 
+
+Thus/RB ,/, 
+[ the/DT original/JJ objective/NN ]
+of/IN 
+[ this/DT theme/NN ]
+is/VBZ completed/VBN ./. 
+
+(/( 
+[ 16/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ Effect/NN ]
+of/IN 
+[ ash/NN ]
+on/IN 
+[ reaction/NN rate/NN ]
+is/VBZ studied/VBN as/IN 
+[ a/DT theme/NN ]
+for/IN 
+[ higher/JJR efficiency/NN ]
+of/IN 
+[ gasification/NN ]
+./. 
+
+Using/VBG 
+[ the/DT test/NN sample/NN ]
+consisting/VBG of/IN 
+[ Taiheiyo/NNP coal/NN char/NN ]
+in/IN 
+[ the/DT spheres/NNS ]
+of/IN 
+[ 5-6/CD mm/NN diameter/NN ]
+,/, 
+[ the/DT coal/NN ]
+is/VBZ gasified/VBN at/IN 
+[ a/DT reaction/NN temperature/NN ]
+of/IN 
+[ 1,000-1,500/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+with/IN 
+[ a/DT gasification/NN agent/NN ]
+of/IN 
+[ steam/NN ]
+,/, revealing/VBG 
+[ the/DT following/JJ conclusions/NNS ]
+./. 
+
+At/IN 
+[ a/DT temperature/NN ]
+lower/JJR than/IN 
+[ 1,200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ ash/NN layer/NN ]
+is/VBZ created/VBN around/IN 
+[ non-reacted/JJ carbon/NN kernels/NNS ]
+./. 
+
+When/WRB 
+[ the/DT temperature/NN ]
+is/VBZ lower/JJR than/IN melting/JJ 
+[ one/CD ]
+,/, 
+[ the/DT ash/NN layer/NN ]
+is/VBZ diffused/VBN with/IN rather/RB 
+[ small/JJ resistance/NN ]
+./. 
+
+However/RB ,/, at/IN 
+[ 1,200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ the/DT ash/NN layer/NN ]
+disappears/VBZ from/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT kernel/NN ]
+,/, reducing/VBG 
+[ the/DT diffusion/NN resistance/NN ]
+./. 
+
+At/IN 
+[ that/DT time/NN ]
+,/, 
+[ the/DT activation/NN energy/NN ]
+for/IN 
+[ interfacial/JJ reaction/NN ]
+becomes/VBZ about/IN 
+[ 1\/2/CD ]
+of/IN 
+[ that/DT ]
+at/IN 
+[ lower/JJR temperature/NN range/NN ]
+according/VBG to/TO 
+[ chemical/JJ kinetics/NNS ]
+./. 
+
+[ Addition/NN ]
+of/IN 
+[ iron/NN oxide/NN flux/NN ]
+greatly/RB reduces/VBZ 
+[ the/DT ultimate/JJ reaction/NN ratio/NN ]
+at/IN 
+[ 1,200/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C./NNP ]
+(/( 
+[ 12/CD figs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+,/, 
+[ 17/CD refs/NNS ]
+)/) 
+======================================
+
+[ Effect/NN ]
+of/IN 
+[ coal/NN types/NNS ]
+,/, to/TO 
+[ gasification/NN reaction/NN speed/NN ]
+,/, is/VBZ studied/VBN ./. 
+
+[ A/DT reaction/NN test/NN ]
+,/, between/IN 
+[ the/DT char/NN ]
+of/IN 
+[ 13/CD coals/NNS ]
+and/CC 
+[ carbon/NN dioxide/NN ]
+and/CC 
+[ hydrogen/NN gases/NNS ]
+,/, is/VBZ carried/VBN out/RP to/TO obtain/VB 
+[ weight/NN reduction/NN speed/NN ]
+and/CC 
+[ surface/NN change/NN ]
+in/IN 
+[ residual/JJ char/NN ]
+on/IN 
+[ the/DT way/NN ]
+of/IN 
+[ reaction/NN ]
+./. 
+
+[ The/DT results/NNS ]
+are/VBP systematically/RB studied/VBN ./. 
+
+[ Gasification/NN reaction/NN speed/NN ]
+depends/VBZ on/IN 
+[ the/DT surface/JJ area/NN change/NN ]
+of/IN 
+[ the/DT char/NN ]
+under/IN 
+[ reaction/NN ]
+and/CC 
+[ the/DT structure/NN ]
+of/IN 
+[ carbon/NN ]
+./. 
+
+[ Reaction/NN speed/NN ]
+,/, beyond/IN 
+[ a/DT reaction/NN factor/NN ]
+of/IN 
+[ 0.9/CD ]
+or/CC 
+[ above/RB ]
+,/, becomes/VBZ extremely/RB small/JJ because/RB of/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ graphite/NN ]
+created/VBN and/CC grown/VBN during/IN 
+[ the/DT reaction/NN ]
+./. 
+
+Therefore/RB ,/, 
+[ there/EX ]
+is/VBZ 
+[ an/DT optimum/JJ gasification/NN condition/NN ]
+for/IN 
+[ each/DT coal/NN type/NN ]
+with/IN 
+[ a/DT view/NN ]
+to/TO 
+[ approaching/VBG carbon/NN conversion/NN ratio/NN ]
+to/TO 
+[ 1.0/CD ]
+./. 
+
+[ An/DT optimum/JJ gasification/NN equipment/NN ]
+should/MD be/VB selected/VBN accordingly/RB ./. 
+
+(/( 
+[ 12/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 17/CD refs/NNS ]
+)/) 
+======================================
+
+[ The/DT coal/NN gasification/NN equipment/NN ]
+,/, using/VBG 
+[ the/DT entrained/JJ bed/NN technology/NN ]
+for/IN 
+[ contacting/VBG gas/NN ]
+and/CC 
+[ solid/JJ particles/NNS ]
+,/, is/VBZ studied/VBN aiming/VBG at/IN 
+[ conversion/NN ]
+of/IN 
+[ coal/NN ]
+to/TO fuel/VB 
+[ gas/NN ]
+and/CC 
+[ C1/NNP chemical/JJ material/NN ]
+./. 
+
+[ A/DT coal/NN gasification/NN system/NN ]
+,/, consisting/VBG of/IN 
+[ 1/CD column/NN ]
+and/CC 
+[ 2/CD stages/NNS ]
+by/IN combining/VBG 
+[ the/DT entrained/JJ bed/NN ]
+and/CC 
+[ the/DT fluidized/JJ bed/NN ]
+of/IN 
+[ particles/NNS ]
+in/IN 
+[ upper/JJR ]
+and/CC 
+[ lower/JJR positions/NNS ]
+,/, is/VBZ used/VBN for/IN 
+[ testing/VBG gasification/NN ]
+of/IN 
+[ Taiheiyo/NNP Coal/NNP using/VBG gasification/NN agents/NNS ]
+of/IN 
+[ air/NN ]
+and/CC 
+[ steam/NN ]
+and/CC 
+[ oxigen/NN ]
+and/CC 
+[ steam/NN ]
+in/IN 
+[ mixture/NN ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ this/DT system/NN ]
+provides/VBZ 
+[ various/JJ features/NNS ]
+including/VBG that/IN 
+[ a/DT gasification/NN temperature/NN ]
+,/, 
+[ intermediate/JJ ]
+between/IN 
+[ the/DT fluidized/JJ layer/NN ]
+and/CC entrained/VBN 
+[ layer/NN ]
+,/, can/MD be/VB introduced/VBN ./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT system/NN ]
+can/MD be/VB stably/RB operated/VBN ./. 
+
+[ The/DT fluidized/JJ layer/NN ]
+,/, located/VBN in/IN 
+[ the/DT upper/JJ part/NN ]
+of/IN 
+[ this/DT gasification/NN system/NN ]
+,/, obviously/RB contributes/VBZ to/TO 
+[ the/DT improvement/NN ]
+of/IN 
+[ carbon/NN conversion/NN ratio/NN ]
+./. 
+
+(/( 
+[ 10/CD figs/NNS 1/CD tab/NN ]
+)/) 
+======================================
+
+[ The/DT coal/NN gasification/NN furnaces/NNS ]
+have/VBP been/VBN improved/VBN so/RB far/RB in/IN 
+[ terms/NNS ]
+of/IN 
+[ coal/NN processing/NN quantity/NN ]
+,/, 
+[ better/JJR production/NN gas/NN quality/NN ]
+and/CC 
+[ lower/JJR cost/NN ]
+for/IN 
+[ production/NN gas/NN pressurizing/NN power/NN ]
+by/IN 
+[ raising/VBG temperature/NN ]
+and/CC 
+[ pressure/NN ]
+./. 
+
+[ A/DT target/NN pressure/NN ]
+of/IN 
+[ the/DT gasifier/NN ]
+is/VBZ 
+[ 30/CD atm/NN ]
+./. 
+
+[ Merit/NN ]
+of/IN 
+[ the/DT gasifier/NN ]
+is/VBZ not/RB increased/VBN even/RB with/IN 
+[ higher/JJR pressure/NN ]
+./. 
+
+[ An/DT optimum/JJ gasification/NN temperature/NN ]
+should/MD be/VB about/RB 
+[ 130/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ an/DT optimum/JJ reaction/NN temperature/NN ]
+for/IN 
+[ all/DT furnaces/NNS ]
+./. 
+
+[ The/DT gasifier/NN ]
+are/VBP classified/VBN into/IN 
+[ 4/CD types/NNS ]
+of/IN 
+[ fixed/JJ bed/NN  ]
+,/, fluidized/JJ 
+[ bed/NN ]
+,/, spouted/JJ 
+[ bed/NN ]
+and/CC 
+[ fusion/NN furnaces/NNS ]
+./. 
+
+However/RB ,/, 
+[ the/DT most/RBS suitable/JJ furnace/NN ]
+is/VBZ 
+[ the/DT wet/JJ ash/NN type/NN ]
+entrained/JJ 
+[ bed/NN gasifier/NN ]
+as/IN 
+[ a/DT gasification/NN reactor/NN ]
+for/IN 
+[ general/JJ coals/NNS ]
+in/IN 
+[ consideration/NN ]
+of/IN 
+[ the/DT application/NN ]
+at/IN about/IN 
+[ 1,300/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+assuming/VBG 
+[ the/DT establishment/NN ]
+of/IN 
+[ molten/JJ slag/NN handling/NN technology/NN ]
+./. 
+
+[ Furnace/NN capacity/NN ]
+will/MD become/VB 
+[ 4,000-6,000/CD ton\/d\/unit/NN ]
+for/IN 
+[ the/DT spouted/JJ bed/NN furnace/NN ]
+./. 
+
+(/( 
+[ 15/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 8/CD refs/NNS ]
+)/) 
+======================================
+
+[ Liquefaction/NN ]
+of/IN 
+[ Taiheiyo/NNP ]
+and/CC 
+[ Yallowrn/NNP coals/NNS ]
+using/VBG 
+[ tar-sand/JJ bitumen/NN ]
+and/CC 
+[ Venezuela/NNP crude/JJ oil/NN ]
+as/IN 
+[ the/DT solvent/NN ]
+was/VBD investigated/VBN as/IN 
+[ a/DT part/NN ]
+of/IN 
+[ the/DT study/NN ]
+on/IN 
+[ the/DT liquefaction/NN ]
+of/IN 
+[ coal/NN ]
+by/IN 
+[ heavier/JJR solvent/NN ]
+using/VBG 
+[ iron-based/JJ catalyst/NN ]
+./. 
+
+[ The/DT coal/NN ]
+can/MD be/VB solubilized/VBN and/CC decomposed/VBN by/IN 
+[ co-hydrogeneation/NN ]
+of/IN 
+[ solvent/NN ]
+and/CC 
+[ bitumen/NN ]
+,/, hardly/RB depending/VBG upon/IN 
+[ the/DT types/NNS ]
+of/IN 
+[ bitumen/NN ]
+used/VBN ./. 
+
+[ The/DT conversion/NN ]
+for/IN 
+[ Taiheiyo/NNP coal/NN ]
+shows/VBZ 
+[ the/DT maximum/NN ]
+at/IN approximately/RB 
+[ 420/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, while/IN that/DT for/IN 
+[ Yallowrn/NNP coal/NN ]
+decreases/VBZ exceeding/VBG 
+[ 400/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+./. 
+
+[ The/DT improvement/NN ]
+of/IN 
+[ conversion/NN ]
+in/IN 
+[ the/DT co-processing/NN ]
+varies/VBZ according/VBG to/TO 
+[ the/DT ranks/NNS ]
+of/IN 
+[ coal/NN ]
+./. 
+
+[ The/DT improvement/NN ]
+for/IN 
+[ Taiheiyo/NNP coal/NN ]
+is/VBZ higher/JJR than/IN that/DT using/VBG 
+[ tetralin/NN ]
+,/, while/IN that/DT for/IN 
+[ Yallowrn/NNP coal/NN ]
+is/VBZ not/RB made/VBN ./. 
+
+(/( 
+[ 11/CD refs/NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+)/) 
+======================================
+
+[ NEDO/NNP ]
+surveys/VBZ 
+[ researches/NNS ]
+and/CC 
+[ developments/NNS ]
+in/IN 
+[ West/NNP Germany/NNP ]
+and/CC 
+[ the/DT U.S.for/NNP  coal/NN liquefaction/NN ]
+./. 
+
+In/IN 
+[ West/NNP Germany/NNP ]
+,/, 
+[ Rheinische/NNP Braunkohle/NNP ]
+and/CC 
+[ Foeber/NNP Oel/NNP ]
+are/VBP visited/VBN ./. 
+
+[ Foeber/NNP Oel/NNP ]
+retains/VBZ 
+[ 5/CD continuous/JJ test/NN setups/NNS ]
+of/IN 
+[ 5/CD l\/h/NN ]
+
+[ each/DT ]
+,/, looking/VBG for/IN 
+[ practical/JJ application/NN ]
+./. 
+
+In/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ Pittsburgh/NNP Energy/NNP Institute/NNP ]
+,/, 
+[ UOP/NNP ]
+,/, 
+[ Exxon/NNP Research/NNP ]
+and/CC 
+[ Engineering/NNP ]
+and/CC 
+[ Shevron/NNP Research/NNP Engineering/NNP ]
+are/VBP visited/VBN ./. 
+
+[ UOP/NNP ]
+maintains/VBZ 
+[ many/JJ continuous/JJ test/NN setups/NNS ]
+of/IN 
+[ 100/CD ]
+-/: 
+[ 120/CD cc\/hour/NN ]
+,/, mainly/RB for/IN comparing/VBG 
+[ catalyzers/NNS ]
+and/CC 
+[ studying/VBG product/NN performance/NN ]
+./. 
+
+[ Shevron/NNP Research/NNP ]
+and/CC 
+[ Engineering/NNP ]
+is/VBZ carrying/VBG out/RP 
+[ a/DT study/NN ]
+on/IN 
+[ 4/CD types/NNS ]
+of/IN 
+[ liquefied/JJ oils/NNS ]
+according/VBG to/TO 
+[ a/DT request/NN ]
+from/IN 
+[ DOE/NNP ]
+./. 
+
+[ There/EX ]
+are/VBP abundant/JJ and/CC 
+[ significant/JJ study/NN results/NNS ]
+in/IN 
+[ the/DT world/NN ]
+but/CC not/RB 
+[ any/DT decisive/JJ pattern/NN ]
+at/IN 
+[ present/NN ]
+./. 
+
+(/( 
+[ 1/CD fig/NN ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+Centering/VBG around/IN 
+[ USA/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+,/, 
+[ the/DT development/NN ]
+of/IN 
+[ the/DT coal/NN liquefaction/NN technology/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT technologies/NNS ]
+concerning/VBG 
+[ oil-alternative/JJ energy/NN ]
+,/, is/VBZ in/IN 
+[ positive/JJ progress/NN ]
+and/CC 
+[ the/DT examination/NN ]
+through/IN 
+[ pilot/NN plants/NNS ]
+have/VBP already/RB been/VBN finished/VBN ./. 
+
+[ The/DT development/NN projects/NNS ]
+and/CC 
+[ others/NNS ]
+in/IN 
+[ Europe/NNP ]
+,/, 
+[ USA/NNP ]
+and/CC 
+[ Japan/NNP ]
+are/VBP reported/VBN here/RB ./. 
+
+[ Coal/NN liquefaction/NN projects/NNS ]
+in/IN 
+[ USA/NNP ]
+:/: 
+[ There/EX ]
+are/VBP 
+[ two/CD processes/NNS ]
+,/, namely/RB 
+[ the/DT two-stage/JJ liquefaction/NN process/NN ]
+
+[ which/WDT ]
+aims/VBZ at/IN 
+[ more/RBR efficient/JJ liquefaction/NN ]
+and/CC 
+[ the/DT co-processing/NN process/NN ]
+intending/VBG 
+[ the/DT utilization/NN ]
+of/IN 
+[ petroleum/NN heavy/JJ oil/NN ]
+./. 
+
+[ Coal/NN liquefaction/NN projects/NNS ]
+in/IN 
+[ West/NNP Germany/NNP ]
+:/: 
+[ The/DT KOHLEL/NNP process/NN ]
+./. 
+
+[ The/DT pilot/NN plant/NN ]
+was/VBD completed/VBN in/IN 
+[ 1981/CD ]
+and/CC 
+[ the/DT excellent/JJ results/NNS ]
+have/VBP already/RB been/VBN obtained/VBN in/IN 
+[ the/DT scale-up/JJ technology/NN ]
+./. 
+
+[ Coal/NN liquefaction/NN projects/NNS ]
+in/IN 
+[ Japan/NNP ]
+:/: 
+[ The/DT brown/JJ coal/NN liquefaction/NN process/NN ]
+has/VBZ been/VBN promoted/VBN as/IN 
+[ the/DT Japan-Australia/NNP joint/JJ project/NN ]
+and/CC 
+[ the/DT development/NN ]
+through/IN 
+[ small/JJ pilot/NN plants/NNS ]
+are/VBP in/IN 
+[ progress/NN ]
+about/IN 
+[ the/DT bituminous/JJ coal/NN liquefaction/NN process/NN ]
+,/, namely/RB 
+[ 1/LS ]
+)/) 
+[ the/DT solvolysis/NN process/NN ]
+,/, 
+[ 2/LS ]
+)/) 
+[ the/DT solvent/NN extraction/NN process/NN ]
+and/CC 
+[ 3/LS ]
+)/) 
+[ the/DT direct/JJ hydrogenation/NN process/NN ]
+./. 
+
+(/( 
+[ 11/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+,/, 
+[ 22/CD refs/NNS ]
+)/) 
+======================================
+
+[ It/PRP ]
+is/VBZ known/VBN that/IN 
+[ the/DT apparent/JJ viscosity/NN ]
+of/IN 
+[ the/DT slurry/NN ]
+of/IN 
+[ coal/NN particles/NNS ]
+and/CC 
+[ solvent/NN ]
+varies/VBZ with/IN proceeding/NN of/IN 
+[ the/DT coal/NN liquefaction/NN reaction/NN ]
+./. 
+
+[ The/DT variation/NN ]
+of/IN 
+[ apparent/JJ viscosity/NN ]
+of/IN 
+[ the/DT slurries/NNS ]
+of/IN 
+[ six/CD ranks/NNS ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ tetralin/NN ]
+with/IN proceeding/NN of/IN 
+[ the/DT liquefaction/NN reaction/NN ]
+was/VBD measured/VBN by/IN 
+[ a/DT viscometer/NN ]
+
+[ which/WDT ]
+can/MD determine/VB 
+[ a/DT viscosity/NN ]
+ranging/VBG from/IN 
+[ 0.2/CD ]
+to/TO 
+[ 12/CD Pa/NNP ]
+./. 
+
+[ S/NN ]
+at/IN 
+[ high/JJ temperature/NN ]
+under/IN 
+[ high/JJ pressure/NN ]
+./. 
+
+[ The/DT result/NN ]
+of/IN comparising/VBG 
+[ the/DT data/NN ]
+indicates/VBZ that/IN 
+[ sharp/JJ viscosity/NN change/NN ]
+in/IN 
+[ the/DT temperature/NN ]
+rise/NN and/CC drop/NN 
+[ processes/NNS ]
+observed/VBN in/IN 
+[ the/DT coal/NN liquefaction/NN ]
+of/IN 
+[ Akabira/NNP coal\/tetralin/NN slurry/NN ]
+is/VBZ also/RB observed/VBN in/IN 
+[ the/DT processes/NNS ]
+using/VBG 
+[ Yubarishinko/NNP ]
+,/, 
+[ Yallourn/NNP ]
+and/CC 
+[ Miike/NNP coals/NNS ]
+excepting/VBG 
+[ Taiheiyo/NNP ]
+and/CC 
+[ Daido/NNP coals/NNS ]
+./. 
+
+[ The/DT peak/NN ]
+of/IN 
+[ viscosity/NN ]
+of/IN 
+[ the/DT slurry/NN ]
+heated/VBN at/IN 
+[ the/DT rate/NN ]
+of/IN 
+[ 10K\/min/CD ]
+is/VBZ observed/VBN at/IN 
+[ the/DT time/NN ]
+when/WRB 
+[ the/DT ratio/NN ]
+by/IN 
+[ weight/NN ]
+of/IN 
+[ quinoline/NN ]
+soluble/JJ and/CC 
+[ benzene/NN insoluble/JJ matters/NNS ]
+to/TO 
+[ benzene/NN insoluble/NN matters/NNS ]
+is/VBZ 
+[ 40/CD %/SYM ]
+or/CC 
+[ more/JJR ]
+or/CC 
+[ the/DT difference/NN ]
+in/IN 
+[ the/DT solubility/NN parameters/NNS ]
+between/IN 
+[ quinoline/NN ]
+soluble/JJ and/CC 
+[ benzene/NN insoluble/JJ matters/NNS ]
+and/CC 
+[ the/DT solvent/NN ]
+is/VBZ approximately/RB 
+[ 2/CD ]
+{/( radical/NN }/) (/( 
+[ cal\/cm/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) )/) or/CC 
+[ more/JJR ]
+./. 
+
+(/( 
+[ 9/CD refs/NNS ]
+,/, 
+[ 8/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT co-carbonization/NN ]
+of/IN 
+[ solvent/NN refined/JJ coal/NN ]
+(/( 
+[ SRC/NN ]
+)/) and/CC 
+[ hydropyrene/NN ]
+(/( 
+[ CHP/NN ]
+)/) was/VBD studied/VBN to/TO use/VB 
+[ the/DT primary/JJ coal/NN ]
+liquefied/VBN 
+[ oil/NN ]
+as/IN 
+[ the/DT carbon/NN raw/JJ material/NN ]
+./. 
+
+[ Needle-like/JJ coke/NN ]
+was/VBD used/VBN as/IN 
+[ SRC/NN ]
+and/CC 
+[ it/PRP ]
+was/VBD carbonized/VBN together/RB with/IN 
+[ CHP/NN ]
+in/IN 
+[ nitrogen/NN gas/NN ]
+of/IN 
+[ 5/CD kg\/cm/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) 
+[ G/NN ]
+./. 
+
+[ The/DT carbonized/JJ SRC/NN ]
+was/VBD 
+[ mosaic/JJ ]
+coke/NN ,/, while/IN 
+[ SRC/NN ]
+carbonized/VBN together/RB with/IN 
+[ 40/CD ]
+to/TO 
+[ 60/CD %/SYM ]
+of/IN 
+[ CHP/NN ]
+at/IN 
+[ 500/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+for/IN 
+[ three/CD hours/NNS ]
+showed/VBD 
+[ anisotropic/JJ structure/NN ]
+./. 
+
+[ The/DT yield/NN ]
+of/IN 
+[ coke/NN ]
+to/TO 
+[ CHP/NN ]
+is/VBZ enhanced/VBN by/IN 
+[ the/DT CO-carbonization/NN ]
+of/IN 
+[ SRC/NN ]
+and/CC 
+[ CHP/NN ]
+./. 
+
+[ CHP/NN ]
+carbonized/VBN under/IN 
+[ pressure/NN ]
+is/VBZ 
+[ pitch-like/JJ coke/NN ]
+
+[ which/WDT ]
+contains/VBZ 
+[ needle/NN crystal/NN ]
+in/IN 
+[ the/DT anisotropic/JJ matrix/NN ]
+./. 
+
+[ The/DT chemical/JJ components/NNS ]
+of/IN 
+[ the/DT pitch/NN ]
+derived/VBN from/IN 
+[ hydropyrene/NN ]
+were/VBD analyzed/VBN by/IN 
+[ the/DT solvent/NN extraction/NN ]
+,/, 
+[ gel-permeation/NN chromatography/NN ]
+and/CC filed/JJ 
+[ desorption/NN mass/NN spectroscopy/NN ]
+to/TO determine/VB 
+[ the/DT chemical/JJ changes/NNS ]
+in/IN 
+[ the/DT co-carbonization/NN ]
+./. 
+
+[ The/DT increase/NN ]
+of/IN 
+[ coke/NN ]
+derived/VBN from/IN 
+[ CHP/NN ]
+is/VBZ ascribed/VBN to/TO 
+[ the/DT dehydrogenative/JJ condensation/NN ]
+of/IN 
+[ SRC/NN components/NNS ]
+into/IN 
+[ trimers/NNS ]
+and/CC 
+[ tetramers/NNS ]
+./. 
+
+(/( 
+[ 17/CD refs/NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT catalytic/JJ action/NN ]
+of/IN 
+[ organometallic/JJ compounds/NNS ]
+such/DT as/IN 
+[ Si/NN ]
+,/, 
+[ Ge/NN ]
+and/CC 
+[ Pb/NN ]
+belonging/VBG to/TO 
+[ the/DT IVb/NN group/NN ]
+of/IN 
+[ Sn/NN ]
+in/IN 
+[ the/DT hydroliquefaction/NN ]
+of/IN 
+[ coal/NN ]
+was/VBD studied/VBN ./. 
+
+[ The/DT catalytic/JJ activity/NN ]
+of/IN 
+[ organometallic/JJ compounds/NNS ]
+with/IN 
+[ alkyl-or/NN phenyl-residue/NN ]
+belonging/VBG to/TO 
+[ the/DT IVb/NN group/NN ]
+in/IN 
+[ the/DT coal/NN liquefaction/NN ]
+is/VBZ in/IN 
+[ the/DT order/NN ]
+of/IN 
+[ Sn/NN ]
+,/, 
+[ Ge/NN ]
+,/, 
+[ Pb/NN ]
+and/CC 
+[ Si/NN ]
+./. 
+
+[ The/DT catalytic/JJ actions/NNS ]
+of/IN 
+[ SiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) and/CC 
+[ SnO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) are/VBP 
+[ the/DT same/JJ ]
+as/IN that/DT of/IN 
+[ organotin/NN compound/NN ]
+,/, while/IN that/DT of/IN 
+[ GeO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) is/VBZ extremely/RB low/JJ ./. 
+
+[ The/DT catalytic/JJ actions/NNS ]
+of/IN 
+[ butyl-and/NN phenyl-germanium/NN compounds/NNS ]
+are/VBP equal/JJ to/TO 
+[ each/DT other/JJ independent/JJ ]
+of/IN 
+[ the/DT organic/JJ residue/NN ]
+./. 
+
+[ The/DT catalytic/JJ activity/NN ]
+is/VBZ observed/VBN in/IN 
+[ the/DT direct/JJ process/NN ]
+from/IN 
+[ coal/NN ]
+to/TO 
+[ oil/NN ]
+in/IN 
+[ the/DT liquefaction/NN ]
+,/, while/IN 
+[ it/PRP ]
+is/VBZ not/RB observed/VBN in/IN 
+[ the/DT three/CD step/NN process/NN ]
+from/IN 
+[ coal/NN ]
+through/IN 
+[ preasphaltene/NN ]
+and/CC 
+[ asphaltene/NN ]
+to/TO 
+[ oil/NN ]
+./. 
+
+[ The/DT catalytic/JJ active/JJ species/NN ]
+obtained/VBN from/IN 
+[ organic/JJ germanium/NN compound/NN ]
+largely/RB depends/VBZ upon/IN 
+[ the/DT pressure/NN ]
+of/IN 
+[ hydrogen/NN ]
+./. 
+
+(/( 
+[ 10/CD refs/NNS ]
+,/, 
+[ 1/CD fig/NN ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT removal/NN ]
+of/IN 
+[ metallic/JJ cations/NNS ]
+in/IN 
+[ brown/JJ coal/NN ]
+by/IN 
+[ acetic/JJ acid/NN ]
+and/CC 
+[ ammonium/NN acetate/NN ]
+was/VBD studied/VBN aiming/VBG at/IN improving/VBG 
+[ the/DT reactivity/NN ]
+of/IN 
+[ carbonization/NN ]
+and/CC 
+[ liquefaction/NN ]
+of/IN 
+[ coal/NN ]
+./. 
+
+[ Calcium/NN ]
+and/CC 
+[ magnesium/NN ions/NNS ]
+in/IN 
+[ Morwell/NNP brown/JJ coal/NN ]
+were/VBD able/JJ to/TO be/VB removed/VBN by/IN 
+[ the/DT extraction/NN ]
+with/IN 
+[ 1M/CD ammonium/NN acetate/NN ]
+or/CC 
+[ 0.1M/CD acetic/JJ acid/NN solution/NN ]
+./. 
+
+Although/IN 
+[ ferrous/JJ ]
+or/CC 
+[ ferric/JJ ion/NN ]
+was/VBD not/RB sufficiently/RB removed/VBN ,/, 
+[ the/DT carbonized/JJ substance/NN ]
+modified/VBN by/IN 
+[ the/DT carbonization/NN ]
+together/RB with/IN 
+[ pitch/NN ]
+or/CC hydrogenated/JJ 
+[ material/NN ]
+was/VBD able/JJ to/TO be/VB removed/VBN by/IN 
+[ that/DT solution/NN ]
+in/IN 
+[ the/DT same/JJ degree/NN ]
+as/IN by/IN 
+[ 1N/JJ hydrochloric/JJ acid/NN solution/NN ]
+./. 
+
+[ The/DT process/NN ]
+using/VBG 
+[ a/DT weak/JJ acidic/JJ ]
+or/CC 
+[ neutral/JJ solution/NN ]
+is/VBZ practical/JJ even/RB though/IN 
+[ ammonium/NN ]
+remains/VBZ in/IN 
+[ the/DT coal/NN ]
+to/TO be/VB treated/VBN in/IN 
+[ such/PDT a/DT way/NN ]
+that/IN 
+[ divalent/JJ cations/NNS ]
+are/VBP removed/VBN from/IN 
+[ the/DT coal/NN ]
+ranging/VBG from/IN highly/RB carbonized/JJ 
+[ coal/NN ]
+to/TO 
+[ a/DT certain/JJ coal/NN ]
+to/TO modify/VB 
+[ the/DT carbonizability/NN ]
+and/CC to/TO reduce/VB 
+[ the/DT total/JJ ash/NN content/NN ]
+./. 
+
+[ The/DT cation/NN ]
+of/IN 
+[ acetic/JJ acid/NN ]
+and/CC 
+[ wettability/NN ]
+of/IN 
+[ organic/JJ acid/NN ]
+to/TO 
+[ the/DT hydrophobic/JJ surface/NN ]
+of/IN 
+[ coal/NN ]
+are/VBP 
+[ effective/NN ]
+for/IN extracting/VBG 
+[ the/DT cations/NNS ]
+in/IN 
+[ coal/NN ]
+./. 
+
+(/( 
+[ 15/CD refs/NNS ]
+,/, 
+[ 11/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT coal/NN liuquid/NN ]
+by/IN 
+[ the/DT solvent/NN extraction/NN  ]
+of/IN 
+[ Taiheiyo/NNP coal/NN ]
+was/VBD hydrogenated/VBN using/VBG 
+[ Ni-Mo\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) as/IN 
+[ the/DT catalyst/NN ]
+./. 
+
+[ The/DT experimental/JJ result/NN ]
+was/VBD compared/VBN with/IN 
+[ that/DT ]
+obtained/VBN using/VBG 
+[ CoMo\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ catalyst/NN ]
+./. 
+
+[ Carbonous/JJ substance/NN ]
+deposited/VBN on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ recovered/JJ catalyst/NN ]
+was/VBD investigated/VBN ./. 
+
+[ The/DT hydrogenation/NN activity/NN ]
+of/IN 
+[ Ni-Mo\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP 
+{/( sub/IN 
+[ 3/CD ]
+}/) that/IN 
+[ a/DT large/JJ quantity/NN ]
+of/IN 
+[ a/DT decalin/NN type/NN compound/NN ]
+with/IN 
+[ saturated/JJ aromatic/JJ ring/NN ]
+was/VBD produced/VBN ./. 
+
+[ The/DT denitrification/NN ]
+does/VBZ not/RB sufficiently/RB proceed/VB even/RB at/IN 
+[ 450/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+and/CC 
+[ there/EX ]
+is/VBZ 
+[ no/DT distinguished/JJ difference/NN ]
+in/IN 
+[ denitrification/NN ]
+between/IN 
+[ both/DT ]
+
+[ catalysts/NNS ]
+./. 
+
+Although/IN 
+[ oxygen/NN ]
+remained/VBD in/IN 
+[ the/DT distilled/JJ oil/NN ]
+in/IN 
+[ the/DT whole/JJ range/NN ]
+of/IN 
+[ temperature/NN ]
+,/, most/JJS of/IN 
+[ the/DT oxygen/NN ]
+was/VBD removed/VBN from/IN 
+[ the/DT distilled/JJ oil/NN ]
+derived/VBN from/IN 
+[ SRC/NN ]
+./. 
+
+[ Oxygen/NN ]
+and/CC 
+[ nitrogen/NN ]
+were/VBD concentrated/VBN into/IN 
+[ the/DT carbonous/JJ substance/NN ]
+deposited/VBN on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ recovered/JJ catalyst/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN 
+[ the/DT absorption/NN ]
+of/IN 
+[ polar/JJ components/NNS ]
+containing/VBG 
+[ oxygen/NN ]
+and/CC 
+[ nitrogen/NN ]
+mainly/RB causes/VBZ 
+[ the/DT deposition/NN ]
+of/IN 
+[ carbonous/JJ substance/NN ]
+on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ catalyst/NN ]
+and/CC 
+[ deterioration/NN ]
+of/IN 
+[ catalytic/JJ activity/NN ]
+./. 
+
+(/( 
+[ 10/CD refs/NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT recycling/JJ solvent/NN ]
+in/IN 
+[ coal/NN liquefaction/NN process/NN ]
+was/VBD investigated/VBN ./. 
+
+[ The/DT liquefaction/NN ]
+of/IN 
+[ Taiheiyo/NNP coal/NN ]
+was/VBD carried/VBN out/RP in/IN 
+[ a/DT ]
+batchwise/JJ 
+[ operation/NN ]
+using/VBG 
+[ fractional/JJ distillate/NN ]
+of/IN 
+[ hydrogenated/JJ anthracene/NN oil/NN ]
+as/IN 
+[ the/DT starting/JJ material/NN ]
+./. 
+
+[ The/DT result/NN ]
+indicates/VBZ that/IN 
+[ the/DT light/NN fraction/NN ]
+in/IN 
+[ the/DT recycling/JJ solvent/NN ]
+is/VBZ increased/VBN because/IN 
+[ hydroaromatic/JJ compounds/NNS ]
+are/VBP produced/VBN due/RB to/TO increase/VB of/IN 
+[ light/JJ fraction/NN ]
+in/IN 
+[ the/DT hydrogenerated/JJ solvent/NN ]
+
+[ itself/PRP ]
+with/IN increasing/NN of/IN recycling/NN 
+[ times/NNS ]
+./. 
+
+Although/IN 
+[ the/DT light/NN fraction/NN ]
+is/VBZ increased/VBN till/IN 
+[ three/CD times/NNS ]
+of/IN recycling/NN ,/, 
+[ it/PRP ]
+is/VBZ hardly/RB increased/VBN after/IN 
+[ that/DT due/NN ]
+to/TO 
+[ superhydrogenation/NN ]
+of/IN 
+[ solvent/NN ]
+
+[ itself/PRP ]
+,/, because/IN 
+[ the/DT increase/NN ]
+of/IN 
+[ hydrogen/NN ]
+transferred/VBN by/IN 
+[ the/DT hydrogeneration/NN ]
+of/IN 
+[ recycing/JJ solvent/NN ]
+is/VBZ limited/VBN ./. 
+
+Although/IN 
+[ the/DT alkanes/NNS ]
+are/VBP accumulated/VBN in/IN 
+[ the/DT recycling/JJ solvent/NN ]
+even/RB in/IN 
+[ the/DT experiment/NN ]
+,/, 
+[ the/DT production/NN ]
+of/IN 
+[ them/PRP ]
+are/VBP as/RB low/JJ as/IN 
+[ 1/CD %/SYM ]
+or/CC less/JJR even/RB after/IN 
+[ four/CD times/NNS ]
+of/IN recycling/NN ./. 
+
+[ The/DT function/NN ]
+of/IN 
+[ liquefied/JJ solvent/NN ]
+is/VBZ sufficient/JJ though/IN 
+[ polycyclic/JJ hydroaromatic/JJ compounds/NNS ]
+containing/VBG 
+[ polar/JJ group/NN ]
+favorable/JJ to/TO 
+[ the/DT coal/NN liquefaction/NN ]
+is/VBZ hardly/RB contained/VBN ./. 
+
+(/( 
+[ 18/CD refs/NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ benzene/NN insoluble/NN matters/NNS ]
+(/( 
+[ BI/NN ]
+)/) on/IN 
+[ the/DT separation/NN ]
+from/IN 
+[ the/DT solvent/NN ]
+was/VBD examined/VBN aiming/VBG at/IN separating/VBG 
+[ the/DT insoluble/JJ residue/NN ]
+from/IN 
+[ the/DT coal/NN liquid/NN ]
+to/TO 
+[ which/WDT n-alkane/NN ]
+with/IN 
+[ four/CD ]
+or/CC 
+[ less/JJR carbon/NN atoms/NNS ]
+as/IN 
+[ the/DT anti-solvent/NN ]
+was/VBD added/VBN ./. 
+
+[ The/DT experiment/NN ]
+was/VBD made/VBN to/TO investigate/VB 
+[ the/DT separation/NN ]
+of/IN 
+[ the/DT benzene/NN insolubles/NNS ]
+derived/VBN from/IN 
+[ different/JJ ranks/NNS ]
+of/IN 
+[ Taiheiyo/NNP ]
+and/CC 
+[ Moura/NNP coals/NNS ]
+from/IN 
+[ dilute/JJ dispersed/JJ system/NN ]
+to/TO 
+[ which/WDT n-alkane/NN ]
+with/IN 
+[ four/CD ]
+or/CC 
+[ less/JJR carbon/NN atoms/NNS ]
+as/IN 
+[ the/DT anti-solvent/NN ]
+is/VBZ added/VBN ./. 
+
+[ The/DT result/NN ]
+indicates/VBZ that/IN 
+[ the/DT sedimentation/NN rate/NN ]
+of/IN 
+[ Taiheiyo/NNP BI/NN ]
+and/CC 
+[ Moura/NNP BI/NN ]
+are/VBP so/RB much/RB increased/VBN by/IN 
+[ adding/VBG butane/NN ]
+or/CC 
+[ propane/NN gas/NN ]
+with/IN 
+[ four/CD ]
+or/CC 
+[ three/CD carbon/NN atoms/NNS ]
+that/IN 
+[ the/DT addition/NN ]
+is/VBZ 
+[ effective/JJ ]
+./. 
+
+[ The/DT addition/NN ]
+of/IN 
+[ methane/NN ]
+or/CC 
+[ ethane/NN gas/NN ]
+with/IN 
+[ one/CD ]
+or/CC 
+[ two/CD carbon/NN atoms/NNS ]
+affects/VBZ hardly/RB 
+[ the/DT separation/NN ]
+of/IN 
+[ BI/NN ]
+./. 
+
+[ The/DT effect/NN ]
+of/IN 
+[ separation/NN ]
+of/IN 
+[ Moura/NNP BI/NN ]
+by/IN 
+[ adding/VBG n-alkane/NN ]
+is/VBZ higher/JJR than/IN that/IN of/IN 
+[ Taiheiyo/NNP BI./NN ]
+(/( 
+[ 5/CD refs/NNS ]
+,/, 
+[ 6/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Hydrogenation/NN ]
+of/IN 
+[ aromatic/JJ compounds/NNS ]
+and/CC 
+[ hydrodesulphurization/NN ]
+of/IN 
+[ the/DT sulphur/NN compounds/NNS ]
+were/VBD made/VBN in/IN 
+[ a/DT small/JJ high-pressure/JJ differential/JJ thermal/JJ analysis/NN apparatus/NN operable/JJ ]
+even/RB by/IN 
+[ a/DT sample/NN ]
+as/RB little/JJ as/IN 
+[ 5/CD ]
+to/TO 
+[ 50/CD mg/NN ]
+./. 
+
+[ Benzene/NN ]
+was/VBD hydrogenated/VBN using/VBG 
+[ stabilized/JJ nickel/NN ]
+as/IN 
+[ the/DT catalyst/NN ]
+in/IN 
+[ such/PDT a/DT way/NN ]
+that/IN 
+[ the/DT amounts/NNS ]
+of/IN 
+[ catalyst/NN ]
+and/CC 
+[ sample/NN ]
+were/VBD decided/VBN from/IN 
+[ the/DT exothermic/JJ peak/JJ temperature/NN ]
+./. 
+
+[ The/DT reaction/NN product/NN ]
+was/VBD completely/RB 
+[ cyclohexane/NN ]
+./. 
+
+[ Naphthalene/NN ]
+was/VBD hydrogenated/VBN in/IN 
+[ the/DT same/JJ way/NN ]
+of/IN 
+[ experiment/NN ]
+./. 
+
+[ The/DT result/NN ]
+indicates/VBZ that/IN 
+[ the/DT hydrogenation/NN ]
+was/VBD completed/VBN ,/, because/IN 
+[ the/DT relationship/NN ]
+between/IN 
+[ the/DT reactant/NN ]
+and/CC 
+[ the/DT peak/JJ area/NN ]
+was/VBD linear/JJ ./. 
+
+In/IN 
+[ the/DT hydrogenation/NN ]
+of/IN 
+[ organic/JJ sulphur/NN compound/NN using/VBG molybdenum/NN disulphide/NN ]
+as/IN 
+[ the/DT catalyst/NN ]
+,/, 
+[ the/DT exothermic/JJ peak/NN temperatures/NNS ]
+of/IN 
+[ these/DT compounds/NNS ]
+are/VBP shown/VBN between/IN 
+[ 300/CD ]
+and/CC 
+[ 400/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C./NNP Except/IN ]
+for/IN 
+[ thiophene/NN ]
+,/, 
+[ the/DT benzene/NN ring/NN ]
+in/IN 
+[ the/DT product/NN ]
+is/VBZ not/RB hydrogenated/VBN because/RB of/IN breaking/NN of/IN 
+[ C-S/JJ bond/NN ]
+in/IN 
+[ the/DT hydrodesulfurization/NN ]
+./. 
+
+(/( 
+[ 9/CD refs/NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+)/) 
+======================================
+
+[ NEDOL/NNP Process/NNP ]
+,/, for/IN liquefying/VBG 
+[ bituminous/JJ coal/NN ]
+,/, will/MD contribute/VB to/TO 
+[ stable/JJ supply/NN ]
+of/IN 
+[ liquid/JJ fuels/NNS ]
+./. 
+
+[ The/DT level/NN ]
+of/IN 
+[ this/DT technology/NN ]
+will/MD be/VB equivalent/JJ to/TO or/CC even/RB better/JJR than/IN 
+[ those/DT ]
+in/IN 
+[ Western/JJ countries/NNS ]
+./. 
+
+Therefore/RB ,/, 
+[ the/DT Japanese/JJ government/NN ]
+must/MD proceed/VB with/IN 
+[ the/DT research/NN ]
+and/CC 
+[ development/NN ]
+with/IN 
+[ a/DT pilot/NN plant/NN ]
+(/( 
+[ PP/NN ]
+)/) in/IN 
+[ time/NN ]
+on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ the/DT results/NNS ]
+of/IN 
+[ the/DT basic/JJ study/NN ]
+carried/VBN out/RP so/RB far/RB ,/, 
+[ the/DT fundamental/JJ ]
+and/CC detailed/JJ 
+[ design/NN ]
+of/IN 
+[ the/DT PP/NN ]
+and/CC 
+[ knowhow/NN ]
+accumulated/VBN in/IN 
+[ the/DT relevant/JJ engineers/NNS ]
+./. 
+
+[ The/DT Research/NNP ]
+and/CC 
+[ Development/NNP term/NN ]
+of/IN 
+[ the/DT PP/NN ]
+will/MD be/VB extended/VBN 
+[ 1-2/CD years/NNS ]
+unavoidably/RB ./. 
+
+However/RB ,/, 
+[ the/DT integrity/NN ]
+of/IN 
+[ the/DT entire/JJ plan/NN ]
+should/MD be/VB maintained/VBN ./. 
+
+Required/JJ 
+[ scale/NN ]
+for/IN 
+[ the/DT PP/JJ ]
+is/VBZ 
+[ 250-280/CD ton\/d/NN ]
+under/IN 
+[ an/DT image/NN ]
+of/IN 
+[ the/DT practical/JJ plant/NN design/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT advantage/NN ]
+as/IN 
+[ a/DT country/NN ]
+of/IN 
+[ underdeveloping/VBG coal/NN liquefaction/NN ]
+should/MD also/RB be/VB taken/VBN ./. 
+
+======================================
+
+[ Mechanism/NN ]
+and/CC 
+[ process/NN ]
+of/IN 
+[ coal/NN liquefaction/NN ]
+are/VBP described/VBN ./. 
+
+Using/VBG 
+[ high-pressure/JJ hydrogen/NN ]
+(/( 
+[ 100-300/CD kg\/cm/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) )/) with/IN 
+[ a/DT 0.1/CD ton\/d/NN coal/NN direct/JJ liquefying/JJ bench/NN plant/NN ]
+at/IN 
+[ a/DT reaction/NN temperature/NN ]
+of/IN 
+[ 400-450/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C/NNP ]
+,/, 
+[ preasphaltene/NN ]
+of/IN 
+[ large/JJ molecular/JJ weight/NN ]
+is/VBZ created/VBN while/IN producing/VBG subsequently/RB 
+[ asphaltene/NN ]
+,/, 
+[ heavy/JJ oil/NN ]
+and/CC 
+[ light/JJ oil/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ revealed/VBN that/IN 
+[ the/DT liquefaction/NN reaction/NN ]
+is/VBZ classified/VBN into/IN 
+[ 2/CD reaction/NN properties/NNS ]
+based/VBN on/IN 
+[ temperatures/NNS ]
+./. 
+
+[ Effective/JJ solutions/NNS ]
+for/IN 
+[ the/DT slurry/NN preheater/NN ]
+and/CC 
+[ the/DT pressure/NN ]
+let/VB down/RP 
+[ system/NN ]
+,/, 
+[ conventionary/RB ]
+encountered/VBN in/IN 
+[ the/DT coal/NN liquefaction/NN process/NN ]
+,/, are/VBP found/VBN ./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ effective/JJ knowledge/NN ]
+on/IN 
+[ catalyzers/NNS ]
+and/CC 
+[ media/NNS|JJ oil/NN ]
+,/, 
+[ etc./RB ]
+are/VBP obtained/VBN for/IN 
+[ reasonable/JJ ]
+and/CC 
+[ advantageous/JJ liquefying/JJ reaction/NN ]
+./. 
+
+(/( 
+[ 13/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+)/) 
+======================================
+
+[ A/DT liquefaction/NN experiment/NN ]
+is/VBZ performed/VBN using/VBG 
+[ 4/CD types/NNS ]
+of/IN 
+[ coal/NN ]
+having/VBG 
+[ different/JJ coal/NN ranks/NNS ]
+./. 
+
+[ The/DT highest/JJS yield/NN ]
+of/IN 
+[ product/NN oil/NN ]
+is/VBZ with/IN 
+[ brown/JJ coal/NN ]
+./. 
+
+[ Brown/JJ coal/NN ]
+also/RB brings/VBZ about/RP 
+[ the/DT largest/JJS phenols/NNS ]
+among/IN 
+[ the/DT contents/NNS ]
+of/IN 
+[ product/NN oil/NN ]
+./. 
+
+[ The/DT middle/JJ distillate/NN ]
+of/IN 
+[ the/DT liquefied/JJ oil/NN ]
+is/VBZ reformed/VBN by/IN 
+[ catalyzers/NNS Ni-Mo\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) and/CC 
+[ CoMo\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) ./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ the/DT former/JJ catalyzer/NN ]
+contributes/VBZ to/TO 
+[ higher/JJR yields/NNS ]
+of/IN 
+[ cyclohexane/NN ]
+and/CC 
+[ methylcyclohexane/NN ]
+,/, 
+[ excellent/JJ ]
+in/IN 
+[ the/DT hydrogen/NN activity/NN ]
+of/IN 
+[ benzene/NN ring/NN ]
+./. 
+
+[ The/DT latter/JJ catalyzer/NN ]
+brings/VBZ about/RP 
+[ higher/JJR yield/NN ]
+of/IN 
+[ toluene/NN ]
+./. 
+
+[ Middle/JJ distillate/NN ]
+of/IN 
+[ liquefied/JJ oil/NN ]
+is/VBZ mixed/VBN with/IN 
+[ light/JJ oil/NN ]
+and/CC used/VBN as/IN 
+[ fuel/NN ]
+for/IN 
+[ the/DT diesel/JJ engine/NN ]
+./. 
+
+[ Revealed/JJ results/NNS ]
+include/VBP 
+[ lower/JJR cetane/NN number/NN ]
+,/, 
+[ slight/JJ increase/NN ]
+of/IN 
+[ fuel/NN consumption/NN rate/NN ]
+and/CC 
+[ increase/NN ]
+of/IN 
+[ benzopyrene/NN ]
+./. 
+
+[ The/DT result/NN ]
+of/IN 
+[ operating/VBG passenger/NN car/NN ]
+,/, with/IN 
+[ a/DT fuel/NN ]
+of/IN 
+[ octane/NN number/NN 91/CD ]
+for/IN 
+[ the/DT gasoline/NN distillate/NN ]
+of/IN 
+[ liquefied/JJ oil/NN ]
+reveals/VBZ 
+[ similar/JJ performance/NN ]
+to/TO 
+[ conventional/JJ gasoline/NN ]
+./. 
+
+(/( 
+[ 16/CD figs/NNS ]
+,/, 
+[ 7/CD tabs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+,/, 
+[ 19/CD refs/NNS ]
+)/) 
+======================================
+
+[ Present/JJ status/NN ]
+and/CC 
+[ forercast/NN ]
+of/IN 
+[ the/DT Japan\/NNP joint/JJ brown/JJ coal/NN liquefaction/NN project/NN ]
+is/VBZ reviewed/VBN ./. 
+
+[ The/DT project/NN ]
+is/VBZ supported/VBN in/IN 
+[ technology/NN ]
+and/CC 
+[ finance/NN ]
+by/IN 
+[ Japan/NNP ]
+while/IN 
+[ Australia/NNP ]
+submitting/VBG 
+[ crude/JJ brown/JJ coal/NN ]
+and/CC 
+[ land/NN ]
+,/, 
+[ etc/RB ]
+./. 
+
+[ A/DT pilot/NN plant/NN ]
+,/, capable/JJ to/TO process/VB 
+[ brown/JJ coal/NN ]
+at/IN 
+[ 150/CD ton\/d/NN ]
+(/( 
+[ 50/CD tons/NNS ]
+in/IN 
+[ dry/JJ coal/NN basis/NN ]
+)/) ,/, has/VBZ been/VBN constructed/VBN and/CC operated/VBN by/IN 
+[ the/DT Japan/NNP Brown/NNP Coal/NNP Liquefaction/NNP Co./NNP ]
+,/, 
+[ Ltd./NNP ]
+,/, 
+[ a/DT subcontractor/NN ]
+of/IN 
+[ NEDO/NNP ]
+,/, and/CC 
+[ its/PRP$ local/JJ cooporation/NN ]
+in/IN 
+[ Victoria/NNP ]
+./. 
+
+[ The/DT primary/JJ liquefaction/NN process/NN ]
+was/VBD completed/VBN in/IN 
+[ 1985/CD ]
+,/, while/IN also/RB completing/VBG 
+[ the/DT secondary/JJ liquefaction/NN process/NN ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+Combined/VBN 
+[ operation/NN ]
+of/IN 
+[ the/DT primary/NN ]
+and/CC 
+[ the/DT secondary/NN ]
+is/VBZ also/RB continued/VBN ./. 
+
+After/IN 
+[ completion/NN ]
+of/IN 
+[ pilot/NN plant/NN operation/NN ]
+,/, 
+[ the/DT plant/NN ]
+will/MD be/VB operated/VBN by/IN 
+[ a/DT target/NN production/NN ]
+of/IN 
+[ 15,000/CD ton\/d/NN x/NN 6/CD lines/NNS ]
+,/, 
+[ 100/CD barrel\/d/NN ]
+of/IN 
+[ liquefied/JJ oil/NN ]
+./. 
+
+[ It/PRP ]
+appears/VBZ that/IN liquefied/JJ 
+[ oil/NN ]
+might/MD become/VB economically/RB competitive/JJ against/IN 
+[ oil/NN products/NNS ]
+around/IN 
+[ 2000/CD ]
+./. 
+
+(/( 
+[ 4/CD figs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ order/NN ]
+to/TO study/VB 
+[ the/DT combustion/NN rate/NN ]
+and/CC 
+[ existing/JJ states/NNS ]
+of/IN 
+[ coke/NN ]
+
+[ which/WDT ]
+would/MD govern/VB 
+[ the/DT temperature/NN patterns/NNS ]
+in/IN 
+[ the/DT sintering/JJ bed/NN ]
+and/CC 
+[ resulting/VBG sinter/NN properties/NNS ]
+,/, 
+[ some/DT quasi-granules/NNS ]
+of/IN 
+[ alumina/NN particles/NNS ]
+and/CC 
+[ coke/NN ]
+of/IN 
+[ different/JJ existing/JJ states/NNS ]
+
+[ which/WDT ]
+were/VBD modelled/VBN 
+[ S/NN ]
+(/( 
+[ single/NN ]
+)/) and/CC 
+[ P/NN ]
+(/( 
+[ pellet/NN ]
+)/) 
+[ types/NNS ]
+,/, were/VBD prepared/VBN and/CC tested/VBN in/IN 
+[ a/DT packed/JJ bed/NN ]
+,/, and/CC analyzed/VBN by/IN applying/VBG 
+[ the/DT unreacted-core/JJ model/NN ]
+./. 
+
+[ The/DT existing/JJ states/NNS ]
+remarkablely/RB influenced/VBD 
+[ the/DT rate/NN ]
+of/IN 
+[ coke/NN combustion/NN ]
+and/CC 
+[ S/NN type/NN ]
+indicated/VBD 
+[ very/RB slow/JJ combustion/NN rate/NN ]
+compared/VBN with/IN 
+[ S/NN ]
+'/'' 
+[ type/NN ]
+(/( where/WRB 
+[ alumina/NN particles/NNS ]
+were/VBD not/RB adhered/VBN to/TO 
+[ coke/NN ]
+)/) ./. 
+
+When/WRB melting/NN of/IN 
+[ adhered/VBN particles/NNS ]
+did/VBD not/RB occur/VB ,/, 
+[ the/DT combustion/NN rate/NN ]
+could/MD be/VB estimated/VBN with/IN 
+[ the/DT unreacted-core/JJ model/NN ]
+./. 
+
+In/IN 
+[ the/DT S/NN type/NN combustion/NN ]
+,/, 
+[ the/DT width/NN ]
+of/IN 
+[ combustion/NN zone/NN ]
+spreaded/VBD to/TO 
+[ the/DT direction/NN ]
+of/IN 
+[ higher/JJR zone/NN ]
+at/IN 
+[ constant/JJ conditions/NNS ]
+,/, 
+[ which/WDT ]
+meant/VBD 
+[ expansion/NN ]
+of/IN 
+[ higher/JJR temperature/NN area/NN ]
+,/, suggesting/VBG 
+[ that/IN coke/NN ]
+existing/JJ 
+[ states/NNS ]
+influenced/VBD also/RB on/IN 
+[ pressure/NN loss/NN ]
+of/IN 
+[ the/DT sintering/NN bed/NN ]
+./. 
+
+(/( 
+[ 9/CD refs/NNS ]
+,/, 
+[ 14/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+)/) 
+======================================
+
+[ The/DT process/NN ]
+of/IN 
+[ anionization/NN ]
+of/IN 
+[ coal/NN ]
+by/IN 
+[ molten/JJ potassium/NN ]
+under/IN refluxing/NN 
+[ THF/NN ]
+(/( 
+[ tetrahydrofuran/NN ]
+)/) as/IN 
+[ an/DT analysis/NN ]
+of/IN 
+[ coal/NN ]
+followed/VBN by/IN 
+[ reductive/JJ alkylation/NN ]
+by/IN 
+[ ethyl/NN iodide/NN ]
+was/VBD investigated/VBN ./. 
+
+[ The/DT anionizing/JJ reaction/NN ]
+is/VBZ accelerated/VBN by/IN adding/VBG 
+[ 18-crown-6/NN ]
+for/IN 
+[ the/DT period/NN ]
+of/IN 
+[ time/NN ]
+as/RB short/JJ as/IN 
+[ 0.5/CD hour/NN ]
+,/, wherein/WRB approximately/RB 
+[ six/CD ethyl/NN groups/NNS ]
+per/IN 
+[ a/DT hundred/CD carbon/NN atoms/NNS ]
+are/VBP introduced/VBN into/IN 
+[ the/DT molecule/NN ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ 69/CD wt/NN %/SYM ]
+of/IN 
+[ ethylated/JJ Yubari/NNP coal/NN ]
+produced/VBN is/VBZ solubilized/VBN ./. 
+
+[ The/DT reaction/NN ]
+is/VBZ ,/, however/RB ,/, inhibited/VBN by/IN 
+[ the/DT addition/NN ]
+of/IN 
+[ potassium/NN iodide/NN ]
+./. 
+
+[ Such/PDT a/DT phenomenon/NN ]
+is/VBZ affected/VBN by/IN 
+[ the/DT molten/JJ potassium/NN ]
+in/IN 
+[ THF/NN ]
+and/CC 
+[ solvating/JJ electron/NN ]
+./. 
+
+Thus/RB ,/, 
+[ a/DT chemical/JJ species/NN ]
+dissolved/VBN in/IN 
+[ the/DT solvent/NN ]
+plays/VBZ 
+[ an/DT important/JJ role/NN ]
+./. 
+
+[ The/DT cleavage/NN ]
+of/IN 
+[ ether/DT ]
+takes/VBZ 
+[ place/NN ]
+preferentically/RB by/IN 
+[ adding/VBG potassium/NN iodide/NN ]
+,/, while/IN 
+[ aromatic/JJ ring/NN ]
+is/VBZ effectively/RB alkylated/VBN by/IN 
+[ adding/VBG crown/NN ]
+./. 
+
+(/( 
+[ 16/CD refs/NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+)/) 
+======================================
+
+[ X-ray/NN fluorescence/NN method/NN ]
+was/VBD applied/VBN to/TO 
+[ the/DT analysis/NN ]
+of/IN 
+[ sulfate/NN ]
+and/CC 
+[ pyritic/JJ sulfurs/NNS ]
+contained/VBN in/IN 
+[ coal/NN ]
+to/TO establish/VB 
+[ the/DT analytical/JJ method/NN ]
+by/IN comparing/VBG with/IN 
+[ the/DT analytical/JJ data/NN ]
+by/IN 
+[ ISO/NN ]
+./. 
+
+[ The/DT extraction/NN process/NN ]
+of/IN 
+[ sulfate/NN ]
+and/CC 
+[ pyritic/JJ sulfurs/NNS ]
+in/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+is/VBZ 
+[ the/DT same/JJ ]
+as/IN that/DT in/IN 
+[ ISO/NN ]
+./. 
+
+Since/IN 
+[ sulfate/NN ]
+and/CC 
+[ pyritic/JJ sulfurs/NNS ]
+collected/VBN on/IN 
+[ membrane/NN filter/NN ]
+are/VBP ,/, however/RB ,/, analyzed/VBN by/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+,/, 
+[ the/DT subsequent/JJ procedure/NN ]
+was/VBD able/JJ to/TO be/VB simplified/VBN ./. 
+
+[ The/DT samples/NNS ]
+of/IN 
+[ twenty/CD three/CD ranks/NNS ]
+of/IN 
+[ coal/NN ]
+were/VBD analyzed/VBN by/IN 
+[ both/CC X-ray/NN fluorescence/NN method/NN ]
+and/CC 
+[ ISO/NN ]
+./. 
+
+[ The/DT result/NN ]
+indicates/VBZ that/IN 
+[ there/EX ]
+is/VBZ 
+[ no/DT significant/JJ difference/NN ]
+between/IN 
+[ both/DT analytical/JJ methods/NNS ]
+./. 
+
+[ The/DT lower/JJR limit/NN ]
+of/IN 
+[ determination/NN ]
+in/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+is/VBZ lower/JJR than/IN that/DT by/IN 
+[ ISO/NN ]
+./. 
+
+[ The/DT analysis/NN ]
+of/IN 
+[ pyritic/JJ sulfur/NN ]
+by/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+requires/VBZ 
+[ no/DT reagents/NNS ]
+of/IN 
+[ heavy-metallic/JJ compounds/NNS ]
+such/DT as/IN 
+[ tin/NN ]
+,/, 
+[ mercury/NN ]
+and/CC 
+[ chromium/NN ]
+used/VBN in/IN 
+[ ISO/NN ]
+./. 
+
+(/( 
+[ 6/CD refs/NNS ]
+,/, 
+[ 4/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+Since/IN 
+[ the/DT total/JJ sulfur/NN content/NN ]
+of/IN 
+[ coal/NN ]
+can/MD be/VB determined/VBN more/RBR effectively/RB together/RB with/IN 
+[ the/DT other/JJ inorganic/JJ elements/NNS ]
+by/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+than/IN by/IN 
+[ the/DT other/JJ ]
+analyses/NNS ,/, 
+[ the/DT validity/NN ]
+of/IN 
+[ this/DT method/NN ]
+was/VBD examined/VBN ./. 
+
+Determining/VBG 
+[ the/DT total/JJ sulfur/NN contents/NNS ]
+of/IN 
+[ various/JJ ranks/NNS ]
+of/IN 
+[ coal/NN ]
+from/IN 
+[ lignite/NN ]
+to/TO 
+[ bituminous/JJ coal/NN ]
+(/( 
+[ strong/JJ caking/JJ coal/NN ]
+)/) ,/, 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+was/VBD compared/VBN with/IN 
+[ the/DT combustion/NN IR/NN method/NN ]
+./. 
+
+[ The/DT samples/NNS ]
+were/VBD prepared/VBN by/IN 
+[ powder/NN press/NN molding/NN using/VBG aluminum/NN ring/NN ]
+./. 
+
+[ The/DT elements/NNS ]
+requiring/VBG 
+[ the/DT correction/NN ]
+of/IN 
+[ X-ray/NN absorption/NN ]
+are/VBP extended/VBN by/IN using/VBG 
+[ a/DT simplified/JJ Berman/NNP ]
+and/CC 
+[ others/NNS '/POS method/NN ]
+./. 
+
+[ The/DT result/NN ]
+indicates/VBZ that/IN 
+[ the/DT X-ray/NN fluorescence/NN method/NN ]
+is/VBZ effectively/RB used/VBN for/IN 
+[ the/DT analysis/NN ]
+of/IN 
+[ total/JJ sulfur/NN content/NN ]
+and/CC 
+[ the/DT analytical/JJ accuracy/NN ]
+is/VBZ improved/VBN by/IN 
+[ the/DT extension/NN ]
+of/IN 
+[ elements/NNS ]
+requiring/VBG 
+[ the/DT correction/NN ]
+of/IN 
+[ X-ray/NN absorption/NN ]
+./. 
+
+[ The/DT X-ray/NN fluorescence/NN method/NN ]
+can/MD be/VB applied/VBN to/TO 
+[ the/DT coals/NNS ]
+containing/VBG 
+[ 50/CD %/SYM ]
+or/CC 
+[ less/JJR ]
+of/IN 
+[ ash/NN ]
+./. 
+
+(/( 
+[ 7/CD refs/NNS ]
+,/, 
+[ 1/CD fig/NN ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+Cracked/JJ 
+[ oils/NNS ]
+from/IN 
+[ heavy/JJ oil/NN ]
+,/, 
+[ oil/NN shale/NN ]
+and/CC 
+[ coal/NN ]
+include/VBP 
+[ much/JJ olefins/NNS ]
+of/IN 
+[ high/JJ reactivity/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ required/VBN to/TO determine/VB 
+[ olefins/NNS contents/NNS ]
+because/IN 
+[ olefins/NNS ]
+cause/VBP 
+[ coloring/NN ]
+or/CC 
+[ gum/NN ]
+./. 
+
+[ High/JJ performance/NN liquid/NN chromatography/NN ]
+was/VBD used/VBN for/IN 
+[ analysis/NN ]
+of/IN 
+[ olefins/NNS ]
+and/CC 
+[ the/DT optimum/JJ concentration/NN ]
+of/IN 
+[ silver/JJ nitrate/NN ]
+was/VBD determined/VBN on/IN 
+[ the/DT AgNO/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ impregnated-silica/NN column/NN ]
+
+[ which/WDT ]
+was/VBD used/VBN for/IN 
+[ improving/VBG separation/NN ]
+of/IN 
+[ olefins/NNS ]
+by/IN connecting/VBG to/TO 
+[ a/DT silica/NN column/NN ]
+./. 
+
+[ The/DT optimum/JJ concentration/NN ]
+when/WRB 
+[ n-hexane/NN ]
+was/VBD selected/VBN as/IN 
+[ a/DT mobile/JJ phase/NN ]
+,/, ranged/VBD from/IN 
+[ 0.2/CD ]
+to/TO 
+[ 0.4/CD %/SYM ]
+to/TO 
+[ the/DT dry/JJ weight/NN ]
+of/IN 
+[ silica/NN gel/NN ]
+used/VBN as/IN 
+[ a/DT carrier/NN ]
+./. 
+
+When/WRB 
+[ the/DT column/NN ]
+of/IN 
+[ this/DT concentration/NN range/NN ]
+was/VBD used/VBN ,/, 
+[ olefins/NNS ]
+could/MD be/VB separated/VBN sufficiently/RB from/IN 
+[ paraffins/NNS ]
+and/CC 
+[ diolefin/NN ]
+of/IN comparatively/RB longer/RB holding/NN 
+[ time/NN ]
+could/MD be/VB separated/VBN from/IN 
+[ aromatics/NNS ]
+./. 
+
+And/CC 
+[ further/JJR recoveries/NNS ]
+of/IN 
+[ diolefin/NN ]
+and/CC 
+[ cycloctene/NN ]
+were/VBD considerably/RB higher/JJR than/IN 
+[ those/DT ]
+obtained/VBN by/IN 
+[ high/JJ concentration/NN columns/NNS ]
+./. 
+
+(/( 
+[ 18/CD refs/NNS ]
+,/, 
+[ 4/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+[ No.2/JJ unit/NN ]
+of/IN 
+[ Tomato-Atsuma/NNP Thermal/NNP Power/NNP Station/NNP ]
+began/VBD 
+[ the/DT commercial/JJ operation/NN ]
+in/IN 
+[ 1985/CD ]
+as/IN 
+[ a/DT 600/CD MW/NN imported-coal/NN ]
+fired/VBN 
+[ power/NN plant/NN ]
+aiming/VBG at/IN increasingly/RB promoting/VBG 
+[ oil/NN backout/NN ]
+and/CC using/VBG 
+[ diversified/JJ fuels/NNS ]
+./. 
+
+[ Improvement/NN ]
+of/IN 
+[ efficiency/NN ]
+by/IN 
+[ the/DT investigation/NN ]
+of/IN 
+[ economics/NNS ]
+making/VBG 
+[ the/DT best/JJS use/NN ]
+of/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ scaling-up/NN ]
+and/CC using/VBG 
+[ various/JJ grades/NNS ]
+of/IN 
+[ coal/NN ]
+as/RB well/RB as/IN 
+[ the/DT new/JJ technologies/NNS ]
+such/DT as/IN 
+[ supercritical/JJ pressure/NN system/NN ]
+,/, 
+[ energy/NN conservation/NN ]
+and/CC integrated/JJ 
+[ automatic/JJ operation/NN system/NN ]
+have/VBP been/VBN adopted/VBN ./. 
+
+[ The/DT concentration/NN ]
+of/IN 
+[ NOx/NN ]
+in/IN 
+[ the/DT exhaust/NN gas/NN ]
+is/VBZ as/RB low/JJ as/IN 
+[ 150/CD ppm/NN ]
+or/CC under/IN without/IN 
+[ installing/VBG denitration/NN facilities/NNS ]
+based/VBN on/IN 
+[ the/DT new/JJ pulverized/JJ coal/NN firing/NN equipment/NN ]
+for/IN lowering/VBG 
+[ NOx/NN ]
+./. 
+
+[ The/DT environmental/JJ measures/NNS ]
+such/DT as/IN 
+[ the/DT exhaust/NN gas/NN desulphurizer/NN ]
+,/, 
+[ electrostatic/JJ precipitator/NN ]
+and/CC 
+[ ash/NN land/NN ]
+fill/NN 
+[ site/NN ]
+are/VBP sufficiently/RB secured/VBN ./. 
+
+[ The/DT performance/NN ]
+of/IN 
+[ this/DT unit/NN ]
+was/VBD confirmed/VBN by/IN 
+[ the/DT test/NN operation/NN ]
+,/, firing/NN 
+[ identification/NN test/NN ]
+and/CC 
+[ experience/NN ]
+of/IN 
+[ operation/NN ]
+./. 
+
+[ The/DT gloss/NN thermal/JJ efficiency/NN ]
+is/VBZ on/IN 
+[ the/DT highest/JJS level/NN ]
+as/RB much/RB as/IN 
+[ 42.57/CD %/SYM ]
+./. 
+
+[ The/DT know-how/NN ]
+on/IN firing/VBG 
+[ the/DT imported/JJ coal/NN ]
+has/VBZ been/VBN accumulated/VBN ./. 
+
+[ The/DT unit/NN ]
+is/VBZ at/IN present/RB operated/VBN smoothly/RB at/IN 
+[ a/DT high/JJ rate/NN ]
+for/IN 
+[ the/DT base/JJ load/NN ]
+to/TO contribute/VB to/TO 
+[ the/DT stable/JJ supply/NN ]
+and/CC 
+[ cost/NN reduction/NN ]
+./. 
+
+(/( 
+[ 12/CD figs/NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ Fine/JJ fibers/NNS ]
+of/IN 
+[ vinylidene/NN chloride/NN ]
+are/VBP 
+[ crimped/VBN ]
+and/CC bundled/VBN forming/VBG 
+[ spheres/NNS ]
+of/IN 
+[ 30/CD mm/NN diameter/NN ]
+as/IN 
+[ a/DT filter/NN material/NN ]
+./. 
+
+[ Filtration/NN test/NN ]
+is/VBZ performed/VBN with/IN 
+[ charged/JJ material/NN quantities/NNS ]
+of/IN 
+[ 24/CD ]
+,/, 
+[ 32/CD ]
+and/CC 
+[ 50/CD kg\/m/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) ,/, at/IN 
+[ a/DT flow/NN rate/NN ]
+of/IN 
+[ 50/CD m/NN ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ \/m/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) .h\/NN 
+
+./. 
+
+With/IN 
+[ a/DT raw/JJ water/NN SS/NN concentration/NN ]
+of/IN 
+[ 1.5-10/CD mg\/l/NN ]
+,/, 
+[ removal/NN ratios/NNS ]
+are/VBP 
+[ 59/CD ]
+,/, 
+[ 72/CD ]
+and/CC 
+[ 81/CD %/SYM ]
+,/, respectively/RB ./. 
+
+[ The/DT filter/NN material/NN ]
+,/, after/IN collecting/VBG 
+[ suspended/JJ solids/NNS ]
+,/, is/VBZ compressed/VBN but/CC ,/, after/IN being/VBG backwashed/VBN ,/, 
+[ the/DT material/NN ]
+is/VBZ inflated/VBN by/IN 
+[ the/DT resilient/JJ force/NN ]
+of/IN 
+[ the/DT filter/NN material/NN ]
+while/IN easily/RB separating/VBG 
+[ suspended/JJ solids/NNS ]
+./. 
+
+[ A/DT small/JJ specific/JJ gravity/NN ]
+of/IN 
+[ 1.7/CD ]
+for/IN 
+[ the/DT filter/NN material/NN helps/NNS ]
+agitate/VB 
+[ the/DT filter/NN material/NN ]
+by/IN 
+[ a/DT small/JJ flow/NN rate/NN ]
+of/IN 
+[ backwashing/VBG air/NN ]
+,/, thus/RB suspended/JJ 
+[ solids/NNS ]
+can/MD be/VB easily/RB isolated/VBN through/IN 
+[ collision/NN ]
+between/IN 
+[ the/DT filter/NN material/NN ]
+and/CC 
+[ equipment/NN wall/NN ]
+and/CC between/IN 
+[ the/DT spheres/NNS ]
+of/IN 
+[ the/DT filter/NN material/NN ]
+./. 
+
+[ The/DT filter/NN material/NN ]
+provides/VBZ 
+[ higher/JJR void/NN ratio/NN ]
+,/, 
+[ larger/JJR specific/JJ surface/NN area/NN ]
+and/CC 
+[ excellent/JJ adhesion/NN ]
+onto/IN 
+[ the/DT surface/NN ]
+,/, 
+[ which/WDT ]
+can/MD assure/VB 
+[ larger/JJR removal/NN rate/NN ]
+of/IN 
+[ suspended/JJ solids/NNS ]
+and/CC 
+[ higher/JJR filtrating/NN speed/NN ]
+./. 
+
+(/( 
+[ 6/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+,/, 
+[ 7/CD photos/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ order/NN ]
+to/TO establish/VB 
+[ countermeasures/NNS ]
+to/TO prevent/VB 
+[ coal/NN dust/NN dispersion/NN ]
+from/IN 
+[ coal/NN ]
+unloading/NN ,/, transporting/NN and/CC 
+[ storage/NN facilities/NNS ]
+,/, 
+[ the/DT prediction/NN technique/NN ]
+and/CC 
+[ the/DT preventing/JJ countermeasures/NNS ]
+were/VBD verified/VBN at/IN 
+[ Onoda/NNP Power/NNP Station/NNP ]
+of/IN 
+[ The/DT Chugoku/NNP Electric/NNP Power/NNP Co./NNP ]
+,/, 
+[ Ltd/NNP ]
+./. 
+
+[ The/DT prediction/NN formula/NN ]
+of/IN 
+[ coal/NN dust/NN generation/NN ]
+from/IN 
+[ the/DT coal/NN storage/NN pile/NN ]
+or/CC 
+[ coal/NN ]
+unloading/NN 
+[ facilities/NNS ]
+was/VBD derived/VBN from/IN 
+[ wind/NN tunnel/NN ]
+and/CC 
+[ outdoor/JJ experiments/NNS ]
+,/, and/CC 
+[ the/DT coal/NN dust/NN fall/NN rate/NN ]
+was/VBD predicted/VBN with/IN 
+[ the/DT coal/NN dust/NN dispersion/NN prediction/NN program/NN ]
+combined/VBD|VBN 
+[ the/DT prediction/NN formula/NN ]
+and/CC 
+[ the/DT particle/NN diffusion/NN theory/NN ]
+./. 
+
+As/IN 
+[ the/DT preventing/JJ countermeasures/NNS ]
+,/, 
+[ wind/NN ]
+protecting/NN 
+[ covers/NNS ]
+and/CC 
+[ plates/NNS ]
+over/IN 
+[ the/DT coal/NN storage/NN pile/NN ]
+and/CC 
+[ coal/NN facilities/NNS ]
+,/, and/CC 
+[ water/NN sprinklers/NNS ]
+were/VBD 
+[ equiped/VBN ]
+,/, adding/VBG to/TO 
+[ the/DT operating/NN instruction/NN ]
+not/RB to/TO unload/VB at/IN 
+[ strong/JJ wind/NN condition/NN ]
+(/( 
+[ wind/NN speed/NN ]
+of/IN 
+[ min./NN 15m\/s/CD ]
+)/) and/CC to/TO keep/VB 
+[ surface/NN moisture/NN ]
+of/IN 
+[ the/DT coal/NN storage/NN pile/NN ]
+to/TO 
+[ min/NN ]
+,/, 
+[ 8/CD %/SYM ]
+./. 
+
+[ >/NN ]
+From/IN 
+[ comparison/NN ]
+of/IN 
+[ practical/JJ measurements/NNS ]
+with/IN 
+[ simulated/JJ values/NNS ]
+,/, 
+[ the/DT correlation/NN coefficient/NN ]
+over/IN 
+[ 0.8/CD ]
+could/MD be/VB obtained/VBN ./. 
+
+After/IN 
+[ application/NN ]
+of/IN 
+[ the/DT countermeasures/NNS ]
+,/, 
+[ the/DT fall/NN rate/NN ]
+of/IN 
+[ coal/NN dusts/NNS ]
+was/VBD lowered/VBN to/TO about/IN 
+[ two/CD third/NN ]
+./. 
+
+(/( 
+[ 2/CD refs/NNS ]
+,/, 
+[ 25/CD figs/NNS ]
+,/, 
+[ 8/CD tabs/NNS ]
+)/) 
+======================================
+
+In/IN 
+[ an/DT attempt/NN ]
+to/TO drain/VB 
+[ a/DT large/JJ volume/NN ]
+of/IN 
+[ gas/NN ]
+,/, 
+[ a/DT high-speed/JJ water/NN jet/NN ]
+is/VBZ used/VBN to/TO drill/VB and/CC enlarge/VB 
+[ a/DT borehole/NN ]
+so/RB that/IN 
+[ cracks/NNS ]
+around/IN 
+[ the/DT borehole/NN ]
+will/MD be/VB expanded/VBN ./. 
+
+[ Results/NNS ]
+of/IN 
+[ a/DT series/NN ]
+of/IN 
+[ basic/JJ tests/NNS ]
+show/VBP that/IN 
+[ craters/NNS ]
+and/CC 
+[ slits/NNS ]
+become/VBP deeper/JJR as/IN 
+[ the/DT nozzle/NN diameter/NN ]
+and/CC 
+[ the/DT jet/NN pressure/NN ]
+is/VBZ increased/VBN ./. 
+
+[ The/DT depth/NN ]
+of/IN 
+[ slits/NNS ]
+also/RB increases/VBZ with/IN 
+[ decreasing/JJ rate/NN ]
+of/IN 
+[ delivery/NN ]
+./. 
+
+[ The/DT relations/NNS ]
+of/IN 
+[ the/DT cutting/NN depth/NN ]
+with/IN 
+[ the/DT distance/NN ]
+(/( 
+[ L/NN ]
+)/) between/IN 
+[ the/DT coal/NN sample/NN ]
+and/CC 
+[ the/DT nozzle/NN ]
+are/VBP examined/VBN ,/, showing/VBG that/IN 
+[ the/DT cutting/NN depth/NN increases/NNS ]
+with/IN decreasing/JJ 
+[ L./NN ]
+
+[ A/DT study/NN ]
+is/VBZ made/VBN on/IN 
+[ the/DT application/NN ]
+of/IN 
+[ the/DT system/NN ]
+to/TO 
+[ practical/JJ cases/NNS ]
+./. 
+
+[ Results/NNS ]
+suggest/VBP that/IN with/IN 
+[ a/DT nozzle/NN diameter/NN ]
+of/IN above/IN 
+[ 1.0/CD mm/NN ]
+and/CC 
+[ a/DT jet/NN pressure/NN ]
+of/IN above/IN 
+[ 300/CD kg\/cm/NN ]
+,/, 
+[ the/DT system/NN ]
+would/MD be/VB able/JJ to/TO provide/VB 
+[ a/DT borehole/NN ]
+with/IN 
+[ a/DT diameter/NN ]
+of/IN above/IN 
+[ 200/CD mm/NN ]
+in/IN 
+[ Taiheiyo/NNP Coal/NNP Mine/NNP ]
+or/CC 
+[ one/CD ]
+with/IN 
+[ a/DT diameter/NN ]
+of/IN above/IN 
+[ 300/CD mm/NN ]
+in/IN 
+[ Akahira/NNP Coal/NNP Mine/NNP ]
+./. 
+
+(/( 
+[ 4/CD refs/NNS ]
+,/, 
+[ 20/CD figs/NNS ]
+,/, 
+[ 4/CD tabs/NNS ]
+,/, 
+[ 3/CD photos/NNS ]
+)/) 
+======================================
+
+[ Coal/NN circumstances/NNS ]
+,/, particularly/RB 
+[ an/DT outline/NN ]
+of/IN 
+[ coal/NN resources/NNS exploitation/NN ]
+in/IN 
+[ West/NNP Germany/NNP ]
+,/, 
+[ France/NNP ]
+and/CC 
+[ U.K./NNP ]
+is/VBZ reported/VBN ./. 
+
+In/IN 
+[ West/NNP Germany/NNP ]
+,/, 
+[ test/NN boring/NN ]
+and/CC 
+[ physical/JJ survey/NN ]
+have/VBP been/VBN performed/VBN in/IN 
+[ Ruhr/NNP coal/NN mine/NN ]
+in/IN 
+[ these/DT 10/CD years/NNS ]
+by/IN 
+[ 466/CD shafts/NNS ]
+and/CC 
+[ an/DT extension/NN ]
+of/IN 
+[ 1,488/CD km/NN ]
+,/, respectively/RB ./. 
+
+[ The/DT French/JJ government/NN ]
+predicts/VBZ 
+[ an/DT estimated/JJ coal/NN reserve/NN ]
+of/IN about/IN 
+[ 114/CD million/CD tons/NNS ]
+and/CC 
+[ a/DT most/RBS probable/JJ quantity/NN ]
+of/IN 
+[ coal/NN reserve/NN ]
+of/IN about/IN 
+[ 450/CD million/CD tons/NNS ]
+according/VBG to/TO 
+[ a/DT survey/NN ]
+for/IN 
+[ ore/NN reserve/NN ]
+in/IN 
+[ Ruhr/NNP ]
+and/CC 
+[ Saar/NNP coal/NN mines/NNS ]
+,/, 
+[ etc./NN ]
+in/IN 
+[ a/DT classification/NN ]
+of/IN economically/RB 
+[ acceptble/JJ shallow/JJ zone/NN ]
+(/( 
+[ 500/CD m/NN ]
+or/CC 
+[ less/JJR ]
+from/IN 
+[ the/DT ground/NN surface/NN ]
+)/) ,/, 
+[ medium/JJ deep/JJ zone/NN ]
+,/, currently/RB not/RB competitive/JJ but/CC soon/RB becoming/VBG 
+[ competitive/JJ ]
+(/( 
+[ 500/CD ]
+-/: 
+[ 1,000/CD m/NN ]
+)/) and/CC 
+[ deep/JJ zone/NN ]
+where/WRB 
+[ underground/JJ coal/NN gasification/NN ]
+can/MD apply/VB ./. 
+
+[ Exploitation/NN results/NNS ]
+in/IN 
+[ the/DT U.K./NNP ]
+in/IN 
+[ 1984/CD ]
+include/VBP 
+[ 32/CD test/NN borings/NNS ]
+and/CC 
+[ 312/CD km/NN ]
+of/IN 
+[ physical/JJ survey/NN ]
+./. 
+
+Impressively/RB ,/, 
+[ each/DT country/NN ]
+is/VBZ making/VBG 
+[ utmost/JJ effort/NN ]
+to/TO reserve/VB 
+[ own/JJ energy/NN resource/NN ]
+and/CC recover/VB 
+[ economic/JJ competitiveness/NN ]
+./. 
+
+(/( 
+[ 10/CD tabs/NNS ]
+,/, 
+[ 2/CD photos/NNS ]
+)/) 
+======================================
+
+[ Australia/NNP ]
+and/CC 
+[ New/NNP Zealand/NNP ]
+,/, sharing/VBG 
+[ 46.7/CD %/SYM ]
+of/IN 
+[ imported/JJ coal/NN quantity/NN ]
+in/IN 
+[ Japan/NNP ]
+,/, are/VBP surveyed/VBN for/IN 
+[ the/DT assessment/NN ]
+and/CC 
+[ comparison/NN ]
+of/IN 
+[ major/JJ overseas/JJ coal/NN ]
+supplying/VBG 
+[ countries/NNS ]
+in/IN 
+[ view/NN ]
+of/IN 
+[ long-term/JJ supply/NN stability/NN ]
+./. 
+
+Surveyed/VBN 
+[ items/NNS ]
+include/VBP 
+[ brief/JJ history/NN ]
+of/IN 
+[ coal/NN industry/NN ]
+,/, 
+[ outline/NN ]
+of/IN 
+[ current/JJ status/NN ]
+,/, 
+[ national/JJ reserve/NN quantity/NN ]
+and/CC 
+[ mine/JJ property/NN ]
+,/, 
+[ coal/NN qualities/NNS ]
+and/CC 
+[ grades/NNS ]
+,/, 
+[ governmental/JJ policies/NNS ]
+and/CC 
+[ taxation/NN ]
+for/IN 
+[ coal/NN ]
+,/, 
+[ environmental/JJ protection/NN ]
+,/, 
+[ procedures/NNS ]
+for/IN 
+[ the/DT approval/NN ]
+of/IN 
+[ new/JJ coal/NN mine/NN development/NN ]
+,/, 
+[ labor/NN circumstances/NNS ]
+,/, 
+[ export/NN ]
+and/CC 
+[ domestic/JJ consumption/NN ]
+,/, 
+[ completion/NN ]
+of/IN 
+[ infrastructure/NN ]
+,/, 
+[ calculation/NN ]
+of/IN 
+[ exporting/VBG coal/NN chain/NN cost/NN ]
+,/, 
+[ etc/RB ]
+./. 
+
+[ Australia/NNP ]
+retains/VBZ 
+[ superiority/NN ]
+as/IN 
+[ a/DT coal/NN supplying/VBG country/NN ]
+./. 
+
+However/RB ,/, 
+[ labor/NN circumstances/NNS ]
+must/MD be/VB watched/VBN ./. 
+
+[ New/NNP Zealand/NNP ]
+retains/VBZ 
+[ coal/NN reserve/NN ]
+,/, although/IN not/RB 
+[ abundant/JJ ]
+,/, of/IN 
+[ satisfactory/JJ quality/NN level/NN ]
+./. 
+
+However/RB ,/, 
+[ modernization/NN ]
+of/IN 
+[ coal/NN mines/NNS ]
+are/VBP required/VBN together/RB with/IN 
+[ modifications/NNS ]
+of/IN 
+[ socioeconimic/JJ infrastructure/NN ]
+./. 
+
+(/( 
+[ 8/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 3/CD photos/NNS ]
+)/) 
+======================================
+
+[ The/DT measurement/NN ]
+of/IN 
+[ pulsation/NN period/NN ]
+of/IN 
+[ gas/NN bubble/NN ]
+generated/VBN from/IN 
+[ underwater/JJ explosion/NN ]
+with/IN 
+[ a/DT large/JJ amount/NN ]
+of/IN 
+[ a/DT insensitive/JJ explosive/NN ]
+was/VBD tested/VBN by/IN 
+[ a/DT microphone/NN ]
+in/IN 
+[ air/NN ]
+in/IN 
+[ place/NN ]
+of/IN 
+[ piezo-electric/JJ gage/NN ]
+in/IN 
+[ water/NN ]
+./. 
+
+When/WRB 
+[ the/DT microphone/NN ]
+was/VBD set/VBN near/IN 
+[ a/DT explosion/NN source/NN ]
+,/, distinctly/RB separated/VBN 
+[ signals/NNS ]
+of/IN 
+[ repeated/JJ shock/NN waves/NNS ]
+were/VBD obtained/VBN ./. 
+
+When/WRB 
+[ the/DT microphone/NN ]
+was/VBD set/VBN far/RB from/IN 
+[ the/DT source/NN ]
+,/, 
+[ signals/NNS ]
+were/VBD not/RB clear/JJ and/CC 
+[ pulsation/NN period/NN ]
+could/MD not/RB obtained/VBN directly/RB ./. 
+
+But/CC 
+[ the/DT pulsation/NN period/NN ]
+was/VBD evaluated/VBN from/IN 
+[ the/DT self-correlation/NN ]
+of/IN 
+[ recorded/JJ signals/NNS ]
+,/, 
+[ which/WDT ]
+agreed/VBD well/RB with/IN 
+[ direct/JJ measurements/NNS ]
+by/IN 
+[ a/DT piezo/JJ gage/NN ]
+./. 
+
+[ >/NN ]
+From/IN 
+[ the/DT tests/NNS ]
+,/, 
+[ the/DT simple/JJ microphone/NN technique/NN ]
+was/VBD found/VBN to/TO be/VB able/JJ to/TO use/VB in/IN 
+[ place/NN ]
+of/IN 
+[ the/DT expensive/JJ piezo/JJ gage/NN ]
+./. 
+
+(/( 
+[ 8/CD refs/NNS ]
+,/, 
+[ 8/CD figs/NNS ]
+)/) 
+======================================
+
+[ A/DT scale/NN model/NN study/NN ]
+on/IN 
+[ mechanical/JJ behaviors/NNS ]
+of/IN 
+[ the/DT roof/NN strata/NNS ]
+behind/IN 
+[ a/DT longwall/JJ face/NN ]
+is/VBZ carried/VBN out/RP and/CC 
+[ results/NNS ]
+obtained/VBN are/VBP discussed/VBN ./. 
+
+In/IN 
+[ the/DT model/NN ]
+,/, 
+[ the/DT immediate/JJ ]
+and/CC 
+[ main/JJ roofs/NNS ]
+consist/VBP of/IN 
+[ laminated/JJ thin/JJ strata/NNS ]
+having/VBG 
+[ a/DT design/NN strength/NN ]
+./. 
+
+[ Results/NNS ]
+show/VBP that/IN 
+[ the/DT roof/NN ]
+behind/IN 
+[ a/DT longwall/JJ face/NN ]
+behaves/VBZ like/IN 
+[ a/DT beam/NN ]
+./. 
+
+[ It/PRP ]
+undergoes/VBZ 
+[ initial/JJ fracture/NN ]
+as/IN 
+[ the/DT span/NN ]
+exceeds/VBZ 
+[ a/DT certain/JJ length/NN ]
+./. 
+
+[ The/DT failure/NN ]
+progresses/VBZ towards/IN 
+[ the/DT upper/JJ beam/NN elements/NNS ]
+as/IN 
+[ the/DT face/NN ]
+advances/VBZ ,/, and/CC 
+[ it/PRP ]
+reaches/VBZ 
+[ a/DT saturated/JJ state/NN ]
+when/WRB 
+[ the/DT goaf/NN ]
+is/VBZ filled/VBN with/IN 
+[ caved/JJ fragments/NNS ]
+./. 
+
+After/IN 
+[ this/DT ]
+,/, 
+[ the/DT fracture/NN ]
+proceeds/VBZ steadily/RB ./. 
+
+Where/WRB 
+[ the/DT caving/NN ]
+stays/VBZ within/IN 
+[ the/DT immediate/JJ roof/NN ]
+,/, 
+[ fracture/NN ]
+occurs/VBZ immediately/RB behind/IN 
+[ the/DT rear/JJ end/NN ]
+of/IN 
+[ the/DT face/NN support/NN ]
+as/IN 
+[ the/DT support/NN ]
+moves/VBZ ahead/RB ./. 
+
+Where/WRB 
+[ the/DT caving/NN ]
+reaches/VBZ 
+[ the/DT main/JJ roof/NN ]
+,/, 
+[ fracture/NN ]
+occurs/VBZ periodically/RB depending/VBG on/IN 
+[ the/DT pitch/NN ]
+of/IN 
+[ cracks/NNS ]
+across/IN 
+[ the/DT main/JJ roof/NN beam/NN ]
+./. 
+
+Based/VBN on/IN 
+[ these/DT findings/NNS ]
+,/, 
+[ a/DT roof/NN model/NN ]
+consisting/VBG of/IN 
+[ a/DT beam/NN ]
+and/CC 
+[ blocks/NNS ]
+is/VBZ constructed/VBN to/TO predict/VB 
+[ the/DT caving/NN angle/NN ]
+and/CC 
+[ the/DT self-supporting/JJ roof/NN span/NN ]
+up/IN to/TO 
+[ the/DT initial/JJ fracture/NN ]
+./. 
+
+(/( 
+[ 10/CD refs/NNS ]
+,/, 
+[ 13/CD figs/NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Major/JJ machines/NNS ]
+used/VBN in/IN 
+[ the/DT working/JJ face/NN ]
+include/VBP 
+[ the/DT shearer/NN ]
+and/CC 
+[ the/DT self-advancing/JJ frame/NN ]
+./. 
+
+[ The/DT shearer/NN ]
+has/VBZ been/VBN changed/VBN from/IN 
+[ the/DT radio-controlled/JJ model/NN ]
+to/TO 
+[ the/DT microcomputer/NN operated/VBN machine/NN ]
+,/, while/IN automating/VBG 
+[ various/JJ functions/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ a/DT system/NN ]
+for/IN comprehensively/RB examining/VBG 
+[ operating/NN conditions/NNS ]
+and/CC 
+[ natural/JJ conditions/NNS ]
+in/IN 
+[ the/DT working/JJ face/NN ]
+for/IN 
+[ further/JJ automation/NN ]
+./. 
+
+[ The/DT selfadvancing/JJ frame/NN ]
+has/VBZ been/VBN modified/VBN from/IN 
+[ the/DT sequence/NN ]
+controlled/JJ 
+[ model/NN ]
+to/TO 
+[ the/DT microcomputer/NN ]
+aided/JJ 
+[ electrohydraulic/JJ control/NN system/NN ]
+./. 
+
+In/IN 
+[ order/NN ]
+to/TO proceed/VB further/RB with/IN 
+[ automation/NN ]
+and/CC introduce/VB 
+[ robotics/NNS ]
+,/, 
+[ detectors/NNS ]
+,/, 
+[ control/NN units/NNS ]
+and/CC 
+[ valves/NNS ]
+must/MD be/VB made/VBN 
+[ smaller/JJR ]
+in/IN 
+[ higher/JJR reliability/NN ]
+./. 
+
+[ The/DT system/NN ]
+will/MD be/VB controlled/VBN above/IN 
+[ the/DT ground/NN ]
+in/IN 
+[ the/DT future/NN ]
+,/, provided/VBN that/IN 
+[ the/DT machines/NNS ]
+in/IN 
+[ the/DT working/JJ face/NN ]
+are/VBP 
+[ remote/JJ ]
+controlled/JJ at/IN 
+[ the/DT gate/NN ]
+while/IN transmitting/VBG 
+[ relevant/JJ data/NNS ]
+above/IN 
+[ the/DT ground/NN ]
+from/IN 
+[ this/DT system/NN ]
+./. 
+
+Thus/RB ,/, automated/VBN 
+[ working/VBG face/NN ]
+will/MD be/VB realized/VBN ./. 
+
+(/( 
+[ 2/CD figs/NNS ]
+,/, 
+[ 1/CD photo/NN ]
+)/) 
+======================================
+
+[ TV/NN camera/NN ]
+and/CC 
+[ lighting/NN ]
+for/IN monitoring/VBG 
+[ the/DT working/JJ face/NN ]
+,/, are/VBP developed/VBN for/IN automating/VBG 
+[ hydraulic/JJ coal/NN mining/NN ]
+./. 
+
+[ The/DT ITV/NN camera/NN ]
+consists/VBZ of/IN 
+[ a/DT monochrome/JJ camera/NN using/VBG Sony/NN 's/POS CCD/NN type/NN solid/JJ state/NN image/NN pickup/NN device/NN ]
+after/IN 
+[ modification/NN ]
+for/IN 
+[ the/DT conformity/NN ]
+to/TO 
+[ the/DT intrinsic/JJ safety/NN explosion-proof/JJ standard/NN ]
+./. 
+
+In/IN 
+[ particular/JJ ]
+,/, 
+[ the/DT capacitor/NN circuit/NN ]
+and/CC 
+[ the/DT switching/NN regulator/NN line/NN ]
+are/VBP modified/VBN ./. 
+
+[ Red/JJ LED/NN ]
+is/VBZ used/VBN for/IN 
+[ the/DT lighting/VBG tool/NN ]
+./. 
+
+[ The/DT coaxial/JJ cable/NN ]
+is/VBZ incorporated/VBN for/IN transmitting/VBG 
+[ signals/NNS ]
+./. 
+
+Commercially/RB 
+[ available/JJ pressure-tight/JJ explosion-proof/JJ CRT/NN ]
+is/VBZ used/VBN to/TO install/VB in/IN 
+[ the/DT air/NN inlet/NN side/NN ]
+./. 
+
+[ Power/NN ]
+to/TO 
+[ the/DT ITV/NN camera/NN ]
+and/CC 
+[ the/DT lighting/VBG tool/NN ]
+is/VBZ supplied/VBN through/IN 
+[ a/DT cable/NN ]
+./. 
+
+[ The/DT camera/NN ]
+and/CC 
+[ the/DT lamp/NN ]
+are/VBP installed/VBN in/IN 
+[ the/DT working/JJ face/NN ]
+./. 
+
+[ The/DT CRT/NN ]
+and/CC 
+[ the/DT power/NN supply/NN ]
+are/VBP mounted/VBN in/IN 
+[ the/DT dewatering/NN room/NN ]
+about/IN 
+[ 300/CD ]
+apart/RB from/IN 
+[ the/DT working/JJ face/NN ]
+./. 
+
+Transmitted/JJ 
+[ image/NN ]
+is/VBZ used/VBN to/TO monitor/VB 
+[ coal/NN ]
+mining/NN 
+[ conditions/NNS ]
+at/IN 
+[ the/DT working/JJ face/NN ]
+,/, 
+[ operable/JJ ]
+remotely/RB ./. 
+
+(/( 
+[ 4/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+,/, 
+[ 12/CD photos/NNS ]
+)/) 
+======================================
+
+When/WRB 
+[ planning/VBG coal/NN customer/NN 's/POS facilities/NNS ]
+and/CC 
+[ coal/NN shipping/NN port/NN 's/POS ones/NNS ]
+,/, 
+[ capacities/NNS ]
+of/IN 
+[ port/JJ facilities/NNS ]
+such/DT as/IN 
+[ berth/NN number/NN ]
+,/, 
+[ coal/NN stockyard/NN scale/NN ]
+,/, 
+[ capacities/NNS ]
+and/CC 
+[ number/NN ]
+of/IN 
+[ loaders/NNS ]
+and/CC 
+[ unloaders/NNS ]
+,/, and/CC required/JJ 
+[ ship/NN number/NN ]
+,/, 
+[ etc./RB ]
+must/MD be/VB determined/VBN ./. 
+
+[ The/DT simulation/NN technique/NN ]
+with/IN 
+[ a/DT computer/NN program/NN ]
+was/VBD developed/VBN to/TO solve/VB 
+[ these/DT problems/NNS ]
+./. 
+
+When/WRB 
+[ annual/JJ transportation/NN requirements/NNS ]
+were/VBD given/VBN ,/, 
+[ optimal/JJ ship/NN transportation/NN capacity/NN ]
+,/, 
+[ number/NN ]
+of/IN 
+[ ships/NNS ]
+,/, 
+[ optimal/JJ stevedoring/NN capacities/NNS ]
+at/IN 
+[ both/DT export/NN ]
+and/CC 
+[ import/NN terminals/NNS ]
+,/, and/CC 
+[ navigation/NN ]
+of/IN 
+[ coal/NN carriers/NNS ]
+between/IN 
+[ both/DT ]
+
+[ terminals/NNS ]
+could/MD be/VB estimated/VBN ./. 
+
+[ This/DT simulation/NN technique/NN ]
+is/VBZ applicable/JJ to/TO oil/NN 
+[ marine/JJ transportation/NN ]
+and/CC 
+[ conventional/JJ physical/JJ distribution/NN systems/NNS ]
+to/TO investigate/VB 
+[ the/DT capacity/NN ]
+of/IN 
+[ facilities/NNS ]
+./. 
+
+(/( 
+[ 4/CD refs/NNS ]
+,/, 
+[ 11/CD figs/NNS ]
+)/) 
+======================================
+
+Fluidized/JJ 
+[ bed/NN combustors/NNS ]
+are/VBP commercialized/VBN as/IN 
+[ a/DT technology/NN ]
+to/TO combust/VB 
+[ solid/JJ fuels/NNS ]
+with/IN 
+[ higher/JJR efficiency/NN ]
+and/CC 
+[ lower/JJR emission/NN ]
+and/CC have/VBP 
+[ functions/NNS ]
+of/IN 
+[ both/DT combustion/NN ]
+and/CC 
+[ simultaneous/JJ desulfurization/NN ]
+and/CC 
+[ NOx/NN reduction/NN ]
+with/IN 
+[ dense/JJ phase/NN ]
+fluidized/JJ 
+[ beds/NNS ]
+but/CC 
+[ it/PRP ]
+is/VBZ not/RB so/RB easy/JJ to/TO realize/VB 
+[ these/DT problems/NNS ]
+./. 
+
+[ The/DT technology/NN ]
+of/IN circulating/VBG 
+[ fluidized/JJ bed/NN coal/NN combustion/NN ]
+is/VBZ expected/VBN to/TO offer/VB 
+[ potential/JJ ]
+break-through/NN of/IN 
+[ various/JJ problems/NNS ]
+./. 
+
+But/CC 
+[ the/DT details/NNS ]
+are/VBP not/RB reported/VBN so/RB far/RB ./. 
+
+[ Quantitative/JJ analysis/NN ]
+of/IN 
+[ present/JJ situations/NNS ]
+was/VBD conducted/VBN and/CC 
+[ future/JJ problems/NNS ]
+were/VBD shown/VBN with/IN officially/RB 
+[ available/JJ informations/NNS ]
+./. 
+
+[ This/DT analysis/NN ]
+includes/VBZ 
+[ the/DT circulating/NN rate/NN ]
+and/CC 
+[ loading/NN ]
+of/IN 
+[ solids/NNS ]
+,/, 
+[ heat/NN recovery/NN ]
+and/CC 
+[ heat/NN transfer/NN rate/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN loading/NN of/IN 
+[ solids/NNS ]
+,/, 
+[ the/DT design/NN ]
+of/IN 
+[ cyclones/NNS ]
+related/VBN to/TO 
+[ high/JJ solid/JJ concentration/NN ]
+within/IN 
+[ the/DT combustor/NN ]
+,/, 
+[ sulfur/NN retention/NN ]
+with/IN 
+[ reduced/JJ Ca\/S/NN ratio/NN ]
+and/CC 
+[ problems/NNS ]
+related/VBN to/TO 
+[ NOx/NN reduction/NN ]
+to/TO be/VB developed/VBN in/IN 
+[ future/NN ]
+./. 
+
+(/( 
+[ 51/CD refs/NNS ]
+,/, 
+[ 23/CD figs/NNS ]
+,/, 
+[ 8/CD tabs/NNS ]
+)/) 
+======================================
+
+[ The/DT pulverized/JJ coal/NN ]
+fired/JJ 
+[ boiler/NN ]
+,/, constructed/VBN to/TO substitute/VB 
+[ a/DT heavy/NN oil\/pitch/NN coke/NN firing/JJ boiler/NN ]
+is/VBZ outlined/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ features/NNS ]
+and/CC 
+[ operation/NN results/NNS ]
+./. 
+
+[ This/DT boiler/NN ]
+is/VBZ 
+[ a/DT single/JJ shell/NN radiation/NN type/NN natural/JJ circulation/NN boiler/NN ]
+with/IN 
+[ an/DT evaporation/NN rate/NN ]
+of/IN 
+[ 66/CD ton\/h/NN ]
+,/, 
+[ steam/NN pressure/NN ]
+of/IN 
+[ 73/CD kg\/cm/NN ]
+{/( 
+[ sup/NN 2/CD ]
+}/) 
+[ G/NN ]
+and/CC 
+[ a/DT steam/NN temperature/NN ]
+of/IN 
+[ 485/CD ]
+{/( 
+[ sup/NN 0/SYM ]
+}/) 
+[ C./NN New/JJ trials/NNS ]
+and/CC 
+[ devices/NNS ]
+are/VBP incorporated/VBN in/IN 
+[ the/DT coal/NN pay-off/NN system/NN ]
+,/, 
+[ mill/NN equipment/NN ]
+,/, 
+[ combustion/NN facilities/NNS ]
+and/CC 
+[ ash/NN disposal/NN equipment/NN ]
+./. 
+
+[ Australian/JJ coal/NN ]
+and/CC 
+[ domestic/JJ coal/NN ]
+are/VBP fired/VBN in/IN 
+[ a/DT ratio/NN ]
+of/IN 
+[ 8:2/CD ]
+according/VBG to/TO 
+[ the/DT optimum/JJ design/NN ]
+based/VBN on/IN 
+[ various/JJ demonstration/NN tests/NNS ]
+in/IN 
+[ addition/NN ]
+to/TO 
+[ theoretical/JJ analysis/NN ]
+./. 
+
+After/IN being/VBG commissioned/VBN in/IN 
+[ December/NNP ]
+,/, 
+[ 1985/CD ]
+,/, 
+[ the/DT boiler/NN ]
+has/VBZ never/RB been/VBN stopped/VBN 
+[ operation/NN ]
+due/JJ to/TO 
+[ trouble/NN ]
+./. 
+
+[ No/DT slugging/NN ]
+or/CC 
+[ fouling/NN ]
+have/VB also/RB occurred/VBN ,/, while/IN operating/VBG normally/RB ./. 
+
+(/( 
+[ 18/CD figs/NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+
+======================================
+
+======================================

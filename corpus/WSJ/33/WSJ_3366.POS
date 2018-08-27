@@ -1,0 +1,413 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ MCI/NNP Communications/NNPS Corp./NNP ]
+and/CC 
+[ Gannett/NNP Co./NNP ]
+are/VBP testing/VBG 
+[ a/DT system/NN ]
+to/TO deliver/VB 
+[ condensed/JJ reports/NNS ]
+from/IN 
+[ USA/NNP Today/NNP ]
+via/IN 
+[ facsimile/NN machines/NNS ]
+,/, 
+[ a/DT move/NN ]
+
+[ that/WDT ]
+likely/RB will/MD accelerate/VB 
+[ news/NN media/NNS ]
+use/NN of/IN 
+[ this/DT technology/NN ]
+to/TO reach/VB 
+[ readers/NNS ]
+and/CC promote/VB 
+[ publications/NNS ]
+./. 
+
+======================================
+
+[ Both/DT ]
+
+[ companies/NNS ]
+said/VBD that/IN while/IN 
+[ no/DT decisions/NNS ]
+have/VBP been/VBN made/VBN to/TO offer/VB 
+[ the/DT service/NN ]
+to/TO 
+[ the/DT public/NN ]
+,/, 
+[ they/PRP ]
+are/VBP excited/JJ because/IN 
+[ the/DT service/NN ]
+could/MD go/VB 
+[ a/DT long/JJ way/NN ]
+toward/IN satisfying/VBG 
+[ readers/NNS '/POS increasing/VBG demand/NN ]
+for/IN 
+[ instant/JJ information/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT notion/NN ]
+of/IN sending/VBG specially/RB tailored/VBN 
+[ information/NN ]
+by/IN 
+[ fax/NN machines/NNS ]
+could/MD become/VB 
+[ a/DT powerful/JJ marketing/NN tool/NN ]
+for/IN 
+[ many/JJ companies/NNS ]
+outside/IN 
+[ the/DT media/NNS business/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+'re/VBP essentially/RB looking/VBG at/IN 
+[ getting/VBG tomorrow/NN 's/POS news/NN today/NN ]
+,/, ''/'' said/VBD 
+[ Wesley/NNP O'Brien/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ MCI/NNP 's/POS fax/NN products/NNS ]
+./. 
+
+``/`` With/IN 
+[ the/DT explosion/NN ]
+of/IN 
+[ fax/NN machines/NNS ]
+in/IN 
+[ offices/NNS ]
+,/, 
+[ executives/NNS ]
+and/CC 
+[ business/NN managers/NNS ]
+have/VBP 
+[ an/DT advantage/NN ]
+with/IN 
+[ information/NN ]
+sent/VBN directly/RB to/TO 
+[ them/PRP ]
+./. 
+
+''/'' 
+[ MCI/NNP ]
+estimates/VBZ that/IN more/JJR than/IN 
+[ 3.5/CD million/CD fax/NN machines/NNS ]
+are/VBP in/IN 
+[ use/NN ]
+and/CC 
+[ that/DT number/NN ]
+is/VBZ growing/VBG at/IN 
+[ an/DT annual/JJ rate/NN ]
+of/IN 
+[ 60/CD %/NN ]
+to/TO 
+[ 70/CD %/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ USA/NNP Today/NNP ]
+,/, 
+[ MCI/NNP ]
+is/VBZ developing/VBG 
+[ two/CD delivery/NN systems/NNS ]
+./. 
+
+[ One/NN ]
+would/MD send/VB out/RP 
+[ a/DT USA/NNP Today/NNP summary/NN ]
+
+[ a/DT day/NN ]
+before/IN 
+[ the/DT paper/NN ]
+is/VBZ published/VBN ./. 
+
+[ The/DT other/JJ ]
+would/MD use/VB 
+[ an/DT 800/CD ]
+or/CC 
+[ 900/CD number/NN ]
+to/TO provide/VB 
+[ select/JJ information/NN ]
+./. 
+
+[ A/DT reader/NN ]
+would/MD call/VB 
+[ the/DT number/NN ]
+from/IN 
+[ a/DT facsimile/NN machine/NN ]
+,/, and/CC 
+[ punch/VB ]
+in/IN 
+[ codes/NNS ]
+on/IN 
+[ the/DT telephone/NN pad/NN ]
+
+[ that/WDT ]
+correspond/VB with/IN 
+[ specific/JJ topics/NNS ]
+such/JJ as/IN 
+[ national/JJ news/NN ]
+,/, 
+[ business/NN ]
+or/CC 
+[ sports/NNS ]
+./. 
+
+[ The/DT reports/NNS ]
+would/MD be/VB pulled/VBN from/IN 
+[ a/DT USA/NNP Today/NNP computer/NN ]
+and/CC would/MD be/VB transmitted/VBN ,/, via/IN 
+[ the/DT fax/NN machine/NN ]
+,/, to/TO 
+[ the/DT reader/NN ]
+./. 
+
+======================================
+
+[ The/DT newspaper/NN ]
+already/RB offers/VBZ 
+[ customers/NNS ]
+with/IN 
+[ personal/JJ computers/NNS ]
+
+[ a/DT selection/NN ]
+of/IN 
+[ five/CD reports/NNS ]
+called/VBN 
+[ USA/NNP Today/NNP Decisionline/NNP ]
+./. 
+
+[ The/DT tests/NNS ]
+have/VBP been/VBN done/VBN using/VBG 
+[ faxed/VBN versions/NNS ]
+of/IN 
+[ those/DT reports/NNS ]
+./. 
+
+======================================
+
+[ Phil/NNP Fuhrer/NNP ]
+,/, 
+[ vice/NN president/NN ]
+of/IN 
+[ Gannett/NNP News/NNP Media/NNPS ]
+,/, said/VBD that/IN 
+[ the/DT fax/NN service/NN ]
+would/MD be/VB ``/`` 
+[ an/DT extension/NN ]
+to/TO 
+[ the/DT newspaper/NN ]
+
+[ that/WDT ]
+could/MD expand/VB 
+[ its/PRP$ reach/NN ]
+''/'' much/RB like/IN 
+[ its/PRP$ sports/NNS ]
+or/CC 
+[ weather/NN hotlines/NNS ]
+./. 
+
+======================================
+
+[ Other/JJ communications/NNS companies/NNS ]
+,/, such/JJ as/IN 
+[ Times/NNP Mirror/NNP Co./NNP ]
+,/, 
+[ the/DT New/NNP York/NNP Times/NNP Co./NNP ]
+,/, 
+[ McGraw-Hill/NNP Inc./NNP ]
+and/CC 
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, are/VBP interested/JJ in/IN pursuing/VBG 
+[ fascimile-machine/NN delivery/NN ]
+of/IN 
+[ information/NN ]
+./. 
+
+[ Some/DT trade/NN publications/NNS ]
+and/CC at/IN 
+[ least/JJS one/CD other/JJ newspaper/NN ]
+,/, 
+[ Times/NNP Mirror/NNP 's/POS Hartford/NNP Courant/NNP ]
+,/, 
+[ a/DT daily/JJ ]
+in/IN 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, have/VBP been/VBN using/VBG 
+[ fax/JJ machines/NNS ]
+with/IN 
+[ some/DT success/NN ]
+to/TO deliver/VB 
+[ entire/JJ publications/NNS ]
+or/CC 
+[ summaries/NNS ]
+of/IN 
+[ top/JJ news/NN stories/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT reception/NN ]
+,/, so/RB far/RB ,/, has/VBZ been/VBN good/JJ ,/, ''/'' said/VBD 
+[ Bill/NNP Williams/NNP ]
+,/, 
+[ associate/NN publisher/NN ]
+of/IN 
+[ the/DT Hartford/NNP Courant/NNP ]
+,/, 
+[ which/WDT ]
+offers/VBZ for/IN 
+[ $/$ 600/CD ]
+
+[ a/DT year/NN ]
+
+[ a/DT daily/JJ summary/NN ]
+of/IN 
+[ 40/CD ]
+to/TO 
+[ 50/CD stories/NNS ]
+
+[ that/WDT ]
+will/MD appear/VB in/IN 
+[ the/DT next/JJ day/NN 's/POS paper/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ too/RB early/JJ to/TO tell/VB 
+[ the/DT long-range/JJ implications/NNS ]
+,/, but/CC 
+[ we/PRP ]
+'re/VBP optimistic/JJ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Other/JJ publishers/NNS ]
+,/, however/RB ,/, have/VBP found/VBN 
+[ a/DT lukewarm/JJ response/NN ]
+to/TO 
+[ fax/NN delivery/NN ]
+./. 
+
+[ Paul/NNP Warren/NNP ]
+of/IN 
+[ Warren/NNP Publishing/NNP Inc./NNP ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, and/CC 
+[ president/NN ]
+of/IN 
+[ the/DT Newsletter/NNP Association/NNP ]
+,/, said/VBD 
+[ that/DT fax/NN delivery/NN ]
+``/`` is/VBZ not/RB 
+[ a/DT revolution/NN ]
+in/IN 
+[ the/DT making/NN ]
+,/, ''/'' because/IN 
+[ the/DT vast/JJ majority/NN ]
+of/IN 
+[ readers/NNS ]
+are/VBP quite/RB comfortable/JJ with/IN 
+[ traditional/JJ distribution/NN methods/NNS ]
+./. 
+
+[ Warren/NNP Publishing/NNP ]
+offers/VBZ 
+[ its/PRP$ Communications/NNPS Daily/NNP ]
+via/IN 
+[ fax/NN machine/NN ]
+,/, but/CC even/RB in/IN 
+[ the/DT high-tech/JJ communications/NNS industry/NN ]
+,/, 
+[ the/DT fax/NN version/NN ]
+has/VBZ been/VBN 
+[ a/DT tough/JJ sell/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP O'Brien/NNP ]
+of/IN 
+[ MCI/NNP ]
+said/VBD 
+[ the/DT technology/NN ]
+could/MD have/VB 
+[ wide/JJ applications/NNS ]
+outside/IN of/IN 
+[ the/DT news/NN business/NN ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ catalog/NN retailers/NNS ]
+or/CC 
+[ supply/NN companies/NNS ]
+could/MD use/VB 
+[ an/DT 800/CD ]
+or/CC 
+[ 900/CD number/NN ]
+and/CC 
+[ fax/NN system/NN ]
+to/TO deliver/VB 
+[ information/NN ]
+on/IN 
+[ products/NNS ]
+./. 
+
+Beyond/IN 
+[ that/DT ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ information-service/NN companies/NNS ]
+,/, 
+[ brokerage/NN houses/NNS ]
+or/CC 
+[ others/NNS ]
+
+[ that/WDT ]
+operate/VBP 
+[ data/NN|NNS bases/NNS ]
+are/VBP beginning/VBG to/TO use/VB 
+[ fax/NN services/NNS ]
+and/CC 
+[ voice-response/NN technology/NN ]
+to/TO offer/VB 
+[ custom-tailored/JJ information/NN ]
+./. 

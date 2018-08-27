@@ -1,0 +1,556 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Michelin/NNP Group/NNP ]
+,/, in/IN 
+[ a/DT move/NN ]
+
+[ that/WDT ]
+will/MD make/VB 
+[ it/PRP ]
+
+[ the/DT world/NN 's/POS largest/JJS tire/NN maker/NN ]
+,/, agreed/VBD to/TO buy/VB 
+[ Uniroyal/NNP Goodrich/NNP Tire/NNP Co./NNP ]
+for/IN 
+[ $/$ 690/CD million/CD ]
+./. 
+
+======================================
+
+[ Michelin/NNP ]
+,/, 
+[ the/DT secretive/JJ French/JJ company/NN ]
+that/IN 
+[ last/JJ year/NN ]
+lost/VBD 
+[ a/DT bidding/NN war/NN ]
+for/IN 
+[ Firestone/NNP Tire/NNP ]
+&/CC 
+[ Rubber/NNP Co./NNP ]
+to/TO 
+[ Bridgestone/NNP Co./NNP ]
+of/IN 
+[ Japan/NNP ]
+,/, will/MD achieve/VB 
+[ two/CD long-sought/JJ goals/NNS ]
+:/: 
+[ it/PRP ]
+will/MD replace/VB 
+[ longtime/JJ rival/NN Goodyear/NNP Tire/NNP ]
+&/CC 
+[ Rubber/NNP Co./NNP ]
+as/IN 
+[ the/DT world/NN 's/POS biggest/JJS tire/NN concern/NN ]
+,/, 
+[ a/DT useful/JJ marketing/NN claim/NN ]
+in/IN 
+[ the/DT ]
+highly/RB 
+[ competitive/JJ tire/NN business/NN ]
+,/, and/CC 
+[ it/PRP ]
+will/MD shore/VB up/RP 
+[ its/PRP$ position/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ the/DT world/NN 's/POS biggest/JJS tire/NN market/NN ]
+./. 
+
+======================================
+
+And/CC while/IN 
+[ Goodyear/NNP ]
+remains/VBZ 
+[ the/DT largest/JJS tire/NN maker/NN ]
+in/IN 
+[ North/NNP America/NNP ]
+,/, 
+[ the/DT added/JJ clout/NN ]
+of/IN 
+[ Michelin/NNP ]
+will/MD make/VB 
+[ No./NN 2/CD Uniroyal/NNP Goodrich/NNP ]
+
+[ a/DT more/RBR formidable/JJ competitor/NN ]
+./. 
+
+======================================
+
+[ The/DT combination/NN ]
+would/MD result/VB in/IN 
+[ a/DT company/NN ]
+with/IN 
+[ world-wide/JJ annual/JJ sales/NNS ]
+of/IN 
+[ $/$ 10.3/CD billion/CD ]
+,/, outstripping/VBG 
+[ Goodyear/NNP ]
+
+[ 's/POS $/$ 7.93/CD billion/CD annual/JJ sales/NNS ]
+,/, according/VBG to/TO 
+[ Lloyd/NNP Stoyer/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ Modern/NNP Tire/NNP Dealer/NNP Magazine/NNP ]
+,/, 
+[ a/DT trade/NN publication/NN ]
+for/IN 
+[ North/JJ American/JJ retail/JJ tire/NN dealers/NNS ]
+./. 
+
+======================================
+
+[ The/DT Michelin/NNP Group/NNP 's/POS revenue/NN ]
+for/IN 
+[ 1988/CD ]
+was/VBD 
+[ 51.82/CD billion/CD francs/NNS ]
+ (/( 
+[ $/$ 7.89/CD billion/CD ]
+ )/) ./. 
+
+For/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+of/IN 
+[ 1989/CD ]
+,/, 
+[ Michelin/NNP ]
+reported/VBD 
+[ profit/NN ]
+of/IN 
+[ 1.46/CD billion/CD francs/NNS ]
+on/IN 
+[ revenue/NN ]
+of/IN 
+[ 28.47/CD billion/CD francs/NNS ]
+./. 
+
+======================================
+
+[ Bridgestone/NNP ]
+,/, 
+[ which/WDT ]
+paid/VBD 
+[ $/$ 2.6/CD billion/CD ]
+for/IN 
+[ Firestone/NNP ]
+,/, is/VBZ 
+[ the/DT world/NN 's/POS third-biggest/JJ tire/NN company/NN ]
+./. 
+
+======================================
+
+[ The/DT Michelin/NNP purchase/NN ]
+is/VBZ 
+[ the/DT latest/JJS ]
+in/IN 
+[ a/DT series/NN ]
+of/IN 
+[ acquisitions/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+by/IN 
+[ French/JJ companies/NNS ]
+./. 
+
+[ Last/JJ week/NN ]
+
+[ the/DT state-owned/JJ chemical/NN giant/NN Rhone-Poulenc/NNP S.A./NNP ]
+bought/VBD 
+[ some/DT operations/NNS ]
+from/IN 
+[ GAF/NNP Corp./NNP ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC from/IN 
+[ RTZ/NNP Corp./NNP ]
+of/IN 
+[ the/DT United/NNP Kingdom/NNP ]
+,/, for/IN 
+[ a/DT total/NN ]
+of/IN 
+[ $/$ 1.5/CD billion/CD ]
+./. 
+
+[ Late/RB last/JJ year/NN ]
+
+[ the/DT French/JJ state/NN group/NN Pechiney/NNP S.A./NNP ]
+bought/VBD 
+[ Triangle/NNP Corp./NNP ]
+,/, 
+[ the/DT parent/NN ]
+of/IN 
+[ American/NNP National/NNP ]
+Can/MD 
+[ Co./NNP ]
+,/, for/IN 
+[ $/$ 1.26/CD billion/CD ]
+,/, to/TO become/VB 
+[ the/DT world/NN 's/POS biggest/JJS can/NN maker/NN ]
+./. 
+
+======================================
+
+[ The/DT Michelin/NNP acquisition/NN ]
+marks/VBZ 
+[ the/DT latest/JJS inroad/NN ]
+by/IN 
+[ a/DT foreign/JJ tire/NN maker/NN ]
+into/IN 
+[ the/DT important/JJ North/JJ American/JJ market/NN ]
+./. 
+
+In/IN 
+[ recent/JJ years/NNS Pirelli/NNP S.p/NNP ]
+./.  
+
+[ A./NNP ]
+of/IN 
+[ Italy/NNP ]
+acquired/VBD 
+[ Armstrong/NNP Tire/NNP ]
+&/CC 
+[ Rubber/NNP Co./NNP ]
+,/, and/CC 
+[ Continental/NNP AG/NNP ]
+of/IN 
+[ West/NNP Germany/NNP ]
+purchased/VBD 
+[ General/NNP Tire/NNP ]
+&/CC 
+[ Rubber/NNP Co./NNP ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT Bridgestone/NNP purchase/NN ]
+of/IN 
+[ Firestone/NNP ]
+./. 
+
+======================================
+
+For/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+,/, long/RB considered/VBN 
+[ a/DT retread/NN ]
+in/IN 
+[ the/DT tire/NN business/NN ]
+,/, 
+[ the/DT Michelin/NNP marriage/NN ]
+can/MD only/RB enhance/VB 
+[ its/PRP$ position/NN ]
+./. 
+
+Under/IN 
+[ the/DT purchase/NN agreement/NN ]
+,/, 
+[ Michelin/NNP ]
+will/MD assume/VB 
+[ $/$ 810/CD million/CD ]
+of/IN 
+[ Uniroyal/NNP debt/NN ]
+./. 
+
+[ Uniroyal/NNP ]
+also/RB is/VBZ expected/VBN to/TO benefit/VB from/IN 
+[ Michelin/NNP 's/POS research/NN ]
+and/CC 
+[ development/NN prowess/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+were/VBD leveraged/JJ ./. 
+
+[ It/PRP ]
+would/MD have/VB been/VBN difficult/JJ to/TO spend/VB 
+[ the/DT kind/NN ]
+of/IN 
+[ money/NN ]
+
+[ we/PRP ]
+needed/VBD to/TO spend/VB over/IN 
+[ a/DT long/JJ period/NN ]
+in/IN 
+[ order/NN ]
+to/TO be/VB in/IN 
+[ the/DT forefront/NN ]
+,/, ''/'' commented/VBD 
+[ Martin/NNP H./NNP Dubilier/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Clayton/NNP ]
+&/CC 
+[ Dubilier/NNP Inc/NNP ]
+./. 
+
+[ The/DT New/NNP York/NNP buy-out/NN firm/NN ]
+took/VBD 
+[ control/NN ]
+of/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+in/IN 
+[ 1988/CD ]
+,/, 
+[ two/CD years/NNS ]
+after/IN 
+[ it/PRP ]
+was/VBD formed/VBN as/IN 
+[ a/DT joint/JJ venture/NN ]
+between/IN 
+[ Uniroyal/NNP Tire/NNP ]
+and/CC 
+[ the/DT tire/NN business/NN ]
+of/IN 
+[ B.F./NNP Goodrich/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ Uniroyal/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ trying/VBG to/TO become/VB 
+[ a/DT bigger/JJR player/NN ]
+in/IN 
+[ the/DT high-performance/NN tire/NN market/NN ]
+,/, recently/RB embarked/VBD on/IN 
+[ a/DT $/$ 650/CD million/CD ]
+to/TO 
+[ $/$ 700/CD million/CD five-year/JJ capital/NN spending/NN program/NN ]
+to/TO upgrade/VB 
+[ its/PRP$ plants/NNS ]
+./. 
+
+[ Michelin/NNP ]
+said/VBD 
+[ it/PRP ]
+intends/VBZ to/TO ``/`` augment/VB ''/'' that/DT 
+[ capital/NN investment/NN plan/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ Michelin/NNP ]
+,/, 
+[ the/DT addition/NN ]
+of/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+provides/VBZ 
+[ entry/NN ]
+into/IN 
+[ private-label/JJ ]
+and/CC 
+[ associate-label/JJ tire/NN markets/NNS ]
+,/, from/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+had/VBD been/VBN absent/JJ ./. 
+
+[ Most/JJS makers/NNS ]
+other/JJ than/IN 
+[ Michelin/NNP ]
+had/VBD long/RB sold/VBN 
+[ tires/NNS ]
+to/TO 
+[ other/JJ companies/NNS ]
+
+[ that/WDT ]
+then/RB marketed/VBD 
+[ them/PRP ]
+under/IN 
+[ their/PRP$ own/JJ names/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB gives/VBZ 
+[ it/PRP ]
+
+[ a/DT stronger/JJR footing/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ which/WDT ]
+comprises/VBZ 
+[ 40/CD %/NN ]
+to/TO 
+[ 45/CD %/NN ]
+of/IN 
+[ the/DT $/$ 45/CD billion/CD non-Communist/JJ world/NN tire/NN market/NN ]
+./. 
+
+Nearly/RB overnight/RB ,/, 
+[ Michelin/NNP ]
+would/MD gain/VB more/JJR than/IN 
+[ 25/CD %/NN ]
+of/IN 
+[ the/DT North/JJ American/JJ tire/NN market/NN ]
+,/, up/RB from/IN 
+[ 10/CD %/NN ]
+to/TO 
+[ 12/CD %/NN ]
+./. 
+
+======================================
+
+[ Michelin/NNP ]
+said/VBD 
+[ it/PRP ]
+intends/VBZ to/TO maintain/VB 
+[ Uniroyal/NNP Goodrich/NNP ]
+as/IN 
+[ a/DT wholly-owned/JJ subsidiary/NN ]
+under/IN 
+[ present/JJ management/NN ]
+,/, and/CC keep/VB 
+[ the/DT unit/NN 's/POS headquarters/NN ]
+in/IN 
+[ Akron/NNP ]
+,/, 
+[ Ohio/NNP ]
+./. 
+
+[ Uniroyal/NNP ]
+would/MD continue/VB to/TO make/VB and/CC sell/VB 
+[ tires/NNS ]
+under/IN 
+[ its/PRP$ brand/NN name/NN ]
+,/, 
+[ Michelin/NNP ]
+said/VBD ./. 
+
+[ The/DT acquisition/NN ]
+would/MD give/VB 
+[ the/DT French/JJ company/NN 31,000/CD employees/NNS ]
+in/IN 
+[ North/NNP America/NNP ]
+in/IN 
+[ 11/CD plants/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ five/CD ]
+in/IN 
+[ Canada/NNP ]
+and/CC 
+[ two/CD ]
+in/IN 
+[ Mexico/NNP ]
+./. 
+
+======================================
+
+[ The/DT move/NN ]
+into/IN 
+[ the/DT U.S./NNP ]
+follows/VBZ 
+[ recent/JJ efforts/NNS ]
+by/IN 
+[ Michelin/NNP ]
+to/TO expand/VB in/IN 
+[ the/DT Far/NNP East/NNP ]
+,/, where/WRB 
+[ its/PRP$ market/NN share/NN ]
+is/VBZ about/RB 
+[ 3/CD %/NN ]
+./. 
+
+[ Last/JJ year/NN ]
+
+[ it/PRP ]
+entered/VBD into/IN 
+[ a/DT joint/JJ tire-making/NN venture/NN ]
+with/IN 
+[ Okamoto/NNP Industries/NNP ]
+of/IN 
+[ Japan/NNP ]
+./. 
+
+In/IN 
+[ 1987/CD it/PRP ]
+linked/VBD up/RP in/IN 
+[ separate/JJ ventures/NNS ]
+with/IN 
+[ Siam/NNP Cement/NNP Co./NNP ]
+of/IN 
+[ Thailand/NNP ]
+and/CC 
+[ Wuon/NNP Poong/NNP International/NNP Co./NNP ]
+of/IN 
+[ South/NNP Korea/NNP ]
+./. 
+
+======================================
+
+[ Michelin/NNP last/JJ year/NN ]
+bought/VBD 
+[ the/DT airplane/NN tire-making/JJ business/NN ]
+of/IN 
+[ B.F./NNP Goodrich/NNP ]
+for/IN 
+[ an/DT undisclosed/JJ amount/NN ]
+./. 
+
+[ This/DT ]
+gave/VBD 
+[ Michelin/NNP ]
+
+[ a/DT 20/CD %/NN share/NN ]
+of/IN 
+[ the/DT airplane/NN tire/NN market/NN ]
+,/, and/CC represented/VBD 
+[ Goodrich/NNP 's/POS withdrawal/NN ]
+from/IN 
+[ tires/NNS ]
+,/, after/IN 
+[ it/PRP ]
+had/VBD sold/VBN 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+to/TO 
+[ Clayton/NNP ]
+&/CC 
+[ Dubilier/NNP ]
+./. 
+
+======================================
+
+[ NOTE/VB ]
+:/: 
+[ Michelin\/NNP ]
+assumes/VBZ 
+[ a/DT combination/NN ]
+of/IN 
+[ Michelin/NNP 's/POS 40,000/CD tires/NNS ]
+
+[ a/DT day/NN capacity/NN ]
+with/IN 
+[ Uniroyal\/NNP 's/POS 132,000/CD tires/NNS ]
+
+[ a/DT day/NN ]

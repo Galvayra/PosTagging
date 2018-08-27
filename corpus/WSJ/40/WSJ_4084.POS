@@ -1,0 +1,132 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Wall/NNP Street/NNP Journal/NNP ]
+will/MD report/VB 
+[ losses/NNS ]
+on/IN 
+[ a/DT per-share/JJ basis/NN ]
+,/, along/IN with/IN 
+[ total/JJ amounts/NNS ]
+,/, in/IN 
+[ corporate/JJ earnings/NNS stories/NNS ]
+and/CC 
+[ statistical/JJ tables/NNS ]
+,/, starting/VBG 
+[ today/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/NN ]
+,/, 
+[ losses/NNS ]
+were/VBD expressed/VBN only/RB as/IN 
+[ totals/NNS ]
+./. 
+
+[ Per-share/JJ numbers/NNS ]
+were/VBD calculated/VBN only/RB when/WRB 
+[ a/DT company/NN ]
+reported/VBD 
+[ a/DT profit/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP making/VBG 
+[ the/DT change/NN ]
+partly/RB because/IN 
+[ the/DT per-share/JJ loss/NN ]
+is/VBZ commonly/RB used/VBN in/IN 
+[ the/DT business/NN world/NN ]
+,/, including/VBG 
+[ many/JJ companies/NNS '/POS earnings/NNS statements/NNS ]
+,/, ''/'' said/VBD 
+[ Norman/NNP Pearlstine/NNP ]
+,/, managing/NN 
+[ editor/NN ]
+of/IN 
+[ the/DT Journal/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+provides/VBZ 
+[ the/DT stockholder/NN ]
+with/IN 
+[ a/DT gauge/NN ]
+for/IN equating/VBG 
+[ a/DT loss/NN ]
+with/IN 
+[ individual/JJ holdings/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT per-share/JJ loss/NN ]
+also/RB is/VBZ used/VBN in/IN calculating/VBG 
+[ the/DT price-earnings/NNS ratio/NN ]
+of/IN 
+[ a/DT stock/NN ]
+./. 
+
+[ The/DT Journal/NNP ]
+will/MD continue/VB to/TO report/VB 
+[ the/DT P-E/NN ratios/NNS ]
+and/CC yields/NNS of/IN 
+[ the/DT Dow/NNP Jones/NNP Averages/NNP ]
+
+[ each/DT Monday/NNP ]
+./. 
+
+[ A/DT full/JJ listing/NN ]
+of/IN 
+[ the/DT companies/NNS ]
+in/IN 
+[ the/DT indexes/NNS ]
+and/CC 
+[ their/PRP$ profit/NN ]
+or/CC 
+[ loss/NN ]
+per/IN 
+[ share/NN ]
+will/MD continue/VB to/TO be/VB published/VBN quarterly/RB ./. 
+
+======================================
+
+As/IN with/IN 
+[ profit/NN ]
+per/IN 
+[ share/NN ]
+,/, 
+[ losses/NNS ]
+per/IN 
+[ share/NN ]
+are/VBP calculated/VBN from/IN 
+[ the/DT number/NN ]
+of/IN 
+[ common/JJ shares/NNS ]
+outstanding/JJ ,/, after/IN 
+[ allowances/NNS ]
+for/IN 
+[ preferred/JJ stock/NN dividends/NNS ]
+./. 

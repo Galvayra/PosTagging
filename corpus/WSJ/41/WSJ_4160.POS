@@ -1,0 +1,238 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Scores/NNS ]
+of/IN 
+[ Valdez/NNP ]
+,/, 
+[ Alaska/NNP ]
+,/, 
+[ tourist/NN businesses/NNS ]
+lost/VBD 
+[ substantial/JJ revenue/NN ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT March/NNP 24/CD Exxon/NNP Valdez/NNP oil/NN spill/NN ]
+,/, 
+[ an/DT Alaska/NNP legislative/JJ report/NN ]
+has/VBZ concluded/VBN ./. 
+
+======================================
+
+[ The/DT finding/NN ]
+contradicts/VBZ 
+[ some/DT predictions/NNS ]
+that/IN 
+[ the/DT 260,000-barrel/JJ spill/NN ]
+by/IN 
+[ the/DT Exxon/NNP Corp./NNP tanker/NN ]
+,/, 
+[ which/WDT ]
+made/VBD 
+[ headlines/NNS ]
+around/IN 
+[ the/DT world/NN ]
+,/, would/MD provide/VB 
+[ a/DT short-term/JJ boost/NN ]
+to/TO 
+[ the/DT tourist/NN economy/NN ]
+of/IN 
+[ the/DT scenic/JJ port/NN ]
+on/IN 
+[ Prince/NNP William/NNP Sound/NNP ]
+./. 
+
+======================================
+
+[ The/DT report/NN ]
+concludes/VBZ that/IN instead/RB of/IN being/VBG attracted/VBN by/IN 
+[ the/DT spill/NN ]
+,/, 
+[ many/JJ potential/JJ visitors/NNS ]
+shied/VBD away/RB from/IN 
+[ the/DT town/NN ]
+because/IN of/IN 
+[ misconceptions/NNS ]
+
+[ that/DT Valdez/NNP ]
+was/VBD ``/`` awash/RB in/IN 
+[ oil/NN ]
+./. 
+
+''/'' Thus/RB ,/, while/IN 
+[ hotels/NNS ]
+,/, 
+[ campgrounds/NNS ]
+and/CC 
+[ restaurants/NNS ]
+overflowed/VBD with/IN 
+[ workers/NNS ]
+arriving/VBG to/TO clean/VB up/IN 
+[ the/DT spill/NN ]
+,/, 
+[ other/JJ traditional/JJ tourism/NN indicators/NNS ]
+,/, including/VBG 
+[ excursion/NN boats/NNS ]
+,/, 
+[ tour/NN guides/NNS ]
+and/CC 
+[ museums/NNS ]
+,/, experienced/VBD 
+[ declines/NNS ]
+in/IN 
+[ customers/NNS ]
+of/IN between/IN 
+[ 33/CD %/NN ]
+and/CC 
+[ 75/CD %/NN ]
+,/, 
+[ the/DT report/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Valdez/NNP ]
+,/, 
+[ population/NN 3,600/CD ]
+,/, is/VBZ accessible/JJ by/IN 
+[ highway/NN ]
+from/IN 
+[ both/DT Anchorage/NNP ]
+and/CC 
+[ Fairbanks/NNP ]
+,/, 
+[ the/DT state/NN 's/POS two/CD major/JJ cities/NNS ]
+./. 
+
+Yet/CC 
+[ drive-in/NN traffic/NN ]
+to/TO 
+[ the/DT Valdez/NNP musuem/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, slumped/VBD from/IN to/TO 
+[ 25,000/CD visitors/NNS ]
+
+[ this/DT summer/NN season/NN ]
+from/IN 
+[ 38,000/CD visitors/NNS ]
+in/IN 
+[ 1988/CD 's/POS ]
+./. 
+
+And/CC while/IN 
+[ the/DT town/NN ]
+attracted/VBD 
+[ 39/CD cruise/NN ships/NNS ]
+to/TO 
+[ its/PRP$ port/NN ]
+--/: 
+[ 10/CD ]
+more/JJR than/IN in/IN 
+[ 1988/CD ]
+--/: only/RB 
+[ 13,000/CD cruise/NN passengers/NNS ]
+visited/VBD 
+[ the/DT museum/NN ]
+
+[ this/DT summer/NN ]
+,/, down/IN from/IN 
+[ 19,500/CD such/JJ visitors/NNS ]
+in/IN 
+[ 1988/CD ]
+./. 
+
+[ The/DT slump/NN ]
+is/VBZ 
+[ an/DT indication/NN ]
+that/IN ``/`` 
+[ far/RB fewer/JJR passengers/NNS ]
+disembarked/VBD ''/'' from/IN 
+[ the/DT ships/NNS ]
+
+[ this/DT summer/NN ]
+,/, according/VBG to/TO 
+[ the/DT report/NN ]
+./. 
+
+======================================
+
+Even/RB in/IN 
+[ cases/NNS ]
+where/WRB advanced/VBN 
+[ bookings/NNS ]
+meant/VBD 
+[ business/NN ]
+as/IN 
+[ usual/JJ ]
+,/, 
+[ the/DT spill/NN ]
+often/RB disrupted/VBD 
+[ normal/JJ tourist/NN services/NNS ]
+and/CC may/MD negatively/RB affect/VB 
+[ future/JJ bookings/NNS ]
+,/, 
+[ the/DT report/NN ]
+went/VBD on/IN ./. 
+
+[ Jim/NNP ]
+and/CC 
+[ Nancy/NNP Lethcoe/NNP ]
+,/, 
+[ operators/NNS ]
+of/IN 
+[ a/DT sailing/VBG charter/NN service/NN ]
+,/, told/VBD 
+[ legislative/JJ investigators/NNS ]
+that/IN 
+[ they/PRP ]
+were/VBD unable/JJ to/TO use/VB 
+[ 75/CD %/NN ]
+of/IN 
+[ their/PRP$ traditional/JJ anchorages/NNS ]
+in/IN 
+[ remote/JJ areas/NNS ]
+of/IN 
+[ Prince/NNP William/NNP Sound/NNP ]
+because/IN of/IN 
+[ oily/JJ conditions/NNS ]
+or/CC 
+[ oil-spill/NN treatment/NN activities/NNS ]
+./. 
+
+======================================
+
+``/`` Usually/RB isolated/VBN 
+[ locations/NNS ]
+were/VBD disturbed/VBN by/IN 
+[ aircraft/NN ]
+and/CC 
+[ people/NNS ]
+''/'' while/IN ``/`` 
+[ noise/NN pollution/NN ]
+''/'' on/IN 
+[ marine/JJ band/NN radios/NNS ]
+from/IN 
+[ spill/NN cleanup/NN activities/NNS ]
+made/VBD monitoring/VBG 
+[ marine/JJ channels/NNS ]
+difficult/JJ and/CC 
+[ unpleasant/JJ ]
+,/, 
+[ the/DT report/NN ]
+stated/VBD ./. 

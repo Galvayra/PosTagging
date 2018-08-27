@@ -1,0 +1,375 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT following/VBG ]
+were/VBD among/IN 
+[ yesterday/NN 's/POS offerings/NNS ]
+and/CC 
+[ pricings/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ non-U.S./JJ capital/NN markets/NNS ]
+,/, with/IN 
+[ terms/NNS ]
+and/CC 
+[ syndicate/NN manager/NN ]
+,/, as/IN compiled/VBN by/IN 
+[ Dow/NNP Jones/NNP Capital/NNP Markets/NNP Report/NNP ]
+:/: 
+======================================
+
+[ Bibb/NNP Co./NNP ]
+--/: 
+[ $/$ 100/CD million/CD ]
+of/IN 
+[ 14/CD %/NN senior/JJ subordinated/JJ notes/NNS due/JJ 1999/CD ]
+,/, priced/VBN at/IN 
+[ par/NN ]
+./. 
+
+[ Rated/VBN single-B-2/JJ ]
+by/IN 
+[ Moody/NNP 's/POS Investors/NNP Service/NNP Inc./NNP ]
+and/CC 
+[ single-B/JJ ]
+by/IN 
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS Corp./NNP ]
+,/, 
+[ the/DT issue/NN ]
+will/MD be/VB sold/VBN through/IN 
+[ underwriters/NNS ]
+led/VBN by/IN 
+[ Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP ]
+./. 
+
+[ The/DT issue/NN ]
+is/VBZ non-callable/JJ for/IN 
+[ five/CD years/NNS ]
+./. 
+
+======================================
+
+[ California/NNP Educational/NNP Facilities/NNP Authority/NNP ]
+--/: 
+[ $/$ 102,475,000/CD ]
+of/IN 
+[ revenue/NN bonds/NNS ]
+ (/( 
+[ Stanford/NNP University/NNP Project/NNP ]
+ )/) 
+[ due/JJ 1991-2002/CD ]
+,/, 
+[ 2014/CD ]
+,/, 
+[ 2018/CD ]
+and/CC 
+[ 2019/CD ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Prager/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+to/TO yield/VB from/IN 
+[ 5.90/CD %/NN ]
+in/IN 
+[ 1991/CD ]
+to/TO 
+[ 7.25/CD %/NN ]
+in/IN 
+[ 2014/CD ]
+and/CC 
+[ 2019/CD ]
+./. 
+
+[ Serial/JJ bonds/NNS ]
+are/VBP priced/VBN to/TO yield/VB to/TO 
+[ 7.10/CD %/NN ]
+in/IN 
+[ 2004/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ $/$ 49,275,000/CD ]
+of/IN 
+[ 6/CD 3\/4/CD %/NN term/NN bonds/NNS due/JJ 2014/CD ]
+,/, priced/VBN to/TO yield/VB 
+[ 7.20/CD %/NN ]
+;/: 
+[ $/$ 27.1/CD million/CD ]
+of/IN 
+[ 6/CD %/NN term/NN bonds/NNS due/JJ 2018/CD ]
+,/, priced/VBN to/TO yield/VB 
+[ 7.18/CD %/NN ]
+;/: and/CC 
+[ $/$ 7.9/CD million/CD ]
+of/IN 
+[ 7/CD 1\/8/CD %/NN term/NN bonds/NNS due/JJ 2019/CD ]
+,/, priced/VBN to/TO yield/VB 
+[ 7.20/CD %/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP rated/VBN 
+[ triple-A/JJ ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ S&P/NNP ]
+./. 
+
+======================================
+
+[ Florida/NNP ]
+--/: 
+[ $/$ 860.4/CD million/CD ]
+of/IN 
+[ full/JJ faith/NN ]
+and/CC 
+[ credit/NN State/NNP Board/NNP ]
+of/IN 
+[ Education/NNP public/JJ education/NN capital/NN outlay/NN bonds/NNS ]
+,/, 
+[ Series/NNP 1989-A/NNP ]
+ (/( refunding/JJ 
+[ bonds/NNS ]
+ )/) ,/, with/IN 
+[ current/JJ interest/NN bonds/NNS due/JJ 2023/CD ]
+,/, 
+[ 2024/CD ]
+and/CC 
+[ 2025/CD ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+yield/VBP from/IN 
+[ 7.40/CD %/NN ]
+in/IN 
+[ 2024/CD ]
+to/TO 
+[ 7.65/CD %/NN ]
+to/TO 
+[ maturity/NN ]
+for/IN 
+[ the/DT capital/NN appreciation/NN bonds/NNS ]
+./. 
+
+[ The/DT bulk/NN ]
+of/IN 
+[ the/DT issue/NN ]
+is/VBZ in/IN 
+[ the/DT 2023/CD term/NN bond/NN maturity/NN ]
+,/, 
+[ which/WDT ]
+totals/VBZ 
+[ $/$ 588.6/CD million/CD ]
+./. 
+
+[ They/PRP ]
+'re/VBP priced/VBN as/IN 
+[ 7/CD 1\/4/CD %/NN securities/NNS ]
+to/TO yield/VB 
+[ 7.55/CD %/NN ]
+./. 
+
+[ There/EX ]
+are/VBP about/RB 
+[ $/$ 50/CD million/CD ]
+of/IN 
+[ original/JJ issue/NN discount/NN term/NN bonds/NNS due/JJ 2024/CD ]
+,/, priced/JJ as/IN 
+[ 5/CD %/NN securities/NNS ]
+to/TO yield/VB 
+[ 7.40/CD %/NN ]
+./. 
+
+[ There/EX ]
+are/VBP about/RB 
+[ $/$ 200/CD million/CD ]
+of/IN 
+[ original/JJ issue/NN discount/NN term/NN bonds/NNS due/JJ 2025/CD ]
+,/, priced/VBN as/IN 
+[ 6/CD %/NN securities/NNS ]
+to/TO yield/VB 
+[ 7.45/CD %/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP rated/VBN 
+[ double-A/JJ ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ S&P/NNP ]
+
+======================================
+
+[ Bell/NNP Canada/NNP ]
+--/: 
+[ 200/CD million/CD Canadian/JJ dollars/NNS ]
+of/IN 
+[ 10/CD 7\/8/CD %/NN bonds/NNS due/JJ Oct./NNP 11/CD ]
+,/, 
+[ 2004/CD ]
+,/, priced/VBN at/IN 
+[ 101/CD 7\/8/CD ]
+to/TO yield/VB 
+[ 10.84/CD %/NN ]
+via/IN 
+[ UBS/NNP Phillips/NNP ]
+&/CC 
+[ Drew/NNP ]
+./. 
+
+Fixed/JJ reoffered/JJ 
+[ level/NN 100/CD 1\/4/CD ]
+./. 
+
+======================================
+
+[ Oesterreichische/NNP Kontrollbank/NNP ]
+ (/( 
+[ Austria/NNP ]
+ )/) --/: 
+[ C$/$ 200/CD million/CD ]
+of/IN 
+[ 10/CD 5\/8/CD %/NN bonds/NNS due/JJ Nov./NNP 2/CD ]
+,/, 
+[ 1992/CD ]
+,/, priced/VBN at/IN 
+[ 101.175/CD ]
+to/TO yield/VB 
+[ 10.69/CD %/NN ]
+annually/RB 
+[ less/CC full/JJ fees/NNS ]
+,/, via/IN 
+[ JP/NNP Morgan/NNP Securities/NNP Ltd/NNP ]
+./. 
+
+Guaranteed/VBN by/IN 
+[ the/DT Republic/NNP ]
+of/IN 
+[ Austria/NNP ]
+./. 
+
+[ Fees/NNS 1/CD 3\/8/CD ]
+./. 
+
+======================================
+
+[ Cie/NNP ]
+./. 
+
+[ Bancaire/NNP ]
+ (/( 
+[ France/NNP ]
+ )/) --/: 
+[ 15/CD billion/CD yen/NN ]
+of/IN 
+[ 5.45/CD %/NN bonds/NNS due/JJ Oct./NNP 25/CD ]
+,/, 
+[ 1994/CD ]
+,/, at/IN 
+[ 101.875/CD ]
+to/TO yield/VB 
+[ 5.45/CD %/NN ]
+
+[ less/CC full/JJ fees/NNS ]
+,/, via/IN 
+[ lead/JJ manager/NN IBJ/NNP International/NNP Ltd/NNP ]
+./. 
+
+[ Fees/NNS 1/CD 7\/8/CD ]
+./. 
+
+======================================
+
+[ Kreditanstalt/NNP fuer/NNP Wiederaufbau/NNP ]
+ (/( 
+[ agency/NN ]
+ )/) --/: 
+[ 500/CD million/CD marks/NNS ]
+of/IN 
+[ floating-rate/JJ notes/NNS ]
+at/IN 
+[ the/DT six-month/JJ London/NNP interbank/NN|JJ|RB ]
+offered/VBN|JJ 
+[ rate/NN less/CC 1\/8/CD ]
+,/, 
+[ due/JJ October/NNP 1999/CD ]
+and/CC priced/VBN at/IN 
+[ 100.15/CD ]
+,/, via/IN 
+[ Dresdner/NNP Bank/NNP ]
+./. 
+
+[ Callable/JJ ]
+at/IN par/IN 
+[ every/DT October/NNP beginning/VBG ]
+in/IN 
+[ 1994/CD ]
+./. 
+
+Put/VBN at/IN 
+[ 99.95/CD ]
+on/IN 
+[ same/JJ dates/NNS ]
+./. 
+
+[ Fees/NNS 0.22/CD ]
+./. 
+
+======================================
+
+[ Credit/NNP Local/NNP ]
+de/IN 
+[ France/NNP ]
+--/: 
+[ 50/CD million/CD European/JJ currency/NN units/NNS ]
+of/IN 
+[ 9/CD 1\/4/CD %/NN bonds/NNS due/JJ June/NNP 12/CD ]
+,/, 
+[ 1992/CD ]
+,/, priced/VBN at/IN 
+[ 101/CD 7\/8/CD ]
+to/TO yield/VB 
+[ 8.93/CD %/NN ]
+
+[ less/CC full/JJ fees/NNS ]
+,/, via/IN 
+[ lead/JJ manager/NN UBS/NNP Phillips/NNP ]
+&/CC 
+[ Drew/NNP ]
+./. 
+
+[ Fungible/JJ Nov./NNP 8/CD ]
+,/, 
+[ 1989/CD ]
+,/, with/IN 
+[ Credit/NNP Local/NNP 's/POS outstanding/JJ 150/CD million/CD ECUs/NNS ]
+of/IN 
+[ 9/CD 1\/4/CD %/NN bonds/NNS due/JJ 1992/CD ]
+./. 
+
+[ Fees/NNS 1/CD 3\/8/CD ]
+./. 

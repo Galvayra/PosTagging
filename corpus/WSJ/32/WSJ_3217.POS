@@ -1,0 +1,516 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT government/NN 's/POS latest/JJS employment/NN statistics/NNS ]
+highlight/VBP 
+[ severe/JJ weakening/NN ]
+in/IN 
+[ the/DT country/NN 's/POS manufacturing/VBG sector/NN ]
+and/CC 
+[ signal/VBP ]
+softening/NN in/IN 
+[ the/DT economy/NN ]
+as/IN 
+[ a/DT whole/NN ]
+./. 
+
+======================================
+
+[ A/DT sharp/JJ decline/NN ]
+in/IN 
+[ factory/NN jobs/NNS last/JJ month/NN ]
+helped/VBD push/VB 
+[ the/DT nation/NN 's/POS civilian/JJ unemployment/NN rate/NN ]
+to/TO 
+[ 5.3/CD %/NN ]
+of/IN 
+[ the/DT work/NN force/NN ]
+from/IN 
+[ 5.2/CD %/NN ]
+in/IN 
+[ August/NNP ]
+,/, 
+[ the/DT Labor/NNP Department/NNP ]
+reported/VBD ./. 
+
+[ Government/NNP analysts/NNS ]
+said/VBD 
+[ the/DT change/NN ]
+was/VBD statistically/RB insignificant/JJ but/CC 
+[ they/PRP ]
+said/VBD overall/RB 
+[ the/DT report/NN ]
+suggests/VBZ 
+[ the/DT economy/NN ]
+is/VBZ weakening/VBG ./. 
+
+======================================
+
+According/VBG to/TO 
+[ a/DT survey/NN ]
+of/IN 
+[ businesses/NNS ]
+,/, 
+[ employers/NNS ]
+added/VBD 
+[ 209,000/CD new/JJ workers/NNS ]
+to/TO 
+[ their/PRP$ payrolls/NNS ]
+during/IN 
+[ the/DT month/NN ]
+./. 
+
+But/CC more/JJR than/IN 
+[ a/DT third/NN ]
+of/IN 
+[ them/PRP ]
+were/VBD 
+[ the/DT 75,000/CD telephone/NN company/NN employees/NNS ]
+returning/VBG to/TO work/VB after/IN 
+[ strikes/NNS ]
+in/IN 
+[ August/NNP ]
+./. 
+
+[ Factory/NN payrolls/NNS ]
+shrank/VBD by/IN 
+[ 103,000/CD ]
+in/IN 
+[ September/NNP ]
+,/, 
+[ the/DT largest/JJS monthly/JJ decline/NN ]
+since/IN 
+[ December/NNP 1982/CD ]
+,/, when/WRB 
+[ the/DT country/NN ]
+was/VBD emerging/VBG from/IN 
+[ a/DT recession/NN ]
+./. 
+
+[ A/DT separate/JJ survey/NN ]
+of/IN 
+[ households/NNS ]
+actually/RB showed/VBD 
+[ a/DT drop/NN ]
+in/IN 
+[ overall/JJ employment/NN ]
+./. 
+
+======================================
+
+[ The/DT deterioration/NN ]
+in/IN 
+[ manufacturing/VBG employment/NN ]
+disappointed/VBD 
+[ some/DT economists/NNS ]
+,/, 
+[ who/WP ]
+had/VBD viewed/VBN 
+[ a/DT recent/JJ report/NN ]
+of/IN 
+[ a/DT big/JJ increase/NN ]
+in/IN 
+[ factory/NN orders/NNS ]
+in/IN 
+[ August/NNP ]
+as/IN 
+[ a/DT sign/NN ]
+that/IN manufacturing/VBG was/VBD on/IN 
+[ its/PRP$ way/NN ]
+to/TO regaining/VBG 
+[ some/DT health/NN ]
+./. 
+
+[ The/DT new/JJ report/NN ]
+also/RB suggested/VBD that/IN 
+[ a/DT spurt/NN ]
+in/IN 
+[ automobile/NN production/NN ]
+and/CC 
+[ sales/NNS ]
+late/RB in/IN 
+[ the/DT summer/NN ]
+was/VBD temporary/JJ ,/, as/IN 
+[ many/JJ analysts/NNS ]
+had/VBD suggested/VBN ./. 
+
+======================================
+
+[ The/DT unemployment/NN report/NN ]
+``/`` delivered/VBD 
+[ an/DT unambiguous/JJ message/NN ]
+,/, ''/'' said/VBD 
+[ Joseph/NNP Carson/NNP ]
+,/, 
+[ senior/JJ economist/NN ]
+at/IN 
+[ Chemical/NNP Bank/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+``/`` 
+[ The/DT economy/NN ]
+is/VBZ weak/JJ ,/, and/CC 
+[ the/DT decline/NN ]
+in/IN 
+[ the/DT manufacturing/VBG sector/NN ]
+is/VBZ broadening/VBG and/CC deepening/VBG ./. 
+
+''/'' 
+======================================
+
+About/IN 
+[ a/DT third/NN ]
+of/IN 
+[ the/DT fall/NN ]
+in/IN manufacturing/VBG 
+[ jobs/NNS ]
+came/VBD from/IN 
+[ layoffs/NNS ]
+of/IN 
+[ auto/NN workers/NNS ]
+,/, but/CC 
+[ declines/NNS ]
+swept/VBD over/IN much/JJ of/IN 
+[ U.S./NNP industry/NN ]
+:/: 
+[ 16/CD ]
+of/IN 
+[ the/DT 20/CD major/JJ manufacturing/VBG industries/NNS ]
+showed/VBD 
+[ declines/NNS ]
+in/IN 
+[ employment/NN ]
+after/IN 
+[ analysts/NNS ]
+adjusted/VBD for/IN 
+[ normal/JJ seasonal/JJ fluctuations/NNS ]
+./. 
+
+======================================
+
+[ The/DT commissioner/NN ]
+of/IN 
+[ labor/NN statistics/NNS ]
+,/, 
+[ Janet/NNP Norwood/NNP ]
+,/, called/VBD 
+[ the/DT drop/NN ]
+in/IN 
+[ factory/NN jobs/NNS ]
+``/`` 
+[ the/DT most/RBS disturbing/JJ feature/NN ]
+''/'' of/IN 
+[ the/DT new/JJ data/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Real/JJ growth/NN ]
+in/IN 
+[ overall/JJ factory/NN employment/NN ]
+ended/VBD 
+[ last/JJ March/NNP ]
+;/: since/IN then/RB ,/, 
+[ we/PRP ]
+have/VBP lost/VBN 
+[ 135,000/CD jobs/NNS ]
+,/, ''/'' 
+[ she/PRP ]
+told/VBD 
+[ Congress/NNP ]
+./. 
+
+======================================
+
+But/CC in/IN 
+[ a/DT sign/NN ]
+
+[ that/DT consumer/NN demand/NN ]
+remains/VBZ 
+[ hearty/JJ ]
+,/, 
+[ the/DT Federal/NNP Reserve/NNP Board/NNP ]
+reported/VBD that/IN 
+[ consumer/NN installment/NN debt/NN ]
+grew/VBD 
+[ $/$ 3.48/CD billion/CD ]
+in/IN 
+[ August/NNP ]
+,/, or/CC at/IN 
+[ a/DT 6.0/CD %/NN annual/JJ rate/NN ]
+,/, after/IN 
+[ a/DT rare/JJ decline/NN ]
+in/IN 
+[ July/NNP ]
+of/IN 
+[ 0.9/CD %/NN ]
+./. 
+
+[ Automobile/NN loans/NNS ]
+,/, 
+[ which/WDT ]
+showed/VBD 
+[ declines/NNS ]
+in/IN 
+[ previous/JJ months/NNS ]
+,/, grew/VBD 
+[ $/$ 400/CD million/CD ]
+,/, or/CC at/IN 
+[ a/DT 1.7/CD %/NN annual/JJ rate/NN ]
+./. 
+
+Revolving/VBG 
+[ credit/NN ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ bank/NN ]
+and/CC 
+[ retail/NN borrowing/NN ]
+,/, swelled/VBD at/IN 
+[ a/DT 22.5/CD %/NN annual/JJ rate/NN ]
+,/, or/CC 
+[ $/$ 3.57/CD billion/CD ]
+./. 
+
+======================================
+
+[ The/DT numbers/NNS ]
+in/IN 
+[ both/DT ]
+
+[ reports/NNS ]
+were/VBD adjusted/VBN for/IN 
+[ seasonal/JJ fluctuations/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ the/DT new/JJ employment/NN statistics/NNS ]
+pinpointed/VBD 
+[ a/DT slide/NN ]
+in/IN 
+[ manufacturing/NN ]
+,/, 
+[ Richard/NNP Berner/NNP ]
+,/, 
+[ an/DT economist/NN ]
+at/IN 
+[ Salomon/NNP Brothers/NNPS ]
+,/, said/VBD ,/, ``/`` 
+[ There/EX ]
+are/VBP 
+[ unmistakable/JJ signs/NNS ]
+of/IN slowing/VBG in/IN 
+[ this/DT report/NN ]
+''/'' in/IN 
+[ the/DT economy/NN overall/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT report/NN ]
+indicates/VBZ 
+[ there/EX ]
+are/VBP 
+[ severe/JJ weaknesses/NNS ]
+in/IN manufacturing/VBG 
+[ which/WDT ]
+may/MD very/RB well/RB ripple/VB out/IN to/TO 
+[ other/JJ sectors/NNS ]
+,/, ''/'' added/VBD 
+[ Rudy/NNP Oswald/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ economic/JJ research/NN ]
+at/IN 
+[ the/DT AFL-CIO/NNP ]
+./. 
+
+[ He/PRP ]
+cited/VBD 
+[ services/NNS ]
+related/VBN to/TO manufacturing/NN ,/, such/JJ as/IN trucking/NN ./. 
+
+======================================
+
+[ Employment/NN ]
+in/IN 
+[ the/DT construction/NN industry/NN ]
+stayed/VBD basically/RB at/IN 
+[ its/PRP$ August/NNP level/NN ]
+and/CC ,/, 
+[ Mrs./NNP Norwood/NNP ]
+told/VBD 
+[ Congress/NNP ]
+,/, ``/`` Since/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT year/NN ]
+
+[ the/DT number/NN ]
+of/IN 
+[ construction/NN jobs/NNS ]
+has/VBZ increased/VBN only/RB by/IN about/IN 
+[ 50,000/CD ]
+./. 
+
+''/'' 
+======================================
+
+While/IN 
+[ employment/NN ]
+in/IN 
+[ the/DT service/NN sector/NN ]
+grew/VBD significantly/RB ,/, much/JJ of/IN 
+[ it/PRP ]
+came/VBD from/IN 
+[ strikers/NNS ]
+returning/VBG from/IN 
+[ the/DT picket/NN line/NN ]
+and/CC 
+[ teachers/NNS ]
+returning/VBG to/TO 
+[ the/DT classroom/NN ]
+for/IN 
+[ a/DT new/JJ school/NN year/NN ]
+./. 
+
+[ Jobs/NNS ]
+in/IN 
+[ business/NN ]
+and/CC 
+[ health/NN services/NNS ]
+grew/VBD substantially/RB ,/, but/CC 
+[ Mr./NNP Berner/NNP ]
+noted/VBD ,/, ``/`` If/IN 
+[ you/PRP ]
+look/VBP in/IN 
+[ other/JJ areas/NNS you/PRP ]
+start/VBP to/TO see/VB 
+[ deceleration/NN ]
+./. 
+
+''/'' 
+[ The/DT retail/JJ trade/NN industry/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, added/VBD only/RB 
+[ 4,000/CD employees/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ That/DT ]
+'s/VBZ very/RB ,/, very/RB weak/JJ ,/, ''/'' said/VBD 
+[ Mr./NNP Carson/NNP ]
+./. 
+
+======================================
+
+[ The/DT unemployment/NN rate/NN ]
+for/IN 
+[ adult/NN males/NNS ]
+jumped/VBD 
+[ 0.4/CD percentage/NN point/NN last/JJ month/NN ]
+,/, to/TO 
+[ 4.8/CD %/NN ]
+./. 
+
+``/`` 
+[ People/NNS ]
+
+[ who/WP ]
+are/VBP laid/VBN off/IN 
+[ first/JJ ]
+often/RB are/VBP on/IN 
+[ assembly/NN lines/NNS ]
+and/CC 
+[ they/PRP ]
+tend/VBP to/TO be/VB 
+[ adult/NN men/NNS ]
+,/, ''/'' 
+[ Mr./NNP Berner/NNP ]
+noted/VBD ./. 
+
+``/`` So/IN 
+[ a/DT jump/NN ]
+in/IN 
+[ that/DT rate/NN ]
+also/RB tells/VBZ 
+[ me/PRP ]
+
+[ we/PRP ]
+'re/VBP talking/VBG about/IN 
+[ an/DT economy/NN ]
+
+[ that/WDT ]
+is/VBZ showing/VBG 
+[ signs/NNS ]
+of/IN slowing/VBG ./. 
+
+''/'' 
+======================================
+
+[ The/DT unemployment/NN rates/NNS ]
+for/IN 
+[ blacks/NNS ]
+and/CC 
+[ teenagers/NNS ]
+also/RB showed/VBD 
+[ large/JJ increases/NNS ]
+during/IN 
+[ the/DT month/NN ]
+./. 
+
+For/IN 
+[ blacks/NNS ]
+
+[ it/PRP ]
+grew/VBD to/TO 
+[ 11.6/CD %/NN ]
+from/IN 
+[ 11.1/CD %/NN ]
+in/IN 
+[ August/NNP ]
+;/: for/IN 
+[ teenagers/NNS ]
+
+[ it/PRP ]
+climbed/VBD to/TO 
+[ 15.1/CD %/NN ]
+from/IN 
+[ 14.5/CD %/NN ]
+./. 
+
+======================================
+
+Here/RB are/VBP 
+[ excerpts/NNS ]
+from/IN 
+[ the/DT Labor/NNP Department/NNP 's/POS employment/NN report/NN ]
+./. 
+
+[ The/DT figures/NNS ]
+are/VBP seasonally/RB adjusted/VBN ./. 

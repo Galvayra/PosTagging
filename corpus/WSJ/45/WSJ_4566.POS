@@ -1,0 +1,262 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+has/VBZ asked/VBN 
+[ computer-accessory/NN makers/NNS ]
+to/TO produce/VB 
+[ adaptor/NN cards/NNS ]
+for/IN 
+[ its/PRP$ PS\/NN line/NN ]
+of/IN 
+[ computers/NNS ]
+
+[ that/WDT ]
+will/MD enable/VB 
+[ them/PRP ]
+to/TO transfer/VB 
+[ data/NNS two/CD ]
+to/TO 
+[ four/CD times/NNS ]
+faster/RBR than/IN 
+[ they/PRP ]
+currently/RB do/VBP ./. 
+
+======================================
+
+[ IBM/NNP ]
+said/VBD 
+[ the/DT cards/NNS ]
+will/MD unlock/VB 
+[ capabilities/NNS ]
+already/RB built/VBN into/IN 
+[ its/PRP$ PS\/NN line/NN ]
+,/, 
+[ which/WDT ]
+features/VBZ 
+[ the/DT so-called/JJ Micro/NNP Channel/NNP data/NNS|NN pathway/NN ]
+./. 
+
+[ The/DT cards/NNS ]
+wo/MD n't/RB be/VB available/JJ until/IN at/IN 
+[ least/JJS ]
+
+[ some/DT time/NN ]
+next/JJ 
+[ year/NN ]
+,/, 
+[ IBM/NNP ]
+said/VBD ,/, although/IN 
+[ officials/NNS ]
+added/VBD that/IN 
+[ some/DT cards/NNS ]
+currently/RB 
+[ available/JJ ]
+can/MD speed/VB 
+[ data/NN|NNS transfer/NN ]
+in/IN 
+[ PS\/NN models/NNS ]
+,/, 
+[ which/WDT ]
+first/RB hit/VBN 
+[ the/DT stores/NNS ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+======================================
+
+[ The/DT announcement/NN ]
+by/IN 
+[ IBM/NNP ]
+,/, 
+[ Armonk/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, represents/VBZ 
+[ the/DT latest/JJS escalation/NN ]
+of/IN 
+[ the/DT marketing/NN battle/NN ]
+between/IN 
+[ it/PRP ]
+and/CC 
+[ a/DT group/NN ]
+of/IN 
+[ rival/JJ personal-computer/NN companies/NNS ]
+known/VBN as/IN 
+[ the/DT Gang/NN ]
+of/IN 
+[ Nine/CD ]
+./. 
+
+[ The/DT battle/NN ]
+is/VBZ over/IN 
+[ whose/WP$ data/NN|NNS pathway/NN ]
+,/, 
+[ IBM/NNP 's/POS Micro/NNP Channel/NNP ]
+or/CC 
+[ its/PRP$ rivals/NNS '/POS Extended/NNP Industry/NNP Standard/NNP Architecture/NNP ]
+,/, or/CC 
+[ EISA/NNP ]
+,/, will/MD become/VB 
+[ the/DT industry/NN standard/NN ]
+./. 
+
+[ The/DT battle/NN ]
+stems/VBZ from/IN 
+[ offices/NNS '/POS growing/VBG reliance/NN ]
+on/IN 
+[ personal/JJ computers/NNS ]
+,/, as/IN opposed/VBN to/TO 
+[ work/NN stations/NNS ]
+,/, 
+[ which/WDT ]
+has/VBZ resulted/VBN in/IN 
+[ a/DT need/NN ]
+for/IN more/RBR flexible/JJ ,/, 
+[ faster-working/JJR PCs/NNS ]
+./. 
+
+======================================
+
+Not/RB surprisingly/RB ,/, 
+[ Michael/NNP Swavely/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT North/NNP America/NNP division/NN ]
+of/IN 
+[ Gang/NN ]
+of/IN 
+[ Nine/CD leader/NN Compaq/NNP Computer/NNP Corp./NNP ]
+,/, 
+[ was/VBD n't/RB ]
+impressed/JJ with/IN 
+[ IBM/NNP 's/POS announcement/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ the/DT same/JJ old/JJ stuff/NN ]
+,/, ''/'' 
+[ Mr./NNP Swavely/NNP ]
+said/VBD ,/, adding/VBG ,/, ``/`` 
+[ IBM/NNP ]
+does/VBZ n't/RB have/VB 
+[ any/DT new/JJ products/NNS ]
+to/TO announce/VB ,/, ''/'' thus/RB ,/, ``/`` 
+[ it/PRP ]
+'s/VBZ trying/VBG to/TO fight/VB 
+[ the/DT market-share/NN war/NN ]
+with/IN 
+[ words/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ IBM/NNP ]
+said/VBD that/IN ,/, with/IN 
+[ certain/JJ ]
+of/IN 
+[ the/DT 29/CD different/JJ adaptor/NN cards/NNS ]
+
+[ it/PRP ]
+
+[ 's/POS asking/VBG manufacturers/NNS ]
+to/TO produce/VB ,/, 
+[ Micro/NNP Channel/NNP PCs/NNS ]
+will/MD be/VB able/JJ to/TO double/VB 
+[ the/DT rate/NN ]
+at/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+transmit/VBP 
+[ data/NNS ]
+./. 
+
+[ The/DT speed/NN ]
+will/MD be/VB added/VBN by/IN eliminating/VBG 
+[ the/DT need/NN ]
+to/TO send/VB 
+[ information/NN ]
+on/RP where/WRB 
+[ the/DT data/NNS ]
+are/VBP going/VBG before/RB 
+[ the/DT data/NNS ]
+are/VBP actually/RB transmitted/VBN ./. 
+
+With/IN 
+[ the/DT card/NN ]
+,/, 
+[ IBM/NNP ]
+said/VBD ,/, 
+[ the/DT two/CD functions/NNS ]
+will/MD occur/VB simultaneously/RB ./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ other/JJ adaptor/NN cards/NNS ]
+will/MD enable/VB 
+[ PS\/NNS ]
+to/TO transmit/VB 
+[ data/NNS four/CD times/NNS ]
+faster/RBR ,/, using/VBG 
+[ a/DT technology/NN ]
+known/VBN as/IN multiplexing/NN ./. 
+
+[ A/DT telephone/NN term/NN ]
+,/, multiplexing/NN is/VBZ 
+[ a/DT way/NN ]
+of/IN compressing/VBG 
+[ data/NNS ]
+so/IN that/IN more/JJR than/IN 
+[ one/CD conversation/NN ]
+can/MD occur/VB on/IN 
+[ the/DT same/JJ line/NN ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT related/JJ development/NN ]
+,/, 
+[ IBM/NNP ]
+said/VBD 
+[ it/PRP ]
+entered/VBD into/IN 
+[ agreements/NNS ]
+with/IN 
+[ Chips/NNPS ]
+&/CC 
+[ Technologies/NNPS Inc./NNP ]
+and/CC with/IN 
+[ Intel/NNP Corp./NNP ]
+to/TO develop/VB 
+[ chip/NN sets/NNS ]
+to/TO facilitate/VB 
+[ the/DT use/NN ]
+of/IN 
+[ the/DT new/JJ adaptor/NN cards/NNS ]
+./. 

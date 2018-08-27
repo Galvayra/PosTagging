@@ -1,0 +1,57 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ H&R/NNP BLOCK/NNP Inc./NNP ]
+had/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 100.2/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.90/CD ]
+
+[ a/DT share/NN ]
+,/, in/IN 
+[ the/DT fiscal/JJ year/NN ]
+ended/VBN 
+[ April/NNP 30/CD ]
+./. 
+
+[ The/DT figure/NN ]
+was/VBD incorrectly/RB shown/VBN as/IN 
+[ a/DT net/JJ loss/NN ]
+in/IN 
+[ a/DT chart/NN ]
+accompanying/VBG 
+[ Friday/NNP 's/POS ]
+Heard/VBN on/IN 
+[ the/DT Street/NN column/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` Heard/VBN on/IN 
+[ the/DT Street/NN ]
+:/: 
+[ H&R/NNP Block/NNP 's/POS Success/NN Story/NN Seems/VBZ ]
+to/TO Present/VB 
+[ a/DT Stumbling/JJ Block/NN ]
+to/TO 
+[ Some/DT Money/NN Managers/NNS ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 20/CD ]
+,/, 
+[ 1989/CD ]

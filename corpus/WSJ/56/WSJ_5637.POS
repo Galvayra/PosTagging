@@ -1,0 +1,291 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ GE/NNP Capital/NNP Mortgage/NNP Insurance/NNP Cos./NNPS ]
+,/, 
+[ Fannie/NNP Mae/NNP ]
+and/CC 
+[ Freddie/NNP Mac/NNP ]
+jointly/RB announced/VBD 
+[ a/DT mortgage/NN insurance/NN program/NN ]
+designed/VBN to/TO help/VB 
+[ low-income/JJ ]
+and/CC 
+[ moderate-income/JJ people/NNS ]
+buy/VB 
+[ homes/NNS ]
+./. 
+
+======================================
+
+[ The/DT Community/NNP Home/NNP Buyer/NNP 's/POS Program/NN ]
+relaxes/VBZ lending/NN 
+[ standards/NNS ]
+to/TO help/VB 
+[ lower-income/JJR families/NNS ]
+qualify/VB for/IN 
+[ a/DT mortgage/NN ]
+./. 
+
+To/TO help/VB avoid/VB 
+[ defaults/NNS ]
+,/, however/RB ,/, 
+[ the/DT program/NN ]
+requires/VBZ 
+[ buyers/NNS ]
+to/TO attend/VB 
+[ a/DT training/NN course/NN ]
+on/IN choosing/VBG ,/, financing/VBG and/CC owning/VBG 
+[ a/DT home/NN ]
+,/, and/CC 
+[ it/PRP ]
+emphasizes/VBZ 
+[ prepurchase/JJ inspections/NNS ]
+./. 
+
+======================================
+
+[ GE/NNP Capital/NNP ]
+,/, 
+[ a/DT General/NNP Electric/NNP Co./NNP unit/NN ]
+,/, said/VBD 
+[ it/PRP ]
+will/MD insure/VB as/RB much/JJ as/IN 
+[ $/$ 500/CD million/CD ]
+in/IN 
+[ loans/NNS ]
+,/, or/CC 
+[ enough/JJ money/NN ]
+to/TO finance/VB nearly/RB 
+[ 10,000/CD dwellings/NNS ]
+./. 
+
+[ Fannie/NNP Mae/NNP ]
+,/, as/IN 
+[ the/DT Federal/NNP National/NNP Mortgage/NNP Association/NNP ]
+is/VBZ known/VBN ,/, agreed/VBD to/TO buy/VB as/RB much/JJ as/IN 
+[ $/$ 200/CD million/CD ]
+of/IN 
+[ the/DT loans/NNS ]
+from/IN 
+[ lenders/NNS ]
+./. 
+
+[ Freddie/NNP Mac/NNP ]
+,/, 
+[ the/DT Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP ]
+,/, did/VBD n't/RB specify/VB 
+[ a/DT total/NN ]
+./. 
+
+======================================
+
+[ Fannie/NNP Mae/NNP ]
+and/CC 
+[ Freddie/NNP Mac/NNP ]
+are/VBP federally/RB chartered/JJ ,/, 
+[ stockholder-owned/JJ corporations/NNS ]
+
+[ that/WDT ]
+operate/VBP 
+[ a/DT secondary/JJ market/NN ]
+in/IN 
+[ mortgage/NN loans/NNS ]
+,/, buying/VBG 
+[ loans/NNS ]
+from/IN 
+[ lenders/NNS ]
+and/CC packaging/VBG 
+[ them/PRP ]
+into/IN 
+[ securities/NNS ]
+for/IN 
+[ sale/NN ]
+to/TO 
+[ investors/NNS ]
+or/CC holding/VBG 
+[ them/PRP ]
+in/IN 
+[ portfolio/NN ]
+./. 
+
+======================================
+
+[ GE/NNP Capital/NNP ]
+said/VBD 
+[ six/CD lenders/NNS ]
+have/VBP signed/VBN up/RB already/RB and/CC 
+[ the/DT company/NN ]
+expects/VBZ 
+[ 50/CD lenders/NNS ]
+to/TO participate/VB in/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+./. 
+
+[ Gregory/NNP T./NNP Barmore/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ GE/NNP Capital/NNP ]
+,/, said/VBD 
+[ the/DT buyers/NNS '/POS program/NN ]
+``/`` addresses/VBZ 
+[ a/DT critical/JJ need/NN ]
+while/IN offering/VBG 
+[ a/DT good/JJ business/NN opportunity/NN ]
+''/'' for/IN 
+[ GE/NNP ]
+,/, 
+[ lenders/NNS ]
+,/, 
+[ Fannie/NNP Mae/NNP ]
+and/CC 
+[ Freddie/NNP Mac/NNP ]
+./. 
+
+======================================
+
+Earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ GE/NNP ]
+and/CC 
+[ Fannie/NNP Mae/NNP ]
+launched/VBD 
+[ a/DT similar/JJ initiative/NN ]
+,/, with/IN 
+[ GE/NNP Capital/NNP insuring/VBG home/NN loans/NNS ]
+to/TO 
+[ low-income/JJ ]
+and/CC 
+[ moderate-income/JJ families/NNS ]
+in/IN 
+[ five/CD Midwest/NNP cities/NNS ]
+./. 
+
+Under/IN 
+[ that/DT program/NN ]
+,/, 
+[ Fannie/NNP Mae/NNP ]
+agreed/VBD to/TO buy/VB 
+[ $/$ 40/CD million/CD ]
+in/IN 
+[ mortgages/NNS ]
+./. 
+
+======================================
+
+[ The/DT program/NN ]
+announced/VBN yesterday/NN allows/VBZ 
+[ buyers/NNS ]
+to/TO apply/VB 
+[ 33/CD %/NN ]
+of/IN 
+[ their/PRP$ income/NN ]
+to/TO 
+[ their/PRP$ monthly/JJ housing/NN expenses/NNS ]
+,/, rather/RB than/IN 
+[ the/DT standard/JJ 28/CD %/NN ]
+required/VBN for/IN 
+[ most/JJS financing/NN ]
+with/IN 
+[ a/DT 5/CD %/NN ]
+down/NN 
+[ payment/NN ]
+./. 
+
+[ The/DT program/NN ]
+also/RB waives/VBZ 
+[ the/DT condition/NN ]
+that/IN 
+[ buyers/NNS ]
+have/VB 
+[ a/DT cash/NN reserve/NN ]
+equal/JJ to/TO 
+[ two/CD monthly/JJ mortgage/NN payments/NNS ]
+,/, and/CC 
+[ it/PRP ]
+permits/VBZ 
+[ buyers/NNS ]
+to/TO use/VB 
+[ a/DT subsidized/JJ second/JJ mortgage/NN ]
+to/TO cut/VB 
+[ costs/NNS ]
+./. 
+
+As/IN 
+[ evidence/NN ]
+of/IN 
+[ good/JJ credit/NN history/NN ]
+,/, 
+[ borrowers/NNS ]
+can/MD also/RB use/VB 
+[ non-traditional/JJ documents/NNS ]
+such/JJ as/IN 
+[ rent/NN ]
+and/CC 
+[ utility/NN payments/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT Community/NNP Home/NNP Buyer/NNP 's/POS Program/NN ]
+requires/VBZ 
+[ potential/JJ buyers/NNS ]
+to/TO attend/VB 
+[ classes/NNS ]
+
+[ that/WDT ]
+explain/VBP 
+[ the/DT mortgage/NN application/NN process/NN ]
+as/RB well/RB as/IN 
+[ the/DT income/NN level/NN ]
+,/, 
+[ savings/NNS ]
+and/CC 
+[ credit/NN history/NN ]
+needed/VBN to/TO obtain/VB 
+[ a/DT mortgage/NN ]
+./. 
+
+[ Instructors/NNS ]
+also/RB teach/VBP 
+[ buyers/NNS ]
+how/WRB to/TO choose/VB 
+[ a/DT home/NN ]
+
+[ that/WDT ]
+is/VBZ n't/RB going/VBG to/TO need/VB 
+[ extensive/JJ repairs/NNS ]
+,/, and/CC emphasize/VBP 
+[ home/NN inspections/NNS ]
+to/TO avert/VB 
+[ a/DT potential/JJ default/NN ]
+because/IN of/IN 
+[ a/DT costly/JJ maintenance/NN problem/NN ]
+in/IN 
+[ the/DT first/JJ few/JJ years/NNS ]
+./. 
+
+In/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ the/DT inspections/NNS ]
+are/VBP subsidized/JJ ./. 

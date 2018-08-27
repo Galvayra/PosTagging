@@ -1,0 +1,425 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Medicare/NNP catastrophic/JJ illness/NN insurance/NN program/NN ]
+,/, already/RB under/IN 
+[ attack/NN ]
+for/IN 
+[ its/PRP$ high/JJ premiums/NNS ]
+,/, is/VBZ generating/VBG 
+[ cost/NN overruns/NNS ]
+
+[ that/WDT ]
+make/VBP 
+[ some/DT Pentagon/NNP cost/NN excesses/NNS ]
+look/VB 
+[ modest/JJ ]
+by/IN 
+[ comparison/NN ]
+./. 
+
+======================================
+
+Just/RB 
+[ one/CD benefit/NN ]
+in/IN 
+[ the/DT new/JJ law/NN ]
+--/: expanded/VBN 
+[ access/NN ]
+to/TO care/NN in/IN 
+[ skilled-nursing/JJ facilities/NNS ]
+--/: will/MD cost/VB 
+[ an/DT estimated/VBN $/$ 2.5/CD billion/CD this/DT year/NN ]
+,/, 
+[ 150/CD %/NN ]
+above/IN 
+[ the/DT $/$ 1/CD billion/CD ]
+estimated/VBN when/WRB 
+[ Congress/NNP ]
+passed/VBD 
+[ the/DT law/NN last/JJ year/NN ]
+,/, according/VBG to/TO 
+[ projections/NNS ]
+by/IN 
+[ the/DT Health/NNP Care/NNP Financing/NNP Administration/NNP ]
+,/, 
+[ the/DT agency/NN ]
+in/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNP ]
+
+[ that/WDT ]
+administers/VBZ 
+[ federal/JJ health/NN insurance/NN programs/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ fiscal/JJ 1990/CD ]
+,/, 
+[ which/WDT ]
+starts/VBZ 
+[ Oct./NNP 1/CD ]
+,/, 
+[ skilled-nursing/JJ facility/NN costs/NNS ]
+could/MD run/VB as/RB high/JJ as/IN 
+[ $/$ 4.2/CD billion/CD ]
+,/, compared/VBN with/IN 
+[ the/DT $/$ 1.4/CD billion/CD ]
+initially/RB estimated/VBN ,/, 
+[ HCFA/NNP ]
+says/VBZ ./. 
+
+And/CC over/IN 
+[ five/CD years/NNS ]
+,/, 
+[ the/DT cost/NN ]
+could/MD be/VB as/RB high/JJ as/IN 
+[ $/$ 15.9/CD billion/CD ]
+,/, more/RBR than/IN double/RB 
+[ the/DT initial/JJ projection/NN ]
+of/IN 
+[ $/$ 7.3/CD billion/CD ]
+,/, 
+[ the/DT agency/NN projects/VBZ ]
+./. 
+
+======================================
+
+Looking/VBG back/RB ,/, 
+[ Thomas/NNP Burke/NNP ]
+,/, 
+[ who/WP ]
+was/VBD chief/NN of/IN 
+[ staff/NN ]
+at/IN 
+[ the/DT human/JJ services/NNS department/NN ]
+when/WRB 
+[ the/DT ]
+``/`` 
+[ catastrophic/JJ ]
+''/'' 
+[ law/NN ]
+passed/VBD ,/, says/VBZ 
+[ analysts/NNS ]
+mistakenly/RB assumed/VBD ``/`` that/IN 
+[ there/EX ]
+would/MD be/VB 
+[ no/DT significant/JJ change/NN ]
+in/IN 
+[ utilization/NN ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ expanded/VBN coverage/NN ]
+,/, ''/'' even/RB though/IN 
+[ the/DT history/NN ]
+of/IN 
+[ federal/JJ health/NN benefits/NNS ]
+shows/VBZ that/IN 
+[ more/JJR coverage/NN ]
+leads/VBZ to/TO 
+[ greater/JJR participation/NN ]
+./. 
+
+======================================
+
+[ The/DT skyrocketing/VBG cost/NN ]
+of/IN 
+[ skilled-nursing/JJ care/NN ]
+has/VBZ put/VBN 
+[ Congress/NNP ]
+in/IN 
+[ a/DT bind/NN ]
+;/: while/IN 
+[ senior/JJ citizens/NNS ]
+are/VBP hammering/VBG 
+[ Capitol/NNP Hill/NNP ]
+to/TO reduce/VB 
+[ the/DT unpopular/JJ income-tax/NN surcharge/NN ]
+
+[ that/WDT ]
+helps/VBZ 
+[ pay/VB ]
+for/IN 
+[ catastrophic/JJ illness/NN coverage/NN ]
+,/, 
+[ the/DT costs/NNS ]
+of/IN 
+[ the/DT coverage/NN ]
+are/VBP rising/VBG out/IN of/IN 
+[ control/NN ]
+./. 
+
+``/`` 
+[ People/NNS ]
+on/IN 
+[ the/DT Hill/NNP ]
+really/RB are/VBP shellshocked/VBN ,/, ''/'' says/VBZ 
+[ Sen./NNP John/NNP D./NNP Rockefeller/NNP IV/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ W.Va/NNP ]
+./. 
+
+ )/) 
+======================================
+
+[ Sen./NNP Rockefeller/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ chairman/NN ]
+of/IN 
+[ the/DT Medicare/NNP subcommittee/NN ]
+of/IN 
+[ the/DT Senate/NNP Finance/NNP Committee/NNP ]
+,/, currently/RB is/VBZ in/IN 
+[ the/DT middle/NN ]
+of/IN 
+[ negotiations/NNS ]
+to/TO save/VB as/IN 
+[ much/JJ ]
+of/IN 
+[ the/DT catastrophic/JJ plan/NN ]
+as/RB possible/JJ while/IN yielding/VBG to/TO 
+[ demands/NNS ]
+to/TO cut/VB 
+[ the/DT unpopular/JJ premium/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ likely/JJ that/IN 
+[ the/DT skilled-nursing/JJ home/NN benefits/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP designed/VBN for/IN 
+[ people/NNS ]
+
+[ who/WP ]
+need/VBP 
+[ special/JJ care/NN ]
+while/IN recovering/VBG from/IN 
+[ strokes/NNS ]
+,/, 
+[ accidents/NNS ]
+and/CC 
+[ other/JJ illnesses/NNS ]
+,/, will/MD be/VB trimmed/VBN by/IN 
+[ the/DT Finance/NNP Committee/NNP ]
+
+[ this/DT week/NN ]
+./. 
+
+======================================
+
+[ The/DT catastrophic/JJ law/NN ]
+expanded/VBD 
+[ skilled-nursing/JJ care/NN ]
+by/IN :/: 
+======================================
+
+--/: Eliminating/VBG 
+[ a/DT requirement/NN ]
+that/IN 
+[ only/JJ beneficiaries/NNS ]
+
+[ who/WP ]
+have/VBP been/VBN hospitalized/VBN for/IN 
+[ three/CD days/NNS ]
+before/IN entering/VBG 
+[ a/DT skilled-nursing/JJ facility/NN ]
+can/MD qualify/VB for/IN 
+[ benefits/NNS ]
+./. 
+
+======================================
+
+--/: Lengthening/VBG 
+[ covered/VBN stays/NNS ]
+to/TO 
+[ 150/CD days/NNS ]
+
+[ a/DT year/NN ]
+from/IN 
+[ 100/CD days/NNS ]
+
+[ an/DT illness/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Reducing/VBG co-payment/JJ requirements/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT changes/NNS ]
+,/, 
+[ many/JJ people/NNS ]
+
+[ who/WP ]
+were/VBD already/RB in/IN nursing/NN 
+[ facilities/NNS ]
+,/, but/CC did/VBD n't/RB qualify/VB for/IN 
+[ benefits/NNS ]
+,/, suddenly/RB became/VBD 
+[ eligible/JJ ]
+./. 
+
+According/VBG to/TO 
+[ Linda/NNP Keegan/NNP ]
+of/IN 
+[ the/DT American/NNP Health/NNP Care/NNP Association/NNP ]
+,/, 
+[ a/DT nursing/NN home/NN trade/NN group/NN ]
+,/, 
+[ 57/CD %/NN ]
+of/IN 
+[ the/DT people/NNS ]
+
+[ who/WP ]
+became/VBD 
+[ eligible/JJ ]
+for/IN 
+[ skilled/JJ nursing/NN home/NN care/NN Jan./NNP 1/CD ]
+,/, when/WRB 
+[ the/DT provisions/NNS ]
+took/VBD 
+[ effect/NN ]
+,/, were/VBD already/RB in/IN 
+[ such/JJ institutions/NNS ]
+./. 
+
+[ Many/JJ ]
+of/IN 
+[ these/DT patients/NNS ]
+shifted/VBD from/IN 
+[ less/RBR generous/JJ coverage/NN ]
+under/IN 
+[ Medicaid/NNP ]
+,/, 
+[ a/DT joint/JJ state-federal/JJ program/NN ]
+for/IN 
+[ the/DT poor/JJ ]
+,/, to/TO 
+[ the/DT more/RBR generous/JJ ]
+,/, 
+[ all-federal/JJ Medicare/NNP program/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ program/NN analysts/NNS ]
+apparently/RB did/VBD n't/RB take/VB 
+[ sufficient/JJ account/NN ]
+of/IN 
+[ changes/NNS Medicare/NNP ]
+already/RB had/VBD made/VBN in/IN 
+[ 1988/CD ]
+to/TO make/VB 
+[ it/PRP ]
+easier/JJR to/TO get/VB into/IN 
+[ skilled-nursing/JJ facilities/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, even/RB before/IN 
+[ the/DT expanded/VBN benefits/NNS ]
+took/VBD 
+[ effect/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ patients/NNS ]
+receiving/VBG 
+[ Medicare/NNP reimbursement/NN ]
+for/IN 
+[ skilled-nursing/JJ care/NN ]
+jumped/VBD to/TO 
+[ more/RBR ]
+than/IN 
+[ 350,000/CD last/JJ year/NN ]
+from/IN about/RB 
+[ 290,000/CD ]
+in/IN 
+[ 1987/CD ]
+,/, according/VBG to/TO 
+[ HCFA/NNP figures/NNS ]
+./. 
+
+[ The/DT agency/NN has/VBZ n't/RB ]
+yet/RB disclosed/VBD 
+[ estimates/NNS ]
+of/IN 
+[ the/DT patient/NN population/NN ]
+for/IN 
+[ this/DT year/NN ]
+,/, but/CC 
+[ they/PRP ]
+are/VBP certain/JJ to/TO be/VB significantly/RB higher/JJR still/RB ./. 
+
+======================================
+
+[ The/DT leading/JJ option/NN ]
+for/IN dealing/VBG with/IN 
+[ the/DT soaring/VBG cost/NN ]
+of/IN 
+[ the/DT program/NN ]
+is/VBZ to/TO restore/VB 
+[ the/DT requirement/NN ]
+
+[ that/WDT ]
+only/RB 
+[ those/DT ]
+
+[ who/WP ]
+have/VBP undergone/VBN 
+[ three-day/JJ hospital/NN stays/NNS ]
+will/MD be/VB covered/VBN ./. 
+
+[ Congress/NNP ]
+also/RB could/MD lower/VB 
+[ the/DT length/NN ]
+of/IN 
+[ stays/NNS ]
+
+[ that/WDT ]
+are/VBP covered/VBN ,/, but/CC since/IN 
+[ the/DT average/JJ stay/NN ]
+in/IN 
+[ a/DT skilled-nursing/JJ facility/NN ]
+was/VBD 
+[ 28.5/CD days/NNS last/JJ year/NN ]
+,/, 
+[ that/DT change/NN ]
+would/MD have/VB 
+[ less/JJR impact/NN ]
+./. 

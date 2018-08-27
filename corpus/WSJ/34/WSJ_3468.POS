@@ -1,0 +1,250 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ciba-Geigy/NNP Ltd./NNP ]
+and/CC 
+[ Chiron/NNP Corp./NNP ]
+said/VBD 
+[ they/PRP ]
+do/VBP n't/RB plan/VB to/TO raise/VB 
+[ their/PRP$ offer/NN ]
+for/IN 
+[ Canadian/JJ vaccine/NN maker/NN Connaught/NNP BioSciences/NNP Inc./NNP ]
+,/, clearing/VBG 
+[ the/DT way/NN ]
+for/IN 
+[ a/DT competing/JJ bid/NN ]
+by/IN 
+[ Institut/NNP Merieux/NNP S.A./NNP ]
+of/IN 
+[ France/NNP ]
+./. 
+
+======================================
+
+[ Institut/NNP Merieux/NNP last/JJ week/NN ]
+offered/VBD 
+[ 37/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 31.47/CD ]
+ )/) 
+[ a/DT share/NN ]
+,/, or/CC 
+[ C$/$ 942/CD million/CD ]
+,/, for/IN 
+[ Connaught/NNP ]
+,/, topping/VBG 
+[ Ciba-Geigy/NNP 's/POS ]
+and/CC 
+[ Chiron/NNP 's/POS joint/JJ bid/NN ]
+of/IN 
+[ C$/$ 30/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ C$/$ 866/CD million/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+decided/VBD that/IN 
+[ we/PRP ]
+are/VBP n't/RB prepared/JJ to/TO get/VB involved/JJ in/IN 
+[ a/DT bidding/NN war/NN ]
+at/IN 
+[ this/DT sort/NN ]
+of/IN 
+[ price/NN level/NN ]
+,/, ''/'' said/VBD 
+[ Richard/NNP Williams/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ business/NN development/NN ]
+for/IN 
+[ Ciba-Geigy/NNP ]
+,/, 
+[ a/DT major/JJ pharmaceutical/JJ concern/NN ]
+based/VBN in/IN 
+[ Basel/NNP ]
+,/, 
+[ Switzerland/NNP ]
+./. 
+
+``/`` At/IN 
+[ the/DT price/NN level/NN ]
+
+[ we/PRP ]
+would/MD have/VB reached/VBD ,/, {/( 
+[ Connaught/NNP ]
+ }/) is/VBZ just/RB totally/RB overvalued/VBN|JJ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Investors/NNS ]
+
+[ who/WP ]
+expected/VBD 
+[ Ciba-Geigy/NNP ]
+and/CC 
+[ California-based/JJ Chiron/NNP ]
+to/TO respond/VB to/TO 
+[ Merieux/NNP 's/POS bid/NN ]
+with/IN 
+[ a/DT higher/JJR offer/NN ]
+,/, pushed/VBD up/RP 
+[ the/DT price/NN ]
+of/IN 
+[ Connaught/NNP 's/POS stock/NN last/JJ week/NN ]
+to/TO 
+[ a/DT 52-week/JJ high/NN ]
+of/IN 
+[ C$/$ 37.875/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+In/IN 
+[ Toronto/NNP Stock/NNP Exchange/NNP trading/NN yesterday/NN ]
+,/, 
+[ Connaught/NNP ]
+closed/VBD at/IN 
+[ C$/$ 35.75/CD ]
+,/, down/RB 
+[ $/$ 2.25/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ No/DT one/NN ]
+believed/VBD 
+[ they/PRP ]
+'d/MD walk/VB away/RB at/IN 
+[ C$/$ 30/CD ]
+,/, ''/'' said/VBD 
+[ one/CD analyst/NN ]
+,/, 
+[ who/WP ]
+requested/VBD 
+[ anonymity/NN ]
+./. 
+
+======================================
+
+[ Samuel/NNP Isaly/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+and/CC 
+[ partner/NN ]
+in/IN 
+[ Mehta/NNP ]
+&/CC 
+[ Isaly/NNP ]
+,/, 
+[ a/DT New/NNP York-based/JJ  pharmaceutical/JJ industry/NN research/NN firm/NN ]
+,/, said/VBD 
+[ Ciba-Geigy/NNP ]
+and/CC 
+[ Chiron/NNP 's/POS $/$ 30-a-share/JJ offer/NN ]
+--/: 
+[ which/WDT ]
+
+[ the/DT two/CD ]
+did/VBD n't/RB withdraw/VB --/: still/RB could/MD succeed/VB if/IN 
+[ the/DT Merieux/NNP bid/NN ]
+ran/VBD into/IN 
+[ insurmountable/JJ regulatory/JJ problems/NNS ]
+,/, although/IN 
+[ no/DT such/JJ problems/NNS ]
+have/VBP surfaced/VBN so/RB far/RB ./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ the/DT decision/NN ]
+by/IN 
+[ Ciba-Geigy/NNP ]
+and/CC 
+[ Chiron/NNP ]
+makes/VBZ 
+[ it/PRP ]
+easier/JJR for/IN 
+[ any/DT new/JJ bidders/NNS ]
+,/, 
+[ who/WP ]
+might/MD have/VB been/VBN reluctant/JJ to/TO participate/VB in/IN 
+[ a/DT three-way/JJ bidding/NN war/NN ]
+,/, to/TO emerge/VB ./. 
+
+======================================
+
+[ A/DT Connaught/NNP official/NN ]
+said/VBD 
+[ the/DT company/NN has/VBZ n't/RB ]
+been/VBN contacted/VBN by/IN 
+[ any/DT other/JJ possible/JJ bidders/NNS ]
+./. 
+
+[ He/PRP ]
+declined/VBD 
+[ further/JJ comment/NN ]
+./. 
+
+======================================
+
+[ Ciba-Geigy/NNP 's/POS Mr./NNP Williams/NNP ]
+would/MD n't/RB say/VB whether/IN 
+[ the/DT partners/NNS ]
+plan/VBP to/TO extend/VB 
+[ their/PRP$ ]
+offer/NN ,/, to/TO expire/VB 
+[ Oct./NNP 17/CD ]
+./. 
+
+[ The/DT bid/NN ]
+by/IN 
+[ Merieux/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 50.1/CD %/NN ]
+--/: owned/VBN by/IN 
+[ Rhone-Poulenc/NNP S.A./NNP ]
+,/, expires/VBZ 
+[ Oct./NNP 26/CD ]
+./. 
+
+[ Mr./NNP Williams/NNP ]
+said/VBD 
+[ the/DT partners/NNS ]
+will/MD begin/VB examining/VBG 
+[ other/JJ ways/NNS ]
+to/TO get/VB involved/JJ in/IN 
+[ the/DT vaccine/NN industry/NN ]
+,/, including/VBG 
+[ other/JJ ]
+,/, 
+[ smaller/JJR acquisitions/NNS ]
+,/, 
+[ joint/JJ ventures/NNS ]
+or/CC marketing/NN and/CC 
+[ licensing/NN agreements/NNS ]
+./. 

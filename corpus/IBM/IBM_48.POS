@@ -1,0 +1,1539 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 4701/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+select/VBP 
+[ an/DT action/NN ]
+in/IN 
+[ the/DT Copy/NN topic/NN window/NN ]
+,/, 
+[ you/PRP ]
+see/VBP 
+[ another/DT window/NN ]
+in/IN 
+[ which/WDT ]
+
+[ you/PRP ]
+must/MD specify/VB whether/IN 
+[ you/PRP ]
+want/VBP to/TO copy/VB 
+[ the/DT current/JJ topic/NN ]
+,/, 
+[ another/DT topic/NN ]
+,/, or/CC 
+[ a/DT range/NN ]
+of/IN 
+[ topics/NNS ]
+./. 
+
+[ 4702/CD ]
+./. 
+
+To/TO copy/VB 
+[ a/DT single/JJ topic/NN ]
+:/: 
+[ 1/CD ]
+./. 
+
+[ 4703/CD ]
+./. 
+
+When/WRB 
+[ the/DT next/JJ window/NN ]
+appears/VBZ ,/, 
+[ you/PRP ]
+see/VBP 
+[ the/DT identifier/NN ]
+of/IN 
+[ the/DT ]
+currently/RB displayed/VBN 
+[ topic/NN ]
+in/IN 
+[ the/DT ]
+From/IN 
+[ topic/NN area/NN ]
+./. 
+
+[ 4704/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ type/VB 6.2/CD ]
+to/TO copy/VB from/IN 
+[ the/DT topic/NN ]
+specified/VBN in/IN From/IN 
+[ topic/NN ]
+up/IN to/TO and/CC 
+[ including/VBG topic/NN 6.2/CD ]
+./. 
+
+[ 4705/CD ]
+./. 
+
+Begin/VB with/IN 
+[ a/DT specific/JJ topic/NN ]
+and/CC 
+[ copy/VB ]
+for/IN 
+[ a/DT certain/JJ number/NN ]
+of/IN 
+[ topics/NNS ]
+./. 
+
+[ 4706/CD ]
+./. 
+
+To/TO do/VB 
+[ this/DT ]
+,/, type/VB 
+[ the/DT number/NN ]
+of/IN 
+[ topics/NNS you/PRP ]
+want/VBP to/TO copy/VB in/IN 
+[ the/DT Number/NN ]
+of/IN 
+[ topics/NNS ]
+to/TO 
+[ copy/VB area/NN ]
+./. 
+
+[ 4707/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ type/VB 3/CD ]
+to/TO copy/VB 
+[ the/DT topic/NN ]
+specified/VBN in/IN From/IN 
+[ topic/NN ]
+and/CC 
+[ the/DT next/JJ two/CD topics/NNS ]
+
+[ that/WDT ]
+follow/VBP ./. 
+
+[ 4708/CD ]
+./. 
+
+[ Example/NNP ]
+of/IN 
+[ Copying/VBG Several/NNP Topics/NNPS ]
+While/IN looking/VBG at/IN 
+[ a/DT book/NN online/NN ]
+,/, 
+[ you/PRP ]
+can/MD print/VB 
+[ the/DT current/JJ topic/NN ]
+or/CC 
+[ a/DT range/NN ]
+of/IN 
+[ topics/NNS ]
+on/IN 
+[ your/PRP$ local/JJ printer/NN ]
+./. 
+
+[ 4709/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB choose/VB to/TO print/VB 
+[ any/DT notes/NNS ]
+written/VBN in/IN 
+[ a/DT topic/NN ]
+,/, or/CC print/VB 
+[ a/DT topic/NN ]
+only/RB if/IN 
+[ it/PRP ]
+has/VBZ 
+[ notes/NNS ]
+./. 
+
+[ 4710/CD ]
+./. 
+
+[ The/DT type/NN ]
+of/IN 
+[ output/NN ]
+produced/VBN ,/, and/CC 
+[ the/DT command/NN ]
+used/VBN to/TO direct/VB 
+[ the/DT output/NN ]
+,/, are/VBP chosen/VBN originally/RB by/IN 
+[ your/PRP$ site/NN ]
+./. 
+
+[ 4711/CD ]
+./. 
+
+[ You/PRP ]
+can/MD change/VB 
+[ the/DT output/NN type/NN ]
+,/, 
+[ print/NN device/NN type/NN ]
+,/, and/CC 
+[ print/NN command/NN ]
+by/IN making/VBG 
+[ selections/NNS ]
+in/IN 
+[ the/DT Options/NNS pull-down/NN ]
+./. 
+
+[ 4712/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB press/VB 
+[ F14/CD ]
+to/TO print/VB 
+[ the/DT current/JJ topic/NN ]
+,/, or/CC use/VB 
+[ the/DT PRINT/NNP command/NN ]
+to/TO print/VB 
+[ one/CD ]
+or/CC 
+[ several/JJ topics/NNS ]
+,/, with/IN or/CC without/IN 
+[ notes/NNS ]
+./. 
+
+[ 4713/CD ]
+./. 
+
+See/VB ``/`` 
+[ PRINT/NNP ]
+-/: 
+[ Printing/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN A.3.23/CD ]
+for/IN 
+[ examples/NNS ]
+of/IN using/VBG 
+[ this/DT command/NN ]
+./. 
+
+[ 4714/CD ]
+./. 
+
+[ Topic/NN ]
+and/CC 
+[ notes/NNS ]
+prints/VBZ 
+[ the/DT topic/NN ]
+and/CC 
+[ any/DT notes/NNS ]
+written/VBN in/IN 
+[ that/DT topic/NN ]
+./. 
+
+[ 4715/CD ]
+./. 
+
+Only/RB 
+[ the/DT topics/NNS ]
+with/IN 
+[ notes/NNS ]
+prints/VBZ 
+[ the/DT topic/NN ]
+only/RB if/IN 
+[ any/DT notes/NNS ]
+were/VBD written/VBN in/IN 
+[ that/DT topic/NN ]
+./. 
+
+[ 4716/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ type/VB 12.0/CD ]
+to/TO print/VB from/IN 
+[ the/DT topic/NN ]
+specified/VBN in/IN From/IN 
+[ topic/NN ]
+up/IN to/TO and/CC 
+[ including/VBG topic/NN 12.0/CD ]
+./. 
+
+[ 4717/CD ]
+./. 
+
+To/TO do/VB 
+[ this/DT ]
+,/, type/VB 
+[ the/DT number/NN ]
+of/IN 
+[ topics/NNS you/PRP ]
+want/VBP to/TO print/VB in/IN 
+[ the/DT Number/NN ]
+of/IN 
+[ topics/NNS ]
+to/TO print/VB 
+[ area/NN ]
+./. 
+
+[ 4718/CD ]
+./. 
+
+[ You/PRP ]
+can/MD change/VB 
+[ the/DT editor/NN ]
+and/CC 
+[ file/NN access/NN types/NNS ]
+by/IN making/VBG 
+[ selections/NNS ]
+in/IN 
+[ the/DT Options/NNS pull-down/NN ]
+./. 
+
+[ 4719/CD ]
+./. 
+
+See/VB ``/`` 
+[ Choosing/VBG Edit/NNP Options/NNPS ''/'' ]
+in/IN 
+[ topic/NN 13.8/CD ]
+for/IN 
+[ information/NN ]
+on/IN changing/VBG 
+[ the/DT editor/NN ]
+and/CC 
+[ file/NN access/NN types/NNS ]
+./. 
+
+[ 4720/CD ]
+./. 
+
+[ You/PRP ]
+can/MD view/VB 
+[ a/DT list/NN ]
+of/IN 
+[ the/DT places/NNS you/PRP ]
+saved/VBD in/IN 
+[ an/DT online/JJ book/NN ]
+and/CC select/VB 
+[ the/DT ones/NNS you/PRP ]
+want/VBP to/TO go/VB back/RB to/TO ./. 
+
+[ 4721/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+copy/VBP or/CC print/VBP 
+[ a/DT topic/NN ]
+in/IN 
+[ a/DT book/NN ]
+,/, 
+[ you/PRP ]
+can/MD include/VB 
+[ the/DT notes/NNS ]
+written/VBN in/IN 
+[ that/DT topic/NN ]
+./. 
+
+[ 4722/CD ]
+./. 
+
+See/VB ``/`` 
+[ Copying/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.1/CD ]
+and/CC ``/`` 
+[ Printing/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.2/CD ]
+for/IN 
+[ information/NN ]
+on/IN 
+[ including/VBG notes/NNS ]
+in/IN 
+[ your/PRP$ output/NN ]
+./. 
+
+[ 4723/CD ]
+./. 
+
+[ Notes/NNS ]
+can/MD exist/VB for/IN 
+[ an/DT entire/JJ topic/NN ]
+or/CC for/IN 
+[ a/DT specific/JJ line/NN ]
+of/IN 
+[ text/NN ]
+./. 
+
+[ 4724/CD ]
+./. 
+
+To/TO work/VB with/IN 
+[ a/DT topic/NN note/NN ]
+,/, use/VB 
+[ the/DT Notes/NNS pull-down/NN ]
+,/, shown/VBN in/IN 
+[ Figure/NNP 59/CD ]
+in/IN 
+[ topic/NN 11.0/CD ]
+./. 
+
+[ 4725/CD ]
+./. 
+
+``/`` 
+[ Sending/VBG Notes/NNPS ]
+to/TO 
+[ Other/JJ Users/NNPS ''/'' ]
+in/IN 
+[ topic/NN 11.6/CD ]
+shows/VBZ how/WRB to/TO share/VB 
+[ your/PRP$ notes/NNS ]
+with/IN 
+[ other/JJ users/NNS ]
+./. 
+
+[ 4726/CD ]
+./. 
+
+``/`` Using/VBG 
+[ Notes/NNPS ]
+from/IN 
+[ Other/JJ Users/NNPS ''/'' ]
+in/IN 
+[ topic/NN 11.7/CD ]
+shows/VBZ how/WRB to/TO view/VB 
+[ notes/NNS ]
+written/VBN by/IN 
+[ other/JJ users/NNS ]
+,/, including/VBG how/WRB to/TO merge/VB 
+[ the/DT notes/NNS ]
+from/IN 
+[ several/JJ users/NNS ]
+into/IN 
+[ a/DT single/JJ note/NN file/NN ]
+./. 
+
+[ 4727/CD ]
+./. 
+
+If/IN 
+[ a/DT topic/NN ]
+has/VBZ 
+[ a/DT note/NN ]
+,/, 
+[ the/DT word/NN Note/NN ]
+appears/VBZ in/IN 
+[ the/DT status/NN line/NN ]
+at/IN 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT panel/NN ]
+./. 
+
+[ 4728/CD ]
+./. 
+
+If/IN 
+[ a/DT topic/NN ]
+has/VBZ 
+[ both/CC topic/NN notes/NNS ]
+and/CC 
+[ line/NN notes/NNS ]
+,/, 
+[ the/DT status/NN line/NN ]
+indicates/VBZ that/IN 
+[ a/DT line/NN note/NN ]
+exists/VBZ ./. 
+
+[ 4729/CD ]
+./. 
+
+[ The/DT word/NN Note/NN ]
+is/VBZ not/RB displayed/VBN ./. 
+
+[ 4730/CD ]
+./. 
+
+If/IN 
+[ a/DT note/NN ]
+already/RB exists/VBZ ,/, 
+[ you/PRP ]
+see/VBP 
+[ its/PRP$ contents/NNS ]
+in/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 4731/CD ]
+./. 
+
+Otherwise/RB ,/, 
+[ a/DT message/NN ]
+indicates/VBZ that/IN 
+[ you/PRP ]
+are/VBP creating/VBG 
+[ a/DT note/NN ]
+./. 
+
+[ 4732/CD ]
+./. 
+
+[ Figure/NNP 60/CD ]
+in/IN 
+[ topic/NN 11.2/CD ]
+is/VBZ 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT Note/NN window/NN ]
+with/IN 
+[ a/DT topic/NN note/NN ]
+./. 
+
+[ 4733/CD ]
+./. 
+
+Note/NN 
+[ Window/NNP ]
+with/IN 
+[ a/DT Topic/NNP Note/NN Table/NNP 1/CD lists/VBZ ]
+
+[ the/DT function/NN keys/NNS you/PRP ]
+can/MD use/VB in/IN 
+[ the/DT Note/NN window/NN ]
+to/TO work/VB with/IN 
+[ notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4734/CD ]
+./. 
+
+[ The/DT filename/NN ]
+of/IN 
+[ the/DT note/NN file/NN ]
+matches/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT book/NN ]
+
+[ you/PRP ]
+are/VBP displaying/VBG ./. 
+
+[ 4735/CD ]
+./. 
+
+If/IN more/RBR than/IN 
+[ one/CD book/NN ]
+of/IN 
+[ the/DT same/JJ name/NN ]
+is/VBZ available/JJ ,/, 
+[ your/PRP$ notes/NNS ]
+will/MD display/VB in/IN 
+[ all/DT ]
+of/IN 
+[ them/PRP ]
+./. 
+
+[ 4736/CD ]
+./. 
+
+[ The/DT following/VBG topics/NNS ]
+show/VBP 
+[ you/PRP ]
+how/WRB to/TO create/VB 
+[ notes/NNS ]
+for/IN 
+[ entire/JJ topics/NNS ]
+or/CC for/IN 
+[ specific/JJ lines/NNS ]
+of/IN 
+[ text/NN ]
+in/IN 
+[ a/DT topic/NN ]
+,/, and/CC how/WRB to/TO add/VB 
+[ the/DT same/JJ text/NN ]
+to/TO 
+[ all/PDT the/DT notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4737/CD ]
+./. 
+
+[ You/PRP ]
+do/VBP not/RB have/VB to/TO be/VB at/IN 
+[ the/DT start/NN ]
+of/IN 
+[ the/DT topic/NN ]
+to/TO add/VB 
+[ a/DT topic/NN note/NN ]
+;/: 
+[ you/PRP ]
+can/MD work/VB with/IN 
+[ topic/NN notes/NNS ]
+from/IN 
+[ any/DT panel/NN ]
+displaying/VBG 
+[ that/DT topic/NN ]
+./. 
+
+[ 4738/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+to/TO save/VB 
+[ the/DT note/NN ]
+and/CC remove/VB 
+[ the/DT Note/NN window/NN ]
+./. 
+
+[ 4739/CD ]
+./. 
+
+[ You/PRP ]
+create/VBP 
+[ a/DT line/NN note/NN ]
+differently/RB from/IN 
+[ a/DT topic/NN note/NN ]
+./. 
+
+[ 4740/CD ]
+./. 
+
+For/IN 
+[ a/DT line/NN note/NN ]
+,/, 
+[ you/PRP ]
+must/MD position/VB 
+[ the/DT cursor/NN ]
+at/IN 
+[ the/DT line/NN ]
+where/WRB 
+[ you/PRP ]
+want/VBP to/TO add/VB 
+[ a/DT note/NN ]
+./. 
+
+[ 4741/CD ]
+./. 
+
+To/TO associate/VB 
+[ a/DT note/NN ]
+with/IN 
+[ a/DT particular/JJ line/NN ]
+of/IN 
+[ text/NN ]
+in/IN 
+[ a/DT topic/NN ]
+:/: 
+[ 1/CD ]
+./. 
+
+[ 4742/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ all/PDT the/DT notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+to/TO have/VB 
+[ some/DT common/JJ information/NN ]
+,/, 
+[ you/PRP ]
+can/MD add/VB 
+[ text/NN ]
+automatically/RB to/TO 
+[ each/DT note/NN ]
+
+[ you/PRP ]
+write/VBP in/IN 
+[ that/DT book/NN ]
+./. 
+
+[ 4743/CD ]
+./. 
+
+[ This/DT topic/NN ]
+shows/VBZ 
+[ you/PRP ]
+how/WRB to/TO display/VB and/CC make/VB 
+[ changes/NNS ]
+to/TO 
+[ existing/VBG notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4744/CD ]
+./. 
+
+When/WRB changing/VBG 
+[ a/DT note/NN ]
+,/, do/VB not/RB make/VB 
+[ changes/NNS ]
+to/TO 
+[ the/DT note/NN file/NN ]
+on/IN 
+[ your/PRP$ A-disk/NNP ]
+./. 
+
+[ 4745/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+edit/VBP 
+[ a/DT note/NN ]
+while/IN 
+[ you/PRP ]
+are/VBP looking/VBG at/IN 
+[ notes/NNS ]
+from/IN 
+[ another/DT user/NN ]
+,/, 
+[ you/PRP ]
+make/VBP 
+[ changes/NNS ]
+to/TO 
+[ that/DT user/NN 's/POS note/NN file/NN ]
+on/IN 
+[ your/PRP$ A-disk/NNP ]
+./. 
+
+[ 4746/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+intend/VBP to/TO share/VB 
+[ your/PRP$ notes/NNS ]
+with/IN 
+[ other/JJ users/NNS ]
+,/, make/VB 
+[ sure/JJ you/PRP ]
+are/VBP working/VBG with/IN 
+[ your/PRP$ own/JJ note/NN file/NN ]
+before/IN making/VBG 
+[ changes/NNS ]
+to/TO 
+[ notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4747/CD ]
+./. 
+
+[ You/PRP ]
+do/VBP not/RB have/VB to/TO be/VB at/IN 
+[ the/DT start/NN ]
+of/IN 
+[ the/DT topic/NN ]
+to/TO display/VB or/CC change/VB 
+[ a/DT topic/NN note/NN ]
+;/: 
+[ you/PRP ]
+can/MD work/VB with/IN 
+[ topic/NN notes/NNS ]
+from/IN 
+[ any/DT panel/NN ]
+displaying/VBG 
+[ that/DT topic/NN ]
+./. 
+
+[ 4748/CD ]
+./. 
+
+[ Press/VB F3/NNP ]
+to/TO save/VB 
+[ the/DT changed/VBN note/NN ]
+and/CC remove/VB 
+[ the/DT Note/NN window/NN ]
+./. 
+
+[ 4749/CD ]
+./. 
+
+[ You/PRP ]
+display/VBP and/CC edit/VBP 
+[ a/DT line/NN note/NN ]
+differently/RB from/IN 
+[ a/DT topic/NN note/NN ]
+./. 
+
+[ 4750/CD ]
+./. 
+
+For/IN 
+[ a/DT line/NN note/NN ]
+,/, 
+[ you/PRP ]
+must/MD position/VB 
+[ the/DT cursor/NN ]
+at/IN 
+[ the/DT line/NN ]
+in/IN 
+[ the/DT text/NN ]
+where/WRB 
+[ the/DT character/NN ]
+is/VBZ displayed/VBN ./. 
+
+[ 4751/CD ]
+./. 
+
+To/TO display/VB or/CC edit/VB 
+[ a/DT note/NN ]
+associated/VBN with/IN 
+[ a/DT particular/JJ line/NN ]
+of/IN 
+[ text/NN ]
+in/IN 
+[ a/DT topic/NN ]
+:/: 
+[ 1/CD ]
+./. 
+
+[ 4752/CD ]
+./. 
+
+To/TO use/VB 
+[ the/DT system/NN editor/NN ]
+,/, 
+[ press/VB F6/CD ]
+while/IN 
+[ the/DT Note/NN window/NN ]
+is/VBZ displayed/VBN ./. 
+
+[ 4753/CD ]
+./. 
+
+[ This/DT ]
+allows/VBZ 
+[ you/PRP ]
+to/TO copy/VB 
+[ notes/NNS ]
+into/IN 
+[ the/DT source/NN file/NN ]
+as/IN 
+[ you/PRP ]
+look/VBP at/IN 
+[ the/DT book/NN online/NN ]
+./. 
+
+[ 4754/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+file/VBP 
+[ the/DT note/NN ]
+after/IN editing/VBG 
+[ it/PRP ]
+,/, 
+[ you/PRP ]
+return/VBP to/TO 
+[ the/DT topic/NN ]
+
+[ you/PRP ]
+were/VBD viewing/VBG ./. 
+
+[ 4755/CD ]
+./. 
+
+[ The/DT note/NN ]
+is/VBZ displayed/VBN in/IN 
+[ the/DT Note/NN window/NN ]
+
+[ the/DT way/NN ]
+
+[ you/PRP ]
+typed/VBD 
+[ it/PRP ]
+with/IN 
+[ the/DT editor/NN ]
+./. 
+
+[ 4756/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP using/VBG 
+[ a/DT split/JJ screen/NN ]
+to/TO edit/VB 
+[ the/DT source/NN file/NN ]
+and/CC 
+[ the/DT note/NN ]
+,/, 
+[ you/PRP ]
+must/MD exit/VB 
+[ both/DT ]
+
+[ screens/NNS ]
+to/TO return/VB to/TO 
+[ the/DT online/JJ book/NN ]
+./. 
+
+[ 4757/CD ]
+./. 
+
+[ This/DT topic/NN ]
+shows/VBZ 
+[ you/PRP ]
+how/WRB to/TO delete/VB 
+[ topic/NN notes/NNS ]
+and/CC 
+[ line/NN notes/NNS ]
+in/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4758/CD ]
+./. 
+
+To/TO share/VB 
+[ your/PRP$ notes/NNS ]
+with/IN 
+[ other/JJ users/NNS ]
+,/, 
+[ you/PRP ]
+must/MD send/VB 
+[ your/PRP$ note/NN file/NN ]
+to/TO 
+[ them/PRP ]
+./. 
+
+[ 4759/CD ]
+./. 
+
+[ An/DT active/JJ note/NN file/NN ]
+is/VBZ 
+[ one/CD ]
+that/IN 
+[ you/PRP ]
+added/VBD ,/, or/CC selected/VBD to/TO 
+[ view/VB ]
+,/, from/IN 
+[ those/DT available/JJ ]
+for/IN viewing/VBG ./. 
+
+[ 4760/CD ]
+./. 
+
+Use/VB 
+[ the/DT function/NN keys/NNS ]
+in/IN 
+[ this/DT window/NN ]
+to/TO add/VB ,/, remove/VB ,/, or/CC merge/VB 
+[ the/DT note/NN files/NNS ]
+available/JJ to/TO 
+[ you/PRP ]
+./. 
+
+[ 4761/CD ]
+./. 
+
+[ Open/VB ]
+
+[ the/DT Note/NN window/NN ]
+to/TO display/VB 
+[ the/DT notes/NNS ]
+./. 
+
+[ 4762/CD ]
+./. 
+
+[ The/DT first/JJ note/NN ]
+file/NN 
+[ you/PRP ]
+make/VBP 
+[ active/JJ ]
+becomes/VBZ 
+[ the/DT current/JJ note/NN file/NN ]
+in/IN 
+[ the/DT book/NN ]
+./. 
+
+[ 4763/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+finish/VBP viewing/VBG 
+[ those/DT notes/NNS ]
+and/CC move/VBP on/RP to/TO 
+[ the/DT next/JJ user/NN 's/POS notes/NNS ]
+,/, 
+[ the/DT second/JJ note/NN file/NN ]
+becomes/VBZ 
+[ the/DT current/JJ note/NN file/NN ]
+(/( and/CC so/RB on/RB )/) ./. 
+
+[ 4764/CD ]
+./. 
+
+To/TO switch/VB to/TO 
+[ the/DT next/JJ user/NN 's/POS note/NN file/NN ]
+,/, 
+[ press/VB F2/NNP ]
+in/IN 
+[ the/DT Note/NN window/NN ]
+./. 
+
+[ 4765/CD ]
+./. 
+
+[ The/DT next/JJ note/NN file/NN ]
+
+[ you/PRP ]
+asked/VBD to/TO see/VB becomes/VBZ 
+[ the/DT current/JJ note/NN file/NN ]
+./. 
+
+[ 4766/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+no/RB longer/RB want/VBP to/TO 
+[ view/VB notes/NNS ]
+written/VBN by/IN 
+[ another/DT user/NN ]
+,/, 
+[ you/PRP ]
+must/MD remove/VB 
+[ them/PRP ]
+from/IN 
+[ the/DT book/NN ]
+by/IN making/VBG 
+[ them/PRP ]
+inactive/JJ ./. 
+
+[ 4767/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ useful/JJ ,/, for/IN 
+[ example/NN ]
+,/, when/WRB 
+[ you/PRP ]
+want/VBP to/TO go/VB through/IN 
+[ a/DT book/NN ]
+looking/VBG at/IN only/RB 
+[ the/DT notes/NNS ]
+written/VBN by/IN 
+[ other/JJ users/NNS ]
+./. 
+
+[ 4768/CD ]
+./. 
+
+[ Press/VB F2/NNP ]
+to/TO see/VB 
+[ a/DT note/NN ]
+that/IN 
+[ another/DT user/NN ]
+has/VBZ created/VBN for/IN 
+[ that/DT topic/NN ]
+./. 
+
+[ 4769/CD ]
+./. 
+
+[ A/DT message/NN ]
+tells/VBZ 
+[ you/PRP ]
+when/WRB 
+[ there/EX ]
+are/VBP 
+[ no/RB more/JJR notes/NNS ]
+to/TO review/VB in/IN 
+[ the/DT book/NN ]
+,/, or/CC that/IN 
+[ no/DT other/JJ user/NN ]
+has/VBZ 
+[ a/DT note/NN ]
+for/IN 
+[ that/DT topic/NN ]
+./. 
+
+[ 5/CD ]
+./. 
+
+[ 4770/CD ]
+./. 
+
+If/IN 
+[ the/DT graphic/JJ ]
+is/VBZ larger/JJR than/IN 
+[ a/DT single/JJ panel/NN ]
+,/, 
+[ you/PRP ]
+must/MD 
+[ scroll/VB ]
+forward/RB and/CC backward/RB ,/, or/CC 
+[ left/JJ ]
+and/CC 
+[ right/JJ ]
+,/, to/TO see/VB 
+[ the/DT entire/JJ ]
+graphic/JJ ./. 
+
+[ 4771/CD ]
+./. 
+
+[ You/PRP ]
+do/VBP not/RB automatically/RB see/VB 
+[ graphics/NNS ]
+and/CC 
+[ images/NNS ]
+while/IN 
+[ you/PRP ]
+are/VBP viewing/VBG 
+[ the/DT text/NN ]
+of/IN 
+[ a/DT book/NN ]
+./. 
+
+[ 4772/CD ]
+./. 
+
+To/TO remove/VB 
+[ the/DT menu/NN ]
+,/, 
+[ press/VB F1/NNP ]
+./. 
+
+[ 4773/CD ]
+./. 
+
+To/TO return/VB to/TO 
+[ the/DT text/NN ]
+of/IN 
+[ your/PRP$ book/NN ]
+,/, 
+[ press/VB F3/NNP ]
+./. 
+
+[ 4774/CD ]
+./. 
+
+``/`` 
+[ Copying/VBG ]
+,/, 
+[ Printing/VBG ]
+,/, and/CC 
+[ Editing/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.0/CD ]
+shows/VBZ 
+[ you/PRP ]
+how/WRB to/TO use/VB 
+[ the/DT Services/NNS ]
+pull-down/NN to/TO 
+[ copy/VB ]
+and/CC 
+[ print/VB topics/NNS ]
+in/IN 
+[ an/DT online/JJ book/NN ]
+./. 
+
+[ 4775/CD ]
+./. 
+
+After/IN 
+[ you/PRP ]
+open/VBP 
+[ a/DT book/NN ]
+,/, 
+[ you/PRP ]
+can/MD also/RB change/VB 
+[ your/PRP$ function/NN key/NN settings/NNS ]
+,/, printed/VBN and/CC copied/VBN 
+[ output/NN ]
+,/, or/CC 
+[ system/NN editor/NN ]
+./. 
+
+[ 4776/CD ]
+./. 
+
+[ Figure/NNP 63/CD ]
+in/IN 
+[ topic/NN 13.0/CD ]
+is/VBZ 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT Options/NNS pull-down/NN ]
+
+[ you/PRP ]
+see/VBP after/IN 
+[ you/PRP ]
+open/VBP 
+[ a/DT book/NN ]
+./. 
+
+[ 4777/CD ]
+./. 
+
+To/TO change/VB 
+[ the/DT color/NN ]
+in/IN 
+[ an/DT area/NN ]
+of/IN 
+[ a/DT panel/NN ]
+,/, first/RB select/VB 
+[ the/DT panel/NN area/NN ]
+,/, and/CC then/RB select/VB 
+[ the/DT color/NN ]
+
+[ you/PRP ]
+want/VBP to/TO change/VB 
+[ it/PRP ]
+to/TO ./. 
+
+[ 4778/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+change/VBP 
+[ a/DT panel/NN color/NN ]
+,/, 
+[ you/PRP ]
+change/VBP 
+[ it/PRP ]
+only/RB for/IN 
+[ the/DT panel/NN ]
+
+[ you/PRP ]
+are/VBP currently/RB displaying/VBG ./. 
+
+[ 4779/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP displaying/VBG 
+[ a/DT book/NN ]
+,/, 
+[ you/PRP ]
+must/MD 
+[ next/RB select/VB Panel/NN areas/NNS ]
+in/IN 
+[ the/DT Set/VB colors/NNS window/NN ]
+./. 
+
+[ 4780/CD ]
+./. 
+
+[ Table/NNP 4/CD ]
+lists/VBZ 
+[ the/DT areas/NNS you/PRP ]
+can/MD change/VB using/VBG 
+[ the/DT Panel/NN ]
+areas/NNS 
+[ window/NN ]
+./. 
+
+[ 4781/CD ]
+./. 
+
+[ Select/VB ]
+Go/VB into/IN 
+[ CMS/NNP ]
+in/IN 
+[ the/DT Options/NNPS pull-down/NN ]
+./. 
+
+[ 4782/CD ]
+./. 
+
+To/TO return/VB to/TO 
+[ your/PRP$ session/NN ]
+,/, 
+[ type/VB return/NN ]
+at/IN 
+[ any/DT time/NN ]
+./. 
+
+[ 4783/CD ]
+./. 
+
+[ You/PRP ]
+return/VB to/TO 
+[ the/DT same/JJ panel/NN ]
+
+[ that/WDT ]
+was/VBD displayed/VBN when/WRB 
+[ you/PRP ]
+selected/VBD Go/VB into/IN 
+[ CMS/NNP ]
+./. 
+
+[ 4784/CD ]
+./. 
+
+[ Figure/NNP 69/CD ]
+in/IN 
+[ topic/NN 13.5/CD ]
+is/VBZ 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT Set/VB function/NN keys/NNS window/NN ]
+./. 
+
+[ 4785/CD ]
+./. 
+
+[ The/DT function/NN key/NN area/NN ]
+on/IN 
+[ the/DT panel/NN ]
+will/MD display/VB 
+[ Print/VB ]
+as/IN 
+[ the/DT description/NN ]
+of/IN 
+[ F4/NNP ]
+./. 
+
+[ 4786/CD ]
+./. 
+
+[ Figure/NNP 70/CD ]
+in/IN 
+[ topic/NN 13.5/CD ]
+is/VBZ 
+[ an/DT example/NN ]
+of/IN how/WRB 
+[ the/DT function/NN key/NN area/NN ]
+appears/VBZ after/IN 
+[ this/DT change/NN ]
+is/VBZ made/VBN ./. 
+
+[ 4787/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB choose/VB 
+[ a/DT print/NN device/NN ]
+for/IN 
+[ certain/JJ output/NN types/NNS ]
+./. 
+
+[ 4788/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+on/IN 
+[ copying/VBG topics/NNS ]
+in/IN 
+[ a/DT book/NN ]
+,/, see/VB ``/`` 
+[ Copying/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.1/CD ]
+./. 
+
+[ 4789/CD ]
+./. 
+
+[ Topics/NNS ]
+containing/VBG 
+[ controls/NNS ]
+for/IN 
+[ page/NN breaks/NNS ]
+will/MD show/VB 
+[ page/NN breaks/NNS ]
+in/IN 
+[ the/DT copied/JJ output/NN ]
+./. 
+
+[ 4790/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB use/VB 
+[ the/DT TYPE/NNP command/NN ]
+to/TO change/VB 
+[ the/DT output/NN type/NN ]
+and/CC 
+[ print/NN device/NN ]
+for/IN 
+[ topics/NNS you/PRP ]
+copy/VBP ./. 
+
+[ 4791/CD ]
+./. 
+
+For/IN 
+[ details/NNS ]
+,/, see/VB ``/`` 
+[ TYPE/NNP ]
+-/: 
+[ Changing/VBG ]
+
+[ the/DT Editor/NNP ]
+,/, or/CC 
+[ Printed/NNP ]
+and/CC 
+[ Copied/NNP Output/NNP ''/'' ]
+in/IN 
+[ topic/NN A.3.37/CD ]
+./. 
+
+[ 4792/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+on/IN 
+[ printing/VBG topics/NNS ]
+in/IN 
+[ a/DT book/NN ]
+,/, see/VB ``/`` 
+[ Printing/VBG Topics/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.2/CD ]
+./. 
+
+[ 4793/CD ]
+./. 
+
+In/IN 
+[ the/DT Choose/VB print/NN options/NNS window/NN ]
+,/, choose/VB whether/IN 
+[ you/PRP ]
+want/VBP to/TO change/VB 
+[ the/DT type/NN ]
+of/IN 
+[ output/NN ]
+or/CC 
+[ the/DT print/NN command/NN ]
+./. 
+
+[ 4794/CD ]
+./. 
+
+[ Figure/NN 71/CD ]
+in/IN 
+[ topic/NN 13.7/CD ]
+is/VBZ 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT ]
+Choose/VB 
+[ print/NN options/NNS window/NN ]
+./. 
+
+[ 4795/CD ]
+./. 
+
+[ Topics/NNS ]
+containing/VBG 
+[ controls/NNS ]
+for/IN 
+[ page/NN breaks/NNS ]
+will/MD begin/VB printing/VBG on/IN 
+[ a/DT new/JJ page/NN ]
+./. 
+
+[ 4796/CD ]
+./. 
+
+[ The/DT Print/NNP command/NN window/NN ]
+displays/VBZ 
+[ the/DT print/NN command/NN ]
+and/CC 
+[ options/NNS you/PRP ]
+are/VBP currently/RB using/VBG to/TO print/VB 
+[ topics/NNS ]
+(/( 
+[ which/WDT ]
+may/MD be/VB 
+[ the/DT system/NN command/NN ]
+chosen/VBN originally/RB by/IN 
+[ your/PRP$ site/NN ]
+)/) ./. 
+
+[ 4797/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+on/IN 
+[ editing/VBG source/NN files/NNS ]
+while/IN looking/VBG at/IN 
+[ the/DT book/NN online/NN ]
+,/, see/VB ``/`` 
+[ Editing/VBG Source/NNP Files/NNPS ''/'' ]
+in/IN 
+[ topic/NN 9.3/CD ]
+./. 
+
+[ 4798/CD ]
+./. 
+
+In/IN 
+[ the/DT Choose/VB ]
+edit/NN 
+[ options/NNS window/NN ]
+,/, choose/VB whether/IN 
+[ you/PRP ]
+want/VBP to/TO change/VB 
+[ the/DT system/NN editor/NN ]
+or/CC 
+[ file/NN access/NN type/NN ]
+./. 
+
+[ 4799/CD ]
+./. 
+
+[ Installation/NNP ]
+and/CC 
+[ Customization/NNP ]
+for/IN 
+[ examples/NNS ]
+of/IN 
+[ these/DT sample/NN programs/NNS ]
+./. 
+
+[ 4800/CD ]
+./. 
+
+However/RB ,/, if/IN 
+[ the/DT commands/NNS ]
+in/IN 
+[ an/DT installation/NN profile/NN ]
+are/VBP also/RB used/VBN in/IN 
+[ a/DT user/NN profile/NN ]
+,/, 
+[ the/DT user/NN profile/NN ]
+overrides/VBZ 
+[ the/DT installation/NN profile/NN ]
+./. 

@@ -1,0 +1,1397 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1601/CD ]
+./. 
+
+[ Each/DT file/NN ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+must/MD be/VB joined/VBN to/TO at/IN 
+[ least/JJS one/CD other/JJ file/NN ]
+in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+./. 
+
+[ 1602/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT JOIN/VB ]
+BY/IN 
+[ prompt/NN ]
+to/TO specify/VB 
+[ one/CD ]
+or/CC more/RBR join/VB 
+[ conditions/NNS ]
+./. 
+
+[ 1603/CD ]
+./. 
+
+In/IN 
+[ a/DT join/NN condition/NN ]
+,/, 
+[ you/PRP ]
+must/MD specify/VB 
+[ two/CD field/NN names/NNS ]
+,/, 
+[ one/CD field/NN ]
+from/IN 
+[ each/DT file/NN ]
+
+[ that/WDT ]
+is/VBZ joined/VBN ./. 
+
+[ 1604/CD ]
+./. 
+
+[ The/DT field/NN lengths/NNS ]
+or/CC 
+[ types/NNS ]
+do/VBP not/RB have/VB to/TO be/VB 
+[ the/DT same/JJ ]
+./. 
+
+[ 1605/CD ]
+./. 
+
+[ A/DT character/NN field/NN ]
+must/MD be/VB joined/VBN to/TO 
+[ a/DT character/NN field/NN ]
+./. 
+
+[ 1606/CD ]
+./. 
+
+[ The/DT lengths/NNS ]
+do/VBP not/RB have/VB to/TO be/VB 
+[ the/DT same/JJ ]
+./. 
+
+[ 1607/CD ]
+./. 
+
+[ Use/NNP T1/NNP ]
+for/IN 
+[ fields/NNS ]
+defined/VBN by/IN 
+[ the/DT first/JJ record/NN format/NN ]
+,/, 
+[ T2/NNP ]
+for/IN 
+[ the/DT fields/NNS ]
+defined/VBN by/IN 
+[ the/DT second/JJ record/NN format/NN ]
+,/, and/CC so/RB on/IN ./. 
+
+[ 1608/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB know/VB 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT fields/NNS ]
+in/IN 
+[ the/DT files/NNS ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+,/, 
+[ press/VB F4/NNP ]
+when/WRB 
+[ the/DT cursor/NN ]
+is/VBZ in/IN 
+[ the/DT JOIN/VB ]
+BY/IN 
+[ input/NN area/NN ]
+./. 
+
+[ 1609/CD ]
+./. 
+
+[ You/PRP ]
+must/MD use/VB more/RBR than/IN 
+[ one/CD ]
+join/NN 
+[ condition/NN ]
+if/IN 
+[ you/PRP ]
+want/VBP to/TO join/VB more/JJR than/IN 
+[ two/CD files/NNS ]
+or/CC if/IN 
+[ you/PRP ]
+want/VBP to/TO join/VB together/RB 
+[ two/CD files/NNS ]
+by/IN more/RBR than/IN 
+[ one/CD common/JJ field/NN ]
+./. 
+
+[ 1610/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+need/VBP to/TO specify/VB more/JJR than/IN 
+[ one/CD ]
+join/NN 
+[ condition/NN ]
+,/, 
+[ the/DT conditions/NNS ]
+must/MD be/VB connected/VBN with/IN AND/CC ./. 
+
+[ 1611/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+:/: 
+[ means/NNS ]
+that/IN 
+[ records/NNS ]
+with/IN 
+[ the/DT same/JJ value/NN ]
+for/IN 
+[ EMPNO/NNP ]
+are/VBP joined/VBN from/IN 
+[ the/DT first/JJ file/NN ]
+and/CC 
+[ the/DT second/JJ file/NN ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+,/, and/CC then/RB from/IN 
+[ the/DT second/JJ ]
+and/CC 
+[ third/JJ files/NNS ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+./. 
+
+[ 1612/CD ]
+./. 
+
+[ You/PRP ]
+can/MD specify/VB 
+[ a/DT maximum/NN ]
+of/IN 
+[ 32/CD join/NN conditions/NNS ]
+./. 
+
+[ 1613/CD ]
+./. 
+
+If/IN 
+[ all/DT ]
+of/IN 
+[ the/DT join/NN conditions/NNS ]
+do/VBP not/RB fit/VB on/IN 
+[ one/CD input/NN line/NN ]
+,/, 
+[ the/DT transfer/NN function/NN ]
+automatically/RB creates/VBZ 
+[ another/DT line/NN ]
+,/, or/CC 
+[ you/PRP ]
+can/MD create/VB 
+[ another/DT line/NN ]
+by/IN pressing/VBG 
+[ the/DT F9/NNP key/NN ]
+./. 
+
+[ 1614/CD ]
+./. 
+
+[ A/DT field/NN name/NN ]
+can/MD not/RB be/VB split/VBN between/IN 
+[ two/CD lines/NNS ]
+./. 
+
+[ 1615/CD ]
+./. 
+
+After/IN 
+[ you/PRP ]
+complete/VBP 
+[ the/DT JOIN/VB ]
+BY/IN 
+[ prompt/NN ]
+,/, 
+[ you/PRP ]
+can/MD complete/VB 
+[ the/DT SELECT/VB ]
+,/, WHERE/WRB ,/, and/CC 
+[ ORDER/VB ]
+BY/IN 
+[ prompts/NNS ]
+as/IN described/VBN in/IN 
+[ this/DT chapter/NN ]
+./. 
+
+[ 1616/CD ]
+./. 
+
+[ Return/VB records/NNS ]
+with/IN missing/VBG 
+[ fields/NNS ]
+
+[ It/PRP ]
+is/VBZ possible/JJ ,/, while/IN joining/VBG 
+[ records/NNS ]
+from/IN more/RBR than/IN 
+[ one/CD file/NN ]
+,/, that/IN 
+[ a/DT record/NN ]
+can/MD not/RB be/VB found/VBN to/TO complete/VB 
+[ the/DT join/NN ]
+./. 
+
+[ 1617/CD ]
+./. 
+
+Use/VB 
+[ this/DT prompt/NN ]
+to/TO specify/VB if/IN 
+[ you/PRP ]
+want/VBP to/TO transfer/VB 
+[ a/DT record/NN ]
+with/IN missing/VBG 
+[ fields/NNS ]
+./. 
+
+[ 1618/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+choose/VBP to/TO return/VB 
+[ records/NNS ]
+with/IN missing/VBG 
+[ fields/NNS ]
+,/, 
+[ values/NNS ]
+are/VBP transferred/VBN for/IN 
+[ the/DT missing/VBG fields/NNS ]
+./. 
+
+[ 1619/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB choose/VB to/TO return/VB 
+[ records/NNS ]
+with/IN missing/VBG 
+[ fields/NNS ]
+,/, 
+[ records/NNS ]
+having/VBG 
+[ missing/VBG fields/NNS ]
+are/VBP not/RB transferred/VBN ./. 
+
+[ 1620/CD ]
+./. 
+
+No/UH ,/, if/IN 
+[ you/PRP ]
+do/VBP not/RB want/VB 
+[ data/NN records/NNS ]
+
+[ that/WDT ]
+contain/VBP 
+[ values/NNS ]
+for/IN missing/VBG 
+[ fields/NNS ]
+to/TO be/VB transferred/VBN ./. 
+
+[ 1621/CD ]
+./. 
+
+[ Only/JJ data/NN records/NNS ]
+created/VBN from/IN 
+[ records/NNS ]
+found/VBN in/IN 
+[ all/DT ]
+of/IN 
+[ the/DT files/NNS ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+are/VBP transferred/VBN ./. 
+
+[ 1622/CD ]
+./. 
+
+[ There/EX ]
+might/MD be/VB 
+[ relationships/NNS ]
+between/IN 
+[ these/DT files/NNS ]
+that/IN 
+[ you/PRP ]
+can/MD use/VB to/TO link/VB or/CC join/VB 
+[ them/PRP ]
+together/RB as/IN if/IN 
+[ the/DT data/NNS ]
+were/VBD 
+[ all/DT ]
+in/IN 
+[ one/CD file/NN ]
+./. 
+
+[ 1623/CD ]
+./. 
+
+When/WRB 
+[ the/DT files/NNS ]
+have/VBP been/VBN joined/VBN together/RB ,/, 
+[ they/PRP ]
+can/MD be/VB transferred/VBN to/TO 
+[ the/DT personal/JJ computer/NN ]
+./. 
+
+[ 1624/CD ]
+./. 
+
+Notice/VB that/IN 
+[ records/NNS ]
+in/IN 
+[ both/DT ]
+
+[ files/NNS ]
+contain/VBP 
+[ a/DT part/NN number/NN field/NN ]
+./. 
+
+[ 1625/CD ]
+./. 
+
+[ A/DT new/JJ ]
+prompt/NN ,/, JOIN/VB BY/IN ,/, specifies/VBZ 
+[ the/DT relationship/NN ]
+between/IN 
+[ the/DT two/CD files/NNS ]
+./. 
+
+[ 1626/CD ]
+./. 
+
+Therefore/RB ,/, in/IN 
+[ order/NN ]
+to/TO join/VB 
+[ two/CD records/NNS ]
+in/IN 
+[ these/DT files/NNS ]
+,/, 
+[ the/DT part/NN numbers/NNS ]
+must/MD be/VB equal/JJ ./. 
+
+[ 1627/CD ]
+./. 
+
+In/IN 
+[ summary/NN ]
+,/, specify/VB 
+[ the/DT following/NN ]
+to/TO get/VB 
+[ the/DT information/NN ]
+described/VBN above/IN :/: 
+[ 1628/CD ]
+./. 
+
+refers/VBZ to/TO 
+[ the/DT first/JJ file/NN ]
+in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+,/, and/CC 
+[ T2/NNP ]
+./. 
+
+[ 1629/CD ]
+./. 
+
+refers/VBZ to/TO 
+[ the/DT second/JJ file/NN ]
+in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+./. 
+
+[ 1630/CD ]
+./. 
+
+To/TO get/VB 
+[ the/DT same/JJ information/NN ]
+as/IN described/VBN in/IN 
+[ the/DT previous/JJ example/NN ]
+,/, specify/VB 
+[ the/DT following/NN ]
+:/: 
+[ 1631/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ possible/JJ ,/, while/IN joining/VBG 
+[ records/NNS ]
+from/IN more/RBR than/IN 
+[ one/CD file/NN ]
+,/, that/IN 
+[ a/DT record/NN ]
+can/MD not/RB be/VB found/VBN to/TO complete/VB 
+[ the/DT join/NN ]
+./. 
+
+[ 1632/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT Return/VB records/NNS ]
+with/IN missing/VBG 
+[ fields/NNS ]
+prompt/NN to/TO specify/VB if/IN 
+[ you/PRP ]
+want/VBP to/TO transfer/VB 
+[ a/DT record/NN ]
+with/IN 
+[ missing/VBG field/NN ]
+(/( 
+[ s/NN ]
+)/) ./. 
+
+[ 1633/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+choose/VBP to/TO return/VB 
+[ records/NNS ]
+with/IN missing/VBG 
+[ fields/NNS ]
+,/, supplied/VBN 
+[ values/NNS ]
+are/VBP transferred/VBN for/IN 
+[ the/DT missing/VBG fields/NNS ]
+./. 
+
+[ 1634/CD ]
+./. 
+
+[ The/DT supplied/VBN value/NN ]
+for/IN 
+[ a/DT character/NN field/NN ]
+is/VBZ 
+[ blanks/NNS ]
+,/, and/CC 
+[ the/DT supplied/VBN value/NN ]
+for/IN 
+[ a/DT numeric/JJ field/NN ]
+is/VBZ 
+[ zeros/NNS ]
+./. 
+
+[ 1635/CD ]
+./. 
+
+[ This/DT ]
+can/MD be/VB used/VBN ,/, for/IN 
+[ example/NN ]
+,/, to/TO compare/VB 
+[ information/NN ]
+in/IN 
+[ the/DT records/NNS ]
+of/IN 
+[ a/DT file/NN ]
+./. 
+
+[ 1636/CD ]
+./. 
+
+To/TO transfer/VB 
+[ the/DT desired/VBN information/NN ]
+to/TO 
+[ the/DT personal/JJ computer/NN ]
+,/, 
+[ you/PRP ]
+could/MD specify/VB 
+[ the/DT following/NN ]
+:/: 
+[ 1637/CD ]
+./. 
+
+[ The/DT same/JJ file/NN ]
+has/VBZ been/VBN specified/VBN twice/RB in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+./. 
+
+[ 1638/CD ]
+./. 
+
+[ The/DT JOIN/VB ]
+BY/IN 
+[ prompt/NN ]
+specifies/VBZ to/TO join/VB 
+[ records/NNS ]
+having/VBG 
+[ the/DT same/JJ part/NN number/NN ]
+./. 
+
+[ 1639/CD ]
+./. 
+
+When/WRB 
+[ the/DT part/NN numbers/NNS ]
+are/VBP equal/JJ ,/, 
+[ the/DT two/CD records/NNS ]
+are/VBP joined/VBN ./. 
+
+[ 1640/CD ]
+./. 
+
+[ The/DT final/JJ result/NN ]
+is/VBZ 
+[ the/DT following/VBG ]
+:/: 
+[ 1641/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+transfer/VBP 
+[ summary/NN records/NNS ]
+,/, 
+[ one/CD record/NN ]
+is/VBZ transferred/VBN for/IN 
+[ every/DT group/NN ]
+of/IN 
+[ records/NNS ]
+./. 
+
+[ 1642/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ all/DT ]
+of/IN 
+[ the/DT records/NNS ]
+in/IN only/RB 
+[ one/CD group/NN ]
+,/, leave/VB 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN blank/JJ ]
+./. 
+
+[ 1643/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT SELECT/VB ]
+prompt/NN to/TO create/VB 
+[ the/DT summary/NN records/NNS ]
+./. 
+
+[ 1644/CD ]
+./. 
+
+[ The/DT SELECT/VB prompt/NN ]
+can/MD only/RB specify/VB 
+[ field/NN names/NNS ]
+used/VBN in/IN 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN ]
+./. 
+
+[ 1645/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT HAVING/NNP ]
+prompt/NN to/TO determine/VB 
+[ which/WDT summary/NN records/NNS ]
+are/VBP to/TO be/VB transferred/VBN ./. 
+
+[ 1646/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ all/DT ]
+of/IN 
+[ the/DT summary/NN records/NNS ]
+transferred/VBN ,/, leave/VB 
+[ the/DT HAVING/VBG prompt/NN blank/JJ ]
+./. 
+
+[ 1647/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT ORDER/VB ]
+BY/IN 
+[ prompt/NN ]
+to/TO order/VB 
+[ the/DT summary/NN records/NNS ]
+./. 
+
+[ 1648/CD ]
+./. 
+
+[ You/PRP ]
+can/MD specify/VB 
+[ only/JJ field/NN names/NNS ]
+and/CC 
+[ functions/NNS ]
+used/VBN in/IN 
+[ the/DT SELECT/VB prompt/NN ]
+./. 
+
+[ 1649/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB specify/VB 
+[ a/DT value/NN ]
+for/IN 
+[ the/DT GROUP/NNP ]
+BY/IN 
+[ prompt/NN ]
+,/, 
+[ the/DT records/NNS ]
+are/VBP treated/VBN as/IN 
+[ one/CD group/NN ]
+./. 
+
+[ 1650/CD ]
+./. 
+
+If/IN 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN ]
+is/VBZ not/RB currently/RB displayed/VBN ,/, press/VB 
+[ the/DT Shift/NNP +/SYM F4/NNP key/NN ]
+to/TO see/VB 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN ]
+./. 
+
+[ 1651/CD ]
+./. 
+
+If/IN 
+[ the/DT GROUP/VB ]
+BY/IN and/CC 
+[ HAVING/VBG prompts/NNS ]
+are/VBP displayed/VBN and/CC 
+[ you/PRP ]
+do/VBP not/RB want/VB to/TO use/VB 
+[ them/PRP ]
+,/, 
+[ you/PRP ]
+can/MD press/VB 
+[ the/DT Shift/NNP +/SYM F4/NNP key/NN ]
+again/RB to/TO have/VB 
+[ these/DT two/CD prompts/NNS ]
+removed/VBN from/IN 
+[ the/DT display/NN ]
+./. 
+
+[ 1652/CD ]
+./. 
+
+[ The/DT fields/NNS ]
+must/MD be/VB defined/VBN in/IN 
+[ a/DT record/NN format/NN ]
+specified/VBN in/IN 
+[ the/DT ]
+FROM/IN 
+[ prompt/NN ]
+./. 
+
+[ 1653/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB know/VB 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT fields/NNS ]
+,/, press/VB 
+[ F4/NNP ]
+to/TO display/VB 
+[ a/DT list/NN ]
+of/IN 
+[ all/PDT the/DT fields/NNS ]
+in/IN 
+[ the/DT record/NN ]
+./. 
+
+[ 1654/CD ]
+./. 
+
+If/IN 
+[ all/PDT the/DT names/NNS ]
+of/IN 
+[ the/DT fields/NNS ]
+do/VBP not/RB fit/VB on/IN 
+[ one/CD GROUP/VB ]
+BY/IN 
+[ input/NN area/NN line/NN ]
+,/, 
+[ the/DT transfer/NN function/NN ]
+automatically/RB creates/VBZ 
+[ another/DT line/NN ]
+,/, or/CC 
+[ you/PRP ]
+can/MD create/VB 
+[ another/DT line/NN ]
+by/IN pressing/VBG 
+[ the/DT F9/NNP key/NN ]
+./. 
+
+[ 1655/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specify/VBP 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN ]
+,/, 
+[ the/DT SELECT/VB prompt/NN ]
+is/VBZ required/VBN to/TO transfer/VB 
+[ a/DT summary/NN record/NN ]
+for/IN 
+[ each/DT group/NN ]
+./. 
+
+[ 1656/CD ]
+./. 
+
+Use/VB 
+[ this/DT prompt/NN ]
+to/TO specify/VB 
+[ functions/NNS ]
+
+[ that/WDT ]
+identify/VBP 
+[ the/DT kind/NN ]
+of/IN 
+[ summary/JJ information/NN ]
+
+[ you/PRP ]
+want/VBP transferred/VBN ./. 
+
+[ 1657/CD ]
+./. 
+
+[ The/DT field/NN names/NNS you/PRP ]
+specify/VBP for/IN 
+[ the/DT SELECT/VB prompt/NN ]
+(/( not/RB specified/VBN with/IN 
+[ a/DT function/NN ]
+)/) must/MD also/RB have/VB been/VBN specified/VBN for/IN 
+[ the/DT GROUP/VB ]
+BY/IN 
+[ prompt/NN ]
+./. 
+
+[ 1658/CD ]
+./. 
+
+[ The/DT functions/NNS ]
+and/CC 
+[ fields/NNS you/PRP ]
+specify/VBP for/IN 
+[ the/DT SELECT/VB ]
+prompt/NN return/VB 
+[ the/DT actual/JJ summary/NN information/NN ]
+about/IN 
+[ each/DT group/NN ]
+./. 
+
+[ 1659/CD ]
+./. 
+
+[ Type/VB ]
+
+[ the/DT field/NN names/NNS ]
+and/CC 
+[ the/DT functions/NNS ]
+in/IN 
+[ the/DT SELECT/VB prompt/NN ]
+in/IN 
+[ the/DT order/NN ]
+that/IN 
+[ you/PRP ]
+want/VBP 
+[ them/PRP ]
+to/TO appear/VB ./. 
+
+[ 1660/CD ]
+./. 
+
+[ The/DT format/NN ]
+of/IN 
+[ a/DT function/NN ]
+is/VBZ :/: 
+[ function/NN ]
+(/( 
+[ field-name/NN ]
+)/) where/WRB :/: 
+[ function/NN ]
+Is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT following/VBG ]
+:/: 
+[ 1661/CD ]
+./. 
+
+[ This/DT function/NN ]
+is/VBZ allowed/VBN only/RB for/IN 
+[ numeric/JJ fields/NNS ]
+./. 
+
+[ 1662/CD ]
+./. 
+
+[ Each/DT function/NN ]
+returns/VBZ only/RB 
+[ one/CD value/NN ]
+for/IN 
+[ each/DT group/NN ]
+of/IN 
+[ records/NNS ]
+./. 
+
+[ 1663/CD ]
+./. 
+
+[ A/DT summary/NN record/NN ]
+is/VBZ transferred/VBN because/IN 
+[ functions/NNS ]
+are/VBP selected/VBN ./. 
+
+[ 1664/CD ]
+./. 
+
+[ This/DT prompt/NN ]
+identifies/VBZ 
+[ which/WDT summary/NN records/NNS ]
+are/VBP to/TO be/VB transferred/VBN ./. 
+
+[ 1665/CD ]
+./. 
+
+[ A/DT condition/NN ]
+specifies/VBZ 
+[ a/DT test/NN ]
+to/TO be/VB done/VBN on/IN 
+[ a/DT summary/NN record/NN ]
+./. 
+
+[ 1666/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP to/TO transfer/VB 
+[ all/DT ]
+of/IN 
+[ the/DT summary/NN records/NNS ]
+,/, leave/VB 
+[ the/DT HAVING/VBG prompt/NN blank/JJ ]
+./. 
+
+[ 1667/CD ]
+./. 
+
+[ The/DT format/NN ]
+of/IN 
+[ a/DT condition/NN ]
+is/VBZ :/: 
+[ function/NN ]
+(/( 
+[ field-name/NN ]
+)/) 
+[ test/NN value/NN ]
+where/WRB :/: 
+[ function/NN ]
+Is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT functions/NNS ]
+allowed/VBN in/IN 
+[ the/DT SELECT/VB prompt/NN ]
+./. 
+
+[ 1668/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+on/IN 
+[ constants/NNS ]
+,/, 
+[ expressions/NNS ]
+and/CC 
+[ tests/NNS ]
+refer/VB to/TO ``/`` 
+[ Specifying/VBG Values/NNS ]
+in/IN 
+[ a/DT Transfer/NNP Request/NNP ''/'' ]
+in/IN 
+[ topic/NN 7.12/CD ]
+./. 
+
+[ 1669/CD ]
+./. 
+
+[ Test/NN conditions/NNS ]
+can/MD be/VB connected/VBN with/IN 
+[ a/DT logical/JJ ]
+AND/CC or/CC OR/CC ./. 
+
+[ 1670/CD ]
+./. 
+
+When/WRB 
+[ both/DT ]
+AND/CC and/CC OR/CC are/VBP specified/VBN ,/, AND/CC 
+[ comparisons/NNS ]
+are/VBP made/VBN first/RB ./. 
+
+[ 1671/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB know/VB 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT fields/NNS you/PRP ]
+want/VBP ,/, press/VB 
+[ F4/NNP ]
+to/TO display/VB 
+[ a/DT list/NN ]
+of/IN 
+[ all/PDT the/DT names/NNS ]
+of/IN 
+[ the/DT fields/NNS ]
+in/IN 
+[ the/DT record/NN ]
+./. 
+
+[ 1672/CD ]
+./. 
+
+If/IN 
+[ a/DT comparison/NN ]
+does/VBZ not/RB fit/VBN on/IN 
+[ one/CD HAVING/VBG input/NN area/NN line/NN ]
+,/, 
+[ the/DT transfer/NN function/NN ]
+automatically/RB creates/VBZ 
+[ another/DT line/NN ]
+,/, or/CC 
+[ you/PRP ]
+can/MD create/VB 
+[ another/DT line/NN ]
+by/IN pressing/VBG 
+[ F9/NNP ]
+./. 
+
+[ 1673/CD ]
+./. 
+
+[ A/DT function/NN ]
+or/CC 
+[ a/DT field-name/NN ]
+can/MD not/RB be/VB split/VBN between/IN 
+[ two/CD input/NN area/NN lines/NNS ]
+./. 
+
+[ 1674/CD ]
+./. 
+
+[ It/PRP ]
+identifies/VBZ 
+[ the/DT order/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT summary/NN records/NNS ]
+are/VBP to/TO be/VB sorted/VBN ./. 
+
+[ 1675/CD ]
+./. 
+
+[ Summary/NN records/NNS ]
+are/VBP sorted/VBN by/IN 
+[ the/DT fields/NNS ]
+and/CC 
+[ functions/NNS ]
+specified/VBN ./. 
+
+[ 1676/CD ]
+./. 
+
+If/IN 
+[ no/DT order/NN ]
+is/VBZ specified/VBN ,/, ascending/VBG 
+[ order/NN ]
+is/VBZ assumed/VBN ./. 
+
+[ 1677/CD ]
+./. 
+
+[ The/DT field/NN names/NNS ]
+or/CC 
+[ functions/NNS ]
+specified/VBN in/IN 
+[ the/DT ORDER/VB ]
+BY/IN 
+[ prompt/NN ]
+must/MD also/RB be/VB specified/VBN in/IN 
+[ the/DT SELECT/VB prompt/NN ]
+./. 
+
+[ 1678/CD ]
+./. 
+
+For/IN 
+[ a/DT list/NN ]
+of/IN 
+[ field/NN names/NNS ]
+,/, 
+[ you/PRP ]
+can/MD press/VB 
+[ F4/NNP ]
+./. 
+
+[ 1679/CD ]
+./. 
+
+[ The/DT functions/NNS ]
+are/VBP listed/VBN as/IN 
+[ they/PRP ]
+appear/VBP in/IN 
+[ the/DT SELECT/VB prompt/NN ]
+./. 
+
+[ 1680/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT ]
+WHERE/WRB prompt/NN to/TO do/VB 
+[ this/DT ]
+./. 
+
+[ 1681/CD ]
+./. 
+
+[ The/DT HAVING/VBG prompt/NN ]
+allows/VBZ 
+[ you/PRP ]
+to/TO select/VB 
+[ which/WDT summary/NN records/NNS ]
+are/VBP transferred/VBN ./. 
+
+[ 1682/CD ]
+./. 
+
+[ The/DT final/JJ summary/NN records/NNS ]
+are/VBP sorted/VBN by/IN 
+[ the/DT items/NNS ]
+specified/VBN in/IN 
+[ the/DT ORDER/VB ]
+BY/IN 
+[ prompt/NN ]
+./. 
+
+[ 1683/CD ]
+./. 
+
+To/TO run/VB 
+[ a/DT transfer/NN request/NN ]
+,/, specify/VB Run/VB on/IN 
+[ the/DT action/NN ]
+list/NN and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1684/CD ]
+./. 
+
+If/IN 
+[ the/DT action/NN list/NN ]
+is/VBZ not/RB on/IN 
+[ the/DT display/NN ]
+,/, 
+[ you/PRP ]
+can/MD run/VB 
+[ a/DT transfer/NN request/NN ]
+by/IN pressing/VBG 
+[ F5/CD ]
+(/( 
+[ Run/VB ]
+)/) ./. 
+
+[ 1685/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specified/VBD 
+[ Printer/NN ]
+as/IN 
+[ the/DT output/NN device/NN ]
+,/, 
+[ the/DT transferred/VBN records/NNS ]
+are/VBP printed/VBN ./. 
+
+[ 1686/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specified/VBD 
+[ Disk/NN ]
+as/IN 
+[ the/DT output/NN device/NN ]
+,/, 
+[ the/DT format/NN ]
+of/IN 
+[ the/DT transferred/VBN data/NN ]
+(/( if/IN requested/VBN )/) is/VBZ sent/VBN to/TO 
+[ the/DT output/NN device/NN ]
+(/( 
+[ display/NN ]
+or/CC 
+[ printer/NN ]
+)/) 
+[ you/PRP ]
+specified/VBN for/IN 
+[ the/DT Show/VB format/NN ]
+of/IN 
+[ transferred/VBN data/NNS ]
+prompt/NN ./. 
+
+[ 1687/CD ]
+./. 
+
+[ The/DT personal/JJ computer/NN file/NN description/NN file/NN ]
+(/( if/IN requested/VBN in/IN 
+[ the/DT Save/VB transfer/NN description/NN prompt/NN ]
+)/) is/VBZ written/VBN to/TO 
+[ a/DT personal/JJ computer/NN disk/NN ]
+or/CC 
+[ diskette/NN file/NN ]
+,/, and/CC 
+[ the/DT transferred/VBN records/NNS ]
+are/VBP written/VBN to/TO 
+[ a/DT personal/JJ computer/NN disk/NN ]
+or/CC 
+[ diskette/NN file/NN ]
+./. 
+
+[ 1688/CD ]
+./. 
+
+[ You/PRP ]
+can/MD press/VB 
+[ the/DT Esc/NNP key/NN ]
+to/TO cancel/VB running/VBG 
+[ the/DT current/JJ transfer/NN request/NN ]
+at/IN 
+[ any/DT time/NN ]
+(/( except/IN while/IN 
+[ the/DT file/NN description/NN ]
+is/VBZ being/VBG written/VBN to/TO 
+[ a/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+)/) ./. 
+
+[ 1689/CD ]
+./. 
+
+[ Any/DT records/NNS ]
+remaining/VBG to/TO be/VB transferred/VBN are/VBP ignored/VBN ./. 
+
+[ 1690/CD ]
+./. 
+
+If/IN 
+[ data/NN ]
+is/VBZ being/VBG written/VBN to/TO 
+[ a/DT personal/JJ computer/NN disk/NN ]
+or/CC 
+[ diskette/NN file/NN ]
+,/, 
+[ the/DT file/NN ]
+is/VBZ closed/VBN ./. 
+
+[ 1691/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specified/VBD 
+[ Display/VB ]
+for/IN 
+[ the/DT output/NN device/NN ]
+prompt/NN when/WRB 
+[ you/PRP ]
+created/VBD or/CC modified/VBD 
+[ the/DT current/JJ transfer/NN request/NN ]
+,/, 
+[ the/DT transferred/VBN records/NNS ]
+are/VBP sent/VBN to/TO 
+[ the/DT display/NN ]
+./. 
+
+[ 1692/CD ]
+./. 
+
+[ The/DT records/NNS ]
+appear/VBP ,/, 
+[ one/CD record/NN ]
+per/IN 
+[ line/NN ]
+on/IN 
+[ the/DT display/NN ]
+./. 
+
+[ 1693/CD ]
+./. 
+
+[ The/DT output/NN ]
+is/VBZ in/IN 
+[ column/NN format/NN ]
+./. 
+
+[ 1694/CD ]
+./. 
+
+[ Column/NN headings/NNS ]
+are/VBP 
+[ the/DT SELECT/VB field/NN names/NNS ]
+./. 
+
+[ 1695/CD ]
+./. 
+
+[ The/DT following/VBG ]
+shows/VBZ displayed/VBN 
+[ records/NNS ]
+:/: 
+[ 1696/CD ]
+./. 
+
+If/IN 
+[ a/DT field/NN ]
+can/MD not/RB be/VB changed/VBN ,/, 
+[ the/DT field/NN ]
+is/VBZ displayed/VBN and/CC 
+[ the/DT character/NN positions/NNS ]
+
+[ that/WDT ]
+could/MD not/RB be/VB changed/VBN are/VBP highlighted/VBN ./. 
+
+[ 1697/CD ]
+./. 
+
+[ You/PRP ]
+can/MD press/VB 
+[ the/DT Esc/NNP key/NN ]
+to/TO stop/VB displaying/VBG 
+[ the/DT records/NNS ]
+./. 
+
+[ 1698/CD ]
+./. 
+
+[ The/DT display/NN ]
+then/RB shows/VBZ 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ records/NNS ]
+
+[ that/WDT ]
+were/VBD displayed/VBN and/CC 
+[ the/DT number/NN ]
+of/IN 
+[ displayed/VBN records/NNS ]
+
+[ that/WDT ]
+had/VBD 
+[ data/NNS ]
+
+[ that/WDT ]
+could/MD not/RB be/VB changed/VBN ./. 
+
+[ 1699/CD ]
+./. 
+
+[ The/DT transfer/NN request/NN stops/VBZ ]
+running/VBG ./. 
+
+[ 1700/CD ]
+./. 
+
+[ The/DT printer/NN ]
+is/VBZ set/VBN to/TO 
+[ the/DT values/NNS ]
+
+[ that/WDT ]
+were/VBD specified/VBN in/IN 
+[ the/DT transfer/NN request/NN ]
+./. 

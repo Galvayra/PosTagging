@@ -1,0 +1,564 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT battle/NN ]
+for/IN 
+[ control/NN ]
+over/IN 
+[ a/DT technology/NN ]
+critical/JJ to/TO 
+[ computer/NN publishing/NN ]
+is/VBZ testing/VBG 
+[ the/DT mettle/NN ]
+of/IN 
+[ Adobe/NNP Systems/NNPS Inc./NNP ]
+,/, for/IN 
+[ years/NNS ]
+
+[ a/DT darling/NN ]
+of/IN 
+[ investors/NNS ]
+because/IN of/IN 
+[ its/PRP$ high/JJ profits/NNS ]
+and/CC seemingly/RB 
+[ impregnable/JJ market/NN position/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT battle/NN ]
+turns/VBZ on/IN 
+[ arcane/JJ points/NNS ]
+about/IN 
+[ software/NN ]
+,/, 
+[ it/PRP ]
+illustrates/VBZ how/WRB in/IN 
+[ the/DT computer/NN industry/NN small/JJ companies/NNS ]
+are/VBP coming/VBG under/IN 
+[ increasing/VBG pressure/NN ]
+from/IN 
+[ the/DT industry/NN 's/POS giants/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB demonstrates/VBZ 
+[ the/DT risk/NN ]
+of/IN alienating/VBG 
+[ customers/NNS ]
+by/IN aggressively/RB pursuing/VBG 
+[ high/JJ profits/NNS ]
+from/IN 
+[ a/DT near-monopoly/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT attempt/NN ]
+to/TO preserve/VB 
+[ the/DT pre-eminent/JJ role/NN ]
+of/IN 
+[ its/PRP$ Postscript/NNP software/NN ]
+,/, 
+[ Adobe/NNP ] 
+on/IN 
+[ Wednesday/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD release/VB 
+[ technical/JJ information/NN ]
+
+[ that/WDT ]
+will/MD make/VB 
+[ it/PRP ]
+easier/JJR for/IN 
+[ competitors/NNS ]
+to/TO copy/VB 
+[ the/DT software/NN ]
+,/, 
+[ which/WDT ]
+controls/VBZ how/WRB 
+[ computer/NN printers/NNS ]
+produce/VBP 
+[ typefaces/NNS ]
+and/CC 
+[ other/JJ images/NNS ]
+./. 
+
+======================================
+
+[ Adobe/NNP 's/POS move/NN ]
+came/VBD 
+[ a/DT day/NN ]
+after/IN 
+[ Apple/NNP Computer/NNP Inc./NNP ]
+,/, 
+[ Adobe/NNP 's/POS largest/JJS customer/NN ]
+,/, and/CC 
+[ Microsoft/NNP Inc./NNP ]
+,/, 
+[ the/DT biggest/JJS maker/NN ]
+of/IN 
+[ personal-computer/NN software/NN ]
+,/, announced/VBD 
+[ they/PRP ]
+would/MD offer/VB 
+[ a/DT product/NN ]
+
+[ that/WDT ]
+would/MD rival/VB 
+[ Postscript/NNP ]
+./. 
+
+[ The/DT companies/NNS ]
+said/VBD 
+[ their/PRP$ software/NN ]
+would/MD have/VB 
+[ different/JJ features/NNS ]
+than/IN 
+[ Adobe/NNP 's/POS ]
+,/, but/CC neither/RB would/MD say/VB when/WRB 
+[ it/PRP ]
+would/MD be/VB available/JJ ./. 
+
+======================================
+
+[ Fears/NNS ]
+over/IN 
+[ the/DT Apple-Microsoft/NNP agreement/NN ]
+sent/VBD 
+[ Adobe/NNP shares/NNS ]
+plunging/VBG ./. 
+
+In/IN 
+[ over-the-counter/JJ trading/NN yesterday/NN ]
+,/, 
+[ Adobe/NNP ]
+plummeted/VBD 
+[ $/$ 4.125/CD ]
+
+[ a/DT share/NN ]
+to/TO close/VB at/IN 
+[ $/$ 15.625/CD ]
+--/: 
+[ a/DT drop/NN ]
+of/IN 
+[ 40/CD %/NN ]
+from/IN 
+[ levels/NNS ]
+at/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT month/NN ]
+./. 
+
+======================================
+
+[ John/NNP Warnock/NNP ]
+,/, 
+[ Adobe/NNP 's/POS chief/NN executive/NN officer/NN ]
+,/, said/VBD 
+[ his/PRP$ company/NN 's/POS decision/NN ]
+to/TO make/VB 
+[ available/JJ the/DT technical/JJ data/NNS ]
+was/VBD ``/`` 
+[ inevitable/JJ ]
+,/, 
+[ it/PRP ]
+was/VBD only/RB 
+[ a/DT matter/NN ]
+of/IN 
+[ time/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+conceded/VBD that/IN 
+[ the/DT move/NN ]
+was/VBD prompted/VBN by/IN 
+[ the/DT Apple-Microsoft/NNP announcement/NN ]
+./. 
+
+======================================
+
+[ Some/DT industry/NN observers/NNS ]
+say/VBP 
+[ Apple/NNP ]
+and/CC 
+[ Microsoft/NNP ]
+may/MD be/VB more/RBR interested/JJ in/IN breaking/VBG 
+[ Adobe/NNP 's/POS monopoly/NN ]
+than/IN in/IN offering/VBG 
+[ better/JJR software/NN ]
+./. 
+
+``/`` If/IN 
+[ Adobe/NNP ]
+were/VBD 
+[ a/DT larger/JJR company/NN ]
+,/, 
+[ John/NNP ]
+ {/( 
+[ Warnock/NNP ]
+ }/) would/MD not/RB have/VB caved/VBN in/IN ,/, 
+[ he/PRP ]
+would/MD have/VB been/VBN in/IN 
+[ court/NN ]
+,/, ''/'' said/VBD 
+[ Richard/NNP Shaffer/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ Computer/NNP Letter/NNP ]
+./. 
+
+``/`` Faced/VBN with/IN 
+[ the/DT pressure/NN ]
+from/IN 
+[ Microsoft/NNP ]
+and/CC 
+[ Apple/NNP ]
+,/, 
+[ it/PRP ]
+was/VBD 
+[ an/DT easy/JJ choice/NN ]
+:/: 
+[ your/PRP$ money/NN ]
+or/CC 
+[ your/PRP$ life/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Shaffer/NNP ]
+says/VBZ 
+[ Apple/NNP 's/POS involvement/NN ]
+also/RB points/VBZ to/TO 
+[ a/DT double/JJ standard/NN ]
+for/IN 
+[ the/DT computer/NN industry/NN 's/POS giants/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ ironic.../: that/IN 
+[ Apple/NNP ]
+should/MD team/VB up/IN to/TO deliberately/RB produce/VB 
+[ an/DT imitation/NN ]
+of/IN 
+[ Adobe/NNP 's/POS product/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ,/, ``/`` when/WRB 
+[ Apple/NNP itself/PRP ]
+fears/VBZ 
+[ the/DT same/JJ kind/NN ]
+of/IN 
+[ attack/NN ]
+''/'' on/IN 
+[ the/DT system/NN software/NN ]
+for/IN 
+[ its/PRP$ popular/JJ Macintosh/NNP computer/NN ]
+./. 
+
+======================================
+
+Indeed/RB ,/, 
+[ Apple/NNP ]
+sued/VBD 
+[ Microsoft/NNP last/JJ year/NN ]
+for/IN copying/VBG 
+[ parts/NNS ]
+of/IN 
+[ its/PRP$ Macintosh/NNP software/NN ]
+./. 
+
+[ The/DT case/NN ]
+is/VBZ pending/VBG ./. 
+
+======================================
+
+[ Analysts/NNS ]
+suggested/VBD that/IN 
+[ Adobe/NNP ]
+might/MD have/VB avoided/VBN 
+[ its/PRP$ current/JJ straits/NNS ]
+if/IN 
+[ Mr./NNP Warnock/NNP ]
+had/VBD moved/VBN more/RBR rapidly/RB to/TO mollify/VB 
+[ critics/NNS ]
+,/, 
+[ who/WP ]
+have/VBP complained/VBN about/IN 
+[ the/DT company/NN 's/POS steep/JJ royalties/NNS ]
+and/CC withholding/VBG of/IN 
+[ technical/JJ information/NN ]
+./. 
+
+``/`` 
+[ Adobe/NNP ]
+might/MD have.../: done/VBN 
+[ this/DT 12/CD months/NNS ]
+ago/IN ''/'' and/CC prevented/VBN 
+[ Apple/NNP ]
+from/IN teaming/VBG up/IN with/IN 
+[ Microsoft/NNP ]
+,/, said/VBD 
+[ David/NNP Nelson/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Shearson/NNP Lehman/NNP ]
+./. 
+
+======================================
+
+[ Many/JJ analysts/NNS ]
+think/VBP 
+[ Mr./NNP Warnock/NNP ]
+also/RB could/MD have/VB cut/VBN 
+[ royalty/NN rates/NNS ]
+--/: long/RB 
+[ a/DT sticking/VBG point/NN ]
+with/IN 
+[ Apple/NNP ]
+and/CC 
+[ other/JJ Adobe/NNP customers/NNS ]
+./. 
+
+For/IN 
+[ years/NNS ]
+,/, 
+[ makers/NNS ]
+of/IN 
+[ personal/JJ computers/NNS ]
+and/CC 
+[ top/JJ software/NN companies/NNS ]
+have/VBP chafed/VBN under/IN 
+[ royalty/NN charges/NNS ]
+
+[ that/WDT ]
+bring/VBP 
+[ Adobe/NNP ]
+as/RB much/RB as/IN 
+[ $/$ 250/CD ]
+for/IN 
+[ every/DT printer/NN ]
+sold/VBN that/IN 
+[ functions/NNS ]
+with/IN 
+[ Postscript/NNP ] 
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/NN ]
+,/, 
+[ Adobe/NNP 's/POS customers/NNS ]
+had/VBD 
+[ little/JJ choice/NN ]
+but/CC to/TO ante/VB up/IN ./. 
+
+[ That/DT ]
+'s/VBZ because/IN 
+[ a/DT string/NN ]
+of/IN 
+[ small/JJ competitors/NNS ]
+have/VBP found/VBN 
+[ it/PRP ]
+difficult/JJ to/TO duplicate/VB 
+[ Adobe/NNP 's/POS software/NN ]
+--/: and/CC 
+[ customers/NNS ]
+have/VBP n't/RB embraced/VBN 
+[ the/DT few/JJ companies/NNS ]
+
+[ who/WP ]
+do/VBP offer/VB 
+[ rival/JJ products/NNS ]
+./. 
+
+[ Postscript/NNP ]
+is/VBZ ``/`` 
+[ a/DT complicated/VBN program/NN ]
+to/TO copy/VB legally/RB ,/, ''/'' said/VBD 
+[ Charles/NNP LeCompte/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ Printout/NNP ]
+,/, 
+[ a/DT Newtonville/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ newsletter/NN ]
+./. 
+
+[ Mr./NNP LeCompte/NNP estimates/VBZ ]
+that/IN 
+[ Adobe/NNP ]
+still/RB holds/VBZ ``/`` well/RB over/IN 
+[ 90/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+for/IN 
+[ Postscript/NNP products/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Whether/NNP Adobe/NNP ]
+can/MD retain/VB 
+[ its/PRP$ dominant/JJ position/NN ]
+in/IN 
+[ printer/NN software/NN ]
+may/MD depend/VB on/IN how/WRB 
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+responds/VBZ to/TO 
+[ the/DT Adobe/NNP ]
+and/CC 
+[ Apple-Microsoft/NNP ]
+moves/NNS ./. 
+
+[ Steve/NNP Jobs/NNP ]
+,/, 
+[ chief/NN executive/NN officer/NN ]
+of/IN 
+[ Next/NNP Inc./NNP ]
+and/CC 
+[ an/DT Adobe/NNP proponent/NN ]
+,/, said/VBD 
+[ IBM/NNP ]
+has/VBZ 
+[ the/DT clout/NN ]
+to/TO either/RB protect/VB 
+[ Adobe/NNP 's/POS position/NN ]
+or/CC promote/VB 
+[ a/DT rival/JJ standard/NN ]
+./. 
+
+======================================
+
+So/IN far/RB ,/, 
+[ IBM/NNP has/VBZ n't/RB ]
+indicated/VBN 
+[ what/WP ]
+
+[ it/PRP ]
+will/MD do/VB ./. 
+
+[ The/DT company/NN ]
+is/VBZ 
+[ an/DT Adobe/NNP customer/NN ]
+,/, but/CC 
+[ Nick/NNP Donofrio/NNP ]
+,/, 
+[ IBM/NNP vice/NN president/NN ]
+,/, advanced/VBN 
+[ workstation/NN division/NN ]
+,/, said/VBD at/IN 
+[ an/DT industry/NN conference/NN ]
+here/RB 
+[ this/DT week/NN ]
+that/IN 
+[ IBM/NNP ]
+will/MD support/VB 
+[ the/DT Apple-Microsoft/NNP approach/NN ]
+for/IN 
+[ use/NN ]
+in/IN 
+[ Microsoft/NNP 's/POS OS\/NNP software/NN ]
+,/, 
+[ which/WDT ]
+
+[ IBM/NNP ]
+uses/VBZ for/IN 
+[ its/PRP$ latest/JJS generation/NN ]
+of/IN 
+[ personal/JJ computers/NNS ]
+./. 
+
+======================================
+
+[ Both/DT Apple/NNP ]
+and/CC 
+[ Microsoft/NNP ]
+say/VBP 
+[ Adobe/NNP 's/POS concession/NN ]
+comes/VBZ too/RB late/RB for/IN 
+[ them/PRP ]
+to/TO alter/VB 
+[ their/PRP$ plans/NNS ]
+./. 
+
+[ Randall/NNP S./NNP Battat/NNP ]
+,/, 
+[ Apple/NNP 's/POS vice/NN president/NN ]
+for/IN 
+[ product/NN marketing/NN ]
+,/, said/VBD 
+[ Apple/NNP ]
+might/MD have/VB continued/VBN to/TO use/VB 
+[ Adobe/NNP 's/POS software/NN ]
+``/`` if/IN 
+[ years/NNS ]
+ago/IN ''/'' 
+[ the/DT company/NN ]
+had/VBD lowered/VBN 
+[ royalty/NN rates/NNS ]
+and/CC provided/VBN 
+[ greater/JJR ]
+``/`` 
+[ flexibility/NN ]
+and/CC 
+[ openness/NN ]
+''/'' about/IN 
+[ its/PRP$ software/NN ]
+./. 
+
+======================================
+
+Founded/VBN in/IN 
+[ 1982/CD ]
+,/, 
+[ Adobe/NNP ]
+is/VBZ credited/VBN with/IN supplying/VBG 
+[ the/DT software/NN instrumental/NN ]
+to/TO turning/VBG 
+[ the/DT desktop/NN computer/NN ]
+into/IN 
+[ a/DT personal/JJ print/NN shop/NN ]
+./. 
+
+[ The/DT Apple-Microsoft/NNP agreement/NN ]
+is/VBZ n't/RB expected/VBN to/TO have/VB 
+[ any/DT short-term/JJ impact/NN ]
+on/IN 
+[ Adobe/NNP 's/POS revenue/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ expected/VBN to/TO top/VB 
+[ $/$ 115/CD million/CD ]
+for/IN 
+[ the/DT fiscal/JJ year/NN ending/VBG Nov./NNP 30/CD ]
+./. 

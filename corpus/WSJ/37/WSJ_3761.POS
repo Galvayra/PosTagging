@@ -1,0 +1,159 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ford/NNP Motor/NNP Co./NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ notifying/VBG 
+[ owners/NNS ]
+of/IN 
+[ 178,000/CD ]
+of/IN 
+[ its/PRP$ 1988-model/JJ Ford/NNP Taurus/NNP ]
+,/, 
+[ Mercury/NNP Sable/NNP ]
+and/CC 
+[ Lincoln/NNP Continental/NNP cars/NNS ]
+about/IN 
+[ two/CD separate/JJ problems/NNS ]
+unrelated/JJ to/TO 
+[ safety/NN ]
+./. 
+
+======================================
+
+[ The/DT first/JJ affects/NNS ] 
+about/IN 
+[ 70,000/CD Taurus/NNP ]
+,/, 
+[ Sable/NNP ]
+and/CC 
+[ Continental/NNP vehicles/NNS ]
+equipped/VBN with/IN 
+[ 3.8-liter/JJ engines/NNS ]
+./. 
+
+[ Ford/NNP ]
+said/VBD 
+[ power-steering/NN pump/NN pulleys/NNS ]
+could/MD separate/VB from/IN 
+[ the/DT engine/NN ]
+,/, causing/VBG 
+[ a/DT loss/NN ]
+of/IN 
+[ power/NN ]
+steering/NN ./. 
+
+[ The/DT separation/NN ]
+could/MD also/RB cause/VB 
+[ a/DT loss/NN ]
+of/IN 
+[ power/NN ]
+to/TO 
+[ certain/JJ other/JJ accessories/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+said/VBD 
+[ owners/NNS ]
+should/MD return/VB 
+[ the/DT cars/NNS ]
+to/TO 
+[ dealers/NNS ]
+so/IN 
+[ the/DT pulleys/NNS ]
+can/MD be/VB replaced/VBN ./. 
+
+[ Ford/NNP ]
+will/MD contact/VB 
+[ owners/NNS ]
+by/IN 
+[ mail/NN ]
+and/CC will/MD cover/VB 
+[ all/DT costs/NNS ]
+of/IN 
+[ parts/NNS ]
+and/CC 
+[ labor/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT second/JJ action/NN ]
+,/, 
+[ Ford/NNP ]
+will/MD extend/VB by/IN 
+[ 24/CD months/NNS ]
+
+[ the/DT warranty/NN coverage/NN ]
+for/IN 
+[ a/DT part/NN ]
+in/IN 
+[ the/DT air-conditioning/NN system/NN ]
+of/IN about/IN 
+[ 108,000/CD Taurus/NNP ]
+and/CC 
+[ Sable/NNP cars/NNS ]
+equipped/VBN with/IN 
+[ 3.0-liter/JJ engines/NNS ]
+./. 
+
+[ The/DT auto/NN maker/NN ]
+said/VBD 
+[ the/DT compressor/NN shaft/NN seal/NN ]
+could/MD fail/VB ,/, causing/VBG 
+[ the/DT air/NN conditioners/NNS ]
+in/IN 
+[ these/DT models/NNS ]
+to/TO break/VB down/RB ./. 
+
+[ The/DT normal/JJ warranty/NN period/NN ]
+for/IN 
+[ such/JJ parts/NNS ]
+is/VBZ 
+[ 12/CD months/NNS ]
+or/CC 
+[ 12,000/CD miles/NNS ]
+./. 
+
+======================================
+
+If/IN 
+[ owners/NNS ]
+have/VBP 
+[ a/DT problem/NN ]
+with/IN 
+[ the/DT car/NN ]
+,/, 
+[ the/DT company/NN ]
+will/MD cover/VB 
+[ the/DT costs/NNS ]
+of/IN 
+[ parts/NNS ]
+and/CC 
+[ labor/NN ]
+./. 
+
+[ Owners/NNS ]
+
+[ who/WP ]
+have/VBP already/RB  paid/VBN for/IN 
+[ repairs/NNS ]
+will/MD be/VB reimbursed/VBN ./. 

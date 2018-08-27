@@ -1,0 +1,666 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP ]
+proposed/VBD to/TO acquire/VB 
+[ the/DT 33/CD %/NN ]
+of/IN 
+[ Telerate/NNP Inc./NNP it/PRP ]
+does/VBZ n't/RB already/RB own/JJ for/IN 
+[ $/$ 18/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC about/IN 
+[ $/$ 576/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT market/NN ]
+apparently/RB expects/VBZ 
+[ the/DT two/CD companies/NNS ]
+to/TO negotiate/VB 
+[ a/DT higher/JJR price/NN ]
+./. 
+
+In/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+,/, 
+[ Telerate/NNP ]
+closed/VBD at/IN 
+[ $/$ 20.375/CD ]
+
+[ a/DT share/NN ]
+,/, up/IN 
+[ $/$ 5.25/CD ]
+./. 
+
+[ It/PRP ]
+was/VBD 
+[ the/DT most/RBS active/JJ issue/NN ]
+on/IN 
+[ the/DT Big/NNP Board/NNP ]
+,/, with/IN more/RBR than/IN 
+[ four/CD million/CD shares/NNS ]
+changing/VBG 
+[ hands/NNS ]
+,/, more/JJR than/IN 
+[ 50/CD times/NNS its/PRP$ average/JJ daily/JJ volume/NN ]
+./. 
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+,/, 
+[ which/WDT ]
+publishes/VBZ 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP ]
+,/, has/VBZ been/VBN 
+[ an/DT investor/NN ]
+in/IN 
+[ Telerate/NNP ]
+,/, 
+[ an/DT electronic/JJ financial/JJ information/NN ]
+and/CC 
+[ transaction/NN services/NNS company/NN ]
+,/, since/IN 
+[ 1985/CD ]
+,/, when/WRB 
+[ it/PRP ]
+purchased/VBD 
+[ a/DT 32/CD %/NN interest/NN ]
+./. 
+
+[ Dow/NNP Jones/NNP ]
+has/VBZ invested/VBN about/IN 
+[ $/$ 911/CD million/CD ]
+so/RB far/RB in/IN 
+[ Telerate/NNP ]
+,/, at/IN 
+[ an/DT average/JJ cost/NN ]
+of/IN about/IN 
+[ $/$ 14.32/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Telerate/NNP 's/POS board/NN ]
+named/VBD 
+[ two/CD independent/JJ directors/NNS ]
+to/TO consider/VB 
+[ the/DT proposal/NN ]
+./. 
+
+[ Telerate/NNP 's/POS 13-member/JJ board/NN ]
+includes/VBZ 
+[ six/CD Dow/NNP Jones/NNP officers/NNS ]
+and/CC 
+[ a/DT former/JJ Dow/NNP Jones/NNP executive/NN ]
+./. 
+
+[ Neil/NNP S./NNP Hirsch/NNP ]
+,/, 
+[ Telerate/NNP 's/POS president/NN ]
+and/CC 
+[ chief/NN executive/NN officer/NN ]
+,/, declined/VBD to/TO comment/VB further/RB ./. 
+
+======================================
+
+[ Warren/NNP H./NNP Phillips/NNP ]
+,/, 
+[ chairman/NN ]
+and/CC 
+[ chief/NN executive/NN ]
+of/IN 
+[ Dow/NNP Jones/NNP ]
+,/, said/VBD that/IN 
+[ the/DT offer/NN ]
+was/VBD made/VBN ``/`` to/TO integrate/VB 
+[ the/DT two/CD companies/NNS ]
+to/TO obtain/VB 
+[ operational/JJ efficiencies/NNS ]
+and/CC to/TO permit/VB even/RB closer/JJR and/CC 
+[ more/RBR efficient/JJ working/VBG relationships/NNS ]
+in/IN 
+[ marketing/NN ]
+,/, 
+[ customer/NN service/NN ]
+and/CC 
+[ the/DT management/NN ]
+of/IN 
+[ our/PRP$ related/VBN businesses/NNS ]
+./. 
+
+[ These/DT objectives/NNS ]
+can/MD best/RB be/VB achieved/VBN if/IN 
+[ Telerate/NNP ]
+is/VBZ wholly/RB owned/VBN by/IN 
+[ Dow/NNP Jones/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Peter/NNP Skinner/NNP ]
+,/, 
+[ Dow/NNP Jones/NNP vice/NN president/NN ]
+,/, 
+[ corporate/JJ general/JJ counsel/NN ]
+and/CC 
+[ secretary/NN ]
+,/, said/VBD 
+[ the/DT company/NN ]
+probably/RB would/MD finance/VB 
+[ the/DT offer/NN ]
+``/`` using/VBG 
+[ commercial/JJ paper/NN ]
+,/, as/IN 
+[ we/PRP ]
+have/VBP in/IN 
+[ the/DT past/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+declined/VBD to/TO comment/VB on/IN 
+[ the/DT market/NN premium/NN ]
+for/IN 
+[ Telerate/NNP shares/NNS ]
+over/IN 
+[ the/DT $/$ 18/CD offer/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Dow/NNP Jones/NNP ]
+projects/VBZ that/IN 
+[ the/DT acquisition/NN ]
+would/MD dilute/VB 
+[ earnings/NNS ]
+about/IN 
+[ seven/CD cents/NNS ]
+
+[ a/DT share/NN ]
+in/IN 
+[ 1990/CD ]
+``/`` and/CC contribute/VB to/TO 
+[ earnings/NNS ]
+thereafter/RB ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Skinner/NNP ]
+said/VBD 
+[ Dow/NNP Jones/NNP ]
+is/VBZ prepared/VBN to/TO meet/VB with/IN 
+[ Telerate/NNP ]
+and/CC 
+[ its/PRP$ advisers/NNS ]
+to/TO discuss/VB 
+[ the/DT proposal/NN ]
+and/CC 
+[ considerations/NNS ]
+made/VBN in/IN setting/VBG 
+[ the/DT price/NN ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+described/VBD as/IN ``/`` 
+[ full/JJ ]
+and/CC 
+[ fair/JJ ]
+./. 
+
+''/'' Separately/RB ,/, 
+[ a/DT group/NN ]
+of/IN 
+[ Telerate/NNP shareholders/NNS ]
+said/VBD 
+[ they/PRP ]
+filed/VBD 
+[ suit/NN ]
+against/IN 
+[ Dow/NNP Jones/NNP ]
+in/IN 
+[ Delaware/NNP Chancery/NNP court/NN ]
+asserting/VBG 
+[ the/DT proposed/VBN offer/NN ]
+is/VBZ inadequate/JJ ./. 
+
+[ The/DT suit/NN ]
+described/VBD 
+[ the/DT offer/NN ]
+as/IN 
+[ a/DT ]
+``/`` 
+[ freeze-out/NN ]
+''/'' 
+[ that/WDT ]
+will/MD deny/VB 
+[ public/JJ shareholders/NNS ]
+``/`` 
+[ their/PRP$ right/NN ]
+to/TO share/VB proportionately/RB in/IN 
+[ the/DT true/JJ value/NN ]
+of/IN 
+[ Telerate/NNP 's/POS valuable/JJ ]
+and/CC 
+[ profitable/JJ businesses/NNS ]
+,/, and/CC 
+[ future/JJ growth/NN ]
+in/IN 
+[ profits/NNS ]
+and/CC 
+[ earnings/NNS ]
+./. 
+
+''/'' 
+[ The/DT suit/NN ]
+also/RB said/VBD 
+[ the/DT $/$ 18/CD price/NN was/VBD n't/RB ]
+based/VBN on/IN 
+[ any/DT ]
+``/`` 
+[ independent/JJ appraisal/NN ]
+''/'' of/IN 
+[ Telerate/NNP 's/POS value/NN ]
+,/, but/CC was/VBD ``/`` fixed/VBN arbitrarily/RB ./. 
+
+''/'' 
+[ The/DT suit/NN ]
+seeks/VBZ to/TO have/VB 
+[ the/DT offer/NN ]
+enjoined/VBN ,/, or/CC set/VBN aside/RB if/IN 
+[ it/PRP ]
+is/VBZ consummated/VBN ,/, and/CC seeks/VBZ 
+[ unspecified/JJ damages/NNS ]
+./. 
+
+[ Mr./NNP Skinner/NNP ]
+said/VBD 
+[ he/PRP ]
+had/VBD n't/RB seen/VBN 
+[ the/DT papers/NNS ]
+and/CC could/MD n't/RB comment/VB on/IN 
+[ the/DT suit/NN ]
+./. 
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD begin/VB 
+[ a/DT cash/NN tender/NN offer/NN ]
+for/IN 
+[ Telerate/NNP shares/NNS ]
+at/IN 
+[ $/$ 18/CD ]
+
+[ a/DT share/NN early/JJ next/JJ week/NN ]
+./. 
+
+[ The/DT offer/NN ]
+and/CC 
+[ withdrawal/NN rights/NNS ]
+are/VBP to/TO expire/VB 
+[ Nov./NNP 3/CD ]
+./. 
+
+If/IN ,/, as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT offer/NN ]
+,/, 
+[ Dow/NNP Jones/NNP ]
+owns/VBZ 
+[ 90/CD %/NN ]
+or/CC 
+[ more/JJR ]
+of/IN 
+[ Telerate/NNP 's/POS shares/NNS ]
+,/, or/CC if/IN 
+[ the/DT two/CD companies/NNS ]
+reach/VBP 
+[ an/DT acquisition/NN agreement/NN ]
+,/, 
+[ Dow/NNP Jones/NNP ]
+will/MD acquire/VB 
+[ the/DT remaining/VBG shares/NNS ]
+in/IN 
+[ a/DT merger/NN ]
+at/IN 
+[ the/DT same/JJ price/NN ]
+./. 
+
+======================================
+
+[ Dow/NNP Jones/NNP ]
+also/RB publishes/VBZ 
+[ Barron/NNP 's/POS magazine/NN ]
+and/CC 
+[ other/JJ periodicals/NNS ]
+,/, 
+[ electronic/JJ business/NN information/NN services/NNS ]
+and/CC 
+[ community/NN newspapers/NNS ]
+./. 
+
+In/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP yesterday/NN ]
+,/, 
+[ Dow/NNP Jones/NNP shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 37.125/CD ]
+,/, down/IN 
+[ 37.5/CD cents/NNS ]
+./. 
+
+======================================
+
+[ The/DT offer/NN ]
+comes/VBZ at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ Telerate/NNP 's/POS earnings/NNS ]
+are/VBP under/IN 
+[ some/DT pressure/NN ]
+due/JJ to/TO 
+[ costs/NNS ]
+related/VBN to/TO 
+[ the/DT start-up/NN ]
+of/IN 
+[ its/PRP$ Trading/NNP Service/NNP operation/NN ]
+,/, jointly/RB developed/VBN with/IN 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co/NNP ]
+./. 
+
+[ The/DT service/NN ]
+is/VBZ 
+[ a/DT computer-based/JJ foreign/JJ exchange/NN trading/VBG system/NN ]
+./. 
+
+In/IN 
+[ its/PRP$ second-quarter/NN report/NN ]
+,/, 
+[ Telerate/NNP ]
+said/VBD that/IN 
+[ the/DT costs/NNS ]
+would/MD continue/VB to/TO hurt/VB 
+[ earnings/NNS ]
+through/IN 
+[ 1989/CD ]
+but/CC that/IN 
+[ the/DT service/NN ]
+shows/VBZ ``/`` 
+[ great/JJ promise/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Telerate/NNP 's/POS earnings/NNS ]
+and/CC 
+[ sales/NNS growth/NN ]
+have/VBP slowed/VBN after/IN 
+[ a/DT rapid/JJ pace/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+[ A/DT Telerate/NNP spokesman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+currently/RB expects/VBZ to/TO report/VB 
+[ per-share/JJ earnings/NNS ]
+``/`` in/IN 
+[ the/DT low/JJ 90/CD cent/NN ]
+''/'' 
+[ area/NN ]
+for/IN 
+[ the/DT year/NN ]
+;/: for/IN 
+[ 1988/CD ]
+,/, 
+[ Telerate/NNP ]
+earned/VBD 
+[ $/$ 91.2/CD million/CD ]
+,/, or/CC 
+[ 96/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT 21/CD %/NN increase/NN ]
+,/, on/IN 
+[ a/DT 31/CD %/NN revenue/NN gain/NN ]
+to/TO 
+[ $/$ 440/CD million/CD ]
+./. 
+
+But/CC 
+[ earnings/NNS ]
+fell/VBD 
+[ 12/CD %/NN ]
+in/IN 
+[ last/JJ year/NN 's/POS fourth/JJ quarter/NN ]
+;/: 
+[ 8.4/CD %/NN ]
+in/IN 
+[ the/DT first/JJ quarter/NN ]
+;/: and/CC 
+[ 6.4/CD %/NN ]
+in/IN 
+[ the/DT latest/JJS second/JJ quarter/NN ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+generally/RB greeted/VBD 
+[ the/DT move/NN ]
+as/IN 
+[ a/DT favorable/JJ one/CD ]
+for/IN 
+[ Dow/NNP Jones/NNP ]
+,/, although/IN 
+[ some/DT ]
+speculated/VBD that/IN 
+[ the/DT company/NN ]
+may/MD come/VB under/IN 
+[ pressure/NN ]
+to/TO sweeten/VB 
+[ the/DT bid/NN ]
+to/TO 
+[ $/$ 20/CD ]
+
+[ a/DT share/NN ]
+or/CC 
+[ more/JJR ]
+./. 
+
+======================================
+
+``/`` 
+[ Dow/NNP Jones/NNP ]
+clearly/RB did/VBD n't/RB offer/VB much/JJ of/IN 
+[ a/DT premium/NN ]
+to/TO 
+[ the/DT current/JJ stock/NN price/NN ]
+,/, ''/'' said/VBD 
+[ Drew/NNP Marcus/NNP ]
+,/, 
+[ a/DT media/NNS anlayst/NN ]
+at/IN 
+[ Kidder/NNP Peabody/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+But/CC 
+[ Mr./NNP Marcus/NNP ]
+added/VBD that/IN 
+[ the/DT company/NN ]
+has/VBZ taken/VBN 
+[ a/DT ]
+``/`` 
+[ slow/JJ ]
+,/, 
+[ deliberate/JJ approach/NN ]
+,/, and/CC 
+[ my/PRP$ feeling/NN ]
+is/VBZ 
+[ that/DT Dow/NNP Jones/NNP ]
+wo/MD n't/RB chase/VB 
+[ the/DT stock/NN ]
+./. 
+
+''/'' If/IN 
+[ the/DT company/NN ]
+does/VBZ n't/RB succeed/VB in/IN 
+[ its/PRP$ current/JJ ]
+bid/NN ,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ it/PRP ]
+``/`` would/MD probably/RB retreat/VB and/CC continue/VB 
+[ a/DT slow/JJ accumulation/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Bruce/NNP Thorp/NNP ]
+,/, 
+[ a/DT media/NNS analyst/NN ]
+at/IN 
+[ PNC/NNP Financial/NNP Corp./NNP 's/POS Provident/NNP National/NNP Bank/NNP ]
+,/, noted/VBD that/IN although/IN 
+[ the/DT market/NN activity/NN ]
+in/IN 
+[ Telerate/NNP stock/NN ]
+yesterday/NN seemed/VBD to/TO signal/VB that/IN 
+[ arbitragers/NNS ]
+expect/VBP 
+[ Dow/NNP Jones/NNP ]
+to/TO sweeten/VB 
+[ its/PRP$ bid/NN ]
+,/, 
+[ the/DT company/NN ]
+appears/VBZ to/TO be/VB under/IN 
+[ no/DT real/JJ pressure/NN ]
+to/TO do/VB so/RB ./. 
+
+``/`` 
+[ The/DT stock/NN ]
+is/VBZ trading/VBG 
+[ a/DT little/RB above/JJ ]
+where/WRB 
+[ it/PRP ]
+would/MD be/VB reasonable/JJ to/TO expect/VB 
+[ a/DT deal/NN ]
+,/, ''/'' 
+[ Mr./NNP Thorp/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Andrew/NNP Wallach/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP ]
+,/, said/VBD 
+[ the/DT combination/NN ]
+will/MD be/VB 
+[ a/DT ]
+``/`` 
+[ strong/JJ No./NN 2/CD ]
+in/IN 
+[ the/DT highest/JJS value/NN ]
+added/VBD 
+[ segments/NNS ]
+''/'' of/IN 
+[ the/DT information/NN services/NNS business/NN ]
+,/, after/IN 
+[ Reuters/NNP PLC/NNP ]
+./. 
+
+======================================
+
+[ John/NNP Morton/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Lynch/NNP ]
+,/, 
+[ Jones/NNP ]
+&/CC 
+[ Ryan/NNP ]
+,/, said/VBD 
+[ Telerate/NNP ]
+``/`` is/VBZ 
+[ a/DT ]
+rapidly/RB growing/VBG 
+[ business/NN ]
+and/CC 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT good/JJ thing/NN ]
+for/IN 
+[ Dow/NNP Jones/NNP ]
+to/TO own/VB 
+[ all/DT ]
+of/IN 
+[ it/PRP ]
+./. 
+
+''/'' Despite/IN 
+[ a/DT slowdown/NN ]
+in/IN 
+[ earnings/NNS growth/NN ]
+at/IN 
+[ Telerate/NNP ]
+recently/RB ,/, ``/`` longer/JJR term/NN 
+[ it/PRP ]
+is/VBZ 
+[ a/DT good/JJ investment/NN ]
+because/IN 
+[ this/DT ]
+is/VBZ 
+[ the/DT wave/NN ]
+of/IN 
+[ information/NN future/NN ]
+,/, and/CC 
+[ the/DT bigger/JJR presence/NN Dow/NNP Jones/NNP ]
+has/VBZ ,/, 
+[ the/DT better/JJR ]
+,/, ''/'' 
+[ Mr./NNP Morton/NNP ]
+said/VBD ./. 

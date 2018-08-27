@@ -1,0 +1,133 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Carolina/NNP Power/NNP ]
+&/CC 
+[ Light/NNP Co./NNP ]
+,/, 
+[ Raleigh/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, said/VBD 
+[ an/DT electrical/JJ fire/NN ]
+forced/VBD 
+[ the/DT shutdown/NN ]
+of/IN 
+[ its/PRP$ Harris/NNP nuclear/JJ power/NN plant/NN ]
+./. 
+
+======================================
+
+[ The/DT fire/NN ]
+engulfed/VBD 
+[ a/DT generator/NN ]
+,/, 
+[ an/DT electrical/JJ transformer/NN ]
+,/, piping/NN ,/, 
+[ wiring/NN ]
+and/CC ignited/VBD 
+[ hydrogen/NN ]
+used/VBN to/TO 
+[ cool/VB piping/NN ]
+./. 
+
+[ The/DT fire/NN ]
+was/VBD confined/VBN to/TO 
+[ the/DT electric-generating/NN part/NN ]
+of/IN 
+[ the/DT plant/NN ]
+and/CC did/VBD n't/RB affect/VB 
+[ the/DT nuclear/JJ portion/NN ]
+of/IN 
+[ the/DT complex/NN ]
+,/, 
+[ a/DT company/NN spokesman/NN ]
+said/VBD ./. 
+
+[ Firemen/NNS ]
+contained/VBD 
+[ the/DT blaze/NN ]
+in/IN about/IN 
+[ an/DT hour/NN ]
+and/CC 
+[ no/DT one/NN ]
+was/VBD injured/VBN ,/, 
+[ the/DT company/NN ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP not/RB talking/VBG about/IN 
+[ a/DT nuclear/JJ incident/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT spokesman/NN ]
+declined/VBD to/TO comment/VB on/IN whether/IN 
+[ the/DT company/NN 's/POS earnings/NNS ]
+would/MD be/VB affected/VBN ,/, saying/VBG that/IN 
+[ a/DT damage/NN assessment/NN ]
+had/VBD n't/RB yet/RB been/VBN made/VBN ./. 
+
+[ The/DT plant/NN ]
+,/, 
+[ which/WDT ]
+contributes/VBZ about/IN 
+[ 9/CD %/NN ]
+of/IN 
+[ the/DT utility/NN 's/POS generating/NN capacity/NN ]
+,/, had/VBD been/VBN scheduled/VBN to/TO be/VB taken/VBN off/RB 
+[ line/NN next/JJ week/NN ]
+for/IN 
+[ regular/JJ ]
+refueling/NN ./. 
+
+[ No/DT delay/NN ]
+is/VBZ expected/VBN in/IN 
+[ that/DT schedule/NN ]
+and/CC 
+[ the/DT company/NN ]
+hopes/VBZ to/TO 
+[ complete/VB repairs/NNS ]
+in/IN 
+[ the/DT eight/CD ]
+to/TO 
+[ 10/CD weeks/NNS ]
+that/IN refueling/NN normally/RB takes/VBZ ,/, 
+[ the/DT spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+,/, 
+[ Carolina/NNP Power/NNP ]
+closed/VBD yesterday/NN at/IN 
+[ $/$ 43.625/CD ]
+
+[ a/DT share/NN ]
+,/, down/RB 
+[ 37.5/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 

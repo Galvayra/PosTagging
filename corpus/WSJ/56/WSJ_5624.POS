@@ -1,0 +1,593 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+introduced/VBD 
+[ an/DT array/NN ]
+of/IN 
+[ products/NNS ]
+aimed/VBN at/IN helping/VBG 
+[ corporate/JJ customers/NNS ]
+write/VB 
+[ software/NN ]
+faster/RBR ./. 
+
+======================================
+
+[ Customers/NNS ]
+and/CC 
+[ consultants/NNS ]
+generally/RB welcomed/VBD 
+[ the/DT announcement/NN ]
+,/, because/IN 
+[ the/DT difficulties/NNS ]
+faced/VBN by/IN 
+[ mainframe/NN programmers/NNS ]
+have/VBP left/VBN 
+[ most/JJS data-processing/NN departments/NNS ]
+with/IN 
+[ a/DT two-year/JJ ]
+to/TO 
+[ three-year/JJ backlog/NN ]
+of/IN 
+[ software/NN work/NN ]
+./. 
+
+======================================
+
+Down/IN 
+[ the/DT road/NN ]
+,/, 
+[ the/DT announcement/NN ]
+is/VBZ likely/JJ to/TO energize/VB 
+[ the/DT market/NN ]
+for/IN 
+[ computer-aided-software-engineering/NN ]
+ (/( 
+[ CASE/NNP ]
+ )/) 
+[ tools/NNS ]
+./. 
+
+Moreover/RB ,/, if/IN 
+[ companies/NNS ]
+really/RB do/VBP produce/VB 
+[ additional/JJ software/NN ]
+,/, 
+[ that/WDT ]
+will/MD create/VB demand/VB for/IN 
+[ additional/JJ hardware/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ CASE/NNP ]
+has/VBZ been/VBN very/RB slow/JJ to/TO take/VB off/RP ,/, because/IN 
+[ there/EX ]
+were/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ products/NNS ]
+,/, but/CC 
+[ nobody/NN ]
+was/VBD big/JJ enough/RB to/TO set/VB 
+[ a/DT standard/NN ]
+,/, ''/'' said/VBD 
+[ Esther/NNP Dyson/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ Release/NN 1.0/CD ]
+,/, 
+[ an/DT industry/NN newsletter/NN ]
+./. 
+
+``/`` 
+[ IBM/NNP 's/POS blessing/NN ]
+means/VBZ 
+[ a/DT lot/NN ]
+./. 
+
+''/'' 
+======================================
+
+Still/RB ,/, even/RB 
+[ IBM/NNP ]
+acknowledged/VBD that/IN 
+[ the/DT products/NNS ]
+are/VBP n't/RB 
+[ a/DT quick/JJ fix/NN ]
+./. 
+
+[ George/NNP Conrades/NNP ]
+,/, 
+[ the/DT executive/NN ]
+in/IN 
+[ charge/NN ]
+of/IN 
+[ the/DT Armonk/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ computer/NN giant/NN 's/POS U.S./NNP ]
+marketing/NN 
+[ operations/NNS ]
+,/, said/VBD 
+[ most/JJS customers/NNS ]
+
+[ he/PRP ]
+'s/VBZ talked/VBN to/TO think/VBP 
+[ it/PRP ]
+will/MD take/VB 
+[ three/CD ]
+to/TO 
+[ five/CD years/NNS ]
+for/IN 
+[ them/PRP ]
+to/TO implement/VB and/CC fully/RB benefit/VB from/IN 
+[ the/DT IBM/NNP strategy/NN ]
+./. 
+
+======================================
+
+[ Some/DT customers/NNS ]
+also/RB said/VBD 
+[ they/PRP ]
+thought/VBD 
+[ IBM/NNP 's/POS announcement/NN ]
+left/VBD 
+[ many/JJ holes/NNS ]
+that/IN 
+[ it/PRP ]
+will/MD have/VB to/TO fill/VB in/RB to/TO make/VB 
+[ the/DT effort/NN ]
+really/RB useful/JJ ./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP 
+[ a/DT supporter/NN ]
+of/IN 
+[ the/DT efforts/NNS ]
+,/, and/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT good/JJ first/JJ step/NN ]
+,/, but/CC 
+[ I/PRP ]
+need/VBP 
+[ more/JJR ]
+,/, ''/'' said/VBD 
+[ George/NNP DiNardo/NNP ]
+,/, 
+[ an/DT executive/NN vice/NN president/NN ]
+at/IN 
+[ Mellon/NNP Bank/NNP ]
+in/IN 
+[ Pittsburgh/NNP ]
+./. 
+
+======================================
+
+[ The/DT crux/NN ]
+of/IN 
+[ the/DT announcement/NN ]
+is/VBZ 
+[ the/DT Repository/NNP ]
+,/, 
+[ a/DT database/NN ]
+
+[ that/WDT ]
+will/MD become/VB 
+[ available/JJ next/JJ June/NNP ]
+./. 
+
+[ The/DT Repository/NNP ]
+will/MD hold/VB 
+[ information/NN ]
+that/IN 
+[ all/DT ]
+of/IN 
+[ an/DT organization/NN 's/POS programmers/NNS ]
+will/MD draw/VB on/IN and/CC 
+[ that/DT ]
+will/MD discipline/VB 
+[ the/DT writing/NN ]
+of/IN 
+[ software/NN ]
+./. 
+
+[ The/DT information/NN ]
+will/MD include/VB 
+[ such/JJ things/NNS ]
+as/IN 
+[ who/WP ]
+gets/VBZ 
+[ access/NN ]
+to/TO 
+[ certain/JJ types/NNS ]
+of/IN 
+[ data/NNS ]
+and/CC how/WRB 
+[ numbers/NNS ]
+should/MD be/VB presented/VBN on/IN 
+[ a/DT screen/NN ]
+./. 
+
+[ The/DT Repository/NNP ]
+also/RB will/MD store/VB 
+[ data/NNS ]
+on/IN 
+[ what/WDT software/NN ]
+
+[ a/DT company/NN ]
+has/VBZ written/VBN ,/, so/IN 
+[ someone/NN ]
+on/IN 
+[ the/DT East/NNP Coast/NNP ]
+does/VBZ n't/RB waste/VB 
+[ time/NN ]
+writing/VBG 
+[ some/DT code/NN ]
+that/IN 
+[ a/DT West/NNP Coast/NNP programmer/NN ]
+has/VBZ already/RB written/VBN ./. 
+
+======================================
+
+[ Richard/NNP Carpenter/NNP ]
+,/, 
+[ chief/JJ executive/NN officer/NN ]
+of/IN 
+[ Index/NNP Technology/NNP Corp./NNP ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT early/JJ players/NNS ]
+in/IN 
+[ the/DT CASE/NNP industry/NN ]
+,/, said/VBD 
+[ the/DT Repository/NNP ]
+will/MD reduce/VB 
+[ the/DT fragmentation/NN ]
+in/IN 
+[ the/DT CASE/NNP field/NN ]
+./. 
+
+[ Mr./NNP Carpenter/NNP ]
+,/, 
+[ whose/WP$ company/NN ]
+has/VBZ 
+[ a/DT marketing/NN ]
+and/CC 
+[ development/NN relationship/NN ]
+with/IN 
+[ IBM/NNP ]
+,/, said/VBD that/IN 
+[ CASE/NNP developers/NNS ]
+will/MD find/VB that/IN 
+[ their/PRP$ products/NNS ]
+can/MD work/VB with/IN 
+[ those/DT ]
+of/IN 
+[ other/JJ companies/NNS ]
+if/IN 
+[ all/DT ]
+of/IN 
+[ them/PRP ]
+just/RB make/VBP 
+[ products/NNS ]
+
+[ that/WDT ]
+mesh/VBP with/IN 
+[ the/DT Repository/NNP ]
+./. 
+
+[ He/PRP ]
+likened/VBD 
+[ the/DT situation/NN ]
+to/TO 
+[ that/DT ]
+of/IN 
+[ Federal/NNP Express/NNP ]
+,/, 
+[ which/WDT ]
+found/VBD 
+[ it/PRP ]
+far/RB more/RBR efficient/JJ to/TO route/VB 
+[ overnight/JJ packages/NNS ]
+through/IN 
+[ Memphis/NNP ]
+,/, 
+[ Tenn./NNP ]
+,/, rather/RB than/IN to/TO arrange/VB 
+[ flights/NNS ]
+from/IN 
+[ each/DT city/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+to/TO 
+[ every/DT other/JJ city/NN ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+also/RB announced/VBD 
+[ several/JJ products/NNS ]
+
+[ that/WDT ]
+address/VBP 
+[ the/DT various/JJ other/JJ parts/NNS ]
+of/IN 
+[ the/DT software-development/NN process/NN ]
+./. 
+
+[ DevelopMate/NNP ]
+,/, 
+[ which/WDT ]
+lets/VBZ 
+[ companies/NNS ]
+produce/VB 
+[ prototypes/NNS ]
+of/IN 
+[ the/DT software/NN ]
+
+[ they/PRP ]
+'re/VBP designing/VBG ,/, will/MD be/VB available/JJ in/IN 
+[ December/NNP 1990/CD ]
+./. 
+
+[ A/DT new/JJ version/NN ]
+of/IN 
+[ IBM/NNP 's/POS Cross/NNP System/NNP Product/NNP ]
+,/, 
+[ which/WDT ]
+generates/VBZ 
+[ software/NN code/NN ]
+,/, will/MD be/VB available/JJ in/IN 
+[ November/NNP 1990/CD ]
+./. 
+
+[ The/DT Software/NNP Analysis/NNP Test/NNP Tool/NNP ]
+,/, 
+[ which/WDT ]
+helps/VBZ manage/VB 
+[ the/DT testing/NN process/NN ]
+,/, will/MD be/VB available/JJ in/IN 
+[ March/NNP ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+also/RB announced/VBD that/IN 
+[ three/CD companies/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+recently/RB invested/VBD --/: 
+[ Index/NNP ]
+,/, 
+[ Bachman/NNP Information/NNP Systems/NNPS Inc./NNP ]
+and/CC 
+[ KnowledgeWare/NNP Inc./NNP ]
+--/: would/MD make/VB 
+[ their/PRP$ existing/VBG products/NNS ]
+mesh/VB with/IN 
+[ the/DT Repository/NN ]
+and/CC 
+[ the/DT other/JJ tools/NNS ]
+,/, 
+[ which/WDT ]
+
+[ IBM/NNP ]
+is/VBZ collectively/RB calling/VBG 
+[ AD\/NNP ]
+./. 
+
+[ The/DT companies/NNS '/POS products/NNS ]
+,/, among/IN 
+[ the/DT more/RBR successful/JJ ones/NNS ]
+on/IN 
+[ the/DT market/NN ]
+,/, mainly/RB help/VBP in/IN 
+[ the/DT early/JJ stages/NNS ]
+of/IN 
+[ software/NN development/NN ]
+,/, such/JJ as/IN modeling/NN ,/, planning/NN ,/, 
+[ analysis/NN ]
+and/CC 
+[ design/NN ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD work/VB with/IN 
+[ several/JJ systems/NNS integrators/NNS ]
+,/, 
+[ which/WDT customers/NNS ]
+could/MD hire/VB to/TO come/VB in/RB and/CC do/VB 
+[ the/DT application/NN development/NN work/NN ]
+for/IN 
+[ them/PRP ]
+./. 
+
+[ IBM/NNP ]
+also/RB established/VBD 
+[ a/DT consulting/NN practice/NN ]
+
+[ that/WDT ]
+will/MD offer/VB 
+[ a/DT similar/JJ service/NN ]
+./. 
+
+======================================
+
+[ Earl/NNP Wheeler/NNP ]
+,/, 
+[ the/DT IBM/NNP vice/NN president/NN ]
+responsible/JJ for/IN 
+[ AD\/NNP ]
+,/, lamented/VBD 
+[ the/DT fact/NN ]
+that/IN 
+[ most/JJS programming/NN ]
+is/VBZ still/RB done/VBN 
+[ using/VBG languages/NNS ]
+
+[ that/WDT ]
+were/VBD around/RP when/WRB 
+[ he/PRP ]
+entered/VBD 
+[ the/DT business/NN 31/CD years/NNS ]
+ago/RB ./. 
+
+``/`` 
+[ Most/JJS programmers/NNS ]
+
+[ who/WP ]
+would/MD n't/RB dream/VB of/IN using/VBG 
+[ a/DT machine/NN ]
+
+[ that/WDT ]
+is/VBZ 
+[ 10/CD years/NNS ]
+old/JJ are/VBP still/RB using/VBG 
+[ programs/NNS ]
+
+[ that/WDT ]
+are/VBP much/RB older/JJR ,/, ''/'' 
+[ Mr./NNP Wheeler/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ CASE/NNP researchers/NNS ]
+have/VBP said/VBN that/IN 
+[ most/JJS programmers/NNS ]
+generate/VBP 
+[ an/DT average/NN ]
+of/IN just/RB 
+[ 10/CD lines/NNS ]
+of/IN 
+[ code/NN ]
+
+[ a/DT day/NN ]
+,/, and/CC that/IN 
+[ many/JJ companies/NNS ]
+have/VBP resisted/VBN using/VBG 
+[ CASE/NNP tools/NNS ]
+
+[ both/DT ]
+because/IN 
+[ senior/JJ management/NN ]
+is/VBZ n't/RB sure/JJ of/IN 
+[ the/DT benefits/NNS ]
+and/CC because/IN 
+[ programmers/NNS ]
+think/VBP of/IN 
+[ themselves/PRP ]
+more/JJR as/RB 
+[ artists/NNS ]
+than/IN as/IN 
+[ engineers/NNS ]
+./. 
+
+[ That/DT resistance/NN ]
+will/MD be/VB hard/JJ to/TO break/VB down/RB ,/, but/CC 
+[ IBM/NNP 's/POS decision/NN ]
+to/TO bring/VB 
+[ its/PRP$ considerable/JJ weight/NN ]
+to/TO bear/VB on/IN 
+[ the/DT problem/NN ]
+should/MD greatly/RB accelerate/VB 
+[ the/DT process/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Conrades/NNP ]
+,/, 
+[ the/DT IBM/NNP marketing/NN executive/NN ]
+,/, said/VBD 
+[ that/DT better/JJR use/NN ]
+of/IN 
+[ CASE/NNP tools/NNS ]
+will/MD hardly/RB mean/VB that/IN 
+[ the/DT application/NN backlog/NN ]
+will/MD disappear/VB ,/, because/IN 
+[ there/EX ]
+are/VBP plenty/NN of/IN 
+[ other/JJ things/NNS ]
+that/IN 
+[ corporations/NNS ]
+would/MD attempt/VB if/IN 
+[ they/PRP ]
+cleared/VBD 
+[ their/PRP$ plates/NNS ]
+of/IN 
+[ what/WP ]
+'s/VBZ on/IN 
+[ them/PRP ]
+now/RB ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT glass/NN ]
+
+[ that/WDT ]
+never/RB drains/VBZ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+And/CC if/IN 
+[ customers/NNS ]
+solve/VBP 
+[ their/PRP$ development/NN problems/NNS ]
+,/, 
+[ he/PRP ]
+added/VBD ,/, ``/`` 
+[ we/PRP ]
+'ll/MD sell/VB 
+[ a/DT ton/NN ]
+of/IN 
+[ hardware/NN ]
+and/CC 
+[ software/NN ]
+and/CC 
+[ additional/JJ services/NNS ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ]
+,/, 
+[ IBM/NNP shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 116/CD ]
+,/, down/RB 
+[ 12.5/CD cents/NNS ]
+./. 

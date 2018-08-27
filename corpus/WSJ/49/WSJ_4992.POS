@@ -1,0 +1,61 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Eli/NNP Lilly/NNP ]
+&/CC 
+[ Co./NNP ]
+said/VBD that/IN on/IN 
+[ Nov./NNP 6/CD it/PRP ]
+will/MD redeem/VB 
+[ all/DT $/$ 40.7/CD million/CD ]
+of/IN 
+[ its/PRP$ 6/CD 3\/4/CD %/NN convertible/JJ notes/NNS due/JJ 1996/CD ]
+./. 
+
+======================================
+
+[ The/DT pharmaceuticals/NNS concern/NN ]
+said/VBD 
+[ the/DT notes/NNS ]
+will/MD be/VB redeemed/VBN at/IN 
+[ a/DT price/NN ]
+of/IN 
+[ 104.725/CD ]
+plus/CC accrued/JJ but/CC 
+[ unpaid/JJ interest/NN ]
+to/TO 
+[ the/DT redemption/NN date/NN ]
+./. 
+
+[ The/DT notes/NNS ]
+are/VBP convertible/JJ at/IN 
+[ the/DT holder/NN 's/POS option/NN ]
+into/IN Lilly/NNP 
+[ common/JJ stock/NN ]
+at/IN 
+[ a/DT price/NN ]
+of/IN 
+[ $/$ 33.155/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+Lilly/NNP has/VBZ 
+[ 277.6/CD million/CD common/JJ shares/NNS ]
+outstanding/JJ ./. 

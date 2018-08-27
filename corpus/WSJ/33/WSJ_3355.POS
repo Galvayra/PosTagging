@@ -1,0 +1,401 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT number/NN ]
+of/IN 
+[ major/JJ consumer/NN magazines/NNS ]
+plan/VBP 
+[ advertising/NN rate/NN ]
+increases/NNS for/IN 
+[ 1990/CD ]
+
+[ that/WDT ]
+are/VBP among/IN 
+[ the/DT heftiest/JJS ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+======================================
+
+[ The/DT increases/NNS ]
+,/, ranging/VBG between/IN 
+[ 7/CD %/NN ]
+and/CC 
+[ 9/CD %/NN ]
+,/, are/VBP likely/JJ to/TO spur/VB 
+[ another/DT round/NN ]
+of/IN 
+[ acrimonious/JJ rate/NN negotiations/NNS ]
+between/IN 
+[ magazine/NN publishers/NNS ]
+and/CC 
+[ agencies/NNS ]
+and/CC 
+[ clients/NNS ]
+./. 
+
+[ Magazine/NN publishers/NNS ]
+traditionally/RB choose/VBP 
+[ the/DT fall/NN ]
+to/TO set/VB advertising/NN 
+[ rates/NNS ]
+for/IN 
+[ the/DT coming/VBG year/NN ]
+,/, coinciding/VBG with/IN 
+[ media-spending/JJ decisions/NNS ]
+by/IN 
+[ marketers/NNS ]
+and/CC 
+[ their/PRP$ advertising/NN agencies/NNS ]
+./. 
+
+======================================
+
+[ The/DT publishers/NNS ]
+,/, faced/VBN with/IN 
+[ higher/JJR prices/NNS ]
+for/IN 
+[ paper/NN ]
+and/CC 
+[ other/JJ cost/NN ]
+increases/NNS ,/, are/VBP looking/VBG to/TO 
+[ advertisers/NNS ]
+to/TO pick/VB up/RB at/IN 
+[ least/JJS part/NN ]
+of/IN 
+[ the/DT tab/NN ]
+./. 
+
+[ News/NNP Corp./NNP 's/POS TV/NNP Guide/NNP ]
+will/MD raise/VB 
+[ its/PRP$ rates/NNS ]
+by/IN 
+[ 7.9/CD %/NN ]
+,/, while/IN keeping/VBG 
+[ its/PRP$ circulation/NN rate/NN base/NN ]
+at/IN 
+[ 15.8/CD million/CD ]
+;/: 
+[ a/DT color/NN page/NN ]
+in/IN 
+[ the/DT magazine/NN ]
+will/MD be/VB 
+[ $/$ 112,900/CD ]
+./. 
+
+Following/VBG 
+[ a/DT third-quarter/JJ rate/NN increase/NN ]
+of/IN 
+[ 3.5/CD %/NN ]
+,/, 
+[ Time/NN Warner/NNP Inc./NNP 's/POS Sports/NNP Illustrated/NNP rates/NNS ]
+will/MD jump/VB 
+[ 7.5/CD %/NN ]
+,/, making/VBG 
+[ a/DT color/NN page/NN $/$ 113,220/CD ]
+./. 
+
+[ Time/NN Warner/NNP 's/POS People/NNP ]
+will/MD increase/VB 
+[ its/PRP$ rates/NNS ]
+by/IN 
+[ 7/CD %/NN ]
+,/, with/IN 
+[ a/DT color/NN page/NN ]
+going/VBG for/IN 
+[ $/$ 83,460/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ Time/NNP ]
+and/CC 
+[ others/NNS ]
+are/VBP saying/VBG 
+[ our/PRP$ cost/NN ]
+of/IN 
+[ doing/VBG business/NN ]
+has/VBZ gone/VBN up/RB and/CC 
+[ we/PRP ]
+sympathize/VBP with/IN 
+[ those/DT pressures/NNS ]
+,/, ''/'' said/VBD 
+[ Paul/NNP DuCharme/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ print/NN media/NNS ]
+at/IN 
+[ Grey/NNP Advertising/NNP ]
+./. 
+
+``/`` 
+[ The/DT problem/NN ]
+is/VBZ 
+[ we/PRP ]
+are/VBP never/RB really/RB sure/JJ where/WRB 
+[ the/DT revenues/NNS ]
+lie/VBP in/IN 
+[ a/DT magazine/NN ]
+,/, and/CC 
+[ what/WDT margins/NNS they/PRP ]
+are/VBP operating/VBG under/IN ./. 
+
+''/'' 
+======================================
+
+[ Several/JJ agency/NN media/NNS directors/NNS ]
+said/VBD 
+[ they/PRP ]
+are/VBP not/RB surprised/VBN by/IN 
+[ the/DT large/JJ rate/NN ]
+increases/NNS because/IN 
+[ rates/NNS ]
+have/VBP been/VBN on/IN 
+[ a/DT steady/JJ rise/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+According/VBG to/TO 
+[ Standard/NNP Rate/NNP ]
+&/CC 
+[ Data/NNP Service/NNP ]
+,/, leading/VBG 
+[ consumer/NN magazines/NNS ]
+with/IN 
+[ circulation/NN ]
+of/IN 
+[ one/CD million/CD ]
+or/CC more/JJR increased/VBD 
+[ rates/NNS ]
+
+[ an/DT average/NN ]
+of/IN 
+[ 7/CD %/NN ]
+in/IN 
+[ 1989/CD ]
+./. 
+
+[ The/DT average/JJ increase/NN ]
+in/IN 
+[ ad/NN rates/NNS ]
+was/VBD only/RB 
+[ 5/CD %/NN ]
+in/IN 
+[ 1988/CD ]
+and/CC just/RB 
+[ 2/CD %/NN ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+By/IN 
+[ comparison/NN ]
+,/, 
+[ average/JJ increases/NNS ]
+in/IN 
+[ ad/NN rates/NNS ]
+for/IN 
+[ newspapers/NNS ]
+and/CC 
+[ trade/NN magazines/NNS ]
+have/VBP remained/VBN 
+[ constant/RB ]
+at/IN about/IN 
+[ 7/CD %/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+======================================
+
+[ Nancy/NNP Smith/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ media/NNS services/NNS ]
+for/IN 
+[ Young/NNP ]
+&/CC 
+[ Rubicam/NNP ]
+,/, said/VBD 
+[ the/DT rate/NN increases/NNS ]
+reflect/VBP 
+[ real/JJ cost/NN increases/NNS ]
+for/IN 
+[ publishers/NNS ]
+in/IN 
+[ most/JJS cases/NNS ]
+./. 
+
+``/`` 
+[ Some/DT magazines/NNS ]
+are/VBP taking/VBG 
+[ advantage/NN ]
+of/IN 
+[ the/DT situation/NN ]
+,/, building/VBG in/RP artificially/RB 
+[ high/JJ rates/NNS ]
+,/, but/CC 
+[ you/PRP ]
+do/VBP n't/RB know/VB 
+[ which/WDT ones/NNS ]
+,/, ''/'' said/VBD 
+[ Ms./NNP Smith/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP to/TO understand/VB 
+[ the/DT costs/NNS ]
+
+[ a/DT magazine/NN faces/VBZ ]
+,/, so/IN that/IN when/WRB 
+[ we/PRP ]
+go/VBP in/RB to/TO negotiate/VB ,/, 
+[ we/PRP ]
+ask/VBP for/IN 
+[ what/WP ]
+is/VBZ justifiable/JJ ./. 
+
+''/'' 
+======================================
+
+[ Some/DT publishers/NNS ]
+are/VBP also/RB spreading/VBG out/RP 
+[ big/JJ increases/NNS ]
+by/IN raising/VBG 
+[ rates/NNS ]
+semi-annually/RB ,/, rather/RB than/IN once/RB in/IN 
+[ the/DT fall/NN ]
+./. 
+
+``/`` 
+[ Publishers/NNS ]
+are/VBP trying/VBG to/TO soften/VB 
+[ the/DT blow/NN ]
+especially/RB if/IN 
+[ they/PRP ]
+have/VBP 
+[ a/DT large/JJ ]
+increase/NN ,/, ''/'' said/VBD 
+[ Mr./NNP DuCharme/NNP ]
+./. 
+
+``/`` But/CC 
+[ it/PRP ]
+catches/VBZ 
+[ us/PRP ]
+when/WRB 
+[ our/PRP$ media/NNS budgets/NNS ]
+are/VBP frozen/VBN --/: 
+[ they/PRP ]
+have/VBP already/RB been/VBN set/VBN for/IN 
+[ the/DT year/NN ]
+./. 
+
+''/'' 
+======================================
+
+Possibly/RB 
+[ the/DT ]
+most/RBS closely/RB watched/VBN 
+[ ad-rate/NN announcements/NNS ]
+will/MD come/VB from/IN 
+[ the/DT country/NN 's/POS two/CD ]
+leading/VBG 
+[ weekly/JJ news/NN magazines/NNS ]
+,/, 
+[ Time/NNP Warner/NNP 's/POS Time/NNP ]
+and/CC 
+[ Washington/NNP Post/NNP Co./NNP 's/POS Newsweek/NNP ]
+./. 
+
+[ Newsweek/NNP Publisher/NNP Howard/NNP Smith/NNP ]
+said/VBD 
+[ he/PRP ]
+expects/VBZ to/TO announce/VB 
+[ a/DT 5/CD %/NN ]
+to/TO 
+[ 7/CD %/NN increase/NN ]
+
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+[ Time/NNP executives/NNS ]
+said/VBD 
+[ they/PRP ]
+are/VBP not/RB ready/JJ to/TO make/VB 
+[ public/RB their/PRP$ rates/NNS ]
+for/IN 
+[ 1990/CD ]
+,/, but/CC 
+[ sources/NNS ]
+close/RB to/TO 
+[ the/DT magazine/NN ]
+said/VBD 
+[ they/PRP ]
+expect/VBP 
+[ a/DT rate/NN increase/NN ]
+./. 
+
+======================================
+
+[ Last/JJ year/NN ]
+,/, 
+[ Time/NNP magazine/NN ]
+surprised/VBD 
+[ industry/NN observers/NNS ]
+when/WRB 
+[ it/PRP ]
+cut/VBD 
+[ its/PRP$ circulation/NN rate/NN base/NN ]
+by/IN 
+[ 300,000/CD ]
+,/, to/TO 
+[ 4.3/CD million/CD ]
+,/, and/CC for/IN 
+[ the/DT second/JJ year/NN ]
+in/IN 
+[ a/DT row/NN ]
+chose/VBD not/RB to/TO increase/VB 
+[ ad/NN rates/NNS ]
+in/IN 
+[ 1989/CD ]
+./. 
+
+[ The/DT move/NN ]
+eliminated/VBD 
+[ some/DT ]
+of/IN 
+[ the/DT high/JJ cost/NN ]
+of/IN wooing/VBG 
+[ new/JJ subscribers/NNS ]
+,/, but/CC 
+[ the/DT lower/JJR circulation/NN guarantee/NN ]
+means/VBZ 
+[ ad/NN rates/NNS ]
+are/VBP now/RB effectively/RB about/IN 
+[ 6/CD %/NN ]
+higher/JJR per/IN 
+[ paid/VBN reader/NN ]
+./. 

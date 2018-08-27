@@ -1,0 +1,580 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ this/DT century/NN ]
+,/, 
+[ few/JJ international/JJ developments/NNS ]
+have/VBP been/VBN as/RB persistently/RB contentious/JJ and/CC destabilizing/VBG as/IN 
+[ the/DT ]
+``/`` 
+[ refugee/NN problem/NN ]
+./. 
+
+''/'' Around/IN 
+[ the/DT globe/NN ]
+,/, 
+[ population/NN flows/NNS ]
+exacerbate/VBP 
+[ interstate/JJ ]
+and/CC 
+[ regional/JJ tensions/NNS ]
+,/, drain/VBP 
+[ the/DT economies/NNS ]
+of/IN 
+[ host/NN nations/NNS ]
+,/, overextend/VBP 
+[ humanitarian/JJ support/NN mechanisms/NNS ]
+,/, and/CC put/VBP 
+[ a/DT strain/NN ]
+on/IN 
+[ the/DT world/NN 's/POS compassion/NN threshold/NN ]
+./. 
+
+Even/RB as/IN 
+[ the/DT West/NNS Germans/NNS ]
+welcome/VBP 
+[ the/DT 16,000/CD East/NNS Germans/NNS ]
+
+[ who/WP ]
+just/RB escaped/VBD via/IN 
+[ Hungary/NNP ]
+,/, 
+[ the/DT doors/NNS ]
+are/VBP closing/VBG on/IN 
+[ thousands/NNS ]
+of/IN 
+[ Vietnamese/JJ boat/NN people/NNS ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+,/, 
+[ 400,000/CD Indochinese/NNS ]
+have/VBP languished/VBN for/IN 
+[ years/NNS ]
+in/IN 
+[ camps/NNS ]
+in/IN 
+[ Thailand/NNP ]
+,/, and/CC 
+[ hundreds/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ ethnic/JJ Turks/NNS ]
+have/VBP been/VBN expelled/VBN from/IN 
+[ Bulgaria/NNP ]
+./. 
+
+And/CC then/RB 
+[ there/EX ]
+are/VBP 
+[ the/DT millions/NNS ]
+of/IN 
+[ refugees/NNS ]
+long/RB dispersed/VBN in/IN 
+[ Africa/NNP ]
+and/CC 
+[ Latin/NNP America/NNP ]
+./. 
+
+======================================
+
+[ Governments/NNS ]
+and/CC 
+[ international/JJ groups/NNS ]
+can/MD not/RB agree/VB on/IN 
+[ a/DT definition/NN ]
+of/IN ``/`` 
+[ refugee/NN ]
+./. 
+
+''/'' For/IN 
+[ this/DT survey/NN ]
+,/, 
+[ Freedom/NNP House/NNP ]
+defined/VBD 
+[ refugees/NNS ]
+as/IN 
+[ people/NNS ]
+
+[ who/WP ]
+are/VBP forced/VBN to/TO flee/VB or/CC are/VBP expelled/VBN from/IN 
+[ their/PRP$ homelands/NNS ]
+due/JJ to/TO 
+[ war/NN ]
+,/, 
+[ civil/JJ conflict/NN ]
+,/, 
+[ pestilence/NN ]
+,/, 
+[ natural/JJ disaster/NN ]
+or/CC 
+[ persecution/NN ]
+based/VBN on/IN 
+[ ethnicity/NN ]
+,/, 
+[ race/NN ]
+,/, 
+[ tribal/JJ affiliation/NN ]
+,/, 
+[ religion/NN ]
+or/CC 
+[ political/JJ beliefs/NNS ]
+./. 
+
+Unless/IN otherwise/RB noted/VBN ,/, 
+[ the/DT numbers/NNS ]
+are/VBP 
+[ cumulative/JJ totals/NNS ]
+for/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+[ A/DT significant/JJ group/NN ]
+not/RB included/VBN here/RB and/CC not/RB recognized/VBN by/IN 
+[ international/JJ agencies/NNS ]
+is/VBZ 
+[ internal/JJ refugees/NNS ]
+./. 
+
+[ These/DT ]
+are/VBP 
+[ the/DT millions/NNS world-wide/RB ]
+displaced/VBN from/IN 
+[ their/PRP$ homes/NNS ]
+for/IN much/RB 
+[ the/DT same/JJ reasons/NNS ]
+as/IN 
+[ external/JJ refugees/NNS ]
+but/CC 
+[ who/WP ]
+can/MD not/RB or/CC choose/VBP not/RB to/TO leave/VB 
+[ their/PRP$ countries/NNS ]
+./. 
+
+Often/RB brutalized/VBN by/IN 
+[ their/PRP$ own/JJ governments/NNS ]
+and/CC subjected/VBN to/TO 
+[ egregious/JJ human/JJ rights/NNS abuses/NNS ]
+,/, 
+[ they/PRP ]
+usually/RB fall/VBP out/RP of/IN 
+[ the/DT purview/NN ]
+of/IN 
+[ international/JJ relief/NN efforts/NNS ]
+./. 
+
+[ They/PRP ]
+include/VBP 
+[ an/DT estimated/VBN 700,000/CD ]
+to/TO 
+[ 1.5/CD million/CD Ethiopians/NNS ]
+forcibly/RB resettled/VBN inside/IN 
+[ the/DT country/NN ]
+by/IN 
+[ the/DT Mengitsu/NNP regime/NN ]
+or/CC forced/VBD to/TO move/VB because/RB of/IN 
+[ famine/NN ]
+and/CC 
+[ the/DT ]
+up/IN to/TO 
+[ 2/CD million/CD Mozambiquans/NNS ]
+driven/VBN from/IN 
+[ their/PRP$ homes/NNS ]
+by/IN 
+[ civil/JJ war/NN ]
+./. 
+
+[ The/DT 3.6/CD million/CD South/JJ African/JJ blacks/NNS ]
+resettled/VBN in/IN 
+[ tribal/JJ homelands/NNS ]
+fall/VBP into/IN 
+[ this/DT category/NN ]
+as/IN do/VBP 
+[ the/DT 150,000/CD ]
+to/TO 
+[ 500,000/CD Salvadorans/NNS ]
+uprooted/VBN by/IN 
+[ civil/JJ war/NN ]
+./. 
+
+======================================
+
+[ The/DT total/JJ international/JJ refugee/NN population/NN ]
+is/VBZ difficult/JJ to/TO measure/VB for/IN 
+[ several/JJ reasons/NNS ]
+./. 
+
+First/RB ,/, 
+[ the/DT dynamics/NNS ]
+
+[ that/WDT ]
+create/VBP 
+[ refugees/NNS ]
+are/VBP volatile/JJ and/CC often/RB chaotic/JJ ./. 
+
+For/IN 
+[ example/NN ]
+after/IN 
+[ the/DT Burmese/JJ government/NN ]
+launched/VBD 
+[ a/DT reign/NN ]
+of/IN 
+[ terror/NN ]
+in/IN 
+[ the/DT summer/NN ]
+of/IN 
+[ 1988/CD ]
+,/, 
+[ 8,000/CD ]
+to/TO 
+[ 10,000/CD Burmese/NNS ]
+fled/VBD to/TO 
+[ border/NN areas/NNS ]
+and/CC into/IN 
+[ Thailand/NNP ]
+./. 
+
+[ Burma/NNP ]
+claims/VBZ 
+[ 3,115/CD ]
+have/VBP returned/VBN ;/: 
+[ unofficial/JJ estimates/NNS ]
+are/VBP 
+[ half/PDT that/DT ]
+./. 
+
+[ Some/DT 2,500/CD ]
+are/VBP reported/VBN in/IN 
+[ Thai/NNP camps/NNS ]
+,/, while/IN 
+[ unknown/JJ thousands/NNS ]
+have/VBP joined/VBN 
+[ insurgency/NN groups/NNS ]
+along/IN 
+[ the/DT border/NN ]
+./. 
+
+[ A/DT second/JJ difficulty/NN ]
+is/VBZ 
+[ the/DT differences/NNS ]
+in/IN 
+[ the/DT way/NN countries/NNS ]
+classify/VBP and/CC 
+[ process/VBP refugees/NNS ]
+./. 
+
+When/WRB 
+[ East/NNS Germans/NNS ]
+get/VBP 
+[ West/JJ German/JJ citizenship/NN ]
+,/, 
+[ they/PRP ]
+are/VBP no/RB longer/RB considered/VBN 
+[ refugees/NNS ]
+./. 
+
+[ Many/JJ Hungarians/NNS ]
+
+[ who/WP ]
+fled/VBD to/TO 
+[ the/DT West/NNP ]
+after/IN 
+[ the/DT 1956/CD Soviet/JJ invasion/NN ]
+now/RB carry/VBP 
+[ other/JJ citizenship/NN ]
+and/CC so/RB do/VBP not/RB count/VB as/IN 
+[ refugees/NNS ]
+./. 
+
+[ A/DT third/JJ difficulty/NN ]
+is/VBZ that/IN ,/, for/IN 
+[ political/JJ reasons/NNS ]
+,/, 
+[ nations/NNS ]
+often/RB do/VBP not/RB disclose/VB 
+[ the/DT number/NN ]
+of/IN 
+[ refugees/NNS ]
+
+[ who/WP ]
+have/VBP fled/VBN or/CC how/WRB many/JJ from/IN 
+[ other/JJ countries/NNS ]
+reside/VBP within/IN 
+[ their/PRP$ borders/NNS ]
+./. 
+
+======================================
+
+While/IN 
+[ Freedom/NNP House/NNP ]
+has/VBZ found/VBN 
+[ advances/NNS ]
+in/IN 
+[ political/JJ rights/NNS ]
+and/CC 
+[ civil/JJ liberties/NNS ]
+around/IN 
+[ the/DT world/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+,/, 
+[ the/DT millions/NNS ]
+of/IN 
+[ refugees/NNS ]
+remind/VBP 
+[ us/PRP ]
+that/IN 
+[ significant/JJ parts/NNS ]
+of/IN 
+[ the/DT globe/NN ]
+continue/VBP to/TO be/VB marred/VBN by/IN 
+[ strife/NN ]
+,/, 
+[ privation/NN ]
+and/CC 
+[ bigotry/NN ]
+./. 
+
+[ These/DT ]
+displaced/VBN 
+[ men/NNS ]
+,/, 
+[ women/NNS ]
+and/CC 
+[ children/NNS ]
+are/VBP 
+[ carriers/NNS ]
+of/IN 
+[ history/NN ]
+,/, indicating/VBG 
+[ the/DT state/NN ]
+of/IN 
+[ human/JJ relations/NNS ]
+./. 
+
+[ They/PRP ]
+are/VBP living/VBG 
+[ reminders/NNS ]
+that/IN 
+[ the/DT quest/NN ]
+for/IN 
+[ freedom/NN ]
+from/IN 
+[ repression/NN ]
+and/CC 
+[ intolerance/NN ]
+is/VBZ typically/RB told/VBN by/IN 
+[ the/DT ebb/NN ]
+and/CC 
+[ flow/NN ]
+of/IN 
+[ population/NN movements/NNS ]
+./. 
+
+[ The/DT world/NN ]
+can/MD not/RB pretend/VB to/TO be/VB isolated/VBN from/IN 
+[ their/PRP$ suffering/NN ]
+./. 
+
+======================================
+ 
+[ Mr./NNP McColm/NNP ]
+is/VBZ 
+[ executive/JJ director/NN ]
+of/IN 
+[ Freedom/NNP House./NNP first/JJ years/NNS ]
+./. 
+
+[ Many/JJ ]
+have/VBP returned/VBN since/IN 
+[ last/JJ September/NNP 's/POS amnesty./NN prisoners./NNS ]
+relocating/VBG 
+[ people/NNS ]
+to/TO ``/`` 
+[ safe/JJ ]
+''/'' 
+[ villages/NNS ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ hundreds/NNS ]
+of/IN 
+[ thousands/NNS ]
+more/JJR without/IN 
+[ refugee/NN status./NN ]
+and/CC 
+[ the/DT government/NN 's/POS campaign/NN ]
+against/IN 
+[ leftist/JJ insurgents/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ there/EX ]
+are/VBP 
+[ hundreds/NNS ]
+of/IN 
+[ thousands/NNS ]
+without/IN 
+[ refugee/NN status./NN ]
+been/VBN accorded/VBN 
+[ official/JJ refugee/NN status./NN ]
+for/IN 
+[ refugee/NN status/NN ]
+for/IN 
+[ fear/NN ]
+of/IN 
+[ deportation/NN ]
+if/IN turned/VBN 
+[ down./RP ]
+and/CC are/VBP more/RBR or/CC 
+[ less/RBR recent/JJ years/NNS ]
+because/IN of/IN 
+[ government/NN restrictions/NNS ]
+on/IN 
+[ travel/NN ]
+,/, may/MD increase/VB if/IN 
+[ the/DT exit-visa/JJ system/NN ]
+is/VBZ liberalized/VBN ,/, as/IN 
+[ announced./VBN ]
+liberalized/VBN 
+[ its/PRP$ passport/NN laws/NNS last/JJ year/NN ]
+,/, making/VBG leaving/VBG much/RB easier/RBR for/IN 
+[ all/DT ]
+but/CC 
+[ a/DT few/JJ dissidents./NN travelrestrictions/NNS ]
+were/VBD relaxed/VBN ./. 
+
+Of/IN 
+[ those/DT ]
+going/VBG to/TO 
+[ Germany/NNP ]
+,/, 
+[ 140,266are/CD  ethnic/JJ Germans./NNS ]
+to/TO escape/VB 
+[ Romania/NNP 's/POS plan/NN ]
+to/TO resettle/VB 
+[ ethnic/JJ Hungarians/NNS ]
+in/IN ``/`` 
+[ agro-industrial/JJ centers/NNS ]
+./. 
+
+''/'' 
+[ All/DT ]
+in/IN 
+[ Germany/NNP ]
+are/VBP 
+[ ethnic/JJ Germans/NNS ]
+./. 
+
+[ Italy/NNP ]
+are/VBP awaiting/VBG 
+[ U.S./NNP hearings/NNS ]
+or/CC 
+[ appeals./NNS nationalist/JJ insurgents./NNS ]
+between/IN 
+[ the/DT government/NN ]
+and/CC 
+[ local/JJ insurgents./NNS unofficial/JJ refugees/NNS ]
+in/IN 
+[ Turkey./NNP ]
+to/TO 
+[ Turkey/NNP ]
+and/CC 
+[ Iran/NNP ]
+after/IN 
+[ Iraqi/JJ chemical/NN attacks./NN ]
+and/CC 
+[ subsequent/JJ Arab-Israeli/JJ ]
+and/CC 
+[ inter-Arab/JJ conflicts./NN majority/NN Buddhist/JJ Sinhalese./JJ  factions/NNS ]
+of/IN 
+[ the/DT Yemeni/NNP Socialist/NNP Party./NNP takeover/NN ]
+./. 
+
+[ The/DT latest/JJS wave/NN ]
+fled/VBD in/IN 
+[ 1988/CD ]
+after/IN 
+[ a/DT bloody/JJ government/NN crckdown./NN separatists/NNS ]
+and/CC 
+[ the/DT goverment./NN rule./NN ]
+and/CC 
+[ the/DT Philippines/NNP ]
+are/VBP awaiting/VBG 
+[ permanent/JJ asylum/NN ]
+elsewhere/RB ./. 
+
+======================================
+ 
+[ \*/SYM Numbers/NNS ]
+are/VBP in/IN 
+[ dispute/NN ]
+./. 
+
+======================================
+ 
+[ \*/SYM ]
+ 
+[ 1988/CD only/JJ ]
+;/: not/RB cumulative/JJ ./. 
+
+======================================
+
+[ Sources/NNS ]
+:/: 
+[ United/NNP Nations/NNP High/NNP Commisioner/NNP ]
+for/IN 
+[ Refugees/NNP ]
+,/, 
+[ the/DT U.S./NNP Commission/NNP ]
+on/IN 
+[ Refugees/NNP '/POS World/NNP Refugee/NNP Survey/NNP ]
+,/, 
+[ the/DT U.S./NNP State/NNP Department/NNP World/NNP Refugee/NNP Report/NNP ]
+ (/( 
+[ 1987/CD ]
+ )/) and/CC 
+[ Summaryof/NNP Refugee/NNP Admissions/NNP ]
+for/IN 
+[ 1988/CD ]
+,/, 
+[ the/DT Interior/NNP Ministry/NNP ]
+of/IN 
+[ Austria/NNP ]
+,/, 
+[ the/DT West/NNP German/NNP Information/NNP Center/NNP ]
+,/, and/CC 
+[ the/DT CanadianImmigration/NNP ]
+and/CC 
+[ Refugee/NNP Documentation/NNP Center/NNP ]
+./. 
+
+======================================
+
+Compiled/VBN by/IN 
+[ Freedom/NNP House/NNP ]
+,/, with/IN 
+[ the/DT assistance/NN ]
+of/IN 
+[ John/NNP Worth/NNP ]
+./. 

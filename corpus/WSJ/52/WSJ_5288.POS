@@ -1,0 +1,789 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Al/NNP Neuharth/NNP ]
+has/VBZ written/VBN 
+[ a/DT book/NN ]
+./. 
+
+[ His/PRP$ picture/NN ]
+is/VBZ on/IN 
+[ the/DT cover/NN ]
+./. 
+
+[ His/PRP$ picture/NN ]
+is/VBZ on/IN 
+[ the/DT back/NN ]
+./. 
+
+[ His/PRP$ picture/NN ]
+is/VBZ on/IN 
+[ the/DT front/NN ]
+,/, 
+[ the/DT part/NN ]
+
+[ that/WDT ]
+shows/VBZ when/WRB 
+[ it/PRP ]
+'s/VBZ on/IN 
+[ the/DT bookshelf/NN ]
+./. 
+
+[ The/DT book/NN ]
+,/, 
+[ an/DT autobiography/NN ]
+,/, surely/RB sets/VBZ 
+[ a/DT record/NN ]
+for/IN 
+[ use/NN ]
+of/IN 
+[ the/DT word/NN ]
+
+[ I/PRP ]
+./. 
+
+======================================
+
+[ The/DT book/NN ]
+is/VBZ full/JJ of/IN 
+[ lists/NNS ]
+ (/( 
+[ ``/`` World's/NNS  most/RBS overrated/VBN hotels/NNS ]
+;/: ''/'' ``/`` 
+[ Top/NNP Ten/NNP Heads/NNPS ]
+of/IN 
+[ State/NNP ]
+./. 
+
+''/'' Really/RB ./. 
+
+ )/) and/CC 
+[ bumper-sticker/NN philosophy/NN ]
+ (/( 
+[ ``/`` Keep/VB bean/NN counters/NNS ]
+on/IN 
+[ tap/NN ]
+,/, never/RB on/IN 
+[ top/NN ]
+''/'' )/) ./. 
+
+In/IN 
+[ the/DT book/NN ]
+,/, 
+[ Mr./NNP Neuharth/NNP gossips/VBZ ]
+,/, 
+[ feuds/VBZ ]
+,/, 
+[ carps/VBZ ]
+,/, boasts/VBZ and/CC preaches/VBZ ./. 
+
+======================================
+
+Often/RB ,/, 
+[ the/DT book/NN ]
+is/VBZ insufferable/JJ ./. 
+
+But/CC ,/, then/RB ,/, often/RB 
+[ Al/NNP Neuharth/NNP ]
+is/VBZ insufferable/JJ ./. 
+
+======================================
+
+But/CC 
+[ he/PRP ]
+'s/VBZ brilliant/JJ ./. 
+
+[ He/PRP ]
+took/VBD --/: grabbed/VBD by/IN 
+[ the/DT throat/NN ]
+,/, really/RB --/: 
+[ a/DT little/JJ company/NN ]
+with/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ mediocre/JJ newspapers/NNS ]
+and/CC turned/VBD 
+[ it/PRP ]
+into/IN 
+[ a/DT communications/NNS behemoth/NN ]
+./. 
+
+And/CC then/RB when/WRB 
+[ it/PRP ]
+was/VBD huge/JJ --/: of/IN 
+[ a/DT size/NN ]
+at/IN 
+[ which/WDT ]
+
+[ most/JJS companies/NNS ]
+are/VBP lumbering/JJ or/CC slumbering/VBG --/: 
+[ he/PRP ]
+brought/VBD to/TO 
+[ it/PRP ]
+
+[ a/DT small-company/NN ]
+,/, 
+[ entrepreneurial/JJ attitude/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ how/WRB 
+[ Gannett/NNP Co./NNP ]
+grew/VBD ./. 
+
+[ That/DT ]
+'s/VBZ how/WRB 
+[ USA/NNP TODAY/NNP ]
+was/VBD born/VBN ./. 
+
+======================================
+
+[ There/EX ]
+'s/VBZ 
+[ a/DT lesson/NN ]
+there/RB ,/, for/IN 
+[ America/NNP 's/POS business/NN ]
+and/CC 
+[ America/NNP 's/POS businessmen/NNS ]
+./. 
+
+======================================
+
+[ You/PRP ]
+do/VBP n't/RB have/VB to/TO be/VB outlandish/JJ or/CC 
+[ outrageous/JJ ]
+or/CC 
+[ outspoken/JJ ]
+--/: 
+[ Mr./NNP Neuharth/NNP ]
+is/VBZ 
+[ all/DT three/CD ]
+--/: to/TO be/VB competitive/JJ and/CC 
+[ innovative/JJ ]
+./. 
+
+But/CC 
+[ you/PRP ]
+do/VBP have/VB to/TO have/VB 
+[ vision/NN ]
+and/CC take/VB 
+[ risks/NNS ]
+./. 
+
+[ Mr./NNP Neuharth/NNP ]
+had/VBD 
+[ that/DT vision/NN ]
+and/CC took/VBD 
+[ those/DT risks/NNS ]
+./. 
+
+ (/( That/DT 
+[ 's/VBZ past/JJ tense/NN ]
+./. 
+
+At/IN 
+[ 65/CD ]
+,/, 
+[ he/PRP ]
+has/VBZ retired/VBN as/IN 
+[ chairman/NN ]
+and/CC 
+[ chief/NN executive/NN ]
+of/IN 
+[ Gannett/NNP ]
+./. 
+
+ )/) 
+======================================
+
+[ Gannett/NNP ]
+could/MD have/VB remained/VBN 
+[ a/DT lively/JJ little/JJ company/NN ]
+
+[ that/WDT ]
+eventually/RB would/MD be/VB eaten/VBN up/IN by/IN 
+[ a/DT bigger/JJR media/NNS company/NN ]
+./. 
+
+Or/CC 
+[ it/PRP ]
+could/MD have/VB grown/VBN and/CC becomed/VBN 
+[ sluggish/JJ ]
+and/CC sassy/JJ like/IN 
+[ so/RB many/JJ big/JJ corporations/NNS ]
+./. 
+
+Instead/RB ,/, 
+[ Mr./NNP Neuharth/NNP ]
+turned/VBD to/TO 
+[ what/WP ]
+
+[ he/PRP ]
+calls/VBZ ``/`` 
+[ intrapreneurship/NN ]
+''/'' to/TO stimulate/VB 
+[ his/PRP$ employees/NNS ]
+,/, serve/VB 
+[ his/PRP$ customers/NNS ]
+and/CC enrich/VB 
+[ his/PRP$ stockholders/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Intrapreneurship/NN ]
+''/'' is/VBZ 
+[ the/DT use/NN ]
+of/IN 
+[ internal/JJ talent/NN ]
+,/, 
+[ internal/JJ equipment/NN ]
+and/CC 
+[ internal/JJ money/NN ]
+to/TO create/VB 
+[ a/DT new/JJ product/NN ]
+./. 
+
+``/`` 
+[ Most/RBS large/JJ companies/NNS ]
+have/VBP 
+[ a/DT huge/JJ ]
+and/CC generally/RB 
+[ untapped/JJ pool/NN ]
+of/IN 
+[ underutilized/VBN talent/NN ]
+and/CC 
+[ equipment/NN ]
+
+[ that/WDT ]
+can/MD give/VB 
+[ them/PRP ]
+
+[ a/DT great/JJ financial/JJ advantage/NN ]
+over/IN 
+[ others/NNS ]
+in/IN undertaking/VBG 
+[ major/JJ projects/NNS ]
+or/CC 
+[ new/JJ ventures/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+writes/VBZ ./. 
+
+======================================
+
+[ Mr./NNP Neuharth/NNP ]
+freed/VBD 
+[ the/DT people/NNS ]
+,/, 
+[ the/DT equipment/NN ]
+and/CC 
+[ the/DT money/NN ]
+--/: and/CC kept/VBD 
+[ the/DT bureaucrats/NNS ]
+at/IN 
+[ bay/NN ]
+--/: to/TO develop/VB 
+[ USA/NNP TODAY/NNP ]
+,/, 
+[ an/DT idea/NN ]
+and/CC then/RB 
+[ a/DT product/NN ]
+
+[ that/WDT ]
+was/VBD scoffed/VBN at/IN by/IN 
+[ everyone/NN ]
+but/CC 
+[ the/DT public/NN ]
+./. 
+
+======================================
+
+Can/MD 
+[ you/PRP ]
+think/VB of/IN 
+[ another/DT huge/JJ company/NN ]
+
+[ that/WDT ]
+has/VBZ taken/VBN 
+[ such/PDT a/DT huge/JJ risk/NN ]
+and/CC developed/VBN 
+[ a/DT ]
+totally/RB 
+[ new/JJ product/NN ]
+for/IN 
+[ a/DT ]
+totally/RB 
+[ new/JJ market/NN ]
+?/. 
+
+[ More/RBR interesting/JJ question/NN ]
+:/: Can/MD 
+[ you/PRP ]
+think/VB of/IN 
+[ another/DT huge/JJ company/NN ]
+
+[ that/WDT ]
+would/MD even/RB try/VB ?/. 
+
+======================================
+
+[ Most/RBS successful/JJ innovations/NNS ]
+--/: 
+[ Reeboks/NNPS ]
+or/CC 
+[ Apples/NNPS ]
+--/: are/VBP 
+[ products/NNS ]
+of/IN 
+[ the/DT big/JJ minds/NNS ]
+of/IN 
+[ little/JJ companies/NNS ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ more/JJR enterprise/NN ]
+in/IN 
+[ machine/NN shops/NNS ]
+than/IN in/IN 
+[ research/NN labs/NNS ]
+./. 
+
+[ Most/RBS big/JJ companies/NNS reward/VB ]
+caution/NN and/CC penalize/VBP 
+[ risk/NN ]
+./. 
+
+======================================
+
+[ Part/NN ]
+of/IN 
+[ the/DT problem/NN ]
+,/, 
+[ Al/NNP Neuharth/NNP ]
+suggests/VBZ ,/, is/VBZ that/IN 
+[ the/DT money/NN men/NNS ]
+have/VBP too/RB big/JJ 
+[ a/DT ]
+say/NN in/IN 
+[ too/RB many/JJ companies/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+'re/VBP intelligent/JJ ./. 
+
+[ Well-educated/JJ ]
+./. 
+
+[ Well-intentioned/JJ ]
+./. 
+
+[ Office/NN walls/NNS ]
+displaying/VBG 
+[ MBA/NNP degrees/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+writes/VBZ ./. 
+
+``/`` 
+[ All/DT ]
+of/IN 
+[ them/PRP ]
+know/VBP how/WRB to/TO count/VB 
+[ money/NN ]
+./. 
+
+[ A/DT few/JJ ]
+of/IN 
+[ them/PRP ]
+know/VB how/WRB to/TO manage/VB 
+[ it/PRP ]
+./. 
+
+[ Very/RB few/JJ ]
+know/VB how/WRB to/TO earn/VB 
+[ it/PRP ]
+./. 
+
+[ None/NN ]
+of/IN 
+[ them/PRP ]
+is/VBZ willing/JJ to/TO risk/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+And/CC 
+[ Gannett/NNP 's/POS ]
+were/VBD no/RB different/JJ ./. 
+
+``/`` 
+[ Conservative/JJ ]
+,/, 
+[ up-tight/JJ S.O.B.s/NNS ]
+./. 
+
+[ Narrow-gauged/JJ ]
+and/CC 
+[ no/DT vision/NN ]
+beyond/IN 
+[ the/DT next/JJ quarterly/JJ earnings/NNS ]
+report/NN ./. 
+
+./. 
+
+./. 
+
+./. 
+
+During/IN 
+[ most/JJS ]
+of/IN 
+[ 1980/CD ]
+,/, while/IN 
+[ the.../: task/NN force/NN ]
+was/VBD trying/VBG to/TO figure/VB out/IN how/WRB to/TO launch/VB 
+[ a/DT national/JJ newspaper/NN ]
+,/, 
+[ I/PRP ]
+spent/VBD much/JJ of/IN 
+[ my/PRP$ time/NN ]
+keeping/VBG 
+[ a/DT tight/JJ rein/NN ]
+on/IN 
+[ the/DT bean/NN counters/NNS ]
+
+[ who/WP ]
+were/VBD trying/VBG to/TO bomb/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+As/IN 
+[ a/DT young/JJ man/NN ]
+,/, 
+[ Mr./NNP Neuharth/NNP ]
+tried/VBD to/TO interest/VB 
+[ the/DT men/NNS ]
+
+[ who/WP ]
+owned/VBD 
+[ the/DT Miami/NNP Herald/NNP ]
+in/IN starting/VBG up/IN 
+[ a/DT newspaper/NN ]
+along/IN 
+[ the/DT Space/NNP Coast/NNP ]
+of/IN 
+[ Florida/NNP ]
+./. 
+
+[ The/DT idea/NN ]
+was/VBD rejected/VBN without/IN 
+[ a/DT hearing/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+was/VBD 
+[ my/PRP$ introduction/NN ]
+to/TO 
+[ the/DT reality/NN ]
+that/IN 
+[ most/JJS money/NN men/NNS ]
+and/CC 
+[ big/JJ corporations/NNS ]
+are/VBP n't/RB interested/JJ in/IN 
+[ new/JJ ideas/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ The/DT comfortable/JJ status/FW ]
+
+[ quo/FW ]
+drives/VBZ 
+[ most/JJS corporations/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Indeed/RB ./. 
+
+[ It/PRP ]
+drives/VBZ 
+[ some/DT ]
+into/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ the/DT raiders/NNS ]
+and/CC 
+[ junk-bond/NN purveyors/NNS ]
+and/CC 
+[ leveraged-takeover/NN throngs/NNS ]
+./. 
+
+[ It/PRP ]
+drives/VBZ 
+[ others/NNS ]
+into/IN 
+[ unfavorable/JJ mergers/NNS ]
+./. 
+
+[ It/PRP ]
+drives/VBZ still/RB 
+[ others/NNS ]
+into/IN 
+[ bankruptcy/NN court/NN ]
+./. 
+
+======================================
+
+And/CC ``/`` 
+[ it/PRP ]
+drives/VBZ 
+[ me/PRP ]
+crazy/JJ ,/, ''/'' says/VBZ 
+[ Mr./NNP Neuharth/NNP ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ 
+[ the/DT saving/VBG grace/NN ]
+of/IN 
+[ Al/NNP Neuharth/NNP ]
+./. 
+
+[ He/PRP ]
+'s/VBZ bizarre/JJ ,/, 
+[ which/WDT ]
+
+[ you/PRP ]
+'ll/MD see/VB when/WRB 
+[ you/PRP ]
+read/VBP 
+[ his/PRP$ book/NN ]
+and/CC discover/VBP 
+[ uncensored/JJ chapters/NNS ]
+by/IN 
+[ his/PRP$ two/CD ex-wives/NNS ]
+./. 
+
+ (/( 
+[ ``/`` Al/NNP Neuharth/NNP ]
+is/VBZ 
+[ a/DT snake/NN ]
+,/, ''/'' writes/VBZ 
+[ ex-wife/NN No./NN 2/CD ]
+./. 
+
+``/`` 
+[ He/PRP ]
+'s/VBZ cold-blooded/JJ ./. 
+
+[ He/PRP ]
+'s/VBZ sneaky/JJ and/CC slithers/VBZ around/IN and/CC sheds/VBZ 
+[ his/PRP$ old/JJ skin/NN ]
+as/IN 
+[ he/PRP ]
+grows/VBZ and/CC adapts/VBZ to/TO 
+[ his/PRP$ newest/JJS surroundings/NNS ]
+./. 
+
+''/'' )/) 
+[ He/PRP ]
+'s/VBZ shifty/JJ ./. 
+
+ (/( 
+[ ``/`` When/NNP Neuharth/NNP ]
+wears/VBZ 
+[ a/DT sharkskin/NN suit/NN ]
+,/, 
+[ you/PRP ]
+ca/MD n't/RB tell/VB where/WRB 
+[ the/DT suit/NN ends/NNS ]
+and/CC 
+[ Al/NNP ]
+begins/VBZ ''/'' --/: 
+[ a/DT quote/NN Mr./NNP Neuharth/NNP ]
+cites/VBZ ./. 
+
+ )/) 
+======================================
+
+But/CC 
+[ he/PRP ]
+'s/VBZ also/RB innovative/JJ and/CC 
+[ honest/JJ ]
+./. 
+
+[ He/PRP ]
+owns/VBZ up/IN to/TO 
+[ his/PRP$ mistakes/NNS ]
+and/CC learns/VBZ from/IN 
+[ them/PRP ]
+./. 
+
+Then/RB moves/VBZ on/IN to/TO take/VB 
+[ new/JJ chances/NNS ]
+./. 
+
+[ A/DT legion/NN ]
+of/IN 
+[ Neuharths/NNPS ]
+might/MD be/VB too/RB much/JJ for/IN 
+[ any/DT nation/NN ]
+to/TO endure/VB ./. 
+
+But/CC 
+[ big/JJ business/NN ]
+could/MD use/VB 
+[ a/DT few/JJ more/JJR ]
+of/IN 
+[ his/PRP$ type/NN ]
+./. 
+
+======================================
+
+[ FOOTNOTE/NNP ]
+./. 
+
+[ The/DT book/NN ]
+in/IN 
+[ question/NN ]
+is/VBZ called/VBN ``/`` 
+[ Confessions/NNPS ]
+of/IN 
+[ an/DT S.O.B/NNP ]
+./. 
+
+''/'' 
+[ It/PRP ]
+'s/VBZ published/VBN by/IN 
+[ Doubleday/NNP ]
+,/, has/VBZ 
+[ 372/CD pages/NNS ]
+of/IN 
+[ staccato/NN prose/NN ]
+,/, and/CC sells/VBZ for/IN 
+[ $/$ 18.95/CD ]
+at/IN 
+[ those/DT places/NNS ]
+
+[ that/WDT ]
+still/RB get/VBP 
+[ full/JJ price/NN ]
+for/IN 
+[ books/NNS ]
+./. 
+
+======================================
+
+And/CC 
+[ I/PRP ]
+probably/RB should/MD disclose/VB 
+[ these/DT facts/NNS ]
+:/: 
+[ I/PRP ]
+worked/VBD for/IN 
+[ Gannett/NNP ]
+and/CC for/IN 
+[ Mr./NNP Neuharth/NNP ]
+for/IN 
+[ 2/CD 1\/2/CD years/NNS ]
+./. 
+
+[ I/PRP ]
+was/VBD 
+[ the/DT editor/NN ]
+of/IN 
+[ the/DT Des/NNP Moines/NNP Register/NNP ]
+before/IN 
+[ Gannett/NNP ]
+bought/VBD 
+[ it/PRP ]
+and/CC of/IN 
+[ the/DT Courier-Journal/NNP ]
+in/IN 
+[ Louisville/NNP ]
+after/IN 
+[ Gannett/NNP ]
+bought/VBD 
+[ it/PRP ]
+./. 
+
+[ Mr./NNP Neuharth/NNP ]
+cites/VBZ 
+[ both/DT ]
+
+[ newspapers/NNS ]
+in/IN 
+[ his/PRP$ book/NN ]
+,/, calling/VBG 
+[ them/PRP ]
+
+[ two/CD ]
+of/IN 
+[ the/DT most/RBS overrated/VBN newspapers/NNS ]
+in/IN 
+[ the/DT nation/NN ]
+./. 
+
+For/IN 
+[ the/DT record/NN ]
+,/, 
+[ he/PRP ]
+'s/VBZ full/JJ of/IN 
+[ it/PRP ]
+on/IN 
+[ both/DT ]
+
+[ counts/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Gartner/NNP ]
+is/VBZ 
+[ editor/NN ]
+and/CC 
+[ co-owner/NN ]
+of/IN 
+[ the/DT Daily/NNP Tribune/NNP ]
+in/IN 
+[ Ames/NNP ]
+,/, 
+[ Iowa/NNP ]
+,/, and/CC 
+[ president/NN ]
+of/IN 
+[ NBC/NNP News/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 

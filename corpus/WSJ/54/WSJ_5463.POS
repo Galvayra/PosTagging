@@ -1,0 +1,46 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ames/NNP Department/NNP Stores/NNPS Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+intends/VBZ to/TO make/VB 
+[ a/DT filing/NN ]
+with/IN 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP next/JJ week/NN ]
+covering/VBG 
+[ a/DT proposed/VBN offering/NN ]
+of/IN 
+[ $/$ 100/CD million/CD ]
+of/IN 
+[ convertible/JJ subordinated/VBN debentures/NNS ]
+./. 
+
+======================================
+
+[ The/DT discount/NN department-store/NN chain/NN ]
+said/VBD 
+[ proceeds/NNS ]
+will/MD be/VB applied/VBN to/TO reduce/VB 
+[ its/PRP$ senior/JJ bank/NN debt/NN ]
+stemming/VBG from/IN 
+[ the/DT acquisition/NN ]
+of/IN 
+[ the/DT Zayre/NNP discount/NN store/NN division/NN ]
+in/IN 

@@ -1,0 +1,578 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Stung/VBN by/IN mounting/VBG 
+[ global/JJ competition/NN ]
+,/, 
+[ Renault/NNP ]
+of/IN 
+[ France/NNP ]
+and/CC 
+[ AB/NNP Volvo/NNP ]
+of/IN 
+[ Sweden/NNP ]
+are/VBP exploring/VBG 
+[ a/DT possible/JJ merger/NN ]
+
+[ that/WDT ]
+would/MD create/VB 
+[ the/DT world/NN 's/POS fourth/JJ largest/JJS auto/NN company/NN ]
+and/CC 
+[ the/DT biggest/JJS truck/NN maker/NN ]
+./. 
+
+======================================
+
+[ Volvo/NNP ]
+confirmed/VBD that/IN 
+[ it/PRP ]
+and/CC 
+[ Renault/NNP ]
+are/VBP in/IN ``/`` 
+[ preliminary/JJ ]
+''/'' 
+[ talks/NNS ]
+./. 
+
+[ Government-owned/JJ Renault/NNP ]
+declined/VBD to/TO comment/VB except/IN to/TO say/VB that/IN 
+[ it/PRP ]
+is/VBZ actively/RB seeking/VBG 
+[ partners/NNS ]
+./. 
+
+[ Neither/DT company/NN ]
+would/MD discuss/VB 
+[ details/NNS ]
+nor/CC 
+[ comment/VB ]
+on/IN 
+[ the/DT likely/JJ outcome/NN ]
+of/IN 
+[ the/DT negotiations/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ individuals/NNS ]
+in/IN 
+[ both/DT ]
+
+[ countries/NNS ]
+said/VBD 
+[ the/DT talks/NNS ]
+have/VBP covered/VBN 
+[ a/DT wide/JJ range/NN ]
+of/IN 
+[ options/NNS ]
+,/, including/VBG 
+[ collaboration/NN ]
+in/IN 
+[ both/DT car/NN ]
+and/CC 
+[ truck/NN operations/NNS ]
+and/CC perhaps/RB even/RB 
+[ a/DT full-scale/JJ merger/NN ]
+of/IN 
+[ the/DT two/CD concerns/NNS ]
+eventually/RB ./. 
+
+======================================
+
+[ People/NNS ]
+familiar/JJ with/IN 
+[ the/DT talks/NNS ]
+emphasized/VBD that/IN 
+[ no/DT immediate/JJ agreement/NN ]
+is/VBZ in/IN 
+[ the/DT offing/NN ]
+and/CC that/IN 
+[ some/DT ]
+
+[ very/RB formidable/JJ corporate/JJ ]
+and/CC 
+[ political/JJ hurdles/NNS ]
+would/MD have/VB to/TO be/VB cleared/VBN before/IN 
+[ any/DT alliance/NN ]
+takes/VBZ 
+[ place/NN ]
+./. 
+
+[ One/CD person/NN ]
+said/VBD 
+[ the/DT obstacles/NNS ]
+to/TO 
+[ a/DT major/JJ alliance/NN ]
+may/MD be/VB insurmountable/JJ ./. 
+
+======================================
+
+[ Industry/NN analysts/NNS ]
+also/RB were/VBD skeptical/JJ about/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ two/CD such/JJ disparate/JJ vehicle/NN makers/NNS ]
+./. 
+
+[ Securities/NNS markets/NNS ]
+reacted/VBD coolly/RB to/TO 
+[ Volvo/NNP 's/POS confirmation/NN ]
+of/IN 
+[ the/DT talks/NNS ]
+./. 
+
+After/IN 
+[ the/DT company/NN 's/POS American/JJ depositary/NN receipts/NNS ]
+soared/VBD 
+[ 8.9/CD %/NN ]
+to/TO 
+[ $/$ 81/CD ]
+
+[ a/DT share/NN Tuesday/NNP ]
+in/IN 
+[ national/JJ over-the-counter/JJ ]
+trading/NN in/IN 
+[ response/NN ]
+to/TO 
+[ rumors/NNS ]
+of/IN 
+[ Renault/NNP talks/NNS ]
+,/, 
+[ the/DT issue/NN ]
+fell/VBD back/RB yesterday/NN to/TO close/VB at/IN 
+[ $/$ 78.875/CD ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT fact/NN ]
+that/IN 
+[ Volvo/NNP ]
+and/CC 
+[ Renault/NNP ]
+are/VBP even/RB considering/VBG 
+[ the/DT idea/NN ]
+underscores/VBZ 
+[ the/DT pressure/NN ]
+on/IN 
+[ the/DT European/JJ auto/NN industry/NN ]
+to/TO consolidate/VB as/IN 
+[ the/DT car/NN business/NN ]
+becomes/VBZ increasingly/RB globalized/JJ ./. 
+
+======================================
+
+For/IN 
+[ some/DT time/NN ]
+,/, 
+[ the/DT auto/NN industry/NN ]
+has/VBZ been/VBN considered/VBN ripe/JJ for/IN 
+[ a/DT shakeout/NN ]
+in/IN 
+[ Europe/NNP ]
+./. 
+
+[ The/DT smaller/JJR makers/NNS ]
+of/IN 
+[ luxury/NN cars/NNS ]
+,/, such/JJ as/IN 
+[ Volvo/NNP ]
+,/, are/VBP under/IN 
+[ intense/JJ pressure/NN ]
+because/IN of/IN 
+[ stiffening/JJ competition/NN ]
+in/IN 
+[ the/DT crucial/JJ U.S./NNP market/NN ]
+./. 
+
+And/CC 
+[ high-volume/JJ European/JJ makers/NNS ]
+of/IN 
+[ less-expensive/JJ cars/NNS ]
+,/, such/JJ as/IN 
+[ Renault/NNP ]
+,/, 
+[ face/VBP rising/JJ competition/NN ]
+not/RB only/RB from/IN 
+[ each/DT other/JJ ]
+,/, as/IN 
+[ the/DT European/NNP Community/NNP ]
+moves/VBZ toward/IN 
+[ a/DT single/JJ internal/JJ market/NN ]
+after/IN 
+[ 1992/CD ]
+,/, but/CC also/RB from/IN 
+[ the/DT Japanese/NNPS ]
+./. 
+
+======================================
+
+Already/RB ,/, 
+[ Nissan/NNP Motor/NNP Co./NNP ]
+is/VBZ making/VBG 
+[ cars/NNS ]
+in/IN 
+[ Britain/NNP ]
+,/, and/CC 
+[ Toyota/NNP Motor/NNP Corp./NNP ]
+plans/VBZ to/TO follow/VB ./. 
+
+[ Honda/NNP Motor/NNP Ltd./NNP ]
+
+[ this/DT year/NN ]
+announced/VBD 
+[ plans/NNS ]
+for/IN 
+[ a/DT joint/JJ manufacturing/NN venture/NN ]
+in/IN 
+[ Britain/NNP ]
+with/IN 
+[ Rover/NNP Group/NNP ]
+./. 
+
+[ Mazda/NNP Motor/NNP Corp./NNP ]
+may/MD be/VB next/JJ ./. 
+
+Even/RB 
+[ Chrysler/NNP Corp./NNP ]
+of/IN 
+[ the/DT U.S./NNP ]
+says/VBZ 
+[ it/PRP ]
+hopes/VBZ to/TO export/VB 
+[ more/JJR U.S./NNP products/NNS ]
+to/TO 
+[ Europe/NNP ]
+and/CC 
+[ plans/NNS ]
+to/TO co-produce/VB 
+[ a/DT four-wheel-drive/JJ leisure/NN vehicle/NN ]
+with/IN 
+[ Renault/NNP ]
+./. 
+
+======================================
+
+Reflecting/VBG 
+[ such/JJ pressures/NNS ]
+,/, 
+[ Sweden/NNP 's/POS Saab-Scania/NNP AB/NNP ]
+has/VBZ entered/VBN 
+[ talks/NNS ]
+on/IN 
+[ a/DT linkup/NN ]
+with/IN 
+[ Ford/NNP Motor/NNP Co/NNP ]
+./. 
+
+And/CC 
+[ both/CC Ford/NNP ]
+and/CC 
+[ General/NNP Motors/NNPS Corp./NNP ]
+are/VBP pushing/VBG for/IN 
+[ an/DT alliance/NN ]
+with/IN 
+[ Britain/NNP 's/POS Jaguar/NNP PLC/NNP ]
+./. 
+
+[ More/JJR combinations/NNS ]
+are/VBP likely/JJ to/TO be/VB pursued/VBN ./. 
+
+======================================
+
+In/IN weighing/VBG 
+[ an/DT alliance/NN ]
+,/, 
+[ Volvo/NNP ]
+and/CC 
+[ Renault/NNP ]
+apparently/RB are/VBP hoping/VBG to/TO find/VB 
+[ a/DT way/NN ]
+to/TO make/VB up/RP for/IN 
+[ their/PRP$ individual/JJ weaknesses/NNS ]
+./. 
+
+[ Renault/NNP ]
+lacks/VBZ 
+[ an/DT up-market/JJ label/NN ]
+and/CC 
+[ an/DT international/JJ presence/NN ]
+./. 
+
+[ Volvo/NNP ]
+lacks/VBZ 
+[ a/DT full/JJ line/NN ]
+of/IN 
+[ auto/NN products/NNS ]
+and/CC 
+[ a/DT significant/JJ presence/NN ]
+in/IN 
+[ the/DT EC/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ Renault/NNP ]
+ca/MD n't/RB be/VB 
+[ anyone/NN ]
+
+[ 's/POS partner/NN ]
+of/IN 
+[ choice/NN ]
+,/, ''/'' says/VBZ 
+[ John/NNP Lawson/NNP ]
+,/, 
+[ a/DT London/NNP auto/NN analyst/NN ]
+for/IN 
+[ Nomura/NNP Securities/NNPS Co/NNP ]
+./. 
+
+[ Mr./NNP Lawson/NNP ]
+rates/VBZ 
+[ the/DT chances/NNS ]
+of/IN 
+[ a/DT successful/JJ Volvo-Renault/NNP merger/NN ]
+as/RB low/RB as/IN 
+[ 20/CD %/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+adds/VBZ that/IN ``/`` 
+[ there/EX ]
+are/VBP 
+[ times/NNS ]
+when/WRB 
+[ forward-looking/JJ managements/NNS ]
+do/VBP sit/VB down/RB and/CC think/VBP about/IN 
+[ what/WP ]
+
+[ they/PRP ]
+need/VBP to/TO survive/VB 
+[ long-term/RB ]
+./. 
+
+With/IN 
+[ the/DT industry/NN ]
+on/IN 
+[ the/DT brink/NN ]
+of/IN 
+[ sweeping/JJ change/NN ]
+,/, 
+[ Volvo/NNP ]
+may/MD be/VB feeling/VBG 
+[ vulnerable/JJ ]
+and/CC ready/JJ to/TO seek/VB 
+[ a/DT partner/NN ]
+to/TO share/VB 
+[ product-development/NN costs/NNS ]
+and/CC make/VB 
+[ it/PRP ]
+more/JJR of/IN 
+[ an/DT ]
+
+[ an/DT EC/NNP insider/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT Volvo-Renault/NNP combination/NN ]
+would/MD create/VB 
+[ a/DT full/JJ line/NN ]
+of/IN 
+[ auto/NN products/NNS ]
+under/IN 
+[ one/CD umbrella/NN ]
+with/IN 
+[ total/JJ production/NN ]
+of/IN about/RB 
+[ two/CD million/CD units/NNS ]
+
+[ a/DT year/NN ]
+,/, or/CC about/RB 
+[ 20/CD %/NN ]
+of/IN 
+[ the/DT European/JJ market/NN ]
+,/, 
+[ analysts/NNS ]
+say/VBP ./. 
+
+[ A/DT Volvo-Renault/NNP truck/NN combination/NN ]
+would/MD surpass/VB 
+[ West/NNP Germany/NNP 's/POS Daimler-Benz/NNP AG/NNP ]
+to/TO become/VB 
+[ No./NN 1/CD world-wide/JJ ]
+in/IN 
+[ heavy/JJ truck/NN manufacturing/VBG ]
+,/, with/IN 
+[ annual/JJ output/NN ]
+of/IN nearly/RB 
+[ 115,000/CD units/NNS ]
+./. 
+
+======================================
+
+[ The/DT two/CD companies/NNS ]
+already/RB work/VBP together/RB in/IN 
+[ the/DT car/NN business/NN ]
+./. 
+
+[ Renault/NNP ]
+is/VBZ 
+[ the/DT biggest/JJS supplier/NN ]
+of/IN 
+[ drive/NN trains/NNS ]
+and/CC 
+[ other/JJ major/JJ parts/NNS ]
+used/VBN by/IN 
+[ Volvo/NNP 's/POS small-car/NN manufacturing/VBG affiliate/NN ]
+,/, 
+[ Volvo/NNP Car/NNP BV/NNP ]
+,/, based/VBN in/IN 
+[ the/DT Netherlands/NNPS ]
+./. 
+
+From/IN 
+[ 1981/CD ]
+to/TO 
+[ 1984/CD ]
+,/, 
+[ Renault/NNP ]
+owned/VBD 
+[ a/DT minority/NN stake/NN ]
+in/IN 
+[ Volvo/NNP 's/POS car/NN division/NN ]
+./. 
+
+======================================
+
+[ A/DT Volvo-Renault/NNP union/NN ]
+does/VBZ 
+[ face/NN significant/JJ obstacles/NNS ]
+,/, including/VBG 
+[ possible/JJ political/JJ objections/NNS ]
+by/IN 
+[ Sweden/NNP ]
+,/, 
+[ France/NNP ]
+and/CC 
+[ the/DT EC/NNP ]
+./. 
+
+[ There/EX ]
+is/VBZ also/RB 
+[ the/DT threat/NN ]
+of/IN 
+[ labor/NN unrest/NN ]
+and/CC 
+[ the/DT thorny/JJ question/NN ]
+of/IN how/WRB to/TO protect/VB 
+[ Volvo/NNP 's/POS distinctive/JJ market/NN position/NN ]
+and/CC 
+[ independent/JJ identity/NN ]
+in/IN 
+[ a/DT linkup/NN ]
+with/IN 
+[ a/DT partner/NN ]
+
+[ that/WDT ]
+is/VBZ generally/RB viewed/VBN as/IN 
+[ the/DT weakest/JJS ]
+of/IN 
+[ Europe/NNP 's/POS major/JJ auto/NN concerns/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Sweden/NNP ]
+,/, 
+[ government/NN clearance/NN ]
+could/MD be/VB tricky/JJ ,/, considering/VBG 
+[ Volvo/NNP 's/POS dominant/JJ role/NN ]
+in/IN 
+[ Swedish/JJ industry/NN ]
+and/CC 
+[ the/DT government/NN ]
+'s/POS generally/RB 
+[ restrictive/JJ stance/NN ]
+on/IN 
+[ foreign/JJ takeovers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ France/NNP ]
+,/, 
+[ Renault/NNP 's/POS communist-led/JJ union/NN ]
+,/, 
+[ France/NNP 's/POS Communist/NNP Party/NNP ]
+and/CC 
+[ many/JJ ]
+in/IN 
+[ the/DT ruling/VBG Socialist/NNP Party/NNP ]
+bitterly/RB oppose/VBP 
+[ anything/NN ]
+
+[ that/WDT ]
+would/MD end/VB 
+[ Renault/NNP 's/POS special/JJ status/NN ]
+as/IN 
+[ a/DT government/NN agency/NN ]
+rather/RB than/IN 
+[ company/NN ]
+./. 
+
+Nationalized/VBN after/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, 
+[ Renault/NNP today/NN ]
+is/VBZ seen/VBN by/IN 
+[ the/DT left/NN ]
+as/IN 
+[ a/DT kind/NN ]
+of/IN 
+[ social/JJ laboratory/NN ]
+,/, 
+[ a/DT symbol/NN ]
+of/IN 
+[ state/NN power/NN ]
+./. 
+
+Even/RB 
+[ the/DT sale/NN ]
+of/IN 
+[ the/DT truck/NN division/NN ]
+would/MD be/VB resisted/VBN by/IN 
+[ some/DT ]
+as/IN 
+[ a/DT loss/NN ]
+of/IN 
+[ national/JJ assets/NNS ]
+./. 
+
+======================================
+
+[ Martin/NNP du/NNP Bois/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

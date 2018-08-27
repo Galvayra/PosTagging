@@ -1,0 +1,407 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Interpretation/NN ]
+and/CC 
+[ translation/NN gobble/NN ]
+up/IN 
+[ a/DT huge/JJ hunk/NN ]
+of/IN 
+[ EC/NNP 's/POS central/JJ budget/NN ]
+,/, so/IN 
+[ the/DT Eurocrats/NNS ]
+have/VBP been/VBN trying/VBG to/TO save/VB 
+[ money/NN ]
+by/IN using/VBG 
+[ an/DT automatic/JJ translation/NN system/NN ]
+./. 
+
+[ Systran/NNP ]
+is/VBZ 
+[ its/PRP$ name/NN ]
+./. 
+
+[ Bloopers/NNS ]
+are/VBP 
+[ its/PRP$ game/NN ]
+./. 
+
+======================================
+
+To/TO 
+[ the/DT unconcealed/VBN delight/NN ]
+of/IN 
+[ those/DT whose/WP$ jobs/NNS ]
+
+[ it/PRP ]
+first/RB appeared/VBD to/TO threaten/VB ,/, 
+[ Systran/NNP ]
+,/, acquired/VBN from/IN 
+[ the/DT U.S./NNP Navy/NNP ]
+about/IN 
+[ 10/CD years/NNS ]
+ago/IN ,/, still/RB has/VBZ 
+[ a/DT bit/NN ]
+to/TO learn/VB about/IN 
+[ French-English/NNP translation/NN ]
+./. 
+
+[ A/DT few/JJ howlers/NNS ]
+:/: 
+======================================
+
+--/: 
+[ Commission/NNP President/NNP Jacques/NNP Delors/NNP ]
+asked/VBD in/IN 
+[ French/NNP ]
+whether/IN 
+[ he/PRP ]
+could/MD address/VB 
+[ a/DT certain/JJ committee/NN ]
+./. 
+
+[ Systran/NNP ]
+had/VBD 
+[ him/PRP ]
+asking/VBG whether/IN 
+[ he/PRP ]
+could/MD ``/`` expose/VB 
+[ himself/PRP ]
+to/TO 
+[ the/DT committee/NN ]
+./. 
+
+''/'' 
+======================================
+
+--/: 
+[ Crown/NNP Prince/NNP Jean/NNP ]
+of/IN 
+[ Luxembourg/NNP ]
+,/, invited/VBN to/TO offer/VB 
+[ a/DT royal/JJ page/NN ]
+of/IN 
+[ prose/NN ]
+to/TO 
+[ the/DT computer/NN ]
+,/, used/VBD 
+[ the/DT words/NNS nous/FW avions/FW ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ context/NN ]
+only/RB meant/VBD ``/`` 
+[ we/PRP ]
+had/VBD ./. 
+
+''/'' 
+[ Systran/NNP ]
+made/VBD 
+[ it/PRP ]
+``/`` 
+[ us/PRP airplanes/NNS ]
+./. 
+
+''/'' 
+======================================
+
+--/: In/IN 
+[ one/CD screed/NN ]
+about/IN 
+[ farming/NN ]
+,/, 
+[ the/DT writer/NN ]
+used/VBD 
+[ the/DT phrase/NN ]
+les/FW 
+[ agriculteurs/FW vis/FW ]
+
+[ a/FW vis/FW ]
+de/FW 
+[ la/FW politique/FW agricole/FW commune/FW ]
+,/, 
+[ which/WDT ]
+means/VBZ ``/`` 
+[ farmers/NNS ]
+,/, in/IN 
+[ the/DT light/NN ]
+of/IN 
+[ the/DT common/JJ agricultural/JJ policy/NN ]
+.../: 
+
+./. 
+
+''/'' 
+[ Systran/NNP ]
+,/, 
+[ suffering/VBG ]
+either/CC 
+[ a/DT blown/VBN microprocessor/NN ]
+or/CC 
+[ an/DT uncanny/JJ flash/NN ]
+of/IN 
+[ insight/NN ]
+,/, rendered/VBD 
+[ it/PRP ]
+as/IN ``/`` 
+[ farmers/NNS ]
+live/VBP to/TO screw/VB 
+[ the/DT common/JJ agricultural/JJ policy/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Understandably/RB ]
+,/, 
+[ Systran/NNP 's/POS use/NN ]
+has/VBZ been/VBN limited/VBN ,/, and/CC 
+[ human/JJ beings/NNS ]
+still/RB bear/VBP 
+[ the/DT main/JJ burden/NN ]
+of/IN putting/VBG 
+[ one/CD language/NN ]
+into/IN 
+[ the/DT other/JJ EC/NNP tongues/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT trying/JJ job/NN ]
+for/IN 
+[ everyone/NN ]
+,/, particularly/RB 
+[ Rene/NNP Van/NNP Hoof/NNP Haferkamp/NNP ]
+./. 
+
+As/IN 
+[ head/NN ]
+of/IN 
+[ the/DT EC/NNP 's/POS joint/JJ interpretation/NN ]
+and/CC 
+[ conference/NN service/NN ]
+,/, 
+[ she/PRP ]
+has/VBZ to/TO schedule/VB 
+[ the/DT work/NN ]
+of/IN more/JJR than/IN 
+[ 700/CD interpreters/NNS ]
+handling/VBG more/JJR than/IN 
+[ 50/CD meetings/NNS ]
+
+[ a/DT day/NN ]
+,/, ranging/VBG from/IN 
+[ conclaves/NNS ]
+of/IN 
+[ foreign/JJ ministers/NNS ]
+to/TO 
+[ the/DT less/RBR august/JJ deliberations/NNS ]
+of/IN 
+[ the/DT Bovine/NNP Health/NNP ]
+and/CC 
+[ Safety/NNP Committee/NNP ]
+./. 
+
+======================================
+
+At/IN 
+[ formal/JJ meetings/NNS ]
+,/, 
+[ she/PRP ]
+notes/VBZ ,/, 
+[ participants/NNS ]
+insist/VBP on/IN speaking/VBG and/CC hearing/VBG 
+[ their/PRP$ own/JJ languages/NNS ]
+--/: 
+[ meaning/VBG ]
+that/IN perhaps/RB 
+[ 27/CD interpreters/NNS ]
+will/MD be/VB laboring/VBG in/IN 
+[ glass/NN booths/NNS ]
+to/TO handle/VB 
+[ the/DT rhetoric/NN ]
+of/IN 
+[ 12/CD ministers/NNS ]
+speaking/VBG 
+[ nine/CD languages/NNS ]
+./. 
+
+[ Mrs./NNP Haferkamp/NNP ]
+prays/VBZ that/IN 
+[ ministers/NNS ]
+decide/VBP to/TO work/VB informally/RB ,/, over/IN 
+[ lunch/NN ]
+./. 
+
+Then/RB 
+[ everybody/NN ]
+relaxes/VBZ and/CC ,/, while/IN 
+[ the/DT burgundy/NN ]
+and/CC 
+[ pate/NN ]
+are/VBP passed/VBN ,/, 
+[ the/DT ministers/NNS ]
+are/VBP willing/JJ to/TO speak/VB 
+[ the/DT French/NNP ]
+,/, 
+[ German/NNP ]
+or/CC 
+[ English/NNP ]
+that/IN 
+[ they/PRP ]
+
+[ all/DT ]
+know/VBP anyway/RB ./. 
+
+======================================
+
+[ Some/DT other/JJ meetings/NNS ]
+are/VBP difficult/JJ ,/, to/TO say/VB 
+[ the/DT least/JJS ]
+./. 
+
+Addressing/VBG 
+[ a/DT meeting/NN ]
+of/IN 
+[ Danes/NNPS ]
+,/, 
+[ the/DT EC/NNP 's/POS social-affairs/NNS commissioner/NN ]
+,/, 
+[ Vasso/NNP Papandreou/NNP ]
+,/, 
+[ who/WP ]
+does/VBZ n't/RB speak/VB 
+[ Danish/NNP ]
+,/, started/VBD off/IN in/IN 
+[ English/NNP ]
+--/: only/RB to/TO be/VB told/VBN to/TO translate/VB 
+[ everything/NN ]
+
+[ she/PRP ]
+was/VBD saying/VBG into/IN 
+[ Greek/NNP ]
+as/IN 
+[ she/PRP ]
+went/VBD along/IN ,/, because/IN 
+[ there/EX ]
+were/VBD 
+[ Greek-Danish/NNP interpreters/NNS ]
+available/JJ but/CC not/RB 
+[ English-Danish/NNP ]
+./. 
+
+[ She/PRP ]
+did/VBD ./. 
+
+Afterward/RB ,/, 
+[ she/PRP ]
+cursed/VBD 
+[ the/DT whole/JJ process/NN ]
+volubly/RB ,/, in/IN 
+[ English/NNP ]
+./. 
+
+======================================
+
+Over/IN at/IN 
+[ the/DT EC/NNP 's/POS mammoth/JJ translation/NN service/NN ]
+,/, where/WRB 
+[ Systran/NNP ]
+has/VBZ been/VBN laboring/VBG to/TO 
+[ dubious/JJ effect/NN ]
+,/, 
+[ the/DT strain/NN ]
+imposed/VBN by/IN 
+[ the/DT drive/NN ]
+toward/IN 
+[ 1992/CD ]
+is/VBZ apparent/JJ ./. 
+
+There/RB ,/, 
+[ 2,000/CD full-time/JJ employees/NNS ]
+expect/VBP to/TO churn/VB out/IN 
+[ translations/NNS ]
+of/IN more/JJR than/IN 
+[ one/CD million/CD pages/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+[ The/DT service/NN ]
+is/VBZ farming/VBG out/IN 
+[ more/JJR work/NN ]
+when/WRB 
+[ it/PRP ]
+can/MD ,/, but/CC 
+[ the/DT load/NN ]
+is/VBZ growing/VBG heavier/JJR ./. 
+
+======================================
+
+[ It/PRP ]
+does/VBZ n't/RB matter/VB that/IN 
+[ a/DT lot/NN ]
+of/IN 
+[ those/DT pages/NNS ]
+will/MD go/VB 
+[ unread/JJ ]
+;/: in/IN 
+[ the/DT matter/NN ]
+of/IN 
+[ translations/NNS ]
+,/, 
+[ demand/NN ]
+is/VBZ ignored/VBN ./. 
+
+[ National/JJ pride/NN ]
+is/VBZ 
+[ what/WP ]
+counts/VBZ ./. 
+
+At/IN 
+[ the/DT EC/NNP Commission/NNP headquarters/NN ]
+,/, 
+[ a/DT bookshelf/NN ]
+holds/VBZ 
+[ copies/NNS ]
+of/IN 
+[ nine/CD versions/NNS ]
+of/IN 
+[ the/DT Commission/NNP 's/POS latest/JJS propaganda/NN brochure/NN ]
+on/IN 
+[ 1992/CD ]
+./. 
+
+[ The/DT shelves/NNS ]
+for/IN 
+[ the/DT Greek/JJ ]
+,/, 
+[ Danish/JJ ] 
+and/CC 
+[ Portuguese/JJ versions/NNS ]
+are/VBP bulging/VBG ./. 
+
+[ The/DT only/JJ shelf/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN cleaned/VBN out/IN of/IN 
+[ brochures/NNS ]
+is/VBZ 
+[ the/DT one/CD ]
+for/IN 
+[ English/NNP ]
+./. 

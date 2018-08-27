@@ -1,0 +1,271 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Canada/NNP 's/POS Atomic/NNP Energy/NNP Control/NNP Board/NNP ]
+deferred/VBD 
+[ a/DT decision/NN ]
+on/IN 
+[ the/DT proposed/VBN startup/NN ]
+of/IN 
+[ the/DT Darlington/NNP nuclear/JJ station/NN ]
+,/, 
+[ a/DT nuclear-power/JJ plant/NN ]
+on/IN 
+[ Lake/NNP Ontario/NNP ]
+,/, pending/VBG 
+[ further/JJ safety/NN studies/NNS ]
+./. 
+
+======================================
+
+[ The/DT delay/NN ]
+could/MD result/VB in/IN 
+[ tight/JJ Ontario/NNP power/NN ]
+supplies/NNS 
+[ this/DT winter/NN ]
+,/, 
+[ which/WDT ]
+would/MD force/VB 
+[ the/DT province/NN ]
+to/TO import/VB 
+[ high-priced/JJ electricity/NN ]
+from/IN neighboring/VBG 
+[ U.S./NNP states/NNS ]
+,/, 
+[ Ontario/NNP Hydro/NNP ]
+warned/VBD ./. 
+
+[ The/DT utility/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ owned/VBN by/IN 
+[ the/DT Ontario/NNP provincial/JJ government/NN ]
+,/, also/RB said/VBD 
+[ a/DT delay/NN ]
+would/MD hurt/VB 
+[ its/PRP$ efforts/NNS ]
+to/TO curb/VB 
+[ acid/NN rain/NN ]
+by/IN replacing/VBG 
+[ old/JJ pollution-causing/JJ power/NN plants/NNS ]
+with/IN 
+[ new/JJ installations/NNS ]
+./. 
+
+======================================
+
+[ The/DT board/NN ]
+said/VBD 
+[ its/PRP$ staff/NN ]
+needed/VBD 
+[ more/JJR time/NN ]
+to/TO review/VB 
+[ the/DT Darlington/NNP plant/NN 's/POS safety/NN measures/NNS ]
+,/, particularly/RB 
+[ the/DT software/NN ]
+of/IN 
+[ a/DT new/JJ computer-controlled/JJ emergency/NN shutdown/NN system/NN ]
+./. 
+
+======================================
+
+[ Rene/NNP Levesque/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Atomic/NNP Energy/NNP Control/NNP Board/NNP ]
+,/, said/VBD 
+[ the/DT board/NN ]
+was/VBD ``/`` very/RB much/RB aware/JJ of/IN 
+[ the/DT considerable/JJ costs/NNS ]
+involved/VBN in/IN 
+[ a/DT licensing/VBG delay/NN ]
+for/IN 
+[ Darlington/NNP ]
+,/, but/CC 
+[ we/PRP ]
+must/MD be/VB satisfied/VBN 
+[ that/IN public/JJ ]
+and/CC 
+[ worker/NN safety/NN ]
+are/VBP assured/VBN ./. 
+
+''/'' 
+======================================
+
+[ The/DT Darlington/NNP plant/NN ]
+is/VBZ about/RB 
+[ 50/CD miles/NNS ]
+east/JJ of/IN 
+[ Toronto/NNP ]
+./. 
+
+[ Its/PRP$ eventual/JJ planned/VBN output/NN ]
+of/IN 
+[ 3,524,000/CD kilowatts/NNS ]
+would/MD be/VB 
+[ enough/JJ power/NN ]
+to/TO meet/VB 
+[ the/DT needs/NNS ]
+of/IN most/JJS of/IN 
+[ metropolitan/JJ Toronto/NNP ]
+./. 
+
+[ The/DT plant/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ expected/VBN to/TO cost/VB about/RB 
+[ 12/CD billion/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 10.13/CD billion/CD ]
+ )/) is/VBZ to/TO have/VB 
+[ four/CD nuclear/JJ reactors/NNS ]
+./. 
+
+[ Construction/NN ]
+of/IN 
+[ one/CD reactor/NN ]
+has/VBZ been/VBN completed/VBN ,/, 
+[ another/DT ]
+is/VBZ 
+[ 75/CD %/NN complete/JJ ]
+,/, 
+[ a/DT third/JJ ]
+is/VBZ 
+[ 35/CD %/NN ]
+complete/JJ and/CC 
+[ the/DT fourth/JJ ]
+is/VBZ more/JJR than/IN 
+[ 15/CD %/NN ]
+complete/JJ ./. 
+
+======================================
+
+[ Ontario/NNP Hydro/NNP ]
+planned/VBD to/TO start/VB 
+[ the/DT Darlington/NNP station/NN Oct./NNP 10/CD ]
+and/CC test/VB 
+[ it/PRP ]
+for/IN 
+[ two/CD ]
+to/TO 
+[ three/CD weeks/NNS ]
+at/IN about/RB 
+[ 1/CD %/NN ]
+of/IN 
+[ capacity/NN ]
+./. 
+
+If/IN 
+[ tests/NNS ]
+were/VBD satisfactory/JJ ,/, 
+[ the/DT utility/NN ]
+planned/VBD to/TO ask/VB 
+[ the/DT board/NN ]
+at/IN 
+[ its/PRP$ Nov./NNP 2/CD meeting/NN ]
+to/TO let/VB 
+[ it/PRP ]
+to/TO proceed/VB to/TO 
+[ full/JJ operation/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Levesque/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD take/VB at/IN 
+[ least/JJS a/DT month/NN ]
+for/IN 
+[ the/DT board/NN 's/POS staff/NN ]
+to/TO complete/VB 
+[ a/DT detailed/VBN review/NN ]
+of/IN 
+[ the/DT safety/NN shutdown/NN system/NN ]
+and/CC 
+[ certain/JJ other/JJ aspects/NNS ]
+of/IN 
+[ reactor/NN ]
+./. 
+
+[ The/DT board/NN ]
+blamed/VBD 
+[ Ontario/NNP Hydro/NNP ]
+for/IN 
+[ the/DT delay/NN ]
+,/, saying/VBG 
+[ it/PRP ]
+only/RB received/VBD 
+[ some/DT essential/JJ data/NNS ]
+from/IN 
+[ the/DT utility/NN ]
+in/IN 
+[ recent/JJ days/NNS ]
+./. 
+
+======================================
+
+[ Ontario/NNP Hydro/NNP ]
+has/VBZ experienced/VBN heavier/JJR than/IN expected/VBN 
+[ power/NN demand/NN ]
+because/IN of/IN 
+[ Ontario/NNP 's/POS strong/JJ economic/JJ growth/NN ]
+./. 
+
+[ It/PRP ]
+has/VBZ increased/VBN 
+[ its/PRP$ electricity/NN purchases/NNS ]
+from/IN 
+[ its/PRP$ neighboring/VBG provinces/NNS ]
+of/IN 
+[ Quebec/NNP ]
+and/CC 
+[ Manitoba/NNP ]
+and/CC from/IN 
+[ Michigan/NNP ]
+./. 
+
+======================================
+
+[ Canada/NNP 's/POS exports/NNS ]
+of/IN 
+[ electricity/NN ]
+to/TO 
+[ the/DT U.S./NNP ]
+for/IN 
+[ the/DT first/JJ six/CD months/NNS ]
+of/IN 
+[ this/DT year/NN ]
+fell/VBD 
+[ 35/CD %/NN ]
+from/IN 
+[ a/DT year/NN ]
+earlier/JJR to/TO 
+[ 11.55/CD billion/CD kilowatt/NN hours/NNS ]
+./. 
+
+[ Canada/NNP 's/POS imports/NNS ]
+of/IN 
+[ U.S./NNP electricity/NN ]
+during/IN 
+[ the/DT same/JJ period/NN ]
+rose/VBD 
+[ 61/CD %/NN ]
+to/TO 
+[ 4.99/CD billion/CD kilowatt/NN hours/NNS ]
+./. 

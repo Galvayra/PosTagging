@@ -1,0 +1,481 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ your/PRP$ Sept./NNP 5/CD article/NN ]
+``/`` 
+[ Firms/NNS Cut/VB Drug-Treatment/JJ Benefits/NNS ]
+''/'' 
+[ you/PRP ]
+miss/VBP 
+[ a/DT major/JJ point/NN ]
+:/: 
+[ Outpatient/NN treatment/NN ]
+is/VBZ more/JJR than/IN 
+[ a/DT low-cost/JJ alternative/NN ]
+./. 
+
+[ It/PRP ]
+can/MD be/VB just/RB as/RB thorough/JJ and/CC structured/VBN as/IN 
+[ the/DT best/JJS inpatient/NN programs/NNS ]
+./. 
+
+======================================
+
+[ Inpatient/NN treatment/NN ]
+is/VBZ traditionally/RB based/VBN on/IN 
+[ the/DT Minnesota/NNP Model/NNP ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ five/CD main/JJ elements/NNS ]
+:/: 
+[ Total/JJ abstinence/NN ]
+,/, 
+[ education/NN ]
+,/, 
+[ group/NN treatment/NN ]
+,/, 
+[ Alcoholics/NNPS Anonymous/NNP ]
+or/CC 
+[ Narcotics/NNPS Anonymous/NNP ]
+,/, and/CC 
+[ a/DT family/NN component/NN ]
+./. 
+
+Since/IN 
+[ the/DT early/JJ 1980s/NNS ]
+,/, 
+[ it/PRP ]
+has/VBZ been/VBN clear/JJ that/IN 
+[ these/DT principles/NNS ]
+can/MD just/RB as/RB well/RB be/VB applied/VBN to/TO 
+[ an/DT outpatient/NN setting/NN ]
+./. 
+
+======================================
+
+[ Some/DT ]
+of/IN 
+[ the/DT clinical/JJ benefits/NNS ]
+:/: 
+[ People/NNS ]
+need/VBP 
+[ time/NN ]
+to/TO change/VB ;/: 
+[ inpatient/NN treatment/NN helps/NNS ]
+remove/VB 
+[ the/DT drug/NN ]
+,/, but/CC gives/VBZ only/RB 
+[ a/DT sampler/NN ]
+on/IN how/WRB to/TO build/VB 
+[ a/DT drug-free/JJ life/NN ]
+./. 
+
+[ Outpatient/NN treatment/NN ]
+offers/VBZ 
+[ a/DT more/RBR appropriate/JJ time/NN course/NN ]
+,/, usually/RB about/RB 
+[ one/CD year/NN ]
+,/, in/IN 
+[ which/WDT ]
+to/TO establish/VB 
+[ new/JJ patterns/NNS ]
+of/IN 
+[ relationships/NNS ]
+and/CC 
+[ coping/NN skills/NNS ]
+./. 
+
+======================================
+
+Also/RB ,/, 
+[ the/DT patient/NN ]
+stays/VBZ in/IN 
+[ contact/NN ]
+with/IN 
+[ the/DT normal/JJ work/NN ]
+and/CC 
+[ home/NN environment/NN ]
+./. 
+
+[ The/DT cues/NNS ]
+and/CC 
+[ triggers/NNS ]
+
+[ that/WDT ]
+lead/VBP to/TO relapse/NN are/VBP encountered/VBN 
+[ every/DT day/NN ]
+,/, while/IN 
+[ treatment/NN sessions/NNS ]
+provide/VBP 
+[ a/DT place/NN ]
+to/TO learn/VB and/CC practice/VB how/WRB to/TO deal/VB with/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ Part/NN ]
+of/IN 
+[ the/DT value/NN ]
+of/IN 
+[ inpatient/NN treatment/NN ]
+is/VBZ 
+[ the/DT ]
+``/`` 
+[ pink/JJ cloud/NN ]
+''/'' of/IN 
+[ good/JJ feeling/NN ]
+and/CC 
+[ confidence/NN ]
+./. 
+
+When/WRB 
+[ the/DT 28/CD days/NNS ]
+are/VBP up/RB and/CC 
+[ the/DT patient/NN ]
+must/MD re-enter/VB 
+[ a/DT world/NN ]
+full/JJ of/IN 
+[ problems/NNS ]
+and/CC 
+[ stresses/NNS ]
+,/, 
+[ the/DT shock/NN ]
+
+[ itself/PRP ]
+can/MD trigger/VB 
+[ relapse/NN ]
+./. 
+
+======================================
+
+[ Outpatient/NN treatment/NN ]
+is/VBZ not/RB for/IN 
+[ everyone/NN ]
+./. 
+
+But/CC where/WRB 
+[ there/EX ]
+is/VBZ 
+[ a/DT choice/NN ]
+,/, 
+[ we/PRP ]
+feel/VBP 
+[ a/DT structured/VBN outpatient/NN program/NN ]
+offers/VBZ 
+[ more/RBR effective/JJ treatment/NN ]
+at/IN 
+[ less/JJR cost/NN ]
+./. 
+
+======================================
+
+[ Jeffery/NNP Smith/NNP M.D/NNP ]
+./. 
+
+======================================
+
+[ Assistant/NNP Clinical/NNP Professor/NNP ]
+of/IN 
+[ Psychiatry/NNP ]
+
+======================================
+
+[ New/NNP York/NNP Medical/NNP College/NNP ]
+
+======================================
+
+[ President/NN ]
+
+======================================
+
+[ Cortland/NNP Medical/NNP Outpatient/NNP Rehabilitation/NNP Center/NNP ]
+
+======================================
+
+[ Hawthorne/NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 
+
+======================================
+
+[ A/DT big/JJ hurrah/NN ]
+to/TO 
+[ employers/NNS ]
+and/CC 
+[ health-care/JJ providers/NNS ]
+./. 
+
+[ It/PRP ]
+'s/VBZ about/IN 
+[ time/NN ]
+for/IN 
+[ those/DT ]
+of/IN 
+[ us/PRP ]
+
+[ who/WP ]
+choose/VBP not/RB to/TO consume/VB 
+[ alcoholic/JJ beverages/NNS ]
+or/CC 
+[ use/NN drugs/NNS ]
+to/TO stop/VB having/VBG to/TO pay/VB 
+[ higher/JJR health-care/JJ costs/NNS ]
+for/IN ``/`` 
+[ illnesses/NNS ]
+''/'' 
+[ others/NNS ]
+bring/VBP upon/IN 
+[ themselves/PRP ]
+./. 
+
+[ It/PRP ]
+'s/VBZ likewise/RB 
+[ time/NN ]
+
+[ we/PRP ]
+stop/VBP having/VBG to/TO pay/VB increased/VBN 
+[ health-care/JJ costs/NNS ]
+for/IN 
+[ those/DT ]
+
+[ who/WP ]
+continue/VBP 
+[ using/VBG tobacco/NN ]
+in/IN 
+[ spite/NN ]
+of/IN and/CC in/IN 
+[ defiance/NN ]
+of/IN 
+[ all/DT medical/JJ evidence/NN ]
+and/CC 
+[ warnings/NNS ]
+about/IN 
+[ its/PRP$ potential/JJ dangers/NNS ]
+./. 
+
+While/IN 
+[ I/PRP ]
+sympathize/VBP with/IN 
+[ those/DT ]
+
+[ who/WP ]
+may/MD develop/VB 
+[ cancer/NN ]
+,/, 
+[ emphysema/NN ]
+,/, 
+[ heart/NN and\/or/NN respiratory/JJ diseases/NNS ]
+,/, 
+[ etc./NN ]
+,/, 
+[ I/PRP ]
+find/VBP 
+[ little/JJ justification/NN ]
+for/IN 
+[ my/PRP$ health-care/JJ costs/NNS ]
+skyrocketing/VBG annually/RB because/IN of/IN 
+[ others/NNS '/POS actions/NNS ]
+./. 
+
+======================================
+
+[ Kenneth/NNP L./NNP Bloeser/NNP ]
+
+======================================
+
+[ Nashville/NNP ]
+,/, 
+[ Tenn/NNP ]
+./. 
+
+======================================
+
+[ The/DT critical/JJ aspect/NN ]
+of/IN 
+[ any/DT treatment/NN ]
+
+[ that/WDT ]
+involves/VBZ 
+[ inpatient/NN care/NN ]
+comes/VBZ when/WRB 
+[ the/DT patient/NN ]
+returns/VBZ to/TO 
+[ his/PRP$ day-to-day/JJ life/NN ]
+./. 
+
+There/RB ,/, 
+[ he/PRP ]
+alone/RB is/VBZ responsible/JJ again/RB for/IN 
+[ all/DT ]
+that/IN 
+[ he/PRP ]
+does/VBZ ,/, or/CC does/VBZ n't/RB do/VB ./. 
+
+[ Both/DT ]
+
+[ the/DT availability/NN ]
+of/IN 
+[ substances/NNS ]
+and/CC 
+[ the/DT ]
+underlying/VBG 
+[ internal/JJ causes/NNS ]
+are/VBP present/JJ and/CC can/MD be/VB managed/VBN only/RB by/IN 
+[ the/DT previous/JJ user/NN ]
+./. 
+
+[ Hospitalization/NN ]
+,/, 
+[ the/DT primary/JJ focus/NN ]
+of/IN 
+[ the/DT article/NN ]
+,/, is/VBZ 
+[ an/DT artificial/JJ environment/NN ]
+
+[ that/WDT ]
+can/MD only/RB help/VB detoxify/VB 
+[ a/DT person/NN ]
+safely/RB ./. 
+
+======================================
+
+Treating/VBG 
+[ the/DT latent/JJ reason/NN ]
+for/IN 
+[ the/DT use/NN ]
+of/IN 
+[ mind-altering/JJ substances/NNS ]
+is/VBZ necessary/JJ for/IN 
+[ the/DT treatment/NN ]
+to/TO be/VB curative/JJ ./. 
+
+[ All/DT ]
+too/RB often/RB ,/, 
+[ the/DT patient/NN ]
+stops/VBZ using/VBG 
+[ drugs/NNS ]
+,/, 
+[ the/DT psychological/JJ pain/NN ]
+
+[ that/WDT ]
+fomented/VBD 
+[ the/DT numbing/JJ use/NN ]
+of/IN 
+[ drugs/NNS ]
+remains/VBZ ,/, and/CC 
+[ treatment/NN ]
+is/VBZ deemed/VBN finished/VBN ./. 
+
+[ Similar/JJ ]
+to/TO 
+[ a/DT low-grade/JJ infection/NN ]
+,/, 
+[ it/PRP ]
+goes/VBZ 
+[ untreated/JJ ]
+and/CC will/MD later/RB stimulate/VB 
+[ recurrent/JJ drug/NN use/NN ]
+or/CC 
+[ other/JJ selfdamaging/JJ behavior/NN ]
+./. 
+
+======================================
+
+[ The/DT answer/NN ]
+for/IN 
+[ such/JJ an/DT ]
+``/`` 
+[ enigmatic/JJ condition/NN ]
+''/'' as/IN 
+[ addiction/NN ]
+is/VBZ 
+[ the/DT same/JJ ]
+for/IN 
+[ the/DT proliferation/NN ]
+of/IN 
+[ mediocre/JJ psychotherapy/NN ]
+./. 
+
+In/IN 
+[ general/JJ ]
+,/, 
+[ employer-offered/JJ benefit/NN programs/NNS ]
+
+[ that/WDT ]
+cover/VBP 
+[ all/DT costs/NNS ]
+should/MD be/VB eliminated/VBN ./. 
+
+[ Some/DT financial/JJ participation/NN ]
+by/IN 
+[ the/DT patient/NN ]
+is/VBZ crucial/JJ to/TO 
+[ the/DT success/NN ]
+of/IN 
+[ treatment/NN ]
+./. 
+
+======================================
+
+[ Many/JJ well-meaning/JJ employers/NNS ]
+and/CC 
+[ insurance/NN companies/NNS ]
+have/VBP n't/RB known/VBN well/RB 
+[ the/DT therapeutic/JJ value/NN ]
+of/IN 
+[ patients/NNS ]
+paying/VBG directly/RB for/IN 
+[ treatment/NN ]
+./. 
+
+[ Money/NN ]
+changing/VBG 
+[ hands/NNS ]
+in/IN 
+[ such/JJ a/DT manner/NN ]
+is/VBZ 
+[ a/DT quick/JJ ]
+,/, 
+[ powerful/JJ ]
+and/CC 
+[ real/JJ way/NN ]
+to/TO cement/VB 
+[ a/DT helping/VBG relationship/NN ]
+,/, 
+[ the/DT basis/NN ]
+for/IN 
+[ psychotherapy/NN ]
+./. 
+
+======================================
+
+[ James/NNP R./NNP Stanislaw/NNP ]
+
+======================================
+
+[ Psychotherapist/NN ]
+
+======================================
+
+[ Southfield/NNP ]
+,/, 
+[ Mich/NNP ]
+./. 

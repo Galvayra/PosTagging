@@ -1,0 +1,148 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Chicago/NNP Mercantile/NNP Exchange/NNP ]
+and/CC 
+[ the/DT Options/NNPS Clearing/NNP Corp./NNP ]
+received/VBD 
+[ regulatory/JJ approval/NN ]
+for/IN 
+[ a/DT cross-margining/JJ agreement/NN ]
+
+[ that/WDT ]
+could/MD sharply/RB reduce/VB 
+[ the/DT amount/NN ]
+of/IN 
+[ money/NN member/NN firms/NNS ]
+need/VBP to/TO post/VB to/TO trade/VB 
+[ stock-index/JJ futures/NNS ]
+and/CC 
+[ options/NNS ]
+./. 
+
+======================================
+
+[ The/DT agreement/NN ]
+,/, 
+[ which/WDT ]
+will/MD take/VB 
+[ effect/NN Oct./NNP 6/CD ]
+for/IN 
+[ the/DT proprietary/NN ]
+,/, or/CC 
+[ noncustomer/NN ]
+,/, 
+[ accounts/NNS ]
+of/IN 
+[ member/NN firms/NNS ]
+,/, is/VBZ designed/VBN to/TO increase/VB 
+[ the/DT amount/NN ]
+of/IN 
+[ money/NN ]
+available/JJ to/TO 
+[ traders/NNS ]
+making/VBG 
+[ markets/NNS ]
+in/IN 
+[ futures/NNS ]
+and/CC 
+[ options/NNS ]
+./. 
+
+[ Cross-margining/NN ]
+was/VBD 
+[ a/DT key/JJ recommendation/NN ]
+of/IN 
+[ the/DT so-called/JJ Brady/NNP Commission/NNP ]
+
+[ that/WDT ]
+studied/VBD 
+[ the/DT 1987/CD stock/NN market/NN crash/NN ]
+./. 
+
+[ That/DT presidential/JJ task/NN force/NN ]
+concluded/VBD 
+[ that/DT liquidity/NN ]
+was/VBD sapped/VBN from/IN 
+[ the/DT futures/NNS ]
+and/CC 
+[ options/NNS markets/NNS ]
+during/IN 
+[ the/DT crash/NN ]
+by/IN 
+[ what/WP ]
+,/, in/IN 
+[ the/DT case/NN ]
+of/IN offsetting/VBG 
+[ futures/NNS ]
+and/CC 
+[ options/NNS ]
+trading/NN 
+[ positions/NNS ]
+
+[ that/WDT ]
+actually/RB reduce/VBP 
+[ overall/JJ risk/NN ]
+,/, are/VBP often/RB 
+[ duplicative/JJ margin/NN requirements/NNS ]
+./. 
+
+======================================
+
+[ The/DT cross-margining/JJ accord/NN ]
+will/MD allow/VB 
+[ members/NNS ]
+to/TO make/VB 
+[ a/DT single/JJ margin/NN deposit/NN ]
+to/TO cover/VB 
+[ their/PRP$ trading/NN risk/NN ]
+in/IN 
+[ related/JJ stock-index/NN futures/NNS ]
+and/CC 
+[ options/NNS accounts/NNS ]
+,/, rather/RB than/IN 
+[ separate/JJ deposits/NNS ]
+at/IN 
+[ the/DT Merc/NNP ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT OCC-member/JJ options/NNS exchanges/NNS ]
+./. 
+
+======================================
+
+[ William/NNP Brodsky/NNP ]
+,/, 
+[ the/DT Merc/NNP 's/POS president/NN ]
+,/, said/VBD 
+[ the/DT exchange/NN ]
+and/CC 
+[ the/DT OCC/NNP ]
+will/MD apply/VB shortly/RB for/IN 
+[ regulatory/JJ approval/NN ]
+to/TO extend/VB 
+[ cross-margining/NN ]
+to/TO include/VB 
+[ the/DT accounts/NNS ]
+of/IN 
+[ other/JJ market/NN professionals/NNS ]
+such/JJ as/IN 
+[ floor/NN traders/NNS ]
+and/CC 
+[ market/NN makers/NNS ]
+./. 

@@ -1,0 +1,132 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Xylogics/NNP Inc./NNP ]
+,/, 
+[ Burlington/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, said/VBD 
+[ it/PRP ]
+reached/VBD 
+[ an/DT agreement/NN ]
+under/IN 
+[ which/WDT ]
+
+[ Unisys/NNP Corp./NNP ]
+will/MD buy/VB as/RB much/RB as/IN 
+[ $/$ 50/CD million/CD ]
+of/IN 
+[ its/PRP$ computer/NN systems/NNS ]
+over/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+./. 
+
+======================================
+
+[ Xylogics/NNP ]
+said/VBD 
+[ Unisys/NNP ]
+will/MD be/VB buying/VBG 
+[ its/PRP$ new/JJ Annex/NNP II/NNP terminal/JJ servers/NNS ]
+,/, 
+[ a/DT line/NN ]
+
+[ it/PRP ]
+acquired/VBD from/IN 
+[ Encore/NNP Computer/NNP Corp./NNP last/JJ December/NNP ]
+./. 
+
+[ Unisys/NNP ]
+will/MD resell/VB 
+[ the/DT products/NNS ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ its/PRP$ own/JJ systems/NNS ]
+./. 
+
+======================================
+
+[ Terminal/JJ servers/NNS ]
+are/VBP specialized/JJ 
+[ computers/NNS ]
+designed/VBN to/TO work/VB as/IN 
+[ the/DT hub/NN ]
+of/IN 
+[ a/DT network/NN ]
+of/IN 
+[ terminals/NNS ]
+
+[ that/WDT ]
+communicate/VBP with/IN 
+[ each/DT other/JJ ]
+and/CC with/IN 
+[ other/JJ computer/NN systems/NNS ]
+./. 
+
+[ Blue/NNP Bell/NNP ]
+,/, 
+[ Pa.-based/JJ Unisys/NNP ]
+,/, 
+[ the/DT nation/NN 's/POS third-largest/JJ computer/NN maker/NN ]
+,/, frequently/RB buys/VBZ 
+[ products/NNS ]
+from/IN 
+[ other/JJ vendors/NNS ]
+and/CC integrates/VBZ 
+[ them/PRP ]
+in/IN 
+[ systems/NNS ]
+under/IN 
+[ its/PRP$ own/JJ name/NN ]
+./. 
+
+======================================
+
+[ Xylogics/NNP ]
+said/VBD 
+[ the/DT contract/NN ]
+is/VBZ 
+[ the/DT largest/JJS ]
+in/IN 
+[ its/PRP$ history/NN ]
+./. 
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+ended/VBN 
+[ July/NNP 29/CD ]
+,/, 
+[ the/DT maker/NN ]
+of/IN 
+[ disk-drive/NN controllers/NNS ]
+and/CC 
+[ data/NN|NNS communications/NNS products/NNS ]
+posted/VBD 
+[ profit/NN ]
+of/IN 
+[ $/$ 1.6/CD million/CD ]
+,/, or/CC 
+[ 57/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, on/IN 
+[ revenue/NN ]
+of/IN 
+[ $/$ 25.1/CD million/CD ]
+./. 

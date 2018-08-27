@@ -1,0 +1,632 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ U.S./NNP security/NN officials/NNS ]
+expect/VBP 
+[ the/DT Colombian/JJ drug/NN cartels/NNS ]
+to/TO launch/VB 
+[ terrorist/JJ attacks/NNS ]
+against/IN Americans/NNPS
+ and/CC 
+[ American/JJ interests/NNS  ]
+to/TO scare/VB 
+[ the/DT U.S./NNP ]
+away/RB from/IN 
+[ its/PRP$ anti-cartel/JJ stand/NN ]
+./. 
+
+======================================
+
+[ Oliver/NNP ]
+``/`` 
+[ Buck/NNP ]
+''/'' 
+[ Revell/NNP ]
+,/, 
+[ the/DT third-ranking/JJ official/NN ]
+at/IN 
+[ the/DT Federal/NNP Bureau/NNP ]
+of/IN 
+[ Investigation/NNP ]
+,/, said/VBD in/IN 
+[ an/DT interview/NN ]
+,/, ``/`` 
+[ I/PRP ]
+expect/VBP 
+[ bombs/NNS ]
+./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ the/DT likeliest/JJS targets/NNS ]
+of/IN 
+[ cartel/NN terrorism/NN ]
+,/, at/IN 
+[ least/JJS ]
+initially/RB ,/, would/MD be/VB 
+[ U.S./NNP government/NN ]
+and/CC 
+[ business/NN representatives/NNS ]
+in/IN 
+[ Latin/NNP America/NNP ]
+,/, rather/RB than/IN 
+[ people/NNS ]
+and/CC 
+[ buildings/NNS ]
+within/IN 
+[ U.S./NNP borders/NNS ]
+./. 
+
+======================================
+
+[ Other/JJ top/JJ counterterror/JJ officials/NNS ]
+echoed/VBD 
+[ Mr./NNP Revell/NNP 's/POS concern/NN ]
+,/, but/CC would/MD n't/RB permit/VB 
+[ themselves/PRP ]
+to/TO be/VB identified/VBN or/CC discuss/VB 
+[ any/DT intelligence/NN information/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP to/TO take/VB 
+[ it/PRP ]
+seriously/RB ,/, ''/'' said/VBD 
+[ one/CD ]
+./. 
+
+``/`` 
+[ They/PRP ]
+certainly/RB have/VBP 
+[ the/DT capabilities/NNS ]
+to/TO do/VB 
+[ these/DT things/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Sen./NNP David/NNP Boren/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Okla./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Senate/NNP Intelligence/NNP Committee/NNP ]
+,/, said/VBD in/IN 
+[ an/DT interview/NN ]
+that/IN ``/`` 
+[ I/PRP ]
+think/VBP 
+[ we/PRP ]
+'re/VBP in/IN for/IN 
+[ a/DT long/JJ period/NN ]
+of/IN 
+[ problems/NNS ]
+with/IN 
+[ the/DT cartels/NNS ]
+,/, and/CC potentially/RB 
+[ some/DT terrorist/JJ retaliation/NN ]
+./. 
+
+[ I/PRP ]
+think/VBP 
+[ we/PRP ]
+have/VBP to/TO be/VB very/RB well/RB prepared/VBN for/IN 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Revell/NNP ]
+,/, in/IN 
+[ the/DT interview/NN ]
+and/CC in/IN 
+[ testimony/NN ]
+before/IN 
+[ the/DT Senate/NNP Government/NNP Affairs/NNPS Committee/NNP ]
+,/, said/VBD attempted/VBN 
+[ attacks/NNS ]
+within/IN 
+[ the/DT U.S./NNP ]
+ca/MD n't/RB be/VB ruled/VBN out/RP ,/, and/CC would/MD be/VB extremely/RB difficult/JJ to/TO head/VB off/RP ,/, because/IN 
+[ U.S./NNP borders/NNS ]
+are/VBP ``/`` 
+[ porous/JJ ]
+''/'' and/CC 
+[ the/DT cartels/NNS ]
+have/VBP shown/VBN in/IN 
+[ the/DT past/NN ]
+that/IN 
+[ they/PRP ]
+can/MD carry/VB out/RP 
+[ killings/NNS ]
+within/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP not/RB going/VBG to/TO back/VB off/RP ''/'' from/IN 
+[ the/DT anti-drug/JJ effort/NN ]
+,/, even/RB if/IN 
+[ attacks/NNS ]
+take/VBP 
+[ place/NN ]
+,/, 
+[ he/PRP ]
+declared/VBD in/IN 
+[ the/DT interview/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'ll/MD simply/RB increase/VB 
+[ our/PRP$ resolve/NN ]
+./. 
+
+But/CC 
+[ we/PRP ]
+'re/VBP expecting/VBG 
+[ them/PRP ]
+to/TO try/VB 
+[ it/PRP ]
+down/IN 
+[ there/EX ]
+''/'' in/IN 
+[ Latin/NNP America/NNP ]
+./. 
+
+======================================
+
+Over/IN 
+[ the/DT past/JJ two/CD weeks/NNS ]
+,/, 
+[ Secret/NNP Service/NNP protection/NN ]
+for/IN 
+[ President/NNP Bush/NNP 's/POS family/NN ]
+has/VBZ been/VBN stepped/VBN up/RP ,/, and/CC 
+[ U.S./NNP embassies/NNS ]
+in/IN 
+[ Latin/NNP America/NNP ]
+have/VBP gone/VBN on/IN 
+[ alert/NN ]
+against/IN 
+[ possible/JJ drug-cartel/JJ attacks/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ federal/JJ marshals/NNS ]
+have/VBP increased/VBN 
+[ security/NN ]
+at/IN 
+[ courthouses/NNS ]
+within/IN 
+[ the/DT U.S./NNP Mr./NNP Revell/NNP ]
+has/VBZ conferred/VBN on/IN 
+[ the/DT terrorism/NN threat/NN ]
+with/IN 
+[ the/DT U.S./NNP ambassador/NN ]
+to/TO 
+[ Colombia/NNP ]
+and/CC with/IN 
+[ some/DT federal/JJ judges/NNS ]
+in/IN 
+[ whose/WP$ courts/NNS ]
+drug/NN 
+[ trials/NNS ]
+may/MD occur/VB ./. 
+
+======================================
+
+[ No/DT evidence/NN ]
+of/IN 
+[ planned/VBN attacks/NNS ]
+has/VBZ been/VBN gathered/VBN ,/, 
+[ U.S./NNP officials/NNS ]
+say/VBP ./. 
+
+But/CC 
+[ two/CD incidents/NNS ]
+in/IN 
+[ recent/JJ days/NNS ]
+have/VBP raised/VBN 
+[ the/DT level/NN ]
+of/IN 
+[ concern/NN ]
+./. 
+
+[ Last/JJ week/NN ]
+,/, 
+[ four/CD ]
+heavily/RB armed/VBN 
+[ Venezuelans/NNPS ]
+were/VBD arrested/VBN in/IN 
+[ Edmunston/NNP ]
+,/, in/IN 
+[ the/DT Canadian/JJ province/NN ]
+of/IN 
+[ New/NNP Brunswick/NNP ]
+./. 
+
+[ The/DT town/NN ]
+sits/VBZ on/IN 
+[ the/DT border/NN ]
+with/IN 
+[ Maine/NNP ]
+,/, where/WRB 
+[ the/DT president/NN ]
+and/CC 
+[ his/PRP$ family/NN vacation/VBP ]
+and/CC where/WRB 
+[ his/PRP$ daughter/NN ]
+,/, 
+[ Dorothy/NNP ]
+,/, lives/VBZ ./. 
+
+======================================
+
+[ U.S./NNP ]
+and/CC 
+[ Canadian/JJ officials/NNS ]
+say/VBP 
+[ they/PRP ]
+are/VBP assuming/VBG 
+[ the/DT four/CD men/NNS ]
+were/VBD planning/VBG 
+[ some/DT violence/NN ]
+within/IN 
+[ New/NNP Brunswick/NNP ]
+in/IN 
+[ connection/NN ]
+with/IN 
+[ a/DT pending/VBG drug/NN trial/NN ]
+there/RB of/IN 
+[ two/CD Colombians/NNPS ]
+./. 
+
+But/CC 
+[ the/DT four/CD ]
+were/VBD carrying/VBG 
+[ a/DT map/NN ]
+of/IN 
+[ Maine/NNP ]
+as/RB well/RB as/IN 
+[ Canadian/JJ maps/NNS ]
+,/, 
+[ authorities/NNS ]
+said/VBD ,/, and/CC 
+[ some/DT ]
+of/IN 
+[ their/PRP$ vehicles/NNS ]
+bore/VBD 
+[ New/NNP York/NNP plates/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ n't/RB clear/JJ why/WRB 
+[ they/PRP ]
+were/VBD in/IN 
+[ a/DT border/NN town/NN ]
+rather/RB than/IN 
+[ the/DT provincial/JJ capital/NN ]
+of/IN 
+[ Fredericton/NNP ]
+,/, where/WRB 
+[ the/DT Colombians/NNPS ]
+are/VBP to/TO be/VB tried/VBN ./. 
+
+======================================
+
+Over/IN 
+[ the/DT weekend/NN ]
+,/, 
+[ a/DT homemade/JJ rocket/NN ]
+struck/VBD 
+[ the/DT U.S./NNP Embassy/NNP ]
+in/IN 
+[ Bogota/NNP ]
+,/, 
+[ Colombia/NNP ]
+./. 
+
+[ The/DT device/NN ]
+did/VBD only/RB 
+[ minimal/JJ damage/NN ]
+,/, and/CC seemed/VBD too/RB 
+[ crude/JJ ]
+for/IN 
+[ a/DT weapon/NN ]
+of/IN 
+[ the/DT wealthy/JJ cartels/NNS ]
+./. 
+
+But/CC 
+[ it/PRP ]
+was/VBD 
+[ the/DT first/JJ attack/NN ]
+on/IN 
+[ the/DT embassy/NN ]
+since/IN 
+[ Mr./NNP Bush/NNP ]
+came/VBD to/TO 
+[ the/DT aid/NN ]
+of/IN 
+[ the/DT Colombian/JJ government/NN ]
+in/IN 
+[ its/PRP$ war/NN ]
+with/IN 
+[ the/DT cartels/NNS ]
+./. 
+
+======================================
+
+Asked/VBN 
+[ this/DT week/NN ]
+if/IN 
+[ the/DT U.S./NNP ]
+knew/VBD whether/IN 
+[ the/DT drug/NN cartels/NNS ]
+had/VBD targeted/VBN 
+[ specific/JJ Americans/NNPS ]
+,/, including/VBG 
+[ President/NNP Bush/NNP ]
+and/CC 
+[ his/PRP$ family/NN ]
+,/, 
+[ Mr./NNP Bush/NNP ]
+said/VBD ,/, ``/`` 
+[ There/EX ]
+is/VBZ 
+[ no/DT hard/JJ intelligence/NN evidence/NN ]
+of/IN 
+[ such/JJ ]
+targeting/NN ./. 
+
+''/'' But/CC 
+[ he/PRP ]
+warned/VBD that/IN ``/`` 
+[ any/DT such/JJ action/NN ]
+would/MD ,/, 
+[ I/PRP ]
+think/VBP ,/, just/RB bring/VB down/RP 
+[ the/DT total/JJ wrath/NN ]
+of/IN 
+[ the/DT American/JJ people/NNS ]
+and/CC 
+[ the/DT American/JJ government/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT U.S./NNP ]
+is/VBZ believed/VBN to/TO have/VB 
+[ far/RB better/JJR intelligence/NN ]
+on/IN 
+[ the/DT cartels/NNS ]
+than/IN 
+[ it/PRP ]
+does/VBZ on/IN 
+[ terrorists/NNS ]
+in/IN 
+[ Lebanon/NNP ]
+./. 
+
+But/CC 
+[ officials/NNS ]
+said/VBD 
+[ they/PRP ]
+do/VBP n't/RB know/VB of/IN 
+[ any/DT way/NN ]
+to/TO protect/VB 
+[ all/DT U.S./NNP interests/NNS ]
+in/IN 
+[ such/JJ countries/NNS ]
+as/IN 
+[ Bolivia/NNP ]
+,/, 
+[ Peru/NNP ]
+and/CC 
+[ Colombia/NNP ]
+,/, where/WRB 
+[ the/DT cartels/NNS '/POS power/NN ]
+is/VBZ immense/JJ ./. 
+
+======================================
+
+Within/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ the/DT FBI/NNP ]
+has/VBZ been/VBN very/RB successful/JJ in/IN 
+[ heading/NN ]
+off/RP 
+[ terrorism/NN ]
+./. 
+
+But/CC 
+[ Mr./NNP Revell/NNP ]
+told/VBD 
+[ the/DT Senate/NNP committee/NN ]
+,/, ``/`` 
+[ I/PRP ]
+do/VBP n't/RB believe/VB that/IN if/IN 
+[ there/EX ]
+was/VBD 
+[ an/DT intent/NN ]
+on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ these/DT cartels/NNS ]
+to/TO have/VB 
+[ blood/NN ]
+running/VBG on/IN 
+[ the/DT streets/NNS ]
+of/IN 
+[ America/NNP ]
+that/IN 
+[ we/PRP ]
+would/MD be/VB in/IN 
+[ a/DT position/NN ]
+to/TO preempt/VB 
+[ it/PRP ]
+to/TO 
+[ the/DT same/JJ degree/NN ]
+that/IN 
+[ we/PRP ]
+have/VBP against/IN 
+[ the/DT domestic/JJ ]
+ (/( 
+[ terror/NN ]
+ )/) 
+[ groups/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+says/VBZ 
+[ the/DT cartels/NNS ]
+are/VBP believed/VBN to/TO have/VB been/VBN behind/IN 
+[ the/DT assassination/NN ]
+in/IN 
+[ Louisiana/NNP ]
+of/IN 
+[ a/DT U.S./NNP citizen/NN ]
+involved/VBN in/IN 
+[ drug/NN ]
+smuggling/VBG 
+[ who/WP ]
+was/VBD preparing/VBG to/TO testify/VB against/IN 
+[ the/DT cartels/NNS ]
+./. 
+
+And/CC 
+[ officials/NNS ]
+suspect/VBP 
+[ the/DT cartels/NNS ]
+played/VBD 
+[ a/DT role/NN ]
+in/IN 
+[ the/DT attempted/VBN bombing/NN ]
+of/IN 
+[ a/DT motorcade/NN ]
+carrying/VBG 
+[ former/JJ Secretary/NNP ]
+of/IN 
+[ State/NNP George/NNP Shultz/NNP ]
+in/IN 
+[ Bolivia/NNP ]
+in/IN 
+[ August/NNP 1988/CD ]
+./. 
+
+======================================
+
+Separately/RB ,/, 
+[ a/DT senior/JJ U.S./NNP official/NN ]
+said/VBD that/IN 
+[ Colombia/NNP 's/POS recent/JJ crackdown/NN ]
+on/IN 
+[ drug/NN traffickers/NNS ]
+has/VBZ seriously/RB hindered/VBN 
+[ the/DT cocaine/NN industry/NN ]
+in/IN 
+[ that/DT country/NN ]
+and/CC in/IN 
+[ Peru/NNP ]
+./. 
+
+[ Clandestine/JJ airplane/NN trips/NNS ]
+carrying/VBG 
+[ coca/NN paste/NN ]
+from/IN 
+[ Peru/NNP ]
+to/TO 
+[ Colombia/NNP ]
+have/VBP fallen/VBN to/TO 
+[ two/CD ]
+to/TO 
+[ three/CD flights/NNS ]
+
+[ a/DT week/NN ]
+from/IN 
+[ five/CD ]
+to/TO 
+[ six/CD flights/NNS ]
+
+[ a/DT day/NN ]
+,/, 
+[ the/DT U.S./NNP official/NN ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT drop/NN ]
+in/IN 
+[ demand/NN ]
+for/IN 
+[ coca/NN ]
+by/IN 
+[ Colombian/JJ traffickers/NNS ]
+has/VBZ pushed/VBN 
+[ the/DT price/NN ]
+of/IN 
+[ coca/NN paste/NN ]
+to/TO 
+[ $/$ 600/CD ]
+
+[ a/DT kilogram/NN ]
+from/IN 
+[ $/$ 1,200/CD ]
+
+[ a/DT kilogram/NN ]
+,/, 
+[ the/DT official/NN ]
+said/VBD ./. 
+
+[ U.S./NNP officials/NNS ]
+hope/VBP that/IN 
+[ the/DT fall/NN ]
+in/IN 
+[ coca/NN prices/NNS ]
+will/MD drive/VB 
+[ farmers/NNS ]
+to/TO switch/VB to/TO 
+[ other/JJ crops/NNS ]
+in/IN 
+[ Peru/NNP ]
+,/, 
+[ which/WDT ]
+supplies/VBZ 
+[ coca/NN ]
+for/IN 
+[ an/DT estimated/VBN 60/CD %/NN ]
+of/IN 
+[ the/DT world/NN 's/POS cocaine/NN market/NN ]
+./. 

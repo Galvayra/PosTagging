@@ -1,0 +1,443 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ferranti/NNP International/NNP Signal/NNP PLC/NNP ]
+bought/VBD 
+[ itself/PRP ]
+
+[ some/DT extra/JJ time/NN ]
+to/TO resolve/VB 
+[ its/PRP$ financial/JJ difficulties/NNS ]
+,/, with/IN 
+[ a/DT plan/NN ]
+to/TO raise/VB about/IN 
+[ #/# 100/CD million/CD ]
+ (/( 
+[ US$/$ 158/CD million/CD ]
+ )/) by/IN selling/VBG 
+[ businesses/NNS ]
+./. 
+
+======================================
+
+[ The/DT sales/NNS plan/NN ]
+,/, announced/VBD yesterday/NN ,/, helped/VBD pacify/VB 
+[ the/DT company/NN 's/POS bankers/NNS ]
+,/, 
+[ who/WP ]
+agreed/VBD to/TO 
+[ a/DT short-term/JJ extension/NN ]
+of/IN 
+[ the/DT company/NN 's/POS credit/NN lines/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT bank/NN agreement/NN ]
+,/, 
+[ Britain/NNP 's/POS third-largest/JJ defense-electronics/NNS concern/NN ]
+said/VBD 
+[ it/PRP ]
+``/`` will/MD continue/VB to/TO trade/VB normally/RB ./. 
+
+''/'' 
+======================================
+
+[ The/DT announcement/NN ]
+,/, 
+[ London/NNP analysts/NNS ]
+said/VBD ,/, appears/VBZ to/TO give/VB 
+[ Ferranti/NNP extra/JJ time/NN ]
+to/TO arrange/VB 
+[ a/DT merger/NN ]
+,/, 
+[ partnership/NN ]
+,/, or/CC 
+[ other/JJ means/NNS ]
+of/IN repairing/VBG 
+[ its/PRP$ tattered/JJ balance/NN sheet/NN ]
+./. 
+
+[ Serious/JJ accounting/VBG irregularities/NNS ]
+--/: 
+[ which/WDT ]
+
+[ Ferranti/NNP ]
+has/VBZ said/VBN may/MD be/VB due/JJ to/TO 
+[ fraud/NN ]
+--/: were/VBD disclosed/VBN 
+[ Sept./NNP 11/CD ]
+in/IN 
+[ the/DT books/NNS ]
+of/IN 
+[ a/DT former/JJ Lancaster/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ company/NN ]
+,/, 
+[ International/NNP Signal/NNP ]
+&/CC 
+[ Control/NNP Group/NNP PLC/NNP ]
+,/, with/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+merged/VBD 
+[ last/JJ year/NN ]
+./. 
+
+======================================
+
+[ Ferranti/NNP ]
+has/VBZ said/VBN 
+[ the/DT unit/NN ]
+reported/VBD 
+[ inflated/JJ asset/NN ]
+and/CC 
+[ profit/NN figures/NNS ]
+./. 
+
+[ The/DT expected/VBN correction/NN ]
+in/IN 
+[ Ferranti/NNP 's/POS books/NNS ]
+may/MD slash/VB 
+[ its/PRP$ net/NN worth/NN ]
+,/, or/CC 
+[ assets/NNS ]
+minus/CC 
+[ liabilities/NNS ]
+,/, as/RB much/JJ as/IN 
+[ #/# 200/CD million/CD ]
+,/, or/CC about/IN 
+[ half/PDT the/DT #/# 370.8/CD million/CD net/NN worth/NN ]
+reported/VBN 
+[ March/NNP 31/CD ]
+./. 
+
+======================================
+
+[ Disclosure/NN ]
+of/IN 
+[ the/DT problem/NN ]
+rocked/VBD 
+[ the/DT company/NN ]
+and/CC 
+[ unnerved/JJ its/PRP$ bankers/NNS ]
+and/CC 
+[ customers/NNS ]
+./. 
+
+[ Eurofighter/NNP S.A/NNP ]
+,/, 
+[ a/DT European/JJ consortium/NN ]
+collaborating/VBG on/IN 
+[ construction/NN ]
+of/IN 
+[ a/DT fighter-jet/NN ]
+,/, recently/RB warned/VBD 
+[ its/PRP$ suppliers/NNS ]
+to/TO exercise/VB ``/`` 
+[ caution/NN ]
+''/'' when/WRB subcontracting/VBG to/TO 
+[ Ferranti/NNP ]
+./. 
+
+[ The/DT company/NN 's/POS bankers/NNS ]
+,/, meanwhile/RB ,/, were/VBD legally/RB entitled/VBN to/TO call/VB in/IN 
+[ Ferranti/NNP loans/NNS ]
+,/, because/IN of/IN 
+[ the/DT drop/NN ]
+in/IN 
+[ net/JJ worth/NN ]
+,/, 
+[ a/DT Ferranti/NNP spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+``/`` 
+[ The/DT company/NN ]
+was/VBD in/IN 
+[ breach/NN ]
+of/IN 
+[ loan/NN agreements/NNS ]
+''/'' because/IN of/IN 
+[ the/DT accounting/NN problem/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+[ Any/DT significant/JJ reduction/NN ]
+in/IN 
+[ Ferranti/NNP 's/POS credit/NN lines/NNS ]
+could/MD have/VB panicked/VBN 
+[ its/PRP$ customers/NNS ]
+and/CC 
+[ suppliers/NNS ]
+,/, worsening/VBG 
+[ its/PRP$ problems/NNS ]
+./. 
+
+======================================
+
+[ The/DT banking/NN agreement/NN ]
+averts/VBZ ,/, at/IN 
+[ least/JJS ]
+temporarily/RB ,/, 
+[ such/PDT a/DT calamity/NN ]
+./. 
+
+To/TO further/RB reassure/VB 
+[ Ferranti/NNP clients/NNS ]
+and/CC 
+[ suppliers/NNS ]
+,/, 
+[ the/DT British/JJ defense/NN ministry/NN ]
+yesterday/NN gave/VBD 
+[ the/DT company/NN ]
+
+[ a/DT public/JJ vote/NN ]
+of/IN 
+[ confidence/NN ]
+./. 
+
+``/`` Despite/IN 
+[ its/PRP$ current/JJ financial/JJ difficulties/NNS ]
+,/, ''/'' 
+[ the/DT ministry/NN ]
+said/VBD ,/, ``/`` 
+[ Ferranti/NNP ]
+remains/VBZ 
+[ an/DT important/JJ ]
+and/CC 
+[ valued/JJ supplier/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+added/VBD :/: ``/`` 
+[ We/PRP ]
+are/VBP continuing/VBG to/TO discuss/VB further/RB (/( 
+[ defense/NN ]
+ )/) 
+[ requirements/NNS ]
+with/IN 
+[ them/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Yesterday/NN 's/POS developments/NNS ]
+represent/VBP ``/`` 
+[ a/DT good/JJ short-term/JJ measure/NN ]
+''/'' for/IN 
+[ Ferranti/NNP ]
+,/, said/VBD 
+[ analyst/NN Jane/NNP Stewart/NNP ]
+of/IN 
+[ London-based/JJ Kleinwort/NNP Benson/NNP Securities/NNPS Ltd/NNP ]
+./. 
+
+[ Ferranti/NNP spokesmen/NNS ]
+declined/VBD to/TO say/VB how/WRB 
+[ long/JJ the/DT new/JJ banking/NN agreement/NN ]
+is/VBZ for/IN ./. 
+
+======================================
+
+[ One/CD source/NN ]
+involved/VBN in/IN 
+[ the/DT banking/NN talks/NNS ]
+called/VBD 
+[ the/DT pact/NN ]
+``/`` 
+[ short-term/NN ]
+./. 
+
+''/'' 
+[ None/NN ]
+of/IN 
+[ Ferranti/NNP 's/POS banks/NNS ]
+threatened/VBD to/TO call/VB in/IN 
+[ their/PRP$ loans/NNS ]
+,/, 
+[ this/DT source/NN ]
+said/VBD --/: 
+[ it/PRP ]
+would/MD have/VB been/VBN against/IN 
+[ their/PRP$ own/JJ interests/NNS ]
+to/TO have/VB done/VBN so/RB ./. 
+
+About/IN 
+[ 30/CD banks/NNS ]
+,/, led/VBN by/IN 
+[ Baring/NNP Bros./NNP ]
+and/CC 
+[ National/NNP Westminster/NNP Bank/NNP PLC/NNP ]
+,/, were/VBD involved/VBN in/IN 
+[ the/DT talks/NNS ]
+./. 
+
+[ Ferranti/NNP spokesmen/NNS ]
+declined/VBD to/TO say/VB how/WRB 
+[ much/JJ credit/NN ]
+
+[ the/DT banks/NNS ]
+agreed/VBD to/TO extend/VB ,/, but/CC repeated/VBD 
+[ previous/JJ statements/NNS ]
+that/IN 
+[ Ferranti/NNP credit/NN lines/NNS ]
+normally/RB total/VBP about/IN 
+[ #/# 300/CD million/CD ]
+,/, of/IN 
+[ which/WDT ]
+about/IN 
+[ #/# 200/CD million/CD ]
+is/VBZ normally/RB being/VBG used/VBN at/IN 
+[ any/DT one/CD time/NN ]
+./. 
+
+======================================
+
+[ Ferranti/NNP 's/POS plan/NN ]
+to/TO raise/VB 
+[ cash/NN ]
+with/IN 
+[ #/# 100/CD million/CD ]
+in/IN 
+[ asset/NN sales/NNS ]
+was/VBD n't/RB 
+[ a/DT condition/NN ]
+of/IN 
+[ the/DT new/JJ bank/NN agreement/NN ]
+,/, but/CC 
+[ it/PRP ]
+helped/VBD appease/VB 
+[ the/DT bankers/NNS ]
+./. 
+
+[ The/DT businesses/NNS ]
+being/VBG offered/VBN for/IN 
+[ sale/NN ]
+,/, 
+[ Ferranti/NNP ]
+said/VBD ,/, are/VBP 
+[ all/DT ]
+``/`` 
+[ peripheral/JJ ]
+to/TO 
+[ the/DT main/JJ electronics/NNS activities/NNS ]
+./. 
+
+''/'' 
+[ A/DT spokesman/NN ]
+declined/VBD to/TO identify/VB 
+[ the/DT businesses/NNS ]
+,/, but/CC 
+[ London/NNP analysts/NNS ]
+speculated/VBD 
+[ the/DT sales/NNS list/NN ]
+could/MD include/VB 
+[ Ferranti/NNP 's/POS small/JJ civilian/JJ computer-making/JJ operation/NN ]
+./. 
+
+======================================
+
+[ Though/NNP Ferranti/NNP ]
+is/VBZ already/RB in/IN 
+[ contact/NN ]
+with/IN 
+[ potential/JJ buyers/NNS ]
+,/, 
+[ the/DT Ferranti/NNP spokesman/NN ]
+said/VBD ,/, arranging/VBG 
+[ the/DT sales/NNS ]
+``/`` is/VBZ n't/RB 
+[ the/DT sort/NN ]
+of/IN 
+[ thing/NN ]
+
+[ you/PRP ]
+can/MD do/VB in/IN 
+[ a/DT couple/NN ]
+of/IN 
+[ days/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Arranging/VBG 
+[ a/DT merger/NN ]
+or/CC 
+[ partnership/NN ]
+will/MD take/VB even/RB longer/RB ./. 
+
+[ Though/NNP Ferranti/NNP ]
+said/VBD 
+[ talks/NNS ]
+with/IN ``/`` 
+[ a/DT number/NN ]
+''/'' of/IN 
+[ potential/JJ partners/NNS ]
+are/VBP under/IN 
+[ way/NN ]
+,/, 
+[ the/DT company/NN 's/POS negotiations/NNS ]
+probably/RB will/MD be/VB delayed/VBN by/IN 
+[ close/JJ examination/NN ]
+of/IN 
+[ Ferranti/NNP 's/POS books/NNS ]
+./. 
+
+Moreover/RB ,/, at/IN 
+[ least/JJS two/CD other/JJ British/JJ defense/NN businesses/NNS ]
+,/, 
+[ divisions/NNS ]
+of/IN 
+[ Thorn-EMI/NNP PLC/NNP ]
+and/CC of/IN 
+[ Racal/NNP Electronics/NNP PLC/NNP ]
+,/, are/VBP also/RB on/IN 
+[ the/DT auction/NN block/NN ]
+for/IN 
+[ unrelated/JJ reasons/NNS ]
+./. 
+
+Consequently/RB ,/, 
+[ Ferranti/NNP ]
+has/VBZ to/TO compete/VB for/IN 
+[ buyers/NNS '/POS attention/NN ]
+./. 
+
+======================================
+
+[ The/DT most/RBS likely/JJ partners/NNS ]
+,/, 
+[ analysts/NNS ]
+say/VBP ,/, include/VBP 
+[ British/NNP Aerospace/NNP PLC/NNP ]
+and/CC 
+[ France/NNP 's/POS Thomson/NNP S.A./NNP ]
+;/: 
+[ spokesmen/NNS ]
+for/IN 
+[ those/DT companies/NNS ]
+declined/VBD to/TO comment/VB ./. 

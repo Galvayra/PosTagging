@@ -1,0 +1,486 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Senate/NNP ]
+overwhelmingly/RB approved/VBD 
+[ a/DT bill/NN ]
+intended/VBN to/TO 
+[ bar/VB flag/NN desecration/NN ]
+,/, after/IN 
+[ first/JJ adding/VBG language/NN ]
+
+[ that/WDT ]
+could/MD make/VB 
+[ the/DT measure/NN ]
+unconstitutional/JJ ./. 
+
+======================================
+
+[ The/DT bill/NN ]
+,/, approved/VBD 
+[ 91-9/CD ]
+,/, is/VBZ designed/VBN to/TO circumvent/VB by/IN 
+[ statute/NN ]
+
+[ a/DT Supreme/NNP Court/NNP decision/NN ]
+barring/VBG 
+[ the/DT punishment/NN ]
+of/IN 
+[ a/DT person/NN ]
+
+[ who/WP ]
+burns/VBZ 
+[ the/DT U.S./NNP flag/NN ]
+as/IN 
+[ political/JJ protest/NN ]
+./. 
+
+[ The/DT Senate/NNP debate/NN ]
+had/VBD 
+[ echoes/NNS ]
+of/IN 
+[ last/JJ year/NN 's/POS presidential/JJ campaign/NN ]
+,/, as/RB well/RB as/IN 
+[ omens/NNS ]
+for/IN 
+[ a/DT second/JJ debate/NN ]
+later/RB 
+[ this/DT month/NN ]
+on/IN 
+[ the/DT contentious/JJ question/NN ]
+of/IN whether/IN 
+[ the/DT Constitution/NNP ]
+should/MD be/VB amended/VBN to/TO protect/VB 
+[ the/DT flag/NN ]
+./. 
+
+======================================
+
+[ The/DT House/NNP ]
+,/, 
+[ which/WDT ]
+passed/VBD 
+[ a/DT ]
+slightly/RB 
+[ different/JJ bill/NN last/JJ month/NN ]
+,/, is/VBZ expected/VBN to/TO vote/VB on/IN 
+[ the/DT Senate-passed/JJ measure/NN ]
+next/IN 
+[ week/NN ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT Senate-passed/JJ bill/NN ]
+
+[ anyone/NN ]
+
+[ who/WP ]
+``/`` knowingly/RB mutilates/VBZ ,/, defaces/VBZ ,/, physically/RB 
+[ defiles/VBZ ]
+,/, 
+[ burns/VBZ ]
+,/, maintains/VBZ on/IN 
+[ the/DT floor/NN ]
+or/CC 
+[ ground/NN ]
+,/, or/CC tramples/VBZ upon/IN ''/'' 
+[ a/DT flag/NN ]
+would/MD be/VB subject/JJ to/TO 
+[ an/DT unspecified/JJ fine/NN ]
+and/CC 
+[ a/DT prison/NN term/NN ]
+of/IN as/RB long/JJ as/IN 
+[ one/CD year/NN ]
+./. 
+
+======================================
+
+[ The/DT phrase/NN ]
+``/`` physically/RB 
+[ defiles/VBZ ]
+''/'' was/VBD added/VBN in/IN 
+[ an/DT amendment/NN ]
+sponsored/VBN by/IN 
+[ Sen./NNP Pete/NNP Wilson/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, over/IN 
+[ the/DT objections/NNS ]
+of/IN 
+[ Senate/NNP Judiciary/NNP Committee/NNP Chairman/NNP Joseph/NNP Biden/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Del/NNP ]
+./. 
+
+ )/) ./. 
+
+[ Mr./NNP Biden/NNP ]
+argued/VBD that/IN 
+[ the/DT word/NN ]
+``/`` 
+[ defile/VB ]
+''/'' would/MD require/VB 
+[ a/DT judgment/NN ]
+on/IN 
+[ the/DT intent/NN ]
+of/IN 
+[ someone/NN ]
+
+[ who/WP ]
+burns/VBZ 
+[ a/DT flag/NN ]
+,/, thus/RB making/VBG 
+[ the/DT law/NN ]
+vulnerable/JJ to/TO 
+[ a/DT constitutional/JJ challenge/NN ]
+./. 
+
+======================================
+
+[ Sen./NNP Biden/NNP 's/POS procedural/JJ effort/NN ]
+to/TO block/VB 
+[ the/DT amendment/NN ]
+failed/VBD ,/, 
+[ 69-31/CD ]
+./. 
+
+During/IN 
+[ that/DT roll/NN call/NN ]
+,/, 
+[ eight/CD Southern/JJ ]
+and/CC 
+[ Border/NN State/NN Democrats/NNPS ]
+initially/RB voted/VBD to/TO back/VB 
+[ Mr./NNP Wilson/NNP ]
+./. 
+
+When/WRB 
+[ it/PRP ]
+became/VBD evident/JJ that/IN 
+[ the/DT Californian/NNP ]
+would/MD prevail/VB ,/, 
+[ 10/CD other/JJ Democratic/JJ lawmakers/NNS ]
+switched/VBD 
+[ their/PRP$ votes/NNS ]
+to/TO support/VB 
+[ him/PRP ]
+./. 
+
+Eventually/RB ,/, 
+[ a/DT total/NN ]
+of/IN 
+[ 24/CD Democrats/NNPS ]
+joined/VBD 
+[ all/DT 45/CD Republicans/NNPS ]
+to/TO 
+[ side/VB ]
+with/IN 
+[ Sen./NNP Wilson/NNP ]
+against/IN 
+[ the/DT Biden/NNP effort/NN ]
+./. 
+
+======================================
+
+[ The/DT amendment/NN ]
+
+[ itself/PRP ]
+was/VBD subsequently/RB approved/VBN ,/, 
+[ 76-24/CD ]
+./. 
+
+======================================
+
+[ The/DT strong/JJ support/NN ]
+of/IN 
+[ Democratic/JJ lawmakers/NNS ]
+reflects/VBZ 
+[ their/PRP$ fear/NN ]
+of/IN being/VBG driven/VBN into/IN 
+[ the/DT same/JJ corner/NN ]
+that/IN 
+[ Michael/NNP Dukakis/NNP ]
+found/VBD 
+[ himself/PRP ]
+in/IN because/RB of/IN 
+[ President/NNP Bush/NNP 's/POS use/NN ]
+of/IN 
+[ patriotic/JJ values/NNS ]
+and/CC 
+[ the/DT Pledge/NNP ]
+of/IN 
+[ Allegiance/NNP issue/NN ]
+in/IN 
+[ last/JJ year/NN 's/POS election/NN ]
+./. 
+
+======================================
+
+[ Lawmakers/NNS ]
+turned/VBD back/RB ,/, 
+[ 53-47/CD ]
+,/, 
+[ an/DT attempt/NN ]
+by/IN 
+[ Senate/NNP GOP/NNP Leader/NNP Robert/NNP Dole/NNP ]
+of/IN 
+[ Kansas/NNP ]
+to/TO 
+[ exempt/VB actions/NNS ]
+taken/VBN against/IN 
+[ a/DT flag/NN ]
+in/IN 
+[ private/RB ]
+./. 
+
+[ Sponsors/NNS ]
+believed/VBD 
+[ this/DT provision/NN ]
+also/RB would/MD make/VB 
+[ the/DT measure/NN ]
+constitutionally/RB vulnerable/JJ by/IN suggesting/VBG 
+[ the/DT bill/NN ]
+was/VBD aimed/VBN at/IN curbing/VBG 
+[ public/JJ demonstrations/NNS ]
+rather/RB than/IN physically/RB protecting/VBG 
+[ the/DT flag/NN ]
+./. 
+
+======================================
+
+[ Some/DT Democrats/NNPS ] 
+saw/VBD 
+[ the/DT Republican/JJ amendments/NNS ]
+as/IN 
+[ an/DT effort/NN ]
+to/TO maintain/VB 
+[ the/DT pressure/NN ]
+for/IN 
+[ a/DT constitutional/JJ amendment/NN ]
+,/, favored/VBN by/IN 
+[ Mr./NNP Bush/NNP ]
+./. 
+
+======================================
+
+Already/RB ,/, 
+[ Mr./NNP Dole/NNP ]
+forced/VBD 
+[ a/DT one-day/JJ delay/NN ]
+on/IN 
+[ the/DT measure/NN 's/POS passage/NN ]
+,/, derailing/VBG 
+[ the/DT Democratic/JJ leadership/NN 's/POS hopes/NNS ]
+of/IN quickly/RB sending/VBG 
+[ the/DT measure/NN ]
+to/TO 
+[ the/DT White/NNP House/NNP ]
+./. 
+
+And/CC yesterday/NN 
+[ afternoon/NN ]
+,/, 
+[ Rep./NNP James/NNP Sensenbrenner/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Wis./NNP ]
+ )/) ,/, 
+[ a/DT senior/JJ member/NN ]
+of/IN 
+[ the/DT House/NNP Judiciary/NNP Committee/NNP ]
+,/, blocked/VBD 
+[ a/DT House/NNP vote/NN ]
+on/IN 
+[ the/DT Senate-passed/JJ measure/NN ]
+./. 
+
+======================================
+
+[ Democrats/NNP ]
+hoped/VBD that/IN 
+[ a/DT bill/NN ]
+awaiting/VBG 
+[ the/DT president/NN 's/POS signature/NN ]
+would/MD 
+[ both/DT pressure/NN Mr./NNP Bush/NNP ]
+to/TO sign/VB 
+[ the/DT measure/NN ]
+into/IN 
+[ law/NN ]
+and/CC relieve/VB 
+[ pressure/NN ]
+for/IN 
+[ a/DT constitutional/JJ amendment/NN ]
+./. 
+
+======================================
+
+[ Yesterday/NN 's/POS nine/CD negative/JJ votes/NNS ]
+on/IN 
+[ final/JJ passage/NN ]
+came/VBD from/IN 
+[ a/DT coalition/NN ]
+of/IN 
+[ conservatives/NNS ]
+,/, 
+[ who/WP ]
+argue/VBP that/IN only/RB 
+[ a/DT constitutional/JJ amendment/NN ]
+can/MD provide/VB 
+[ relief/NN ]
+,/, and/CC 
+[ liberals/NNS ]
+,/, 
+[ who/WP ]
+do/VBP n't/RB think/VB 
+[ any/DT response/NN ]
+is/VBZ necessary/JJ and/CC view/VBP 
+[ the/DT measure/NN ]
+as/IN 
+[ an/DT intrusion/NN ]
+on/IN 
+[ First/NNP Amendment/NNP rights/NNS ]
+to/TO 
+[ free/JJ speech/NN ]
+./. 
+
+======================================
+
+[ The/DT House/NNP version/NN ]
+does/VBZ n't/RB include/VB 
+[ language/NN ]
+to/TO bar/VB keeping/VBG 
+[ a/DT flag/NN ]
+on/IN 
+[ the/DT floor/NN ]
+or/CC 
+[ ground/NN ]
+./. 
+
+On/IN 
+[ a/DT voice/NN vote/NN ]
+,/, 
+[ senators/NNS ]
+agreed/VBD to/TO add/VB 
+[ the/DT language/NN ]
+in/IN 
+[ response/NN ]
+to/TO 
+[ a/DT Chicago/NNP conceptual/JJ art/NN exhibit/NN ]
+earlier/RB 
+[ this/DT year/NN ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT flag/NN ]
+was/VBD displayed/VBN on/IN 
+[ the/DT floor/NN ]
+./. 
+
+======================================
+
+[ Both/DT ]
+
+[ versions/NNS ]
+also/RB allow/VBP for/IN 
+[ the/DT burning/NN ]
+of/IN 
+[ soiled/JJ flags/NNS ]
+,/, 
+[ the/DT method/NN ]
+suggested/VBN by/IN 
+[ federal/JJ law/NN ]
+,/, and/CC provide/VBP for/IN 
+[ speedy/JJ consideration/NN ]
+of/IN 
+[ any/DT constitutional/JJ challenge/NN ]
+to/TO 
+[ the/DT measure/NN ]
+./. 
+
+======================================
+
+Currently/RB ,/, 
+[ federal/JJ law/NN ]
+makes/VBZ 
+[ it/PRP ]
+
+[ a/DT crime/NN ]
+to/TO ``/`` knowingly/RB cast/VBN 
+[ contempt/NN ]
+''/'' upon/IN 
+[ a/DT flag/NN ]
+by/IN ``/`` publicly/RB mutilating/VBG ,/, defacing/VBG ,/, defiling/VBG ,/, burning/VBG or/CC trampling/VBG upon/IN 
+[ it/PRP ]
+''/'' and/CC provides/VBZ 
+[ penalties/NNS ]
+of/IN as/RB long/JJ as/IN 
+[ a/DT year/NN imprisonment/NN ]
+and/CC 
+[ a/DT fine/JJ ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 1,000/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ June/NNP ]
+,/, 
+[ the/DT Supreme/NNP Court/NNP ]
+threw/VBD out/RP 
+[ the/DT conviction/NN ]
+of/IN 
+[ a/DT Texas/NNP man/NN ]
+
+[ who/WP ]
+set/VBD 
+[ a/DT flag/NN ]
+afire/RB during/IN 
+[ a/DT 1984/CD demonstration/NN ]
+./. 
+
+[ The/DT court/NN ]
+said/VBD 
+[ he/PRP ]
+was/VBD ``/`` engaging/VBG in/IN 
+[ political/JJ expression/NN ]
+''/'' 
+[ that/WDT ]
+is/VBZ protected/VBN by/IN 
+[ the/DT First/NNP Amendment/NNP ]
+./. 
+
+[ Proponents/NNS ]
+of/IN 
+[ the/DT legislation/NN ]
+hoped/VBD to/TO avoid/VB 
+[ the/DT court/NN 's/POS objection/NN ]
+by/IN targeting/VBG 
+[ an/DT action/NN ]
+rather/RB than/IN 
+[ the/DT intent/NN ]
+behind/IN 
+[ it/PRP ]
+./. 

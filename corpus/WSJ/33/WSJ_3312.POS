@@ -1,0 +1,673 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+When/WRB 
+[ a/DT sales/NNS slump/NN ]
+threatened/VBD to/TO close/VB 
+[ the/DT gear-box/NN factory/NN ]
+where/WRB 
+[ he/PRP ]
+worked/VBD ,/, 
+[ plant/NN manager/NN Antonio/NNP Esteban/NNP ]
+sought/VBD 
+[ a/DT remedy/NN ]
+in/IN 
+[ plant/NN medicine/NN ]
+./. 
+
+======================================
+
+Taking/VBG 
+[ his/PRP$ inspiration/NN ]
+from/IN 
+[ childhood/NN memories/NNS ]
+of/IN 
+[ plant/NN lore/NN ]
+,/, 
+[ he/PRP ]
+started/VBD packing/VBG and/CC marketing/VBG 
+[ the/DT herbs/NNS ]
+
+[ that/WDT ]
+grew/VBD 
+[ wild/JJ ]
+in/IN 
+[ the/DT sun-parched/JJ countryside/NN ]
+of/IN 
+[ northern/JJ Spain/NNP ]
+./. 
+
+[ Nine/CD years/NNS ]
+later/RB ,/, 
+[ what/WP ]
+started/VBD as/IN 
+[ a/DT sideline/NN ]
+to/TO 
+[ his/PRP$ main/JJ job/NN ]
+has/VBZ grown/VBN into/IN 
+[ a/DT business/NN ]
+with/IN more/JJR than/IN 
+[ 100/CD employees/NNS ]
+and/CC 
+[ annual/JJ revenue/NN ]
+of/IN 
+[ several/JJ million/CD dollars/NNS ]
+./. 
+
+[ His/PRP$ company/NN ]
+,/, 
+[ Soria/NNP Natural/NNP SA/NNP ]
+,/, has/VBZ become/VBN 
+[ an/DT entrepreneurial/JJ success/NN story/NN ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT area/NN 's/POS leading/VBG employers/NNS ]
+./. 
+
+======================================
+
+[ Today/NN ]
+,/, 
+[ peppermint/NN ]
+,/, 
+[ sage/NN ]
+,/, 
+[ wormwood/NN ]
+and/CC 
+[ other/JJ herb/NN plants/NNS wave/VBP ]
+outside/IN 
+[ the/DT factory/NN ]
+where/WRB 
+[ Mr./NNP Esteban/NNP ]
+once/RB supervised/VBD 
+[ production/NN ]
+of/IN 
+[ engine/NN ]
+and/CC 
+[ steering/NN units/NNS ]
+for/IN 
+[ clients/NNS ]
+such/JJ as/IN 
+[ International/NNP Harvester/NNP Co./NNP ]
+and/CC 
+[ Allis-Chalmers/NNP Corp./NNP ]
+of/IN 
+[ the/DT U.S./NNP Inside/RB ]
+,/, 
+[ employees/NNS ]
+using/VBG 
+[ modern/JJ processing/NN equipment/NN turn/VBP ]
+out/RP 
+[ several/JJ hundred/CD product/NN lines/NNS ]
+of/IN 
+[ medicinal/JJ herbs/NNS ]
+,/, mixed/JJ 
+[ plant/NN essences/NNS ]
+and/CC 
+[ dietary/JJ products/NNS ]
+./. 
+
+======================================
+
+To/TO 
+[ some/DT ]
+,/, 
+[ herbal/JJ remedies/NNS ]
+smell/VBP of/IN 
+[ quackery/NN ]
+./. 
+
+At/IN 
+[ the/DT least/JJS ]
+,/, 
+[ they/PRP ]
+'re/VBP more/RBR difficult/JJ to/TO administer/VB in/IN 
+[ precise/JJ quantities/NNS ]
+than/IN 
+[ pharmaceuticals/NNS ]
+,/, and/CC in/IN 
+[ some/DT cases/NNS they/PRP ]
+can/MD be/VB dangerous/JJ ./. 
+
+In/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ investigators/NNS ]
+recently/RB warned/VBD of/IN 
+[ the/DT perils/NNS ]
+of/IN illicitly/RB imported/VBN 
+[ herbal/JJ medicines/NNS ]
+laced/VBN with/IN 
+[ prescription/NN drugs/NNS ]
+and/CC potentially/RB 
+[ harmful/JJ substances/NNS ]
+such/JJ as/IN 
+[ lead/NN ]
+and/CC 
+[ cadmium/NN ]
+./. 
+
+======================================
+
+And/CC yet/RB ,/, despite/IN 
+[ widespread/JJ skepticism/NN ]
+,/, 
+[ specialists/NNS ]
+concede/VBP that/IN 
+[ herbal/JJ remedies/NNS ]
+can/MD be/VB 
+[ effective/JJ ]
+in/IN treating/VBG 
+[ some/DT health/NN problems/NNS ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ active/JJ principles/NNS ]
+in/IN 
+[ a/DT number/NN ]
+of/IN 
+[ plants/NNS ]
+,/, ''/'' says/VBZ 
+[ Pedro/NNP Lorenzo/NNP ]
+,/, 
+[ a/DT professor/NN ]
+of/IN 
+[ pharmaceutical/JJ science/NN ]
+at/IN 
+[ the/DT Madrid/NNP University/NNP School/NNP ]
+of/IN 
+[ Medicine/NNP ]
+./. 
+
+======================================
+
+[ Miguel/NNP Ignacio/NNP Sanchez/NNP Castellanos/NNP ]
+,/, 
+[ a/DT practitioner/NN ]
+of/IN 
+[ herbal/JJ medicine/NN ]
+in/IN 
+[ Madrid/NNP ]
+,/, says/VBZ that/IN 
+[ medicinal/JJ plant/NN products/NNS ]
+have/VBP 
+[ many/JJ applications/NNS ]
+and/CC that/IN 
+[ herbal/JJ doctors/NNS ]
+can/MD ``/`` treat/VB 
+[ many/JJ types/NNS ]
+of/IN 
+[ illnesses/NNS ]
+,/, particularly/RB in/IN 
+[ cases/NNS ]
+where/WRB 
+[ conventional/JJ medicine/NN ]
+has/VBZ failed/VBN ./. 
+
+''/'' 
+======================================
+
+[ Whatever/WDT ]
+
+[ the/DT case/NN ]
+,/, 
+[ public/JJ interest/NN ]
+in/IN 
+[ herbal/JJ medicine/NN ]
+is/VBZ rising/VBG ./. 
+
+In/IN 
+[ recent/JJ years/NNS ]
+,/, 
+[ total/JJ sales/NNS ]
+of/IN 
+[ medicinal/JJ herb/NN products/NNS ]
+in/IN 
+[ Spain/NNP ]
+have/VBP been/VBN increasing/VBG at/IN 
+[ annual/JJ rates/NNS ]
+of/IN 
+[ 14/CD %/NN ]
+to/TO 
+[ 15/CD %/NN ]
+,/, estimates/VBZ 
+[ Juan/NNP Rubio/NNP ]
+,/, 
+[ product/NN manager/NN ]
+at/IN 
+[ another/DT medicinal/JJ herb/NN company/NN ]
+,/, 
+[ Dietisa/NNP SA/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ this/DT expanding/VBG market/NN ]
+,/, 
+[ most/JJS participants/NNS ]
+are/VBP fairly/RB small/JJ ./. 
+
+Of/IN more/JJR than/IN 
+[ 100/CD companies/NNS ]
+producing/VBG 
+[ herbal/JJ products/NNS ]
+in/IN 
+[ Spain/NNP ]
+,/, 
+[ Dietisa/NNP ]
+,/, owned/VBN by/IN 
+[ Rhone-Poulenc/NNP SA/NNP ]
+of/IN 
+[ France/NNP ]
+,/, is/VBZ 
+[ the/DT biggest/JJS ]
+,/, followed/VBN by/IN 
+[ a/DT family-owned/JJ company/NN ]
+called/VBN 
+[ Casa/NNP Santiveri/NNP SA/NNP ]
+./. 
+
+======================================
+
+[ Soria/NNP Natural/NNP ]
+,/, though/IN still/RB well/RB behind/IN 
+[ them/PRP ]
+,/, is/VBZ rapidly/RB catching/VBG up/RB ./. 
+
+[ Mr./NNP Esteban/NNP ]
+says/VBZ 
+[ he/PRP ]
+expects/VBZ 
+[ revenue/NN ]
+
+[ this/DT year/NN ]
+of/IN 
+[ 850/CD million/CD pesetas/NNS ]
+ (/( 
+[ $/$ 7.1/CD million/CD ]
+ )/) ,/, up/RB 
+[ 30/CD %/NN ]
+from/IN 
+[ last/JJ year/NN ]
+and/CC more/JJR than/IN 
+[ three/CD times/NNS 1987/CD 's/POS level/NN ]
+./. 
+
+[ Profits/NNS ]
+are/VBP coming/VBG in/RB at/IN 
+[ 20/CD %/NN ]
+of/IN 
+[ revenue/NN ]
+./. 
+
+======================================
+
+From/IN 
+[ modest/JJ beginnings/NNS ]
+in/IN 
+[ a/DT tile-roofed/JJ shed/NN ]
+on/IN 
+[ the/DT outskirts/NNS ]
+of/IN 
+[ Soria/NNP ]
+,/, 
+[ his/PRP$ company/NN ]
+has/VBZ come/VBN far/RB ./. 
+
+Back/RB in/IN 
+[ the/DT early/JJ 1980s/NNS ]
+,/, 
+[ Spain/NNP ]
+was/VBD in/IN 
+[ the/DT midst/NN ]
+of/IN 
+[ a/DT recession/NN ]
+and/CC 
+[ competition/NN ]
+from/IN 
+[ rival/JJ firms/NNS ]
+was/VBD intense/JJ ./. 
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ waging/VBG price/NN warfare/NN ]
+,/, ``/`` 
+[ they/PRP ]
+tried/VBD to/TO prevent/VB 
+[ their/PRP$ retailers/NNS ]
+from/IN stocking/VBG 
+[ our/PRP$ products/NNS ]
+,/, ''/'' 
+[ Mr./NNP Esteban/NNP ]
+recalls/VBZ ./. 
+
+``/`` 
+[ Shop/NN owners/NNS ]
+often/RB had/VBD to/TO keep/VB 
+[ them/PRP ]
+under/IN 
+[ the/DT counter/NN ]
+./. 
+
+''/'' 
+======================================
+
+While/IN 
+[ the/DT gear-box/NN factory/NN ]
+kept/VBD going/VBG ,/, 
+[ Mr./NNP Esteban/NNP ]
+and/CC 
+[ his/PRP$ partners/NNS ]
+worked/VBD 
+[ an/DT eight-hour/JJ day/NN ]
+until/IN 
+[ lunch-time/NN ]
+and/CC went/VBD about/IN 
+[ their/PRP$ plants/NNS business/NN ]
+till/IN 
+[ late/JJ ]
+at/IN 
+[ night/NN ]
+and/CC on/IN 
+[ weekends/NNS ]
+./. 
+
+When/WRB 
+[ the/DT gear-box/NN factory/NN ]
+finally/RB closed/VBD in/IN 
+[ 1984/CD ]
+,/, 
+[ Soria/NNP Natural/NNP ]
+was/VBD still/RB only/RB 
+[ a/DT small-time/JJ operation/NN ]
+,/, and/CC 
+[ Mr./NNP Esteban/NNP ]
+had/VBD to/TO mortgage/VB 
+[ his/PRP$ apartment/NN ]
+to/TO keep/VB 
+[ it/PRP ]
+going/VBG ./. 
+
+But/CC 
+[ the/DT trio/NN ]
+had/VBD 
+[ ambitious/JJ plans/NNS ]
+for/IN 
+[ growth/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ 1986/CD ]
+,/, 
+[ Soria/NNP Natural/NNP ]
+branched/VBD out/RB into/IN  
+[ honey/NN ]
+and/CC related/JJ 
+[ products/NNS ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, 
+[ it/PRP ]
+relocated/VBD 
+[ north/RB ]
+of/IN 
+[ Soria/NNP ]
+on/IN 
+[ the/DT banks/NNS ]
+of/IN 
+[ the/DT Duero/NNP River/NNP ]
+./. 
+
+======================================
+
+Using/VBG 
+[ loans/NNS ]
+and/CC 
+[ re-invested/JJ profits/NNS ]
+,/, 
+[ Mr./NNP Esteban/NNP ]
+spent/VBD 
+[ P350/CD million/CD ]
+on/IN processing/NN and/CC 
+[ packaging/NN machinery/NN ]
+./. 
+
+Hiring/VBG 
+[ new/JJ employees/NNS ]
+,/, including/VBG 
+[ an/DT export/NN director/NN ]
+trained/VBN in/IN 
+[ herbal/JJ medicine/NN ]
+,/, 
+[ he/PRP ]
+set/VBD about/IN extending/VBG 
+[ his/PRP$ national/JJ sales/NNS network/NN ]
+./. 
+
+======================================
+
+[ Today/NN ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ health-food/NN stores/NNS ]
+and/CC 
+[ pharmacies/NNS ]
+,/, that/IN 
+[ network/NN ]
+includes/VBZ 
+[ 46/CD ]
+independently/RB owned/JJ 
+[ specialty/NN stores/NNS ]
+identified/VBN by/IN 
+[ the/DT company/NN 's/POS own/JJ dog-rose/NN emblem/NN ]
+./. 
+
+Alongside/IN 
+[ herb/NN medicines/NNS ]
+,/, 
+[ these/DT boutiques/NNS ]
+sell/VBP 
+[ Soria/NNP Natural/NNP cosmetics/NNS ]
+and/CC 
+[ beauty/NN products/NNS ]
+./. 
+
+Abroad/RB ,/, 
+[ the/DT company/NN ]
+is/VBZ selling/VBG in/IN 
+[ Portugal/NNP ]
+,/, 
+[ France/NNP ]
+,/, 
+[ West/NNP Germany/NNP ]
+,/, 
+[ Chile/NNP ]
+and/CC 
+[ Venezuela/NNP ]
+and/CC is/VBZ looking/VBG for/IN 
+[ new/JJ outlets/NNS ]
+in/IN 
+[ other/JJ countries/NNS ]
+,/, including/VBG 
+[ the/DT ]
+
+======================================
+
+[ Further/JJ expansion/NN plans/NNS ]
+include/VBP 
+[ the/DT purchase/NN ]
+of/IN 
+[ high-tech/JJ scientific/JJ equipment/NN ]
+for/IN 
+[ mineral/NN ]
+and/CC 
+[ molecular/JJ analysis/NN ]
+and/CC 
+[ the/DT development/NN ]
+of/IN 
+[ new/JJ product/NN lines/NNS ]
+,/, including/VBG 
+[ high-vitamin/JJ ]
+germinated/JJ 
+[ cereal/NN products/NNS ]
+and/CC 
+[ baby/NN foods/NNS ]
+made/VBN from/IN naturally/RB farmed/JJ 
+[ livestock/NN ]
+./. 
+
+======================================
+
+But/CC despite/IN 
+[ the/DT modern/JJ technology/NN ]
+,/, most/JJS of/IN 
+[ the/DT company/NN 's/POS products/NNS ]
+are/VBP based/VBN on/IN 
+[ recipes/NNS ]
+from/IN 
+[ Mr./NNP Esteban/NNP 's/POS grandparents/NNS ]
+,/, 
+[ amateur/JJ herbal/JJ doctors/NNS ]
+
+[ who/WP ]
+provided/VBD 
+[ plant/NN remedies/NNS ]
+for/IN 
+[ friends/NNS ]
+and/CC 
+[ neighbors/NNS ]
+in/IN 
+[ their/PRP$ native/JJ Extremadura/NNP ]
+in/IN 
+[ western/JJ Spain/NNP ]
+./. 
+
+======================================
+
+[ Part/NN ]
+of/IN 
+[ Soria/NNP Natural/NNP 's/POS success/NN ]
+seems/VBZ to/TO result/VB from/IN 
+[ its/PRP$ efforts/NNS ]
+to/TO ensure/VB 
+[ quality/NN ]
+in/IN 
+[ its/PRP$ products/NNS ]
+./. 
+
+[ Pesticides/NNS ]
+and/CC 
+[ chemical/NN fertilizers/NNS ]
+are/VBP strictly/RB avoided/VBN ./. 
+
+======================================
+
+[ The/DT company/NN has/VBZ n't/RB ]
+yet/RB paid/VBD 
+[ a/DT dividend/NN ]
+,/, and/CC 
+[ Mr./NNP Esteban/NNP ]
+,/, 
+[ who/WP ]
+owns/VBZ 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT company/NN ]
+,/, and/CC 
+[ his/PRP$ two/CD partners/NNS ]
+,/, 
+[ who/WP ]
+
+[ each/DT own/JJ 10/CD %/NN ]
+,/, draw/VBP 
+[ only/JJ modest/JJ salaries/NNS ]
+./. 
+
+But/CC 
+[ that/DT ]
+'s/VBZ 
+[ part/NN ]
+of/IN 
+[ the/DT secret/NN ]
+of/IN 
+[ the/DT company/NN 's/POS success/NN ]
+,/, 
+[ Mr./NNP Esteban/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ We/PRP ]
+'ve/VBP re-invested/VBN 
+[ every/DT peseta/NN ]
+of/IN 
+[ profits/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+explains/VBZ ./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ 
+[ what/WP ]
+has/VBZ allowed/VBN 
+[ this/DT company/NN ]
+to/TO forge/VB ahead/RB ./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ salary/NN ]
+,/, 
+[ there/EX ]
+are/VBP 
+[ other/JJ compensations/NNS ]
+./. 
+
+Working/VBG in/IN 
+[ the/DT open/JJ air/NN ]
+at/IN 
+[ his/PRP$ new/JJ profession/NN ]
+,/, says/VBZ 
+[ Mr./NNP Martinez/NNP ]
+,/, tugging/VBG at/IN 
+[ a/DT taragon/NN root/NN ]
+in/IN 
+[ a/DT field/NN ]
+near/IN 
+[ Soria/NNP Natural/NNP 's/POS factory/NN ]
+,/, ``/`` is/VBZ n't/RB really/RB 
+[ like/JJ work/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ more/JJR 
+[ a/DT way/NN ]
+of/IN 
+[ life/NN ]
+./. 

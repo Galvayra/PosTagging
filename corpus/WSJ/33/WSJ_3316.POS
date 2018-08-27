@@ -1,0 +1,495 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Hydro-Quebec/NNP ]
+,/, 
+[ a/DT big/JJ exporter/NN ]
+of/IN 
+[ electricity/NN ]
+to/TO 
+[ the/DT northeastern/JJ U.S./NNP ]
+,/, is/VBZ praying/VBG for/IN 
+[ rain/NN ]
+./. 
+
+======================================
+
+[ Five/CD years/NNS ]
+of/IN 
+[ dry/JJ weather/NN ]
+in/IN 
+[ northern/JJ Quebec/NNP ]
+have/VBP emptied/VBN 
+[ the/DT ]
+provincially/RB owned/JJ 
+[ utility/NN 's/POS reservoirs/NNS ]
+and/CC forced/VBD 
+[ it/PRP ]
+to/TO chop/VB 
+[ spot/NN sales/NNS ]
+of/IN 
+[ surplus/JJ power/NN ]
+to/TO 
+[ the/DT U.S./NNP ]
+and/CC even/RB to/TO pull/VB 
+[ the/DT plug/NN ]
+on/IN 
+[ some/DT Quebec/NNP industrial/JJ customers/NNS ]
+./. 
+
+======================================
+
+[ Hydro-Quebec/NNP 's/POS reservoirs/NNS ]
+are/VBP less/JJR than/IN 
+[ half-full/JJ ]
+./. 
+
+Even/RB if/IN 
+[ the/DT province/NN ]
+gets/VBZ 
+[ its/PRP$ normal/JJ dose/NN ]
+of/IN 
+[ rain/NN ]
+
+[ this/DT fall/NN ]
+,/, 
+[ the/DT reservoirs/NNS ]
+could/MD drop/VB to/TO as/RB low/JJ as/IN 
+[ 15%-full/JJ ]
+by/IN 
+[ the/DT time/NN ]
+
+[ the/DT winter/NN ]
+is/VBZ over/IN ,/, 
+[ the/DT usual/JJ low-water/NN point/NN ]
+for/IN 
+[ the/DT year/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ about/IN 
+[ the/DT worst/JJS year/NN ]
+in/IN 
+[ history/NN ]
+,/, ''/'' said/VBD 
+[ Gilbert/NNP Neveu/NNP ]
+,/, 
+[ a/DT Hydro-Quebec/NNP planning/NN executive/NN ]
+./. 
+
+======================================
+
+[ The/DT low/JJ water/NN levels/NNS ]
+wo/MD n't/RB stop/VB 
+[ Hydro-Quebec/NNP 's/POS current/JJ sales/NNS ]
+to/TO 
+[ the/DT northeastern/JJ U.S./NNP ]
+of/IN ``/`` 
+[ firm/JJ ]
+''/'' 
+[ power/NN ]
+,/, 
+[ specific/JJ amounts/NNS ]
+of/IN 
+[ electricity/NN ]
+sold/VBN under/IN 
+[ contract/NN ]
+./. 
+
+Nor/CC will/MD 
+[ the/DT water/NN shortage/NN ]
+alter/VB 
+[ the/DT utility/NN 's/POS strategy/NN ]
+of/IN selling/VBG 
+[ large/JJ amounts/NNS ]
+of/IN ``/`` 
+[ firm/JJ ]
+''/'' 
+[ power/NN ]
+to/TO 
+[ the/DT U.S./NNP ]
+over/IN 
+[ the/DT next/JJ 20/CD years/NNS ]
+./. 
+
+[ That/DT power/NN ]
+will/MD be/VB supplied/VBN by/IN 
+[ new/JJ generators/NNS ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ the/DT water/NN shortage/NN ]
+and/CC increased/VBN 
+[ demand/NN ]
+in/IN 
+[ Quebec/NNP ]
+have/VB ended/VBN 
+[ sales/NNS ]
+of/IN ``/`` 
+[ surplus/NN ]
+''/'' 
+[ power/NN ]
+,/, 
+[ electricity/NN ]
+sold/VBN to/TO 
+[ other/JJ provinces/NNS ]
+and/CC 
+[ U.S./NNP utilities/NNS ]
+when/WRB available/JJ ./. 
+
+======================================
+
+[ Last/JJ year/NN Hydro-Quebec/NNP ]
+projected/VBD 
+[ it/PRP ]
+would/MD have/VB 
+[ 63/CD billion/CD kilowatt-hours/NNS ]
+of/IN 
+[ surplus/JJ power/NN ]
+for/IN 
+[ sale/NN bewteen/IN 1988/CD ]
+and/CC 
+[ 1993/CD ]
+./. 
+
+[ This/DT spring/NN ]
+
+[ the/DT utility/NN ]
+said/VBD 
+[ it/PRP ]
+would/MD have/VB hardly/RB 
+[ any/DT surplus/JJ power/NN ]
+at/IN 
+[ all/DT ]
+for/IN 
+[ sale/NN ]
+./. 
+
+[ One/CD billion/CD kilowatt-hours/NNS ]
+is/VBZ about/IN 
+[ the/DT amount/NN ]
+used/VBN by/IN 
+[ a/DT city/NN ]
+of/IN 
+[ 50,000/CD ]
+in/IN 
+[ one/CD year/NN ]
+./. 
+
+======================================
+
+[ This/DT year/NN ]
+
+[ the/DT utility/NN ]
+had/VBD planned/VBN to/TO sell/VB 
+[ 3.2/CD billion/CD kwh/NNS ]
+of/IN 
+[ surplus/JJ power/NN ]
+but/CC even/RB 
+[ that/WDT ]
+has/VBZ proved/VBN to/TO be/VB too/RB ambitious/JJ 
+[ a/DT goal/NN ]
+./. 
+
+[ Hydro-Quebec/NNP ]
+now/RB says/VBZ 
+[ it/PRP ]
+will/MD sell/VB less/JJR than/IN 
+[ one/CD billion/CD kwh/NNS ]
+./. 
+
+However/RB ,/, 
+[ Hydro-Quebec/NNP ]
+will/MD still/RB be/VB 
+[ a/DT net/JJ exporter/NN ]
+of/IN 
+[ electricity/NN ]
+in/IN 
+[ 1989/CD ]
+./. 
+
+[ It/PRP ]
+will/MD sell/VB about/IN 
+[ 10/CD billion/CD kwh/NNS ]
+under/IN existing/VBG 
+[ firm/JJ contracts/NNS ]
+and/CC will/MD buy/VB 
+[ four/CD billion/CD kwh/NNS ]
+./. 
+
+======================================
+
+[ U.S./NNP utilities/NNS ]
+would/MD buy/VB 
+[ more/JJR electricity/NN ]
+from/IN 
+[ Hydro-Quebec/NNP ]
+if/IN 
+[ they/PRP ]
+could/MD ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP always/RB looking/VBG for/IN 
+[ power/NN ]
+,/, ''/'' said/VBD 
+[ a/DT spokeswoman/NN ]
+for/IN 
+[ Western/NNP Massachusetts/NNP Electric/NNP Co./NNP ]
+,/, 
+[ Springfield/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ a/DT Hydro-Quebec/NNP customer/NN ]
+./. 
+
+======================================
+
+[ The/DT lack/NN ]
+of/IN 
+[ rain/NN ]
+has/VBZ cost/VBN 
+[ Hydro-Quebec/NNP ]
+
+[ a/DT lot/NN ]
+of/IN 
+[ money/NN ]
+:/: about/IN 
+[ 300/CD million/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 255/CD million/CD ]
+ )/) 
+[ last/JJ year/NN ]
+and/CC probably/RB about/IN 
+[ the/DT same/JJ ]
+
+[ this/DT year/NN ]
+in/IN 
+[ extra/JJ costs/NNS ]
+and/CC lost/VBN 
+[ sales/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1987/CD export/NN sales/NNS ]
+brought/VBN in/IN 
+[ C$/$ 713/CD million/CD ]
+./. 
+
+[ This/DT year/NN ]
+
+[ the/DT utility/NN ]
+expects/VBZ 
+[ export/NN sales/NNS ]
+of/IN only/RB 
+[ C$/$ 318/CD million/CD ]
+./. 
+
+[ Total/JJ revenue/NN ]
+for/IN 
+[ 1989/CD ]
+is/VBZ expected/VBN to/TO be/VB about/IN 
+[ C$/$ 5.5/CD billion/CD ]
+./. 
+
+======================================
+
+Just/RB meeting/VBG 
+[ demand/NN ]
+in/IN 
+[ Quebec/NNP ]
+
+[ this/DT winter/NN ]
+will/MD take/VB 
+[ all/DT ]
+of/IN 
+[ Hydro-Quebec/NNP 's/POS ingenuity/NN ]
+./. 
+
+[ It/PRP ]
+has/VBZ fired/VBN up/RP 
+[ a/DT thermal/JJ generating/VBG plant/NN ]
+normally/RB used/VBN only/RB in/IN 
+[ peak/NN periods/NNS ]
+and/CC will/MD run/VB 
+[ it/PRP ]
+full-time/JJ ./. 
+
+[ Hydro-Quebec/NNP ]
+also/RB will/MD buy/VB 
+[ electricity/NN ]
+from/IN neighboring/VBG 
+[ utilities/NNS ]
+on/IN 
+[ a/DT regular/JJ basis/NN ]
+./. 
+
+======================================
+
+But/CC if/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ small/JJ generating/NN plants/NNS ]
+now/RB under/IN 
+[ construction/NN ]
+or/CC being/VBG repaired/VBN do/VBP n't/RB start/VB 
+[ producing/VBG electricity/NN ]
+as/IN planned/VBN by/IN 
+[ December/NNP ]
+,/, 
+[ Hydro-Quebec/NNP ]
+wo/MD n't/RB have/VB 
+[ any/DT room/NN ]
+to/TO maneuver/VB ./. 
+
+[ Hydro-Quebec/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+'ll/MD be/VB able/JJ to/TO meet/VB 
+[ local/JJ demand/NN ]
+
+[ this/DT winter/NN ]
+and/CC insist/VB 
+[ the/DT situation/NN ]
+is/VBZ n't/RB critical/JJ ./. 
+
+But/CC 
+[ they/PRP ]
+wo/MD n't/RB rule/VB out/RP 
+[ load-shedding/NNS ]
+or/CC 
+[ brownouts/NNS ]
+if/IN 
+[ the/DT province/NN ]
+gets/VBZ hit/VBN with/IN 
+[ a/DT bad/JJ cold/JJ spell/NN ]
+./. 
+
+======================================
+
+[ The/DT low-water/NN problem/NN ]
+is/VBZ n't/RB confined/VBN to/TO Quebec/NNP ./. 
+
+[ Manitoba/NNP Hydro/NNP ]
+has/VBZ seen/VBN 
+[ its/PRP$ export/NN sales/NNS ]
+to/TO 
+[ other/JJ provinces/NNS ]
+and/CC 
+[ the/DT U.S./NNP drop/NN ]
+to/TO 
+[ C$/$ 31/CD million/CD ]
+in/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ March/NNP 31/CD ]
+,/, 
+[ 1989/CD ]
+,/, from/IN 
+[ C$/$ 113/CD million/CD ]
+in/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ March/NNP 31/CD ]
+,/, 
+[ 1987/CD ]
+./. 
+
+[ A/DT Manitoba/NNP Hydro/NNP spokesman/NN ]
+said/VBD 
+[ water/NN levels/NNS ]
+are/VBP now/RB rising/VBG but/CC 
+[ points/NNS ]
+out/IN 
+[ that/DT ]
+with/IN 
+[ annual/JJ revenue/NN ]
+of/IN just/RB over/IN 
+[ C$/$ 600/CD million/CD ]
+,/, 
+[ the/DT drop/NN ]
+in/IN 
+[ export/NN sales/NNS ]
+hurts/VBZ ./. 
+
+======================================
+
+So/RB far/RB 
+[ the/DT water/NN shortages/NNS ]
+are/VBP n't/RB worrying/VBG 
+[ the/DT utilities/NNS '/POS creditors/NNS ]
+or/CC raising/VBG 
+[ borrowing/VBG costs/NNS ]
+,/, but/CC 
+[ the/DT situation/NN has/VBZ n't/RB ]
+escaped/VBN 
+[ notice/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ certainly/RB 
+[ a/DT concern/NN ]
+to/TO 
+[ us/PRP ]
+and/CC 
+[ we/PRP ]
+continue/VBP to/TO monitor/VB 
+[ the/DT situation/NN ]
+,/, ''/'' said/VBD 
+[ Ihor/NNP Kots/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+of/IN 
+[ Canada/NNP Bond/NNP Rating/NNP Service/NNP Inc./NNP ]
+,/, 
+[ Montreal/NNP ]
+./. 
+
+======================================
+
+[ Canadian/JJ utilities/NNS ]
+are/VBP 
+[ big/JJ borrowers/NNS ]
+and/CC 
+[ Hydro-Quebec/NNP ]
+,/, in/IN 
+[ particular/JJ ]
+,/, relies/VBZ heavily/RB on/IN 
+[ U.S./NNP capital/NN markets/NNS ]
+./. 
+
+[ Its/PRP$ 10-year/JJ development/NN plan/NN ]
+calls/VBZ for/IN 
+[ capital/NN expenditures/NNS ]
+of/IN 
+[ C$/$ 48/CD billion/CD ]
+to/TO 
+[ C$/$ 61/CD billion/CD ]
+,/, most/JJS of/IN 
+[ which/WDT ]
+will/MD be/VB paid/VBN for/IN with/IN 
+[ borrowed/VBN funds/NNS ]
+./. 

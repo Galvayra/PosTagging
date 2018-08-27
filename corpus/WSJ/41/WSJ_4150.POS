@@ -1,0 +1,45 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ PRATT/NNP ]
+&/CC 
+[ LAMBERT/NNP Inc./NNP ]
+closed/VBD at/IN 
+[ $/$ 14.375/CD ]
+
+[ a/DT share/NN Thursday/NNP ]
+,/, up/IN 
+[ 62.5/CD cents/NNS ]
+,/, in/IN 
+[ American/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ./. 
+
+[ Friday/NNP 's/POS edition/NN ]
+misstated/VBD 
+[ the/DT price/NN movement/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Pratt/NNP ]
+&/CC 
+[ Lambert/NNP Buy-Back/NNP ]
+''/'' --/: 
+[ WSJ/NNP Sept./NNP 29/CD ]
+,/, 
+[ 1989/CD ]

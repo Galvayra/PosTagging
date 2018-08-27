@@ -1,0 +1,660 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ UAL/NNP Corp./NNP Chairman/NNP Stephen/NNP M./NNP Wolf/NNP ]
+,/, under/IN 
+[ fire/NN ]
+from/IN 
+[ employee/NN groups/NNS ]
+over/IN 
+[ profits/NNS ]
+
+[ he/PRP ]
+stands/VBZ to/TO gain/VB from/IN 
+[ a/DT labor-management/JJ takeover/NN ]
+,/, pledged/VBD to/TO work/VB to/TO ensure/VB 
+[ employees/NNS ]
+make/VB 
+[ a/DT profit/NN ]
+on/IN 
+[ their/PRP$ own/JJ investment/NN ]
+in/IN 
+[ the/DT buy-out/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ his/PRP$ first/JJ interview/NN ]
+since/IN 
+[ UAL/NNP 's/POS board/NN ]
+approved/VBD 
+[ a/DT $/$ 6.79/CD billion/CD takeover/NN bid/NN ]
+from/IN 
+[ senior/JJ managers/NNS ]
+,/, 
+[ United/NNP Airlines/NNP '/POS pilot/NN union/NN ]
+and/CC 
+[ British/NNP Airways/NNP PLC/NNP ]
+,/, 
+[ Mr./NNP Wolf/NNP ]
+defended/VBD 
+[ both/DT ]
+
+[ the/DT buy-out/NN plan/NN ]
+and/CC 
+[ the/DT terms/NNS ]
+
+[ it/PRP ]
+offers/VBZ 
+[ him/PRP ]
+and/CC 
+[ other/JJ managers/NNS ]
+./. 
+
+[ The/DT 85/CD %/NN stake/NN ]
+reserved/VBN for/IN 
+[ management/NN ]
+and/CC 
+[ employees/NNS ]
+would/MD make/VB 
+[ UAL/NNP ]
+
+[ the/DT largest/JJS employee-owned/JJ company/NN ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT 48-year-old/JJ chairman/NN ]
+is/VBZ guaranteed/VBN to/TO benefit/VB financially/RB from/IN 
+[ the/DT buy-out/NN ]
+,/, 
+[ he/PRP ]
+cautioned/VBD ``/`` 
+[ there/EX ]
+can/MD be/VB 
+[ no/DT promises/NNS ]
+''/'' that/IN 
+[ the/DT same/JJ ]
+would/MD be/VB true/JJ for/IN 
+[ rank-and-file/JJ employees/NNS ]
+./. 
+
+However/RB ,/, 
+[ he/PRP ]
+added/VBD :/: ``/`` 
+[ It/PRP ]
+is/VBZ 
+[ my/PRP$ objective/NN ]
+to/TO return/VB to/TO 
+[ employees/NNS 100/CD %/NN ]
+of/IN 
+[ their/PRP$ investment/NN ]
+and/CC 
+[ a/DT significant/JJ profit/NN margin/NN ]
+on/IN 
+[ top/NN ]
+of/IN 
+[ that/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ Tender/NN offer/NN documents/NNS ]
+made/VBD 
+[ public/JJ Friday/NNP ]
+disclosed/VBD that/IN 
+[ Mr./NNP Wolf/NNP ]
+would/MD reap/VB 
+[ $/$ 76.7/CD million/CD ]
+from/IN 
+[ the/DT stock/NN ]
+and/CC 
+[ options/NNS ]
+
+[ he/PRP ]
+holds/VBZ in/IN 
+[ UAL/NNP ]
+once/IN 
+[ the/DT transaction/NN ]
+is/VBZ completed/VBN ./. 
+
+[ John/NNP C./NNP Pope/NNP ]
+,/, 
+[ UAL/NNP 's/POS chief/JJ financial/JJ officer/NN ]
+,/, would/MD receive/VB 
+[ $/$ 37.7/CD million/CD ]
+from/IN 
+[ his/PRP$ stock/NN ]
+and/CC 
+[ options/NNS ]
+./. 
+
+======================================
+
+[ The/DT documents/NNS ]
+also/RB showed/VBD that/IN 
+[ Messrs./NNPS Wolf/NNP ]
+and/CC 
+[ Pope/NNP ]
+and/CC 
+[ another/DT 35/CD UAL/NNP executives/NNS ]
+participating/VBG in/IN 
+[ the/DT buy-out/NN ]
+would/MD receive/VB 
+[ new/JJ stock/NN ]
+and/CC 
+[ options/NNS ]
+amounting/VBG to/TO 
+[ a/DT 10/CD %/NN stake/NN ]
+in/IN 
+[ UAL/NNP ]
+once/IN 
+[ the/DT buy-out/NN ]
+is/VBZ completed/VBN ./. 
+
+[ Financial/JJ experts/NNS ]
+estimate/VBP 
+[ the/DT value/NN ]
+of/IN 
+[ these/DT new/JJ options/NNS ]
+at/IN between/IN 
+[ $/$ 65/CD million/CD ]
+and/CC 
+[ $/$ 90/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT disclosure/NN ]
+of/IN 
+[ the/DT executives/NNS '/POS profit/NN ]
+comes/VBZ at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ Mr./NNP Wolf/NNP ]
+is/VBZ trying/VBG to/TO persuade/VB 
+[ all/DT UAL/NNP employees/NNS ]
+to/TO make/VB 
+[ wage/NN concessions/NNS ]
+and/CC 
+[ productivity/NN improvements/NNS ]
+to/TO help/VB finance/VB 
+[ the/DT takeover/NN ]
+./. 
+
+So/RB far/RB ,/, only/RB 
+[ the/DT pilot/NN union/NN ]
+has/VBZ agreed/VBN to/TO participate/VB ,/, pledging/VBG 
+[ $/$ 250/CD million/CD ]
+in/IN 
+[ annual/JJ concessions/NNS ]
+and/CC 
+[ $/$ 200/CD million/CD ]
+from/IN 
+[ a/DT pension/NN plan/NN ]
+toward/IN 
+[ the/DT buy-out/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT interview/NN ]
+,/, 
+[ Mr./NNP Wolf/NNP ]
+said/VBD 
+[ he/PRP ]
+was/VBD convinced/JJ 
+[ UAL/NNP ]
+would/MD succumb/VB to/TO 
+[ a/DT takeover/NN ]
+following/VBG 
+[ a/DT $/$ 5.4/CD billion/CD bid/NN ]
+from/IN 
+[ Los/NNP Angeles/NNP investor/NN Marvin/NNP Davis/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Wolf/NNP ]
+called/VBD 
+[ the/DT terms/NNS ]
+offered/VBN to/TO 
+[ management/NN ]
+``/`` 
+[ fair/JJ ]
+./. 
+
+''/'' But/CC in/IN 
+[ an/DT apparent/JJ effort/NN ]
+to/TO deflect/VB 
+[ criticism/NN ]
+,/, 
+[ he/PRP ]
+said/VBD 
+[ he/PRP ]
+plans/VBZ to/TO forgo/VB 
+[ his/PRP$ $/$ 575,000/CD annual/JJ salary/NN ]
+for/IN 
+[ the/DT first/JJ year/NN ]
+following/VBG 
+[ the/DT takeover/NN ]
+./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ he/PRP ]
+would/MD work/VB without/IN 
+[ a/DT contract/NN ]
+indefinitely/RB ./. 
+
+======================================
+
+[ Such/PDT a/DT move/NN ]
+would/MD prevent/VB 
+[ him/PRP ]
+from/IN receiving/VBG 
+[ substantial/JJ ]
+``/`` 
+[ golden/JJ parachute/NN ]
+''/'' 
+[ severance/NN pay/NN ]
+should/MD 
+[ he/PRP ]
+leave/VB United/NNP 
+[ 's/POS employment/NN ]
+./. 
+
+[ He/PRP ]
+also/RB said/VBD that/IN 
+[ he/PRP ]
+would/MD lose/VB 
+[ his/PRP$ lucrative/JJ new/JJ options/NNS ]
+in/IN 
+[ the/DT employee-owned/JJ company/NN ]
+if/IN 
+[ he/PRP ]
+is/VBZ fired/VBN ./. 
+
+======================================
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+has/VBZ asked/VBN 
+[ other/JJ senior/JJ managers/NNS ]
+participating/VBG in/IN 
+[ the/DT buy-out/NN ]
+to/TO work/VB without/IN 
+[ similar/JJ contracts/NNS ]
+./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ he/PRP ]
+plans/VBZ to/TO donate/VB 
+[ $/$ 1/CD million/CD ]
+from/IN 
+[ his/PRP$ profits/NNS ]
+to/TO 
+[ charities/NNS ]
+
+[ that/WDT ]
+run/VBP 
+[ educational/JJ profits/NNS ]
+,/, in/IN 
+[ addition/NN ]
+to/TO starting/VBG 
+[ his/PRP$ own/JJ foundation/NN ]
+dedicated/VBN to/TO 
+[ education/NN issues/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Wolf/NNP 's/POS overtures/NNS ]
+did/VBD little/JJ to/TO appease/VB United/NNP 
+[ 's/POS machinists/NNS union/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ complained/VBN 
+[ the/DT most/RBS ]
+about/IN 
+[ the/DT current/JJ buy-out/NN plan/NN ]
+./. 
+
+[ A/DT machinists/NNS spokesman/NN ]
+said/VBD 
+[ the/DT union/NN ]
+finds/VBZ 
+[ the/DT management/NN windfall/NN ]
+``/`` 
+[ offensive/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT machinists/NNS union/NN ]
+is/VBZ also/RB upset/JJ that/IN 
+[ UAL/NNP 's/POS outside/JJ directors/NNS ]
+gave/VBD 
+[ themselves/PRP ]
+
+[ $/$ 20,000-a-year/JJ salaries/NNS ]
+for/IN 
+[ life/NN ]
+./. 
+
+[ They/PRP ]
+also/RB approved/VBD 
+[ unlimited/JJ free/JJ travel/NN privileges/NNS ]
+for/IN 
+[ themselves/PRP ]
+and/CC 
+[ their/PRP$ spouses/NNS ]
+./. 
+
+[ Mr./NNP Wolf/NNP ]
+said/VBD only/RB 
+[ one/CD ]
+of/IN 
+[ the/DT current/JJ outside/JJ directors/NNS ]
+will/MD be/VB returning/VBG to/TO 
+[ the/DT board/NN ]
+once/IN 
+[ the/DT company/NN ]
+is/VBZ sold/VBN ./. 
+
+======================================
+
+[ The/DT union/NN ]
+criticized/VBD 
+[ the/DT directors/NNS ]
+for/IN rejecting/VBG 
+[ a/DT recapitalization/NN ]
+plan/NN 
+[ its/PRP$ financial/JJ advisers/NNS ]
+had/VBD proposed/VBN as/IN 
+[ an/DT option/NN ]
+./. 
+
+[ The/DT recapitalization/NN ]
+would/MD have/VB given/VBN 
+[ employees/NNS ]
+
+[ a/DT 50/CD %/NN ownership/NN stake/NN ]
+but/CC placed/VBN 
+[ less/JJR debt/NN ]
+on/IN 
+[ the/DT airline/NN ]
+./. 
+
+[ The/DT labor-management/JJ buy-out/NN ]
+would/MD result/VB in/IN 
+[ $/$ 7.2/CD billion/CD ]
+in/IN 
+[ debt/NN ]
+./. 
+
+======================================
+
+[ The/DT recapitalization/NN ]
+would/MD have/VB resulted/VBN in/IN 
+[ $/$ 2.5/CD billion/CD less/JJR new/JJ debt/NN ]
+,/, ``/`` but/CC less/JJR of/IN 
+[ a/DT financial/JJ boon/NN ]
+for/IN 
+[ management/NN ]
+and/CC 
+[ the/DT financial/JJ advisers/NNS ]
+,/, ''/'' 
+[ the/DT spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Allen/NNP Kelley/NNP ]
+,/, 
+[ spokesman/NN ]
+for/IN 
+[ a/DT group/NN ]
+representing/VBG 
+[ UAL/NNP non-contract/JJ employees/NNS ]
+,/, said/VBD 
+[ those/DT workers/NNS ]
+find/VBP 
+[ management/NN 's/POS profits/NNS ]
+``/`` hard/JJ to/TO take/VB ,/, especially/RB when/WRB 
+[ the/DT company/NN ]
+is/VBZ about/RB to/TO take/VB 
+[ something/NN ]
+out/IN of/IN {/( 
+[ workers/NNS '/POS ]
+ }/) 
+[ pockets/NNS ]
+./. 
+
+''/'' 
+[ Mr./NNP Kelley/NNP ]
+said/VBD 
+[ he/PRP ]
+believes/VBZ 
+[ the/DT latest/JJS disclosures/NNS ]
+will/MD cost/VB 
+[ management/NN ]
+
+[ some/DT support/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Wolf/NNP 's/POS support/NN ]
+also/RB appears/VBZ to/TO be/VB slipping/VBG among/IN 
+[ UAL/NNP 's/POS flight/NN attendants/NNS ]
+./. 
+
+[ The/DT flight/NN attendants/NNS union/NN ]
+balked/VBD 
+[ last/JJ week/NN ]
+at/IN 
+[ management/NN 's/POS request/NN ]
+for/IN 
+[ a/DT maximum/JJ 10/CD %/NN wage/NN cut/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Wolf/NNP ]
+said/VBD 
+[ he/PRP ]
+does/VBZ n't/RB anticipate/VB 
+[ opposition/NN ]
+to/TO 
+[ the/DT buy-out/NN ]
+from/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Transportation/NNP ]
+./. 
+
+[ Last/JJ week/NN ]
+,/, 
+[ Transportation/NNP Secretary/NNP Samuel/NNP Skinner/NNP ]
+expressed/VBD renewed/JJ 
+[ concern/NN ]
+about/IN 
+[ the/DT ]
+leveraging/NN of/IN 
+[ U.S./NNP airlines/NNS ]
+and/CC 
+[ investments/NNS ]
+in/IN 
+[ them/PRP ]
+by/IN 
+[ foreign/JJ carriers/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ Friday/NNP ]
+,/, 
+[ people/NNS ]
+familiar/JJ with/IN 
+[ Northwest/NNP ]
+said/VBD 
+[ Mr./NNP Skinner/NNP ]
+asked/VBD 
+[ Northwest/NNP Airlines/NNP owner/NN Alfred/NNP Checchi/NNP ]
+to/TO reduce/VB 
+[ KLM/NNP Royal/NNP Dutch/NNP Airlines/NNP '/POS $/$ 400/CD million/CD investment/NN ]
+in/IN 
+[ Northwest/NNP ]
+./. 
+
+[ The/DT move/NN ]
+raised/VBD 
+[ the/DT possibility/NN ]
+
+[ the/DT agency/NN ]
+may/MD seek/VB 
+[ changes/NNS ]
+in/IN 
+[ British/NNP Airways/NNP '/POS $/$ 750/CD million/CD equity/NN investment/NN ]
+in/IN 
+[ UAL/NNP ]
+in/IN 
+[ return/NN ]
+for/IN 
+[ a/DT 15/CD %/NN stake/NN ]
+./. 
+
+======================================
+
+[ UAL/NNP 's/POS stock/NN ]
+dropped/VBD 
+[ $/$ 5.125/CD ]
+to/TO 
+[ $/$ 281.125/CD ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ New/NNP York/NNP 's/POS Stock/NNP Exchange/NNP Friday/NNP ]
+on/IN 
+[ fears/NNS ]
+
+[ the/DT UAL/NNP transaction/NN ]
+might/MD be/VB disrupted/VBN ./. 
+
+======================================
+
+Under/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT new/JJ executive/NN options/NNS ]
+,/, 
+[ a/DT management/NN group/NN ]
+of/IN 
+[ 37/CD executives/NNS ]
+will/MD pay/VB 
+[ $/$ 15/CD million/CD ]
+for/IN 
+[ a/DT 1/CD %/NN stake/NN ]
+in/IN 
+[ the/DT new/JJ company/NN ]
+,/, and/CC wo/MD n't/RB have/VB to/TO pay/VB 
+[ any/DT extra/JJ ]
+for/IN 
+[ options/NNS ]
+on/IN 
+[ another/DT 9/CD %/NN ]
+at/IN 
+[ the/DT same/JJ exercise/NN price/NN ]
+./. 
+
+======================================
+
+[ Stephen/NNP Figlewski/NNP ]
+,/, 
+[ a/DT finance/NN professor/NN ]
+at/IN 
+[ New/NNP York/NNP University/NNP business/NN school/NN ]
+,/, said/VBD 
+[ a/DT rough/JJ ]
+``/`` 
+[ back-of-the-envelope/JJ ]
+''/'' 
+[ estimate/NN ]
+of/IN 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT options/NNS ]
+is/VBZ 
+[ $/$ 80/CD million/CD ]
+to/TO 
+[ $/$ 90/CD million/CD ]
+./. 
+
+[ A/DT takeover/NN stock/NN trader/NN ]
+valued/VBD 
+[ the/DT options/NNS ]
+at/IN about/IN 
+[ $/$ 65/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT deal/NN ]
+will/MD also/RB generate/VB 
+[ fees/NNS ]
+of/IN more/JJR than/IN  
+[ $/$ 231.6/CD million/CD ]
+for/IN 
+[ several/JJ Wall/NNP Street/NNP securities/NNS firms/NNS ]
+,/, 
+[ law/NN firms/NNS ]
+,/, and/CC 
+[ banks/NNS ]
+./. 
+
+[ First/NNP Boston/NNP Corp./NNP ]
+,/, 
+[ adviser/NN ]
+to/TO 
+[ the/DT UAL/NNP board/NN ]
+,/, will/MD receive/VB 
+[ $/$ 23.9/CD million/CD ]
+./. 
+
+[ Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP ]
+and/CC 
+[ Salomon/NNP Brothers/NNP Inc./NNP ]
+,/, 
+[ advisers/NNS ]
+to/TO 
+[ the/DT UAL/NNP pilot/NN union/NN ]
+,/, will/MD share/VB 
+[ $/$ 34/CD million/CD ]
+./. 

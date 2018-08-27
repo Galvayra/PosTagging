@@ -1,0 +1,67 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Acme-Cleveland/NNP Corp./NNP ]
+said/VBD 
+[ a/DT federal/JJ court/NN ]
+in/IN 
+[ Nebraska/NNP ]
+entered/VBD 
+[ a/DT $/$ 10/CD million/CD judgment/NN ]
+against/IN 
+[ the/DT company/NN ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ Vickers/NNP Inc./NNP ]
+,/, 
+[ a/DT subsidary/JJ ]
+of/IN 
+[ Trinova/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Vickers/NNP ]
+alleged/VBD that/IN 
+[ a/DT subsidiary/NN ]
+of/IN 
+[ Acme-Cleveland/NNP ]
+failed/VBD to/TO fulfill/VB 
+[ a/DT contract/NN obligation/NN ]
+to/TO provide/VB 
+[ a/DT ]
+fully/RB automated/VBN|JJ 
+[ Flexible/NNP Manufacturing/NNP System/NNP ]
+in/IN 
+[ 1983/CD ]
+./. 
+
+======================================
+
+[ The/DT maker/NN ]
+of/IN 
+[ metal-cutting/JJ tools/NNS ]
+,/, 
+[ electronic/JJ equipment/NN ]
+and/CC 
+[ telecommunications/NN products/NNS ]
+said/VBD 
+[ it/PRP ]
+is/VBZ considering/VBG 
+[ an/DT appeal/NN ]
+./. 

@@ -1,0 +1,497 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Australian/JJ businessman/NN Alan/NNP Bond/NNP ]
+announced/VBD 
+[ a/DT new/JJ plan/NN ]
+to/TO help/VB alleviate/VB 
+[ the/DT debt/NN burden/NN ]
+on/IN 
+[ his/PRP$ Bond/NNP Corp/NNP ]
+./. 
+
+[ Holdings/NNP Ltd./NNP ]
+,/, including/VBG 
+[ the/DT sale/NN ]
+of/IN 
+[ half/PDT his/PRP$ Australian/JJ brewing/NN empire/NN ]
+,/, 
+[ his/PRP$ most/JJS valuable/JJ asset/NN ]
+./. 
+
+======================================
+
+[ The/DT proposal/NN ]
+supersedes/VBZ 
+[ a/DT ]
+previously/RB announced/VBN 
+[ agreement/NN ]
+to/TO sell/VB 
+[ Bond/NNP Corp./NNP 's/POS Australian/JJ ]
+and/CC 
+[ U.S./NNP ]
+brewing/NN 
+[ assets/NNS ]
+to/TO 
+[ Bell/NNP Resources/NNPS Ltd./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 58/CD %/NN ]
+held/VBN by/IN 
+[ Bond/NNP Corp./NNP ]
+,/, for/IN 
+[ 3.5/CD billion/CD Australian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 2.72/CD billion/CD ]
+ )/) ./. 
+
+======================================
+
+Under/IN 
+[ the/DT new/JJ plan/NN ]
+,/, 
+[ Bond/NNP Corp./NNP ]
+will/MD sell/VB 
+[ its/PRP$ Australian/JJ brewing/NN assets/NNS ]
+,/, 
+[ which/WDT control/NN ]
+about/IN 
+[ 40/CD %/NN ]
+of/IN 
+[ that/DT country/NN 's/POS beer/NN market/NN ]
+,/, to/TO 
+[ Bell/NNP Resources/NNPS ]
+for/IN 
+[ A$/$ 2.5/NNP/CD billion/CD ]
+./. 
+
+[ The/DT planned/VBN sale/NN ]
+of/IN 
+[ Bond/NNP Corp./NNP 's/POS U.S./NNP brewer/NN ]
+,/, 
+[ G./NNP Heileman/NNP Brewing/NNP Co./NNP ]
+,/, has/VBZ been/VBN ``/`` deferred/VBN for/IN 
+[ 12/CD months/NNS ]
+,/, ''/'' 
+[ Bond/NNP Corp./NNP ]
+said/VBD ./. 
+
+======================================
+
+Once/RB 
+[ the/DT sale/NN ]
+of/IN 
+[ the/DT Australian/JJ brewing/NN assets/NNS ]
+to/TO 
+[ Bell/NNP Resources/NNPS ]
+is/VBZ completed/VBN ,/, 
+[ Bond/NNP Corp./NNP ]
+plans/VBZ to/TO make/VB 
+[ a/DT bid/NN ]
+for/IN 
+[ the/DT 42/CD %/NN ]
+of/IN 
+[ Bell/NNP Resources/NNPS it/PRP ]
+does/VBZ n't/RB already/RB 
+[ own/JJ ]
+,/, at/IN 
+[ A$/$ 1.60/CD ]
+ (/( 
+[ US$/$ 1.24/CD ]
+ )/) 
+[ a/DT share/NN ]
+./. 
+
+[ That/DT ]
+values/VBZ 
+[ Bell/NNP Resources/NNPS ]
+at/IN about/IN 
+[ A$/$ 972/CD million/CD ]
+./. 
+
+======================================
+
+If/IN 
+[ this/DT bid/NN ]
+succeeds/VBZ ,/, 
+[ Bond/NNP Corp./NNP ]
+plans/VBZ to/TO sell/VB 
+[ 50/CD %/NN ]
+of/IN 
+[ its/PRP$ Australian/JJ brewing/NN operations/NNS ]
+to/TO 
+[ Lion/NNP Nathan/NNP Ltd./NNP ]
+,/, 
+[ a/DT New/NNP Zealand/NNP brewer/NN ]
+and/CC 
+[ retailer/NN ]
+./. 
+
+[ The/DT New/NNP Zealand/NNP company/NN ]
+would/MD assume/VB 
+[ management/NN control/NN ]
+of/IN 
+[ the/DT brewers/NNS ]
+./. 
+
+======================================
+
+[ The/DT price/NN Lion/NNP Nathan/NNP ]
+will/MD pay/VB for/IN 
+[ its/PRP$ 50/CD %/NN ]
+holding/NN in/IN 
+[ Bond/NNP Corp./NNP 's/POS Australian/JJ breweries/NNS ]
+is/VBZ n't/RB final/JJ ./. 
+
+But/CC from/IN 
+[ figures/NNS ]
+provided/VBN by/IN 
+[ Bond/NNP Corp./NNP ]
+,/, 
+[ analysts/NNS ]
+said/VBD 
+[ it/PRP ]
+apparently/RB would/MD include/VB 
+[ an/DT equity/NN investment/NN ]
+of/IN about/IN 
+[ A$/$ 550/CD million/CD ]
+in/IN 
+[ the/DT new/JJ joint/NN venture/NN ]
+./. 
+
+======================================
+
+[ Several/JJ analysts/NNS ]
+deemed/VBD 
+[ the/DT proposal/NN ]
+crucial/JJ to/TO 
+[ the/DT survival/NN ]
+of/IN 
+[ Bond/NNP Corp./NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN aggressively/RB selling/VBG 
+[ assets/NNS ]
+to/TO improve/VB 
+[ its/PRP$ cash/NN ]
+flow/NN and/CC reduce/VB 
+[ a/DT debt/NN load/NN ]
+estimated/VBN by/IN 
+[ some/DT analysts/NNS ]
+at/IN 
+[ A$/$ 6/CD billion/CD ]
+./. 
+
+[ Analysts/NNS ]
+have/VBP traced/VBN 
+[ the/DT company/NN 's/POS problems/NNS ]
+to/TO 
+[ its/PRP$ previous/JJ rapid/JJ expansion/NN ]
+and/CC 
+[ reluctance/NN ]
+among/IN 
+[ its/PRP$ bankers/NNS ]
+to/TO extend/VB 
+[ more/JJR credit/NN ]
+./. 
+
+======================================
+
+[ George/NNP Sutton/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ the/DT brokerage/NN firm/NN Barclays/NNP ]
+de/NNP 
+[ Zoete/NNP Wedd/NNP Australia/NNP Ltd./NNP ]
+,/, estimated/VBD 
+[ the/DT proposed/VBN transactions/NNS ]
+would/MD reduce/VB 
+[ Bond/NNP Corp./NNP 's/POS debt/NN ]
+by/IN about/IN 
+[ A$/$ 1.6/CD billion/CD ]
+./. 
+
+``/`` 
+[ It/PRP ]
+obviously/RB takes/VBZ 
+[ pressure/NN ]
+off/IN 
+[ Bond/NNP Corp./NNP 's/POS balance/NN sheet/NN ]
+,/, and/CC allows/VBZ {/( 
+[ Mr./NNP Bond/NNP ]
+ }/) to/TO remain/VB 
+[ a/DT participant/NN ]
+in/IN 
+[ the/DT Australian/JJ brewing/NN industry/NN ]
+,/, ''/'' 
+[ Mr./NNP Sutton/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Bond/NNP Corp./NNP ]
+also/RB agreed/VBD yesterday/NN to/TO sell/VB 
+[ its/PRP$ 67.7/CD %/NN interest/NN ]
+in/IN 
+[ the/DT Harriet/NNP oil/NN field/NN ]
+,/, off/IN 
+[ the/DT northwestern/JJ coast/NN ]
+of/IN 
+[ Australia/NNP ]
+,/, for/IN 
+[ A$/$ 220/NNP/CD million/CD ]
+--/: at/IN 
+[ an/DT undisclosed/JJ profit/NN ]
+--/: to/TO 
+[ Aviva/NNP Petroleum/NNP Inc./NNP ]
+,/, 
+[ a/DT small/JJ ]
+,/, 
+[ British-based/JJ independent/JJ oil/NN concern/NN ]
+./. 
+
+And/CC 
+[ last/JJ week/NN ]
+,/, 
+[ Bond/NNP Corp./NNP ]
+bailed/VBD out/IN of/IN 
+[ its/PRP$ 20.4/CD %/NN stake/NN ]
+in/IN 
+[ British/JJ conglomerate/NN Lonrho/NNP PLC/NNP ]
+for/IN 
+[ #/# 312/CD million/CD ]
+ (/( 
+[ US$/$ 490/CD million/CD ]
+ )/) ,/, at/IN 
+[ a/DT loss/NN ]
+of/IN about/IN 
+[ #/# 50/CD million/CD ]
+./. 
+
+======================================
+
+[ Yesterday/NN 's/POS proposal/NN ]
+is/VBZ subject/JJ to/TO 
+[ several/JJ conditions/NNS ]
+,/, including/VBG 
+[ government/NN approvals/NNS ]
+and/CC 
+[ Bond/NNP Corp./NNP ]
+being/VBG 
+[ able/JJ ]
+to/TO acquire/VB 
+[ all/DT ]
+of/IN 
+[ Bell/NNP Resources/NNPS '/POS shares/NNS ]
+./. 
+
+While/IN 
+[ some/DT analysts/NNS ]
+give/VBP 
+[ the/DT transaction/NN ]
+more/JJR than/IN 
+[ a/DT 50-50/CD chance/NN ]
+of/IN being/VBG completed/VBN ,/, 
+[ it/PRP ]
+'s/VBZ unclear/JJ whether/IN 
+[ it/PRP ]
+will/MD be/VB enough/JJ to/TO keep/VB 
+[ what/WP ]
+is/VBZ left/VBN of/IN 
+[ Mr./NNP Bond/NNP 's/POS corporate/JJ empire/NN ]
+afloat/RB ./. 
+
+``/`` 
+[ All/PDT the/DT market/NN ]
+really/RB knows/VBZ is/VBZ 
+[ Bond/NNP Corp./NNP ]
+has/VBZ 
+[ a/DT general/JJ liquidity/NN problem/NN ]
+,/, but/CC 
+[ we/PRP ]
+do/VBP n't/RB know/VB 
+[ the/DT extent/NN ]
+of/IN 
+[ the/DT cash/NN bind/NN ]
+,/, ''/'' 
+[ one/CD analyst/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Investors/NNS ]
+also/RB appeared/VBD 
+[ uncertain/JJ ]
+./. 
+
+[ Bond/NNP Corp./NNP 's/POS shares/NNS ]
+dropped/VBD 
+[ two/CD Australian/JJ cents/NNS ]
+yesterday/NN in/IN 
+[ Sydney/NNP ]
+,/, to/TO 
+[ 40/CD cents/NNS ]
+
+[ each/DT ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+
+[ they/PRP ]
+were/VBD trading/VBG at/IN more/JJR than/IN 
+[ A$/$ 1.80/CD ]
+./. 
+
+[ Bell/NNP Resources/NNPS shares/NNS ]
+rose/VBD 
+[ five/CD cents/NNS ]
+
+[ each/DT ]
+,/, to/TO 
+[ A$/$ 1.25/CD ]
+./. 
+
+======================================
+
+Besides/IN easing/VBG 
+[ Bond/NNP Corp./NNP 's/POS debt/NN burden/NN ]
+,/, 
+[ the/DT proposed/VBN transactions/NNS ]
+are/VBP viewed/VBN by/IN 
+[ some/DT analysts/NNS ]
+as/IN 
+[ a/DT way/NN ]
+to/TO placate/VB 
+[ stock-exchange/NN officials/NNS ]
+and/CC 
+[ corporate/JJ regulators/NNS ]
+
+[ who/WP ]
+have/VBP queried/VBN 
+[ Bond/NNP Corp./NNP ]
+on/IN 
+[ several/JJ aspects/NNS ]
+of/IN 
+[ the/DT original/JJ plan/NN ]
+,/, announced/VBN in/IN 
+[ late/JJ May/NNP ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT original/JJ plan/NN ]
+,/, 
+[ Bell/NNP Resources/NNPS ]
+paid/VBD 
+[ a/DT deposit/NN ]
+of/IN 
+[ A$/$ 1.2/CD billion/CD ]
+toward/IN 
+[ the/DT proposed/VBN A$/$ 3.5/CD billion/CD purchase/NN ]
+of/IN 
+[ Bond/NNP Corp./NNP 's/POS Australian/JJ ]
+and/CC 
+[ U.S./NNP ]
+brewing/NN 
+[ operations/NNS ]
+./. 
+
+[ This/DT payment/NN ]
+raised/VBD 
+[ concern/NN ]
+among/IN 
+[ some/DT ]
+of/IN 
+[ Bell/NNP Resources/NNPS '/POS minority/NN shareholders/NNS ]
+as/RB well/RB as/IN 
+[ corporate/JJ regulators/NNS ]
+./. 
+
+======================================
+
+[ The/DT new/JJ proposal/NN ]
+calls/VBZ for/IN 
+[ Bond/NNP Corp./NNP ]
+to/TO repay/VB 
+[ A$/$ 850/CD million/CD ]
+of/IN 
+[ that/DT deposit/NN ]
+,/, but/CC to/TO defer/VB repaying/VBG 
+[ the/DT balance/NN ]
+until/IN 
+[ the/DT U.S./NNP brewer/NN ]
+,/, 
+[ G./NNP Heileman/NNP ]
+,/, is/VBZ sold/VBN ./. 
+
+[ Bond/NNP Corp./NNP ]
+declined/VBD to/TO elaborate/VB ,/, but/CC 
+[ one/CD source/NN ]
+familiar/JJ with/IN 
+[ the/DT situation/NN ]
+said/VBD 
+[ Bond/NNP Corp./NNP ]
+expects/VBZ 
+[ G./NNP Heileman/NNP 's/POS performance/NN ]
+to/TO improve/VB over/IN 
+[ the/DT next/JJ year/NN ]
+,/, making/VBG 
+[ the/DT company/NN ]
+easier/JJR to/TO sell/VB ,/, possibly/RB to/TO 
+[ the/DT Lion/NNP Nathan-Bond/NNP Corp./NNP joint/JJ venture/NN ]
+./. 
+
+======================================
+
+Also/RB under/IN 
+[ the/DT new/JJ plan/NN ]
+,/, 
+[ Lion/NNP Nathan/NNP ]
+has/VBZ agreed/VBN to/TO arrange/VB financing/NN for/IN 
+[ Bond/NNP Corp./NNP 's/POS takeover/NN offer/NN ]
+for/IN 
+[ Bell/NNP Resources/NNPS ]
+./. 
+
+[ The/DT New/NNP Zealand/NNP company/NN ]
+also/RB has/VBZ agreed/VBN to/TO arrange/VB 
+[ funds/NNS ]
+for/IN 
+[ Bell/NNP Resources/NNPS ]
+to/TO buy/VB back/RB about/IN 
+[ A$/$ 600/CD million/CD ]
+of/IN 
+[ bonds/NNS ]
+
+[ it/PRP ]
+has/VBZ issued/VBN that/IN are/VBP convertible/JJ into/IN 
+[ Bell/NNP Resources/NNPS ]
+shares/NNS ,/, and/CC to/TO arrange/VB 
+[ funds/NNS ]
+to/TO repurchase/VB 
+[ an/DT undisclosed/JJ amount/NN ]
+of/IN 
+[ subordinated/VBN debentures/NNS ]
+issued/VBN by/IN 
+[ Bond/NNP Corp./NNP ]
+brewing/NN 
+[ interests/NNS ]
+./. 

@@ -1,0 +1,285 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Researchers/NNS ]
+here/RB reported/VBD 
+[ promising/JJ results/NNS ]
+with/IN 
+[ a/DT new/JJ imaging/NN technique/NN ]
+for/IN detecting/VBG 
+[ sites/NNS ]
+of/IN 
+[ infection/NN ]
+and/CC possibly/RB 
+[ some/DT kinds/NNS ]
+of/IN 
+[ cancer/NN ]
+./. 
+
+======================================
+
+[ The/DT experimental/JJ technique/NN ]
+,/, developed/VBN at/IN 
+[ Massachusetts/NNP General/NNP Hospital/NNP ]
+,/, is/VBZ easy/JJ ,/, 
+[ fast/JJ ]
+and/CC 
+[ cheap/JJ ]
+,/, and/CC hence/RB 
+[ it/PRP ]
+might/MD benefit/VB 
+[ tens/NNS ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ patients/NNS ]
+annually/RB in/IN 
+[ the/DT U.S./NNP ]
+
+[ who/WP ]
+get/VBP 
+[ hard-to-spot/JJ pockets/NNS ]
+of/IN 
+[ infections/NNS ]
+,/, said/VBD 
+[ Robert/NNP Rubin/NNP ]
+,/, 
+[ a/DT doctor/NN ]
+
+[ who/WP ]
+helped/VBD develop/VB 
+[ the/DT technique/NN ]
+./. 
+
+[ Such/JJ patients/NNS ]
+include/VBP 
+[ people/NNS ]
+
+[ who/WP ]
+have/VBP had/VBD 
+[ abdominal/JJ surgery/NN ]
+,/, 
+[ those/DT ]
+with/IN 
+[ joint/JJ pain/NN ]
+possibly/RB due/JJ to/TO 
+[ infection/NN ]
+and/CC 
+[ people/NNS ]
+with/IN 
+[ unexplained/JJ fevers/NNS ]
+suspected/VBN to/TO be/VB caused/VBN by/IN 
+[ hidden/JJ infections/NNS ]
+./. 
+
+======================================
+
+[ The/DT technique/NN ]
+employs/VBZ 
+[ radioactive/JJ tracers/NNS ]
+linked/VBN to/TO 
+[ human/JJ immune/JJ molecules/NNS ]
+called/VBD 
+[ IgG/NNP ]
+,/, 
+[ which/WDT ]
+home/VBP in/RP on/IN 
+[ inflamed/JJ areas/NNS ]
+stemming/VBG from/IN 
+[ infections/NNS ]
+./. 
+
+When/WRB injected/VBN ,/, 
+[ the/DT substance/NN ]
+highlights/VBZ 
+[ sites/NNS ]
+of/IN 
+[ inflammation/NN ]
+in/IN 
+[ pictures/NNS ]
+taken/VBN with/IN 
+[ so-called/JJ gamma/NN cameras/NNS ]
+,/, 
+[ which/WDT ]
+already/RB are/VBP widely/RB used/VBN for/IN 
+[ different/JJ imaging/NN purposes/NNS ]
+./. 
+
+[ The/DT radiation/NN exposure/NN ]
+from/IN 
+[ an/DT injection/NN ]
+is/VBZ comparable/JJ to/TO 
+[ that/DT ]
+of/IN 
+[ an/DT abdominal/JJ X-ray/NN ]
+,/, 
+[ the/DT Massachusetts/NNP General/NNP researchers/NNS ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ a/DT study/NN ]
+of/IN 
+[ 128/CD patients/NNS ]
+with/IN 
+[ suspected/VBN infections/NNS ]
+,/, 
+[ the/DT technique/NN ]
+correctly/RB identified/VBD 
+[ 51/CD ]
+
+[ who/WP ]
+actually/RB were/VBD infected/VBN ,/, 
+[ the/DT researchers/NNS ]
+reported/VBD ./. 
+
+In/IN 
+[ five/CD ]
+of/IN 
+[ the/DT 51/CD infected/VBN patients/NNS ]
+,/, 
+[ a/DT ]
+commonly/RB used/VBN 
+[ imaging/NN technique/NN ]
+called/VBN 
+[ CT/NNP scanning/NN ]
+failed/VBD to/TO reveal/VB 
+[ sites/NNS ]
+of/IN 
+[ infection/NN ]
+./. 
+
+[ The/DT new/JJ technique/NN ]
+did/VBD n't/RB miss/VB 
+[ any/DT ]
+of/IN 
+[ the/DT infected/JJ patients/NNS ]
+,/, but/CC 
+[ it/PRP ]
+incorrectly/RB indicated/VBD that/IN 
+[ five/CD patients/NNS ]
+without/IN 
+[ infections/NNS ]
+had/VBD 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ The/DT study/NN ]
+was/VBD reported/VBN in/IN 
+[ today/NN 's/POS issue/NN ]
+of/IN 
+[ the/DT New/NNP England/NNP Journal/NNP ]
+of/IN 
+[ Medicine/NNP ]
+./. 
+
+In/IN 
+[ an/DT accompanying/VBG editorial/NN ]
+,/, 
+[ doctors/NNS ]
+at/IN 
+[ the/DT State/NNP University/NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+at/IN 
+[ Stony/NNP Brook/NNP ]
+said/VBD 
+[ the/DT new/JJ technique/NN 's/POS ease/NN ]
+of/IN 
+[ use/NN ]
+should/MD allow/VB 
+[ it/PRP ]
+to/TO be/VB used/VBN ``/`` in/IN 
+[ a/DT wider/JJR array/NN ]
+of/IN 
+[ medical/JJ facilities/NNS ]
+''/'' than/IN 
+[ other/JJ infection-screening/JJ methods/NNS ]
+based/VBN on/IN 
+[ radioactive/JJ tracers/NNS ]
+./. 
+
+======================================
+
+[ The/DT Massachusetts/NNP General/NNP researchers/NNS ]
+also/RB reported/VBD that/IN 
+[ the/DT new/JJ technique/NN ]
+correctly/RB revealed/VBD 
+[ tumors/NNS ]
+in/IN 
+[ 13/CD ]
+of/IN 
+[ 16/CD patients/NNS ]
+
+[ who/WP ]
+had/VBD 
+[ them/PRP ]
+./. 
+
+[ Dr./NNP Rubin/NNP ]
+said/VBD 
+[ the/DT technique/NN ]
+apparently/RB shows/VBZ 
+[ tumors/NNS ]
+
+[ that/WDT ]
+are/VBP under/IN 
+[ attack/NN ]
+by/IN 
+[ immune/JJ cells/NNS ]
+in/IN 
+[ a/DT process/NN ]
+
+[ that/WDT ]
+causes/VBZ 
+[ inflammation/NN ]
+./. 
+
+[ He/PRP ]
+added/VBD that/IN 
+[ the/DT technique/NN ]
+might/MD someday/RB be/VB used/VBN to/TO help/VB detect/VB 
+[ the/DT spread/NN ]
+of/IN 
+[ cancer/NN cells/NNS ]
+and/CC to/TO show/VB 
+[ which/WDT patients/NNS ]
+need/VBP 
+[ immune/JJ boosters/NNS ]
+to/TO help/VB destroy/VB 
+[ their/PRP$ tumors/NNS ]
+./. 
+
+======================================
+
+[ The/DT technique/NN ]
+has/VBZ been/VBN licensed/VBN to/TO 
+[ Johnson/NNP ]
+&/CC 
+[ Johnson/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ conducting/VBG 
+[ separate/JJ clinical/JJ trials/NNS ]
+on/IN 
+[ it/PRP ]
+,/, 
+[ Dr./NNP Rubin/NNP ]
+said/VBD ./. 

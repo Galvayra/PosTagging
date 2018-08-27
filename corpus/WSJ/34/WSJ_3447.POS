@@ -1,0 +1,603 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT West/JJ German/JJ Bundesbank/NNP ]
+raised/VBD 
+[ its/PRP$ official/JJ interest/NN rates/NNS ]
+by/IN 
+[ a/DT full/JJ percentage/NN point/NN ]
+
+[ each/DT ]
+in/IN 
+[ a/DT determined/JJ effort/NN ]
+to/TO boost/VB 
+[ the/DT mark/NN ]
+and/CC 
+[ cool/VB ]
+off/RP 
+[ Europe/NNP 's/POS largest/JJS economy/NN ]
+before/IN 
+[ inflationary/JJ pressures/NNS ]
+multiply/VBP ./. 
+
+======================================
+
+[ The/DT Bundesbank/NNP 's/POS fourth/JJ set/NN ]
+of/IN 
+[ rate/NN increases/NNS ]
+
+[ this/DT year/NN ]
+led/VBD 
+[ a/DT concerted/JJ round/NN ]
+of/IN 
+[ interest-rate/NN boosts/NNS ]
+by/IN 
+[ seven/CD other/JJ European/JJ central/JJ banks/NNS ]
+,/, 
+[ many/JJ ]
+doing/VBG so/RB to/TO hold/VB 
+[ their/PRP$ currencies/NNS ]
+in/IN 
+[ alignment/NN ]
+with/IN 
+[ the/DT mark/NN ]
+./. 
+
+[ Britain/NNP ]
+,/, 
+[ France/NNP ]
+,/, 
+[ Switzerland/NNP ]
+,/, 
+[ Austria/NNP ]
+,/, 
+[ the/DT Netherlands/NNP ]
+,/, 
+[ Denmark/NNP ]
+and/CC 
+[ Belgium/NNP all/DT ]
+joined/VBD 
+[ West/NNP Germany/NNP ]
+in/IN 
+[ tightening/VBG credit/NN rates/NNS ]
+./. 
+
+======================================
+
+[ West/NNP Germany/NNP 's/POS discount/JJ rate/NN ]
+was/VBD hauled/VBN up/RB to/TO 
+[ 6/CD %/NN ]
+from/IN 
+[ 5/CD %/NN ]
+and/CC 
+[ its/PRP$ Lombard/NNP rate/NN ]
+brought/VBN to/TO 
+[ 8/CD %/NN ]
+from/IN 
+[ 7/CD %/NN effective/JJ today/NN ]
+./. 
+
+[ A/DT Bundesbank/NNP tightening/NN ]
+was/VBD expected/VBN ,/, but/CC 
+[ its/PRP$ policy-setting/JJ Central/NNP Bank/NNP Council/NNP ]
+surprised/VBD 
+[ many/JJ ]
+by/IN going/VBG for/IN 
+[ a/DT full/JJ point/NN ]
+at/IN 
+[ one/CD stroke/NN ]
+rather/RB than/IN 
+[ the/DT one-half-point/JJ rate/NN increases/NNS ]
+widely/RB expected/VBN by/IN 
+[ financial/JJ markets/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT Bundesbank/NNP ]
+has/VBZ made/VBN 
+[ a/DT very/RB aggressive/JJ statement/NN ]
+that/IN 
+[ it/PRP ]
+wants/VBZ to/TO see/VB 
+[ the/DT mark/NN ]
+stronger/JJR and/CC see/VB 
+[ domestic-inflation/NN trends/NNS ]
+ease/VB ,/, ''/'' said/VBD 
+[ Nigel/NNP Rendell/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ James/NNP Capel/NNP ]
+&/CC 
+[ Co./NNP ]
+in/IN 
+[ London/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ A/DT full-point/JJ increase/NN ]
+,/, since/IN 
+[ it/PRP ]
+
+[ was/VBD n't/RB ]
+fully/RB expected/VBN ,/, 
+[ backs/VBZ ]
+up/RP 
+[ recent/JJ G-7/NNP statements/NNS ]
+and/CC {/( 
+[ currency/NN market/NN ]
+ }/) 
+[ intervention/NN ]
+with/IN 
+[ something/NN ]
+more/RBR tangible/JJ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ,/, recalling/VBG that/IN 
+[ West/JJ German/JJ officials/NNS ]
+pressed/VBD for/IN 
+[ a/DT stronger/JJR mark/NN ]
+at/IN 
+[ a/DT recent/JJ meeting/NN ]
+in/IN 
+[ Washington/NNP ]
+of/IN 
+[ the/DT Group/NNP ]
+of/IN 
+[ Seven/NNP major/JJ industrialized/JJ nations/NNS ]
+./. 
+
+[ G-7/NNP nations/NNS ]
+include/VBP 
+[ the/DT U.S./NNP ]
+,/, 
+[ Japan/NNP ]
+,/, 
+[ Britain/NNP ]
+,/, 
+[ West/NNP Germany/NNP ]
+,/, 
+[ France/NNP ]
+,/, 
+[ Italy/NNP ]
+and/CC 
+[ Canada/NNP ]
+./. 
+
+[ The/DT burden/NN ]
+of/IN 
+[ the/DT rate/NN boosts/NNS ]
+will/MD fall/VB unevenly/RB ./. 
+
+[ The/DT economies/NNS ]
+of/IN 
+[ continental/JJ Europe/NNP ]
+have/VBP been/VBN growing/VBG faster/RBR than/IN expected/VBN ,/, and/CC 
+[ economists/NNS ]
+generally/RB view/VBP 
+[ tighter/JJR credit/NN ]
+there/RB as/IN 
+[ a/DT welcome/JJ restraint/NN ]
+./. 
+
+======================================
+
+But/CC on/IN 
+[ the/DT other/JJ side/NN ]
+of/IN 
+[ the/DT channel/NN ]
+,/, 
+[ British/JJ corporate/JJ balance/NN sheets/NNS ]
+are/VBP weak/JJ and/CC 
+[ British/JJ consumers/NNS ]
+are/VBP reeling/VBG from/IN 
+[ 16/CD months/NNS ]
+of/IN rising/VBG 
+[ rates/NNS ]
+./. 
+
+[ Chancellor/NNP ]
+of/IN 
+[ the/DT Exchequer/NNP Nigel/NNP Lawson/NNP 's/POS reluctant/JJ decision/NN ]
+to/TO boost/VB 
+[ base/JJ rates/NNS one/CD percentage/NN point/NN ]
+to/TO 
+[ 15/CD %/NN ]
+,/, 
+[ their/PRP$ highest/JJS level/NN ]
+since/IN 
+[ November/NNP 1981/CD ]
+and/CC twice/RB May/MD 
+[ 1988/CD 's/POS 7.5/CD %/NN ]
+,/, will/MD almost/RB certainly/RB damp/VB 
+[ business/NN profits/NNS ]
+,/, 
+[ strain/VB homeowners/NNS ]
+and/CC eventually/RB bring/VB 
+[ higher/JJR joblessness/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+could/MD take/VB 
+[ us/PRP ]
+nearer/IN 
+[ a/DT recession/NN ]
+,/, ''/'' warned/VBD 
+[ Keith/NNP Skeoch/NNP ]
+,/, 
+[ chief/JJ economist/NN ]
+with/IN 
+[ James/NNP Capel/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+asserted/VBD that/IN 
+[ rate/NN increases/NNS ]
+of/IN 
+[ one-half-point/NN ]
+
+[ each/DT ]
+would/MD only/RB have/VB prompted/VBN 
+[ new/JJ speculation/NN ]
+of/IN 
+[ a/DT follow-up/JJ boost/NN ]
+in/IN 
+[ the/DT near/JJ future/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT Bundesbank/NNP ]
+was/VBD seen/VBN eager/JJ to/TO get/VB 
+[ higher/JJR rates/NNS ]
+in/IN 
+[ place/NN ]
+before/IN 
+[ next/JJ year/NN 's/POS round/NN ]
+of/IN 
+[ state/NN ]
+and/CC 
+[ federal/JJ elections/NNS ]
+raised/VBD 
+[ potential/NN ]
+for/IN 
+[ opposition/NN ]
+from/IN 
+[ Bonn/NNP ]
+./. 
+
+[ The/DT central/JJ bank/NN ]
+said/VBD 
+[ its/PRP$ latest/JJS step/NN ]
+should/MD keep/VB 
+[ monetary/JJ expansion/NN ]
+in/IN 
+[ check/NN ]
+``/`` for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ this/DT year/NN ]
+./. 
+
+''/'' 
+======================================
+
+Under/IN 
+[ the/DT Bundesbank/NNP 's/POS discount/JJ facility/NN ]
+,/, 
+[ banks/NNS ]
+can/MD borrow/VB 
+[ short-term/RB ]
+from/IN 
+[ a/DT limited/JJ pool/NN ]
+of/IN 
+[ central-bank/NN funds/NNS ]
+./. 
+
+[ The/DT more/RBR expensive/JJ Lombard/NNP facility/NN ]
+is/VBZ 
+[ the/DT Bundesbank/NNP 's/POS penalty-lending/JJ window/NN ]
+for/IN 
+[ last-resort/JJ ]
+borrowing/NN ,/, thus/RB serving/VBG as/IN 
+[ an/DT upper/JJ reference/NN point/NN ]
+for/IN 
+[ West/NN German/NN money-market/NN rates/NNS ]
+./. 
+
+======================================
+
+[ The/DT full-point/JJ increases/NNS ]
+lift/VBP 
+[ West/NNP Germany/NNP 's/POS benchmark/JJ interest/NN rates/NNS ]
+to/TO 
+[ their/PRP$ highest/JJS level/NN ]
+since/IN 
+[ 1982/CD ]
+,/, when/WRB 
+[ its/PRP$ economy/NN ]
+was/VBD still/RB struggling/VBG to/TO emerge/VB from/IN 
+[ the/DT last/JJ recession/NN ]
+./. 
+
+For/IN most/JJS of/IN 
+[ this/DT decade/NN ]
+,/, 
+[ Bonn/NNP ]
+'s/POS leading/JJ 
+[ trading/NN partners/NNS ]
+,/, particularly/RB 
+[ the/DT U.S./NNP ]
+,/, have/VB been/VBN pressing/VBG 
+[ West/NNP Germany/NNP ]
+to/TO create/VB 
+[ more/JJR domestic/JJ demand/NN ]
+./. 
+
+Now/RB ,/, after/IN 
+[ the/DT criticism/NN ]
+has/VBZ died/VBN down/RP ,/, 
+[ the/DT Bundesbank/NNP ]
+is/VBZ standing/VBG on/IN 
+[ the/DT brakes/NNS ]
+to/TO rein/VB in/RP 
+[ demand/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+of/IN 
+[ 1989/CD ]
+,/, 
+[ West/NNP Germany/NNP 's/POS gross/JJ national/JJ product/NN ]
+grew/VBD by/IN 
+[ an/DT inflation-adjusted/JJ 4/CD %/NN ]
+from/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+[ Many/JJ West/JJ German/JJ factories/NNS ]
+are/VBP operating/VBG at/IN 
+[ capacity/NN limits/NNS ]
+,/, creating/VBG 
+[ production/NN bottlenecks/NNS ]
+and/CC 
+[ upward/JJ pressure/NN ]
+on/IN 
+[ producer/NN prices/NNS ]
+./. 
+
+======================================
+
+[ West/NNP Germany/NNP 's/POS export-driven/JJ economic/JJ expansion/NN ]
+continued/VBD to/TO barrel/VB along/RB in/IN 
+[ the/DT third/JJ quarter/NN ]
+./. 
+
+Although/IN 
+[ the/DT West/JJ German/JJ economy/NN ]
+was/VBD only/RB growing/VBG at/IN 
+[ a/DT 3.1/CD %/NN annual/JJ rate/NN ]
+in/IN 
+[ September/NNP ]
+,/, 
+[ officials/NNS ]
+fear/VBP that/IN 
+[ the/DT economy/NN ]
+is/VBZ hiding/VBG 
+[ an/DT inflationary/JJ build-up/NN ]
+
+[ that/WDT ]
+could/MD speed/VB 
+[ price/NN ]
+increases/NNS 
+[ next/JJ year/NN ]
+./. 
+
+Rising/VBG 
+[ real-estate/NN prices/NNS ]
+,/, 
+[ militant/JJ trade-union/NN demands/NNS ]
+for/IN 
+[ a/DT shorter/JJR working/NN week/NN ]
+and/CC 
+[ higher/JJR wages/NNS ]
+next/IN 
+[ year/NN ]
+and/CC 
+[ Bonn/NNP 's/POS plan/NN ]
+to/TO cut/VB 
+[ income/NN taxes/NNS ]
+in/IN 
+[ January/NNP ]
+contribute/VBP to/TO 
+[ the/DT Bundesbank/NNP 's/POS inflation/NN worries/NNS ]
+./. 
+
+======================================
+
+[ Bonn/NNP ]
+reported/VBD yesterday/NN that/IN 
+[ foreign/JJ demand/NN ]
+swelled/VBD 
+[ orders/NNS ]
+to/TO 
+[ the/DT nation/NN 's/POS manufacturing/NN industry/NN ]
+in/IN 
+[ August/NNP ]
+,/, when/WRB 
+[ total/JJ order/NN inflow/NN ]
+rose/VBD 
+[ a/DT ]
+fully/RB adjusted/VBN 
+[ 0.6/CD %/NN ]
+from/IN 
+[ July/NNP ]
+but/CC eased/VBD 
+[ 3.7/CD %/NN ]
+from/IN 
+[ the/DT August/NNP 1988/CD ]
+./. 
+
+[ West/NNP Germany/NNP 's/POS August/NNP foreign-trade/NN surplus/NN ]
+expanded/VBD to/TO 
+[ 11.2/CD billion/CD marks/NNS ]
+ (/( 
+[ $/$ 5.95/CD billion/CD ]
+ )/) from/IN 
+[ 10.6/CD billion/CD marks/NNS ]
+in/IN 
+[ July/NNP ]
+and/CC from/IN 
+[ 9.3/CD billion/CD marks/NNS ]
+in/IN 
+[ August/NNP 1988/CD ]
+./. 
+
+[ The/DT August/NNP trade/NN result/NN ]
+brings/VBZ 
+[ West/NNP Germany/NNP 's/POS trade/NN surplus/NN ]
+for/IN 
+[ the/DT first-eight/JJ  months/NNS ]
+of/IN 
+[ 1989/CD ]
+to/TO 
+[ a/DT record/JJ 92.1/CD billion/CD marks/NNS ]
+,/, up/RB 
+[ 16/CD %/NN ]
+from/IN 
+[ a/DT 79.6/CD billion/CD mark/NN surplus/NN ]
+for/IN 
+[ the/DT year-ago/JJ period/NN ]
+./. 
+
+======================================
+
+[ The/DT mark/NN 's/POS weakness/NN ]
+against/IN 
+[ key/JJ currencies/NNS ]
+,/, 
+[ German/JJ officials/NNS ]
+say/VBP ,/, artificially/RB propels/VBZ 
+[ the/DT West/JJ German/JJ economy/NN ]
+by/IN cutting/VBG 
+[ prices/NNS foreigners/NNS ]
+pay/VBP for/IN 
+[ German/JJ goods/NNS ]
+./. 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ the/DT weakened/JJ currency/NN ]
+has/VBZ swelled/VBN 
+[ prices/NNS Germans/NNPS ]
+pay/VBP for/IN 
+[ imports/NNS ]
+,/, effectively/RB importing/VBG 
+[ inflation/NN ]
+into/IN 
+[ the/DT nation/NN 's/POS economy/NN ]
+./. 
+
+======================================
+
+Besides/IN 
+[ efforts/NNS ]
+to/TO strengthen/VB 
+[ the/DT mark/NN ]
+against/IN 
+[ the/DT dollar/NN ]
+,/, 
+[ the/DT Bundesbank/NNP ]
+was/VBD pressing/VBG for/IN 
+[ an/DT upward/JJ revaluation/NN ]
+of/IN 
+[ the/DT mark/NN ]
+against/IN 
+[ other/JJ currencies/NNS ]
+of/IN 
+[ the/DT European/NNP Monetary/NNP System/NNP ]
+,/, 
+[ which/WDT ]
+would/MD have/VB 
+[ the/DT effect/NN ]
+of/IN reducing/VBG 
+[ prices/NNS Germans/NNPS ] 
+pay/VBP for/IN 
+[ European/JJ goods/NNS ]
+./. 
+
+[ Other/JJ EMS/NNP governments/NNS ]
+,/, particularly/RB 
+[ France/NNP ]
+,/, have/VBP blocked/VBN 
+[ West/NNP Germany/NNP 's/POS realignment/NN hopes/NNS ]
+./. 
+
+======================================
+
+Said/VBD 
+[ Ulrich/NNP Hombrecher/NNP ]
+,/, 
+[ an/DT economist/NN ]
+for/IN 
+[ Westdeutsche/NNP Landesbank/NNP ]
+in/IN 
+[ Duesseldorf/NNP ]
+,/, ``/`` 
+[ the/DT fact/NN ]
+that/IN 
+[ most/JJS other/JJ EMS/NNP countries/NNS ]
+followed/VBD 
+[ suit/NN ]
+with/IN 
+[ their/PRP$ own/JJ rate/NN ]
+hikes/NNS 
+[ today/NN shows/VBZ ]
+that/IN 
+[ they/PRP ]
+do/VBP n't/RB care/VB to/TO see/VB 
+[ their/PRP$ currencies/NNS ]
+slip/VB 
+[ any/DT lower/RBR ]
+against/IN 
+[ the/DT mark/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Tim/NNP Carrington/NNP ]
+in/IN 
+[ London/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

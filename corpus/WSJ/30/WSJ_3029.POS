@@ -1,0 +1,149 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ John/NNP Werner/NNP Kluge/NNP ]
+,/, 
+[ founder/NN ]
+of/IN 
+[ Metromedia/NNP Inc./NNP ]
+,/, jumped/VBD to/TO No./NN 
+[ 1/CD ]
+on/IN 
+[ Forbes/NNP magazine/NN 's/POS list/NN ]
+of/IN 
+[ the/DT richest/JJS Americans/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Kluge/NNP ]
+,/, 
+[ who/WP ]
+
+[ Forbes/NNP ]
+said/VBD has/VBZ 
+[ a/DT net/JJ worth/NN ]
+of/IN more/JJR than/IN 
+[ $/$ 5.2/CD billion/CD ]
+,/, succeeds/VBZ 
+[ Sam/NNP Walton/NNP ]
+,/, 
+[ the/DT former/JJ chief/JJ executive/JJ officer/NN ]
+of/IN 
+[ Wal-Mart/NNP Stores/NNP Inc/NNP ]
+./. 
+
+[ The/DT list/NN ]
+is/VBZ in/IN 
+[ the/DT Oct./NNP 23/CD issue/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Walton/NNP ]
+dropped/VBD to/TO 
+[ 20th/JJ ]
+,/, because/IN 
+[ he/PRP ]
+split/VBD 
+[ his/PRP$ fortune/NN ]
+among/IN 
+[ himself/PRP ]
+and/CC 
+[ his/PRP$ four/CD children/NNS ]
+and/CC quit/VBD as/IN 
+[ chief/JJ executive/NN ]
+of/IN 
+[ Wal-Mart/NNP ]
+,/, 
+[ which/WDT ]
+operates/VBZ more/JJR than/IN 
+[ 1,300/CD stores/NNS ]
+./. 
+
+[ Mr./NNP Walton/NNP ]
+has/VBZ 
+[ a/DT net/JJ worth/NN ]
+of/IN 
+[ $/$ 1.8/CD billion/CD ]
+,/, as/IN currently/RB do/VB 
+[ each/DT ]
+of/IN 
+[ his/PRP$ children/NNS ]
+./. 
+
+======================================
+
+[ An/DT owner/NN ]
+of/IN 
+[ cellular-telephone/JJ franchises/NNS ]
+,/, 
+[ Mr./NNP Kluge/NNP ]
+added/VBD about/RB 
+[ $/$ 2/CD billion/CD ]
+to/TO 
+[ his/PRP$ net/JJ worth/NN ]
+from/IN 
+[ a/DT recent/JJ agreement/NN ]
+to/TO sell/VB 
+[ Metromedia/NNP 's/POS New/NNP York/NNP City/NNP franchise/NN ]
+to/TO 
+[ McCaw/NNP Cellular/NNP Communications/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Warren/NNP Buffett/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ Berkshire/NNP Hathaway/NNP Inc./NNP investment/NN company/NN ]
+,/, jumped/VBD from/IN 
+[ 12th/JJ place/NN ]
+to/TO 
+[ second/JJ ]
+./. 
+
+[ Sumner/NNP M./NNP Redstone/NNP ]
+,/, 
+[ chief/JJ executive/NN ]
+of/IN 
+[ National/NNP Amusements/NNP ]
+and/CC 
+[ Viacom/NNP International/NNP Inc./NNP ]
+leapt/VBD 
+[ 19/CD spots/NNS ]
+to/TO 
+[ third/JJ ]
+./. 
+
+======================================
+
+[ New/NNP York/NNP ]
+was/VBD 
+[ the/DT home/NN state/NN ]
+of/IN 
+[ 80/CD ]
+of/IN 
+[ those/DT ]
+named/VBN on/IN 
+[ the/DT list/NN ]
+,/, 
+[ 25/CD %/NN ]
+more/JJR than/IN 
+[ any/DT other/JJ state/NN ]
+./. 

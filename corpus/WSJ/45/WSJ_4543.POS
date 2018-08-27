@@ -1,0 +1,558 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ Shearson/NNP Lehman/NNP Hutton/NNP Inc./NNP ]
+and/CC 
+[ Salomon/NNP Inc./NNP ]
+--/: have/VBP been/VBN secretly/RB attempting/VBG to/TO form/VB 
+[ a/DT consortium/NN ]
+to/TO sell/VB 
+[ securities/NNS price/NN information/NN ]
+./. 
+
+======================================
+
+[ The/DT talks/NNS ]
+,/, initiated/VBN by/IN 
+[ Salomon/NNP ]
+and/CC held/VBN over/IN 
+[ the/DT past/NN six/CD ]
+to/TO 
+[ nine/CD months/NNS ]
+,/, could/MD have/VB 
+[ major/JJ implications/NNS ]
+for/IN 
+[ the/DT dissemination/NN ]
+of/IN 
+[ the/DT world/NN 's/POS stock/NN ]
+,/, 
+[ bond/NN ]
+,/, 
+[ currency/NN ]
+and/CC 
+[ commodities-related/JJ price/NN quotations/NNS ]
+./. 
+
+======================================
+
+[ Wall/NNP Street/NNP executives/NNS ]
+familiar/JJ with/IN 
+[ the/DT discussions/NNS ]
+say/VBP 
+[ the/DT four/CD firms/NNS ]
+are/VBP trying/VBG to/TO restore/VB 
+[ some/DT ]
+of/IN 
+[ their/PRP$ diminishing/VBG control/NN ]
+over/IN 
+[ the/DT flow/NN ]
+of/IN 
+[ electronic/JJ market/NN data/NNS ]
+./. 
+
+[ These/DT big/JJ firms/NNS ]
+,/, and/CC 
+[ others/NNS ]
+,/, have/VBP been/VBN growing/VBG increasingly/RB 
+[ defensive/JJ ]
+about/IN losing/VBG 
+[ their/PRP$ traditional/JJ grip/NN ]
+on/IN 
+[ such/JJ information/NN ]
+--/: as/RB well/RB as/IN 
+[ some/DT ]
+of/IN 
+[ the/DT revenue/NN ]
+from/IN producing/VBG 
+[ it/PRP ]
+--/: as/IN 
+[ independent/JJ electronic/JJ services/NNS ]
+grow/VBP more/RBR powerful/JJ ./. 
+
+======================================
+
+[ Jon/NNP S./NNP Corzine/NNP ]
+,/, 
+[ a/DT senior/JJ partner/NN ]
+at/IN 
+[ Goldman/NNP Sachs/NNP ]
+,/, confirmed/VBD that/IN 
+[ he/PRP ]
+and/CC 
+[ his/PRP$ counterparts/NNS ]
+at/IN 
+[ the/DT three/CD other/JJ Wall/NNP Street/NNP firms/NNS ]
+are/VBP discussing/VBG 
+[ a/DT joint/JJ venture/NN ]
+to/TO pool/VB 
+[ market/NN data/NNS ]
+,/, but/CC 
+[ he/PRP ]
+declined/VBD to/TO comment/VB specifically/RB ./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP still/RB at/IN 
+[ an/DT early/JJ stage/NN ]
+,/, ''/'' 
+[ Mr./NNP Corzine/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT Salomon/NNP spokesman/NN ]
+declined/VBD to/TO comment/VB specifically/RB on/IN 
+[ talks/NNS ]
+
+[ it/PRP ]
+is/VBZ having/VBG with/IN 
+[ other/JJ firms/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP continuously/RB involved/VBN in/IN 
+[ discussions/NNS ]
+with/IN 
+[ people/NNS ]
+inside/RB and/CC outside/RB 
+[ the/DT industry/NN ]
+on/IN 
+[ the/DT uses/NNS ]
+of/IN 
+[ technology/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Spokesmen/NNS ]
+at/IN 
+[ Morgan/NNP Stanley/NNP ]
+and/CC at/IN 
+[ Shearson/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 62%-owned/JJ ]
+by/IN 
+[ American/NNP Express/NNP Co./NNP ]
+,/, declined/VBD to/TO comment/VB ./. 
+
+======================================
+
+[ Any/DT joint/JJ project/NN ]
+from/IN 
+[ the/DT four/CD firms/NNS ]
+would/MD be/VB at/IN 
+[ least/JJS months/NNS ]
+away/RB ,/, said/VBD 
+[ an/DT executive/NN ]
+familiar/JJ with/IN 
+[ the/DT discussions/NNS ]
+./. 
+
+But/CC 
+[ he/PRP ]
+said/VBD 
+[ the/DT firms/NNS ]
+have/VBP already/RB shelled/VBN out/RP 
+[ $/$ 5/CD million/CD each/DT ]
+,/, 
+[ which/WDT ]
+
+[ one/CD participant/NN ]
+in/IN 
+[ the/DT talks/NNS ]
+called/VBD ``/`` 
+[ seed/NN money/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT four/CD securities/NNS firms/NNS ]
+are/VBP particularly/RB concerned/JJ about/IN 
+[ the/DT $/$ 4/CD trillion/CD global/JJ bond/NN market/NN ]
+./. 
+
+[ Bond/NN data/NNS ]
+once/RB was/VBD nearly/RB impossible/JJ to/TO get/VB outside/IN of/IN 
+[ Wall/NNP Street/NNP ]
+,/, but/CC is/VBZ now/RB readily/RB available/JJ through/IN 
+[ high-tech/JJ vendors/NNS ]
+of/IN 
+[ prices/NNS ]
+and/CC 
+[ market/NN analysis/NN ]
+,/, such/JJ as/IN 
+[ Bloomberg/NNP Financial/NNP Markets/NNPS ]
+,/, 
+[ which/WDT ]
+was/VBD created/VBN 
+[ eight/CD years/NNS ]
+ago/RB ./. 
+
+[ Control/NN ]
+of/IN 
+[ information/NN ]
+about/IN 
+[ securities/NNS prices/NNS ]
+used/VBD to/TO give/VB 
+[ the/DT big/JJ firms/NNS ]
+
+[ a/DT valuable/JJ edge/NN ]
+in/IN trading/VBG 
+[ bonds/NNS ]
+and/CC 
+[ stocks/NNS ]
+and/CC setting/VBG 
+[ trading/NN commissions/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ terminals/NNS ]
+provided/VBN by/IN 
+[ the/DT Bloomberg/NNP company/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 30%-owned/JJ ]
+by/IN 
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, are/VBP now/RB being/VBG used/VBN 
+[ world-wide/RB ]
+by/IN 
+[ securities/NNS firms/NNS ]
+,/, 
+[ institutional/JJ investors/NNS ]
+and/CC 
+[ central/JJ banks/NNS ]
+./. 
+
+[ The/DT Bloomberg/NNP system/NN ]
+has/VBZ become/VBN 
+[ a/DT major/JJ pipeline/NN ]
+for/IN 
+[ the/DT world/NN 's/POS bond/NN market/NN data/NNS ]
+among/IN 
+[ sophisticated/JJ investors/NNS ]
+./. 
+
+[ Bloomberg/NNP ]
+,/, in/IN 
+[ particular/JJ ]
+,/, has/VBZ aroused/VBN 
+[ the/DT concern/NN ]
+of/IN 
+[ big/JJ Wall/NNP Street/NNP firms/NNS ]
+./. 
+
+======================================
+
+At/IN 
+[ a/DT recent/JJ dinner/NN meeting/NN ]
+in/IN 
+[ Morgan/NNP Stanley/NNP 's/POS executive/NN dining/NN room/NN ]
+,/, 
+[ Mr./NNP Corzine/NNP ]
+of/IN 
+[ Goldman/NNP ]
+joined/VBD 
+[ high-level/JJ Wall/NNP Street/NNP bond/NN market/NN executives/NNS ]
+,/, including/VBG 
+[ John/NNP J./NNP Mack/NNP ]
+of/IN 
+[ Morgan/NNP Stanley/NNP ]
+,/, 
+[ Shearson/NNP vice/NN chairman/NN Richard/NNP S./NNP Fuld/NNP Jr./NNP ]
+and/CC 
+[ Salomon/NNP ]
+managing/NN 
+[ directors/NNS Thomas/NNP W./NNP Brock/NNP ]
+and/CC 
+[ Richard/NNP F./NNP Leahy/NNP ]
+,/, according/VBG to/TO 
+[ individuals/NNS ]
+familiar/JJ with/IN 
+[ the/DT meeting/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+were/VBD 
+[ immediate/JJ ego/NN ]
+and/CC 
+[ technical/JJ problems/NNS ]
+to/TO deal/VB with/IN ./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD like/IN trying/VBG to/TO shepherd/VB 
+[ a/DT group/NN ]
+of/IN 
+[ wild/JJ animals/NNS ]
+into/IN 
+[ a/DT straight/JJ line/NN ]
+,/, ''/'' said/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT participants/NNS ]
+,/, 
+[ who/WP ]
+asked/VBD not/RB to/TO be/VB named/VBN ./. 
+
+======================================
+
+[ The/DT Bloomberg/NNP system/NN ]
+was/VBD created/VBN by/IN 
+[ former/JJ Salomon/NNP partner/NN Michael/NNP Bloomberg/NNP ]
+,/, 
+[ who/WP ]
+was/VBD 
+[ a/DT big/JJ trader/NN ]
+and/CC 
+[ a/DT technology/NN specialist/NN ]
+./. 
+
+[ Executives/NNS ]
+at/IN 
+[ Salomon/NNP ]
+and/CC 
+[ the/DT other/JJ firms/NNS ]
+insist/VBP 
+[ they/PRP ]
+are/VBP n't/RB out/IN to/TO ``/`` get/VB ''/'' 
+[ Mr./NNP Bloomberg/NNP ]
+./. 
+
+But/CC 
+[ one/CD participant/NN ]
+in/IN 
+[ a/DT recent/JJ meeting/NN ]
+notes/VBZ 
+[ a/DT growing/VBG fear/NN ]
+that/IN ``/`` if/IN 
+[ he/PRP ]
+becomes/VBZ 
+[ big/JJ ]
+enough/RB ,/, 
+[ the/DT key/JJ market-making/NN  firms/NNS ]
+will/MD become/VB 
+[ just/RB players/NNS ]
+in/IN 
+[ the/DT system/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Goldman/NNP Sachs/NNP ]
+,/, 
+[ Morgan/NNP Stanley/NNP ]
+,/, 
+[ Shearson/NNP ]
+and/CC 
+[ Salomon/NNP all/DT ]
+see/VBP 
+[ independent/JJ electronic/JJ vendors/NNS ]
+making/VBG 
+[ money/NN ]
+from/IN 
+[ information/NN ]
+
+[ that/WDT ]
+derives/VBZ from/IN 
+[ the/DT firms/NNS ]
+and/CC 
+[ their/PRP$ trading/NN desks/NNS ]
+./. 
+
+In/IN 
+[ the/DT future/NN ]
+,/, 
+[ the/DT firms/NNS ]
+see/VBP 
+[ themselves/PRP ]
+getting/VBG more/RBR into/IN 
+[ the/DT electronic/JJ publishing/NN business/NN ]
+just/RB as/IN 
+[ entrepreneurs/NNS ]
+such/JJ as/IN 
+[ Mr./NNP Bloomberg/NNP ]
+have/VBP ./. 
+
+======================================
+
+[ Mr./NNP Bloomberg/NNP ]
+says/VBZ 
+[ he/PRP ]
+is/VBZ n't/RB ruffled/VBN by/IN 
+[ potential/JJ competition/NN ]
+from/IN 
+[ these/DT large/JJ firms/NNS ]
+./. 
+
+``/`` 
+[ Customers/NNS ]
+,/, 
+[ who/WP ]
+are/VBP 
+[ the/DT buy/NN side/NN ]
+,/, do/VBP n't/RB want/VB to/TO be/VB beholden/JJ to/TO 
+[ a/DT system/NN ]
+owned/VBN by/IN 
+[ Wall/NNP Street/NNP ]
+,/, 
+[ the/DT sell/NN side/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Bloomberg/NNP ]
+./. 
+
+``/`` 
+[ Customers/NNP ]
+prefer/VBP to/TO have/VB 
+[ a/DT system/NN ]
+
+[ that/WDT ]
+is/VBZ independent/JJ of/IN 
+[ Wall/NNP Street/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT product/NN ]
+
+[ the/DT Wall/NNP Street/NNP firms/NNS ]
+envision/VBP would/MD threaten/VB 
+[ any/DT ]
+of/IN 
+[ several/JJ competing/VBG services/NNS ]
+,/, including/VBG 
+[ Citicorp/NNP 's/POS Quotron/NNP unit/NN ]
+,/, 
+[ Reuters/NNP Holdings/NNPS PLC/NNP ]
+or/CC 
+[ Telerate/NNP Inc/NNP ]
+./. 
+
+However/RB ,/, 
+[ one/CD ]
+of/IN 
+[ these/DT other/JJ services/NNS ]
+could/MD get/VB 
+[ a/DT slice/NN ]
+of/IN 
+[ the/DT action/NN ]
+if/IN 
+[ it/PRP ]
+is/VBZ tapped/VBN as/IN 
+[ an/DT electronic/JJ vendor/NN ]
+to/TO distribute/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+[ Salomon/NNP ]
+and/CC 
+[ Quotron/NNP ]
+have/VBP already/RB had/VBN 
+[ discussions/NNS ]
+about/IN 
+[ such/JJ an/DT arrangement/NN ]
+,/, 
+[ Salomon/NNP executives/NNS ]
+said/VBD ./. 
+
+And/CC 
+[ a/DT Telerate/NNP spokesman/NN ]
+said/VBD 
+[ he/PRP ]
+was/VBD contacted/VBN just/RB 
+[ last/JJ week/NN ]
+by/IN 
+[ a/DT consultant/NN ]
+claiming/VBG to/TO be/VB working/VBG for/IN 
+[ Morgan/NNP Stanley/NNP ]
+,/, 
+[ Goldman/NNP Sachs/NNP ]
+and/CC 
+[ Salomon/NNP ]
+and/CC 
+[ other/JJ firms/NNS ]
+./. 
+
+[ Telerate/NNP ]
+is/VBZ 
+[ 67%-owned/JJ ]
+by/IN 
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ publisher/NN ]
+of/IN 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP ]
+./. 
+
+[ Dow/NNP Jones/NNP ]
+has/VBZ launched/VBN 
+[ a/DT tender/NN ]
+offer/NN to/TO buy/VB 
+[ the/DT ]
+remaining/VBG 
+[ 33/CD %/NN ]
+./. 
+
+======================================
+
+[ A/DT Telerate/NNP spokesman/NN ]
+said/VBD 
+[ the/DT Wall/NNP Street/NNP firms/NNS ]
+discussing/VBG 
+[ an/DT electronic/JJ system/NN ]
+will/MD need/VB 
+[ a/DT distributor/NN ]
+,/, and/CC ``/`` 
+[ we/PRP ]
+'d/MD be/VB happy/JJ to/TO talk/VB to/TO see/VB if/IN 
+[ there/EX ]
+are/VBP 
+[ any/DT synergies/NNS ]
+for/IN 
+[ both/DT ]
+
+[ sides/NNS ]
+./. 

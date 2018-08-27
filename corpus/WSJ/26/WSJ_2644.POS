@@ -1,0 +1,392 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ I/PRP ]
+appreciated/VBD 
+[ Thomas/NNP W./NNP Hazlett/NNP 's/POS review/NN ]
+of/IN 
+[ my/PRP$ book/NN ]
+,/, ``/`` 
+[ The/DT Farm/NN Fiasco/NN ]
+''/'' (/( 
+[ ``/`` Bushels/NNS ]
+of/IN 
+[ Dough/NN ]
+,/, ''/'' 
+[ Leisure/NN ]
+&/CC 
+[ Arts/NNS ]
+,/, 
+[ Sept./NNP 21/CD ]
+ )/) ./. 
+
+However/RB ,/, 
+[ it/PRP ]
+had/VBD 
+[ numerous/JJ errors/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Hazlett/NNP ]
+states/VBZ that/IN 
+[ farmers/NNS ]
+``/`` are/VBP ever/RB close/JJ to/TO 
+[ the/DT margin/NN ]
+./. 
+
+''/'' 
+[ This/DT ]
+is/VBZ very/RB misleading/JJ :/: 
+[ Agriculture/NNP Department/NNP studies/NNS ]
+show/VBP that/IN 
+[ the/DT average/JJ full-time/JJ farmer/NN ]
+has/VBZ 
+[ a/DT net/JJ worth/NN ]
+of/IN more/JJR than/IN 
+[ $/$ 1/CD million/CD ]
+ (/( more/JJR than/IN 
+[ 12/CD times/RB ]
+higher/JJR than/IN that/IN of/IN 
+[ the/DT average/JJ American/JJ family/NN ]
+ )/) ./. 
+
+[ The/DT average/JJ full-time/JJ farmer/NN ]
+enjoyed/VBD 
+[ a/DT farm/NN income/NN ]
+of/IN 
+[ $/$ 136,255/CD ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+[ Full-time/JJ farmers/NNS ]
+have/VBP had/VBN 
+[ far/RB higher/JJR incomes/NNS ]
+than/IN 
+[ average/JJ Americans/NNPS ]
+throughout/IN 
+[ the/DT 1980s/NNS ]
+./. 
+
+[ The/DT comparative/JJ wealth/NN ]
+of/IN 
+[ farmers/NNS ]
+was/VBD 
+[ a/DT major/JJ point/NN ]
+of/IN 
+[ my/PRP$ book/NN ]
+;/: 
+[ I/PRP ]
+'m/VBP surprised/VBN 
+[ Mr./NNP Hazlett/NNP ]
+missed/VBD 
+[ it/PRP ]
+./. 
+
+======================================
+
+[ Mr./NNP Hazlett/NNP ]
+characterizes/VBZ 
+[ farm/NN landowners/NNS ]
+as/IN ``/`` 
+[ typically.../: rich/JJ Republican/JJ country/NN clubbers/NNS ]
+
+[ who/WP ]
+regularly/RB denounce/VBP 
+[ welfare/NN handouts/NNS ]
+over/IN 
+[ gin-and-tonics/NNS ]
+./. 
+
+''/'' 
+[ This/DT ]
+may/MD be/VB true/JJ around/IN 
+[ Davis/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, where/WRB 
+[ Mr./NNP Hazlett/NNP ]
+resides/VBZ ,/, but/CC 
+[ that/DT ]
+is/VBZ definitely/RB not/RB 
+[ the/DT case/NN ]
+in/IN 
+[ Kansas/NNP ]
+,/, 
+[ Iowa/NNP ]
+,/, 
+[ South/NNP Dakota/NNP ]
+,/, 
+[ etc/FW ]
+./. 
+
+[ Midwest/NNP farmers/NNS ]
+may/MD be/VB wealthy/JJ ,/, but/CC 
+[ they/PRP ]
+are/VBP not/RB ``/`` 
+[ country/NN club/NN ]
+''/'' 
+[ types/NNS ]
+--/: and/CC 
+[ they/PRP ]
+prefer/VBP 
+[ beer/NN ]
+and/CC 
+[ whiskey/NN ]
+over/IN 
+[ gin-and-tonics/NNS ]
+./. 
+
+[ Mr./NNP Hazlett/NNP 's/POS caricature/NN ]
+is/VBZ 
+[ a/DT libel/NN ]
+on/IN 
+[ most/JJS farmers/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Hazlett/NNP ]
+implies/VBZ (/( in/IN 
+[ his/PRP$ statements/NNS ]
+that/IN 
+[ farmers/NNS ]
+``/`` are/VBP ever/RB close/JJ to/TO 
+[ the/DT margin/NN ]
+''/'' while/IN 
+[ landowners/NNS ]
+are/VBP 
+[ rich/JJ country/NN clubbers/NNS ]
+ )/) that/IN 
+[ there/EX ]
+is/VBZ 
+[ little/JJ overlap/NN ]
+between/IN 
+[ farmers/NNS ]
+and/CC 
+[ farm/NN landowners/NNS ]
+./. 
+
+In/IN 
+[ reality/NN ]
+,/, 
+[ a/DT substantial/JJ majority/NN ]
+of/IN 
+[ farmers/NNS ]
+own/VBP 
+[ the/DT land/NN ]
+
+[ they/PRP ]
+plant/VBP ./. 
+
+Thus/RB ,/, 
+[ farmers/NNS ]
+have/VBP reaped/VBN most/JJS of/IN 
+[ the/DT benefits/NNS ]
+of/IN 
+[ the/DT ]
+federally/RB induced/VBN 
+[ rise/NN ]
+in/IN 
+[ farmland/NN values/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Hazlett/NNP ]
+contrasts/VBZ 
+[ farm/NN programs/NNS ]
+under/IN 
+[ Presidents/NNPS Carter/NNP ]
+and/CC 
+[ Reagan/NNP ]
+:/: ``/`` 
+[ ag/NN subsidies/NNS ]
+had/VBD fallen/VBN to/TO just/RB 
+[ $/$ 4/CD billion/CD ]
+annually/RB under/IN 
+[ Carter/NNP ]
+,/, but/CC have/VBP totaled/VBN 
+[ $/$ 260/CD billion/CD ]
+in/IN 
+[ the/DT '80s/NNS ]
+./. 
+
+''/'' But/CC 
+[ the/DT $/$ 4/CD billion/CD figure/NN ]
+under/IN 
+[ Mr./NNP Carter/NNP ]
+counts/VBZ 
+[ only/JJ government/NN outlays/NNS ]
+,/, while/IN 
+[ the/DT $/$ 260/CD billion/CD figure/NN ]
+counts/VBZ 
+[ both/DT government/NN outlays/NNS ]
+and/CC 
+[ higher/JJR food/NN costs/NNS ]
+to/TO 
+[ consumers/NNS ]
+caused/VBN by/IN 
+[ federal/JJ policies/NNS ]
+./. 
+
+Adding/VBG 
+[ consumer/NN costs/NNS ]
+to/TO 
+[ the/DT Carter/NNP figure/NN ]
+would/MD produce/VB 
+[ a/DT total/JJ cost/NN ]
+of/IN about/IN 
+[ $/$ 12/CD billion/CD ]
+to/TO 
+[ $/$ 15/CD billion/CD ]
+,/, and/CC would/MD weaken/VB 
+[ Mr./NNP Hazlett/NNP 's/POS efforts/NNS ]
+to/TO blame/VB 
+[ Republicans/NNPS ]
+for/IN 
+[ soaring/VBG farm/NN spending/NN ]
+./. 
+
+[ He/PRP ]
+observes/VBZ ,/, ``/`` 
+[ The/DT specific/JJ aim/NN ]
+of/IN 
+[ recent/JJ Republican/JJ reforms/NNS ]
+is/VBZ to/TO shift/VB 
+[ the/DT subsidies/NNS off-budget/JJ ]
+,/, imposing/VBG 
+[ supply/NN controls/NNS ]
+in/IN 
+[ USDA-sponsored/JJ cartels/NNS ]
+to/TO raise/VB 
+[ commodity/NN prices/NNS ]
+without/IN 
+[ direct/JJ subsidies/NNS ]
+./. 
+
+Consider/VB 
+[ the/DT 1983-84/CD PIK/NNP program/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+''/'' But/CC under/IN 
+[ the/DT PIK/NNP program/NN ]
+,/, 
+[ government/NN ]
+did/VBD not/RB impose/VB 
+[ involuntary/JJ controls/NNS ]
+on/IN 
+[ farmers/NNS ]
+and/CC 
+[ there/EX ]
+was/VBD 
+[ no/DT cartel/NN effort/NN ]
+involved/VBN ./. 
+
+[ Many/JJ farmers/NNS ]
+
+[ who/WP ]
+stayed/VBD out/RB of/IN 
+[ the/DT PIK/NNP program/NN ]
+reaped/VBD 
+[ huge/JJ profits/NNS ]
+./. 
+
+[ The/DT term/NN ]
+``/`` 
+[ supply/NN controls/NNS ]
+''/'' usually/RB refers/VBZ to/TO 
+[ mandatory/JJ controls/NNS ]
+imposed/VBN by/IN 
+[ government/NN ]
+on/IN 
+[ farmers/NNS ]
+./. 
+
+Actually/RB ,/, 
+[ most/JJS Republicans/NNPS ]
+in/IN 
+[ Congress/NNP ]
+have/VBP fought/VBN 
+[ tooth/RB ]
+and/CC 
+[ nail/RB ]
+to/TO avoid/VB 
+[ supply/NN controls/NNS ]
+,/, while/IN 
+[ the/DT Democrats/NNPS ]
+ (/( 
+[ Gephardt/NNP ]
+,/, 
+[ Harkin/NNP ]
+,/, 
+[ etc/FW ]
+./. 
+
+ )/) have/VBP led/VBN 
+[ the/DT ]
+push/NN to/TO impose/VB 
+[ mandatory/JJ controls/NNS ]
+./. 
+
+[ The/DT House/NNP ]
+ (/( though/IN not/RB 
+[ the/DT Senate/NNP ]
+ )/) voted/VBD in/IN 
+[ favor/NN ]
+of/IN 
+[ mandatory/JJ controls/NNS ]
+in/IN 
+[ 1986/CD ]
+:/: Probably/RB 
+[ six/CD times/NNS ]
+as/IN 
+[ many/JJ Democrats/NNPS ]
+as/IN 
+[ Republicans/NNPS ] 
+favored/VBD 
+[ mandatory/JJ controls/NNS ]
+./. 
+
+[ Both/DT ]
+
+[ the/DT Reagan/NNP administration/NN ]
+and/CC 
+[ the/DT Bush/NNP administration/NN ]
+have/VBP been/VBN adamant/JJ in/IN 
+[ their/PRP$ opposition/NN ]
+to/TO 
+[ mandatory/JJ controls/NNS ]
+./. 
+
+======================================
+
+[ James/NNP Bovard/NNP ]
+
+======================================
+
+[ Rockville/NNP ]
+,/, 
+[ Md/NNP ]
+./. 

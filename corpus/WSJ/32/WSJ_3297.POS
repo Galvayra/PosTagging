@@ -1,0 +1,154 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT U.S./NNP attorney/NN 's/POS office/NN ]
+in/IN 
+[ Boston/NNP ]
+said/VBD 
+[ the/DT government/NN ]
+has/VBZ filed/VBN 
+[ a/DT five-count/JJ civil/JJ complaint/NN ]
+against/IN 
+[ Data/NNP Translation/NNP Inc./NNP ]
+alleging/VBG 
+[ the/DT company/NN ]
+submitted/VBD 
+[ false/JJ information/NN ]
+to/TO 
+[ the/DT General/NNP Services/NNPS Administration/NNP ]
+in/IN 
+[ order/NN ]
+to/TO procure/VB 
+[ a/DT government/NN contract/NN ]
+./. 
+
+======================================
+
+[ Data/NNP Translation/NNP ]
+,/, 
+[ a/DT Marlborough/NNP ]
+,/, 
+[ Mass./NNP maker/NN ]
+of/IN 
+[ computer/NN products/NNS ]
+,/, announced/VBD in/IN 
+[ August/NNP ]
+that/IN 
+[ the/DT government/NN ]
+had/VBD informed/VBN 
+[ it/PRP ]
+that/IN 
+[ it/PRP ]
+was/VBD considering/VBG 
+[ such/PDT a/DT suit/NN ]
+./. 
+
+======================================
+
+[ The/DT complaint/NN ]
+alleges/VBZ that/IN in/IN 
+[ 1983/CD ]
+,/, 
+[ Data/NNP Translation/NNP ]
+and/CC 
+[ the/DT GSA/NNP ]
+entered/VBD into/IN 
+[ negotiations/NNS ]
+for/IN 
+[ a/DT contract/NN ]
+involving/VBG 
+[ the/DT sale/NN ]
+of/IN 
+[ automatic/JJ data/NNS ]
+processing/VBG 
+[ equipment/NN ]
+and/CC 
+[ software/NN ]
+to/TO 
+[ federal/JJ agencies/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB claims/VBZ 
+[ Data/NNP Translation/NNP ]
+provided/VBD 
+[ false/JJ ]
+and/CC 
+[ incomplete/JJ information/NN ]
+about/IN 
+[ its/PRP$ sales/NNS ]
+and/CC 
+[ discount/NN practices/NNS ]
+in/IN 
+[ 1983/CD ]
+,/, when/WRB 
+[ the/DT contract/NN ]
+was/VBD negotiated/VBN ,/, and/CC in/IN 
+[ 1984/CD ]
+,/, when/WRB 
+[ it/PRP ]
+was/VBD renewed/VBN ./. 
+
+======================================
+
+[ The/DT government/NN ]
+said/VBD 
+[ Data/NNP Translation/NNP ]
+is/VBZ liable/JJ for/IN 
+[ treble/JJ damages/NNS ]
+of/IN 
+[ $/$ 1,318,242/CD ]
+,/, and/CC 
+[ penalties/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 10,000/CD ]
+for/IN 
+[ each/DT false/JJ claim/NN ]
+submitted/VBN to/TO 
+[ the/DT government/NN ]
+./. 
+
+======================================
+
+[ Data/NNP Translation/NNP ]
+said/VBD 
+[ its/PRP$ actions/NNS ]
+``/`` were/VBD proper/JJ at/IN 
+[ all/DT times/NNS ]
+./. 
+
+''/'' 
+[ It/PRP ]
+also/RB said/VBD 
+[ it/PRP ]
+has/VBZ ``/`` 
+[ meritorious/JJ defenses/NNS ]
+''/'' and/CC 
+[ the/DT ]
+``/`` 
+[ resulting/VBG liabilty/NN ]
+,/, if/IN 
+[ any/DT ]
+,/, wo/MD n't/RB have/VB 
+[ a/DT material/NN effect/NN ]
+on/IN 
+[ the/DT company/NN 's/POS financial/JJ position/NN ]
+or/CC 
+[ results/NNS ]
+of/IN 
+[ operations/NNS ]
+./. 

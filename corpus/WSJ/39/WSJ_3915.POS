@@ -1,0 +1,487 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ USX/NNP Corp./NNP ]
+put/VBD on/IN 
+[ the/DT block/NN oil/NN ]
+and/CC 
+[ gas/NN reserves/NNS ]
+--/: valued/VBN at/IN more/JJR than/IN 
+[ $/$ 1/CD billion/CD ]
+--/: of/IN 
+[ its/PRP$ ]
+recently/RB acquired/VBN but/CC 
+[ lackluster/JJ Texas/NNP Oil/NNP ]
+&/CC 
+[ Gas/NNP Corp./NNP unit/NN ]
+./. 
+
+======================================
+
+[ The/DT steel/NN ]
+and/CC 
+[ energy/NN giant/NN ]
+said/VBD 
+[ it/PRP ]
+will/MD funnel/VB 
+[ proceeds/NNS ]
+to/TO reduce/VB 
+[ its/PRP$ $/$ 5.8/CD billion/CD debt/NN load/NN ]
+and/CC to/TO buy/VB 
+[ back/RP stock/NN ]
+--/: 
+[ both/DT ]
+
+[ actions/NNS ]
+designed/VBD to/TO enhance/VB 
+[ the/DT balance/NN sheet/NN ]
+and/CC 
+[ shareholder/NN value/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT sale/NN ]
+also/RB raises/VBZ 
+[ the/DT question/NN ]
+of/IN whether/IN 
+[ a/DT cash/NN flush/JJ USX/NNP ]
+will/MD seek/VB 
+[ another/DT acquisition/NN ]
+./. 
+
+[ The/DT company/NN ]
+had/VBD long/RB hinted/VBN that/IN 
+[ it/PRP ]
+might/MD seek/VB 
+[ a/DT ]
+``/`` 
+[ third/JJ leg/NN ]
+''/'' to/TO balance/VB 
+[ the/DT cyclical/JJ steel/NN ]
+and/CC 
+[ energy/NN business/NN ]
+./. 
+
+======================================
+
+[ USX/NNP 's/POS new/JJ chairman/NN ]
+,/, 
+[ Charles/NNP A./NNP Corry/NNP ]
+,/, 
+[ who/WP ]
+took/VBD over/RP 
+[ this/DT year/NN ]
+,/, could/MD speed/VB 
+[ that/DT process/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ There'a/NN ]
+clearly/RB 
+[ a/DT lot/NN ]
+of/IN 
+[ incentive/NN ]
+with/IN 
+[ a/DT new/JJ chairman/NN ]
+there/RB to/TO take/VB 
+[ a/DT look/NN ]
+at/IN 
+[ some/DT other/JJ areas/NNS ]
+and/CC reconsider/VB 
+[ the/DT current/JJ line/NN ]
+of/IN 
+[ business/NN ]
+,/, ''/'' said/VBD 
+[ Christopher/NNP Plummer/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ WEFA/NNP Group/NNP ]
+./. 
+
+======================================
+
+Along/IN with/IN 
+[ this/DT current/JJ cutback/NN ]
+in/IN 
+[ oil/NN ]
+and/CC 
+[ gas/NN reserves/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD 
+[ USX/NNP ]
+will/MD likely/RB reduce/VB 
+[ its/PRP$ steel/NN holdings/NNS ]
+during/IN 
+[ the/DT next/JJ few/JJ years/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP yesterday/NN ]
+,/, 
+[ USX/NNP ]
+rose/VBD 
+[ $/$ 1.75/CD ]
+to/TO 
+[ $/$ 34.875/CD ]
+./. 
+
+======================================
+
+Even/RB though/IN 
+[ the/DT move/NN ]
+includes/VBZ 
+[ sizable/JJ reserves/NNS ]
+--/: about/RB 
+[ 1.2/CD trillion/CD cubic/JJ feet/NNS ]
+of/IN 
+[ natural/JJ gas/NN ]
+and/CC about/RB 
+[ 28/CD million/CD barrels/NNS ]
+of/IN 
+[ oil/NN ]
+as/IN of/IN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+--/: 
+[ it/PRP ]
+represents/VBZ only/RB one-fourth/NN of/IN 
+[ USX/NNP 's/POS gas/NN reserves/NNS ]
+and/CC 
+[ 3.5/CD %/NN ]
+of/IN 
+[ its/PRP$ oil/NN reserves/NNS ]
+,/, when/WRB taking/VBG into/IN 
+[ account/NN USX/NNP 's/POS larger/JJR Marathon/NNP Oil/NNP unit/NN ]
+./. 
+
+[ The/DT company/NN ]
+also/RB will/MD sell/VB 
+[ Texas/NNP Oil/NNP ]
+&/CC 
+[ Gas/NNP 's/POS estimated/JJ 2.2/CD million/CD undeveloped/JJ ]
+and/CC developed/JJ 
+[ acres/NNS ]
+of/IN 
+[ land/NN ]
+./. 
+
+======================================
+
+[ USX/NNP ]
+will/MD retain/VB 
+[ Texas/NNP Oil/NNP 's/POS vast/JJ transmission/NN business/NN ]
+,/, as/RB well/RB as/IN 
+[ the/DT unit/NN 's/POS gas/NN gathering/NN ]
+and/CC 
+[ contract/NN drilling/NN business/NN ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ the/DT sale/NN ]
+indicates/VBZ 
+[ the/DT company/NN 's/POS disappointment/NN ]
+in/IN 
+[ the/DT profitability/NN ]
+of/IN 
+[ Texas/NNP Oil/NNP ]
+./. 
+
+[ USX/NNP ]
+acquired/VBD 
+[ the/DT business/NN ]
+,/, long/RB known/VBN as/IN 
+[ a/DT star/NN ]
+in/IN 
+[ the/DT energy/NN industry/NN ]
+,/, in/IN 
+[ early/JJ 1986/CD ]
+in/IN 
+[ a/DT stock/NN exchange/NN ]
+valued/VBN at/IN about/RB 
+[ $/$ 3/CD billion/CD ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ its/PRP$ strategy/NN ]
+to/TO diversify/VB from/IN 
+[ the/DT mature/JJ steel/NN business/NN ]
+./. 
+
+[ The/DT acquisition/NN ]
+struck/VBD 
+[ a/DT raw/JJ nerve/NN ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+because/IN 
+[ it/PRP ]
+involved/VBD issuing/VBG 
+[ 133/CD million/CD shares/NNS ]
+of/IN 
+[ USX/NNP ]
+,/, doubling/VBG 
+[ the/DT number/NN ]
+of/IN 
+[ shares/NNS ]
+outstanding/JJ ./. 
+
+[ Investors/NNS ]
+were/VBD likewise/RB skittish/JJ about/IN 
+[ the/DT future/NN ]
+of/IN 
+[ natural/JJ gas/NN prices/NNS ]
+./. 
+
+======================================
+
+[ Their/PRP$ concerns/NNS ]
+were/VBD warranted/JJ ./. 
+
+[ Natural/JJ gas/NN prices/NNS ]
+have/VBP declined/VBN since/IN then/RB ,/, as/IN has/VBZ 
+[ the/DT profitability/NN ]
+of/IN 
+[ Texas/NNP Oil/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT timing/NN was/VBD n't/RB ]
+great/JJ ./. 
+
+[ They/PRP ]
+bought/VBD 
+[ it/PRP ]
+just/RB before/IN 
+[ the/DT collapse/NN ]
+in/IN 
+[ oil/NN ]
+and/CC 
+[ gas/NN prices/NNS ]
+,/, ''/'' said/VBD 
+[ Lysle/NNP Brinker/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+of/IN 
+[ John/NNP S./NNP Herold/NNP Inc./NNP ]
+,/, 
+[ a/DT Greenwich/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, 
+[ oil/NN ]
+and/CC 
+[ gas/NN ]
+consulting/NN and/CC 
+[ appraisal/NN firm/NN ]
+./. 
+
+======================================
+
+Indeed/RB ,/, in/IN 
+[ 1986/CD ]
+,/, 
+[ Texas/NNP Oil/NNP ]
+had/VBD 
+[ an/DT operating/NN loss/NN ]
+of/IN 
+[ $/$ 21/CD million/CD ]
+./. 
+
+[ The/DT following/JJ year/NN ]
+,/, 
+[ the/DT unit/NN ]
+earned/VBN 
+[ $/$ 2/CD million/CD ]
+,/, but/CC dropped/VBD back/RP into/IN 
+[ the/DT red/NN ]
+in/IN 
+[ 1988/CD ]
+,/, with/IN 
+[ an/DT operating/NN loss/NN ]
+of/IN 
+[ $/$ 31/CD million/CD ]
+./. 
+
+[ Sales/NNS ]
+likewise/RB have/VBP dropped/VBN to/TO 
+[ $/$ 937/CD million/CD ]
+in/IN 
+[ 1988/CD ]
+from/IN 
+[ $/$ 1/CD billion/CD ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ Mr./NNP Brinker/NNP ]
+said/VBD 
+[ Texas/NNP Oil/NNP 's/POS oil/NN reserves/NNS ]
+,/, valued/VBN at/IN about/RB 
+[ $/$ 6.50/CD ]
+
+[ a/DT barrel/NN ]
+,/, could/MD fetch/VB about/RB 
+[ $/$ 182/CD million/CD ]
+./. 
+
+[ The/DT natural/JJ gas/NN reserves/NNS ]
+,/, valued/VBN at/IN 
+[ 72/CD cents/NNS ]
+per/IN 
+[ million/CD cubic/JJ feet/NNS ]
+,/, could/MD reap/VB 
+[ $/$ 850/CD million/CD ]
+./. 
+
+[ The/DT reserves/NNS ]
+are/VBP mainly/RB in/IN 
+[ Texas/NNP ]
+,/, 
+[ Oklahoma/NNP ]
+,/, 
+[ Arkansas/NNP ]
+,/, 
+[ Louisiana/NNP ]
+,/, 
+[ Colorado/NNP ]
+and/CC 
+[ Kansas/NNP ]
+./. 
+
+[ CS/NNP First/NNP Boston/NNP Corp./NNP ]
+has/VBZ been/VBN retained/VBN to/TO handle/VB 
+[ the/DT sale/NN ]
+of/IN 
+[ the/DT assets/NNS ]
+./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ USX/NNP ]
+should/MD have/VB 
+[ a/DT ready/JJ market/NN ]
+,/, given/VBN 
+[ the/DT dearth/NN ]
+of/IN 
+[ sizable/JJ amounts/NNS ]
+of/IN 
+[ reserves/NNS ]
+./. 
+
+[ Major/JJ U.S./NNP oil/NN ]
+and/CC 
+[ gas/NN producers/NNS ]
+,/, watching/VBG 
+[ their/PRP$ own/JJ stockpiles/NNS ]
+dwindle/VB ,/, are/VBP scrambling/VBG to/TO buy/VB 
+[ the/DT reserves/NNS ]
+,/, especially/RB in/IN 
+[ the/DT U.S./NNP Acquiring/VBG reserves/NNS ]
+,/, as/IN opposed/VBN to/TO developing/VBG 
+[ them/PRP ]
+,/, enables/VBZ 
+[ companies/NNS ]
+to/TO bypass/VB 
+[ expensive/JJ exploration/NN ]
+and/CC 
+[ development/NN costs/NNS ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ the/DT U.S./NNP ]
+has/VBZ been/VBN averaging/VBG 
+[ $/$ 6.36/CD ]
+
+[ a/DT barrel/NN ]
+for/IN 
+[ the/DT last/JJ five/CD years/NNS ]
+./. 
+
+======================================
+
+And/CC by/IN retaining/VBG 
+[ the/DT transmission/NN ]
+and/CC 
+[ gas/NN gathering/NN assets/NNS ]
+,/, 
+[ USX/NNP ]
+can/MD still/RB profit/VB from/IN 
+[ an/DT upturn/NN ]
+in/IN 
+[ the/DT natural/JJ gas/NN market/NN ]
+,/, expected/VBN sometime/RB in/IN 
+[ the/DT early/JJ 1990s/NNS ]
+./. 
+
+Indeed/RB ,/, 
+[ USX/NNP ]
+has/VBZ been/VBN predicting/VBG that/IN 
+[ gas/NN prices/NNS ]
+would/MD rebound/VB as/IN 
+[ consumers/NNS ]
+use/VBP twice/RB 
+[ as/RB much/JJ gas/NN ]
+as/IN is/VBZ currently/RB being/VBG discovered/VBN ./. 
+
+======================================
+
+[ The/DT operating/NN profit/NN ]
+from/IN 
+[ those/DT ]
+retained/JJ 
+[ assets/NNS ]
+totaled/VBP about/RB 
+[ $/$ 85/CD million/CD last/JJ year/NN ]
+,/, compared/VBN with/IN about/RB 
+[ $/$ 150/CD million/CD ]
+in/IN 
+[ 1985/CD ]
+,/, 
+[ Mr./NNP Brinker/NNP ]
+said/VBD ./. 
+
+``/`` In/IN 
+[ a/DT stronger/JJR gas/NN market/NN ]
+in/IN 
+[ two/CD ]
+or/CC 
+[ three/CD years/NNS ]
+,/, 
+[ they/PRP ]
+might/MD be/VB able/JJ to/TO earn/VB twice/RB as/RB much/JJ on/IN 
+[ those/DT assets/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

@@ -1,0 +1,213 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Computer/NN maker/NN Pyramid/NNP Technology/NNP Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+agreed/VBD to/TO sell/VB 
+[ computers/NNS ]
+to/TO 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+and/CC to/TO develop/VB 
+[ a/DT new/JJ computer/NN system/NN ]
+with/IN 
+[ the/DT phone/NN company/NN ]
+./. 
+
+======================================
+
+[ Pyramid/NNP ]
+said/VBD 
+[ the/DT AT&T/NNP Computer/NNP Systems/NNPS unit/NN ]
+of/IN 
+[ AT&T/NNP ]
+would/MD gain/VB 
+[ revenue/NN ]
+of/IN 
+[ $/$ 30/CD million/CD ]
+from/IN 
+[ the/DT machines/NNS ]
+,/, 
+[ versions/NNS ]
+of/IN 
+[ Pyramid/NNP 's/POS MIServer/NNP computers/NNS ]
+,/, over/IN 
+[ the/DT next/JJ year/NN ]
+and/CC about/IN 
+[ $/$ 400/CD million/CD ]
+in/IN 
+[ revenue/NN ]
+over/IN 
+[ the/DT five-year/JJ span/NN ]
+of/IN 
+[ the/DT contract/NN ]
+./. 
+
+======================================
+
+[ The/DT machines/NNS ]
+,/, 
+[ which/WDT ]
+sell/VBP for/IN around/IN 
+[ $/$ 250,000/CD ]
+,/, are/VBP 
+[ so-called/JJ servers/NNS ]
+used/VBN in/IN 
+[ computer/NN rooms/NNS ]
+to/TO manage/VB 
+[ huge/JJ computer/NN libraries/NNS ]
+of/IN 
+[ data/NNS ]
+or/CC to/TO act/VB as/IN 
+[ a/DT ]
+``/`` 
+[ hub/NN ]
+''/'' for/IN as/RB many/JJ as/IN 
+[ 1,000/CD computers/NNS ]
+./. 
+
+[ The/DT machines/NNS ]
+,/, 
+[ which/WDT ]
+use/VBP 
+[ AT&T/NNP 's/POS Unix/NNP operating-system/NN software/NN ]
+and/CC employ/VB 
+[ so-called/JJ reduced/VBN instruction/NN set/NN computing/NN technology/NN ]
+,/, are/VBP used/VBN by/IN 
+[ the/DT Internal/NNP Revenue/NNP Service/NNP ]
+,/, 
+[ securities/NNS houses/NNS ]
+and/CC 
+[ other/JJ companies/NNS ]
+
+[ that/WDT ]
+have/VBP 
+[ large/JJ data/NN bases/NNS ]
+./. 
+
+======================================
+
+[ The/DT contract/NN ]
+is/VBZ 
+[ a/DT big/JJ win/NN ]
+for/IN 
+[ Pyramid/NNP ]
+,/, 
+[ which/WDT ]
+had/VBD 
+[ $/$ 80/CD million/CD ]
+in/IN 
+[ revenue/NN ]
+in/IN 
+[ the/DT year/NN ]
+ended/VBD 
+[ Sept./NNP 30/CD ]
+,/, 
+[ 1988/CD ]
+./. 
+
+[ The/DT company/NN ]
+expects/VBZ 
+[ revenue/NN ]
+of/IN about/IN 
+[ $/$ 108/CD million/CD ]
+to/TO 
+[ $/$ 112/CD million/CD this/DT year/NN ]
+./. 
+
+======================================
+
+[ Edward/NNP Scott/NNP Jr./NNP ]
+,/, 
+[ Pyramid/NNP marketing/NN vice/NN president/NN ]
+,/, would/MD n't/RB say/VB how/WRB 
+[ much/JJ AT&T/NNP ]
+will/MD pay/VB 
+[ Pyramid/NNP ]
+for/IN 
+[ the/DT machines/NNS ]
+./. 
+
+But/CC 
+[ an/DT AT&T/NNP spokesman/NN ]
+said/VBD 
+[ the/DT ]
+``/`` 
+[ value/NN ]
+to/TO 
+[ Pyramid/NNP ]
+is/VBZ in/IN 
+[ the/DT hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+over/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT announcement/NN ]
+was/VBD made/VBN after/IN 
+[ the/DT stock/NN market/NN ]
+closed/VBD ,/, but/CC 
+[ some/DT word/NN ]
+may/MD have/VB trickled/VBN out/RB earlier/RB in/IN 
+[ the/DT day/NN ]
+./. 
+
+[ Pyramid/NN stock/NN ]
+closed/VBD up/RB 
+[ $/$ 1.25/CD ]
+at/IN 
+[ $/$ 16/CD ]
+
+[ a/DT share/NN ]
+on/IN 
+[ high/JJ volume/NN ]
+in/IN 
+[ national/JJ over-the-counter/JJ ]
+trading/NN ./. 
+
+======================================
+
+[ The/DT stock/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ traded/VBN in/IN 
+[ the/DT range/NN ]
+of/IN 
+[ $/$ 13/CD ]
+to/TO 
+[ $/$ 15/CD ]
+over/IN 
+[ the/DT past/JJ 12/CD trading/NN days/NNS ]
+,/, was/VBD battered/VBN down/RB to/TO 
+[ $/$ 9.75/CD ]
+earlier/RB in/IN 
+[ the/DT year/NN ]
+when/WRB 
+[ Pyramid/NNP ]
+said/VBD 
+[ its/PRP$ third-quarter/NN profit/NN ]
+would/MD be/VB lower/JJR than/IN expected/VBN because/RB of/IN 
+[ late/JJ product/NN introductions/NNS ]
+./. 

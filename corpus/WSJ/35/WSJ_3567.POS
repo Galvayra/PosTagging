@@ -1,0 +1,131 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Groupe/NNP Bruxelles/NNP Lambert/NNP ]
+,/, 
+[ Belgium/NNP 's/POS second/JJ largest/JJS holding/VBG company/NN ]
+,/, said/VBD 
+[ 1989/CD first-half/JJ consolidated/JJ group/NN earnings/NNS ]
+rose/VBD 
+[ 5.7/CD %/NN ]
+to/TO 
+[ 5.758/CD billion/CD Belgian/JJ francs/NNS ]
+ (/( 
+[ $/$ 145.3/CD million/CD ]
+ )/) from/IN 
+[ 5.448/CD billion/CD francs/NNS ]
+in/IN 
+[ the/DT same/JJ period/NN ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+======================================
+
+[ Per-share/JJ earnings/NNS ]
+were/VBD 
+[ 306/CD francs/NNS ]
+,/, 
+[ it/PRP ]
+said/VBD ,/, down/RB from/IN 
+[ 311/CD francs/NNS ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+[ Per-share/JJ earnings/NNS ]
+were/VBD diluted/VBN during/IN 
+[ the/DT latest/JJS first/JJ half/NN ]
+as/IN 
+[ the/DT group/NN ]
+issued/VBD 
+[ new/JJ shares/NNS ]
+to/TO finance/VB 
+[ increases/NNS ]
+in/IN 
+[ its/PRP$ stakes/NNS ]
+in/IN 
+[ Belgian/JJ oil/NN company/NN Petrofina/NNP ]
+and/CC 
+[ utility/NN holding/VBG company/NN Tractebel/NNP ]
+./. 
+
+======================================
+
+On/IN 
+[ a/DT non-consolidated/JJ basis/NN ]
+,/, 
+[ it/PRP ]
+said/VBD 
+[ earnings/NNS ]
+fell/VBD 
+[ 2.6/CD %/NN ]
+to/TO 
+[ 2.746/CD billion/CD francs/NNS ]
+from/IN 
+[ 2.818/CD billion/CD francs/NNS ]
+./. 
+
+[ Consolidated/JJ income/NN ]
+performed/VBD better/RBR mainly/RB because/IN of/IN 
+[ higher/JJR contributions/NNS ]
+by/IN 
+[ companies/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ GBL/NNP ]
+has/VBZ 
+[ equity/NN stakes/NNS ]
+./. 
+
+======================================
+
+[ GBL/NNP ]
+,/, 
+[ the/DT largest/JJS holder/NN ]
+in/IN 
+[ U.S./NNP investment/NN bank/NN Drexel/NNP Burnham/NNP Lambert/NNP ]
+,/, with/IN 
+[ a/DT 26/CD %/NN stake/NN ]
+,/, said/VBD that/IN ``/`` despite/IN 
+[ the/DT dreary/JJ climate/NN ]
+of/IN 
+[ Wall/NNP Street/NNP ]
+,/, {/( 
+[ Drexel/NNP 's/POS ]
+ }/) 
+[ June/NNP 30/CD results/NNS ]
+were/VBD positive/JJ ./. 
+
+''/'' 
+[ Drexel/NNP Burnham/NNP ]
+was/VBD at/IN 
+[ the/DT center/NN ]
+of/IN 
+[ investigations/NNS ]
+by/IN 
+[ U.S./NNP authorities/NNS ]
+on/IN 
+[ insider/NN ]
+trading/NN and/CC made/VBN 
+[ huge/JJ payments/NNS ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT settlement/NN ]
+./. 

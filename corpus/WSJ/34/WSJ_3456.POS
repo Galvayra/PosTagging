@@ -1,0 +1,979 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Donald/NNP Trump/NNP ]
+may/MD have/VB 
+[ a/DT good/JJ eye/NN ]
+for/IN 
+[ companies/NNS ]
+
+[ that/WDT ]
+are/VBP about/RB to/TO become/VB 
+[ takeover/NN targets/NNS ]
+./. 
+
+But/CC 
+[ Wall/NNP Street/NNP takeover-stock/JJ speculators/NNS ]
+have/VBP yet/RB to/TO be/VB convinced/VBN that/IN 
+[ he/PRP ]
+is/VBZ 
+[ a/DT serious/JJ bidder/NN ]
+for/IN 
+[ AMR/NNP Corp./NNP ]
+,/, 
+[ parent/NN ]
+of/IN 
+[ American/NNP Airlines/NNP ]
+./. 
+
+======================================
+
+Even/RB as/IN 
+[ AMR/NNP shares/NNS ]
+leaped/VBD 
+[ 20/CD %/NN yesterday/NN ]
+on/IN 
+[ news/NN ]
+of/IN 
+[ Mr./NNP Trump/NNP 's/POS $/$ 7.54/CD billion/CD takeover/NN proposal/NN ]
+for/IN 
+[ AMR/NNP ]
+,/, 
+[ many/JJ takeover-stock/JJ traders/NNS ]
+,/, or/CC 
+[ arbitragers/NNS ]
+,/, stayed/VBD on/IN 
+[ the/DT sidelines/NNS ]
+,/, and/CC 
+[ a/DT few/JJ ]
+sold/VBD borrowed/VBN 
+[ AMR/NNP shares/NNS ]
+,/, betting/VBG that/IN 
+[ their/PRP$ price/NN ]
+will/MD fall/VB ./. 
+
+======================================
+
+[ The/DT arbs/NNS ]
+groused/VBD that/IN 
+[ Mr./NNP Trump/NNP ]
+has/VBZ 
+[ a/DT long/JJ record/NN ]
+of/IN disclosing/VBG relatively/RB 
+[ small/JJ stakes/NNS ]
+in/IN 
+[ companies/NNS ]
+
+[ that/WDT ]
+are/VBP 
+[ potential/JJ takeover/NN targets/NNS ]
+,/, then/RB selling/VBG 
+[ his/PRP$ stake/NN ]
+--/: almost/RB always/RB at/IN 
+[ a/DT profit/NN ]
+--/: without/IN making/VBG 
+[ a/DT bid/NN ]
+for/IN 
+[ the/DT company/NN ]
+./. 
+
+Often/RB ,/, 
+[ the/DT arbs/NNS ]
+have/VBP been/VBN burned/VBN by/IN following/VBG 
+[ Mr./NNP Trump/NNP ]
+into/IN 
+[ a/DT stock/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/JJ two/CD years/NNS ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+has/VBZ disclosed/VBN in/IN 
+[ various/JJ ways/NNS ]
+that/IN 
+[ he/PRP ]
+owned/VBD 
+[ stock/NN ]
+in/IN 
+[ 12/CD ]
+publicly/RB traded/VBN 
+[ companies/NNS ]
+./. 
+
+Although/IN 
+[ Mr./NNP Trump/NNP ]
+never/RB announced/VBD that/IN 
+[ he/PRP ]
+would/MD seek/VB 
+[ control/NN ]
+of/IN 
+[ 11/CD ]
+of/IN 
+[ those/DT companies/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD in/IN 
+[ several/JJ filings/NNS ]
+that/IN 
+[ he/PRP ]
+might/MD seek/VB to/TO buy/VB 
+[ stakes/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ 15/CD %/NN ]
+,/, 
+[ 25/CD %/NN ]
+or/CC 
+[ 50/CD %/NN ]
+in/IN 
+[ them/PRP ]
+,/, but/CC never/RB owned/VBD 
+[ stakes/NNS ]
+
+[ that/WDT ]
+approached/VBD 
+[ that/DT size/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ most/JJS cases/NNS ]
+,/, 
+[ the/DT stock/NN prices/NNS ]
+of/IN 
+[ the/DT companies/NNS ]
+rose/VBD 
+[ briefly/NN ]
+./. 
+
+And/CC in/IN 
+[ many/JJ cases/NNS ]
+,/, 
+[ the/DT companies/NNS ]
+eventually/RB were/VBD sold/VBN or/CC restructured/VBN with/IN 
+[ Mr./NNP Trump/NNP 's/POS participation/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ He/PRP ]
+has/VBZ traded/VBN in/IN and/CC out/IN of/IN 
+[ a/DT lot/NN ]
+of/IN 
+[ different/JJ situations/NNS ]
+,/, ''/'' said/VBD 
+[ the/DT head/NN ]
+of/IN 
+[ the/DT arbitrage/NN desk/NN ]
+at/IN 
+[ a/DT major/JJ Wall/NNP Street/NNP securities/NNS firm/NN ]
+,/, 
+[ who/WP ]
+declined/VBD to/TO be/VB identified/VBN ./. 
+
+======================================
+
+``/`` 
+[ The/DT question/NN ]
+
+[ we/PRP ]
+have/VBP is/VBZ :/: 
+[ 'Is/VBZ 'Is/VBZ Trump/NNP ]
+selling/VBG 
+[ the/DT stock/NN today/NN ]
+?/. 
+
+'/'' ''/'' said/VBD 
+[ an/DT arbitrager/NN ]
+at/IN 
+[ another/DT major/JJ Wall/NNP Street/NNP firm/NN ]
+./. 
+
+Although/IN 
+[ Mr./NNP Trump/NNP ]
+declined/VBD to/TO comment/VB yesterday/NN ,/, 
+[ his/PRP$ aides/NNS ]
+were/VBD outraged/VBN by/IN 
+[ such/JJ speculation/NN ]
+and/CC 
+[ any/DT questioning/NN ]
+of/IN 
+[ Mr./NNP Trump/NNP 's/POS intent/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+rankles/VBZ 
+[ me/PRP ]
+,/, ''/'' said/VBD 
+[ Susan/NNP Heilbron/NNP ]
+,/, 
+[ an/DT executive/JJ vice/NN president/NN ]
+of/IN 
+[ Trump/NNP Organization/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ he/PRP ]
+'s/VBZ made/VBN 
+[ a/DT very/RB credible/JJ offer/NN ]
+./. 
+
+[ He/PRP ]
+
+[ 's/POS ]
+announced/VBD 
+[ his/PRP$ intention/NN ]
+to/TO put/VB 
+[ $/$ 1/CD billion/CD ]
+of/IN 
+[ his/PRP$ own/JJ money/NN ]
+in/RP ./. 
+
+[ This/DT ]
+is/VBZ 
+[ a/DT proposal/NN ]
+that/IN 
+[ neither/CC ]
+
+[ the/DT arbs/NNS ]
+nor/CC 
+[ the/DT company/NN ]
+nor/CC 
+[ the/DT press/NN ]
+should/MD knee-jerk/RB react/VB to/TO ,/, ''/'' 
+[ she/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Ms./NNP Heilbron/NNP ]
+points/VBZ out/IN that/IN until/IN now/RB ,/, 
+[ Mr./NNP Trump/NNP ]
+has/VBZ only/RB said/VBD 
+[ he/PRP ]
+would/MD bid/VB for/IN 
+[ two/CD companies/NNS ]
+--/: 
+[ Resorts/NNP International/NNP Inc./NNP ]
+and/CC 
+[ the/DT Eastern/NNP Airlines/NNP Shuttle/NNP ]
+--/: and/CC followed/VBN|VBD through/RP with/IN 
+[ bids/NNS ]
+for/IN 
+[ both/DT ]
+./. 
+
+[ He/PRP ]
+won/VBD 
+[ control/NN ]
+of/IN 
+[ the/DT shuttle/NN ]
+,/, but/CC was/VBD outbid/VBN for/IN 
+[ Resorts/NNP ]
+by/IN 
+[ entertainer/NN Merv/NNP Griffin/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ his/PRP$ track/NN record/NN ]
+on/IN doing/VBG 
+[ what/WP ]
+
+[ he/PRP ]
+says/VBZ 
+[ he/PRP ]
+'s/VBZ going/VBG to/TO do/VB is/VBZ 
+[ two/CD ]
+for/IN 
+[ two/CD ]
+,/, and/CC hopefully/RB 
+[ three/CD ]
+for/IN 
+[ three/CD ]
+,/, ''/'' 
+[ Ms./NNP Heilbron/NNP ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ the/DT cases/NNS ]
+of/IN 
+[ two/CD companies/NNS ]
+for/IN 
+[ which/WDT ]
+
+[ Mr./NNP Trump/NNP ]
+did/VBD n't/RB make/VB offers/NNS --/: 
+[ Holiday/NNP Corp./NNP ]
+and/CC 
+[ UAL/NNP Corp./NNP ]
+--/: 
+[ Mr./NNP Trump/NNP 's/POS purchases/NNS ]
+were/VBD nevertheless/RB 
+[ a/DT bellwether/NN ]
+of/IN 
+[ corporate/JJ overhauls/NNS ]
+./. 
+
+After/IN 
+[ Mr./NNP Trump/NNP ]
+bought/VBD and/CC sold/VBD 
+[ stakes/NNS ]
+of/IN just/RB under/IN 
+[ 5/CD %/NN ]
+,/, 
+[ each/DT company/NN ]
+undertook/VBD 
+[ a/DT restructuring/NN ]
+
+[ that/WDT ]
+raised/VBD 
+[ its/PRP$ stock/NN price/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ Holiday/NNP ]
+in/IN 
+[ August/NNP ]
+announced/VBD 
+[ a/DT second/JJ ]
+restructuring/NN ,/, in/IN 
+[ which/WDT ]
+most/JJS of/IN 
+[ its/PRP$ assets/NNS ]
+will/MD be/VB sold/VBN off/RP to/TO 
+[ Britain/NNP 's/POS Bass/NNP PLC/NNP ]
+,/, and/CC 
+[ UAL/NNP last/JJ month/NN ]
+agreed/VBD to/TO 
+[ a/DT leveraged/JJ buy-out/NN ]
+organized/VBN by/IN 
+[ its/PRP$ management/NN ]
+and/CC 
+[ pilots/NNS union/NN ]
+./. 
+
+======================================
+
+And/CC in/IN 
+[ the/DT cases/NNS ]
+of/IN 
+[ Federated/NNP Department/NNP Stores/NNP Inc./NNP ]
+and/CC 
+[ Pillsbury/NNP Co./NNP ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+filed/VBD for/IN 
+[ federal/JJ antitrust/JJ clearance/NN ]
+to/TO increase/VB 
+[ his/PRP$ stake/NN ]
+in/IN 
+[ each/DT company/NN ]
+to/TO 
+[ more/JJR ]
+than/IN 
+[ $/$ 15/CD million/CD ]
+,/, shortly/RB before/IN 
+[ the/DT companies/NNS ]
+became/VBD 
+[ the/DT targets/NNS ]
+of/IN 
+[ successful/JJ hostile/JJ takeover/NN bids/NNS ]
+from/IN 
+[ others/NNS ]
+./. 
+
+======================================
+
+But/CC in/IN 
+[ the/DT case/NN ]
+of/IN 
+[ MCA/NNP Inc./NNP ]
+,/, 
+[ the/DT major/JJ entertainment/NN company/NN ]
+,/, 
+[ nothing/NN ]
+in/IN 
+[ the/DT way/NN ]
+of/IN 
+[ a/DT takeover/NN bid/NN ]
+or/CC restructuring/NN has/VBZ come/VBN about/RP since/IN 
+[ Mr./NNP Trump/NNP ]
+sought/VBD 
+[ antitrust/JJ clearance/NN ]
+to/TO increase/VB 
+[ his/PRP$ stake/NN ]
+to/TO as/RB much/JJ as/IN 
+[ 25/CD %/NN ]
+from/IN 
+[ $/$ 15/CD million/CD ]
+./. 
+
+Nor/CC has/VBZ 
+[ a/DT bid/NN ]
+or/CC restructuring/NN for/IN 
+[ Caesars/NNP World/NNP Inc./NNP ]
+surfaced/VBD since/IN 
+[ Mr./NNP Trump/NNP ]
+bought/VBD and/CC sold/VBD 
+[ a/DT 2.4/CD %/NN stake/NN ]
+in/IN 
+[ late/JJ 1988/CD ]
+and/CC 
+[ early/JJ 1989/CD ]
+./. 
+
+======================================
+
+And/CC in/IN 
+[ the/DT case/NN ]
+of/IN 
+[ Bally/NNP Manufacturing/NNP Corp./NNP ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+sold/VBD 
+[ his/PRP$ 9.9/CD %/NN stake/NN ]
+back/RB to/TO 
+[ the/DT company/NN ]
+at/IN 
+[ an/DT above-market/JJ price/NN ]
+,/, accepting/VBG ``/`` 
+[ greenmail/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Some/DT veteran/JJ Trump-watchers/NNS ]
+are/VBP skeptical/JJ about/IN 
+[ his/PRP$ real/JJ intent/NN ]
+toward/IN 
+[ AMR/NNP ]
+./. 
+
+[ Daniel/NNP Lee/NNP ]
+,/, 
+[ a/DT gaming-industry/NN analyst/NN ]
+at/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc./NNP ]
+,/, notes/VBZ that/IN 
+[ Mr./NNP Trump/NNP 's/POS most/JJS serious/JJ forays/NNS ]
+have/VBP come/VBN in/IN 
+[ fields/NNS ]
+that/WDT 
+[ he/PRP ]
+knows/VBZ well/RB :/: 
+[ real/JJ estate/NN ]
+and/CC 
+[ casinos/NNS ]
+./. 
+
+[ True/NNP ]
+,/, 
+[ Mr./NNP Trump/NNP ]
+now/RB owns/VBZ 
+[ an/DT airline/NN ]
+,/, 
+[ Trump/NNP Shuttle/NNP ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ small/JJ ,/, and/CC 
+[ he/PRP ]
+
+[ has/VBZ n't/RB ]
+owned/VBD 
+[ it/PRP ]
+very/RB long/RB ./. 
+
+======================================
+
+[ Mr./NNP Trump/NNP ]
+``/`` just/RB has/VBZ n't/RB been/VBN in/IN 
+[ it/PRP ]
+long/RB enough/RB to/TO have/VB 
+[ the/DT experience/NN ]
+to/TO run/VB 
+[ an/DT airline/NN ]
+,/, ''/'' 
+[ Mr./NNP Lee/NNP ]
+said/VBD ./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ Mr./NNP Lee/NNP ]
+notes/VBZ that/IN if/IN 
+[ Mr./NNP Trump/NNP ]
+put/VBD 
+[ $/$ 1/CD billion/CD ]
+of/IN 
+[ his/PRP$ own/JJ money/NN ]
+into/IN 
+[ a/DT purchase/NN ]
+of/IN 
+[ AMR/NNP ]
+,/, as/IN 
+[ he/PRP ]
+has/VBZ proposed/VBN ,/, ``/`` 
+[ it/PRP ]
+would/MD be/VB very/RB high-risk/JJ for/IN 
+[ him/PRP ]
+personally/RB ,/, and/CC 
+[ that/DT ]
+would/MD not/RB be/VB 
+[ anything/NN ]
+that/WDT 
+[ Donald/NNP Trump/NNP ]
+would/MD do/VB easily/RB ,/, ''/'' 
+[ Mr./NNP Lee/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Many/JJ takeover-stock/JJ traders/NNS ]
+suggest/VBP that/IN 
+[ Mr./NNP Trump/NNP ]
+uses/VBZ 
+[ federal/JJ rules/NNS ]
+governing/VBG 
+[ antitrust/JJ filings/NNS ]
+to/TO 
+[ his/PRP$ own/JJ advantage/NN ]
+./. 
+
+[ The/DT rules/NNS ]
+require/VBP that/IN 
+[ any/DT company/NN ]
+,/, such/JJ as/IN 
+[ Trump/NNP Organization/NNP ]
+,/, 
+[ that/WDT ]
+wants/VBZ to/TO buy/VB more/JJR than/IN 
+[ $/$ 15/CD million/CD ]
+of/IN 
+[ stock/NN ]
+in/IN 
+[ another/DT company/NN ]
+must/MD seek/VB 
+[ permission/NN ]
+from/IN 
+[ federal/JJ antitrust/JJ regulators/NNS ]
+./. 
+
+[ The/DT target/NN company/NN ]
+is/VBZ notified/VBN of/IN 
+[ the/DT filing/NN ]
+,/, and/CC often/RB discloses/VBZ 
+[ it/PRP ]
+,/, pushing/VBG up/RP 
+[ its/PRP$ stock/NN price/NN ]
+on/IN 
+[ takeover/NN speculation/NN ]
+./. 
+
+======================================
+
+[ Ms./NNP Heilbron/NNP ]
+said/VBD 
+[ Mr./NNP Trump/NNP ]
+makes/VBZ 
+[ the/DT antitrust/JJ filings/NNS ]
+on/IN 
+[ the/DT advice/NN ]
+of/IN 
+[ his/PRP$ lawyers/NNS ]
+,/, and/CC not/RB with/IN 
+[ the/DT intent/NN ]
+of/IN 
+[ influencing/VBG stock/NN prices/NNS ]
+./. 
+
+======================================
+
+[ Pauline/NNP Yoshihashi/NNP ]
+in/IN 
+[ Las/NNP Vegas/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 
+
+======================================
+
+[ Donald/NNP Trump/NNP 's/POS Investment/NN Track/NN Record/NN ]
+
+======================================
+
+[ September/NNP 1986/CD ]
+:/: 
+[ Trump/NNP ]
+tells/VBZ 
+[ Holiday/NNP Corp./NNP ]
+
+[ he/PRP ]
+has/VBZ 
+[ a/DT 2/CD %/NN ]
+to/TO 
+[ 5/CD %/NN stake/NN ]
+./. 
+
+In/IN 
+[ November/NNP ]
+,/, after/IN 
+[ Holiday/NNP ]
+unveiled/VBD 
+[ a/DT $/$ 2.8/CD billion/CD recapitalization/NN ]
+,/, 
+[ Trump/NNP ]
+said/VBD 
+[ he/PRP ]
+had/VBD sold/VBN 
+[ his/PRP$ 4.9/CD %/NN stake/NN ]
+for/IN 
+[ a/DT $/$ 35/CD million/CD dollar/NN profit/NN ]
+./. 
+
+[ Later/JJ filings/NNS ]
+indicate/VBP 
+[ his/PRP$ profit/NN ]
+was/VBD only/RB 
+[ $/$ 18/CD ]
+./. 
+
+======================================
+
+[ November/NNP 1986/CD ]
+:/: 
+[ He/PRP ]
+buys/VBZ 
+[ a/DT 20/CD %/NN stake/NN ]
+in/IN 
+[ Alexander/NNP 's/POS Inc./NN ]
+from/IN 
+[ a/DT group/NN ]
+affiliated/VBN with/IN 
+[ Texas/NNP billionaire/NN Robert/NNP M./NNP Bass/NNP ]
+;/: 
+[ he/PRP ]
+has/VBZ increased/VBN 
+[ his/PRP$ stake/NN ]
+to/TO about/RB 
+[ 21/CD %/NN ]
+./. 
+
+======================================
+
+[ November/NNP 1986/CD ]
+:/: 
+[ Trump/NNP ]
+discloses/VBZ 
+[ he/PRP ]
+owns/VBZ 
+[ a/DT 9.9/CD %/NN stake/NN ]
+in/IN 
+[ Bally/NNP Manufacturing/NNP ]
+;/: 
+[ Bally/NNP ]
+agreed/VBD to/TO buy/VB back/RP 
+[ the/DT stock/NN ]
+in/IN 
+[ Feb./NNP 1987/CD ]
+at/IN 
+[ above-market/JJ prices/NNS ]
+;/: 
+[ Trump/NNP 's/POS profit/NN ]
+was/VBD about/RB 
+[ $/$ 20/CD million/CD ]
+./. 
+
+======================================
+
+[ March/NNP 1987/CD ]
+:/: 
+[ Trump/NNP ]
+reportedly/RB buys/VBZ 
+[ a/DT 4.9/CD %/NN stake/NN ]
+in/IN 
+[ UAL/NNP Corp./NNP ]
+,/, selling/VBG 
+[ it/PRP ]
+in/IN 
+[ April/NNP 1987/CD ]
+at/IN about/RB 
+[ $/$ 73/CD ]
+
+[ a/DT share/NN ]
+for/IN 
+[ a/DT $/$ 55/CD million/CD profit/NN ]
+;/: 
+[ UAL/NNP ]
+agreed/VBD to/TO management-union/JJ 
+[ buy-out/NN ]
+at/IN 
+[ $/$ 300-a-share/JJ ]
+in/IN 
+[ Sept./NNP 1989/CD ]
+./. 
+
+======================================
+
+[ July/NNP 1987/CD ]
+:/: 
+[ He/PRP ]
+says/VBZ 
+[ he/PRP ]
+holds/VBZ 
+[ a/DT 4.9/CD %/NN stake/NN ]
+in/IN 
+[ Golden/NNP Nugget/NNP Inc./NNP ]
+;/: 
+[ company/NN ]
+announced/VBD 
+[ a/DT plan/NN ]
+to/TO buy/VB back/RP 
+[ 43/CD %/NN ]
+of/IN 
+[ its/PRP$ shares/NNS ]
+in/IN 
+[ Sept./NNP 1987/CD ]
+;/: Trump/NNP apparently/RB sold/VBD 
+[ his/PRP$ stake/NN ]
+before/IN 
+[ stock-market/NN crash/NN ]
+./. 
+
+======================================
+
+[ July/NNP 1987/CD ]
+:/: 
+[ Trump/NNP ]
+buys/VBZ 
+[ control/NN ]
+of/IN 
+[ Resorts/NNP International/NNP Inc./NNP ]
+through/IN supervoting/JJ 
+[ Class/NNP B/NNP stock/NN ]
+;/: 
+[ bid/NN ]
+for/IN 
+[ Class/NNP ]
+
+[ A/NNP stock/NN ]
+but/CC was/VBD outbid/VBN by/IN 
+[ Merv/NNP Griffin/NNP ]
+,/, 
+[ who/WP ]
+acquired/VBD 
+[ company/NN last/JJ year/NN ]
+./. 
+
+[ The/DT company/NN ]
+defaulted/VBD in/IN 
+[ interest/NN payments/NNS ]
+in/IN 
+[ Sept/NNP ]
+./. 
+
+======================================
+
+[ January/NNP 1988/CD ]
+:/: 
+[ Federated/NNP Department/NNP Stores/NNP Inc./NNP ]
+discloses/VBZ that/IN 
+[ Trump/NNP ]
+sought/VBD 
+[ antitrust/JJ clearnace/NN ]
+to/TO buy/VB 
+[ a/DT stake/NN ]
+of/IN more/JJR than/IN 
+[ $/$ 15/CD million/CD ]
+;/: 
+[ stock/NN ]
+was/VBD trading/VBG at/IN 
+[ $/$ 34/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Campeau/NNP Corp./NNP ]
+launched/VBD 
+[ bid/NN ]
+for/IN 
+[ Federated/NNP ]
+in/IN 
+[ January/NNP 1988/CD ]
+and/CC bought/VBD 
+[ it/PRP ]
+in/IN 
+[ June/NNP 1988/CD ]
+for/IN 
+[ $/$ 73.50/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ February/NNP 1988/CD ]
+:/: 
+[ Trump/NNP ]
+filed/VBD for/IN 
+[ antitrust/JJ clearance/NN ]
+to/TO buy/VB as/RB much/JJ as/IN 
+[ 25/CD %/NN stake/NN ]
+in/IN 
+[ MCA/NNP Inc./NNP ]
+;/: 
+[ stock/NN price/NN ]
+rises/VBZ on/IN 
+[ news/NN ]
+;/: 
+[ no/DT further/JJ filings/NNS ]
+by/IN 
+[ Trump/NNP ]
+./. 
+
+======================================
+
+[ August/NNP 1988/CD ]
+:/: 
+[ He/PRP ]
+buys/VBZ about/RB 
+[ $/$ 15/CD million/CD ]
+of/IN 
+[ Pillsbury/NNP Co./NNP stock/NN ]
+and/CC seeks/VBZ 
+[ antitrust/JJ clearance/NN ]
+to/TO buy/VB as/RB much/JJ as/IN 
+[ 25/CD %/NN ]
+;/: 
+[ stock/NN ]
+was/VBD trading/VBG at/IN about/RB 
+[ $/$ 37/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ No/DT further/JJ filings/NNS ]
+by/IN 
+[ Trump/NNP ]
+./. 
+
+[ Grand/NNP Metropolitan/NNP ]
+launched/VBD 
+[ bid/NN ]
+for/IN 
+[ Pillsbury/NNP ]
+in/IN 
+[ Oct./NNP 1988/CD ]
+and/CC bought/VBD 
+[ company/NN ]
+in/IN 
+[ Jan./NNP 1988/CD ]
+at/IN 
+[ $/$ 66/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ December/NNP 1988/CD ]
+:/: 
+[ Trump/NNP ]
+buys/VBZ 
+[ a/DT 2.4/CD %/NN stake/NN ]
+in/IN 
+[ Caesars/NNP World/NNP Inc./NNP ]
+and/CC 
+[ files/VBZ ]
+for/IN 
+[ antitrust/JJ clearance/NN ]
+to/TO buy/VB 
+[ a/DT stake/NN ]
+of/IN as/RB much/JJ as/IN 
+[ 50/CD %/NN ]
+;/: sold/VBD 
+[ stake/NN ]
+in/IN 
+[ March/NNP ]
+and/CC 
+[ April/NNP 1989/CD ]
+at/IN 
+[ profit/NN ]
+of/IN 
+[ $/$ 3.3/CD million/CD ]
+./. 
+
+======================================
+
+[ September/NNP 1989/CD ]
+:/: 
+[ He/PRP ]
+discloses/VBZ that/IN 
+[ he/PRP ]
+received/VBD 
+[ antitrust/JJ clearance/NN ]
+to/TO buy/VB more/JJR than/IN 
+[ $/$ 15/CD million/CD ]
+of/IN 
+[ Tiffany/NNP ]
+&/CC 
+[ Co./NNP stock/NN ]
+;/: on/IN 
+[ Sept./NNP 21/CD ]
+,/, 
+[ Mitsukoshi/NNP Ltd./NNP ]
+agreed/VBD to/TO buy/VB 
+[ a/DT 10/CD %/NN stake/NN ]
+in/IN 
+[ Tiffany/NNP ]
+from/IN 
+[ a/DT unit/NN ]
+of/IN 
+[ General/NNP Electric/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ Oct./NNP 5/CD ]
+,/, 
+[ 1989/CD ]
+:/: 
+[ Trump/NNP ]
+proposes/VBZ to/TO buy/VB 
+[ AMR/NNP Corp./NNP ]
+for/IN 
+[ $/$ 120/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ $/$ 7.54/CD billion/CD ]
+./. 

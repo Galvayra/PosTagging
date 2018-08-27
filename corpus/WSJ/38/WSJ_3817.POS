@@ -1,0 +1,936 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+After/IN 
+[ this/DT year/NN 's/POS stir/NN ]
+over/IN 
+[ use/NN ]
+of/IN 
+[ the/DT chemical/NN ]
+Alar/NNP on/IN 
+[ apples/NNS ]
+,/, 
+[ political/JJ publicist/NN David/NNP Fenton/NNP ]
+celebrated/VBD 
+[ the/DT work/NN ]
+of/IN 
+[ his/PRP$ firm/NN ]
+in/IN 
+[ a/DT lengthy/JJ memo/NN ]
+to/TO 
+[ interested/VBN parties/NNS ]
+./. 
+
+[ He/PRP ]
+wrote/VBD of/IN 
+[ a/DT ]
+``/`` 
+[ sea/NN change/NN ]
+in/IN 
+[ public/JJ opinion/NN ]
+''/'' 
+[ that/WDT ]
+has/VBZ ``/`` taken/VBN 
+[ place/NN ]
+because/IN of/IN 
+[ a/DT ]
+carefully/RB planned/VBN 
+[ media/NNS campaign/NN ]
+,/, conceived/VBN and/CC implemented/VBN by/IN 
+[ Fenton/NNP Communications/NNPS ]
+with/IN 
+[ the/DT Natural/NNP Resources/NNPS Defense/NNP Council/NNP ]
+./. 
+
+''/'' 
+[ Extracts/NNS ]
+are/VBP reprinted/VBN below/IN :/: 
+======================================
+
+In/IN 
+[ the/DT past/JJ two/CD months/NNS ]
+,/, 
+[ the/DT American/JJ public/NN 's/POS knowledge/NN ]
+of/IN 
+[ the/DT dangers/NNS ]
+of/IN 
+[ pesticides/NNS ]
+in/IN 
+[ food/NN ]
+has/VBZ been/VBN greatly/RB increased/VBN ./. 
+
+Overnight/RB ,/, 
+[ suppliers/NNS ]
+of/IN 
+[ organic/JJ produce/NN ]
+can/MD not/RB keep/VB up/IN with/IN 
+[ demand/NN ]
+./. 
+
+[ Traditional/JJ supermarkets/NNS ]
+are/VBP opening/VBG 
+[ pesticide-free/JJ produce/NN sections/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ The/DT campaign/NN ]
+was/VBD based/VBN on/IN 
+[ NRDC/NNP 's/POS report/NN ]
+``/`` 
+[ Intolerable/JJ Risk/NNP ]
+:/: 
+[ Pesticides/NNS ]
+in/IN 
+[ Our/PRP$ Children/NNS 's/POS Food/NN ]
+./. 
+
+''/'' 
+[ Participation/NN ]
+by/IN 
+[ the/DT actress/NN Meryl/NNP Streep/NNP ]
+was/VBD 
+[ another/DT essential/JJ element/NN ]
+./. 
+
+======================================
+
+Usually/RB ,/, 
+[ public/JJ interest/NN groups/NNS ]
+release/VBP 
+[ similar/JJ reports/NNS ]
+by/IN holding/VBG 
+[ a/DT news/NN conference/NN ]
+,/, and/CC 
+[ the/DT result/NN ]
+is/VBZ 
+[ a/DT few/JJ print/NN stories/NNS ]
+./. 
+
+[ Television/NN coverage/NN ]
+is/VBZ rarely/RB sought/VBN or/CC achieved/VBN ./. 
+
+[ The/DT intensity/NN ]
+of/IN 
+[ exposure/NN ]
+created/VBN by/IN 
+[ design/NN ]
+for/IN 
+[ the/DT NRDC/NNP pesticide/NN story/NN ]
+is/VBZ uncommon/JJ in/IN 
+[ the/DT non-profit/JJ world/NN ]
+./. 
+
+======================================
+
+[ Our/PRP$ goal/NN ]
+was/VBD to/TO create/VB so/RB 
+[ many/JJ repetitions/NNS ]
+of/IN 
+[ NRDC/NNP 's/POS message/NN ]
+that/IN 
+[ average/JJ American/JJ consumers/NNS ]
+ (/( not/RB just/RB 
+[ the/DT policy/NN elite/NN ]
+in/IN 
+[ Washington/NNP ]
+ )/) could/MD not/RB avoid/VB hearing/VBG 
+[ it/PRP ]
+--/: from/IN 
+[ many/JJ different/JJ media/NNS outlets/NNS ]
+within/IN 
+[ a/DT short/JJ period/NN ]
+of/IN 
+[ time/NN ]
+./. 
+
+[ The/DT idea/NN ]
+was/VBD for/IN 
+[ the/DT ]
+``/`` 
+[ story/NN ]
+''/'' to/TO achieve/VB 
+[ a/DT life/NN ]
+of/IN 
+[ its/PRP$ own/JJ ]
+,/, and/CC continue/VB for/IN 
+[ weeks/NNS ]
+and/CC 
+[ months/NNS ]
+to/TO affect/VB 
+[ policy/NN ]
+and/CC 
+[ consumer/NN habits/NNS ]
+./. 
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ this/DT ]
+had/VBD to/TO be/VB achieved/VBN with/IN extremely/RB limited/JJ 
+[ resources/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ most/JJS regards/NNS ]
+,/, 
+[ this/DT goal/NN ]
+was/VBD met/VBN ./. 
+
+[ A/DT modest/JJ investment/NN ]
+by/IN 
+[ NRDC/NNP re-paid/VBD itself/PRP ]
+
+[ many-fold/RB ]
+in/IN 
+[ tremendous/JJ media/NNS exposure/NN ]
+ (/( and/CC 
+[ substantial/JJ ]
+,/, 
+[ immediate/JJ revenue/NN ]
+for/IN 
+[ future/JJ pesticide/NN work/NN ]
+ )/) ./. 
+
+In/IN 
+[ this/DT sense/NN ]
+,/, 
+[ we/PRP ]
+submit/VBP 
+[ this/DT campaign/NN ]
+as/IN 
+[ a/DT model/NN ]
+for/IN 
+[ other/JJ non-profit/JJ organizations/NNS ]
+./. 
+
+======================================
+
+[ Media/NNS coverage/NN ]
+included/VBD 
+[ two/CD segments/NNS ]
+on/IN 
+[ CBS/NNP 60/CD Minutes/NNPS ]
+,/, 
+[ the/DT covers/NNS ]
+of/IN 
+[ Time/NNP ]
+and/CC 
+[ Newsweek/NNP ]
+ (/( 
+[ two/CD stories/NNS ]
+in/IN 
+[ each/DT magazine/NN ]
+ )/) ,/, 
+[ the/DT Phil/NNP Donahue/NNP ]
+show/NN ,/, 
+[ multiple/JJ appearances/NNS ]
+on/IN 
+[ Today/NNP ]
+,/, 
+[ Good/NNP Morning/NNP America/NNP ]
+and/CC 
+[ CBS/NNP ]
+
+[ This/NNP Morning/NNP ]
+,/, 
+[ several/JJ stories/NNS ]
+on/IN 
+[ each/DT ]
+of/IN 
+[ the/DT network/NN evening/NN newscasts/NNS ]
+,/, 
+[ MacNeil\/NNP ]
+,/, 
+[ multiple/JJ stories/NNS ]
+in/IN 
+[ the/DT N.Y/NNP ]
+./. 
+
+[ Times/NNP ]
+,/, 
+[ Washington/NNP Post/NNP ]
+,/, 
+[ L.A./NNP Times/NNP ]
+and/CC 
+[ newspapers/NNS ]
+around/IN 
+[ the/DT country/NN ]
+,/, 
+[ three/CD cover/NN stories/NNS ]
+in/IN 
+[ USA/NNP Today/NNP ]
+,/, 
+[ People/NNP ]
+,/, 
+[ four/CD women/NNS 's/POS magazines/NNS ]
+with/IN 
+[ a/DT combined/VBN circulation/NN ]
+of/IN 
+[ 17/CD million/CD ]
+ (/( 
+[ Redbook/NNP ]
+,/, 
+[ Family/NNP Circle/NNP ]
+,/, 
+[ Women/NNPS 's/POS Day/NNP ]
+and/CC 
+[ New/NNP Woman/NNP ]
+ )/) ,/, and/CC 
+[ thousands/NNS ]
+of/IN 
+[ repeat/JJ stories/NNS ]
+in/IN 
+[ local/JJ media/NNS ]
+around/IN 
+[ the/DT nation/NN ]
+and/CC 
+[ the/DT world/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ Consumer/NN feedback/NN devices/NNS ]
+were/VBD built/VBN into/IN 
+[ the/DT campaign/NN ]
+,/, including/VBG 
+[ self-published/JJ book/NN sales/NNS ]
+and/CC 
+[ the/DT first/JJ use/NN ]
+of/IN 
+[ a/DT 900/CD phone/NN number/NN ]
+by/IN 
+[ a/DT non-profit/JJ group/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+In/IN 
+[ October/NNP ]
+of/IN 
+[ 1988/CD NRDC/NNP ]
+hired/VBD 
+[ Fenton/NNP Communications/NNPS ]
+to/TO undertake/VB 
+[ the/DT media/NNS campaign/NN ]
+for/IN 
+[ its/PRP$ report/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ The/DT report/NN ]
+marked/VBD 
+[ the/DT first/JJ time/NN ]
+
+[ anyone/NN ]
+--/: inside/IN 
+[ government/NN ]
+or/CC out/IN --/: had/VBD calculated/VBN 
+[ children/NNS 's/POS actual/JJ exposure/NN levels/NNS ]
+to/TO 
+[ carcinogenic/JJ ]
+and/CC 
+[ neurotoxic/JJ pesticides/NNS ]
+./. 
+
+[ The/DT study/NN ]
+showed/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT worst/JJS pesticides/NNS ]
+to/TO be/VB 
+[ daminozide/NN ]
+,/, or/CC 
+[ Alar/NNP ]
+,/, used/VBN primarily/RB on/IN 
+[ apples/NNS ]
+and/CC 
+[ peanuts/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+ {/( 
+[ L/NN ]
+ }/) 
+[ ast/JJ  fall/NN ]
+,/, 
+[ Meryl/NNP Streep/NNP ]
+contacted/VBD 
+[ NRDC/NNP ]
+,/, asking/VBG if/IN 
+[ she/PRP ]
+could/MD assist/VB with/IN 
+[ some/DT environmental/JJ projects/NNS ]
+./. 
+
+[ Ms./NNP Streep/NNP ]
+read/VBD 
+[ the/DT preliminary/JJ results/NNS ]
+of/IN 
+[ the/DT study/NN ]
+and/CC agreed/VBD to/TO serve/VB as/IN 
+[ a/DT spokesperson/NN ]
+for/IN 
+[ it/PRP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD agreed/VBN that/IN 
+[ one/CD week/NN ]
+after/IN 
+[ the/DT study/NN 's/POS release/NN ]
+,/, 
+[ Streep/NNP ]
+and/CC 
+[ other/JJ prominent/JJ citizens/NNS ]
+would/MD announce/VB 
+[ the/DT formation/NN ]
+of/IN 
+[ NRDC/NNP 's/POS new/JJ project/NN ]
+,/, 
+[ Mothers/NNPS ]
+and/CC 
+[ Others/NNPS ]
+for/IN 
+[ Pesticide/NNP Limits/NNPS ]
+./. 
+
+[ This/DT group/NN ]
+would/MD direct/VB 
+[ citizen/NN action/NN ]
+at/IN changing/VBG 
+[ the/DT pesticide/NN laws/NNS ]
+,/, and/CC 
+[ help/VB consumers/NNS lobby/NN ]
+for/IN 
+[ pesticide-free/JJ produce/NN ]
+at/IN 
+[ their/PRP$ grocery/NN stores/NNS ]
+./. 
+
+======================================
+
+[ The/DT separation/NN ]
+of/IN 
+[ these/DT two/CD events/NNS ]
+was/VBD important/JJ in/IN ensuring/VBG that/IN 
+[ the/DT media/NNS ]
+would/MD have/VB 
+[ two/CD stories/NNS ]
+,/, not/RB 
+[ one/CD ]
+,/, about/IN 
+[ this/DT project/NN ]
+./. 
+
+Thereby/RB ,/, 
+[ more/JJR repetition/NN ]
+of/IN 
+[ NRDC/NNP 's/POS message/NN ]
+was/VBD guaranteed/VBN ./. 
+
+======================================
+
+As/IN 
+[ the/DT report/NN ]
+was/VBD being/VBG finalized/VBD ,/, 
+[ Fenton/NNP Communications/NNPS ]
+began/VBD contacting/VBG 
+[ various/JJ media/NNS ]
+./. 
+
+[ An/DT agreement/NN ]
+was/VBD made/VBN with/IN 
+[ 60/CD Minutes/NNPS ]
+to/TO ``/`` break/VB ''/'' 
+[ the/DT story/NN ]
+of/IN 
+[ the/DT report/NN ]
+in/IN 
+[ late/JJ February/NNP ]
+./. 
+
+[ Interviews/NNS ]
+were/VBD also/RB arranged/VBN 
+[ several/JJ months/NNS ]
+in/IN 
+[ advance/NN ]
+with/IN 
+[ major/JJ women/NNS 's/POS magazines/NNS ]
+like/IN 
+[ Family/NNP Circle/NNP ]
+,/, 
+[ Women/NNPS 's/POS Day/NNP ]
+and/CC 
+[ Redbook/NNP ]
+ (/( to/TO appear/VB in/IN 
+[ mid-March/NNP ]
+ )/) ./. 
+
+[ Appearance/NN dates/NNS ]
+were/VBD set/VBN with/IN 
+[ the/DT Donahue/NNP Show/NNP ]
+,/, 
+[ ABC/NNP 's/POS Home/NNP Show/NNP ]
+,/, 
+[ double/JJ appearances/NNS ]
+on/IN 
+[ NBC/NNP 's/POS Today/NNP show/NN ]
+and/CC 
+[ other/JJ programs/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ February/NNP 26th/JJ CBS/NNP 60/CD Minutes/NNPS ]
+broke/VBD 
+[ the/DT story/NN ]
+to/TO 
+[ an/DT audience/NN ]
+of/IN 
+[ 40/CD million/CD viewers/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ The/DT next/JJ morning/NN ]
+,/, 
+[ NRDC/NNP ]
+held/VBD 
+[ a/DT news/NN conference/NN ]
+attended/VBD by/IN more/RBR than/IN 
+[ 70/CD journalists/NNS ]
+and/CC 
+[ 12/CD camera/NN crews/NNS ]
+./. 
+
+======================================
+
+[ Concurrently/RB ]
+,/, 
+[ NRDC/NNP ]
+coordinated/VBD 
+[ local/JJ news/NN conferences/NNS ]
+in/IN 
+[ 12/CD cities/NNS ]
+around/IN 
+[ the/DT country/NN ]
+also/RB releasing/VBG 
+[ the/DT report/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+On/IN 
+[ March/NNP 7/CD Meryl/NNP Streep/NNP ]
+held/VBD 
+[ a/DT Washington/NNP news/NN conference/NN ]
+to/TO announce/VB 
+[ the/DT formation/NN ]
+of/IN 
+[ NRDC/NNP 's/POS Mothers/NNPS ]
+and/CC 
+[ Others/NNPS ]
+for/IN 
+[ Pesticide/NNP Limits/NNPS ]
+./. 
+
+[ She/PRP ]
+was/VBD joined/VBN by/IN 
+[ board/NN members/NNS ]
+including/VBG 
+[ pediatrician/NN Dr./NNP T./NNP Berry/NNP Brazelton/NNP ]
+,/, 
+[ National/NNP PTA/NNP President/NNP Manya/NNP Unger/NNP ]
+and/CC 
+[ Wendy/NNP Gordon/NNP Rockefeller/NNP ]
+of/IN 
+[ NRDC/NNP ]
+./. 
+
+======================================
+
+[ Coverage/NNP ]
+of/IN 
+[ Mothers/NNPS ]
+and/CC 
+[ Others/NNPS ]
+
+[ that/DT week/NN ]
+included/VBD 
+[ USA/NNP Today/NNP ]
+ (/( cover/NN )/) ;/: 
+[ The/DT Today/NNP Show/NNP ]
+on/IN 
+[ NBC/NNP ]
+;/: 
+[ The/DT Phil/NNP Donahue/NNP Show/NNP ]
+ (/( 
+[ 10/CD million/CD viewers/NNS ]
+ )/) ;/: 
+[ Women/NNPS 's/POS Day/NNP ]
+ (/( 
+[ 6/CD million/CD copies/NNS ]
+sold/VBD )/) ;/: 
+[ Redbook/NNP ]
+ (/( 
+[ 4/CD million/CD ]
+ )/) ;/: 
+[ Family/NNP Circle/NNP ]
+ (/( 
+[ 6/CD million/CD ]
+ )/) ;/: 
+[ Organic/NNP Gardening/NNP ]
+ (/( 
+[ 1.5/CD million/CD ]
+ )/) ;/: 
+[ New/NNP Woman/NNP ]
+ (/( 
+[ 1.7/CD million/CD ]
+ )/) ;/: 
+[ People/NNP Magazine/NNP ]
+;/: 
+[ USA/NNP TODAY/NNP Television/NNP ]
+ (/( 
+[ 200/CD markets/NNS ]
+ )/) ;/: 
+[ Entertainment/NNP Tonight/NNP ]
+ (/( 
+[ 18/CD million/CD viewers/NNS ]
+ )/) ;/: 
+[ ABC/NNP 's/POS HOME/NNP Show/NNP ]
+ (/( 
+[ 3/CD million/CD viewers/NNS ]
+ )/) ;/: 
+[ Cable/NNP News/NNP Network/NNP ]
+and/CC 
+[ numerous/JJ radio/NN networks/NNS ]
+,/, 
+[ newspaper/NN chains/NNS ]
+,/, 
+[ broadcast/NN chains/NNS ]
+,/, 
+[ wire/NN services/NNS ]
+and/CC 
+[ other/JJ media/NNS ]
+around/IN 
+[ the/DT nation/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ we/PRP ]
+arranged/VBD for/IN 
+[ Meryl/NNP Streep/NNP ]
+and/CC 
+[ Janet/NNP Hathaway/NNP ]
+of/IN 
+[ NRDC/NNP ]
+to/TO grant/VB 
+[ 16/CD interviews/NNS ]
+by/IN 
+[ satellite/NN ]
+with/IN 
+[ local/JJ tv/NN major/JJ market/NN anchors/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+In/IN 
+[ the/DT ensuing/VBG weeks/NNS ]
+,/, 
+[ the/DT controversy/NN ]
+kept/VBD 
+[ building/VBG ]
+./. 
+
+[ Articles/NNS ]
+appeared/VBD in/IN 
+[ food/NN sections/NNS ]
+of/IN 
+[ newspapers/NNS ]
+around/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Columnists/NNS ]
+and/CC 
+[ cartoonists/NNS ]
+took/VBD up/RP 
+[ the/DT story/NN ]
+./. 
+
+[ MacNeil\/Lehrer/NNP ]
+,/, 
+[ the/DT New/NNP York/NNP Times/NNP ]
+and/CC 
+[ Washington/NNP Post/NNP ]
+did/VBD 
+[ follow-up/JJ stories/NNS ]
+,/, as/IN did/VBD 
+[ the/DT three/CD network/NN evening/NN programs/NNS ]
+and/CC 
+[ morning/NN shows/NNS ]
+./. 
+
+[ Celebrities/NNS ]
+from/IN 
+[ the/DT casts/NNS ]
+of/IN 
+[ L.A./NNP Law/NNP ]
+and/CC thirtysomething/NNP joined/VBD 
+[ NRDC/NNP ]
+for/IN 
+[ a/DT Los/NNP Angeles/NNP news/NN conference/NN ]
+./. 
+
+======================================
+
+Soon/RB 
+[ school/NN systems/NNS ]
+began/VBD banning/VBG 
+[ apples/NNS ]
+ (/( 
+[ which/WDT ]
+is/VBZ not/RB 
+[ what/WP ]
+
+[ NRDC/NNP ]
+intended/VBD or/CC recommended/VBD )/) ./. 
+
+[ Three/CD federal/JJ agencies/NNS ]
+ (/( 
+[ EPA/NNP ]
+,/, 
+[ USDA/NNP ]
+and/CC 
+[ FDA/NNP ]
+ )/) issued/VBD 
+[ an/DT unusual/JJ joint/JJ statement/NN ]
+assuring/VBG 
+[ the/DT public/NN ]
+that/IN 
+[ apples/NNS ]
+were/VBD 
+[ safe/JJ ]
+ (/( although/IN to/TO 
+[ children/NNS ]
+
+[ who/WP ]
+consume/VBP 
+[ a/DT great/JJ deal/NN ]
+,/, 
+[ these/DT assurances/NNS ]
+are/VBP not/RB entirely/RB 
+[ true/JJ ]
+ )/) ./. 
+
+======================================
+
+Then/RB ,/, by/IN 
+[ coincidence/NN ]
+,/, 
+[ two/CD Chilean/JJ grapes/NNS ]
+were/VBD found/VBN laced/VBN with/IN 
+[ cyanide/NN ]
+,/, and/CC 
+[ a/DT story/NN ]
+
+[ which/WDT ]
+had/VBD been/VBN building/VBG anyway/RB went/VBD further/RB ./. 
+
+[ Newsweek/NNP ]
+and/CC 
+[ Time/NN ]
+did/VBD 
+[ additional/JJ stories/NNS ]
+--/: on/IN 
+[ both/DT ]
+covers/NNS 
+[ the/DT same/JJ week/NN ]
+--/: about/IN 
+[ the/DT safety/NN ]
+of/IN 
+[ the/DT food/NN system/NN ]
+,/, with/IN 
+[ more/JJR coverage/NN ]
+of/IN 
+[ the/DT NRDC/NNP report/NN ]
+./. 
+
+======================================
+
+And/CC 
+[ the/DT industry/NN ]
+struck/VBD back/RB ./. 
+
+[ NRDC/NNP 's/POS credibility/NN ]
+was/VBD ,/, as/IN expected/VBN ,/, questioned/VBN by/IN 
+[ industry/NN ]
+``/`` 
+[ front/JJ groups/NNS ]
+''/'' such/JJ as/IN 
+[ the/DT American/NNP Council/NNP ]
+on/IN 
+[ Science/NNP ]
+and/CC 
+[ Health/NNP ]
+./. 
+
+[ A/DT major/JJ corporate/JJ pr/NN firm/NN ]
+,/, 
+[ Hill/NNP ]
+and/CC 
+[ Knowlton/NNP ]
+,/, was/VBD hired/VBN for/IN 
+[ $/$ 700,000/CD ]
+by/IN 
+[ the/DT apple/NN growers/NNS ]
+,/, 
+[ which/WDT ]
+also/RB put/VB forward/RB 
+[ a/DT $/$ 2/CD million/CD advertising/NN budget/NN ]
+./. 
+
+[ Stories/NNS ]
+began/VBD appearing/VBG (/( including/VBG 
+[ a/DT Washington/NNP Post/NNP ]
+cover/NN 
+[ piece/NN ]
+ )/) saying/VBG that/IN 
+[ the/DT levels/NNS ]
+of/IN 
+[ Alar/NNP ]
+in/IN 
+[ apples/NNS ]
+were/VBD below/IN 
+[ federal/JJ standards/NNS ]
+,/, and/CC charging/VBG 
+[ the/DT media/NNS ]
+with/IN exaggerating/VBG 
+[ the/DT story/NN ]
+./. 
+
+[ This/DT ]
+missed/VBD 
+[ the/DT whole/JJ point/NN ]
+of/IN 
+[ the/DT study/NN ]
+--/: that/IN 
+[ children/NNS ]
+ingest/VBP 
+[ so/RB many/JJ apples/NNS ]
+for/IN 
+[ their/PRP$ size/NN ]
+that/IN 
+[ the/DT legal/JJ federal/JJ standard/NN ]
+is/VBZ unsafe/JJ ./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+Usually/RB ,/, 
+[ it/PRP ]
+takes/VBZ 
+[ a/DT significant/JJ natural/JJ disaster/NN ]
+to/TO create/VB 
+[ this/DT much/JJ sustained/VBN news/NN attention/NN ]
+for/IN 
+[ an/DT environmental/JJ problem/NN ]
+./. 
+
+[ We/PRP ]
+believe/VBP 
+[ this/DT experience/NN ]
+proves/VBZ 
+[ there/EX ]
+are/VBP 
+[ other/JJ ways/NNS ]
+to/TO raise/VB 
+[ public/JJ awareness/NN ]
+for/IN 
+[ the/DT purpose/NN ]
+of/IN moving/VBG 
+[ the/DT Congress/NNP ]
+and/CC 
+[ policymakers/NNS ]
+./. 

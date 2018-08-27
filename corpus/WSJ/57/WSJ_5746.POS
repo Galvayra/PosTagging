@@ -1,0 +1,1050 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Whenever/WRB 
+[ Ann/NNP Callahan/NNP ]
+makes/VBZ 
+[ hotel/NN reservations/NNS ]
+for/IN 
+[ her/PRP$ boss/NN ]
+,/, 
+[ Gil/NNP Rogin/NNP ]
+,/, 
+[ she/PRP ]
+must/MD settle/VB 
+[ several/JJ pressing/JJ pieces/NNS ]
+of/IN 
+[ business/NN ]
+before/IN getting/VBG around/IN to/TO 
+[ such/JJ trivia/NNS ]
+as/IN 
+[ the/DT length/NN ]
+of/IN 
+[ stay/NN ]
+and/CC 
+[ size/NN ]
+of/IN 
+[ room/NN ]
+./. 
+
+======================================
+
+First/RB ,/, 
+[ there/EX ]
+'s/VBZ 
+[ the/DT very/RB basic/JJ issue/NN ]
+of/IN 
+[ the/DT swimming/JJ pool/NN ]
+to/TO resolve/VB ./. 
+
+======================================
+
+Does/VBZ 
+[ the/DT hotel/NN ]
+in/IN 
+[ question/NN ]
+have/VB 
+[ one/CD ]
+?/. 
+
+[ What/WP shape/NN ]
+is/VBZ 
+[ it/PRP ]
+?/. 
+
+ (/( 
+[ Rectangular/JJ ]
+is/VBZ best/JJS for/IN 
+[ push-offs/NNS ]
+and/CC 
+[ flip/JJ turns/NNS ]
+./. 
+
+ )/) How/WRB long/RB is/VBZ 
+[ it/PRP ]
+?/. 
+
+ (/( 
+[ The/DT ]
+longer/RB 
+[ the/DT better/JJR ]
+./. 
+
+ )/) How/WRB deep/RB is/VBZ 
+[ it/PRP ]
+?/. 
+
+ (/( Apparently/RB not/RB 
+[ a/DT major/JJ issue/NN ]
+,/, since/IN 
+[ Mr./NNP Rogin/NNP ]
+,/, 
+[ the/DT corporate/JJ editor/NN ]
+at/IN 
+[ Time/NNP Warner/NNP Inc./NNP ]
+,/, once/RB swam/VBD in/IN 
+[ a/DT pool/NN ]
+while/IN 
+[ it/PRP ]
+was/VBD being/VBG drained/VBD ,/, and/CC completed/VBN 
+[ his/PRP$ requisite/JJ mile/NN swim/NN ]
+with/IN 
+[ his/PRP$ knees/NNS ]
+scraping/VBG 
+[ the/DT concrete/NN ]
+at/IN 
+[ the/DT shallow/NN end/NN ]
+./. 
+
+ )/) How/WRB crowded/VBN is/VBZ 
+[ it/PRP ]
+?/. 
+
+ (/( 
+[ Serious/JJ swimmers/NNS ]
+do/VBP n't/RB like/VB to/TO share/VB ./. 
+
+ )/) Is/VBZ 
+[ it/PRP ]
+
+[ indoors/RB ]
+or/CC 
+[ outdoors/RB ]
+?/. 
+
+How/WRB early/RB does/VBZ 
+[ it/PRP ]
+open/JJ ?/. 
+
+ (/( 
+[ An/DT important/JJ consideration/NN ]
+for/IN 
+[ the/DT business/NN person/NN ]
+
+[ whose/WP$ day/NN ]
+could/MD well/RB begin/VB with/IN 
+[ 7:30/CD breakfast/NN appointments/NNS ]
+./. 
+
+ )/) 
+======================================
+
+[ Mr./NNP Rogin/NNP ]
+,/, 
+[ who/WP ]
+ca/MD n't/RB remember/VB when/WRB 
+[ he/PRP ]
+last/RB missed/VBD 
+[ a/DT day/NN ]
+in/IN 
+[ the/DT water/NN ]
+,/, and/CC 
+[ who/WP ]
+belongs/VBZ to/TO 
+[ four/CD swimming/NN clubs/NNS ]
+in/IN 
+[ the/DT New/NNP York/NNP area/NN ]
+,/, has/VBZ ,/, over/IN 
+[ the/DT years/NNS ]
+,/, mastered/VBN 
+[ the/DT art/NN ]
+of/IN 
+[ compromise/NN ]
+and/CC 
+[ quick/JJ thinking/NN ]
+./. 
+
+On/IN 
+[ the/DT scene/NN ]
+during/IN 
+[ the/DT 1980/CD Winter/NNP Olympics/NNPS ]
+,/, 
+[ Mr./NNP Rogin/NNP ]
+,/, then/RB managing/VBG 
+[ editor/NN ]
+of/IN 
+[ Sports/NNPS Illustrated/NNP ]
+,/, grudgingly/RB recognized/VBN that/IN 
+[ he/PRP ]
+could/MD n't/RB swim/VB in/IN 
+[ the/DT very/RB ]
+frozen/VBN 
+[ Lake/NNP Placid/NNP ]
+./. 
+
+``/`` So/IN 
+[ I/PRP ]
+went/VBD into/IN 
+[ town/NN ]
+and/CC snuck/VBD into/IN 
+[ various/JJ motels/NNS ]
+,/, changed/VBD in/IN 
+[ the/DT men/NNS 's/POS rooms/NNS ]
+and/CC went/VBD swimming/VBG ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ That/DT ]
+was/VBD 
+[ a/DT desperate/JJ situation/NN ]
+./. 
+
+''/'' According/VBG to/TO 
+[ the/DT National/NNP Sporting/NNP Goods/NNPS Association/NNP ]
+,/, 
+[ there/EX ]
+are/VBP 
+[ 71.1/CD million/CD recreational/JJ swimmers/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+;/: 
+[ few/JJ ]
+take/VBP 
+[ the/DT activity/NN ]
+more/RBR seriously/RB than/IN 
+[ Mr./NNP Rogin/NNP ]
+./. 
+
+======================================
+
+When/WRB in/IN 
+[ Miami/NNP ]
+,/, 
+[ he/PRP ]
+stays/VBZ at/IN 
+[ a/DT particular/JJ hotel/NN ]
+
+[ that/WDT ]
+has/VBZ 
+[ a/DT small/JJ pool/NN ]
+but/CC is/VBZ located/VBN next/JJ to/TO 
+[ a/DT hotel/NN ]
+with/IN 
+[ a/DT large/JJ pool/NN ]
+--/: and/CC 
+[ a/DT friendly/JJ manager/NN ]
+
+[ who/WP ]
+grants/VBZ 
+[ Mr./NNP Rogin/NNP entree/NN ]
+./. 
+
+``/`` 
+[ My/PRP$ biggest/JJS fear/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, ``/`` is/VBZ that/IN for/IN 
+[ some/DT reason/NN ]
+
+[ a/DT pool/NN ]
+will/MD be/VB drained/VBN ./. 
+
+[ I/PRP ]
+'ve/VBP had/VBD 
+[ bad/JJ dreams/NNS ]
+about/IN 
+[ it/PRP ]
+./. 
+
+''/'' 
+[ Mr./NNP Rogin/NNP ]
+,/, 
+[ who/WP ]
+networks/VBZ energetically/RB to/TO hear/VB about/IN 
+[ good/JJ pools/NNS ]
+,/, would/MD be/VB 
+[ the/DT ]
+very/RB first/JJS to/TO admit/VB that/IN swimming/VBG is/VBZ 
+[ an/DT ]
+enormously/RB 
+[ boring/JJ activity/NN ]
+,/, but/CC 
+[ the/DT feeling/NN ]
+of/IN 
+[ well-being/NN ]
+
+[ that/WDT ]
+is/VBZ left/VBN behind/RP with/IN 
+[ the/DT chlorine/NN residue/NN ]
+is/VBZ more/RBR than/IN 
+[ adequate/JJ payoff/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ an/DT obsession/NN ]
+,/, ''/'' says/VBZ 
+[ John/NNP Jessey/NNP ]
+,/, 
+[ travel/NN manager/NN ]
+at/IN 
+[ Conde/NNP Nast/NNP Traveler/NNP ]
+,/, 
+[ who/WP ]
+carries/VBZ 
+[ a/DT pair/NN ]
+of/IN swimming/JJ 
+[ trunks/NNS ]
+in/IN 
+[ his/PRP$ pocket/NN ]
+at/IN 
+[ all/DT times/NNS ]
+,/, and/CC asks/VBZ even/RB 
+[ more/JJR aquatic/JJ questions/NNS ]
+than/IN 
+[ Mr./NNP Rogin/NNP 's/POS ever-vigilant/JJ secretary/NN ]
+./. 
+
+``/`` Is/VBZ 
+[ the/DT pool/NN ]
+in/IN 
+[ service/NN ]
+at/IN 
+[ this/DT time/NN ]
+?/. 
+
+''/'' 
+[ Mr./NNP Jessey/NNP ]
+wants/VBZ to/TO know/VB ,/, 
+[ a/DT very/RB important/JJ question/NN ]
+for/IN 
+[ the/DT swimming/VBG Northerner/NNP ]
+headed/VBD South/RB to/TO do/VB 
+[ business/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+ca/MD n't/RB assume/VB that/IN just/RB because/IN 
+[ the/DT weather/NN ]
+is/VBZ warm/JJ 
+[ the/DT pool/NN ]
+is/VBZ open/JJ ,/, ''/'' 
+[ he/PRP ]
+says/VBZ with/IN 
+[ the/DT tone/NN ]
+of/IN 
+[ a/DT man/NN ]
+
+[ who/WP ]
+has/VBZ learned/VBN 
+[ a/DT bitter/JJ lesson/NN ]
+
+[ the/DT hard/JJ way/NN ]
+./. 
+
+``/`` In/IN 
+[ the/DT South/NNP they/PRP ]
+may/MD see/VB 
+[ May/NNP ]
+and/CC 
+[ June/NNP ]
+as/IN 
+[ cold/JJ months/NNS ]
+still/RB ./. 
+
+In/IN 
+[ Texas/NNP ]
+in/IN 
+[ October/NNP they/PRP ]
+'re/VBP ready/JJ to/TO close/VB 
+[ the/DT pool/NN ]
+regardless/RB of/IN 
+[ the/DT warm/JJ temperature/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ It/PRP ]
+is/VBZ not/RB enough/JJ for/IN 
+[ Mr./NNP Jessey/NNP ]
+to/TO know/VB that/IN 
+[ the/DT pool/NN ]
+is/VBZ 
+[ open/JJ year-round/RB ]
+and/CC at/IN 
+[ all/DT hours/NNS ]
+:/: 
+[ He/PRP ]
+wants/VBZ 
+[ a/DT room/NN ]
+overlooking/VBG 
+[ the/DT pool/NN ]
+to/TO check/VB in/IN 
+[ advance/NN ]
+how/WRB 
+[ crowded/JJ ]
+
+[ it/PRP ]
+is/VBZ ./. 
+
+If/IN 
+[ the/DT front/JJ desk/NN ]
+ca/MD n't/RB oblige/VB 
+[ that/DT request/NN ]
+,/, 
+[ Mr./NNP Jessey/NNP ]
+at/IN 
+[ least/JJS ]
+would/MD like/VB 
+[ a/DT room/NN ]
+very/RB close/RB to/TO 
+[ the/DT pool/NN ]
+to/TO cut/VB down/RP on/IN 
+[ travel/NN time/NN ]
+./. 
+
+[ Mr./NNP Jessey/NNP ]
+makes/VBZ 
+[ no/DT exceptions/NNS ]
+to/TO 
+[ his/PRP$ policy/NN ]
+of/IN staying/VBG only/RB in/IN 
+[ pool-equipped/JJ hotels/NNS ]
+and/CC makes/VBZ 
+[ no/DT apologies/NNS ]
+for/IN 
+[ his/PRP$ passion/NN ]
+./. 
+
+``/`` With/IN 
+[ all/PDT the/DT demands/NNS ]
+of/IN 
+[ business/NN travel/NN ]
+,/, swimming/VBG helps/VBZ 
+[ me/PRP ]
+recover/VB from/IN 
+[ the/DT hassles/NNS ]
+and/CC 
+[ stress/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ The/DT high/JJ concentration/NN ]
+of/IN 
+[ non-swimmers/NNS ]
+
+[ who/WP ]
+work/VBP as/IN 
+[ reservations/NNS clerks/NNS ]
+has/VBZ tended/VBN to/TO turn/VB even/RB 
+[ the/DT most/RBS trusting/JJ freestylers/NNS ]
+into/IN 
+[ skeptics/NNS ]
+./. 
+
+``/`` Do/VBP 
+[ you/PRP ]
+have/VB 
+[ a/DT pool/NN ]
+?/. ''/'' is/VBZ 
+[ Michael/NNP Stott/NNP 's/POS first/JJ question/NN ]
+when/WRB booking/VBG 
+[ a/DT room/NN ]
+./. 
+
+[ His/PRP$ second/JJ question/NN ]
+:/: ``/`` Do/VBP 
+[ you/PRP REALLY/NNP ]
+have/VB 
+[ a/DT pool/NN ]
+?/. 
+
+''/'' ``/`` 
+[ A/DT reservation/NN clerk/NN 's/POS definition/NN ]
+of/IN 
+[ a/DT pool/NN ]
+is/VBZ not/RB usually/RB 
+[ my/PRP$ definition/NN ]
+of/IN 
+[ a/DT pool/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Stott/NNP ]
+,/, until/IN recently/RB 
+[ the/DT marketing/NN director/NN ]
+of/IN 
+[ the/DT Richmond/NNP ]
+,/, 
+[ Va.-based/JJ Office/NNP America/NNP ]
+,/, 
+[ purveyor/NN ]
+of/IN 
+[ office/NN supplies/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+always/RB say/VBP 
+[ 'It's/PRP  Olympic/JJ size/NN ]
+./. 
+
+'/'' Well/RB ,/, 
+[ Olympic/JJ size/NN ]
+is/VBZ 
+[ 50/CD meters/NNS ]
+ {/( 
+[ 165/CD feet/NNS ]
+ }/) ,/, so/IN 
+[ I/PRP ]
+ask/VBP if/IN 
+[ it/PRP ]
+'s/VBZ 
+[ 50/CD meters/NNS ]
+./. 
+
+Then/RB 
+[ they/PRP ]
+say/VBP 
+[ 'It's/PRP  ]
+
+[ a/DT BIG/JJ one/NN ]
+./. 
+
+'/'' ''/'' Generally/RB ,/, at/IN 
+[ this/DT turn/NN ]
+in/IN 
+[ the/DT conversation/NN ]
+,/, 
+[ Mr./NNP Stott/NNP ]
+asks/VBZ ,/, very/RB politely/RB ,/, to/TO be/VB connected/VBN to/TO 
+[ the/DT lifeguard/NN ]
+,/, 
+[ whom/WP ]
+
+[ he/PRP ]
+'ll/MD frequently/RB persuade/VB to/TO pace/VB off/RP 
+[ the/DT pool/NN ]
+,/, describe/VB 
+[ its/PRP$ contours/NNS ]
+and/CC reveal/VB whether/IN 
+[ it/PRP ]
+has/VBZ 
+[ lights/NNS ]
+for/IN 
+[ late-night/JJ laps/NNS ]
+./. 
+
+Not/RB that/IN 
+[ a/DT small/JJ pool/NN ]
+would/MD keep/VB 
+[ Mr./NNP Stott/NNP ]
+on/IN 
+[ dry/JJ land/NN ]
+;/: 
+[ he/PRP ]
+once/RB did/VBD 
+[ his/PRP$ daily/JJ mile/NN ]
+in/IN 
+[ a/DT pool/NN ]
+
+[ that/WDT ]
+was/VBD 
+[ 27/CD feet/NNS ]
+long/RB and/CC 
+[ 2/CD 1\/2/CD feet/NNS ]
+deep/RB ./. 
+
+======================================
+
+[ Size/NN ]
+and/CC 
+[ shape/NN ]
+and/CC 
+[ hours/NNS ]
+of/IN 
+[ operation/NN ]
+certainly/RB are/VBP important/JJ ,/, says/VBZ 
+[ Wendy/NNP Finerman/NNP ]
+,/, 
+[ a/DT producer/NN ]
+at/IN 
+[ Columbia/NNP Pictures/NNPS ]
+,/, ``/`` but/CC 
+[ I/PRP ]
+always/RB ask/VBP 
+[ the/DT temperature/NN ]
+of/IN 
+[ the/DT pool/NN ]
+too/RB ,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ My/PRP$ basic/JJ requirement/NN ]
+is/VBZ 
+[ it/PRP ]
+be/VB heated/VBN and/CC at/IN 
+[ least/JJS 40/CD feet/NNS ]
+long/RB ./. 
+
+''/'' 
+======================================
+
+[ Serious/JJ swimmers/NNS ]
+on/IN 
+[ business/NN trips/NNS ]
+learn/VBP to/TO live/VB with/IN 
+[ the/DT indignity/NN ]
+of/IN 
+[ kidney-shaped/JJ pools/NNS ]
+ (/( 
+[ ``/`` You/PRP  ]
+know/VBP 
+[ there/EX ]
+'s/VBZ 
+[ a/DT set/NN ]
+of/IN 
+[ stairs/NNS ]
+at/IN 
+[ one/CD end/NN ]
+so/IN 
+[ you/PRP ]
+ca/MD n't/RB do/VB 
+[ a/DT flip/JJ turn/NN ]
+without/IN breaking/VBG 
+[ your/PRP$ heel/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Stott/NNP ]
+ )/) ;/: 
+[ they/PRP ]
+learn/VBP to/TO live/VB with/IN 
+[ the/DT specter/NN ]
+of/IN 
+[ children/NNS ]
+frolicking/VBG at/IN 
+[ the/DT shallow/JJ end/NN ]
+ (/( 
+[ ``/`` You've/NN  ]
+got/VBN to/TO get/VB up/IN at/IN 
+[ ungodly/JJ hours/NNS ]
+to/TO beat/VB 
+[ the/DT kids/NNS ]
+into/IN 
+[ the/DT pool/NN ]
+,/, ''/'' mourns/VBZ 
+[ Mr./NNP Rogin/NNP ]
+ )/) ./. 
+
+[ They/PRP ]
+learn/VBP to/TO deal/VB with/IN 
+[ the/DT stares/NNS ]
+of/IN 
+[ front-desk/JJ clerks/NNS ]
+,/, 
+[ who/WP ]
+,/, according/VBG to/TO 
+[ Ms./NNP Finerman/NNP ]
+,/, ``/`` look/VBP at/IN 
+[ you/PRP ]
+real/RB funny/JJ when/WRB 
+[ you/PRP ]
+start/VBP asking/VBG 
+[ them/PRP ]
+
+[ a/DT lot/NN ]
+of/IN 
+[ questions/NNS ]
+about/IN 
+[ pools/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ They/PRP ]
+even/RB learn/VBP to/TO deal/VB with/IN 
+[ Europe/NNP ]
+,/, 
+[ a/DT continent/NN ]
+
+[ that/WDT ]
+presents/VBZ 
+[ particular/JJ challenges/NNS ]
+to/TO 
+[ swimming/NN fanatics/NNS ]
+./. 
+
+[ Ms./NNP Finerman/NNP ]
+has/VBZ learned/VBN that/IN while/IN 
+[ most/JJS hotels/NNS ]
+do/VBP n't/RB have/VB 
+[ pools/NNS ]
+,/, 
+[ the/DT management/NN ]
+can/MD arrange/VB 
+[ pool/NN time/NN ]
+at/IN 
+[ private/JJ clubs/NNS ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ pools/NNS ]
+in/IN 
+[ all/PDT the/DT European/JJ cities/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Rogin/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ just/RB 
+[ a/DT matter/NN ]
+of/IN finding/VBG 
+[ someone/NN ]
+to/TO direct/VB 
+[ you/PRP ]
+to/TO 
+[ one/NN ]
+and/CC 
+[ getting/VBG permission/NN ]
+to/TO swim/VB there/RB ./. 
+
+``/`` But/CC ,/, ''/'' 
+[ he/PRP ]
+sighs/VBZ ,/, ``/`` 
+[ there/EX ]
+are/VBP 
+[ vast/JJ areas/NNS ]
+of/IN 
+[ rural/JJ Europe/NNP ]
+ {/( 
+[ Mr./NNP Rogin/NNP ]
+is/VBZ thinking/VBG particularly/RB of/IN 
+[ Scotland/NNP ]
+ }/) that/IN 
+[ you/PRP ]
+ca/MD n't/RB go/VB to/TO because/IN 
+[ the/DT sea/NN ]
+is/VBZ too/RB cold/JJ or/CC 
+[ there/EX ]
+are/VBP n't/RB 
+[ any/DT pools/NNS ]
+./. 
+
+[ I/PRP ]
+simply/RB do/VBP n't/RB go/VB to/TO 
+[ those/DT places/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Favorites/JJ pools/NNS ]
+of/IN 
+[ the/DT fanatics/NNS ]
+,/, in/IN 
+[ no/DT particular/JJ order/NN ]
+:/: 
+======================================
+
+--/: 
+[ The/DT Regent/NNP ]
+ (/( 
+[ Hong/NNP Kong/NNP ]
+ )/) :/: 
+[ Outdoor/JJ pool/NN ]
+,/, 
+[ diamond-shaped/JJ ]
+,/, 
+[ 66/CD feet/NNS ]
+long/JJ ,/, 
+[ 86/CD degrees/NNS ]
+./. 
+
+[ Open/JJ year-round/RB ]
+,/, 
+[ 6:30/CD a.m.-8/CD ]
+p.m/NN ./. 
+
+[ No/DT lanes/NNS ]
+set/VBN aside/RB for/IN 
+[ lap/NN ]
+swimming/VBG ./. 
+
+[ Early-morning/JJ swimmers/NNS ]
+get/VBP 
+[ complementary/JJ fresh/JJ orange/NN juice/NN ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Chicago/NNP Hilton/NNP ]
+:/: 
+[ Indoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 66/CD feet/NNS ]
+,/, 
+[ 83/CD degrees/NNS ]
+./. 
+
+[ 6/CD a.m.-10/CD ]
+p.m/NN ./. 
+
+[ Two/CD lanes/NNS ]
+for/IN 
+[ lap/NN ]
+swimming/VBG ./. 
+
+======================================
+
+--/: 
+[ The/DT Beverly/NNP Hills/NNP Hotel/NNP ]
+:/: 
+[ Outdoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 66/CD feet/NNS ]
+,/, heated/VBN ./. 
+
+[ Hours/NNS ]
+vary/VBP depending/VBG on/IN 
+[ the/DT season/NN ]
+./. 
+
+[ No/DT lanes/NNS ]
+set/VBN aside/RB for/IN 
+[ laps/NNS ]
+./. 
+
+[ Pool/NN ]
+used/VBD to/TO be/VB 
+[ eight/CD feet/NNS ]
+longer/RB ,/, but/CC 
+[ former/JJ owner/NN Ivan/NNP Boesky/NNP ]
+lopped/VBD off/RP 
+[ a/DT portion/NN ]
+to/TO expand/VB 
+[ the/DT deck/NN area/NN ]
+and/CC add/VB 
+[ a/DT cafe/NN ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Four/CD Seasons/NNPS Inn/NNP ]
+on/IN 
+[ the/DT Park/NNP ]
+ (/( 
+[ Houston/NNP ]
+ )/) :/: 
+[ Two/CD outdoor/JJ pools/NNS ]
+,/, heated/VBN depending/VBG on/IN 
+[ the/DT season/NN ]
+./. 
+
+[ Rectangular/JJ one/NN ]
+is/VBZ 
+[ 80/CD feet/NNS ]
+;/: 
+[ L-shaped/JJ one/NN ]
+is/VBZ 
+[ 92/CD feet/NNS ]
+./. 
+
+[ Both/DT open/JJ 24/CD hours/NNS ]
+./. 
+
+[ No/DT lanes/NNS ]
+set/VBN aside/RB for/IN 
+[ laps/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Tepid/NNP Baths/NNPS ]
+ (/( 
+[ Auckland/NNP ]
+,/, 
+[ New/NNP Zealand/NNP ]
+ )/) :/: 
+[ Indoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 83/CD feet/NNS ]
+,/, 
+[ 84/CD degrees/NNS ]
+./. 
+
+[ Monday-Friday/NNP ]
+,/, 
+[ 6/CD a.m.-10/CD p.m./NN ]
+;/: 
+[ Saturday/NNP ]
+and/CC 
+[ Sunday/NNP ]
+,/, 
+[ 8/CD a.m.-7/CD ]
+p.m/NN ./. 
+
+[ Lanes/NNS ]
+for/IN 
+[ lap/NN ]
+swimming/VBG ./. 
+
+[ Admission/NN ]
+:/: 
+[ NZ$/$ 3.50/CD ]
+ (/( about/RB 
+[ $/$ 2/CD ]
+ )/) ./. 
+
+======================================
+
+--/: 
+[ The/DT Four/CD Seasons/NNPS ]
+ (/( 
+[ Philadelphia/NNP ]
+ )/) :/: 
+[ Indoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 45/CD feet/NNS ]
+,/, between/IN 
+[ 79/CD ]
+and/CC 
+[ 83/CD degrees/NNS ]
+./. 
+
+[ 6/CD a.m.-10/CD ]
+p.m/NN ./. 
+
+[ Three/CD lanes/NNS ]
+for/IN 
+[ lap/NN ]
+swimming/VBG ./. 
+
+======================================
+
+--/: 
+[ The/DT Grosvenor/NNP House/NNP ]
+ (/( 
+[ London/NNP ]
+ )/) :/: 
+[ Indoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 66/CD feet/NNS ]
+,/, 
+[ 82/CD degrees/NNS ]
+./. 
+
+[ Monday-Friday/NNP ]
+,/, 
+[ 6:30/CD a.m.-10/CD p.m./NN ]
+;/: 
+[ Saturday/NNP ]
+and/CC 
+[ Sunday/NNP ]
+,/, 
+[ 7/CD a.m.-10/CD ]
+p.m/NN ./. 
+
+[ Lanes/NNS ]
+for/IN 
+[ lap/NN ]
+swimming/VBG on/IN 
+[ request/NN ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Fairmont/NNP ]
+ (/( 
+[ New/NNP Orleans/NNP ]
+ )/) :/: 
+[ Outdoor/JJ pool/NN ]
+,/, 
+[ rectangular/JJ ]
+,/, 
+[ 60/CD feet/NNS ]
+,/, between/IN 
+[ 76/CD ]
+and/CC 
+[ 78/CD degrees/NNS ]
+./. 
+
+[ Year-round/RB ]
+,/, 
+[ 6:30/CD a.m.-10/CD ]
+p.m/NN ./. 
+
+[ No/DT lanes/NNS ]
+set/VBN aside/RB for/IN 
+[ laps/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Registry/NNP ]
+ (/( 
+[ Scottsdale/NNP ]
+,/, 
+[ Ariz./NNP ]
+ )/) :/: 
+[ Outdoor/JJ pool/NN ]
+,/, 
+[ R-shaped/JJ ]
+,/, 
+[ 55/CD feet/NNS ]
+,/, 
+[ 84/CD degrees/NNS ]
+./. 
+
+[ Year-round/RB ]
+./. 
+
+[ Lifeguard/NN hours/NNS ]
+,/, 
+[ 8/CD a.m.-6/CD ]
+p.m/NN ;/: swim/VB 
+[ other/JJ times/NNS ]
+at/IN 
+[ your/PRP$ own/JJ risk/NN ]
+./. 
+
+[ No/DT lanes/NNS ]
+for/IN 
+[ laps/NNS ]
+./. 
+
+======================================
+
+[ Ms./NNP Kaufman/NNP ]
+swims/VBZ and/CC writes/VBZ in/IN 
+[ New/NNP York/NNP City/NNP ]
+./. 

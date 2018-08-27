@@ -1,0 +1,277 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Researchers/NNS ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Minnesota/NNP ]
+found/VBD 
+[ indications/NNS ]
+of/IN 
+[ genetic/JJ damage/NN ]
+among/IN 
+[ workers/NNS ]
+
+[ who/WP ]
+apply/VBP 
+[ fumigants/NNS ]
+to/TO control/VB 
+[ pests/NNS ]
+in/IN 
+[ the/DT grain/NN industry/NN ]
+./. 
+
+======================================
+
+[ Chromosome/NN damage/NN ]
+among/IN 
+[ the/DT workers/NNS ]
+was/VBD linked/VBN to/TO 
+[ exposure/NN ]
+to/TO 
+[ phosphine/NN gas/NN ]
+,/, 
+[ the/DT scientists/NNS ]
+said/VBD ,/, 
+[ which/WDT ]
+is/VBZ released/VBN from/IN 
+[ pellets/NNS ]
+of/IN 
+[ aluminum/NN phosphide/NN ]
+or/CC 
+[ magnesium/NN phosphide/NN ]
+./. 
+
+[ The/DT pellets/NNS ]
+are/VBP used/VBN to/TO control/VB 
+[ weevils/NNS ]
+and/CC 
+[ other/JJ insects/NNS ]
+in/IN 
+[ grain/NN elevators/NNS ]
+,/, 
+[ railroad/NN cars/NNS ]
+and/CC 
+[ other/JJ facilities/NNS ]
+used/VBN to/TO 
+[ store/NN ]
+or/CC 
+[ transport/NN grain/NN ]
+after/IN 
+[ harvest/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ such/JJ genetic/JJ damage/NN ]
+has/VBZ been/VBN associated/VBN generally/RB with/IN 
+[ an/DT increased/VBN risk/NN ]
+of/IN 
+[ cancer/NN ]
+,/, 
+[ no/DT such/JJ link/NN ]
+was/VBD established/VBN in/IN 
+[ this/DT study/NN ]
+,/, said/VBD 
+[ its/PRP$ principal/JJ author/NN ]
+,/, 
+[ Vincent/NNP F./NNP Garry/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT environmental/JJ pathology/NN laboratory/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Minnesota/NNP ]
+./. 
+
+[ The/DT study/NN ]
+is/VBZ published/VBN in/IN 
+[ today/NN 's/POS issue/NN ]
+of/IN 
+[ the/DT journal/NN Science/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+tends/VBZ to/TO be/VB increased/VBN 
+[ cancer/NN ]
+of/IN 
+[ the/DT ]
+ {/( 
+[ blood-forming/JJ ]
+ }/) 
+[ system/NN ]
+in/IN 
+[ the/DT grain/NN industry/NN ]
+,/, where/WRB 
+[ these/DT fumigants/NNS ]
+are/VBP commonly/RB used/VBN ,/, ''/'' 
+[ Dr./NNP Garry/NNP ]
+said/VBD ./. 
+
+But/CC 
+[ scientists/NNS ]
+have/VBP yet/RB to/TO establish/VB 
+[ a/DT link/NN ]
+between/IN 
+[ chromosome/NN damage/NN ]
+and/CC 
+[ cancer/NN ]
+or/CC 
+[ other/JJ health/NN effects/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT study/NN ]
+found/VBD that/IN 
+[ a/DT group/NN ]
+of/IN 
+[ 24/CD grain/NN workers/NNS ]
+
+[ who/WP ]
+apply/VBP 
+[ pesticides/NNS ]
+had/VBD more/JJR than/IN 
+[ 3.5/CD times/NNS more/JJR chromosome/NN aberrations/NNS ]
+than/IN 
+[ a/DT control/NN group/NN ]
+
+[ that/WDT ]
+included/VBD 
+[ non-farm/JJ industry/NN workers/NNS ]
+as/RB well/RB as/IN 
+[ grain/NN inspectors/NNS ]
+and/CC 
+[ others/NNS ]
+
+[ who/WP ]
+might/MD be/VB occasionally/RB exposed/VBN to/TO 
+[ pesticides/NNS ]
+./. 
+
+[ The/DT damage/NN ]
+was/VBD highest/JJS among/IN 
+[ the/DT nine/CD workers/NNS ]
+exposed/VBN exclusively/RB to/TO 
+[ phosphine/NN ]
+,/, 
+[ the/DT study/NN ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ workers/NNS ]
+
+[ who/WP ]
+spent/VBD more/JJR than/IN 
+[ 20/CD minutes/NNS ]
+applying/VBG 
+[ the/DT fumigant/NN ]
+in/IN 
+[ an/DT enclosed/VBN area/NN ]
+suffered/VBD 
+[ more/JJR chromosome/NN damage/NN ]
+than/IN 
+[ those/DT ]
+
+[ who/WP ]
+normally/RB spent/VBD less/JJR than/IN 
+[ 15/CD minutes/NNS ]
+performing/VBG 
+[ the/DT task/NN ]
+,/, 
+[ the/DT study/NN ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT phosphide/NN ]
+in/IN 
+[ the/DT pellets/NNS ]
+may/MD begin/VB converting/VBG to/TO 
+[ phosphine/NN ]
+in/IN as/RB little/JJ as/IN 
+[ five/CD minutes/NNS ]
+after/IN 
+[ application/NN ]
+,/, placing/VBG 
+[ workers/NNS ]
+without/IN 
+[ respirators/NNS ]
+at/IN 
+[ risk/NN ]
+of/IN 
+[ exposure/NN ]
+./. 
+
+[ The/DT findings/NNS ]
+suggest/VBP 
+[ workers/NNS ]
+should/MD be/VB better/RB protected/VBN when/WRB using/VBG 
+[ the/DT pesticides/NNS ]
+,/, 
+[ Dr./NNP Garry/NNP ]
+said/VBD ./. 
+
+======================================
+
+Before/IN 
+[ 1986/CD ]
+,/, 
+[ fumigants/NNS ]
+combining/VBG 
+[ carbon/NN tetrachloride/NN ]
+and/CC 
+[ carbon/NN disulfide/NN ]
+were/VBD commonly/RB used/VBN in/IN 
+[ the/DT grain/NN industry/NN ]
+,/, but/CC 
+[ they/PRP ]
+were/VBD banned/VBN by/IN 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP ]
+after/IN 
+[ research/NN ]
+linked/VBD 
+[ their/PRP$ use/NN ]
+to/TO 
+[ health/NN hazards/NNS ]
+./. 
+
+======================================
+
+[ Scientists/NNS ]
+at/IN 
+[ the/DT EPA/NNP ]
+and/CC 
+[ the/DT University/NNP ]
+of/IN 
+[ Texas/NNP ]
+also/RB participated/VBD in/IN 
+[ the/DT study/NN ]
+./. 

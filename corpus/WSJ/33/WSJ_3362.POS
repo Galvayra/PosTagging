@@ -1,0 +1,521 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Senate/NNP Agriculture/NNP Committee/NNP members/NNS ]
+introduced/VBD 
+[ a/DT bill/NN ]
+
+[ that/WDT ]
+would/MD aggressively/RB beef/VB up/RP 
+[ the/DT Commodity/NNP Futures/NNP Trading/NNP Commission/NNP ]
+and/CC 
+[ force/VB commodity/NN exchanges/NNS ]
+to/TO use/VB 
+[ electronic/JJ audit/NN trails/NNS ]
+within/IN 
+[ three/CD years/NNS ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+,/, called/VBD 
+[ the/DT Futures/NNP Trading/NNP Practices/NNPS Act/NNP ]
+of/IN 
+[ 1989/CD ]
+,/, comes/VBZ at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ the/DT CFTC/NNP ]
+is/VBZ facing/VBG 
+[ widespread/JJ criticism/NN ]
+of/IN 
+[ its/PRP$ ability/NN ]
+to/TO regulate/VB 
+[ the/DT commodities/NNS markets/NNS ]
+./. 
+
+``/`` In/IN 
+[ the/DT past/JJ nine/CD months/NNS ]
+,/, 
+[ regulation/NN ]
+of/IN 
+[ the/DT futures/NNS industry/NN ]
+has/VBZ suffered/VBN 
+[ what/WP some/DT ]
+have/VBP called/VBN 
+[ a/DT nervous/JJ breakdown/NN ]
+,/, ''/'' said/VBD 
+[ Committee/NNP Chairman/NNP Patrick/NNP Leahy/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Vt./NNP ]
+ )/) ,/, 
+[ who/WP ]
+
+[ co-sponsored/VBD the/DT bill/NN ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+,/, 
+[ which/WDT ]
+appears/VBZ to/TO have/VB 
+[ broad/JJ support/NN ]
+on/IN 
+[ the/DT panel/NN ]
+,/, would/MD take/VB 
+[ a/DT much/RB tougher/JJR regulatory/JJ stance/NN ]
+than/IN 
+[ legislation/NN ]
+passed/VBN by/IN 
+[ the/DT House/NNP last/JJ month/NN ]
+./. 
+
+[ The/DT Senate/NNP measure/NN ]
+would/MD boost/VB 
+[ the/DT agency/NN 's/POS budget/NN ]
+by/IN 
+[ 50/CD %/NN ]
+after/IN 
+[ inflation/NN ]
+over/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+,/, primarily/RB to/TO boost/VB 
+[ the/DT CFTC/NNP 's/POS enforcement/NN ]
+and/CC 
+[ surveillance/NN effort/NN ]
+./. 
+
+======================================
+
+[ The/DT CFTC/NNP ]
+would/MD be/VB required/VBN to/TO monitor/VB 
+[ each/DT commodity/NN exchange/NN ]
+on/IN 
+[ a/DT two-year/JJ cycle/NN ]
+;/: if/IN 
+[ flaws/NNS ]
+are/VBP found/VBN ,/, 
+[ the/DT agency/NN ]
+would/MD issue/VB 
+[ a/DT ]
+``/`` 
+[ deficiency/NN order/NN ]
+''/'' 
+[ that/WDT ]
+would/MD mandate/VB 
+[ the/DT exchange/NN ]
+to/TO fix/VB 
+[ the/DT problem/NN ]
+within/IN 
+[ a/DT set/NN time/NN ]
+./. 
+
+If/IN 
+[ the/DT exchange/NN ]
+does/VBZ n't/RB correct/VB 
+[ the/DT problem/NN ]
+,/, 
+[ it/PRP ]
+would/MD be/VB subject/JJ to/TO 
+[ suspension/NN ]
+and/CC to/TO 
+[ fines/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 500,000/CD ]
+
+[ a/DT violation/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ five/CD times/NNS ]
+larger/JJR than/IN 
+[ the/DT current/JJ maximum/NN ]
+./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ the/DT bill/NN ]
+would/MD force/VB 
+[ the/DT CFTC/NNP ]
+to/TO suspend/VB 
+[ dual/JJ ]
+trading/NN --/: where/WRB 
+[ brokers/NNS ]
+trade/VBP for/IN 
+[ their/PRP$ own/JJ account/NN ]
+and/CC for/IN 
+[ customers/NNS ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+--/: in/IN 
+[ cases/NNS ]
+where/WRB 
+[ an/DT exchange/NN ]
+ca/MD n't/RB show/VB 
+[ that/DT its/PRP$ oversight/NN system/NN ]
+can/MD detect/VB 
+[ abuses/NNS ]
+of/IN 
+[ the/DT practice/NN ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+also/RB would/MD allow/VB 
+[ customers/NNS ]
+victimized/VBN by/IN 
+[ floor/NN traders/NNS ]
+
+[ who/WP ]
+willfully/RB break/VBP 
+[ the/DT rules/NNS ]
+to/TO sue/VB for/IN 
+[ recovery/NN ]
+of/IN 
+[ funds/NNS ]
+plus/CC 
+[ punitive/JJ damages/NNS ]
+equal/JJ to/TO twice/JJ 
+[ the/DT loss/NN amount/NN ]
+./. 
+
+Currently/RB ,/, 
+[ customers/NNS ]
+only/RB can/MD sue/VB for/IN 
+[ actual/JJ damages/NNS ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+,/, 
+[ co-sponsored/VBD ]
+by/IN 
+[ Sens./NNP Richard/NNP Lugar/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Ind/NNP ]
+./. 
+
+ )/) and/CC 
+[ Bob/NNP Kerrey/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Neb./NNP ]
+ )/) ,/, is/VBZ certain/JJ to/TO bring/VB 
+[ protests/NNS ]
+from/IN 
+[ the/DT exchanges/NNS ]
+./. 
+
+======================================
+
+[ Many/JJ futures/NNS exchange/NN officials/NNS ]
+,/, unaccustomed/JJ to/TO 
+[ tough/JJ regulation/NN ]
+,/, have/VBP said/VBN privately/RB that/IN 
+[ they/PRP ]
+think/VBP 
+[ the/DT bill/NN ]
+is/VBZ much/RB too/RB harsh/JJ ./. 
+
+[ Publicly/RB ] 
+,/, 
+[ the/DT Chicago/NNP Mercantile/NNP Exchange/NNP ]
+said/VBD 
+[ it/PRP ]
+supported/VBD 
+[ the/DT objectives/NNS ]
+of/IN 
+[ the/DT bill/NN ]
+,/, pointing/VBG out/RB that/IN 
+[ the/DT Merc/NNP ]
+and/CC 
+[ other/JJ exchanges/NNS ]
+are/VBP already/RB addressing/VBG 
+[ many/JJ ]
+of/IN 
+[ them/PRP ]
+./. 
+
+[ The/DT Merc/NNP ]
+added/VBD that/IN while/IN 
+[ it/PRP ]
+did/VBD n't/RB ``/`` subscribe/VB to/TO 
+[ all/PDT the/DT provisions/NNS ]
+''/'' in/IN 
+[ the/DT bill/NN ]
+,/, 
+[ it/PRP ]
+would/MD work/VB with/IN 
+[ the/DT Senate/NNP committee/NN ]
+to/TO ``/`` achieve/VB mutually/RB 
+[ satisfactory/JJ legislation/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Chicago/NNP Board/NNP ]
+of/IN 
+[ Trade/NNP ]
+said/VBD 
+[ it/PRP ]
+also/RB shared/VBD 
+[ the/DT committee/NN 's/POS goals/NNS ]
+,/, but/CC had/VBD concerns/NNS about/IN 
+[ two/CD portions/NNS ]
+of/IN 
+[ the/DT bill/NN ]
+in/IN 
+[ particular/NN ]
+./. 
+
+[ The/DT exchange/NN ]
+said/VBD 
+[ a/DT proposed/VBN service/NN fee/NN ]
+in/IN 
+[ the/DT bill/NN ]
+looks/VBZ like/IN 
+[ a/DT ]
+``/`` 
+[ transaction/NN tax/NN ]
+in/IN 
+[ disguise/NN ]
+''/'' 
+[ that/WDT ]
+could/MD raise/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ futures/NNS ]
+trading/NN in/IN 
+[ the/DT U.S./NNP ]
+and/CC hurt/VB 
+[ domestic/JJ exchanges/NNS ability/NN ]
+to/TO compete/VB for/IN 
+[ international/JJ business/NN ]
+./. 
+
+[ It/PRP ]
+added/VBD 
+[ that/DT bill/NN 's/POS version/NN ]
+of/IN 
+[ an/DT audit/NN trail/NN ]
+,/, 
+[ something/NN the/DT exchange/NN ]
+noted/VBD 
+[ it/PRP ]
+is/VBZ already/RB working/VBG on/IN ,/, could/MD be/VB so/RB restrictive/JJ that/IN 
+[ it/PRP ]
+might/MD impair/VB 
+[ the/DT liquidity/NN ]
+,/, or/CC 
+[ depth/NN ]
+,/, of/IN 
+[ the/DT markets/NNS ]
+./. 
+
+======================================
+
+[ Sen./NNP Leahy/NNP ]
+contended/VBD that/IN 
+[ this/DT ]
+was/VBD 
+[ Congress/NNP 's/POS only/JJ chance/NN ]
+to/TO restore/VB 
+[ public/JJ confidence/NN ]
+in/IN 
+[ the/DT futures/NNS markets/NNS ]
+./. 
+
+After/IN reeling/VBG off/RP 
+[ a/DT laundry/NN list/NN ]
+of/IN 
+[ confidence-shattering/JJ events/NNS ]
+of/IN 
+[ the/DT past/JJ nine/CD months/NNS ]
+,/, 
+[ he/PRP ]
+argued/VBD ,/, ``/`` 
+[ We/PRP ]
+need/VBP to/TO fix/VB 
+[ it/PRP ]
+once/RB and/CC for/IN 
+[ all/RB ]
+so/IN that/IN 
+[ we/PRP ]
+will/MD not/RB be/VB back/RB here/RB 
+[ next/JJ year/NN ]
+''/'' to/TO fix/VB 
+[ it/PRP ]
+again/RB ./. 
+
+======================================
+
+[ A/DT central/JJ change/NN ]
+is/VBZ 
+[ that/DT ]
+of/IN 
+[ the/DT audit/NN trail/NN ]
+to/TO track/VB 
+[ the/DT specifics/NNS ]
+and/CC 
+[ time/NN ]
+of/IN 
+[ an/DT order/NN ]
+./. 
+
+Currently/RB ,/, 
+[ brokers/NNS ]
+write/VBP out/RP 
+[ cards/NNS ]
+containing/VBG 
+[ orders/NNS ]
+,/, 
+[ which/WDT ]
+
+[ they/PRP ]
+hand/VBP to/TO exchange/NN 
+[ officials/NNS ]
+at/IN 
+[ designated/VBN times/NNS ]
+./. 
+
+[ The/DT exchanges/NNS ]
+have/VBP been/VBN chastised/VBN during/IN 
+[ the/DT past/JJ year/NN ]
+for/IN 
+[ what/WP ]
+
+[ many/JJ observers/NNS ]
+perceive/VBP is/VBZ 
+[ an/DT inability/NN ]
+to/TO accurately/RB record/VB 
+[ brokers/NNS '/POS ]
+and/CC 
+[ customers/NNS '/POS trades/NNS ]
+./. 
+
+======================================
+
+[ The/DT legislation/NN ]
+would/MD order/VB 
+[ exchanges/NNS ]
+to/TO create/VB 
+[ an/DT audit/NN trail/NN ]
+within/IN 
+[ three/CD years/NNS ]
+to/TO record/VB 
+[ transaction/NN times/NNS ]
+independently/RB and/CC precisely/RB ./. 
+
+[ That/DT trail/NN ]
+could/MD eliminate/VB 
+[ many/JJ ]
+of/IN 
+[ the/DT trading/NN abuses/NNS ]
+uncovered/VBN in/IN 
+[ the/DT sting/NN operation/NN ]
+involving/VBG 
+[ the/DT Chicago/NNP markets/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ he/PRP ]
+is/VBZ sponsoring/VBG 
+[ the/DT bill/NN ]
+and/CC 
+[ its/PRP$ increase/NN ]
+in/IN 
+[ CFTC/NNP clout/NN ]
+,/, 
+[ Sen./NNP Kerrey/NNP ]
+leveled/VBD 
+[ hefty/JJ criticism/NN ]
+at/IN 
+[ the/DT agency/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+have/VBP 
+[ serious/JJ questions/NNS ]
+about/IN 
+[ their/PRP$ ability/NN ]
+to/TO regulate/VB ,/, ''/'' 
+[ he/PRP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP skeptical/JJ 
+[ the/DT commission/NN ]
+can/MD pull/VB 
+[ it/PRP ]
+off/RP ./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+'ll/MD keep/VB 
+[ a/DT close/JJ eye/NN ]
+on/IN 
+[ the/DT commission/NN ]
+./. 
+
+``/`` If/IN 
+[ I/PRP ]
+'m/VBP dealing/VBG with/IN 
+[ a/DT police/NN chief/NN ]
+and/CC 
+[ he/PRP ]
+says/VBZ 
+[ my/PRP$ crime/NN rate/NN ]
+is/VBZ going/VBG up/RB and/CC 
+[ he/PRP ]
+says/VBZ 
+[ we/PRP ]
+need/VBP more/JJR 
+[ money/NN ]
+,/, ''/'' 
+[ Sen./NNP Kerrey/NNP ]
+said/VBD ,/, ``/`` then/RB 
+[ I/PRP ]
+'ve/VBP got/VBN to/TO say/VB ,/, 
+[ 'Chief/NNP ]
+,/, maybe/RB 
+[ the/DT problem/NN ]
+is/VBZ 
+[ you/PRP ]
+./. 
+
+'/'' ''/'' 

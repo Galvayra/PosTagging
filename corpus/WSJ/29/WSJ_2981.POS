@@ -1,0 +1,902 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Is/VBZ 
+[ vanilla/NN ice/NN cream/NN ]
+poisonous/JJ ?/. 
+
+How/WRB about/IN 
+[ bread/NN ]
+?/. 
+
+Surely/RB not/RB ./. 
+
+But/CC if/IN 
+[ California/NNP ]
+chose/VBD to/TO strictly/RB enforce/VB 
+[ Proposition/NN 65/CD ]
+,/, lobbied/VBN into/IN 
+[ law/NN ]
+by/IN 
+[ Jane/NNP Fonda/NNP ]
+and/CC 
+[ her/PRP$ friends/NNS three/CD years/NNS ]
+ago/RB ,/, 
+[ those/DT foods/NNS ]
+and/CC 
+[ most/JJS others/NNS ]
+would/MD have/VB 
+[ warning/NN labels/NNS ]
+./. 
+
+[ The/DT vanilla/NN extract/NN ]
+in/IN 
+[ ice/NN cream/NN ]
+contains/VBZ 
+[ ethyl/NN alcohol/NN ]
+,/, classified/VBN as/IN 
+[ a/DT ]
+``/`` 
+[ reproductive/JJ toxicant/NN ]
+./. 
+
+''/'' 
+[ Bread/NN ]
+,/, 
+[ cereal/NN ]
+,/, 
+[ milk/NN ]
+and/CC 
+[ other/JJ ]
+``/`` fortified/JJ ''/'' 
+[ foods/NNS ]
+contain/VBP 
+[ Vitamin/NN ]
+
+[ A/NNP ]
+,/, also/RB 
+[ a/DT ]
+``/`` 
+[ reproductive/JJ toxicant/NN ]
+./. 
+
+''/'' 
+======================================
+
+Since/IN 
+[ Prop/NN 65/CD ]
+,/, 
+[ California/NNP ]
+has/VBZ mandated/VBN 
+[ warning/NN signs/NNS ]
+in/IN 
+[ bars/NNS ]
+,/, on/IN 
+[ menus/NNS ]
+and/CC on/IN 
+[ labels/NNS ]
+warning/VBG 
+[ pregnant/JJ women/NNS ]
+of/IN 
+[ the/DT risks/NNS ]
+posed/VBN by/IN 
+[ the/DT ethyl/NN alcohol/NN ]
+in/IN 
+[ their/PRP$ cocktails/NNS ]
+or/CC 
+[ wine/NN ]
+./. 
+
+But/CC 
+[ the/DT panel/NN ]
+of/IN 
+[ scientists/NNS ]
+designated/VBN to/TO interpret/VB 
+[ the/DT law/NN ]
+has/VBZ been/VBN circumspect/JJ in/IN pressing/VBG 
+[ the/DT law/NN 's/POS extreme/JJ standards/NNS ]
+further/RBR ./. 
+
+======================================
+
+Says/VBZ 
+[ Jeffrey/NNP Nedelman/NNP ]
+,/, 
+[ vice/NN president/NN ]
+for/IN 
+[ public/JJ affairs/NNS ]
+for/IN 
+[ the/DT Grocery/NNP Manufacturers/NNPS ]
+of/IN 
+[ America/NNP ]
+ (/( 
+[ GMA/NNP ]
+ )/) :/: ``/`` 
+[ The/DT scientists/NNS ]
+are/VBP not/RB going/VBG to/TO do/VB 
+[ anything/NN ]
+dumb/JJ ./. 
+
+And/CC 
+[ the/DT environmentalists/NNS ]
+know/VBP 
+[ that/DT ]
+should/MD 
+[ vanilla/NN ice/NN cream/NN ]
+have/VB to/TO bear/VB 
+[ a/DT warning/NN ]
+,/, even/RB 
+[ the/DT Bush/NNP administration/NN ]
+could/MD not/RB sit/VB by/IN ./. 
+
+[ The/DT feds/NNS ]
+would/MD step/VB in/RB ./. 
+
+======================================
+
+``/`` 
+[ The/DT same/JJ ]
+with/IN 
+[ Vitamin/NN A./NNP Vitamin/NN ]
+
+[ A/NNP ]
+taken/VBN in/IN 
+[ large/JJ amounts/NNS ]
+is/VBZ 
+[ a/DT very/RB serious/JJ reproductive/JJ toxin/NN ]
+./. 
+
+[ The/DT federal/JJ government/NN ]
+requires/VBZ 
+[ companies/NNS ]
+to/TO put/VB 
+[ vitamin/NN ]
+
+[ A/NNP ]
+in/IN 
+[ products/NNS ]
+to/TO be/VB allowed/VBN to/TO say/VB 
+[ they/PRP ]
+are/VBP fortified/JJ ./. 
+
+[ The/DT amount/NN ]
+used/VBN invokes/VBZ 
+[ the/DT consumer-warning/NN requirement/NN ]
+of/IN 
+[ Prop/NN 65/CD ]
+./. 
+
+So/RB 
+[ the/DT state/NN ]
+,/, in/IN 
+[ a/DT Solomon-like/JJ decision/NN ]
+,/, chose/VBD to/TO exempt/VB 
+[ the/DT amount/NN ]
+required/VBN by/IN 
+[ the/DT federal/JJ government/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ nothing/NN ]
+in/IN 
+[ the/DT law/NN ]
+
+[ that/WDT ]
+says/VBZ 
+[ they/PRP ]
+can/MD do/VB 
+[ that/DT ]
+./. 
+
+[ The/DT law/NN ]
+says/VBZ if/IN 
+[ you/PRP ]
+violate/VBP 
+[ the/DT safety/NN standard/NN ]
+
+[ you/PRP ]
+must/MD provide/VB 
+[ a/DT warning/NN ]
+./. 
+
+[ We/PRP ]
+have/VBP n't/RB sued/VBN because/IN 
+[ it/PRP ]
+has/VBZ provided/VBN 
+[ us/PRP ]
+with/IN 
+[ relief/NN ]
+./. 
+
+[ The/DT environmentalists/NNS ]
+have/VBP n't/RB sued/VBN for/IN 
+[ the/DT same/JJ reason/NN ]
+as/IN 
+[ ethyl/NN alcohol/NN ]
+./. 
+
+[ It/PRP ]
+would/MD dramatically/RB show/VB 
+[ the/DT system/NN ]
+to/TO be/VB 
+[ the/DT sham/NN ]
+
+[ it/PRP ]
+is/VBZ ./. 
+
+''/'' 
+======================================
+
+Maybe/RB 
+[ there/EX ]
+are/VBP 
+[ some/DT natural/JJ limits/NNS ]
+after/IN 
+[ all/DT ]
+to/TO 
+[ food-scare/NN politics/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ doubtful/JJ that/IN 
+[ the/DT Natural/NNP Resources/NNP Defense/NNP Council/NNP ]
+did/VBD 
+[ itself/PRP ]
+
+[ a/DT lot/NN ]
+of/IN 
+[ good/JJ ]
+by/IN raising/VBG 
+[ the/DT big/JJ apple/NN scare/NN ]
+alleging/VBG 
+[ that/DT Alar/NN ]
+,/, 
+[ a/DT preservative/JJ coating/NN ]
+,/, was/VBD 
+[ a/DT health/NN threat/NN ]
+./. 
+
+After/IN 
+[ near-hysteria/NN ]
+in/IN 
+[ the/DT school-lunch/NN program/NN ]
+and/CC 
+[ big/JJ losses/NNS ]
+by/IN 
+[ apple/NN growers/NNS ]
+,/, 
+[ the/DT federal/JJ government/NN ]
+had/VBD to/TO step/VB in/RB and/CC reassure/VB 
+[ consumers/NNS ]
+that/IN 
+[ apples/NNS ]
+are/VBP safe/JJ to/TO eat/VB ./. 
+
+When/WRB 
+[ scares/NNS ]
+are/VBP pushed/VBN beyond/IN 
+[ believability/NN ]
+,/, 
+[ people/NNS ]
+begin/VBP to/TO wonder/VB about/IN 
+[ motives/NNS ]
+,/, as/IN 
+[ they/PRP ]
+should/MD ./. 
+
+======================================
+
+But/CC that/IN does/VBZ n't/RB mean/VB 
+[ this/DT brand/NN ]
+of/IN 
+[ politics/NNS ]
+is/VBZ dead/JJ or/CC dying/JJ ./. 
+
+[ John/NNP Van/NNP ]
+de/FW 
+[ Kamp/NNP ]
+,/, 
+[ California/NNP 's/POS attorney/NN general/NN ]
+,/, will/MD probably/RB use/VB 
+[ a/DT proposition/NN ]
+even/RB broader/JJR and/CC more/RBR draconian/JJ than/IN 
+[ Prop/NN 65/CD ]
+in/IN 
+[ his/PRP$ bid/NN ]
+for/IN 
+[ the/DT California/NNP governorship/NN next/JJ year/NN ]
+./. 
+
+[ Pressures/NNS ]
+for/IN 
+[ measures/NNS ]
+similar/JJ to/TO 
+[ Prop/NN 65/CD ]
+exist/VBP in/IN 
+[ Massachusetts/NNP ]
+and/CC 
+[ some/DT other/JJ states/NNS ]
+./. 
+
+[ Public/JJ health/NN ]
+generates/VBZ 
+[ virile/JJ politics/NNS ]
+,/, 
+[ overwhelming/JJ rational/JJ counterarguments/NNS ]
+about/IN 
+[ the/DT level/NN ]
+of/IN 
+[ risk/NN ]
+and/CC 
+[ the/DT costs/NNS ]
+of/IN 
+[ risk/NN reduction/NN ]
+./. 
+
+During/IN 
+[ the/DT Prop/NN 65/CD campaign/NN ]
+,/, 
+[ Jane/NNP Fonda/NNP ]
+produced/VBD 
+[ a/DT film/NN ]
+showing/VBG 
+[ the/DT deformed/JJ children/NNS ]
+of/IN 
+[ mothers/NNS ]
+alleged/VBN to/TO have/VB been/VBN poisoned/VBN during/IN 
+[ pregnancy/NN ]
+./. 
+
+======================================
+
+Now/RB ,/, of/IN 
+[ course/NN ]
+,/, in/IN dealing/VBG with/IN 
+[ toxins/NNS ]
+,/, 
+[ the/DT amount/NN ]
+of/IN 
+[ exposure/NN ]
+is/VBZ 
+[ everything/NN ]
+./. 
+
+If/IN 
+[ a/DT human/NN ingested/VBD saccharin/NN ]
+in/IN 
+[ an/DT amount/NN ]
+equivalent/JJ to/TO 
+[ that/DT fed/VBN rats/NNS ]
+to/TO force/VB 
+[ a/DT warning/NN label/NN ]
+on/IN 
+[ saccharin/NN products/NNS ]
+,/, 
+[ he/PRP ]
+or/CC 
+[ she/PRP ]
+might/MD get/VB 
+[ cancer/NN ]
+./. 
+
+But/CC eating/VBG 
+[ that/DT much/JJ saccharin/NN ]
+would/MD be/VB impossible/JJ ./. 
+
+[ Dioxins/NNS ]
+are/VBP 
+[ a/DT favorite/JJ environmentalist/NN bugaboo/NN ]
+and/CC 
+[ the/DT paper/NN industry/NN ]
+is/VBZ spending/VBG 
+[ hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+to/TO take/VB 
+[ traces/NNS ]
+of/IN 
+[ dioxin/NN ]
+out/IN of/IN 
+[ milk/NN cartons/NNS ]
+./. 
+
+But/CC 
+[ dioxins/NNS ]
+are/VBP everywhere/RB and/CC 
+[ a/DT recent/JJ reinvestigation/NN ]
+of/IN 
+[ intense/JJ dioxin/NN exposures/NNS ]
+caused/VBN by/IN 
+[ an/DT accident/NN ]
+in/IN 
+[ Seveso/NNP ]
+,/, 
+[ Italy/NNP ]
+,/, 
+[ 20/CD years/NNS ]
+ago/RB showed/VBD 
+[ no/DT increased/VBN incidence/NN ]
+of/IN 
+[ cancer/NN ]
+./. 
+
+======================================
+
+``/`` In/IN 
+[ California/NNP ]
+,/, 
+[ the/DT birth-defect/NN standard/NN ]
+is/VBZ 
+[ 10/CD times/NNS ]
+more/RBR stringent/JJ than/IN 
+[ anything/NN ]
+
+[ any/DT scientific/JJ organization/NN ]
+in/IN 
+[ the/DT world/NN ]
+has/VBZ endorsed/VBN ,/, ''/'' says/VBZ 
+[ Mr./NNP Nedelman/NNP ]
+./. 
+
+``/`` 
+[ The/DT state/NN government/NN ]
+brought/VBN in/IN as/IN 
+[ witnesses/NNS top/NN Ph./NNPS D.s/NNPS ]
+from/IN 
+[ the/DT academic/JJ community/NN ]
+and/CC 
+[ people/NNS ]
+from/IN 
+[ Washington/NNP ]
+./. 
+
+[ They/PRP ]
+found/VBD 
+[ toxicologists/NNS ]
+,/, 
+[ food/NN scientists/NNS ]
+,/, 
+[ risk/NN assessors/NNS ]
+,/, and/CC to/TO 
+[ a/DT man/NN ]
+
+[ they/PRP ]
+
+[ all/DT ]
+said/VBD 
+[ this/DT ]
+is/VBZ crazy/JJ ,/, 
+[ this/DT ]
+makes/VBZ 
+[ no/DT sense/NN ]
+./. 
+
+[ Hayden/NNP ]
+was/VBD there/RB ./. 
+
+When/WRB 
+[ his/PRP$ turn/NN ]
+came/VBD 
+[ he/PRP ]
+said/VBD ,/, 
+[ 'I've/NN ] 
+heard/VBD 
+[ what/WP ]
+
+[ you/PRP ]
+have/VBP to/TO say/VB ,/, and/CC 
+[ my/PRP$ only/JJ reaction/NN ]
+is/VBZ that/IN 
+[ we/PRP ]
+in/IN 
+[ California/NNP ]
+want/VBP to/TO be/VB better/JJR ./. 
+
+'/'' ''/'' 
+[ Tom/NNP Hayden/NNP ]
+,/, 
+[ a/DT state/NN legislator/NN ]
+,/, was/VBD 
+[ the/DT student/NN activist/NN ]
+of/IN 
+[ the/DT '60s/NNS ]
+
+[ who/WP ]
+married/VBD 
+[ Jane/NNP Fonda/NNP ]
+./. 
+
+[ They/PRP ]
+now/RB are/VBP estranged/JJ ./. 
+
+======================================
+
+But/CC ,/, however/RB 
+[ unreasonable/JJ ]
+,/, 
+[ the/DT GMA/NNP ]
+has/VBZ decided/VBN that/IN given/VBN 
+[ California/NNP 's/POS health/NN consciousness/NN ]
+and/CC 
+[ its/PRP$ susceptibilities/NNS ]
+to/TO 
+[ the/DT politicking/NN ]
+of/IN 
+[ movie/NN stars/NNS ]
+,/, 
+[ the/DT next/JJ version/NN ]
+of/IN 
+[ Prop/NN 65/CD ]
+could/MD succeed/VB too/RB ./. 
+
+[ The/DT CEOs/NNS ]
+of/IN 
+[ the/DT GMA/NNP 's/POS 130-member/JJ firms/NNS ]
+,/, 
+[ which/WDT ]
+register/VBP 
+[ some/DT $/$ 280/CD billion/CD ]
+in/IN 
+[ food/NN sales/NNS ]
+annually/RB ,/, agreed/VBD 
+[ this/DT summer/NN ]
+to/TO ask/VB for/IN overriding/VBG 
+[ federal/JJ regulation/NN ]
+despite/IN 
+[ their/PRP$ federalism/JJ concerns/NNS ]
+./. 
+
+[ This/DT kind/NN ]
+of/IN 
+[ response/NN ]
+to/TO 
+[ state/NN pressures/NNS ]
+is/VBZ not/RB new/JJ ./. 
+
+[ The/DT auto/NN industry/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, has/VBZ often/RB asked/VBN for/IN 
+[ federal/JJ standards/NNS ]
+to/TO avoid/VB having/VBG to/TO equip/VB 
+[ cars/NNS 50/CD different/JJ ways/NNS ]
+for/IN 
+[ 50/CD different/JJ states/NNS ]
+./. 
+
+======================================
+
+[ The/DT GMA/NNP ]
+decided/VBD 
+[ it/PRP ]
+was/VBD getting/VBG licked/VBN in/IN 
+[ the/DT states/NNS ]
+./. 
+
+``/`` 
+[ The/DT idea/NN ]
+of/IN 
+[ the/DT Natural/NNP Resources/NNPS Defense/NNP Council/NNP ]
+and/CC 
+[ the/DT Sierra/NNP Club/NNP ]
+as/IN 
+[ tree-huggers/NNS ]
+and/CC 
+[ little/JJ ladies/NNS ]
+in/IN 
+[ blue/JJ hair/NN ]
+and/CC 
+[ tennis/NN shoes/NNS ]
+just/RB could/MD n't/RB be/VB further/JJ from/IN 
+[ the/DT truth/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Nedelman/NNP ]
+./. 
+
+``/`` 
+[ They/PRP ]
+are/VBP well-financed/JJ ,/, highly/RB paid/JJ ,/, 
+[ very/RB skilled/JJ advocates/NNS ]
+./. 
+
+Most/JJS of/IN 
+[ the/DT environmental/JJ case/NN law/NN ]
+in/IN 
+[ this/DT country/NN ]
+has/VBZ been/VBN litigated/VBN by/IN 
+[ the/DT NRDC/NNP ]
+or/CC 
+[ the/DT Sierra/NNP Club/NNP ]
+and/CC 
+[ they/PRP ]
+win/VBP ./. 
+
+[ They/PRP ]
+are/VBP very/RB ,/, very/RB able/JJ ./. 
+
+''/'' 
+======================================
+
+If/IN 
+[ court/NN battles/NNS ]
+and/CC 
+[ legislative/JJ campaigns/NNS ]
+are/VBP too/RB slow/JJ ,/, 
+[ there/EX ]
+is/VBZ always/RB 
+[ direct/JJ action/NN ]
+,/, calling/VBG up/RP 
+[ supermarket/NN chieftains/NNS ]
+and/CC telling/VBG 
+[ them/PRP ]
+that/IN 
+[ demonstrators/NNS ]
+will/MD shortly/RB be/VB crowding/VBG into/IN 
+[ their/PRP$ stores/NNS ]
+if/IN 
+[ they/PRP ]
+do/VBP n't/RB take/VB 
+[ such/JJ ]
+and/CC 
+[ such/JJ product/NN ]
+off/IN 
+[ the/DT shelves/NNS ]
+./. 
+
+[ Supermarket/NN companies/NNS ]
+,/, operating/VBG as/IN 
+[ they/PRP ]
+do/VBP on/IN 
+[ high/JJ volume/NN ]
+and/CC 
+[ narrow/JJ margins/NNS ]
+,/, are/VBP very/RB susceptible/JJ to/TO 
+[ such/JJ threats/NNS ]
+and/CC 
+[ some/DT ]
+capitulated/VBD quickly/RB during/IN 
+[ the/DT apple/NN scare/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Supermarkets/NNS ]
+are/VBP 
+[ happy/JJ places/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Nedelman/NNP ]
+./. 
+
+``/`` 
+[ People/NNS ]
+go/VBP to/TO spend/VB 
+[ money/NN ]
+and/CC 
+[ they/PRP ]
+do/VBP n't/RB want/VB 
+[ signs/NNS ]
+and/CC 
+[ they/PRP ]
+do/VBP n't/RB want/VB 
+[ pickets/NNS ]
+./. 
+
+[ Alar/NN ]
+was/VBD 
+[ the/DT first/JJ example/NN ]
+of/IN 
+[ the/DT change/NN ]
+in/IN 
+[ the/DT tactics/NNS ]
+from/IN trying/VBG to/TO make/VB 
+[ the/DT system/NN work/NN ]
+to/TO 
+[ what/WP some/DT people/NNS ]
+call/VBP 
+[ environmental/JJ blackmail/NN ]
+./. 
+
+''/'' 
+======================================
+
+Perhaps/RB 
+[ the/DT food/NN industry/NN ]
+
+[ itself/PRP ]
+has/VBZ unconsciously/RB erred/VBN by/IN putting/VBG 
+[ its/PRP$ own/JJ stress/NN ]
+on/IN 
+[ health/NN ]
+and/CC 
+[ safety/NN ]
+,/, sometimes/RB with/IN not/RB much/RB 
+[ more/JJR scientific/JJ basis/NN ]
+than/IN that/DT  employed/VBN by/IN 
+[ its/PRP$ enemies/NNS ]
+./. 
+
+By/IN 
+[ one/CD estimate/NN ]
+nearly/RB 
+[ a/DT third/JJ ]
+of/IN 
+[ food-industry/NN ]
+advertising/NN makes/VBZ 
+[ some/DT kind/NN ]
+of/IN 
+[ nutritional/JJ ]
+or/CC 
+[ health/NN claim/NN ]
+./. 
+
+[ Shoppers/NNS ]
+can/MD get/VB ,/, for/IN 
+[ example/NN ]
+,/, decaffeinated/VBN 
+[ instant/JJ tea/NN ]
+without/IN 
+[ sugar/NN ]
+,/, 
+[ the/DT same/JJ ]
+with/IN 
+[ sugar/NN ]
+,/, 
+[ tea/NN ]
+with/IN 
+[ caffeine/NN ]
+and/CC 
+[ sugar/NN ]
+,/, 
+[ low-sugar/JJ ]
+,/, 
+[ etc./FW ]
+,/, 
+[ etc/FW ]
+./. 
+
+[ Supermarket/NN managers/NNS ]
+tear/VBP 
+[ their/PRP$ hair/NN ]
+at/IN 
+[ this/DT proliferation/NN ]
+,/, 
+[ which/WDT ]
+accounts/VBZ for/IN why/WRB 
+[ some/DT ]
+are/VBP charging/VBG for/IN 
+[ shelf/NN space/NN ]
+./. 
+
+[ Customers/NNS ]
+with/IN 
+[ concerns/NNS ]
+about/IN 
+[ health/NN ]
+and/CC 
+[ safety/NN ]
+have/VBP 
+[ those/DT concerns/NNS ]
+reinforced/VBN by/IN 
+[ the/DT advertising/NN bombardment/NN ]
+,/, 
+[ which/WDT ]
+sets/VBZ 
+[ them/PRP ]
+up/RP for/IN 
+[ the/DT next/JJ food/NN scare/NN ]
+./. 
+
+======================================
+
+But/CC ,/, of/IN 
+[ course/NN ]
+,/, 
+[ the/DT driving/NN force/NN ]
+in/IN 
+[ the/DT food-scare/NN movement/NN ]
+consists/VBZ of/IN 
+[ the/DT hundreds/NNS ]
+of/IN 
+[ organizations/NNS ]
+
+[ that/WDT ]
+bill/VBP 
+[ themselves/PRP ]
+as/IN ``/`` 
+[ environmentalist/JJ ]
+./. 
+
+''/'' In/IN 
+[ a/DT way/NN ]
+,/, 
+[ they/PRP ]
+have/VBP become/VBN 
+[ an/DT industry/NN ]
+as/RB well/RB ./. 
+
+[ Their/PRP$ ability/NN ]
+to/TO attract/VB 
+[ foundation/NN grants/NNS ]
+and/CC 
+[ individual/JJ contributions/NNS ]
+rests/VBZ on/IN 
+[ their/PRP$ ability/NN ]
+to/TO make/VB 
+[ news/NN ]
+,/, and/CC 
+[ they/PRP ]
+often/RB have/VBP 
+[ allies/NNS ]
+in/IN 
+[ the/DT press/NN ]
+
+[ who/WP ]
+suspend/VBP 
+[ skepticism/NN ]
+when/WRB 
+[ they/PRP ]
+make/VBP 
+[ claims/NNS ]
+,/, even/RB 
+[ wild/JJ ones/NNS ]
+./. 
+
+[ They/PRP ]
+say/VBP 
+[ they/PRP ]
+represent/VBP 
+[ the/DT ]
+``/`` 
+[ public/JJ interest/NN ]
+''/'' but/CC 
+[ they/PRP ]
+do/VBP n't/RB do/VB so/RB badly/RB for/IN 
+[ their/PRP$ own/JJ interests/NNS ]
+,/, either/RB ./. 
+
+Do/VBP 
+[ we/PRP ]
+need/VB 
+[ an/DT ]
+``/`` 
+[ environmentalism/NN ]
+''/'' 
+[ industry/NN ]
+?/. 
+
+Maybe/RB ./. 
+
+But/CC 
+[ the/DT answer/NN ]
+would/MD be/VB more/RBR certain/JJ if/IN 
+[ the/DT one/NN ]
+
+[ we/PRP ]
+have/VBP exercised/VBN 
+[ more/JJR quality/NN control/NN ]
+over/IN 
+[ its/PRP$ ]
+``/`` 
+[ science/NN ]
+./. 

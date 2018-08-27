@@ -1,0 +1,608 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Terrence/NNP A./NNP Larsen/NNP ]
+is/VBZ 
+[ a/DT card-carrying/JJ economist/NN ]
+,/, but/CC 
+[ he/PRP ]
+seems/VBZ to/TO prefer/VB 
+[ acquisitions/NNS ]
+to/TO 
+[ predictions/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ chairman/NN ]
+and/CC 
+[ chief/NN executive/JJ officer/NN ]
+of/IN 
+[ CoreStates/NNP Financial/NNP Corp./NNP ]
+,/, 
+[ Mr./NNP Larsen/NNP ]
+decided/VBD 
+[ late/JJ last/JJ month/NN ]
+that/IN acquiring/VBG 
+[ First/NNP Pennsylvania/NNP Corp./NNP ]
+makes/VBZ 
+[ sense/NN ]
+for/IN 
+[ CoreStates/NNP ]
+./. 
+
+Even/RB though/IN 
+[ his/PRP$ bank/NN holding/VBG company/NN ]
+was/VBD late/RB jumping/VBG in/IN ,/, 
+[ he/PRP ]
+pursued/VBD 
+[ the/DT target/NN ]
+with/IN 
+[ zeal/NN ]
+and/CC snatched/VBD 
+[ it/PRP ]
+from/IN 
+[ the/DT arms/NNS ]
+of/IN 
+[ another/DT suitor/NN ]
+
+[ that/WDT ]
+left/VBD 
+[ a/DT higher/JJR bid/NN ]
+on/IN 
+[ the/DT table/NN ]
+./. 
+
+======================================
+
+First/NNP 
+[ Pennsylvania/NNP 's/POS board/NN ]
+,/, swayed/VBN by/IN 
+[ Mr./NNP Larsen/NNP 's/POS assurances/NNS ]
+that/IN 
+[ massive/JJ layoffs/NNS ]
+could/MD be/VB avoided/VBN ,/, agreed/VBD to/TO snub/VB 
+[ Reading/NNP ]
+,/, 
+[ Pa.-based/JJ Meridian/NNP Bancorp/NNP ]
+and/CC instead/RB be/VB acquired/VBN by/IN 
+[ CoreStates/NNP ]
+for/IN 
+[ stock/NN ]
+valued/VBN at/IN about/IN 
+[ $/$ 730/CD million/CD ]
+./. 
+
+[ The/DT merger/NN ]
+would/MD put/VB 
+[ Mr./NNP Larsen/NNP ]
+in/IN 
+[ charge/NN ]
+of/IN 
+[ the/DT third-largest/JJ banking/NN operation/NN ]
+based/VBN in/IN 
+[ Pennsylvania/NNP ]
+,/, with/IN 
+[ some/DT $/$ 23/CD billion/CD ]
+in/IN 
+[ assets/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+also/RB would/MD present/VB 
+[ him/PRP ]
+with/IN 
+[ the/DT challenge/NN ]
+of/IN combining/VBG 
+[ First/NNP Pennsylvania/NNP 's/POS operations/NNS ]
+with/IN 
+[ those/DT ]
+of/IN 
+[ CoreStates/NNP ]
+effectively/RB and/CC to/TO 
+[ the/DT liking/NN ]
+of/IN 
+[ shareholders/NNS ]
+,/, while/IN keeping/VBG 
+[ his/PRP$ promise/NN ]
+on/IN 
+[ layoffs/NNS ]
+./. 
+
+======================================
+
+[ The/DT boldness/NN ]
+of/IN 
+[ Mr./NNP Larsen/NNP 's/POS eleventh-hour/JJ maneuver/NN ]
+illustrates/VBZ how/WRB 
+[ much/JJ the/DT banking/NN community/NN ]
+here/RB has/VBZ changed/VBN in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+Spurred/VBN by/IN 
+[ competition/NN ]
+from/IN 
+[ banks/NNS ]
+in/IN 
+[ Pittsburgh/NNP ]
+and/CC elsewhere/RB ,/, 
+[ Philadelphia/NNP ]
+is/VBZ now/RB viewed/VBN as/IN less/RBR stodgy/JJ and/CC 
+[ provincial/JJ ]
+,/, less/RBR dominated/VBN by/IN 
+[ a/DT few/JJ oldline/NN families/NNS ]
+and/CC 
+[ institutions/NNS ]
+./. 
+
+======================================
+
+Indeed/RB ,/, 
+[ Mr./NNP Larsen/NNP himself/PRP ]
+hardly/RB fits/VBZ 
+[ the/DT city/NN 's/POS traditional/JJ mold/NN ]
+./. 
+
+[ The/DT tall/JJ ]
+,/, 
+[ amiable/JJ chairman/NN ]
+is/VBZ only/RB 
+[ 42/CD years/NNS ]
+old/JJ ./. 
+
+[ He/PRP ]
+favors/VBZ 
+[ loud/JJ ]
+,/, 
+[ green/JJ neckties/NNS ]
+./. 
+
+[ He/PRP ]
+does/VBZ n't/RB even/RB claim/VB 
+[ the/DT predictable/JJ East/NNP Coast/NNP academic/JJ pedigree/NN ]
+of/IN 
+[ Philadelphia/NNP bankers/NNS ]
+./. 
+
+Rather/RB than/IN getting/VBG 
+[ a/DT master/NN 's/POS degree/NN ]
+in/IN 
+[ business/NN administration/NN ]
+from/IN ,/, say/VB ,/, 
+[ Wharton/NNP ]
+and/CC then/RB working/VBG 
+[ his/PRP$ way/NN ]
+up/IN through/IN 
+[ a/DT bank/NN 's/POS credit/NN side/NN ]
+as/IN 
+[ a/DT loan/NN officer/NN ]
+,/, 
+[ Mr./NNP Larsen/NNP ]
+earned/VBD 
+[ a/DT doctorate/NN ]
+in/IN 
+[ economics/NNS ]
+at/IN 
+[ Texas/NNP A&M/NNP University/NNP ]
+./. 
+
+[ He/PRP ]
+was/VBD hired/VBN in/IN 
+[ 1977/CD ]
+as/IN 
+[ an/DT assistant/JJ economist/NN ]
+at/IN 
+[ Philadelphia/NNP National/NNP Bank/NNP ]
+,/, 
+[ which/WDT ]
+later/RB became/VBD 
+[ CoreStates/NNP '/POS principal/JJ operating/VBG unit/NN ]
+./. 
+
+======================================
+
+[ His/PRP$ knack/NN ]
+for/IN 
+[ management/NN ]
+was/VBD soon/RB noticed/VBN by/IN 
+[ top/JJ executives/NNS ]
+./. 
+
+In/IN 
+[ the/DT early/JJ 1980s/CD ]
+,/, 
+[ he/PRP ]
+was/VBD 
+[ part/NN ]
+of/IN 
+[ a/DT special/JJ committee/NN ]
+
+[ that/WDT ]
+worked/VBD on/IN matching/VBG 
+[ the/DT maturities/NNS ]
+on/IN 
+[ the/DT bank/NN 's/POS assets/NNS ]
+,/, such/JJ as/IN 
+[ loans/NNS ]
+and/CC 
+[ investments/NNS ]
+,/, with/IN 
+[ those/DT ]
+of/IN 
+[ its/PRP$ liabilities/NNS ]
+,/, 
+[ which/WDT ]
+include/VBP 
+[ deposits/NNS ]
+and/CC 
+[ borrowings/NNS ]
+./. 
+
+======================================
+
+Even/RB as/IN 
+[ an/DT assistant/NN economist/NN ]
+,/, ``/`` 
+[ he/PRP ]
+had/VBD 
+[ strong/JJ opinions/NNS ]
+on/IN how/WRB 
+[ we/PRP ]
+should/MD handle/VB 
+[ our/PRP$ asset-liability/NN mix/NN ]
+,/, ''/'' recalls/VBZ 
+[ Frederick/NNP Heldring/NNP ]
+,/, 
+[ a/DT retired/VBN vice/NN chairman/NN ]
+
+[ who/WP ]
+was/VBD 
+[ Mr./NNP Larsen/NNP 's/POS boss/NN ]
+during/IN 
+[ the/DT early/JJ 1980s/CD ]
+./. 
+
+Since/IN 
+[ 1983/CD ]
+,/, 
+[ the/DT mix/NN ]
+advocated/VBN by/IN 
+[ Mr./NNP Larsen/NNP ]
+has/VBZ helped/VBN 
+[ boost/VB CoreStates/NNP '/POS earnings/NNS ]
+about/IN 
+[ 70/CD %/NN ]
+./. 
+
+======================================
+
+Now/RB 
+[ Mr./NNP Larsen/NNP ]
+faces/VBZ 
+[ the/DT ]
+even/RB 
+[ bigger/JJR challenge/NN ]
+of/IN blending/VBG 
+[ First/NNP Pennsylvania/NNP operations/NNS ]
+and/CC 
+[ employees/NNS ]
+into/IN 
+[ the/DT CoreStates/NNP organization/NN ]
+./. 
+
+In/IN 
+[ Wall/NNP Street/NNP 's/POS eyes/NNS ]
+,/, 
+[ the/DT agreement/NN ]
+is/VBZ n't/RB 
+[ all/DT roses/NNS ]
+./. 
+
+[ The/DT day/NN ]
+
+[ the/DT pact/NN ]
+was/VBD announced/VBN ,/, 
+[ CoreStates/NNP shares/NNS ]
+fell/VBD 
+[ $/$ 2.125/CD ]
+in/IN 
+[ over-the-counter/JJ ]
+trading/NN ,/, to/TO close/VB at/IN 
+[ $/$ 47.50/CD ]
+./. 
+
+[ The/DT stock/NN ]
+has/VBZ since/IN lost/VBN about/IN 
+[ $/$ 1/CD more/JJR ]
+,/, closing/VBG yesterday/NN at/IN 
+[ $/$ 46.625/CD ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+recognize/VBP that/IN 
+[ any/DT buyer/NN ]
+of/IN 
+[ First/NNP Pennsylvania/NNP ]
+must/MD reckon/VB with/IN 
+[ its/PRP$ ]
+rather/RB 
+[ hefty/JJ portfolio/NN ]
+of/IN 
+[ loans/NNS ]
+to/TO 
+[ developing/VBG countries/NNS ]
+./. 
+
+And/CC 
+[ CoreStates/NNP ]
+has/VBZ acknowledged/VBN that/IN 
+[ the/DT merger/NN ]
+would/MD result/VB in/IN 
+[ some/DT temporary/JJ dilution/NN ]
+of/IN 
+[ per-share/JJ earnings/NNS ]
+./. 
+
+[ Mr./NNP Larsen/NNP ]
+must/MD quickly/RB achieve/VB enough/RB cost-savings/JJ to/TO offset/VB 
+[ that/DT dilution/NN ]
+./. 
+
+[ CoreStates/NNP ]
+predicts/VBZ 
+[ it/PRP ]
+can/MD save/VB 
+[ $/$ 89/CD million/CD ]
+in/IN 
+[ expenses/NNS ]
+during/IN 
+[ the/DT first/JJ 24/CD months/NNS ]
+after/IN 
+[ the/DT proposed/VBN merger/NN ]
+is/VBZ completed/VBN ./. 
+
+======================================
+
+[ Mr./NNP Larsen/NNP ]
+insists/VBZ 
+[ he/PRP ]
+is/VBZ n't/RB eager/JJ to/TO snare/VB 
+[ First/NNP Pennsylvania/NNP ]
+just/RB for/IN 
+[ the/DT sake/NN ]
+of/IN making/VBG 
+[ a/DT deal/NN ]
+./. 
+
+Instead/RB ,/, 
+[ he/PRP ]
+says/VBZ expanding/VBG 
+[ CoreStates/NNP '/POS lending/VBG relationships/NNS ]
+and/CC 
+[ fee-related/JJ services/NNS ]
+are/VBP 
+[ his/PRP$ top/JJ priorities/NNS ]
+./. 
+
+``/`` 
+[ Acquisitions/NNS ]
+are/VBP just/RB used/VBN to/TO support/VB 
+[ these/DT efforts/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT addition/NN ]
+of/IN 
+[ First/NNP Pennsylvania/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN known/VBN best/RB as/IN 
+[ a/DT retail/JJ bank/NN ]
+,/, would/MD boost/VB 
+[ CoreStates/NNP '/POS presence/NN ]
+in/IN 
+[ this/DT market/NN ]
+while/IN keeping/VBG 
+[ fast-growing/JJ Meridian/NNP ]
+from/IN gaining/VBG 
+[ a/DT major/JJ foothold/NN ]
+./. 
+
+Indeed/RB ,/, 
+[ plans/NNS ]
+call/VBP for/IN 
+[ most/JJS branches/NNS ]
+of/IN 
+[ Philadelphia/NNP National/NNP Bank/NNP ]
+to/TO be/VB converted/VBN to/TO 
+[ First/NNP Pennsylvania/NNP offices/NNS ]
+./. 
+
+======================================
+
+[ Philadelphia/NNP National/NNP ]
+,/, meanwhile/RB ,/, would/MD handle/VB 
+[ a/DT wide/JJ range/NN ]
+of/IN 
+[ wholesale/JJ banking/NN activities/NNS ]
+,/, 
+[ everything/NN ]
+from/IN processing/VBG 
+[ checks/NNS ]
+to/TO 
+[ electronic/JJ money/NN transfers/NNS ]
+for/IN 
+[ hundreds/NNS ]
+of/IN 
+[ correspondent/NN banks/NNS ]
+around/IN 
+[ the/DT country/NN ]
+./. 
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ CoreStates/NNP ]
+owns/VBZ 
+[ the/DT MAC/NNP ]
+ (/( 
+[ Money/NNP Access/NNP Center/NNP ]
+ )/) 
+[ system/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT nation/NN 's/POS largest/JJS automated-teller/NN networks/NNS ]
+./. 
+
+[ MAC/NNP ]
+has/VBZ about/IN 
+[ 6,700/CD machines/NNS ]
+used/VBN by/IN 
+[ 16/CD million/CD customers/NNS ]
+of/IN more/RBR than/IN 
+[ 800/CD financial/JJ institutions/NNS ]
+./. 
+
+======================================
+
+Over/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+,/, 
+[ Mr./NNP Larsen/NNP 's/POS management/NN skills/NNS ]
+will/MD be/VB tested/VBN as/IN 
+[ he/PRP ]
+works/VBZ to/TO consolidate/VB 
+[ the/DT two/CD banks/NNS ]
+and/CC tries/VBZ to/TO keep/VB 
+[ promises/NNS ]
+
+[ he/PRP ]
+made/VBD at/IN 
+[ the/DT bargaining/NN table/NN ]
+./. 
+
+[ Fear/NN ]
+that/IN 
+[ layoffs/NNS ]
+would/MD be/VB massive/JJ was/VBD 
+[ a/DT big/JJ obstacle/NN ]
+in/IN 
+[ First/NNP Pennsylvania/NNP 's/POS negotiations/NNS ]
+with/IN 
+[ Meridian/NNP ]
+./. 
+
+======================================
+
+[ Several/JJ years/NNS ]
+ago/IN ,/, 
+[ Mr./NNP Larsen/NNP ]
+won/VBD 
+[ high/JJ marks/NNS ]
+from/IN banking/VBG 
+[ analysts/NNS ]
+for/IN consolidating/VBG 
+[ Hamilton/NNP Bank/NNP ]
+of/IN 
+[ Lancaster/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, and/CC 
+[ New/NNP Jersey/NNP National/NNP Bank/NNP ]
+into/IN 
+[ CoreStates/NNP ]
+in/IN 
+[ the/DT time/NN span/NN ]
+
+[ he/PRP ]
+forecast/VBD ./. 
+
+Yet/RB when/WRB 
+[ CoreStates/NNP ]
+moved/VBD 
+[ some/DT administrative/JJ operations/NNS ]
+to/TO 
+[ Philadelphia/NNP ]
+and/CC to/TO 
+[ Wilmington/NNP ]
+,/, 
+[ Del./NNP ]
+,/, after/IN acquiring/VBG 
+[ Hamilton/NNP Bank/NNP ]
+,/, about/IN 
+[ 265/CD Lancaster/NNP jobs/NNS ]
+eventually/RB were/VBD eliminated/VBN ./. 
+
+======================================
+
+At/IN 
+[ the/DT time/NN ]
+of/IN 
+[ a/DT merger/NN ]
+,/, 
+[ the/DT acquirer/NN ]
+``/`` always/RB says/VBZ 
+[ the/DT new/JJ bank/NN ]
+makes/VBZ 
+[ a/DT good/JJ fit/NN ]
+and/CC 
+[ there/EX ]
+'s/VBZ is/VBZ n't/RB 
+[ too/RB much/JJ ]
+overlap/NN ,/, ''/'' says/VBZ 
+[ a/DT Philadelphia/NNP banker/NN ]
+
+[ who/WP ]
+knows/VBZ 
+[ Mr./NNP Larsen/NNP ]
+./. 
+
+``/`` But/CC 
+[ they/PRP ]
+always/RB have/VBP to/TO let/VB 
+[ people/NNS ]
+go/VB ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Larsen/NNP ]
+says/VBZ 
+[ he/PRP ]
+believes/VBZ that/IN with/IN 
+[ strong/JJ growth/NN ]
+and/CC 
+[ the/DT ]
+traditionally/RB 
+[ high/JJ turnover/NN ]
+of/IN 
+[ employees/NNS ]
+in/IN 
+[ a/DT bank/NN ]
+,/, 
+[ job/NN cuts/NNS ]
+wo/MD n't/RB be/VB needed/VBN ./. 

@@ -1,0 +1,45 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ LOTUS/NNP DEVELOPMENT/NNP Corp./NNP 's/POS net/JJ income/NN ]
+rose/VBD 
+[ 61/CD %/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+from/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+[ Yesterday/NN 's/POS edition/NN ]
+misstated/VBD 
+[ the/DT percentage/NN increase/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Technology/NN ]
+:/: 
+[ Lotus/NNP Development/NNP Posts/VBZ Surge/NNP ]
+of/IN 
+[ 51/CD %/NN ]
+in/IN 
+[ 3rd-Quarter/NNP Profit/NNP ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 19/CD ]
+,/, 
+[ 1989/CD ]

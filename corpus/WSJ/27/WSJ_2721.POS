@@ -1,0 +1,45 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ JACKPOT/NNP ENTERPRISES/NNP Inc./NNP 's/POS revenue/NN ]
+for/IN 
+[ the/DT fiscal/JJ fourth/JJ quarter/NN ] 
+ended/VBN 
+[ June/NNP 30/CD ]
+,/, 
+[ 1988/CD ]
+,/, was/VBD 
+[ $/$ 7,428,000/CD ]
+./. 
+
+[ The/DT amount/NN ]
+was/VBD misstated/VBN in/IN 
+[ Tuesday/NNP 's/POS edition/NN ]
+because/IN of/IN 
+[ a/DT company/NN error/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Jackpot/NNP Enterprises/NNP Net/JJ Income/NN Fell/VBD 25/CD %/NN ]
+in/IN 
+[ Its/PRP$ Fourth/JJ Quarter/NN ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 10/CD ]
+,/, 
+[ 1989/CD ]

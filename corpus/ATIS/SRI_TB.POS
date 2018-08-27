@@ -1,0 +1,6030 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (3/26/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ ma0011sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ this/DT flight/NN ]
+to/TO leave/VB after/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD P.M./RB Dallas/NNP time/NN ]
+./. 
+
+[ I/PRP ]
+would/MD also/RB like/VB 
+[ this/DT ]
+to/TO be/VB by/IN 
+[ coach/NN economy/NN ]
+,/, and/CC 
+[ I/PRP ]
+would/MD like/VB to/TO know/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ the/DT fare/NN ]
+./. 
+
+[ ma0021sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ma0031sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ a/DT flight/NN ]
+
+[ that/WDT ]
+leaves/VBZ after/IN 
+[ noon/NN ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+and/CC arrives/VBZ before/IN 
+[ 7/CD P.M./RB Dallas/NNP time/NN ]
+./. 
+
+[ ma0041sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB one/CD coach/NN economy/NN class/NN seat/NN ]
+on/IN 
+[ United/NNP Airlines/NNPS flight/NN 478/CD ]
+./. 
+
+[ ma0051sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ fare/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+on/IN 
+[ United/NNP Airlines/NNPS ]
+on/IN 
+[ June/NNP 9th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ma0061sx/CD ]
+./. 
+
+Are/VBP 
+[ there/EX ]
+
+[ any/DT first/JJ class/NN seats/NNS ]
+available/JJ on/IN 
+[ UA/NNP flight/NN 658/CD ]
+on/IN 
+[ that/DT date/NN ]
+?/. 
+
+[ ma0071sx/CD ]
+./. 
+
+All/RB right/JJ ,/, 
+[ I/PRP ]
+'d/MD like/VB 
+[ one/CD ]
+,/, 
+[ one-way/JJ fare/NN ]
+then/RB ,/, first/JJ 
+[ class/NN ]
+,/, on/IN 
+[ flight/NN 658/CD ]
+,/, from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+./. 
+
+[ ma0081sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO now/RB make/VB 
+[ another/DT reservation/NN ]
+,/, 
+[ the/DT same/JJ date/NN ]
+,/, 
+[ June/NNP 9th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, but/CC 
+[ a/DT one-way/JJ ]
+from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+./. 
+
+[ ma0091sx/CD ]
+./. 
+
+[ Which/WDT ]
+of/IN 
+[ these/DT flights/NNS ]
+has/VBZ 
+[ the/DT cheapest/JJS fare/NN ]
+possible/JJ ?/. 
+
+[ ma00a1sx/CD ]
+./. 
+
+[ What/WDT type/NN ]
+of/IN 
+[ fare/NN ]
+is/VBZ 
+[ class/NN B/NNP ]
+?/. 
+
+[ ma00b1sx/CD ]
+./. 
+
+Are/VBP there/RB 
+[ any/DT restrictions/NNS ]
+or/CC 
+[ conditions/NNS ]
+for/IN 
+[ class/NN B/NNP fares/NNS ]
+?/. 
+
+[ ma00c1sx/CD ]
+./. 
+
+Since/IN 
+[ you/PRP ]
+ca/MD n't/RB give/VB 
+[ me/PRP ]
+that/DT 
+[ information/NN ]
+why/WRB do/VBP n't/RB 
+[ I/PRP ]
+just/RB go/VB ahead/RB and/CC book/VB 
+[ one/CD fare/NN ]
+,/, 
+[ one-way/JJ ]
+,/, 
+[ class/NN B/NNP service/NN ]
+,/, on/IN 
+[ Delta/NNP flight/NN 430/CD ]
+./. 
+
+[ ma00d1sx/CD ]
+./. 
+
+[ I/PRP ]
+'m/VBP interested/JJ in/IN booking/VBG|NN 
+[ a/DT one-way/JJ flight/NN ]
+on/IN 
+[ June/NNP 9th/JJ ]
+,/, 
+[ 1991/CD ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+./. 
+
+[ ma00e1sx/CD ]
+./. 
+
+[ What/WDT type/NN ]
+of/IN 
+[ airplane/NN ]
+is/VBZ offered/VBN on/IN 
+[ these/DT flights/NNS ]
+?/. 
+
+[ ma00f1sx/CD ]
+./. 
+
+[ Which/WDT ]
+of/IN 
+[ these/DT aircraft/NN types/NNS ]
+carries/VBZ 
+[ the/DT fewest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+?/. 
+
+[ ma00g1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+
+[ the/DT meal/NN service/NN ]
+on/IN 
+[ flight/NN 975/CD ]
+please/UH ?/. 
+
+[ ma00h1sx/CD ]
+./. 
+
+Does/VBZ 
+[ flight/NN 975/CD ]
+serve/VB 
+[ dinner/NN ]
+?/. 
+
+[ ma00i1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT cost/NN ]
+of/IN 
+[ a/DT one-way/JJ fare/NN ]
+on/IN 
+[ flight/NN 975/CD ]
+?/. 
+
+[ ma00j1sx/CD ]
+./. 
+
+Are/VBP there/RB 
+[ any/DT restrictions/NNS ]
+on/IN 
+[ the/DT $/NNS 80/CD fare/NN ]
+?/. 
+
+[ ma00k1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ return/NN minimum/NN 3/CD mean/VB ]
+?/. 
+
+[ ma00l1sx/CD ]
+./. 
+
+[ Okay/UH ]
+,/, fine/UH ,/, please/UH book/VB 
+[ me/PRP ]
+
+[ one/CD ]
+,/, 
+[ one-way/JJ ticket/NN ]
+,/, at/IN 
+[ the/DT $/NNS 80/CD price/NN ]
+,/, 
+[ flight/NN 975/CD ]
+./. 
+
+[ mb0011sx/CD ]
+./. 
+
+[ Hello/UH ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ which/WDT ]
+should/MD be/VB just/RB 
+[ a/DT one-way/JJ flight/NN ]
+,/, 
+[ which/WDT ]
+should/MD leave/VB sometime/RB after/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD ]
+./. 
+
+Could/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+
+[ what/WDT kind/NN ]
+of/IN 
+[ flights/NNS you/PRP ]
+have/VBP on/IN 
+[ coach/NN ]
+?/. 
+
+[ mb0021sx/CD ]
+./. 
+
+[ What/WDT ]
+flights/VBZ do/VBP 
+[ you/PRP ]
+have/VB from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+?/. 
+
+[ mb0031sx/CD ]
+./. 
+
+[ Which/WDT ]
+of/IN 
+[ these/DT flights/NNS ]
+leaves/VBZ after/IN 
+[ noon/NN ]
+,/, please/UH ?/. 
+
+[ mb0041sx/CD ]
+./. 
+
+[ Which/WDT ]
+of/IN 
+[ the/DT last/JJ flights/NNS ]
+will/MD be/VB in/IN 
+[ service/NN February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+?/. 
+
+[ mb0051sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+arrive/VBP before/IN 
+[ 7/CD P.M./RB ]
+?/. 
+
+[ mb0061sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+on/IN 
+[ United/NNP Airlines/NNPS 478/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, 
+[ economy/NN class/NN ]
+,/, please/UH ./. 
+
+[ mb0071sx/CD ]
+./. 
+
+Please/UH 
+[ list/VB Delta/NNP Airlines/NNPS flights/NNS ]
+from/IN 
+[ Dallas\/Fort/NNP Worth/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, please/UH ./. 
+
+[ mb0081sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ round-trip/JJ ]
+,/, please/UH ,/, on/IN 
+[ Delta/NNP Airlines/NNPS number/NN 149/CD ]
+,/, from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ mb0091sx/CD ]
+./. 
+
+[ Sorry/UH ]
+,/, please/UH reserve/VB 
+[ a/DT round-trip/JJ ]
+,/, 
+[ first/JJ class/NN fare/NN ]
+,/, on/IN 
+[ Delta/NNP Airlines/NNPS number/NN 149/CD ]
+,/, from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, on/IN 
+[ December/NNP 2nd/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mb00a1sx/CD ]
+./. 
+
+Please/UH 
+[ list/VB flights/NNS ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ mb00b1sx/CD ]
+./. 
+
+[ May/MD I/PRP ]
+have/VB 
+[ round-trip/JJ fares/NNS ]
+for/IN 
+[ the/DT above/JJ flights/NNS ]
+please/UH ?/. 
+
+[ mb00c1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ AP\/NN ]
+mean/VB ,/, please/UH ?/. 
+
+[ mb00d1sx/CD ]
+./. 
+
+Please/UH 
+[ book/VB ]
+
+[ a/DT round-trip/JJ ticket/NN ]
+for/IN 
+[ me/PRP ]
+on/IN 
+[ USAir/NNP ]
+./. 
+
+[ mb00e1sx/CD ]
+./. 
+
+Will/MD 
+[ you/PRP ]
+list/VB 
+[ the/DT fares/NNS ]
+according/VBG to/TO 
+[ flight/NN number/NN ]
+please/UH ?/. 
+
+[ mb00f1sx/CD ]
+./. 
+
+[ All/RB right/JJ ]
+,/, please/UH book/VB 
+[ me/PRP ]
+
+[ a/DT fare/NN ]
+on/IN 
+[ USAir/NNP number/NN 31/CD ]
+for/IN 
+[ $/NNS 358/CD ]
+./. 
+
+That/DT 
+[ 's/VBZ economy/NN class/NN ]
+,/, leaving/VBG on/IN 
+[ December/NNP 2nd/JJ ]
+,/, 
+[ 1990/CD ]
+,/, returning/VBG on/IN 
+[ December/NNP 6th/JJ ]
+,/, 
+[ 1990/CD ]
+,/, thank/UH 
+[ you/PRP ]
+./. 
+
+[ mb00g1sx/CD ]
+./. 
+
+Hi/UH ,/, will/MD 
+[ you/PRP ]
+list/VB 
+[ flights/NNS ]
+for/IN 
+[ me/PRP ]
+between/IN 
+[ Boston/NNP ]
+and/CC 
+[ San/NNP Francisco/NNP ]
+
+[ that/WDT ]
+leave/VBP 
+[ Boston/NNP ]
+sometime/RB between/IN 
+[ midnight/NN ]
+and/CC 
+[ four/CD ]
+o'clock/RB in/IN 
+[ the/DT morning/NN ]
+?/. 
+
+[ mb00h1sx/CD ]
+./. 
+
+[ Okay/UH ]
+,/, please/UH 
+[ list/VB flights/NNS ]
+between/IN 
+[ Boston/NNP ]
+and/CC 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ mb00i1sx/CD ]
+./. 
+
+Please/UH 
+[ book/VB ]
+
+[ a/DT round-trip/JJ fare/NN ]
+for/IN 
+[ me/PRP ]
+on/IN 
+[ CO/NNP ]
+,/, 
+[ flight/NN number/NN 1765/CD ]
+,/, from/IN 
+[ Boston/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, leaving/VBG 
+[ December/NNP 2nd/JJ ]
+,/, and/CC returning/VBG on/IN 
+[ December/NNP 6th/JJ ]
+,/, 
+[ first/JJ class/NN ]
+,/, please/UH ./. 
+
+[ mc0011sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG after/IN 
+[ noon/NN ]
+and/CC arriving/VBG before/IN 
+[ 7/CD ]
+o'clock/RB ,/, in/IN 
+[ economy/NN ]
+./. 
+
+[ mc0021sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, please/UH ./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ it/PRP ]
+on/IN 
+[ United/NNP Airlines/NNPS ]
+,/, for/IN 
+[ one/CD person/NN ]
+,/, 
+[ flight/NN 478/CD ]
+,/, leaving/VBG 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas\/Fort/NNP Worth/NNP ]
+,/, at/IN 
+[ 1240/CD ]
+and/CC arriving/VBG at/IN 
+[ Dallas\/Fort/NNP Worth/NNP ]
+at/IN 
+[ 1808/CD ]
+./. 
+
+[ mc0031sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, please/UH ,/, for/IN 
+[ one/CD person/NN ]
+,/, flying/VBG 
+[ United/NNP Airlines/NNPS ]
+on/IN 
+[ flight/NN 478/CD ]
+,/, 
+[ coach/NN economy/NN ]
+,/, 
+[ Wednesday/NNP ]
+,/, 
+[ November/NNP 14th/JJ ]
+./. 
+
+[ mc0041sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, please/UH ,/, 
+[ United/NNP Airlines/NNPS flight/NN 478/CD ]
+,/, for/IN 
+[ one/CD person/NN ]
+,/, 
+[ coach/NN economy/NN ]
+,/, departing/VBG from/IN 
+[ San/NNP Francisco/NNP ]
+at/IN 
+[ 1240/CD ]
+,/, arriving/VBG 
+[ Dallas\/Fort/NNP Worth/NNP ]
+at/IN 
+[ 1808/CD ]
+,/, on/IN 
+[ November/NNP 14th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mc0051sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ some/DT information/NN ]
+./. 
+
+[ I/PRP ]
+have/VBP 
+[ three/CD flights/NNS ]
+:/: 
+[ first/JJ class/NN ]
+from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ Boston/NNP ]
+on/IN 
+[ Delta/NNP Airlines/NNPS ]
+on/IN 
+[ November/NNP 14th/JJ ]
+;/: 
+[ I/PRP ]
+would/MD like/VB to/TO have/VB 
+[ one/CD ]
+
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ least/RBS expensive/JJ ]
+,/, on/IN 
+[ the/DT same/JJ day/NN ]
+;/: and/CC 
+[ a/DT Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, on/IN 
+[ the/DT same/JJ day/NN ]
+,/, with/IN 
+[ the/DT fewest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+,/, please/UH ./. 
+
+[ mc0061sx/CD ]
+./. 
+
+[ Inquiry/NN ]
+:/: 
+[ first/JJ class/NN travel/NN arrangements/NNS ]
+,/, 
+[ Delta/NNP Airlines/NNPS ]
+,/, from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, please/UH ./. 
+
+[ mc0071sx/CD ]
+./. 
+
+[ Inquiry/NN ]
+:/: 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ least/RBS expensive/JJ ]
+./. 
+
+[ mc0081sx/CD ]
+./. 
+
+[ Inquiry/NN ]
+:/: 
+[ flight/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+with/IN 
+[ the/DT least/RBS ] 
+booked/VBN for/IN 
+[ passengers/NNS ]
+./. 
+
+[ mc0091sx/CD ]
+./. 
+
+[ Inquiry/NN ]
+:/: 
+[ flight/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ first/JJ class/NN ]
+,/, please/UH ./. 
+
+[ mc00a1sx/CD ]
+./. 
+
+[ Inquiry/NN ]
+:/: Is/VBZ there/EX 
+[ a/DT more/RBR luxurious/JJ flight/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+than/IN 
+[ first/JJ class/NN ]
+?/. 
+
+[ mc00b1sx/CD ]
+./. 
+
+[ What/WP ]
+are/VBP 
+[ the/DT classes/NNS ]
+of/IN 
+[ service/NN ]
+?/. 
+
+[ mc00c1sx/CD ]
+./. 
+
+[ Return/VB ]
+to/TO 
+[ first/JJ inquiry/NN ]
+./. 
+
+[ mc00d1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ one/CD person/NN ]
+,/, 
+[ first/JJ class/NN ]
+,/, on/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, on/IN 
+[ November/NNP 14th/JJ ]
+./. 
+
+[ mc00e1sx/NN ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ the/DT flight/NN number/NN ]
+and/CC 
+[ times/NNS ]
+for/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, 
+[ Dallas/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mc00f1sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ the/DT flight/NN number/NN ]
+for/IN 
+[ the/DT confirmation/NN ]
+./. 
+
+[ mc00g1sx/CD ]
+./. 
+
+Cancel/VB 
+[ booking/NN|VBG ]
+on/IN 
+[ November/NNP 14th/JJ ]
+for/IN 
+[ one/CD first/JJ class/NN ]
+,/, on/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, from/IN 
+[ Dallas/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mc00h1sx/CD ]
+./. 
+
+[ Booking/VBG|NN flight/NN 128/CD ]
+,/, 
+[ one/CD person/NN ]
+./. 
+
+[ mc00i1sx/CD ]
+./. 
+
+[ Flight/NN number/NN ]
+,/, from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ coach/NN economy/NN night/NN service/NN ]
+./. 
+
+[ mc00j1sx/CD ]
+./. 
+
+[ Flight/NN ]
+,/, 
+[ coach/NN economy/NN class/NN ]
+,/, 
+[ night/NN service/NN ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mc00k1sx/CD ]
+./. 
+
+[ Book/VB US/NNP ]
+
+[ Airlines/NNPS flight/NN 14/CD ]
+for/IN 
+[ one/CD ]
+./. 
+
+[ mc00l1sx/CD ]
+./. 
+
+[ USAir/NNP ]
+,/, 
+[ flight/NN number/NN 14/CD ]
+./. 
+
+[ It/PRP ]
+
+[ 's/VBZ coach/NN ]
+,/, 
+[ night/NN service/NN ]
+,/, 
+[ November/NNP 14th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mc00m1sx/CD ]
+./. 
+
+[ Book/VB flight/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, on/IN 
+[ November/NNP 14th/JJ ]
+,/, 
+[ afternoon/NN ]
+,/, on/IN 
+[ premium/JJ ]
+./. 
+
+[ mc00n1sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT flight/NN ]
+,/, for/IN 
+[ one/CD ]
+,/, 
+[ flight/NN 1220/CD ]
+,/, 
+[ November/NNP 14th/JJ ]
+,/, departing/VBG at/IN 
+[ 1605/CD ]
+./. 
+
+[ md0011sx/CD ]
+./. 
+
+[ Hello/UH ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB 
+[ some/DT information/NN ]
+,/, please/UH ./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT name/NN ]
+of/IN 
+[ an/DT airline/NN ]
+?/. 
+
+[ md0021sx/CD ]
+./. 
+
+[ I/PRP ]
+'m/VBP interested/JJ in/IN booking/VBG|NN 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG after/IN 
+[ noon/NN ]
+arriving/VBG before/IN 
+[ 7/CD ]
+o'clock/RB ,/, and/CC 
+[ flying/VBG coach/NN economy/NN class/NN ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ the/DT name/NN ]
+of/IN 
+[ an/DT airline/NN ]
+
+[ that/WDT ]
+would/MD give/VB 
+[ me/PRP ]
+such/PDT 
+[ a/DT service/NN ]
+./. 
+
+[ md0031sx/CD ]
+./. 
+
+Thank/UH 
+[ you/PRP ]
+./. 
+
+[ I/PRP ]
+'d/MD also/RB like/VB to/TO know/VB 
+[ what/WDT days/NNS they/PRP ]
+fly/VBP ./. 
+
+[ md0041sx/CD ]
+./. 
+
+Could/MD 
+[ you/PRP ]
+also/RB tell/VB 
+[ me/PRP ]
+
+[ which/WDT ]
+of/IN 
+[ these/DT days/NNS ]
+would/MD be/VB 
+[ the/DT most/RBS economical/JJ fare/NN ]
+?/. 
+
+[ md0051sx/CD ]
+./. 
+
+Could/MD 
+[ you/PRP ]
+please/UH give/VB 
+[ me/PRP ]
+
+[ a/DT time/NN ]
+and/CC 
+[ a/DT flight/NN number/NN ]
+for/IN 
+[ Monday/NNP ]
+through/IN 
+[ Sunday/NNP ]
+?/. 
+
+[ md0061sx/CD ]
+./. 
+
+On/IN 
+[ Monday/NNP ]
+,/, 
+[ January/NNP 1st/JJ ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB 
+[ a/DT flight/NN number/NN ]
+for/IN 
+[ any/DT flight/NN ]
+going/VBG from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG after/IN 
+[ noon/NN ]
+and/CC arriving/VBG before/IN 
+[ 7/CD ]
+o'clock/RB ,/, and/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ the/DT specific/JJ times/NNS ]
+please/UH ./. 
+
+[ md0071sx/CD ]
+./. 
+
+Thank/UH 
+[ you/PRP ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB flight/NN number/NN 478/CD ]
+on/IN 
+[ United/NNP Airlines/NNPS ]
+,/, leaving/VBG from/IN 
+[ San/NNP Francisco/NNP ]
+,/, arriving/VBG at/IN 
+[ Dallas/NNP Airport/NNP ]
+,/, departing/VBG 
+[ 1240/CD ]
+and/CC arriving/VBG 
+[ 1808/CD ]
+./. 
+
+Thank/UH 
+[ you/PRP ]
+./. 
+
+[ md0081sx/CD ]
+./. 
+
+[ Hello/UH ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO get/VB 
+[ some/DT information/NN ]
+please/UH ./. 
+
+[ md0091sx/CD ]
+./. 
+
+[ Hello/UH ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB 
+[ some/DT information/NN ]
+please/UH ./. 
+
+[ I/PRP ]
+'m/VBP interested/JJ in/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, leaving/VBG on/IN 
+[ Monday/NNP ]
+,/, 
+[ January/NNP 1st/JJ ]
+,/, from/IN 
+[ Washington/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, traveling/VBG 
+[ first/JJ class/NN ]
+./. 
+
+[ What/WP ]
+do/VBP 
+[ you/PRP ]
+have/VB 
+[ available/JJ ]
+?/. 
+
+[ md00a1sx/CD ]
+./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT fares/NNS ]
+,/, please/UH ,/, for/IN 
+[ flight/NN number/NN 743/CD ]
+and/CC 
+[ flight/NN number/NN 1028/CD ]
+,/, thank/UH 
+[ you/PRP ]
+./. 
+
+[ md00b1sx/CD ]
+./. 
+
+[ Hello/UH ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB 
+[ some/DT information/NN ]
+please/UH ./. 
+
+Could/MD 
+[ you/PRP ]
+give/VB 
+[ me/PRP ]
+
+[ the/DT airline/NN numbers/NNS ]
+of/IN 
+[ a/DT flight/NN ]
+flying/VBG from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, 
+[ economy/NN ]
+,/, for/IN 
+[ Monday/NNP ]
+,/, 
+[ January/NNP 1st/JJ ]
+?/. 
+
+[ md00c1sx/CD ]
+./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT lowest/JJS cost/NN ]
+on/IN 
+[ either/DT ]
+of/IN 
+[ the/DT airlines/NNS ]
+for/IN 
+[ a/DT round-trip/JJ ticket/NN ]
+for/IN 
+[ January/NNP 1st/JJ ]
+?/. 
+
+[ md00d1sx/CD ]
+./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT flight/NN number/NN ]
+for/IN 
+[ a/DT round-trip/JJ ticket/NN ]
+,/, from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, on/IN 
+[ American/NNP Airlines/NNPS ]
+,/, for/IN 
+[ January/NNP 1st/JJ ]
+,/, please/UH ?/. 
+
+[ md00e1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ the/DT number/NN ]
+,/, 
+[ flight/NN ]
+./. 
+
+[ md00f1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ the/DT flight/NN number/NN ]
+of/IN 
+[ a/DT flight/NN ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, 
+[ round-trip/JJ ]
+,/, on/IN 
+[ January/NNP 1st/JJ ]
+,/, from/IN 
+[ a/DT plane/NN ]
+
+[ that/WDT ]
+carries/VBZ 
+[ the/DT fewest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+./. 
+
+[ md00g1sx/CD ]
+./. 
+
+On/IN 
+[ UA/NNP flight/NN number/NN 438/CD ]
+,/, 
+[ UA/NNP flight/NN number/NN 450/CD ]
+,/, 
+[ UA/NNP flight/NN number/NN 664/CD ]
+,/, 
+[ UA/NNP flight/NN number/NN 880/CD ]
+,/, and/CC 
+[ UA/NNP flight/NN number/NN 888/CD ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO know/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT aircraft/NN ]
+,/, please/UH ./. 
+
+[ md00h1sx/CD ]
+./. 
+
+Of/IN 
+[ the/DT five/CD different/JJ airline/NN flight/NN numbers/NNS ]
+
+[ which/WDT ]
+
+[ you/PRP ]
+have/VBP just/, listed/VBN for/IN 
+[ me/PRP ]
+,/, could/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+
+[ which/WDT ]
+
+[ one/NN ]
+carries/VBZ 
+[ the/DT fewest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+?/. 
+
+[ md00i1sx/CD ]
+./. 
+
+Of/IN 
+[ the/DT five/CD airline/NN flight/NN numbers/NNS ]
+
+[ which/WDT ]
+
+[ you/PRP ]
+'ve/VBP just/RB listed/VBN for/IN 
+[ me/PRP ]
+,/, could/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+
+[ the/DT airline/NN flight/NN number/NN ]
+
+[ which/WDT ]
+has/VBZ 
+[ the/DT least/JJS amount/NN ]
+of/IN 
+[ passengers/NNS ]
+booked/VBN at/IN 
+[ this/DT time/NN ]
+?/. 
+
+[ me0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO know/VB 
+[ what/WDT ]
+flights/NNS 
+[ there/EX ]
+are/VBP from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, before/IN 
+[ noon/NN ]
+,/, leaving/VBG 
+[ San/NNP Francisco/NNP ]
+before/IN 
+[ noon/NN ]
+,/, arriving/VBG at/IN 
+[ Dallas/NNP ]
+before/IN 
+[ 7/CD P.M./RB ]
+,/, flying/VBG 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ me0021sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ flight/NN ]
+,/, 
+[ United/NNP Airlines/NNPS 478/CD ]
+,/, flying/VBG 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ me0031sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO know/VB of/IN 
+[ Delta/NNP Airline/NNPS flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ first/JJ class/NN travel/NN arrangements/NNS ]
+,/, please/UH ./. 
+
+[ me0041sx/CD ]
+./. 
+
+And/CC 
+[ I/PRP ]
+would/MD like/VB to/TO know/VB of/IN 
+[ economy/NN flights/NNS ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Fort/NNP Worth/NNP ]
+./. 
+
+[ me0051sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD also/RB like/VB to/TO know/VB of/IN 
+[ planes/NNS ]
+leaving/VBG 
+[ Pittsburgh/NNP ]
+,/, going/VBG to/TO 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ that/WDT ]
+are/VBP 
+[ the/DT smallest/JJS size/NN planes/NNS ]
+
+[ that/WDT ]
+take/VBP 
+[ passengers/NNS ]
+,/, please/UH ./. 
+
+[ me0061sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO make/VB 
+[ reservations/NNS ]
+on/IN 
+[ Delta/NNP Airlines/NNPS number/NN 661/CD ]
+,/, leaving/VBG 
+[ Denver/NNP 1955/CD ]
+,/, arriving/VBG 
+[ Fort/NNP Worth/NNP 2240/CD ]
+./. 
+
+[ Another/DT reservation/NN ]
+,/, that/WDT 
+[ 's/VBZ first/JJ class/NN ]
+,/, on/IN 
+[ 661/CD ]
+./. 
+
+[ Another/DT reservation/NN ]
+on/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, 
+[ number/NN 589/CD ]
+,/, leaving/VBG 
+[ Boston/NNP ]
+./. 
+
+[ me0071sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ the/DT code/NN ]
+on/IN 
+[ airline/NN ]
+
+[ US/PRP ]
+stand/VB for/IN ?/. 
+
+[ me0081sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO make/VB 
+[ three/CD reservations/NNS ]
+./. 
+
+[ The/DT first/JJ reservation/NN ]
+is/VBZ 
+[ class/NN F/NNP ]
+,/, on/IN 
+[ Delta/NNP flight/NN number/NN 661/CD ]
+,/, leaving/VBG 
+[ Denver/NNP 1955./CD ]
+arriving/VBG at/IN 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ 2240/CD ]
+,/, 
+[ flight/NN number/NN 589/CD ]
+,/, 
+[ class/NN Q/NNP ]
+,/, also/RB 
+[ Delta/NNP ]
+,/, leaving/VBG 
+[ Boston/NNP 1721/CD ]
+,/, arriving/VBG 
+[ Fort/NNP Worth/NNP 2140/CD ]
+,/, and/CC 
+[ flight/NN number/NN 19/CD ]
+,/, 
+[ USAir/NNP ]
+,/, 
+[ coach/NN ]
+,/, leaving/VBG 
+[ Pittsburgh/NNP ]
+,/, 
+[ 2020/CD ]
+,/, arriving/VBG 
+[ Fort/NNP Worth/NNP 2229/CD ]
+./. 
+
+[ me0091sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ Delta/NNP flight/NN number/NN 661/CD ]
+,/, leaving/VBG 
+[ Denver/NNP ]
+at/IN 
+[ 1955/CD ]
+,/, arriving/VBG at/IN 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ 2240/CD ]
+,/, 
+[ class/NN F/NNP ]
+./. 
+
+[ me00a1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ Delta/NNP ]
+,/, 
+[ flight/NN number/NN 661/CD ]
+,/, 
+[ class/NN F/NNP ]
+,/, 
+[ November/NNP 30th/JJ ]
+./. 
+
+[ me00b1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ USAir/NNP ]
+,/, 
+[ flight/NN number/NN 19/CD ]
+,/, 
+[ class/NN Y/NNP ]
+,/, on/IN 
+[ November/NNP 30th/JJ ]
+,/, please/UH ./. 
+
+[ mf0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'m/VBP making/VBG 
+[ flight/NN arrangements/NNS ]
+for/IN 
+[ a/DT flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG after/IN 
+[ noon/NN ]
+./. 
+
+[ mf0021sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNPS flight/NN 478/CD ]
+,/, departing/VBG from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas\/Fort/NNP Worth/NNP ]
+,/, and/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ coach/NN economy/NN class/NN ]
+,/, and/CC 
+[ I/PRP ]
+would/MD like/VB 
+[ it/PRP ]
+to/TO leave/VB on/IN 
+[ Tuesday/NNP ]
+,/, 
+[ November/NNP 26th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mf0031sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ travel/NN arrangements/NNS ]
+for/IN 
+[ three/CD people/NNS ]
+./. 
+
+[ The/DT first/LS ]
+will/MD be/VB 
+[ first/JJ class/NN arrangements/NNS ]
+on/IN 
+[ Delta/NNP Airlines/NNPS ]
+./. 
+
+[ She/PRP ]
+will/MD be/VB leaving/VBG 
+[ Dallas\/Fort/NNP Worth/NNP ]
+and/CC arriving/VBG in/IN 
+[ Washington/NNP DC/NNP ]
+on/IN 
+[ November/NNP 27th/JJ ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ Thursday/NNP ]
+./. 
+
+[ The/DT second/LS ]
+will/MD be/VB 
+[ first/JJ class/NN ]
+also/RB ./. 
+
+[ mf0041sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ flight/NN arrangements/NNS ]
+for/IN 
+[ three/CD people/NNS ]
+./. 
+
+[ The/DT first/LS ]
+will/MD be/VB 
+[ first/JJ class/NN trip/NN ]
+,/, leaving/VBG from/IN 
+[ Dallas\/Fort/NNP Worth/NNP ]
+and/CC arriving/VBG in/IN 
+[ Washington/NNP DC/NNP ]
+,/, on/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, if/IN 
+[ possible/JJ ]
+,/, on/IN 
+[ November/NNP 27th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ The/DT second/LS ]
+will/MD be/VB in/IN 
+[ economy/NN class/NN ]
+,/, leaving/VBG 
+[ Philadelphia/NNP ]
+and/CC arriving/VBG 
+[ Washington/NNP DC/NNP ]
+,/, on/IN 
+[ November/NNP 27th/JJ ]
+./. 
+
+And/CC 
+[ the/DT third/LS ]
+,/, if/IN 
+[ we/PRP ]
+could/MD have/VB 
+[ the/DT flight/NN ]
+with/IN 
+[ the/DT fewest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+,/, leaving/VBG 
+[ Atlanta/NNP ]
+to/TO 
+[ Washington/NNP ]
+on/IN 
+[ November/NNP 27th/JJ ]
+./. 
+
+[ mf0051sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ flight/NN arrangements/NNS ]
+for/IN 
+[ one/CD person/NN ]
+,/, on/IN 
+[ Delta/NNP Airlines/NNPS ]
+,/, 
+[ first/JJ class/NN ]
+,/, leaving/VBG 
+[ Dallas\/Fort/NNP Worth/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+,/, and/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ it/PRP ]
+to/TO arrive/VB possibly/RB in/IN 
+[ the/DT afternoon/NN ]
+,/, around/RB 
+[ 2/CD ]
+o'clock/RB ,/, on/IN 
+[ November/NNP 27th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mf0061sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB flight/NN 430/CD ]
+on/IN 
+[ Delta/NNP Airlines/NNPS ]
+for/IN 
+[ one/CD person/NN ]
+./. 
+
+[ mf0071sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT reservation/NN ]
+for/IN 
+[ one/CD person/NN ]
+,/, 
+[ economy/NN flight/NN ]
+,/, leaving/VBG from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+./. 
+
+[ mf0081sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ an/DT economy/NN flight/NN ]
+
+[ that/WDT ]
+leaves/VBZ 
+[ Philadelphia/NNP ]
+and/CC arrives/VBZ in/IN 
+[ Washington/NNP November/NNP 27th/JJ ]
+,/, in/IN 
+[ the/DT afternoon/NN ]
+./. 
+
+[ mf0091sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ an/DT economy/NN flight/NN ]
+
+[ that/WDT ]
+leaves/VBZ 
+[ Philadelphia/NNP ]
+and/CC arrives/VBZ in/IN 
+[ Washington/NNP ]
+,/, 
+[ November/NNP 27th/JJ ]
+,/, in/IN 
+[ the/DT afternoon/NN ]
+./. 
+
+[ mf00a1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB flight/NN number/NN 4517/CD ]
+,/, for/IN 
+[ one/CD person/NN ]
+,/, 
+[ economy/NN coach/NN ]
+./. 
+
+[ mf00b1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+for/IN 
+[ one/CD person/NN ]
+,/, leaving/VBG 
+[ Atlanta/NNP ]
+arriving/VBG in/IN 
+[ Washington/NNP ]
+,/, 
+[ November/NNP 27th/JJ ]
+,/, and/CC 
+[ I/PRP ]
+would/MD like/VB 
+[ this/DT ]
+to/TO be/VB on/IN 
+[ a/DT plane/NN ]
+with/IN 
+[ the/DT fewest/JJS passengers/NNS ]
+possible/JJ ./. 
+
+[ mf00c1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB flight/NN number/NN 208/CD ]
+leaving/VBG 
+[ Atlanta/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+./. 
+
+[ mg0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+./. 
+
+Like/VB to/TO leave/VB after/IN 
+[ noon/NN ]
+but/CC arrive/VB before/IN 
+[ 7/CD P.M/RB ]
+./. 
+
+And/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ it/PRP ]
+on/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mg0021sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG at/IN 
+[ 1240/CD ]
+and/CC arriving/VBG at/IN 
+[ 1808/CD ]
+,/, and/CC 
+[ it/PRP ]
+'s/VBZ flying/VBG 
+[ coach/NN economy/NN class/NN ]
+,/, and/CC 
+[ it/PRP ]
+'s/VBZ 
+[ United/NNP flight/NN 478/CD ]
+./. 
+
+And/CC 
+[ I/PRP ]
+'d/MD also/RB like/VB to/TO know/VB 
+[ what/WP ]
+'s/VBZ 
+[ the/DT cost/NN ]
+of/IN 
+[ this/DT one-way/JJ flight/NN ]
+./. 
+
+[ mg0031sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ the/DT reservation/NN ]
+with/IN 
+[ United/NNP flight/NN 478/CD ]
+./. 
+
+[ It/PRP ]
+should/MD be/VB 
+[ coach/NN class/NN ]
+and/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ it/PRP ]
+to/TO leave/VB on/IN 
+[ November/NNP ]
+
+[ the/DT 28th/JJ ]
+./. 
+
+[ mg0041sx/CD ]
+./. 
+
+Could/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+how/WRB much/RB 
+[ the/DT one-way/JJ fare/NN costs/VBZ ]
+?/. 
+
+[ mg0051sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP to/TO understand/VB 
+[ what/WP ]
+
+[ the/DT restrictions/NNS ]
+are/VBP ,/, 
+[ what/WP ]
+
+[ VU\/1/CD means/VBZ ]
+./. 
+
+[ mg0061sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+very/RB much/RB ./. 
+
+[ mg0071sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT first/JJ class/NN reservation/NN ]
+,/, for/IN 
+[ one/CD person/NN ]
+,/, for/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, on/IN 
+[ a/DT Delta/NNP flight/NN ]
+./. 
+
+[ mg0081sx/CD ]
+./. 
+
+Like/VB to/TO make/VB 
+[ reservations/NNS ]
+for/IN ,/, 
+[ one/CD person/NN ]
+,/, 
+[ round-trip/JJ ]
+,/, on/IN 
+[ Delta/NNP 98/CD ]
+,/, 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, leaves/VBZ at/IN 
+[ 815/CD ]
+,/, gets/VBZ in/IN at/IN 
+[ 1540/CD ]
+./. 
+
+Also/RB like/IN to/TO make/VB 
+[ arrangements/NNS ]
+for/IN 
+[ a/DT vegetarian/JJ meals/NNS ]
+
+[ that/WDT ]
+are/VBP served/VBN on/IN 
+[ this/DT flight/NN ]
+./. 
+
+[ mg0091sx/CD ]
+./. 
+
+Like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ Delta/NNP 98/CD ]
+,/, 
+[ first/JJ class/NN ]
+,/, leaving/VBG on/IN 
+[ November/NNP ]
+
+[ the/DT 22nd/CD ]
+,/, and/CC returning/VBG 
+[ December/NNP ]
+
+[ the/DT 1st/CD ]
+./. 
+
+And/CC also/RB make/VB 
+[ arrangements/NNS ]
+for/IN 
+[ vegetarian/JJ meals/NNS ]
+on/IN 
+[ those/DT flights/NNS ]
+./. 
+
+[ mg00a1sx/CD ]
+./. 
+
+Let/VB 
+[ 's/PRP ]
+just/RB try/VB making/VBG 
+[ the/DT reservation/NN ]
+on/IN 
+[ Delta/NNP 98/CD ]
+,/, 
+[ first/JJ class/NN ]
+,/, leaving/VBG on/IN 
+[ November/NNP ]
+
+[ the/DT 22nd/CD ]
+,/, and/CC returning/VBG on/IN 
+[ November/NNP ]
+
+[ the/DT 29th/JJ ]
+,/, and/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT San/NNP Francisco/NNP ]
+to/TO 
+[ Atlanta/NNP flight/NN ]
+./. 
+
+[ It/PRP ]
+departs/VBZ at/IN 
+[ 815/CD ]
+and/CC arrives/VBZ at/IN 
+[ 1540/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+perform/VB 
+[ this/DT request/NN ]
+?/. 
+
+[ mg00b1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+arrange/VB for/IN 
+[ a/DT wheelchair/NN ]
+for/IN 
+[ this/DT passenger/NN ]
+on/IN 
+[ both/DT ]
+
+[ the/DT going/VBG ]
+and/CC 
+[ returning/VBG flight/NN ]
+?/. 
+
+[ mg00c1sx/CD ]
+./. 
+
+[ Okay/UH ]
+,/, 
+[ we/PRP ]
+'ll/MD go/VB on/IN to/TO 
+[ the/DT next/JJ reservation/NN ]
+then/RB ./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ what/WP ]
+
+[ the/DT schedules/NNS ]
+are/VBP for/IN 
+[ your/PRP$ Pittsburgh/NNP ]
+to/TO 
+[ Atlanta/NNP flights/NNS ]
+on/IN 
+[ economy/NN ]
+,/, 
+[ costs/NNS ]
+./. 
+
+[ mg00d1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+tell/VB 
+[ me/PRP ]
+
+[ the/DT costs/NNS ]
+of/IN 
+[ these/DT economy/NN flights/NNS ]
+?/. 
+
+[ mg00e1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+for/IN 
+[ one/CD person/NN ]
+,/, on/IN 
+[ Eastern/NNP 307/CD ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, leaving/VBG at/IN 
+[ 1150/CD ]
+in/IN 
+[ the/DT morning/NN ]
+,/, and/CC arriving/VBG 
+[ 1329/CD ]
+./. 
+
+And/CC 
+[ I/PRP ]
+'d/MD also/RB like/VB to/TO know/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ a/DT round-trip/NN ]
+./. 
+
+[ mg00f1sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB ]
+
+[ a/DT round-trip/JJ ticket/NN ]
+for/IN 
+[ one/CD person/NN ]
+on/IN 
+[ Eastern/NNP 307/CD ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, departs/VBZ at/IN 
+[ 1150/CD ]
+arrives/VBZ at/IN 
+[ 1329/CD ]
+./. 
+
+And/CC 
+[ I/PRP ]
+want/VBP 
+[ it/PRP ]
+to/TO leave/VB on/IN 
+[ November/NNP ]
+
+[ the/DT 20th/JJ ]
+and/CC come/VB back/RB 
+[ December/NNP ]
+
+[ the/DT 1st/CD ]
+./. 
+
+[ mg00g1sx/CD ]
+./. 
+
+Have/VBP 
+[ you/PRP ]
+booked/VBN 
+[ this/DT reservation/NN ]
+as/IN 
+[ economy/NN class/NN ]
+?/. 
+
+[ mg00h1sx/CD ]
+./. 
+
+How/WRB much/RB is/VBZ 
+[ the/DT round-trip/JJ fare/NN ]
+for/IN 
+[ this/DT reservation/NN ]
+?/. 
+
+[ mg00i1sx/CD ]
+./. 
+
+Do/VBP 
+[ you/PRP ]
+have/VB 
+[ any/DT fares/NNS ]
+going/VBG for/IN 
+[ $/NNS 190/CD ]
+,/, 
+[ one-way/JJ ]
+,/, 
+[ available/JJ ]
+?/. 
+
+[ mg00j1sx/CD ]
+./. 
+
+Please/VB give/VB 
+[ me/PRP ]
+
+[ an/DT Eastern/NNP flight/NN number/NN ]
+for/IN 
+[ this/DT $/NNS 190/CD fare/NN ]
+./. 
+
+[ mg00k1sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB ]
+
+[ a/DT flight/NN ]
+for/IN 
+[ one/CD person/NN ]
+on/IN 
+[ Eastern/NNP 307/CD ]
+./. 
+
+[ I/PRP ]
+want/VBP 
+[ it/PRP ]
+
+[ economy/NN class/NN ]
+,/, 
+[ which/WDT ]
+means/VBZ 
+[ $/NNS 190/CD each/DT way/NN ]
+./. 
+
+[ I/PRP ]
+want/VBP 
+[ it/PRP ]
+round-trip/JJ ,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, leaving/VBG at/IN 
+[ 1150/CD ]
+,/, arriving/VBG 
+[ Atlanta/NNP ]
+at/IN 
+[ 1329/CD ]
+./. 
+
+[ mg00l1sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP to/TO cancel/VB 
+[ the/DT reservation/NN ]
+that/IN 
+[ you/PRP ]
+made/VBD on/IN 
+[ Eastern/NNP 307/CD ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Altanta/NNP ]
+,/, for/IN 
+[ one/CD person/NN ]
+,/, 
+[ economy/NN class/NN ]
+./. 
+
+However/RB ,/, 
+[ you/PRP ]
+made/VBD 
+[ it/PRP ]
+for/IN 
+[ a/DT one-way/JJ cost/NN ]
+of/IN 
+[ $/NNS 274/CD ]
+./. 
+
+Please/VB cancel/VB 
+[ that/DT ]
+./. 
+
+[ mg00m1sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+./. 
+
+[ mg00n1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ what/WP ]
+
+[ your/PRP$ schedule/NN ]
+is/VBZ for/IN 
+[ flights/NNS ]
+leaving/VBG from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO get/VB 
+[ this/DT person/NN ]
+on/IN 
+[ a/DT very/RB small/JJ plane/NN ]
+,/, and/CC know/VB 
+[ what/WP ]
+
+[ the/DT cost/NN arrangements/NNS ]
+are/VBP ./. 
+
+[ mg00o1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ trip/NN ]
+for/IN 
+[ one/CD person/NN ]
+on/IN 
+[ US/NNP ]
+
+[ flight/NN 1623/CD ]
+,/, 
+[ Philadelphia/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, leaving/VBG at/IN 
+[ 1405/CD ]
+and/CC arriving/VBG at/IN 
+[ 1615/CD ]
+,/, and/CC 
+[ I/PRP ]
+'d/MD like/VB 
+[ them/PRP ]
+to/TO depart/VB on/IN 
+[ November/NNP ]
+
+[ the/DT 22nd/CD ]
+./. 
+
+[ mg00p1sx/CD ]
+./. 
+
+[ What/WP ]
+'s/VBZ 
+[ the/DT cost/NN ]
+of/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mg00q1sx/CD ]
+./. 
+
+Does/VBZ 
+[ this/DT flight/NN ]
+serve/VB 
+[ any/DT meals/NNS ]
+?/. 
+
+[ mg00r1sx/CD ]
+./. 
+
+Yes/UH ,/, 
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ them/PRP ]
+./. 
+
+[ mg00s1sx/CD ]
+./. 
+
+[ The/DT reservation/NN ]
+
+[ I/PRP ]
+made/VBD is/VBZ for/IN 
+[ coach/NN ]
+,/, is/VBZ n't/RB ?/. 
+
+[ mg00t1sx/CD ]
+./. 
+
+Has/VBZ 
+[ it/PRP ]
+been/VBN confirmed/VBN for/IN 
+[ coach/NN ]
+?/. 
+
+[ mg00u1sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+./. 
+
+[ mh0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, leaving/VBG in/IN 
+[ the/DT afternoon/NN ]
+,/, and/CC arriving/VBG before/IN 
+[ 7/CD P.M./RB ]
+,/, flying/VBG 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mh0021sx/CD ]
+./. 
+
+[ Book/VB flight/NN United/NNP Airlines/NNP 478/CD ]
+./. 
+
+[ mh0031sx/CD ]
+./. 
+
+[ Booking/VBG flight/NN United/NNP Airlines/NNP 478/CD ]
+,/, 
+[ economy/NN fare/NN ]
+,/, leaving/VBG 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ the/DT 21st/CD ]
+of/IN 
+[ December/NNP 1990/CD ]
+./. 
+
+[ mh0041sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT first/JJ class/NN flight/NN ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+,/, leaving/VBG on/IN 
+[ the/DT 30th/JJ ]
+of/IN 
+[ November/NNP ]
+,/, in/IN 
+[ the/DT evening/NN ]
+,/, returning/VBG on/IN 
+[ the/DT 5th/JJ ]
+of/IN 
+[ December/NNP ]
+./. 
+
+[ mh0051sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ flights/NNS ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+./. 
+
+[ mh0061sx/CD ]
+./. 
+
+[ Book/VB Delta/NNP flight/NN 256/CD ]
+./. 
+
+[ mh0071sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ flights/NNS ]
+from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+,/, 
+[ economy/NN flights/NNS ]
+./. 
+
+[ mh0081sx/CD ]
+./. 
+
+Can/MD 
+[ I/PRP ]
+get/VB 
+[ fares/NNS ]
+on/IN 
+[ these/DT ]
+?/. 
+
+[ mh0091sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ M/NN class/NN mean/VB ]
+?/. 
+
+[ mh00a1sx/CD ]
+./. 
+
+[ Book/VB USAir/NNP 3609/CD ]
+for/IN 
+[ the/DT round-trip/NN ]
+of/IN 
+[ 212/CD ]
+,/, 
+[ departure/NN date/NN ]
+from/IN 
+[ Philadelphia/NNP ]
+,/, 
+[ November/NNP 30th/JJ ]
+,/, to/TO 
+[ Washington/NNP DC/NNP ]
+./. 
+
+[ Washington/NNP DC/NNP 's/POS departure/NN date/NN December/NNP 5th/JJ ]
+./. 
+
+[ mh00b1sx/CD ]
+./. 
+
+Is/VBZ 
+[ this/DT the/DT 212/CD price/NN ]
+on/IN 
+[ flight/NN 3609/CD ]
+?/. 
+
+[ mh00c1sx/CD ]
+./. 
+
+Yes/UH ,/, 
+[ I/PRP ]
+'d/MD like/VB that/DT 
+[ one/NN ]
+booked/VBN and/CC to/TO see/VB 
+[ the/DT flight/NN ]
+./. 
+
+[ mh00d1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO get/VB 
+[ flight/NN information/NN ]
+from/IN 
+[ Fort/NNP Worth/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+./. 
+
+[ mh00e1sx/CD ]
+./. 
+
+[ What/WP ]
+are/VBP 
+[ the/DT plane/NN sizes/NNS ]
+for/IN 
+[ these/DT flights/NNS ]
+and/CC are/VBP there/EX 
+[ any/DT other/JJ flights/NNS ]
+
+[ that/WDT ]
+have/VBP 
+[ connections/NNS ]
+?/. 
+
+[ mh00f1sx/CD ]
+./. 
+
+[ Book/VB Delta/NNP flight/NN 430/CD ]
+./. 
+
+[ mh00g1sx/CD ]
+./. 
+
+[ Date/NN ]
+of/IN 
+[ departure/NN ]
+is/VBZ 
+[ November/NNP 30th/JJ ]
+,/, 
+[ flight/NN ]
+is/VBZ 
+[ Delta/NNP 430/CD ]
+./. 
+
+[ Any/DT fare/NN ]
+is/VBZ acceptable/JJ ./. 
+
+[ mh00h1sx/CD ]
+./. 
+
+Do/VBP 
+[ you/PRP ]
+have/VB 
+[ a/DT seat/NN number/NN ]
+and/CC 
+[ which/WDT class/NN ]
+
+[ this/DT ]
+is/VBZ ?/. 
+
+[ mh00i1sx/CD ]
+./. 
+
+[ Which/WDT class/NN ]
+is/VBZ 
+[ this/DT flight/NN ]
+?/. 
+
+[ mh00j1sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+./. 
+
+[ mh00k1sx/CD ]
+./. 
+
+[ I/PRP ]
+guess/VBP 
+[ I/PRP ]
+'m/VBP done/VBN now/RB ./. 
+
+[ Am/VBP ]
+
+[ I/PRP ]
+supposed/VBN to/TO do/VB 
+[ anything/NN ]
+else/RB ?/. 
+
+[ mi0011sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ information/NN ]
+to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO leave/VB around/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD P.M/NNP ]
+./. 
+
+[ The/DT flight/NN ]
+should/MD be/VB on/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mi0021sx/CD ]
+./. 
+
+[ Okay/NNP ]
+,/, get/VB 
+[ me/PRP ]
+
+[ a/DT ticket/NN ]
+,/, please/VB ,/, on/IN 
+[ United/NNP Airlines/NNP flight/NN 478/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas\/Fort/NNP Worth/NNP ]
+,/, 
+[ that/WDT ]
+leaves/VBZ at/IN 
+[ 12:40/CD P.M./RB ]
+and/CC arrives/VBZ at/IN 
+[ 1808/CD ]
+./. 
+
+[ mi0031sx/CD ]
+./. 
+
+Please/VB insure/VB that/IN 
+[ the/DT proper/JJ frequent/JJ flyer/NN account/NN ]
+gets/VBZ credited/VBN on/IN 
+[ United/NNP Airlines/NNP ]
+for/IN 
+[ this/DT flight/NN ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi0041sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ a/DT first/JJ class/NN ticket/NN ]
+on/IN 
+[ Delta/NNP Airlines/NNP ]
+,/, for/IN 
+[ March/NNP 25th/JJ ]
+,/, returning/VBG on/IN 
+[ April/NNP 1st/CD ]
+./. 
+
+[ The/DT flight/NN ]
+should/MD originate/VB in/IN 
+[ Fort/NNP Worth/NNP ]
+and/CC 
+[ they/PRP ]
+'re/VBP going/VBG to/TO 
+[ Philadelphia/NNP ]
+./. 
+
+[ mi0051sx/CD ]
+./. 
+
+Please/VB show/VB 
+[ me/PRP ]
+
+[ those/DT flights/NNS ]
+
+[ that/WDT ]
+are/VBP nonstop/JJ ./. 
+
+[ mi0061sx/CD ]
+./. 
+
+Please/VB show/VB 
+[ me/PRP ]
+
+[ which/WDT ]
+of/IN 
+[ these/DT flights/NNS ]
+serve/VBP 
+[ meals/NNS ]
+on/IN 
+[ board/NN ]
+./. 
+
+[ mi0071sx/CD ]
+./. 
+
+[ What/WP movies/NNS ]
+are/VBP scheduled/VBN for/IN 
+[ these/DT flights/NNS ]
+?/. 
+
+[ mi0081sx/CD ]
+./. 
+
+Please/VB show/VB 
+[ me/PRP ]
+
+[ the/DT fares/NNS ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT three/CD listed/VBN flights/NNS ]
+./. 
+
+[ mi0091sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB passage/NN ]
+on/IN 
+[ Delta/NNP Airline/NNP flight/NN number/NN 234/CD ]
+from/IN 
+[ Dallas\/Fort/NNP Worth/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, leaving/VBG at/IN 
+[ 1310/CD ]
+,/, arriving/VBG at/IN 
+[ 1705/CD ]
+,/, on/IN 
+[ the/DT 25th/JJ ]
+of/IN 
+[ March/NNP ]
+,/, and/CC returning/VBG on/IN 
+[ April/NNP 1st/CD ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi00a1sx/CD ]
+./. 
+
+According/VBG to/TO 
+[ the/DT data/NN ]
+on/IN 
+[ the/DT screen/NN ]
+,/, 
+[ flight/NN 234/CD leaves/VBZ ]
+at/IN 
+[ 1310/CD ]
+./. 
+
+[ The/DT message/NN ]
+that/IN 
+[ the/DT computer/NN ]
+just/RB read/VBN 
+[ back/NN ]
+says/VBZ 
+[ the/DT flight/NN ]
+leaves/VBZ at/IN 
+[ 1510/CD ]
+./. 
+
+Please/VB confirm/VB ./. 
+
+[ mi00b1sx/CD ]
+./. 
+
+Is/VBZ 
+[ the/DT reservation/NN ]
+still/RB confirmed/VBN on/IN 
+[ flight/NN 234/CD ]
+?/. 
+
+[ mi00c1sx/CD ]
+./. 
+
+Please/VB show/VB 
+[ me/PRP ]
+
+[ a/DT listing/NN ]
+of/IN 
+[ the/DT least/RBS expensive/JJ fares/NNS ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, leaving/VBG on/IN 
+[ March/NNP 25th/JJ ]
+,/, returning/VBG on/IN 
+[ April/NNP 1st/CD ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi00d1sx/CD ]
+./. 
+
+Please/VB 
+[ list/VB ]
+
+[ which/WDT ]
+of/IN 
+[ these/DT flights/NNS ]
+serve/VBP 
+[ a/DT meal/NN ]
+on/IN 
+[ board/NN ]
+?/. 
+
+[ mi00e1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT distance/NN ]
+in/IN 
+[ miles/NNS ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+?/. 
+
+[ mi00f1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT cost/NN ]
+of/IN 
+[ a/DT round-trip/JJ fare/NN ]
+on/IN 
+[ Greyhound/NNP Bus/NNP Lines/NNPS ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+?/. 
+
+[ mi00g1sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB ]
+
+[ a/DT flight/NN ]
+on/IN 
+[ USAir/NNP flight/NN 1438/CD ]
+,/, from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, departing/VBG at/IN 
+[ 1640/CD ]
+,/, arriving/VBG at/IN 
+[ 1745/CD ]
+,/, on/IN 
+[ the/DT 25th/JJ ]
+of/IN 
+[ March/NNP ]
+,/, 
+[ return/NN trip/NN ]
+on/IN 
+[ the/DT 1st/CD ]
+of/IN 
+[ April/NNP ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi00h1sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB ]
+
+[ an/DT economy/NN fare/NN ]
+on/IN 
+[ US/PRP ]
+
+[ Airline/NNP flight/NN 1438/CD ]
+,/, from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, departing/VBG at/IN 
+[ 1640/CD ]
+,/, arriving/VBG at/IN 
+[ 1745/CD ]
+,/, 
+[ the/DT fare/NN ]
+of/IN 
+[ $/NNS 262/CD ]
+,/, 
+[ round-trip/JJ ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi00i1sx/CD ]
+./. 
+
+Please/VB give/VB 
+[ a/DT listing/NN ]
+of/IN 
+[ the/DT flights/NNS ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, on/IN 
+[ any/DT airline/NN ]
+,/, from/IN 
+[ March/NNP 25th/JJ ]
+,/, returning/VBG on/IN 
+[ April/NNP 1st/CD ]
+./. 
+
+And/CC 
+[ the/DT plane/NN ]
+should/MD carry/VB 
+[ the/DT lowest/JJS number/NN ]
+of/IN 
+[ passengers/NNS ]
+,/, thank/VB 
+[ you/PRP ]
+./. 
+
+[ mi00j1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ passengers/NNS ]
+,/, 
+[ airline/NN flight/NN 786/CD ]
+,/, on/IN 
+[ USAir/NNP ]
+,/, can/MD carry/VB ?/. 
+
+[ mi00k1sx/CD ]
+./. 
+
+Is/VBZ there/EX 
+[ a/DT smaller/JJR commercial/JJ flight/NN ]
+available/JJ ?/. 
+
+[ mi00l1sx/CD ]
+./. 
+
+Please/VB 
+[ book/VB passage/NN ]
+for/IN 
+[ one/CD person/NN ]
+on/IN 
+[ USAir/NNP flight/NN 1786/CD ]
+,/, from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, departing/VBG at/IN 
+[ 6:50/CD P.M./RB ]
+,/, and/CC arriving/VBG at/IN 
+[ 1835/CD ]
+,/, on/IN 
+[ March/NNP 25th/JJ  ]
+,/, returning/VBG 
+[ April/NNP 1st/JJ ]
+./. 
+
+[ mj0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+./. 
+
+[ mj0021sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ flights/NNS ]
+leaving/VBG after/IN 
+[ noon/NN ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mj0031sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+arrive/VBP in/IN 
+[ Dallas/NNP ]
+before/IN 
+[ 7/CD P.M./RB ]
+?/. 
+
+[ mj0041sx/CD ]
+./. 
+
+[ What/WP ]
+'s/VBZ 
+[ the/DT fare/NN ]
+on/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mj0051sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO reserve/VB 
+[ a/DT seat/NN ]
+at/IN 
+[ the/DT lowest/JJS fare/NN ]
+./. 
+
+[ mj0061sx/CD ]
+./. 
+
+Can/MD 
+[ I/PRP ]
+see/VB 
+[ the/DT flight/NN details/NNS ]
+?/. 
+
+[ mj0071sx/CD ]
+./. 
+
+[ What/WP ]
+
+[ Delta/NNP Airline/NNP flights/NNS ]
+go/VBP from/IN 
+[ Fort/NNP Worth/NNP ]
+,/, 
+[ Texas/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+,/, 
+[ Maryland/NNP ]
+?/. 
+
+[ mj0081sx/CD ]
+./. 
+
+[ What/WP type/NN ]
+of/IN 
+[ equipment/NN ]
+are/VBP 
+[ these/DT planes/NNS ]
+?/. 
+
+[ mj0091sx/CD ]
+./. 
+
+[ What/WP fares/NNS ]
+are/VBP available/JJ on/IN 
+[ flight/NN 605/CD ]
+?/. 
+
+[ mj00a1sx/CD ]
+./. 
+
+[ What/WP meals/NNS ]
+are/VBP served/VBN on/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mj00b1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ Delta/NNP flight/NN 605/CD ]
+,/, 
+[ first/JJ class/NN ]
+,/, for/IN 
+[ November/NNP 27th/JJ ]
+./. 
+
+[ mj00c1sx/CD ]
+./. 
+
+Can/MD 
+[ I/PRP ]
+see/VB 
+[ the/DT details/NNS ]
+of/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mj00d1sx/CD ]
+./. 
+
+[ What/WP flights/NNS ]
+are/VBP available/JJ from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+?/. 
+
+[ mj00e1sx/CD ]
+./. 
+
+[ Which/WDT ]
+of/IN 
+[ these/DT ]
+has/VBZ 
+[ the/DT lowest/JJS fare/NN ]
+?/. 
+
+[ mj00f1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO make/VB 
+[ a/DT reservation/NN ]
+on/IN 
+[ USAir/NNP flight/NN 3765/CD ]
+,/, at/IN 
+[ the/DT lowest/JJS fare/NN ]
+,/, for/IN 
+[ November/NNP 27th/JJ ]
+./. 
+
+[ mj00g1sx/CD ]
+./. 
+
+Can/MD 
+[ I/PRP ]
+see/VB 
+[ the/DT details/NNS ]
+of/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mj00h1sx/CD ]
+./. 
+
+[ What/WP flights/NNS ]
+are/VBP available/JJ for/IN 
+[ Boston/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+?/. 
+
+[ mj00i1sx/CD ]
+./. 
+
+[ What/WP types/NNS ]
+of/IN 
+[ equipment/NN ]
+are/VBP 
+[ these/DT flights/NNS ]
+on/IN ?/. 
+
+[ mj00j1sx/CD ]
+./. 
+
+[ What/WP kind/NN ]
+of/IN 
+[ a/DT planes/NNS ]
+are/VBP Boeing/VBG 
+[ 737/CD ]
+,/, 
+[ McDonnell/NNP Douglas/NNP DC9/NNP ]
+,/, or/CC 
+[ McDonnell/NNP Douglas/NNP 80/CD ]
+?/. 
+
+[ mj00k1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+on/IN 
+[ US/PRP ]
+
+[ 1609/CD ]
+,/, for/IN 
+[ the/DT 27th/JJ ]
+of/IN 
+[ November/NNP ]
+,/, at/IN 
+[ the/DT lowest/JJS possible/JJ fare/NN ]
+./. 
+
+mj00l1sx/VBG ./. 
+
+Can/MD 
+[ I/PRP ]
+see/VB 
+[ the/DT details/NNS ]
+of/IN 
+[ this/DT flight/NN ]
+?/. 
+
+[ mk0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT one/CD way/NN flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mk0021sx/CD ]
+./. 
+
+[ The/DT flight/NN ]
+should/MD leave/VB after/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD P.M./RB ]
+and/CC 
+[ it/PRP ]
+should/MD be/VB 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mk0031sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNP flight/NN 478/CD ]
+./. 
+
+[ mk0041sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO plan/VB 
+[ some/DT flights/NNS ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+./. 
+
+First/RB off/RP ./. 
+
+[ mk0051sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ the/DT flight/NN information/NN ]
+on/IN 
+[ coach/NN economy/NN class/NN flights/NNS ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+./. 
+
+[ mk0061sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ flight/NN information/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+,/, 
+[ coach/NN economy/NN class/NN ]
+,/, and/CC 
+[ I/PRP ]
+'d/MD like/VB to/TO know/VB 
+[ the/DT ground/NN transportation/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+and/CC 
+[ Denver/NNP ]
+./. 
+
+[ mk0071sx/CD ]
+./. 
+
+Please/VB give/VB 
+[ me/PRP ]
+
+[ the/DT flights/NNS ]
+from/IN ./. 
+
+[ mk0081sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ the/DT flight/NN information/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+in/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mk0091sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+?/. 
+
+[ mk00a1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNP flight/NN 888/CD ]
+./. 
+
+[ mk00b1sx/CD ]
+./. 
+
+[ The/DT date/NN ]
+of/IN 
+[ departure/NN ]
+is/VBZ 
+[ December/NNP 1st/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mk00c1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNP flight/NN 888/CD ]
+,/, 
+[ economy/NN coach/NN fare/NN ]
+,/, 
+[ date/NN ]
+of/IN 
+[ departure/NN ]
+is/VBZ 
+[ December/NNP 1st/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mk00d1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+at/IN 
+[ Denver/NNP Airport/NNP ]
+?/. 
+
+[ mk00e1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ the/DT flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Washington/NNP ]
+,/, 
+[ DC/NNP ]
+./. 
+
+[ mk00f1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/VBN 
+[ transportation/NN ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ DC/NNP ]
+?/. 
+
+[ mk00g1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB United/NNP flight/NN 302/CD ]
+,/, from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Washington/NNP ]
+,/, 
+[ DC/NNP ]
+,/, 
+[ coach/NN economy/NN ]
+,/, on/IN 
+[ December/NNP 3rd/JJ ]
+./. 
+
+[ mk00h1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ the/DT flights/NNS ]
+from/IN 
+[ Washington/NNP ]
+,/, 
+[ DC/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mk00i1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+in/IN 
+[ Boston/NNP ]
+?/. 
+
+[ mk00j1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB USAir/NNP flight/NN 600/CD ]
+,/, from/IN 
+[ Washington/NNP ]
+,/, 
+[ DC/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ economy/NN class/NN fare/NN ]
+,/, on/IN 
+[ December/NNP 5th/JJ ]
+./. 
+
+[ mk00k1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ the/DT flights/NNS ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+./. 
+
+[ mk00l1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+in/IN 
+[ Atlanta/NNP ]
+?/. 
+
+[ mk00m1sx/CD ]
+./. 
+
+[ Which/WDT ]
+is/VBZ 
+[ the/DT most/RBS economical/JJ flight/NN ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+?/. 
+
+[ mk00n1sx/CD ]
+./. 
+
+Are/VBP there/RB any/RB more/JJR ?/. 
+
+[ mk00o1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 757/CD ]
+./. 
+
+[ mk00p1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 757/CD ]
+,/, on/IN 
+[ December/NNP 6th/JJ ]
+,/, 
+[ coach/NN class/NN ]
+./. 
+
+[ mk00q1sx/CD ]
+./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT list/NN ]
+of/IN 
+[ flights/NNS ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+that/IN 
+[ cost/VBP $/NNS 226/CD ]
+?/. 
+
+[ mk00r1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 323/CD ]
+,/, from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, on/IN 
+[ December/NNP 6/CD ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+,/, please/UH ./. 
+
+[ mk00s1sx/CD ]
+./. 
+
+Could/MD 
+[ I/PRP ]
+have/VB 
+[ the/DT flights/NNS ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+at/IN 
+[ the/DT lowest/JJS fares/NNS ]
+possible/JJ ?/. 
+
+[ mk00t1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 137/CD ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+on/IN 
+[ December/NNP 8th/JJ ]
+./. 
+
+[ mk00u1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 137/CD ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, on/IN 
+[ December/NNP 8th/JJ ]
+,/, 
+[ economy/NN class/NN ]
+./. 
+
+[ ml0011sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+./. 
+
+[ ml0021sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+./. 
+
+[ ml0031sx/CD ]
+./. 
+
+[ This/DT flight/NN ]
+will/MD be/VB on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml0041sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO go/VB on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ I/PRP ]
+want/VB to/TO leave/VB after/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD P.M/RB ]
+./. 
+
+And/CC 
+[ I/PRP ]
+would/MD like/VB to/TO fly/VB 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ ml0051sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+on/IN 
+[ United/NNP Airlines/NNP ]
+,/, 
+[ flight/NN 478/CD ]
+,/, on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml0061sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ some/DT flights/NNS ]
+./. 
+
+[ People/NNS ]
+are/VBP traveling/VBG to/TO 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, returning/VBG 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+from/IN 
+[ three/CD cities/NNS ]
+./. 
+
+[ The/DT three/CD cities/NNS ]
+are/VBP 
+[ Boston/NNP ]
+,/, 
+[ Atlanta/NNP ]
+,/, and/CC 
+[ Baltimore/NNP ]
+./. 
+
+[ ml0071sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml0081sx/CD ]
+./. 
+
+[ Which/WDT flight/NN ]
+is/VBZ nonstop/JJ ,/, from/IN 
+[ the/DT flights/NNS ]
+shown/VBN on/IN 
+[ the/DT screen/NN ]
+?/. 
+
+[ ml0091sx/CD ]
+./. 
+
+On/IN 
+[ flight/NN number/NN 21/CD ]
+,/, 
+[ United/NNP Airlines/NNP ]
+,/, 
+[ what/WP ]
+does/VBZ 
+[ FYBMQ/NNP ]
+mean/VB ?/. 
+
+[ ml00a1sx/CD ]
+./. 
+
+[ Does/VBZ United/NNP Airlines/NNP flight/NN 21/CD ]
+?/. 
+
+[ ml00b1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNP flight/NN 21/CD ]
+,/, for/IN 
+[ two/CD adults/NNS ]
+,/, on/IN 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00c1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB United/NNP Airlines/NNP flight/NN 21/CD ]
+,/, on/IN 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, for/IN 
+[ two/CD adults/NNS ]
+,/, and/CC 
+[ the/DT fare/NN ]
+would/MD be/VB 
+[ first/JJ class/NN ]
+./. 
+
+[ ml00d1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00e1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ US/NNP ]
+
+[ 30/CD ]
+,/, 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ two/CD adults/NNS ]
+,/, 
+[ first/JJ class/NN ]
+./. 
+
+[ ml00f1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB one/CD person/NN ]
+to/TO fly/VB ,/, 
+[ Atlanta/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00g1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 137/CD ]
+,/, 
+[ Atlanta/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ first/JJ class/NN ]
+,/, for/IN 
+[ one/CD adult/NN ]
+,/, 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00h1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+for/IN 
+[ one/CD person/NN ]
+,/, 
+[ June/NNP 1st/CD ]
+,/, 
+[ 1991/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Fort/NNP Worth/NNP ]
+./. 
+
+[ ml00i1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 374/CD ]
+,/, 
+[ June/NNP 1st/CD ]
+,/, 
+[ 1991/CD ]
+,/, for/IN 
+[ one/CD adult/NN ]
+,/, 
+[ first/JJ class/NN ]
+,/, 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Fort/NNP Worth/NNP ]
+./. 
+
+[ ml00j1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+for/IN 
+[ one/CD person/NN ]
+,/, 
+[ Fort/NNP Worth/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, 
+[ June/NNP 6th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00k1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB Delta/NNP flight/NN 688/CD ]
+,/, 
+[ Dallas\/Fort/NNP Worth/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, 
+[ June/NNP 6th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ one/CD adult/NN ]
+,/, on/IN 
+[ business/NN class/NN ]
+./. 
+
+[ ml00l1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ Baltimore/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00m1sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB 
+[ a/DT flight/NN ]
+from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00n1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT cheapest/JJS fare/NN ]
+?/. 
+
+[ ml00o1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ restriction/NN VU\/NN ]
+?/. 
+
+[ ml00p1sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ a/DT round-trip/JJ flight/NN ]
+,/, 
+[ Philadelphia/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, and/CC back/IN to/TO 
+[ Philadelphia/NNP ]
+,/, going/VBG on/IN 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, returning/VBG 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ ml00q1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT round-trip/JJ flight/NN ]
+,/, 
+[ Philadelphia/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, and/CC back/IN to/TO 
+[ Philadelphia/NNP ]
+,/, 
+[ ml00r1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ Philadelphia/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ The/DT flight/NN number/NN ]
+is/VBZ 
+[ 37/CD ]
+./. 
+
+[ It/PRP ]
+would/MD be/VB 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ three/CD people/NNS ]
+./. 
+
+[ ml00s1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ US/NNP ]
+
+[ 37/CD ]
+,/, 
+[ May/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ Philadelphia/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ three/CD people/NNS ]
+,/, 
+[ coach/NN economy/NN ]
+,/, or/CC 
+[ coach/NN economy/NN discount/NN ]
+,/, 
+[ whichever/WDT ]
+costs/VBZ 
+[ less/JJR ]
+./. 
+
+[ ml00t1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT flight/NN ]
+,/, 
+[ three/CD people/NNS ]
+,/, 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, 
+[ June/NNP first/JJ 1991/CD ]
+,/, 
+[ coach/NN economy/NN discount/NN ]
+./. 
+
+[ ml00u1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ US/NNP ]
+
+[ 166/CD ]
+,/, 
+[ three/CD people/NNS ]
+,/, 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+,/, 
+[ coach/NN economy/NN discount/NN class/NN ]
+./. 
+
+[ mm0011sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT flight/NN ]
+on/IN 
+[ Delta/NNP ]
+for/IN 
+[ February/NNP 25th/JJ ]
+leaving/VBG before/IN 
+[ noon/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ the/DT flight/NN number/NN ]
+?/. 
+
+[ mm0021sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ a/DT flight/NN ]
+leaving/VBG after/IN 
+[ noon/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mm0031sx/CD ]
+./. 
+
+[ I/PRP ]
+need/VBP 
+[ a/DT flight/NN ]
+leaving/VBG after/IN 
+[ noon/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+,/, arriving/VBG 
+[ Dallas/NNP ]
+before/IN 
+[ 7/CD P.M./RB ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mm0041sx/CD ]
+./. 
+
+[ I/PRP ]
+want/VBP to/TO 
+[ book/VB flight/NN 478/CD ]
+leaving/VBG 
+[ February/NNP 25th/JJ ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+,/, arriving/VBG 
+[ Dallas/NNP ]
+,/, 
+[ one-way/JJ ]
+,/, 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mm0051sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+leaving/VBG 
+[ early/JJ morning/NN ]
+,/, 
+[ coach/NN ]
+./. 
+
+[ mm0061sx/CD ]
+./. 
+
+How/WRB many/JJ of/IN 
+[ these/DT flights/NNS ]
+serve/VBP 
+[ breakfast/NN ]
+?/. 
+
+[ mm0071sx/CD ]
+./. 
+
+[ Book/VB flight/NN ]
+on/IN 
+[ airline/NN CO/NNP ]
+,/, 
+[ flight/NN number/NN 1234/CD ]
+for/IN 
+[ December/NNP 3/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mm0081sx/CD ]
+./. 
+
+[ List/VB flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+,/, leaving/VBG 
+[ early/JJ morning/NN ]
+to/TO 
+[ Boston/NNP ]
+,/, serving/VBG 
+[ a/DT meal/NN ]
+,/, 
+[ economy/NN coach/NN ]
+./. 
+
+[ mm0091sx/CD ]
+./. 
+
+[ List/VB flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ economy/NN coach/NN fare/NN ]
+./. 
+
+How/WRB many/JJ of/IN 
+[ these/DT flights/NNS ]
+serve/VBP 
+[ meals/NNS ]
+?/. 
+
+[ mm00a1sx/CD ]
+./. 
+
+[ Book/VB flight/NN CO/NNP ]
+,/, 
+[ number/NN 1234/CD ]
+,/, for/IN 
+[ December/NNP 4th/JJ ]
+./. 
+
+[ mm00b1sx/CD ]
+./. 
+
+[ Book/VB flight/NN CO/NNP ]
+,/, 
+[ number/NN 1234/CD ]
+,/, for/IN 
+[ December/NNP 4th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mm00c1sx/CD ]
+./. 
+
+[ List/NN flights/NNS ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+./. 
+
+[ mm00d1sx/CD ]
+./. 
+
+[ Book/VB flight/NN TW/NNP number/NN 61/CD ]
+for/IN 
+[ December/NNP 5th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mm00e1sx/CD ]
+./. 
+
+[ Book/VB flight/NN TW/NNP number/NN 61/CD ]
+for/IN 
+[ December/NNP 5th/JJ ]
+,/, 
+[ 1990/CD ]
+,/, 
+[ coach/NN economy/NN ]
+./. 
+
+[ mm00f1sx/CD ]
+./. 
+
+[ Does/VBZ Denver/NNP Airport/NNP ]
+have/VB 
+[ limo/NN service/NN ]
+?/. 
+
+[ mm00g1sx/CD ]
+./. 
+
+[ Book/VB limo/NN service/NN ]
+from/IN 
+[ Denver/NNP Airport/NNP ]
+for/IN 
+[ December/NNP 3rd/CD ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mm00h1sx/CD ]
+./. 
+
+How/WRB do/VBP 
+[ you/PRP ]
+book/VB 
+[ limo/NN service/NN ]
+from/IN ?/. 
+
+[ mm00i1sx/CD ]
+./. 
+
+How/WRB do/VBP 
+[ you/PRP ]
+book/VB 
+[ limo/NN service/NN ]
+from/IN 
+[ Denver/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN ]
+?/. 
+
+[ mm00j1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+give/VB 
+[ me/PRP ]
+
+[ car/NN rental/NN information/NN ]
+?/. 
+
+[ mm00k1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+give/VB 
+[ me/PRP ]
+ground/NN 
+[ transportation/NN information/NN ]
+from/IN 
+[ Denver/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN ]
+?/. 
+
+[ mm00l1sx/CD ]
+./. 
+
+How/WRB do/VBP 
+[ I/PRP ]
+book/VB 
+[ limo/NN service/NN ]
+from/IN ?/. 
+
+[ mm00m1sx/CD ]
+./. 
+
+How/WRB do/VBP 
+[ I/PRP ]
+book/VB 
+[ limo/NN transportation/NN ]
+from/IN 
+[ Denver/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN areas/NNS ]
+?/. 
+
+[ mm00n1sx/CD ]
+./. 
+
+How/WRB long/RB does/VBZ 
+[ the/DT limo/NN ]
+take/VB from/IN 
+[ Denver/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN areas/NNS ]
+?/. 
+
+[ mm00o1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT fare/NN ]
+on/IN 
+[ flight/NN CO/NNP number/NN 1234/CD ]
+?/. 
+
+[ mm00p1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT fare/NN ]
+for/IN 
+[ CO/NNP flight/NN number/NN 1234/CD ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+?/. 
+
+[ mm00q1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT fare/NN ]
+for/IN 
+[ CO/NNP flight/NN number/NN 1234/CD ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+?/. 
+
+[ mm00r1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT fare/NN ]
+on/IN 
+[ TW/NNP flight/NN 61/CD ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+?/. 
+
+[ mm00s1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ the/DT code/NN ]
+
+[ A/NN ]
+represent/VB under/IN 
+[ ground/NN transportation/NN ]
+?/. 
+
+[ mm00t1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ the/DT code/NN R/NN ]
+represent/VB under/IN 
+[ ground/NN transportation/NN ]
+?/. 
+
+[ mm00u1sx/CD ]
+./. 
+
+Is/VBZ 
+[ CO/NNP flight/NN 1234/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+,/, without/IN 
+[ stops/NNS ]
+?/. 
+
+[ mm00v1sx/CD ]
+./. 
+
+Is/VBZ 
+[ CO/NNP flight/NN number/NN 1234/CD ]
+,/, from/IN 
+[ Denver/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, without/IN 
+[ stops/NNS ]
+?/. 
+
+[ mm00w1sx/CD ]
+./. 
+
+Is/VBZ 
+[ TW/NNP flight/NN 61/CD ]
+,/, from/IN 
+[ Boston/NNP ]
+to/TO 
+[ SFO/NNP ]
+,/, without/IN 
+[ stops/NNS ]
+?/. 
+
+[ mm00x1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT ground/NN transportation/NN ]
+at/IN 
+[ Boston/NNP ]
+?/. 
+
+[ mm00y1sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+book/VB 
+[ limo/NN service/NN ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ downtown/NN areas/NNS ]
+?/. 
+
+[ mm00z1sx/CD ]
+./. 
+
+Can/MD 
+[ I/PRP ]
+rent/VB 
+[ a/DT car/NN ]
+from/IN 
+[ Boston/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN areas/NNS ]
+?/. 
+
+[ mm0101sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT car/NN rental/NN ]
+from/IN 
+[ Boston/NNP Airport/NNP ]
+to/TO 
+[ downtown/NN area/NN ]
+./. 
+
+[ mn0011sx/CD ]
+./. 
+
+Please/UH begin/VB ./. 
+
+[ mn0021sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO get/VB 
+[ the/DT flight/NN ]
+after/IN 
+[ noon/NN ]
+and/CC to/TO arrive/VB before/IN 
+[ 7/CD P.M/RB ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ a/DT coach/NN economy/NN class/NN reservation/NN ]
+./. 
+
+[ mn0031sx/CD ]
+./. 
+
+Are/VBP 
+[ there/EX ]
+
+[ any/DT other/JJ airlines/NNS ]
+with/IN 
+[ flights/NNS ]
+of/IN 
+[ the/DT same/JJ kind/NN ]
+?/. 
+
+[ mn0041sx/CD ]
+./. 
+
+Have/VBP 
+[ I/PRP ]
+seen/VBN 
+[ all/DT ]
+of/IN 
+[ the/DT flights/NNS ]
+between/IN 
+[ San/NNP Francisco/NNP ]
+and/CC 
+[ Dallas/NNP ]
+?/. 
+
+[ mn0051sx/CD ]
+./. 
+
+Please/UH show/VB 
+[ me/PRP ]
+
+[ the/DT flights/NNS ]
+between/IN 
+[ San/NNP Francisco/NNP ]
+and/CC 
+[ Dallas/NNP ]
+
+[ that/IN ]
+leave/VBP after/IN 
+[ noon/NN ]
+and/CC arrive/VB before/IN 
+[ 7/CD P.M/RB ]
+./. 
+
+[ mn0061sx/CD ]
+./. 
+
+Is/VBZ there/EX 
+[ a/DT coach/NN economy/NN class/NN reservation/NN ]
+available/JJ on/IN 
+[ United/NNP flight/NN 478/CD ]
+on/IN 
+[ February/NNP 25/CD ]
+,/, 
+[ 1991/CD ]
+?/. 
+
+[ mn0071sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO book/VB 
+[ a/DT one-way/JJ reservation/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25/CD ]
+,/, 
+[ 1991/CD ]
+,/, on/IN 
+[ United/NNP Airlines/NNP flight/NN number/NN 478/CD ]
+,/, for/IN 
+[ a/DT coach/NN economy/NN class/NN seat/NN ]
+./. 
+
+[ mn0081sx/CD ]
+./. 
+
+Please/UH show/VB 
+[ me/PRP ]
+
+[ airline/NN flights/NNS ]
+between/IN 
+[ Boston/NNP ]
+and/CC 
+[ Atlanta/NNP ]
+only/RB ./. 
+
+[ mn0091sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+to/TO 
+[ the/DT airport/NN ]
+in/IN 
+[ Boston/NNP ]
+?/. 
+
+[ mn00a1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+available/JJ to/TO and/CC from/IN 
+[ the/DT airport/NN ]
+in/IN 
+[ Atlanta/NNP ]
+?/. 
+
+[ mn00b1sx/CD ]
+./. 
+
+[ Does/VBZ Eastern/NNP flight/NN number/NN 643/CD travel/VB ]
+on/IN weekdays/NNS ?/. 
+
+[ mn00c1sx/CD ]
+./. 
+
+Please/UH show/VB 
+[ me/PRP ]
+
+[ all/DT available/JJ flights/NNS ]
+between/IN 
+[ Atlanta/NNP ]
+and/CC 
+[ Fort/NNP Worth/NNP ]
+./. 
+
+[ mn00d1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+available/JJ to/TO and/CC from/IN 
+[ the/DT airport/NN ]
+in/IN 
+[ Fort/NNP Worth/NNP ]
+?/. 
+
+[ mn00e1sx/CD ]
+./. 
+
+Please/EX show/VB 
+[ me/PRP ]
+
+[ all/DT ]
+of/IN 
+[ the/DT flights/NNS ]
+between/IN 
+[ Fort/NNP Worth/NNP ]
+and/CC 
+[ Denver/NNP ]
+./. 
+
+[ mn00f1sx/CD ]
+./. 
+
+Please/UH show/VB 
+[ me/PRP ]
+only/RB 
+[ flights/NNS ]
+between/IN 
+[ Fort/NNP Worth/NNP ]
+and/CC 
+[ Denver/NNP ]
+leaving/VBG between/IN 
+[ 9/CD A.M./RB ]
+and/CC 
+[ noon/NN ]
+./. 
+
+[ mn00g1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+available/JJ to/TO and/CC from/IN 
+[ the/DT airport/NN ]
+in/IN 
+[ Denver/NNP ]
+?/. 
+
+[ mn00h1sx/CD ]
+./. 
+
+[ Please/VB ]
+show/VB 
+[ me/PRP flights/NNS ]
+between/IN 
+[ Denver/NNP ]
+and/CC 
+[ San/NNP Francisco/NNP ]
+leaving/VBG after/IN 
+[ 7/CD A.M/RB ]
+./. 
+
+[ mn00i1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+to/TO and/CC from/IN 
+[ the/DT airport/NN ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+?/. 
+
+[ mo0011sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+./. 
+
+[ mo0021sx/CD ]
+./. 
+
+[ Flights/NNS ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo0031sx/CD ]
+./. 
+
+[ Flights/NNS ]
+
+[ that/WDT ]
+depart/VBP after/IN 
+[ 12/CD noon/NN ]
+./. 
+
+[ mo0041sx/CD ]
+./. 
+
+[ Book/VB flight/NN number/NN 478/CD ]
+,/, 
+[ United/NNP Airlines/NNP ]
+,/, 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mo0051sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ Baltimore/NNP ]
+to/TO 
+[ Philadelphia/NNP ]
+./. 
+
+[ mo0061sx/CD ]
+./. 
+
+[ Flights/NNS ]
+on/IN 
+[ June/NNP 1st/CD ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo0071sx/CD ]
+./. 
+
+[ Fare/NN information/NN ]
+on/IN 
+[ these/DT flights/NNS ]
+./. 
+
+[ mo0081sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS USAir/NNP flight/NN 3753/CD ]
+./. 
+
+[ mo0091sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS ]
+,/, 
+[ USAir/NNP flight/NN 3735/CD ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+,/, departing/VBG 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00a1sx/CD ]
+./. 
+
+[ Please/NNP list/VB total/NN fare/NN ]
+for/IN 
+[ five/CD seats/NNS ]
+,/, 
+[ USAir/NNP 3735/CD ]
+,/, departing/VBG 
+[ June/NNP 1st/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00b1sx/CD ]
+./. 
+
+[ Car/NN rentals/NNS ]
+in/IN 
+[ Philadelphia/NNP ]
+./. 
+
+[ mo00c1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ Philadelphia/NNP ]
+to/TO 
+[ Pittsburgh/NNP ]
+./. 
+
+[ mo00d1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+on/IN 
+[ June/NNP 3rd/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00e1sx/CD ]
+./. 
+
+[ Fare/NN information/NN ]
+on/IN 
+[ these/DT flights/NNS ]
+./. 
+
+[ mo00f1sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS USAir/NNP flight/NN 293/CD ]
+,/, 
+[ June/NNP 3rd/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+./. 
+
+[ mo00g1sx/CD ]
+./. 
+
+[ Please/VB ]
+confirm/VB 
+[ this/DT reservation/NN ]
+,/, 
+[ five/CD seats/NNS ]
+,/, 
+[ USAir/NNP flight/NN 293/CD ]
+,/, 
+[ June/NNP 3rd/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+./. 
+
+[ mo00h1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mo00i1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+and/CC 
+[ fares/NNS ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ June/NNP 5th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00j1sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS ]
+,/, 
+[ USAir/NNP flight/NN 30/CD ]
+,/, 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+,/, 
+[ June/NNP 5th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00k1sx/CD ]
+./. 
+
+[ Ground/NN transportation/NN ]
+in/IN 
+[ Boston/NNP ]
+./. 
+
+[ mo00l1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, 
+[ June/NNP 9th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00m1sx/CD ]
+./. 
+
+[ Fare/NN information/NN ]
+on/IN 
+[ these/DT flights/NNS ]
+./. 
+
+[ mo00n1sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS Delta/JJ flight/NN 323/CD ]
+,/, 
+[ Boston/NNP ]
+to/TO 
+[ Atlanta/NNP ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+,/, 
+[ June/NNP 9th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00o1sx/CD ]
+./. 
+
+[ Ground/NN transportation/NN ]
+in/IN 
+[ Atlanta/NNP ]
+./. 
+
+[ mo00p1sx/CD ]
+./. 
+
+[ Flights/NNS ]
+from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+,/, 
+[ June/NNP 12th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mo00q1sx/CD ]
+./. 
+
+[ Fare/NN information/NN ]
+on/IN 
+[ these/DT flights/NNS ]
+./. 
+
+[ mo00r1sx/CD ]
+./. 
+
+[ Book/VB five/CD seats/NNS ]
+,/, 
+[ Eastern/NNP flight/NN 212/CD ]
+,/, from/IN 
+[ Atlanta/NNP ]
+to/TO 
+[ Baltimore/NNP ]
+,/, 
+[ June/NNP 12th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ five/CD seats/NNS ]
+,/, 
+[ coach/NN economy/NN fare/NN ]
+./. 
+
+[ mo00s1sx/CD ]
+./. 
+
+[ Please/NNP show/VB itinerary/NN ]
+for/IN 
+[ all/DT reservations/NNS ]
+made/VBN during/IN 
+[ this/DT log-on/NN ]
+./. 
+
+[ mp0011sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO see/VB 
+[ flights/NNS ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+,/, 
+[ afternoon/NN flights/NNS ]
+./. 
+
+[ mp0021sx/CD ]
+./. 
+
+Can/MD 
+[ you/PRP ]
+show/VB 
+[ me/PRP ]
+coach/NN 
+[ space/NN ]
+on/IN 
+[ United/NNP 478/CD ]
+,/, on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1990/CD ]
+?/. 
+
+[ mp0031sx/CD ]
+./. 
+
+To/TO 
+[ book/VB ]
+,/, 
+[ I/PRP ]
+'d/MD like/VB ./. 
+
+[ mp0041sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ a/DT coach/NN flight/NN ]
+on/IN 
+[ United/NNP 478/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP Fort/NNP Worth/NNP ]
+,/, on/IN 
+[ February/NNP 25th/JJ 1991/CD ]
+./. 
+
+[ mp0051sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB 
+[ fare/NN information/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, 
+[ business/NN class/NN ]
+./. 
+
+[ mp0061sx/CD ]
+./. 
+
+Give/VB 
+[ me/PRP airlines/NNS ]
+flying/VBG to/TO 
+[ Boston/NNP ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+,/, 
+[ next/JJ summer/NN ]
+,/, 
+[ that/WDT ]
+have/VBP 
+[ business/NN class/NN ]
+./. 
+
+[ mp0071sx/CD ]
+./. 
+
+Give/VB 
+[ me/PRP ]
+
+[ coach/NN fares/NNS ]
+,/, good/JJ for/IN 
+[ next/JJ summer/NN San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+./. 
+
+[ mp0081sx/CD ]
+./. 
+
+[ What/WP ]
+are/VBP 
+[ the/DT restrictions/NNS KW/NNP ]
+,/, 
+[ QW/NNP ]
+,/, 
+[ KX/NNP ]
+,/, and/CC 
+[ QX/NNP ]
+?/. 
+
+[ mp0091sx/CD ]
+./. 
+
+[ What/WP ]
+do/VBP 
+[ the/DT restrictions/NNS ]
+mean/VB for/IN 
+[ fares/NNS KW/NNP ]
+,/, for/IN 
+[ fare/NN QW/NNP ]
+,/, for/IN 
+[ fare/NN KX/NNP ]
+,/, for/IN 
+[ fare/NN QX/NNP ]
+?/. 
+
+[ mp00a1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ the/DT restriction/NN AP57/NNP mean/VB ]
+,/, and/CC 
+[ what/WP ]
+are/VBP 
+[ the/DT restrictions/NNS ]
+on/IN 
+[ family/NN fares/NNS ]
+?/. 
+
+[ mp00b1sx/CD ]
+./. 
+
+[ What/WP ]
+are/VBP 
+[ the/DT restrictions/NNS ]
+on/IN 
+[ family/NN fares/NNS ]
+?/. 
+
+[ mp00c1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ AP57/NNP restriction/NN mean/VB ]
+?/. 
+
+[ mp00d1sx/CD ]
+./. 
+
+Show/VB 
+[ me/PRP airlines/NNS ]
+with/IN 
+[ AP\/80/NNP fares/NNS ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+in/IN 
+[ economy/NN ]
+./. 
+
+[ mp00e1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO book/VB 
+[ two/CD round-trip/JJ economy/NN class/NN ]
+,/, with/IN 
+[ AP\/80/NNP ]
+restricted/JJ 
+[ fares/NNS ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, on/IN 
+[ June/NNP 1/CD ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mp00f1sx/CD ]
+./. 
+
+[ I/PRP ]
+'d/MD like/VB to/TO 
+[ book/VB flight/NN TW/NNP 754/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Boston/NNP ]
+,/, on/IN 
+[ June/NNP first/JJ ]
+for/IN 
+[ a/DT party/NN ]
+of/IN 
+[ two/CD ]
+,/, leaving/VBG 
+[ June/NNP first/JJ ]
+,/, with/IN 
+[ the/DT AP\/80/NNP fare/NN ]
+./. 
+
+[ mp00g1sx/CD ]
+./. 
+
+Thank/VB 
+[ you/PRP ]
+./. 
+
+[ mq0011sx/CD ]
+./. 
+
+[ What/WP ]
+are/VBP 
+[ flights/NNS ]
+leaving/VBG 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+?/. 
+
+[ mq0021sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+are/VBP going/VBG to/TO 
+[ Dallas/NNP ]
+?/. 
+
+[ mq0031sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+depart/VBP between/IN 
+[ 12/CD noon/NN ]
+and/CC 
+[ 3:00/CD P.M./RB ]
+?/. 
+
+[ mq0041sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+have/VBP 
+[ coach/NN economy/NN class/NN seats/NNS ]
+available/JJ ?/. 
+
+[ mq0051sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ F/NNP ]
+,/, 
+[ Y/NNP ]
+,/, 
+[ B/NNP ]
+and/CC 
+[ V/NNP ]
+mean/VB ?/. 
+
+[ mq0061sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB flight/NN 478/CD ]
+on/IN 
+[ United/NNP Airlines/NNP ]
+./. 
+
+[ mq0071sx/CD ]
+./. 
+
+[ I/PRP ]
+would/MD like/VB to/TO 
+[ book/VB flight/NN 478/CD ]
+on/IN 
+[ United/NNP Airlines/NNP ]
+departing/VBG 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mq0081sx/CD ]
+./. 
+
+[ Which/WDT ]
+flights/VBZ departs/VBZ 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ June/NNP 10th/JJ ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+?/. 
+
+[ mq0091sx/CD ]
+./. 
+
+[ What/WP type/NN ]
+of/IN 
+[ aircraft/NN ]
+is/VBZ 
+[ seven/CD three/CD three/CD ]
+?/. 
+
+[ mq00a1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ lowest/JJS available/JJ fare/NN ]
+on/IN 
+[ flight/NN 2153/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Washington/NNP DC/NNP ]
+,/, on/IN 
+[ June/NNP 10th/JJ ]
+,/, 
+[ 1991/CD ]
+?/. 
+
+[ mq00b1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ restriction/NN VU/NNP ]
+slash/NN 
+[ 1/CD mean/VB ]
+?/. 
+
+[ mq00c1sx/CD ]
+./. 
+
+Where/WRB does/VBZ 
+[ flight/NN 2153/CD stop/VB ]
+over/RP ?/. 
+
+[ mq00d1sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+depart/VBP from/IN 
+[ Washington/NNP DC/NNP ]
+to/TO 
+[ Pittsburgh/NNP ]
+on/IN 
+[ June/NNP 12th/JJ ]
+between/IN 
+[ 10/CD A.M./RB ]
+and/CC 
+[ 2/CD P.M./RB ]
+?/. 
+
+[ mq00e1sx/CD ]
+./. 
+
+[ Which/WDT flights/NNS ]
+depart/VBP between/IN 
+[ 7/CD A.M./RB ]
+and/CC 
+[ 5/CD P.M./RB ]
+using/VBG 
+[ aircraft/NNS ]
+other/JJ than/IN 
+[ 733/CD ]
+?/. 
+
+[ mq00f1sx/CD ]
+./. 
+
+[ Please/VB ]
+define/VB 
+[ aircraft/NN codes/NNS 734/CD ]
+,/, 
+[ code/NN 100/CD ]
+,/, 
+[ code/NN F28/CD ]
+,/, and/CC 
+[ code/NN 72S/CD ]
+./. 
+
+[ mq00g1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ the/DT lowest/JJS available/JJ fare/NN ]
+on/IN 
+[ flight/NN 451/CD ]
+?/. 
+
+[ mq00h1sx/CD ]
+./. 
+
+Is/VBZ there/EX ground/NN 
+[ transportation/NN ]
+to/TO and/CC from/IN 
+[ Washington/NNP DC/NNP ]
+?/. 
+
+[ mq00i1sx/CD ]
+./. 
+
+[ What/WP airport/NN ]
+is/VBZ 
+[ BWI/NNP ]
+?/. 
+
+[ mq00j1sx/CD ]
+./. 
+
+[ What/WP type/NN ]
+of/IN 
+[ transport/NN ]
+does/VBZ 
+[ L/DT stand/VB ]
+for/IN ?/. 
+
+[ mq00k1sx/CD ]
+./. 
+
+[ List/VB flight/NN information/NN ]
+for/IN 
+[ flight/NN 2153/CD ]
+departing/VBG 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ June/NNP 10th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mq00l1sx/CD ]
+./. 
+
+[ List/VB ground/NN transportation/NN ]
+available/JJ to/TO and/CC from/IN 
+[ San/NNP Francisco/NNP Airport/NNP ]
+./. 
+
+[ mq00m1sx/CD ]
+./. 
+
+[ List/VB flights/NNS ]
+available/JJ from/IN 
+[ Pittsburgh/NNP ]
+to/TO 
+[ Denver/NNP ]
+on/IN 
+[ June/NNP 15th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mq00n1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ lowest/JJS fare/NN ]
+available/JJ on/IN 
+[ flight/NN 1742/CD ]
+?/. 
+
+[ mq00o1sx/CD ]
+./. 
+
+[ List/VB ground/NN transportation/NN ]
+available/JJ to/TO and/CC from/IN 
+[ the/DT Pittsburgh/NNP Airport/NNP ]
+./. 
+
+[ mq00p1sx/CD ]
+./. 
+
+[ What/WP ]
+do/VBP transport/NN code/NN 
+[ A/NN ]
+and/CC 
+[ code/NN R/NN mean/VB ]
+?/. 
+
+[ mq00q1sx/CD ]
+./. 
+
+How/WRB much/RB is/VBZ 
+[ the/DT taxi/NN ]
+going/VBG to/TO and/CC from/IN 
+[ Pittsburgh/NNP Airport/NNP ]
+?/. 
+
+[ mq00r1sx/CD ]
+./. 
+
+[ List/VB flights/NNS ]
+available/JJ from/IN 
+[ Denver/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ June/NNP 20/CD ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ mq00s1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ lowest/JJS available/JJ fare/NN ]
+on/IN 
+[ flight/NN 343/CD ]
+?/. 
+
+[ mq00t1sx/CD ]
+./. 
+
+[ What/WP ]
+is/VBZ 
+[ lowest/JJS available/JJ fare/NN ]
+for/IN 
+[ any/DT flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ June/NNP 20th/JJ ]
+,/, 
+[ 1991/CD ]
+?/. 
+
+[ mq00u1sx/CD ]
+./. 
+
+[ List/VB available/JJ ground/NN transportation/NN ]
+to/TO and/CC from/IN 
+[ the/DT Denver/NNP Airport/NNP ]
+./. 
+
+[ mq00v1sx/CD ]
+./. 
+
+[ What/WP ]
+does/VBZ 
+[ aircraft/NN code/NN D8S/CD mean/VB ]
+?/. 
+
+[ mq00w1sx/CD ]
+./. 
+
+[ Book/VB flight/NN 2153/CD ]
+departing/VBG from/IN 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ June/NNP 10th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, for/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mq00x1sx/CD ]
+./. 
+
+[ Book/VB flight/NN 451/CD ]
+departing/VBG 
+[ Washington/NNP DC/NNP ]
+on/IN 
+[ June/NNP 12th/JJ ]
+for/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mq00y1sx/CD ]
+./. 
+
+[ Book/VB flight/NN 451/CD ]
+departing/VBG 
+[ Washington/NNP DC/NNP ]
+on/IN 
+[ June/NNP 12th/JJ ]
+,/, 
+[ 1991/CD ]
+,/, for/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mq00z1sx/CD ]
+./. 
+
+[ Book/VB flight/NN 1742/CD ]
+departing/VBG from/IN 
+[ Pittsburgh/NNP ]
+on/IN 
+[ June/NNP 15th/JJ ]
+,/, 
+[ 1991/CD ]
+for/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mq0101sx/CD ]
+./. 
+
+[ Book/VB flight/NN 343/CD ]
+departing/VBG from/IN 
+[ Denver/NNP ]
+on/IN 
+[ June/NNP 20th/JJ ]
+,/, 
+[ 1991/CD ]
+for/IN 
+[ business/NN class/NN ]
+./. 
+
+[ mr0011sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT one-way/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Dallas/NNP ]
+on/IN 
+[ February/NNP 25th/JJ ]
+,/, 
+[ 1991/CD ]
+./. 
+
+[ The/DT flight/NN ]
+should/MD leave/VB after/IN 
+[ noon/NN ]
+,/, and/CC arrive/VB before/IN 
+[ 7/CD P.M/RB ]
+./. 
+
+[ The/DT flight/NN ]
+should/MD be/VB on/IN 
+[ coach/NN economy/NN class/NN ]
+./. 
+
+[ mr0021sx/CD ]
+./. 
+
+[ Book/VB United/NNP Airlines/NNP flight/NN 478/CD ]
+./. 
+
+[ mr0031sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ a/DT round-trip/JJ flight/NN ]
+from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+on/IN 
+[ December/NNP 22nd/JJ ]
+,/, 
+[ 1990/CD ]
+in/IN 
+[ the/DT afternoon/NN ]
+./. 
+
+[ mr0041sx/CD ]
+./. 
+
+[ Book/VB ]
+
+[ an/DT economy/NN fare/NN ]
+on/IN 
+[ United/NNP Airlines/NNP flight/NN 436/CD ]
+,/, from/IN 
+[ Oakland/NNP ]
+to/TO 
+[ Denver/NNP ]
+,/, on/IN 
+[ December/NNP 25th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mr0051sx/CD ]
+./. 
+
+[ Book/VB United/NNP Airlines/NNP flight/NN 178/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+on/IN 
+[ December/NNP 25th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mr0061sx/CD ]
+./. 
+
+[ Book/VB United/NNP Airlines/NNP flight/NN 178/CD ]
+,/, from/IN 
+[ San/NNP Francisco/NNP ]
+to/TO 
+[ Denver/NNP ]
+on/IN 
+[ December/NNP 25th/JJ ]
+,/, 
+[ 1990/CD ]
+,/, on/IN 
+[ an/DT economy/NN fare/NN ]
+./. 
+
+[ mr0071sx/CD ]
+./. 
+
+[ Display/VB flights/NNS ]
+from/IN 
+[ Denver/NNP ]
+to/TO 
+[ San/NNP Francisco/NNP ]
+on/IN 
+[ December/NNP 27th/JJ ]
+,/, 
+[ 1990/CD ]
+./. 
+
+[ mr0081sx/CD ]
+./. 
+
+[ Book/VB flight/NN United/NNP Airlines/NNP ]

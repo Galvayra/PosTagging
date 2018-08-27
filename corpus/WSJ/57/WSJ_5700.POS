@@ -1,0 +1,690 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+If/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT ]
+``/`` 
+[ Gold/NNP Coast/NNP ]
+''/'' in/IN 
+[ the/DT Midwest/NNP ]
+outside/IN 
+[ Chicago/NNP 's/POS North/NNP Shore/NNP ]
+,/, 
+[ it/PRP ]
+is/VBZ 
+[ Michigan/NNP 's/POS Oakland/NNP County/NNP ]
+./. 
+
+Encompassing/VBG more/RBR than/IN 
+[ 50/CD bedroom/NN communities/NNS ]
+north/RB of/IN 
+[ Detroit/NNP ]
+,/, 
+[ Oakland/NNP County/NNP ]
+has/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT highest/JJS per-capita/JJ incomes/NNS ]
+in/IN 
+[ the/DT Midwest/NNP ]
+,/, according/VBG to/TO 
+[ the/DT 1980/CD U.S./NNP census/NN ]
+./. 
+
+======================================
+
+[ The/DT city/NN ]
+of/IN 
+[ Troy/NNP ]
+,/, 
+[ whose/WP$ ]
+
+[ gleaming/VBG highrises/NNS ]
+symbolize/VBP 
+[ the/DT county/NN 's/POS rapid/JJ economic/JJ growth/NN ]
+in/IN 
+[ this/DT decade/NN ]
+,/, recently/RB was/VBD named/VBN 
+[ one/CD ]
+of/IN 
+[ the/DT nation/NN 's/POS three/CD largest/JJS ]
+``/`` 
+[ boom/NN towns/NNS ]
+of/IN 
+[ the/DT 1990s/NNS ]
+''/'' by/IN 
+[ this/DT newspaper/NN ]
+./. 
+
+[ Bloomfield/NNP Hills/NNPS ]
+,/, 
+[ whose/WP$ ]
+
+[ 1980/CD per-capita/JJ income/NN ]
+was/VBD 
+[ $/$ 37,808/CD ]
+,/, is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT wealthiest/JJS communities/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ Oakland/NNP County/NNP ]
+has/VBZ more/RBR than/IN 
+[ private/JJ wealth/NN ]
+--/: 
+[ it/PRP ]
+also/RB receives/VBZ 
+[ Community/NNP Development/NNP Block/NNP Grant/NNP funds/NNS ]
+from/IN 
+[ the/DT U.S./NNP Department/NNP ]
+of/IN 
+[ Housing/NNP ]
+and/CC 
+[ Urban/NNP Development/NNP ]
+./. 
+
+[ Public/JJ records/NNS ]
+show/VBP that/IN 
+[ Oakland/NNP County/NNP ]
+ (/( excluding/VBG 
+[ Pontiac/NNP ]
+,/, 
+[ the/DT county/NN 's/POS least/JJS prosperous/JJ area/NN ]
+ )/) has/VBZ received/VBN more/RBR than/IN 
+[ $/$ 62/CD million/CD ]
+in/IN 
+[ HUD/NNP block/NN grants/NNS ]
+since/IN 
+[ 1975/CD ]
+ (/( about/RB 
+[ two-thirds/NNS ]
+--/: 
+[ $/$ 40,602,915/CD ]
+--/: between/IN 
+[ 1981/CD ]
+and/CC 
+[ 1989/CD ]
+ )/) ./. 
+
+======================================
+
+In/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+,/, 
+[ Oakland/NNP County/NNP ]
+ (/( again/RB ,/, excluding/VBG 
+[ Pontiac/NNP ]
+ )/) received/VBD 
+[ $/$ 4,319,313/CD ]
+./. 
+
+[ HUD/NNP 's/POS block/NN grant/NN program/NN ]
+,/, established/VBN to/TO assist/VB 
+[ the/DT nation/NN 's/POS poor/JJ ]
+,/, also/RB helps/VBZ 
+[ Oakland/NNP County/NNP ]
+'s/VBZ wealthy/JJ ./. 
+
+======================================
+
+[ HUD/NNP ]
+is/VBZ engulfed/VBN in/IN 
+[ scandal/NN ]
+;/: 
+[ a/DT series/NN ]
+of/IN 
+[ revelations/NNS ]
+in/IN 
+[ recent/JJ months/NNS ]
+has/VBZ linked/VBN 
+[ agency/NN officials/NNS ]
+to/TO 
+[ influence-peddling/NN ]
+and/CC 
+[ the/DT misuse/NN ]
+of/IN 
+[ taxpayer/NN funds/NNS ]
+,/, often/RB at/IN 
+[ the/DT behest/NN ]
+of/IN 
+[ members/NNS ]
+of/IN 
+[ Congress/NNP ]
+./. 
+
+Though/IN 
+[ it/PRP ]
+has/VBZ been/VBN overlooked/VBN in/IN 
+[ the/DT scandal/NN ]
+,/, 
+[ the/DT block/NN grant/NN program/NN ]
+is/VBZ 
+[ a/DT classic/JJ example/NN ]
+of/IN 
+[ HUD/NNP 's/POS misuse/NN ]
+of/IN 
+[ taxpayer/NN money/NN ]
+./. 
+
+Except/IN for/IN 
+[ the/DT philosophical/JJ opposition/NN ]
+of/IN 
+[ a/DT few/JJ free-market-oriented/JJ ]
+think/VB 
+[ tanks/NNS ]
+ (/( 
+[ Heritage/NNP ]
+,/, 
+[ Cato/NNP ]
+,/, 
+[ the/DT Mises/NNP Institute/NNP ]
+ )/) ,/, 
+[ the/DT block/NN grant/NN program/NN ]
+has/VBZ escaped/VBN 
+[ scrutiny/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+should/MD come/VB 
+[ as/RB little/JJ surprise/NN ]
+./. 
+
+[ Any/DT member/NN ]
+of/IN 
+[ Congress/NNP ]
+
+[ who/WP ]
+opposes/VBZ 
+[ the/DT program/NN ]
+risks/VBZ 
+[ the/DT ire/NN ]
+of/IN 
+[ local/JJ officials/NNS ]
+receiving/VBG 
+[ block/NN grants/NNS ]
+back/RB in/IN 
+[ the/DT district/NN ]
+./. 
+
+[ Reporters/NNS ]
+and/CC 
+[ editors/NNS ]
+have/VBP spent/VBN 
+[ more/JJR time/NN ]
+chasing/VBG 
+[ headlines/NNS ]
+than/IN critically/RB examining/VBG 
+[ the/DT ]
+``/`` 
+[ raison/FW d'etre/FW ]
+''/'' of/IN 
+[ HUD/NNP spending/NN ]
+./. 
+
+======================================
+
+[ Block/NN grants/NNS ]
+differ/VBP from/IN 
+[ HUD/NNP 's/POS Urban/NNP Development/NNP Action/NNP Grant/NNP ]
+ (/( 
+[ UDAG/NNP ]
+ )/) 
+[ program/NN ]
+,/, established/VBN during/IN 
+[ the/DT Carter/NNP administration/NN ]
+./. 
+
+[ Congress/NNP ]
+has/VBZ defunded/VBN 
+[ the/DT UDAG/NNP program/NN ]
+,/, 
+[ effective/NN ]
+
+[ this/DT month/NN ]
+,/, while/IN 
+[ block/NN grants/NNS ]
+are/VBP still/RB being/VBG dispensed/VBN to/TO 
+[ local/JJ officials/NNS ]
+./. 
+
+======================================
+
+Since/IN 
+[ its/PRP$ creation/NN ]
+by/IN 
+[ President/NNP Nixon/NNP ]
+,/, 
+[ the/DT block/NN grant/NN program/NN ]
+has/VBZ been/VBN popular/JJ among/IN 
+[ Republicans/NNPS ]
+./. 
+
+[ GOP/NNP Rep./NNP William/NNP Broomfield/NNP 's/POS district/NN ]
+includes/VBZ 
+[ part/NN ]
+of/IN 
+[ Oakland/NNP County/NNP ]
+./. 
+
+[ Ending/VBG ]
+
+[ the/DT HUD/NNP program/NN ]
+,/, 
+[ Mr./NNP Broomfield/NNP ]
+contends/VBZ ,/, is/VBZ unrealistic/JJ because/IN ``/`` 
+[ there/EX ]
+would/MD be/VB 
+[ too/RB much/JJ opposition/NN ]
+at/IN 
+[ the/DT local/JJ level/NN ]
+./. 
+
+With/IN 
+[ this/DT type/NN ]
+of/IN 
+[ program/NN ]
+
+[ there/EX ]
+has/VBZ been/VBN 
+[ a/DT considerable/JJ amount/NN ]
+of/IN 
+[ support/NN ]
+for/IN 
+[ it/PRP ]
+among/IN 
+[ local/JJ officials/NNS ]
+./. 
+
+''/'' 
+[ A/DT Broomfield/NNP aide/NN ]
+explains/VBZ ,/, ``/`` 
+[ He/PRP ]
+'s/VBZ being/VBG 
+[ pragmatic/JJ ]
+./. 
+
+[ They/PRP ]
+'re/VBP tremendously/RB popular/JJ with/IN 
+[ local/JJ communities/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Oakland/NNP Township/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT communities/NNS ]
+in/IN 
+[ Mr./NNP Broomfield/NNP 's/POS district/NN ]
+where/WRB 
+[ block/NN grants/NNS ]
+have/VBP proved/VBN 
+[ popular/JJ ]
+./. 
+
+Hidden/VBN within/IN 
+[ HUD/NNP 's/POS $/$ 3/CD billion/CD block-grant/JJ program/NN ]
+is/VBZ 
+[ a/DT $/$ 14,775/CD block/NN grant/NN ]
+to/TO 
+[ Oakland/NNP Township/NNP ]
+for/IN ``/`` 
+[ Downtown/NNP Revitalization/NNP ]
+./. 
+
+''/'' 
+[ Trouble/NN ]
+is/VBZ ,/, 
+[ there/EX ]
+is/VBZ 
+[ no/DT downtown/NN ]
+in/IN 
+[ Oakland/NNP Township/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT county/NN 's/POS newest/JJS bedroom/NN communities/NNS ]
+./. 
+
+``/`` 
+[ Downtown/NN ]
+''/'' is/VBZ 
+[ a/DT parking/JJ lot/NN ]
+at/IN 
+[ the/DT Oakland/NNP Township/NNP hall/NN ]
+./. 
+
+======================================
+
+[ Records/NNS ]
+show/VBP 
+[ the/DT HUD/NNP grant/NN ]
+is/VBZ to/TO ``/`` purchase/VB and/CC improve/VB ''/'' 
+[ the/DT lot/NN ]
+,/, located/VBN in/IN 
+[ a/DT section/NN ]
+known/VBN as/IN 
+[ Goodison/NNP ]
+./. 
+
+[ Goodison/NNP ]
+is/VBZ so/RB small/JJ that/IN 
+[ it/PRP ]
+does/VBZ not/RB even/RB have/VB 
+[ a/DT traffic/NN light/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+ {/( 
+[ Goodison/NNP ]
+ }/) is/VBZ strange/JJ because/IN 
+[ it/PRP ]
+really/RB does/VBZ n't/RB exist/VB ,/, ''/'' said/VBD 
+[ Joan/NNP Buser/NNP ]
+,/, 
+[ Oakland/NNP Township/NNP 's/POS Republican/JJ supervisor/NN ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+had/VBD to/TO define/VB 
+[ Goodison/NNP ]
+,/, 
+[ what/WP ]
+would/MD 
+[ you/PRP ]
+call/VB 
+[ it/PRP ]
+?/. 
+
+[ It/PRP ]
+'s/VBZ not/RB 
+[ a/DT village/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ not/RB 
+[ a/DT city/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ not/RB 
+[ a/DT street/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ an/DT enigma/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Goodison/NNP ]
+may/MD be/VB 
+[ an/DT enigma/NN ]
+,/, but/CC 
+[ HUD/NNP ]
+has/VBZ also/RB given/VBN 
+[ Oakland/NNP Township/NNP ]
+
+[ an/DT $/$ 11,810/CD block/NN grant/NN ]
+to/TO ``/`` reduce/VB 
+[ interest/NN charges/NNS ]
+for/IN 
+[ business/NN owners/NNS ]
+in/IN 
+[ the/DT 'Goodison/NNP  Historical/NNP Area/NNP ]
+'/'' ''/'' and/CC 
+[ a/DT $/$ 13,543/CD grant/NN ]
+to/TO construct/VB ``/`` 
+[ barrier/NN free/JJ improvements/NNS ]
+''/'' at/IN 
+[ the/DT township/NN hall/NN ]
+,/, 
+[ records/NNS ]
+show/VBP ./. 
+
+======================================
+
+[ HUD/NNP block/NN grant/NN funds/NNS ]
+pay/VBP for/IN more/RBR than/IN 
+[ government/NN ]
+parking/JJ 
+[ lots/NNS ]
+and/CC 
+[ commercial/JJ revitalization/NN ]
+in/IN 
+[ the/DT county/NN ]
+./. 
+
+Overall/RB ,/, 
+[ one/CD ]
+in/IN 
+[ every/DT eight/CD dollars/NNS ]
+received/VBN by/IN 
+[ Oakland/NNP County/NNP communities/NNS ]
+under/IN 
+[ the/DT block/NN grant/NN program/NN ]
+--/: 
+[ $/$ 1/CD million/CD ]
+--/: is/VBZ spent/VBN on/IN 
+[ administration/NN ]
+,/, 
+[ records/NNS ]
+show/VBP ./. 
+
+======================================
+
+[ Many/JJ ]
+of/IN 
+[ the/DT projects/NNS ]
+funded/VBN by/IN 
+[ HUD/NNP block/NN grants/NNS ]
+in/IN 
+[ the/DT county/NN ]
+could/MD be/VB paid/VBN for/IN at/IN 
+[ the/DT local/JJ level/NN ]
+through/IN 
+[ millages/NNS ]
+./. 
+
+[ Boom-city/NNP Troy/NNP ]
+will/MD receive/VB 
+[ $/$ 161,649/CD ]
+in/IN 
+[ block/NN grants/NNS ]
+in/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+for/IN ``/`` 
+[ water/NN system/NN ]
+and/CC 
+[ street/NN improvements/NNS ]
+./. 
+
+''/'' 
+[ Mayor/NNP Richard/NNP Doyle/NNP ]
+says/VBZ abolishing/VBG 
+[ the/DT block/NN grant/NN program/NN ]
+``/`` would/MD n't/RB have/VB 
+[ a/DT major/JJ impact/NN ]
+,/, ''/'' although/IN 
+[ it/PRP ]
+does/VBZ not/RB make/VB 
+[ sense/NN ]
+for/IN 
+[ the/DT city/NN ]
+to/TO turn/VB down/RP 
+[ HUD/NNP funds/NNS ]
+while/IN 
+[ they/PRP ]
+are/VBP available/JJ ./. 
+
+======================================
+
+``/`` 
+[ A/DT growth/NN area/NN ]
+has/VBZ 
+[ the/DT ability/NN ]
+to/TO tax/VB 
+[ itself/PRP ]
+and/CC finance/VB 
+[ the/DT solution/NN ]
+to/TO 
+[ some/DT ]
+of/IN 
+[ those/DT problems/NNS ]
+,/, ''/'' says/VBZ 
+[ Rep./NNP Bob/NNP Carr/NNP ]
+,/, 
+[ a/DT Democrat/NNP ]
+
+[ whose/WP$ district/NN ]
+includes/VBZ 
+[ part/NN ]
+of/IN 
+[ the/DT county/NN ]
+./. 
+
+======================================
+
+[ Rep./NNP Carr/NNP ]
+favors/VBZ 
+[ tightening/VBG eligibility/NN requirements/NNS ]
+for/IN 
+[ the/DT program/NN ]
+./. 
+
+[ He/PRP ]
+supports/VBZ continued/VBD funding/VBG for/IN 
+[ depressed/JJ areas/NNS ]
+such/JJ as/IN 
+[ Pontiac/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ in/IN 
+[ his/PRP$ district/NN ]
+./. 
+
+``/`` For/IN 
+[ an/DT area/NN ]
+of/IN 
+[ economic/JJ decline/NN ]
+and/CC 
+[ a/DT dwindling/VBG tax/NN base/NN ]
+,/, 
+[ the/DT chances/NNS ]
+of/IN digging/VBG 
+[ yourself/PRP ]
+out/IN of/IN 
+[ a/DT hole/NN ]
+are/VBP slim/JJ or/CC 
+[ none/NN ]
+,/, ''/'' 
+[ Mr./NNP Carr/NNP ]
+said/VBD ./. 
+
+[ Rep./NNP Broomfield/NNP ]
+supports/VBZ funding/VBG for/IN 
+[ upscale/JJ communities/NNS ]
+in/IN 
+[ his/PRP$ district/NN ]
+and/CC 
+[ Pontiac/NNP ]
+:/: ``/`` 
+[ Pontiac/NNP ]
+is/VBZ 
+[ a/DT community/NN ]
+in/IN 
+[ need/NN ]
+of/IN 
+[ assistance/NN ]
+./. 
+
+''/'' During/IN 
+[ a/DT July/NNP 10/CD speech/NN ]
+in/IN 
+[ Detroit/NNP ]
+,/, 
+[ HUD/NNP Secretary/NNP Jack/NNP Kemp/NNP ]
+said/VBD ,/, ``/`` 
+[ There/EX ]
+are/VBP 
+[ a/DT lot/NN ]
+of/IN {/( 
+[ HUD/NNP ]
+ }/) 
+[ programs/NNS ]
+
+[ that/WDT ]
+need/VBP to/TO be/VB reformed/VBN --/: 
+[ every/DT one/NN ]
+./. 
+
+[ We/PRP ]
+should/MD have/VB 
+[ the/DT courage/NN ]
+to/TO 
+[ close/VB programs/NNS ]
+
+[ that/WDT ]
+do/VBP n't/RB work/VB ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Kemp/NNP ]
+should/MD start/VB with/IN 
+[ HUD/NNP 's/POS block/NN grant/NN program/NN ]
+,/, 
+[ which/WDT ]
+enriches/VBZ 
+[ wealthy/JJ areas/NNS ]
+at/IN 
+[ the/DT poor/NN 's/POS expense/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kaza/NNP ]
+,/, 
+[ an/DT Oakland/NNP County/NNP resident/NN ]
+,/, is/VBZ vice/RB 
+[ president/NN ]
+for/IN 
+[ policy/NN research/NN ]
+at/IN 
+[ the/DT Makinac/NNP Center/NNP ]
+,/, of/IN 
+[ Midland/NNP ]
+,/, 
+[ Mich/NNP ]
+./. 

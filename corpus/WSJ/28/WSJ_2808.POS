@@ -1,0 +1,188 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ Bob/NNP Davis/NNP 's/POS Aug./NNP 25/CD page-one/JJ summary/NN ]
+of/IN 
+[ the/DT Voyager/NNP mission/NN ]
+,/, 
+[ he/PRP ]
+describes/VBZ 
+[ a/DT telephone/NN interview/NN ]
+with/IN 
+[ me/PRP ]
+before/IN 
+[ Voyager/NNP 2/CD ]
+encountered/VBD 
+[ Neptune/NNP ]
+,/, in/IN 
+[ which/WDT ]
+
+[ I/PRP ]
+predicted/VBD that/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ Neptune/NNP 's/POS moon/NN Triton/NNP ]
+would/MD be/VB rich/JJ in/IN 
+[ complex/JJ organic/JJ solids/NNS ]
+./. 
+
+[ Bishun/NNP Khare/NNP ]
+and/CC 
+[ I/PRP ]
+named/VBD 
+[ such/JJ solids/NNS tholins/NNS 10/CD years/NNS ]
+ago/IN ./. 
+
+But/CC 
+[ Mr./NNP Davis/NNP ]
+is/VBZ wrong/JJ to/TO call/VB 
+[ these/DT materials/NNS ]
+``/`` 
+[ primordial/JJ ]
+./. 
+
+''/'' 
+[ These/DT organic/JJ solids/NNS ]
+would/MD be/VB produced/VBN from/IN 
+[ the/DT methane/NN ]
+snows/NNS of/IN 
+[ contemporary/JJ Triton/NNP ]
+by/IN 
+[ charged/VBN particles/NNS ]
+and/CC 
+[ ultraviolet/NN radiation/NN ]
+./. 
+
+======================================
+
+After/IN 
+[ the/DT encounter/NN ]
+,/, 
+[ Mr./NNP Davis/NNP ]
+writes/VBZ ,/, ``/`` Instead/RB of/IN 
+[ vast/JJ fields/NNS of'tholin/NN ]
+,/, '/'' 
+[ there/EX ]
+are/VBP 
+[ small/JJ patches/NNS ]
+of/IN 
+[ reddish/JJ material/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+''/'' 
+[ There/EX ]
+'s/VBZ 
+[ no/DT ]
+``/`` instead/RB ''/'' about/IN 
+[ it/PRP ]
+./. 
+
+[ Tens/NNS ]
+of/IN 
+[ percent/NN ]
+of/IN 
+[ the/DT surface/NN area/NN ]
+of/IN 
+[ Triton/NNP ]
+--/: or/CC more/JJR than/IN 
+[ a/DT million/CD square/NN miles/NNS ]
+--/: are/VBP spectrally/RB red/JJ ./. 
+
+As/RB far/RB as/IN 
+[ I/PRP ]
+can/MD tell/VB ,/, 
+[ all/DT scientists/NNS ]
+working/VBG on/IN 
+[ the/DT problem/NN ]
+--/: including/VBG 
+[ all/PDT my/PRP$ fellow/NN members/NNS ]
+of/IN 
+[ the/DT Voyager/NNP Imaging/NNP Team/NNP ]
+--/: concur/VBP that/IN 
+[ organics/NNS ]
+are/VBP 
+[ the/DT cause/NN ]
+./. 
+
+[ This/DT ]
+completes/VBZ 
+[ an/DT important/JJ set/NN ]
+of/IN 
+[ findings/NNS ]
+by/IN 
+[ Voyager/NNP ]
+in/IN 
+[ which/WDT ]
+
+[ complex/JJ organic/JJ matter/NN ]
+,/, perhaps/RB similar/JJ to/TO 
+[ the/DT material/NN ]
+
+[ that/WDT ]
+led/VBD to/TO 
+[ the/DT origin/NN ]
+of/IN 
+[ life/NN ]
+on/IN 
+[ Earth/NN ]
+,/, has/VBZ been/VBN found/VBN abundantly/RB through/IN 
+[ the/DT outer/JJ solar/JJ system/NN ]
+./. 
+
+======================================
+
+ (/( If/IN 
+[ the/DT report/NN ]
+of/IN spectrally/RB 
+[ blue/JJ snow/NN ]
+holds/VBZ up/IN in/IN 
+[ the/DT face/NN ]
+of/IN 
+[ further/JJ data/NNS analysis/NN ]
+,/, 
+[ there/EX ]
+may/MD not/RB be/VB 
+[ any/DT deep/JJ mystery/NN ]
+here/RB ./. 
+
+[ Very/RB fine/JJ grained/JJ methane/NN frost/NN ]
+,/, before/IN being/VBG irradiated/VBN ,/, often/RB shows/VBZ 
+[ such/PDT a/DT color/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ Carl/NNP Sagan/NNP ]
+
+======================================
+
+[ Cornell/NNP University/NNP ]
+
+======================================
+
+[ Ithaca/NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 

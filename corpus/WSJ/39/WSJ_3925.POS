@@ -1,0 +1,260 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Canada/NNP 's/POS largest/JJS food/NN processor/NN ]
+,/, 
+[ Canada/NNP Packers/NNP Inc./NNP ]
+,/, said/VBD 
+[ it/PRP ]
+will/MD seek/VB 
+[ takeover/NN ]
+offers/NNS for/IN 
+[ the/DT company/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ a/DT stock-market/NN value/NN ]
+of/IN about/RB 
+[ 731/CD million/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 620.9/CD million/CD ]
+ )/) ./. 
+
+======================================
+
+[ The/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+decided/VBD to/TO seek/VB 
+[ a/DT buyer/NN ]
+after/IN 
+[ the/DT McLean/NNP family/NN ]
+of/IN 
+[ Toronto/NNP ]
+,/, 
+[ which/WDT ]
+holds/VBZ about/RB 
+[ 30/CD %/NN ]
+of/IN 
+[ its/PRP$ shares/NNS ]
+,/, said/VBD 
+[ it/PRP ]
+was/VBD willing/JJ to/TO sell/VB 
+[ its/PRP$ stake/NN ]
+``/`` if/IN 
+[ an/DT attractive/JJ offer/NN ]
+is/VBZ made/VBN for/IN 
+[ all/DT ]
+of/IN 
+[ the/DT ]
+ (/( 
+[ company/NN 's/POS ]
+ )/) 
+[ shares/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Canada/NNP Packers/NNP ]
+said/VBD 
+[ it/PRP ]
+hired/VBD 
+[ RBC/NNP Dominion/NNP Securities/NNP Inc./NNP ]
+to/TO identify/VB 
+[ potential/JJ bidders/NNS ]
+,/, and/CC adopted/VBD 
+[ a/DT shareholder/NN rights/NNS ]
+plan/NN 
+[ that/WDT ]
+effectively/RB gives/VBZ 
+[ the/DT company/NN ]
+until/IN 
+[ Dec./NNP 15/CD ]
+to/TO make/VB 
+[ a/DT decision/NN ]
+on/IN 
+[ any/DT bids/NNS ]
+received/VBD ./. 
+
+======================================
+
+In/IN 
+[ heavy/NN ]
+trading/NN on/IN 
+[ the/DT Toronto/NNP Stock/NNP Exchange/NNP yesterday/NN ]
+,/, 
+[ Canada/NNP Packers/NNP ]
+gained/VBD 
+[ C$/$ 6.50/CD ]
+to/TO close/VB at/IN 
+[ C$/$ 20.25/CD ]
+ (/( 
+[ US$/$ 17.20/CD ]
+ )/) ./. 
+
+======================================
+
+[ William/NNP McLean/NNP ]
+,/, 
+[ whose/WP$ father/NN ]
+founded/VBD 
+[ Canada/NNP Packers/NNP ]
+and/CC was/VBD 
+[ president/NN ]
+until/IN 
+[ 1954/CD ]
+,/, explained/VBD 
+[ the/DT decision/NN ]
+to/TO sell/VB ./. 
+
+``/`` Basically/RB 
+[ it/PRP ]
+'s/VBZ that/IN 
+[ there/EX ]
+is/VBZ no/RB longer/RBR 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT family/NN ]
+directly/RB engaged/VBN in/IN 
+[ the/DT management/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+[ We/PRP ]
+just/RB feel/VBP that/IN holding/VBG 
+[ that/DT investment/NN ]
+in/IN 
+[ such/PDT a/DT concentrated/JJ form/NN ]
+is/VBZ 
+[ no/DT ]
+longer/RBR 
+[ appropriate/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Roger/NNP Porretti/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Canada/NNP Packers/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+knew/VBD of/IN 
+[ no/DT potential/JJ bidders/NNS ]
+or/CC interested/JJ 
+[ parties/NNS ]
+and/CC declined/VBD to/TO place/VB 
+[ a/DT value/NN ]
+on/IN 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+[ One/CD analyst/NN ]
+said/VBD 
+[ potential/JJ bidders/NNS ]
+could/MD include/VB closely/RB held/VBN 
+[ McCain/NNP Foods/NNP Ltd./NNP ]
+of/IN 
+[ New/NNP Brunswick/NNP ]
+and/CC 
+[ Peter/NNP Pocklington/NNP ]
+,/, 
+[ owner/NN ]
+of/IN 
+[ the/DT Edmonton/NNP Oilers/NNP hockey/NN franchise/NN ]
+and/CC 
+[ several/JJ meat-processing/JJ concerns/NNS ]
+./. 
+
+[ McCain/NNP ]
+declined/VBD 
+[ comment/NN ]
+and/CC 
+[ Mr./NNP Pocklington/NNP ]
+could/MD n't/RB be/VB reached/VBN ./. 
+
+======================================
+
+[ Ian/NNP Osler/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Prudential/NNP Bache/NNP Securities/NNP Canada/NNP Ltd./NNP ]
+,/, said/VBD 
+[ he/PRP ]
+thinks/VBZ 
+[ it/PRP ]
+is/VBZ 
+[ unlikely/JJ one/CD bidder/NN ]
+will/MD emerge/VB for/IN 
+[ the/DT entire/JJ company/NN ]
+./. 
+
+======================================
+
+[ Canada/NNP Packers/NNP '/POS operations/NNS ]
+include/VBP 
+[ meat/NN ]
+processing/NN and/CC packaging/NN ,/, 
+[ fish/NN processing/NN ]
+,/, 
+[ dairy/NN ]
+,/, 
+[ animal/NN feeds/NNS ]
+and/CC 
+[ food/NN chemicals/NNS ]
+./. 
+
+For/IN 
+[ the/DT year/NN ]
+ended/VBD 
+[ March/NNP 25/CD ]
+,/, 
+[ the/DT company/NN ]
+had/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ C$/$ 25.2/CD million/CD ]
+on/IN 
+[ sales/NNS ]
+of/IN 
+[ C$/$ 3.22/CD billion/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Osler/NNP ]
+said/VBD 
+[ the/DT company/NN ]
+is/VBZ difficult/JJ to/TO 
+[ value/NN ]
+,/, but/CC 
+[ he/PRP ]
+said/VBD 
+[ yesterday/NN 's/POS run-up/NN ]
+in/IN 
+[ share/NN price/NN ]
+``/`` is/VBZ getting/VBG close/RB to/TO 
+[ a/DT full/JJ value/NN ]
+./. 

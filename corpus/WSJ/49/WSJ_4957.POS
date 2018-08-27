@@ -1,0 +1,428 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+With/IN 
+[ Congress/NNP ]
+set/JJ for/IN 
+[ a/DT brawl/NN ]
+over/IN 
+[ taxes/NNS ]
+,/, 
+[ it/PRP ]
+'s/VBZ 
+[ time/NN ]
+to/TO burst/VB 
+[ a/DT bubble/NN ]
+./. 
+
+Maybe/RB 
+[ a/DT few/JJ tax-policy/NN illusions/NNS ]
+will/MD explode/VB in/IN 
+[ the/DT bargain/NN ]
+./. 
+
+======================================
+
+[ The/DT ]
+``/`` 
+[ bubble/NN ]
+''/'' of/IN 
+[ course/NN ]
+refers/VBZ to/TO 
+[ the/DT anomaly/NN ]
+that/IN 
+[ some/DT upper-middle-income/JJ taxpayers/NNS ]
+pay/VBP 
+[ a/DT marginal/JJ tax/NN rate/NN ]
+of/IN 
+[ 33/CD %/NN ]
+,/, while/IN 
+[ higher-income/JJ people/NNS ]
+pay/VBP 
+[ a/DT marginal/JJ rate/NN ]
+of/IN 
+[ 28/CD %/NN ]
+./. 
+
+[ Richard/NNP Gephardt/NNP ]
+and/CC 
+[ the/DT Democratic/JJ leadership/NN ]
+in/IN 
+[ Congress/NNP ]
+somehow/RB think/VBP 
+[ this/DT anomaly/NN ]
+offers/VBZ 
+[ a/DT populist/JJ ]
+and/CC 
+[ tax-revenue/NN bonanza/NN ]
+,/, and/CC so/RB are/VBP proposing/VBG that/IN 
+[ the/DT 33/CD %/NN rate/NN ]
+apply/VB to/TO 
+[ all/DT levels/NNS ]
+of/IN 
+[ income/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ inspection/NN ]
+
+[ this/DT argument/NN fades/VBZ ]
+as/RB fast/RB as/IN 
+[ bubble/NN bath/NN ]
+./. 
+
+During/IN 
+[ the/DT fight/NN ]
+over/IN 
+[ tax/NN reform/NN ]
+
+[ we/PRP ]
+sweat/VBP 
+[ blood/NN ]
+trying/VBG to/TO get/VB 
+[ people/NNS ]
+to/TO understand/VB 
+[ the/DT concept/NN ]
+of/IN 
+[ marginal/JJ tax/NN rates/NNS ]
+--/: 
+[ that/DT ]
+is/VBZ ,/, 
+[ the/DT rate/NN ]
+applied/VBN to/TO 
+[ each/DT new/JJ dollar/NN ]
+of/IN 
+[ income/NN ]
+./. 
+
+[ We/PRP ]
+suppose/VBP 
+[ we/PRP ]
+should/MD be/VB gratified/JJ that/IN 
+[ the/DT Gephardt/NNP Democrats/NNPS ]
+now/RB think/VBP 
+[ the/DT marginal/JJ rate/NN ]
+is/VBZ 
+[ the/DT rate/NN ]
+./. 
+
+Except/IN 
+[ that/DT ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ who/WP ]
+pays/VBZ 
+[ more/JJR tax/NN ]
+,/, 
+[ what/WP ]
+matters/VBZ is/VBZ 
+[ average/JJ rates/NNS ]
+./. 
+
+In/IN 
+[ this/DT sense/NN ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ no/DT bubble/NN ]
+./. 
+
+======================================
+
+[ The/DT bubble/NN anomaly/NN results/VBZ ]
+because/IN 
+[ the/DT 1986/CD tax/NN bill/NN ]
+established/VBD 
+[ two/CD basic/JJ rates/NNS ]
+,/, 
+[ 15/CD %/NN ]
+and/CC 
+[ 28/CD %/NN ]
+./. 
+
+Normally/RB 
+[ everyone/NN ]
+would/MD get/VB 
+[ the/DT lower/JJR rate/NN ]
+on/IN 
+[ the/DT first/JJ bracket/NN ]
+of/IN 
+[ income/NN ]
+,/, but/CC 
+[ the/DT tax/NN writers/NNS ]
+decided/VBD to/TO phase/VB out/RP 
+[ this/DT benefit/NN ]
+as/IN 
+[ incomes/NNS ]
+increased/VBD ./. 
+
+[ A/DT surtax/NN ]
+is/VBZ applied/VBN through/IN 
+[ the/DT phase-out/JJ brackets/NNS ]
+--/: 
+[ $/$ 43,151/CD ]
+to/TO 
+[ $/$ 89,561/CD ]
+on/IN 
+[ individual/JJ returns/NNS ]
+and/CC 
+[ $/$ 71,901/CD ]
+to/TO 
+[ $/$ 149,250/CD ]
+on/IN 
+[ joint/JJ returns/NNS ]
+--/: 
+[ which/WDT ]
+results/VBZ in/IN 
+[ a/DT marginal/JJ rate/NN ]
+of/IN 
+[ 33/CD %/NN ]
+./. 
+
+However/RB ,/, 
+[ some/DT part/NN ]
+of/IN 
+[ such/JJ income/NN ]
+is/VBZ taxed/VBN at/IN only/RB 
+[ 15/CD %/NN ]
+,/, so/IN 
+[ the/DT average/JJ rate/NN ]
+remains/VBZ below/IN 
+[ 28/CD %/NN ]
+./. 
+
+After/IN 
+[ the/DT phase-out/NN ]
+,/, 
+[ you/PRP ]
+have/VBP 
+[ a/DT flat/JJ tax/NN ]
+,/, with/IN 
+[ the/DT average/JJ rate/NN ]
+and/CC 
+[ marginal/JJ rate/NN ]
+
+[ both/DT ]
+at/IN 
+[ 28/CD %/NN ]
+./. 
+
+======================================
+
+Despite/IN 
+[ the/DT marginal-rate/NN bubble/NN ]
+,/, in/IN 
+[ short/JJ ]
+,/, 
+[ no/DT taxpayer/NN ]
+pays/VBZ 
+[ an/DT average/JJ rate/NN ]
+more/JJR than/IN 
+[ 28/CD %/NN ]
+./. 
+
+Or/CC to/TO put/VB 
+[ it/PRP ]
+in/IN 
+[ Gephardtian/JJ class-warfare/NN terms/NNS ]
+,/, 
+[ the/DT rich/JJ ]
+still/RB pay/VBP 
+[ more/JJR taxes/NNS ]
+than/IN 
+[ the/DT middle/JJ class/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+are/VBP not/RB suggesting/VBG that/IN 
+[ the/DT 33/CD %/NN rate/NN ]
+is/VBZ n't/RB 
+[ an/DT extra/JJ burden/NN ]
+on/IN 
+[ many/JJ taxpayers/NNS ]
+./. 
+
+[ Marginal/JJ rates/NNS ]
+,/, not/RB 
+[ average/JJ rates/NNS ]
+,/, are/VBP 
+[ what/WP ]
+determine/VBP 
+[ incentive/NN effects/NNS ]
+and/CC 
+[ economic/JJ production/NN ]
+./. 
+
+[ We/PRP ]
+certainly/RB would/MD support/VB closing/VBG 
+[ the/DT bubble/NN ]
+with/IN 
+[ a/DT 28/CD %/NN rate/NN ]
+with/IN 
+[ no/DT phase-out/NN ]
+of/IN 
+[ lower/JJR brackets/NNS ]
+,/, resulting/VBG in/IN 
+[ a/DT 28/CD %/NN top/JJ marginal/JJ rate/NN ]
+and/CC 
+[ lower/JJR taxes/NNS ]
+for/IN 
+[ the/DT middle/JJ class/NN ]
+in/IN 
+[ general/JJ ]
+and/CC 
+[ two-income/JJ families/NNS ]
+in/IN 
+[ particular/JJ ]
+./. 
+
+[ This/DT ]
+did/VBD not/RB happen/VB in/IN 
+[ 1986/CD ]
+because/IN of/IN 
+[ feared/JJ revenue/NN losses/NNS ]
+based/VBN on/IN 
+[ static/JJ revenue/NN estimates/NNS ]
+,/, though/IN 
+[ we/PRP ]
+doubt/VBP that/IN 
+[ losses/NNS ]
+would/MD be/VB severe/JJ in/IN 
+[ a/DT real/JJ ]
+,/, 
+[ dynamic/JJ world/NN ]
+./. 
+
+======================================
+
+[ The/DT point/NN ]
+to/TO keep/VB in/IN 
+[ mind/NN ]
+now/RB is/VBZ that/IN 
+[ the/DT Gephardt/NNP proposal/NN ]
+,/, closing/VBG 
+[ the/DT bubble/NN ]
+with/IN 
+[ a/DT new/JJ 33/CD %/NN top/JJ rate/NN ]
+,/, does/VBZ 
+[ nothing/NN ]
+
+[ whatever/RB ]
+for/IN 
+[ these/DT taxpayers/NNS ]
+./. 
+
+[ Their/PRP$ taxes/NNS ]
+would/MD not/RB be/VB affected/VBN ./. 
+
+To/TO be/VB fair/JJ ,/, 
+[ they/PRP ]
+could/MD take/VB 
+[ advantage/NN ]
+of/IN 
+[ the/DT individual/JJ retirement/NN account/NN ]
+
+[ he/PRP ]
+proposes/VBZ ,/, if/IN 
+[ they/PRP ]
+have/VBP 
+[ any/DT money/NN ]
+left/VBN over/RP to/TO lock/VB up/RP for/IN 
+[ government-approved/JJ purposes/NNS ]
+./. 
+
+But/CC to/TO be/VB realistic/JJ ,/, once/IN 
+[ rate/NN boosts/NNS ]
+start/VBP ,/, 
+[ the/DT definition/NN ]
+of/IN ``/`` 
+[ rich/JJ ]
+''/'' will/MD soon/RB start/VB to/TO drop/VB ./. 
+
+On/IN 
+[ the/DT historical/JJ evidence/NN ]
+,/, 
+[ it/PRP ]
+will/MD come/VB to/TO include/VB 
+[ the/DT two-income/JJ family/NN ]
+making/VBG more/JJR than/IN 
+[ a/DT Congressman/NNP 's/POS salary/NN ]
+,/, currently/RB 
+[ $/$ 89,500/CD ]
+./. 
+
+======================================
+
+If/IN 
+[ Mr./NNP Gephardt/NNP ]
+really/RB cared/VBD about/IN 
+[ the/DT middle/JJ class/NN ]
+,/, 
+[ he/PRP ]
+'d/MD lower/VB 
+[ everyone/NN ]
+
+[ 's/POS rate/NN ]
+to/TO 
+[ 28/CD %/NN ]
+./. 
+
+Instead/RB ,/, 
+[ he/PRP ]
+wants/VBZ to/TO tax/VB 
+[ them/PRP ]
+as/RB much/RB ,/, and/CC 
+[ others/NNS ]
+more/RBR ./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT soap/NN bubble/NN ]
+
+[ that/WDT ]
+is/VBZ sure/JJ to/TO burst/VB ,/, leaving/VBG 
+[ an/DT unsightly/JJ film/NN ]
+around/IN 
+[ the/DT Democratic/NNP Party/NNP ]
+./. 
+
+======================================
+ 
+[ \*/LS ]
+After/IN 
+[ deductions/NNS ]
+,/, including/VBG 
+[ exemptions/NNS ]
+for/IN 
+[ dependents/NNS ]
+and/CC earned/JJ 
+[ income/NN credit/NN ]
+for/IN 
+[ low-income/JJ families/NNS ]
+./. 
+
+======================================
+
+[ Source/NN ]
+:/: Based/VBN on/IN 
+[ Internal/NNP Revenue/NNP Service/NNP tax/NN tables/NNS ]
+,/, 

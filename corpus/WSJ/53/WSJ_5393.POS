@@ -1,0 +1,597 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP investigators/NNS ]
+have/VBP reported/VBN that/IN 
+[ employees/NNS ]
+at/IN 
+[ Eli/NNP Lilly/NNP ]
+&/CC 
+[ Co./NNP 's/POS Indianapolis/NNP plant/NN ]
+submitted/VBD 
+[ false/JJ ]
+or/CC 
+[ incomplete/JJ data/NNS ]
+to/TO 
+[ the/DT FDA/NNP ]
+on/IN 
+[ some/DT ]
+of/IN 
+[ the/DT drugs/NNS ]
+
+[ it/PRP ]
+made/VBD ./. 
+
+======================================
+
+In/IN 
+[ two/CD instances/NNS ]
+,/, 
+[ investigators/NNS ]
+wrote/VBD ,/, 
+[ the/DT plant/NN ]
+failed/VBD to/TO report/VB to/TO 
+[ the/DT FDA/NNP ]
+that/IN 
+[ drugs/NNS ]
+failed/VBD 
+[ tests/NNS ]
+for/IN 
+[ stability/NN ]
+./. 
+
+[ Such/JJ tests/NNS ]
+indicate/VBP 
+[ a/DT drug/NN 's/POS ability/NN ]
+to/TO work/VB as/IN promised/VBN after/IN 
+[ a/DT certain/JJ amount/NN ]
+of/IN 
+[ time/NN ]
+./. 
+
+======================================
+
+[ Congressional/JJ investigators/NNS ]
+said/VBD 
+[ they/PRP ]
+plan/VBP to/TO examine/VB 
+[ those/DT ]
+and/CC 
+[ other/JJ incidents/NNS ]
+cited/VBN by/IN 
+[ FDA/NNP investigators/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ fair/JJ to/TO say/VB 
+[ the/DT committee/NN ]
+is/VBZ looking/VBG at/IN 
+[ that/DT ]
+,/, ''/'' said/VBD 
+[ a/DT staff/NN member/NN ]
+of/IN 
+[ the/DT investigations/NNS subcommittee/NN ]
+of/IN 
+[ the/DT House/NNP Energy/NNP ]
+and/CC 
+[ Commerce/NNP Committee/NNP ]
+./. 
+
+``/`` 
+[ That/DT ]
+goes/VBZ to/TO 
+[ the/DT question/NN ]
+of/IN 
+[ obfuscation/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT Lilly/NNP spokesman/NN ]
+said/VBD 
+[ the/DT incidents/NNS ]
+were/VBD ``/`` 
+[ technical/JJ aberrations/NNS ]
+''/'' and/CC that/IN 
+[ the/DT company/NN ]
+is/VBZ addressing/VBG 
+[ them/PRP ]
+in/IN 
+[ its/PRP$ plan/NN ]
+to/TO fix/VB 
+[ the/DT problems/NNS ]
+at/IN 
+[ the/DT plant/NN ]
+./. 
+
+[ Lilly/NNP ]
+has/VBZ said/VBD 
+[ it/PRP ]
+'s/VBZ reviewing/VBG 
+[ its/PRP$ manufacturing/NN operations/NNS ]
+and/CC 
+[ its/PRP$ goal/NN ]
+is/VBZ to/TO ``/`` address/VB 
+[ all/DT ]
+of/IN 
+[ the/DT issues/NNS ]
+raised/VBN by/IN 
+[ the/DT FDA/NNP ]
+./. 
+
+''/'' 
+[ Last/JJ week/NN ]
+,/, 
+[ it/PRP ]
+halted/VBD 
+[ the/DT distribution/NN ]
+of/IN 
+[ all/DT drugs/NNS ]
+made/VBN at/IN 
+[ the/DT Indianapolis/NNP plant/NN ]
+and/CC recalled/VBD 
+[ 10/CD drugs/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT related/VBN development/NN ]
+,/, 
+[ subcommittee/NN Chairman/NNP John/NNP D./NNP Dingell/NNP late/JJ yesterday/NN ]
+asked/VBD 
+[ Lilly/NNP ]
+for/IN 
+[ copies/NNS ]
+of/IN 
+[ company/NN documents/NNS ]
+and/CC 
+[ records/NNS ]
+of/IN 
+[ inspections/NNS ]
+of/IN 
+[ its/PRP$ facilities/NNS ]
+from/IN 
+[ 1985/CD ]
+to/TO 
+[ the/DT present/NN ]
+,/, including/VBG 
+[ a/DT list/NN ]
+of/IN 
+[ management/NN ]
+at/IN 
+[ the/DT Indianapolis/NNP plant/NN ]
+./. 
+
+In/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ Lilly/NNP Chairman/NNP Richard/NNP D./NNP Wood/NNP ]
+,/, 
+[ Mr./NNP Dingell/NNP ]
+said/VBD 
+[ the/DT FDA/NNP report/NN ]
+``/`` confirmed/VBN that/IN 
+[ callous/JJ ]
+and/CC 
+[ cavalier/JJ business/NN practices/NNS ]
+were/VBD 
+[ commonplace/JJ ]
+''/'' in/IN 
+[ the/DT plant/NN ]
+./. 
+
+======================================
+
+[ A/DT Lilly/NNP spokesman/NN ]
+said/VBD 
+[ he/PRP ]
+could/MD n't/RB comment/VB because/IN 
+[ the/DT company/NN ]
+had/VBD not/RB yet/RB seen/VBN 
+[ the/DT letter/NN ]
+./. 
+
+======================================
+
+[ Last/JJ week/NN ]
+,/, 
+[ Mr./NNP Dingell/NNP ]
+asked/VBD 
+[ the/DT FDA/NNP ]
+for/IN 
+[ inspection/NN records/NNS ]
+of/IN more/RBR than/IN 
+[ 50/CD Lilly/NNP ]
+manufacturing/NN 
+[ plants/NNS ]
+./. 
+
+[ That/DT request/NN ]
+came/VBD in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ the/DT investigators/NNS '/POS findings/NNS ]
+of/IN 
+[ widespread/JJ problems/NNS ]
+at/IN 
+[ the/DT Indianapolis/NNP plant/NN ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ drug/NN tablets/NNS ]
+and/CC 
+[ capsules/NNS ]
+./. 
+
+[ The/DT examination/NN ]
+of/IN 
+[ Lilly/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT biggest/JJS makers/NNS ]
+of/IN 
+[ brand-name/JJ drugs/NNS ]
+,/, marked/VBD 
+[ a/DT broadening/NN ]
+of/IN 
+[ the/DT subcommittee/NN 's/POS investigation/NN ]
+./. 
+
+[ It/PRP ]
+had/VBD been/VBN investigating/VBG 
+[ alleged/JJ wrongdoing/NN ]
+by/IN 
+[ makers/NNS ]
+of/IN 
+[ generic/JJ drugs/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ an/DT FDA/NNP spokesman/NN ]
+said/VBD 
+[ the/DT investigation/NN ]
+found/VBD ``/`` 
+[ a/DT number/NN ]
+of/IN 
+[ objectionable/JJ practices/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD 
+[ they/PRP ]
+are/VBP different/JJ from/IN 
+[ those/DT ]
+found/VBN in/IN 
+[ the/DT investigation/NN ]
+of/IN 
+[ generic/JJ drug/NN makers/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ FDA/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+have/VBP 
+[ no/DT evidence/NN ]
+of/IN 
+[ fraud/NN ]
+at/IN Lilly/NNP ./. 
+
+======================================
+
+In/IN 
+[ the/DT stability/NN tests/NNS ]
+,/, 
+[ investigators/NNS ]
+said/VBD that/IN 
+[ four/CD lots/NNS ]
+of/IN 
+[ the/DT antibiotic/NN Ilotycin/NNP ]
+showed/VBD 
+[ failures/NNS ]
+for/IN 
+[ moisture/NN ]
+,/, but/CC 
+[ that/DT ]
+reports/VBZ to/TO 
+[ the/DT FDA/NNP ]
+did/VBD n't/RB mention/VB 
+[ that/DT ]
+./. 
+
+[ They/PRP ]
+also/RB found/VBD that/IN 
+[ a/DT 1985/CD ]
+Lilly/NNP 
+[ report/NN ]
+to/TO 
+[ the/DT FDA/NNP ]
+extended/VBD 
+[ the/DT expiration/NN date/NN ]
+for/IN 
+[ the/DT drug/NN ]
+to/TO 
+[ four/CD years/NNS ]
+from/IN 
+[ two/CD ]
+even/RB though/IN 
+[ stability/NN ]
+for/IN 
+[ the/DT marketed/VBN lots/NNS ]
+had/VBD 
+[ those/DT failures/NNS ]
+./. 
+
+======================================
+
+[ Moisture/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ tests/NNS ]
+to/TO check/VB 
+[ stability/NN ]
+./. 
+
+[ Too/RB much/JJ moisture/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, can/MD make/VB 
+[ a/DT drug/NN ]
+degrade/VB more/RBR quickly/RB and/CC thus/RB hurt/VB 
+[ its/PRP$ effectiveness/NN ]
+./. 
+
+[ A/DT Lilly/NNP spokesman/NN ]
+said/VBD 
+[ Ilotycin/NNP was/VBD n't/RB ]
+recalled/VBN and/CC that/IN 
+[ the/DT company/NN ]
+considers/VBZ 
+[ the/DT drug/NN safe/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT separate/JJ incident/NN ]
+,/, 
+[ the/DT investigators/NNS ]
+said/VBD 
+[ Lilly/NNP ]
+signed/VBD off/RP on/IN 
+[ a/DT validation/NN ]
+for/IN 
+[ Darvon/NNP compound/NN two/CD years/NNS ]
+late/RB and/CC 
+[ four/CD days/NNS ]
+after/IN 
+[ the/DT FDA/NNP ]
+started/VBD 
+[ its/PRP$ investigation/NN ]
+in/IN 
+[ April/NNP ]
+./. 
+
+[ They/PRP ]
+said/VBD 
+[ the/DT sign-off/NN ]
+was/VBD contrary/JJ to/TO 
+[ Lilly/NNP 's/POS standard/JJ operating/NN procedures/NNS ]
+and/CC was/VBD done/VBN even/RB though/IN 
+[ the/DT product/NN ]
+had/VBD long/RB since/IN been/VBN recalled/VBN ./. 
+
+======================================
+
+[ Darvon/NNP compound/NN ]
+is/VBZ made/VBN up/IN of/IN 
+[ the/DT painkiller/NN Darvon/NNP ]
+plus/IN 
+[ aspirin/NN ]
+and/CC 
+[ caffeine/NN ]
+./. 
+
+======================================
+
+Lilly/RB has/VBZ said/VBD 
+[ the/DT report/NN ]
+does/VBZ n't/RB call/VB into/IN 
+[ question/NN ]
+
+[ the/DT safety/NN ]
+or/CC 
+[ effectiveness/NN ]
+of/IN 
+[ any/DT ]
+of/IN 
+[ its/PRP$ products/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+may/MD be/VB right/JJ ,/, ''/'' said/VBD 
+[ Sidney/NNP Wolfe/NNP ]
+,/, 
+[ who/WP ]
+,/, as/IN 
+[ director/NN ]
+of/IN 
+[ the/DT Public/NNP Citizen/NNP Health/NNP Research/NNP Group/NNP ]
+,/, has/VBZ been/VBN 
+[ a/DT vocal/NN critic/NN ]
+of/IN 
+[ drug/NN companies/NNS ]
+./. 
+
+``/`` But/CC if/IN 
+[ the/DT company/NN ]
+continued/VBD 
+[ such/JJ widespread/JJ violations/NNS ]
+of/IN 
+[ the/DT way/NN drugs/NNS ]
+should/MD be/VB manufactured.../: sooner/RB or/CC later/RB 
+[ they/PRP ]
+might/MD cause/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ injuries/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT investigators/NNS ]
+also/RB reported/VBD 
+[ two/CD instances/NNS ]
+when/WRB 
+[ employees/NNS ]
+apparently/RB signed/VBD 
+[ records/NNS ]
+without/IN seeing/VBG 
+[ the/DT processing/VBG steps/NNS they/PRP ]
+were/VBD verifying/VBG ./. 
+
+======================================
+
+[ One/CD instance/NN ]
+involved/VBD weighing/VBG 
+[ a/DT batch/NN ]
+of/IN 
+[ Darvocet-N/NNP 50/CD ]
+,/, 
+[ another/DT painkiller/NN ]
+./. 
+
+[ Accurate/JJ weights/NNS ]
+are/VBP such/JJ 
+[ a/DT vital/JJ part/NN ]
+of/IN 
+[ the/DT drug-making/JJ process/NN ]
+that/IN 
+[ a/DT second/JJ person/NN ]
+is/VBZ required/VBN to/TO verify/VB 
+[ the/DT weights/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT investigators/NNS ]
+said/VBD 
+[ they/PRP ]
+talked/VBD with/IN 
+[ a/DT supervisor/NN ]
+after/IN finding/VBG that/IN 
+[ verification/NN steps/NNS ]
+were/VBD n't/RB recorded/VBN for/IN 
+[ certain/JJ lots/NNS ]
+of/IN 
+[ the/DT painkiller/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ A/DT few/JJ minutes/NNS ]
+later/RB ,/, ''/'' 
+[ the/DT report/NN ]
+states/VBZ ,/, ``/`` 
+[ the/DT supervisor/NN ]
+was/VBD seen/VBN entering/VBG 
+[ the/DT tablet/NN manufacturing/VBG room/NN ]
+where/WRB 
+ 
+{/( 
+[ another/DT lot/NN ]
+ }/) was/VBD being/VBG processed/VBN ,/, and/CC initialed/VBD 
+[ the/DT batch/NN record/NN ]
+without/IN actually/RB verifying/VBG 
+[ the/DT weights/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Although/IN 
+[ Lilly/NNP ]
+would/MD n't/RB comment/VB about/IN 
+[ individual/JJ incidents/NNS ]
+in/IN 
+[ the/DT report/NN ]
+,/, 
+[ its/PRP$ response/NN ]
+to/TO 
+[ the/DT FDA/NNP 's/POS inspection/NN ]
+says/VBZ 
+[ its/PRP$ training/NN program/NN ]
+will/MD ``/`` reinforce/VB ''/'' 
+[ its/PRP$ policy/NN ]
+
+[ that/WDT ]
+employees/NNS ``/`` 
+[ initial/VB ]
+only/RB 
+[ those/DT steps/NNS ]
+or/CC 
+[ actions/NNS ]
+that/IN 
+[ they/PRP ]
+perform/VBP ,/, verify/VBP or/CC observe/VBP ./. 
+
+''/'' 
+======================================
+
+[ The/DT three/CD FDA/NNP investigators/NNS ]
+spent/VBD 
+[ four/CD months/NNS ]
+examining/VBG 
+[ the/DT manufacturing/NN ]
+and/CC 
+[ control/NN systems/NNS ]
+of/IN 
+[ the/DT plant/NN ]
+./. 
+
+[ The/DT 90-page/JJ report/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ unusually/RB long/JJ for/IN 
+[ such/JJ investigations/NNS ]
+,/, 
+[ details/VBZ problems/NNS ]
+
+[ the/DT investigators/NNS ]
+said/VBD 
+[ they/PRP ]
+found/VBD ``/`` in/IN nearly/RB 
+[ every/DT area/NN ]
+inspected/VBD ./. 

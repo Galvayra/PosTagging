@@ -1,0 +1,682 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Yosemite/NNP ]
+is/VBZ 
+[ the/DT epitome/NN ]
+of/IN 
+[ the/DT American/JJ wilderness/NN ]
+./. 
+
+[ Its/PRP$ central/JJ cluster/NN ]
+of/IN 
+[ smooth/JJ granite/NN walls/NNS ]
+awes/VBZ 
+[ the/DT eye/NN ]
+of/IN 
+[ any/DT visitor/NN ]
+looking/VBG at/IN 
+[ the/DT deep/JJ magic/NN ]
+of/IN 
+[ the/DT Merced/NNP River/NNP 's/POS flat/JJ bed/NN ]
+from/IN 
+[ above/JJ ]
+through/IN 
+[ a/DT vista/NN ]
+framed/VBN by/IN 
+[ El/NNP Capitan/NNP ]
+and/CC 
+[ Half/NNP Dome/NNP ]
+--/: 
+[ the/DT ]
+most/RBS obviously/RB 
+[ beautiful/JJ place/NN ]
+in/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Some/DT people/NNS ]
+might/MD disagree/VB with/IN 
+[ this/DT estimation/NN ]
+,/, but/CC 
+[ they/PRP ]
+could/MD hardly/RB dispute/VB that/IN 
+[ Yosemite/NNP ]
+is/VBZ 
+[ the/DT most/RBS famous/JJ ]
+and/CC 
+[ familiar/JJ natural/NN ]
+wonder/NN 
+[ we/PRP ]
+have/VBP ,/, even/RB though/IN 
+[ the/DT vast/JJ majority/NN ]
+of/IN 
+[ Americans/NNPS ]
+have/VBP never/RB taken/VBN 
+[ the/DT trip/NN ]
+to/TO 
+[ the/DT national/JJ park/NN ]
+in/IN 
+[ eastern/JJ central/JJ California/NNP ]
+./. 
+
+[ Words/NNS ]
+and/CC 
+[ pictures/NNS ]
+have/VBP put/VBN 
+[ Yosemite/NNP ]
+on/IN 
+[ everybody/NN ]
+
+[ 's/POS map/NN ]
+./. 
+
+======================================
+
+[ The/DT words/NNS ]
+
+[ that/WDT ]
+first/RB crystallized/VBD 
+[ the/DT fabulous/JJ valley/NN 's/POS image/NN ]
+in/IN 
+[ the/DT public/JJ mind/NN ]
+came/VBD from/IN 
+[ the/DT exhilarated/VBN pen/NN ]
+of/IN 
+[ John/NNP Muir/NNP ]
+,/, 
+[ the/DT athletic/JJ ]
+,/, 
+[ self-willed/JJ naturalist/NN ]
+./. 
+
+[ He/PRP ]
+walked/VBD 
+[ all/DT ]
+over/IN 
+[ the/DT place/NN ]
+,/, fast/RB ,/, in/IN 
+[ all/DT weather/NN ]
+,/, and/CC got/VBD 
+[ the/DT message/NN ]
+out/RP ./. 
+
+[ He/PRP ]
+also/RB founded/VBD 
+[ the/DT Sierra/NNP Club/NNP ]
+in/IN 
+[ 1892/CD ]
+to/TO keep/VB 
+[ Yosemite/NNP ]
+and/CC 
+[ places/NNS ]
+like/JJ 
+[ it/PRP ]
+safe/JJ for/IN 
+[ the/DT future/NN ]
+in/IN 
+[ an/DT encroaching/VBG civilization/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT next/JJ generation/NN ]
+,/, 
+[ Ansel/NNP Adams/NNP ]
+preserved/VBD 
+[ Yosemite/NNP ]
+in/IN 
+[ black-and-white/JJ photographs/NNS ]
+
+[ that/WDT ]
+have/VBP set/VBN 
+[ a/DT standard/NN ]
+for/IN 
+[ outdoor/JJ photography/NN ]
+./. 
+
+======================================
+
+But/CC in/IN 
+[ the/DT meantime/NN ]
+,/, 
+[ another/DT photographer/NN ]
+,/, with/IN 
+[ modern/JJ equipment/NN ]
+,/, 
+[ versatile/JJ color/NN film/NN ]
+and/CC 
+[ a/DT world-class/JJ climber/NN 's/POS ability/NN ]
+to/TO explore/VB 
+[ Yosemite/NNP ]
+,/, has/VBZ been/VBN capturing/VBG 
+[ the/DT crags/NNS ]
+and/CC 
+[ plants/NNS ]
+and/CC 
+[ water/NN ]
+and/CC 
+[ snow/NN ]
+and/CC 
+[ animals/NNS ]
+in/IN 
+[ a/DT new/JJ way/NN ]
+./. 
+
+[ Anyone/NN ]
+familiar/JJ with/IN 
+[ Galen/NNP Rowell/NNP 's/POS pictures/NNS ]
+of/IN 
+[ Yosemite/NNP ]
+and/CC 
+[ other/JJ dramatic/JJ places/NNS ]
+around/IN 
+[ the/DT world/NN ]
+will/MD know/VB how/WRB 
+[ right/JJ ]
+
+[ it/PRP ]
+is/VBZ that/IN 
+[ Sierra/NNP Club/NNP Books/NNPS ]
+decided/VBD to/TO commemorate/VB 
+[ Yosemite/NNP 's/POS centennial/NN ]
+as/IN 
+[ a/DT park/NN ]
+by/IN reprinting/VBG 
+[ John/NNP Muir/NNP 's/POS ]
+``/`` 
+[ The/DT Yosemite/NNP ]
+''/'' with/IN 
+[ Galen/NNP Rowell/NNP 's/POS photographs/NNS ]
+ (/( 
+[ 222/CD pages/NNS ]
+,/, 
+[ $/$ 40/CD ]
+ )/) ./. 
+
+======================================
+
+[ Muir/NNP 's/POS prose/NN ]
+,/, 
+[ overwrought/JJ ]
+by/IN 
+[ today/NN 's/POS standards/NNS ]
+,/, is/VBZ still/RB 
+[ inspiring/JJ ]
+,/, because/IN of/IN 
+[ the/DT firsthand/JJ excitement/NN ]
+,/, 
+[ the/DT sense/NN ]
+of/IN 
+[ risk/NN ]
+and/CC of/IN being/VBG somewhere/RB or/CC doing/VBG 
+[ something/NN ]
+first/RB in/IN 
+[ a/DT fabulous/JJ setting/NN ]
+./. 
+
+Having/VBG ventured/VBN to/TO 
+[ the/DT ]
+``/`` 
+[ shining/JJ brow/NN ]
+of/IN {/( 
+[ Yosemite/NNP Fall/NNP ]
+ }/) and/CC listening/VBG to/TO 
+[ its/PRP$ sublime/JJ ]
+psalm/NN ,/, ''/'' 
+[ Muir/NNP ]
+writes/VBZ ,/, ``/`` 
+[ I/PRP ]
+concluded/VBD not/RB to/TO attempt/VB to/TO go/VB 
+[ nearer/JJR ]
+,/, but/CC ,/, nevertheless/RB ,/, against/IN 
+[ reasonable/JJ judgment/NN ]
+,/, 
+[ I/PRP ]
+did/VBD ./. 
+
+Noticing/VBG 
+[ some/DT tufts/NNS ]
+of/IN 
+[ artemisia/NN ]
+in/IN 
+[ a/DT cleft/NN ]
+of/IN 
+[ rock/NN ]
+,/, 
+[ I/PRP ]
+filled/VBD 
+[ my/PRP$ mouth/NN ]
+with/IN 
+[ the/DT leaves/NNS ]
+,/, hoping/VBG 
+[ their/PRP$ bitter/JJ taste/NN ]
+might/MD help/VB to/TO keep/VB 
+[ caution/NN ]
+keen/JJ and/CC prevent/VB 
+[ giddiness/NN ]
+./. 
+
+In/IN 
+[ spite/NN ]
+of/IN 
+[ myself/PRP ]
+
+[ I/PRP ]
+reached/VBD 
+[ the/DT little/JJ ledge/NN ]
+,/, got/VBD 
+[ my/PRP$ heels/NNS ]
+well/RB set/VBN ,/, and/CC worked/VBD sidewise/RB 
+[ 20/CD ]
+or/CC 
+[ 30/CD feet/NNS ]
+to/TO 
+[ a/DT point/NN ]
+close/RB to/TO 
+[ the/DT out-plunging/JJ current/NN ]
+./. 
+
+Here/RB 
+[ the/DT view/NN ]
+is/VBZ perfectly/RB free/JJ down/IN into/IN 
+[ the/DT heart/NN ]
+of/IN 
+[ the/DT bright/JJ irised/VBN throng/NN ]
+of/IN 
+[ comet-like/JJ streamers/NNS ]
+into/IN 
+[ which/WDT ]
+
+[ the/DT whole/JJ ponderous/JJ volume/NN ]
+of/IN 
+[ the/DT fall/NN ]
+separates/VBZ ,/, 
+[ two/CD ]
+or/CC 
+[ three/CD hundred/CD feet/NNS ]
+below/IN 
+[ the/DT brow/NN ]
+./. 
+
+So/RB glorious/JJ 
+[ a/DT display/NN ]
+of/IN 
+[ pure/JJ wildness/NN ]
+,/, acting/VBG at/IN 
+[ close/JJ range/NN ]
+while/IN cut/VBN off/RP from/IN 
+[ all/PDT the/DT world/NN ]
+beside/IN ,/, is/VBZ terribly/RB impressive/JJ ./. 
+
+''/'' 
+======================================
+
+So/RB are/VBP 
+[ Mr./NNP Rowell/NNP 's/POS pictures/NNS ]
+of/IN 
+[ the/DT fall/NN ]
+./. 
+
+[ He/PRP ]
+and/CC 
+[ Muir/NNP ]
+share/VBP 
+[ a/DT preoccupation/NN ]
+with/IN 
+[ light/NN ]
+and/CC with/IN 
+[ gaining/VBG access/NN ]
+,/, 
+[ physical/JJ ]
+and/CC 
+[ visual/JJ ]
+,/, to/TO 
+[ Yosemite/NNP 's/POS great/JJ places/NNS ]
+from/IN 
+[ spectacular/JJ angles/NNS ]
+of/IN 
+[ vision/NN ]
+at/IN unusually/RB 
+[ luminous/JJ moments/NNS ]
+./. 
+
+And/CC so/IN 
+[ there/EX ]
+are/VBP 
+[ smashing/JJ photographs/NNS ]
+of/IN 
+[ El/NNP Capitan/NNP ]
+seen/VBN through/IN 
+[ a/DT clearing/VBG storm/NN ]
+,/, 
+[ alpenglow/NN ]
+,/, 
+[ sunsets/NNS ]
+,/, 
+[ fiery/JJ red/JJ ribbon/NN waterfalls/NNS ]
+./. 
+
+======================================
+
+Like/IN 
+[ Muir/NNP ]
+,/, too/RB ,/, 
+[ Mr./NNP Rowell/NNP ]
+is/VBZ after/IN 
+[ the/DT whole/JJ mountain/NN experience/NN ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ his/PRP$ best/JJS work/NN ]
+was/VBD done/VBN with/IN 
+[ the/DT camera/NN ]
+pointed/VBN downward/RB ,/, at/IN 
+[ his/PRP$ feet/NNS ]
+,/, at/IN 
+[ leaves/NNS ]
+floating/VBG in/IN 
+[ a/DT spring/NN ]
+,/, at/IN 
+[ Half/NNP Dome/NNP ]
+reflected/VBD abstractly/RB ,/, like/IN 
+[ a/DT color-field/JJ painter/NN 's/POS smear/NN ]
+of/IN 
+[ earth-tone/NN ]
+in/IN 
+[ the/DT blue/NN ]
+of/IN 
+[ the/DT Merced/NNP ]
+
+[ 's/POS water/NN ]
+./. 
+
+======================================
+
+[ This/DT ]
+seems/VBZ to/TO be/VB 
+[ Mr./NNP Rowell/NNP 's/POS year/NN ]
+./. 
+
+[ He/PRP ]
+is/VBZ also/RB publishing/VBG 
+[ an/DT anthology/NN ]
+of/IN 
+[ pictures/NNS ]
+
+[ he/PRP ]
+'s/VBZ taken/VBN from/IN 
+[ Tibet/NNP ]
+to/TO 
+[ Yosemite/NNP ]
+ (/( with/IN virtually/RB 
+[ no/DT overlap/NN ]
+with/IN 
+[ the/DT Muir/NNP book/NN ]
+ )/) ./. 
+
+``/`` 
+[ The/DT Art/NNP ]
+of/IN 
+[ Adventure/NNP ]
+''/'' (/( 
+[ Collins/NN ]
+,/, 
+[ 166/CD pages/NNS ]
+,/, 
+[ $/$ 45/CD ]
+ )/) is/VBZ more/RBR of/IN 
+[ a/DT mountaineering/NN book/NN ]
+,/, with/IN 
+[ breathtaking/JJ shots/NNS ]
+taken/VBN in/IN 
+[ the/DT middle/NN ]
+of/IN 
+[ very/RB hard/JJ ascents/NNS ]
+of/IN 
+[ sheer/JJ walls/NNS ]
+and/CC 
+[ remote/JJ eminences/NNS ]
+such/JJ as/IN 
+[ the/DT headwall/NN ]
+of/IN 
+[ Mount/NNP Fitz/NNP Roy/NNP ]
+in/IN 
+[ Patagonia/NNP ]
+./. 
+
+[ It/PRP ]
+has/VBZ 
+[ skimpy/JJ text/NN ]
+and/CC 
+[ no/DT index/NN ]
+and/CC 
+[ only/JJ informal/JJ data/NNS ]
+on/IN 
+[ the/DT circumstances/NNS ]
+and/CC 
+[ history/NN ]
+of/IN 
+[ the/DT photographs/NNS ]
+./. 
+
+[ The/DT Muir/NNP book/NN ]
+is/VBZ also/RB scanty/JJ in/IN 
+[ this/DT area/NN ]
+,/, but/CC 
+[ these/DT ]
+are/VBP 
+[ both/DT lavish/JJ souvenirs/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Rowell/NNP ]
+has/VBZ also/RB associated/VBN 
+[ himself/PRP ]
+with/IN 
+[ a/DT third/JJ ]
+,/, much/RB 
+[ more/RBR original/JJ book/NN ]
+out/RB 
+[ this/DT fall/NN ]
+./. 
+
+[ He/PRP ]
+has/VBZ generously/RB written/VBN 
+[ the/DT foreword/NN ]
+to/TO ``/`` 
+[ Alakshak/NNP ]
+,/, 
+[ the/DT Great/JJ Country/NNP ]
+''/'' (/( 
+[ Sierra/NNP Club/NNP ]
+,/, 
+[ 179/CD pages/NNS ]
+,/, 
+[ $/$ 75/CD ]
+ )/) ,/, 
+[ a/DT survey/NN ]
+of/IN 
+[ wilderness/NN Alaska/NNP ]
+with/IN 
+[ photographs/NNS ]
+by/IN 
+[ Art/NNP Wolfe/NNP ]
+and/CC 
+[ text/NN ]
+by/IN 
+[ Art/NNP Davidson/NNP ]
+./. 
+
+[ Mr./NNP Wolfe/NNP ]
+is/VBZ 
+[ a/DT master/NN ]
+at/IN ``/`` composing/VBG ''/'' 
+[ nature/NN ]
+into/IN 
+[ art/NN ]
+,/, recognizing/VBG 
+[ what/WP ]
+
+[ his/PRP$ lens/NN ]
+can/MD do/VB with/IN 
+[ a/DT single/JJ aspen/NN leaf/NN ]
+frozen/VBN on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ a/DT lake/NN ]
+,/, or/CC how/WRB 
+[ the/DT ]
+alternating/VBG 
+[ white/JJ ]
+and/CC 
+[ steel-gray/JJ swirls/NNS ]
+of/IN 
+[ the/DT Kahiltna/NNP Glacier/NNP ]
+make/VBP 
+[ a/DT rhythmic/JJ pattern/NN ]
+./. 
+
+[ No/DT national-treasure/JJ Japanese/JJ screen/NN ]
+is/VBZ more/RBR splendid/JJ in/IN 
+[ its/PRP$ colorful/JJ repose/NN ]
+than/IN 
+[ his/PRP$ study/NN ]
+of/IN 
+[ magenta/JJ fireweed/NN ]
+``/`` vibrating/VBG ''/'' against/IN 
+[ the/DT green/NN ]
+of/IN 
+[ alders/NNS ]
+in/IN 
+[ the/DT Susitna/NNP Valley/NNP ]
+./. 
+
+[ He/PRP ]
+is/VBZ also/RB 
+[ a/DT persistent/NN ]
+and/CC 
+[ bold/JJ photographer/NN ]
+of/IN 
+[ animals/NNS ]
+,/, filling/VBG 
+[ the/DT frame/NN ]
+with/IN 
+[ 3,000-pound/JJ bull/NN walruses/NNS ]
+lolling/VBG 
+[ flank/NN ]
+by/IN 
+[ tusk/NN ]
+on/IN 
+[ Round/NNP Island/NNP ]
+in/IN 
+[ summer/NN ]
+./. 
+
+[ He/PRP ]
+will/MD wait/VB 
+[ 48/CD hours/NNS ]
+in/IN 
+[ a/DT moss-covered/JJ blind/NN ]
+in/IN 
+[ remote/JJ mountains/NNS ]
+west/JJS of/IN 
+[ Tok/NNP Junction/NNP ]
+to/TO photograph/VB 
+[ wolf/NN cubs/NNS ]
+at/IN 
+[ play/NN ]
+in/IN 
+[ their/PRP$ den/NN ]
+./. 
+
+[ He/PRP ]
+gets/VBZ almost/RB 
+[ nose/NN ]
+to/TO 
+[ nose/NN ]
+with/IN 
+[ a/DT porcupine/NN ]
+and/CC sneaks/VBZ up/IN on/IN 
+[ musk/NN oxen/NNS ]
+butting/VBG 
+[ each/DT other/JJ ]
+./. 
+
+[ He/PRP ]
+takes/VBZ 
+[ pictures/NNS ]
+from/IN 
+[ planes/NNS ]
+and/CC 
+[ boats/NNS ]
+./. 
+
+======================================
+
+[ Art/NNP Davidson/NNP ]
+is/VBZ even/RB more/RBR adventuresome/JJ ./. 
+
+As/IN 
+[ a/DT younger/JJR ]
+outdoorsman\/NN ,/, 
+[ he/PRP ]
+made/VBD 
+[ the/DT first/JJ winter/NN ascent/NN ]
+of/IN 
+[ Denali/NNP ]
+ (/( then/RB called/VBD 
+[ Mount/NNP McKinley/NNP ]
+ )/) ./. 
+
+More/RBR recently/RB ,/, 
+[ he/PRP ]
+repeated/VBD 
+[ the/DT climb/NN ]
+,/, with/IN 
+[ his/PRP$ son/NN ]
+,/, after/IN trimming/VBG away/RB 
+[ 30/CD pounds/NNS ]
+in/IN 
+[ an/DT aerobics/NN class/NN ]
+./. 
+
+[ He/PRP ]
+writes/VBZ well/RB about/IN 
+[ this/DT return/NN ]
+in/IN 
+[ middle/JJ age/NN ]
+to/TO 
+[ a/DT savage/JJ place/NN ]
+,/, and/CC 
+[ he/PRP ]
+is/VBZ also/RB 
+[ a/DT distinguished/VBN authority/NN ]
+on/IN 
+[ Alaskan/JJ ecology/NN ]
+
+[ whose/WP$ learning/NN ]
+sits/VBZ lightly/RB in/IN 
+[ this/DT personal/NN survey/NN ]
+of/IN 
+[ our/PRP$ largest/JJS ]
+and/CC still/RB 
+[ wildest/JJS state/NN ]
+./. 

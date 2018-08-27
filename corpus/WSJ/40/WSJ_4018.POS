@@ -1,0 +1,309 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ivan/NNP Boesky/NNP ]
+may/MD have/VB settled/VBN with/IN 
+[ the/DT U.S./NNP government/NN ]
+for/IN 
+[ $/$ 100/CD million/CD ]
+,/, but/CC 
+[ the/DT government/NN ]
+is/VBZ receiving/VBG nearly/RB 
+[ $/$ 5/CD million/CD less/JJR ]
+./. 
+
+======================================
+
+[ The/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP Friday/NNP ]
+agreed/VBD to/TO sell/VB 
+[ the/DT government/NN 's/POS 23/CD %/NN ]
+holding/NN in/IN 
+[ Cambrian/NNP ]
+&/CC 
+[ General/NNP Securities/NNPS PLC/NNP ]
+to/TO 
+[ Leucadia/NNP National/NNP Corp./NNP ]
+for/IN 
+[ a/DT total/NN ]
+of/IN about/IN 
+[ $/$ 38.3/CD million/CD ]
+./. 
+
+[ The/DT shares/NNS ]
+were/VBD acquired/VBN from/IN 
+[ Mr./NNP Boesky/NNP ]
+in/IN 
+[ 1986/CD ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ his/PRP$ settlement/NN ]
+on/IN 
+[ insider-trading/NN charges/NNS ]
+./. 
+
+At/IN 
+[ the/DT time/NN ]
+,/, 
+[ Mr./NNP Boesky/NNP ]
+also/RB paid/VBD 
+[ $/$ 50/CD million/CD ]
+in/IN 
+[ cash/NN ]
+and/CC relinquished/VBD 
+[ his/PRP$ holding/NN ]
+in/IN 
+[ Northview/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ The/DT SEC/NNP ]
+had/VBD valued/VBN 
+[ the/DT total/JJ package/NN ]
+at/IN 
+[ $/$ 100/CD million/CD ]
+,/, 
+[ half/NN ]
+of/IN 
+[ which/WDT ]
+would/MD be/VB returned/VBN to/TO 
+[ investors/NNS ]
+through/IN 
+[ a/DT restitution/NN fund/NN ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, 
+[ Northview/NNP ]
+went/VBD 
+[ private/RB ]
+,/, buying/VBG back/RB 
+[ the/DT SEC/NNP ]
+'s/POS holding/NN for/IN 
+[ $/$ 4.3/CD million/CD ]
+./. 
+
+[ The/DT government/NN ]
+also/RB has/VBZ received/VBN about/IN 
+[ $/$ 2.5/CD million/CD ]
+in/IN 
+[ dividends/NNS ]
+from/IN 
+[ the/DT holdings/NNS ]
+,/, making/VBG 
+[ the/DT total/NN ]
+
+[ the/DT government/NN ]
+received/VBN from/IN 
+[ Mr./NNP Boesky/NNP $/$ 95.1/CD million/CD ]
+./. 
+
+======================================
+
+Becoming/VBG 
+[ a/DT shareholder/NN ]
+put/VBD 
+[ the/DT SEC/NNP ]
+in/IN 
+[ an/DT awkward/JJ position/NN ]
+./. 
+
+[ The/DT commission/NN ]
+became/VBD 
+[ an/DT interested/JJ party/NN ]
+in/IN 
+[ the/DT stock/NN ]
+,/, in/IN 
+[ addition/NN ]
+to/TO 
+[ its/PRP$ traditional/JJ role/NN ]
+as/IN 
+[ regulator/NN ]
+./. 
+
+[ It/PRP ]
+appointed/VBD 
+[ two/CD members/NNS ]
+to/TO 
+[ Cambrian/NNP ]
+
+[ 's/POS five-member/JJ board/NN ]
+./. 
+
+======================================
+
+[ The/DT SEC/NNP ]
+announced/VBD in/IN 
+[ August/NNP 1987/CD ]
+--/: 
+[ five/CD days/NNS ]
+before/IN 
+[ the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP peaked/VBD ]
+for/IN 
+[ the/DT year/NN ]
+--/: that/IN 
+[ it/PRP ]
+would/MD n't/RB liquidate/VB 
+[ its/PRP$ holdings/NNS ]
+./. 
+
+[ Investigations/NNS ]
+into/IN 
+[ Mr./NNP Boesky/NNP 's/POS actions/NNS ]
+were/VBD continuing/VBG ,/, 
+[ the/DT agency/NN ]
+said/VBD ,/, and/CC selling/VBG 
+[ the/DT stock/NN ]
+would/MD force/VB 
+[ the/DT commission/NN ]
+to/TO disclose/VB 
+[ information/NN ]
+about/IN 
+[ those/DT probes/NNS ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT SEC/NNP ]
+would/MD be/VB forced/VBN to/TO release/VB 
+[ information/NN ]
+
+[ that/WDT ]
+could/MD have/VB 
+[ a/DT material/NN effect/NN ]
+on/IN 
+[ the/DT shares/NNS ]
+of/IN 
+[ the/DT two/CD companies/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT statement/NN ]
+at/IN 
+[ the/DT time/NN ]
+,/, 
+[ SEC/NNP Chairman/NNP David/NNP Ruder/NNP ]
+said/VBD ,/, ``/`` 
+[ The/DT government/NN ]
+,/, not/RB 
+[ investors/NNS ]
+,/, will/MD bear/VB 
+[ any/DT valuation/NN risks/NNS ]
+
+[ that/WDT ]
+may/MD exist/VB ''/'' by/IN holding/VBG 
+[ the/DT stock/NN ]
+./. 
+
+[ Such/JJ risks/NNS ]
+became/VBD 
+[ evident/JJ two/CD months/NNS ]
+later/RB ,/, when/WRB 
+[ the/DT stock/NN market/NN crash/NN ]
+hammered/VBD 
+[ the/DT shares/NNS ]
+of/IN 
+[ Cambrian/NNP ]
+,/, 
+[ a/DT British/JJ investment/NN trust/NN ]
+./. 
+
+[ The/DT SEC/NNP ]
+,/, along/IN with/IN 
+[ other/JJ stock-market/NN investors/NNS ]
+,/, saw/VBD 
+[ the/DT value/NN ]
+of/IN 
+[ its/PRP$ holdings/NNS plummet/VB ]
+,/, despite/IN 
+[ a/DT gain/NN ]
+in/IN 
+[ the/DT value/NN ]
+of/IN 
+[ Northview/NNP shares/NNS ]
+
+[ that/DT day/NN ]
+./. 
+
+``/`` 
+[ The/DT market/NN break/NN ]
+had/VBD 
+[ a/DT severe/JJ impact/NN ]
+on/IN {/( 
+[ Cambrian/NNP ]
+''/'' ,/, ''/'' said/VBD 
+[ Michael/NNP Mann/NNP ]
+,/, 
+[ the/DT SEC/NNP 's/POS associate/JJ director/NN ]
+for/IN 
+[ international/JJ affairs/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+had/VBD been/VBN 
+[ an/DT aggressive/JJ investment/NN vehicle/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Last/JJ year/NN ]
+,/, 
+[ Leucadia/NNP ]
+launched/VBD 
+[ a/DT tender/NN offer/NN ]
+for/IN 
+[ Cambrian/NNP ]
+,/, but/CC 
+[ the/DT SEC/NNP ]
+again/RB refused/VBD to/TO sell/VB 
+[ its/PRP$ ]
+holding/NN ./. 
+
+======================================
+
+But/CC on/IN 
+[ Friday/NNP ]
+,/, 
+[ the/DT agency/NN ]
+relented/VBD ,/, selling/VBG 
+[ the/DT shares/NNS ]
+to/TO 
+[ Leucadia/NNP ]
+,/, 
+[ which/WDT ]
+already/RB held/VBD about/IN 
+[ three-quarters/NNS ]
+of/IN 
+[ the/DT Cambrian/NNP shares/NNS ]
+outstanding/JJ ./. 
+
+[ The/DT Boesky/NNP investigation/NN ]
+has/VBZ been/VBN concluded/VBN ,/, and/CC 
+[ the/DT agency/NN ]
+said/VBD that/IN 
+[ Leucadia/NNP ]
+,/, as/IN 
+[ the/DT major/JJ shareholder/NN ]
+,/, fully/RB understands/VBZ 
+[ the/DT Cambrian/NNP holding/NN ]
+./. 

@@ -1,0 +1,287 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT National/NNP Aeronautics/NNP ]
+and/CC 
+[ Space/NNP Administration/NNP research/NN scientist/NN ]
+said/VBD 
+[ Congress/NNP ]
+must/MD provide/VB 
+[ more/JJR money/NN ]
+for/IN 
+[ the/DT space/NN program/NN ]
+or/CC 
+[ the/DT agency/NN ]
+will/MD have/VB to/TO tell/VB 
+[ the/DT public/NN ]
+
+[ the/DT U.S./NNP ]
+has/VBZ chosen/VBN to/TO be/VB second-rate/JJ in/IN 
+[ space/NN ]
+./. 
+
+======================================
+
+[ Richard/NNP Petersen/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT Langley/NNP Research/NNP Center/NNP ]
+,/, said/VBD 
+[ NASA/NNP 's/POS early/JJ dreams/NNS ]
+were/VBD shattered/VBN when/WRB 
+[ the/DT agency/NN 's/POS ]
+funding/NN fell/VBD from/IN 
+[ 4/CD %/NN ]
+of/IN 
+[ the/DT federal/JJ budget/NN ]
+in/IN 
+[ the/DT 1960s/CD ]
+to/TO 
+[ less/JJR ]
+than/IN 
+[ 1/CD %/NN ]
+in/IN 
+[ the/DT 1980s/CD ]
+./. 
+
+======================================
+
+``/`` Tragically/RB ,/, throughout/IN 
+[ the/DT 1970s/CD ]
+
+[ the/DT American/JJ public/NN ]
+was/VBD led/VBN to/TO believe/VB that/IN 
+[ they/PRP ]
+had/VBD 
+[ the/DT best/JJS space/NN program/NN ]
+in/IN 
+[ the/DT world/NN ]
+,/, ''/'' 
+[ Mr./NNP Petersen/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+is/VBZ crucial/JJ in/IN 
+[ the/DT future/NN ]
+that/IN 
+[ we/PRP ]
+either/CC provide/VBP 
+[ the/DT funds/NNS ]
+to/TO compete/VB as/IN 
+[ a/DT world-class/JJ space/NN power/NN ]
+,/, or/CC that/IN 
+[ we/PRP ]
+tell/VBP 
+[ Americans/NNPS ]
+
+[ the/DT whole/JJ truth/NN ]
+--/: that/IN 
+[ this/DT country/NN ]
+has/VBZ chosen/VBN not/RB to/TO be/VB 
+[ a/DT world/NN leader/NN ]
+in/IN 
+[ space/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Petersen/NNP ]
+spoke/VBD at/IN 
+[ an/DT awards/NNS ceremony/NN ]
+for/IN 
+[ several/JJ Purdue/NNP University/NNP graduates/NNS ]
+
+[ who/WP ]
+became/VBD 
+[ astronauts/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Petersen/NNP ]
+,/, also/RB 
+[ a/DT Purdue/NNP graduate/NN ]
+,/, said/VBD 
+[ NASA/NNP scientists/NNS ]
+in/IN 
+[ the/DT 1960s/CD ]
+envisioned/VBD 
+[ a/DT program/NN ]
+
+[ that/WDT ]
+would/MD put/VB 
+[ men/NNS ]
+on/IN 
+[ the/DT moon/NN ]
+in/IN 
+[ the/DT '60s/CD ]
+,/, create/VB 
+[ a/DT space-shuttle/NN system/NN ]
+in/IN 
+[ the/DT '70s/CD ]
+,/, build/VB 
+[ a/DT space/NN station/NN ]
+in/IN 
+[ the/DT '80s/CD ]
+and/CC put/VB 
+[ men/NNS ]
+on/IN 
+[ Mars/NNP ]
+in/IN 
+[ the/DT '90s/CD ]
+./. 
+
+======================================
+
+``/`` But/CC somewhere/RB after/IN 
+[ Apollo/NNP ]
+,/, 
+[ we/PRP ]
+lost/VBD 
+[ our/PRP$ way/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` Early/RB in/IN 
+[ the/DT '70s/CD ]
+,/, 
+[ we/PRP ]
+shut/VBD down/IN 
+[ the/DT Apollo/NNP program/NN ]
+,/, slashed/VBD 
+[ NASA/NNP ]
+funding/NN by/IN 
+[ two-thirds/NNS ]
+and/CC proceeded/VBD slowly/RB and/CC timidly/RB to/TO develop/VB 
+[ the/DT space/NN shuttle/NN ]
+./. 
+
+''/'' 
+[ Progress/NN ]
+on/IN 
+[ the/DT space/NN station/NN ]
+has/VBZ been/VBN even/RB slower/JJR ,/, with/IN 
+[ an/DT operating/VBG space/NN base/NN ]
+not/RB expected/VBN until/IN 
+[ the/DT late/JJ 1990s/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ many/JJ reasons/NNS ]
+for/IN 
+[ our/PRP$ slow/JJ progress/NN ]
+in/IN 
+[ exploiting/VBG space/NN ]
+,/, but/CC fundamentally/RB 
+[ I/PRP ]
+believe/VBP 
+[ we/PRP ]
+simply/RB were/VBD n't/RB given/VBN 
+[ the/DT resources/NNS ]
+to/TO run/VB 
+[ a/DT first-class/JJ program/NN ]
+,/, ''/'' 
+[ Mr./NNP Petersen/NNP ]
+said/VBD ./. 
+
+======================================
+
+Now/RB ,/, 
+[ President/NNP Bush/NNP ]
+has/VBZ committed/VBN 
+[ the/DT U.S./NNP ]
+to/TO launching/VBG 
+[ a/DT space/NN station/NN ]
+in/IN 
+[ the/DT next/JJ decade/NN ]
+and/CC beginning/VBG 
+[ a/DT new/JJ program/NN ]
+,/, 
+[ Mission/NNP ]
+to/TO 
+[ Planet/NNP Earth/NNP ]
+,/, 
+[ that/WDT ]
+will/MD place/VB 
+[ several/JJ large/JJ platforms/NNS ]
+in/IN 
+[ orbit/NN ]
+with/IN 
+[ instruments/NNS ]
+to/TO study/VB 
+[ the/DT land/NN ]
+,/, 
+[ the/DT seas/NNS ]
+and/CC 
+[ the/DT atmosphere/NN ]
+./. 
+
+======================================
+
+Between/IN 
+[ 2000/CD ]
+and/CC 
+[ 2010/CD ]
+,/, 
+[ NASA/NNP ]
+will/MD develop/VB 
+[ a/DT manned/VBN base/NN ]
+on/IN 
+[ the/DT moon/NN ]
+,/, 
+[ Mr./NNP Petersen/NNP ]
+said/VBD ,/, and/CC 
+[ a/DT manned/VBN trip/NN ]
+to/TO 
+[ Mars/NNP ]
+will/MD follow/VB in/IN 
+[ the/DT decade/NN ]
+from/IN 
+[ 2010/CD ]
+to/TO 
+[ 2020/CD ]
+./. 
+
+======================================
+
+``/`` To/TO have/VB 
+[ a/DT world-class/JJ space/NN program/NN ]
+,/, 
+[ we/PRP ]
+will/MD need/VB to/TO make/VB 
+[ a/DT long-term/JJ investment/NN ]
+and/CC double/VB 
+[ the/DT ]
+funding/NN for/IN 
+[ NASA/NNP ]
+in/IN 
+[ the/DT near/JJ future/NN ]
+,/, 
+[ which/WDT ]
+will/MD be/VB 
+[ a/DT major/JJ political/JJ battle/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

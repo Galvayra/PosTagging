@@ -1,0 +1,406 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Bloomingdale/NNP 's/POS Chairman/NNP Marvin/NNP Traub/NNP ]
+is/VBZ talking/VBG with/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc./NNP ]
+and/CC 
+[ Blackstone/NNP Group/NNP ]
+about/IN 
+[ a/DT leveraged/JJ ]
+buy-out/NN of/IN 
+[ the/DT famed/JJ department/NN store/NN chain/NN ]
+,/, according/VBG to/TO 
+[ those/DT familiar/JJ ]
+with/IN 
+[ the/DT situation/NN ]
+./. 
+
+======================================
+
+[ Bloomingdale/NNP ]
+'s/POS ,/, 
+[ a/DT 17-store/JJ chain/NN ]
+acquired/VBN 
+[ last/JJ year/NN ]
+by/IN 
+[ Campeau/NNP Corp./NNP ]
+in/IN 
+[ its/PRP$ $/$ 6.6/CD billion/CD acquisition/NN ]
+of/IN 
+[ Federated/NNP Department/NNP Stores/NNPS ]
+,/, was/VBD put/VBN up/IN for/IN 
+[ sale/NN two/CD weeks/NNS ]
+ago/RB as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT Campeau/NNP plan/NN ]
+to/TO ease/VB 
+[ a/DT debt/NN crunch/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Traub/NNP ]
+,/, 
+[ Bloomingdale/NNP 's/POS longtime/JJ top/JJ executive/NN ]
+,/, first/RB tried/VBD to/TO put/VB together/RB 
+[ a/DT buy-out/NN ]
+when/WRB 
+[ Campeau/NNP ]
+made/VBD 
+[ its/PRP$ bid/NN ]
+for/IN Federated/NNP ./. 
+
+[ His/PRP$ current/JJ effort/NN ]
+faces/VBZ 
+[ competition/NN ]
+from/IN 
+[ an/DT array/NN ]
+of/IN retailing/VBG 
+[ concerns/NNS ]
+,/, 
+[ some/DT ]
+of/IN 
+[ which/WDT ]
+are/VBP believed/VBN ready/JJ to/TO pay/VB 
+[ higher/JJR prices/NNS ]
+than/IN could/MD be/VB supported/VBN by/IN 
+[ Bloomingdale/NNP 's/POS revenue/NN ]
+and/CC 
+[ profit/NN ]
+alone/RB ./. 
+
+======================================
+
+[ This/DT possible/JJ ]
+``/`` 
+[ trophy/NN pricing/NN ]
+''/'' could/MD hinder/VB 
+[ Mr./NNP Traub/NNP 's/POS attempt/NN ]
+./. 
+
+[ He/PRP ]
+is/VBZ understood/VBN to/TO be/VB discussing/VBG 
+[ a/DT possible/JJ role/NN ]
+for/IN 
+[ Drexel/NNP ]
+as/IN 
+[ financial/JJ adviser/NN ]
+and/CC for/IN 
+[ Blackstone/NNP Chairman/NNP Peter/NNP G./NNP Peterson/NNP ]
+as/IN 
+[ an/DT investor/NN ]
+./. 
+
+But/CC 
+[ papers/NNS ]
+have/VBP n't/RB been/VBN signed/VBN yet/RB ./. 
+
+[ Blackstone/NNP ]
+is/VBZ 
+[ a/DT New/NNP York/NNP financial/JJ advisory/NN ]
+and/CC 
+[ investment/NN banking/NN firm/NN ]
+./. 
+
+======================================
+
+[ Some/DT Wall/NNP Street/NNP observers/NNS ]
+have/VBP speculated/VBN that/IN 
+[ Mr./NNP Traub/NNP ]
+might/MD try/VB to/TO duplicate/VB 
+[ the/DT strategy/NN ]
+of/IN 
+[ Macy/NNP 's/POS Chairman/NNP Edward/NNP Finkelstein/NNP ]
+in/IN attracting/VBG 
+[ a/DT group/NN ]
+of/IN 
+[ wealthy/JJ investors/NNS ]
+to/TO finance/VB 
+[ a/DT leveraged/JJ bid/NN ]
+,/, without/IN 
+[ the/DT involvement/NN ]
+of/IN 
+[ a/DT firm/NN ]
+specializing/VBG in/IN 
+[ leveraged/JJ buy-outs/NNS ]
+./. 
+
+[ Mr./NNP Finkelstein/NNP ]
+led/VBD 
+[ the/DT Macy/NNP buy-out/NN ]
+with/IN backing/NN from/IN 
+[ investors/NNS ]
+such/JJ as/IN 
+[ Detroit/NNP real/JJ estate/NN mogul/NN Alfred/NNP Taubman/NNP ]
+,/, 
+[ CBS/NNP Chief/NNP Executive/NNP Laurence/NNP Tisch/NNP ]
+and/CC 
+[ mutual-fund/JJ whiz/NN Michael/NNP Price/NNP ]
+./. 
+
+======================================
+
+Although/IN 
+[ Federated/NNP ]
+does/VBZ n't/RB provide/VB 
+[ profit/NN breakdowns/NNS ]
+,/, Bloomingdale/NNP 
+[ 's/POS ]
+is/VBZ estimated/VBN to/TO have/VB 
+[ annual/JJ sales/NNS ]
+of/IN 
+[ $/$ 1.2/CD billion/CD ]
+./. 
+
+[ The/DT high/JJ price/NN Campeau/NNP ]
+paid/VBD for/IN 
+[ Federated/NNP ]
+,/, financed/VBN mainly/RB with/IN 
+[ junk/NN bonds/NNS ]
+,/, has/VBZ been/VBN 
+[ the/DT main/JJ reason/NN ]
+for/IN 
+[ the/DT cash/NN crunch/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Traub/NNP ]
+and/CC 
+[ Mr./NNP Peterson/NNP ]
+,/, 
+[ a/DT former/JJ Commerce/NNP Secretary/NNP ]
+,/, are/VBP 
+[ old/JJ friends/NNS ]
+./. 
+
+[ Mr./NNP Peterson/NNP ]
+was/VBD 
+[ a/DT director/NN ]
+of/IN Federated/NNP from/IN 
+[ 1973/CD ]
+until/IN 
+[ 1988/CD ]
+./. 
+
+[ He/PRP ]
+joined/VBD 
+[ Blackstone/NNP ]
+in/IN 
+[ 1985/CD ]
+after/IN leaving/VBG 
+[ his/PRP$ post/NN ]
+as/IN 
+[ chairman/NN ]
+of/IN 
+[ Lehman/NNP Brothers/NNPS Kuhn/NNP Loeb/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Other/JJ luminaries/NNS ]
+at/IN 
+[ Blackstone/NNP ]
+include/VBP 
+[ former/JJ White/NNP House/NNP budget/NN director/NN David/NNP Stockman/NNP ]
+,/, and/CC 
+[ Stephen/NNP A./NN Schwarzman/NNP ]
+,/, 
+[ president/NN ]
+,/, and/CC 
+[ Roger/NNP C./NNP Altman/NNP ]
+,/, 
+[ vice/NN chairman/NN ]
+,/, 
+[ who/WP ]
+
+[ both/DT ]
+previously/RB worked/VBD in/IN 
+[ mergers/NNS ]
+and/CC 
+[ acquisitions/NNS ]
+at/IN 
+[ Lehman/NNP ]
+./. 
+
+[ Last/JJ December/NNP ]
+,/, 
+[ Blackstone/NNP ]
+sold/VBD 
+[ a/DT 20/CD %/NN stake/NN ]
+to/TO 
+[ Nikko/NNP Securities/NNPS Co./NNP ]
+of/IN 
+[ Japan/NNP ]
+for/IN 
+[ $/$ 100/CD million/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Traub/NNP ]
+was/VBD unavailable/JJ to/TO comment/VB ./. 
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ Drexel/NNP Burnham/NNP ]
+declined/VBD to/TO comment/VB ./. 
+
+[ Mr./NNP Peterson/NNP ]
+could/MD n't/RB be/VB reached/VBN to/TO comment/VB ./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD unclear/JJ why/WRB 
+[ Mr./NNP Traub/NNP ]
+is/VBZ seeking/VBG to/TO use/VB 
+[ Drexel/NNP ]
+solely/RB as/IN 
+[ a/DT financial/JJ adviser/NN ]
+rather/RB than/IN as/IN 
+[ a/DT provider/NN ]
+of/IN 
+[ junk/NN bonds/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ its/PRP$ specialties/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB could/MD n't/RB be/VB determined/VBN whether/IN 
+[ Blackstone/NNP 's/POS own/JJ leveraged/JJ buy-out/NN fund/NN ]
+would/MD supply/VB 
+[ equity/NN ]
+for/IN 
+[ any/DT bid/NN ]
+./. 
+
+======================================
+
+[ Some/DT analysts/NNS ]
+have/VBP estimated/VBN that/IN 
+[ a/DT sale/NN ]
+of/IN 
+[ Bloomingdale/NNP 's/POS ]
+would/MD bring/VB 
+[ $/$ 1/CD billion/CD ]
+to/TO 
+[ $/$ 1.5/CD billion/CD ]
+./. 
+
+Among/IN 
+[ those/DT ]
+expected/VBN to/TO bid/VB for/IN 
+[ the/DT retailer/NN ]
+are/VBP 
+[ Joseph/NNP Brooks/NNP ]
+,/, 
+[ chairman/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+of/IN 
+[ specialty/NN retailer/NN Ann/NNP Taylor/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Bloomingdale/NNP 's/POS ]
+is/VBZ said/VBD to/TO be/VB thriving/VBG in/IN 
+[ the/DT New/NNP York/NNP metropolitan/JJ area/NN ]
+but/CC experiencing/VBG 
+[ some/DT problems/NNS ]
+in/IN 
+[ its/PRP$ stores/NNS ]
+in/IN 
+[ Texas/NNP ]
+and/CC 
+[ the/DT Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ area/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT complex/JJ business/NN ]
+to/TO manage/VB ,/, ''/'' said/VBD 
+[ James/NNP Posner/NNP ]
+,/, 
+[ a/DT New/NNP York-based/JJ retail/JJ consultant/NN ]
+./. 
+
+``/`` Bloomingdale/NNP 
+[ 's/POS ]
+must/MD continue/VB to/TO present/VB 
+[ the/DT image/NN ]
+of/IN having/VBG 
+[ unique/JJ merchandise/NN ]
+,/, yet/RB 
+[ those/DT goods/NNS ]
+have/VBP to/TO be/VB salable/JJ enough/RB to/TO generate/VB 
+[ big/JJ volume/NN ]
+./. 
+
+On/IN 
+[ one/CD hand/NN ]
+
+[ you/PRP ]
+need/VBP to/TO provide/VB 
+[ showmanship/NN ]
+
+[ every/DT day/NN ]
+;/: on/IN 
+[ the/DT other/JJ ]
+,/, 
+[ expenses/NNS ]
+have/VBP to/TO be/VB managed/VBN ./. 
+
+[ You/PRP ]
+can/MD save/VB 
+[ $/$ 1/CD million/CD ]
+in/IN 
+[ expenses/NNS ]
+but/CC lose/VB 
+[ five/CD times/NNS ]
+
+[ that/DT ]
+amount/NN in/IN 
+[ sales/NNS ]
+because/IN 
+[ you/PRP ]
+'ve/VBP destroyed/VBN 
+[ the/DT shopping/JJ experience/NN ]
+,/, ''/'' 
+[ Mr./NNP Posner/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Randall/NNP Smith/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

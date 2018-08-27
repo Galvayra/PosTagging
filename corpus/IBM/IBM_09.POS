@@ -1,0 +1,1379 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 801/CD ]
+./. 
+
+-/: 
+[ Option/NN 2/CD ]
+(/( 
+[ Release/NN ]
+)/) if/IN 
+[ you/PRP ]
+want/VBP 
+[ the/DT drive/NN ]
+released/VBN ./. 
+
+[ 802/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ you/PRP ]
+could/MD set/VB up/RP 
+[ your/PRP$ shared/VBN folders/NNS function/NN configuration/NN ]
+so/IN 
+[ a/DT drive/NN ]
+is/VBZ assigned/VBN 
+[ each/DT time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ PC/NNP Support/NNP ]
+using/VBG 
+[ your/PRP$ default/NN configuration/NN file/NN ]
+./. 
+
+[ 803/CD ]
+./. 
+
+Then/RB 
+[ you/PRP ]
+could/MD set/VB up/RP 
+[ a/DT second/JJ configuration/NN ]
+using/VBG 
+[ an/DT alternative/JJ configuration/NN file/NN ]
+
+[ that/WDT ]
+releases/VBZ 
+[ the/DT same/JJ drive/NN ]
+./. 
+
+[ 804/CD ]
+./. 
+
+[ You/PRP ]
+would/MD run/VB 
+[ the/DT default/NN configuration/NN file/NN ]
+to/TO assign/VB 
+[ the/DT drive/NN ]
+and/CC ,/, when/WRB 
+[ you/PRP ]
+are/VBP finished/VBN working/VBG with/IN 
+[ the/DT drive/NN ]
+,/, run/VB 
+[ the/DT alternative/JJ configuration/NN file/NN ]
+to/TO release/VB 
+[ the/DT drive/NN ]
+./. 
+
+[ 805/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+when/WRB 
+[ you/PRP ]
+have/VBP completed/VBN 
+[ your/PRP$ changes/NNS ]
+./. 
+
+[ 806/CD ]
+./. 
+
+Select/VB 
+[ option/NN 1/CD ]
+(/( Save/VB and/CC exit/VB )/) to/TO save/VB 
+[ your/PRP$ changes/NNS ]
+and/CC 
+[ exit/VB ]
+./. 
+
+[ 807/CD ]
+./. 
+
+[ You/PRP ]
+may/MD find/VB 
+[ it/PRP ]
+necessary/JJ to/TO change/VB 
+[ the/DT order/NN ]
+in/IN 
+[ which/WDT ]
+
+[ your/PRP$ drives/NNS ]
+are/VBP assigned/VBN ./. 
+
+[ 808/CD ]
+./. 
+
+Select/VB 
+[ option/NN 4/CD ]
+(/( 
+[ Move/VB drive/NN definition/NN ]
+)/) ./. 
+
+[ 809/CD ]
+./. 
+
+[ The/DT Move/VB drive/NN definition/NN window/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 810/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+decide/VBP 
+[ you/PRP ]
+do/VBP not/RB want/VB 
+[ a/DT ]
+previously/RB defined/VBN 
+[ drive/NN ]
+assigned/VBN 
+[ each/DT time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ PC/NNP Support/NNP ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT configuration/NN program/NN ]
+to/TO delete/VB 
+[ it/PRP ]
+./. 
+
+[ 811/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+delete/VBP 
+[ a/DT drive/NN ]
+,/, 
+[ you/PRP ]
+are/VBP removing/VBG 
+[ it/PRP ]
+from/IN 
+[ your/PRP$ configuration/NN file/NN ]
+so/IN 
+[ it/PRP ]
+is/VBZ not/RB assigned/VBN 
+[ the/DT next/JJ time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ PC/NNP Support/NNP ]
+./. 
+
+[ 812/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+to/TO delete/VB 
+[ the/DT drive/NN ]
+./. 
+
+[ 813/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ you/PRP ]
+could/MD assign/VB 
+[ drive/NN D/NN ]
+to/TO 
+[ the/DT folder/NN DEPT24/NN ]
+./. 
+
+[ 814/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+use/VBP 
+[ a/DT folder/NN drive/NN ]
+,/, 
+[ you/PRP ]
+must/MD have/VB 
+[ a/DT separate/JJ drive/NN ]
+assigned/VBN for/IN 
+[ each/DT folder/NN ]
+
+[ you/PRP ]
+want/VBP to/TO use/VB ./. 
+
+[ 815/CD ]
+./. 
+
+[ You/PRP ]
+do/VBP not/RB have/VB to/TO end/VB 
+[ the/DT application/NN ]
+
+[ you/PRP ]
+are/VBP running/VBG to/TO assign/VB 
+[ the/DT drive/NN ]
+to/TO 
+[ a/DT different/JJ folder/NN ]
+./. 
+
+[ 816/CD ]
+./. 
+
+[ Your/PRP$ personal/JJ computer/NN works/VBZ ]
+with/IN 
+[ folders/NNS ]
+like/IN 
+[ it/PRP ]
+works/VBZ with/IN 
+[ directories/NNS ]
+./. 
+
+[ 817/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+know/VBP 
+[ you/PRP ]
+need/VBP 
+[ the/DT information/NN ]
+stored/VBN in/IN 
+[ a/DT specific/JJ folder/NN ]
+,/, 
+[ you/PRP ]
+can/MD assign/VB 
+[ a/DT drive/NN ]
+to/TO 
+[ that/DT folder/NN ]
+so/RB that/IN 
+[ you/PRP ]
+can/MD easily/RB use/VB 
+[ the/DT information/NN ]
+in/IN 
+[ it/PRP ]
+./. 
+
+[ 818/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ several/JJ ways/NNS ]
+to/TO assign/VB 
+[ a/DT folder/NN drive/NN ]
+./. 
+
+[ 819/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ the/DT drive/NN ]
+assigned/VBN 
+[ each/DT time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ PC/NNP Support/NNP ]
+,/, use/VB 
+[ the/DT configuration/NN program/NN ]
+to/TO define/VB 
+[ the/DT drive/NN ]
+as/IN 
+[ a/DT folder/NN drive/NN ]
+./. 
+
+[ 820/CD ]
+./. 
+
+Once/RB 
+[ you/PRP ]
+have/VBP assigned/VBN 
+[ a/DT folder/NN drive/NN ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT folder/NN ]
+by/IN entering/VBG 
+[ the/DT drive/NN letter/NN ]
+after/IN 
+[ the/DT DOS/NNP prompt/NN ]
+./. 
+
+[ 821/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, if/IN 
+[ you/PRP ]
+have/VBP drive/NN 
+[ F/NNP ]
+assigned/VBN to/TO 
+[ folder/NN DEPT254/NNP ]
+,/, 
+[ you/PRP ]
+would/MD enter/VB 
+[ the/DT following/VBG ]
+:/: 
+[ 822/CD ]
+./. 
+
+[ F:\BACKSLASH/NN ]
+{/( }/) 
+[ DEPT254/NNP You/PRP ]
+can/MD use/VB most/RBS of/IN 
+[ the/DT DOS/NNP commands/NNS ]
+to/TO work/VB with/IN 
+[ the/DT drive/NN ]
+and/CC 
+[ folder/NN ]
+./. 
+
+[ 823/CD ]
+./. 
+
+[ An/DT alternative/NN ]
+to/TO using/VBG 
+[ a/DT folder/NN drive/NN ]
+is/VBZ to/TO use/VB 
+[ one/CD system/NN drive/NN ]
+./. 
+
+[ 824/CD ]
+./. 
+
+Then/RB 
+[ you/PRP ]
+can/MD use/VB drive/NN 
+[ F/NNP ]
+like/IN 
+[ you/PRP ]
+would/MD use/VB 
+[ a/DT folder/NN drive/NN ]
+./. 
+
+[ 825/CD ]
+./. 
+
+Using/VBG 
+[ a/DT folder/NN name/NN ]
+as/IN 
+[ the/DT path/NN ]
+in/IN 
+[ the/DT DOS/NNP file/NN name/NN ]
+./. 
+
+[ 826/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ some/DT restrictions/NNS ]
+when/WRB using/VBG 
+[ certain/JJ DOS/NNP commands/NNS ]
+like/IN 
+[ COPY/NNP ]
+and/CC 
+[ BACKUP/NNP ]
+./. 
+
+[ 827/CD ]
+./. 
+
+Refer/VB to/TO 
+[ your/PRP$ DOS/NNP manual/NN ]
+for/IN 
+[ more/JJR information/NN ]
+./. 
+
+[ 828/CD ]
+./. 
+
+[ A/DT folder/NN ]
+,/, 
+[ file/NN ]
+,/, or/CC 
+[ document/NN name/NN ]
+can/MD be/VB 
+[ 1/CD ]
+to/TO 
+[ 12/CD characters/NNS ]
+long/RB ,/, including/VBG 
+[ an/DT optional/JJ extension/NN ]
+./. 
+
+[ 829/CD ]
+./. 
+
+If/IN 
+[ no/DT extension/NN ]
+is/VBZ included/VBN ,/, 
+[ the/DT name/NN ]
+has/VBZ 
+[ a/DT maximum/NN ]
+of/IN 
+[ 8/CD characters/NNS ]
+./. 
+
+[ 830/CD ]
+./. 
+
+If/IN 
+[ an/DT extension/NN ]
+is/VBZ included/VBN ,/, 
+[ the/DT extension/NN ]
+must/MD start/VB with/IN 
+[ a/DT period/NN ]
+and/CC can/MD have/VB up/IN to/TO 
+[ 3/CD additional/JJ characters/NNS ]
+./. 
+
+[ 831/CD ]
+./. 
+
+See/VB 
+[ your/PRP$ DOS/NNP manual/NN ]
+for/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ the/DT DIR/NNP command/NN ]
+./. 
+
+[ 832/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+use/VBP 
+[ this/DT mode/NN ]
+,/, 
+[ you/PRP ]
+are/VBP 
+[ the/DT ]
+only/RB 
+[ one/NN ]
+
+[ who/WP ]
+can/MD 
+[ access/VB ]
+
+[ the/DT file/NN ]
+./. 
+
+[ 833/CD ]
+./. 
+
+[ You/PRP ]
+are/VBP 
+[ the/DT ]
+only/RB 
+[ one/NN ]
+
+[ who/WP ]
+can/MD 
+[ access/VB ]
+
+[ the/DT file/NN ]
+,/, but/CC 
+[ you/PRP ]
+can/MD only/RB 
+[ access/VB ]
+
+[ it/PRP ]
+once/RB ./. 
+
+[ 834/CD ]
+./. 
+
+[ You/PRP ]
+can/MD not/RB 
+[ access/VB ]
+
+[ it/PRP ]
+
+[ a/DT second/JJ time/NN ]
+from/IN 
+[ another/DT drive/NN ]
+while/IN 
+[ it/PRP ]
+is/VBZ open/JJ ./. 
+
+[ 835/CD ]
+./. 
+
+Once/RB 
+[ you/PRP ]
+have/VBP started/VBN 
+[ the/DT shared/VBN folders/NNS function/NN ]
+,/, 
+[ you/PRP ]
+can/MD 
+[ */SYM ]
+Check/VB 
+[ the/DT status/NN ]
+of/IN 
+[ a/DT drive/NN ]
+ 
+[ */SYM ]
+Assign/VB or/CC release/VB 
+[ a/DT drive/NN ]
+ 
+[ */SYM View/VB help/NN information/NN ]
+about/IN working/VBG with/IN 
+[ drives/NNS You/PRP ]
+can/MD use/VB 
+[ the/DT FSPC/NNP command/NN ]
+to/TO display/VB 
+[ the/DT status/NN ]
+of/IN 
+[ all/DT assigned/JJ shared/VBN folders/NNS function/NN ]
+drives/NNS ./. 
+
+[ 836/CD ]
+./. 
+
+To/TO do/VB so/RB ,/, enter/VB 
+[ the/DT following/VBG command/NN ]
+at/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 837/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT FSPC/NNP command/NN ]
+to/TO assign/VB or/CC to/TO release/VB 
+[ one/CD drive/NN ]
+./. 
+
+[ 838/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT commands/NNS ]
+from/IN 
+[ a/DT command/NN line/NN ]
+or/CC put/VBD 
+[ them/PRP ]
+in/IN 
+[ a/DT batch/NN file/NN ]
+./. 
+
+[ 839/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT FSPC/NNP command/NN ]
+to/TO assign/VB or/CC to/TO release/VB 
+[ one/CD folder/NN ]
+at/IN 
+[ a/DT time/NN ]
+./. 
+
+[ 840/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT FSPC/NNP command/NN ]
+from/IN 
+[ a/DT command/NN line/NN ]
+or/CC 
+[ you/PRP ]
+can/MD put/VB 
+[ one/CD ]
+or/CC 
+[ more/JJR FSPC/NNP command/NN statements/NNS ]
+in/IN 
+[ a/DT batch/NN file/NN ]
+./. 
+
+[ 841/CD ]
+./. 
+
+To/TO assign/VB 
+[ a/DT drive/NN ]
+,/, enter/VB 
+[ the/DT following/VBG command/NN ]
+at/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 842/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB specify/VB 
+[ a/DT drive/NN letter/NN ]
+,/, 
+[ the/DT next/JJ available/JJ drive/NN ]
+is/VBZ assigned/VBN ./. 
+
+[ 843/CD ]
+./. 
+
+To/TO assign/VB 
+[ a/DT drive/NN ]
+to/TO 
+[ a/DT folder/NN ]
+,/, enter/VB 
+[ the/DT following/VBG command/NN ]
+after/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 844/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP to/TO assign/VB 
+[ a/DT drive/NN ]
+to/TO 
+[ a/DT folder/NN ]
+within/IN 
+[ a/DT folder/NN ]
+,/, enter/VB 
+[ the/DT following/VBG ]
+:/: 
+[ 845/CD ]
+./. 
+
+[ FSPC/NNP ]
+Then/RB follow/VB 
+[ the/DT prompts/NNS ]
+on/IN 
+[ the/DT displays/NNS ]
+to/TO assign/VB 
+[ the/DT drive/NN ]
+./. 
+
+[ 846/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+plan/VBP to/TO assign/VB 
+[ several/JJ folders/NNS ]
+at/IN 
+[ a/DT time/NN ]
+,/, 
+[ a/DT batch/NN file/NN ]
+makes/VBZ 
+[ the/DT process/NN ]
+easier/JJR ./. 
+
+[ 847/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+use/VBP 
+[ a/DT batch/NN file/NN ]
+,/, 
+[ you/PRP ]
+need/VBP 
+[ one/CD FSPC/NNP command/NN statement/NN ]
+for/IN 
+[ each/DT drive/NN ]
+
+[ you/PRP ]
+want/VBP assigned/VBN or/CC released/VBN ./. 
+
+[ 848/CD ]
+./. 
+
+[ An/DT error/NN message/NN ]
+is/VBZ displayed/VBN ./. 
+
+[ 849/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT FSPC/NNP command/NN ]
+to/TO release/VB 
+[ a/DT drive/NN ]
+or/CC to/TO release/VB 
+[ all/DT ]
+of/IN 
+[ the/DT drives/NNS ]
+currently/RB assigned/VBN ./. 
+
+[ 850/CD ]
+./. 
+
+[ The/DT FSPC/NNP command/NN ]
+only/RB allows/VBZ 
+[ you/PRP ]
+to/TO assign/VB or/CC to/TO release/VB 
+[ a/DT single/JJ drive/NN ]
+with/IN 
+[ one/CD command/NN ]
+./. 
+
+[ 851/CD ]
+./. 
+
+[ You/PRP ]
+can/MD do/VB 
+[ this/DT ]
+using/VBG 
+[ the/DT configuration/NN program/NN ]
+or/CC 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+./. 
+
+[ 852/CD ]
+./. 
+
+[ The/DT entry/NN ]
+in/IN 
+[ the/DT configuration/NN file/NN ]
+would/MD look/VB like/IN 
+[ this/DT ]
+:/: 
+[ 853/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT FSPC/NNP command/NN ]
+to/TO view/VB 
+[ help/NN information/NN ]
+
+[ that/WDT ]
+will/MD assist/VB 
+[ you/PRP ]
+while/IN working/VBG with/IN 
+[ folders/NNS ]
+./. 
+
+[ 854/CD ]
+./. 
+
+To/TO view/VB 
+[ general/JJ help/NN information/NN ]
+about/IN working/VBG with/IN 
+[ folders/NNS ]
+,/, enter/VB 
+[ the/DT following/VBG ]
+after/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 855/CD ]
+./. 
+
+Use/VB 
+[ this/DT as/RB your/PRP$ cache/NN size/NN ]
+./. 
+
+[ 856/CD ]
+./. 
+
+[ The/DT subsystem/NN ]
+is/VBZ used/VBN only/RB when/WRB 
+[ you/PRP ]
+are/VBP using/VBG 
+[ shared/VBN folders/NNS function/NN type/NN 2/CD ]
+./. 
+
+[ 857/CD ]
+./. 
+
+[ It/PRP ]
+shared/VBD 
+[ its/PRP$ memory/NN pool/NN ]
+with/IN 
+[ several/JJ other/JJ programs/NNS ]
+./. 
+
+[ 858/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP using/VBG 
+[ shared/VBN folders/NNS function/NN type/NN 2/CD ]
+,/, 
+[ you/PRP ]
+will/MD use/VB 
+[ this/DT subsystem/NN ]
+./. 
+
+[ 859/CD ]
+./. 
+
+[ The/DT subsystem/NN ]
+is/VBZ supplied/VBN with/IN 
+[ its/PRP$ own/JJ default/NN values/NNS ]
+for/IN 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT memory/NN pool/NN ]
+and/CC 
+[ the/DT activity/NN level/NN ]
+of/IN 
+[ the/DT subsystem/NN ]
+./. 
+
+[ 860/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT default/NN values/NNS ]
+supplied/VBN or/CC 
+[ you/PRP ]
+can/MD change/VB 
+[ them/PRP ]
+./. 
+
+[ 861/CD ]
+./. 
+
+[ The/DT command/NN ]
+should/MD be/VB entered/VBN as/IN follows/VBZ :/: 
+[ 862/CD ]
+./. 
+
+Then/RB 
+[ you/PRP ]
+must/MD enter/VB 
+[ it/PRP ]
+again/RB ./. 
+
+[ 863/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT default/NN values/NNS ]
+or/CC 
+[ you/PRP ]
+can/MD change/VB 
+[ them/PRP ]
+to/TO meet/VB 
+[ you/PRP own/JJ needs/NNS ]
+./. 
+
+[ 864/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ subsystems/NNS ]
+and/CC 
+[ the/DT CL/NNP ]
+commands/NNS 
+[ you/PRP ]
+can/MD use/VB with/IN 
+[ them/PRP ]
+,/, see/VB 
+[ the/DT DDS/NNP Reference/NNP ]
+./. 
+
+[ 865/CD ]
+./. 
+
+For/IN 
+[ each/DT object/NN ]
+,/, 
+[ you/PRP ]
+can/MD determine/VB 
+[ specific/JJ authority/NN ]
+or/CC 
+[ public/JJ authority/NN ]
+./. 
+
+[ 866/CD ]
+./. 
+
+-/: 
+[ Specific/JJ authority/NN ]
+describes/VBZ 
+[ the/DT authority/NN ]
+for/IN 
+[ individual/JJ users/NNS ]
+./. 
+
+[ 867/CD ]
+./. 
+
+[ Resource/NN security/NN ]
+is/VBZ stored/VBN with/IN 
+[ each/DT object/NN ]
+./. 
+
+[ 868/CD ]
+./. 
+
+[ You/PRP ]
+can/MD assign/VB 
+[ resource/NN security/NN ]
+in/IN 
+[ different/JJ ways/NNS ]
+:/: -/: Specify/VB 
+[ the/DT public/JJ ]
+and/CC 
+[ specific/JJ authority/NN ]
+for/IN 
+[ a/DT folder/NN ]
+./. 
+
+[ 869/CD ]
+./. 
+
+Then/RB ,/, let/VB 
+[ the/DT objects/NNS ]
+within/IN 
+[ the/DT folder/NN ]
+use/VB 
+[ the/DT same/JJ authority/NN ]
+./. 
+
+[ 870/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+need/VBP to/TO add/VB or/CC delete/VB 
+[ a/DT name/NN ]
+from/IN 
+[ the/DT group/NN ]
+,/, 
+[ you/PRP ]
+make/VBP 
+[ the/DT change/NN ]
+in/IN 
+[ the/DT authorization/NN list/NN ]
+./. 
+
+[ 871/CD ]
+./. 
+
+-/: Use/VB 
+[ a/DT group/NN profile/NN ]
+to/TO specify/VB 
+[ the/DT same/JJ kind/NN ]
+of/IN 
+[ authority/NN ]
+to/TO 
+[ a/DT group/NN ]
+of/IN 
+[ users/NNS ]
+./. 
+
+[ 872/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+give/VB 
+[ specific/JJ authority/NN ]
+for/IN 
+[ an/DT object/NN ]
+to/TO 
+[ the/DT name/NN ]
+of/IN 
+[ a/DT group/NN profile/NN ]
+,/, 
+[ every/DT member/NN ]
+of/IN 
+[ the/DT group/NN ]
+has/VBZ 
+[ the/DT same/JJ authority/NN ]
+for/IN 
+[ the/DT object/NN ]
+./. 
+
+[ 873/CD ]
+./. 
+
+[ Special/JJ authority/NN security/NN ]
+
+[ This/DT type/NN ]
+of/IN 
+[ security/NN ]
+overrides/VBZ 
+[ any/DT specific/JJ ]
+or/CC 
+[ public/JJ authority/NN ]
+given/VBN to/TO 
+[ an/DT object/NN ]
+./. 
+
+[ 874/CD ]
+./. 
+
+[ Special/JJ authority/NN ]
+is/VBZ specified/VBN in/IN 
+[ your/PRP$ user/NN profile/NN ]
+./. 
+
+[ 875/CD ]
+./. 
+
+Working/VBG for/IN 
+[ another/DT user/NN ]
+
+[ This/DT type/NN ]
+of/IN 
+[ authority/NN ]
+allows/VBZ 
+[ a/DT user/NN ]
+to/TO work/VB with/IN 
+[ the/DT mail/NN ]
+and/CC 
+[ folders/NNS ]
+of/IN 
+[ another/DT user/NN ]
+./. 
+
+[ 876/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+have/VBP 
+[ authority/NN ]
+to/TO work/VB for/IN 
+[ another/DT user/NN ]
+,/, 
+[ you/PRP ]
+have/VBP 
+[ all/PDT the/DT authority/NN ]
+of/IN 
+[ that/DT user/NN ]
+./. 
+
+[ 877/CD ]
+./. 
+
+To/TO remove/VB 
+[ the/DT device/NN driver/NN ]
+from/IN 
+[ memory/NN ]
+,/, use/VB 
+[ the/DT remove/VB PC/NNP Support/NNP function/NN ]
+./. 
+
+[ 878/CD ]
+./. 
+
+[ You/PRP ]
+can/MD not/RB remove/VB shared/VBN 
+[ folders/NNS function/NN type/NN 0/CD ]
+from/IN 
+[ memory/NN ]
+./. 
+
+[ 879/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+about/IN removing/VBG 
+[ PC/NNP Support/NNP ]
+from/IN 
+[ memory/NN ]
+,/, refer/VB to/TO 
+[ PC/NNP Support/NNP User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 880/CD ]
+./. 
+
+Before/IN 
+[ you/PRP ]
+can/MD use/VB 
+[ a/DT host/NN system/NN printer/NN ]
+as/IN 
+[ a/DT virtual/JJ printer/NN ]
+
+[ you/PRP ]
+need/VBP to/TO assign/VB 
+[ it/PRP ]
+./. 
+
+[ 881/CD ]
+./. 
+
+[ You/PRP ]
+can/MD define/VB up/IN to/TO 
+[ three/CD printers/NNS ]
+to/TO be/VB used/VBN from/IN 
+[ your/PRP$ personal/JJ computer/NN ]
+./. 
+
+[ 882/CD ]
+./. 
+
+[ These/DT printers/NNS ]
+can/MD 
+[ all/DT ]
+be/VB 
+[ local/JJ personal/JJ computer/NN printers/NNS ]
+,/, 
+[ virtual/JJ printers/NNS ]
+,/, or/CC 
+[ any/DT combination/NN ]
+of/IN 
+[ the/DT two/CD ]
+./. 
+
+[ 883/CD ]
+./. 
+
+[ All/DT three/CD printers/NNS ]
+can/MD be/VB active/JJ at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+[ 884/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP to/TO use/VB 
+[ a/DT virtual/JJ printer/NN ]
+
+[ the/DT same/JJ way/NN ]
+
+[ each/DT time/NN ]
+
+[ you/PRP ]
+start/VBP 
+[ PC/NNP Support/NNP ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+to/TO set/VB up/RP 
+[ the/DT printer/NN ]
+./. 
+
+[ 885/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+use/VBP 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+,/, 
+[ you/PRP ]
+define/VBP how/WRB 
+[ you/PRP ]
+want/VBP 
+[ the/DT printer/NN ]
+to/TO operate/VB ./. 
+
+[ 886/CD ]
+./. 
+
+To/TO use/VB 
+[ this/DT method/NN ]
+,/, 
+[ you/PRP ]
+must/MD first/RB start/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+./. 
+
+[ 887/CD ]
+./. 
+
+[ Select/NNP ]
+
+[ the/DT Virtual/NNP printer/NN option/NN ]
+from/IN 
+[ the/DT list/NN ]
+of/IN 
+[ functions/NNS ]
+on/IN 
+[ the/DT menu/NN ]
+./. 
+
+[ 888/CD ]
+./. 
+
+[ The/DT Virtual/NNP Printer/NNP Configuration/NNP menu/NN ]
+is/VBZ shown/VBN ./. 
+
+[ 889/CD ]
+./. 
+
+Select/VB 
+[ option/NN 2/CD ]
+(/( Add/VB 
+[ printer/NN definition/NN ]
+)/) from/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 890/CD ]
+./. 
+
+Enter/VB 
+[ values/NNS ]
+for/IN 
+[ the/DT parameters/NNS ]
+displayed/VBN in/IN 
+[ the/DT Add/NN printer/NN definition/NN window/NN ]
+./. 
+
+[ 891/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT Arrow/NN keys/NNS ]
+or/CC 
+[ the/DT Tab/NN key/NN ]
+to/TO move/VB through/IN 
+[ the/DT parameters/NNS ]
+displayed/VBN in/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 892/CD ]
+./. 
+
+[ Press/VB Enter/NNP ]
+when/WRB 
+[ you/PRP ]
+have/VBP finished/VBN filling/VBG in/RP 
+[ the/DT parameters/NNS ]
+./. 
+
+[ 893/CD ]
+./. 
+
+At/IN 
+[ this/DT point/NN ]
+,/, 
+[ the/DT configuration/NN ]
+has/VBZ been/VBN changed/VBN ./. 
+
+[ 894/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT parameters/NNS ]
+in/IN 
+[ the/DT Add/VB printer/NN definition/NN window/NN ]
+./. 
+
+[ 895/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB specify/VB 
+[ a/DT system/NN name/NN ]
+,/, 
+[ the/DT default/NN system/NN name/NN ]
+is/VBZ used/VBN ./. 
+
+[ 896/CD ]
+./. 
+
+[ You/PRP ]
+must/MD select/VB 
+[ a/DT printer/NN device/NN ]
+or/CC 
+[ a/DT printer/NN ]
+file/NN or/CC 
+[ both/DT ]
+./. 
+
+[ 897/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP 
+[ a/DT library/NN ]
+,/, 
+[ you/PRP ]
+must/MD also/RB select/VB 
+[ a/DT printer/NN file/NN ]
+./. 
+
+[ 898/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+select/VBP 
+[ a/DT printer/NN ]
+file/NN but/CC do/VB not/RB select/VB 
+[ a/DT library/NN ]
+,/, 
+[ the/DT host/NN system/NN ]
+searches/VBZ through/IN 
+[ your/PRP$ library/NN list/NN ]
+to/TO find/VB 
+[ the/DT printer/NN file/NN ]
+./. 
+
+[ 899/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specify/VBP 
+[ a/DT printer/NN device/NN ]
+in/IN 
+[ addition/NN ]
+to/TO 
+[ a/DT printer/NN file/NN ]
+,/, 
+[ the/DT virtual/JJ printer/NN function/NN ]
+will/MD change/VB 
+[ any/DT values/NNS ]
+supplied/VBN by/IN 
+[ the/DT printer/NN file/NN ]
+
+[ that/WDT ]
+are/VBP not/RB valid/JJ for/IN 
+[ the/DT printer/NN device/NN ]
+
+[ you/PRP ]
+choose/VBP ./. 
+
+[ 900/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Tab/NN key/NN ]
+to/TO see/VB 
+[ additional/JJ prompts/NNS ]
+./. 

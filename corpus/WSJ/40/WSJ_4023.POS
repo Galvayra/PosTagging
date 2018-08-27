@@ -1,0 +1,814 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Coca-Cola/NNP 's/POS board/NN ]
+is/VBZ scheduled/VBN to/TO meet/VB 
+[ today/NN ]
+to/TO decide/VB whether/IN to/TO accept/VB 
+[ Sony/NNP 's/POS tender/NN offer/NN ]
+for/IN 
+[ Coke/NNP 's/POS 49/CD %/NN share/NN ]
+of/IN 
+[ Columbia/NNP Pictures/NNPS ]
+./. 
+
+[ Coke/NNP 's/POS board/NN ]
+is/VBZ reportedly/RB happy/JJ about/IN 
+[ Sony/NNP 's/POS offer/NN ]
+,/, and/CC 
+[ it/PRP ]
+is/VBZ unlikely/JJ 
+[ it/PRP ]
+will/MD hesitate/VB to/TO accept/VB 
+[ the/DT bid/NN ]
+./. 
+
+[ Columbia/NNP 's/POS employees/NNS ]
+,/, on/IN 
+[ the/DT other/JJ hand/NN ]
+,/, are/VBP said/VBN to/TO be/VB quite/RB apprehensive/JJ about/IN 
+[ the/DT prospect/NN ]
+of/IN working/VBG for/IN 
+[ Japanese/JJ owners/NNS ]
+./. 
+
+While/IN 
+[ it/PRP ]
+'s/VBZ impossible/JJ to/TO say/VB at/IN 
+[ this/DT point/NN ]
+how/WRB far/RB 
+[ Sony/NNP ]
+would/MD go/VB in/IN changing/VBG 
+[ Columbia/NNP 's/POS style/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ fair/JJ to/TO assume/VB that/IN 
+[ Columbia/NNP 's/POS employees/NNS ]
+will/MD be/VB exposed/VBN to/TO 
+[ Japanese/JJ management/NN style/NN ]
+at/IN 
+[ some/DT level/NN ]
+of/IN 
+[ operation/NN ]
+./. 
+
+How/WRB will/MD 
+[ they/PRP ]
+adapt/VBP to/TO 
+[ this/DT new/JJ style/NN ]
+?/. 
+
+======================================
+
+In/IN 
+[ 1986/CD ]
+,/, 
+[ I/PRP ]
+was/VBD 
+[ part/NN ]
+of/IN 
+[ the/DT Japanese/JJ team/NN ]
+
+[ that/WDT ]
+established/VBD 
+[ the/DT Panasonic/NNP subsidiary/NN Kotobuki/NNP Electronics/NNP Industries/NNPS ]
+,/, in/IN 
+[ Vancouver/NNP ]
+,/, 
+[ Wash/NNP ]
+./. 
+
+When/WRB 
+[ we/PRP ]
+celebrated/VBD 
+[ our/PRP$ first/JJ anniversary/NN ]
+,/, 
+[ I/PRP ]
+asked/VBD 
+[ our/PRP$ American/JJ employees/NNS ]
+how/WRB 
+[ they/PRP ]
+enjoyed/VBD working/VBG with/IN 
+[ us/PRP ]
+./. 
+
+For/IN 
+[ the/DT most/JJS part/NN ]
+
+[ they/PRP ]
+were/VBD happy/JJ ,/, but/CC 
+[ I/PRP ]
+was/VBD surprised/JJ by/IN 
+[ some/DT ]
+of/IN 
+[ the/DT criticisms/NNS they/PRP ]
+made/VBD :/: 
+======================================
+
+--/: 
+[ Japanese/JJ managers/NNS ]
+do/VBP n't/RB trust/VB 
+[ American/JJ workers/NNS ]
+and/CC are/VBP too/RB secretive/JJ ./. 
+
+======================================
+
+--/: 
+[ American/JJ managers/NNS ]
+have/VBP 
+[ many/JJ responsibilities/NNS ]
+but/CC 
+[ little/JJ decision-making/NN authority/NN ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT Japanese/NNPS ]
+do/VB not/RB give/VB 
+[ their/PRP$ employees/NNS clear/JJ job/NN descriptions/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Japanese/JJ management/NN ]
+is/VBZ too/RB slow/JJ to/TO make/VB 
+[ decisions/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Japanese/JJ managers/NNS ]
+are/VBP too/RB negative/JJ ;/: 
+[ they/PRP ]
+criticize/VBP but/CC never/RB praise/VBP ./. 
+
+======================================
+
+[ I/PRP ]
+had/VBD n't/RB realized/VBN until/IN then/RB that/IN 
+[ my/PRP$ American/JJ workers/NNS ]
+were/VBD experiencing/VBG 
+[ culture/NN shock/NN ]
+./. 
+
+[ Culture/NN shock/NN ]
+in/IN 
+[ the/DT work/NN context/NN ]
+can/MD be/VB 
+[ a/DT source/NN ]
+of/IN damaging/VBG 
+[ misunderstandings/NNS ]
+and/CC 
+[ intolerable/JJ frustrations/NNS ]
+./. 
+
+[ It/PRP ]
+became/VBD clear/JJ to/TO 
+[ me/PRP ]
+that/IN 
+[ I/PRP ]
+had/VBD 
+[ a/DT formidable/JJ management/NN challenge/NN ]
+to/TO communicate/VB 
+[ the/DT reasons/NNS ]
+for/IN 
+[ our/PRP$ Japanese/JJ ways/NNS ]
+to/TO 
+[ our/PRP$ American/JJ employees/NNS ]
+./. 
+
+======================================
+
+[ Culture/NN ]
+has/VBZ 
+[ two/CD aspects/NNS ]
+./. 
+
+[ One/CD ]
+is/VBZ easy/JJ to/TO understand/VB because/IN 
+[ it/PRP ]
+is/VBZ clear/JJ to/TO see/VB ./. 
+
+[ Foreigners/NNS ]
+recognize/VBP 
+[ it/PRP ]
+in/IN 
+[ the/DT etiquette/NN ]
+,/, 
+[ customs/NNS ]
+,/, 
+[ trade/NN practices/NNS ]
+,/, 
+[ folklore/NN ]
+and/CC 
+[ all/PDT the/DT various/JJ objective/JJ products/NNS ]
+and/CC 
+[ behaviors/NNS ]
+of/IN 
+[ a/DT culture/NN ]
+./. 
+
+[ The/DT other/JJ aspect/NN ]
+is/VBZ less/RBR easy/JJ to/TO understand/VB because/IN 
+[ it/PRP ]
+requires/VBZ 
+[ a/DT foreigner/NN ]
+to/TO enter/VB deeply/RB into/IN 
+[ the/DT subjective/JJ reality/NN ]
+of/IN 
+[ an/DT unfamiliar/JJ culture/NN ]
+./. 
+
+[ One/PRP ]
+needs/VBZ to/TO understand/VB 
+[ the/DT reasons/NNS ]
+behind/IN 
+[ its/PRP$ people/NNS 's/POS behavior/NN ]
+./. 
+
+Why/WRB do/VBP 
+[ they/PRP ]
+think/VB 
+[ the/DT way/NN ]
+
+[ they/PRP ]
+do/VBP ?/. 
+
+[ What/WP ]
+are/VBP 
+[ their/PRP$ deepest/JJS values/NNS ]
+?/. 
+
+======================================
+
+[ Our/PRP$ American/JJ employees/NNS ]
+were/VBD not/RB having/VBG 
+[ difficulties/NNS ]
+with/IN 
+[ our/PRP$ Japanese/JJ management/NN ]
+on/IN 
+[ the/DT first/JJ level/NN ]
+,/, but/CC on/IN 
+[ the/DT second/NN ]
+./. 
+
+[ They/PRP ]
+needed/VBD to/TO better/RBR understand/VB 
+[ our/PRP$ way/NN ]
+of/IN thinking/NN and/CC 
+[ our/PRP$ values/NNS ]
+./. 
+
+[ I/PRP ]
+realized/VBD 
+[ I/PRP ]
+needed/VBD to/TO better/RBR understand/VB 
+[ these/DT things/NNS ]
+
+[ myself/PRP ]
+./. 
+
+So/RB much/RB of/IN 
+[ one/PRP ]
+
+[ 's/POS culture/NN ]
+is/VBZ taken/VBN for/IN granted/VBN ./. 
+
+[ It/PRP ]
+is/VBZ like/IN 
+[ the/DT air/NN ]
+
+[ we/PRP ]
+breathe/VBP --/: always/RB 
+[ there/EX ]
+supporting/VBG 
+[ our/PRP$ life/NN ]
+,/, but/CC rarely/RB thought/VBD about/IN ./. 
+
+So/RB here/RB is/VBZ 
+[ my/PRP$ attempt/NN ]
+to/TO explain/VB 
+[ the/DT values/NNS ]
+behind/IN 
+[ the/DT Japanese/JJ management/NN style/NN ]
+,/, 
+[ a/DT style/NN ]
+that/IN 
+[ I/PRP ]
+hope/VBP will/MD be/VB easier/JJR for/IN 
+[ Americans/NNPS ]
+to/TO live/VB with/IN if/IN 
+[ they/PRP ]
+understand/VBP 
+[ the/DT cultural/JJ reasons/NNS ]
+behind/IN 
+[ it/PRP ]
+./. 
+
+======================================
+
+Do/VBP 
+[ Japanese/JJ managers/NNS ]
+mistrust/VB 
+[ Americans/NNPS ]
+and/CC keep/VB 
+[ secrets/NNS ]
+from/IN 
+[ them/PRP ]
+?/. 
+
+[ I/PRP ]
+do/VBP n't/RB think/VB so/RB ./. 
+
+[ The/DT problem/NN ]
+lies/VBZ more/RBR in/IN 
+[ the/DT fact/NN ]
+that/IN ,/, in/IN 
+[ American/JJ terms/NNS ]
+,/, 
+[ the/DT Japanese/NNPS ]
+are/VBP simply/RB 
+[ poor/JJ communicators/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Japanese/JJ culture/NN silence/NN ]
+is/VBZ golden/JJ ,/, and/CC 
+[ the/DT real/JJ messages/NNS ]
+are/VBP often/RB communicated/VBN nonverbally/RB ./. 
+
+[ Japanese/NNPS ]
+speak/VBP with/IN 
+[ great/JJ reserve/NN ]
+,/, and/CC 
+[ their/PRP$ messages/NNS ]
+are/VBP often/RB communicated/VBN subtly/RB ./. 
+
+[ Japanese/NNPS value/VBP ]
+
+[ a/DT listener/NN ]
+
+[ who/WP ]
+uses/VBZ 
+[ his/PRP$ perceptiveness/NN ]
+to/TO understand/VB 
+[ the/DT speaker/NN 's/POS meaning/NN ]
+./. 
+
+From/IN 
+[ a/DT small/JJ bit/NN ]
+of/IN 
+[ information/NN ]
+--/: perhaps/RB from/IN 
+[ a/DT simple/JJ gesture/NN ]
+or/CC 
+[ the/DT speaker/NN 's/POS tone/NN ]
+of/IN 
+[ voice/NN ]
+--/: 
+[ the/DT Japanese/JJ listener/NN ]
+gleans/VBZ 
+[ the/DT whole/JJ meaning/NN ]
+./. 
+
+[ The/DT Japanese/NNPS ]
+have/VBP learned/VBN from/IN 
+[ a/DT very/RB early/JJ age/NN ]
+how/WRB to/TO understand/VB 
+[ one/CD another/DT ]
+without/IN 
+[ direct/JJ verbal/JJ communication/NN ]
+./. 
+
+======================================
+
+[ Americans/NNPS ]
+understandably/RB interpret/VBP 
+[ this/DT behavior/NN ]
+as/IN 
+[ secretive/JJ ]
+,/, and/CC 
+[ they/PRP ]
+think/VBP that/IN 
+[ Japanese/NNPS ]
+consciously/RB withhold/VBP 
+[ information/NN ]
+because/IN 
+[ they/PRP ]
+do/VBP n't/RB trust/VB 
+[ them/PRP ]
+./. 
+
+[ I/PRP ]
+think/VBP 
+[ the/DT problem/NN ]
+lies/VBZ rather/RB on/IN 
+[ the/DT level/NN ]
+of/IN 
+[ a/DT misunderstanding/NN ]
+because/IN of/IN 
+[ different/JJ communication/NN styles/NNS ]
+./. 
+
+======================================
+
+But/CC perhaps/RB 
+[ Americans/NNPS ]
+also/RB feel/VBP mistrusted/JJ because/IN 
+[ they/PRP ]
+do/VBP n't/RB have/VB 
+[ the/DT authority/NN ]
+that/IN 
+[ the/DT same/JJ level/NN ]
+of/IN 
+[ responsibility/NN ]
+or/CC 
+[ job/NN title/NN ]
+would/MD give/VB 
+[ them/PRP ]
+in/IN 
+[ an/DT American/JJ company/NN ]
+./. 
+
+Again/RB 
+[ this/DT ]
+has/VBZ 
+[ nothing/NN ]
+to/TO do/VB with/IN 
+[ Japanese/JJ mistrust/NN ]
+./. 
+
+[ Authority/NN ]
+to/TO make/VB 
+[ decisions/NNS ]
+is/VBZ shared/VBN in/IN 
+[ Japanese/JJ companies/NNS ]
+in/IN 
+[ ways/NNS Americans/NNPS ]
+are/VBP unused/JJ to/TO ./. 
+
+And/CC whether/IN 
+[ a/DT manager/NN ]
+is/VBZ 
+[ American/JJ ]
+or/CC 
+[ Japanese/JJ ]
+,/, 
+[ the/DT authority/NN ]
+
+[ he/PRP ]
+is/VBZ granted/VBN is/VBZ more/JJR 
+[ a/DT function/NN ]
+of/IN 
+[ time/NN ]
+than/IN of/IN 
+[ his/PRP$ job/NN title/NN ]
+./. 
+
+[ Authority/NN ]
+is/VBZ 
+[ a/DT reward/NN ]
+for/IN 
+[ loyalty/NN ]
+and/CC 
+[ a/DT consistent/JJ demonstration/NN ]
+of/IN 
+[ responsibility/NN ]
+./. 
+
+======================================
+
+Before/IN being/VBG promoted/VBN to/TO 
+[ manager/NN ]
+,/, 
+[ Japanese/JJ employees/NNS ]
+are/VBP assigned/VBN to/TO 
+[ different/JJ departments/NNS ]
+over/IN 
+[ the/DT course/NN ]
+of/IN 
+[ 10/CD ]
+to/TO 
+[ 15/CD years/NNS ]
+./. 
+
+During/IN 
+[ this/DT time/NN ]
+
+[ they/PRP ]
+work/VBP alongside/IN 
+[ many/JJ different/JJ people/NNS ]
+to/TO give/VB 
+[ them/PRP ]
+
+[ the/DT chance/NN ]
+to/TO develop/VB 
+[ extensive/JJ working/NN relationships/NNS ]
+based/VBN on/IN 
+[ trust/NN ]
+and/CC 
+[ respect/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ why/WRB 
+[ job/NN descriptions/NNS ]
+are/VBP not/RB 
+[ specific/JJ ]
+;/: 
+[ a/DT manager/NN ]
+in/IN 
+[ a/DT Japanese/JJ company/NN ]
+is/VBZ expected/VBN to/TO be/VB 
+[ a/DT generalist/NN ]
+,/, 
+[ an/DT all-round/JJ player/NN ]
+./. 
+
+At/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT long/JJ process/NN ]
+,/, 
+[ a/DT manager/NN ]
+--/: whether/IN 
+[ Japanese/JJ ]
+or/CC 
+[ American/JJ ]
+--/: is/VBZ granted/VBN 
+[ a/DT degree/NN ]
+of/IN 
+[ authority/NN ]
+because/IN 
+[ he/PRP ]
+has/VBZ proven/VBN 
+[ himself/PRP ]
+trustworthy/JJ ./. 
+
+======================================
+
+But/CC even/RB when/WRB 
+[ a/DT manager/NN ]
+earns/VBZ 
+[ this/DT trust/NN ]
+,/, 
+[ he/PRP ]
+is/VBZ rarely/RB given/VBN 
+[ the/DT kind/NN ]
+of/IN 
+[ individual/JJ authority/NN ]
+
+[ that/WDT ]
+is/VBZ common/JJ in/IN 
+[ American/JJ companies/NNS ]
+./. 
+
+[ Americans/NNPS value/VBP ]
+
+[ an/DT aggressive/JJ ]
+,/, 
+[ quick/JJ ]
+,/, 
+[ individualistic/JJ decision-making/NN style/NN ]
+./. 
+
+But/CC for/IN 
+[ the/DT Japanese/NNPS ]
+
+[ it/PRP ]
+is/VBZ more/RBR important/JJ to/TO have/VB 
+[ consensus/NN ]
+than/IN to/TO have/VB 
+[ a/DT quick/JJ decision/NN ]
+./. 
+
+Working/VBG 
+[ relationships/NNS ]
+in/IN 
+[ Japanese/JJ companies/NNS ]
+are/VBP long-term/JJ ,/, and/CC 
+[ loyalty/NN ]
+,/, 
+[ cooperation/NN ]
+,/, and/CC 
+[ harmonious/JJ interpersonal/JJ relationships/NNS ]
+are/VBP very/RB important/JJ ./. 
+
+[ A/DT participative/JJ management/NN style/NN ]
+has/VBZ developed/VBN in/IN 
+[ Japan/NNP ]
+to/TO induce/VB 
+[ better/JJR cooperation/NN ]
+./. 
+
+[ This/DT ]
+means/VBZ 
+[ less/RBR individual/JJ authority/NN ]
+and/CC 
+[ a/DT much/RB longer/JJR decision-making/NN process/NN ]
+than/IN 
+[ Americans/NNPS ]
+are/VBP used/VBN to/TO ./. 
+
+In/IN 
+[ this/DT system/NN ]
+
+[ the/DT nail/NN ]
+
+[ that/WDT ]
+sticks/VBZ out/RB tends/VBZ to/TO get/VB hammered/VBN down/RB ./. 
+
+======================================
+
+Maybe/RB 
+[ some/DT Americans/NNPS ]
+
+[ who/WP ]
+were/VBD used/VBN to/TO standing/VBG out/RB and/CC 
+[ who/WP ]
+expected/VBD 
+[ praise/NN ]
+as/IN 
+[ a/DT result/NN ]
+were/VBD bewildered/JJ when/WRB 
+[ no/DT praise/NN ]
+came/VBD ./. 
+
+But/CC 
+[ it/PRP ]
+is/VBZ important/JJ for/IN 
+[ Americans/NNPS ]
+to/TO understand/VB that/IN 
+[ Japanese/NNPS ]
+rarely/RB praise/VBP 
+[ others/NNS ]
+because/IN 
+[ they/PRP ]
+are/VBP uncomfortable/JJ when/WRB 
+[ others/NNS ]
+praise/VBP 
+[ them/PRP ]
+./. 
+
+[ Praise/NN ]
+is/VBZ confused/VBN with/IN 
+[ flattery/NN ]
+,/, and/CC 
+[ flattery/NN ]
+is/VBZ 
+[ a/DT cause/NN ]
+of/IN 
+[ mistrust/NN ]
+./. 
+
+======================================
+
+[ Japanese/JJ children/NNS ]
+are/VBP raised/VBN in/IN 
+[ a/DT way/NN many/JJ Americans/NNPS ]
+would/MD find/VB 
+[ severe/JJ ]
+./. 
+
+After/IN 
+[ a/DT ]
+wonderfully/RB 
+[ frivolous/JJ early/JJ childhood/NN ]
+,/, 
+[ they/PRP ]
+are/VBP exposed/VBN to/TO 
+[ rigid/JJ discipline/NN ]
+as/RB soon/RB as/IN 
+[ they/PRP ]
+enter/VBP 
+[ school/NN ]
+./. 
+
+[ They/PRP ]
+are/VBP continuously/RB indoctrinated/VBN to/TO avoid/VB 
+[ shame/NN ]
+and/CC 
+[ disgrace/NN ]
+./. 
+
+[ They/PRP ]
+know/VBP 
+[ they/PRP ]
+are/VBP expected/VBN to/TO do/VB well/RB ,/, and/CC 
+[ they/PRP ]
+do/VBP not/RB expect/VB to/TO be/VB praised/VBN unless/IN 
+[ their/PRP$ work/NN ]
+is/VBZ truly/RB outstanding/JJ ./. 
+
+Perhaps/RB 
+[ one/PRP ]
+could/MD say/VB that/IN 
+[ the/DT Japanese/NNPS ]
+are/VBP motivated/VBN more/RBR by/IN 
+[ fear/NN ]
+of/IN 
+[ shame/NN ]
+than/IN by/IN 
+[ desire/NN ]
+for/IN 
+[ praise/NN ]
+,/, but/CC 
+[ there/EX ]
+is/VBZ also/RB 
+[ a/DT profound/JJ desire/NN ]
+to/TO excel/VB and/CC to/TO do/VB 
+[ a/DT better/JJR job/NN ]
+./. 
+
+For/IN 
+[ this/DT reason/NN ]
+
+[ the/DT Japanese/NNPS ]
+always/RB look/VBP for/IN 
+[ a/DT better/JJR way/NN ]
+to/TO do/VB 
+[ something/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT motive/NN ]
+for/IN 
+[ criticism/NN ]
+--/: not/RB to/TO be/VB negative/JJ ,/, but/CC to/TO find/VB 
+[ a/DT better/JJR way/NN ]
+./. 
+
+======================================
+
+So/RB 
+[ there/EX ]
+is/VBZ 
+[ an/DT understandable/JJ truth/NN ]
+at/IN 
+[ the/DT root/NN ]
+of/IN 
+[ each/DT ]
+of/IN 
+[ the/DT American/JJ criticisms/NNS ]
+./. 
+
+[ The/DT Japanese/NNPS ]
+do/VBP not/RB communicate/VB clearly/RB ./. 
+
+[ They/PRP ]
+do/VBP not/RB give/VB 
+[ much/JJ individual/JJ authority/NN ]
+./. 
+
+[ They/PRP ]
+make/VBP 
+[ decisions/NNS ]
+slowly/RB ./. 
+
+[ They/PRP ]
+do/VBP not/RB praise/VB ./. 
+
+But/CC 
+[ there/EX ]
+are/VBP 
+[ deep/JJ cultural/JJ reasons/NNS ]
+for/IN 
+[ these/DT behaviors/NNS ]
+and/CC 
+[ policies/NNS ]
+--/: not/RB 
+[ an/DT anti-American/JJ bias/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kageyama/NNP ]
+is/VBZ 
+[ president/NN ]
+of/IN 
+[ American/NNP Kotobuki/NNP Electronics/NNP Industries/NNPS ]
+,/, 
+[ a/DT subsidiary/NN ]
+of/IN 
+[ Panasonic/NNP ]
+./. 

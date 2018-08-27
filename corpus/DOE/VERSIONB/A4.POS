@@ -1,0 +1,9643 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ The/DT De/NNP Queen/NNP Limestone/NNP ]
+(/( 
+[ Comanchean/NNP ]
+,/, 
+[ Cretaceous/NNP ]
+)/) in/IN 
+[ the/DT main/JJ Highland/NNP Gypsum/NNP quarry/NN ]
+at/IN 
+[ Highland/NNP ]
+,/, 
+[ Arkansas/NNP ]
+,/, consists/VBZ of/IN 
+[ gypsum/NN ]
+,/, 
+[ limestone/NN ]
+,/, and/CC 
+[ clastic/JJ sediments/NNS ]
+deposited/VBN along/IN 
+[ the/DT landward/JJ margin/NN ]
+of/IN 
+[ a/DT broad/JJ ]
+,/, 
+[ restricted/JJ ]
+,/, 
+[ shallow/JJ lagoon/NN ]
+./. 
+
+[ It/PRP ]
+grades/VBZ 
+[ downdip/RB ]
+into/IN 
+[ the/DT Ferry/NNP Lake/NNP Anhydrite/NNP ]
+./. 
+
+[ Gypsum/NN ]
+,/, in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ satin/NN spar/NN ]
+,/, 
+[ selenite/NN ]
+,/, and/CC 
+[ alabaster/NN ]
+,/, is/VBZ abundant/JJ in/IN 
+[ the/DT lower/JJR part/NN ]
+of/IN 
+[ the/DT section/NN ]
+./. 
+
+[ Limestones/NNS ]
+ranging/VBG from/IN 
+[ lime/NN mudstones/NNS ]
+to/TO 
+[ grainstones/NNS ]
+contain/VBP 
+[ fossil/JJ mollusks/NNS ]
+,/, 
+[ ostracods/NNS ]
+,/, 
+[ serpulid/NN worm/NN tubes/NNS ]
+,/, and/CC 
+[ foraminifera/NN ]
+./. 
+
+[ The/DT gypsum/NN ]
+and/CC 
+[ limestone/NN lithologies/NNS ]
+are/VBP interbedded/JJ with/IN claystones/NNS and/CC 
+[ shales/NNS ]
+./. 
+
+[ Strontium/NN concentration/NN ]
+was/VBD determined/VBN on/IN about/IN 
+[ 100/CD samples/NNS ]
+by/IN 
+[ x-ray/NN fluorescence/NN spectrometry/NN ]
+(/( 
+[ XRF/NNP ]
+)/) and/CC was/VBD found/VBN to/TO be/VB controlled/VBN by/IN 
+[ diagenesis/NN ]
+,/, not/RB 
+[ deposition/NN ]
+./. 
+
+[ Strontium/NN concentrations/NNS ]
+in/IN 
+[ the/DT gypsum/NN ]
+are/VBP likely/RB controlled/VBN by/IN 
+[ the/DT rate/NN ]
+of/IN 
+[ recrystallization/NN ]
+of/IN 
+[ secondary/JJ anhydrite/NN ]
+./. 
+
+[ Levels/NNS ]
+of/IN 
+[ strontium/NN ]
+in/IN 
+[ the/DT limestones/NNS ]
+reflect/VBP 
+[ the/DT amount/NN ]
+of/IN 
+[ celestite/NN cement/NN ]
+./. 
+
+[ The/DT strontium/NN content/NN ]
+of/IN 
+[ the/DT clastic/JJ beds/NNS correlates/NNS ]
+with/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ strontium-rich/JJ microcrystals/NNS ]
+of/IN 
+[ strontianite/NN ]
+,/, 
+[ celestite/NN ]
+,/, 
+[ barite/NN ]
+,/, and/CC 
+[ witherite/NN ]
+./. 
+
+======================================
+
+[ Study/NN ]
+of/IN 
+[ data/NNS ]
+from/IN 
+[ 65/CD selected/VBN wells/NNS ]
+in/IN 
+[ a/DT 6-county/JJ area/NN ]
+(/( about/IN 
+[ 60/CD ]
+by/IN 
+[ 60/CD mi/NNS ]
+)/) north/RB and/CC west/RB of/IN 
+[ Jackson/NNP ]
+,/, 
+[ Mississippi/NNP ]
+,/, discloses/VBZ that/IN 
+[ Cotton/NNP Valley/NNP strata/NNS ]
+,/, now/RB within/IN 
+[ the/DT axial/JJ trough/NN ]
+of/IN 
+[ the/DT Mississippi/NNP embayment/NN ]
+,/, 
+[ display/VBP thickness/NN variations/NNS ]
+
+[ which/WDT ]
+demonstrate/VBP 
+[ that/DT Late/JJ Jurassic/NNP sedimentation/NN ]
+was/VBD strongly/RB controlled/VBN by/IN 
+[ maximum/JJ subsidence/NN ]
+along/IN 
+[ the/DT same/JJ trough/NN axis/NN ]
+./. 
+
+[ Examination/NN ]
+of/IN 
+[ well/JJ logs/NNS ]
+,/, 
+[ other/JJ records/NNS ]
+,/, and/CC 
+[ cutting/NN sets/NNS ]
+from/IN 
+[ 38/CD wells/NNS ]
+has/VBZ resulted/VBN in/IN 
+[ preparation/NN ]
+of/IN 
+[ dip/NN ]
+and/CC 
+[ strike/NN cross/NN sections/NNS ]
+
+[ that/WP ]
+permit/VBP 
+[ information/NN definition/NN ]
+of/IN 
+[ lower/JJR ]
+,/, 
+[ middle/JJ ]
+,/, and/CC 
+[ upper/JJ parts/NNS ]
+of/IN 
+[ the/DT Cotton/NNP Valley/NNP Group/NNP ]
+throughout/IN 
+[ the/DT area/NN ]
+evaluated/VBN ./. 
+
+Within/IN 
+[ these/DT lithostratigraphic/JJ diversions/NNS ]
+,/, 
+[ lithofacies/NNS ]
+are/VBP discriminable/JJ that/IN represent/VB 
+[ alluvial/JJ ]
+,/, 
+[ upper/JJ delta/NN plain/NN ]
+,/, 
+[ lower/JJR delta/NN plain/NN ]
+,/, and/CC 
+[ prodeltaic/JJ environments/NNS ]
+./. 
+
+[ These/DT facies/NN ]
+display/VBP 
+[ a/DT general/JJ variation/NN ]
+from/IN 
+[ coarse/JJ ]
+,/, commonly/RB 
+[ red/JJ ]
+,/, oxidized/VBN 
+[ sediments/NNS ]
+on/IN 
+[ the/DT north/NN ]
+and/CC 
+[ east/NN ]
+,/, to/TO 
+[ mudrocks/NNS ]
+,/, locally/RB calcareous/JJ and/CC 
+[ carbonaceous/JJ ]
+,/, on/IN 
+[ the/DT southwest/NN ]
+./. 
+
+Within/IN 
+[ the/DT Cotton/NNP Valley/NNP Group/NNP ]
+examined/VBN ,/, 
+[ two/CD persistent/NN clastic/JJ lobes/NNS ]
+demonstrate/VBP 
+[ relative/JJ environmental/JJ stability/NN ]
+while/IN 
+[ deposits/NNS ]
+ranging/VBG in/IN 
+[ thickness/NN ]
+from/IN 
+[ 1500/CD ft/NNS ]
+(/( 
+[ northwestern/JJ corner/NN ]
+of/IN 
+[ study/NN area/NN ]
+)/) to/TO 
+[ 4500/CD ft/NNS ] 
+(/( 
+[ axial/JJ depocenter/NN ]
+on/IN 
+[ the/DT south/NN ]
+)/) accumulated/VBN ./. 
+
+During/IN 
+[ Cotton/NNP Valley/NNP deposition/NN ]
+,/, 
+[ west-central/JJ Mississippi/NNP ]
+was/VBD 
+[ the/DT site/NN ]
+of/IN 
+[ a/DT two-toed/JJ birdfoot/NN delta/NN ]
+within/IN 
+[ which/WDT lignites/NNS ]
+were/VBD deposited/VBN ./. 
+
+[ Major/JJ sediment/NN supply/NN ]
+was/VBD from/IN 
+[ the/DT east/NN ]
+and/CC 
+[ north/NN ]
+;/: 
+[ a/DT minor/JJ source/NN ]
+was/VBD to/TO 
+[ the/DT northwest/NN ]
+(/( 
+[ Ouachita-Ozarks/NNP ]
+)/) ./. 
+
+[ Irregulatories/NNS ]
+in/IN 
+[ both/DT ]
+
+[ rates/NNS ]
+of/IN 
+[ supply/NN ]
+of/IN 
+[ clastics/NNS ]
+and/CC of/IN 
+[ shelf/NN subsidence/NN ]
+permitted/VBD 
+[ intermittent/JJ shallow/JJ ]
+,/, 
+[ clear-water/JJ ]
+,/, 
+[ marine/JJ incursions/NNS ]
+from/IN 
+[ the/DT south/NN ]
+during/IN 
+[ which/WDT ]
+
+[ thin/JJ carbonate/NN beds/NNS ]
+were/VBD deposited/VBN ,/, interfingering/VBG with/IN 
+[ the/DT clastics/NNS ]
+./. 
+
+Thus/RB ,/, 
+[ potential/JJ source/NN ]
+and/CC 
+[ host/NN rocks/NNS ]
+for/IN 
+[ hydrocarbon/NN traps/NNS ]
+are/VBP closely/RB associated/VBN ,/, for/IN 
+[ thick/JJ ]
+,/, 
+[ organic-rich/JJ ]
+,/, 
+[ interlobate/JJ mudrocks/NNS ]
+pass/VBP laterally/RB and/CC vertically/RB into/IN 
+[ fluvial/JJ sands/NNS ]
+of/IN 
+[ the/DT delta/JJ lobes/NNS ]
+./. 
+
+======================================
+
+[ Ongoing/JJ stable/JJ isotope/NN research/NN ]
+,/, with/IN 
+[ cuttings/NNS ]
+from/IN over/IN 
+[ 16/CD Pliocene-Pleistocene/NNP deep-water/JJ wells/NNS ]
+,/, has/VBZ established/VBN 
+[ a/DT high-resolution/JJ framework/NN ]
+for/IN 
+[ chronostratigraphic/JJ tie/NN lines/NNS ]
+between/IN 
+[ Pliocene-Pleistocene/NNP wells/NNS ]
+./. 
+
+Detailed/JJ 
+[ oxygen/NN isotope/NN ]
+(/( 
+[ O/NNP ]
+{/( sub/IN 
+[ 18/CD ]
+}/) 
+[ \/NNP ]
+{/( sub/IN 
+[ 16/CD ]
+}/) )/) 
+[ records/NNS ]
+from/IN 
+[ core/NN material/NN ]
+and/CC 
+[ 16/CD exploration/NN ]
+wells/NNS at/IN 
+[ 30-ft/JJ intervals/NNS ]
+provide/VBP 
+[ a/DT large/JJ data/NN base/NN ]
+by/IN 
+[ which/WDT ]
+to/TO establish/VB 
+[ a/DT type/NN chemical/NN stratigraphy/NN record/NN ]
+for/IN 
+[ the/DT Gulf/NNP ]
+of/IN 
+[ Mexico/NNP ]
+./. 
+
+[ This/DT type/NN section/NN ]
+is/VBZ used/VBN to/TO evaluate/VB 
+[ the/DT stratigraphic/JJ integrity/NN ]
+of/IN 
+[ exploration/NN wells/NNS ]
+and/CC 
+[ the/DT timing/NN ]
+and/CC 
+[ reliability/NN ]
+of/IN 
+[ important/JJ calcareous/JJ nannofossil/NN ]
+and/CC 
+[ foraminiferal/JJ biostratigraphic/JJ datums/NNS ]
+./. 
+
+Within/IN 
+[ this/DT framework/NN ]
+,/, 
+[ freshwater/NN discharge/NN events/NNS ]
+and/CC 
+[ local/JJ ]
+or/CC 
+[ regional/JJ unconformities/NNS ]
+can/MD be/VB defined/VBN with/IN 
+[ high/JJ precision/NN ]
+./. 
+
+[ The/DT record/NN ]
+can/MD be/VB used/VBN to/TO relate/VB 
+[ large-scale/JJ ]
+and/CC 
+[ fine-scale/JJ changes/NNS ]
+in/IN (/( 
+[ 1/LS ]
+)/) 
+[ sediment/NN accumulation/NN rates/NNS ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ the/DT distribution/NN ]
+of/IN 
+[ sand-shale/NN facies/NN ]
+,/, and/CC (/( 
+[ 3/LS ]
+)/) 
+[ seismic/JJ sequence/NN boundaries/NNS ]
+of/IN 
+[ glacial-eustatic/JJ cycles/NNS ]
+./. 
+
+[ Integration/NN ]
+of/IN 
+[ this/DT information/NN ]
+can/MD lead/VB to/TO 
+[ a/DT more/RBR precise/JJ definition/NN ]
+of/IN 
+[ the/DT timing/NN ]
+and/CC 
+[ extent/NN ]
+of/IN 
+[ target/NN sand/NN bodies/NNS ]
+in/IN 
+[ deep-water/JJ exploration/NN tracts/NNS ]
+./. 
+
+======================================
+
+[ Two/CD stages/NNS ]
+of/IN 
+[ pretectonic/JJ dolomitization/NN ]
+are/VBP recorded/VBN in/IN 
+[ the/DT upper/JJ Madison/NNP Group/NNP ]
+of/IN 
+[ the/DT Wyoming-Utah/NNP thrust/NN belt/NN ]
+./. 
+
+[ Marine/JJ ]
+to/TO 
+[ hypersaline/JJ dolomitization/NN ]
+occurred/VBN during/IN 
+[ deposition/NN ]
+of/IN 
+[ upper/JJ Madison/NNP carbonates/NNS ]
+and/CC 
+[ evaporites/NNS ]
+in/IN 
+[ peritidal/JJ ]
+and/CC 
+[ sabkha/JJ settings/NNS ]
+./. 
+
+[ This/DT timing/NN ]
+is/VBZ supported/VBN by/IN 
+[ the/DT common/JJ association/NN ]
+of/IN 
+[ fine-grained/JJ ]
+,/, 
+[ nonluminescent/JJ dolomite/NN ]
+with/IN restricted/JJ ,/, 
+[ shallow-water/JJ facies/NN ]
+,/, and/CC 
+[ the/DT ]
+relatively/RB enriched/JJ 
+[ isotopic/JJ composition/NN ]
+of/IN 
+[ the/DT dolomite/NN ]
+(/( {/( delta/NN }/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 8/CD ]
+}/) 
+[ O/NNP =/SYM +/SYM 2.0/CD ]
+per/IN 
+[ thousand/CD ]
+;/: {/( delta/NN }/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 3/CD ]
+}/) 
+[ C/NNP =/SYM +/SYM 4.0/CD ]
+per/IN 
+[ thousand/CD ]
+)/) ./. 
+
+[ A/DT second/JJ stage/NN ]
+of/IN 
+[ dolomitization/NN ]
+began/VBD during/IN 
+[ exposure/NN ]
+of/IN 
+[ the/DT Madison/NNP shelf/NN ]
+and/CC continued/VBD through/IN 
+[ deposition/NN ]
+of/IN 
+[ the/DT ]
+overlying/VBG 
+[ Amsden/NNP Formation/NNP ]
+./. 
+
+[ Regressions/NNS ]
+and/CC 
+[ transgressions/NNS ]
+during/IN 
+[ this/DT time/NN ]
+caused/VBD 
+[ migration/NN ]
+of/IN 
+[ marine-meteoric/JJ mixing/NN zones/NNS ]
+across/IN 
+[ the/DT Madison/NNP shelf/NN ]
+and/CC 
+[ widespread/JJ dolomitization/NN ]
+of/IN 
+[ all/DT depositional/JJ facies/NN ]
+within/IN 
+[ the/DT Madison/NNP Group/NNP ]
+./. 
+
+[ The/DT second/JJ stage/NN ]
+of/IN 
+[ dolomitization/NN ]
+is/VBZ volumetrically/RB 
+[ dominant/JJ ]
+,/, has/VBZ 
+[ a/DT meteoric/JJ isotopic/JJ composition/NN ]
+(/( {/( delta/NN }/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 8/CD ]
+}/) 
+[ O/NNP ]
+=/SYM 
+[ -2.0/CD ]
+per/IN 
+[ thousand/CD ]
+;/: {/( delta/NN }/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 3/CD ]
+}/) 
+[ C/NNP =/SYM +/SYM 2.0/CD ]
+to/TO +/SYM 
+[ 7.0/CD ]
+per/IN 
+[ thousand/CD ]
+)/) ,/, and/CC in/IN 
+[ most/JJS locations/NNS ]
+has/VBZ masked/VBN 
+[ the/DT isotopic/JJ record/NN ]
+of/IN 
+[ the/DT first-stage/JJ ]
+,/, 
+[ synsedimentary/JJ dolomite/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ replacive/JJ dolomite/NN ]
+,/, 
+[ dolomite/NN ]
+and/CC 
+[ calcite/NN cements/NNS ]
+were/VBD also/RB formed/VBN during/IN 
+[ this/DT diagenetic/JJ stage/NN ]
+./. 
+
+[ These/DT three/CD components/NNS ]
+exhibit/VBP 
+[ isotopic/JJ variations/NNS ]
+concomitant/JJ with/IN 
+[ stratigraphic/JJ position/NN ]
+
+[ that/WP ]
+reflect/VBP 
+[ spatial/JJ gradients/NNS ]
+in/IN 
+[ ground/NN water/NN chemistry/NN ]
+./. 
+
+[ 16/CD figures/NNS ]
+,/, 
+[ 1/CD table/NN ]
+./. 
+
+======================================
+
+[ Fault/NN displacements/NNS ]
+measured/VBN in/IN 
+[ coal/NN mines/NNS ]
+and/CC from/IN 
+[ seismic/JJ data/NNS ]
+are/VBP used/VBN to/TO develop/VB 
+[ a/DT model/NN ]
+describing/VBG 
+[ the/DT near-field/JJ displacements/NNS ]
+associated/VBN with/IN 
+[ an/DT ideal/JJ ]
+,/, 
+[ single/JJ normal/JJ fault/NN ]
+./. 
+
+[ Displacement/NN ]
+on/IN 
+[ a/DT fault/NN surface/NN ranges/VBZ ]
+from/IN 
+[ a/DT maximum/NN ]
+at/IN 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT fault/NN ]
+to/TO 
+[ zero/CD ]
+at/IN 
+[ the/DT edge/NN ]
+or/CC 
+[ tip-line/NN ]
+./. 
+
+[ The/DT tip-line/NN ]
+is/VBZ elliptical/JJ ,/, with/IN 
+[ the/DT shorter/JJR axis/NN ]
+of/IN 
+[ the/DT ellipse/NN ]
+parallel/RB to/TO 
+[ the/DT displacement/NN direction/NN ]
+./. 
+
+[ Contours/NNS ]
+of/IN 
+[ equal/JJ displacement/NN ]
+form/VBP 
+[ concentric/JJ ellipses/NNS ]
+centered/VBN on/IN 
+[ the/DT point/NN ]
+of/IN 
+[ maximum/JJ displacement/NN ]
+./. 
+
+[ Displacement/NN gradients/NNS ]
+vary/VBP with/IN 
+[ fault/NN size/NN ]
+and/CC with/IN 
+[ mechanical/JJ properties/NNS ]
+of/IN 
+[ host/NN rock/NN ]
+;/: 
+[ fault/NN radius/NN ]
+to/TO 
+[ maximum/JJ displacement/NN ]
+ratios/NNS 
+[ range/VBP ]
+from/IN 
+[ 5/CD ]
+to/TO 
+[ 500/CD ]
+./. 
+
+Plotting/NN of/IN 
+[ displacement/NN contour/NN diagrams/NNS ]
+and/CC 
+[ knowledge/NN ]
+of/IN 
+[ displacement/NN gradients/NNS ]
+are/VBP useful/JJ in/IN interpreting/VBG 
+[ seismic/JJ reflection/NN data/NNS ]
+,/, 
+[ both/DT ]
+for/IN 
+[ quality/NN control/NN ]
+of/IN 
+[ interpretations/NNS ]
+and/CC for/IN 
+[ quantitative/JJ extrapolation/NN ]
+of/IN 
+[ limited/JJ data/NNS ]
+./. 
+
+[ Displacements/NNS ]
+associated/VBN with/IN 
+[ fault/NN ]
+decrease/VB systematically/RB with/IN 
+[ increasing/VBG distance/NN ]
+along/IN 
+[ the/DT normal/JJ ]
+to/TO 
+[ the/DT fault/NN surface/NN ]
+;/: 
+[ this/DT decrease/NN ]
+is/VBZ seen/VBN as/IN 
+[ reverse/JJ drag/NN ]
+in/IN 
+[ both/DT ]
+
+[ hanging/VBG wall/NN ]
+and/CC 
+[ footwall/NN ]
+./. 
+
+[ Hanging-wall/JJ rollover/NN ]
+and/CC tilting/NN of/IN 
+[ the/DT reflectors/NNS ]
+can/MD not/RB be/VB used/VBN to/TO distinguish/VB 
+[ listric/JJ ]
+from/IN 
+[ planar/JJ normal/JJ faults/NNS ]
+;/: even/RB where/WRB 
+[ fault-block/JJ rotation/NN ]
+can/MD be/VB demonstrated/VBN ,/, neither/CC 
+[ listric/JJ fault/NN geometry/NN ]
+nor/CC 
+[ a/DT flat/JJ detachment/NN surface/NN ]
+is/VBZ geometrically/RB necessary/JJ ./. 
+
+Because/IN faulting/NN is/VBZ accommodated/VBN by/IN 
+[ ductile/JJ deformation/NN ]
+,/, 
+[ rigid/JJ fault-bounded/JJ blocks/NNS ]
+can/MD not/RB exist/VB except/IN in/IN 
+[ some/DT special/JJ circumstances/NNS ]
+related/VBN to/TO 
+[ a/DT free/JJ surface/NN ]
+./. 
+
+[ The/DT displacements/NNS ]
+within/IN 
+[ the/DT rock/NN volume/NN ]
+affected/VBN by/IN 
+[ a/DT single/JJ fault/NN ]
+are/VBP not/RB simply/RB related/VBN to/TO 
+[ regional/JJ extension/NN ]
+./. 
+
+[ Apparent/JJ horizontal/NN extension/NN ]
+by/IN faulting/NN varies/VBZ from/IN 
+[ one/CD layer/NN ]
+to/TO 
+[ another/DT ]
+,/, and/CC 
+[ a/DT significant/JJ proportion/NN ]
+of/IN 
+[ the/DT extension/NN ]
+in/IN 
+[ a/DT basin/NN ]
+may/MD be/VB due/JJ to/TO 
+[ ductile/JJ deformation/NN ]
+./. 
+
+[ 13/CD figures/NNS ]
+./. 
+
+======================================
+
+[ Ordovician/NNP oils/NNS ]
+in/IN 
+[ Mohawkian/JJ ]
+and/CC 
+[ Cincinnatian/JJ reservoirs/NNS ]
+of/IN 
+[ the/DT ]
+
+[ US/NNP ]
+
+[ Mid-Continent/NN ]
+retain/VBP 
+[ the/DT biochemical/JJ imprint/NN ]
+of/IN 
+[ Middle/NNP ]
+and/CC 
+[ Upper/NNP Ordovician/NNP oceanic/JJ life/NN ]
+before/IN 
+[ the/DT evolution/NN ]
+of/IN 
+[ land/NN plants/NNS ]
+and/CC 
+[ most/JJS vertebrates/NNS ]
+./. 
+
+Thus/RB ,/, 
+[ these/DT oils/NNS ]
+have/VBP 
+[ some/DT geochemical/JJ features/NNS ]
+
+[ that/WP ]
+distinguish/VBP 
+[ them/PRP ]
+from/IN 
+[ younger/JJR oils/NNS ]
+./. 
+
+[ These/DT features/NNS ]
+include/VBP (/( 
+[ 1/LS ]
+)/) 
+[ a/DT predominance/NN ]
+of/IN 
+[ n-C/NN ]
+{/( sub/IN 
+[ 15/CD ]
+}/) ,/, 
+[ n-C/NN ]
+{/( sub/IN 
+[ 17/CD ]
+}/) ,/, and/CC 
+[ n-C/NN ]
+{/( sub/IN 
+[ 19/CD ]
+}/) 
+[ alkanes/NNS ]
+in/IN 
+[ the/DT saturated/JJ hydrocarbon/NN fraction/NN ]
+,/, (/( 
+[ 2/LS ]
+)/) relatively/RB 
+[ low/JJ amounts/NNS ]
+of/IN 
+[ longer/JJR chain/NN n-alkanes/NNS ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ low/JJ amounts/NNS ]
+of/IN 
+[ chlorophyll-derived/VBN isoprenoids/NNS ]
+,/, such/DT as/IN 
+[ pristane/NN ]
+and/CC 
+[ phytane/NN ]
+,/, and/CC (/( 
+[ 4/LS ]
+)/) 
+[ abundant/JJ C/NNP ]
+{/( sub/IN 
+[ 29/CD ]
+}/) 
+[ sterane/NN ]
+relative/JJ to/TO 
+[ C/NNP ]
+{/( sub/IN 
+[ 27/CD ]
+}/) with/IN rearranged/VBN 
+[ forms/NNS ]
+(/( 
+[ diasteranes/NNS ]
+)/) 
+[ predominant/JJ ]
+over/IN 
+[ normal/JJ steranes/NNS ]
+./. 
+
+[ Ordovician/NNP oils/NNS ]
+also/RB generally/RB contain/VBP 
+[ little/JJ sulfur/NN ]
+and/CC have/VBP 
+[ a/DT somewhat/RB variable/JJ light/NN stable/NN carbon/NN isotopic/JJ composition/NN ]
+with/IN {/( 
+[ delta/NN ]
+}/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 3/CD ]
+}/) 
+[ C\/NN ]
+sat/VBD  
+[ \//NN ]
+and/CC {/( 
+[ delta/NN ]
+}/) 
+[ 2/CD ]
+!/. 
+
+{/( sup/IN 
+[ 3/CD ]
+}/) 
+[ C\/NN aro/NN \//NN values/NNS ]
+of/IN 
+[ -28/CD ]
+to/TO 
+[ -31/CD ]
+per/IN 
+[ thousand/CD ]
+(/( 
+[ PDB/NNP ]
+)/) ,/, but/CC 
+[ these/DT features/NNS ]
+are/VBP typical/JJ of/IN 
+[ many/JJ marine/JJ oils/NNS ]
+./. 
+
+[ The/DT unusual/JJ chemistry/NN ]
+of/IN 
+[ these/DT Ordovician/NNP oils/NNS ]
+supports/VBZ 
+[ the/DT interpretation/NN ]
+of/IN 
+[ Reed/NNP ]
+,/, 
+[ Illich/NNP ]
+,/, and/CC 
+[ Horsfield/NNP ]
+(/( 
+[ 1986/CD ]
+)/) that/IN 
+[ prokaryotic/JJ organisms/NNS ]
+provided/VBD 
+[ the/DT organic/JJ matter/NN ]
+for/IN 
+[ most/JJS Ordovician/NNP oils/NNS ]
+./. 
+
+Although/IN 
+[ their/PRP$ claim/NN ]
+for/IN 
+[ Gloeocapsamorpha/NN ]
+(/( 
+[ a/DT problematic/JJ unicellular/JJ prokaryote/NN ]
+,/, possibly/RB 
+[ a/DT blue-green/JJ alga/NN ]
+or/CC 
+[ an/DT ]
+unusually/RB 
+[ large/JJ bacterium/NN ]
+)/) can/MD not/RB be/VB proven/VBN from/IN 
+[ oil/NN chemistry/NN ]
+alone/RB ,/, knowing/VBG that/IN 
+[ indigenous/JJ Mid-Continent/NNP Ordovician/NNP oils/NNS ]
+were/VBD derived/VBN from/IN 
+[ prokaryotic/JJ organisms/NNS ]
+may/MD aid/VB in/IN 
+[ future/JJ exploration/NN ]
+for/IN 
+[ these/DT reservoirs/NNS ]
+./. 
+
+[ 7/CD figures/NNS ]
+,/, 
+[ 3/CD tables/NNS ]
+./. 
+
+======================================
+
+Because/IN of/IN 
+[ the/DT absence/NN ]
+of/IN 
+[ vitrinite/NN ]
+in/IN 
+[ lower/JJR Paleozoic/JJ sediments/NNS ]
+,/, 
+[ the/DT reflectance/NN ]
+of/IN 
+[ pyrobitumen/NN ]
+is/VBZ used/VBN as/IN 
+[ an/DT indicator/NN ]
+of/IN 
+[ thermal/JJ maturation/NN ]
+./. 
+
+[ A/DT new/JJ technique/NN ]
+of/IN preparing/VBG 
+[ organic/JJ matter/NN ]
+permits/VBZ 
+[ discrimination/NN ]
+among/IN 
+[ types/NNS ]
+of/IN 
+[ zooclasts/NNS ]
+and/CC 
+[ solid/JJ bitumen/NN ]
+,/, including/VBG 
+[ pyrobitumen/NNS ]
+,/, and/CC leads/VBZ to/TO 
+[ more/RBR precise/JJ reflectance-histograms/NN ]
+./. 
+
+[ Studies/NNS ]
+of/IN 
+[ organic/JJ matter/NN ]
+from/IN 
+[ Ordovician-Silurian/NNP strata/NNS ]
+of/IN 
+[ Anticosti/NNP Island/NNP ]
+show/VBP 
+[ that/DT reflectance/NN ]
+of/IN 
+[ zooclasts/NNS ]
+is/VBZ different/JJ from/IN 
+[ that/DT ]
+of/IN 
+[ solid/JJ bitumen/NN ]
+,/, and/CC that/IN 
+[ each/DT group/NN ]
+of/IN 
+[ the/DT following/VBG zooclasts/NNS ]
+,/, 
+[ chitinozoans/NNS ]
+,/, 
+[ graptolites/NNS ]
+,/, and/CC 
+[ scolecodonts/NNS ]
+,/, has/VBZ 
+[ a/DT specific/JJ reflectance/NN evolution/NN path/NN ]
+with/IN 
+[ increasing/VBG depth/NN ]
+./. 
+
+On/IN 
+[ a/DT logarithmic/JJ scale/NN ]
+,/, 
+[ the/DT paths/NNS ]
+of/IN 
+[ the/DT three/CD groups/NNS ]
+of/IN 
+[ zooclasts/NNS ]
+are/VBP linear/JJ ,/, highly/RB correlated/VBN ,/, and/CC converging/VBG ./. 
+
+However/RB ,/, 
+[ reflectance/NN ]
+of/IN 
+[ solid/JJ bitumen/NN ]
+is/VBZ not/RB linear/JJ throughout/IN 
+[ the/DT range/NN ]
+studied/VBN ;/: 
+[ solid/JJ bitumen/NN ]
+becomes/VBZ 
+[ linear/JJ ]
+only/RB where/WRB 
+[ the/DT reflectance/NN ]
+is/VBZ greater/JJR than/IN 
+[ 0.75/CD %/NN ]
+./. 
+
+Comparing/VBG 
+[ the/DT relations/NNS ]
+between/IN 
+[ zooclasts/NNS ]
+and/CC 
+[ solid/JJ bitumen/NN ]
+with/IN 
+[ the/DT vitrinite-solid/JJ bitumen/NN correlation/NN ]
+in/IN 
+[ the/DT literature/NN ]
+suggests/VBZ that/IN 
+[ a/DT hypothetical/JJ vitrinite/NN evolution/NN line/NN ]
+in/IN 
+[ the/DT Anticosti/NNP Island/NNP basin/NN ]
+should/MD be/VB subparallel/JJ with/IN 
+[ that/DT ]
+of/IN chitinozoans/NNS and/CC graptolites/NNS ,/, but/CC 
+[ 0.4-0.8/CD %/NN lower/JJR ]
+,/, in/IN 
+[ the/DT 1-2/CD %/NN range/NN ]
+./. 
+
+However/RB ,/, 
+[ scolecodonts/NNS ]
+and/CC 
+[ vitrinite/NN ]
+should/MD have/VB 
+[ the/DT same/JJ reflectance/NN ]
+at/IN 
+[ 1/CD %/NN ]
+,/, but/CC 
+[ scolecodont/NN reflectance/NN ]
+should/MD be/VB slightly/RB (/( 
+[ 0.2/CD %/NN ]
+)/) higher/JJR for/IN 
+[ a/DT vitrinite/NN reflectance/NN ]
+of/IN 
+[ 2/CD %/NN ]
+./. 
+
+[ 6/CD figures/NNS ]
+,/, 
+[ 3/CD tables/NNS ]
+./. 
+
+======================================
+
+[ A/DT simple/JJ analysis/NN ]
+is/VBZ presented/VBN for/IN determining/VBG 
+[ the/DT optimum/JJ drilling/NN direction/NN ]
+in/IN 
+[ a/DT ]
+naturally/RB fractured/VBN 
+[ reservoir/NN ]
+./. 
+
+[ Two-dimensional/JJ scanline/JJ analysis/NN ]
+is/VBZ used/VBN to/TO find/VB 
+[ the/DT maximum/JJ fracture/NN interception/NN rate/NN ]
+,/, then/RB is/VBZ generalized/VBN to/TO find/VB 
+[ the/DT maximum/JJ fracture-flow/JJ interception/NN rate/NN ]
+./. 
+
+Finally/RB ,/, 
+[ the/DT analysis/NN ]
+is/VBZ further/RB generalized/VBN to/TO 
+[ the/DT three-dimensional/JJ case/NN ]
+./. 
+
+In/IN 
+[ this/DT analysis/NN ]
+,/, 
+[ fractures/NNS ]
+are/VBP presumed/VBN to/TO occur/VB in/IN 
+[ sets/NNS ]
+./. 
+
+In/IN 
+[ fracture/NN sets/NNS ]
+,/, 
+[ fractures/NNS ]
+are/VBP assumed/VBN to/TO have/VB 
+[ a/DT common/JJ orientation/NN ]
+,/, 
+[ uniform/JJ closest/JJS spacing/NN ]
+(/( 
+[ S/NNP ]
+)/) ,/, and/CC 
+[ a/DT representative/JJ flow/NN aperture/NN ]
+(/( 
+[ e/NN ]
+)/) ,/, 
+[ which/WDT ]
+govern/VBP 
+[ the/DT capacity/NN ]
+of/IN 
+[ each/DT set/NN ]
+to/TO contribute/VB to/TO flow/VB into/IN 
+[ the/DT ]
+well/NN bore/NN ./. 
+
+[ The/DT optimum/JJ drilling/NN direction/NN ]
+is/VBZ controlled/VBN by/IN 
+[ the/DT aperture/NN ]
+,/, 
+[ spacing/NN ]
+,/, and/CC 
+[ orientation/NN ]
+of/IN 
+[ fracture/NN sets/NNS ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT ]
+well/NN bore/NN ./. 
+
+[ The/DT optimum/JJ direction/NN ]
+favors/VBZ 
+[ the/DT direction/NN ]
+of/IN 
+[ closest/JJS spacing/NN ]
+for/IN 
+[ the/DT fracture/NN ]
+set/VBD having/VBG 
+[ the/DT largest/JJS ratio/NN ]
+of/IN 
+[ flow/NN aperture/NN ]
+to/TO 
+[ spacing/NN ]
+(/( 
+[ e/NN ]
+{/( 
+[ sup/IN 3/CD ]
+}/) 
+[ \/S/NN  ]
+)/) ,/, 
+[ i.e./FW ]
+,/, 
+[ the/DT fracture/NN set/NN ]
+
+[ that/WP ]
+has/VBZ 
+[ the/DT greatest/JJS capacity/NN ]
+for/IN 
+[ conducting/VBG fluid/NN ]
+to/TO 
+[ the/DT ]
+well/NN bore/NN ./. 
+
+To/TO introduce/VB 
+[ the/DT method/NN ]
+of/IN 
+[ analysis/NN ]
+,/, 
+[ focus/NN ]
+is/VBZ given/VBN to/TO finding/VBG 
+[ the/DT optimum/JJ direction/NN ]
+to/TO drill/VB 
+[ a/DT horizontal/JJ ]
+well/NN through/IN 
+[ two/CD intersecting/VBG sets/NNS ]
+of/IN 
+[ vertical/NN fractures/NNS ]
+./. 
+
+[ A/DT nomograph/NN ]
+for/IN 
+[ this/DT solution/NN ]
+is/VBZ provided/VBN ./. 
+
+[ The/DT analysis/NN ]
+is/VBZ extended/VBN to/TO 
+[ a/DT general/JJ case/NN ]
+,/, where/WRB 
+[ any/DT number/NN ]
+of/IN 
+[ fracture/NN sets/NNS ]
+may/MD exist/VB ,/, 
+[ each/DT ]
+with/IN 
+[ its/PRP$ own/JJ representative/JJ flow/NN aperture/NN ]
+and/CC 
+[ orientation/NN ]
+./. 
+
+[ A/DT degenerate/JJ form/NN ]
+of/IN 
+[ the/DT general/JJ case/NN ]
+pertains/VBZ to/TO 
+[ sets/NNS ]
+of/IN 
+[ vertical/JJ fractures/NNS ]
+penetrated/VBN by/IN 
+[ an/DT inclined/JJ hole/NN ]
+./. 
+
+[ This/DT degenerate/JJ case/NN ]
+can/MD be/VB reduced/VBN to/TO 
+[ a/DT two-dimensional/JJ form/NN ]
+by/IN projecting/VBG 
+[ the/DT ]
+well/NN bore/NN onto/IN 
+[ the/DT horizontal/JJ plane/NN ]
+./. 
+
+[ The/DT optimum/JJ drilling/NN direction/NN ]
+can/MD then/RB be/VB found/VBN by/IN 
+[ the/DT two-dimensional/JJ solution/NN ]
+outlined/VBN in/IN 
+[ this/DT paper/NN ]
+,/, but/CC 
+[ the/DT resulting/VBG fracture/NN interception/NN rate/NN ]
+is/VBZ reduced/VBN as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT ]
+well/NN bore/NN 
+[ inclination/NN ]
+./. 
+
+[ 5/CD figures/NNS ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+have/VBP developed/VBN 
+[ a/DT computer/NN model/NN ]
+
+[ that/WP ]
+can/MD predict/VB when/WRB and/CC how/WRB 
+[ much/DT oil/NN ]
+and/CC 
+[ gas/NN ]
+are/VBP generated/VBN from/IN 
+[ a/DT source/NN rock/NN ]
+during/IN 
+[ its/PRP$ burial/NN ]
+and/CC 
+[ later/JJR uplift/NN ]
+./. 
+
+[ Kinetic/JJ parameters/NNS ]
+for/IN 
+[ the/DT oil/NN ]
+and/CC 
+[ gas/NN generation/NN reactions/NNS ]
+are/VBP obtained/VBN from/IN 
+[ high-pressure/JJ pyrolysis/NN experiments/NNS ]
+carried/VBN out/RP over/IN 
+[ a/DT wide/JJ range/NN ]
+of/IN heating/NN 
+[ rates/NNS ]
+and/CC 
+[ temperatures/NNS ]
+./. 
+
+In/IN 
+[ their/PRP$ kinetic/JJ model/NN ]
+,/, 
+[ which/WDT ]
+applies/VBZ only/RB to/TO 
+[ Green/NNP River/NNP shale/NN ]
+,/, 
+[ they/PRP ]
+use/VBP 
+[ a/DT single/JJ activation/NN energy/NN ]
+of/IN 
+[ 52.4/CD kcal\/mole/NN ]
+and/CC 
+[ different/JJ pre-exponential/JJ factors/NNS ]
+for/IN 
+[ different/JJ products/NNS ]
+of/IN 
+[ primary/JJ pyrolysis/NN ]
+,/, 
+[ which/WDT ]
+allows/VBZ 
+[ them/PRP ]
+to/TO extrapolate/VB 
+[ laboratory-derived/VBN kinetics/NNS  ]
+to/TO 
+[ geologic/JJ heating/NN rates/NNS ]
+./. 
+
+[ This/DT model/NN ]
+is/VBZ in/IN 
+[ contrast/NN ]
+to/TO 
+[ the/DT wide/JJ distributions/NNS ]
+of/IN 
+[ activation/NN energies/NNS ]
+or/CC artificially/RB 
+[ low/JJ apparent/JJ activation/NN energies/NNS ]
+used/VBN in/IN 
+[ some/DT models/NNS ]
+of/IN 
+[ petroleum/NN formation/NN ]
+./. 
+
+When/WRB extrapolated/VBN to/TO 
+[ geologic/JJ heating/NN rates/NNS ]
+on/IN 
+[ the/DT order/NN ]
+of/IN 
+[ 10/CD ]
+{/( 
+[ sup/IN 0/CD ]
+}/) 
+[ C\/m.y./NN ]
+,/, 
+[ their/PRP$ kinetics/NNS ]
+show/VBP that/IN 
+[ the/DT temperature/NN ]
+of/IN 
+[ the/DT maximum/JJ rate/NN ]
+of/IN 
+[ oil/NN generation/NN ]
+(/( 
+[ T\/sub/NN p/NN \//NN ]
+)/) changes/VBZ by/IN about/IN 
+[ 15/CD ]
+{/( 
+[ sup/IN 0/CD ]
+}/) 
+[ C/NN ]
+when/WRB 
+[ the/DT heating/NN rate/NN ]
+is/VBZ changed/VBN by/IN 
+[ an/DT order/NN ]
+of/IN 
+[ magnitude/NN ]
+./. 
+
+[ Changes/NNS ]
+in/IN 
+[ pressure/NN ]
+have/VBP relatively/RB 
+[ minor/JJ effects/NNS ]
+on/IN 
+[ the/DT kinetics/NNS ]
+of/IN 
+[ oil/NN generation/NN ]
+but/CC are/VBP important/JJ for/IN 
+[ gas/NN generation/NN reactions/NNS ]
+./. 
+
+[ They/PRP ]
+used/VBD 
+[ geophysical/JJ data/NNS ]
+from/IN 
+[ oil/NN fields/NNS ]
+in/IN 
+[ the/DT Uinta/NNP basin/NN ]
+of/IN 
+[ Utah/NNP ]
+to/TO develop/VB 
+[ a/DT thermal/JJ history/NN model/NN ]
+of/IN 
+[ Green/NNP River/NNP Formation/NNP source/NN rocks/NNS ]
+./. 
+
+[ This/DT time-temperature/NN history/NN ]
+was/VBD used/VBN to/TO predict/VB 
+[ the/DT maturation/NN level/NN ]
+of/IN 
+[ the/DT kerogen/NN ]
+at/IN 
+[ a/DT given/VBN depth/NN ]
+and/CC to/TO predict/VB 
+[ changes/NNS ]
+in/IN 
+[ the/DT compositional/JJ characteristics/NNS ]
+of/IN 
+[ the/DT oil/NN ]
+./. 
+
+[ The/DT shape/NN ]
+of/IN 
+[ calculated/VBN oil/NN generation/NN rate/NN curves/VBZ ]
+,/, as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ depth/NN ]
+in/IN 
+[ the/DT basin/NN ]
+,/, 
+[ mimics/NNS ]
+
+[ the/DT shape/NN ]
+of/IN 
+[ the/DT overpressure/NN curves/NNS ]
+;/: 
+[ this/DT similarity/NN ]
+suggests/VBZ that/IN 
+[ oil-gas/NN generation/NN ]
+may/MD be/VB 
+[ an/DT important/JJ cause/NN ]
+of/IN overpressuring/NN ./. 
+
+[ Maturation/NN levels/NNS ]
+and/CC 
+[ compositional/JJ characteristics/NNS ]
+of/IN 
+[ the/DT oil/NN ]
+predicted/VBN by/IN 
+[ their/PRP$ model/NN ]
+agree/VBP very/RB well/RB with/IN 
+[ characteristics/NNS ]
+of/IN 
+[ the/DT oil/NN ]
+recovered/VBN from/IN 
+[ the/DT basin/NN ]
+./. 
+
+[ 18/CD figures/NNS ]
+,/, 
+[ 6/CD tables/NNS ]
+./. 
+
+======================================
+
+[ A/DT personal/NN computer/NN ]
+(/( 
+[ PC/NNP ]
+)/) can/MD be/VB 
+[ the/DT heart/NN ]
+of/IN 
+[ your/PRP$ personal/JJ ]
+or/CC 
+[ business/NN geologic/JJ workstation/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ word/NN processing/NN ]
+and/CC 
+[ spread-sheet/NN operations/NNS ]
+,/, 
+[ PCs/NNP ]
+have/VBP 
+[ the/DT computing/NN power/NN ]
+necessary/JJ to/TO perform/VB 
+[ complex/JJ geostatistical/JJ ]
+analyses/NNS and/CC 
+[ multisurface/JJ ]
+contouring/NN ./. 
+
+[ PCs/NNP ]
+also/RB can/MD easily/RB drive/VB 
+[ various/JJ digitizers/NNS ]
+and/CC 
+[ plotters/NNS ]
+./. 
+
+[ Computers/NNS ]
+are/VBP most/RBS useful/JJ in/IN 
+[ mature/JJ areas/NNS ]
+(/( such/DT as/IN 
+[ the/DT Mid-Continent/NNP ]
+)/) because/IN 
+[ large/JJ amounts/NNS ]
+of/IN 
+[ data/NNS ]
+are/VBP available/JJ ./. 
+
+In/IN 
+[ virgin/JJ areas/NNS ]
+
+[ no/DT data/NNS ]
+are/VBP available/JJ for/IN 
+[ the/DT computer/NN ]
+to/TO 
+[ process/NN ]
+./. 
+
+[ Commercial/JJ databases/NNS ]
+(/( 
+[ data/NNS ]
+stored/VBN on/IN 
+[ magnetic/JJ media/NNS ]
+)/) are/VBP available/JJ to/TO provide/VB 
+[ the/DT data/NN ]
+needed/VBN for/IN 
+[ simple/JJ ]
+or/CC 
+[ complex/JJ ]
+analyses/NNS ./. 
+
+[ Geologic/JJ applications/NNS ]
+for/IN 
+[ the/DT computer/NN ]
+include/VBP 
+[ log/NN analysis/NN ]
+,/, 
+[ statistical/JJ analysis/NN ]
+,/, 
+[ database/NN management/NN ]
+,/, and/CC contouring/NN ./. 
+
+======================================
+
+[ The/DT Upper/NNP Silurian/NNP Henryhouse/NNP Formation/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ part/NN ]
+of/IN 
+[ the/DT Hunton/NNP Group/NNP ]
+,/, is/VBZ 
+[ a/DT major/JJ hydrocarbon/NN reservoir/NN ]
+in/IN 
+[ the/DT Anadarko/NNP basin/NN ]
+./. 
+
+[ Three/CD basic/NN lithofacies/NNS ]
+are/VBP present/RB in/IN 
+[ the/DT Henryhouse/NNP ]
+,/, based/VBN on/IN 
+[ sedimentary/JJ structures/NNS ]
+,/, 
+[ lithology/NN ]
+,/, 
+[ fossil/JJ content/NN ]
+,/, and/CC 
+[ fabric/NN relationships/NNS ]
+./. 
+
+[ These/DT facies/NN ]
+,/, represented/VBN in/IN 
+[ general/JJ ]
+by/IN 
+[ massive/JJ lime/NN mudstone/NN ]
+with/IN 
+[ diverse/JJ fauna/NNS ]
+,/, burrowed/VBN 
+[ dolowackestone\/packstone/NN ]
+with/IN mainly/RB 
+[ crinoids/NNS ]
+,/, and/CC 
+[ massive/JJ ]
+to/TO 
+[ laminated/JJ dolomudstone/NN ]
+with/IN 
+[ fenestral/JJ fabrics/NNS ]
+and/CC 
+[ sparse/JJ fauna/NNS ]
+,/, are/VBP inferred/VBN to/TO represent/VB 
+[ subtidal/JJ ]
+,/, 
+[ intertidal/JJ ]
+,/, and/CC 
+[ supratidal/JJ environments/NNS ]
+,/, respectively/RB ./. 
+
+[ These/DT facies/NN ]
+comprise/VBP 
+[ a/DT vertical/NN sequence/NN ]
+
+[ that/WP ]
+represents/VBZ 
+[ regressive/JJ deposition/NN ]
+./. 
+
+[ The/DT Henryhouse/NNP ]
+consists/VBZ of/IN 
+[ several/JJ ]
+of/IN 
+[ these/DT sequences/NNS ]
+./. 
+
+[ The/DT Henryhouse/NNP ]
+commonly/RB is/VBZ partly/RB or/CC completely/RB dolomitized/VBN in/IN 
+[ western/JJ Oklahoma/NNP ]
+./. 
+
+[ Three/CD stages/NNS ]
+of/IN 
+[ dolomitization/NN ]
+were/VBD documented/VBN :/: (/( 
+[ 1/LS ]
+)/) 
+[ penecontemporaneous/JJ hypersaline/NN  dolomite/NN ]
+occurring/VBG as/RB brownish/JJ ,/, 
+[ hypidiotopic/JJ rhombs/NNS ]
+concentrated/VBN in/IN 
+[ the/DT supratidal/JJ ]
+and/CC 
+[ intertidal/JJ facies/NN ]
+,/, (/( 
+[ 2/LS ]
+)/) mixed/VBN 
+[ marine/JJ ]
+and/CC 
+[ freshwater/NN dolomite/NN ]
+occurring/VBG as/IN 
+[ white/JJ rims/NNS ]
+around/IN preexisting/VBG 
+[ hypersaline/NN dolomite/NN ]
+,/, and/CC as/RB subhedral/JJ ,/, 
+[ white/JJ rhombs/NNS ]
+in/IN 
+[ vugs/NNS ]
+and/CC 
+[ molds/NNS ]
+,/, and/CC (/( 
+[ 3/LS ]
+)/) 
+[ deep-burial/JJ vug/NN ]
+,/, 
+[ mold/NN ]
+,/, and/CC 
+[ fracture-filling/JJ saddle/NN dolomite/NN ]
+./. 
+
+[ Production/NN ]
+in/IN 
+[ the/DT Henryhouse/NNP ]
+is/VBZ generally/RB from/IN 
+[ porous/JJ zones/NNS ]
+in/IN 
+[ dolomite/NN ]
+./. 
+
+However/RB ,/, 
+[ lithofacies/NNS ]
+reflecting/VBG 
+[ depositional/JJ environments/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+were/VBD formed/VBN are/VBP equally/RB important/JJ in/IN 
+[ porosity/NN development/NN ]
+./. 
+
+======================================
+
+[ Some/DT black/JJ ]
+,/, 
+[ organic/JJ ]
+,/, 
+[ carbon-rich/JJ ]
+,/, 
+[ Pennsylvanian/NNP shales/NNS ]
+of/IN 
+[ the/DT Mid-Continent/NNP region/NN ]
+accumulated/VBN in/IN 
+[ broad/JJ ]
+,/, 
+[ shallow/JJ ]
+,/, 
+[ paleobathymetric/JJ troughs/NNS ]
+at/IN 
+[ moderate/JJ water/NN depth/NN ]
+under/IN 
+[ anoxic/JJ conditions/NNS ]
+during/IN 
+[ maximum/JJ sea/NN level/NN stillstands/NNS ]
+and/CC 
+[ sediment/NN starvation/NN ]
+./. 
+
+[ These/DT ]
+starved/JJ 
+[ troughs/NNS ]
+later/RB were/VBD filled/VBN by/IN 
+[ northward-prograding/JJ wedges/NNS ]
+and/CC 
+[ lenses/NNS ]
+of/IN 
+[ clastics/NNS ]
+advancing/VBG episodically/RB from/IN 
+[ southern/JJ ]
+and/CC 
+[ eastern/JJ highlands/NNS ]
+./. 
+
+Moreover/RB ,/, 
+[ biogenic/JJ carbonate/NN banks/NNS ]
+prograded/VBD southward/RB along/IN 
+[ the/DT edges/NNS ]
+of/IN 
+[ the/DT trough/NN ]
+,/, resulting/VBG in/IN 
+[ intercalations/NNS ]
+with/IN 
+[ the/DT clastics/NNS ]
+./. 
+
+After/IN 
+[ several/JJ oscillations/NNS ]
+of/IN 
+[ sea/NN level/NN ]
+,/, 
+[ the/DT trough/NN ]
+would/MD be/VB nearly/RB filled/VBN by/IN 
+[ the/DT terminal/NN ]
+,/, rapidly/RB deposited/VBN 
+[ sediments/NNS ]
+of/IN 
+[ deltas/NNS ]
+and/CC 
+[ other/JJ shore/NN constructional/JJ features/NNS ]
+./. 
+
+[ These/DT areas/NNS ]
+were/VBD commonly/RB 
+[ sites/NNS ]
+of/IN 
+[ renewed/VBN depression/NN ]
+,/, beginning/VBG 
+[ a/DT new/JJ series/NN ]
+of/IN 
+[ sedimentation/NN ]
+./. 
+
+[ The/DT thick/JJ ]
+,/, 
+[ organic-rich/JJ shales/NNS ]
+deposited/VBN in/IN 
+[ these/DT troughs/NNS ]
+may/MD have/VB served/VBN as/IN 
+[ a/DT petroleum/NN source/NN rock/NN ]
+if/IN 
+[ burial/NN ]
+was/VBD sufficient/JJ ./. 
+
+[ Considerable/JJ hydrocarbon/NN migration/NN ]
+into/IN 
+[ the/DT ]
+adjoining/VBG 
+[ northern/JJ shelf/NN carbonate/NN banks/NNS ]
+was/VBD enhanced/VBN by/IN 
+[ their/PRP$ fracture/NN systems/NNS ]
+,/, bedding/NN 
+[ planes/NNS ]
+,/, connected/VBN 
+[ vugs/NNS ]
+,/, and/CC 
+[ intergranular/JJ porosity/NN ]
+modified/VBN by/IN 
+[ diagenetic/JJ alteration/NN ]
+./. 
+
+[ Loci/NNS ]
+of/IN 
+[ several/JJ such/DT starved/JJ basins/NNS ]
+have/VBP been/VBN delineated/VBN by/IN 
+[ detailed/JJ stratigraphic/JJ mapping/NN ]
+in/IN 
+[ both/DT Oklahoma/NNP ]
+and/CC 
+[ Kansas/NNP ]
+./. 
+
+[ These/DT basins/NNS ]
+may/MD contain/VB 
+[ many/JJ cubic/JJ kilometers/NNS ]
+of/IN 
+[ hydrocarbon/NN source/NN beds/NNS ]
+,/, provided/VBN 
+[ levels/NNS ]
+of/IN 
+[ thermal/JJ maturation/NN ]
+were/VBD reached/VBN ./. 
+
+[ Migration/NN routes/NNS ]
+were/VBD probably/RB provided/VBN by/IN 
+[ clinoform/JJ sands/NNS ]
+interfingering/VBG with/IN 
+[ black/JJ shales/NNS ]
+,/, by/IN 
+[ joint/JJ ]
+and/CC 
+[ open/JJ faults/NNS ]
+,/, and/CC by/IN 
+[ sand-filled/JJ channels/NNS ]
+incised/VBN into/IN 
+[ these/DT source/NN beds/NNS ]
+by/IN 
+[ deltaic/JJ episodes/NNS ]
+./. 
+
+[ This/DT scenario/NN ]
+provides/VBZ for/IN much/RB more/RBR stratigraphically/RB 
+[ entrapped/VB oil/NN  ]
+and/CC 
+[ gas/NN ]
+than/IN has/VBZ been/VBN found/VBN to/TO 
+[ date/NN ]
+in/IN 
+[ Oklahoma/NNP ]
+./. 
+
+======================================
+
+[ The/DT Misener/NNP sandstone/NN ]
+is/VBZ 
+[ a/DT ]
+highly/RB 
+[ productive/JJ alluvial/JJ sand/NN ]
+./. 
+
+[ The/DT rewards/NNS ]
+for/IN discovering/VBG 
+[ a/DT Misener/NNP field/NN ]
+are/VBP very/RB good/JJ ;/: however/RB ,/, 
+[ the/DT risks/NNS ]
+involved/VBN ,/, including/VBG 
+[ dry/JJ holes/NNS ]
+,/, have/VBP generally/RB negated/VBN 
+[ all/DT ]
+or/CC 
+[ a/DT major/JJ portion/NN ]
+of/IN 
+[ any/DT profits/NNS ]
+./. 
+
+[ Areas/NNS ]
+of/IN 
+[ major/JJ Misener/NNP sand/NN accumulations/NNS ]
+become/VBP 
+[ evident/JJ ]
+through/IN 
+[ the/DT use/NN ]
+of/IN 
+[ detailed/JJ mapping/NN ]
+and/CC from/IN 
+[ knowledge/NN ]
+of/IN 
+[ regional/JJ ]
+and/CC 
+[ local/JJ stratigraphy/NN ]
+as/IN 
+[ it/PRP ]
+affects/VBZ 
+[ paleotopography/NN ]
+./. 
+
+[ The/DT major/JJ maps/NNS ]
+needed/VBN for/IN 
+[ a/DT thorough/JJ evaluation/NN ]
+of/IN 
+[ a/DT region/NN ]
+are/VBP (/( 
+[ 1/LS ]
+)/) 
+[ Woodford/NNP isopach/NN ]
+,/, to/TO determine/VB 
+[ paleotopography/NN ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ pre-Woodford/JJ subcrop/NN ]
+,/, to/TO locate/VB 
+[ trend/NN ]
+of/IN 
+[ Sylvan/NNP  subcrop/NN ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ Sylvan/NNP isopach/NN ]
+,/, to/TO locate/VB 
+[ thins/NNS ]
+
+[ that/WP ]
+suggest/VBP 
+[ the/DT presence/NN ]
+of/IN 
+[ paleotopographic/JJ valleys/NNS ]
+,/, (/( 
+[ 4/LS ]
+)/) 
+[ unconformity/NN structure/NN map/NN ]
+,/, to/TO discern/VB 
+[ lows/NNS ]
+and/CC 
+[ channels/NNS ]
+from/IN nosing/NN and/CC 
+[ structural/JJ ]
+thinning/NN ,/, and/CC (/( 
+[ 5/LS ]
+)/) detailed/VBN 
+[ Sylvan/NNP subcrop/NN map/NN ]
+,/, to/TO locate/VB 
+[ zones/NNS ]
+
+[ that/WP ]
+are/VBP easily/RB eroded/VBN and/CC ,/, consequently/RB ,/, may/MD be/VB 
+[ areas/NNS ]
+of/IN 
+[ channel/NN development/NN ]
+./. 
+
+[ The/DT Misener/NNP sandstone/NN ]
+in/IN 
+[ the/DT northern/JJ counties/NNS ]
+of/IN 
+[ Oklahoma/NNP ]
+is/VBZ 
+[ a/DT low/JJ ]
+to/TO 
+[ moderate-energy/JJ alluvial/JJ sand/NN ]
+./. 
+
+[ It/PRP ]
+occupies/VBZ 
+[ depressions/NNS ]
+cut/VBN into/IN 
+[ the/DT unconformity/JJ surface/NN ]
+and/CC also/RB lies/VBZ 
+[ updip/RB ]
+of/IN 
+[ a/DT resistant/JJ zone/NN ]
+in/IN 
+[ the/DT Sylvan/NNP Shale/NNP ]
+./. 
+
+[ Misener/NNP sands/NNS ]
+also/RB show/VBP 
+[ some/DT ]
+reworking/NN and/CC 
+[ dolomitization/NN ]
+in/IN 
+[ the/DT upper/JJ few/JJ feet/NNS ]
+caused/VBN by/IN 
+[ the/DT transgressive/JJ Woodford/NNP seas/NNS ]
+./. 
+
+[ The/DT maps/NNS ]
+give/VBP 
+[ the/DT explorationist/NN ]
+
+[ a/DT detailed/JJ look/NN ]
+at/IN 
+[ the/DT pre-Woodford/JJ surface/NN ]
+and/CC 
+[ the/DT stratigraphy/NN ]
+involved/VBN ./. 
+
+[ The/DT Sylvan/NNP section/NN ]
+generally/RB contains/VBZ at/IN 
+[ least/JJS one/CD ]
+topographically/RB 
+[ resistant/JJ zone/NN ]
+
+[ that/WP ]
+preferentially/RB prohibits/VBZ 
+[ deposition/NN ]
+of/IN 
+[ Misener/NNP sands/NNS ]
+./. 
+
+[ An/DT understanding/NN ]
+of/IN 
+[ the/DT paleotopographic/JJ surface/NN ]
+and/CC 
+[ the/DT energies/NNS ]
+involved/VBN in/IN 
+[ the/DT deposition/NN process/NN ]
+are/VBP extremely/RB crucial/JJ to/TO 
+[ the/DT location/NN ]
+of/IN 
+[ Misener/NNP sand/NN bodies/NNS ]
+./. 
+
+======================================
+
+[ Five/CD porosity/NN zones/NNS ]
+in/IN 
+[ the/DT upper/JJ 80/CD ft/NN ]
+(/( 
+[ 24.4/CD m/NNS ]
+)/) of/IN 
+[ the/DT St./NNP Louis/NNP Limestone/NNP ]
+have/VBP 
+[ a/DT cumulative/JJ production/NN ]
+of/IN over/IN 
+[ 1/CD million/CD bbl/NNS ]
+of/IN 
+[ oil/NN ]
+since/IN 
+[ St./NNP Louis/NNP production/NN ]
+was/VBD discovered/VBN at/IN 
+[ South/NNP Mouser/NNP field/NN ]
+,/, 
+[ Texas/NNP County/NNP ]
+,/, 
+[ Oklahoma/NNP ]
+,/, in/IN 
+[ April/NNP 1983/CD ]
+./. 
+
+[ Porosity/NN ]
+in/IN 
+[ the/DT cored/VBN St./NNP Louis/NNP Limestone/NNP ]
+includes/VBZ 
+[ primary/JJ intergranular/JJ ]
+,/, leached/VBN 
+[ grain/NN ]
+,/, and/CC 
+[ minor/JJ vuggy/NN ]
+,/, 
+[ intragranular/JJ ]
+,/, and/CC 
+[ fracture/NN ]
+./. 
+
+Within/IN 
+[ the/DT five/CD porosity/NN zones/NNS ]
+,/, 
+[ core/NN porosity/NN ]
+generally/RB ranges/VBZ from/IN 
+[ 6/CD ]
+to/TO 
+[ 14/CD %/NN ]
+and/CC 
+[ permeability/NN ]
+from/IN 
+[ 1/CD ]
+to/TO 
+[ 100/CD md/NN ]
+./. 
+
+[ Porosity/NN development/NN ]
+and/CC 
+[ cementation/NN ]
+reflect/VBP ,/, for/IN 
+[ the/DT most/JJS part/NN ]
+,/, 
+[ meteoric/JJ diagenesis/NN ]
+./. 
+
+[ Deposition/NN ]
+and/CC 
+[ diagenesis/NN ]
+of/IN 
+[ the/DT upper/JJ 100/CD +/CD  ft/NNS ]
+(/( 
+[ 30.5/CD +/CD m/NNS ]
+)/) of/IN 
+[ the/DT St./NNP Louis/NNP Limestone/NNP ]
+were/VBD markedly/RB influenced/VBN by/IN 
+[ a/DT local/JJ St./NNP Louis/NNP paleohigh/NN ]
+in/IN approximately/RB 
+[ the/DT same/JJ location/NN ]
+as/IN 
+[ the/DT present/JJ structural/JJ high/NN ]
+at/IN 
+[ South/NNP Mouser/NNP field/NN ]
+./. 
+
+[ Cementation/NN ]
+,/, 
+[ compaction/NN ]
+,/, and/CC 
+[ a/DT significant/JJ amount/NN ]
+of/IN 
+[ ineffective/JJ moldic/JJ porosity/NN ]
+in/IN 
+[ the/DT cored/VBN interval/NN ]
+of/IN 
+[ the/DT St./NNP Louis/NNP Limestone/NNP result/NN ]
+in/IN 
+[ increased/VBN pore/NN system/NN tortuosity/NN ]
+./. 
+
+[ This/DT ]
+indicates/VBZ that/IN 
+[ an/DT m/NN value/NN ]
+greater/JJR than/IN 
+[ 2.0/CD ]
+may/MD be/VB appropriate/JJ in/IN 
+[ S\/sub/NNP W/NNP \//NN calculations/NNS ]
+./. 
+
+Additionally/RB ,/, in/IN 
+[ one/CD porosity/NN zone/NN ]
+,/, 
+[ ooids/NNS ]
+contain/VBP 
+[ microporosity/NN ]
+visible/JJ in/IN 
+[ SEM/NNP study/NN ]
+./. 
+
+[ This/DT porosity/NN ]
+may/MD hold/VB 
+[ irreducible/JJ water/NN ]
+affecting/VBG 
+[ S\/sub/NNP W/NNP \//NN calculations/NNS ]
+made/VBN from/IN 
+[ wireline/JJ logs/NNS ]
+and/CC resulting/VBG in/IN 
+[ an/DT inaccurate/JJ assessment/NN ]
+of/IN 
+[ the/DT zone/NN 's/POS ability/NN ]
+to/TO produce/VB 
+[ hydrocarbons/NNS ]
+./. 
+
+[ Two/CD distinct/JJ oil-water/NN contacts/NNS ]
+occur/VBP in/IN 
+[ the/DT upper/JJ St./NNP Louis/NNP Limestone/NNP ]
+at/IN 
+[ South/NNP Mouser/NNP ]
+./. 
+
+[ The/DT corresponding/JJ reservoirs/NNS ]
+are/VBP separated/VBN by/IN 
+[ a/DT low/JJ porosity/NN ]
+and/CC 
+[ permeability/NN layer/NN ]
+seen/VBN in/IN 
+[ core/NN ]
+and/CC correlated/VBN across/IN 
+[ the/DT field/NN using/VBG neutron-density/NN logs/NNS ]
+./. 
+
+======================================
+
+[ The/DT Albion-Scipio/NNP trend/NN ]
+is/VBZ 
+[ a/DT narrow/JJ ]
+,/, 
+[ divergent/JJ left-lateral/JJ wrench/NN system/NN ]
+in/IN 
+[ the/DT south-central/JJ flank/NN ]
+of/IN 
+[ the/DT Michigan/NNP basin/NN ]
+./. 
+
+[ The/DT initial/JJ discovery/NN ]
+well/NN ,/, 
+[ Perry/NNP 1/CD Houseknecht/NNP ]
+,/, was/VBD drilled/VBN in/IN 
+[ 1956/CD ]
+to/TO 
+[ the/DT Trenton/NNP Limestone/NNP ]
+,/, allegedly/RB on/IN 
+[ the/DT advice/NN ]
+of/IN 
+[ a/DT fortune-teller/NN ]
+./. 
+
+In/IN 
+[ 1957/CD ]
+,/, 
+[ the/DT well/NN ]
+was/VBD deepened/VBN and/CC completed/VBN in/IN 
+[ the/DT Black/NNP River/NNP ]
+,/, flowing/VBG 
+[ 150/CD BOPD/NNP ]
+./. 
+
+Throughout/IN 
+[ the/DT late/JJ 1950s/CD ]
+and/CC early/RB 
+[ 1960s/CD ]
+,/, 
+[ all/DT subsequent/JJ field/NN extensions/NNS ]
+were/VBD controlled/VBN by/IN 
+[ random/JJ drilling/NN ]
+along/IN 
+[ a/DT straight-line/NN ]
+,/, 
+[ northwest-southeast/JJ projection/NN ]
+through/IN 
+[ the/DT Scipio/NNP ]
+and/CC 
+[ Albion/NNP fields/NNS ]
+./. 
+
+By/IN 
+[ the/DT early/JJ 1960s/CD ]
+,/, 
+[ 320/CD wells/NNS ]
+were/VBD on/IN 
+[ production/NN ]
+,/, and/CC 
+[ development/NN ]
+of/IN 
+[ the/DT Albion-Scipio/NNP trend/NN ]
+was/VBD nearly/RB completed/VBN ./. 
+
+[ The/DT field/NN ]
+has/VBZ produced/VBN approximately/RB 
+[ 126/CD million/CD bbl/NNS ]
+of/IN 
+[ oil/NN ]
+and/CC 
+[ 230/CD bcf/NNS ]
+of/IN 
+[ gas/NN ]
+since/IN 
+[ 1957/CD ]
+./. 
+
+[ Geophysical/JJ techniques/NNS ]
+were/VBD not/RB employed/VBN in/IN 
+[ the/DT discovery/NN ]
+,/, 
+[ extension/NN ]
+,/, or/CC 
+[ development/NN work/NN ]
+in/IN 
+[ the/DT field/NN ]
+./. 
+
+[ Ladd/NNP Petroleum/NNP ]
+conducted/VBD 
+[ a/DT modeling/NN study/NN ]
+to/TO determine/VB if/IN 
+[ there/EX ]
+were/VBD 
+[ attributes/NNS ]
+
+[ that/WP ]
+could/MD be/VB used/VBN to/TO identify/VB 
+[ the/DT Albion-Scipio/NNP field/NN ]
+seismically/RB ./. 
+
+[ Interpolative/JJ ]
+modeling/NN and/CC 
+[ field/NN testing/NN ]
+indicated/VBD that/IN where/WRB 
+[ frequencies/NNS ]
+above/IN 
+[ 70/CD Hz/NN ]
+are/VBP recovered/VBN in/IN 
+[ the/DT field/NN ]
+,/, 
+[ several/JJ seismic/JJ attributes/NNS ]
+associated/VBN with/IN 
+[ the/DT productive/JJ fracture/NN portions/NNS ]
+of/IN 
+[ the/DT Trenton-Black/NNP river/NN reservoirs/NNS ]
+could/MD be/VB identified/VBN ./. 
+
+[ These/DT attributes/NNS ]
+included/VBD (/( 
+[ 1/LS ]
+)/) 
+[ direct/JJ observation/NN ]
+of/IN faulting/NN ,/, (/( 
+[ 2/LS ]
+)/) sagging/NN of/IN 
+[ the/DT Trenton/NNP reflector/NN ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ disruption/NN ]
+of/IN 
+[ the/DT Black/NNP River/NNP shale/NN reflector/NN ]
+due/JJ to/TO 
+[ destructive/JJ ]
+or/CC 
+[ constructive/JJ interference/NN ]
+,/, and/CC (/( 
+[ 4/LS ]
+)/) 
+[ the/DT seismic/JJ color/NN attributes/NNS ]
+of/IN 
+[ frequency/NN ]
+and/CC 
+[ amplitude/NN ]
+./. 
+
+Because/IN 
+[ Trenton-Black/NNP River/NNP stratigraphy/NN ]
+varies/VBZ 
+[ little/JJ ]
+in/IN 
+[ southern/JJ Michigan/NNP ]
+,/, 
+[ these/DT seismic/JJ attributes/NNS ]
+should/MD remain/VB 
+[ constant/JJ ]
+regionally/RB and/CC aid/VB in/IN finding/VBG 
+[ other/JJ ]
+fractured/VBN 
+[ Trenton-Black/NNP River/NNP reservoirs/NNS ]
+in/IN 
+[ southern/JJ Michigan/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ central/JJ ]
+and/CC 
+[ southern/JJ Oklahoma/NNP ]
+,/, 
+[ Upper/NNP Devonian-Lower/NNP Mississippian/NNP strata/NNS ]
+are/VBP 
+[ rich/JJ oil/NN source/NN beds/NNS ]
+(/( mean/NN 
+[ =/SYM 7/CD %/NN TOC/NNP ]
+)/) at/IN 
+[ an/DT early/JJ stage/NN ]
+of/IN 
+[ generation/NN ]
+./. 
+
+[ The/DT major/JJ accumulations/NNS ]
+of/IN 
+[ oil/NN ]
+in/IN 
+[ this/DT region/NN ]
+have/VBP been/VBN documented/VBN as/IN coming/VBG from/IN 
+[ the/DT Woodford/NNP formation/NN ]
+./. 
+
+[ Equivalent-age/JJ source/NN rocks/NNS ]
+in/IN 
+[ the/DT deep/JJ part/NN ]
+of/IN 
+[ the/DT Anadarko/NNP basin/NN ]
+have/VBP matured/VBN to/TO or/CC beyond/IN 
+[ the/DT gas/NN generation/NN stage/NN ]
+and/CC 
+[ significant/JJ generation/NN ]
+is/VBZ still/RB occurring/VBG within/IN 
+[ parts/NNS ]
+of/IN 
+[ the/DT basin/NN ]
+./. 
+
+Around/IN 
+[ the/DT Ozark/JJ uplift/NN ]
+,/, 
+[ age-equivalent/JJ rocks/NNS ]
+contain/VBP 
+[ less/JJR organic/JJ matter/NN ]
+(/( 
+[ mean/NN =/SYM 3.5/CD %/NN TOC/NNP ]
+)/) and/CC 
+[ more/JJR terrigenous/JJ clastic/JJ sediment/NN ]
+than/IN in/IN 
+[ central/JJ ]
+and/CC 
+[ southern/JJ Oklahoma/NNP ]
+./. 
+
+[ Both/DT oil-and/JJ  types/NNS ]
+of/IN 
+[ kerogen/NN ]
+are/VBP present/JJ and/CC 
+[ the/DT organic/JJ matter/NN ]
+has/VBZ reached/VBN 
+[ the/DT early/JJ ]
+to/TO 
+[ main/JJ stages/NNS ]
+of/IN 
+[ oil/NN generation/NN ]
+./. 
+
+[ Upper/NNP Devonian-Lower/NNP Mississippian/NNP source/NN rocks/NNS ]
+in/IN 
+[ the/DT Ouachita/JJ core/NN area/NN ]
+are/VBP metamorphosed/VBN and/CC no/RB longer/RB have/VBP 
+[ significant/JJ hydrocarbon-generating/JJ capability/NN ]
+./. 
+
+[ Age-equivalent/JJ rocks/NNS ]
+in/IN 
+[ the/DT frontal/JJ zone/NN ]
+are/VBP 
+[ rich/JJ oil/NN source/NN beds/NNS ]
+at/IN 
+[ an/DT early/JJ stage/NN ]
+of/IN 
+[ generation/NN ]
+./. 
+
+[ Significant/JJ hydrocarbon/NN accumulations/NNS ]
+are/VBP possible/JJ at/IN 
+[ depth/NN ]
+within/IN 
+[ the/DT frontal/JJ zone/NN ]
+and/CC from/IN 
+[ frontal/JJ zone/NN rocks/NNS ]
+
+[ that/WP ]
+have/VBP been/VBN 
+[ overthrust/JJ ]
+by/IN 
+[ metamorphosed/VBN Ouachita/JJ core-area/NN rocks/NNS ]
+,/, particularly/RB in/IN 
+[ the/DT northwestern/JJ part/NN ]
+of/IN 
+[ the/DT Ouachita/NNP province/NN ]
+./. 
+
+======================================
+
+[ The/DT Northwest/NNP Tecumseh/NNP field/NN ]
+,/, discovered/VBN in/IN 
+[ 1978/CD ]
+,/, produces/VBZ from/IN 
+[ the/DT Pennsylvanian/NNP Skinner/NNP ]
+and/CC 
+[ Red/NNP Fork/NNP ]
+sandstones/NNS at/IN 
+[ 4800/CD ft/NNS ]
+./. 
+
+[ The/DT 50/CD wells/NNS ]
+had/VBD produced/VBN 
+[ 6.4/CD million/CD bbl/NNS ]
+of/IN 
+[ oil/NN ]
+and/CC 
+[ 20.8/CD bcf/NNS ]
+of/IN 
+[ gas/NN ]
+through/IN 
+[ 1986/CD ]
+./. 
+
+[ The/DT field/NN ]
+is/VBZ 
+[ 4.5/CD mi/NNS ]
+long/RB ,/, 
+[ 3\/4/CD mi/NNS ]
+wide/JJ ,/, and/CC 
+[ the/DT vertical/JJ section/NN ]
+contains/VBZ up/IN to/TO 
+[ 132/CD ft/NNS ]
+of/IN 
+[ sandstone/NN ]
+with/IN 
+[ greater/JJR ]
+than/IN 
+[ 10/CD %/NN porosity/NN ]
+./. 
+
+[ These/DT ]
+stacked/VBN ,/, interconnected/VBN 
+[ north-northeast-trending/JJ ]
+,/, 
+[ channel-fill/JJ sandstones/NNS ]
+are/VBP 
+[ part/NN ]
+of/IN 
+[ a/DT much/RB larger/JJR fluvial\/distributary/JJ system/NN ]
+./. 
+
+[ These/DT channels/NNS ]
+flowed/VBD to/TO 
+[ the/DT north/NN ]
+and/CC cut/VBD down/RB into/IN underlying/VBG ,/, 
+[ fossiliferous/JJ ]
+,/, 
+[ carbonate-bearing/JJ marine/JJ shale/NN ]
+./. 
+
+[ A/DT pre-Pennsylvanian/JJ structural/JJ low/NN ]
+,/, trending/VBG 
+[ north-northeast/RB ]
+,/, existed/VBN in/IN 
+[ the/DT southern/JJ half/NN ]
+of/IN 
+[ the/DT field/NN ]
+and/CC created/VBD 
+[ a/DT predisposition/NN ]
+for/IN 
+[ the/DT channel/NN trend/NN ]
+
+[ which/WDT ]
+continued/VBD through/IN 
+[ Red/NNP Fork/NNP ]
+and/CC 
+[ Skinner/JJ deposition/NN
+
+./. 
+
+[ The/DT north-northeast-trending/JJ sandstone/NN complex/NN ]
+,/, parallel/RB with/IN 
+[ present-day/JJ regional/JJ structural/JJ strike/NN ]
+,/, provides/VBZ 
+[ the/DT excellent/JJ configuration/NN ]
+for/IN 
+[ this/DT efficient/JJ stratigraphic/JJ trap/NN ]
+./. 
+
+[ The/DT northern/JJ end/NN ]
+of/IN 
+[ the/DT field/NN ]
+is/VBZ marked/VBN by/IN 
+[ bifurcation/NN ]
+of/IN 
+[ the/DT channel/NN complex/NN ]
+and/CC by/IN 
+[ the/DT ]
+crosscutting/NN of/IN 
+[ a/DT younger/JJR clay-filled/JJ channel/NN ]
+./. 
+
+Despite/IN 
+[ the/DT lenticularity/NN ]
+of/IN 
+[ the/DT sandstone/NN sequence/NN ]
+,/, 
+[ there/EX ]
+appears/VBZ to/TO be/VB 
+[ a/DT uniform/JJ gas-oil/JJ contact/NN ]
+and/CC 
+[ minor/JJ southwestward/JJ tilt/NN ]
+of/IN 
+[ the/DT oil-water/JJ contact/NN ]
+in/IN 
+[ the/DT south/JJ part/NN ]
+of/IN 
+[ the/DT pool/NN ]
+./. 
+
+[ The/DT primary/JJ reservoir/NN energy/NN ]
+is/VBZ provided/VBN by/IN 
+[ a/DT dissolved/VBN gas/NN drive/NN ]
+,/, with/IN 
+[ some/DT assistance/NN ]
+from/IN 
+[ the/DT 60-ft/JJ gas/NN cap/NN ]
+./. 
+
+[ The/DT vertical/NN oil/NN column/NN ]
+is/VBZ 
+[ 80/CD ft/NNS ]
+./. 
+
+[ These/DT reservoir/NN sandstones/NNS ]
+are/VBP 
+[ fine-grained/JJ quartzarenites/NNS ]
+,/, and/CC 
+[ the/DT dissolution/NN ]
+of/IN 
+[ ferrodolomite/NN ]
+has/VBZ increased/VBN 
+[ porosities/NNS ]
+up/IN to/TO 
+[ 21/CD %/NN ]
+./. 
+
+[ Kaolinite/NN ]
+is/VBZ 
+[ the/DT predominant/JJ clay/NN mineral/NN ]
+and/CC has/VBZ 
+[ a/DT tendency/NN ]
+to/TO migrate/VB and/CC reduce/VB 
+[ permeability/NN ]
+during/IN 
+[ production/NN ]
+./. 
+
+======================================
+
+[ Alkali/NNS metal-catalyzed/JJ gasification/NN ]
+of/IN 
+[ carbon/NN ]
+by/IN 
+[ CO/NNP ]
+{/( sub/IN 
+[ 2/CD ]
+}/) was/VBD studied/VBN 
+[ using/VBG Temperature-programmed/VBN reaction/NN ]
+and/CC 
+[ isotopic/JJ tracers/NNS ]
+./. 
+
+Between/IN 
+[ 500/CD ]
+and/CC 
+[ 1000/CD K/NNP ]
+,/, 
+[ oxide/NN groups/NNS ]
+on/IN 
+[ the/DT carbon/NN surface/NN interact/VBP ]
+with/IN 
+[ potassium/NN carbonate/NN ]
+to/TO form/VB 
+[ carbonate\/oxygen\/carbon/NN complexes/NNS ]
+./. 
+
+[ The/DT complexes/NNS exchange/VBP carbon/NN ]
+and/CC 
+[ oxygen/NN isotopes/NNS ]
+readily/RB with/IN 
+[ gas-phase/JJ carbon/NN dioxide/NN ]
+./. 
+
+[ Sodium/NN carbonate/NN ]
+,/, however/RB ,/, does/VBZ not/RB appear/VB to/TO 
+[ complex/VB ]
+with/IN 
+[ the/DT surface/NN oxide/NN groups/NNS ]
+under/IN 
+[ these/DT conditions/NNS ]
+./. 
+
+[ The/DT surface/NN oxide/NN groups/NNS ]
+also/RB stabilize/VBP 
+[ potassium/NN ]
+on/IN 
+[ the/DT carbon/NN surface/NN ]
+,/, thus/RB ,/, 
+[ less/JJR potassium/NN ]
+volatilizes/VBZ from/IN 
+[ higher-oxygen-content/JJ carbons/NNS ]
+than/IN from/IN 
+[ lower/JJR oxygen/NN content/NN carbons/NNS ]
+./. 
+
+Above/IN 
+[ 1000/CD K/NNP ]
+,/, 
+[ both/DT potassium/NN ]
+and/CC 
+[ sodium/NN carbonate/NN ]
+decompose/VBP 
+[ coincident/JJ ]
+with/IN 
+[ catalyzed/VBN CO/NNP ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ gasification/NN ]
+to/TO form/VB 
+[ a/DT metal/NN oxide/NN ]
+with/IN 
+[ a/DT metal:oxygen/JJ ratio/NN ]
+of/IN 
+[ 2/CD ]
+./. 
+
+[ The/DT oxide/NN ]
+can/MD be/VB oxidized/VBN to/TO give/VB 
+[ a/DT metal*/NN ratio/NN ]
+of/IN 
+[ 1/CD ]
+./. 
+
+[ The/DT carbonate/NN ]
+does/VBZ not/RB appear/VB to/TO be/VB 
+[ the/DT ]
+catalytically/RB 
+[ active/JJ species/NN ]
+./. 
+
+[ Reactions/NNS ]
+describing/VBG 
+[ Na-catalyzed/VBN gasification/NN ]
+via/IN 
+[ oxygen/NN ]
+./. 
+
+[ Transfer/NN mechanisms/NNS ]
+are/VBP proposed/VBN ./. 
+
+======================================
+
+[ Radiochemical/JJ measurements/NNS ]
+were/VBD carried/VBN out/RP for/IN 
+[ uranium/NN ]
+and/CC 
+[ plutonium/NN isotopes/NNS ]
+in/IN 
+[ various/JJ environmental/JJ water/NN ]
+,/, 
+[ soil/NN ]
+and/CC 
+[ sediment/NN samples/NNS ]
+./. 
+
+Marked/VBN 
+[ variations/NNS ]
+of/IN 
+[ the/DT ]
+{/( 
+[ sup/NN 234/CD ]
+}/) 
+[ U/NNP \//NN ]
+{/( 
+[ sup/NN 238/CD ]
+}/) 
+[ U/NNP ]
+and/CC {/( 
+[ sup/NN 235/CD ]
+}/) 
+[ U/NNP \//NN ]
+{/( 
+[ sup/NN 238/CD ]
+}/) 
+[ U/NNP ratios/NNS ]
+observed/VBN in/IN 
+[ rain/NN samples/NNS ]
+collected/VBN during/IN 
+[ the/DT period/NN ]
+between/IN 
+[ January/NNP 1985/CD ]
+and/CC May/MD 
+[ 1986/CD ]
+in/IN 
+[ Fayetteville/NNP ]
+,/, 
+[ Arkansas/NNP ]
+,/, appear/VBP to/TO be/VB attributable/JJ to/TO 
+[ the/DT 7/CD February/NNP 1983/CD burn-up/NN ]
+of/IN 
+[ the/DT nuclear-powered/JJ Soviet/NNP satellite/NN Cosmos-1402/NNP ]
+./. 
+
+[ The/DT increased/VBN values/NNS ]
+of/IN {/( 
+[ sup/NN 235/CD ]
+}/) 
+[ U/NNP \//NN ]
+{/( 
+[ sup/NN 238/CD ]
+}/) 
+[ U/NNP ]
+
+[ that/WP ]
+occurred/VBD in/IN 
+[ many/JJ ]
+of/IN 
+[ the/DT rain/NN samples/NNS ]
+collected/VBN during/IN 
+[ the/DT fall/NN ]
+of/IN 
+[ 1983/CD ]
+through/IN 
+[ the/DT early/JJ spring/NN ]
+of/IN 
+[ 1984/CD ]
+indicate/VBP that/IN 
+[ the/DT ]
+{/( 
+[ sup/NN 235/CD ]
+}/) 
+[ U/NNP ]
+had/VBD 
+[ its/PRP$ origin/NN ]
+most/RBS likely/RB in/IN 
+[ the/DT Chinese/JJ nuclear/JJ test/NN ]
+of/IN 
+[ October/NNP 16/CD ]
+,/, 
+[ 1980/CD ]
+./. 
+
+[ Uranium-234/NN ]
+and/CC 
+[ -235/NN ]
+were/VBD found/VBN to/TO be/VB highly/RB enriched/VBN relative/JJ to/TO 
+[ uranium-238/NN ]
+in/IN 
+[ several/JJ rain/NN samples/NNS ]
+collected/VBN during/IN 
+[ the/DT months/NNS ]
+of/IN 
+[ August/NNP ]
+through/IN 
+[ November/NNP 1986/CD ]
+./. 
+
+[ The/DT anomalous/JJ uranium/NN ]
+,/, highly/RB enriched/VBN in/IN 
+[ the/DT light/JJ isotopes/NNS ]
+,/, appears/VBZ to/TO have/VB originated/VBN from/IN 
+[ the/DT Soviet/JJ satellite/NN Cosmos-1714/NNP ]
+
+[ which/WDT ]
+fell/VBD over/IN 
+[ the/DT Atlantic/NNP ocean/NN ]
+on/IN 
+[ 28/CD February/NNP 1986/CD ]
+./. 
+
+[ The/DT concentrations/NNS ]
+of/IN 
+[ \/NN 239,240\/NN ]
+were/VBD measured/VBN in/IN 
+[ 72/CD individual/JJ rain/NN ]
+and/CC 
+[ snow/NN samples/NNS ]
+collected/VBN at/IN 
+[ Fayetteville/NNP ]
+,/, 
+[ Arkansas/NNP ]
+,/, during/IN 
+[ the/DT period/NN ]
+from/IN 
+[ November/NNP 1984/CD ]
+to/TO 
+[ December/NNP 1986/CD ]
+./. 
+
+[ These/DT results/NNS ]
+indicate/VBP that/IN 
+[ the/DT fallout/NN ]
+of/IN 
+[ plutonium/NN ]
+observed/VBN during/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+is/VBZ due/JJ ,/, primarily/RB ,/, to/TO 
+[ the/DT nuclear/JJ debris/NN ]
+originating/VBG from/IN 
+[ the/DT 7/CD February/NNP 1983/CD burn-up/NN ]
+of/IN 
+[ the/DT nuclear-powered/JJ Soviet/JJ satellite/NN Cosmos-1402/NNP ]
+./. 
+
+[ Levels/NNS ]
+of/IN 
+[ uranium/NN ]
+and/CC 
+[ plutonium/NN ]
+in/IN 
+[ the/DT majority/NN ]
+of/IN 
+[ environmental/JJ soil/NN ]
+,/, 
+[ water/NN ]
+and/CC 
+[ sediment/NN samples/NNS ]
+collected/VBN from/IN around/IN 
+[ Gore/NNP ]
+,/, 
+[ Oklahoma/NNP ]
+,/, and/CC 
+[ Fayetteville/NNP ]
+,/, 
+[ Arkansas/NNP ]
+,/, after/IN 
+[ the/DT January/NNP 4/CD ]
+,/, 
+[ 1986/CD ]
+,/, 
+[ accidental/JJ release/NN ]
+of/IN 
+[ uranium/NN hexafluoride/NN ]
+at/IN 
+[ Gore/NNP ]
+,/, 
+[ Oklahoma/NNP ]
+,/, were/VBD not/RB significantly/RB higher/JJR than/IN 
+[ background/NN levels/NNS ]
+./. 
+
+======================================
+
+Since/IN 
+[ there/EX ]
+has/VBZ been/VBN 
+[ a/DT renewed/VBN interest/NN ]
+in/IN 
+[ using/VBG gravity/NN concentration/NN techniques/NNS ]
+for/IN 
+[ the/DT process/NN ]
+of/IN 
+[ fine/JJ minerals/NNS ]
+and/CC ,/, in/IN 
+[ particular/JJ ]
+,/, 
+[ fine/JJ coal/NN ]
+(/( 
+[ i.e./FW ]
+,/, less/JJR than/IN about/IN 
+[ 0.5/CD mm/NNS ]
+in/IN 
+[ size/NN ]
+)/) ,/, 
+[ it/PRP ]
+is/VBZ important/JJ that/IN 
+[ an/DT evaluation/NN procedure/NN ]
+is/VBZ used/VBN 
+[ which/WDT ]
+is/VBZ not/RB only/RB capable/JJ of/IN showing/VBG 
+[ differences/NNS ]
+in/IN 
+[ the/DT operating/NN conditions/NNS ]
+of/IN 
+[ the/DT separator/NN ]
+,/, but/CC 
+[ which/WDT ]
+also/RB is/VBZ independent/JJ of/IN 
+[ the/DT feed/NN ]
+to/TO 
+[ the/DT device/NN ]
+./. 
+
+[ One/CD such/DT procedure/NN ]
+is/VBZ 
+[ the/DT generation/NN ]
+of/IN 
+[ the/DT expected/JJ fractional/JJ recovery/NN values/NNS ]
+and/CC 
+[ the/DT resulting/VBG curves/NNS ]
+./. 
+
+[ Fractional/JJ recovery/NN values/NNS ]
+are/VBP defined/VBN as/IN 
+[ the/DT fraction/NN ]
+of/IN 
+[ feed/NN material/NN ]
+of/IN 
+[ a/DT given/VBN density/NN ]
+for/IN 
+[ a/DT given/VBN size/NN ]
+
+[ which/WDT ]
+reports/VBZ to/TO 
+[ the/DT product/NN ]
+./. 
+
+[ This/DT study/NN ]
+examines/VBZ 
+[ the/DT generation/NN ]
+of/IN 
+[ fractional/JJ recovery/NN curves/NNS ]
+by/IN 
+[ the/DT use/NN ]
+of/IN 
+[ a/DT mathematical/JJ model/NN ]
+
+[ which/WDT ]
+is/VBZ based/VBN on/IN 
+[ the/DT convection-diffusion/NN equation/NN ]
+./. 
+
+[ This/DT equation/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ validated/VBN under/IN 
+[ various/JJ experimental/JJ conditions/NNS ]
+,/, takes/VBZ into/IN 
+[ account/NN ]
+
+[ both/DT ]
+
+[ the/DT settling/NN ]
+and/CC mixing/NN of/IN 
+[ particles/NNS ]
+within/IN 
+[ a/DT free-settling-type/JJ separator/NN ]
+./. 
+
+[ The/DT model/NN variables/NNS ]
+can/MD then/RB be/VB changed/VBN systematically/RB to/TO produce/VB 
+[ a/DT corresponding/JJ change/NN ]
+in/IN 
+[ the/DT fractional/JJ recovery/NN curves/NNS ]
+./. 
+
+However/RB ,/, if/IN 
+[ these/DT curves/NNS ]
+are/VBP fitted/VBN to/TO 
+[ an/DT appropriate/JJ mathematical/JJ function/NN ]
+,/, then/RB 
+[ certain/JJ characteristic/JJ parameters/NNS ]
+can/MD be/VB obtained/VBN ./. 
+
+By/IN analyzing/NN 
+[ the/DT variation/NN ]
+of/IN 
+[ these/DT parameters/NNS ]
+with/IN operating/VBG 
+[ conditions/NNS ]
+,/, 
+[ a/DT valuable/JJ technique/NN ]
+for/IN 
+[ studying/NN separator/NN performance/NN ]
+is/VBZ established/VBN ./. 
+
+======================================
+
+[ A/DT two-dimensional/JJ deductive/JJ forward/JJ model/NN ]
+was/VBD set/VBN up/RP to/TO simulate/VB 
+[ fluid/NN flow/NN compaction/NN ]
+and/CC 
+[ heat/NN transfer/NN ]
+through/IN 
+[ geologic/JJ time/NN ]
+./. 
+
+In/IN 
+[ this/DT model/NN ]
+,/, 
+[ two/CD ]
+of/IN 
+[ the/DT partial/JJ differential/JJ equations/NNS ]
+(/( 
+[ time/NN ]
+dependent/JJ and/CC spatially/RB 
+[ two/CD dimensional/JJ ]
+)/) ,/, 
+[ Darcy/NNP 's/POS equation/NN ]
+for/IN 
+[ fluid/NN movement/NN ]
+and/CC 
+[ the/DT diffusion/NN equation/NN ]
+for/IN 
+[ heat/NN transfer/NN ]
+are/VBP solved/VBN numerically/RB ./. 
+
+[ The/DT model/NN ]
+is/VBZ tied/VBN to/TO 
+[ the/DT modified/VBN Tissot/NNP 's/POS mathematical/JJ model/NN ]
+for/IN 
+[ oil\/NN generation/NN ]
+and/CC to/TO 
+[ a/DT simplified/JJ material/NN balance/NN model/NN ]
+for/IN 
+[ oil\/NN migration/NN ]
+where/WRB 
+[ the/DT separate/JJ hydrocarbon/NN phase/NN ]
+is/VBZ assumed/VBN as/IN 
+[ the/DT main/JJ mode/NN ]
+of/IN 
+[ migration/NN ]
+./. 
+
+[ The/DT model/NN ]
+yields/VBZ 
+[ pattern/NN ]
+of/IN 
+[ the/DT oil\/NN migration/NN ]
+through/IN 
+[ time/NN ]
+,/, but/CC also/RB provides/VBZ 
+[ the/DT user/NN two/CD dimensional/JJ views/NNS ]
+of/IN 
+[ geologic/JJ history/NN including/VBG development/NN ]
+of/IN 
+[ oil\/NN generation/NN ]
+and/CC 
+[ accumulation/NN ]
+,/, as/RB well/RB as/IN 
+[ the/DT fundamental/JJ parameters/NNS ]
+
+[ which/WDT ]
+include/VBP 
+[ porosity/NN ]
+,/, 
+[ temperature/NN ]
+,/, 
+[ maturity/NN ]
+,/, and/CC 
+[ pore/NN pressure/NN ]
+./. 
+
+[ The/DT model/NN ]
+was/VBD tested/VBN with/IN 
+[ simple/JJ geological/JJ settings/NNS ]
+to/TO see/VB if/IN 
+[ it/PRP ]
+responded/VBD reasonably/RB when/WRB compared/VBN with/IN 
+[ their/PRP$ general/JJ understanding/NN ]
+of/IN 
+[ geology/NN ]
+./. 
+
+[ The/DT model/NN ]
+was/VBD then/RB applied/VBN to/TO 
+[ the/DT Iwafune/NNP Oki/NNP area/NN ]
+of/IN 
+[ Japan/NNP ]
+,/, and/CC revealed/VBD that/IN 
+[ the/DT main/JJ hydrocarbon/NN generation/NN ]
+occurred/VBN below/IN 
+[ the/DT depth/NN ]
+of/IN 
+[ 2500/CD meters/NNS ]
+for/IN 
+[ oil/NN ]
+and/CC below/IN 
+[ 3000-4000/CD meters/NNS ]
+for/IN 
+[ gas/NN ]
+during/IN 
+[ the/DT time/NN ]
+from/IN 
+[ 2.0/CD MaBP/NN ]
+through/IN 
+[ present/NN ]
+./. 
+
+Through/IN 
+[ the/DT application/NN ]
+,/, 
+[ the/DT model/NN ]
+reveals/VBZ that/IN 
+[ downward/JJ migration/NN ]
+from/IN 
+[ the/DT upper/JJ shale/NN unit/NN ]
+must/MD have/VB occurred/VBN almost/RB constantly/RB through/IN 
+[ the/DT history/NN ]
+of/IN 
+[ the/DT reservoir/NN ]
+,/, largely/RB because/IN 
+[ capillary/NN effects/NNS ]
+play/VBP 
+[ such/DT a/DT significant/JJ role/NN ]
+./. 
+
+Also/RB ,/, following/VBG 
+[ a/DT sensitivity/NN analysis/NN ]
+of/IN 
+[ the/DT model/NN ]
+,/, 
+[ the/DT effect/NN ]
+of/IN 
+[ sandstone/NN geometry/NN ]
+on/IN 
+[ migration/NN pathways/NNS ]
+is/VBZ found/VBN to/TO be/VB very/RB significant/JJ ./. 
+
+======================================
+
+[ Fluoride/NN ion/NN ]
+induced/VBD 
+[ 1,4-elimination/NN ]
+from/IN [/( 
+[ o/NN ]
+[/( (/( 
+[ trimethylsilyl/NN ]
+)/) 
+[ methyl/NN ]
+]/) 
+[ benzyl/NN ]
+]/) 
+[ trimethylammonium/NN iodide/NN ]
+(/( 
+[ 7/CD ]
+)/) has/VBZ been/VBN used/VBN to/TO generate/VB 
+[ o-xylylene/NN ]
+(/( 
+[ 1/CD ]
+)/) in/IN 
+[ solution/NN ]
+./. 
+
+[ o-Xylylene/NN ]
+(/( 
+[ 1/CD ]
+)/) was/VBD observed/VBN directly/RB in/IN 
+[ solution/NN ]
+by/IN 
+[ UV-visible/JJ spectroscopy/NN ]
+./. 
+
+Using/VBG 
+[ stopped-flow/JJ UV-visible/JJ spectroscopy/NN ]
+
+[ it/PRP ]
+was/VBD determined/VBN that/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ 1/CD ]
+follows/VBZ 
+[ second-order/JJ kinetics/NNS ]
+./. 
+
+[ Two/CD ring-alkylated/VBN derivatives/NNS ]
+of/IN 
+[ 1/CD ]
+,/, 
+[ 4-t-butyl-1,2-xylylene/NN ]
+(/( 
+[ 28/CD ]
+)/) and/CC 
+[ 3,4/CD ]
+-/: (/( 
+[ 1,1,3,3-tetramethyltrimethylene/NN ]
+)/) 
+[ -1,2-xylylene/NN ]
+(/( 
+[ 29/CD ]
+)/) were/VBD generated/VBN and/CC observed/VBN by/IN 
+[ UV-visible/JJ spectroscopy/NN ]
+./. 
+
+[ The/DT rate/NN constant/NN ]
+for/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ 28/CD ]
+of/IN 
+[ 29/CD ]
+was/VBD determined/VBN ,/, and/CC 
+[ the/DT similar/JJ rate/NN constants/NNS ]
+observed/VBN for/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ 1/CD ]
+,/, 
+[ 28/CD ]
+,/, and/CC 
+[ 29/CD ]
+led/VBD to/TO 
+[ the/DT conclusion/NN ]
+that/IN when/WRB 
+[ undergoing/VBG dimerization/NN ]
+
+[ the/DT o-quinodimethane/NN monomers/NNS ]
+prefer/VBP 
+[ a/DT non-endo/JJ approach/NN ]
+./. 
+
+[ The/DT dimerization/NN kinetics/NNS ]
+of/IN 
+[ 5-ethylidene-6-methylene-1,3-cyclohexadiene/NN ]
+(/( 
+[ 9/CD ]
+)/) and/CC 
+[ 5,6-bis/NN ]
+(/( 
+[ ethylidene/NN ]
+)/) 
+[ -1,3-cyclohexadiene/NN ]
+(/( 
+[ 10/CD ]
+)/) were/VBD studied/VBN by/IN 
+[ stopped-flow/JJ UV-visible/JJ spectroscopy/NN ]
+./. 
+
+[ The/DT dimerization/NN ]
+of/IN 
+[ 9/CD ]
+and/CC 
+[ 10/CD ]
+led/VBD predominantly/RB to/TO 
+[ one/CD stereoisomer/NN ]
+in/IN 
+[ each/DT case/NN ]
+./. 
+
+[ The/DT similar/JJ rate/NN constants/NNS ]
+for/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ o-xylylene/NN ]
+(/( 
+[ 1/CD ]
+)/) and/CC 
+[ 9/CD ]
+,/, and/CC 
+[ the/DT much/RB slower/JJR rate/NN constant/NN ]
+observed/VBN for/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ 10/CD provided/VBD evidence/NN ]
+for/IN 
+[ a/DT stepwise/JJ mechanism/NN ]
+for/IN 
+[ the/DT dimerization/NN ]
+of/IN 
+[ benzenoid/NN o-quinomethanes/NN ]
+./. 
+
+[ The/DT fluoride/NN ion/NN ]
+induced/VBD 
+[ 1,4-elimination/CD methodology/NN ]
+used/VBN in/IN 
+[ the/DT generation/NN ]
+of/IN 
+[ o-xylylene/NN ]
+(/( 
+[ 1/CD ]
+)/) was/VBD utilized/VBN in/IN 
+[ the/DT formation/NN ]
+and/CC 
+[ observation/NN ]
+of/IN 
+[ 1,2-napthoquinodimethane/NN ]
+(/( 
+[ 2/CD ]
+)/) and/CC 
+[ 9,10-phenanthroquinodimethane/NN ]
+(/( 
+[ 3/CD ]
+)/) ./. 
+
+[ o-Quinodimethane/NN ]
+(/( 
+[ 2/CD ]
+)/) was/VBD observed/VBN in/IN 
+[ solution/NN ]
+by/IN 
+[ UV-visible/JJ spectroscopy/NN ]
+while/IN 
+[ 3/CD ]
+was/VBD observed/VBN by/IN {/( 
+[ sup/NN 1/CD ]
+}/) 
+[ H/NNP NMR/NNP spectroscopy/NN ]
+./. 
+
+[ Both/DT ]
+of/IN 
+[ these/DT species/NNS ]
+were/VBD considerably/RB more/RBR stable/JJ than/IN 
+[ 1/CD ]
+./. 
+
+[ Both/DT ]
+
+[ 2/CD ]
+and/CC 
+[ 3/CD ]
+dimerized/VBD following/VBG 
+[ second-order/JJ kinetics/NNS ]
+./. 
+
+======================================
+
+[ The/DT intramolecular/JJ Diels-Alder/NNP reactions/NNS ]
+of/IN
+[ 2,3-dimethylene-2,3-dihydrofurans/NN ]
+have/VBP been/VBN investigated/VBN through/IN 
+[ the/DT pyrolysis/NN ]
+of/IN 
+[ 2-alkenyl-3-furylmethyl/NN benzoates/NNS ]
+./. 
+
+Under/IN 
+[ flash/NN vacuum/NN pyrolysis/NN ]
+(/( 
+[ FVP/NNP ]
+)/) 
+[ conditions/NNS ]
+
+[ each/DT ]
+of/IN 
+[ the/DT 2,3-dimethylene-2,3-dihydrofurans/NN ]
+can/MD undergo/VB 
+[ an/DT intramolecular/JJ Diels-Alder/NNP reaction/NN ]
+or/CC 
+[ 1,5-hydrogen/JJ shift/NN ]
+to/TO give/VB 
+[ the/DT corresponding/JJ tricycles/NNS 4c,t/CD ]
+,/, 
+[ 5c,t/CD ]
+,/, and/CC 
+[ 6c,t/CD ]
+and/CC 
+[ 1,5-hydrogen/CD shift/NN products/NNS 36c,t/CD ]
+and/CC 
+[ 37c,t/CD ]
+./. 
+
+[ FVP/NNP ]
+of/IN 
+[ 1,5-dibenzocyclooctadienes/NNS containing/VBG heteroatoms/NNS ]
+and/CC 
+[ dibenzosuberanes/NNS ]
+gave/VBD 
+[ the/DT corresponding/JJ tricyclic/JJ compounds/NNS ]
+[/( 
+[ benzodifuran/NN ]
+(/( 
+[ 18/CD ]
+)/) ,/, 
+[ acridine/NN ]
+(/( 
+[ 24/CD ]
+)/) ,/, and/CC 
+[ anthracene/NN ]
+]/) with/IN 
+[ exception/NN ]
+of/IN 
+[ 6H/NNP ]
+,/, 
+[ 11H-dibenzo/NN ]
+[/( 
+[ b,f/NN ]
+]/) [/( 
+[ 1,4/CD ]
+]/) 
+[ -dioxocin/NN ]
+(/( 
+[ 17/CD ]
+)/) ./. 
+
+[ The/DT FVP/NNP ]
+of/IN 
+[ 17/CD ]
+gave/VBD (/( 
+[ 2-hydroxybenzyl/NN ]
+)/) 
+[ -o-benzaldehyde/NN ]
+(/( 
+[ 28/CD ]
+)/) as/IN 
+[ a/DT major/JJ product/NN ]
+./. 
+
+[ A/DT mechanistic/JJ study/NN ]
+of/IN 
+[ the/DT regiospecific/JJ formation/NN ]
+of/IN 
+[ 9-methyl-anthracene/CD ]
+from/IN 
+[ the/DT sealed/VBN tube/NN pyrolysis/NN ]
+
+[ the/DT ]
+[/( 
+[ 4/CD +/CC 4/CD ]
+]/) 
+[ dimer/NN ]
+of/IN 
+[ o-xylylene/NN ]
+(/( 
+[ 1/CD ]
+)/) is/VBZ presented/VBN ./. 
+
+[ This/DT study/NN ]
+was/VBD carried/VBN out/RP by/IN pyrolyzing/VBG 
+[ several/JJ possible/JJ precursors/NNS ]
+for/IN 
+[ 9-methylanthracene/NN ]
+(/( 
+[ e.g./FW ]
+,/, 
+[ 5,6-dihydrodibenzo/NN ]
+[/( a,e/NN ]/) 
+[ cyclooctene/NN ]
+,/, 
+[ di-o-tolylethane/NNS ]
+,/, and/CC 
+[ 5-methyldibenzosuberane/NN ]
+)/) ./. 
+
+Sealed/JJ 
+[ tube/NN pyrolyses/NNS ]
+of/IN 
+[ dibenzosuberanes/NNS ]
+and/CC 
+[ dibenzosuberones/NNS ]
+were/VBD also/RB carried/VBN out/RP ./. 
+
+[ A/DT new/JJ method/NN ]
+of/IN preparing/VBG 
+[ cyclopentadienones/NNS ]
+by/IN 
+[ the/DT pyrolysis/NN ]
+of/IN 
+[ cyclic/JJ diethers/NNS ]
+is/VBZ presented/VBN ./. 
+
+[ Cyclopentadienones/NNS ]
+including/VBG 
+[ inden-2-one/NN ]
+have/VBP been/VBN utilized/VBN in/IN 
+[ the/DT synthesis/NN ]
+of/IN 
+[ polycyclic/JJ compounds/NNS ]
+./. 
+
+[ The/DT transient/JJ existence/NN ]
+of/IN 
+[ these/DT intermediates/NNS ]
+has/VBZ also/RB been/VBN proven/VBN by/IN 
+[ the/DT isolation/NN ]
+of/IN 
+[ polycyclic/JJ compounds/NNS ]
+./. 
+
+======================================
+
+[ The/DT solution/NN structure/NN ]
+of/IN 
+[ 2,2'-dilithiobiphenyl/CD ]
+in/IN 
+[ diethyl/NN ether/NN ]
+was/VBD determined/VBN using/VBG 
+[ the/DT isotopic/JJ substitution/NN method/NN ]
+and/CC 
+[ spin/NN lattice/NN relaxation/NN times/NNS ]
+./. 
+
+[ Internuclear/JJ distances/NNS r/NN ]
+[/( 
+[ Li-C/NN ]
+(/( 
+[ 1/CD ]
+)/) ]/) and/CC 
+[ r/NN ]
+[/( 
+[ Li-H/NN ]
+(/( 
+[ 3/CD ]
+)/) ]/) were/VBD calculated/VBN from/IN 
+[ the/DT dipole-dipole/JJ contribution/NN ]
+to/TO 
+[ the/DT spin/NN lattice/NN relaxation/NN times/NNS ]
+of/IN 
+[ the/DT ]
+{/( 
+[ sup/NN 6/CD ]
+}/) 
+[ Li/NN \//NN ]
+{/( 
+[ sup/NN 7/CD ]
+}/) 
+[ Li/NN isotopomers/NNS ]
+of/IN selectively/RB deuterated/VBN 
+[ dilithiobiphenyl/NN compounds/NNS ]
+./. 
+
+[ >/NN ]
+From/IN 
+[ the/DT established/VBN internuclear/JJ distances/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD determined/VBN that/IN 
+[ 2,2'-dilithiobiphenyl/NN ]
+in/IN 
+[ diethyl/NN ether/NN ]
+exists/VBZ not/RB as/IN 
+[ a/DT monomer/NN ]
+as/IN seen/VBN in/IN 
+[ the/DT x-ray/NN crystal/NN structure/NN ]
+,/, but/CC as/IN 
+[ a/DT dimer/NN ]
+./. 
+
+[ The/DT reaction/NN ]
+of/IN 
+[ diorganomagnesium/NN compounds/NNS ]
+with/IN 
+[ cryptands/NNS ]
+and/CC 
+[ crown/NN ethers/NNS results/VBZ ]
+in/IN 
+[ disproportionation/NN ]
+to/TO form/VB 
+[ magnesiate/NN ions/NNS ]
+and/CC 
+[ RMg/NN ]
+(/( 
+[ cryptand/NN ]
+)/) {/( 
+[ sup/NN +/CC ]
+}/) or/CC 
+[ RMg/NN ]
+(/( 
+[ crown/NN ]
+)/) {/( 
+[ sup/NN +/CC ]
+}/) ./. 
+
+[ Disproportionation/NN ]
+is/VBZ observed/VBN for/IN 
+[ primary/JJ ]
+,/, 
+[ secondary/JJ ]
+and/CC 
+[ tertiary/JJ diorganomagnesium/NN compounds/NNS ]
+./. 
+
+[ Reactions/NNP ]
+of/IN 
+[ diarylmagnesium/NN compounds/NNS ]
+with/IN 
+[ cryptands/NNS results/NNS ]
+in/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ magnesiate/NN ions/NNS ]
+and/CC 
+[ ArMg/NN ]
+(/( 
+[ cryptand/NN ]
+)/) {/( 
+[ sup/NN +/CC ]
+}/) ./. 
+
+[ Reactions/NNS ]
+of/IN 
+[ diarylmagnesium/NN compounds/NNS ]
+with/IN 
+[ 15-crown-5/NN ]
+and/CC 
+[ 18-crown-6/NN ]
+produced/VBD 
+[ unexpected/JJ results/NNS ]
+./. 
+
+[ The/DT ]
+{/( 
+[ sup/NN 1/CD ]
+}/) 
+[ H/NNP NMR/NNP spectra/NNS ]
+of/IN 
+[ solutions/NNS ]
+prepared/VBN from/IN 
+[ initial/JJ ratios/NNS ]
+of/IN 
+[ </JJ 2/CD Ar/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Mg/NN ]
+to/TO crown/NN 
+[ ether/DT ]
+exhibited/VBD 
+[ absorptions/NNS ]
+
+[ which/WDT ]
+were/VBD attributed/VBN to/TO 
+[ a/DT threaded/VBN species/NN ]
+,/, 
+[ Ar/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Mg/NN ]
+(/( 
+[ crown/NN ]
+)/) ./. 
+
+[ The/DT magnesium/NN atom/NN ]
+is/VBZ encircled/VBN by/IN 
+[ the/DT crown/NN ether/NN ]
+and/CC bonded/VBN to/TO 
+[ two/CD apical/JJ aryl/NN groups/NNS ]
+./. 
+
+[ Ar/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Mg/NN ]
+(/( 
+[ 18-crown-6/NN ]
+)/) reacts/VBZ slowly/RB with/IN 
+[ ketones/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ unusual/JJ for/IN 
+[ an/DT organomagnesium/NN compound/NN ]
+./. 
+
+At/IN 
+[ ratios/NNS >/NN 3/CD ]
+,/, 
+[ solutions/NNS ]
+of/IN 
+[ the/DT more/RBR soluble/JJ diarylmagnesium/NN compounds/NNS ]
+and/CC 
+[ crown/NN ethers/NNS ]
+show/VBP 
+[ evidence/NN ]
+of/IN 
+[ disproportionation/NN ]
+./. 
+
+======================================
+
+To/TO predict/VB 
+[ the/DT environmental/JJ impact/NN ]
+of/IN 
+[ shallow/JJ land/NN burial/NN sites/NNS ]
+for/IN 
+[ radioactive/JJ waste/NN ]
+,/, 
+[ the/DT mobilization/NN ]
+and/CC 
+[ migration/NN ]
+of/IN 
+[ waste/NN nuclides/NNS ]
+must/MD be/VB estimated/VBN ./. 
+
+[ The/DT theoretical/JJ understanding/NN ]
+that/IN in/IN 
+[ potential/JJ leaching/NN mechanisms/NNS leach-rate/JJ variations/NNS ]
+may/MD arise/VB from/IN 
+[ changes/NNS ]
+in/IN 
+[ both/DT moisture/NN ]
+content/NN and/CC 
+[ volumetric/JJ flow/NN rate/NN ]
+was/VBD tested/VBN in/IN 
+[ column/NN flow/NN leach/NN experiments/NNS ]
+using/VBG 
+[ labeled/VBN vermiculite/NN particles/NNS ]
+as/IN 
+[ a/DT simulated/VBN waste/NN form/NN ]
+./. 
+
+As/RB far/RB as/IN 
+[ possible/JJ ]
+,/, 
+[ conditions/NNS ]
+of/IN 
+[ flow/NN rate/NN ]
+and/CC 
+[ solution/NN ion/NN concentration/NN ]
+were/VBD chosen/VBN to/TO roughly/RB approximate/VB expected/JJ 
+[ field/NN conditions/NNS ]
+./. 
+
+[ A/DT modified/JJ pressure-plate/NN apparatus/NN ]
+was/VBD developed/VBN ,/, tested/VBN ,/, and/CC found/VBN suitable/JJ for/IN 
+[ the/DT production/NN ]
+of/IN 
+[ steady-state/JJ unsaturated/JJ conditions/NNS ]
+with/IN 
+[ leachate/NN flow/NN ]
+./. 
+
+[ Water/NN content/NN ]
+was/VBD determined/VBN using/VBG 
+[ the/DT gamma-ray/NN attenuation/NN method/NN ]
+./. 
+
+[ The/DT effects/NNS ]
+of/IN 
+[ several/JJ parameters/NNS ]
+on/IN 
+[ leaching/NN ]
+were/VBD studied/VBN ,/, including/VBG 
+[ moisture/NN content/NN ]
+and/CC 
+[ pore/NN velocity/NN ]
+./. 
+
+Pore/NN 
+[ velocity/NN effects/NNS ]
+were/VBD found/VBN to/TO be/VB negligible/JJ ./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN 
+[ the/DT leach/NN rate/NN ]
+depends/VBZ on/IN 
+[ the/DT fraction/NN ]
+of/IN 
+[ the/DT exposed/JJ waste/NN surface/NN ]
+
+[ that/WP ]
+is/VBZ wetted/VBN and/CC varies/VBZ with/IN 
+[ the/DT mobile/JJ water/NN content/NN ]
+in/IN 
+[ a/DT non-linear/JJ fashion/NN ]
+./. 
+
+[ The/DT experimental/JJ results/NNS ]
+indicate/VBP that/IN 
+[ the/DT release/NN rate/NN ]
+of/IN 
+[ radionuclides/NNS ]
+placed/VBN within/IN 
+[ a/DT ]
+properly/RB sited/VBN 
+[ low-level/JJ waste/NN disposal/NN site/NN ]
+may/MD be/VB 
+[ two/CD ]
+to/TO 
+[ three/CD times/NNS ]
+smaller/JJR than/IN that/IN predicted/VBN assuming/VBG 
+[ saturated/JJ conditions/NNS ]
+./. 
+
+[ This/DT study/NN ]
+was/VBD performed/VBN using/VBG 
+[ a/DT homogeneous/JJ fine-grained/JJ synthetic/NN waste/NN form/NN ]
+,/, at/IN 
+[ room/NN temperature/NN ]
+,/, with/IN 
+[ a/DT near/JJ neutral/JJ pH/NN ]
+leachant/NN and/CC 
+[ oxidizing/NN conditions/NNS ]
+./. 
+
+======================================
+
+[ The/DT nature/NN ]
+of/IN 
+[ electronic/JJ energy/NN transfer/NN ]
+in/IN 
+[ strain-free/JJ mounted/JJ anthracene-doped/VBN naphthalene/NN single/JJ crystals/NNS ]
+at/IN 
+[ frequencies/NNS ]
+near/IN 
+[ that/DT ]
+of/IN 
+[ the/DT ]
+(/( 
+[ 0.0/CD ]
+)/) 
+[ a-exciton/NN ]
+in/IN 
+[ naphthalene/NN ]
+was/VBD probed/VBN using/VBG sensitized/VBN 
+[ resonant/JJ two-photon/JJ fluorescence/NN excitation/NN ]
+(/( 
+[ TPE/NNP ]
+)/) and/CC 
+[ second/JJ harmonic/JJ generation/NN ]
+(/( 
+[ SHG/NNP ]
+)/) 
+[ spectroscopies/NNS ]
+./. 
+
+[ The/DT naphthalene-to-anthracene/NN TPE/NNP intensity/NN ratios/NNS ]
+were/VBD found/VBN to/TO be/VB 
+[ 1.2/CD ]
+and/CC 
+[ 1.6/CD ]
+,/, for/IN 
+[ excitation/NN ]
+of/IN 
+[ the/DT zero-phonon/NN transition/NN ]
+at/IN 
+[ 1.6/CD K/NNP ]
+and/CC 
+[ 20/CD K/NNP ]
+,/, respectively/RB ./. 
+
+[ This/DT result/NN ]
+is/VBZ consistent/JJ with/IN 
+[ coherent/JJ exciton-polariton/NN electronic/JJ energy/NN transfer/NN ]
+at/IN 
+[ liquid/NN helium/NN temperatures/NNS ]
+,/, and/CC 
+[ incoherent/JJ transfer/NN ]
+at/IN 
+[ high/JJ temperatures/NNS ]
+./. 
+
+[ Energy/NN transfer/NN ]
+for/IN 
+[ the/DT pure/JJ ]
+and/CC 
+[ the/DT anthracene-doped/VBN naphthalene/NN systems/NNS ]
+under/IN 
+[ investigation/NN ]
+was/VBD determined/VBN to/TO be/VB in/IN 
+[ the/DT capture/NN ]
+limited/JJ 
+[ regime/NN ]
+./. 
+
+[ The/DT polariton/NN trapping/NN event/NN ]
+is/VBZ discussed/VBN in/IN 
+[ terms/NNS ]
+of/IN scattering/NN off/RP 
+[ a/DT trap/NN ]
+with/IN 
+[ subsequent/JJ trapping/NN ]
+(/( 
+[ i.e./FW ]
+,/, capture/VB )/) and/CC scattering/VBG off/RP 
+[ a/DT trap/NN ]
+without/IN 
+[ subsequent/JJ trapping/NN ]
+(/( 
+[ i.e./FW ]
+,/, 
+[ trap/NN scattering/NN ]
+)/) ./. 
+
+[ Thermal/JJ broadening/NN ]
+and/CC 
+[ temperature/NN dependences/NNS ]
+of/IN 
+[ the/DT TPE/NNP ]
+and/CC 
+[ SHG/NNP signal/NN intensities/NNS ]
+for/IN 
+[ both/DT naphthalene/NN ]
+and/CC 
+[ anthracene/NN ]
+are/VBP presented/VBN and/CC are/VBP discussed/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT polariton/NN fusion/NN model/NN ]
+./. 
+
+[ The/DT experimental/JJ data/NNS ]
+do/VBP not/RB agree/VB with/IN 
+[ the/DT theoretical/JJ predictions/NNS ]
+;/: 
+[ this/DT discrepancy/NN ]
+is/VBZ discussed/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT anomalous/JJ crystal/NN habit/NN ]
+(/( 
+[ diamond/NN plates/NNS ]
+)/) observed/VBN in/IN 
+[ the/DT present/JJ investigation/NN ]
+./. 
+
+[ The/DT first/JJ report/NN ]
+of/IN 
+[ a/DT longitudinal/JJ exciton/NN ]
+in/IN 
+[ a/DT doped/VBN organic/JJ molecular/JJ system/NN ]
+also/RB is/VBZ reported/VBN ./. 
+
+======================================
+
+[ Pure/JJ ]
+{/( beta/NN }/) 
+[ lead/NN dioxide/NN ]
+and/CC 
+[ lead/NN dioxide/NN doped/VBN ]
+heavily/RB with/IN 
+[ other/JJ metal/NN oxides/NNS ]
+were/VBD prepared/VBN by/IN 
+[ electrochemical/JJ deposition/NN ]
+on/IN 
+[ a/DT gold/NN ]
+,/, rotated/VBN 
+[ disc/NN electrode/NN ]
+(/( 
+[ RDE/NNP ]
+)/) in/IN 
+[ 1.0/CD M/NNP HClO/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) ./. 
+
+[ These/DT electrodes/NNS ]
+were/VBD compared/VBN for/IN 
+[ their/PRP$ electrocatalytic/JJ support/NN ]
+of/IN 
+[ anodic/JJ reactions/NNS ]
+accompanied/VBN by/IN 
+[ transfer/NN ]
+of/IN 
+[ oxygen/NN ]
+from/IN 
+[ the/DT aqueous/JJ solvent/NN ]
+to/TO 
+[ the/DT reaction/NN product/NN ]
+./. 
+
+[ The/DT heterogeneous/JJ rate/NN constants/NNS ]
+of/IN 
+[ several/JJ inorganic/JJ ]
+and/CC 
+[ organic/JJ reactions/NNS ]
+were/VBD determined/VBN ./. 
+
+[ The/DT electrocatalytic/JJ effects/NNS ]
+of/IN 
+[ numerous/JJ dopants/NNS ]
+were/VBD determined/VBN ,/, and/CC 
+[ bismuth/NN oxide/NN ]
+was/VBD found/VBN to/TO cause/VB 
+[ the/DT greatest/JJS increase/NN ]
+in/IN 
+[ rates/NNS ]
+of/IN 
+[ anodic/JJ oxygen-transfer/NN reactions/NNS ]
+./. 
+
+[ Physical/NN properties/NNS ]
+of/IN 
+[ the/DT bismuth/NN ]
+mixed/VBN lead/NN 
+[ oxide/NN electrodes/NNS ]
+were/VBD examined/VBN by/IN 
+[ x-ray/NN diffraction/NN ]
+(/( 
+[ XRD/NNP ]
+)/) ,/, 
+[ Auger/NNP electron/NN spectroscopy/NN ]
+(/( 
+[ AES/NNP ]
+)/) ,/, and/CC 
+[ scanning/NN electron/NN microscopy/NN ]
+(/( 
+[ SEM/NNP ]
+)/) ./. 
+
+[ The/DT increased/VBN values/NNS ]
+of/IN 
+[ the/DT heterogeneous/JJ rate/NN constant/NN ]
+for/IN 
+[ oxygen-transfer/NN reactions/NNS ]
+caused/VBN by/IN 
+[ increased/VBN levels/NNS ]
+of/IN 
+[ bismuth/NN ]
+in/IN 
+[ the/DT mixed/JJ oxide/NN electrodes/NNS ]
+was/VBD found/VBN to/TO be/VB accompanied/VBN by/IN 
+[ a/DT decrease/NN ]
+in/IN 
+[ the/DT overpotential/NN ]
+for/IN 
+[ anodic/JJ evolution/NN ]
+of/IN 
+[ O/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ./. 
+
+[ These/DT kinetic/JJ properties/NNS ]
+also/RB were/VBD found/VBN to/TO be/VB correlated/VBN with/IN 
+[ an/DT ]
+increasing/VBG 
+[ preferred/JJ orientation/NN ]
+of/IN 
+[ the/DT electrodeposited/VBN mixed/JJ oxide/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT ]
+(/( 
+[ 020/CD ]
+)/) 
+[ plane/NN ]
+of/IN 
+[ the/DT ]
+slightly/RB distorted/VBN 
+[ rutile/NN structure/NN ]
+was/VBD oriented/VBN parallel/RB to/TO 
+[ the/DT geometric/JJ surface/NN ]
+of/IN 
+[ the/DT disc/NN electrode/NN ]
+./. 
+
+[ The/DT ]
+(/( 
+[ 020/CD ]
+)/) 
+[ plane/NN ]
+has/VBZ 
+[ the/DT highest/JJS ratio/NN ]
+of/IN 
+[ oxygen:metal/NN ]
+per/IN 
+[ unit/NN area/NN ]
+./. 
+
+[ A/DT general/JJ mechanistic/JJ consideration/NN ]
+is/VBZ given/VBN for/IN 
+[ anodic/JJ oxygen-transfer/NN electrocatalysis/NN ]
+based/VBN on/IN 
+[ the/DT increased/VBN activity/NN ]
+of/IN 
+[ surface/NN oxygen/NN ]
+at/IN 
+[ the/DT mixed/JJ oxide/NN electrodes/NNS ]
+./. 
+
+======================================
+
+[ Major/JJ pollutants/NNS ]
+of/IN 
+[ concern/NN ]
+in/IN 
+[ water/NN supplies/NNS ]
+are/VBP principally/RB are/VBP of/IN 
+[ antropic/JJ origin/NN ]
+and/CC may/MD be/VB broadly/RB divided/VBN classified/VBN as/IN :/: (/( 
+[ 1/CD ]
+)/) 
+[ persistent/NN organics/NNS ]
+,/, such/DT as/IN 
+[ pesticides/NNS ]
+,/, and/CC (/( 
+[ 2/CD ]
+)/) 
+[ toxic/JJ inorganic/JJ chemicals/NNS ]
+;/: 
+[ e.g./FW heavy/NN metals/NNS ]
+./. 
+
+[ Both/DT ]
+
+[ classes/NNS ]
+of/IN 
+[ contaminants/NNS ]
+can/MD undergo/VB 
+[ reactions/NNS ]
+with/IN naturally/RB occurring/VBG 
+[ organics/NNS ]
+;/: 
+[ e.g./FW humic/JJ substances/NNS ]
+,/, to/TO yield/VB 
+[ complex/JJ compounds/NNS ]
+
+[ that/WP ]
+may/MD not/RB be/VB effectively/RB removed/VBN by/IN 
+[ conventional/JJ water/NN treatment/NN operations/NNS ]
+./. 
+
+[ This/DT research/NN ]
+investigates/VBZ 
+[ removal/NN ]
+of/IN 
+[ selected/VBN toxic/JJ and\/CC carcinogenic/JJ trace/NN ]
+organic/JJ and/CC 
+[ inorganic/JJ pollutants/NNS ]
+by/IN 
+[ granulated/JJ activated/VBN carbon/NN ]
+(/( 
+[ GAC/NNP ]
+)/) ./. 
+
+[ This/DT ]
+included/VBD 
+[ the/DT development/NN ]
+of/IN 
+[ equilibrium/NN ]
+and/CC 
+[ rate/NN data/NN|NNS ]
+relative/JJ to/TO 
+[ adsorption/NN ]
+of/IN 
+[ polychlorinated/VBN biphenyls/NNS ]
+(/( 
+[ PCBs/NNP ]
+)/) ,/, and/CC 
+[ several/JJ toxic/JJ metals/NNS ]
+including/VBG ,/, 
+[ cadmium/NN ]
+,/, 
+[ lead/NN ]
+,/, and/CC 
+[ zinc/NN ]
+./. 
+
+[ The/DT effectiveness/NN ]
+of/IN 
+[ activated/JJ carbon/NN ]
+for/IN 
+[ removal/NN ]
+of/IN 
+[ PCBs/NNP ]
+from/IN 
+[ water/NN ]
+is/VBZ adversely/RB affected/VBN by/IN 
+[ background/JJ humic/JJ substances/NNS ]
+./. 
+
+[ Mechanisms/NNS ]
+responsible/JJ for/IN 
+[ this/DT ]
+may/MD be/VB 
+[ competition/NN and\/CC complexation/NN ]
+between/IN 
+[ humic/JJ substances/NNS ]
+and/CC 
+[ PCB/NNP molecules/NNS ]
+./. 
+
+[ Results/NNS ]
+of/IN 
+[ high/JJ pressure/NN mini-column/NNS ]
+(/( 
+[ HPMC/NNP ]
+)/) 
+[ experiments/NNS ]
+indicate/VBP that/IN 
+[ calcium/NN ions/NNS ]
+in/IN 
+[ a/DT solution/NN ]
+containing/VBG 
+[ humic/JJ acid/NN ]
+and/CC 
+[ PCB/NNP ]
+adversely/RB affected/VBD 
+[ PCB/NNP removals/NNS ]
+./. 
+
+[ This/DT phenomenon/NN ]
+may/MD be/VB due/JJ to/TO 
+[ interaction/NN ]
+between/IN 
+[ the/DT free/JJ PCB/NNP molecules/NNS ]
+and/CC more/RBR strongly/RB adsorbed/VBN 
+[ calcium-humate-PCB/NN complexes/NNS ]
+./. 
+
+[ Removal/NN ]
+of/IN 
+[ trace/NN cadmium/NN ]
+,/, 
+[ lead/NN ]
+,/, and/CC 
+[ zinc/NN ]
+by/IN 
+[ carbon-immobilized/VBN 8-hydroxyquinoline/CD ]
+is/VBZ far/RB superior/JJ to/TO 
+[ that/DT ]
+of/IN 
+[ virgin/JJ carbon/NN ]
+./. 
+
+[ The/DT Homogeneous/NNP Surface/NNP Diffusion/NNP Model/NNP ]
+(/( 
+[ HPMC/NNP ]
+)/) was/VBD generally/RB able/JJ to/TO predict/VB and/CC simulate/VB 
+[ the/DT dynamic/JJ performance/NN ]
+of/IN 
+[ fixed-bed/JJ adsorbers/NNS ]
+for/IN 
+[ 2,2',4,5,5'-PCB/NN ]
+./. 
+
+[ The/DT model/NN ]
+,/, however/RB ,/, was/VBD not/RB able/JJ to/TO satisfactorily/RB predict/VB 
+[ column/NN performance/NN ]
+for/IN 
+[ the/DT metals/NNS ]
+of/IN 
+[ interest/NN ]
+./. 
+
+======================================
+
+[ The/DT total/JJ synthesis/NN ]
+of/IN 
+[ the/DT diterpene/NN marrubiin/NN ]
+was/VBD attempted/VBN 
+[ using/VBG methodology/NN ]
+previously/RB developed/VBN in/IN 
+[ the/DT Liotta/NNP laboratories/NNS ]
+./. 
+
+[ Ligand/NNP Assisted/NNP Nucleophilic/NNP Additions/NNP ]
+(/( 
+[ LANA/NNP ]
+)/) comprise/VBP 
+[ a/DT new/JJ class/NN ]
+of/IN 
+[ synthetic/JJ reactions/NNS ]
+involving/VBG 
+[ the/DT stereoselective/JJ addition/NN ]
+of/IN 
+[ some/DT group/NN ]
+,/, usually/RB in/IN 
+[ an/DT intramolecular/JJ conjugate/NN fashion/NN ]
+./. 
+
+[ This/DT group/NN ]
+is/VBZ 
+[ itself/PRP ]
+derived/VBN from/IN 
+[ an/DT earlier/JJR nucleophilic/JJ addition/NN ]
+to/TO 
+[ a/DT carbonyl/NN moiety/NN ]
+./. 
+
+[ Exchange/NN ]
+of/IN 
+[ the/DT original/JJ metal/NN ]
+of/IN 
+[ the/DT alkoxide/NN ]
+with/IN 
+[ a/DT second/JJ metal/NN ]
+(/( 
+[ which/WDT ]
+must/MD be/VB at/IN 
+[ least/JJS divalent/NN ]
+)/) having/VBG 
+[ a/DT transferrable/JJ group/NN ]
+demands/VBZ that/IN 
+[ the/DT stereochemistry/NN ]
+of/IN 
+[ the/DT first/JJ addition/NN ]
+control/VB 
+[ the/DT second/NN ]
+./. 
+
+[ The/DT general/JJ features/NNS ]
+of/IN 
+[ these/DT types/NNS ]
+of/IN 
+[ processes/NNS ]
+are/VBP discussed/VBN ./. 
+
+[ Initial/JJ work/NN ]
+with/IN 
+[ substituted/VBN quinones/NNS ]
+is/VBZ presented/VBN ,/, and/CC 
+[ some/DT mechanistic/JJ rationales/NNS ]
+are/VBP given/VBN ./. 
+
+[ A/DT novel/JJ method/NN ]
+of/IN 
+[ coal/NN ]
+processing/NN at/IN 
+[ modest/JJ temperatures/NNS ]
+and/CC 
+[ hydrogen/NN pressures/NNS ]
+(/( 
+[ 250-300/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NNP ]
+,/, 
+[ 8.0/CD MPa/NN ]
+)/) is/VBZ discussed/VBN ./. 
+
+[ Coals/NNP ]
+reacted/VBN with/IN 
+[ small/JJ amounts/NNS ]
+of/IN 
+[ tetrahydroquinoline/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ fluorocarbons/NNS ]
+or/CC 
+[ other/JJ non-dissolving/JJ media/NNS ]
+underwent/VBD 
+[ astounding/JJ increases/NNS ]
+in/IN 
+[ pyridine/NN solubility/NN ]
+,/, 
+[ a/DT common/JJ standard/NN ]
+in/IN 
+[ coal/NN liquefaction/NN studies/NNS ]
+./. 
+
+[ Several/JJ additives/NNS ]
+were/VBD employed/VBN ,/, although/IN 
+[ only/JJ tetrahydroquinoline/NN ]
+was/VBD found/VBN to/TO effectively/RB increase/VB 
+[ coal/NN solubility/NN ]
+./. 
+
+[ Coals/NNP ]
+having/VBG vastly/RB 
+[ different/JJ individual/NN properties/NNS ]
+behaved/VBD similarly/RB under/IN 
+[ these/DT conditions/NNS ]
+./. 
+
+[ Kinetic/JJ ]
+and/CC 
+[ model/JJ studies/NNS ]
+were/VBD used/VBN in/IN 
+[ an/DT attempt/NN ]
+to/TO clarify/VB 
+[ the/DT reactions/NNS ]
+occurring/VBG under/IN 
+[ these/DT novel/JJ conditions/NNS ]
+./. 
+
+======================================
+
+By/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT theoretical/JJ investigation/NN ]
+,/, 
+[ they/PRP ]
+have/VBP reproduced/VBN 
+[ the/DT structure/NN ]
+of/IN 
+[ pencils/NNS ]
+of/IN 
+[ reversible/JJ fractionation/NN trajectories/NNS ]
+with/IN 
+[ total/NN ]
+stripping/NN of/IN 
+[ one/CD ]
+of/IN 
+[ the/DT components/NNS ]
+in/IN 
+[ the/DT rectifying/NN section/NN ]
+of/IN 
+[ the/DT column/NN ]
+for/IN 
+[ 12/CD types/NNS ]
+of/IN 
+[ three-component/JJ azeotropic/JJ mixtures/NNS ]
+./. 
+
+======================================
+
+[ An/DT approximate/JJ method/NN ]
+of/IN calculating/NN 
+[ the/DT compositions/NNS ]
+of/IN 
+[ external/JJ streams/NNS ]
+of/IN 
+[ reaction-fractionating/JJ apparatus/NN ]
+in/IN 
+[ whose/WP$ still-pot/NN ]
+
+[ a/DT liquid-phase/JJ chemical/NN reaction/NN ]
+takes/VBZ 
+[ place/NN ]
+at/IN 
+[ the/DT boiling/NN point/NN ]
+of/IN 
+[ the/DT mixture/NN ]
+has/VBZ been/VBN examined/VBN ./. 
+
+======================================
+
+[ The/DT paper/NN ]
+considers/VBZ 
+[ the/DT problem/NN ]
+of/IN 
+[ the/DT kinetics/NNS ]
+of/IN 
+[ convective/JJ heat/NN ]
+and/CC 
+[ mass/NN exchange/NN ]
+across/IN 
+[ a/DT plane/NN liquid-liquid/JJ interface/NN ]
+under/IN 
+[ conditions/NNS ]
+where/WRB 
+[ there/EX ]
+exists/VBZ 
+[ a/DT hydrodynamic/JJ circulation/NN structure/NN ]
+in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ two/CD eddy/NN zones/NNS ]
+situated/VBN on/IN 
+[ either/DT side/NN ]
+of/IN 
+[ the/DT interface/NN ]
+./. 
+
+In/IN 
+[ the/DT case/NN ]
+of/IN 
+[ small/JJ ]
+(/( in/IN 
+[ comparison/NN ]
+with/IN 
+[ unity/NN ]
+)/) 
+[ Peclet/NNP numbers/NNS ]
+,/, 
+[ analytical/JJ expressions/NNS ]
+have/VBP been/VBN obtained/VBN for/IN 
+[ interface/NN exchange/NN coefficients/NNS ]
+./. 
+
+[ It/PRP ]
+has/VBZ been/VBN shown/VBN that/IN 
+[ the/DT relative/JJ increase/NN ]
+in/IN 
+[ the/DT heat/NN ]
+and/CC 
+[ mass/NN exchange/NN rate/NN ]
+due/JJ to/TO 
+[ the/DT influence/NN ]
+of/IN 
+[ circulation/NN streams/NNS ]
+is/VBZ proportional/JJ to/TO 
+[ the/DT square/NN ]
+of/IN 
+[ the/DT average/JJ liquid/JJ circulation/NN velocity/NN ]
+in/IN 
+[ the/DT eddy/NN zone/NN ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+have/VBP developed/VBN 
+[ a/DT mathematical/JJ description/NN ]
+of/IN 
+[ the/DT dynamics/NNS ]
+of/IN 
+[ processes/NNS ]
+occurring/VBG in/IN 
+[ a/DT tubular/JJ acetone/NN pyrolysis/NN furnace/NN ]
+
+[ which/WDT ]
+takes/VBZ into/IN 
+[ account/NN ]
+
+[ the/DT most/RBS important/JJ features/NNS ]
+of/IN 
+[ its/PRP$ operation/NN ]
+./. 
+
+[ An/DT algorithm/NN ]
+has/VBZ been/VBN worked/VBN out/RP for/IN 
+[ the/DT solution/NN ]
+of/IN 
+[ the/DT model/NN equations/NNS ]
+./. 
+
+======================================
+
+[ A/DT two-phase/JJ continuous-flow/JJ tank/NN reactor/NN ]
+of/IN 
+[ the/DT mixing/NN type/NN ]
+is/VBZ discussed/VBN in/IN 
+[ which/WDT ]
+
+[ the/DT phases/NNS ]
+are/VBP at/IN 
+[ different/JJ temperatures/NNS ]
+./. 
+
+[ The/DT dependence/NN ]
+of/IN 
+[ the/DT parameters/NNS ]
+of/IN 
+[ the/DT dispersed-phase/JJ particles/NNS ]
+on/IN 
+[ two/CD parameters/NNS ]
+of/IN 
+[ the/DT instantaneous/JJ time/NN ]
+during/IN 
+[ the/DT reactor/NN 's/POS operation/NN ]
+and/CC 
+[ the/DT residence/NN time/NN ]
+of/IN 
+[ the/DT particles/NNS ]
+within/IN 
+[ the/DT reactor/NN ]
+is/VBZ discussed/VBN ./. 
+
+[ A/DT system/NN ]
+of/IN 
+[ differential/JJ equations/NNS ]
+has/VBZ been/VBN derived/VBN for/IN 
+[ the/DT conservation/NN ]
+of/IN 
+[ the/DT averages/NNS ]
+of/IN 
+[ the/DT quantities/NNS ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT total/JJ number/NN ]
+of/IN 
+[ particles/NNS ]
+in/IN 
+[ the/DT mixture/NN ]
+./. 
+
+[ The/DT asymptotic/JJ behavior/NN ]
+of/IN 
+[ the/DT solutions/NNS ]
+is/VBZ studied/VBN and/CC 
+[ steady-state/JJ coordinates/NNS ]
+are/VBP determined/VBN ./. 
+
+======================================
+
+[ A/DT system/NN ]
+of/IN 
+[ ordinary/JJ differential/JJ equations/NNS ]
+is/VBZ proposed/VBN for/IN calculating/VBG 
+[ the/DT principal/JJ hydrodynamic/JJ ]
+and/CC 
+[ thermophysical/JJ parameters/NNS ]
+of/IN 
+[ the/DT two-phase/JJ flow/NN ]
+created/VBN by/IN 
+[ a/DT spray/NN nozzle/NN jet/NN ]
+in/IN 
+[ an/DT axial/JJ stream/NN ]
+of/IN 
+[ high-temperature/JJ gas/NN ]
+./. 
+
+[ Calculation/NN results/NNS ]
+are/VBP presented/VBN for/IN 
+[ the/DT process/NN ]
+of/IN 
+[ evaporation/NN ]
+of/IN 
+[ a/DT dispersed/VBN hydrocarbon/NN raw/JJ material/NN ]
+in/IN 
+[ a/DT stream/NN ]
+of/IN 
+[ combustion/NN gases/NNS ]
+with/IN 
+[ a/DT view/NN ]
+to/TO obtaining/VBG 
+[ technical/JJ carbon/NN ]
+./. 
+
+======================================
+
+[ The/DT author/NN ]
+examines/VBZ 
+[ processes/NNS ]
+for/IN 
+[ transfer/NN ]
+of/IN 
+[ heat/NN ]
+and/CC 
+[ mass/NN ]
+in/IN 
+[ a/DT capillary-porous/JJ catalyst/NN particle/NN ]
+in/IN 
+[ the/DT flow/NN ]
+of/IN 
+[ a/DT chemical/JJ reaction/NN ]
+with/IN 
+[ phase/NN transitions/NNS ]
+of/IN 
+[ liquid-gas/NN type/NN ]
+./. 
+
+[ The/DT author/NN ]
+has/VBZ determined/VBN 
+[ conditions/NNS ]
+for/IN accomplishing/NN and/CC 
+[ the/DT main/JJ characteristics/NNS ]
+of/IN 
+[ the/DT transitional/JJ ]
+and/CC 
+[ steady/JJ regimes/NNS ]
+of/IN 
+[ the/DT process/NN ]
+./. 
+
+[ The/DT author/NN ]
+has/VBZ calculated/VBN 
+[ the/DT mean-integral/NN characteristics/NNS ]
+of/IN 
+[ the/DT efficiency/NN ]
+of/IN using/VBG 
+[ a/DT porous/JJ structure/NN ]
+:/: 
+[ the/DT output/NN ]
+and/CC 
+[ the/DT fraction/NN ]
+of/IN 
+[ grain/NN surface/NN ]
+wetted/VBN ./. 
+
+======================================
+
+[ Equations/NNS ]
+unifying/VBG 
+[ the/DT laws/NNS ]
+of/IN 
+[ filtration/NN ]
+with/IN clogging/NN of/IN 
+[ the/DT pores/NNS ]
+of/IN 
+[ the/DT diaphragm/NN ]
+and/CC 
+[ the/DT formation/NN ]
+of/IN 
+[ a/DT sediment/NN layer/NN ]
+on/IN 
+[ its/PRP$ surface/NN ]
+are/VBP obtained/VBN using/VBG 
+[ a/DT generalized/JJ filtration/NN equation/NN ]
+and/CC 
+[ the/DT Darcy/NNP equation/NN ]
+./. 
+
+[ Methods/NNS ]
+of/IN determining/VBG 
+[ the/DT numerical/JJ values/NNS ]
+of/IN 
+[ the/DT constants/NNS ]
+of/IN 
+[ these/DT equations/NNS ]
+are/VBP discussed/VBN ./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT relations/NNS ]
+found/VBN can/MD be/VB used/VBN as/IN calculating/NN 
+[ equations/NNS ]
+in/IN 
+[ the/DT solution/NN ]
+of/IN 
+[ practical/JJ problems/NNS ]
+of/IN 
+[ the/DT selection/NN ]
+of/IN 
+[ the/DT type/NN ]
+of/IN 
+[ filtering/NN equipment/NN ]
+and/CC 
+[ the/DT determination/NN ]
+of/IN 
+[ its/PRP$ operating/NN conditions/NNS ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+have/VBP studied/VBN 
+[ a/DT suspended-catalyst/NN three-phase/JJ reactor/NN ]
+
+[ which/WDT ]
+is/VBZ used/VBN for/IN 
+[ the/DT process/NN ]
+of/IN 
+[ synthesis/NN ]
+of/IN 
+[ methanol/NN ]
+and/CC 
+[ the/DT Fischer-Tropsch/NNP reaction/NN ]
+./. 
+
+On/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ experimental/JJ data/NNS ]
+obtained/VBN in/IN 
+[ a/DT laboratory/NN set-up/NN ]
+
+[ they/PRP ]
+have/VBP shown/VBN 
+[ that/DT reactor/NN operation/NN ]
+is/VBZ influenced/VBN by/IN 
+[ gas/NN velocity/NN ]
+./. 
+
+[ A/DT satisfactory/JJ agreement/NN ]
+has/VBZ been/VBN found/VBN between/IN 
+[ experiment/NN ]
+and/CC 
+[ calculation/NN ]
+by/IN 
+[ the/DT well-known/JJ model/NN ]
+of/IN 
+[ synthesis/NN gas/NN ]
+refining/NN 
+[ processes/NNS ]
+in/IN 
+[ the/DT reactor/NN ]
+considered/VBN ./. 
+
+======================================
+
+[ A/DT model/NN ]
+of/IN 
+[ bubble/NN formation/NN ]
+in/IN 
+[ a/DT fluidized/VBN bed/NN ]
+under/IN 
+[ the/DT action/NN ]
+of/IN 
+[ the/DT return/NN stream/NN ]
+of/IN 
+[ the/DT dense/JJ phase/NN ]
+penetrating/VBG into/IN 
+[ the/DT trail/NN ]
+of/IN 
+[ an/DT ascending/JJ bubble/NN ]
+is/VBZ constructed/VBN ./. 
+
+[ The/DT growth/NN ]
+of/IN 
+[ bubbles/NNS ]
+as/IN 
+[ they/PRP ]
+rise/VBP and/CC 
+[ the/DT process/NN ]
+of/IN 
+[ replacement/NN ]
+of/IN 
+[ solid/JJ material/NN ]
+in/IN 
+[ the/DT trail/NN ]
+are/VBP analyzed/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ the/DT model/NN ]
+./. 
+
+======================================
+
+[ A/DT method/NN ]
+of/IN 
+[ performing/NN design/NN calculations/NNS ]
+for/IN 
+[ column/NN operation/NN ]
+is/VBZ discussed/VBN 
+[ that/WP ]
+involves/VBZ 
+[ a/DT sequence/NN ]
+of/IN 
+[ check/NN calculations/NNS ]
+at/IN 
+[ the/DT plate/NN level/NN ]
+and/CC 
+[ corrective/JJ design/NN calculations/NNS ]
+at/IN 
+[ the/DT partition/NN coefficient/NN level/NN ]
+./. 
+
+For/IN 
+[ a/DT given/VBN number/NN ]
+of/IN 
+[ plates/NNS ]
+,/, 
+[ the/DT reflux/NN ratio/NN ]
+and/CC 
+[ the/DT amount/NN ]
+of/IN 
+[ the/DT products/NNS ]
+to/TO be/VB removed/VBN in/IN 
+[ order/NN ]
+to/TO obtain/VB 
+[ products/NNS ]
+of/IN 
+[ specified/JJ|VBN purity/NN ]
+were/VBD determined/VBN ./. 
+
+[ The/DT method/NN ]
+has/VBZ been/VBN extended/VBN to/TO 
+[ stripping/NN columns/NNS ]
+and/CC to/TO 
+[ systems/NNS ]
+of/IN 
+[ columns/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ nine/CD variants/NNS ]
+of/IN 
+[ initial/JJ data/NNS ]
+,/, 
+[ a/DT simple/NN method/NN ]
+is/VBZ proposed/VBN that/IN includes/VBZ 
+[ solutions/NNS ]
+with/IN less/JJR than/IN 
+[ three/CD equations/NNS ]
+
+[ that/WP ]
+satisfy/VBP 
+[ the/DT requirement/NN ]
+on/IN 
+[ the/DT group/NN content/NN ]
+of/IN 
+[ the/DT products/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ van't/NN  Hoff/NNP 's/POS membrane/NN system/NN ]
+for/IN 
+[ quasiequilibrium/NN chemical/NN reactions/NNS ]
+,/, 
+[ which/WDT ]
+was/VBD believed/VBN to/TO be/VB hypothetical/JJ ,/, has/VBZ been/VBN realized/VBN in/IN 
+[ voltaic/JJ cells/NNS ]
+and/CC perhaps/RB in/IN 
+[ energy-transforming/NN structures/NNS ]
+of/IN living/VBG 
+[ organisms/NNS ]
+./. 
+
+[ The/DT principles/NNS ]
+of/IN 
+[ quasiequilibrium/NN reactions/NNS ]
+according/VBG to/TO 
+[ the/DT electrochemical/JJ ]
+(/( in/IN 
+[ fuel/NN cells/NNS ]
+)/) and/CC 
+[ chemical/NN ]
+(/( in/IN 
+[ membrane/NN reactors/NNS ]
+)/) 
+[ mechanisms/NNS ]
+are/VBP analyzed/VBN ./. 
+
+======================================
+
+[ Peculiarities/NNS ]
+of/IN 
+[ the/DT behavior/NN ]
+of/IN 
+[ bubbles/NNS ]
+near/IN 
+[ the/DT upper/JJ boundary/NN ]
+of/IN 
+[ a/DT fluidized/VBN bed/NN ]
+,/, 
+[ gas/NN flow/NN ]
+through/IN 
+[ them/PRP ]
+,/, and/CC 
+[ motions/NNS ]
+of/IN 
+[ particles/NNS ]
+of/IN 
+[ the/DT solid/JJ phase/NN ]
+in/IN 
+[ the/DT vicinity/NN ]
+of/IN 
+[ a/DT bubble/NN ]
+are/VBP discussed/VBN ./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ as/RB single/JJ bubbles/NNS ]
+emerge/VBP from/IN 
+[ the/DT bed/NN ]
+,/, most/JJS of/IN 
+[ the/DT mass/NN ]
+of/IN 
+[ particles/NNS ]
+ejected/VBN into/IN 
+[ the/DT space/NN ]
+above/IN 
+[ the/DT bed/NN ]
+is/VBZ located/VBN in/IN 
+[ the/DT envelope/NN ]
+of/IN 
+[ solid/JJ material/NN ]
+raised/VBN above/IN 
+[ the/DT horizontal/JJ surface/NN ]
+of/IN 
+[ the/DT bed/NN ]
+by/IN 
+[ the/DT dome/NN ]
+of/IN 
+[ a/DT bubble/NN ]
+./. 
+
+[ A/DT relation/NN ]
+is/VBZ proposed/VBN for/IN determining/VBG 
+[ the/DT amount/NN ]
+of/IN 
+[ the/DT solid/JJ phase/NN ]
+ejected/VBN into/IN 
+[ the/DT space/NN ]
+above/IN 
+[ the/DT bed/NN ]
+by/IN 
+[ gas/NN bubbles/NNS ]
+breaking/VBG at/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT bed/NN ]
+./. 
+
+======================================
+
+[ A/DT mathematical/JJ description/NN ]
+is/VBZ given/VBN of/IN 
+[ the/DT process/NN ]
+of/IN 
+[ separation/NN ]
+of/IN 
+[ suspensions/NNS ]
+in/IN 
+[ turbocyclones/NNS ]
+with/IN 
+[ two-way/JJ axial/JJ ]
+discharging/NN of/IN 
+[ the/DT emerging/VBG products/NNS ]
+./. 
+
+[ A/DT method/NN ]
+of/IN calculating/VBG 
+[ the/DT total/JJ removal/NN ]
+of/IN 
+[ particles/NNS ]
+of/IN 
+[ the/DT solid/JJ phase/NN ]
+in/IN 
+[ each/DT ]
+of/IN 
+[ the/DT separation/NN streams/NNS ]
+of/IN 
+[ turbocyclones/NNS ]
+is/VBZ proposed/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ a/DT stochastic/JJ theory/NN ]
+of/IN 
+[ separation/NN processes/NNS ]
+and/CC 
+[ the/DT results/NNS ]
+of/IN 
+[ experimental/JJ investigations/NNS ]
+of/IN 
+[ the/DT hydrodynamic/JJ characteristics/NNS ]
+and/CC 
+[ separating/VBG capacities/NNS ]
+of/IN 
+[ these/DT devices/NNS ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+proposes/VBZ 
+[ a/DT method/NN ]
+of/IN selecting/VBG 
+[ the/DT optimum/JJ moments/NNS ]
+of/IN 
+[ time/NN ]
+for/IN 
+[ removing/VBG product/NN ]
+and/CC adding/VBG 
+[ raw/JJ material/NN ]
+,/, 
+[ the/DT optimum/JJ fraction/NN ]
+of/IN 
+[ product/NN ]
+
+[ that/WP ]
+is/VBZ removed/VBN ,/, and/CC 
+[ the/DT optimum/JJ composition/NN ]
+of/IN 
+[ feed/NN ]
+needed/VBN to/TO replenish/VB 
+[ the/DT system/NN ]
+by/IN employing/VBG 
+[ a/DT discharging-charging/JJ technique/NN ]
+of/IN organizing/VBG 
+[ the/DT chemical/NN engineering/NN process/NN ]
+,/, based/VBN on/IN 
+[ data/NNS ]
+obtained/VBN in/IN 
+[ a/DT batch/NN process/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD shown/VBN that/IN 
+[ preparations/NNS ]
+of/IN 
+[ bovine/JJ kidney/NN ]
+{/( 
+[ gamma/NN ]
+}/) 
+[ -glutamyl/NN transferase/NN ]
+of/IN differing/VBG 
+[ degrees/NNS ]
+of/IN 
+[ purity/NN ]
+are/VBP phosphorylated/VBN by/IN 
+[ cAMP-dependent/JJ protein/NN kinase/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ accompanied/VBN by/IN 
+[ a/DT decrease/NN ]
+in/IN 
+[ both/DT ]
+
+[ the/DT transferase/NN ]
+and/CC 
+[ hydrolase/NN activities/NNS ]
+of/IN 
+[ the/DT enzyme/NN ]
+./. 
+
+Consequently/RB ,/, {/( 
+[ gamma/NN ]
+}/) 
+[ -glutamyl/NN transferase/NN ]
+may/MD serve/VB as/IN 
+[ the/DT substrate/NN ]
+and/CC 
+[ target/NN ]
+of/IN 
+[ the/DT regulation/NN ]
+of/IN 
+[ cAMP-dependent/JJ protein/NN kinase/NN ]
+./. 
+
+======================================
+
+[ The/DT absorption/NN ]
+and/CC 
+[ dichroic/JJ absorbance/NN ]
+of/IN 
+[ an/DT iodine/NN complex/NN ]
+of/IN 
+[ muscle/NN glycogen/NN ]
+were/VBD studied/VBN as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT CaCl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ concentration/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN 
+[ high/JJ CaCl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ concentrations/NNS ]
+,/, at/IN 
+[ which/WDT ]
+
+[ the/DT staining/NN ]
+of/IN 
+[ glycogen/NN ]
+upon/IN 
+[ interaction/NN ]
+with/IN 
+[ iodine/NN increases/NNS ]
+sharply/RB ,/, destabilize/VBP 
+[ the/DT ]
+{/( alpha/NN }/) 
+[ -glucan/NN helix/NN ]
+and/CC 
+[ lead/VBP ]
+to/TO 
+[ a/DT disturbance/NN ]
+in/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ a/DT specific/JJ chromophore/NN ]
+of/IN 
+[ the/DT iodine-glycogen/NN complex/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ indicated/VBN by/IN 
+[ the/DT loss/NN ]
+of/IN 
+[ dichroism/NN ]
+./. 
+
+[ The/DT stained/JJ chromophore/NN ]
+appearing/VBG upon/IN 
+[ a/DT simultaneous/JJ decrease/NN ]
+in/IN 
+[ the/DT dichroism/NN ]
+is/VBZ evidently/RB produced/VBN by/IN 
+[ a/DT nonhelical/JJ mechanism/NN ]
+and/CC is/VBZ therefore/RB nonspecific/JJ ./. 
+
+[ This/DT nonspecific/JJ chromophore/NN ]
+may/MD be/VB 
+[ the/DT source/NN ]
+of/IN 
+[ errors/NNS ]
+in/IN 
+[ spectrophotometric/JJ characterization/NN ]
+of/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ glycogens/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD shown/VBN 
+[ using/VBG rabbit/NN skeletal/JJ muscle/NN ]
+and/CC 
+[ liver/NN glycogens/NNS ]
+that/IN 
+[ the/DT Krisman/NNP method/NN ]
+,/, in/IN 
+[ which/WDT ]
+concentrated/JJ 
+[ solutions/NNS ]
+of/IN 
+[ CaCl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) are/VBP used/VBN ,/, does/VBZ not/RB reveal/VB 
+[ the/DT differences/NNS ]
+in/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ the/DT glycogens/NNS ]
+
+[ that/WP ]
+are/VBP found/VBN at/IN 
+[ low/JJ CaCl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ concentrations/NNS ]
+./. 
+
+[ The/DT unfavorable/JJ effect/NN ]
+of/IN 
+[ high/JJ CaCl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ concentrations/NNS ]
+on/IN 
+[ helix/NN formation/NN ]
+must/MD be/VB kept/VBN in/IN 
+[ mind/NN ]
+in/IN 
+[ a/DT determination/NN ]
+of/IN 
+[ the/DT stoichiometry/NN ]
+of/IN 
+[ the/DT interaction/NN ]
+of/IN 
+[ iodine/NN ]
+with/IN {/( alpha/NN }/) 
+[ -glucan/NN ]
+./. 
+
+======================================
+
+[ Biochemical/JJ disturbances/NNS ]
+in/IN 
+[ immunocompetent/JJ spleen/NN cells/NNS ]
+(/( 
+[ T-and/NNS  B-lymphocytes/NNS ]
+)/) were/VBD found/VBN during/IN 
+[ the/DT growth/NN ]
+of/IN transplanted/VBN and/CC 
+[ orthoaminoazotoluene-induced/VBN solid/JJ hepatomas/NN ]
+in/IN 
+[ mice/NNS ]
+of/IN 
+[ line/NN C3HA/NN ]
+./. 
+
+As/RB soon/RB as/IN 
+[ the/DT hepatomas/NN ]
+appeared/VBD during/IN 
+[ carcinogenesis/NN ]
+,/, 
+[ a/DT 2-to/JJ  6-fold/JJ decrease/NN ]
+in/IN 
+[ the/DT adenosine/NN deaminase/NN activity/NN ]
+and/CC 
+[ a/DT 7-to/JJ 10-fold/JJ drop/NN ]
+in/IN 
+[ the/DT purine/NN nucleoside/NN phosphorylase/NN activity/NN ]
+,/, directly/RB correlated/VBD with/IN weakening/NN of/IN 
+[ the/DT immune/JJ function/NN ]
+,/, was/VBD found/VBN in/IN 
+[ the/DT T-and/NNS B-lymphocytes/NNS ]
+./. 
+
+[ These/DT changes/NNS ]
+were/VBD accompanied/VBN by/IN 
+[ a/DT 5.4-fold/JJ increase/NN ]
+in/IN 
+[ the/DT dGTP/NN concentration/NN ]
+(/( 
+[ T-lymphocytes/NNS ]
+)/) and/CC 
+[ a/DT 4.0-fold/JJ increase/NN ]
+in/IN 
+[ the/DT dATP/NN concentration/NN ]
+(/( 
+[ B-lymphocytes/NNS ]
+)/) as/RB well/RB as/IN by/IN 
+[ inhibition/NN ]
+of/IN 
+[ DNA/NNP synthesis/NN ]
+,/, primarily/RB in/IN 
+[ the/DT T-lymphocytes/NNS ]
+./. 
+
+[ The/DT pool/NN ]
+of/IN 
+[ dCTP/NN ]
+was/VBD decreased/VBN in/IN 
+[ both/DT ]
+
+[ types/NNS ]
+of/IN 
+[ cells/NNS ]
+./. 
+
+In/IN 
+[ the/DT T-and/NNS B-lymphocytes/NNS ] 
+of/IN 
+[ the/DT spleens/NNS ]
+of/IN 
+[ mice/NNS ]
+carrying/VBG transplanted/VBN 
+[ solid/JJ hepatoma/NN 22/CD ]
+,/, 
+[ the/DT decreases/NNS ]
+in/IN 
+[ the/DT thymidine/NN kinase/NN activity/NN ]
+,/, 
+[ the/DT rate/NN ]
+of/IN 
+[ incorporation/NN ]
+of/IN 
+[ labeled/JJ thymidine/NN ]
+into/IN 
+[ DNA/NNP ]
+,/, and/CC 
+[ the/DT intracellular/JJ dTTP/NN ]
+and/CC 
+[ dCTP/NN concentrations/NNS ]
+showed/VBD that/IN 
+[ DNA/NNP synthesis/NN ]
+was/VBD inhibited/VBN at/IN 
+[ the/DT time/NN ]
+of/IN 
+[ the/DT maximum/JJ rate/NN ]
+of/IN 
+[ tumor/NN growth/NN ]
+(/( 
+[ 5th/JJ day/NN ]
+)/) ./. 
+
+[ The/DT growth/NN ]
+of/IN 
+[ the/DT hepatoma/NN ]
+(/( beginning/VBG with/IN 
+[ the/DT 8th/JJ day/NN ]
+and/CC until/IN 
+[ death/NN ]
+of/IN 
+[ the/DT animals/NNS ]
+)/) was/VBD subsequently/RB accompanied/VBN by/IN 
+[ sharp/JJ stimulation/NN ]
+of/IN 
+[ DNA/NNP synthesis/NN ]
+in/IN 
+[ the/DT T-and/NNS B-lymphocytes/NNS ]
+of/IN 
+[ the/DT spleen/NN ]
+,/, despite/IN 
+[ the/DT weakening/NN ]
+of/IN 
+[ the/DT immune/JJ function/NN ]
+and/CC 
+[ the/DT decrease/NN ]
+in/IN 
+[ the/DT adenosine/NN deaminase/NN activity/NN ]
+./. 
+
+======================================
+
+[ The/DT structure/NN ]
+of/IN 
+[ the/DT inactivated/JJ ]
+and/CC activated/JJ 
+[ forms/NNS ]
+of/IN 
+[ phospholyase/NN kinase/NN ]
+was/VBD compared/VBN ./. 
+
+[ The/DT enzyme/NN ]
+was/VBD activated/VBN by/IN 
+[ incubation/NN ]
+in/IN 
+[ an/DT alkaline/JJ medium/NN ]
+(/( 
+[ pH/NN 8.5/CD ]
+)/) ,/, 
+[ phosphorylation/NN ]
+of/IN 
+[ the/DT catalytic/JJ subunit/NN ]
+of/IN 
+[ cAMP-dependent/JJ protein/NN kinase/NN ]
+,/, and/CC limited/JJ 
+[ proteolysis/NN ]
+./. 
+
+[ Hydrophobic/JJ chromatography/NN ]
+on/IN 
+[ phenyl-Sepharose/NN ]
+and/CC 
+[ electrophoresis/NN ]
+in/IN 
+[ a/DT polyacrylamide/NN gel/NN density/NN gradient/NN ]
+were/VBD employed/VBN for/IN 
+[ a/DT comparison/NN ]
+of/IN 
+[ these/DT forms/NNS ]
+of/IN 
+[ the/DT enzyme/NN ]
+./. 
+
+[ Activation/NN ]
+of/IN 
+[ the/DT enzyme/NN ]
+was/VBD accompanied/VBN by/IN 
+[ the/DT separation/NN ]
+of/IN 
+[ a/DT low-molecular-weight/JJ component/NN ]
+(/( 
+[ M\/sub/NN r/NN \//NN ]
+about/IN 
+[ 17,000/CD ]
+)/) ./. 
+
+[ The/DT low-molecular-weight/JJ protein/NN ]
+was/VBD obtained/VBN in/IN 
+[ a/DT homogeneous/JJ state/NN ]
+by/IN 
+[ chromatography/NN ]
+on/IN 
+[ phenyl-Sepharose/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD established/VBN that/IN 
+[ its/PRP$ properties/NNS ]
+are/VBP similar/JJ to/TO 
+[ those/DT ]
+of/IN 
+[ calmodulin/NN ]
+./. 
+
+[ The/DT presence/NN ]
+of/IN 
+[ calmodulin/NN ]
+in/IN 
+[ preparations/NNS ]
+of/IN 
+[ phosphorylase/NN kinase/NN ]
+was/VBD judged/VBN by/IN 
+[ the/DT activation/NN ]
+of/IN 
+[ the/DT calmodulin-dependent/NN form/NN ]
+of/IN 
+[ phosphodiesterase/NN ]
+./. 
+
+[ The/DT boiled/VBN ] 
+and/CC 
+[ subtilisin-treated/VBN kinase/NN ]
+activates/VBZ 
+[ phosphodiesterase/NN ]
+in/IN much/RB 
+[ the/DT same/JJ way/NN ]
+as/IN 
+[ bovine/JJ brain/NN calmodulin/NN ]
+./. 
+
+[ The/DT results/NNS ]
+obtained/VBN suggest/VBP that/IN 
+[ the/DT ]
+{/( delta/NN }/) 
+[ subunit/NN ]
+is/VBZ 
+[ a/DT protein/NN inhibitor/NN ]
+of/IN 
+[ the/DT enzyme/NN ]
+./. 
+
+======================================
+
+[ The/DT accumulation/NN ]
+of/IN [/( {/( sup/NN 
+[ 32/CD ]
+}/) 
+[ P/NN ]
+]/) 
+[ phosphocreatine/NN ]
+by/IN 
+[ control/NN ]
+and/CC isolated/VBN perfused/VBN 
+[ ischemic/JJ rat/NN hearts/NNS ]
+was/VBD studied/VBN ./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN at/IN 
+[ phosphocreatine/NN concentrations/NNS ]
+of/IN 
+[ 0.5-10/CD mM/NN ]
+in/IN 
+[ the/DT perfusing/NN solution/NN ]
+
+[ the/DT rate/NN ]
+of/IN 
+[ phosphocreatine/NN accumulation/NN ]
+was/VBD twice/RB as/RB high/JJ in/IN 
+[ hearts/NNS ]
+subjected/VBN to/TO 
+[ ischemia/NN ]
+for/IN 
+[ 35/CD min/NN ]
+as/IN in/IN 
+[ the/DT control/NN hearts/NNS ]
+and/CC constituted/VBD 
+[ 182/CD nmoles\/min\/g/NN dry/JJ weight/NN tissue/NN ]
+at/IN 
+[ a/DT phosphocreatine/NN concentrations/NNS ]
+in/IN 
+[ the/DT perfusate/NN ]
+of/IN 
+[ 10/CD mM./NN 5'-Nucleotidase/NN ]
+and/CC 
+[ phosphatase/NN activities/NNS ]
+were/VBD found/VBN in/IN 
+[ the/DT crude/JJ plasma/NN membrane/NN fraction/NN ]
+from/IN 
+[ rat/NN hearts/NNS ]
+./. 
+
+[ The/DT pH-dependence/NN ]
+of/IN 
+[ the/DT activity/NN ]
+of/IN 
+[ these/DT enzymes/NNS ]
+was/VBD studied/VBN ./. 
+
+[ The/DT 5'-nucleotidase/NN activity/NN ]
+decreased/VBD 
+[ 4-to/RB 5-fold/RB ]
+with/IN 
+[ a/DT drop/NN ]
+in/IN 
+[ the/DT pH/NN ]
+from/IN 
+[ 8.0/CD ]
+to/TO 
+[ 6.0/CD ]
+./. 
+
+[ The/DT phosphatase/NN activity/NN ]
+of/IN 
+[ the/DT preparations/NNS ]
+increased/VB 
+[ 2-fold/RB  ]
+with/IN 
+[ a/DT drop/NN ]
+in/IN 
+[ the/DT pH/NN ]
+from/IN 
+[ 8.0/CD ]
+to/TO 
+[ 6.0/CD ]
+./. 
+
+[ The/DT 5'-nucleotidase/NN activity/NN ]
+was/VBD inhibited/VBN by/IN 
+[ 10/CD mM/NN phosphocreatine/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ 5/CD mM/NN Mg/NN ]
+{/( 
+[ sup/NN 2/CD +/CC ]
+}/) ,/, and/CC 
+[ the/DT degree/NN ]
+of/IN 
+[ the/DT inhibition/NN ]
+depended/VBD on/IN 
+[ the/DT pH./NN Maximum/JJ  inhibition/NN ]
+by/IN 
+[ phosphocreatine/NN ]
+(/( 
+[ 58/CD %/NN ]
+)/) was/VBD observed/VBN at/IN 
+[ pH/NN 6.0/CD ]
+./. 
+
+[ The/DT inhibition/NN ]
+of/IN 
+[ phosphatase/NN ]
+by/IN 
+[ phosphocreatine/NN ]
+did/VBD not/RB depend/VB on/IN 
+[ the/DT pH/NN ]
+and/CC reached/VBD 
+[ 20/CD %/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ 10/CD mM/NN phosphocreatine/NN ]
+./. 
+
+[ Some/DT possible/JJ mechanisms/NNS ]
+of/IN 
+[ the/DT protective/NN effect/NN ]
+of/IN 
+[ phosphocreatine/NN ]
+on/IN 
+[ an/DT ischemic/JJ myocardium/NN ]
+are/VBP discussed/VBN ./. 
+
+======================================
+
+[ Human/JJ serum/NN albumin/NN ]
+catalyzes/VBZ 
+[ the/DT exchange/NN ]
+of/IN 
+[ the/DT protons/NNS ]
+of/IN 
+[ the/DT methyl/NN group/NN ]
+of/IN 
+[ the/DT nonhydrated/JJ pyruvate/NN molecule/NN ]
+in/IN 
+[ heavy/JJ water/NN ]
+./. 
+
+[ An/DT acceleration/NN ]
+of/IN 
+[ deuteroexchange/NN ]
+is/VBZ caused/VBN by/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ Schiff/NNP bases/NNS ]
+by/IN 
+[ six/CD ]
+deprotonated/VBN 
+[ amino/JJ  groups/NNS ]
+of/IN 
+[ the/DT protein/NN ]
+and/CC 
+[ pyruvate/NN ]
+./. 
+
+[ Both/DT ]
+
+[ the/DT hydrated/JJ ]
+and/CC 
+[ the/DT nonhydrated/JJ forms/NNS ]
+of/IN 
+[ pyruvate/NN interact/VBP ]
+with/IN positively/RB charged/VBN 
+[ side/NN residues/NNS ]
+of/IN 
+[ the/DT amino/JJ acids/NNS ]
+of/IN 
+[ the/DT polypeptide/NN chain/NN ]
+(/( most/RBS probably/RB 
+[ arginine/NN ]
+)/) ,/, situated/VBN in/IN 
+[ hydrophobic/JJ pockets/NNS ]
+of/IN 
+[ the/DT protein/NN globule/NN ]
+./. 
+
+[ The/DT value/NN ]
+of/IN 
+[ the/DT equilibrium/NN constant/NN ]
+of/IN 
+[ association/NN ]
+with/IN 
+[ serum/NN albumin/NN ]
+is/VBZ higher/JJR for/IN 
+[ the/DT hydrated/JJ form/NN ]
+of/IN 
+[ pyruvate/NN ]
+./. 
+
+======================================
+
+[ The/DT relative/JJ competitive/JJ activity/NN ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ androstane/NN derivatives/NNS ]
+was/VBD determined/VBN according/VBG to/TO 
+[ the/DT 50/CD %/NN displacement/NN ]
+of/IN [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NN ]
+]/) 
+[ estradiol/NN ]
+from/IN 
+[ complexes/NNS ]
+with/IN 
+[ an/DT unusual/JJ estrogen-binding/NN protein/NN ]
+(/( 
+[ UEBP/NNP ]
+)/) of/IN 
+[ the/DT liver/NN ]
+of/IN 
+[ male/JJ rats/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD shown/VBN that/IN :/: (/( 
+[ 1/LS ]
+)/) 
+[ the/DT bulk/NN ]
+of/IN 
+[ the/DT energy/NN ]
+of/IN 
+[ the/DT bond/NN ]
+of/IN 
+[ the/DT steroid/NN ]
+to/TO 
+[ protein/NN ]
+is/VBZ due/JJ to/TO 
+[ hydrophobic/JJ interactions/NNS ]
+;/: (/( 
+[ 2/LS ]
+)/) 
+[ the/DT real/JJ ability/NN ]
+to/TO form/VB 
+[ specific/JJ complexes/NNS ]
+with/IN 
+[ the/DT UEBP/NNP ]
+at/IN 
+[ androgen/NN concentrations/NNS ]
+close/RB to/TO 
+[ the/DT physiological/JJ ]
+is/VBZ determined/VBN by/IN 
+[ the/DT 17/CD ]
+{/( beta/NN }/) 
+[ hydroxyl/NN ]
+and/CC is/VBZ enhanced/VBN by/IN 
+[ the/DT 3/CD ]
+{/( alpha/NN }/) 
+[ -or/NN 2/CD ]
+{/( alpha/NN }/) 
+[ -hydroxy/NN group/NN ]
+;/: (/( 
+[ 3/LS ]
+)/) 
+[ the/DT 3-and/JJ 17-keto/JJ groups/NNS ]
+weaken/VBP 
+[ the/DT interaction/NN ]
+of/IN 
+[ androgens/NNS ]
+with/IN 
+[ the/DT UEBP/NNP ]
+;/: (/( 
+[ 4/LS ]
+)/) 
+[ cis-coupling/NN ]
+of/IN 
+[ the/DT ]
+
+[ A/NNP ]
+and/CC 
+[ B/NNP rings/NNS ]
+in/IN 
+[ the/DT molecule/NN ]
+of/IN 
+[ androgens/NNS ]
+does/VBZ not/RB prevent/VB 
+[ the/DT binding/NN ]
+of/IN 
+[ the/DT steroids/NNS ]
+to/TO 
+[ protein/NN ]
+./. 
+
+[ These/DT data/NNS ]
+substantially/RB refine/VBP 
+[ the/DT concepts/NNS ]
+of/IN 
+[ the/DT mechanisms/NNS ]
+of/IN 
+[ the/DT interaction/NN ]
+of/IN 
+[ androgens/NNS ]
+with/IN 
+[ the/DT UEBP/NNP ]
+and/CC may/MD promote/VB 
+[ an/DT elucidation/NN ]
+of/IN 
+[ the/DT physiological/JJ function/NN ]
+of/IN 
+[ this/DT protein/NN ]
+./. 
+
+======================================
+
+[ Steroid-receptor/NN complexes/NNS ]
+(/( 
+[ SRC/NNP ]
+)/) of/IN 
+[ estrogens/NNS ]
+and/CC 
+[ progestins/NNS ]
+have/VBP been/VBN isolated/VBN from/IN 
+[ the/DT rat/NN liver/NN ]
+and/CC purified/VBN 
+[ 1500-2000-fold/RB ]
+./. 
+
+[ Both/DT ]
+in/IN 
+[ the/DT state/NN ]
+of/IN 
+[ the/DT initial/JJ cytosol/NN ]
+and/CC purified/VBN 
+[ 2000-fold/RB ]
+,/, 
+[ the/DT SRC/NNP ]
+were/VBD characterized/VBN by/IN 
+[ gel/NN filtration/NN ]
+on/IN 
+[ Sephadex/NNP G-100/NN ]
+and/CC by/IN 
+[ DEAE-cellulose/NN chromatography/NN ]
+./. 
+
+[ The/DT purified/VBN SRC/NNP ]
+from/IN 
+[ the/DT rat/NN liver/NN ]
+were/VBD used/VBN for/IN 
+[ binding/NN ]
+to/TO 
+[ isolated/JJ liver/NN cell/NN nuclei/NNS ]
+from/IN 
+[ rats/NNS ]
+of/IN 
+[ different/JJ ages/NNS ]
+(/( 
+[ 1.5/CD months/NNS ]
+,/, 
+[ 6/CD months/NNS ]
+,/, 
+[ 12/CD months/NNS ]
+,/, 
+[ 24/CD months/NNS ]
+)/) ./. 
+
+[ The/DT maximum/JJ binding/NN ]
+of/IN 
+[ SRC/NNP ]
+of/IN 
+[ progestins/NNS ]
+and/CC 
+[ estrogens/NNS ]
+from/IN 
+[ the/DT rat/NN liver/NN ]
+is/VBZ observed/VBN with/IN homologous/JJ 
+[ nuclei/NNS ]
+of/IN 
+[ 1.5-month-old/JJ rats/NNS ]
+./. 
+
+With/IN 
+[ age/NN ]
+
+[ the/DT binding/NN ]
+of/IN 
+[ SRC/NNP ]
+by/IN 
+[ the/DT nuclei/NNS ]
+decreases/VBZ progressively/RB and/CC reaches/VBZ 
+[ a/DT minimum/NN ]
+by/IN 
+[ 24/CD months/NNS ]
+./. 
+
+[ The/DT detected/JJ differences/NNS ]
+in/IN 
+[ the/DT binding/NN ]
+of/IN 
+[ SRC/NNP ]
+by/IN 
+[ the/DT nuclei/NNS ]
+of/IN 
+[ cells/NNS ]
+of/IN 
+[ animals/NNS ]
+of/IN 
+[ different/JJ ages/NNS ]
+,/, in/IN 
+[ their/PRP$ opinion/NN ]
+,/, may/MD lie/VB at/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ changes/NNS ]
+in/IN 
+[ the/DT functioning/NN ]
+of/IN 
+[ the/DT organism/NN ]
+under/IN 
+[ the/DT influence/NN ]
+of/IN 
+[ hormones/NNS ]
+at/IN 
+[ different/JJ stages/NNS ]
+of/IN 
+[ ontogenesis/NN ]
+./. 
+
+======================================
+
+[ The/DT action/NN ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ known/JJ ionic/JJ ]
+and/CC 
+[ nonionic/JJ detergents/NNS ]
+,/, as/RB well/RB as/IN 
+[ the/DT new/JJ nonionic/JJ detergent/NN MESK/NNP ]
+,/, on/IN 
+[ envelope/NN viruses/NNS ]
+was/VBD investigated/VBN ./. 
+
+[ It/PRP ]
+was/VBD shown/VBN that/IN 
+[ the/DT nonionic/JJ detergents/NNS MESK/NNP ]
+,/, 
+[ Triton/NNP X-100/NN ]
+,/, and/CC 
+[ octyl/NN ]
+-/: {/( beta/NN }/) 
+[ D-glucopyranoside/NN ]
+selectively/RB solubilize/VBP 
+[ the/DT outer/JJ glycoproteins/NNS ]
+of/IN 
+[ the/DT virus/NN particles/NNS ]
+./. 
+
+[ The/DT nonionic/JJ detergent/NN MESK/NNP ]
+has/VBZ 
+[ the/DT mildest/JJS action/NN ]
+./. 
+
+Using/VBG 
+[ MESK/NNP ]
+,/, purified/VBN 
+[ glycoproteins/NNS ]
+of/IN 
+[ influenza/NN ]
+,/, 
+[ parainfluenza/NN ]
+,/, 
+[ Venezuelan/NNP equine/NN encephalomyelitis/NN ]
+,/, 
+[ vesicular/JJ stomatitis/NN ]
+,/, 
+[ rabies/NN ]
+,/, and/CC 
+[ herpes/NN viruses/NNS ]
+were/VBD obtained/VBN ./. 
+
+[ The/DT procedure/NN ]
+for/IN obtaining/VBG 
+[ glycoproteins/NNS ]
+includes/VBZ 
+[ incubation/NN ]
+of/IN 
+[ the/DT virus/NN suspension/NN ]
+with/IN 
+[ the/DT detergent/NN MESK/NNP ]
+,/, 
+[ removal/NN ]
+of/IN 
+[ subvirus/NN structures/NNS ]
+by/IN centrifuging/NN ,/, and/CC 
+[ purification/NN ]
+of/IN 
+[ glycoproteins/NNS ]
+from/IN 
+[ detergents/NNS ]
+by/IN 
+[ dialysis/NN ]
+./. 
+
+Isolated/JJ 
+[ glycoproteins/NNS ]
+retain/VBP 
+[ a/DT native/JJ structure/NN ]
+and/CC 
+[ biological/JJ activity/NN ]
+and/CC possess/VBP 
+[ high/JJ immunogenicity/NN ]
+./. 
+
+[ The/DT detergent/NN MESK/NNP ]
+is/VBZ promising/JJ for/IN 
+[ laboratory/NN tests/NNS ]
+and/CC with/IN 
+[ respect/NN ]
+to/TO 
+[ the/DT production/NN ]
+of/IN 
+[ subunit/NN vaccines/NNS ]
+./. 
+
+======================================
+
+[ The/DT ribulose/JJ diphosphate/NN ]
+(/( 
+[ RDP/NNP ]
+)/) 
+[ carboxylase/NN activity/NN ]
+of/IN 
+[ the/DT cyanobacterium/NN Spirulina/NNP platensis/NN ]
+is/VBZ represented/VBN by/IN 
+[ two/CD peaks/NNS ]
+when/WRB 
+[ a/DT cell/NN homogenate/NN ]
+is/VBZ centrifuged/VBN in/IN 
+[ a/DT sucrose/NN density/NN gradient/NN ]
+./. 
+
+In/IN 
+[ the/DT case/NN ]
+of/IN 
+[ differential/JJ centrifugation/NN ]
+(/( 
+[ 40,000/CD g/NNS ]
+,/, 
+[ 1/CD h/NN ]
+)/) ,/, 
+[ the/DT activity/NN ]
+of/IN 
+[ the/DT enzyme/NN ]
+was/VBD distributed/VBN between/IN 
+[ the/DT supernatant/JJ liquid/NN ]
+(/( 
+[ soluble/JJ form/NN ]
+)/) and/CC 
+[ the/DT precipitate/NN ]
+(/( 
+[ carboxysomal/JJ form/NN ]
+)/) ./. 
+
+[ >/NN ]
+From/IN 
+[ the/DT soluble/JJ fraction/NN ]
+,/, in/IN 
+[ which/WDT ]
+
+[ 80-95/CD %/NN ]
+of/IN 
+[ the/DT total/JJ activity/NN ]
+of/IN 
+[ the/DT enzyme/NN ]
+is/VBZ concentrated/VBN ,/, electrophoretically/RB 
+[ homogeneous/JJ RDP/NNP carboxylase/NN ]
+was/VBD isolated/VBN by/IN 
+[ precipitation/NN ]
+with/IN 
+[ ammonium/NN sulfate/NN ]
+and/CC 
+[ centrifugation/NN ]
+in/IN 
+[ a/DT sucrose/NN density/NN gradient/NN ]
+./. 
+
+[ The/DT purified/VBN enzyme/NN ]
+possessed/VBD 
+[ greater/JJR electrophoretic/JJ mobility/NN ]
+in/IN 
+[ comparison/NN ]
+with/IN 
+[ the/DT RDP/NNP carboxylase/NN ]
+of/IN 
+[ beans/FW Vicia/FW faba/FW ] 
+./. 
+
+[ The/DT molecular/JJ weight/NN ]
+of/IN 
+[ the/DT enzyme/NN ]
+,/, determined/VBN by/IN 
+[ gel/NN filtration/NN ]
+,/, was/VBD 
+[ 450,000/CD ]
+./. 
+
+[ The/DT enzyme/NN ]
+consists/VBZ of/IN 
+[ monotypic/JJ subunits/NN ]
+with/IN 
+[ a/DT molecular/JJ weight/NN ]
+of/IN 
+[ 53,000/CD ]
+./. 
+
+[ The/DT small/JJ subunits/NN ]
+were/VBD not/RB detected/VBN in/IN 
+[ electrophoresis/NN ]
+in/IN 
+[ polyacrylamide/NN gel/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ SDS/NNP ]
+after/IN 
+[ fixation/NN ]
+and/CC 
+[ staining/NN ]
+of/IN 
+[ the/DT gels/NNS ]
+by/IN 
+[ various/JJ methods/NNS ]
+./. 
+
+======================================
+
+[ The/DT entry/NN ]
+of/IN 
+[ T-lymphocytes/NNS ]
+into/IN 
+[ the/DT DNA-synthesizing/JJ phase/NN ]
+is/VBZ determined/VBN by/IN 
+[ three/CD successive/JJ signals/NNS ]
+:/: 
+[ an/DT antigenic/JJ effect/NN ]
+,/, 
+[ interleukin-2/NN ]
+-/: 
+[ a/DT specific/JJ growth/NN factor/NN ]
+of/IN 
+[ T-lymphocytes/NNS ]
+-/: and/CC by/IN 
+[ nonspecific/JJ serum/NN growth/NN factors/NNS ]
+,/, primarily/RB 
+[ transferrin/NN ]
+./. 
+
+[ This/DT system/NN ]
+was/VBD used/VBN for/IN 
+[ a/DT study/NN ]
+of/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ the/DT T-antigen/NN ]
+of/IN 
+[ virus/NN SV/NNP 40/CD ]
+on/IN 
+[ the/DT mitotic/JJ cycle/NN ]
+./. 
+
+[ Purified/VBN T-antigen/NN  ]
+was/VBD injected/VBN alternately/RB into/IN 
+[ T-lymphocytes/NNS ]
+using/VBG 
+[ vesicles/NNS ]
+from/IN 
+[ erythrocyte/JJ ghosts/NNS ]
+instead/RB of/IN 
+[ one/CD ]
+of/IN 
+[ the/DT control/NN signals/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD established/VBN that/IN 
+[ the/DT T-antigen/NN ]
+can/MD not/RB replace/VB 
+[ the/DT antigenic/JJ effect/NN ]
+,/, but/CC is/VBZ capable/JJ of/IN replacing/VBG 
+[ the/DT specific/NN growth/NN factor/NN interleukin-2/NN ]
+./. 
+
+However/RB ,/, 
+[ both/DT ]
+normally/RB proliferating/VBG 
+[ T-lymphocytes/NNS ]
+and/CC 
+[ T-lymphocytes/NNS ]
+induced/VBN to/TO divide/VB have/VBP 
+[ an/DT absolute/JJ requirement/NN ]
+for/IN 
+[ transferrin/NN ]
+and/CC probably/RB for/IN 
+[ other/JJ nonspecific/JJ growth/NN factors/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ suggested/VBN that/IN 
+[ the/DT polymorphism/NN ]
+of/IN 
+[ tumors/NNS ]
+caused/VBN by/IN 
+[ papovaviruses/NNS ]
+is/VBZ determined/VBN by/IN 
+[ the/DT ability/NN ]
+of/IN 
+[ their/PRP$ early/JJ proteins/NNS ]
+to/TO imitate/VB 
+[ the/DT action/NN ]
+on/IN 
+[ cells/NNS ]
+of/IN 
+[ growth/NN factors/NNS specific/NN ]
+for/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ rabbit/NN polyclonal/JJ antibodies/NNS ]
+(/( 
+[ AB/NNP ]
+)/) against/IN 
+[ a/DT distinctive/JJ estrogen-binding/NN protein/NN ]
+(/( 
+[ DEBP/NNP ]
+)/) of/IN 
+[ rat/NN liver/NN ]
+,/, isolated/VBN using/VBG 
+[ an/DT immunosorbent/JJ ]
+,/, on/IN 
+[ the/DT interaction/NN ]
+of/IN [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NNP ]
+]/) 
+[ estradiol/NN ]
+with/IN 
+[ the/DT DEBP/NNP ]
+and/CC 
+[ estrogen/NN receptors/NNS ]
+of/IN 
+[ the/DT uterus/NN ]
+and/CC 
+[ other/JJ tissues/NNS ]
+,/, as/RB well/RB as/IN of/IN [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NNP ]
+]/) 
+[ dihydrotestosterone/NN ]
+with/IN 
+[ prostate/JJ androgen/NN receptors/NNS ]
+,/, [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NNP ]
+]/) 
+[ progesterone/NN ]
+with/IN 
+[ uterine/JJ progesterone/NN receptors/NNS ]
+,/, and/CC [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NNP ]
+]/) 
+[ dexamethasone/NN ]
+with/IN 
+[ rat/NN thymus/NN glucocorticoid/NN receptors/NNS ]
+was/VBD investigated/VBN ./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN 
+[ preincubation/NN ]
+of/IN 
+[ the/DT cytosol/NN ]
+of/IN 
+[ the/DT tissues/NNS ]
+under/IN 
+[ investigation/NN ]
+with/IN 
+[ the/DT antibodies/NNS ]
+decreases/VBZ 
+[ the/DT capacity/NN ]
+of/IN 
+[ the/DT DEBP/NNP ]
+of/IN 
+[ the/DT estrogen/NN ]
+and/CC 
+[ androgen/NN receptors/NNS ]
+to/TO bind/VB 
+[ the/DT corresponding/JJ ligand/NN ]
+./. 
+
+[ The/DT hormone-binding/NN activity/NN ]
+of/IN 
+[ progesterone/NN ]
+and/CC 
+[ the/DT glucocorticoid/NN receptors/NNS ]
+does/VBZ not/RB 
+[ change/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ AB/NNP ]
+./. 
+
+[ The/DT binding/NN activity/NN ]
+of/IN 
+[ DEBP/NNP ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ AB/NNP ]
+decreases/VBZ as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ a/DT decrease/NN ]
+in/IN 
+[ the/DT concentration/NN ]
+of/IN binding/NN 
+[ sites/NNS ]
+of/IN 
+[ the/DT protein/NN ]
+,/, while/IN that/IN of/IN 
+[ the/DT estrogen/NN ]
+and/CC 
+[ androgen/NN receptors/NNS ]
+drops/VBZ as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ a/DT decrease/NN ]
+in/IN 
+[ affinity/NN ]
+for/IN 
+[ the/DT ligand/NN ]
+,/, due/JJ to/TO 
+[ a/DT drop/NN ]
+in/IN 
+[ the/DT association/NN rate/NN constant/NN ]
+./. 
+
+[ A/DT cross/NN effect/NN ]
+of/IN 
+[ AB/NNP ]
+on/IN 
+[ the/DT activity/NN ]
+of/IN 
+[ uterine/JJ estrogen/NN receptors/NNS ]
+of/IN 
+[ the/DT rabbit/NN ]
+,/, 
+[ guinea/NN pig/NN ]
+,/, and/CC 
+[ mouse/NN ]
+was/VBD found/VBN ./. 
+
+[ It/PRP ]
+was/VBD concluded/VBN that/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT definite/JJ similarity/NN ]
+in/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ DEBP/NNP ]
+and/CC 
+[ sex/NN steroid/NN receptors/NNS ]
+./. 
+
+======================================
+
+[ The/DT structure/NN ]
+and/CC 
+[ properties/NNS ]
+of/IN 
+[ a/DT distinctive/JJ estrogen-binding/NN protein/NN ]
+(/( 
+[ DEBP/NNP ]
+)/) from/IN 
+[ the/DT livers/NNS ]
+of/IN 
+[ male/JJ rats/NNS ]
+,/, purified/VBN with/IN 
+[ the/DT aid/NN ]
+of/IN 
+[ an/DT affinity/NN sorbent/JJ ]
+,/, was/VBD investigated/VBN ./. 
+
+[ A/DT high/JJ degree/NN ]
+of/IN 
+[ purification/NN ]
+of/IN 
+[ the/DT DEBP/NNP ]
+obtained/VB (/( 
+[ >/NN 99/CD %/NN ]
+)/) ,/, associated/VBD with/IN 
+[ the/DT pronounced/JJ microheterogeneity/NN ]
+,/, was/VBD found/VBN ./. 
+
+Apparently/RB ,/, 
+[ this/DT microheterogeneity/NN ]
+is/VBZ 
+[ the/DT result/NN ]
+of/IN 
+[ partial/JJ proteolysis/NN ]
+of/IN 
+[ the/DT protein/NN ]
+from/IN 
+[ the/DT N-end/NN ]
+during/IN 
+[ isolation/NN ]
+./. 
+
+[ Purified/VBN DEBP/NNP molecules/NNS ]
+have/VBP 
+[ the/DT following/VBG parameters/NNS ]
+:/: 
+[ molecular/JJ weight/NN 31,000/CD ]
+(/( according/VBG to/TO 
+[ the/DT data/NN ]
+of/IN 
+[ electrophoresis/NN ]
+in/IN 
+[ polyacrylamide/NN gel/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ SDS/NNP ]
+)/) ,/, 
+[ sedimentation/NN coefficient/NN 3.765/CD ]
+,/, 
+[ Stokes/NNP '/POS radius/NN 25.6/CD ]
+
+[ A/NNP ]
+,/, 
+[ frictional/JJ ratio/NN 1.11/CD ]
+./. 
+
+[ Absorption/NN maximum/NN ]
+of/IN 
+[ the/DT protein/NN ]
+in/IN 
+[ the/DT ultraviolet/JJ region/NN 276/CD nm/NN ]
+;/: 
+[ extinction/NN coefficient/NN 26/CD ]
+;/: 
+[ content/NN ]
+of/IN {/( alpha/NN }/) 
+[ -helical/NN segments/NNS  25-30/CD %/NN ]
+./. 
+
+[ The/DT equilibrium/NN constant/NN ]
+of/IN 
+[ the/DT association/NN ]
+with/IN 
+[ estradiol/NN ]
+is/VBZ 
+[ 5/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN 7/CD ]
+}/) 
+[ M/NN ]
+{/( 
+[ sup/NN -1/CD ]
+}/) ./. 
+
+[ Estriol/NN ]
+(/( 
+[ >/NN 100/CD %/NN ]
+)/) and/CC ,/, to/TO 
+[ a/DT lesser/JJR degree/NN ]
+,/, 
+[ estrone/NN ]
+and/CC 
+[ testosterone/NN ]
+(/( {/( 
+[ similar/JJ ]
+_/: to/TO }/) 
+[ 10/CD %/NN ]
+)/) compete/VBP for/IN 
+[ the/DT protein-binding/NN ]
+sites/NNS on/IN [/( {/( sup/NN 
+[ 3/CD ]
+}/) 
+[ H/NN ]
+]/) 
+[ estradiol/NN ]
+,/, whereas/IN 
+[ androsterone/NN ]
+has/VBZ practically/RB 
+[ no/DT competitive/JJ effect/NN ]
+./. 
+
+[ A/DT study/NN ]
+of/IN 
+[ the/DT amino/JJ acid/NN composition/NN ]
+of/IN 
+[ the/DT DEBP/NNP ]
+showed/VBD that/IN 
+[ the/DT protein/NN ]
+contains/VBZ 
+[ a/DT large/JJ number/NN ]
+of/IN 
+[ residues/NNS ]
+with/IN 
+[ hydrophobic/JJ side/NN groups/NNS ]
+(/( 
+[ 34.4/CD %/NN ]
+)/) ,/, 
+[ it/PRP ]
+has/VBZ more/RBR acidic/JJ than/IN 
+[ basic/NN amino/NN acids/NNS ]
+,/, and/CC possesses/VBZ 
+[ a/DT low/JJ content/NN ]
+of/IN 
+[ cysteine/NN ]
+,/, 
+[ threonine/NN ]
+,/, and/CC 
+[ histidine/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ guanine/NN nucleotides/NNS ]
+and/CC 
+[ rhodopsin-containing/JJ membranes/NNS ]
+from/IN 
+[ bovine/JJ retinal/JJ rod/NN outer/JJ segments/NNS transducin/NN ]
+stimulates/VBZ 
+[ light-sensitive/JJ cyclic/JJ nucleotide/NN phosphodiesterase/NN 5.5-to/RB 7-fold/RB ]
+./. 
+
+[ The/DT activation/NN constant/NN ]
+(/( 
+[ K\/sub/NN act/NN \//NN ]
+)/) for/IN 
+[ GTP/NNP ]
+and/CC 
+[ Gpp/NNP ]
+(/( 
+[ NH/NNP ]
+)/) 
+[ p/NN ]
+is/VBZ equal/JJ to/TO 
+[ 0.25/CD ]
+{/( 
+[ mu/NN ]
+}/) 
+[ M/NNP ]
+,/, while/IN that/IN for/IN 
+[ GDP/NNP ]
+and/CC 
+[ GDP/NNP ]
+{/( 
+[ beta/NN ]
+}/) is/VBZ 
+[ 14/CD ]
+and/CC 
+[ 110/CD ]
+{/( 
+[ mu/NN ]
+}/) 
+[ M/NNP ]
+,/, respectively/RB ./. 
+
+[ GDP/NNP ]
+free/JJ of/IN 
+[ admixtures/NNS ]
+of/IN 
+[ other/JJ nucleotides/NNS ]
+does/VBZ not/RB activate/VB 
+[ phosphodiesterase/NN ]
+at/IN 
+[ concentrations/NNS ]
+up/IN to/TO 
+[ 1/CD mM/NN ]
+,/, but/CC is/VBZ bound/VBN to/TO 
+[ transducin/NN ]
+and/CC inhibits/VBZ 
+[ the/DT Gpp/NN ]
+(/( 
+[ NH/NNP ]
+)/) 
+[ p-dependent/NN activation/NN ]
+of/IN 
+[ phosphodiesterase/NN ]
+./. 
+
+[ The/DT nature/NN ]
+of/IN 
+[ the/DT interaction/NN ]
+of/IN 
+[ transducin/NN ]
+with/IN 
+[ depolarized/VBN rhodopsin/NN ]
+also/RB depends/VBZ on/IN 
+[ the/DT type/NN ]
+of/IN 
+[ guanine/NN nucleotide/NN bound/NN ]
+:/: in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ GDP/NNP rhodopsin-containing/JJ membranes/NNS ]
+bind/VBP 
+[ 70-100/CD %/NN ]
+of/IN 
+[ the/DT transducin/NN ]
+,/, whereas/IN in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ Gpp/NNP ]
+(/( 
+[ NH/NNP ]
+)/) 
+[ p/NN ]
+only/RB 
+[ 13/CD %/NN ]
+of/IN 
+[ the/DT protein/NN ]
+is/VBZ bound/VBN ./. 
+
+[ The/DT data/NNS ]
+obtained/VBN indicate/VBP that/IN 
+[ GDP/NNP ]
+and/CC 
+[ GTP/NNP ]
+convert/VBP 
+[ transducin/NN ]
+to/TO 
+[ two/CD different/JJ functional/JJ states/NNS ]
+:/: 
+[ the/DT transducin-GTP/NN complex/NN ]
+is/VBZ bound/VBN to/TO 
+[ phosphodiesterase/NN ]
+and/CC activates/VBZ 
+[ it/PRP ]
+,/, while/IN 
+[ the/DT transducin-GDP/NN complex/NN ]
+is/VBZ bound/VBN primarily/RB to/TO 
+[ rhodopsin/NN ]
+./. 
+
+======================================
+
+[ Micro/JJ x-ray-spectral/NN ]
+and/CC 
+[ microstructural/JJ methods/NNS ]
+were/VBD used/VBN to/TO investigate/VB 
+[ the/DT corresponding/JJ compositions/NNS ]
+and/CC 
+[ shapes/NNS ]
+of/IN 
+[ the/DT second/JJ phase/NN ]
+,/, precipitated/VBN during/IN 
+[ the/DT decomposition/NN ]
+of/IN 
+[ binary/JJ solid/JJ solutions/NNS ]
+of/IN 
+[ indium/NN ]
+in/IN 
+[ germanium/NN ]
+at/IN 
+[ different/JJ temperatures/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT ]
+experimentally/RB found/VBN 
+[ compositions/NNS ]
+of/IN 
+[ the/DT second/JJ phase/NN ]
+clearly/RB correlate/VBP with/IN 
+[ compositions/NNS ]
+of/IN 
+[ the/DT same/JJ phases/NNS ]
+,/, obtained/VBN from/IN 
+[ an/DT analysis/NN ]
+of/IN 
+[ the/DT equilibrium/NN phase/NN diagrams/NNS ]
+./. 
+
+[ Results/NNS ]
+of/IN 
+[ microstructural/JJ investigations/NNS ]
+of/IN 
+[ the/DT form/NN ]
+of/IN 
+[ the/DT second-phase/JJ precipitates/NNS ]
+are/VBP compared/VBN with/IN 
+[ the/DT data/NN ]
+of/IN 
+[ an/DT analysis/NN ]
+of/IN 
+[ the/DT kinetic/JJ dependences/NNS ]
+,/, obtained/VBN 
+[ earlier/JJR ]
+,/, based/VBN on/IN 
+[ the/DT phenomenological/JJ concepts/NNS ]
+of/IN 
+[ the/DT Avrami-Ham/NNP theory/NN ]
+,/, 
+[ which/WDT ]
+enables/VBZ drawing/VBG 
+[ theoretical/JJ conclusions/NNS ]
+in/IN 
+[ a/DT more/RBR clear-cut/JJ way/NN ]
+./. 
+
+======================================
+
+[ This/DT article/NN ]
+examines/VBZ 
+[ problems/NNS ]
+relating/VBG to/TO 
+[ the/DT calculation/NN ]
+of/IN 
+[ the/DT position/NN ]
+of/IN 
+[ regions/NNS ]
+of/IN 
+[ limited/JJ solubility/NN ]
+of/IN 
+[ components/NNS ]
+in/IN 
+[ the/DT liquid/NN state/NN ]
+for/IN 
+[ four-component/JJ systems/NNS ]
+./. 
+
+[ An/DT approach/NN ]
+based/VBN on/IN 
+[ the/DT use/NN ]
+of/IN 
+[ criterion/NN ]
+of/IN 
+[ stability/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ diffusion/NN ]
+for/IN obtaining/VBG 
+[ equations/NNS ]
+
+[ which/WDT ]
+describe/VBP 
+[ the/DT region/NN ]
+of/IN 
+[ stratification/NN ]
+of/IN 
+[ the/DT liquid/NN phase/NN ]
+in/IN 
+[ a/DT four-component/JJ system/NN ]
+is/VBZ used/VBN ./. 
+
+[ The/DT authors/NNS ]
+used/VBD 
+[ a/DT ES-1020/CD computer/NN ]
+to/TO analyze/VB 
+[ the/DT critical/JJ phenomena/NNS ]
+in/IN 
+[ Al-In-P-Sb/NN ]
+,/, 
+[ Al-Ga-In-P/NN ]
+,/, 
+[ Al-Ga-In-As/NN ]
+,/, and/CC 
+[ In-Ga-As-P/NN systems/NNS ]
+./. 
+
+[ The/DT position/NN ]
+of/IN 
+[ the/DT spinode/NN ]
+in/IN 
+[ the/DT phase/NN diagram/NN ]
+of/IN 
+[ a/DT four-component/JJ system/NN ]
+is/VBZ obtained/VBN ./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+use/VBP 
+[ methods/NNS ]
+of/IN 
+[ physicochemical/JJ analysis/NN ]
+to/TO investigate/VB 
+[ the/DT GaSb-Cd-Sn/NN cross/NN sections/NNS ]
+of/IN 
+[ the/DT phase/NN diagram/NN ]
+of/IN 
+[ the/DT quaternary/JJ Ga-Sb-Cd-Sn/NN system/NN ]
+to/TO choose/VB 
+[ the/DT conditions/NNS ]
+for/IN 
+[ liquid-phase/JJ epitaxy/NN ]
+of/IN 
+[ GaSb/NN ]
+from/IN 
+[ mixed/JJ metallic/JJ melts/NNS ]
+of/IN 
+[ Cd/NN ]
+with/IN 
+[ Sn/NN ]
+,/, making/VBG 
+[ it/PRP ]
+possible/JJ to/TO obtain/VB 
+[ GaSb/NN epitaxial/JJ layers/NNS doped/VBN ]
+concurrently/RB with/IN 
+[ group-II/NN ]
+and/CC 
+[ IV/NNP elements/NNS ]
+./. 
+
+Using/VBG 
+[ differential/JJ thermal/JJ ]
+,/, 
+[ x-ray/NN crystallographic/JJ ]
+,/, and/CC 
+[ microstructural/JJ ]
+analyses/NNS as/RB well/RB as/IN 
+[ microhardness/NN measurements/NNS ]
+,/, 
+[ the/DT authors/NNS ]
+studied/VBD 
+[ the/DT polythermal/JJ cross/NN sections/NNS ]
+of/IN 
+[ the/DT GaSb-Cd-Sn/NN system/NN ]
+./. 
+
+[ The/DT redistribution/NN ]
+of/IN 
+[ Sn/NN ]
+and/CC 
+[ Cd/NN atoms/NNS ]
+in/IN 
+[ the/DT GaSb/NN lattice/NN ]
+as/IN 
+[ the/DT temperature/NN ]
+of/IN 
+[ the/DT onset/NN ]
+of/IN 
+[ epitaxial/JJ growth/NN ]
+varies/VBZ has/VBZ 
+[ a/DT determining/VBG effect/NN ]
+on/IN 
+[ the/DT electrical/JJ ]
+,/, 
+[ optical/JJ ]
+and/CC 
+[ structural/JJ properties/NNS ]
+of/IN 
+[ the/DT epitaxial/JJ layers/NNS ]
+./. 
+
+======================================
+
+To/TO ascertain/VB 
+[ the/DT conditions/NNS ]
+of/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ neodymium/NN ]
+and/CC 
+[ samarium/NN thiogallates/NNS Ln/NN ]
+{/( sub/IN 
+[ 6/CD ]
+}/) 
+[ Ga/NN ]
+{/( sub/IN 
+[ 10/CD ]
+}/) 
+[ \//NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 14/CD ]
+}/) and/CC to/TO determine/VB 
+[ the/DT region/NN ]
+where/WRB 
+[ they/PRP ]
+exist/VBP ,/, in/IN 
+[ this/DT work/NN ]
+
+[ the/DT authors/NNS ]
+studied/VBD 
+[ the/DT interaction/NN ]
+in/IN 
+[ the/DT Nd/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ -Ga/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) ,/, 
+[ Sm/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ -Ga/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) ,/, and/CC 
+[ Sm/NN ]
+{/( sub/IN 
+[ 6/CD ]
+}/) 
+[ Ga/NN ]
+{/( sub/IN 
+[ 10/CD ]
+}/) 
+[ \//NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 14/CD ]
+}/) 
+[ -Nd/NN ]
+{/( sub/IN 
+[ 6/CD ]
+}/) 
+[ Ga/NN ]
+{/( sub/IN 
+[ 10/CD ]
+}/) 
+[ \//NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 14/CD ]
+}/) cross/JJ 
+[ sections/NNS ]
+of/IN 
+[ the/DT corresponding/JJ ternary/JJ systems/NNS ]
+./. 
+
+[ The/DT samples/NNS ]
+were/VBD prepared/VBN from/IN 
+[ dineodymium/NN ]
+,/, 
+[ disamarium/NN ]
+,/, and/CC 
+[ digallium/NN trisulfides/NNS ]
+./. 
+
+[ The/DT methods/NNS ]
+used/VBN were/VBD 
+[ differential/JJ thermal/JJ analysis/NN ]
+,/, 
+[ x-ray/NN crystallographic/JJ analysis/NN ]
+,/, and/CC 
+[ microhardness/NN measurement/NN ]
+./. 
+
+======================================
+
+Using/VBG 
+[ physicochemical-analysis/NN methods/NNS ]
+,/, 
+[ the/DT range/NN ]
+of/IN 
+[ homogeneity/NN ]
+of/IN 
+[ Sb/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) is/VBZ studied/VBN in/IN 
+[ the/DT Sb/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ -CdS/NN system/NN ]
+,/, 
+[ which/WDT ]
+extends/VBZ up/IN to/TO 
+[ 6.0/CD mole/NN %/NN CdS/NN ]
+./. 
+
+[ The/DT thermo-emf/NN ]
+and/CC 
+[ electrical/JJ conductivity/NN ]
+of/IN 
+[ samples/NNS ]
+,/, containing/VBG 
+[ 0.5/CD ]
+,/, 
+[ 1.0/CD ]
+,/, and/CC 
+[ 3.0/CD mole/NN %/NN CdS/NN ]
+,/, are/VBP measured/VBN in/IN 
+[ the/DT temperature/NN range/NN 300-700/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K./NNP Alloys/NNS ]
+with/IN 
+[ CdS/NN concentrations/NNS ]
+of/IN 
+[ 0.5/CD ]
+and/CC 
+[ 1.0/CD mole/NN %/NN ]
+are/VBP 
+[ semiconductors/NNS ]
+of/IN 
+[ the/DT p-type/NN ]
+at/IN 
+[ 300/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NNP ]
+,/, whereas/IN 
+[ the/DT alloy/NN ]
+with/IN 
+[ 3.0/CD mole/NN %/NN CdS/NN ]
+is/VBZ of/IN 
+[ the/DT n/NN type/NN ]
+./. 
+
+In/IN 
+[ solid/JJ solutions/NNS ]
+with/IN 
+[ 0.5/CD ]
+,/, 
+[ 1.0/CD ]
+,/, and/CC 
+[ 3.0/CD mole/NN %/NN CdS/NNP ]
+
+[ an/DT inversion/NN ]
+is/VBZ observed/VBN in/IN 
+[ the/DT sign/NN ]
+of/IN 
+[ the/DT conductivity/NN ]
+at/IN 
+[ 564/CD ]
+,/, 
+[ 595/CD ]
+,/, and/CC 
+[ 645/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NNP ]
+./. 
+
+[ The/DT thermal/JJ activation/NN energy/NN ]
+of/IN 
+[ electrical/JJ conductivity/NN ]
+of/IN 
+[ alloys/NNS ]
+increase/VB  from/IN 
+[ 1.24/CD ]
+to/TO 
+[ 1.30/CD eV/NNP ]
+with/IN increasing/VBG 
+[ CdS/NN content/NN ]
+up/IN to/TO 
+[ 1.0/CD mole/NN %/NN ]
+,/, but/CC for/IN 
+[ a/DT CdS/NN concentration/NN >/NN 1/CD mole/NN %/NN ]
+
+[ it/PRP ]
+decreases/VBZ to/TO 
+[ 1.18/CD eV/NN ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+investigate/VBP 
+[ the/DT ]
+doping/VBG of/IN 
+[ Cu\/NN 2-x\/NN ]
+with/IN 
+[ indium/NN ]
+./. 
+
+[ Alloys/NNS ]
+were/VBD prepared/VBN of/IN 
+[ the/DT ternary/JJ copper-indium-selenium/NN system/NN ]
+in/IN 
+[ a/DT range/NN ]
+,/, adjoining/VBG 
+[ Cu\/NN 2-x\/NN ]
+along/IN 
+[ the/DT sections/NNS Cu\/NN 1.99\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+and/CC along/IN with/IN 
+[ sections/NNS ]
+with/IN 
+[ constant/JJ indium/NN contents/NNS ]
+of/IN 
+[ 0.7/CD ]
+,/, 
+[ 1.0/CD ]
+,/, 
+[ 1.5/CD ]
+,/, 
+[ 2.0/CD ]
+,/, and/CC 
+[ 3.2/CD ]
+at/IN 
+[ %/NN ]
+./. 
+
+[ A/DT table/NN ]
+shows/VBZ 
+[ the/DT composition/NN ]
+and/CC 
+[ properties/NNS ]
+of/IN 
+[ alloys/NNS ]
+on/IN 
+[ the/DT sections/NNS Cu\/NN 1.99\/NN ]
+(/( In/IN {/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+,/, In/IN {/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) )/) ./. 
+
+[ It/PRP ]
+is/VBZ determined/VBN that/IN in/IN 
+[ the/DT Cu-In-Se/NN system/NN ]
+,/, 
+[ a/DT homogeneity/NN range/NN ]
+is/VBZ formed/VBN ,/, extending/VBG along/IN 
+[ the/DT Cu\/NN 1.99\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Se/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ section/NN ]
+up/IN to/TO 
+[ 3.2/CD ]
+at/IN 
+[ %/NN ]
+in/IN at/IN 
+[ 900/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ introduction/NN ]
+of/IN 
+[ indium/NN ]
+practically/RB does/VBZ not/RB affect/VB 
+[ the/DT thermodynamic/JJ properties/NNS ]
+during/IN 
+[ the/DT transition/NN ]
+of/IN 
+[ alloy/NN ]
+to/TO 
+[ superionic/JJ state/NN ]
+./. 
+
+======================================
+
+[ A/DT study/NN ]
+is/VBZ made/VBN of/IN 
+[ the/DT distribution/NN ]
+of/IN 
+[ the/DT basic/JJ components/NNS ]
+and/CC 
+[ carbon/NN ]
+as/RB well/RB as/IN 
+[ the/DT photoelectric/JJ characteristics/NNS ]
+of/IN 
+[ the/DT n-PbSe\/NN 0.08\/NN 0.92\/NN 0.8\/NN 0.2\/NN 0.08\/NN 0.92/CD \//NN heterostructures/NNS ]
+./. 
+
+[ The/DT existence/NN ]
+of/IN 
+[ junction/NN layers/NNS ]
+of/IN 
+[ a/DT variable/JJ composition/NN ]
+,/, 
+[ 6/CD ]
+{/( 
+[ sup/NN +/SYM ]
+}/) 
+[ m/NN ]
+in/IN 
+[ thickness/NN ]
+and/CC increased/VBN 
+[ carbon/NN content/NN ]
+in/IN 
+[ them/PRP ]
+,/, is/VBZ established/VBN ./. 
+
+[ Carbon/NN ]
+,/, dissolved/VBN in/IN 
+[ the/DT epitaxial/JJ layers/NNS ]
+,/, is/VBZ 
+[ an/DT ]
+electrically/RB 
+[ neutral/JJ impurity/NN ]
+./. 
+
+[ The/DT layer/NN ]
+of/IN 
+[ a/DT variable/JJ composition/NN ]
+,/, matched/VBN in/IN 
+[ the/DT unit-cell/NN parameter/NN ]
+,/, does/VBZ not/RB affect/VB 
+[ the/DT photoelectric/JJ properties/NNS ]
+of/IN 
+[ the/DT p-n/NN junction/NN ]
+./. 
+
+======================================
+
+[ Electron/NN transfer/NN ]
+in/IN 
+[ silver/JJ telluride/NN melt/NN ]
+was/VBD studied/VBN experimentally/RB at/IN 
+[ different/JJ temperatures/NNS ]
+./. 
+
+[ The/DT method/NN ]
+used/VBD to/TO study/VB 
+[ electron/NN transfer/NN ]
+and/CC 
+[ thermodiffusion/NN ]
+is/VBZ based/VBN on/IN 
+[ Onsager/NNP 's/POS theory/NN ]
+and/CC consists/VBZ of/IN measuring/NN 
+[ the/DT electrodiffusion/NN potential/NN ]
+
+[ which/WDT ]
+varies/VBZ as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ time/NN ]
+in/IN 
+[ the/DT system/NN ]
+formed/VBN by/IN 
+[ the/DT liquid/JJ semiconductor/NN ]
+and/CC 
+[ the/DT neutral/JJ metallic/JJ electrodes/NNS ]
+./. 
+
+[ The/DT effective/NN charges/NNS ]
+and/CC 
+[ the/DT average/JJ coefficients/NNS ]
+of/IN 
+[ diffusion/NN ]
+of/IN 
+[ silver/JJ ions/NNS ]
+were/VBD calculated/VBN and/CC 
+[ the/DT ionic/JJ component/NN ]
+of/IN 
+[ the/DT total/JJ electrical/JJ conductivity/NN ]
+of/IN 
+[ Ag/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Te/NN melt/NN ]
+was/VBD evaluated/VBN ./. 
+
+[ It/PRP ]
+was/VBD observed/VBN that/IN 
+[ the/DT indicated/VBN characteristics/NNS ]
+vary/VBP systematically/RB in/IN 
+[ the/DT series/NN ]
+of/IN 
+[ silver/JJ chalcogenides/NNS ]
+with/IN 
+[ anionic/JJ substitution/NN ]
+./. 
+
+[ The/DT negative/JJ temperature/NN coefficient/NN ]
+of/IN 
+[ electrical/JJ conductivity/NN ]
+in/IN 
+[ silver/JJ sulfide/NN ]
+and/CC 
+[ silver/JJ selenide/NN melts/NNS ]
+was/VBD explained/VBN ./. 
+
+======================================
+
+To/TO clarify/VB 
+[ the/DT characteristics/NNS ]
+of/IN 
+[ the/DT process/NN ]
+of/IN 
+[ structure/NN formation/NN ]
+of/IN 
+[ the/DT surface/JJ layers/NNS ]
+of/IN 
+[ mercury/NN telluride/NN crystals/NNS ]
+under/IN 
+[ conditions/NNS ]
+of/IN 
+[ impulsive/JJ action/NN ]
+of/IN 
+[ laser/NN radiation/NN ]
+and/CC 
+[ optimization/NN ]
+of/IN 
+[ the/DT treatment/NN regimes/NNS ]
+,/, 
+[ the/DT morphology/NN ]
+and/CC 
+[ elemental/JJ composition/NN ]
+of/IN 
+[ the/DT perturbed/JJ surface/JJ layers/NNS ]
+of/IN 
+[ HgTe/NN crystals/NNS ]
+and/CC also/RB 
+[ the/DT dynamics/NNS ]
+of/IN 
+[ heating/NN ]
+and/CC 
+[ recrystallization/NN ]
+of/IN 
+[ layers/NNS ]
+were/VBD studied/VBN as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT energy/NN density/NN ]
+of/IN 
+[ the/DT heating/NN laser/NN radiation/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD found/VBN that/IN 
+[ the/DT energy/NN densities/NNS ]
+of/IN 
+[ millisecond/NN laser/NN pulses/NNS ]
+can/MD be/VB conditionally/RB divided/VBN into/IN 
+[ three/CD intervals/NNS ]
+,/, differing/VBG by/IN 
+[ nature/NN ]
+of/IN 
+[ the/DT thermoradiant/JJ effect/NN ]
+on/IN 
+[ single-crystalline/JJ samples/NNS ]
+of/IN 
+[ mercury/NN telluride/NN ]
+and/CC 
+[ the/DT characteristic/JJ features/NNS ]
+of/IN 
+[ the/DT process/NN ]
+of/IN 
+[ structure/NN formation/NN ]
+on/IN 
+[ the/DT irradiated/JJ surface/NN ]
+of/IN 
+[ the/DT samples/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD shown/VBN that/IN 
+[ the/DT ]
+previously/RB known/VBN 
+[ LnNi/NN ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ B/NNP ]
+{/( sub/IN 
+[ 6/CD ]
+}/) and/CC {/( 
+[ similar/JJ ]
+_/: to/TO }/) 
+[ LnNi/NN ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ B/NNP ]
+{/( sub/IN 
+[ 7/CD ]
+}/) (/( 
+[ Ln/NN =/CC Y/NNP ]
+,/, 
+[ La/NN ]
+,/, 
+[ Pr/NN ]
+,/, 
+[ Nd/NN ]
+,/, 
+[ Sm/NN ]
+,/, 
+[ Gd/NN ]
+)/) and/CC 
+[ the/DT first/JJ prepared/JJ borides/NNS ]
+of/IN 
+[ LnNi/NN ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ B/NNP ]
+{/( sub/IN 
+[ 6/CD ]
+}/) (/( 
+[ Ln/NN =/SYM Tb/NN ]
+,/, 
+[ Dy/NN ]
+)/) have/VBP 
+[ an/DT orthorhombic/JJ structure/NN ]
+of/IN 
+[ the/DT type/NN CeNi/NN ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ B/NNP ]
+{/( sub/IN 
+[ 6/CD ]
+}/) ./. 
+
+[ The/DT unit-cell/NN parameters/NNS ]
+were/VBD determined/VBN for/IN 
+[ all/PDT the/DT compounds/NNS ]
+./. 
+
+[ The/DT uniform/JJ change/NN ]
+in/IN 
+[ parameters/NNS ]
+indicates/VBZ 
+[ a/DT trivalent/JJ rare-earth/JJ state/NN ]
+./. 
+
+======================================
+
+[ A/DT neutron/NN diffraction/NN study/NN ]
+of/IN 
+[ disordered/JJ niobium/NN carbide/NN ]
+was/VBD performed/VBN ./. 
+
+[ Concentration/NN dependences/NNS ]
+were/VBD determined/VBN for/IN 
+[ the/DT mean/JJ square/JJ ]
+dynamic/NN and/CC 
+[ static/JJ displacements/NNS ]
+of/IN 
+[ atoms/NNS ]
+in/IN 
+[ niobium/NN carbide/NN ]
+./. 
+
+[ Analyses/NNS ]
+of/IN 
+[ the/DT concentration/NN dependence/NN ]
+of/IN 
+[ static/JJ atom/NN displacements/NNS ]
+indicated/VBD that/IN localized/JJ 
+[ bonds/NNS ]
+in/IN 
+[ niobium/NN carbide/NN ]
+predominate/VBP over/IN 
+[ long/JJ range/JJ  metallic/JJ interactions/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT present/JJ work/NN ]
+practically/RB 
+[ the/DT whole/JJ range/NN ]
+of/IN 
+[ the/DT carbonitride/NN compositions/NNS ]
+obtained/VBN from/IN 
+[ the/DT gaseous/JJ mixture/NN ]
+consisting/VBG of/IN 
+[ ZrCl/NN ]
+{/( sub/IN 
+[ 4/CD ]
+}/) ,/, 
+[ CH/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) ,/, 
+[ H/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ,/, 
+[ N/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ,/, and/CC 
+[ Ar/NN ]
+was/VBD analyzed/VBN by/IN 
+[ the/DT x-ray-diffraction/NN ]
+and/CC 
+[ mass-spectrometric/JJ methods/NNS ]
+./. 
+
+[ The/DT aim/NN ]
+of/IN 
+[ the/DT investigation/NN ]
+was/VBD primarily/RB to/TO determine/VB 
+[ the/DT relationship/NN ]
+of/IN 
+[ the/DT unit/NN cell/NN parameter/NN ]
+of/IN 
+[ the/DT carbonitrides/NNS ]
+to/TO 
+[ the/DT ratio/NN ]
+of/IN 
+[ carbon/NN ]
+,/, 
+[ nitrogen/NN ]
+,/, 
+[ hydrogen/NN ]
+,/, and/CC 
+[ chlorine/NN ]
+and/CC secondly/RB 
+[ the/DT determination/NN ]
+of/IN 
+[ the/DT temperature/NN relationship/NN ]
+of/IN 
+[ the/DT unit/NN cell/NN parameter/NN ]
+of/IN 
+[ the/DT pyrolytic/JJ zirconium/NN nitride/NN ]
+./. 
+
+======================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ high/JJ pressure/NN ]
+(/( 
+[ 4.0-9.0/CD GPa/NN ]
+)/) and/CC 
+[ temperature/NN ]
+(/( 
+[ 1200-1800/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NN ]
+)/) was/VBD studied/VBN on/IN 
+[ the/DT structure/NN ]
+and/CC 
+[ properties/NNS ]
+of/IN 
+[ niobium/NN oxycarbide/NN NbC\/NN x\/NN y/NN \//NN ]
+(/( 
+[ x/NN =/SYM 0.40-0.65/CD ]
+;/: 
+[ y/NN =/SYM 0.17-0.38/CD ]
+)/) ./. 
+
+[ It/PRP ]
+was/VBD confirmed/VBN that/IN 
+[ the/DT increase/NN ]
+of/IN 
+[ unit-cell/NN parameter/NN ]
+and/CC 
+[ density/NN ]
+in/IN 
+[ part/NN ]
+of/IN 
+[ the/DT preparations/NNS ]
+is/VBZ associated/VBN with/IN 
+[ a/DT filling/NN ]
+of/IN 
+[ structural/JJ vacancies/NNS ]
+in/IN 
+[ the/DT NbC\/NN x\/NN y/NN \//NN lattice/NN ]
+./. 
+
+Under/IN 
+[ the/DT above/JJ conditions/NNS ]
+,/, 
+[ an/DT increase/NN ]
+was/VBD not/RB observed/VBN in/IN 
+[ the/DT homogeneity/NN region/NN ]
+of/IN 
+[ cubic/JJ ]
+(/( NaCl-type/JJ )/) 
+[ niobium/NN oxycarbide/NN ]
+./. 
+
+======================================
+
+[ The/DT method/NN ]
+of/IN 
+[ x-ray/NN crystallographic/JJ analysis/NN ]
+was/VBD used/VBN to/TO study/VB 
+[ the/DT interaction/NN ]
+of/IN 
+[ the/DT components/NNS ]
+in/IN 
+[ the/DT systems/NNS Zr-Cr-P/NN ]
+and/CC 
+[ Zr-Mn-P/NN ]
+,/, and/CC 
+[ isothermal/JJ cross/NN sections/NNS ]
+of/IN 
+[ the/DT phase/NN ]
+diagrams/NNS at/IN 
+[ 1070/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NN ]
+were/VBD constructed/VBN ./. 
+
+[ New/JJ phosphides/NNS ZrCrP/NN ]
+,/, 
+[ ZrMnP/NN ]
+,/, and/CC 
+[ Zr/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Mn/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ $/$ P/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) were/VBD detected/VBN ,/, and/CC 
+[ their/PRP$ crystal/NN structure/NN ]
+was/VBD determined/VBN ./. 
+
+[ An/DT analysis/NN ]
+of/IN 
+[ the/DT interaction/NN ]
+of/IN 
+[ the/DT components/NNS ]
+in/IN 
+[ the/DT systems/NNS Zr/NN ]
+-/: (/( 
+[ Cr/NN ]
+,/, 
+[ Mn/NN ]
+,/, 
+[ Fe/NN ]
+,/, 
+[ Co/NN ]
+,/, 
+[ Ni/NN ]
+)/) 
+[ -P/NN ]
+was/VBD performed/VBN ./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+investigate/VBP 
+[ the/DT physical/JJ properties/NNS ]
+of/IN 
+[ alkali/NNS metal/NN hydroxides/NNS ]
+pertaining/VBG to/TO 
+[ mass/NN ]
+and/CC 
+[ charge/NN transfer/NN ]
+./. 
+
+[ The/DT experimental/JJ results/NNS ]
+on/IN 
+[ the/DT self-diffusion/NN ]
+of/IN 
+[ hydrogen/NN ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ electrons/NNS ]
+transferred/VBN ,/, and/CC 
+[ thermo-emf/NN ]
+in/IN 
+[ solid/JJ KOH/NNP ]
+and/CC 
+[ NaOH/NN ]
+are/VBP presented/VBN ./. 
+
+[ The/DT isotope/NN exchange/NN method/NN ]
+was/VBD used/VBN to/TO determine/VB 
+[ the/DT hydrogen/NN diffusion/NN coefficient/NN ]
+in/IN 
+[ solid/JJ potassium/NN hydroxide/NN ]
+at/IN 
+[ 260-380/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NN ]
+./. 
+
+[ The/DT numbers/NNS ]
+of/IN 
+[ electrons/NNS ]
+transferred/VBN were/VBD found/VBN 
+[ using/VBG ion/NN ]
+blocking/NN 
+[ electrodes/NNS ]
+at/IN 
+[ constant/JJ current/NN ]
+following/VBG 
+[ the/DT technique/NN ]
+of/IN 
+[ Baikov/NNP ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+reviews/VBZ 
+[ data/NNS ]
+on/IN 
+[ the/DT electrical/JJ conductivity/NN ]
+of/IN 
+[ solid/JJ alkali/NNS  metal/NN hydroxides/NNS ]
+./. 
+
+[ Ionic/JJ conductivity/NN ]
+is/VBZ also/RB addressed/VBN ./. 
+
+[ A/DT comparison/NN ]
+is/VBZ shown/VBN of/IN 
+[ diffusion/NN coefficients/NNS ]
+recast/VB into/IN 
+[ electrical/JJ conductivities/NNS ]
+and/CC 
+[ true/JJ electrical/JJ conductivities/NNS ]
+of/IN 
+[ alkali/NNS metal/NN hydroxides/NNS ]
+./. 
+
+[ The/DT temperature/NN dependence/NN ]
+of/IN 
+[ electrical/JJ conductivity/NN ]
+is/VBZ shown/VBN ./. 
+
+[ The/DT model/NN ]
+is/VBZ suggested/VBN to/TO describe/VB 
+[ the/DT conduction/NN mechanism/NN ]
+of/IN 
+[ LiOH/NN ]
+and/CC 
+[ the/DT alpha-phases/NN ]
+of/IN 
+[ KOH/NNP ]
+and/CC 
+[ NaOH/NN ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+presents/VBZ 
+[ the/DT results/NNS ]
+of/IN 
+[ studies/NNS ]
+,/, performed/VBN by/IN 
+[ methods/NNS ]
+of/IN 
+[ x-ray/NN ]
+electronic/JJ and/CC 
+[ x-ray/NN emission/NN spectroscopy/NN ]
+,/, of/IN 
+[ the/DT composition/NN ]
+and/CC 
+[ structure/NN ]
+of/IN 
+[ thin/JJ films/NNS ]
+,/, obtained/VBN by/IN 
+[ electron-beam/NN evaporation/NN ]
+of/IN 
+[ oxide/NN composites/NNS ]
+based/VBN on/IN 
+[ TiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ,/, containing/VBG 
+[ aluminum/NN ]
+,/, 
+[ zirconium/NN ]
+,/, and/CC 
+[ niobium/NN oxides/NNS ]
+./. 
+
+Binding/NN 
+[ energy/NN ]
+of/IN 
+[ the/DT inner/JJ levels/NNS ]
+of/IN 
+[ the/DT atoms/NNS ]
+of/IN 
+[ the/DT components/NNS ]
+,/, 
+[ the/DT spectral/JJ linewidths/NNS ]
+,/, and/CC 
+[ the/DT composition/NN ]
+of/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ thin/JJ films/NNS ]
+for/IN 
+[ targets/NNS ]
+with/IN 
+[ the/DT composition/NN ]
+given/VBN are/VBP shown/VBN ./. 
+
+======================================
+
+[ An/DT analysis/NN ]
+of/IN 
+[ the/DT phase/NN formation/NN ]
+is/VBZ carried/VBN out/RP in/IN 
+[ the/DT systems/NNS Mo/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ -Ln/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) (/( 
+[ M/NNP =/CC Ti/NN ]
+,/, 
+[ Zr/NN ]
+,/, 
+[ Hf/NN ]
+;/: 
+[ Ln/NN =/SYM r.e.e/NN ]
+./. 
+
+)/) ./. 
+
+[ Systematic/JJ relationships/NNS ]
+are/VBP noticed/VBN to/TO exist/VB in/IN 
+[ the/DT phase/NN diagrams/NNS ]
+of/IN 
+[ the/DT TiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ -Ln/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ systems/NNS ]
+and/CC 
+[ their/PRP$ classification/NN ]
+is/VBZ made/VBN ./. 
+
+[ It/PRP ]
+is/VBZ established/VBN that/IN 
+[ the/DT titanate/JJ systems/NNS ]
+fall/VBP into/IN 
+[ four/CD classes/NNS ]
+,/, corresponding/VBG to/TO 
+[ the/DT division/NN ]
+of/IN 
+[ the/DT majority/NN ]
+of/IN 
+[ a/DT series/NN ]
+of/IN 
+[ r.e.e./NN compounds/NNS ]
+into/IN 
+[ four/CD subgroups/NNS ]
+./. 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ hafnate/NN ]
+and/CC 
+[ zirconate/NN systems/NNS ]
+reflect/VBP 
+[ the/DT features/NNS ]
+of/IN 
+[ the/DT r.e.e./NN series/NN ]
+to/TO 
+[ a/DT ]
+considerably/RB 
+[ smaller/JJR extent/NN ]
+./. 
+
+[ The/DT principal/JJ causes/NNS ]
+for/IN 
+[ this/DT detected/JJ difference/NN ]
+are/VBP 
+[ the/DT different/JJ formation/NN mechanisms/NNS ]
+and/CC 
+[ phases/NNS ]
+in/IN 
+[ the/DT systems/NNS ]
+considered/VBN ./. 
+
+======================================
+
+[ The/DT authors/NNS study/VBP ]
+how/WRB 
+[ the/DT thermodynamic/JJ conditions/NNS ]
+of/IN 
+[ the/DT growth/NN ]
+of/IN 
+[ MgAl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) 
+[ -Cr/NN ]
+{/( 
+[ sup/NN 3/CD +/SYM ]
+}/) 
+[ crystals/NNS ]
+affect/VBP 
+[ their/PRP$ spectroscopic/JJ environment/NN ]
+of/IN 
+[ the/DT Cr/NN ]
+{/( 
+[ sup/NN 3/CD +/NN ]
+}/) 
+[ ions/NNS ]
+./. 
+
+[ The/DT absorption/NN spectra/NNS ]
+of/IN 
+[ MgAl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) 
+[ -Cr/NN ]
+{/( 
+[ sup/NN 3/CD +/SYM ]
+}/) 
+[ single/JJ crystals/NNS ]
+grown/VBN at/IN 
+[ various/JJ speeds/NNS ]
+is/VBZ shown/VBN ./. 
+
+[ Photoluminescence/NN excitation/NN spectra/NNS ]
+of/IN 
+[ MgAl/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) 
+[ -Cr/NN ]
+{/( 
+[ sup/NN 3/CD +/SYM ]
+}/) 
+[ crystals/NNS ]
+measured/VBN on/IN 
+[ the/DT 686-nm/JJ luminescence/NN line/NN ]
+is/VBZ also/RB presented/VBN ./. 
+
+[ Thermoluminescence/NN curves/NNS ]
+of/IN 
+[ the/DT crystals/NNS ]
+irradiated/VBN with/IN 
+[ UV/NNP light/NN ]
+and/CC 
+[ x-ray/NN quanta/NN ]
+are/VBP given/VBN ./. 
+
+[ The/DT thermoluminescence/NN curves/NNS ]
+support/VBP 
+[ the/DT existence/NN ]
+of/IN spatially/RB bound/JJ 
+[ Cr/NNP ]
+{/( 
+[ sup/NN 3/CD +/SYM ]
+}/) 
+[ -defect/NN pairs/NNS ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+determine/VBP 
+[ the/DT kinetics/NNS ]
+and/CC 
+[ the/DT mechanism/NN ]
+of/IN 
+[ formation/NN ]
+of/IN 
+[ lead/NN titanate/NN ]
+from/IN 
+[ the/DT oxides/NNS ]
+in/IN 
+[ a/DT melt/NN ]
+of/IN 
+[ the/DT equimolecular/JJ mixture/NN ]
+of/IN 
+[ sodium/NN ]
+and/CC 
+[ potassium/NN chlorides/NNS ]
+./. 
+
+[ Tests/NNS ]
+were/VBD performed/VBN with/IN 
+[ capacitor-grade/JJ TiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) with/IN 
+[ a/DT rutile/NN structure/NN ]
+,/, and/CC 
+[ pure-grade/JJ PbO/NNP ]
+,/, 
+[ NaCl/NN ]
+,/, and/CC 
+[ KCl/NN ]
+./. 
+
+[ The/DT properties/NNS ]
+of/IN 
+[ ceramic/JJ samples/NNS ]
+of/IN 
+[ lead/NN titanate/NN ]
+and/CC of/IN 
+[ the/DT solid/JJ solution/NN ]
+based/VBN on/IN 
+[ it/PRP ]
+,/, prepared/VBN by/IN 
+[ the/DT solid-phase/JJ method/NN ]
+and/CC in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ molten/JJ sodium/NN ]
+and/CC 
+[ potassium/NN chlorides/NNS ]
+are/VBP presented/VBN ./. 
+
+[ The/DT interaction/NN ]
+between/IN 
+[ the/DT oxides/NNS ]
+of/IN 
+[ lead/NN ]
+and/CC 
+[ titanium/NN ]
+in/IN 
+[ molten/JJ sodium/NN ]
+and/CC 
+[ potassium/NN chlorides/NNS ]
+takes/VBZ 
+[ place/NN ]
+in/IN 
+[ the/DT diffusion/NN regime/NN ]
+./. 
+
+[ The/DT kinetics/NNS ]
+of/IN 
+[ the/DT reaction/NN ]
+are/VBP described/VBN by/IN 
+[ Jander/NNP 's/POS equation/NN ]
+./. 
+
+======================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ an/DT impurity/NN ]
+of/IN 
+[ the/DT acceptor/NN type/NN ]
+on/IN 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT defects/NNS ]
+and/CC 
+[ conductivity/NN ]
+in/IN 
+[ Ca/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) (/( 
+[ VO/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) )/) {/( sub/IN 
+[ 2/CD ]
+}/) is/VBZ studied/VBN as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT temperature/NN ]
+and/CC 
+[ the/DT partial/JJ pressure/NN ]
+of/IN 
+[ oxygen/NN ]
+./. 
+
+In/IN 
+[ this/DT study/NN ]
+,/, 
+[ Ca/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) (/( 
+[ VO/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) )/) {/( sub/IN 
+[ 2/CD ]
+}/) was/VBD 
+[ doped/VBN ]
+with/IN 
+[ sodium/NN ions/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN when/WRB 
+[ sodium/NN ions/NNS ]
+are/VBP introduced/VBN into/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ Ca/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) (/( 
+[ VO/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) )/) {/( sub/IN 
+[ 2/CD ]
+}/) charged/VBN 
+[ centers/NNS ]
+of/IN 
+[ substitution/NN ]
+of/IN 
+[ Ca/NN ]
+by/IN 
+[ Na/NN ]
+are/VBP formed/VBN ./. 
+
+[ The/DT electrolytic/JJ region/NN ]
+is/VBZ observed/VBN in/IN 
+[ a/DT wide/JJ range/NN ]
+of/IN 
+[ oxygen/NN pressure/NN ]
+./. 
+
+======================================
+
+[ Changes/NNS ]
+in/IN 
+[ enthalpy/NN ]
+and/CC 
+[ entropy/NN ]
+are/VBP determined/VBN during/IN 
+[ the/DT melting/NN ]
+of/IN 
+[ vanadium/NN oxide/NN bronzes/NNS ]
+of/IN 
+[ the/DT ]
+{/( 
+[ beta/NN ]
+}/) 
+[ M\/NN x\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) 
+[ type/NN ]
+./. 
+
+[ The/DT obtained/VBN data/NNS ]
+are/VBP considered/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT structural/JJ features/NNS ]
+of/IN 
+[ the/DT phases/NNS ]
+./. 
+
+For/IN 
+[ Ag\/NN 0.33\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) 
+[ a/DT phase/NN transformation/NN ]
+is/VBZ found/VBN at/IN 
+[ 803/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NNP ]
+with/IN {/( 
+[ Delta/NN ]
+}/) 
+[ 0\/sub/CD p.t/NN \//NN =/SYM ]
+(/( 
+[ 1.2/CD +/SYM \/-0.1/CD ]
+)/) 
+[ kJ\/NN ]
+and/CC {/( 
+[ Delta/NN ]
+}/) 
+[ 0\/sub/CD p.t/NN \//NN =/SYM ]
+(/( 
+[ 1.5/CD +/SYM \/-0.1/CD ]
+)/) 
+[ J/NN \//NN ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NNP mole/NN ]
+,/, and/CC 
+[ high-temperature/JJ x-ray-diffraction/NN investigations/NNS ]
+are/VBP conducted/VBN ./. 
+
+[ The/DT measured/VBN enthalpies/NNS ]
+during/IN 
+[ the/DT oxidation/NN ]
+melting/NN of/IN 
+[ Na\/NN 0.33\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) and/CC 
+[ Ag\/NN 0.33\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) in/IN 
+[ air/NN ]
+are/VBP equal/JJ to/TO (/( 
+[ 61/CD +/SYM \/-5/CD ]
+)/) and/CC (/( 
+[ 59/CD +/SYM \/-5/CD ]
+)/) 
+[ kJ\/NN ]
+respectively/RB ./. 
+
+======================================
+
+[ This/DT paper/NN ]
+investigates/VBZ 
+[ the/DT temperature/NN dependence/NN ]
+of/IN 
+[ the/DT bulk/JJ electrical/JJ conductivity/NN ]
+and/CC 
+[ the/DT IR/NNP spectra/NNS ]
+of/IN 
+[ polyvanadates/NNS ]
+with/IN 
+[ the/DT general/JJ formula/NN M\/NN I/PRP ]
+\//VB {/( sub/IN 
+[ 2/CD ]
+}/) -/CC (/( 
+[ M\/NN II\/V/NNP ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ O\/NN 30.7\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NN ]
+./. 
+
+[ The/DT polyvanadates/NNS ]
+were/VBD obtained/VBN by/IN melting/VBG 
+[ high/JJ purity/NN vanadium/NN oxide/NN ]
+in/IN 
+[ a/DT solution/NN ]
+of/IN 
+[ hydrogen/NN peroxide/NN ]
+containing/VBG 
+[ a/DT stoichiometric/JJ quantity/NN ]
+of/IN 
+[ relevant/JJ metavanadium/NN ]
+./. 
+
+[ The/DT IR/NNP spectra/NNS ]
+were/VBD recorded/VBN ./. 
+
+[ The/DT conductivity/NN ]
+of/IN 
+[ the/DT polyvanadium/NN ]
+./. 
+
+[ The/DT IR/NNP spectra/NNS ]
+were/VBD recorded/VBN ./. 
+
+[ The/DT conductivity/NN ]
+of/IN 
+[ the/DT polyvanadates/NNS ]
+studied/VBN is/VBZ associated/VBN with/IN 
+[ two/CD Arrhenius/NNP sections/NNS ]
+with/IN 
+[ the/DT given/VBN activation/NN energies/NNS ]
+./. 
+
+Heating/NN 
+[ the/DT polyvanadates/NNS ]
+to/TO 
+[ 423/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NN ]
+
+produces/VBZ 
+[ a/DT shift/NN ]
+in/IN 
+[ the/DT IR/NNP spectrum/NN ]
+associated/VBN with/IN 
+[ valence/NN vibrations/NNS ]
+of/IN 
+[ the/DT V-O/NNP bonds/NNS ]
+to/TO 
+[ lower/JJR frequencies/NNS ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+investigates/VBZ 
+[ the/DT electrical/JJ conductivity/NN ]
+of/IN 
+[ the/DT xerogel/JJ polyvanadatomolybdic/JJ acid/NN ]
+(/( 
+[ PVMA/NNP ]
+)/) ,/, 
+[ which/WDT ]
+is/VBZ in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ a/DT solid/JJ solution/NN ]
+with/IN 
+[ vanadium/NN ]
+substituted/VBN by/IN 
+[ molybdenum/NN ]
+in/IN 
+[ polyvanadic/JJ acid/NN H/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ V/NN ]
+{/( sub/IN 
+[ 12/CD ]
+}/) 
+[ O\/NN 31-y\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O./NNP PVMA/NNP ]
+was/VBD obtained/VBN by/IN dissolving/VBG 
+[ a/DT stoichiometric/JJ quantity/NN ]
+of/IN 
+[ CP/NNP vanadium/NN oxide/NN ]
+and/CC 
+[ molybdic/JJ acid/NN ]
+in/IN 
+[ hydrogen/NN peroxide/NN ]
+./. 
+
+[ The/DT IR/NNP spectra/NNS ]
+were/VBD obtained/VBN ./. 
+
+[ The/DT chemical/NN formulas/NNS ]
+,/, 
+[ frequencies/NNS ]
+of/IN 
+[ the/DT main/JJ IR/NNP absorption/NN bands/NNS ]
+,/, and/CC 
+[ interlayer/JJ distances/NNS ]
+of/IN 
+[ the/DT xerogels/NNS ]
+are/VBP presented/VBN ./. 
+
+[ Substitution/NN ]
+of/IN 
+[ vanadium/NN ]
+by/IN 
+[ molybdenum/NN ]
+in/IN 
+[ the/DT polyvanadic/JJ acid/NN ]
+examined/VBN 
+[ lowers/NNS ]
+
+[ the/DT conductivity/NN ]
+and/CC decreases/VBZ 
+[ the/DT interlayer/JJ distance/NN ]
+in/IN 
+[ the/DT xerogel/NN structure/NN ]
+./. 
+
+======================================
+
+[ Quartz/NN ceramic/NN ]
+(/( 
+[ Kersil/NNP ]
+)/) can/MD make/VB 
+[ it/PRP ]
+possible/JJ to/TO increase/VB 
+[ the/DT efficiency/NN ]
+of/IN 
+[ lasers/NNS ]
+by/IN introducing/VBG 
+[ an/DT activator/NN ]
+into/IN 
+[ the/DT reflector/NN material/NN ]
+
+[ which/WDT ]
+transforms/VBZ 
+[ the/DT ultraviolet/JJ radiation/NN ]
+of/IN 
+[ the/DT pump/NN source/NN ]
+into/IN 
+[ luminescence/NN radiation/NN ]
+./. 
+
+[ The/DT authors/NNS ]
+synthesized/VBN and/CC investigated/VBN 
+[ samples/NNS ]
+of/IN 
+[ Kersil/NNP ]
+,/, activated/VBN by/IN 
+[ oxides/NNS ]
+of/IN 
+[ rare/JJ earth/NN elements/NNS ]
+(/( 
+[ Eu/NN ]
+,/, 
+[ Ce/NN ]
+,/, 
+[ Sm/NN ]
+)/) ,/, as/RB well/RB as/IN simultaneously/RB with/IN 
+[ Eu/NN ]
+and/CC 
+[ Mn/NN ]
+in/IN 
+[ order/NN ]
+to/TO increase/VB 
+[ the/DT light/JJ yield/NN ]
+of/IN 
+[ luminescence/NN ]
+in/IN 
+[ the/DT wavelength/NN range/NN 560-600/CD nm/NN ]
+./. 
+
+[ The/DT spectral-luminescence/NN properties/NNS ]
+of/IN 
+[ Kersil/NNP ]
+can/MD vary/VB over/IN 
+[ a/DT wide/JJ range/NN ]
+owing/JJ to/TO 
+[ the/DT purity/NN ]
+of/IN 
+[ the/DT Kersil/NNP ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+study/VBP 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT electret/NN state/NN ]
+in/IN 
+[ inorganic/JJ composite/JJ materials/NNS ]
+,/, obtain/VBP 
+[ new/JJ ]
+and/CC 
+[ efficient/JJ electrets/NNS ]
+,/, and/CC develop/VBP 
+[ a/DT model/NN ]
+of/IN 
+[ the/DT electret/NN effect/NN ]
+in/IN 
+[ glass-ceramics/NNS ]
+./. 
+
+[ Composite/JJ materials/NNS ]
+of/IN 
+[ lead/NN zirconate/NN titanate/NN ]
+were/VBD studied/VBN along/IN with/IN 
+[ lead-containing/JJ glasses/NNS ]
+./. 
+
+[ The/DT parameters/NNS ]
+of/IN 
+[ the/DT electrets/NNS ]
+obtained/VBN are/VBP presented/VBN ./. 
+
+[ The/DT electrophysical/JJ parameters/NNS ]
+of/IN 
+[ composite/JJ materials/NNS ]
+are/VBP shown/VBN including/VBG 
+[ the/DT dielectric/JJ constant/NN ]
+measured/VBN at/IN 
+[ 290/CD K/NN ]
+and/CC calculated/VBN 
+[ using/VBG Maxwell/NNP 's/POS formula/NN ]
+,/, 
+[ the/DT relaxation/NN times/NNS ]
+of/IN 
+[ the/DT electret/NN state/NN ]
+,/, and/CC 
+[ activation/NN energies/NNS ]
+of/IN thermally/RB stimulated/VBN 
+[ depolarization/NN ]
+of/IN 
+[ homoand/NN heterocharge/NN ]
+./. 
+
+[ Effective/JJ electret/NN composite/NN materials/NNS ]
+consisting/VBG of/IN 
+[ a/DT solid/JJ solution/NN ]
+of/IN 
+[ lead/NN zirconate/NN titanate/NN ]
+and/CC 
+[ bismuth-lead-titanium-silicate/NN glass/NN ]
+,/, 
+[ whose/WP$ charge/NN density/NN ]
+exceeds/VBZ that/IN of/IN currently/RB used/VBN 
+[ organic/JJ electrets/NNS ]
+,/, are/VBP developed/VBN ./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+establish/VBP that/IN under/IN 
+[ neutron/NN irradiation/NN ]
+in/IN 
+[ a/DT nuclear/JJ reactor/NN radioactive/JJ elements/NNS ]
+are/VBP chemisorbed/VBN from/IN 
+[ the/DT water/NN ]
+of/IN 
+[ the/DT experimental/JJ channel/NN ]
+by/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ single-crystalline/JJ silicon/NN samples/NNS ]
+./. 
+
+[ The/DT impurity/NN composition/NN ]
+and/CC 
+[ the/DT magnitude/NN ]
+of/IN 
+[ the/DT surface/NN contamination/NN ]
+of/IN 
+[ the/DT irradiated/VBN silicon/NN samples/NNS ]
+were/VBD studied/VBN by/IN 
+[ the/DT method/NN ]
+of/IN 
+[ activation/NN analysis/NN ]
+./. 
+
+[ Appreciable/JJ quantities/NNS ]
+of/IN 
+[ radioactive/JJ isotopes/NNS ]
+{/( sup/NN 
+[ 24/CD ]
+}/) 
+[ Na/NN ]
+,/, {/( sup/NN 
+[ 51/CD ]
+}/) 
+[ Cr/NN ]
+,/, {/( sup/NN 
+[ 54/CD ]
+}/) 
+[ Mn/NN ]
+,/, {/( sup/NN 
+[ 59/CD ]
+}/) 
+[ Fe/NN ]
+,/, {/( sup/NN 
+[ 60/CD ]
+}/) 
+[ Co/NN ]
+,/, {/( sup/NN 
+[ 65/CD ]
+}/) 
+[ Zn/NN ]
+,/, {/( sup/NN 
+[ 95/CD ]
+}/) 
+[ Zr/NN ]
+,/, {/( sup/NN 
+[ 122/CD ]
+}/) 
+[ Sb/NN ]
+,/, {/( sup/NN 
+[ 140/CD ]
+}/) 
+[ La/NN ]
+,/, {/( sup/NN 
+[ 198/CD ]
+}/) 
+[ Au/NN ]
+and/CC 
+[ others/NNS ]
+were/VBD found/VBN in/IN 
+[ preliminary/JJ experiments/NNS ]
+in/IN 
+[ the/DT water/NN channel/NN ]
+,/, and/CC also/RB on/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT irradiated/VBN silicon/NN samples/NNS ]
+./. 
+
+[ The/DT activity/NN ]
+of/IN 
+[ the/DT adsorbed/JJ radioactive/JJ elements/NNS ]
+for/IN 
+[ different/JJ methods/NNS ]
+of/IN 
+[ deactivation/NN ]
+is/VBZ shown/VBN ./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN 
+[ radioactive/JJ elements/NNS ]
+are/VBP desorbed/VBN effectively/RB from/IN 
+[ the/DT surface/NN ]
+of/IN 
+[ the/DT silicon/NN samples/NNS ]
+when/WRB 
+[ they/PRP ]
+are/VBP washed/VBN in/IN 
+[ an/DT acid-peroxide/JJ solution/NN ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+examines/VBZ 
+[ the/DT relationship/NN ]
+of/IN 
+[ positional/JJ ordering/NN ]
+with/IN 
+[ the/DT conditions/NNS ]
+of/IN 
+[ heat/NN treatment/NN ]
+of/IN 
+[ ZnSnP/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ crystals/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN 
+[ the/DT conditions/NNS ]
+of/IN 
+[ heat/NN treatment/NN ]
+and/CC 
+[ preparation/NN ]
+enable/VBP controlling/NN 
+[ the/DT spectral/JJ composition/NN ]
+of/IN 
+[ the/DT recombination/NN radiation/NN band/NN ]
+of/IN 
+[ ZnSnP/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ./. 
+
+[ It/PRP ]
+was/VBD established/VBN that/IN 
+[ some/DT ]
+of/IN 
+[ the/DT changes/NNS ]
+in/IN 
+[ the/DT properties/NNS ]
+of/IN 
+[ the/DT recombination/NN radiation/NN band/NN ]
+are/VBP linked/VBN with/IN 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT ordering/NN ]
+of/IN 
+[ Zn/NN ]
+and/CC 
+[ Sn/NN atoms/NNS ]
+and/CC must/MD be/VB taken/VBN into/IN 
+[ account/NN ]
+in/IN 
+[ the/DT fabrication/NN ]
+of/IN 
+[ devices/NNS ]
+based/VBN on/IN 
+[ ZnSnP/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) as/IN 
+[ one/CD ]
+of/IN 
+[ the/DT significant/JJ channels/NNS ]
+for/IN controlling/NN 
+[ the/DT radiative/JJ properties/NNS ]
+of/IN 
+[ this/DT semiconductor/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ this/DT paper/NN ]
+,/, 
+[ the/DT solid/JJ solutions/NNS Co\/NN 1-x\/NN x\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ S/NNP ]
+{/( sub/IN 
+[ 4/CD ]
+}/) were/VBD synthesized/VBN and/CC 
+[ the/DT valence/NN distribution/NN ]
+and/CC 
+[ magnitude/NN ]
+of/IN 
+[ the/DT magnetic/JJ moments/NNS ]
+of/IN 
+[ the/DT cations/NNS ]
+in/IN 
+[ them/PRP ]
+were/VBD determined/VBN with/IN 
+[ the/DT help/NN ]
+of/IN 
+[ the/DT method/NN ]
+of/IN 
+[ neutron/NN diffraction/NN ]
+./. 
+
+[ The/DT experimental/JJ ]
+and/CC computed/VBN 
+[ values/NNS ]
+of/IN 
+[ the/DT diffraction/NN spot/NN intensities/NNS ]
+for/IN 
+[ Co\/NN 1-x/NN \//NN  ]
+{/( sup/NN 
+[ 2/CD +/SYM ]
+}/) 
+[ Fe\/NN x/SYM \//NN ]
+{/( sup/NN 
+[ 2/CD +/SYM ]
+}/) [/( 
+[ Cr2/NN ]
+{/( sup/NN 
+[ 3/CD +/SYM ]
+}/) ]/) 
+[ S4/NN ]
+{/( sup/NN 
+[ 2/CD ]
+-/: }/) at/IN 
+[ 78/CD K/NNP ]
+are/VBP presented/VBN ./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT increase/NN ]
+in/IN 
+[ the/DT magnetic/JJ moments/NNS ]
+found/VBN for/IN 
+[ Co/NN ]
+{/( 
+[ sup/NN 2/CD +/SYM ]
+}/) and/CC 
+[ Fe/NN ]
+{/( sup/NN 
+[ 2/CD +/SYM ]
+}/) is/VBZ attributable/JJ to/TO 
+[ the/DT spin-orbital/NN contribution/NN ]
+./. 
+
+======================================
+
+[ Thermodynamic/JJ calculations/NNS ]
+are/VBP performed/VBN for/IN 
+[ a/DT preliminary/JJ evaluation/NN ]
+of/IN 
+[ the/DT possibility/NN ]
+of/IN 
+[ chemical/JJ reaction/NN ]
+of/IN 
+[ HgTe/NN ]
+and/CC 
+[ PbTe/NN ]
+with/IN 
+[ some/DT metals/NNS ]
+./. 
+
+[ The/DT values/NNS ]
+of/IN 
+[ the/DT standard/JJ Gibbs/NNP free/JJ energy/NN ]
+for/IN 
+[ exchange/NN reactions/NNS ]
+were/VBD calculated/VBN ./. 
+
+Using/VBG 
+[ a/DT microcalorimeter/NN ]
+,/, 
+[ the/DT authors/NNS ]
+investigate/VBP 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT reaction/NN ]
+of/IN 
+[ HgTe/NN ]
+with/IN 
+[ Ga/NN ]
+,/, In/IN ,/, 
+[ Pb/NN ]
+,/, 
+[ Sn/NN ]
+,/, 
+[ Cu/NN ]
+,/, 
+[ Ag/NN ]
+,/, 
+[ Sb/NN ]
+,/, and/CC 
+[ Bi/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN 
+[ a/DT large/JJ number/NN ]
+of/IN 
+[ impurities/NNS ]
+are/VBP capable/JJ of/IN entering/VBG into/IN 
+[ the/DT exchange/NN chemical/NN reaction/NN ]
+with/IN 
+[ HgTe/NN ]
+and/CC 
+[ PbTe/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ this/DT work/NN ]
+,/, 
+[ results/NNS ]
+of/IN 
+[ thermal-expansion/NN coefficient/NN ]
+(/( 
+[ TEC/NNP ]
+)/) 
+[ measurements/NNS ]
+of/IN 
+[ ternary/JJ solid/JJ solutions/NNS ]
+of/IN 
+[ the/DT TlInTe/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ -TlNdTe/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ system/NN ]
+are/VBP presented/VBN ./. 
+
+[ The/DT measurements/NNS ]
+were/VBD carried/VBN out/RP to/TO elucidate/VB 
+[ the/DT effect/NN ]
+of/IN 
+[ the/DT atomic/JJ content/NN ]
+of/IN 
+[ neodymium/NN ]
+upon/IN 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT chemical/NN ]
+bonding/NN of/IN 
+[ the/DT solid/JJ solutions/NNS TlIn\/NN 1-x\/NN x\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) ./. 
+
+[ >/NN ]
+From/IN 
+[ the/DT results/NNS ]
+of/IN 
+[ the/DT measurements/NNS ]
+
+[ it/PRP ]
+follows/VBZ that/IN 
+[ the/DT magnitude/NN ]
+of/IN 
+[ the/DT TECs/NNS ]
+of/IN 
+[ the/DT solid/JJ solutions/NNS TlIn\/NN 1-x\/NN x\/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ increases/VBZ ]
+with/IN 
+[ increasing/VBG neodymium/NN content/NN ]
+./. 
+
+[ >/NN ]
+From/IN 
+[ the/DT TEC/NNP values/NNS ]
+of/IN 
+[ different/JJ compositions/NNS ]
+of/IN 
+[ the/DT solid/JJ solutions/NNS ]
+studied/VBN ,/, 
+[ the/DT Debye/NNP temperature/NN ]
+was/VBD calculated/VBN as/IN was/VBD 
+[ the/DT ]
+rms/NNS 
+[ dynamic/JJ displacements/NNS ]
+of/IN 
+[ atoms/NNS ]
+in/IN 
+[ the/DT crystal/NN lattice/NN ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+discuss/VBP 
+[ data/NN|NNS ]
+on/IN 
+[ the/DT nature/NN ]
+of/IN 
+[ changes/NNS ]
+in/IN 
+[ the/DT optical/JJ ]
+and/CC 
+[ electrophysical/JJ properties/NNS ]
+of/IN 
+[ ZnO/NN ]
+after/IN being/VBG irradiated/VBN ./. 
+
+[ The/DT authors/NNS ]
+conclude/VBP that/IN 
+[ technological/JJ defects/NNS ]
+exist/VBP in/IN 
+[ the/DT ZnO/NN films/NNS ]
+studied/VBN ./. 
+
+As/IN 
+[ a/DT result/NN ]
+of/IN 
+[ gamma-irradiation/NN ]
+,/, 
+[ defects/NNS ]
+are/VBP rearranged/VBD ,/, in/IN 
+[ particular/JJ the/DT charge/NN state/NN ]
+of/IN 
+[ oxygen/NN vacancies/NNS changes/VBZ ]
+and/CC 
+[ shorter-wavelength/JJ color/NN centers/NNS ]
+are/VBP formed/VBN or/CC 
+[ technological/JJ defects/NNS ]
+are/VBP healed/VBN ./. 
+
+[ The/DT absorption/NN spectra/NNS ]
+of/IN 
+[ ZnO/NN thin/JJ films/NNS ]
+after/IN 
+[ heat/NN treatment/NN ]
+,/, after/IN 
+[ gamma-irradiation/NN ]
+,/, and/CC also/RB 
+[ the/DT spectrum/NN ]
+of/IN 
+[ additional/JJ absorption/NN ]
+of/IN 
+[ unirradiated/VBN ZnO/NN ]
+are/VBP presented/VBN ./. 
+
+======================================
+
+[ The/DT development/NN ]
+of/IN 
+[ new/JJ fields/NNS ]
+of/IN 
+[ technology/NN ]
+requires/VBZ 
+[ materials/NNS ]
+containing/VBG 
+[ transition/NN ]
+and/CC 
+[ rare-earth/JJ metals/NNS ]
+./. 
+
+In/IN 
+[ the/DT present/JJ work/NN ]
+,/, 
+[ the/DT authors/NNS ]
+have/VBP investigated/VBN 
+[ three-component/JJ systems/NNS ]
+of/IN 
+[ the/DT type/NN Ln/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ -V/NNP ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) 
+[ -Ta/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) (/( where/WRB 
+[ Ln/NN ]
+are/VBP 
+[ the/DT elements/NNS ]
+of/IN 
+[ the/DT cerium/NN subgroup/NN ]
+)/) ,/, since/IN 
+[ an/DT efficient/JJ method/NN ]
+of/IN 
+[ search/NN ]
+for/IN 
+[ the/DT materials/NNS ]
+is/VBZ 
+[ the/DT study/NN ]
+of/IN 
+[ the/DT phase/NN ratios/NNS ]
+in/IN 
+[ such/DT systems/NNS ]
+./. 
+
+[ X-ray/NN diffraction/NN spectra/NNS ]
+and/CC 
+[ IR/NNP absorption/NN spectra/NNS ]
+were/VBD obtained/VBN ./. 
+
+[ The/DT interplanar/JJ distances/NNS ]
+and/CC 
+[ relative/JJ line/NN intensities/NNS ]
+of/IN 
+[ the/DT compounds/NNS ]
+of/IN 
+[ the/DT LnVTa3``/`` O/NN LnVTa3``/`` O/NN ]
+{/( sub/IN 
+[ 9/CD ]
+}/) 
+[ series/NNS ]
+are/VBP given/VBN ./. 
+
+In/IN examining/VBG 
+[ the/DT IR/NNP absorption/NN spectra/NNS ]
+of/IN 
+[ the/DT LnVTa3``/`` O/NN LnVTa3``/`` O/NN ]
+{/( sub/IN 
+[ 9/CD ]
+}/) 
+[ polycrystals/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT ionic/JJ radii/NNS ]
+decrease/VBP in/IN 
+[ order/NN Ln/NN =/SYM Ce/NN ]
+,/, 
+[ Pr/NN ]
+,/, 
+[ Nd/NN ]
+,/, 
+[ Sm/NN ]
+,/, 
+[ Eu/NN ]
+./. 
+
+======================================
+
+[ The/DT authors/NNS ]
+present/VBP 
+[ the/DT results/NNS ]
+of/IN 
+[ attempts/NNS ]
+at/IN 
+[ complete/JJ substitution/NN ]
+of/IN 
+[ iso-and/JJ  Heterovalent/JJ cations/NNS ]
+for/IN 
+[ the/DT cations/NNS V/NNP ]
+{/( 
+[ sup/NN 5/CD +/CC ]
+}/) and/CC 
+[ Ti/NN ]
+{/( 
+[ sup/NN 4/CD +/CC ]
+}/) with/IN nearly/RB 
+[ the/DT same/JJ sizes/NNS ]
+,/, 
+[ both/DT ]
+in/IN 
+[ order/NN ]
+to/TO obtain/VB 
+[ new/JJ isostructural/JJ bismuth/NN vanadium/NN titanate/NN compounds/NNS ]
+and/CC for/IN checking/VBG 
+[ the/DT coordination/NN ]
+of/IN 
+[ the/DT cations/NNS V/NNP ]
+{/( 
+[ sup/NN 5/CD +/SYM ]
+}/) and/CC 
+[ Ti/NN ]
+{/( 
+[ sup/NN 4/CD +/SYM ]
+}/) ./. 
+
+[ The/DT substitution/NN ]
+of/IN 
+[ ions/NNS ]
+,/, 
+[ compounds/NNS ]
+,/, 
+[ lattice/NN parameters/NNS ]
+and/CC 
+[ electrophysical/JJ properties/NNS ]
+of/IN 
+[ compounds/NNS ]
+isostructural/JJ to/TO 
+[ Bi/NN ]
+{/( sub/IN 
+[ 13/CD ]
+}/) 
+[ V/NNP ]
+{/( sub/IN 
+[ 5/CD ]
+}/) 
+[ TiO/NN ]
+{/( sub/IN 
+[ 34/CD ]
+}/) is/VBZ shown/VBN and/CC examined/VBN ./. 
+
+======================================
+
+[ This/DT paper/NN ]
+investigates/VBZ 
+[ the/DT distribution/NN ]
+of/IN 
+[ chemical/JJ elements/NNS ]
+near/IN 
+[ the/DT boundaries/NNS ]
+of/IN 
+[ zinc/NN oxide/NN grains/NNS ]
+in/IN 
+[ a/DT ceramic/NN ]
+with/IN 
+[ a/DT high/JJ coefficient/NN ]
+of/IN 
+[ nonlinearity/NN ]
+with/IN 
+[ the/DT help/NN ]
+of/IN 
+[ the/DT method/NN ]
+of/IN 
+[ x-ray/NN photoelectronic/JJ spectroscopy/NN ]
+together/RB with/IN 
+[ ion/NN etching/NN ]
+./. 
+
+[ The/DT zinc-oxide/NN ]
+based/VBN 
+[ ceramic/NN ]
+,/, with/IN 
+[ additions/NNS ]
+of/IN 
+[ oxides/NNS ]
+of/IN 
+[ bismuth/NN ]
+,/, 
+[ cobalt/NN ]
+and/CC 
+[ other/JJ elements/NNS ]
+,/, was/VBD produced/VBN by/IN 
+[ double/JJ ]
+annealing/NN in/IN 
+[ an/DT oxidizing/NN medium/NN ]
+./. 
+
+[ The/DT relative/JJ concentrations/NNS ]
+of/IN 
+[ the/DT elements/NNS ]
+were/VBD estimated/VBN from/IN 
+[ the/DT ratio/NN ]
+of/IN 
+[ the/DT areas/NNS ]
+under/IN 
+[ the/DT corresponding/JJ peaks/NNS ]
+./. 
+
+In/IN 
+[ the/DT case/NN ]
+of/IN 
+[ bismuth/NN ]
+,/, 
+[ the/DT total/JJ area/NN ]
+under/IN 
+[ the/DT Bi4f\/NN 5\/2/CD \//NN ]
+and/CC 
+[ Bi4f\/NN 7\/2/CD ]
+was/VBD determined/VBN ./. 
+
+======================================
+
+On/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ the/DT postulate/NN ]
+of/IN 
+[ a/DT pseudo-Enclidean/JJ nature/NN ]
+of/IN 
+[ the/DT fundamental/JJ space-time/JJ ]
+,/, 
+[ relativistic/JJ Lagrange/NNP ]
+and/CC 
+[ Hamilton/NNP equations/NNS ]
+are/VBP obtained/VBN for/IN 
+[ test/NN bodies/NNS ]
+in/IN 
+[ the/DT gravitational/JJ field/NN ]
+of/IN 
+[ a/DT moving/VBG source/NN ]
+;/: 
+[ the/DT nature/NN ]
+of/IN 
+[ its/PRP$ force/NN field/NN ]
+is/VBZ investigated/VBN ./. 
+
+======================================
+
+[ An/DT exact/JJ solution/NN ]
+to/TO 
+[ the/DT complete/JJ system/NN ]
+of/IN 
+[ equations/NNS ]
+of/IN 
+[ the/DT relativistic/JJ theory/NN ]
+of/IN 
+[ gravitation/NN ]
+is/VBZ found/VBN in/IN 
+[ the/DT axisymmetric/JJ case/NN ]
+for/IN 
+[ a/DT body/NN ]
+with/IN 
+[ rotation/NN ]
+./. 
+
+[ The/DT existence/NN ]
+of/IN 
+[ gravitational/JJ deceleration/NN ]
+in/IN 
+[ the/DT neighborhood/NN ]
+of/IN 
+[ the/DT horizon/NN ]
+is/VBZ shown/VBN ;/: as/IN 
+[ a/DT result/NN test/NN bodies/NNS ]
+fall/VBP toward/IN 
+[ the/DT horizon/NN ]
+for/IN 
+[ an/DT ]
+infinitely/RB 
+[ long/JJ time/NN ]
+without/IN being/VBG rolled/VBN around/IN 
+[ the/DT horizon/NN ]
+./. 
+
+======================================
+
+[ The/DT construction/NN ]
+of/IN 
+[ a/DT modular/JJ theory/NN ]
+for/IN weakly/RB closed/JJ 
+[ J-involutive/JJ algebras/NNS ]
+of/IN 
+[ bounded/JJ operators/NNS ]
+on/IN 
+[ Pontryagin/NNP spaces/NNS ]
+is/VBZ continued/VBN ./. 
+
+[ The/DT spectrum/NN ]
+of/IN 
+[ the/DT modular/JJ operator/NN ]
+{/( 
+[ Delta/NN ]
+}/) of/IN 
+[ such/DT an/DT algebra/NN ]
+is/VBZ investigated/VBN ,/, 
+[ the/DT existence/NN ]
+of/IN 
+[ a/DT ]
+strongly/RB 
+[ continuous/JJ J-unitary/JJ group/NN ]
+is/VBZ established/VBN and/CC ,/, under/IN 
+[ the/DT condition/NN ]
+that/IN 
+[ the/DT spectrum/NN ]
+lies/VBZ in/IN 
+[ the/DT right/JJ half-plane/NN ]
+,/, 
+[ Tomita/NNP 's/POS fundamental/JJ theorem/NN ]
+is/VBZ proved/VBN ./. 
+
+======================================
+
+[ A/DT study/NN ]
+is/VBZ made/VBN of/IN 
+[ a/DT Schroedinger/NNP operator/NN H/NNP =/SYM H/NNP ]
+{/( sub/IN 
+[ 0/CD ]
+}/) 
+[ +/SYM V/NNP ]
+,/, where/WRB 
+[ V/NNP ]
+is/VBZ 
+[ an/DT almost/RB periodic/JJ point/NN potential/NN ]
+and/CC 
+[ the/DT Hamiltonian/NNP H/NNP ]
+{/( sub/IN 
+[ 0/CD ]
+}/) is/VBZ subject/JJ to/TO 
+[ certain/JJ conditions/NNS ]
+
+[ that/WP ]
+are/VBP satisfied/VBN ,/, in/IN 
+[ particular/JJ ]
+,/, by/IN 
+[ two-and/CD  three-dimensional/JJ operators/NNS ]
+of/IN 
+[ the/DT form/NN H/NNP ]
+{/( sub/IN 
+[ 0/CD ]
+}/) 
+[ =/SYM ]
+-/: {/( 
+[ Delta/NN ]
+}/) and/CC 
+[ H/NNP ]
+{/( sub/IN 
+[ 0/CD ]
+}/) 
+[ =/SYM ]
+(/( 
+[ idel-A/NN ]
+)/) {/( sup/NN 
+[ 2/CD ]
+}/) ,/, where/WRB 
+[ A/NNP ]
+is/VBZ 
+[ the/DT vector/NN potential/NN ]
+of/IN 
+[ a/DT homogeneous/JJ magnetic/JJ field/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN under/IN 
+[ certain/JJ conditions/NNS ]
+of/IN 
+[ incommensurability/NN ]
+for/IN 
+[ V/NNP ]
+
+[ the/DT forbidden/VBN gaps/NNS ]
+of/IN 
+[ H/NNP ]
+{/( sub/IN 
+[ 0/CD ]
+}/) are/VBP densely/RB filled/VBN by/IN 
+[ nondegenerate/JJ localized/VBN states/NNS ]
+of/IN 
+[ the/DT operator/NN H/NNP ]
+;/: 
+[ the/DT form/NN ]
+of/IN 
+[ the/DT corresponding/JJ eigenfunctions/NNS ]
+is/VBZ found/VBN ./. 
+
+======================================
+
+[ The/DT periodic/JJ equation/NN ]
+of/IN 
+[ a/DT two-layer/JJ liquid/NN ]
+(/( 
+[ periodic/JJ intermediate/JJ long/JJ wave/NN equation/NN ]
+)/) is/VBZ studied/VBN by/IN 
+[ the/DT undressing/NN method/NN ]
+using/VBG 
+[ formal/JJ Volterra/NNP operators/NNS ]
+./. 
+
+[ The/DT method/NN ]
+is/VBZ used/VBN to/TO construct/VB 
+[ an/DT infinite/JJ series/NN ]
+of/IN 
+[ conservation/NN laws/NNS ]
+;/: 
+[ higher/JJR equations/NNS ]
+of/IN 
+[ the/DT two-layer/JJ liquid/NN ]
+are/VBP written/VBN down/IN in/IN 
+[ Hamiltonian/NNP form/NN ]
+;/: 
+[ it/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT conservation/NN laws/NNS ]
+are/VBP preserved/VBN by/IN 
+[ the/DT higher/JJR equations/NNS ]
+;/: and/CC 
+[ an/DT involution/NN theorem/NN ]
+is/VBZ proved/VBN ./. 
+
+======================================
+
+In/IN 
+[ the/DT framework/NN ]
+of/IN 
+[ the/DT model/NN ]
+proposed/VBN earlier/RB to/TO describe/VB 
+[ QCD/NNP ]
+in/IN 
+[ the/DT nonperturbative/JJ region/NN ]
+
+[ it/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ a/DT 1\/NN ]
+{/( 
+[ sup/NN 4/CD ]
+}/) 
+[ singularity/NN ]
+in/IN 
+[ the/DT gluon/NN propagator/NN ]
+leads/VBZ to/TO 
+[ dynamical/JJ breaking/NN ]
+of/IN 
+[ the/DT chiral/JJ symmetry/NN ]
+and/CC 
+[ the/DT occurrence/NN ]
+of/IN 
+[ the/DT quark/NN condensate/NN ]
+./. 
+
+[ A/DT value/NN ]
+of/IN 
+[ the/DT quark/NN condensate/NN ]
+close/RB to/TO 
+[ the/DT phenomenological/JJ value/NN ]
+is/VBZ obtained/VBN ./. 
+
+======================================
+
+[ The/DT higher/JJR orders/NNS ]
+of/IN 
+[ quantum/NN perturbation/NN theory/NN ]
+in/IN 
+[ the/DT neighborhood/NN ]
+of/IN 
+[ a/DT classical/JJ solution/NN ]
+are/VBP considered/VBN on/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ an/DT approach/NN ]
+explained/VBN in/IN 
+[ an/DT earlier/JJR paper/NN ]
+./. 
+
+[ Expressions/NNS ]
+are/VBP obtained/VBN for/IN 
+[ the/DT operator/NN arguments/NNS ]
+of/IN 
+[ the/DT field/NN ]
+,/, and/CC 
+[ the/DT scattering/NN ]
+of/IN 
+[ secondary/JJ quanta/NN ]
+and/CC 
+[ a/DT solution/NN ]
+is/VBZ investigated/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ the/DT semiclassical/JJ Lehmann-Symanzik-Zimmermann/JJ formalism/NN ]
+./. 
+
+[ An/DT expression/NN ]
+for/IN 
+[ the/DT mass/NN operator/NN ]
+of/IN 
+[ the/DT system/NN ]
+,/, 
+[ which/WDT ]
+admits/VBZ 
+[ a/DT clear/JJ physical/NN interpretation/NN ]
+,/, is/VBZ obtained/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT asymptotic/JJ fields/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ scheme-invariant/JJ perturbation/NN theory/NN ]
+,/, 
+[ the/DT complete/JJ renormalization-group/NN equation/NN ]
+for/IN 
+[ a/DT dimensionless/JJ physical/NN quantity/NN ]
+is/VBZ solved/VBN ./. 
+
+[ The/DT solution/NN ]
+is/VBZ used/VBN as/IN 
+[ a/DT basis/NN ]
+for/IN obtaining/VBG 
+[ optimized/VBN expansions/NNS ]
+of/IN 
+[ this/DT quantity/NN ]
+in/IN 
+[ powers/NNS ]
+of/IN 
+[ its/PRP$ two-loop/JJ approximant/NN ]
+and/CC 
+[ a/DT special/JJ function/NN ]
+introduced/VBN in/IN 
+[ the/DT paper/NN ]
+./. 
+
+[ A/DT general/JJ representation/NN ]
+and/CC 
+[ an/DT optimized/VBN representation/NN ]
+of/IN 
+[ the/DT moments/NNS ]
+of/IN 
+[ the/DT nonsinglet/NN structure/NN functions/NNS ]
+are/VBP derived/VBN ./. 

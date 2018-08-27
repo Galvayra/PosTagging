@@ -1,0 +1,541 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT sharp/JJ drop/NN ]
+in/IN 
+[ private/JJ consumption/NN ]
+and/CC 
+[ exports/NNS ]
+caused/VBD 
+[ the/DT Japanese/JJ economy/NN ]
+to/TO contract/VB at/IN 
+[ a/DT 3.1/CD %/NN annual/JJ rate/NN ]
+in/IN 
+[ the/DT quarter/NN ]
+
+[ that/WDT ]
+ended/VBD 
+[ June/NNP 30/CD ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT decline/NN ]
+has/VBZ done/VBN little/JJ to/TO alter/VB 
+[ expectations/NNS ]
+that/IN 
+[ Japan/NNP 's/POS strong/JJ economic/JJ expansion/NN ]
+will/MD continue/VB ./. 
+
+If/IN 
+[ anything/NN ]
+,/, 
+[ analysts/NNS ]
+said/VBD ,/, 
+[ the/DT June/NNP statistics/NNS ]
+will/MD bring/VB 
+[ growth/NN ]
+in/IN 
+[ line/NN ]
+with/IN 
+[ government/NN projections/NNS ]
+of/IN about/IN 
+[ 4/CD %/NN growth/NN ]
+for/IN 
+[ the/DT fiscal/JJ year/NN ]
+ending/VBG 
+[ next/JJ March/NNP ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT latest/JJS data/NNS ]
+show/VBP 
+[ that/IN inflation/NN ]
+remains/VBZ subdued/VBN ./. 
+
+======================================
+
+[ The/DT 0.8/CD %/NN drop/NN ]
+in/IN 
+[ gross/JJ national/JJ product/NN ]
+from/IN 
+[ the/DT January-March/NNP quarter/NN ]
+was/VBD widely/RB expected/VBN in/IN 
+[ response/NN ]
+to/TO 
+[ the/DT introduction/NN ]
+on/IN 
+[ April/NNP 1/CD ]
+of/IN 
+[ a/DT 3/CD %/NN consumption/NN tax/NN ]
+on/IN 
+[ goods/NNS ]
+and/CC 
+[ services/NNS ]
+./. 
+
+ (/( 
+[ GNP/NNP ]
+measures/VBZ 
+[ the/DT total/JJ output/NN ]
+of/IN 
+[ goods/NNS ]
+and/CC 
+[ services/NNS ]
+./. 
+
+ )/) 
+[ Many/JJ consumers/NNS ]
+cut/VBP back/RB on/IN 
+[ spending/NN ]
+after/IN 
+[ the/DT levy/NN ]
+was/VBD imposed/VBN ,/, although/IN 
+[ sales/NNS ]
+of/IN 
+[ automobiles/NNS ]
+jumped/VBD because/IN 
+[ they/PRP ]
+now/RB are/VBP taxed/VBN at/IN 
+[ a/DT lower/JJR rate/NN ]
+./. 
+
+======================================
+
+[ The/DT economy/NN 's/POS weak/JJ performance/NN ]
+was/VBD in/IN 
+[ sharp/JJ contrast/NN ]
+to/TO 
+[ the/DT March/NNP quarter/NN ]
+,/, when/WRB 
+[ it/PRP ]
+expanded/VBD at/IN 
+[ a/DT breakneck/JJ annual/JJ pace/NN ]
+of/IN 
+[ 9.6/CD %/NN ]
+,/, according/VBG to/TO 
+[ revised/VBN figures/NNS ]
+released/VBN by/IN 
+[ the/DT Economic/NNP Planning/NNP Agency/NNP ]
+./. 
+
+Much/JJ of/IN 
+[ that/DT high/JJ rate/NN ]
+of/IN 
+[ growth/NN ]
+was/VBD 
+[ a/DT result/NN ]
+of/IN 
+[ accelerated/VBN consumer/NN spending/NN ]
+and/CC 
+[ capital/NN expenditures/NNS ]
+in/IN 
+[ advance/NN ]
+of/IN 
+[ the/DT new/JJ tax/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ light/NN ]
+of/IN 
+[ the/DT consumption-tax/NN ]
+``/`` 
+[ distortions/NNS ]
+,/, ''/'' 
+[ many/JJ economists/NNS ]
+are/VBP hesitant/JJ to/TO draw/VB 
+[ conclusions/NNS ]
+about/IN 
+[ the/DT economy/NN 's/POS longer-term/JJ trend/NN ]
+./. 
+
+``/`` 
+[ This/DT ]
+is/VBZ going/VBG to/TO leave/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ questions/NNS ]
+,/, ''/'' said/VBD 
+[ Kermit/NNP L./NNP Schoenholtz/NNP ]
+,/, 
+[ an/DT economist/NN ]
+with/IN 
+[ Salomon/NNP Bros/NNPS ]
+./. 
+
+ (/( 
+[ Asia/NNP ]
+ )/) 
+[ Ltd/NNP ]
+./. 
+
+``/`` How/WRB long/RB will/MD 
+[ the/DT consumption/NN tax/NN ]
+continue/VB to/TO affect/VB 
+[ consumer/NN spending/NN ]
+?/. 
+
+''/'' 
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ economists/NNS ]
+said/VBD 
+[ year-to-year/JJ comparisons/NNS ]
+of/IN 
+[ quarterly/JJ growth/NN figures/NNS ]
+show/VBP that/IN 
+[ the/DT economy/NN ]
+is/VBZ continuing/VBG to/TO expand/VB at/IN 
+[ a/DT smooth/JJ pace/NN ]
+
+[ that/WDT ]
+belies/VBZ 
+[ the/DT quarter-to-quarter/JJ swings/NNS ]
+./. 
+
+In/IN 
+[ the/DT June/NNP quarter/NN ]
+,/, 
+[ the/DT economy/NN ]
+grew/VBD 
+[ 4.8/CD %/NN ]
+compared/VBN with/IN 
+[ the/DT corresponding/JJ quarter/NN ]
+of/IN 
+[ 1988/CD ]
+./. 
+
+That/DT followed/VBD 
+[ 4.8/CD %/NN year-to-year/JJ growth/NN ]
+in/IN 
+[ the/DT March/NNP quarter/NN ]
+,/, and/CC 
+[ 4.9/CD %/NN growth/NN ]
+in/IN 
+[ the/DT October-December/NNP 1988/CD quarter/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+says/VBZ 
+[ the/DT economy/NN ]
+'s/VBZ still/RB pretty/RB strong/JJ ,/, ''/'' said/VBD 
+[ Peter/NNP Morgan/NNP ]
+,/, 
+[ chief/JJ economist/NN ]
+with/IN 
+[ the/DT Tokyo/NNP branch/NN ]
+of/IN 
+[ Barclays/NNP ]
+de/NNP 
+[ Zoete/NNP Wedd/NNP Securities/NNPS ]
+./. 
+
+======================================
+
+[ The/DT April-June/NNP period/NN ]
+was/VBD 
+[ the/DT second/JJ year/NN ]
+in/IN 
+[ a/DT row/NN ]
+that/IN 
+[ the/DT economy/NN ]
+contracted/VBD in/IN 
+[ the/DT June/NNP quarter/NN ]
+from/IN 
+[ the/DT previous/JJ quarter/NN ]
+,/, partly/RB reflecting/VBG 
+[ the/DT country/NN ]
+'s/POS increasingly/RB entrenched/VBN 
+[ habit/NN ]
+of/IN taking/VBG 
+[ a/DT long/JJ Golden/NNP Week/NNP holiday/NN ]
+during/IN 
+[ early/JJ May/NNP ]
+./. 
+
+[ Many/JJ companies/NNS ]
+are/VBP now/RB shutting/VBG down/IN for/IN 
+[ the/DT vacation/NN ]
+,/, cutting/VBG into/IN 
+[ production/NN ]
+and/CC 
+[ exports/NNS ]
+./. 
+
+======================================
+
+[ Overall/JJ ]
+,/, 
+[ domestic/JJ demand/NN ]
+rose/VBD at/IN 
+[ an/DT annualized/VBN rate/NN ]
+of/IN 
+[ 0.7/CD %/NN ]
+in/IN 
+[ the/DT June/NNP quarter/NN ]
+,/, down/IN from/IN 
+[ 9.9/CD %/NN ]
+in/IN 
+[ the/DT previous/JJ period/NN ]
+./. 
+
+Much/JJ of/IN 
+[ that/DT ]
+reflected/VBD 
+[ a/DT contraction/NN ]
+of/IN 
+[ personal/JJ consumption/NN ]
+./. 
+
+Meanwhile/RB ,/, housing/NN 
+[ expenditures/NNS ]
+fell/VBD for/IN 
+[ the/DT second/JJ consecutive/JJ quarter/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ strong/JJ growth/NN ]
+of/IN 
+[ capital/NN investment/NN ]
+helped/VBD to/TO offset/VB 
+[ the/DT drop-off/NN ]
+in/IN 
+[ personal/JJ consumption/NN ]
+and/CC 
+[ housing/NN spending/NN ]
+./. 
+
+Spending/VBG on/IN 
+[ plants/NNS ]
+and/CC 
+[ equipment/NN ]
+continued/VBD to/TO expand/VB in/IN 
+[ double/JJ digits/NNS ]
+,/, at/IN 
+[ an/DT annualized/VBN rate/NN ]
+of/IN 
+[ 11.7/CD %/NN ]
+./. 
+
+[ That/DT ]
+was/VBD off/IN from/IN 
+[ 29.9/CD %/NN ]
+in/IN 
+[ the/DT previous/JJ quarter/NN ]
+,/, but/CC 
+[ economists/NNS ]
+said/VBD 
+[ the/DT figures/NNS ]
+represented/VBD 
+[ anticipation/NN ]
+of/IN 
+[ the/DT consumption/NN tax/NN ]
+and/CC then/RB 
+[ reaction/NN ]
+to/TO 
+[ it/PRP ]
+./. 
+
+======================================
+
+[ Japanese/JJ companies/NNS ]
+have/VBP been/VBN on/IN 
+[ a/DT spending/VBG spree/NN ]
+for/IN about/IN 
+[ three/CD years/NNS ]
+,/, and/CC 
+[ they/PRP ]
+have/VBP recently/RB focused/VBN on/IN 
+[ expanding/VBG production/NN capacity/NN ]
+to/TO meet/VB 
+[ domestic/JJ demand/NN ]
+./. 
+
+[ Mr./NNP Schoenholtz/NNP ]
+of/IN 
+[ Salomon/NNP Bros./NNPS ]
+said/VBD 
+[ that/IN capital/NN spending/NN ]
+now/RB comprises/VBZ 
+[ 23.7/CD %/NN ]
+of/IN 
+[ GNP/NNP ]
+./. 
+
+``/`` 
+[ That/DT ]
+reflects/VBZ 
+[ the/DT continued/VBN optimism/NN ]
+on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ businesses/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT sharp/JJ rise/NN ]
+in/IN 
+[ inventories/NNS ]
+also/RB helped/VBD cushion/VB 
+[ the/DT effect/NN ]
+of/IN 
+[ declining/VBG personal/JJ consumption/NN ]
+./. 
+
+[ Inventories/NNS ]
+rose/VBD 
+[ 0.5/CD %/NN ]
+in/IN 
+[ the/DT June/NNP quarter/NN ]
+from/IN 
+[ the/DT March/NNP period/NN ]
+as/IN 
+[ retail/JJ stores/NNS ]
+rebuilt/VBN 
+[ stocks/NNS ]
+depleted/VBN by/IN 
+[ the/DT pre-consumption/NN tax/NN spending/NN binge/NN ]
+./. 
+
+======================================
+
+[ Net/JJ external/JJ demand/NN ]
+,/, 
+[ which/WDT ]
+calculates/VBZ 
+[ the/DT impact/NN ]
+of/IN 
+[ imports/NNS ]
+and/CC 
+[ exports/NNS ]
+on/IN 
+[ GNP/NNP ]
+,/, plunged/VBD in/IN 
+[ the/DT June/NNP quarter/NN ]
+./. 
+
+[ Exports/NNS ]
+fell/VBD at/IN 
+[ an/DT annualized/VBN rate/NN ]
+of/IN 
+[ 12.3/CD %/NN ]
+,/, while/IN 
+[ imports/NNS ]
+rose/VBD at/IN 
+[ a/DT 7.5/CD %/NN pace/NN ]
+./. 
+
+Because/IN 
+[ the/DT import/NN ]
+and/CC 
+[ export/NN figures/NNS ]
+include/VBP 
+[ both/DT ]
+
+[ goods/NNS ]
+and/CC 
+[ services/NNS ]
+,/, 
+[ economists/NNS ]
+said/VBD 
+[ the/DT rise/NN ]
+in/IN 
+[ Japanese/JJ ]
+travel/NN abroad/RB and/CC 
+[ a/DT drop/NN ]
+in/IN 
+[ income/NN ]
+from/IN 
+[ overseas/JJ investments/NNS ]
+in/IN 
+[ the/DT period/NN ]
+contributed/VBD to/TO 
+[ the/DT negative/JJ pull/NN ]
+of/IN 
+[ external/JJ demand/NN ]
+on/IN 
+[ the/DT economy/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ the/DT price/NN front/NN ]
+,/, 
+[ the/DT GNP/NNP deflator/NN ]
+,/, 
+[ a/DT key/JJ barometer/NN ]
+of/IN 
+[ inflation/NN ]
+,/, showed/VBD 
+[ a/DT 1.4/CD %/NN rise/NN ]
+in/IN 
+[ prices/NNS ]
+from/IN 
+[ the/DT year/NN ]
+before/IN ./. 
+
+In/IN 
+[ the/DT January-March/NNP quarter/NN ]
+
+[ the/DT deflator/NN ]
+rose/VBD 
+[ 0.8/CD %/NN ]
+./. 
+
+[ Economists/NNS ]
+said/VBD much/JJ of/IN 
+[ the/DT increase/NN ]
+in/IN 
+[ the/DT April-June/NNP period/NN ]
+was/VBD 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT consumption/NN tax/NN ]
+and/CC 
+[ a/DT sharp/JJ increase/NN ]
+in/IN 
+[ import/NN prices/NNS ]
+,/, 
+[ which/WDT ]
+were/VBD pushed/VBN by/IN 
+[ rising/VBG oil/NN prices/NNS ]
+and/CC 
+[ a/DT weaker/JJR yen/NN ]
+./. 
+
+Still/RB ,/, 
+[ they/PRP ]
+said/VBD that/IN 
+[ the/DT 1.4/CD %/NN rate/NN ]
+was/VBD not/RB 
+[ a/DT matter/NN ]
+of/IN 
+[ deep/JJ concern/NN ]
+./. 

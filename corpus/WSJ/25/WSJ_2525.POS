@@ -1,0 +1,519 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+If/IN 
+[ you/PRP ]
+'re/VBP 
+[ a/DT stock-fund/JJ investor/NN ]
+,/, do/VBP n't/RB bet/VB on/IN beating/VBG 
+[ the/DT market/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ because/RB 
+[ more/JJR stock/NN mutual/JJ funds/NNS ]
+are/VBP failing/VBG to/TO keep/VB with/IN 
+[ the/DT broad/JJ market/NN ]
+indexes/NNS 
+[ these/DT days/NNS ]
+./. 
+
+[ A/DT startling/JJ 66/CD %/NN ]
+of/IN 
+[ all/DT diversified/JJ U.S./NNP stock/NN funds/NNS ]
+trailed/VBD behind/IN 
+[ the/DT Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS 500-stock/JJ index/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, according/VBG to/TO 
+[ Morningstar/NNP Inc./NNP ]
+,/, 
+[ a/DT Chicago/NNP firm/NN ]
+
+[ that/WDT ]
+tracks/VBZ 
+[ fund/NN performance/NN ]
+./. 
+
+======================================
+
+[ This/DT ]
+was/VBD 
+[ no/DT fluke/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD 
+[ the/DT sixth/JJ consecutive/JJ quarter/NN ]
+that/IN 
+[ funds/NNS ]
+on/IN 
+[ average/NN ]
+failed/VBD to/TO match/VB 
+[ the/DT market/NN ]
+./. 
+
+In/IN 
+[ the/DT past/JJ five/CD years/NNS ]
+,/, moreover/RB ,/, just/RB 
+[ 37.4/CD %/NN ]
+of/IN 
+[ all/DT stock/NN funds/NNS ]
+beat/VBD 
+[ the/DT S&P-down/NN ] 
+sharply/RB from/IN 
+[ the/DT 52.3/CD %/NN ]
+of/IN 
+[ the/DT previous/JJ five/CD years/NNS ]
+,/, 
+[ Morningstar/NNP ]
+says/VBZ ./. 
+
+======================================
+
+So/RB 
+[ what/WP ]
+'s/VBZ 
+[ the/DT problem/NN ]
+?/. 
+
+[ Too/RB many/JJ funds/NNS ]
+and/CC 
+[ too/RB few/JJ good/JJ stock/NN pickers/NNS ]
+,/, 
+[ some/DT analysts/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ There/EX ]
+currently/RB are/VBP 
+[ 1,024/CD stock/NN funds/NNS ]
+,/, up/RB nearly/RB fourfold/JJ from/IN 
+[ 10/CD years/NNS ]
+ago/RB ,/, according/VBG to/TO 
+[ the/DT Investment/NNP Company/NNP Institute/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+are/VBP n't/RB enough/JJ 
+[ super/JJ stockpickers/NNS ]
+around/RP to/TO sit/VB at/IN 
+[ the/DT helm/NN ]
+of/IN 
+[ an/DT increasing/VBG number/NN ]
+of/IN 
+[ mutual/JJ funds/NNS ]
+,/, ''/'' says/VBZ 
+[ Tyler/NNP Jenks/NNP ]
+,/, 
+[ research/NN director/NN ]
+for/IN 
+[ Kanon/NNP Bloch/NNP Carre/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ a/DT Boston/NNP fund-research/JJ firm/NN ]
+./. 
+
+``/`` 
+[ The/DT more/JJR the/DT industry/NN ]
+keeps/VBZ turning/VBG 
+[ these/DT things/NNS ]
+out/RP ,/, 
+[ the/DT more/JJR ]
+
+[ you/PRP ]
+'re/VBP going/VBG to/TO see/VB 
+[ underperformance/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Stock/NN mutual/JJ funds/NNS ]
+have/VBP grown/VBN explosively/RB in/IN 
+[ the/DT 1980s/NNS ]
+,/, because/IN 
+[ small/JJ investors/NNS ]
+believed/VBD 
+[ they/PRP ]
+needed/VBD 
+[ professional/JJ advice/NN ]
+to/TO beat/VB 
+[ the/DT stock/NN market/NN ]
+./. 
+
+But/CC if/IN too/RB many/JJ professionally/RB managed/VBN 
+[ funds/NNS ]
+keep/VBP underperforming/VBG ,/, 
+[ investors/NNS ]
+may/MD decide/VB to/TO switch/VB to/TO 
+[ index/NN funds/NNS ]
+,/, designed/VBN to/TO match/VB 
+[ the/DT performance/NN ]
+of/IN 
+[ the/DT broader/JJR market/NN ]
+./. 
+
+[ That/DT ]
+would/MD be/VB 
+[ bad/JJ news/NN ]
+for/IN 
+[ the/DT ]
+actively/RB managed/VBN 
+[ segment/NN ]
+of/IN 
+[ the/DT nation/NN 's/POS stock/NN mutual/JJ funds/NNS ]
+,/, 
+[ which/WDT ]
+collect/VBP 
+[ annual/JJ management/NN fees/NNS ]
+
+[ that/WDT ]
+can/MD amount/VB to/TO 
+[ 1/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+./. 
+
+======================================
+
+[ One/CD reason/NN many/JJ funds/NNS ]
+have/VBP lagged/VBN behind/RB is/VBZ 
+[ their/PRP$ cash/NN holdings/NNS ]
+,/, 
+[ which/WDT ]
+often/RB stand/VBP above/IN 
+[ 9/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+./. 
+
+[ Funds/NNS ]
+keep/VBP 
+[ cash/NN ]
+on/IN 
+[ hand/NN ]
+so/IN 
+[ they/PRP ]
+can/MD pay/VB 
+[ investors/NNS ]
+
+[ who/WP ]
+want/VBP to/TO take/VB 
+[ their/PRP$ money/NN ]
+out/RB ./. 
+
+[ High/JJ cash/NN levels/NNS ]
+also/RB act/VBP as/IN 
+[ a/DT buffer/NN ]
+against/IN 
+[ steep/JJ market/NN drops/NNS ]
+./. 
+
+But/CC 
+[ many/JJ fund/NN managers/NNS ]
+have/VBP guessed/VBN 
+[ wrong/JJ ]
+about/IN where/WRB 
+[ the/DT market/NN ]
+was/VBD headed/VBN ,/, penalizing/VBG 
+[ fund/NN performance/NN ]
+./. 
+
+======================================
+
+[ Another/DT drag/NN ]
+on/IN 
+[ funds/NNS '/POS returns/NNS ]
+is/VBZ 
+[ their/PRP$ operating/VBG expenses/NNS ]
+./. 
+
+But/CC 
+[ many/JJ funds/NNS ]
+are/VBP so/RB poorly/RB managed/VBN that/IN 
+[ they/PRP ]
+fail/VB to/TO match/VB 
+[ the/DT stock/NN ]
+averages/VBZ even/RB before/IN 
+[ expenses/NNS ]
+,/, primarily/RB because/IN of/IN 
+[ poor/JJ decisions/NNS ]
+on/IN when/WRB to/TO get/VB in/IN or/CC out/IN of/IN 
+[ the/DT market/NN ]
+./. 
+
+======================================
+
+Obviously/RB ,/, 
+[ professional/JJ management/NN ]
+does/VBZ n't/RB guarantee/VB 
+[ success/NN ]
+for/IN 
+[ investors/NNS ]
+./. 
+
+And/CC 
+[ the/DT so-called/JJ market/NN timing/NN game/NN ]
+of/IN boosting/VBG or/CC 
+[ shrinking/VBG cash/NN levels/NNS ]
+to/TO outguess/VB 
+[ the/DT market/NN ]
+has/VBZ backfired/VBN for/IN 
+[ many/JJ stock/NN funds/NNS ]
+./. 
+
+======================================
+
+``/`` As/IN 
+[ a/DT group/NN ]
+,/, 
+[ funds/NNS ]
+are/VBP excessively/RB bearish/JJ and/CC 
+[ flush/JJ ]
+with/IN 
+[ cash/NN ]
+at/IN 
+[ market/NN lows/NNS ]
+,/, when/WRB 
+[ they/PRP ]
+should/MD be/VB loading/VBG up/RP 
+[ their/PRP$ portfolios/NNS ]
+with/IN 
+[ stocks/NNS ]
+,/, ''/'' says/VBZ 
+[ Norman/NNP Fosback/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Mutual/NNP Fund/NNP Forecaster/NNP ]
+,/, 
+[ a/DT Florida/NNP newsletter/NN ]
+./. 
+
+[ Conversely/NNP ]
+,/, 
+[ Mr./NNP Fosback/NNP ]
+says/VBZ ,/, 
+[ funds/NNS ]
+typically/RB are/VBP overinvested/VBN in/IN 
+[ stocks/NNS ]
+at/IN 
+[ market/NN tops/NNS ]
+./. 
+
+======================================
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ many/JJ funds/NNS ]
+have/VBP consistently/RB outpaced/VBN 
+[ the/DT indexes/NNS ]
+./. 
+
+[ Fidelity/NNP Magellan/NNP Fund/NNP ]
+,/, 
+[ Janus/NNP Fund/NNP ]
+and/CC 
+[ Lindner/NNP Fund/NNP ]
+,/, among/IN 
+[ others/NNS ]
+,/, have/VBP far/RB surpassed/VBN 
+[ the/DT gain/NN ]
+of/IN 
+[ the/DT S&P/NNP 500/CD ]
+over/IN 
+[ the/DT past/JJ 10/CD years/NNS ]
+./. 
+
+======================================
+
+Overall/RB ,/, however/RB ,/, 
+[ the/DT recent/JJ five-year/JJ period/NN ]
+has/VBZ included/VBN 
+[ quarters/NNS ]
+where/WRB 
+[ only/JJ 10/CD %/NN ]
+or/CC 
+[ 15/CD %/NN ]
+of/IN 
+[ all/DT diversified/JJ stock/NN funds/NNS ]
+have/VBP outslugged/VBN 
+[ the/DT market/NN ]
+./. 
+
+ (/( To/TO make/VB 
+[ the/DT comparison/NN fairer/JJR ]
+,/, 
+[ Morningstar/NNP ]
+excluded/VBD 
+[ international/JJ ]
+and/CC 
+[ other/JJ specialty/NN stock/NN funds/NNS ]
+
+[ that/WDT ]
+can/MD skew/VB 
+[ the/DT stock-fund/JJ average/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ The/DT past/JJ five/CD years/NNS ]
+have/VBP been/VBN particularly/RB tough/JJ for/IN 
+[ funds/NNS ]
+,/, because/IN 
+[ many/JJ hold/VBP stocks/NNS ]
+of/IN 
+[ companies/NNS ]
+with/IN 
+[ far/RB smaller/JJR total/JJ market/NN values/NNS ]
+than/IN 
+[ the/DT S&P/NNP companies/NNS ]
+,/, 
+[ Morningstar/NNP ]
+says/VBZ ./. 
+
+[ The/DT median/JJ market/NN value/NN ]
+for/IN 
+[ a/DT company/NN ]
+in/IN 
+[ a/DT stock-fund/JJ portfolio/NN ]
+is/VBZ 
+[ $/$ 3.7/CD billion/CD ]
+,/, compared/VBN with/IN 
+[ $/$ 8.6/CD billion/CD ]
+for/IN 
+[ the/DT S&P/NNP 500/CD ]
+./. 
+
+And/CC 
+[ smaller/JJR companies/NNS '/POS stocks/NNS ]
+generally/RB have/VBP underperformed/VBN 
+[ larger/JJR ones/NNS ]
+in/IN 
+[ the/DT past/JJ several/JJ years/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ pretty/RB clear/JJ that/IN 
+[ the/DT average/JJ equity/NN fund/NN ]
+is/VBZ n't/RB that/RB much/RB like/IN 
+[ the/DT S&P/NNP ]
+,/, but/CC has/VBZ more/JJR of/IN 
+[ a/DT small-cap/JJ focus/NN ]
+,/, ''/'' says/VBZ 
+[ Don/NNP Phillips/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ Morningstar/NNP ]
+
+[ 's/POS Mutual/NNP Fund/NNP Values/NNP publication/NN ]
+./. 
+
+======================================
+
+When/WRB 
+[ smaller/JJR stocks/NNS ]
+begin/VBP to/TO lead/VB 
+[ the/DT market/NN ]
+again/RB ,/, 
+[ Mr./NNP Phillips/NNP ]
+says/VBZ ,/, 
+[ more/JJR funds/NNS ]
+will/MD 
+[ outperform/VB the/DT S&P/NNP 500/CD ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ very/RB likely/JJ 
+[ the/DT next/JJ five/CD years/NNS ]
+will/MD be/VB strong/JJ for/IN 
+[ funds/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ There/EX ]
+'s/VBZ 
+[ another/DT factor/NN ]
+to/TO consider/VB :/: 
+[ The/DT average/JJ fund/NN return/NN ]
+is/VBZ figured/VBN by/IN giving/VBG 
+[ equal/JJ weight/NN ]
+to/TO 
+[ all/DT funds/NNS ]
+,/, regardless/RB of/IN 
+[ size/NN ]
+./. 
+
+If/IN 
+[ the/DT average/NN ]
+was/VBD computed/VBN instead/RB by/IN giving/VBG 
+[ more/JJR weight/NN ]
+to/TO 
+[ the/DT larger/JJR funds/NNS ]
+,/, 
+[ the/DT overall/JJ return/NN ]
+would/MD stack/VB up/RP better/RBR against/IN 
+[ the/DT market/NN ]
+./. 
+
+[ Bigger/JJR funds/NNS ]
+tend/VBP to/TO get/VB 
+[ that/DT way/NN ]
+because/IN 
+[ they/PRP ]
+perform/VBP well/RB and/CC thereby/RB attract/VBP 
+[ new/JJ money/NN ]
+./. 
+
+======================================
+
+[ The/DT current/JJ calculation/NN ]
+``/`` shows/VBZ 
+[ the/DT average/JJ fund/NN return/NN ]
+,/, but/CC 
+[ it/PRP ]
+misrepresents/VBZ 
+[ the/DT return/NN ]
+to/TO 
+[ the/DT average/JJ investor/NN ]
+,/, ''/'' according/VBG to/TO 
+[ a/DT report/NN ]
+by/IN 
+[ Strategic/NNP Insight/NNP ]
+,/, 
+[ a/DT fund/NN research/NN firm/NN ]
+./. 

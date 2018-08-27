@@ -1,0 +1,637 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT battle/NN lines/NNS ]
+were/VBD drawn/VBN when/WRB 
+[ Bolar/NNP Pharmaceutical/NNP Co./NNP ]
+blasted/VBD 
+[ Rep./NNP John/NNP Dingell/NNP ]
+,/, in/IN 
+[ full-page/JJ newspaper/NN ads/NNS ]
+,/, ``/`` for/IN creating/VBG 
+[ a/DT climate/NN ]
+of/IN 
+[ fear/NN ]
+and/CC 
+[ distrust/NN ]
+within/IN 
+[ the/DT entire/NN generic/JJ pharmaceutical/JJ industry/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Rep./NNP Dingell/NNP ]
+,/, 
+[ a/DT Michigan/NNP Democrat/NNP ]
+,/, has/VBZ been/VBN leading/VBG 
+[ a/DT House/NNP subcommittee/NN probe/NN ]
+of/IN 
+[ questionable/JJ practices/NNS ]
+by/IN 
+[ generic-drug/JJ companies/NNS ]
+./. 
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ that/DT inquiry/NN ]
+,/, 
+[ he/PRP ]
+prodded/VBD 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+into/IN investigating/VBG 
+[ Bolar/NNP ]
+,/, based/VBN in/IN 
+[ Copiague/NNP ]
+,/, 
+[ a/DT tiny/JJ company/NN ]
+by/IN 
+[ Wall/NNP Street/NNP standards/NNS ]
+but/CC 
+[ flagship/NN ]
+of/IN 
+[ the/DT public/JJ generic-drug/JJ companies/NNS ]
+./. 
+
+======================================
+
+[ The/DT ads/NNS ]
+
+[ this/DT month/NN ]
+in/IN 
+[ the/DT New/NNP York/NNP Times/NNP ]
+,/, 
+[ USA/NNP Today/NNP ]
+and/CC 
+[ Newsday/NNP ]
+angered/VBD 
+[ subcommittee/NN members/NNS ]
+
+[ who/WP ]
+saw/VBD 
+[ Bolar/NNP 's/POS ]
+highly/RB 
+[ unusual/JJ tactic/NN ]
+as/IN 
+[ an/DT effort/NN ]
+to/TO cow/VB 
+[ congressional/JJ investigators/NNS ]
+./. 
+
+But/CC 
+[ others/NNS ]
+familar/JJ with/IN 
+[ Bolar/NNP ]
+say/VBP 
+[ the/DT company/NN ]
+acted/VBD out/IN of/IN 
+[ frustration/NN ]
+,/, concerned/VBN that/IN 
+[ its/PRP$ credibility/NN ]
+was/VBD being/VBG unfairly/RB assailed/VBN ./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP caught/VBN in/IN 
+[ the/DT middle/NN ]
+of/IN 
+[ a/DT big/JJ power/NN play/NN ]
+,/, ''/'' asserts/VBZ 
+[ Robert/NNP Shulman/NNP ]
+,/, 
+[ Bolar/NNP 's/POS co-founder/NN ]
+,/, 
+[ who/WP ]
+contends/VBZ 
+[ the/DT company/NN ]
+has/VBZ become/VBN 
+[ a/DT pawn/NN ]
+in/IN 
+[ a/DT political/JJ fight/NN ]
+between/IN 
+[ Rep./NNP Dingell/NNP ]
+and/CC 
+[ the/DT FDA/NNP ]
+./. 
+
+======================================
+
+With/IN 
+[ his/PRP$ open/JJ shirt/NN ]
+,/, 
+[ jeans/NNS ]
+and/CC 
+[ jogging/NN shoes/NNS ]
+,/, 
+[ Mr./NNP Shulman/NNP ]
+looks/VBZ more/RBR like/IN 
+[ one/CD ]
+of/IN 
+[ his/PRP$ pill-factory/JJ workers/NNS ]
+than/IN 
+[ president/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+While/IN 
+[ he/PRP ]
+has/VBZ run/VBN in/IN 
+[ five/CD New/NNP York/NNP ]
+and/CC 
+[ Boston/NNP marathons/NNS ]
+,/, 
+[ 55-year-old/JJ Mr./NNP Shulman/NNP ]
+now/RB faces/VBZ 
+[ his/PRP$ biggest/JJS challenge/NN ]
+:/: successfully/RB defending/VBG 
+[ the/DT integrity/NN ]
+of/IN 
+[ the/DT company/NN ]
+and/CC 
+[ its/PRP$ products/NNS ]
+./. 
+
+======================================
+
+[ Rep./NNP Dingell/NNP ]
+has/VBZ not/RB only/RB triggered/VBN 
+[ the/DT FDA/NNP 's/POS review/NN ]
+of/IN 
+[ approvals/NNS ]
+granted/VBN ,/, but/CC 
+[ surveillance/NN ]
+of/IN 
+[ industry/NN ]
+manufacturing/NN 
+[ practices/NNS ]
+./. 
+
+[ Congressional/JJ investigators/NNS ]
+believe/VBP 
+[ Bolar/NNP ]
+may/MD have/VB gained/VBN 
+[ approval/NN ]
+in/IN 
+[ 1987/CD ]
+of/IN 
+[ a/DT big-selling/JJ generic/JJ version/NN ]
+of/IN 
+[ the/DT blood/NN pressure/NN drug/NN ]
+called/VBN 
+[ Dyazide/NNP ]
+by/IN passing/VBG off/RP 
+[ the/DT brand-name/JJ drug/NN ]
+as/IN 
+[ its/PRP$ own/JJ ]
+,/, and/CC pressed/VBD 
+[ the/DT FDA/NNP ]
+to/TO investigate/VB ./. 
+
+[ That/DT ]
+was/VBD more/JJR than/IN 
+[ two/CD months/NNS ]
+ago/RB ,/, and/CC while/IN 
+[ the/DT FDA/NNP inquiry/NN ]
+drags/VBZ on/IN ,/, 
+[ Bolar/NNP 's/POS reputation/NN ]
+has/VBZ been/VBN deeply/RB tarnished/VBN ./. 
+
+Moreover/RB ,/, 
+[ the/DT FDA/NNP ]
+is/VBZ threatening/VBG to/TO withdraw/VB 
+[ its/PRP$ approval/NN ]
+of/IN 
+[ the/DT company/NN 's/POS generic/JJ version/NN ]
+of/IN 
+[ Dyazide/NNP ]
+,/, 
+[ a/DT move/NN ]
+
+[ that/WDT ]
+could/MD cost/VB 
+[ Bolar/NNP ]
+as/RB much/RB as/IN 
+[ 40/CD %/NN ]
+of/IN about/RB 
+[ $/$ 130/CD million/CD ]
+in/IN 
+[ annual/JJ sales/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+could/MD also/RB lead/VB to/TO 
+[ higher/JJR consumer/NN costs/NNS ]
+,/, because/IN 
+[ Bolar/NNP 's/POS ]
+is/VBZ 
+[ the/DT ]
+only/RB 
+[ inexpensive/JJ version/NN ]
+of/IN 
+[ Dyazide/NNP ]
+,/, sold/VBD widely/RB as/IN 
+[ a/DT brand/NN name/NN product/NN ]
+by/IN 
+[ SmithKline/NNP Beecham/NNP PLC/NNP ]
+./. 
+
+[ Hemant/NNP Shah/NNP ]
+,/, 
+[ a/DT Warren/NNP ]
+,/, 
+[ N.J./NNP drug/NN analyst/NN ]
+,/, charges/VBZ that/IN ``/`` 
+[ Bolar/NNP ]
+'s/VBZ unfairly/RB twisting/VBG in/IN 
+[ the/DT wind/NN ]
+./. 
+
+ {/( 
+[ FDA/NNP Commissioner/NNP Frank/NNP ]
+ }/) 
+[ Young/NNP ]
+is/VBZ trying/VBG to/TO deliver/VB 
+[ bodies/NNS ]
+to/TO Dingell/NNP to/TO save/VB 
+[ his/PRP$ job/NN ]
+./. 
+
+''/'' Still/RB ,/, 
+[ he/PRP ]
+says/VBZ 
+[ Bolar/NNP 's/POS generic/JJ Dyazide/NNP sales/NNS ]
+have/VBP n't/RB been/VBN significantly/RB hurt/VBN ./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ Rep./NNP Dingell/NNP ]
+declined/VBD to/TO comment/VB about/IN 
+[ Bolar/NNP ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ n't/RB 
+[ any/DT point/NN ]
+in/IN commenting/VBG until/IN 
+[ the/DT facts/NNS ]
+are/VBP known/VBN ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ The/DT only/JJ concern/NN ]
+is/VBZ that/IN 
+[ the/DT facts/NNS ]
+be/VB known/VBN ./. 
+
+''/'' 
+======================================
+
+[ The/DT FDA/NNP ]
+has/VBZ yet/RB to/TO rule/VB on/IN whether/IN 
+[ Bolar/NNP ]
+committed/VBD 
+[ fraud/NN ]
+in/IN 
+[ its/PRP$ approval/NN application/NN ]
+./. 
+
+[ Generic-industry/JJ officials/NNS ]
+believe/VBP 
+[ the/DT ruling/NN has/VBZ n't/RB ]
+been/VBN made/VBN because/RB of/IN 
+[ an/DT internal/JJ FDA/NNP rift/NN ]
+between/IN 
+[ officials/NNS ]
+
+[ who/WP ]
+want/VBP to/TO placate/VB 
+[ Rep./NNP Dingell/NNP ]
+and/CC 
+[ others/NNS ]
+
+[ who/WP ]
+believe/VBP 
+[ Bolar/NNP ]
+did/VBD 
+[ nothing/NN ]
+wrong/JJ ./. 
+
+Meanwhile/RB ,/, 
+[ Bolar/NNP 's/POS stock/NN ]
+has/VBZ plummeted/VBN ,/, though/IN 
+[ it/PRP ]
+made/VBD 
+[ a/DT partial/NN recovery/NN ]
+in/IN 
+[ recent/JJ days/NNS ]
+in/IN 
+[ heavy/NN ]
+trading/NN ,/, closing/VBG at/IN 
+[ $/$ 21.75/CD ]
+up/RB 
+[ $/$ 1.125/CD ]
+,/, after/IN gaining/VBG 
+[ 75/CD cents/NNS ]
+on/IN 
+[ Friday/NNP ]
+./. 
+
+======================================
+
+[ One/CD indication/NN ]
+of/IN 
+[ the/DT FDA/NNP dispute/NN ]
+is/VBZ 
+[ the/DT conflicting/VBG positions/NNS ]
+of/IN 
+[ agency/NN officials/NNS ]
+./. 
+
+While/IN 
+[ FDA/NNP director/NN Young/NNP ]
+has/VBZ said/VBD 
+[ he/PRP ]
+wants/VBZ to/TO strip/VB 
+[ Bolar/NNP ]
+of/IN 
+[ its/PRP$ approval/NN ]
+for/IN 
+[ generic/JJ Dyazide/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT agency/NN 's/POS top/JJ scientists/NNS ]
+,/, 
+[ Dr./NNP Carl/NNP Peck/NNP ]
+,/, has/VBZ stated/VBN publicly/RB that/IN 
+[ Bolar/NNP 's/POS generic/JJ blood-pressure/JJ medicine/NN ]
+is/VBZ safe/JJ and/CC 
+[ effective/NN ]
+./. 
+
+======================================
+
+[ Bolar/NNP ]
+
+[ 's/POS Mr./NNP Shulman/NNP ]
+contends/VBZ that/IN 
+[ questions/NNS ]
+about/IN 
+[ generic/JJ Dyazide/NNP ]
+and/CC 
+[ the/DT approval/NN application/NN ]
+for/IN 
+[ an/DT anti-psychotic/JJ medicine/NN ]
+were/VBD resolved/VBN to/TO 
+[ the/DT FDA/NNP 's/POS satisfaction/NN years/NNS ]
+ago/RB ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+see/VBP 
+[ it/PRP ]
+as/IN 
+[ a/DT fight/NN ]
+between/IN 
+[ the/DT FDA/NNP scientific/JJ types/NNS ]
+and/CC 
+[ Young/NNP ]
+,/, ''/'' says/VBZ 
+[ William/NNP Haddad/NNP ]
+,/, 
+[ vice/NN chairman/NN ]
+of/IN 
+[ Schein/NNP Pharmaceutical/NNP Inc./NNP ]
+,/, of/IN 
+[ Port/NNP Washington/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ which/WDT ]
+receives/VBZ 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT profits/NNS ]
+from/IN 
+[ sales/NNS ]
+of/IN 
+[ Bolar/NNP ]
+
+[ 's/POS generic/JJ Dyazide/NNP ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT marketing/NN arrangement/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Shulman/NNP ]
+says/VBZ 
+[ he/PRP ]
+does/VBZ n't/RB intend/VB to/TO pull/VB 
+[ the/DT blood-pressure/JJ medicine/NN ]
+off/IN 
+[ the/DT market/NN ]
+./. 
+
+[ The/DT battle/NN ]
+over/IN 
+[ the/DT drug/NN ]
+,/, 
+[ he/PRP ]
+acknowledges/VBZ ,/, could/MD drag/VB out/RP for/IN 
+[ a/DT year/NN ]
+or/CC 
+[ more/JJR ]
+./. 
+
+During/IN 
+[ that/DT time/NN ]
+
+[ he/PRP ]
+predicts/VBZ 
+[ Bolar/NNP ]
+will/MD prove/VB 
+[ Bolar/NNP 's/POS product/NN ]
+is/VBZ equivalent/JJ to/TO 
+[ the/DT Dyazide/NNP ]
+manufactured/VBN by/IN 
+[ SmithKline/NNP ]
+,/, of/IN 
+[ Philadelphia/NNP ]
+./. 
+
+``/`` Eventually/RB 
+[ our/PRP$ Dyazide/NNP ]
+will/MD be/VB cleared/VBN ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+But/CC 
+[ an/DT FDA/NNP official/NN 's/POS testimony/NN ]
+before/IN 
+[ the/DT Dingell/NNP subcommittee/NN last/JJ week/NN ]
+severely/RB damaged/VBD 
+[ Bolar/NNP 's/POS credibility/NN ]
+./. 
+
+[ Paul/NNP Vogel/NNP ]
+,/, 
+[ deputy/NN compliance/NN director/NN ]
+,/, suggested/VBD that/IN 
+[ Bolar/NNP ]
+tried/VBD to/TO pass/VB off/RP 
+[ a/DT Sandoz/NNP Phamaceuticals/NNPS Co/NNP ]
+./. 
+
+[ anti-psychotic/JJ drug/NN ]
+as/IN 
+[ its/PRP$ own/JJ ]
+in/IN 
+[ laboratory/NN testing/NN ]
+in/IN 
+[ 1982/CD ]
+./. 
+
+======================================
+
+If/IN 
+[ Bolar/NNP ]
+was/VBD trying/VBG to/TO be/VB sneaky/JJ ,/, 
+[ it/PRP ]
+muffed/VBD 
+[ the/DT job/NN ]
+./. 
+
+[ The/DT faint/JJ outline/NN ]
+of/IN 
+[ the/DT distinctive/JJ Sandoz/NNP logo/NN ]
+can/MD be/VB seen/VBN on/IN 
+[ the/DT pills/NNS ]
+originally/RB submitted/VBD to/TO 
+[ the/DT testing/NN laboratory/NN ]
+./. 
+
+ (/( 
+[ Bolar/NNP ]
+eventually/RB resubmitted/VBD 
+[ different/JJ pills/NNS ]
+and/CC won/VBD 
+[ FDA/NNP approval/NN ]
+./. 
+
+ )/) 
+[ Mr./NNP Shulman/NNP ]
+insists/VBZ that/IN 
+[ the/DT problem/NN ]
+occured/VBD when/WRB 
+[ Bolar/NNP ]
+tried/VBD to/TO match/VB 
+[ the/DT color/NN ]
+of/IN 
+[ its/PRP$ pills/NNS ]
+with/IN 
+[ those/DT ]
+of/IN 
+[ brand-name/NNP Sandoz/NNP 's/POS ]
+and/CC mixed/VBN up/RP 
+[ the/DT pills/NNS ]
+of/IN 
+[ Sandoz/NNP ]
+with/IN 
+[ Bolar/NNP 's/POS ]
+./. 
+
+[ He/PRP ]
+says/VBZ if/IN 
+[ Bolar/NNP ]
+really/RB wanted/VBD to/TO cheat/VB ,/, 
+[ it/PRP ]
+could/MD have/VB completely/RB removed/VBN 
+[ the/DT Sandoz/NNP logo/NN ]
+from/IN 
+[ the/DT brand/NN name/NN pills/NNS ]
+and/CC recoated/VBN 
+[ them/PRP ]
+without/IN 
+[ a/DT logo/NN ]
+./. 
+
+``/`` 
+[ Nobody/NN ]
+would/MD try/VB to/TO wipe/VB 
+[ a/DT logo/NN ]
+off/RP {/( 
+[ a/DT brand-name/JJ product/NN ]
+ }/) ,/, ''/'' 
+[ Mr./NNP Shulman/NNP ]
+said/VBD ./. 
+
+Nonetheless/RB ,/, 
+[ he/PRP ]
+said/VBD 
+[ Bolar/NNP ]
+plans/VBZ 
+[ an/DT internal/JJ investigation/NN ]
+into/IN 
+[ the/DT incident/NN ]
+./. 
+
+======================================
+
+Yet/CC 
+[ Mr./NNP Shulman/NNP ]
+says/VBZ that/IN 
+[ his/PRP$ lack/NN ]
+of/IN 
+[ political/JJ savvy/NN ]
+probably/RB has/VBZ damaged/VBN 
+[ the/DT company/NN ]
+./. 
+
+In/IN 
+[ retrospect/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ the/DT newspaper/NN ads/NNS ]
+``/`` may/MD have/VB been/VBN 
+[ a/DT mistake/NN ]
+,/, ''/'' because/IN 
+[ they/PRP ]
+raised/VBD 
+[ the/DT ire/NN ]
+of/IN 
+[ congressional/JJ investigators/NNS ]
+./. 

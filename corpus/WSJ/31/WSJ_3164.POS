@@ -1,0 +1,78 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Control/NNP Data/NNP Corp./NNP ]
+said/VBD 
+[ its/PRP$ computer/NN products/NNS group/NN ]
+won/VBD 
+[ a/DT $/$ 365/CD million/CD ]
+,/, 
+[ 11-year/JJ contract/NN ]
+for/IN 
+[ a/DT global/JJ computer/NN network/NN ]
+from/IN 
+[ the/DT U.S./NNP Army/NNP Corps/NNP ]
+of/IN 
+[ Engineers/NNPS ]
+./. 
+
+======================================
+
+[ Control/NNP Data/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD begin/VB 
+[ delivery/NN ]
+of/IN 
+[ its/PRP$ Cyber/NNP mainframe/JJ computers/NNS ]
+,/, 
+[ network/NN services/NNS ]
+and/CC 
+[ support/NN services/NNS ]
+later/RB 
+[ this/DT year/NN ]
+./. 
+
+[ A/DT Honeywell/NNP Inc./NNP spokeswoman/NN ]
+confirmed/VBD that/IN 
+[ Honeywell/NNP ]
+was/VBD 
+[ an/DT unsuccessful/JJ bidder/NN ]
+for/IN 
+[ the/DT new/JJ Corps/NNP ]
+of/IN 
+[ Engineers/NNPS contract/NN ]
+,/, and/CC that/IN 
+[ the/DT Control/NNP Data/NNP equipment/NN ]
+will/MD be/VB replacing/VBG 
+[ Honeywell/NNP mainframe/JJ computers/NNS ]
+./. 
+
+======================================
+
+[ Control/NNP Data/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD subcontract/VB with/IN 
+[ the/DT New/NNP York-based/JJ telecommunications/NN giant/JJ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+for/IN 
+[ the/DT communication/NN network/NN ]
+linking/VBG 
+[ the/DT computers/NNS ]
+./. 

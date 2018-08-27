@@ -1,0 +1,51 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT seat/NN ]
+on/IN 
+[ the/DT Chicago/NNP Mercantile/NNP Exchange/NNP ]
+was/VBD sold/VBN for/IN 
+[ $/$ 452,000/CD ]
+,/, up/RB 
+[ $/$ 12,000/CD ]
+from/IN 
+[ the/DT previous/JJ sale/NN Sept/NNP ]
+./. 
+
+======================================
+
+[ Seats/NNS ]
+currently/RB are/VBP quoted/VBN at/IN 
+[ $/$ 440,000/CD bid/VBN ]
+,/, 
+[ $/$ 474,500/CD ]
+asked/VBN ./. 
+
+======================================
+
+[ The/DT record/JJ price/NN ]
+for/IN 
+[ a/DT full/JJ membership/NN ]
+on/IN 
+[ the/DT exchange/NN ]
+is/VBZ 
+[ $/$ 550,000/CD ]
+,/, set/VBN 
+[ March/NNP 9/CD ]
+,/, 
+[ 1989/CD ]
+./. 

@@ -1,0 +1,517 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT House/NNP ]
+,/, in/IN 
+[ the/DT first/JJ ]
+of/IN 
+[ what/WP ]
+is/VBZ expected/VBN to/TO be/VB 
+[ a/DT series/NN ]
+of/IN 
+[ retreats/NNS ]
+from/IN 
+[ major/JJ initiatives/NNS ]
+of/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+,/, voted/VBD to/TO repeal/VB 
+[ a/DT tax-law/NN provision/NN ]
+
+[ that/WDT ]
+compels/VBZ 
+[ companies/NNS ]
+to/TO give/VB 
+[ comparable/JJ fringe/NN benefits/NNS ]
+to/TO 
+[ top/JJ executives/NNS ]
+and/CC 
+[ rank-and-file/JJ workers/NNS ]
+./. 
+
+======================================
+
+[ The/DT vote/NN ]
+was/VBD 
+[ 390/CD ]
+to/TO 
+[ 36/CD ]
+./. 
+
+[ The/DT wide/JJ margin/NN ]
+stems/VBZ from/IN 
+[ the/DT united/JJ opposition/NN ]
+of/IN 
+[ business/NN ]
+to/TO 
+[ the/DT provision/NN ]
+,/, called/VBN 
+[ Section/NN 89/CD ]
+./. 
+
+[ Thousands/NNS ]
+of/IN 
+[ small/JJ businesses/NNS ]
+in/IN 
+[ the/DT lawmakers/NNS '/POS districts/NNS ]
+complained/VBD that/IN 
+[ the/DT provision/NN ]
+was/VBD overly/RB complicated/JJ ,/, too/RB costly/JJ and/CC 
+[ an/DT inhibition/NN ]
+to/TO 
+[ executive/NN ]
+recruiting/NN ./. 
+
+======================================
+
+[ Today/NN ]
+,/, 
+[ the/DT House/NNP ]
+will/MD decide/VB 
+[ the/DT fate/NN ]
+of/IN 
+[ a/DT proposal/NN ]
+,/, backed/VBN by/IN 
+[ President/NNP Bush/NNP ]
+but/CC opposed/VBN by/IN 
+[ Democratic/JJ leaders/NNS ]
+,/, 
+[ that/WDT ]
+would/MD reinstate/VB 
+[ a/DT lower/JJR tax/NN rate/NN ]
+for/IN 
+[ capital/NN gains/NNS ]
+./. 
+
+[ The/DT capital-gains/NNS differential/NN ]
+was/VBD eliminated/VBN by/IN 
+[ the/DT Tax/NNP Reform/NNP Act/NNP ]
+of/IN 
+[ 1986/CD ]
+,/, 
+[ which/WDT ]
+also/RB included/VBD 
+[ Section/NN 89/CD ]
+./. 
+
+[ Proponents/NNS ]
+of/IN 
+[ the/DT capital-gains/NNS tax/NN cut/NN ]
+said/VBD 
+[ they/PRP ]
+expect/VBP to/TO win/VB ,/, and/CC 
+[ private/JJ vote/NN ]
+counts/VBZ on/IN 
+[ both/DT ]
+
+[ sides/NNS ]
+of/IN 
+[ the/DT issue/NN ]
+suggest/VB 
+[ they/PRP ]
+are/VBP clearly/RB ahead/RB ./. 
+
+======================================
+
+But/CC even/RB if/IN 
+[ the/DT capital-gains/NNS measure/NN ]
+fails/VBZ ,/, 
+[ the/DT Democratic/JJ leaders/NNS '/POS alternative/NN ]
+also/RB represents/VBZ 
+[ a/DT retreat/NN ]
+from/IN 
+[ the/DT tax-overhaul/NN measure/NN ]
+./. 
+
+[ It/PRP ]
+would/MD expand/VB 
+[ the/DT tax/NN benefits/NNS ]
+for/IN 
+[ individual/JJ retirement/NN accounts/NNS ]
+,/, 
+[ which/WDT ]
+were/VBD sharply/RB pared/VBN in/IN 
+[ 1986/CD ]
+./. 
+
+[ The/DT alternative/JJ plan/NN ]
+also/RB would/MD raise/VB 
+[ the/DT top/JJ tax/NN rate/NN ]
+for/IN 
+[ individuals/NNS ]
+,/, 
+[ which/WDT ]
+was/VBD lowered/VBN in/IN 
+[ 1986/CD ]
+./. 
+
+======================================
+
+On/IN 
+[ another/DT issue/NN ]
+,/, 
+[ the/DT House/NNP next/JJ week/NN ]
+is/VBZ likely/JJ to/TO vote/VB to/TO repeal/VB 
+[ the/DT program/NN ]
+passed/VBD just/RB 
+[ last/JJ year/NN ]
+
+[ that/WDT ]
+provides/VBZ 
+[ federal/JJ insurance/NN ]
+for/IN 
+[ catastrophic/JJ illnesses/NNS ]
+./. 
+
+[ Senior/JJ citizens/NNS ]
+have/VBP complained/VBN bitterly/RB that/IN 
+[ the/DT income-tax/NN surcharge/NN ]
+
+[ that/WDT ]
+helps/VBZ 
+[ fund/NN ]
+
+[ the/DT program/NN ]
+is/VBZ too/RB high/JJ ./. 
+
+======================================
+
+[ Yesterday/NN 's/POS vote/NN ]
+
+[ itself/PRP ]
+was/VBD 
+[ a/DT retreat/NN ]
+from/IN 
+[ an/DT earlier/JJR fallback/NN position/NN ]
+./. 
+
+[ The/DT House/NNP Ways/NNPS ]
+and/CC 
+[ Means/NNPS Committee/NNP ]
+had/VBD proposed/VBN to/TO repeal/VB 
+[ most/JJS ]
+,/, but/CC not/RB 
+[ all/DT ]
+of/IN 
+[ Section/NN 89/CD ]
+./. 
+
+[ It/PRP ]
+had/VBD retained/VBN 
+[ anti-discrimination/JJ rules/NNS ]
+for/IN 
+[ health-insurance/NN plans/NNS ]
+for/IN ``/`` 
+[ executives/NNS ]
+only/RB ''/'' and/CC for/IN 
+[ professional/JJ service/NN corporations/NNS ]
+./. 
+
+[ The/DT committee/NN ]
+had/VBD judged/VBN 
+[ these/DT ]
+to/TO be/VB 
+[ the/DT plans/NNS ]
+
+[ that/WDT ]
+discriminated/VB 
+[ most/JJS ]
+against/IN 
+[ lower-paid/JJ workers/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT House/NNP ]
+decided/VBD to/TO excise/VB 
+[ all/DT ]
+of/IN 
+[ the/DT law/NN ]
+in/IN 
+[ what/WP ]
+
+[ Rep./NNP Byron/NNP Dorgan/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ N.D/NNP ]
+./. 
+
+ )/) called/VBD ``/`` 
+[ a/DT triumph/NN ]
+of/IN 
+[ common/JJ sense/NN ]
+over/IN 
+[ sophisticated/JJ theory/NN ]
+./. 
+
+''/'' 
+[ Ways/NNPS ]
+and/CC 
+[ Means/NNPS Chairman/NNP Dan/NNP Rostenkowski/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ill/NNP ]
+./. 
+
+ )/) disagreed/VBD ,/, calling/VBG 
+[ the/DT ]
+``/`` 
+[ full/JJ retreat/NN ]
+''/'' 
+[ an/DT ]
+``/`` 
+[ enormous/JJ mistake/NN ]
+''/'' 
+[ that/WDT ]
+benefits/VBZ 
+[ executives/NNS ]
+at/IN 
+[ the/DT expense/NN ]
+of/IN 
+[ the/DT rank-and-file/JJ worker/NN ]
+./. 
+
+======================================
+
+[ The/DT Section/NN 89/CD law/NN ]
+was/VBD 
+[ a/DT little-noticed/JJ provision/NN ]
+of/IN 
+[ the/DT mammoth/JJ tax-overhaul/NN legislation/NN ]
+enacted/VBN in/IN 
+[ 1986/CD ]
+,/, but/CC 
+[ it/PRP ]
+since/RB has/VBZ become/VBN 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS controversial/JJ sections/NNS ]
+of/IN 
+[ the/DT tax/NN code/NN ]
+./. 
+
+Designed/VBN to/TO encourage/VB 
+[ employers/NNS ]
+to/TO give/VB 
+[ rank-and-file/JJ workers/NNS ]
+
+[ the/DT same/JJ benefits/NNS ]
+as/IN 
+[ the/DT top/NN brass/NN ]
+,/, 
+[ it/PRP ]
+says/VBZ 
+[ tax-free/JJ fringe/NN benefits/NNS ]
+should/MD be/VB taxable/JJ unless/IN 
+[ they/PRP ]
+are/VBP given/VBN to/TO 
+[ most/JJS lower-paid/JJ employees/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT law/NN ]
+ran/VBD into/IN 
+[ trouble/NN ]
+because/IN 
+[ it/PRP ]
+required/VBD 
+[ companies/NNS ]
+to/TO do/VB 
+[ complicated/JJ tests/NNS ]
+of/IN 
+[ their/PRP$ benefit/NN plans/NNS ]
+to/TO determine/VB whether/IN 
+[ they/PRP ]
+discriminated/VBD ./. 
+
+[ Both/DT business/NN ]
+and/CC 
+[ labor/NN groups/NNS ]
+complained/VBD that/IN 
+[ the/DT requirements/NNS ]
+of/IN 
+[ the/DT provision/NN ]
+were/VBD too/RB complex/JJ ,/, and/CC 
+[ businesses/NNS ]
+claimed/VBD 
+[ they/PRP ]
+would/MD have/VB to/TO pay/VB 
+[ large/JJ sums/NNS ]
+to/TO 
+[ consultants/NNS ]
+,/, 
+[ accountants/NNS ]
+and/CC 
+[ attorneys/NNS ]
+to/TO understand/VB 
+[ the/DT mechanics/NNS ]
+of/IN 
+[ the/DT law/NN ]
+./. 
+
+[ Small/JJ businesses/NNS ]
+,/, in/IN 
+[ particular/NN ]
+,/, complained/VBD 
+[ the/DT testing/NN process/NN ]
+and/CC 
+[ fines/NNS ]
+for/IN violating/VBG 
+[ the/DT law/NN ]
+would/MD be/VB extremely/RB 
+[ costly/JJ ]
+,/, and/CC 
+[ many/DT ]
+said/VBD 
+[ it/PRP ]
+would/MD force/VB 
+[ businesses/NNS ]
+to/TO stop/VB 
+[ offering/VBG health/NN insurance/NN ]
+./. 
+
+======================================
+
+[ The/DT Bush/NNP administration/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ twice/RB pushed/VBN back/RB 
+[ the/DT compliance/NN date/NN ]
+of/IN 
+[ Section/NN 89/CD ]
+and/CC called/VBD for/IN 
+[ simplification/NN ]
+of/IN 
+[ the/DT law/NN ]
+,/, had/VBD 
+[ no/DT immediate/JJ comment/NN ]
+on/IN 
+[ the/DT repeal/NN vote/NN ]
+./. 
+
+======================================
+
+[ The/DT battle/NN ]
+over/IN 
+[ capital/NN gains/NNS ]
+heated/VBD up/RB 
+[ yesterday/NN ]
+,/, with/IN 
+[ House/NNP Democratic/JJ leaders/NNS ]
+making/VBG increasingly/RB 
+[ vigorous/JJ appeals/NNS ]
+for/IN 
+[ their/PRP$ alternative/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+were/VBD meeting/VBG with/IN 
+[ resistance/NN ]
+from/IN 
+[ liberals/NNS ]
+,/, 
+[ conservatives/NNS ]
+and/CC even/RB 
+[ members/NNS ]
+of/IN 
+[ the/DT leadership/NN ]
+./. 
+
+[ House/NNP Appropriations/NNPS Committee/NNP Chairman/NNP Jamie/NNP Whitten/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Miss/NNP ]
+./. 
+
+ )/) said/VBD 
+[ he/PRP ]
+was/VBD leaning/VBG toward/IN 
+[ the/DT capital-gains/NNS tax/NN cut/NN ]
+,/, though/IN 
+[ he/PRP ]
+had/VBD n't/RB made/VBN 
+[ a/DT final/JJ decision/NN ]
+./. 
+
+And/CC 
+[ liberal/JJ Rep./NNP Charles/NNP Rangel/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 
+
+ )/) said/VBD 
+[ he/PRP ]
+will/MD vote/VB against/IN 
+[ the/DT alternative/NN ]
+in/IN 
+[ part/NN ]
+because/IN 
+[ it/PRP ]
+expands/VBZ 
+[ IRAs/NNS ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+thinks/VBZ mostly/RB help/VB 
+[ higher-income/JJ people/NNS ]
+./. 
+
+Perhaps/RB as/RB many/JJ as/IN 
+[ 10/CD liberals/NNS ]
+might/MD oppose/VB 
+[ the/DT substitute/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT separate/JJ issue/NN ]
+,/, 
+[ the/DT House/NN ]
+voted/VBD 
+[ 250-173/CD ]
+to/TO eliminate/VB 
+[ a/DT provision/NN ]
+
+[ that/WDT ]
+would/MD have/VB required/VBN 
+[ equal/JJ representation/NN ]
+of/IN 
+[ employees/NNS ]
+and/CC 
+[ employers/NNS ]
+on/IN 
+[ the/DT trustee/NN boards/NNS ]
+
+[ that/WDT ]
+administer/VBP 
+[ single-employer/NN pension/NN plans/NNS ]
+./. 
+
+[ Multi-employer/JJ plans/NNS ]
+already/RB are/VBP subject/JJ to/TO 
+[ a/DT requirement/NN ]
+./. 

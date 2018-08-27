@@ -1,0 +1,291 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Chairman/NNP Lloyd/NNP Bentsen/NNP ]
+of/IN 
+[ the/DT Senate/NNP Finance/NNP Committee/NNP ]
+is/VBZ considering/VBG imposing/VBG 
+[ a/DT tax/NN ]
+on/IN 
+[ the/DT short-term/JJ trades/NNS ]
+of/IN 
+[ securities/NNS ]
+by/IN currently/RB 
+[ tax-free/JJ pension/NN funds/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ the/DT Texas/NNP Democrat/NNP ]
+said/VBD 
+[ he/PRP ]
+was/VBD considering/VBG 
+[ the/DT new/JJ levy/NN ]
+``/`` among/IN 
+[ other/JJ options/NNS ]
+''/'' as/IN 
+[ part/NN ]
+of/IN 
+[ his/PRP$ drive/NN ]
+to/TO raise/VB 
+[ enough/JJ taxes/NNS ]
+to/TO meet/VB 
+[ deficit-reduction/NN goals/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+[ He/PRP ]
+added/VBD that/IN 
+[ he/PRP ]
+
+[ has/VBZ n't/RB ]
+made/VBN 
+[ any/DT decision/NN ]
+about/IN 
+[ the/DT pension/NN option/NN ]
+./. 
+
+======================================
+
+[ The/DT notion/NN ]
+stems/VBZ from/IN 
+[ Sen./NNP Bentsen/NNP 's/POS interest/NN ]
+in/IN encouraging/VBG 
+[ long-range/JJ thinking/NN ]
+by/IN 
+[ American/JJ business/NN interests/NNS ]
+and/CC in/IN 
+[ discouraging/JJ short-term/JJ ]
+trading/NN for/IN 
+[ quick/JJ profits/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP deeply/RB concerned/JJ about/IN 
+[ the/DT churning/NN ]
+of/IN 
+[ stocks/NNS ]
+and/CC 
+[ short-term/JJ horizons/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ been/VBN particularly/RB true/JJ of/IN 
+[ the/DT pension/NN managers/NNS ]
+and/CC 
+[ some/DT ]
+of/IN 
+[ the/DT tax-free/JJ funds/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Sen./NNP Bentsen/NNP ]
+and/CC 
+[ his/PRP$ committee/NN ]
+soon/RB will/MD begin/VB 
+[ drafting/VBG legislation/NN ]
+designed/VBN to/TO raise/VB 
+[ some/DT $/$ 5.3/CD billion/CD ]
+in/IN 
+[ taxes/NNS ]
+to/TO reduce/VB 
+[ the/DT budget/NN deficit/NN ]
+./. 
+
+[ A/DT package/NN ]
+of/IN 
+[ proposals/NNS ]
+meeting/VBG 
+[ a/DT similar/JJ obligation/NN ]
+is/VBZ pending/VBG in/IN 
+[ the/DT House/NNP ]
+,/, and/CC is/VBZ scheduled/VBN to/TO be/VB voted/VBN on/RP as/RB early/RB as/IN 
+[ next/JJ week/NN ]
+./. 
+
+======================================
+
+[ The/DT House/NNP version/NN ]
+of/IN 
+[ the/DT revenue-raising/NN plan/NN ]
+,/, passed/VBN 
+[ last/JJ week/NN ]
+by/IN 
+[ the/DT House/NNP Ways/NNPS ]
+and/CC 
+[ Means/NNPS Committee/NNP ]
+,/, does/VBZ n't/RB include/VB 
+[ a/DT similar/JJ tax/NN ]
+on/IN 
+[ pension-fund/NN trades/NNS ]
+./. 
+
+======================================
+
+[ A/DT proposal/NN ]
+to/TO tax/VB 
+[ pension-fund/NN ]
+trading/NN would/MD cause/VB 
+[ tremors/NNS ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+,/, where/WRB 
+[ such/JJ a/DT levy/NN ]
+would/MD cut/VB 
+[ broker/NN commissions/NNS ]
+by/IN reducing/VBG trading/NN ./. 
+
+[ The/DT tax/NN ]
+would/MD also/RB be/VB 
+[ a/DT clear/JJ violation/NN ]
+of/IN 
+[ President/NNP Bush/NNP 's/POS ]
+``/`` 
+[ no/DT tax/NN ]
+''/'' 
+[ pledge/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT idea/NN ]
+would/MD be/VB 
+[ a/DT shrewd/JJ political/JJ response/NN ]
+by/IN 
+[ Sen./NNP Bentsen/NNP ]
+to/TO 
+[ efforts/NNS ]
+by/IN 
+[ Treasury/NNP Secretary/NNP Nicholas/NNP Brady/NNP ]
+to/TO devise/VB 
+[ measures/NNS ]
+to/TO discourage/VB 
+[ short-term/JJ thinking/NN ]
+by/IN 
+[ U.S./NNP businesses/NNS ]
+./. 
+
+[ A/DT senior/JJ Treasury/NNP official/NN ]
+said/VBD 
+[ the/DT department/NN has/VBZ n't/RB ]
+considered/VBN 
+[ any/DT proposals/NNS ]
+to/TO tax/VB 
+[ pension/NN funds/NNS ]
+,/, and/CC noted/VBD that/IN 
+[ that/DT ]
+would/MD clearly/RB violate/VB 
+[ the/DT president/NN 's/POS tax/NN stance/NN ]
+./. 
+
+But/CC 
+[ some/DT administration/NN officials/NNS ]
+are/VBP sympathetic/JJ to/TO 
+[ the/DT idea/NN ]
+./. 
+
+======================================
+
+Taxing/VBG 
+[ pension/NN funds/NNS ]
+also/RB has/VBZ 
+[ bipartisan/JJ support/NN ]
+on/IN 
+[ Capitol/NNP Hill/NNP ]
+./. 
+
+[ Republican/NNP Sen./NNP Nancy/NNP Kassebaum/NNP ]
+of/IN 
+[ Kansas/NNP ]
+wrote/VBD 
+[ a/DT column/NN ]
+in/IN 
+[ the/DT New/NNP York/NNP Times/NNP Aug./NNP 30/CD ]
+proposing/VBG 
+[ a/DT 20/CD %/NN capital-gains/NNS tax/NN ]
+on/IN 
+[ pension/NN investments/NNS ]
+held/VBN for/IN less/JJR than/IN 
+[ three/CD months/NNS ]
+./. 
+
+Under/IN 
+[ Sen./NNP Kassebaum/NNP 's/POS proposal/NN ]
+,/, 
+[ the/DT tax/NN ]
+would/MD be/VB reduced/VBN 
+[ each/DT quarter/NN ]
+and/CC phased/VBN out/RB for/IN 
+[ assets/NNS ]
+held/VBN more/JJR than/IN 
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+[ Sen./NNP Kassebaum/NNP ]
+said/VBD 
+[ she/PRP ]
+sent/VBD 
+[ a/DT copy/NN ]
+of/IN 
+[ the/DT column/NN ]
+to/TO 
+[ Sen./NNP Bentsen/NNP last/JJ week/NN ]
+and/CC received/VBD 
+[ a/DT note/NN ]
+from/IN 
+[ the/DT Finance/NNP Committee/NNP chairman/NN ]
+saying/VBG 
+[ he/PRP ]
+'d/MD like/VB to/TO discuss/VB 
+[ the/DT idea/NN ]
+with/IN 
+[ her/PRP ]
+./. 
+
+[ Staff/NN aides/NNS ]
+to/TO 
+[ Sen./NNP Kassebaum/NNP ]
+and/CC 
+[ Senate/NNP Minority/NNP Leader/NNP Robert/NNP Dole/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Kan/NNP ]
+./. 
+
+ )/) also/RB met/VBD with/IN 
+[ Treasury/NNP officials/NNS last/JJ week/NN ]
+to/TO promote/VB 
+[ the/DT idea/NN ]
+of/IN 
+[ taxing/VBG pension/NN funds/NNS ]
+./. 

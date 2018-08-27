@@ -1,0 +1,107 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+unveiled/VBD 
+[ two/CD facsimile/JJ offerings/NNS ]
+:/: 
+[ a/DT group/NN ]
+of/IN messaging/VBG 
+[ services/NNS ]
+and/CC 
+[ a/DT fax/NN machine/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ both/PDT ]
+
+[ a/DT fax/NN line/NN ]
+and/CC 
+[ a/DT telephone/NN line/NN ]
+./. 
+
+======================================
+
+[ AT&T/NNP Enhanced/NNP Fax/NNP ]
+is/VBZ 
+[ a/DT group/NN ]
+of/IN 
+[ services/NNS ]
+--/: 
+[ including/VBG fax/NN mailboxes/NNS ]
+,/, 
+[ fax/NN forwarding/NN ]
+,/, and/CC 
+[ mass-faxing/JJ capability/NN ]
+--/: aimed/VBN at/IN giving/VBG 
+[ users/NNS greater/JJR flexibility/NN ]
+./. 
+
+======================================
+
+[ Faxes/NNS ]
+can/MD be/VB sent/VBN to/TO 
+[ a/DT personal/JJ ]
+``/`` 
+[ mailbox/NN ]
+,/, ''/'' 
+[ which/WDT ]
+
+[ the/DT addressee/NN ]
+enters/VBZ with/IN 
+[ an/DT identification/NN code/NN ]
+./. 
+
+[ Faxes/NNS ]
+also/RB can/MD be/VB forwarded/VBN from/IN 
+[ a/DT mailbox/NN ]
+to/TO 
+[ a/DT designated/VBN fax/NN machine/NN ]
+./. 
+
+[ Users/NNS ]
+of/IN 
+[ Enhanced/NNP Fax/NNP ]
+also/RB can/MD send/VB 
+[ messages/NNS ]
+to/TO 
+[ thousands/NNS ]
+of/IN 
+[ destinations/NNS ]
+nearly/RB simultaneously/RB ,/, 
+[ AT&T/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT twin-line/JJ fax/NN machine/NN ]
+allows/VBZ 
+[ a/DT caller/NN ]
+to/TO speak/VB to/TO 
+[ his/PRP$ ]
+or/CC 
+[ her/PRP$ party/NN ]
+while/IN faxing/VBG 
+[ a/DT document/NN ]
+./. 
+
+[ The/DT model/NN 9015PF/CD ]
+can/MD sit/VB on/IN 
+[ a/DT desktop/NN ]
+or/CC can/MD be/VB portable/JJ ./. 

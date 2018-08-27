@@ -1,0 +1,99 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Ranked/VBN by/IN 
+[ assets/NNS ]
+as/IN determined/VBN by/IN 
+[ Worldscope/NNP ]
+./. 
+
+[ Figures/NNS ]
+are/VBP based/VBN on/IN 
+[ each/DT company/NN 's/POS 1988/CD fiscal-year/JJ results/NNS ]
+./. 
+
+======================================
+
+ (/( In/IN 
+[ millions/NNS ]
+of/IN 
+[ U.S./NNP dollars/NNS ]
+at/IN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+,/, 
+[ exchange/NN rates/NNS ]
+;/: 
+[ percentage/NN change/NN ]
+based/VBN on/IN 
+[ home/NN currency/NN ]
+ )/) 
+======================================
+
+ \*/SYM Not/RB 
+[ meaningful/JJ due/JJ ]
+to/TO 
+[ high/JJ inflation/NN ]
+and/CC 
+[ change/NN ]
+in/IN 
+[ currency/NN ]
+./. 
+
+======================================
+
+[ \*\*/SYM ]
+Excludes/VBZ 
+[ custody/NN assets/NNS ]
+and/CC 
+[ investment/NN trusts/NNS ]
+
+======================================
+
+[ \*\*\*/SYM ]
+Have/VBP agreed/VBN to/TO merge/VB ./. 
+
+======================================
+
+[ NOTE/NN ]
+:/: For/IN 
+[ comparative/JJ purposes/NNS    ]
+,/, 
+[ assets/NNS ]
+are/VBP calculated/VBN without/IN 
+[ contingent/JJ liabilities/NNS ]
+and/CC 
+[ loan-loss/NN reserves/NNS ]
+;/: 
+[ operational/JJ trust/NN assets/NNS ]
+of/IN 
+[ Japanese/JJ trust/NN banks/NNS ]
+are/VBP added/VBN toconsolidated/VBN 
+[ assets/NNS ]
+if/IN 
+[ they/PRP ]
+are/VBP presented/VBN separately/RB ./. 
+
+[ Capitalincludes/NNS  ]
+long-term/JJ 
+[ debt/NN ]
+,/, 
+[ non-equity/JJ reserves/NNS ]
+and/CC 
+[ shareholders/NNS '/POS equity/NN ]
+./. 

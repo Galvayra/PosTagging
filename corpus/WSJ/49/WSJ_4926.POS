@@ -1,0 +1,426 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT U.S./NNP knitwear/NN industry/NN ]
+petitioned/VBD 
+[ the/DT Bush/NNP administration/NN ]
+to/TO impose/VB 
+[ heavy/JJ penalty/NN duties/NNS ]
+on/IN 
+[ imports/NNS ]
+of/IN 
+[ acrylic-fiber/JJ sweaters/NNS ]
+from/IN 
+[ Hong/NNP Kong/NNP ]
+,/, 
+[ South/NNP Korea/NNP ]
+and/CC 
+[ Taiwan/NNP ]
+./. 
+
+======================================
+
+[ The/DT anti-dumping/JJ petition/NN ]
+is/VBZ 
+[ the/DT first/JJ ]
+to/TO be/VB filed/VBN against/IN 
+[ imported/JJ apparel/NN ]
+since/IN 
+[ the/DT products/NNS ]
+came/VBD under/IN 
+[ an/DT international/JJ quota/NN agreement/NN ]
+,/, and/CC 
+[ importers/NNS ]
+charged/VBD that/IN 
+[ the/DT complaint/NN ]
+could/MD undermine/VB 
+[ the/DT current/JJ textile-trade/JJ system/NN ]
+./. 
+
+======================================
+
+Acting/VBG for/IN 
+[ the/DT domestic/JJ sweater/NN manufacturers/NNS ]
+,/, 
+[ the/DT National/NNP Knitwear/NNP ]
+and/CC 
+[ Sportswear/NNP Association/NNP ]
+accused/VBD 
+[ the/DT three/CD countries/NNS ]
+of/IN ``/`` dumping/VBG ''/'' 
+[ sweaters/NNS ]
+,/, or/CC shipping/VBG 
+[ them/PRP ]
+to/TO 
+[ the/DT U.S./NNP ]
+at/IN 
+[ prices/NNS ]
+
+[ that/WDT ]
+are/VBP below/IN 
+[ production/NN costs/NNS ]
+or/CC below/IN 
+[ the/DT prices/NNS ]
+charged/VBN in/IN 
+[ their/PRP$ home/NN market/NN ]
+./. 
+
+======================================
+
+[ The/DT petition/NN ]
+sought/VBD 
+[ anti-dumping/JJ duties/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ 190/CD %/NN ]
+for/IN 
+[ sweaters/NNS ]
+from/IN 
+[ Taiwan/NNP ]
+,/, 
+[ 115/CD %/NN ]
+for/IN 
+[ Hong/NNP Kong/NNP ]
+and/CC 
+[ 94/CD %/NN ]
+for/IN 
+[ South/NNP Korea/NNP ]
+./. 
+
+[ Such/JJ duties/NNS ]
+are/VBP intended/VBN to/TO offset/VB 
+[ the/DT allegedly/RB unfair/JJ price/NN advantage/NN ]
+enjoyed/VBN by/IN 
+[ the/DT foreign/JJ producers/NNS ]
+./. 
+
+======================================
+
+[ U.S./NNP importers/NNS ]
+promptly/RB countercharged/VBD that/IN 
+[ the/DT action/NN ]
+could/MD undermine/VB 
+[ the/DT Multilateral/NNP Fiber/NNP Arrangement/NNP ]
+,/, or/CC 
+[ MFA/NNP ]
+,/, 
+[ the/DT pact/NN ]
+under/IN 
+[ which/WDT ]
+
+[ the/DT U.S./NNP ]
+and/CC 
+[ other/JJ countries/NNS ]
+regulate/VBP 
+[ textile/NN ]
+and/CC 
+[ apparel/NN imports/NNS ]
+through/IN 
+[ quotas/NNS ]
+./. 
+
+[ Martin/NNP Lewin/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+for/IN 
+[ the/DT U.S./NNP Association/NNP ]
+of/IN 
+[ Importers/NNP ]
+of/IN 
+[ Textiles/NNP ]
+and/CC 
+[ Apparel/NNP ]
+,/, claimed/VBD that/IN 
+[ the/DT complaint/NN ]
+threatens/VBZ 
+[ importers/NNS ]
+with/IN ``/`` 
+[ double/JJ jeopardy/NN ]
+''/'' since/IN 
+[ such/JJ duties/NNS ]
+would/MD further/RB restrict/VB 
+[ imports/NNS ]
+
+[ that/WDT ]
+already/RB are/VBP under/IN 
+[ quotas/NNS ]
+./. 
+
+======================================
+
+[ The/DT current/JJ MFA/NNP ]
+,/, 
+[ which/WDT ]
+runs/VBZ until/IN 
+[ July/NNP 1991/CD ]
+,/, calls/VBZ on/IN 
+[ the/DT signatories/NNS ]
+to/TO refrain/VB from/IN taking/VBG ``/`` 
+[ additional/JJ trade/NN measures/NNS ]
+''/'' 
+[ that/WDT ]
+would/MD have/VB 
+[ the/DT effect/NN ]
+of/IN ``/`` nullifying/VBG 
+[ the/DT objectives/NNS ]
+of/IN 
+[ this/DT arrangement/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT petition/NN ]
+is/VBZ n't/RB expected/VBN to/TO have/VB 
+[ any/DT immediate/JJ impact/NN ]
+on/IN 
+[ product/NN availability/NN ]
+and/CC 
+[ prices/NNS ]
+,/, as/RB sometimes/RB happens/VBZ when/WRB 
+[ anti-dumping/JJ petitions/NNS ]
+are/VBP filed/VBN ./. 
+
+[ Textile/NN traders/NNS ]
+say/VBP most/JJS of/IN 
+[ the/DT sweaters/NNS ]
+intended/VBN for/IN 
+[ the/DT fall/NN ]
+and/CC 
+[ Christmas/NNP seasons/NNS ]
+already/RB have/VBP been/VBN ordered/VBN ./. 
+
+======================================
+
+However/RB ,/, 
+[ importers/NNS ]
+worry/VBP that/IN 
+[ the/DT petition/NN ]
+could/MD be/VB just/RB 
+[ a/DT trial/NN balloon/NN ]
+to/TO test/VB 
+[ the/DT Bush/NNP administration/NN 's/POS tolerance/NN ]
+of/IN 
+[ such/JJ actions/NNS ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ it/PRP ]
+succeeds/VBZ ,/, 
+[ you/PRP ]
+'d/MD see/VB 
+[ a/DT wave/NN ]
+of/IN 
+[ anti-dumping/JJ complaints/NNS ]
+against/IN 
+[ other/JJ ]
+,/, 
+[ more/RBR meaningful/JJ apparel/NN categories/NNS ]
+,/, ''/'' warned/VBD 
+[ Bruce/NNP Mitchell/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+for/IN 
+[ the/DT Hong/NNP Kong/NNP Woolen/NNP ]
+and/CC 
+[ Synthetic/NNP Knitwear/NNP Manufacturers/NNP Association/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ 1988/CD shipments/NNS ]
+of/IN 
+[ acrylic/NN sweaters/NNS ]
+from/IN 
+[ the/DT three/CD Asian/JJ suppliers/NNS ]
+were/VBD valued/VBN at/IN 
+[ $/$ 631/CD million/CD ]
+,/, accounting/VBG for/IN 
+[ 53/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP market/NN ]
+./. 
+
+[ These/DT products/NNS ]
+were/VBD sold/VBN by/IN leading/JJ 
+[ U.S./NNP merchandisers/NNS ]
+,/, including/VBG 
+[ Sears/NNP ]
+,/, 
+[ Roebuck/NNP Co./NNP ]
+,/, 
+[ Dayton/NNP Hudson/NNP Corp./NNP ]
+,/, 
+[ K/NNP mart/NNP Corp./NNP ]
+,/, 
+[ R.H./NNP Macy/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, and/CC 
+[ Associated/NNP Merchandising/NNP Corp./NNP ]
+,/, according/VBG to/TO 
+[ the/DT knitwear/NN association/NN 's/POS petition/NN ]
+./. 
+
+======================================
+
+[ The/DT association/NN ]
+said/VBD 
+[ these/DT Asian/JJ products/NNS '/POS rapid/JJ penetration/NN ]
+of/IN 
+[ the/DT U.S./NNP market/NN ]
+forced/VBD 
+[ it/PRP ]
+to/TO act/VB ./. 
+
+``/`` 
+[ Imports/NNS ]
+now/RB control/VBP 
+[ 70/CD %/NN ]
+of/IN 
+[ the/DT domestic/JJ market/NN ]
+''/'' as/IN 
+[ a/DT result/NN ]
+of/IN ``/`` 
+[ unfair/JJ selling/NN prices/NNS ]
+,/, ''/'' complained/VBD 
+[ Ivan/NNP Gordon/NNP ]
+,/, 
+[ the/DT association/NN 's/POS president/NN ]
+./. 
+
+======================================
+
+[ Seth/NNP Bodner/NNP ]
+,/, 
+[ the/DT association/NN 's/POS executive/JJ director/NN ]
+,/, asserted/VBD that/IN as/RB much/JJ as/IN 
+[ $/$ 540/CD million/CD ]
+in/IN 
+[ anti-dumping/JJ duties/NNS ]
+could/MD be/VB imposed/VBN on/IN 
+[ Taiwanese/JJ sweaters/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ equivalent/JJ penalties/NNS ]
+of/IN 
+[ $/$ 250/CD million/CD ]
+could/MD be/VB slapped/VBN on/IN 
+[ sweaters/NNS ]
+from/IN 
+[ South/NNP Korea/NNP ]
+and/CC 
+[ $/$ 96/CD million/CD ]
+on/IN 
+[ those/DT ]
+from/IN 
+[ Hong/NNP Kong/NNP ]
+./. 
+
+======================================
+
+[ The/DT U.S./NNP International/NNP Trade/NNP Commission/NNP ]
+has/VBZ to/TO determine/VB that/IN 
+[ these/DT imports/NNS ]
+are/VBP hurting/VBG 
+[ U.S./NNP producers/NNS ]
+before/IN 
+[ the/DT Commerce/NNP Department/NNP ]
+can/MD start/VB investigating/VBG 
+[ the/DT dumping/NN allegations/NNS ]
+./. 
+
+[ The/DT ITC/NNP ruling/NN ]
+has/VBZ to/TO be/VB issued/VBN in/IN 
+[ 45/CD days/NNS ]
+and/CC 
+[ the/DT Commerce/NNP Department/NNP finding/NN ]
+must/MD be/VB issued/VBN in/IN 
+[ 160/CD days/NNS ]
+./. 
+
+[ The/DT entire/JJ investigation/NN ]
+could/MD run/VB for/IN 
+[ an/DT additional/JJ four/CD months/NNS ]
+before/IN 
+[ it/PRP ]
+is/VBZ finally/RB settled/VBN ./. 
+
+======================================
+
+If/IN 
+[ stiff/JJ punitive/JJ duties/NNS ]
+are/VBP eventually/RB placed/VBN on/IN 
+[ sweaters/NNS ]
+from/IN 
+[ the/DT three/CD Asian/JJ exporters/NNS ]
+,/, 
+[ it/PRP ]
+would/MD be/VB 
+[ a/DT ]
+comparatively/RB 
+[ bigger/JJR blow/NN ]
+to/TO 
+[ Taiwan/NNP ]
+and/CC 
+[ Korea/NNP ]
+than/IN to/TO 
+[ Hong/NNP Kong/NNP ]
+,/, 
+[ which/WDT ]
+focuses/VBZ more/RBR on/IN 
+[ upmarket/JJ wool/NN ]
+and/CC 
+[ cotton/NN sweaters/NNS ]
+./. 
+
+======================================
+
+[ The/DT penalties/NNS ]
+on/IN 
+[ the/DT three/CD Asian/JJ exporters/NNS ]
+also/RB could/MD cause/VB 
+[ sweater/NN production/NN ]
+to/TO shift/VB to/TO 
+[ nations/NNS ]
+with/IN 
+[ lower/JJR labor/NN costs/NNS ]
+and/CC 
+[ less-restrictive/JJ sweater/NN quotas/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Taiwan/NNP ]
+,/, 
+[ sweater/NN factories/NNS ]
+already/RB have/VBP been/VBN closing/VBG by/IN 
+[ the/DT dozens/NNS ]
+in/IN 
+[ recent/JJ years/NNS ]
+because/IN rising/VBG 
+[ wages/NNS ]
+and/CC 
+[ rapid/JJ currency/NN appreciation/NN ]
+have/VBP left/VBN 
+[ local/JJ manufacturers/NNS ]
+less/RBR competitive/JJ ./. 

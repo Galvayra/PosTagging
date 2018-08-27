@@ -1,0 +1,183 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Canadian/JJ regulators/NNS ]
+approved/VBD 
+[ the/DT 606/CD million/CD Canadian/NNP dollar/NN ]
+ (/( 
+[ US$/$ 513.6/CD million/CD ]
+ )/) 
+[ purchase/NN ]
+by/IN 
+[ Maclean/NNP Hunter/NNP Ltd./NNP ]
+of/IN 
+[ Selkirk/NNP Communications/NNPS Ltd./NNP ]
+,/, 
+[ a/DT Toronto-based/JJ television/NN ]
+and/CC 
+[ radio/NN broadcaster/NN ]
+./. 
+
+======================================
+
+However/RB ,/, 
+[ the/DT Canadian/JJ Radio-television/NN ]
+and/CC 
+[ Telecommunications/NNPS Commission/NNP ]
+rejected/VBD 
+[ part/NN ]
+of/IN 
+[ a/DT plan/NN ]
+by/IN 
+[ Maclean/NNP Hunter/NNP ]
+to/TO sell/VB 
+[ some/DT Selkirk/NNP TV/NN ]
+and/CC 
+[ radio/NN operations/NNS ]
+./. 
+
+[ Maclean/NNP Hunter/NNP ]
+is/VBZ 
+[ a/DT Toronto-based/JJ ]
+publishing/NN and/CC 
+[ broadcasting/NN company/NN ]
+./. 
+
+======================================
+
+[ The/DT commission/NN ]
+rejected/VBD 
+[ Maclean/NNP Hunter/NNP 's/POS proposal/NN ]
+to/TO sell/VB 
+[ two/CD Edmonton/NNP ]
+,/, 
+[ Alberta/NNP ]
+,/, 
+[ radio/NN stations/NNS ]
+to/TO 
+[ Westcom/NNP Radio/NNP Group/NNP Ltd./NNP ]
+,/, 
+[ a/DT subsidiary/NN ]
+of/IN 
+[ WIC/NNP Western/NNP International/NNP Communications/NNPS Ltd./NNP ]
+,/, 
+[ Vancouver/NNP ]
+./. 
+
+[ The/DT commission/NN ]
+said/VBD 
+[ it/PRP ]
+
+[ was/VBD n't/RB ]
+satisfied/VBN with/IN 
+[ Westcom/NNP 's/POS plans/NNS ]
+for/IN operating/VBG 
+[ the/DT stations/NNS ]
+./. 
+
+======================================
+
+[ The/DT regulators/NNS ]
+also/RB rejected/VBD 
+[ Maclean/NNP Hunter/NNP 's/POS proposal/NN ]
+to/TO sell/VB 
+[ a/DT Hamilton/NNP ]
+,/, 
+[ Ontario/NNP ]
+,/, 
+[ television/NN station/NN ]
+to/TO 
+[ Blackburn/NNP Group/NNP Inc./NNP ]
+,/, 
+[ a/DT ]
+closely/RB held/JJ publishing/NN and/CC  
+[ broadcasting/NN company/NN ]
+based/VBN in/IN 
+[ London/NNP ]
+,/, 
+[ Ontario/NNP ]
+,/, saying/VBG 
+[ they/PRP ]
+were/VBD n't/RB satisfied/VBN with/IN 
+[ the/DT prospective/JJ buyer/NN 's/POS plans/NNS ]
+for/IN strengthening/VBG 
+[ the/DT station/NN 's/POS operations/NNS ]
+./. 
+
+======================================
+
+[ The/DT panel/NN ]
+approved/VBD 
+[ Maclean/NNP Hunter/NNP 's/POS plans/NNS ]
+to/TO sell/VB 
+[ Selkirk/NNP 's/POS television/NN operations/NNS ]
+in/IN 
+[ Alberta/NNP ]
+and/CC 
+[ British/NNP Columbia/NNP ]
+to/TO 
+[ Western/NNP International/NNP Communications/NNPS ]
+and/CC to/TO sell/VB 
+[ Selkirk/NNP 's/POS radio/NN operations/NNS ]
+in/IN 
+[ the/DT same/JJ two/CD provinces/NNS ]
+to/TO 
+[ Toronto-based/JJ Rogers/NNP Communications/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT federal/JJ agency/NN ]
+ordered/VBD 
+[ Maclean/NNP Hunter/NNP ]
+to/TO invest/VB 
+[ C$/$ 21.2/CD million/CD ]
+in/IN 
+[ a/DT fund/NN ]
+to/TO be/VB used/VBN to/TO strengthen/VB 
+[ the/DT Canadian/JJ broadcasting/NN system/NN ]
+./. 
+
+[ It/PRP ]
+said/VBD 
+[ the/DT sum/NN ]
+represented/VBD 
+[ the/DT difference/NN ]
+between/IN 
+[ the/DT estimated/VBN C$/$ 627.2/CD million/CD value/NN ]
+of/IN 
+[ Selkirk/NNP 's/POS assets/NNS ]
+and/CC 
+[ the/DT C$/$ 606/CD million/CD ]
+that/IN 
+[ Maclean/NNP Hunter/NNP ]
+paid/VBD for/IN 
+[ them/PRP ]
+./. 
+
+[ The/DT agency/NN ]
+opposes/VBZ 
+[ capital/NN gains/NNS ]
+by/IN 
+[ companies/NNS ]
+on/IN 
+[ the/DT purchase/NN ]
+and/CC 
+[ sale/NN ]
+of/IN broadcasting/NN 
+[ assets/NNS ]
+./. 

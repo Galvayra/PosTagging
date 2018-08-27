@@ -1,0 +1,400 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT new/JJ Compton/NNP 's/POS MultiMedia/NNP Encyclopedia/NNP ]
+has/VBZ 
+[ an/DT entry/NN ]
+on/IN 
+[ Mozart/NNP ]
+,/, but/CC 
+[ it/PRP ]
+will/MD also/RB play/VB 
+[ his/PRP$ music/NN ]
+,/, including/VBG 
+[ some/DT ]
+of/IN ``/`` 
+[ Don/NNP Giovanni/NNP ]
+./. 
+
+''/'' 
+[ Anyone/NN ]
+researching/VBG 
+[ astronauts/NNS ]
+can/MD listen/VB to/TO 
+[ a/DT recording/NN ]
+of/IN 
+[ Neil/NNP Armstrong/NNP 's/POS first/JJ words/NNS ]
+on/IN 
+[ the/DT moon/NN ]
+./. 
+
+======================================
+
+Introduced/VBN at/IN 
+[ a/DT news/NN conference/NN yesterday/NN ]
+,/, 
+[ the/DT new/JJ electronic/JJ encyclopedia/NN ]
+compresses/VBZ 
+[ 26/CD volumes/NNS ]
+of/IN 
+[ the/DT current/JJ Compton/NNP 's/POS Encyclopedia/NNP ]
+,/, along/IN with/IN 
+[ music/NN ]
+,/, 
+[ speeches/NNS ]
+and/CC 
+[ animation/NN ]
+,/, onto/IN 
+[ a/DT single/JJ compact/JJ disk/NN ]
+./. 
+
+[ The/DT high-tech/JJ CD-ROM/NNP disks/NNS ]
+--/: for/IN 
+[ compact/JJ disk-read/JJ only/JJ memory/NN ]
+--/: will/MD be/VB 
+[ available/JJ ]
+beginning/VBG 
+[ next/JJ month/NN ]
+to/TO 
+[ schools/NNS ]
+,/, 
+[ libraries/NNS ]
+and/CC 
+[ corporations/NNS ]
+./. 
+
+[ The/DT cost/NN ]
+:/: 
+[ $/$ 795/CD ]
+per/IN 
+[ disk/NN ]
+,/, 
+[ several/JJ times/NNS ]
+
+[ the/DT $/$ 195/CD price/NN ]
+for/IN 
+[ the/DT book/NN version/NN ]
+./. 
+
+======================================
+
+[ The/DT disks/NNS ]
+resemble/VBP 
+[ standard/JJ audio/JJ disks/NNS ]
+,/, but/CC ca/MD n't/RB be/VB played/VBN on/IN 
+[ a/DT compact/JJ disk/NN player/NN ]
+./. 
+
+[ Their/PRP$ use/NN ]
+requires/VBZ 
+[ an/DT IBM/NNP personal/NN computer/NN ]
+or/CC 
+[ a/DT computer/NN ]
+compatible/JJ with/IN 
+[ machines/NNS ]
+made/VBN by/IN 
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+,/, plus/CC 
+[ a/DT CD-ROM/NNP player/NN ]
+and/CC 
+[ certain/JJ video/NN ]
+and/CC 
+[ sound/NN equipment/NN ]
+./. 
+
+======================================
+
+[ Stanley/NNP D./NNP Frank/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Britannica/NNP Software/NNP ]
+,/, says/VBZ that/IN 
+[ only/JJ ]
+about/RB 
+[ a/DT third/NN ]
+of/IN 
+[ the/DT schools/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+currently/RB have/VBP 
+[ the/DT hardware/NN ]
+needed/VBN to/TO play/VB 
+[ its/PRP$ new/JJ disk/NN ]
+,/, but/CC 
+[ he/PRP ]
+said/VBD 
+[ surveys/NNS ]
+show/VBP that/IN 
+[ another/DT third/NN hope/NN ]
+to/TO acquire/VB 
+[ the/DT necessary/JJ equipment/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Frank/NNP ]
+added/VBD that/IN about/RB 
+[ 250/CD schools/NNS ]
+have/VBP already/RB ordered/VBN 
+[ disks/NNS ]
+./. 
+
+[ Norman/NNP Bastin/NNP ]
+,/, 
+[ executive/JJ director/NN ]
+of/IN 
+[ planning/NN ]
+and/CC 
+[ development/NN ]
+for/IN 
+[ Britannica/NNP ]
+,/, said/VBD :/: ``/`` 
+[ We/PRP ]
+believe/VBP 
+[ this/DT ]
+will/MD be/VB 
+[ a/DT publishing/NN blockbuster/NN ]
+,/, and/CC 
+[ we/PRP ]
+expect/VBP to/TO make/VB 
+[ money/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Compton/NNP ]
+'s/POS ,/, 
+[ which/WDT ]
+is/VBZ owned/VBN by/IN privately/RB held/VBN 
+[ Encyclopaedia/NNP Britannica/NNP Inc./NNP ]
+of/IN 
+[ Chicago/NNP ]
+,/, said/VBD 
+[ it/PRP ]
+managed/VBD to/TO beat/VB 
+[ its/PRP$ rivals/NNS ]
+in/IN 
+[ the/DT encyclopedia/NN world/NN ]
+by/IN concentrating/VBG 
+[ 70/CD people/NNS ]
+on/IN 
+[ this/DT effort/NN ]
+for/IN 
+[ the/DT past/JJ 18/CD months/NNS ]
+./. 
+
+======================================
+
+[ Grolier/NNP Inc./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ French/JJ publisher/NN Hachette/NNP S.A./NNP ]
+,/, has/VBZ had/VBD 
+[ an/DT electronic/JJ version/NN ]
+of/IN 
+[ its/PRP$ encyclopedia/NN ]
+on/IN 
+[ the/DT market/NN ]
+since/IN 
+[ 1986/CD ]
+,/, but/CC without/IN 
+[ sound/NN ]
+or/CC 
+[ pictures/NNS ]
+./. 
+
+[ Grolier/NNP ]
+is/VBZ working/VBG on/IN 
+[ a/DT multi-media/NNS version/NN ]
+,/, too/RB ,/, but/CC 
+[ a/DT spokesman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+hopes/VBZ to/TO bring/VB out/RP 
+[ its/PRP$ version/NN ]
+next/JJ 
+[ year/NN ]
+,/, when/WRB 
+[ more/RBR sophisticated/JJ hardware/NN ]
+will/MD be/VB available/JJ ./. 
+
+[ World/NNP Book/NNP Inc./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN privately/RB held/VBN 
+[ Scott/NNP Fetzer/NNP Inc./NNP ]
+,/, said/VBD 
+[ its/PRP$ electronic/JJ model/NN ]
+is/VBZ currently/RB being/VBG tested/VBN in/IN 
+[ libraries/NNS ]
+and/CC will/MD be/VB unveiled/VBN later/RB 
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+[ The/DT disk/NN encyclopedia/NN ]
+is/VBZ geared/VBN to/TO 
+[ children/NNS ]
+aged/VBN 
+[ eight/CD ]
+to/TO 
+[ 18/CD ]
+,/, with/IN 
+[ special/JJ emphasis/NN ]
+on/IN 
+[ history/NN ]
+and/CC 
+[ geography/NN ]
+,/, such/JJ as/IN 
+[ a/DT special/JJ history/NN time-line/NN ]
+and/CC 
+[ a/DT spinning/VBG globe/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ kids/NNS ]
+to/TO zoom/VB into/IN 
+[ a/DT country/NN ]
+or/CC 
+[ region/NN ]
+./. 
+
+======================================
+
+Typing/NN 
+[ skills/NNS ]
+are/VBP n't/RB required/VBN ,/, because/IN desired/VBN 
+[ items/NNS ]
+are/VBP pointed/VBN out/RP by/IN 
+[ a/DT roving/VBG arrow/NN ]
+,/, controlled/VBN by/IN 
+[ a/DT simple/JJ hand-held/JJ ]
+``/`` 
+[ mouse/NN ]
+''/'' 
+[ device/NN ]
+./. 
+
+To/TO hear/VB 
+[ sounds/NNS ]
+corresponding/VBG to/TO 
+[ an/DT entry/NN ]
+,/, 
+[ the/DT arrow/NN ]
+is/VBZ moved/VBN on/IN 
+[ top/NN ]
+of/IN 
+[ a/DT tiny/JJ drawing/NN ]
+of/IN 
+[ earphones/NNS ]
+,/, while/IN 
+[ a/DT tiny/JJ camera/NN ]
+indicates/VBZ 
+[ a/DT photograph/NN ]
+is/VBZ available/JJ ./. 
+
+======================================
+
+Should/MD 
+[ a/DT child/NN stumble/NN ]
+over/IN 
+[ an/DT unfamiliar/JJ word/NN ]
+in/IN 
+[ the/DT encyclopedia/NN 's/POS descriptions/NNS ]
+,/, 
+[ he/PRP ]
+merely/RB squeezes/VBZ 
+[ the/DT ]
+``/`` 
+[ mouse/NN ]
+''/'' with/IN 
+[ the/DT pointer/NN ]
+on/IN 
+[ top/NN ]
+of/IN 
+[ the/DT word/NN ]
+:/: 
+[ Its/PRP$ definition/NN ]
+will/MD instantly/RB appear/VB from/IN 
+[ the/DT Merriam-Webster/NNP Intermediate/NNP Dictionary/NNP ]
+,/, 
+[ whose/WP$ ]
+
+[ 65,000/CD entries/NNS ]
+are/VBP also/RB on/IN 
+[ the/DT Compton/NNP 's/POS disk/NN ]
+./. 
+
+[ Students/NNS ]
+can/MD take/VB 
+[ notes/NNS ]
+in/IN 
+[ a/DT space/NN ]
+at/IN 
+[ the/DT bottom/NN ]
+of/IN 
+[ the/DT computer/NN screen/NN ]
+,/, and/CC 
+[ they/PRP ]
+can/MD save/VB 
+[ whatever/WDT entries/NNS they/PRP ]
+wish/VBP and/CC print/VB 
+[ them/PRP ]
+out/RP later/RB ./. 
+
+======================================
+
+Eventually/RB ,/, 
+[ Britannica/NNP ]
+said/VBD ,/, 
+[ its/PRP$ multimedia/NNS encyclopedia/NN ]
+will/MD be/VB sold/VBN to/TO 
+[ the/DT home/NN market/NN ]
+,/, but/CC 
+[ the/DT necessary/JJ hardware/NN ]
+is/VBZ n't/RB expected/VBN to/TO be/VB widely/RB marketed/VBN for/IN 
+[ home/NN use/NN ]
+for/IN 
+[ several/JJ years/NNS ]
+./. 
+
+======================================
+
+Among/IN 
+[ those/DT ]
+watching/VBG 
+[ the/DT demonstration/NN ]
+yesterday/NN was/VBD 
+[ science/NN fiction/NN writer/NN ]
+and/CC 
+[ futurist/NN Isaac/NNP Asimov/NNP ]
+./. 
+
+[ His/PRP$ reaction/NN ]
+?/. 
+
+``/`` 
+[ I/PRP ]
+wish/VBP 
+[ I/PRP ]
+were/VBD 
+[ a/DT kid/NN ]
+./. 

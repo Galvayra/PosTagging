@@ -1,0 +1,588 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Italy/NNP 's/POS national/JJ debt/NN problems/NNS ]
+have/VBP often/RB been/VBN described/VBN as/IN 
+[ pathological/JJ ]
+./. 
+
+Perhaps/RB 
+[ that/DT ]
+'s/VBZ why/WRB 
+[ Prime/NNP Minister/NNP Giulio/NNP Andreotti/NNP ]
+has/VBZ selected/VBN 
+[ a/DT psychiatrist/NN ]
+to/TO help/VB resolve/VB 
+[ them/PRP ]
+./. 
+
+======================================
+
+When/WRB 
+[ the/DT Andreotti/NNP government/NN ]
+unveils/VBZ 
+[ its/PRP$ 1990/CD budget/NN plans/NNS ]
+next/JJ 
+[ week/NN ]
+,/, 
+[ they/PRP ]
+will/MD bear/VB 
+[ the/DT stamp/NN ]
+of/IN 
+[ Paolo/NNP Cirino/NNP Pomicino/NNP ]
+,/, 
+[ a/DT 50-year-old/JJ Christian/NNP Democrat/NNP ]
+and/CC 
+[ Andreotti/NNP protege/NN ]
+
+[ who/WP ]
+has/VBZ been/VBN 
+[ the/DT minister/NN ]
+for/IN 
+[ budget/NN ]
+and/CC 
+[ planning/NN ]
+since/IN 
+[ July/NNP ]
+./. 
+
+``/`` 
+[ He/PRP ]
+'s/VBZ 
+[ Andreotti/NNP 's/POS man/NN ]
+in/IN setting/VBG 
+[ economic/JJ policy/NN ]
+,/, ''/'' says/VBZ 
+[ a/DT leading/VBG banker/NN ]
+./. 
+
+``/`` And/CC 
+[ Andreotti/NNP ]
+is/VBZ trying/VBG to/TO restore/VB 
+[ that/DT job/NN ]
+to/TO 
+[ a/DT power/NN ]
+that/IN 
+[ it/PRP ]
+
+[ has/VBZ n't/RB ]
+had/VBN for/IN 
+[ years/NNS ]
+./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ The/DT state/NN ]
+has/VBZ been/VBN in/IN hiding/NN when/WRB 
+[ it/PRP ]
+comes/VBZ to/TO budget/VB 
+[ policy/NN ]
+,/, ''/'' declares/VBZ 
+[ the/DT Naples-born/JJ Mr./NNP Cirino/NNP Pomicino/NNP ]
+in/IN 
+[ an/DT interview/NN ]
+./. 
+
+In/IN 
+[ recent/JJ years/NNS ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ Italy/NNP ]
+``/`` has/VBZ concentrated/VBN only/RB on/IN 
+[ monetary/JJ policy/NN ]
+--/: ``/`` by/IN 
+[ keeping/VBG interest/NN rates/NNS ]
+high/JJ to/TO finance/VB 
+[ its/PRP$ huge/JJ deficit/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+hopes/VBZ to/TO change/VB that/DT by/IN ``/`` picking/VBG out/RP 
+[ a/DT few/JJ areas/NNS ]
+
+[ that/WDT ]
+are/VBP essential/JJ to/TO 
+[ the/DT national/JJ interest/NN ]
+and/CC concentrating/VBG on/IN making/VBG 
+[ them/PRP ]
+work/VB ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ He/PRP ]
+hopes/VBZ to/TO slash/VB 
+[ 40/CD trillion/CD lire/NNS ]
+ (/( 
+[ $/$ 28.39/CD billion/CD ]
+ )/) from/IN 
+[ the/DT government/NN 's/POS budget/NN deficit/NN ]
+for/IN 
+[ 1990/CD ]
+,/, limiting/VBG 
+[ its/PRP$ borrowing/NN requirement/NN ]
+to/TO 
+[ 136/CD trillion/CD lire/NNS ]
+,/, instead/RB of/IN 
+[ the/DT estimated/JJ 176/CD trillion/CD lire/NNS ]
+
+[ it/PRP ]
+would/MD reach/VB without/IN 
+[ any/DT government/NN action/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT country/NN ]
+where/WRB 
+[ the/DT fall/NN budget/NN process/NN ]
+is/VBZ referred/VBN to/TO literally/RB as/IN 
+[ an/DT ]
+``/`` 
+[ economic/JJ ]
+maneuver/NN ,/, ''/'' 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+has/VBZ 
+[ some/DT unusual/JJ moves/NNS ]
+planned/VBN ./. 
+
+Sitting/VBG in/IN 
+[ a/DT corner/NN ]
+of/IN 
+[ his/PRP$ cavernous/JJ office/NN ]
+adorned/VBN with/IN 
+[ an/DT oil/NN painting/NN ]
+of/IN 
+[ Count/NNP Camillo/NNP Cavour/NNP ]
+,/, 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+says/VBZ 
+[ he/PRP ]
+'d/MD like/VB to/TO set/VB up/RP 
+[ a/DT special/JJ state-owned/JJ fund/NN ]
+to/TO manage/VB 
+[ all/PDT the/DT palazzi/NNS ]
+,/, 
+[ lands/NNS ]
+,/, 
+[ beaches/NNS ]
+and/CC 
+[ other/JJ bits/NNS ]
+of/IN 
+[ real/JJ estate/NN ]
+owned/VBN by/IN 
+[ the/DT Italian/JJ state/NN ]
+./. 
+
+``/`` 
+[ The/DT fund/NN ]
+could/MD manage/VB 
+[ things/NNS ]
+to/TO make/VB 
+[ money/NN ]
+;/: 
+[ it/PRP ]
+could/MD even/RB sell/VB 
+[ some/DT assets/NNS ]
+when/WRB 
+[ appropriate/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+even/RB professes/VBZ not/RB to/TO oppose/VB --/: in/IN 
+[ principle/NN ]
+--/: 
+[ the/DT partial/NN privatization/NN ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ Italy/NNP 's/POS banks/NNS ]
+,/, 
+[ which/WDT ]
+
+[ Treasury/NNP Minister/NNP Guido/NNP Carli/NNP ]
+openly/RB proposed/VBD in/IN 
+[ a/DT recent/JJ speech/NN ]
+./. 
+
+[ The/DT idea/NN ]
+is/VBZ controversial/JJ in/IN 
+[ Italy/NNP ]
+because/IN 
+[ many/JJ fear/NN ]
+taking/VBG 
+[ Italy/NNP 's/POS banks/NNS ]
+private/JJ --/: around/RB 
+[ 80/CD %/NN ]
+of/IN 
+[ them/PRP ]
+are/VBP state-controlled/JJ --/: would/MD mean/VB turning/VBG 
+[ them/PRP ]
+over/RP to/TO 
+[ industrialists/NNS ]
+like/IN 
+[ Carlo/NNP De/NNP Benedetti/NNP ]
+or/CC 
+[ Fiat/NNP 's/POS Agnelli/NNP family/NN ]
+./. 
+
+======================================
+
+[ Political/JJ parties/NNS ]
+,/, 
+[ which/WDT ]
+parcel/VBP out/RP 
+[ the/DT top/JJ jobs/NNS ]
+at/IN 
+[ banks/NNS ]
+,/, are/VBP also/RB loath/JJ to/TO lose/VB 
+[ the/DT power/NN ]
+associated/VBN with/IN 
+[ state/NN control/NN ]
+of/IN 
+[ banks/NNS ]
+./. 
+
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+thinks/VBZ 
+[ it/PRP ]
+would/MD be/VB better/JJR to/TO wait/VB ``/`` until/IN 
+[ our/PRP$ stock/NN ]
+of/IN 
+[ debt/NN ]
+is/VBZ reduced/VBN and/CC 
+[ families/NNS ]
+are/VBP looking/VBG for/IN 
+[ investments/NNS ]
+as/IN 
+[ an/DT alternative/NN ]
+to/TO 
+[ Treasury/NNP paper/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT shorter/JJR term/NN ]
+,/, 
+[ he/PRP ]
+plans/VBZ to/TO target/VB 
+[ state/NN aid/NN ]
+to/TO 
+[ companies/NNS ]
+,/, 
+[ highway/NN building/NN ]
+and/CC 
+[ defense/NN ]
+for/IN spending/NN 
+[ cuts/NNS ]
+./. 
+
+Meanwhile/RB ,/, 
+[ the/DT prices/NNS ]
+of/IN 
+[ gasoline/NN ]
+,/, 
+[ water/NN ]
+and/CC 
+[ train/NN tickets/NNS ]
+--/: 
+[ all/DT ]
+of/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+says/VBZ 
+[ cost/VBP ]
+too/RB little/JJ in/IN 
+[ Italy/NNP ]
+--/: are/VBP scheduled/VBN for/IN 
+[ big/JJ increases/NNS ]
+./. 
+
+======================================
+
+``/`` Why/WRB should/MD 
+[ we/PRP ]
+be/VB subsidizing/VBG 
+[ research/NN ]
+by/IN 
+[ big/JJ corporations/NNS ]
+?/. ''/'' 
+[ he/PRP ]
+asks/VBZ ./. 
+
+``/`` 
+[ They/PRP ]
+do/VBP n't/RB need/VB 
+[ the/DT government/NN 's/POS money/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+says/VBZ 
+[ he/PRP ]
+expects/VBZ to/TO save/VB 
+[ one/CD trillion/CD lire/NNS ]
+on/IN 
+[ subsidies/NNS ]
+to/TO 
+[ industry/NN next/JJ year/NN ]
+./. 
+
+======================================
+
+[ A/DT former/JJ head/NN ]
+of/IN 
+[ the/DT parliamentary/JJ budget/NN commission/NN ]
+,/, 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+has/VBZ been/VBN 
+[ one/CD ]
+of/IN 
+[ the/DT rising/VBG stars/NNS ]
+of/IN 
+[ the/DT Christian/NNP Democratic/NNP party/NN ]
+./. 
+
+As/IN 
+[ minister/NN ]
+of/IN 
+[ labor/NN ]
+in/IN 
+[ the/DT government/NN ]
+of/IN 
+[ Ciriaco/NNP De/NNP Mita/NNP ]
+,/, 
+[ he/PRP ]
+introduced/VBD 
+[ important/JJ changes/NNS ]
+like/IN 
+[ part-time/JJ work/NN ]
+and/CC 
+[ job/NN mobility/NN ]
+for/IN 
+[ publicsector/JJ employees/NNS ]
+./. 
+
+======================================
+
+[ The/DT budget/NN post/NN ]
+,/, however/RB ,/, is/VBZ sure/JJ to/TO be/VB 
+[ an/DT even/RB bigger/JJR ]
+challenge/NN ,/, because/IN spending/NN 
+[ cuts/NNS ]
+involve/VBP attacking/VBG 
+[ long/RB entrenched/VBN interests/NNS ]
+--/: 
+[ something/NN ]
+
+[ few/JJ politicians/NNS ]
+seem/VBP willing/JJ to/TO do/VB ,/, especially/RB in/IN 
+[ Italy/NNP ]
+./. 
+
+By/IN 
+[ most/JJS counts/NNS ]
+,/, 
+[ Prime/NNP Minister/NNP Andreotti/NNP ]
+has/VBZ given/VBN 
+[ the/DT budget/NN chief/NN ]
+
+[ a/DT lot/NN ]
+of/IN 
+[ latitude/NN ]
+in/IN drawing/VBG up/RP 
+[ the/DT budget/NN plan/NN ]
+--/: unlike/IN 
+[ Mr./NNP De/NNP Mita/NNP ]
+,/, 
+[ whose/WP$ own/JJ staff/NN ]
+did/VBD much/RB of/IN 
+[ the/DT budget/NN planning/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ That/DT way/NN ]
+,/, if/IN 
+[ there/EX ]
+are/VBP 
+[ any/DT disputes/NNS ]
+,/, 
+[ Mr./NNP Andreotti/NNP ]
+wo/MD n't/RB be/VB seen/VBN as/IN 
+[ the/DT cause/NN ]
+of/IN 
+[ them/PRP ]
+and/CC wo/MD n't/RB risk/VB being/VBG 
+[ unpopular/JJ ]
+,/, ''/'' says/VBZ 
+[ the/DT banker/NN ]
+./. 
+
+``/`` In/IN 
+[ fact/NN ]
+,/, 
+[ he/PRP ]
+'ll/MD be/VB able/JJ to/TO step/VB in/RP as/IN 
+[ the/DT mediator/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Whether/NNP Mr./NNP Andreotti/NNP ]
+will/MD be/VB called/VBN in/RP to/TO mediate/VB remains/VBZ to/TO be/VB seen/VBN ./. 
+
+[ Confindustria/NNP ]
+,/, 
+[ Italy/NNP 's/POS industry/NN confederation/NN ]
+,/, has/VBZ already/RB been/VBN loudly/RB denouncing/VBG 
+[ proposals/NNS ]
+
+[ that/WDT ]
+would/MD cut/VB back/RP 
+[ tax/NN deductions/NNS ]
+for/IN 
+[ social/JJ costs/NNS ]
+./. 
+
+And/CC in/IN 
+[ a/DT separate/JJ interview/NN ]
+,/, 
+[ Mr./NNP Cirino/NNP Pomicino/NNP 's/POS colleague/NN ]
+,/, 
+[ Treasury/NNP Minister/NNP Guido/NNP Carli/NNP ]
+,/, is/VBZ far/RB more/RBR cautious/JJ about/IN 
+[ the/DT budget/NN process/NN ]
+,/, declining/VBG to/TO cite/VB 
+[ figures/NNS ]
+for/IN spending/NN 
+[ cuts/NNS ]
+./. 
+
+[ He/PRP ]
+does/VBZ say/VB ,/, however/RB ,/, that/IN in/IN 
+[ contrast/NN ]
+to/TO 
+[ many/JJ past/JJ budgets/NNS ]
+,/, spending/NN 
+[ reductions/NNS ]
+in/IN 
+[ the/DT next/JJ plan/NN ]
+``/`` will/MD be/VB concentrated/VBN in/IN 
+[ the/DT first/JJ year/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Carli/NNP ]
+,/, like/IN 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+,/, is/VBZ aware/JJ that/IN 
+[ many/JJ economists/NNS ]
+consider/VBP 
+[ 1990/CD ]
+
+[ an/DT important/JJ year/NN ]
+for/IN 
+[ Italy/NNP ]
+./. 
+
+Not/RB only/RB will/MD 
+[ a/DT large/JJ portion/NN ]
+of/IN 
+[ the/DT country/NN 's/POS short-term/JJ Treasury/NNP bills/NNS ]
+come/VBP 
+[ due/JJ ]
+,/, but/CC 
+[ Italians/NNPS ]
+after/IN 
+[ June/NNP 30/CD will/NN ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+be/VB allowed/VBN to/TO open/VB 
+[ foreign/JJ bank/NN accounts/NNS ]
+./. 
+
+Unless/IN 
+[ strong/JJ action/NN ]
+is/VBZ taken/VBN on/IN 
+[ the/DT deficit/NN ]
+,/, 
+[ many/JJ economists/NNS ]
+have/VBP warned/VBN ,/, 
+[ Italy/NNP ]
+could/MD face/VB 
+[ capital/NN flight/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ Mr./NNP Carli/NNP ]
+thinks/VBZ 
+[ the/DT significance/NN ]
+has/VBZ been/VBN exaggerated/VBN ./. 
+
+``/`` 
+[ The/DT change/NN ]
+only/RB applies/VBZ to/TO 
+[ physical/JJ persons/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, adding/VBG that/IN ``/`` 
+[ companies/NNS ]
+can/MD already/RB move/VB 
+[ their/PRP$ capital/NN ]
+out/IN of/IN 
+[ the/DT country/NN ]
+./. 
+
+''/'' 
+======================================
+
+Nonetheless/RB ,/, 
+[ both/DT ]
+
+[ he/PRP ]
+and/CC 
+[ Mr./NNP Cirino/NNP Pomicino/NNP ]
+agree/VBP that/IN strongly/RB reducing/VBG 
+[ the/DT budget/NN deficit/NN ]
+and/CC 
+[ getting/VBG spending/NN ]
+under/IN 
+[ control/NN ]
+are/VBP 
+[ critical/JJ problems/NNS ]
+for/IN 
+[ Italy/NNP ]
+./. 

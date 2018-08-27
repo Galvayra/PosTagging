@@ -1,0 +1,213 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ MEI/NNP Diversified/NNP Inc./NNP ]
+agreed/VBD to/TO acquire/VB 
+[ LecTec/NNP Corp./NNP ]
+for/IN 
+[ stock/NN ]
+currently/RB 
+[ worth/JJ $/$ 17.6/CD million/CD ]
+./. 
+
+In/IN 
+[ a/DT related/VBN transaction/NN ]
+,/, 
+[ the/DT two/CD ]
+also/RB agreed/VBD  
+[ MEI/NNP ]
+will/MD help/VB 
+[ LecTec/NNP ]
+finance/VB 
+[ a/DT $/$ 42-million/CD purchase/NN ]
+of/IN 
+[ a/DT Baxter/NNP International/NNP Inc./NNP unit/NN ]
+./. 
+
+======================================
+
+[ The/DT agreement/NN ]
+,/, 
+[ which/WDT ]
+requires/VBZ 
+[ approval/NN ]
+by/IN 
+[ both/DT ]
+
+[ regulators/NNS ]
+and/CC 
+[ LecTec/NNP stockholders/NNS ]
+,/, 
+[ calls/VBZ ]
+for/IN 
+[ LecTec/NNP holders/NNS ]
+to/TO receive/VB for/IN 
+[ each/DT ]
+of/IN 
+[ their/PRP$ common/JJ shares/NNS nine-tenths/NNS ]
+of/IN 
+[ an/DT MEI/NNP common/JJ share/NN ]
+./. 
+
+[ The/DT pact/NN ]
+represents/VBZ 
+[ a/DT slight/JJ sweetening/NN ]
+from/IN 
+[ the/DT 0.88/CD MEI/NNP ]
+share/NN 
+[ LecTec/NNP holders/NNS ]
+would/MD have/VB received/VBN under/IN 
+[ an/DT earlier/JJR tentative/JJ agreement/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ national/JJ over-the-counter/JJ trading/NN yesterday/NN ]
+,/, 
+[ LecTec/NNP shares/NNS ]
+moved/VBN up/RP 
+[ 12.5/CD cents/NNS ]
+to/TO close/VB at/IN 
+[ $/$ 5.375/CD ]
+;/: 
+[ MEI/NNP shares/NNS ]
+were/VBD unchanged/JJ at/IN 
+[ $/$ 6.375/CD ]
+in/IN 
+[ composite/JJ New/NNP York/NNP Stock/NNP Exchange/NNP ]
+trading/NN ./. 
+
+======================================
+
+[ LecTec/NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ medical/JJ products/NNS ]
+for/IN 
+[ the/DT skin/NN ]
+,/, also/RB agreed/VBD with/IN  
+[ Baxter/NNP ]
+to/TO acquire/VB 
+[ its/PRP$ New/NNP Dimensions/NNP ]
+in/IN 
+[ Medicine/NNP unit/NN ]
+for/IN 
+[ $/$ 42/CD million/CD ]
+and/CC 
+[ assumption/NN ]
+of/IN 
+[ some/DT debt/NN ]
+./. 
+
+[ New/NNP Dimensions/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Baxter/NNP 's/POS operating-room/NN division/NN ]
+,/, manufactures/VBZ 
+[ electrodes/NNS ]
+,/, 
+[ cables/NNS ]
+and/CC 
+[ electrosurgical/JJ products/NNS ]
+./. 
+
+======================================
+
+[ MEI/NNP ]
+and/CC 
+[ LecTec/NNP ]
+agreed/VBD that/IN 
+[ MEI/NNP ]
+--/: 
+[ a/DT snack/NN ]
+and/CC 
+[ health-food/NN distributor/NN ]
+
+[ that/WDT ]
+has/VBZ said/VBD 
+[ it/PRP ]
+is/VBZ seeking/VBG to/TO expand/VB into/IN 
+[ other/JJ fields/NNS ]
+--/: will/MD provide/VB financing/NN for/IN 
+[ LecTec/NNP 's/POS purchase/NN ]
+of/IN 
+[ New/NNP Dimensions/NNP ]
+./. 
+
+[ The/DT purchase/NN ]
+is/VBZ expected/VBN to/TO be/VB completed/VBN within/IN 
+[ a/DT month/NN ]
+./. 
+
+[ MEI/NNP 's/POS owners/NNS ]
+include/VBP 
+[ investor/NN Irwin/NNP Jacobs/NNP ]
+./. 
+
+======================================
+
+[ Baxter/NNP ] 
+,/, 
+[ a/DT manufacturer/NN ]
+of/IN 
+[ health-care/JJ products/NNS ]
+based/VBN in/IN 
+[ Deerfield/NNP ]
+,/, 
+[ Ill./NNP ]
+,/, will/MD distribute/VB 
+[ New/NNP Dimensions/NNP products/NNS ]
+--/: and/CC probably/RB 
+[ some/DT LecTec/NNP products/NNS ]
+,/, too/RB --/: according/VBG to/TO 
+[ contract/NN terms/NNS ]
+./. 
+
+======================================
+
+[ Baxter/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ selling/VBG 
+[ New/NNP Dimensions/NNP ]
+because/IN 
+[ its/PRP$ operating-room/NN division/NN ]
+is/VBZ now/RB focusing/VBG on/IN 
+[ products/NNS ]
+solely/RB used/VBN in/IN 
+[ hospital/NN ]
+operating/NN 
+[ rooms/NNS ]
+./. 
+
+[ Annual/JJ sales/NNS ]
+for/IN 
+[ New/NNP Dimensions/NNP range/VBP ]
+from/IN 
+[ $/$ 35/CD million/CD ]
+to/TO 
+[ $/$ 40/CD million/CD ]
+;/: 
+[ the/DT acquisition/NN ]
+overshadows/VBZ 
+[ Lectec/NNP 's/POS own/JJ annual/JJ sales/NNS ]
+of/IN about/RB 
+[ $/$ 6/CD million/CD ]
+./. 

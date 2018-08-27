@@ -1,0 +1,51 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Joe/NNP Frank/NNP Sanderson/NNP Jr./NNP ]
+was/VBD elected/VBN 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+of/IN 
+[ this/DT poultry/NN producer/NN ]
+./. 
+
+[ Joe/NNP Frank/NNP Sanderson/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ currently/RB 
+[ chairman/NN ]
+,/, 
+[ chief/JJ executive/NN ]
+and/CC 
+[ treasurer/NN ]
+,/, will/MD remain/VB 
+[ chairman/NN ]
+./. 
+
+[ The/DT current/JJ president/NN ]
+and/CC 
+[ chief/JJ operating/VBG officer/NN ]
+,/, 
+[ J./NNP Odell/NNP Johnson/NNP ]
+,/, was/VBD elected/VBN to/TO 
+[ the/DT new/JJ position/NN ]
+of/IN 
+[ vice/NN chairman/NN ]
+of/IN 
+[ the/DT board/NN ]
+./. 

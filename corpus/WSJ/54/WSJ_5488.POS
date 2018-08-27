@@ -1,0 +1,296 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Tucson/NNP Electric/NNP Power/NNP Co./NNP stock/NN ]
+rose/VBD on/IN 
+[ heavy/JJ volume/NN yesterday/NN ]
+after/IN 
+[ an/DT Arizona/NNP Corporation/NNP Commission/NNP hearing/NN officer/NN ]
+recommended/VBD 
+[ rate/NN increases/NNS ]
+to/TO generate/VB 
+[ an/DT 11.6/CD %/NN boost/NN ]
+in/IN 
+[ annual/JJ revenue/NN ]
+in/IN 
+[ a/DT ]
+closely/RB watched/VBN 
+[ rate/NN case/NN ]
+./. 
+
+======================================
+
+[ The/DT utility/NN 's/POS stock/NN ]
+rose/VBD 
+[ 62.5/CD cents/NNS ]
+
+[ a/DT share/NN ]
+to/TO 
+[ $/$ 24.125/CD ]
+in/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP ]
+consolidated/VBD trading/NN on/IN 
+[ volume/NN ]
+of/IN 
+[ 522,300/CD shares/NNS ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+said/VBD 
+[ the/DT proposed/VBN decision/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ subject/JJ to/TO 
+[ formal/JJ review/NN ]
+by/IN 
+[ the/DT commission/NN ]
+,/, is/VBZ somewhat/RB more/RBR generous/JJ than/IN expected/VBN ,/, but/CC by/IN 
+[ no/DT means/NN ]
+solves/VBZ 
+[ Tucson/NNP Electric/NNP 's/POS financial/JJ problems/NNS ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ the/DT utility/NN ]
+slashed/VBD 
+[ its/PRP$ dividend/NN ]
+,/, said/VBD 
+[ it/PRP ]
+may/MD report/VB 
+[ losses/NNS ]
+in/IN 
+[ future/JJ quarters/NNS ]
+,/, and/CC saw/VBD 
+[ its/PRP$ chairman/NN ]
+resign/VB under/IN 
+[ pressure/NN ]
+following/VBG 
+[ his/PRP$ sudden/JJ sale/NN ]
+of/IN most/JJS of/IN 
+[ his/PRP$ stock/NN holdings/NNS ]
+./. 
+
+======================================
+
+``/`` On/IN 
+[ balance/NN ]
+,/, 
+[ this/DT proposed/VBN order/NN ]
+is/VBZ not/RB devastating/VBG to/TO 
+[ the/DT company/NN ]
+,/, but/CC 
+[ it/PRP ]
+would/MD not/RB allow/VB 
+[ a/DT speedy/JJ recovery/NN ]
+either/RB ,/, ''/'' said/VBD 
+[ Gregory/NNP B./NNP Enholme/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Salomon/NNP Brothers/NNPS ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN decision/NN ]
+by/IN 
+[ hearing/NN officer/NN Jerry/NNP Rudibaugh/NNP ]
+recommended/VBD that/IN 
+[ Tucson/NNP Electric/NNP ]
+be/VB granted/VBN 
+[ a/DT $/$ 57/CD million/CD ]
+,/, or/CC 
+[ 11.6/CD %/NN boost/NN ]
+in/IN 
+[ annual/JJ revenue/NN ]
+,/, compared/VBN with/IN 
+[ the/DT $/$ 80.3/CD million/CD ]
+,/, or/CC 
+[ 22/CD %/NN ]
+,/, 
+[ increase/NN ]
+sought/VBD by/IN 
+[ the/DT company/NN ]
+./. 
+
+[ The/DT commission/NN staff/NN ]
+had/VBD urged/VBN that/IN 
+[ the/DT company/NN ]
+receive/VB 
+[ a/DT $/$ 33/CD million/CD ]
+,/, or/CC 
+[ 9/CD %/NN ]
+,/, boost/NN in/IN 
+[ revenue/NN ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN ruling/NN ]
+also/RB recommended/VBD that/IN 
+[ Tucson/NNP Electric/NNP ]
+be/VB disallowed/VBN from/IN recovering/VBG 
+[ $/$ 32.6/CD million/CD ]
+paid/VBD to/TO 
+[ its/PRP$ onetime/JJ Alamito/NNP Co./NNP unit/NN ]
+for/IN 
+[ electricity/NN ]
+,/, 
+[ an/DT amount/NN ]
+sought/VBN by/IN 
+[ the/DT company/NN ]
+under/IN 
+[ a/DT special/JJ fuel/NN ]
+and/CC 
+[ power/NN adjustment/NN clause/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN ended/VBN by/IN 
+[ the/DT commission/NN ]
+./. 
+
+======================================
+
+[ A/DT Tucson/NNP Electric/NNP spokesman/NN ]
+declined/VBD 
+[ comment/NN ]
+on/IN 
+[ the/DT preliminary/JJ decision/NN ]
+,/, saying/VBG 
+[ the/DT company/NN ]
+expects/VBZ to/TO respond/VB directly/RB to/TO 
+[ the/DT commission/NN ]
+within/IN 
+[ the/DT 14-day/JJ period/NN ]
+allowed/VBN for/IN 
+[ comments/NNS ]
+./. 
+
+[ Mr./NNP Rudibaugh/NNP 's/POS 70-page/JJ opinion/NN ]
+criticized/VBD 
+[ Tucson/NNP Electric/NNP 's/POS management/NN ]
+and/CC urged/VBD that/IN 
+[ an/DT audit/NN ]
+be/VB conducted/VBN of/IN 
+[ the/DT company/NN 's/POS operations/NNS ]
+./. 
+
+``/`` 
+[ One/CD theme/NN ]
+prevalent/JJ throughout/IN 
+[ the/DT recent/JJ history/NN ]
+of/IN 
+[ TEP/NNP ]
+has/VBZ been/VBN 
+[ its/PRP$ emphasis/NN ]
+on/IN 
+[ shareholder\/management/NN compensation/NN ]
+,/, and/CC disregard/NN for/IN 
+[ its/PRP$ customers/NNS ]
+and/CC 
+[ this/DT regulatory/JJ commission/NN ]
+,/, ''/'' 
+[ the/DT hearing/NN officer/NN ]
+wrote/VBD ./. 
+
+[ He/PRP ]
+recommended/VBD that/IN 
+[ the/DT commission/NN ]
+disallow/VB 
+[ recovery/NN ]
+of/IN 
+[ some/DT $/$ 850,000/CD ]
+in/IN 
+[ management/NN bonuses/NNS ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN ruling/NN ]
+also/RB would/MD limit/VB 
+[ Tucson/NNP Electric/NNP ]
+to/TO 
+[ a/DT 12.5/CD %/NN return/NN ]
+on/IN 
+[ equity/NN ]
+,/, compared/VBN with/IN 
+[ a/DT 16.5/CD %/NN return/NN ]
+that/IN 
+[ the/DT utility/NN ]
+has/VBZ been/VBN permitted/VBN since/IN 
+[ 1981/CD ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+said/VBD 
+[ the/DT hearing/NN officer/NN 's/POS proposals/NNS ]
+may/MD be/VB 
+[ the/DT best/JJS news/NN ]
+that/IN 
+[ Tucson/NNP Electric/NNP ]
+gets/VBZ from/IN 
+[ the/DT consumer-minded/JJ Arizona/NNP Corporations/NNPS Commission/NNP ]
+,/, 
+[ which/WDT ]
+could/MD roll/VB back/RB 
+[ Mr./NNP Rudibaugh/NNP 's/POS suggested/VBN rate/NN increases/NNS ]
+./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ it/PRP ]
+'s/VBZ expected/VBN that/IN 
+[ Tucson/NNP Electric/NNP ]
+will/MD soon/RB return/VB to/TO 
+[ the/DT commission/NN ]
+with/IN 
+[ a/DT request/NN ]
+for/IN 
+[ another/DT rate/NN increase/NN ]
+related/VBN to/TO 
+[ its/PRP$ new/JJ Springerville/NNP 2/CD coal-fire/JJ generating/VBG plant/NN ]
+./. 
+
+[ Analysts/NNS ]
+predict/VBP 
+[ the/DT company/NN ]
+may/MD seek/VB 
+[ an/DT increase/NN ]
+as/RB high/JJ as/IN 
+[ 30/CD %/NN ]
+in/IN 
+[ that/DT case/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+can/MD imagine/VB how/WRB 
+[ the/DT commissioners/NNS ]
+may/MD feel/VB about/IN that/IN 
+[ one/CD ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Enholme/NNP ]
+./. 

@@ -1,0 +1,333 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ American/NNP Airlines/NNPS ]
+unveiled/VBD 
+[ sizable/JJ fare/NN increases/NNS ]
+
+[ that/WDT ]
+would/MD take/VB 
+[ effect/NN ]
+across/IN 
+[ the/DT country/NN ]
+next/IN 
+[ week/NN ]
+if/IN 
+[ competitors/NNS ]
+match/VBP 
+[ the/DT move/NN ]
+./. 
+
+======================================
+
+[ The/DT action/NN ]
+follows/VBZ 
+[ a/DT month/NN ]
+of/IN 
+[ persistent/JJ efforts/NNS ]
+in/IN 
+[ the/DT airline/NN industry/NN ]
+to/TO raise/VB 
+[ prices/NNS ]
+on/IN 
+[ tickets/NNS ]
+bought/VBN by/IN 
+[ vacation/NN ]
+and/CC 
+[ business/NN travelers/NNS ]
+./. 
+
+Late/RB yesterday/NN ,/, 
+[ most/JJS other/JJ carriers/NNS ]
+said/VBD 
+[ they/PRP ]
+were/VBD studying/VBG 
+[ the/DT proposed/VBN increase/NN ]
+./. 
+
+======================================
+
+[ American/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ AMR/NNP Corp./NNP ]
+,/, of/IN 
+[ Dallas/NNP ]
+,/, has/VBZ often/RB led/VBN 
+[ industry/NN price/NN ]
+increases/NNS ,/, and/CC 
+[ other/JJ carriers/NNS ]
+have/VBP appeared/VBN hungry/JJ to/TO raise/VB 
+[ fares/NNS ]
+on/IN 
+[ discount/NN tickets/NNS ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN increases/NNS ]
+by/IN 
+[ American/NNP ]
+also/RB come/VBP amid/IN 
+[ concern/NN ]
+on/IN 
+[ the/DT part/NN ]
+of/IN 
+[ AMR/NNP executives/NNS ]
+that/IN 
+[ the/DT carrier/NN ]
+will/MD report/VB 
+[ weaker/JJR earnings/NNS growth/NN ]
+for/IN 
+[ the/DT third/JJ ]
+and/CC 
+[ fourth/JJ quarters/NNS ]
+as/RB well/RB as/IN 
+[ next/JJ year/NN ]
+./. 
+
+======================================
+
+Unless/IN 
+[ other/JJ carriers/NNS ]
+file/VBP 
+[ similar/JJ plans/NNS ]
+to/TO raise/VB 
+[ fares/NNS ]
+,/, however/RB ,/, 
+[ American/NNP ]
+probably/RB would/MD have/VB to/TO withdraw/VB 
+[ its/PRP$ proposal/NN ]
+in/IN 
+[ order/NN ]
+to/TO remain/VB 
+[ competitive/JJ ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT action/NN ]
+,/, scheduled/VBN to/TO go/VB into/IN 
+[ effect/NN Sept./NNP 29/CD ]
+,/, 
+[ American/NNP ]
+proposes/VBZ to/TO raise/VB 
+[ prices/NNS ]
+on/IN 
+[ round-trip/JJ tickets/NNS ]
+requiring/VBG 
+[ 14/CD days/NNS '/POS advance/NN purchase/NN ]
+by/IN about/IN 
+[ $/$ 10/CD ]
+to/TO 
+[ $/$ 20/CD ]
+,/, 
+[ industry/NN pricing/NN officials/NNS ]
+said/VBD ./. 
+
+Most/JJS of/IN 
+[ the/DT increases/NNS ]
+appear/VBP to/TO be/VB 
+[ $/$ 20/CD ]
+./. 
+
+======================================
+
+On/IN 
+[ such/JJ tickets/NNS ]
+requiring/VBG 
+[ seven/CD days/NNS '/POS notice/NN ]
+,/, 
+[ American/NNP ]
+is/VBZ planning/VBG to/TO raise/VB 
+[ the/DT price/NN ]
+by/IN about/IN 
+[ $/$ 30/CD ]
+to/TO 
+[ $/$ 60/CD ]
+./. 
+
+======================================
+
+[ American/NNP ]
+also/RB is/VBZ proposing/VBG to/TO increase/VB 
+[ the/DT penalty/NN ]
+for/IN 
+[ changes/NNS ]
+made/VBN on/IN 
+[ the/DT seven-day/JJ advance-purchase/JJ fares/NNS ]
+./. 
+
+Currently/RB ,/, 
+[ ticket/NN holders/NNS ]
+pay/VBP 
+[ a/DT penalty/NN ]
+equal/JJ to/TO 
+[ 25/CD %/NN ]
+of/IN 
+[ the/DT ticket/NN price/NN ]
+when/WRB 
+[ they/PRP ]
+change/VBP 
+[ their/PRP$ flight/NN plans/NNS ]
+./. 
+
+======================================
+
+[ American/NNP ]
+is/VBZ proposing/VBG to/TO raise/VB 
+[ the/DT penalty/NN ]
+to/TO 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT ticket/NN price/NN ]
+./. 
+
+[ This/DT ]
+would/MD probably/RB make/VB 
+[ the/DT fare/NN ]
+less/RBR attractive/JJ to/TO 
+[ business/NN travelers/NNS ]
+
+[ who/WP ]
+change/VBP 
+[ their/PRP$ schedules/NNS ]
+often/RB ./. 
+
+======================================
+
+[ Increases/NNS ]
+also/RB are/VBP proposed/VBN for/IN 
+[ markets/NNS ]
+where/WRB discounted/VBN 
+[ tickets/NNS ]
+can/MD be/VB bought/VBN as/RB little/JJ as/IN 
+[ two/CD days/NNS ]
+before/IN 
+[ departure/NN ]
+./. 
+
+======================================
+
+[ American/NNP ]
+may/MD be/VB trying/VBG to/TO push/VB through/IN 
+[ the/DT price/NN increase/NN ]
+at/IN 
+[ a/DT difficult/JJ time/NN ]
+,/, however/RB ,/, as/IN 
+[ airline/NN traffic/NN ]
+has/VBZ been/VBN soft/JJ lately/RB ./. 
+
+``/`` 
+[ The/DT timing/NN ]
+'s/VBZ off/IN ./. 
+
+[ The/DT traffic/NN ]
+does/VBZ n't/RB seem/VB 
+[ strong/JJ ]
+enough/RB ,/, ''/'' said/VBD 
+[ David/NNP Balfour/NNP ]
+,/, 
+[ vice/NN president/NN ]
+of/IN marketing/NN at/IN 
+[ McCord/NNP Group/NNP ]
+,/, 
+[ a/DT Chicago/NNP travel-management/NN company/NN ]
+./. 
+
+======================================
+
+According/VBG to/TO 
+[ some/DT industry/NN estimates/NNS ]
+,/, 
+[ airline/NN ]
+yields/NNS ,/, or/CC 
+[ revenue/NN ]
+for/IN 
+[ each/DT passenger/NN mile/NN ]
+,/, have/VBP risen/VBN 
+[ an/DT average/NN ]
+of/IN about/IN 
+[ 15/CD %/NN ]
+during/IN 
+[ the/DT past/JJ year/NN ]
+./. 
+
+Because/IN 
+[ yield/NN levels/NNS ]
+are/VBP 
+[ one/CD ]
+of/IN 
+[ the/DT best/JJS measures/NNS ]
+of/IN how/WRB 
+[ much/JJ fares/NNS ]
+have/VBP changed/VBN ,/, 
+[ this/DT ]
+means/VBZ 
+[ tickets/NNS ]
+have/VBP risen/VBN about/IN 
+[ the/DT same/JJ percentage/NN ]
+,/, on/IN 
+[ average/NN ]
+./. 
+
+======================================
+
+[ Some/DT industry/NN analysts/NNS ]
+figure/VBP that/IN if/IN 
+[ prices/NNS ]
+were/VBD to/TO rise/VB further/RB ,/, as/IN 
+[ American/NNP ]
+proposes/VBZ ,/, 
+[ traffic/NN ]
+would/MD be/VB likely/JJ to/TO weaken/VB further/RB ./. 
+
+[ American/NNP ]
+,/, however/RB ,/, expects/VBZ 
+[ the/DT price/NN ]
+boosts/NNS to/TO offset/VB 
+[ traffic/NN declines/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ an/DT example/NN ]
+of/IN 
+[ American/NNP 's/POS proposed/VBN increases/NNS ]
+,/, 
+[ the/DT lowest/JJS round-trip/JJ fare/NN ]
+available/JJ between/IN 
+[ Washington/NNP ]
+and/CC 
+[ Dallas/NNP ]
+with/IN 
+[ seven/CD days/NNS '/POS advance/NN purchase/NN ]
+would/MD rise/VB to/TO 
+[ $/$ 358/CD ]
+from/IN 
+[ $/$ 298/CD ]
+./. 
+
+[ The/DT least/JJS expensive/JJ 14-day/JJ advance-purchase/NN fare/NN ]
+would/MD go/VB to/TO 
+[ $/$ 278/CD ]
+from/IN 
+[ $/$ 258/CD ]
+./. 

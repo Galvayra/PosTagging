@@ -1,0 +1,72 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Baltimore/NNP Gas/NNP ]
+&/CC 
+[ Electric/NNP Co./NNP ]
+,/, 
+[ this/DT city/NN 's/POS biggest/JJS taxpayer/NN ]
+,/, presented/VBD 
+[ its/PRP$ annual/JJ tax/NN payment/NN ]
+to/TO 
+[ the/DT mayor/NN yesterday/NN ]
+in/IN 
+[ a/DT pomp-filled/JJ ceremony/NN ]
+./. 
+
+======================================
+
+[ Dignitaries/NNS ]
+postured/VBD ./. 
+
+[ Reporters/NNS ]
+scribbled/VBD ./. 
+
+[ Flash/NN bulbs/NNS ]
+popped/VBD ./. 
+
+[ A/DT check/NN ]
+in/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ $/$ 24,384,830.31/CD changed/VBD hands/NNS ]
+./. 
+
+======================================
+
+But/CC after/IN 
+[ the/DT ceremony/NN ]
+,/, 
+[ the/DT company/NN ]
+quietly/RB asked/VBD 
+[ the/DT city/NN ]
+to/TO give/VB back/RP 
+[ the/DT check/NN ]
+./. 
+
+======================================
+
+Why/WRB ?/. 
+
+[ Explained/NNP Clare/NNP Miller/NNP ]
+,/, 
+[ the/DT utility/NN 's/POS senior/JJ metropolitan/JJ affairs/NNS representative/NN ]
+,/, ``/`` Because/IN 
+[ the/DT taxes/NNS ]
+are/VBP n't/RB actually/RB due/JJ until/IN 
+[ Friday/NNP ]
+./. 

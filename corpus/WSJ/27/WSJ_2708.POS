@@ -1,0 +1,660 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT Fig/NN Leaf/NN ]
+
+[ a/DT Day/NN ]
+
+======================================
+
+[ Keeps/VBZ ]
+
+[ the/DT Doctor/NN Away/RB ]
+
+======================================
+
+[ CHIMPS/NNS ]
+discover/VBP 
+[ a/DT powerful/JJ antibiotic/NN ]
+,/, say/VBP 
+[ amazed/JJ human/JJ scientists/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+may/MD sound/VB like/IN 
+[ a/DT headline/NN ]
+from/IN 
+[ a/DT supermarket/NN tabloid/NN ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ true/JJ ./. 
+
+[ The/DT chimps/NNS '/POS discovery/NN ]
+was/VBD brought/VBN to/TO 
+[ light/NN ]
+by/IN 
+[ Richard/NNP Wrangham/NNP ]
+,/, 
+[ a/DT Harvard/NNP University/NNP anthropologist/NN ]
+
+[ who/WP ]
+studies/VBZ 
+[ the/DT behavior/NN ]
+of/IN 
+[ African/JJ chimpanzees/NNS ]
+and/CC 
+[ other/JJ animals/NNS ]
+in/IN 
+[ the/DT wild/JJ ]
+./. 
+
+======================================
+
+[ Years/NNS ]
+ago/RB 
+[ he/PRP ]
+noticed/VBD 
+[ an/DT odd/JJ chimp/NN behavior/NN ]
+--/: 
+[ the/DT animals/NNS ]
+occasionally/RB picked/VBD 
+[ leaves/NNS ]
+off/IN 
+[ a/DT certain/JJ plant/NN ]
+,/, then/RB swallowed/VBD 
+[ them/PRP ]
+whole/JJ ./. 
+
+[ Examination/NN ]
+of/IN 
+[ the/DT animals/NNS '/POS droppings/NNS ]
+showed/VBD 
+[ the/DT leaves/NNS ]
+were/VBD n't/RB digested/VBN ,/, suggesting/VBG 
+[ they/PRP ]
+were/VBD n't/RB eaten/VBN for/IN 
+[ nutrition/NN ]
+./. 
+
+``/`` 
+[ The/DT idea/NN ]
+finally/RB hit/VBD 
+[ me/PRP ]
+that/IN 
+[ the/DT chimps/NNS ]
+were/VBD taking/VBG 
+[ medicine/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Wrangham/NNP ]
+./. 
+
+======================================
+
+How/WRB 
+[ they/PRP ]
+learned/VBD to/TO do/VB 
+[ that/DT ]
+is/VBZ 
+[ a/DT mystery/NN ]
+./. 
+
+But/CC why/WRB 
+[ they/PRP ]
+do/VBP 
+[ it/PRP ]
+was/VBD clarified/VBN in/IN 
+[ 1985/CD ]
+when/WRB 
+[ Mr./NNP Wrangham/NNP ]
+asked/VBD 
+[ Eloy/NNP Rodriguez/NNP ]
+,/, 
+[ a/DT biochemist/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ California/NNP ]
+at/IN 
+[ Irvine/NNP ]
+,/, to/TO analyze/VB 
+[ the/DT leaves/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP from/IN 
+[ a/DT plant/NN ]
+called/VBN 
+[ Aspilia/NN ]
+./. 
+
+Sure/RB enough/RB ,/, 
+[ they/PRP ]
+were/VBD found/VBN to/TO contain/VB 
+[ a/DT chemical/NN ]
+that/WDT ,/, in/IN 
+[ test-tube/NN studies/NNS ]
+,/, kills/VBZ 
+[ certain/JJ worms/NNS ]
+,/, 
+[ fungi/NNS ]
+and/CC shows/VBZ ``/`` 
+[ some/DT activity/NN ]
+against/IN 
+[ viruses/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Rodriguez/NNP ]
+./. 
+
+Recently/RB 
+[ the/DT scientists/NNS ]
+identified/VBD 
+[ another/DT probable/JJ chimp/NN medicine/NN ]
+--/: 
+[ young/JJ fig/NN leaves/NNS ]
+,/, in/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+found/VBD 
+[ a/DT substance/NN ]
+previously/RB known/VBN as/IN 
+[ a/DT remedy/NN ]
+for/IN 
+[ psoriasis/NN ]
+and/CC 
+[ other/JJ skin/NN disorders/NNS ]
+./. 
+
+======================================
+
+[ Several/JJ drug/NN companies/NNS ]
+are/VBP interested/VBN ,/, says/VBZ 
+[ Mr./NNP Rodriguez/NNP ]
+,/, but/CC 
+[ the/DT potential/NN ]
+for/IN 
+[ human/JJ medicines/NNS ]
+remains/VBZ 
+[ uncertain/JJ ]
+./. 
+
+[ The/DT most/RBS likely/JJ near-term/JJ benefit/NN ]
+from/IN 
+[ the/DT research/NN ]
+is/VBZ 
+[ the/DT use/NN ]
+of/IN 
+[ the/DT plants/NNS ]
+as/IN 
+[ remedies/NNS ]
+for/IN 
+[ farm/NN animals/NNS ]
+in/IN 
+[ the/DT Third/JJ World/NNP ]
+,/, 
+[ he/PRP ]
+adds/VBZ ./. 
+
+======================================
+
+[ Biodegradable/JJ Traps/NNS ]
+
+======================================
+
+To/TO 
+[ Boost/VB Lobster/NN Catch/NN ]
+
+======================================
+
+[ MANY/JJ LOBSTERS/NNS ]
+are/VBP alive/JJ and/CC well/JJ and/CC living/VBG in/IN 
+[ lost/JJ traps/NNS ]
+,/, say/VBP 
+[ University/NNP ]
+of/IN 
+[ Maine/NNP researchers/NNS ]
+./. 
+
+During/IN 
+[ the/DT past/JJ two/CD years/NNS ]
+,/, 
+[ the/DT scientists/NNS ]
+have/VBP studied/VBN ``/`` 
+[ ghost/NN lobster/NN traps/NNS ]
+''/'' --/: lost/JJ 
+[ ones/NNS ]
+
+[ that/WDT ]
+sit/VBP on/IN 
+[ the/DT ocean/NN floor/NN ]
+after/IN 
+[ lines/NNS ]
+to/TO 
+[ them/PRP ]
+are/VBP severed/VBN by/IN 
+[ storms/NNS ]
+,/, passing/VBG 
+[ boats/NNS ]
+and/CC 
+[ other/JJ strains/NNS ]
+./. 
+
+[ The/DT contraptions/NNS ]
+,/, 
+[ these/DT days/NNS ]
+made/VBN of/IN 
+[ plastic-coated/JJ wire/NN ]
+,/, can/MD snare/VB 
+[ lobsters/NNS ]
+for/IN 
+[ a/DT decade/NN ]
+or/CC more/RBR when/WRB lost/VBN ./. 
+
+[ That/DT ]
+lessens/VBZ 
+[ the/DT lobster/NN ]
+catch/NN and/CC ,/, more/RBR seriously/RB ,/, has/VBZ been/VBN thought/VBN to/TO take/VB 
+[ crucial/JJ breeding/VBG lobsters/NNS ]
+out/IN of/IN 
+[ action/NN ]
+./. 
+
+======================================
+
+[ The/DT researchers/NNS ]
+estimate/VBP that/IN as/RB many/JJ as/IN 
+[ 50,000/CD traps/NNS ]
+are/VBP lost/VBN annually/RB by/IN 
+[ Maine/NNP lobstermen/NNS ]
+alone/RB ./. 
+
+Only/RB 
+[ an/DT estimated/VBN 20/CD %/NN ]
+of/IN 
+[ lobsters/NNS ]
+wandering/VBG into/IN 
+[ them/PRP ]
+escape/VBP 
+[ the/DT traps/NNS '/POS ]
+``/`` 
+[ kitchens/NNS ]
+,/, ''/'' or/CC 
+[ entrances/NNS ]
+,/, and/CC fewer/RB still/RB get/VBP out/IN of/IN 
+[ the/DT ]
+``/`` 
+[ parlors/NNS ]
+,/, ''/'' or/CC 
+[ main/JJ compartments/NNS ]
+./. 
+
+``/`` 
+[ Every/DT time/NN ]
+
+[ I/PRP ]
+'ve/VBP come/VBN across/IN 
+[ a/DT ghost/NN trap/NN ]
+when/WRB diving/VBG ,/, 
+[ there/EX ]
+'s/VBZ been/VBN 
+[ a/DT lobster/NN ]
+in/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ George/NNP Kupelian/NNP ]
+,/, 
+[ a/DT graduate/JJ student/NN ]
+and/CC 
+[ the/DT study/NN 's/POS coordinator/NN ]
+./. 
+
+======================================
+
+Using/VBG 
+[ underwater/JJ videocameras/NNS ]
+,/, 
+[ the/DT scientists/NNS ]
+have/VBP found/VBN that/IN 
+[ lobsters/NNS ]
+trapped/VBN in/IN 
+[ the/DT ghosts/NNS ]
+stay/VBP 
+[ alive/JJ ]
+by/IN eating/VBG mostly/RB 
+[ fish/NN ]
+and/CC 
+[ crabs/NNS ]
+
+[ that/WDT ]
+come/VBP into/IN 
+[ the/DT traps/NNS ]
+./. 
+
+[ That/DT ]
+'s/VBZ important/JJ because/IN 
+[ it/PRP ]
+indicates/VBZ 
+[ traps/NNS ]
+with/IN 
+[ biodegradable/JJ panels/NNS ]
+
+[ that/WDT ]
+corrode/VBP away/RB after/IN 
+[ a/DT few/JJ months/NNS ]
+underwater/RB would/MD effectively/RB prevent/VB 
+[ loss/NN ]
+of/IN 
+[ lobsters/NNS ]
+./. 
+
+[ The/DT study/NN ]
+may/MD help/VB persuade/VB 
+[ lobstermen/NNS ]
+to/TO abide/VB by/IN 
+[ a/DT Maine/NNP law/NN ]
+
+[ that/WDT ]
+will/MD require/VB use/NN of/IN 
+[ such/JJ traps/NNS ]
+beginning/VBG 
+[ next/JJ year/NN ]
+./. 
+
+======================================
+
+[ The/DT study/NN ]
+also/RB exploded/VBD 
+[ a/DT myth/NN ]
+--/: that/IN 
+[ cannibalism/NN ]
+is/VBZ rife/JJ among/IN 
+[ trapped/JJ lobsters/NNS ]
+,/, worsening/VBG 
+[ the/DT lobster/NN losses/NNS ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, trapped/VBN 
+[ lobsters/NNS ]
+eat/VBP 
+[ each/DT other/JJ ]
+only/RB rarely/RB ,/, such/JJ as/IN after/IN molting/VBG when/WRB 
+[ they/PRP ]
+are/VBP soft/JJ and/CC 
+[ vulnerable/JJ ]
+,/, 
+[ researchers/NNS ]
+found/VBD ./. 
+
+======================================
+
+[ Scientists/NNS Doubt/VBP Claim/NN ]
+
+======================================
+
+On/IN 
+[ Superconductivity/NN ]
+
+======================================
+
+[ RESEARCHERS/NNS ]
+have/VBP reported/VBN 
+[ a/DT new/JJ superconductor/NN temperature/NN breakthrough/NN ]
+,/, but/CC 
+[ few/JJ scientists/NNS ]
+are/VBP buying/VBG 
+[ it/PRP ]
+./. 
+
+======================================
+
+[ The/DT report/NN ]
+,/, by/IN 
+[ Wayne/NNP State/NNP University/NNP researchers/NNS ]
+,/, follows/VBZ 
+[ a/DT rash/NN ]
+of/IN 
+[ similar/JJ claims/NNS two/CD years/NNS ]
+ago/RB --/: including/VBG 
+[ one/CD ]
+from/IN 
+[ Wayne/NNP State/NNP ]
+,/, in/IN 
+[ Detroit/NNP ]
+--/: 
+[ that/DT ]
+could/MD n't/RB be/VB duplicated/VBN ./. 
+
+Now/RB 
+[ scientists/NNS ]
+treat/VBP 
+[ such/JJ reports/NNS ]
+as/IN if/IN 
+[ they/PRP ]
+were/VBD 
+[ claims/NNS ]
+of/IN 
+[ little/JJ green/JJ men/NNS ]
+landing/VBG in/IN 
+[ Kansas/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT Wayne/NNP State/NNP group/NN ]
+asserts/VBZ 
+[ its/PRP$ finding/NN ]
+differs/VBZ from/IN 
+[ the/DT earlier/JJR ones/NNS ]
+./. 
+
+[ The/DT scientists/NNS ]
+,/, 
+[ who/WP ]
+are/VBP collaborating/VBG with/IN 
+[ Ford/NNP Motor/NNP Co./NNP ]
+,/, say/VBP 
+[ a/DT yttrium-containing/JJ compound/NN ]
+that/IN 
+[ they/PRP ]
+made/VBD repeatedly/RB lost/VBD 
+[ electrical/JJ resistance/NN ]
+--/: 
+[ the/DT hallmark/NN ]
+of/IN 
+[ superconductivity/NN ]
+--/: in/IN 
+[ tests/NNS ]
+over/IN 
+[ 11/CD days/NNS ]
+at/IN 
+[ temperatures/NNS ]
+above/IN minus/JJ 
+[ 64/CD degrees/NNS ]
+Fahrenheit/NNP ./. 
+
+``/`` To/TO 
+[ the/DT best/JJS ]
+of/IN 
+[ our/PRP$ ability/NN ]
+,/, 
+[ we/PRP ]
+think/VBP 
+[ we/PRP ]
+have/VBP checked/VBN ''/'' 
+[ all/DT sources/NNS ]
+of/IN 
+[ error/NN ]
+and/CC ruled/VBN 
+[ them/PRP ]
+out/RP ,/, says/VBZ 
+[ Wayne/NNP State/NNP physicist/NN Lowell/NNP Wenger/NNP ]
+./. 
+
+======================================
+
+If/IN confirmed/VBN ,/, 
+[ the/DT finding/NN ]
+would/MD be/VB 
+[ a/DT major/JJ leap/NN ]
+for/IN 
+[ superconductivity/NN ]
+,/, 
+[ which/WDT ]
+promises/VBZ 
+[ better/JJR computers/NNS ]
+and/CC 
+[ other/JJ electrical/JJ devices/NNS ]
+./. 
+
+[ The/DT highest/JJS temperature/NN ]
+now/RB known/VBN for/IN 
+[ the/DT phenomenon/NN ]
+is/VBZ minus/JJ 
+[ 234/CD degrees/NNS ]
+Fahrenheit/NNP ./. 
+
+======================================
+
+At/IN 
+[ least/JJS two/CD groups/NNS ]
+,/, at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Houston/NNP ]
+and/CC 
+[ Princeton/NNP University/NNP ]
+,/, are/VBP trying/VBG to/TO replicate/VB 
+[ the/DT Wayne/NNP State/NNP experiment/NN ]
+./. 
+
+[ Confirmation/NN ]
+will/MD be/VB hard/JJ ,/, though/IN 
+[ the/DT compounds/NNS ]
+are/VBP made/VBN in/IN 
+[ pure/JJ oxygen/NN ]
+at/IN 
+[ high/JJ pressures/NNS ]
+and/CC only/RB 
+[ 30/CD %/NN ]
+to/TO 
+[ 40/CD %/NN ]
+of/IN 
+[ samples/NNS work/NN ]
+in/IN 
+[ tests/NNS ]
+so/RB far/RB ,/, says/VBZ 
+[ Mr./NNP Wenger/NNP ]
+./. 
+
+Meanwhile/RB ,/, 
+[ most/JJS superconductor/NN researchers/NNS ]
+say/VBP 
+[ they/PRP ]
+have/VBP 
+[ better/JJR things/NNS ]
+to/TO do/VB ./. 
+
+``/`` 
+[ We/PRP ]
+still/RB look/VBP askance/RB ''/'' at/IN 
+[ such/JJ claims/NNS ]
+,/, says/VBZ 
+[ Gregory/NNP Yurek/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ American/NNP Superconductor/NNP Corp./NNP ]
+,/, 
+[ a/DT Cambridge/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ start-up/NN ]
+./. 
+
+======================================
+
+[ Odds/NNS ]
+and/CC 
+[ Ends/NNS ]
+
+======================================
+
+[ CLAUSTROPHOBIC/JJ patients/NNS ]
+often/RB freak/VBP out/RP in/IN 
+[ MRI/NNP scanners/NNS ]
+,/, 
+[ which/WDT ]
+confine/VBP 
+[ people/NNS ]
+in/IN 
+[ a/DT coffin-sized/JJ space/NN ]
+while/IN taking/VBG 
+[ pictures/NNS ]
+of/IN 
+[ internal/JJ organs/NNS ]
+./. 
+
+So/RB 
+[ hospitals/NNS ]
+increasingly/RB outfit/VBP 
+[ patients/NNS ]
+with/IN 
+[ special/JJ glasses/NNS ]
+and/CC mirrors/VBZ to/TO fill/VB 
+[ their/PRP$ vision/NN ]
+with/IN 
+[ outdoor/JJ pictures/NNS ]
+while/IN in/IN 
+[ the/DT machines/NNS ]
+,/, says/VBZ 
+[ the/DT American/NNP Hospital/NNP Association/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ Boston/NNP researchers/NNS ]
+hope/VBP soon/RB to/TO begin/VB 
+[ clinical/JJ tests/NNS ]
+with/IN 
+[ a/DT cow-blood/NN extract/NN ]
+as/IN 
+[ a/DT temporary/JJ substitute/NN ]
+for/IN 
+[ human/JJ red-blood/JJ cells/NNS ]
+./. 
+
+[ Biopure/NNP Corp./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ developing/VBG 
+[ the/DT substitute/NN ]
+,/, also/RB plans/VBZ to/TO sell/VB 
+[ it/PRP ]
+for/IN 
+[ dogs/NNS ]
+and/CC 
+[ cats/NNS ]
+./. 

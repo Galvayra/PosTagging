@@ -1,0 +1,832 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT congressional/JJ plan/NN ]
+to/TO cut/VB 
+[ the/DT tax/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+could/MD create/VB 
+[ a/DT bumpy/JJ ride/NN ]
+for/IN 
+[ stocks/NNS ]
+./. 
+
+======================================
+
+[ The/DT tax/NN cut/NN ]
+would/MD be/VB 
+[ good/JJ news/NN ]
+for/IN 
+[ individual/JJ investors/NNS ]
+,/, 
+[ who/WP ]
+would/MD keep/VB more/JJR of/IN 
+[ the/DT gains/NNS ]
+when/WRB 
+[ they/PRP ]
+sell/VBP 
+[ investments/NNS ]
+at/IN 
+[ a/DT profit/NN ]
+./. 
+
+But/CC at/IN 
+[ least/JJS ]
+in/IN 
+[ the/DT short/JJ ]
+run/NN ,/, 
+[ it/PRP ]
+would/MD be/VB 
+[ bad/JJ news/NN ]
+for/IN 
+[ the/DT stock/NN market/NN ]
+,/, prompting/VBG 
+[ cautious/JJ investors/NNS ]
+to/TO take/VB 
+[ their/PRP$ profits/NNS ]
+from/IN 
+[ the/DT post-crash/JJ rally/NN ]
+and/CC 
+[ run/VB ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ 
+[ the/DT reading/NN market/NN professionals/NNS ]
+give/VBP to/TO 
+[ the/DT capital-gains/NNS measure/NN ]
+approved/VBN by/IN 
+[ the/DT House/NNP Ways/NNP ]
+and/CC 
+[ Means/NNP Committee/NNP late/JJ last/JJ week/NN ]
+./. 
+
+[ The/DT bill/NN ]
+would/MD cut/VB 
+[ taxes/NNS ]
+on/IN 
+[ profits/NNS ]
+from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ stocks/NNS ]
+and/CC 
+[ other/JJ investments/NNS ]
+./. 
+
+======================================
+
+[ A/DT ]
+competing/VBG 
+[ Senate/NNP proposal/NN ]
+to/TO expand/VB 
+[ the/DT deduction/NN ]
+for/IN 
+[ individual/JJ retirement/NN accounts/NNS ]
+would/MD be/VB 
+[ a/DT clear/JJ boon/NN ]
+for/IN 
+[ the/DT market/NN ]
+,/, as/RB well/RB as/IN 
+[ investors/NNS ]
+,/, 
+[ experts/NNS ]
+say/VBP ,/, luring/VBG 
+[ new/JJ dollars/NNS ]
+into/IN 
+[ long-term/JJ savings/NNS ]
+and/CC 
+[ investments/NNS ]
+./. 
+
+But/CC while/IN 
+[ the/DT IRA/NNP plan/NN ]
+has/VBZ 
+[ broader/JJR appeal/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ n't/RB seen/VBN as/IN 
+[ a/DT realistic/JJ rival/NN ]
+to/TO 
+[ a/DT capital-gains/NNS tax/NN cut/NN ]
+./. 
+
+[ Budget/NN constraints/NNS ]
+would/MD rule/VB out/RP 
+[ revenue-losing/JJ IRA/NNP tax/NN ]
+breaks/NNS for/IN 
+[ the/DT foreseeable/JJ future/NN ]
+,/, 
+[ legislative/JJ insiders/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ The/DT controversial/JJ capital-gains/NNS proposal/NN ]
+,/, meanwhile/RB ,/, still/RB must/MD survive/VB 
+[ a/DT full/JJ congressional/JJ vote/NN ]
+before/IN 
+[ it/PRP ]
+becomes/VBZ 
+[ law/NN ]
+./. 
+
+But/CC 
+[ the/DT odds/NNS ]
+are/VBP very/RB good/JJ that/IN 
+[ some/DT capital-gains/NNS tax/NN cut/NN ]
+will/MD be/VB passed/VBN before/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ its/PRP$ present/JJ form/NN ]
+,/, 
+[ the/DT capital-gains/NNS proposal/NN ]
+has/VBZ 
+[ two/CD phases/NNS ]
+:/: For/IN 
+[ twenty-seven/CD ]
+and/CC 
+[ a/DT half/JJ months/NNS ]
+,/, 
+[ it/PRP ]
+would/MD allow/VB 
+[ investors/NNS ]
+to/TO exclude/VB from/IN 
+[ taxes/NNS 30/CD %/NN ]
+of/IN 
+[ any/DT gain/NN ]
+
+[ they/PRP ]
+realize/VBP from/IN 
+[ the/DT sale/NN ]
+or/CC 
+[ exchange/NN ]
+of/IN 
+[ stock/NN ]
+,/, 
+[ bonds/NNS ]
+,/, 
+[ real/JJ estate/NN ]
+or/CC 
+[ other/JJ capital/NN assets/NNS they/PRP ]
+have/VBP held/VBN for/IN more/JJR than/IN 
+[ one/CD year/NN ]
+./. 
+
+[ Gains/NNS ]
+from/IN 
+[ artworks/NNS ]
+,/, 
+[ antiques/NNS ]
+,/, 
+[ coins/NNS ]
+and/CC 
+[ other/JJ collectibles/NNS ]
+would/MD n't/RB qualify/VB ,/, however/RB ./. 
+
+[ The/DT exclusion/NN ]
+,/, 
+[ which/WDT ]
+applies/VBZ to/TO 
+[ assets/NNS ]
+sold/VBN between/IN 
+[ Sept./NNP 14/CD ]
+,/, 
+[ 1989/CD ]
+,/, and/CC 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1991/CD ]
+,/, would/MD effectively/RB cut/VB 
+[ the/DT top/JJ capital-gains/NNS rate/NN ]
+during/IN 
+[ that/DT period/NN ]
+to/TO 
+[ 19.6/CD %/NN ]
+./. 
+
+[ The/DT top/JJ rate/NN ]
+for/IN 
+[ taxable/JJ investors/NNS ]
+currently/RB runs/VBZ as/RB high/JJ as/IN 
+[ 33/CD %/NN ]
+./. 
+
+[ Pension/NN funds/NNS ]
+and/CC 
+[ other/JJ tax-exempt/JJ institutional/JJ investors/NNS ]
+,/, 
+[ which/WDT ]
+make/VBP up/RP 
+[ 70/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+,/, would/MD n't/RB be/VB affected/VBN by/IN 
+[ the/DT proposal/NN ]
+./. 
+
+======================================
+
+After/IN 
+[ that/DT first-phase/JJ window/NN ]
+closes/VBZ ,/, 
+[ a/DT different/JJ provision/NN ]
+would/MD kick/VB in/RP 
+[ that/WDT ]
+would/MD allow/VB 
+[ investors/NNS ]
+to/TO exclude/VB from/IN 
+[ taxation/NN ]
+
+[ any/DT gains/NNS ]
+attributable/JJ to/TO 
+[ inflation/NN ]
+./. 
+
+Although/IN 
+[ investment/NN professionals/NNS ]
+applaud/VBP 
+[ this/DT part/NN ]
+of/IN 
+[ the/DT plan/NN ]
+as/IN 
+[ a/DT likely/JJ long-term/JJ ]
+plus/CC for/IN 
+[ the/DT market/NN ]
+,/, 
+[ they/PRP ]
+fear/VBP 
+[ the/DT initial/JJ phase/NN ]
+would/MD do/VB 
+[ more/JJR harm/NN ]
+than/IN 
+[ good/NN ]
+./. 
+
+======================================
+
+``/`` To/TO jack/VB 
+[ the/DT ]
+ {/( 
+[ capital-gains/NNS ]
+ }/) 
+[ rate/NN ]
+around/RP like/IN 
+[ this/DT ]
+distorts/VBZ ''/'' 
+[ investor/NN behavior/NN ]
+,/, says/VBZ 
+[ Tony/NNP Brush/NNP ]
+,/, 
+[ partner/NN ]
+in/IN 
+[ Bradley/NNP ]
+,/, 
+[ Woods/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ a/DT public-policy/JJ research/NN firm/NN ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+'re/VBP trying/VBG to/TO encourage/VB 
+[ people/NNS ]
+to/TO invest/VB 
+[ long-term/JJ ]
+,/, 
+[ this/DT ]
+just/RB is/VBZ n't/RB going/VBG to/TO do/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ the/DT rationale/NN ]
+in/IN 
+[ Congress/NNP ]
+for/IN 
+[ the/DT temporary/JJ 30/CD %/NN exclusion/NN ]
+is/VBZ n't/RB so/RB much/JJ that/IN 
+[ it/PRP ]
+will/MD help/VB 
+[ investors/NNS ]
+,/, but/CC that/IN 
+[ it/PRP ]
+will/MD raise/VB 
+[ new/JJ tax/NN revenues/NNS ]
+to/TO help/VB reduce/VB 
+[ the/DT budget/NN deficit/NN ]
+./. 
+
+[ That/DT ]
+means/VBZ spurring/VBG 
+[ investors/NNS ]
+to/TO sell/VB 
+[ assets/NNS ]
+and/CC take/VB 
+[ profits/NNS ]
+--/: 
+[ which/WDT ]
+is/VBZ precisely/RB 
+[ what/WP ]
+worries/VBZ 
+[ many/JJ market/NN professionals/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ instance/NN ]
+,/, when/WRB 
+[ President/NNP Bush/NNP ]
+proposed/VBD cutting/VBG 
+[ capital-gains/NNS taxes/NNS ]
+to/TO 
+[ 15/CD %/NN ]
+earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ the/DT Treasury/NNP ]
+figured/VBD 
+[ that/DT reduction/NN ]
+would/MD boost/VB 
+[ asset/NN sales/NNS 91/CD %/NN ]
+in/IN 
+[ fiscal/JJ 1991/CD ]
+to/TO 
+[ a/DT total/NN ]
+of/IN 
+[ $/$ 349/CD billion/CD ]
+./. 
+
+[ Those/DT sales/NNS ]
+would/MD have/VB included/VBN not/RB 
+[ only/JJ stocks/NNS ]
+,/, but/CC also/RB 
+[ bonds/NNS ]
+,/, 
+[ depreciable/JJ real/JJ estate/NN ]
+and/CC 
+[ other/JJ capital/NN assets/NNS ]
+./. 
+
+Although/IN 
+[ nobody/NN ]
+knows/VBZ exactly/RB 
+[ what/WP kind/NN ]
+of/IN selling/NN 
+[ the/DT current/JJ proposal/NN ]
+might/MD promote/VB ,/, 
+[ many/JJ professionals/NNS ]
+see/VBP 
+[ the/DT stock/NN ]
+and/CC 
+[ real-estate/NN markets/NNS ]
+as/IN being/VBG 
+[ vulnerable/JJ ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP disturbed/VBN by/IN 
+[ the/DT near-term/JJ impact/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ negative/JJ ''/'' for/IN 
+[ these/DT markets/NNS ]
+,/, says/VBZ 
+[ Abby/NNP Joseph/NNP Cohen/NNP ]
+,/, 
+[ senior/JJ investment/NN strategist/NN ]
+at/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc/NNP ]
+./. 
+
+[ The/DT proposal/NN ]
+``/`` creates/VBZ 
+[ a/DT narrow/JJ window/NN ]
+for/IN 
+[ investors/NNS ]
+to/TO take/VB 
+[ their/PRP$ gains/NNS ]
+and/CC 
+[ run/VB ]
+./. 
+
+''/'' 
+======================================
+
+[ That/DT incentive/NN ]
+is/VBZ especially/RB ticklish/JJ ,/, 
+[ she/PRP ]
+says/VBZ ,/, in/IN 
+[ the/DT light/NN ]
+of/IN 
+[ the/DT strong/JJ rally/NN ]
+in/IN 
+[ stock/NN prices/NNS ]
+since/IN 
+[ the/DT October/NNP 1987/CD crash/NN ]
+./. 
+
+``/`` 
+[ People/NNS ]
+
+[ who/WP ]
+are/VBP sitting/VBG on/IN 
+[ gains/NNS ]
+of/IN 
+[ 50/CD %/NN ]
+or/CC more/JJR are/VBP going/VBG to/TO say/VB 
+[ 'Forget/VB ]
+about/IN 
+[ the/DT long/JJ term/NN ]
+,/, let/VB 
+[ me/PRP ]
+sell/VB 
+[ it/PRP ]
+now/RB '/'' --/: especially/RB when/WRB 
+[ you/PRP ]
+give/VBP 
+[ them/PRP ]
+
+[ the/DT added/VBN incentive/NN ]
+of/IN 
+[ a/DT temporary/JJ capital-gains/NNS ]
+cut/NN ,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+[ That/DT ]
+could/MD put/VB 
+[ pressure/NN ]
+on/IN 
+[ such/JJ stocks/NNS ]
+as/IN 
+[ AT&T/NNP ]
+,/, 
+[ regional/JJ telephone/NN companies/NNS ]
+and/CC 
+[ many/JJ over-the-counter/JJ shares/NNS ]
+,/, 
+[ issues/NNS ]
+for/IN 
+[ which/WDT ]
+
+[ tax-paying/JJ individuals/NNS ]
+are/VBP 
+[ the/DT dominant/JJ shareholders/NNS ]
+,/, 
+[ she/PRP ]
+adds/VBZ ./. 
+
+======================================
+
+[ Many/JJ market/NN analysts/NNS ]
+see/VBP 
+[ the/DT new/JJ proposals/NNS ]
+prompting/VBG 
+[ a/DT wave/NN ]
+of/IN selling/NN 
+[ similar/JJ ]
+to/TO 
+[ the/DT one/CD ]
+
+[ that/WDT ]
+occurred/VBD in/IN late/RB 
+[ 1986/CD ]
+,/, when/WRB 
+[ investors/NNS ]
+rushed/VBD to/TO realize/VB 
+[ profits/NNS ]
+before/IN 
+[ tax/NN reforms/NNS ]
+eliminated/VBD 
+[ preferential/JJ capital-gains/NNS tax/NN rates/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ entirely/RB possible/JJ 
+[ you/PRP ]
+could/MD see/VB 
+[ a/DT similar/JJ sell-off/NN ]
+''/'' if/IN 
+[ the/DT current/JJ proposal/NN ]
+is/VBZ passed/VBN ,/, says/VBZ 
+[ Richard/NNP Bernstein/NNP ]
+,/, 
+[ senior/JJ quantitative/JJ analyst/NN ]
+at/IN 
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+But/CC although/IN 
+[ the/DT 1986/CD wave/NN ]
+of/IN 
+[ profit-taking/NN ]
+was/VBD quickly/RB followed/VBN by/IN 
+[ a/DT stock-market/NN buying/NN spree/NN ]
+in/IN 
+[ early/JJ 1987/CD ]
+,/, producing/VBG 
+[ some/DT ]
+of/IN 
+[ the/DT biggest/JJS monthly/JJ gains/NNS ]
+in/IN 
+[ history/NN ]
+,/, 
+[ few/JJ professionals/NNS ]
+see/VBP 
+[ such/JJ a/DT quick/JJ recovery/NN today/NN ]
+./. 
+
+[ The/DT crucial/JJ difference/NN ]
+is/VBZ that/IN ``/`` 
+[ the/DT economic/JJ fundamentals/NNS ]
+ {/( supporting/VBG 
+[ the/DT market/NN ]
+ }/) were/VBD much/RB more/RBR positive/JJ ''/'' in/IN 
+[ 1986/CD ]
+than/IN 
+[ they/PRP ]
+are/VBP now/RB ,/, says/VBZ 
+[ Drexel/NNP 's/POS Ms./NNP Cohen/NNP ]
+./. 
+
+======================================
+
+Even/RB so/RB ,/, 
+[ many/JJ professionals/NNS ]
+do/VBP expect/VB 
+[ the/DT long-term/JJ appeal/NN ]
+of/IN 
+[ the/DT inflation/NN exclusion/NN ]
+to/TO mitigate/VB 
+[ the/DT plan/NN 's/POS negative/JJ near-term/JJ impact/NN ]
+on/IN 
+[ the/DT market/NN ]
+./. 
+
+[ Steven/NNP Einhorn/NNP ]
+,/, 
+[ co-chairman/NN ]
+of/IN 
+[ the/DT investment/NN policy/NN committee/NN ]
+at/IN 
+[ Goldman/NNP ]
+,/, 
+[ Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, says/VBZ ,/, ``/`` While/IN 
+[ you/PRP ]
+ca/MD n't/RB dismiss/VB 
+[ the/DT possibility/NN ]
+of/IN 
+[ a/DT sell-off/NN ]
+,/, 
+[ my/PRP$ sense/NN ]
+is/VBZ that/IN 
+[ it/PRP ]
+would/MD be/VB moderate/JJ and/CC 
+[ containable/JJ ]
+''/'' because/IN 
+[ the/DT second/JJ phase/NN ]
+,/, when/WRB 
+[ the/DT inflation/NN exclusion/NN ]
+takes/VBZ 
+[ effect/NN ]
+,/, ``/`` would/MD be/VB recognized/VBN as/IN 
+[ something/NN ]
+positive/JJ and/CC would/MD offset/VB 
+[ the/DT selling/NN pressure/NN ]
+./. 
+
+''/'' 
+======================================
+
+By/IN taxing/VBG only/RB real/JJ --/: or/CC 
+[ inflation-adjusted/JJ ]
+--/: 
+[ capital/NN gains/NNS ]
+,/, 
+[ the/DT second/JJ phase/NN ]
+of/IN 
+[ the/DT proposal/NN ]
+would/MD effectively/RB add/VB 
+[ 1.5/CD percentage/NN ]
+points/NNS 
+[ a/DT year/NN ]
+to/TO 
+[ individual/JJ investors/NNS '/POS after-tax/JJ returns/NNS ]
+in/IN 
+[ the/DT stock/NN market/NN ]
+,/, 
+[ Mr./NNP Einhorn/NNP estimates/VBZ ]
+./. 
+
+That/DT 
+[ extra/JJ after-tax/JJ return/NN ]
+would/MD make/VB 
+[ stocks/NNS ]
+
+[ more/RBR attractive/JJ relative/JJ ]
+to/TO 
+[ bonds/NNS ]
+and/CC 
+[ other/JJ income-paying/JJ investments/NNS ]
+,/, 
+[ which/WDT ]
+would/MD n't/RB benefit/VB as/RB much/RB from/IN 
+[ the/DT capital-gains/NNS cut/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, ``/`` 
+[ it/PRP ]
+could/MD encourage/VB 
+[ individuals/NNS ]
+--/: 
+[ who/WP ]
+have/VBP been/VBN steady/JJ and/CC 
+[ massive/JJ liquidators/NNS ]
+of/IN 
+[ common/JJ stocks/NNS ]
+in/IN 
+[ recent/JJ years/NNS ]
+--/: to/TO slow/VB 
+[ that/DT liquidation/NN ]
+or/CC even/RB become/VB 
+[ net/JJ buyers/NNS ]
+of/IN 
+[ stock/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Einhorn/NNP ]
+./. 
+
+======================================
+
+[ The/DT effect/NN ]
+would/MD be/VB especially/RB positive/JJ in/IN 
+[ growth-oriented/JJ sectors/NNS ]
+of/IN 
+[ the/DT stock/NN market/NN ]
+,/, ``/`` because/IN 
+[ it/PRP ]
+would/MD reward/VB 
+[ people/NNS ]
+for/IN 
+[ building/VBG plant/NN ]
+and/CC building/VBG 
+[ a/DT business/NN ]
+,/, ''/'' says/VBZ 
+[ Howard/NNP Stein/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Dreyfus/NNP Corp/NNP ]
+./. 
+
+[ These/DT ]
+are/VBP 
+[ the/DT kinds/NNS ]
+of/IN 
+[ activities/NNS ]
+
+[ that/WDT ]
+tend/VBP to/TO create/VB 
+[ capital-gains/NNS ]
+for/IN 
+[ investors/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ long/JJ term/NN ]
+such/JJ as/IN 
+[ capital-gains/NNS cut/NN ]
+``/`` would/MD have/VB 
+[ a/DT very/RB positive/JJ effect/NN ]
+on/IN 
+[ environmental/JJ investments/NNS ]
+,/, ''/'' such/JJ as/IN 
+[ companies/NNS ]
+involved/VBN in/IN 
+[ the/DT fast-growing/JJ business/NN ]
+of/IN cleaning/VBG up/RP 
+[ water/NN ]
+and/CC 
+[ air/NN pollution/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ the/DT Bush/NNP administration/NN ]
+is/VBZ expected/VBN to/TO lobby/VB heavily/RB to/TO extend/VB 
+[ the/DT initial/JJ 30/CD %/NN capital-gains/NNS exclusion/NN ]
+beyond/IN 
+[ the/DT proposed/VBN 1991/CD deadline/NN ]
+./. 
+
+If/IN 
+[ those/DT efforts/NNS ]
+succeed/VBP ,/, 
+[ that/DT ]
+could/MD give/VB 
+[ a/DT major/JJ boost/NN ]
+to/TO 
+[ small/JJ stocks/NNS ]
+and/CC 
+[ secondary/JJ markets/NNS ]
+,/, such/JJ as/IN 
+[ the/DT over-the-counter/JJ market/NN ]
+--/: 
+[ both/DT ]
+favored/VBN playing/NN 
+[ fields/NNS ]
+for/IN 
+[ individual/JJ investors/NNS ]
+./. 
+
+======================================
+
+[ A/DT recent/JJ study/NN ]
+by/IN 
+[ Merrill/NNP Lynch/NNP 's/POS Mr./NNP Bernstein/NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, estimates/VBZ that/IN 
+[ every/DT five-percentage-point/JJ reduction/NN ]
+in/IN 
+[ the/DT capital-gains/NNS tax/NN ]
+would/MD cause/VB 
+[ small/JJ stocks/NNS ]
+to/TO 
+[ outperform/JJ the/DT broad/JJ stock/NN market/NN ]
+by/IN 
+[ 12.5/CD percentage/NN points/NNS ]
+./. 
+
+[ That/DT ]
+means/VBZ that/IN if/IN 
+[ the/DT top/JJ capital-gains/NNS rate/NN ]
+remained/VBD at/IN  
+[ 19.6/CD %/NN ]
+,/, ``/`` 
+[ small/JJ stocks/NNS ]
+could/MD gain/VB 
+[ an/DT average/NN ]
+of/IN 
+[ 25/CD percentage/NN ]
+points/NNS 
+[ a/DT year/NN ]
+relative/JJ to/TO 
+[ the/DT Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS 500/CD index/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 

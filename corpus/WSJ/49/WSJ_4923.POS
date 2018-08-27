@@ -1,0 +1,388 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Losses/NNS ]
+caused/VBN by/IN 
+[ Hurrican/NNP Hugo/NNP ]
+,/, 
+[ which/WDT ]
+battered/VBD 
+[ the/DT Carolinas/NNPS ]
+and/CC 
+[ a/DT string/NN ]
+of/IN 
+[ islands/NNS ]
+in/IN 
+[ the/DT Caribbean/NNP ]
+,/, could/MD add/VB up/RP to/TO 
+[ the/DT biggest/JJS claims/NNS ]
+bill/NN 
+[ the/DT insurance/NN industry/NN ]
+has/VBZ ever/RB faced/VBN ./. 
+
+======================================
+
+[ Insurance/NN adjusters/NNS ]
+and/CC 
+[ brokers/NNS ]
+estimated/VBD 
+[ the/DT damage/NN ]
+at/IN about/RB 
+[ $/$ 1/CD billion/CD ]
+in/IN 
+[ the/DT southeastern/JJ U.S./NNP ]
+where/WRB 
+[ Hugo/NNP ]
+came/VBD ashore/RB ,/, even/RB though/IN 
+[ South/NNP Carolina/NNP officials/NNS ]
+increased/VBD 
+[ their/PRP$ original/JJ estimates/NNS ]
+of/IN 
+[ property/NN damage/NN ]
+,/, saying/VBG 
+[ the/DT cost/NN ]
+
+[ there/EX ]
+alone/RB could/MD run/VB as/RB high/JJ as/IN 
+[ $/$ 2/CD billion/CD ]
+./. 
+
+[ Preliminary/JJ reports/NNS ]
+from/IN 
+[ insurance/NN brokers/NNS ]
+in/IN 
+[ Puerto/NNP Rico/NNP ]
+indicate/VBP that/IN insured/JJ 
+[ losses/NNS ]
+on/IN 
+[ this/DT island/NN ]
+and/CC 
+[ others/NNS ]
+in/IN 
+[ the/DT Caribbean/NNP ] 
+could/MD amount/VB to/TO 
+[ another/DT $/$ 1/CD billion/CD ]
+to/TO 
+[ $/$ 2/CD billion/CD ]
+./. 
+
+======================================
+
+[ South/NNP Carolina/NNP officials/NNS ]
+predicted/VBD 
+[ the/DT fallout/NN ]
+from/IN 
+[ the/DT killer/NN storm/NN ]
+would/MD continue/VB to/TO plague/VB 
+[ that/DT state/NN 's/POS economy/NN ]
+well/RB into/IN 
+[ 1990/CD ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ officials/NNS ]
+said/VBD 
+[ they/PRP ]
+were/VBD equally/RB concerned/JJ about/IN 
+[ the/DT long-term/JJ effects/NNS ]
+on/IN 
+[ South/NNP Carolina/NNP 's/POS agricultural/JJ businesses/NNS ]
+and/CC 
+[ the/DT tourism/NN industry/NN ]
+,/, 
+[ which/WDT ]
+contributed/VBD 
+[ $/$ 4.7/CD billion/CD ]
+to/TO 
+[ the/DT state/NN economy/NN ]
+in/IN 
+[ 1988/CD ]
+and/CC accounted/VBD for/IN 
+[ 98,000/CD jobs/NNS ]
+./. 
+
+======================================
+
+[ South/NNP Carolina/NNP officials/NNS ]
+had/VBD been/VBN predicting/VBG 
+[ an/DT 8/CD %/NN growth/NN ]
+in/IN 
+[ tourism/NN revenue/NN ]
+
+[ this/DT year/NN ]
+./. 
+
+[ That/DT number/NN ]
+was/VBD cut/VBN in/IN 
+[ half/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT $/$ 1/CD billion/CD agricultural/JJ sector/NN ]
+,/, 
+[ Hugo/NNP ]
+hit/VBD just/RB as/IN 
+[ South/NNP Carolina/NNP 's/POS cotton/NN ]
+,/, 
+[ corn/NN ]
+and/CC 
+[ peanut/NN crops/NNS ]
+were/VBD nearing/VBG 
+[ harvest/NN ]
+./. 
+
+[ State/NN officials/NNS ]
+said/VBD 
+[ they/PRP ]
+still/RB lacked/VBD 
+[ dollar/NN estimates/NNS ]
+because/IN 
+[ the/DT storm/NN ]
+cut/VBD off/RP 
+[ contact/NN ]
+with/IN 
+[ rural/JJ farms/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ attention/NN ]
+has/VBZ been/VBN focused/VBN on/IN 
+[ the/DT storm/NN 's/POS damages/NNS ]
+in/IN 
+[ South/NNP Carolina/NNP ]
+,/, 
+[ Hugo/NNP ]
+also/RB wreaked/VBD 
+[ havoc/NN ]
+when/WRB 
+[ it/PRP ]
+blew/VBD across/IN 
+[ the/DT border/NN ]
+into/IN 
+[ Charlotte/NNP ]
+,/, 
+[ N.C/NNP ]
+./. 
+
+[ A/DT city/NN official/NN ]
+there/RB placed/VBD 
+[ damage/NN ]
+to/TO 
+[ local/JJ property/NN ]
+at/IN 
+[ a/DT minimum/NN ]
+of/IN 
+[ $/$ 50/CD million/CD ]
+./. 
+
+[ North/NNP Carolina/NNP officials/NNS ]
+have/VBP asked/VBN 
+[ the/DT federal/JJ government/NN ]
+to/TO declare/VB 
+[ 51/CD western/JJ counties/NNS ]
+
+[ a/DT disaster/NN area/NN ]
+./. 
+
+======================================
+
+Throughout/IN 
+[ the/DT Carolinas/NNPS ]
+,/, 
+[ insurers/NNS ]
+are/VBP still/RB trying/VBG to/TO locate/VB 
+[ all/DT ]
+of/IN 
+[ their/PRP$ policyholders/NNS ]
+in/IN 
+[ the/DT affected/JJ areas/NNS ]
+./. 
+
+======================================
+
+[ An/DT agent/NN ]
+with/IN 
+[ Travelers/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Travelers/NNP Corp./NNP ]
+,/, in/IN 
+[ Charleston/NNP ]
+,/, 
+[ S.C./NNP ]
+,/, reported/VB to/TO 
+[ his/PRP$ home/NN office/NN ]
+in/IN 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, 
+[ that/WDT ]
+just/RB about/RB 
+[ every/DT building/NN ]
+in/IN 
+[ the/DT city/NN 's/POS downtown/JJ commercial/JJ district/NN ]
+appears/VBZ to/TO have/VB been/VBN damaged/VBN ./. 
+
+======================================
+
+[ The/DT losses/NNS ]
+from/IN 
+[ Hugo/NNP ]
+could/MD be/VB greater/JJR because/IN 
+[ the/DT storm/NN ]
+moved/VBD well/RB inland/RB with/IN 
+[ its/PRP$ driving/JJ rains/NNS ]
+and/CC spawned/VBD 
+[ numerous/JJ tornadoes/NNS ]
+,/, rather/RB than/IN just/RB bashing/JJ 
+[ the/DT coastal/JJ regions/NNS ]
+as/IN 
+[ insurers/NNS ]
+had/VBD originally/RB anticipated/VBN ./. 
+
+======================================
+
+[ Insurers/NNS ]
+,/, 
+[ who/WP ]
+had/VBD set/VBN up/RP 
+[ claims/NNS offices/NNS ]
+in/IN 
+[ Columbia/NNP ]
+,/, 
+[ S.C./NNP ]
+,/, and/CC 
+[ Charlotte/NNP ]
+to/TO handle/VB 
+[ the/DT rush/NN ]
+of/IN 
+[ claims/NNS ]
+after/IN 
+[ the/DT hurricane/NN ]
+passed/VBD through/RB ,/, had/VBD to/TO dig/VB out/RP and/CC get/VB 
+[ phone/NN ]
+and/CC 
+[ electrical/JJ service/NN ]
+restored/VBN before/IN 
+[ they/PRP ]
+could/MD begin/VB helping/VBG 
+[ clients/NNS ]
+./. 
+
+[ Travelers/NNP Corp./NNP ]
+,/, 
+[ Aetna/NNP Life/NNP ]
+&/CC 
+[ Casualty/NNP ]
+,/, 
+[ State/NNP Farm/NNP Mutual/NNP Automobile/NNP Insurance/NNP Co./NNP ]
+,/, and/CC 
+[ Nationwide/NNP Insurance/NNP Cos./NNP ]
+,/, among/IN 
+[ others/NNS ]
+,/, have/VBP 
+[ adjusters/NNS ]
+in/IN 
+[ the/DT Carolinas/NNPS ]
+and/CC have/VB set/VBN up/RP 
+[ emergency-claims/NNS offices/NNS ]
+./. 
+
+[ Some/DT companies/NNS ]
+are/VBP putting/VBG 
+[ ads/NNS ]
+in/IN 
+[ local/JJ newspapers/NNS ]
+with/IN 
+[ 800/CD numbers/NNS ]
+that/IN 
+[ policyholders/NNS ]
+can/MD call/VB for/IN 
+[ assistance/NN ]
+./. 
+
+======================================
+
+[ Allstate/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Sears/NNP ]
+,/, 
+[ Roebuck/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, has/VBZ 
+[ two/CD mobile/JJ units/NNS ]
+driving/VBG through/IN 
+[ parts/NNS ]
+of/IN 
+[ Charleston/NNP ]
+to/TO locate/VB 
+[ some/DT ]
+of/IN 
+[ its/PRP$ policyholders/NNS ]
+./. 
+
+======================================
+
+Since/IN 
+[ banks/NNS ]
+are/VBP n't/RB opened/VBN because/IN 
+[ there/EX ]
+'s/VBZ 
+[ no/DT electricity/NN ]
+in/IN much/JJ of/IN 
+[ the/DT city/NN ]
+,/, 
+[ many/JJ Sears/NNP stores/NNS ]
+are/VBP cashing/VBG 
+[ checks/NNS ]
+for/IN 
+[ Allstate/NNP policyholders/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Puerto/NNP Rico/NNP ]
+,/, 
+[ damage/NN ]
+to/TO 
+[ the/DT island/NN 's/POS electric-utility/NN company/NN ]
+is/VBZ estimated/VBN at/IN about/RB 
+[ $/$ 20/CD million/CD ]
+./. 
+
+[ Losses/NNS ]
+at/IN 
+[ San/NNP Juan/NNP 's/POS international/JJ airport/NN ]
+,/, where/WRB 
+[ much/JJ equipment/NN ]
+and/CC 
+[ small/JJ planes/NNS ]
+were/VBD damaged/VBN ,/, could/MD also/RB top/VB 
+[ $/$ 20/CD million/CD ]
+./. 

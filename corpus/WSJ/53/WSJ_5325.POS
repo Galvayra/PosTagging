@@ -1,0 +1,395 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Voyager/NNP 's/POS detailed/JJ pictures/NNS ]
+of/IN 
+[ Neptune/NNP ]
+and/CC 
+[ Triton/NNP ]
+were/VBD so/RB remarkable/JJ that/IN 
+[ the/DT stunning/JJ engineering/NN achievement/NN ]
+of/IN getting/VBG 
+[ the/DT information/NN ]
+back/RP across/IN 
+[ some/DT three/CD billion/CD miles/NNS ]
+with/IN 
+[ a/DT minuscule/JJ radio/NN transmitter/NN ]
+,/, and/CC 
+[ the/DT lesson/NN ]
+
+[ that/WDT ]
+could/MD be/VB taken/VBN from/IN 
+[ it/PRP ]
+,/, tended/VBD to/TO get/VB lost/VBN like/IN 
+[ a/DT fainter/JJR light/NN ]
+in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ the/DT sun/NN ]
+./. 
+
+======================================
+
+[ Scientists/NNS ]
+said/VBD that/IN 
+[ the/DT Voyager/NNP transmitter/NN ]
+used/VBN about/RB 
+[ as/RB much/JJ power/NN ]
+as/IN 
+[ the/DT light/NN bulb/NN ]
+in/IN 
+[ a/DT refrigerator/NN ]
+--/: 
+[ 22/CD watts/NNS ]
+,/, and/CC by/IN 
+[ the/DT time/NN ]
+
+[ the/DT signal/NN ]
+reached/VBD 
+[ any/DT point/NN ]
+on/IN 
+[ Earth/NNP ]
+
+[ it/PRP ]
+amounted/VBD to/TO about/RB 
+[ one/CD quadrillionth/NN ]
+of/IN 
+[ a/DT watt/NN ]
+,/, or/CC about/RB 
+[ 20/CD billion/CD times/NNS less/JJR energy/NN ]
+than/IN 
+[ a/DT digital/JJ watch/NN uses/NNS ]
+./. 
+
+To/TO read/VB 
+[ the/DT strings/NNS ]
+of/IN 
+[ numbers/NNS ]
+from/IN 
+[ which/WDT ]
+
+[ the/DT computers/NNS ]
+created/VBD 
+[ the/DT pictures/NNS ]
+,/, 
+[ the/DT scientists/NNS ]
+needed/VBD 
+[ an/DT antenna/NN surface/NN ]
+equal/JJ to/TO 
+[ several/JJ football/NN fields/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ there/EX ]
+is/VBZ 
+[ another/DT factor/NN ]
+,/, known/VBN in/IN 
+[ communications/NNS ]
+as/IN 
+[ the/DT signal-to-noise/JJ ratio/NN ]
+./. 
+
+[ Old-timers/NNS ]
+will/MD recall/VB 
+[ the/DT effort/NN ]
+
+[ they/PRP ]
+made/VBD --/: and/CC 
+[ the/DT thrill/NN ]
+
+[ they/PRP ]
+got/VBD --/: when/WRB 
+[ they/PRP ]
+were/VBD able/JJ to/TO pick/VB up/RB  
+[ music/NN ]
+from/IN 
+[ a/DT distant/JJ source/NN ]
+through/IN 
+[ the/DT crash/NN ]
+of/IN 
+[ static/NN ]
+from/IN 
+[ thunderstorms/NNS ]
+and/CC 
+[ the/DT hiss/NNS ]
+of/IN 
+[ the/DT electrons/NNS ]
+in/IN 
+[ the/DT vacuum-tube/JJ ]
+circuits/NNS of/IN 
+[ their/PRP$ own/JJ receivers/NNS ]
+,/, not/RB to/TO mention/VB 
+[ the/DT sparks/NNS ]
+from/IN 
+[ electric/JJ motors/NNS ]
+and/CC 
+[ automobile/NN engines/NNS ]
+./. 
+
+======================================
+
+[ Technology/NN ]
+has/VBZ done/VBN 
+[ a/DT lot/NN ]
+to/TO suppress/VB 
+[ circuit/NN noise/NN ]
+since/IN 
+[ those/DT days/NNS ]
+,/, but/CC 
+[ this/DT old/JJ radio/NN ham/NN wonders/NNS ]
+how/WRB 
+[ the/DT engineers/NNS ]
+were/VBD able/JJ to/TO differentiate/VB 
+[ Voyager/NNP 's/POS small/JJ voice/NN ]
+from/IN 
+[ the/DT glow/NN ]
+left/VBN by/IN 
+[ the/DT Big/NNP Bang/NNP ]
+and/CC 
+[ the/DT synchotron/JJ radiation/NN ]
+that/IN 
+[ Karl/NNP Jansky/NNP ]
+and/CC 
+[ Grote/NNP Reber/NNP ]
+found/VBD streaming/VBG in/IN from/IN 
+[ all/DT directions/NNS ]
+of/IN 
+[ the/DT sky/NN ]
+in/IN 
+[ the/DT 1930s/NNS ]
+and/CC 
+[ 1940s/NNS ]
+as/IN 
+[ they/PRP ]
+pioneered/VBD 
+[ radio/NN astronomy/NN ]
+./. 
+
+[ The/DT sky/NN ]
+is/VBZ ``/`` 
+[ hot/JJ ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT same/JJ sense/NN ]
+
+[ we/PRP ]
+live/VBP in/IN  
+[ a/DT ]
+``/`` 
+[ hot/JJ ]
+''/'' 
+[ society/NN ]
+in/IN 
+[ which/WDT ]
+
+[ we/PRP ]
+are/VBP being/VBG continually/RB deluged/VBN with/IN 
+[ messages/NNS ]
+by/IN 
+[ radio/NN ]
+,/, 
+[ television/NN ]
+,/, 
+[ cellular/JJ phone/NN ]
+and/CC 
+[ every/DT other/JJ means/NN ]
+of/IN 
+[ communication/NN ]
+./. 
+
+ (/( At/IN 
+[ least/JJS a/DT few/JJ old-time/JJ Catholics/NNPS ]
+even/RB think/VBP 
+[ their/PRP$ liturgy/NN ]
+had/VBD 
+[ a/DT better/JJR signal-to-noise/JJ ratio/NN pre-Vatican/NNP II/NNP ]
+,/, before/IN 
+[ guitars/NNS ]
+and/CC 
+[ frenetic/JJ activity/NN ]
+./. 
+
+[ Contemplation/NN ]
+was/VBD downgraded/VBN in/IN 
+[ preference/NN ]
+to/TO 
+[ social/JJ activism/NN ]
+./. 
+
+So/IN far/RB ,/, 
+[ no/DT cellular/JJ phones/NNS ]
+at/IN 
+[ Mass/NNP ]
+,/, as/RB far/RB as/IN 
+[ I/PRP ]
+know/VBP ./. 
+
+ )/) 
+======================================
+
+[ The/DT computer/NN ]
+,/, 
+[ no/DT doubt/NN ]
+
+[ a/DT great/JJ boon/NN ]
+to/TO 
+[ productivity/NN ]
+ (/( and/CC to/TO 
+[ Voyager/NNP 's/POS small/JJ voice/NN ]
+ )/) ,/, has/VBZ made/VBN 
+[ it/PRP ]
+possible/JJ to/TO make/VB or/CC lose/VB 
+[ money/NN ]
+at/IN 
+[ the/DT speed/NN ]
+of/IN 
+[ light/NN ]
+,/, and/CC become/VB 
+[ a/DT factor/NN ]
+in/IN 
+[ a/DT proliferation/NN ]
+of/IN 
+[ information/NN ]
+
+[ that/WDT ]
+threatens/VBZ to/TO over-stress/VB 
+[ the/DT human/JJ neurological/JJ circuits/NNS ]
+if/IN not/RB 
+[ the/DT electronic/JJ networks/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD ironic/JJ ,/, in/IN 
+[ a/DT way/NN ]
+,/, that/IN 
+[ John/NNP Sculley/NNP ]
+,/, 
+[ the/DT president/NN ]
+and/CC 
+[ CEO/NNP ]
+of/IN 
+[ Apple/NNP Computer/NNP ]
+,/, felt/VBD 
+[ he/PRP ]
+needed/VBD 
+[ several/JJ months/NNS ]
+off/RP 
+[ a/DT year/NN ]
+or/CC so/RB ago/RB to/TO find/VB 
+[ time/NN ]
+to/TO think/VB about/IN 
+[ the/DT future/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+And/CC 
+[ the/DT centennial/JJ edition/NN ]
+of/IN 
+[ this/DT newspaper/NN ]
+documented/VBD 
+[ the/DT fact/NN ]
+that/IN 
+[ more/JJR ]
+and/CC 
+[ more/JJR managers/NNS ]
+and/CC 
+[ executives/NNS ]
+are/VBP ``/`` getting/VBG off/IN 
+[ the/DT fast/JJ track/NN ]
+''/'' to/TO have/VB 
+[ more/JJR time/NN ]
+with/IN 
+[ their/PRP$ families/NNS ]
+./. 
+
+Among/IN 
+[ my/PRP$ young/JJ neighbors/NNS ]
+
+[ who/WP ]
+would/MD qualify/VB as/IN 
+[ yuppies/NNS I/PRP ]
+find/VBP 
+[ a/DT disposition/NN ]
+to/TO work/VB only/RB 
+[ a/DT few/JJ years/NNS ]
+for/IN 
+[ the/DT same/JJ company/NN ]
+and/CC then/RB go/VB into/IN 
+[ something/NN ]
+else/RB ,/, such/JJ as/IN teaching/NN|VBG ./. 
+
+======================================
+
+[ Voyager/NNP ]
+has/VBZ shown/VBN 
+[ us/PRP ]
+
+[ what/WP ]
+
+[ marvelous/JJ messages/NNS ]
+can/MD get/VB through/RP when/WRB 
+[ we/PRP ]
+suppress/VBP 
+[ the/DT noise/NN ]
+and/CC let/VB 
+[ a/DT small/JJ voice/NN ]
+have/VB 
+[ its/PRP$ say/NN ]
+./. 
+
+[ What/WP wonders/NNS ]
+would/MD result/VB if/IN 
+[ everyone/NN ]
+took/VBD 
+[ a/DT little/JJ quiet/JJ time/NN ]
+away/RB from/IN 
+[ the/DT drumbeat/NN ]
+of/IN 
+[ modern/JJ life/NN ]
+to/TO think/VB ?/. 
+
+Probably/RB 
+[ a/DT huge/JJ segment/NN ]
+of/IN 
+[ the/DT population/NN ]
+would/MD just/RB go/VB to/TO sleep/VB from/IN 
+[ fatigue/NN ]
+,/, and/CC 
+[ that/DT ]
+could/MD be/VB 
+[ a/DT good/JJ thing/NN ]
+,/, too/RB ./. 
+
+======================================
+
+[ Mr./NNP Barrett/NNP ]
+,/, 
+[ a/DT retired/VBN columnist/NN ]
+for/IN 
+[ the/DT San/NNP Jose/NNP Mercury/NNP News/NNP ]
+,/, thought/VBD about/IN 
+[ this/DT ]
+during/IN 
+[ a/DT wakeful/JJ night/NN ]
+./. 

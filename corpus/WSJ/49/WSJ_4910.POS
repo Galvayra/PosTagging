@@ -1,0 +1,753 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Six/CD months/NNS ]
+ago/RB on/IN 
+[ the/DT eve/NN ]
+of/IN 
+[ her/PRP$ 10th/JJ anniversary/NN ]
+in/IN 
+[ office/NN British/JJ Prime/NNP Minister/NNP Margaret/NNP Thatcher/NNP ]
+seemed/VBD 
+[ invincible/JJ ]
+./. 
+
+[ Today/NN ]
+
+[ she/PRP ]
+looks/VBZ politically/RB vulnerable/JJ ./. 
+
+[ The/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+could/MD --/: and/CC should/MD --/: 
+[ help/VB ]
+./. 
+
+======================================
+
+[ Mrs./NNP Thatcher/NNP 's/POS political/JJ isolation/NN ]
+has/VBZ come/VBN about/RP in/IN 
+[ part/NN ]
+because/IN of/IN 
+[ her/PRP$ dispute/NN ]
+with/IN 
+[ European/JJ unificationists/NNS ]
+over/IN 
+[ the/DT extent/NN ]
+to/TO 
+[ which/WDT ]
+
+[ Britain/NNP ]
+must/MD relinquish/VB 
+[ its/PRP$ sovereignty/NN ]
+in/IN 
+[ order/NN ]
+to/TO participate/VB in/IN 
+[ the/DT Single/NNP European/NNP Market/NNP ]
+,/, or/CC 
+[ SEM/NNP ]
+./. 
+
+[ British/NNP Conservative/NNP Party/NNP losses/NNS ]
+in/IN 
+[ the/DT June/NNP election/NN ]
+for/IN 
+[ the/DT European/NNP Parliament/NNP ]
+and/CC 
+[ Mrs./NNP Thatcher/NNP 's/POS decline/NN ]
+in/IN 
+[ subsequent/JJ opinion/NN polls/NNS ]
+
+[ both/DT ]
+attest/VBP to/TO 
+[ the/DT damage/NN ]
+done/VBN to/TO 
+[ her/PRP$ position/NN ]
+by/IN 
+[ the/DT European/JJ issue/NN ]
+./. 
+
+======================================
+
+[ Mrs./NNP Thatcher/NNP 's/POS problems/NNS ]
+derive/VBP from/IN 
+[ her/PRP$ opponents/NNS '/POS success/NN ]
+at/IN obscuring/VBG 
+[ the/DT distinction/NN ]
+between/IN 
+[ free/JJ trade/NN ]
+and/CC 
+[ national/JJ sovereignty/NN ]
+./. 
+
+[ Unificationists/NNS ]
+such/JJ as/IN 
+[ former/JJ Prime/NNP Minister/NNP Edward/NNP Heath/NNP ]
+and/CC 
+[ European/NNP Commission/NNP President/NNP Jacques/NNP Delors/NNP ]
+have/VBP so/RB far/RB convinced/VBN 
+[ the/DT British/JJ public/NN ]
+that/IN 
+[ it/PRP ]
+ca/MD n't/RB trade/VB more/RBR openly/RB with/IN 
+[ Europe/NNP ]
+without/IN also/RB accepting/VBG 
+[ the/DT dictation/NN ]
+of/IN 
+[ internal/JJ British/JJ policy/NN ]
+from/IN 
+[ the/DT European/JJ bureaucracy/NN ]
+,/, 
+[ Parliament/NNP ]
+and/CC 
+[ courts/NNS ]
+./. 
+
+[ Mrs./NNP Thatcher/NNP 's/POS political/JJ future/NN ]
+and/CC 
+[ the/DT future/NN ]
+of/IN 
+[ an/DT independent/JJ Britain/NNP ]
+may/MD depend/VB on/IN 
+[ her/PRP$ ability/NN ]
+to/TO divorce/VB 
+[ the/DT issue/NN ]
+of/IN 
+[ free/JJ trade/NN ]
+,/, 
+[ which/WDT ]
+
+[ she/PRP ]
+favors/VBZ ,/, from/IN 
+[ the/DT issue/NN ]
+of/IN 
+[ diminished/JJ sovereignty/NN ]
+,/, 
+[ which/WDT ]
+
+[ she/PRP ]
+does/VBZ not/RB ./. 
+
+With/IN 
+[ Mr./NNP Delors/NNP ]
+pressing/VBG for/IN 
+[ the/DT European/NNP Community/NNP ]
+to/TO assume/VB ``/`` 
+[ 80/CD %/NN ]
+of/IN 
+[ economic/JJ legislation/NN ]
+,/, and/CC perhaps/RB even/RB 
+[ fiscal/JJ ]
+and/CC 
+[ social/JJ legislation/NN ]
+''/'' within/IN 
+[ a/DT decade/NN ]
+,/, and/CC with/IN 
+[ a/DT British/JJ general/JJ election/NN ]
+expected/VBN just/RB before/IN 
+[ the/DT SEM/NNP ]
+goes/VBZ into/IN 
+[ effect/NN ]
+in/IN 
+[ 1992/CD ]
+,/, 
+[ she/PRP ]
+has/VBZ 
+[ no/DT time/NN ]
+to/TO waste/VB ./. 
+
+======================================
+
+Given/VBN 
+[ both/DT Mrs./NNP Thatcher/NNP 's/POS steadfast/JJ support/NN ]
+for/IN 
+[ North/JJ American/JJ interests/NNS ]
+and/CC 
+[ the/DT unilateralist/JJ tendencies/NNS ]
+of/IN 
+[ the/DT British/JJ opposition/NN ]
+,/, 
+[ President/NNP Bush/NNP ]
+and/CC 
+[ Canadian/NNP Prime/NNP Minister/NNP Brian/NNP Mulroney/NNP ]
+might/MD do/VB well/RB to/TO help/VB 
+[ her/PRP ]
+make/VB 
+[ her/PRP$ point/NN ]
+./. 
+
+[ They/PRP ]
+could/MD do/VB so/RB by/IN inviting/VBG 
+[ the/DT U.K./NNP ]
+to/TO enter/VB 
+[ the/DT ]
+recently/RB ratified/VBN 
+[ free-trade/NN agreement/NN ]
+between/IN 
+[ Washington/NNP ]
+and/CC 
+[ Ottawa/NNP ]
+./. 
+
+[ Such/PDT a/DT proposal/NN ]
+would/MD have/VB 
+[ several/JJ benefits/NNS ]
+./. 
+
+======================================
+
+First/RB ,/, 
+[ the/DT inclusion/NN ]
+of/IN 
+[ Britain/NNP ]
+in/IN 
+[ the/DT North/JJ American/JJ agreement/NN ]
+would/MD enhance/VB 
+[ the/DT economic/JJ position/NN ]
+of/IN 
+[ all/DT three/CD countries/NNS ]
+./. 
+
+[ The/DT advantages/NNS ]
+of/IN 
+[ free/JJ trade/NN ]
+
+[ that/WDT ]
+have/VBP made/VBN 
+[ the/DT SEM/NNP ]
+so/RB attractive/JJ to/TO 
+[ Europeans/NNPS ]
+--/: 
+[ access/NN ]
+to/TO 
+[ new/JJ products/NNS ]
+,/, 
+[ markets/NNS ]
+and/CC 
+[ raw/JJ materials/NNS ]
+,/, enhanced/JJ 
+[ competitiveness/NN ]
+and/CC 
+[ lower/JJR consumer/NN prices/NNS ]
+--/: also/RB would/MD commend/VB 
+[ the/DT idea/NN ]
+of/IN 
+[ a/DT North/NNP Atlantic/NNP Free/NNP Trade/NNP Area/NNP ]
+ (/( 
+[ NAFTA/NNP ]
+ )/) ./. 
+
+======================================
+
+[ An/DT additional/JJ 60/CD million/CD people/NNS ]
+in/IN 
+[ the/DT U.S.-Canada/NNP pact/NN ]
+would/MD create/VB 
+[ a/DT single/JJ North/JJ Atlantic/JJ market/NN ]
+roughly/RB equal/JJ to/TO 
+[ the/DT SEM/NNP ]
+in/IN 
+[ population/NN ]
+and/CC 
+[ gross/JJ national/JJ product/NN ]
+./. 
+
+With/IN 
+[ North/JJ American/JJ industries/NNS ]
+increasingly/RB worried/JJ about/IN being/VBG locked/VBN out/IN of/IN 
+[ a/DT ]
+``/`` 
+[ Fortress/NNP Europe/NNP ]
+''/'' after/IN 
+[ 1992/CD ]
+,/, 
+[ a/DT formal/JJ U.S.-Canada/NNP trade/NN agreement/NN ]
+with/IN 
+[ Britain/NNP ]
+would/MD ensure/VB that/IN 
+[ North/JJ American/JJ companies/NNS ]
+would/MD maintain/VB 
+[ a/DT vital/JJ link/NN ]
+not/RB only/RB with/IN 
+[ Britain/NNP ]
+but/CC also/RB --/: via/IN 
+[ Britain/NNP ]
+--/: with/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ Europe/NNP ]
+./. 
+
+[ The/DT possibilities/NNS ]
+for/IN 
+[ greater/JJR access/NN ]
+to/TO 
+[ European/JJ markets/NNS ]
+made/VBN 
+[ available/JJ ]
+by/IN 
+[ the/DT new/JJ pact/NN ]
+would/MD help/VB sell/VB 
+[ the/DT idea/NN ]
+to/TO 
+[ a/DT U.S./NNP Congress/NNP ]
+worried/JJ about/IN 
+[ U.S./NNP trade/NN deficits/NNS ]
+./. 
+
+[ Canadians/NNPS ]
+might/MD particularly/RB welcome/VB 
+[ the/DT inclusion/NN ]
+of/IN 
+[ Britain/NNP ]
+as/IN 
+[ a/DT means/NN ]
+of/IN diluting/VBG 
+[ U.S./NNP presence/NN ]
+and/CC 
+[ assuaging/VBG voter/NN fears/NNS ]
+of/IN 
+[ U.S./NNP ]
+``/`` 
+[ economic/JJ annexation/NN ]
+./. 
+
+''/'' For/IN 
+[ Britain/NNP ]
+,/, 
+[ freer/JJR access/NN ]
+to/TO 
+[ a/DT market/NN ]
+of/IN 
+[ 250/CD million/CD prosperous/JJ ]
+and/CC 
+[ English-speaking/JJ people/NNS ]
+could/MD give/VB 
+[ a/DT needed/JJ boost/NN ]
+to/TO 
+[ its/PRP$ ]
+manufacturing/NN and/CC 
+[ marketing/NN interests/NNS ]
+./. 
+
+======================================
+
+[ Second/RB ]
+,/, 
+[ the/DT offer/NN ]
+would/MD give/VB 
+[ Mrs./NNP Thatcher/NNP leverage/NN ]
+in/IN 
+[ her/PRP$ battle/NN ]
+to/TO resist/VB 
+[ the/DT loss/NN ]
+of/IN 
+[ British/JJ autonomy/NN ]
+to/TO 
+[ a/DT ]
+politically/RB unified/JJ 
+[ Europe/NNP ]
+./. 
+
+[ An/DT offer/NN ]
+to/TO include/VB 
+[ Britain/NNP ]
+in/IN 
+[ the/DT North/JJ American/JJ agreement/NN ]
+would/MD dramatize/VB 
+[ the/DT difference/NN ]
+between/IN 
+[ a/DT beneficial/JJ trading/NN relationship/NN ]
+based/VBN on/IN 
+[ the/DT mutual/JJ respect/NN ]
+of/IN 
+[ national/JJ sovereignty/NN ]
+and/CC 
+[ a/DT semi-statist/JJ drive/NN ]
+for/IN 
+[ political/JJ amalgamation/NN ]
+
+[ that/WDT ]
+threatens/VBZ 
+[ the/DT power/NN ]
+of/IN 
+[ local/JJ ]
+and/CC 
+[ national/JJ legislatures/NNS ]
+./. 
+
+[ Recent/JJ EC/NNP ]
+attempts/NNS to/TO extend/VB 
+[ its/PRP$ authority/NN ]
+over/IN 
+[ everything/NN ]
+from/IN 
+[ cigarette/NN labels/NNS ]
+and/CC 
+[ management/NN practices/NNS ]
+to/TO 
+[ minimum-wage/NN laws/NNS ]
+and/CC 
+[ tax/NN rates/NNS ]
+compare/VBP unfavorably/RB with/IN 
+[ the/DT less/RBR heavy-handed/JJ North/JJ American/JJ agreement/NN ]
+--/: 
+[ the/DT administration/NN ]
+of/IN 
+[ which/WDT ]
+requires/VBZ 
+[ no/DT separate/JJ parliament/NN ]
+or/CC 
+[ judiciary/NN ]
+and/CC 
+[ no/DT pan-national/JJ bureaucracy/NN ]
+./. 
+
+In/IN 
+[ short/JJ ]
+,/, 
+[ it/PRP ]
+implies/VBZ 
+[ no/DT renunciation/NN ]
+of/IN 
+[ sovereignty/NN ]
+./. 
+
+======================================
+
+[ An/DT invitation/NN ]
+to/TO join/VB in/IN 
+[ a/DT NAFTA/NNP ]
+would/MD enable/VB 
+[ Mrs./NNP Thatcher/NNP ]
+to/TO test/VB 
+[ European/JJ intentions/NNS ]
+prior/RB to/TO 
+[ 1992/CD ]
+./. 
+
+In/IN 
+[ the/DT worst/JJS case/NN ]
+,/, if/IN 
+[ Britain/NNP ]
+entered/VBD into/IN 
+[ a/DT separate/JJ agreement/NN ]
+with/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+,/, 
+[ moves/NNS ]
+might/MD be/VB made/VBN within/IN 
+[ the/DT EC/NNP ]
+to/TO deny/VB 
+[ Britain/NNP membership/NN ]
+in/IN 
+[ the/DT SEM/NNP ]
+./. 
+
+If/IN ,/, however/RB ,/, 
+[ the/DT SEM/NNP ]
+is/VBZ primarily/RB concerned/JJ with/IN promoting/VBG 
+[ free/JJ trade/NN ]
+,/, as/IN 
+[ most/JJS unificationists/NNS ]
+claim/VBP ,/, then/RB 
+[ there/EX ]
+should/MD be/VB 
+[ no/DT reason/NN ]
+to/TO expel/VB 
+[ member/NN states/NNS ]
+
+[ that/WDT ]
+enter/VBP into/IN 
+[ separate/JJ trade/NN pacts/NNS ]
+with/IN 
+[ other/JJ nations/NNS ]
+./. 
+
+Thus/RB ,/, giving/VBG 
+[ Mrs./NNP Thatcher/NNP ]
+
+[ another/DT offer/NN ]
+will/MD enable/VB 
+[ her/PRP ]
+to/TO demand/VB that/IN 
+[ the/DT Eurocracy/NNP ]
+either/CC cease/VB promulgating/VBG 
+[ regulations/NNS ]
+
+[ that/WDT ]
+violate/VBP 
+[ British/JJ sovereignty/NN ]
+or/CC 
+[ risk/VB ]
+losing/VBG 
+[ Britain/NNP 's/POS participation/NN ]
+./. 
+
+======================================
+
+Finally/RB ,/, 
+[ the/DT agreement/NN ]
+would/MD strengthen/VB 
+[ North/JJ Atlantic/JJ ties/NNS ]
+at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ the/DT allure/NN ]
+of/IN 
+[ European/JJ pan-nationalism/NN ]
+not/RB only/RB threatens/VBZ 
+[ European/JJ leaders/NNS ]
+
+[ who/WP ]
+oppose/VBP 
+[ it/PRP ]
+,/, but/CC also/RB promises/VBZ to/TO alienate/VB 
+[ Britain/NNP ]
+and/CC 
+[ its/PRP$ North/JJ American/JJ allies/NNS ]
+./. 
+
+[ The/DT recent/JJ European/NNP Court/NNP ]
+of/IN 
+[ Human/NNP Rights/NNP decision/NN ]
+to/TO overrule/VB 
+[ British/JJ compliance/NN ]
+with/IN 
+[ a/DT U.S./NNP extradition/NN request/NN ]
+ (/( in/IN 
+[ the/DT Soering/NNP case/NN ]
+ )/) suggests/VBZ 
+[ Britain/NNP 's/POS European/JJ marriage/NN ]
+may/MD begin/VB to/TO limit/VB 
+[ vital/JJ aspects/NNS ]
+of/IN 
+[ its/PRP$ ]
+``/`` 
+[ special/JJ relationship/NN ]
+''/'' with/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+./. 
+
+======================================
+
+Since/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, 
+[ Anglo-North/JJ American/JJ military/JJ ]
+and/CC 
+[ intelligence/NN cooperation/NN ]
+has/VBZ extended/VBN ,/, in/IN 
+[ the/DT words/NNS ]
+of/IN 
+[ Cambridge/NNP historian/NN Christopher/NNP Andrew/NNP ]
+,/, ``/`` far/RB beyond/IN 
+[ the/DT formal/JJ obligations/NNS ]
+of/IN 
+[ the/DT Atlantic/NNP alliance/NN ]
+./. 
+
+''/'' During/IN 
+[ the/DT 1980s/NNS ]
+,/, 
+[ the/DT mutual/JJ support/NN ]
+provided/VBN by/IN 
+[ this/DT alliance/NN ]
+proved/VBD essential/JJ to/TO 
+[ the/DT success/NN ]
+of/IN 
+[ unilateral/JJ British/JJ ]
+and/CC 
+[ U.S./NNP military/JJ actions/NNS ]
+against/IN 
+[ Argentina/NNP ]
+and/CC 
+[ Libya/NNP ]
+,/, 
+[ both/DT ]
+of/IN 
+[ which/WDT ]
+were/VBD opposed/VBN by/IN 
+[ European/JJ allies/NNS ]
+./. 
+
+[ Both/DT ]
+
+[ the/DT removal/NN ]
+of/IN 
+[ the/DT Soviet/JJ SS-20s/NNPS ]
+from/IN 
+[ Europe/NNP ]
+and/CC 
+[ the/DT withdrawal/NN ]
+of/IN 
+[ Soviet/JJ troops/NNS ]
+from/IN 
+[ Afghanistan/NNP ]
+occurred/VBD as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ Anglo-American/JJ initiatives/NNS ]
+
+[ that/WDT ]
+were/VBD 
+[ either/CC ]
+resisted/VBD or/CC ignored/VBD on/IN 
+[ the/DT Continent/NNP ]
+./. 
+
+[ The/DT diminution/NN ]
+of/IN 
+[ British/JJ autonomy/NN ]
+inherent/JJ in/IN 
+[ the/DT idea/NN ]
+of/IN 
+[ European/JJ amalgamation/NN ]
+raises/VBZ 
+[ serious/JJ questions/NNS ]
+about/IN 
+[ the/DT future/NN ]
+of/IN 
+[ this/DT unique/JJ strategic/JJ arrangement/NN ]
+./. 
+
+======================================
+
+[ Bismarck/NNP ]
+observed/VBD that/IN 
+[ the/DT most/RBS important/JJ fact/NN ]
+of/IN 
+[ the/DT modern/JJ world/NN ]
+was/VBD that/IN 
+[ the/DT British/NNPS ]
+and/CC 
+[ the/DT Americans/NNPS ]
+spoke/VBD 
+[ the/DT same/JJ language/NN ]
+./. 
+
+[ His/PRP$ remark/NN ]
+has/VBZ proved/VBN 
+[ prophetic/JJ ]
+./. 
+
+[ Anglo-North/JJ American/JJ cooperation/NN ]
+has/VBZ played/VBN 
+[ a/DT decisive/JJ role/NN ]
+in/IN 
+[ the/DT outcome/NN ]
+of/IN 
+[ both/DT ]
+of/IN 
+[ this/DT century/NN 's/POS world/NN wars/NNS ]
+,/, in/IN 
+[ the/DT maintenance/NN ]
+of/IN 
+[ peace/NN ]
+in/IN 
+[ Europe/NNP ]
+for/IN 
+[ the/DT past/JJ 40/CD years/NNS ]
+and/CC in/IN 
+[ the/DT reversal/NN ]
+of/IN 
+[ Soviet/JJ expansionism/NN ]
+during/IN 
+[ this/DT decade/NN ]
+./. 
+
+======================================
+
+[ The/DT Anglo-North/JJ American/JJ alliance/NN ]
+,/, 
+[ natural/JJ ]
+and/CC beneficial/JJ though/IN 
+[ it/PRP ]
+may/MD be/VB ,/, can/MD not/RB be/VB taken/VBN for/IN granted/JJ ./. 
+
+[ A/DT minimal/JJ precondition/NN ]
+of/IN 
+[ decisive/JJ bilateral/JJ ]
+or/CC 
+[ trilateral/JJ policy/NN ]
+is/VBZ 
+[ sovereignty/NN ]
+of/IN participating/VBG 
+[ nations/NNS ]
+./. 
+
+[ The/DT current/JJ drift/NN ]
+toward/IN 
+[ the/DT multilateral/JJ unification/NN ]
+of/IN 
+[ Europe/NNP ]
+threatens/VBZ 
+[ British/JJ sovereignty/NN ]
+and/CC will/MD encourage/VB 
+[ British/JJ indecision/NN ]
+and/CC 
+[ inaction/NN ]
+./. 
+
+Yet/CC 
+[ current/JJ economic/JJ ]
+and/CC 
+[ political/JJ realities/NNS ]
+make/VBP 
+[ the/DT gradual/JJ surrender/NN ]
+of/IN 
+[ British/JJ sovereignty/NN ]
+seem/VBP 
+[ inevitable/JJ ]
+./. 
+
+[ Mrs./NNP Thatcher/NNP 's/POS attempts/NNS ]
+to/TO resist/VB 
+[ this/DT trend/NN ]
+have/VBP left/VBN 
+[ her/PRP ]
+isolated/JJ ./. 
+
+If/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+wish/VBP to/TO maintain/VB 
+[ their/PRP$ historic/JJ relationship/NN ]
+with/IN 
+[ a/DT sovereign/JJ British/JJ nation/NN ]
+,/, then/RB 
+[ they/PRP ]
+must/MD act/VB now/RB and/CC make/VB 
+[ her/PRP ]
+
+[ a/DT better/JJR offer/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Meyer/NNP ]
+is/VBZ 
+[ a/DT Ph./NNP D./NNP  student/NN ]
+at/IN 
+[ Cambridge/NNP University/NNP ]
+./. 

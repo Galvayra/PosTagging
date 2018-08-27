@@ -1,0 +1,143 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Shawmut/NNP National/NNP Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+expects/VBZ 
+[ third-quarter/NN earnings/NNS ]
+per/IN 
+[ share/NN ]
+to/TO rise/VB about/IN 
+[ 6/CD %/NN ]
+from/IN 
+[ year-earlier/JJ quarter/NN 's/POS 85/CD cents/NNS ]
+,/, indicating/VBG 
+[ quarter/NN earnings/NNS ]
+of/IN about/IN 
+[ 90/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT year-earlier/JJ third/JJ quarter/NN ]
+,/, 
+[ the/DT bank/NN holding/VBG company/NN ]
+posted/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 63.2/CD million/CD ]
+./. 
+
+======================================
+
+[ Separately/RB ]
+,/, 
+[ Shawmut/NNP ]
+raised/VBD 
+[ its/PRP$ quarterly/JJ dividend/NN ]
+to/TO 
+[ 36/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, from/IN 
+[ 34/CD cents/NNS ]
+,/, 
+[ payable/JJ Oct./NNP 20/CD ]
+,/, to/TO 
+[ shareholders/NNS ]
+of/IN 
+[ record/NN Oct./NNP 2/CD ]
+./. 
+
+======================================
+
+[ Shawmut/NNP ]
+said/VBD 
+[ preliminary/JJ estimates/NNS ]
+indicate/VBP that/IN nonperforming/VBG 
+[ assets/NNS ]
+will/MD increase/VB to/TO about/IN 
+[ 2/CD %/NN ]
+of/IN 
+[ total/JJ loans/NNS ]
+and/CC foreclosed/VBN 
+[ properties/NNS ]
+for/IN 
+[ the/DT quarter/NN ]
+,/, compared/VBN with/IN 
+[ 1.6/CD %/NN ]
+in/IN 
+[ the/DT second/JJ quarter/NN ]
+./. 
+
+[ The/DT company/NN ]
+attributed/VBD 
+[ the/DT expected/VBN increase/NN ]
+primarily/RB to/TO 
+[ increasing/VBG softness/NN ]
+in/IN 
+[ the/DT New/NNP England/NNP real-estate/NN market/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT nine/CD months/NNS ]
+,/, 
+[ Shawmut/NNP ]
+said/VBD 
+[ it/PRP ]
+expects/VBZ about/IN 
+[ 10/CD %/NN growth/NN ]
+in/IN 
+[ earnings/NNS ]
+per/IN 
+[ share/NN ]
+,/, indicating/VBG 
+[ share/NN earnings/NNS ]
+of/IN about/IN 
+[ $/$ 2.64/CD ]
+for/IN 
+[ the/DT period/NN ]
+./. 
+
+In/IN 
+[ the/DT year-ago/JJ nine/CD months/NNS ]
+,/, 
+[ the/DT company/NN ]
+had/VBD 
+[ net/NN ]
+of/IN 
+[ $/$ 176.5/CD million/CD ]
+,/, or/CC 
+[ $/$ 2.40/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+has/VBZ 
+[ headquarters/NN ]
+here/RB and/CC in/IN 
+[ Boston/NNP ]
+./. 

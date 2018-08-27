@@ -1,0 +1,769 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Stocks/NNS ]
+hit/VBD 
+[ record/NN highs/NNS ]
+in/IN 
+[ an/DT orderly/JJ ]
+but/CC 
+[ powerful/JJ rally/NN ]
+as/IN 
+[ investors/NNS ]
+ignored/VBD 
+[ declines/NNS ]
+in/IN 
+[ International/NNP Business/NNP Machines/NNPS ]
+and/CC 
+[ other/JJ technology/NN issues/NNS ]
+./. 
+
+======================================
+
+[ The/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+marched/VBD to/TO 
+[ a/DT 40.84-point/JJ gain/NN ]
+to/TO 
+[ a/DT new/JJ record/NN ]
+close/NN of/IN 
+[ 2754.56/CD ]
+./. 
+
+[ Broader/JJR measures/NNS ]
+rose/VBD to/TO 
+[ all-time/JJ highs/NNS ]
+as/RB well/RB :/: 
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS 500-stock/JJ index/NN ]
+gained/VBD 
+[ 3.84/CD ]
+to/TO 
+[ 354.71/CD ]
+,/, and/CC 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ index/NN ]
+advanced/VBD 
+[ 1.94/CD ]
+to/TO 
+[ 196.84/CD ]
+./. 
+
+[ Big/NNP Board/NNP volume/NN ]
+was/VBD 
+[ 182,550,000/CD shares/NNS ]
+./. 
+
+======================================
+
+[ Traders/NNS ]
+said/VBD 
+[ a/DT round/NN ]
+of/IN 
+[ foreign/JJ ]
+buying/NN --/: 
+[ both/DT Japanese/JJ ]
+and/CC 
+[ European/JJ ]
+--/: pushed/VBD 
+[ the/DT market/NN ]
+higher/RBR in/IN 
+[ morning/NN ]
+trading/NN ./. 
+
+[ Big/JJ ]
+,/, 
+[ well-known/JJ stocks/NNS ]
+,/, 
+[ the/DT favorites/NNS ]
+of/IN 
+[ overseas/JJ customers/NNS ]
+,/, clearly/RB led/VBD 
+[ the/DT market/NN ]
+./. 
+
+======================================
+
+[ Philip/NNP Morris/NNP ]
+added/VBD 
+[ 5/CD 3\/8/CD ]
+to/TO 
+[ 172/CD ]
+,/, 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP ]
+gained/VBD 
+[ 3/CD 1\/8/CD ]
+to/TO 
+[ 124/CD 5\/8/CD ]
+,/, and/CC Boeing/NNP advanced/VBD 
+[ 3/CD 1\/8/CD ]
+to/TO 
+[ 59/CD 3\/4/CD ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ the/DT Japanese/NNPS ]
+are/VBP in/IN here/RB ,/, 
+[ who/WP ]
+knows/VBZ where/WRB 
+[ it/PRP ]
+can/MD go/VB ?/. ''/'' said/VBD 
+[ J./NNP David/NNP Mills/NNP ]
+,/, 
+[ senior/JJ vice/NN president/NN ]
+,/, 
+[ Boston/NNP Co/NNP ]
+./. 
+
+[ Advisers/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Japanese/JJ investors/NNS ]
+may/MD consider/VB 
+[ U.S./NNP stocks/NNS ]
+cheap/JJ and/CC 
+[ a/DT timely/JJ ]
+buy/NN ,/, given/VBN 
+[ the/DT dollar/NN 's/POS rebound/NN ]
+in/IN 
+[ the/DT past/JJ two/CD days/NNS ]
+./. 
+
+======================================
+
+[ Money/NN managers/NNS ]
+,/, sensing/VBG that/IN 
+[ foreign/JJ demand/NN ]
+was/VBD picking/VBG up/RB ,/, flocked/VBD to/TO 
+[ big/JJ stocks/NNS ]
+in/IN 
+[ afternoon/NN ]
+trading/NN ,/, driving/VBG 
+[ the/DT market/NN ]
+higher/RBR and/CC triggering/VBG 
+[ stock-index/NN arbitrage/NN ]
+buy/NN 
+[ programs/NNS ]
+./. 
+
+In/IN 
+[ this/DT strategy/NN ]
+,/, 
+[ traders/NNS ]
+sell/VBP 
+[ the/DT ]
+``/`` 
+[ expensive/JJ ]
+''/'' 
+[ futures/NNS ]
+and/CC buy/VBP 
+[ the/DT ]
+``/`` 
+[ cheaper/JJR ]
+''/'' underlying/VBG 
+[ stocks/NNS ]
+to/TO lock/VB in/RP 
+[ profits/NNS ]
+./. 
+
+======================================
+
+But/CC while/IN 
+[ many/JJ ]
+of/IN 
+[ the/DT stocks/NNS ]
+among/IN 
+[ the/DT industrial/JJ average/NN ]
+performed/VBD mightily/RB ,/, 
+[ IBM/NNP ]
+dropped/VBD 
+[ lower/RBR ]
+and/CC 
+[ lower/RBR ]
+through/IN 
+[ the/DT session/NN ]
+./. 
+
+[ IBM/NNP ]
+tumbled/VBD 
+[ 2/CD 5\/8/CD ]
+to/TO 
+[ 106/CD ]
+,/, only/RB 
+[ 4/CD ]
+above/IN 
+[ the/DT low/NN ]
+of/IN 
+[ 102/CD ]
+on/IN 
+[ Oct./NNP 19/CD ]
+,/, 
+[ 1987/CD ]
+./. 
+
+[ Technical/JJ analysts/NNS ]
+stared/VBD in/IN 
+[ amazement/NN ]
+as/IN 
+[ the/DT market/NN ]
+defied/VBD 
+[ IBM/NNP 's/POS slide/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT little/RB perverse/JJ ]
+,/, ''/'' said/VBD 
+[ Jack/NNP Solomon/NNP ]
+,/, 
+[ technical/JJ analyst/NN ]
+at/IN 
+[ Bear/NNP Stearns/NNP ]
+./. 
+
+``/`` 
+[ People/NNS ]
+took/VBD 
+[ it/PRP ]
+as/RB encouraging/JJ that/IN 
+[ the/DT market/NN ]
+could/MD rise/VB in/IN 
+[ the/DT face/NN ]
+of/IN 
+[ a/DT terrible/JJ sell-off/NN ]
+in/IN 
+[ technology/NN stocks/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Other/JJ technology/NN stocks/NNS ]
+left/VBD behind/RB in/IN 
+[ the/DT market/NN 's/POS rise/NN ]
+included/VBN 
+[ Digital/NNP Equipment/NNP ]
+,/, 
+[ which/WDT ]
+fell/VBD 
+[ 2/CD 1\/4/CD ]
+to/TO 
+[ 88/CD 3\/4/CD ]
+,/, and/CC 
+[ Hewlett-Packard/NNP ]
+,/, 
+[ which/WDT ]
+fell/VBD 
+[ 1/CD ]
+to/TO 
+[ 48/CD 1\/4/CD ]
+./. 
+
+[ Cray/NNP Research/NNP ]
+skidded/VBD 
+[ 2/CD 1\/4/CD ]
+to/TO 
+[ 38/CD ]
+after/IN disclosing/VBG 
+[ plans/NNS ]
+to/TO eliminate/VB about/IN 
+[ 400/CD jobs/NNS ]
+in/IN 
+[ its/PRP$ Wisconsin/NNP ]
+manufacturing/NN 
+[ operations/NNS ]
+./. 
+
+======================================
+
+[ Zenith/NNP Electronics/NNPS ]
+fell/VBD 
+[ 1/CD 1\/8/CD ]
+to/TO 
+[ 16/CD 5\/8/CD ]
+after/IN soaring/VBG 
+[ 3/CD 1\/4/CD Monday/NNP ]
+on/IN 
+[ news/NN ]
+of/IN 
+[ an/DT agreement/NN ]
+to/TO sell/VB 
+[ its/PRP$ computer/NN assets/NNS ]
+for/IN as/RB much/JJ as/IN 
+[ $/$ 635/CD million/CD ]
+to/TO 
+[ France/NNP 's/POS Cie./NNP ]
+des/NNP 
+[ Machines/NNP Bull/NNP ]
+./. 
+
+======================================
+
+[ Other/JJ strong/JJ blue-chip/JJ issues/NNS ]
+included/VBD 
+[ USX/NNP ]
+,/, 
+[ which/WDT ]
+gained/VBD 
+[ 1/CD 3\/8/CD ]
+to/TO 
+[ 36/CD 1\/4/CD ]
+and/CC topped/VBD 
+[ the/DT Big/NNP Board/NNP 's/POS list/NN ]
+of/IN 
+[ most/RBS active/JJ issues/NNS ]
+on/IN 
+[ composite/JJ volume/NN ]
+of/IN 
+[ 5.3/CD million/CD shares/NNS ]
+./. 
+
+[ There/EX ]
+were/VBD 
+[ rumors/NNS ]
+that/IN 
+[ investor/NN Carl/NNP Icahn/NNP ]
+was/VBD raising/VBG 
+[ his/PRP$ 11.4/CD %/NN interest/NN ]
+in/IN 
+[ the/DT company/NN ]
+in/IN 
+[ anticipation/NN ]
+of/IN 
+[ a/DT stock/NN buy-back/NN ]
+./. 
+
+[ Traders/NNS ]
+reasoned/VBD that/IN 
+[ USX/NNP ]
+would/MD conduct/VB 
+[ the/DT share/NN ]
+repurchase/NN with/IN 
+[ proceeds/NNS ]
+from/IN 
+[ recent/JJ asset/NN sales/NNS ]
+./. 
+
+======================================
+
+[ American/NNP Express/NNP ]
+surged/VBD 
+[ 2/CD 1\/4/CD ]
+to/TO 
+[ 38/CD 1\/4/CD ]
+on/IN 
+[ two/CD million/CD shares/NNS ]
+to/TO lead/VB 
+[ a/DT sharp/JJ rally/NN ]
+in/IN 
+[ the/DT financial-services/NNS sector/NN ]
+./. 
+
+[ Primerica/NNP ]
+added/VBD 
+[ 3\/4/CD ]
+to/TO 
+[ 28/CD 1\/2/CD ]
+,/, 
+[ Federal/NNP National/NNP Mortgage/NNP Association/NNP ]
+advanced/VBD 
+[ 1/CD 1\/4/CD ]
+to/TO 
+[ 132/CD 1\/4/CD ]
+and/CC 
+[ Marsh/NNP ]
+&/CC 
+[ McLennan/NNP ]
+climbed/VBD 
+[ 2/CD 1\/4/CD ]
+to/TO 
+[ 75/CD 7\/8/CD ]
+./. 
+
+======================================
+
+[ Interest/NN ]
+in/IN 
+[ the/DT financial/JJ group/NN ]
+extended/VBD to/TO 
+[ selected/JJ issues/NNS ]
+of/IN 
+[ insurance/NN companies/NNS ]
+./. 
+
+======================================
+
+[ General/NNP Re/NNP ]
+added/VBD 
+[ 1/CD 7\/8/CD ]
+to/TO 
+[ 86/CD 7\/8/CD ]
+,/, 
+[ American/NNP International/NNP Group/NNP ]
+rose/VBD 
+[ 3/CD ]
+to/TO 
+[ 108/CD ]
+,/, 
+[ Torchmark/NNP ]
+climbed/VBD 
+[ 1/CD 5\/8/CD ]
+to/TO 
+[ 49/CD 1\/2/CD ]
+,/, 
+[ Lincoln/NNP National/NNP ]
+rose/VBD 
+[ 2/CD 1\/8/CD ]
+to/TO 
+[ 57/CD ]
+and/CC 
+[ Aon/NNP ]
+gained/VBD 
+[ 1/CD 1\/4/CD ]
+to/TO 
+[ 35/CD 7\/8/CD ]
+./. 
+
+======================================
+
+[ Brokerage/NN stocks/NNS ]
+advanced/VBD after/IN 
+[ Sanford/NNP C./NNP Bernstein/NNP ]
+&/CC 
+[ Co./NNP ]
+cited/VBD 
+[ the/DT group/NN ]
+as/IN undervalued/JJ ./. 
+
+[ Merrill/NNP Lynch/NNP ]
+gained/VBD 
+[ 1/CD 3\/8/CD ]
+to/TO 
+[ 32/CD ]
+,/, 
+[ Morgan/NNP Stanley/NNP Group/NNP ]
+rose/VBD 
+[ 2/CD ]
+to/TO 
+[ 73/CD 1\/2/CD ]
+,/, 
+[ Salomon/NNP Inc./NNP ]
+went/VBD up/RB 
+[ 3\/8/CD ]
+to/TO 
+[ 26/CD 5\/8/CD ]
+and/CC 
+[ PaineWebber/NNP Group/NNP ]
+added/VBD 
+[ 3\/4/CD ]
+to/TO 
+[ 20/CD 3\/4/CD ]
+./. 
+
+======================================
+
+[ Bank/NNP ]
+of/IN 
+[ Boston/NNP ]
+,/, 
+[ which/WDT ]
+tumbled/VBD 
+[ 2/CD 5\/8/CD ]
+to/TO 
+[ 24/CD ]
+in/IN 
+[ active/JJ ]
+trading/NN ,/, became/VBD 
+[ the/DT latest/JJS stock/NN ]
+to/TO fall/VB 
+[ victim/NN ]
+to/TO 
+[ an/DT earnings/NNS disappointment/NN ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+expects/VBZ to/TO post/VB 
+[ a/DT third-quarter/JJ loss/NN ]
+of/IN about/IN 
+[ $/$ 125/CD million/CD ]
+,/, reflecting/VBG 
+[ a/DT $/$ 370/CD million/CD addition/NN ]
+to/TO 
+[ its/PRP$ loan-loss/NN reserves/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ Tambrands/NNP ]
+rose/VBD 
+[ 1/CD 1\/8/CD ]
+to/TO 
+[ 74/CD 1\/8/CD ]
+even/RB though/IN 
+[ the/DT company/NN ]
+estimated/VBD that/IN 
+[ third-quarter/JJ earnings/NNS ]
+from/IN 
+[ operations/NNS ]
+would/MD be/VB 
+[ 15/CD %/NN ]
+to/TO 
+[ 18/CD %/NN ]
+lower/JJR than/IN 
+[ a/DT year/NN ]
+earlier/RB ,/, 
+[ which/WDT ]
+led/VBD 
+[ analysts/NNS ]
+at/IN 
+[ Salomon/NNP Brothers/NNPS ]
+and/CC 
+[ Shearson/NNP Lehman/NNP Hutton/NNP ]
+to/TO cut/VB 
+[ their/PRP$ earnings/NNS estimates/NNS ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ rumored/VBN to/TO be/VB 
+[ a/DT takeover/NN target/NN ]
+for/IN 
+[ Centaur/NNP Partners/NNPS ]
+./. 
+
+======================================
+
+[ Bristol-Myers/NNP ]
+gained/VBD 
+[ 1/CD ]
+to/TO 
+[ 53/CD 1\/2/CD ]
+on/IN 
+[ 1.7/CD million/CD shares/NNS ]
+and/CC 
+[ Squibb/NNP ]
+rose/VBD 
+[ 2/CD 7\/8/CD ]
+to/TO 
+[ 128/CD 1\/2/CD ]
+as/IN 
+[ shareholders/NNS ]
+of/IN 
+[ the/DT drug/NN companies/NNS ]
+approved/VBD 
+[ their/PRP$ merger/NN plans/NNS ]
+./. 
+
+[ Other/JJ drug/NN stocks/NNS ]
+were/VBD also/RB 
+[ strong/JJ ]
+;/: 
+[ Merck/NNP ]
+added/VBD 
+[ 1/CD 5\/8/CD ]
+to/TO 
+[ 77/CD 3\/8/CD ]
+,/, 
+[ Upjohn/NNP ]
+rose/VBD 
+[ 1/CD 1\/8/CD ]
+to/TO 
+[ 39/CD ]
+,/, 
+[ Eli/NNP Lilly/NNP ]
+gained/VBD 
+[ 1/CD 3\/4/CD ]
+to/TO 
+[ 63/CD 3\/8/CD ]
+,/, 
+[ Pfizer/NNP ]
+went/VBD up/RB 
+[ 1/CD 1\/8/CD ]
+to/TO 
+[ 69/CD ]
+and/CC 
+[ American/NNP Home/NNP Products/NNP ]
+gained/VBD 
+[ 2/CD 5\/8/CD ]
+to/TO 
+[ 104/CD 1\/8/CD ]
+./. 
+
+======================================
+
+[ Harley-Davidson/NNP ]
+jumped/VBD 
+[ 3/CD 5\/8/CD ]
+to/TO 
+[ 42/CD 3\/4/CD ]
+./. 
+
+[ Malcolm/NNP I./NN Glazer/NNP ]
+,/, 
+[ a/DT Rochester/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ investor/NN ]
+
+[ who/WP ]
+previously/RB had/VBD made/VBN 
+[ unsuccessful/JJ attempts/NNS ]
+to/TO acquire/VB 
+[ Conrail/NNP ]
+and/CC 
+[ Formica/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+and/CC 
+[ members/NNS ]
+of/IN 
+[ his/PRP$ family/NN ]
+hold/VBP 
+[ a/DT combined/VBN stake/NN ]
+of/IN 
+[ 6.24/CD %/NN ]
+and/CC may/MD seek/VB 
+[ control/NN ]
+./. 
+
+======================================
+
+[ Outboard/NNP Marine/NNP ]
+,/, 
+[ which/WDT ]
+agreed/VBD to/TO sell/VB 
+[ its/PRP$ Lawn-Boy/NNP unit/NN ]
+to/TO 
+[ Toro/NNP ]
+for/IN 
+[ $/$ 85/CD million/CD ]
+,/, climbed/VBD 
+[ 1/CD 1\/8/CD ]
+to/TO 
+[ 31/CD 3\/8/CD ]
+./. 
+
+[ Toro/NNP ]
+dropped/VBD 
+[ 1/CD 3\/8/CD ]
+to/TO 
+[ 22/CD 5\/8/CD ]
+;/: 
+[ the/DT company/NN ]
+forecast/VBD that/IN 
+[ the/DT acquisition/NN ]
+would/MD contribute/VB to/TO 
+[ a/DT 20/CD %/NN ]
+to/TO 
+[ 25/CD %/NN decrease/NN ]
+in/IN 
+[ net/JJ income/NN ]
+for/IN 
+[ the/DT fiscal/JJ year/NN ]
+ending/VBG 
+[ next/JJ July/NNP ]
+./. 
+
+======================================
+
+[ The/DT Amex/NNP Index/NNP ]
+posted/VBD 
+[ its/PRP$ biggest/JJS advance/NN ]
+since/IN 
+[ Aug./NNP 24/CD ]
+by/IN gaining/VBG 
+[ 3.36/CD ]
+to/TO 
+[ 393.02/CD ]
+./. 
+
+[ Volume/NN ]
+totaled/VBD 
+[ 14,350,000/CD shares/NNS ]
+,/, compared/VBN with/IN 
+[ 12,310,000/CD Monday/NNP ]
+./. 
+
+[ There/EX ]
+were/VBD 
+[ 364/CD issues/NNS ]
+that/WDT advanced/VBD ,/, 
+[ 243/CD ]
+
+[ that/WDT ]
+declined/VBD and/CC 
+[ 237/CD ]
+
+[ that/WDT ]
+were/VBD unchanged/JJ ./. 
+
+======================================
+
+[ Lazare/NNP Kaplan/NNP International/NNP ]
+rose/VBD 
+[ 1/CD ]
+to/TO 
+[ 9/CD 5\/8/CD ]
+./. 
+
+[ The/DT company/NN 's/POS earnings/NNS ]
+from/IN 
+[ operations/NNS ]
+for/IN 
+[ the/DT fiscal/JJ quarter/NN ]
+ended/VBD in/IN 
+[ August/NNP ]
+went/VBD up/RB sharply/RB from/IN 
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+======================================
+
+[ Material/NNP Sciences/NNPS ]
+rose/VBD 
+[ 5\/8/CD ]
+to/TO 
+[ 16/CD 5\/8/CD ]
+./. 
+
+[ A/DT group/NN ]
+including/VBG 
+[ a/DT partnership/NN ]
+managed/VBN by/IN 
+[ two/CD ]
+of/IN 
+[ JMB/NNP Realty/NNP 's/POS officers/NNS ]
+said/VBD 
+[ it/PRP ]
+holds/VBZ 
+[ a/DT 6.05/CD %/NN stake/NN ]
+in/IN 
+[ the/DT company/NN ]
+as/IN 
+[ an/DT investment/NN ]
+./. 

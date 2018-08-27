@@ -1,0 +1,473 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Scandinavian/NNP Airlines/NNPS System/NNP ]
+and/CC 
+[ Swissair/NNP ]
+announced/VBD 
+[ plans/NNS ]
+to/TO swap/VB 
+[ stakes/NNS ]
+of/IN 
+[ 5/CD %/NN ]
+to/TO 
+[ 10/CD %/NN ]
+in/IN 
+[ each/DT other/JJ ]
+under/IN 
+[ a/DT broad/JJ air-traffic/NN ]
+and/CC 
+[ travel-services/NNS alliance/NN ]
+./. 
+
+======================================
+
+[ The/DT two/CD carriers/NNS ]
+said/VBD 
+[ the/DT planned/JJ  partnership/NN ]
+will/MD give/VB 
+[ them/PRP sufficient/JJ critical/JJ mass/NN ]
+to/TO be/VB among/IN 
+[ five/CD ]
+surviving/VBG 
+[ Europe-based/JJ intercontinental/JJ carriers/NNS ]
+in/IN 
+[ a/DT deregulated/JJ air/NN industry/NN ]
+of/IN 
+[ the/DT 1990s/NNS ]
+./. 
+
+[ They/PRP ]
+said/VBD planned/JJ 
+[ coordination/NN ]
+of/IN 
+[ their/PRP$ traffic-systems/NNS ]
+,/, marketing/NN and/CC 
+[ other/JJ functions/NNS ]
+would/MD save/VB about/IN 
+[ 200/CD million/CD Swedish/JJ kronor/NNS ]
+ (/( 
+[ $/$ 31/CD million/CD ]
+ )/) 
+[ a/DT year/NN ]
+./. 
+
+[ The/DT gains/NNS ]
+are/VBP expected/VBN to/TO multiply/VB as/IN 
+[ cooperation/NN ]
+evolves/VBZ --/: with/IN resulting/VBG 
+[ profits/NNS ]
+shared/VBN equally/RB ./. 
+
+======================================
+
+[ The/DT plan/NN ]
+,/, 
+[ which/WDT ]
+was/VBD announced/VBN simultaneously/RB in/IN 
+[ Zurich/NNP ]
+,/, 
+[ Switzerland/NNP ]
+,/, and/CC 
+[ Stockholm/NNP ]
+,/, also/RB is/VBZ intended/VBN to/TO include/VB 
+[ areas/NNS ]
+such/JJ as/IN 
+[ catering/NN ]
+,/, 
+[ hotels/NNS ]
+,/, 
+[ fleet/NN planning/NN ]
+and/CC 
+[ product/NN development/NN ]
+./. 
+
+But/CC most/JJS of/IN 
+[ the/DT details/NNS ]
+remain/VBP to/TO be/VB worked/VBN out/RB ./. 
+
+======================================
+
+[ SAS/NNP Chief/NNP Executive/NNP Officer/NNP Jan/NNP Carlzon/NNP ]
+said/VBD that/IN if/IN 
+[ the/DT Swissair/NNP alliance/NN ]
+develops/VBZ according/VBG to/TO plan/VB ,/, 
+[ the/DT level/NN ]
+of/IN 
+[ cross-ownership/NN ]
+will/MD increase/VB in/IN 
+[ the/DT future/NN ]
+./. 
+
+[ Swissair/NNP ]
+said/VBD 
+[ representation/NN ]
+on/IN 
+[ each/DT other/JJ ]
+
+[ 's/POS boards/NNS ]
+may/MD occur/VB ./. 
+
+[ Mr./NNP Carlzon/NNP ]
+said/VBD existing/VBG 
+[ partners/NNS ]
+such/JJ as/IN 
+[ Airlines/NNPS ]
+of/IN 
+[ Britain/NNP PLC/NNP ]
+and/CC 
+[ Austrian/NNP Airlines/NNPS ]
+could/MD be/VB included/VBN in/IN 
+[ the/DT coordinated/JJ air-traffic/NN scheme/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ he/PRP ]
+proposed/VBD that/IN 
+[ Finnair/NNP ]
+join/VB 
+[ the/DT group/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Carlzon/NNP ]
+called/VBD 
+[ Swissair/NNP ]
+``/`` 
+[ an/DT ideal/JJ partner/NN ]
+''/'' with/IN 
+[ a/DT similar/JJ strategy/NN ]
+focused/VBN on/IN 
+[ business/NN travelers/NNS ]
+and/CC 
+[ high-quality/JJ service/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Swissair/NNP ]
+boasts/VBZ 
+[ the/DT extensive/JJ long-haul/JJ network/NN ]
+in/IN 
+[ Africa/NNP ]
+and/CC 
+[ the/DT Middle/NNP East/NNP ]
+,/, places/NNS where/WRB 
+[ SAS/NNP ]
+is/VBZ weak/JJ ./. 
+
+======================================
+
+[ Swissair/NNP ]
+said/VBD 
+[ the/DT two/CD airlines/NNS ]
+initially/RB will/MD increase/VB 
+[ seat/NN capacity/NN ]
+on/IN 
+[ their/PRP$ flights/NNS ]
+linking/VBG 
+[ Zurich/NNP ]
+and/CC 
+[ Geneva/NNP ]
+with/IN 
+[ the/DT three/CD Nordic/JJ capitals/NNS ]
+./. 
+
+[ Travelers/NNS ]
+from/IN 
+[ Scandinavia/NNP ]
+would/MD then/RB be/VB able/JJ to/TO fly/VB to/TO 
+[ Switzerland/NNP ]
+and/CC connect/VB onto/IN 
+[ Swissair/NNP flights/NNS ]
+to/TO ,/, say/VB ,/, 
+[ India/NNP ]
+or/CC 
+[ South/NNP Africa/NNP ]
+,/, while/IN 
+[ passengers/NNS ]
+from/IN 
+[ central/JJ Europe/NNP ]
+could/MD fly/VB to/TO 
+[ Copenhagen/NNP ]
+to/TO connect/VB to/TO 
+[ SAS/NNP flights/NNS ]
+to/TO 
+[ China/NNP ]
+and/CC 
+[ Japan/NNP ]
+./. 
+
+[ The/DT two/CD airlines/NNS ]
+could/MD operate/VB 
+[ joint/JJ flights/NNS ]
+,/, split/VBN up/RP 
+[ frequencies/NNS ]
+by/IN 
+[ time/NN ]
+or/CC 
+[ day/NN ]
+or/CC simply/RB harmonize/VB 
+[ their/PRP$ existing/VBG schedules/NNS ]
+in/IN 
+[ Europe/NNP ]
+,/, 
+[ Swissair/NNP ]
+said/VBD ./. 
+
+======================================
+
+But/CC 
+[ the/DT SAS/NNP chief/NN ]
+acknowledged/VBD that/IN 
+[ Swissair/NNP 's/POS Zurich/NNP hub/NN ]
+is/VBZ less/RBR attractive/JJ than/IN 
+[ Brussels/NNP ]
+or/CC 
+[ other/JJ European/JJ capitals/NNS ]
+
+[ which/WDT ]
+
+[ SAS/NNP ]
+earlier/RB considered/VBD as/IN 
+[ possible/JJ gateways/NNS ]
+for/IN 
+[ intercontinental/JJ routes/NNS ]
+./. 
+
+[ A/DT couple/NN ]
+of/IN 
+[ years/NNS ]
+ago/RB ,/, 
+[ SAS/NNP ]
+tried/VBD very/RB hard/JJ to/TO arrange/VB 
+[ a/DT merger/NN ]
+with/IN 
+[ Sabena/NNP ]
+./. 
+
+Further/RB ,/, since/IN 
+[ SAS/NNP ]
+and/CC 
+[ Swissair/NNP ]
+have/VBP 
+[ different/JJ partners/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ the/DT new/JJ alliance/NN ]
+probably/RB wo/MD n't/RB have/VB 
+[ much/JJ impact/NN ]
+on/IN 
+[ North/JJ Atlantic/JJ traffic/NN ]
+,/, 
+[ SAS/NNP officials/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ SAS/NNP last/JJ year/NN ]
+bought/VBD 
+[ 10/CD %/NN ]
+of/IN 
+[ Texas/NNP Air/NNP Corp./NNP ]
+as/IN 
+[ a/DT way/NN ]
+of/IN cementing/VBG 
+[ a/DT marketing/NN alliance/NN ]
+with/IN 
+[ the/DT U.S./NNP concern/NN 's/POS Continental/NNP Airlines/NNPS unit/NN ]
+./. 
+
+Recently/RB ,/, 
+[ SAS/NNP ]
+had/VBD been/VBN talking/VBG to/TO 
+[ Texas/NNP Air/NNP ]
+about/IN buying/VBG 
+[ more/JJR ]
+or/CC 
+[ all/DT ]
+of/IN 
+[ Continental/NNP ]
+,/, with/IN 
+[ U.S./NNP partners/NNS ]
+./. 
+
+[ Swissair/NNP ]
+,/, meanwhile/RB ,/, in/IN 
+[ March/NNP ]
+signed/VBD 
+[ a/DT marketing/NN deal/NN ]
+with/IN 
+[ Delta/NNP Air/NNP Lines/NNPS ]
+./. 
+
+[ Four/CD months/NNS ]
+later/RB ,/, 
+[ the/DT two/CD swapped/VBD 5/CD %/NN stakes/NNS ]
+,/, 
+[ Swissair/NNP ]
+paying/VBG about/IN 
+[ $/$ 193/CD million/CD ]
+and/CC 
+[ Delta/NNP ]
+about/IN 
+[ $/$ 77/CD million/CD ]
+./. 
+
+======================================
+
+[ Swissair/NNP Chairman/NNP Armin/NNP Baltensweiler/NNP ]
+said/VBD 
+[ the/DT Delta/NNP tie-up/NN ]
+gave/VBD 
+[ his/PRP$ company/NN extra/JJ incentive/NN ]
+to/TO reach/VB 
+[ an/DT agreement/NN ]
+with/IN 
+[ SAS/NNP ]
+./. 
+
+Between/IN 
+[ SAS/NNP ]
+and/CC 
+[ Delta/NNP ]
+,/, 
+[ Swissair/NNP ]
+is/VBZ closer/JJR to/TO 
+[ its/PRP$ goal/NN ]
+of/IN safeguarding/VBG 
+[ its/PRP$ long-term/JJ competitiveness/NN ]
+./. 
+
+======================================
+
+[ The/DT agreement/NN ]
+,/, approved/VBN by/IN 
+[ Swissair/NNP 's/POS board/NN Wednesday/NNP ]
+and/CC 
+[ SAS/NNP directors/NNS ]
+yesterday/NN ,/, 
+[ calls/VBZ ]
+for/IN 
+[ an/DT exchange/NN ]
+of/IN 
+[ shares/NNS ]
+,/, but/CC 
+[ the/DT exact/JJ size/NN ]
+of/IN 
+[ the/DT respective/JJ shareholdings/NNS ]
+will/MD be/VB 
+[ the/DT subject/NN ]
+of/IN 
+[ further/JJ negotiations/NNS ]
+./. 
+
+So/RB will/MD 
+[ the/DT composition/NN ]
+of/IN 
+[ the/DT joint/JJ executive/NN board/NN ]
+
+[ that/WDT ]
+will/MD steer/VB 
+[ the/DT partnership/NN ]
+./. 
+
+======================================
+
+[ SAS/NNP ]
+and/CC 
+[ Swissair/NNP ]
+intend/VBP to/TO complete/VB 
+[ the/DT share/NN swap/NN ]
+by/IN 
+[ the/DT summer/NN ]
+./. 
+
+But/CC 
+[ executives/NNS ]
+admit/VBP 
+[ they/PRP ]
+have/VBP n't/RB agreed/VBN on/IN 
+[ a/DT method/NN ]
+of/IN 
+[ valuation/NN ]
+./. 
+
+[ SAS/NNP 's/POS complex/JJ ownership/NN ]
+is/VBZ 
+[ another/DT potential/JJ pitfall/NN ]
+./. 
+
+[ Scandinavia/NNP 's/POS airline/NN ]
+is/VBZ half-owned/JJ by/IN 
+[ the/DT Danish/JJ ]
+,/, 
+[ Norwegian/JJ ]
+and/CC 
+[ Swedish/JJ governments/NNS ]
+with/IN 
+[ the/DT ]
+remaining/VBG 
+[ 50/CD %/NN ]
+split/VBN among/IN publicly/RB traded/JJ 
+[ holding/VBG companies/NNS ]
+in/IN 
+[ each/DT ]
+of/IN 
+[ the/DT three/CD Nordic/JJ countries/NNS ]
+./. 
+
+[ Swissair/NNP ]
+is/VBZ 
+[ 23/CD %/NN ]
+owned/VBN by/IN 
+[ federal/JJ ]
+and/CC 
+[ cantonal/JJ authorities/NNS ]
+./. 
+
+======================================
+
+[ SAS/NNP ]
+and/CC 
+[ Swissair/NNP ]
+also/RB said/VBD 
+[ they/PRP ]
+intend/VBP to/TO integrate/VB 
+[ their/PRP$ hotels/NNS ]
+under/IN 
+[ a/DT global/JJ travel-service/NN system/NN ]
+./. 
+
+[ SAS/NNP ]
+owns/VBZ 
+[ 23/CD hotels/NNS ]
+directly/RB and/CC holds/VBZ 
+[ interests/NNS ]
+in/IN 
+[ 105/CD ]
+more/JJR through/IN 
+[ its/PRP$ 40/CD %/NN stake/NN ]
+in/IN 
+[ Intercontinental/NNP Hotel/NNP Corp./NNP ]
+acquired/VBN earlier/RB 
+[ this/DT year/NN ]
+./. 

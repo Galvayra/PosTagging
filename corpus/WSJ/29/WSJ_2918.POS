@@ -1,0 +1,620 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ MGM\/UA/NNP Communications/NNPS Co./NNP ]
+said/VBD 
+[ it/PRP ]
+terminated/VBD 
+[ its/PRP$ $/$ 1.5/CD billion/CD agreement/NN ]
+to/TO be/VB acquired/VBN by/IN 
+[ Qintex/NNP Australia/NNP Ltd/NNP ]
+./. 
+
+[ MGM\/UA/NNP ]
+also/RB filed/VBD 
+[ suit/NN ]
+against/IN 
+[ the/DT broadcaster/NN ]
+and/CC 
+[ operator/NN ]
+of/IN 
+[ resorts/NNS ]
+charging/VBG 
+[ it/PRP ]
+with/IN 
+[ breach/NN ]
+of/IN 
+[ contract/NN ]
+and/CC 
+[ fraud/NN ]
+./. 
+
+======================================
+
+[ The/DT movie/NN studio/NN ]
+said/VBD 
+[ it/PRP ]
+terminated/VBD 
+[ the/DT pact/NN ]
+because/IN 
+[ Qintex/NNP ]
+had/VBD failed/VBN to/TO deliver/VB 
+[ a/DT $/$ 50/CD million/CD letter/NN ]
+of/IN 
+[ credit/NN ]
+by/IN 
+[ a/DT Sept./NNP 22/CD deadline/NN ]
+under/IN 
+[ the/DT September/NNP merger/NN agreement/NN ]
+./. 
+
+But/CC 
+[ the/DT termination/NN ]
+follows/VBZ 
+[ longstanding/JJ fears/NNS ]
+at/IN 
+[ the/DT studio/NN ]
+about/IN 
+[ Qintex/NNP 's/POS ability/NN ]
+to/TO finance/VB 
+[ the/DT acquisition/NN ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+,/, filed/VBN in/IN 
+[ federal/JJ court/NN ]
+here/RB ,/, seeks/VBZ 
+[ $/$ 50/CD million/CD ]
+in/IN damages/NNS and/CC charges/VBZ 
+[ that/DT Qintex/NNP ]
+intentionally/RB interfered/VBD with/IN 
+[ an/DT earlier/JJR $/$ 1.4/CD billion/CD offer/NN ]
+for/IN 
+[ MGM\/UA/NN ]
+by/IN 
+[ Rupert/NNP Murdoch/NNP 's/POS News/NNP Corp./NNP last/JJ month/NN ]
+./. 
+
+======================================
+
+[ The/DT termination/NN ]
+of/IN 
+[ the/DT Qintex/NNP agreement/NN ]
+marks/VBZ 
+[ a/DT major/JJ disappointment/NN ]
+for/IN 
+[ Kirk/NNP Kerkorian/NNP ]
+,/, 
+[ MGM\/UA/NNP 's/POS controlling/VBG shareholder/NN ]
+,/, 
+[ who/WP ]
+tried/VBD to/TO sell/VB 
+[ the/DT studio/NN ]
+for/IN more/JJR than/IN 
+[ a/DT year/NN ]
+./. 
+
+In/IN 
+[ a/DT statement/NN Mr./NNP Kerkorian/NNP ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+am/VBP very/RB disappointed/JJ ./. 
+
+[ We/PRP ]
+tried/VBD 
+[ everything/NN ]
+possible/JJ to/TO hold/VB 
+[ the/DT deal/NN ]
+together/RB ./. 
+
+[ It/PRP ]
+finally/RB became/VBD clear/JJ to/TO 
+[ the/DT board/NN ]
+that/IN 
+[ Qintex/NNP ]
+could/MD n't/RB perform/VB as/IN per/IN 
+[ the/DT agreement/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Qintex/NNP officials/NNS ]
+declined/VBD to/TO comment/VB ./. 
+
+But/CC in/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ the/DT Brisbane/NNP Stock/NNP Exchange/NNP ]
+in/IN 
+[ Australia/NNP ]
+,/, 
+[ Qintex/NNP ]
+said/VBD 
+[ its/PRP$ negotiations/NNS ]
+with/IN 
+[ MGM\/UA/NNP ]
+had/VBD reached/VBN ``/`` 
+[ an/DT impasse/NN ]
+,/, ''/'' and/CC 
+[ it/PRP ]
+claimed/VBD that/IN 
+[ MGM\/UA/NNP ]
+had/VBD made/VBN 
+[ additional/JJ demands/NNS ]
+including/VBG 
+[ more/JJR letters/NNS ]
+of/IN 
+[ credit/NN ]
+./. 
+
+[ The/DT letter/NN ]
+claims/VBZ 
+[ the/DT demands/NNS ]
+``/`` shifted/VBD daily/RB ''/'' and/CC that/IN 
+[ MGM\/UA/NNP ]
+acted/VBD in/IN ``/`` 
+[ bad/JJ faith/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+also/RB claims/VBZ 
+[ the/DT studio/NN ]
+``/`` unlawfully/RB ''/'' terminated/VBD 
+[ the/DT agreement/NN ]
+./. 
+
+======================================
+
+[ MGM\/UA/NNP ]
+said/VBD 
+[ it/PRP ]
+'s/VBZ considering/VBG 
+[ its/PRP$ alternatives/NNS ]
+,/, including/VBG 
+[ a/DT possible/JJ sale/NN ]
+of/IN 
+[ the/DT company/NN ]
+to/TO 
+[ other/JJ parties/NNS ]
+./. 
+
+Before/IN 
+[ the/DT MGM\/UA/NNP announcement/NN ]
+,/, 
+[ Mr./NNP Murdoch/NNP ]
+told/VBD 
+[ News/NNP Corp./NNP 's/POS annual/JJ meeting/NN ]
+that/IN 
+[ he/PRP ]
+was/VBD still/RB interested/JJ in/IN buying/VBG 
+[ MGM\/UA/NNP ]
+but/CC 
+[ was/VBD n't/RB ]
+prepared/VBN to/TO raise/VB 
+[ his/PRP$ offering/NN price/NN ]
+./. 
+
+[ Barry/NNP Diller/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ News/NNP Corp./NNP 's/POS Fox/NNP Inc./NNP ]
+said/VBD 
+[ there/EX ]
+had/VBD n't/RB been/VBN 
+[ any/DT discussions/NNS ]
+between/IN 
+[ News/NNP Corp./NNP ]
+and/CC 
+[ MGM\/UA/NNP ]
+since/IN 
+[ the/DT Qintex/NNP deal/NN ]
+fell/VBD apart/RB ./. 
+
+======================================
+
+[ Yesterday/NN MGM\/UA/NNP shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 21.625/CD ]
+,/, down/RB 
+[ 62.5/CD cents/NNS ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+[ Analysts/NNS ]
+said/VBD 
+[ termination/NN ]
+of/IN 
+[ the/DT Qintex/NNP agreement/NN was/VBD n't/RB ]
+
+[ a/DT big/JJ surprise/NN ]
+because/IN 
+[ Qintex/NNP ]
+had/VBD n't/RB met/VBN 
+[ the/DT deadline/NN ]
+for/IN 
+[ the/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+./. 
+
+[ Hollywood/NNP ]
+has/VBZ also/RB been/VBN rife/JJ with/IN 
+[ rumors/NNS ]
+that/IN 
+[ Christopher/NNP Skase/NNP ]
+,/, 
+[ the/DT chairman/NN ]
+of/IN 
+[ Qintex/NNP ]
+,/, was/VBD having/VBG 
+[ trouble/NN ]
+raising/VBG 
+[ the/DT financing/NN ]
+./. 
+
+However/RB ,/, 
+[ Qintex/NNP ]
+has/VBZ said/VBN 
+[ it/PRP ]
+expected/VBD to/TO complete/VB 
+[ the/DT acquisiton/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP sure/JJ 
+[ you/PRP ]
+'re/VBP going/VBG to/TO see/VB 
+[ a/DT downtrend/NN ]
+in/IN 
+[ MGM\/UA/NN shares/NNS ]
+back/RB to/TO 
+[ $/$ 18/CD ]
+
+[ a/DT share/NN ]
+,/, ''/'' said/VBD 
+[ Jeffrey/NNP Logsdon/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Crowell/NNP Weedon/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+``/`` But/CC 
+[ one/PRP ]
+should/MD n't/RB underestimate/VB 
+[ Mr./NNP Kerkorian/NNP 's/POS ability/NN ]
+to/TO find/VB 
+[ new/JJ buyers/NNS ]
+./. 
+
+''/'' 
+[ Mr./NNP Logsdon/NNP ]
+said/VBD 
+[ he/PRP ]
+would/MD expect/VB 
+[ any/DT new/JJ bid/NN ]
+to/TO be/VB between/IN 
+[ $/$ 20/CD ]
+and/CC 
+[ $/$ 25/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ Qintex/NNP ]
+agreed/VBD to/TO pay/VB 
+[ $/$ 20/CD ]
+
+[ a/DT share/NN ]
+for/IN 
+[ the/DT movie/NN studio/NN ]
+in/IN 
+[ a/DT complicated/JJ deal/NN ]
+in/IN 
+[ which/WDT ]
+
+[ Mr./NNP Kerkorian/NNP ]
+would/MD have/VB bought/VBN 
+[ back/RB part/NN ]
+of/IN 
+[ the/DT assets/NNS ]
+,/, making/VBG 
+[ the/DT effective/JJ price/NN $/$ 600/CD million/CD ]
+./. 
+
+But/CC 
+[ Mr./NNP Kerkorian/NNP ]
+later/RB approached/VBD 
+[ News/NNP Corp./NNP ]
+and/CC indicated/VBD 
+[ he/PRP ]
+was/VBD interested/VBN in/IN selling/VBG 
+[ the/DT entire/JJ company/NN ]
+./. 
+
+So/RB in/IN 
+[ September/NNP ]
+,/, 
+[ News/NNP Corp./NNP ]
+offered/VBD 
+[ $/$ 23.16/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ $/$ 1.4/CD billion/CD ]
+./. 
+
+[ Qintex/NNP ]
+quickly/RB topped/VBD that/IN 
+[ offer/NN ]
+with/IN 
+[ its/PRP$ $/$ 25-a-share/JJ bid/NN ]
+./. 
+
+======================================
+
+[ The/DT MGM\/UA/NNP suit/NN ]
+filed/VBD 
+[ notes/NNS ]
+that/IN under/IN 
+[ its/PRP$ agreement/NN ]
+with/IN 
+[ Qintex/NNP ]
+
+[ the/DT studio/NN was/VBD n't/RB ]
+allowed/VBN to/TO consider/VB 
+[ other/JJ bids/NNS ]
+./. 
+
+And/CC 
+[ the/DT suit/NN ]
+says/VBZ 
+[ Qintex/NNP ]
+agreed/VBD to/TO ``/`` promptly/RB ''/'' deliver/VB 
+[ the/DT irrevocable/JJ $/$ 50/CD million/CD letter/NN ]
+of/IN 
+[ credit/NN ]
+as/IN 
+[ security/NN ]
+in/IN 
+[ the/DT transaction/NN ]
+./. 
+
+[ The/DT suit/NN charges/VBZ ]
+that/IN 
+[ Qintex/NNP ]
+``/`` induced/VBD and/CC caused/VBD 
+[ MGM\/UA/NNP ]
+to/TO reject/VB 
+[ the/DT News/NNP Corp./NNP ]
+offer/NN ./. 
+
+''/'' And/CC 
+[ it/PRP ]
+charges/VBZ that/IN 
+[ the/DT studio/NN ]
+would/MD have/VB ``/`` benefited/VBN substantially/RB ''/'' if/IN 
+[ it/PRP ]
+had/VBD accepted/VBN 
+[ that/DT offer/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kerkorian/NNP ]
+controls/VBZ about/IN 
+[ 82/CD %/NN ]
+of/IN 
+[ MGM\/UA/NNP ]
+and/CC has/VBZ already/RB announced/VBN 
+[ plans/NNS ]
+to/TO spend/VB about/IN 
+[ $/$ 700/CD million/CD ]
+of/IN 
+[ his/PRP$ proceeds/NNS ]
+on/IN 
+[ a/DT movie-themed/JJ amusement/NN park/NN ]
+and/CC 
+[ 5,000-room/JJ hotel/NN ]
+in/IN 
+[ Las/NNP Vegas/NNP ]
+,/, 
+[ Nev/NNP ]
+./. 
+
+[ Jeffrey/NNP C./NNP Barbakow/NNP ]
+,/, 
+[ MGM\/UA/NNP chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+,/, said/VBD 
+[ the/DT termination/NN ]
+of/IN 
+[ the/DT Qintex/NNP agreement/NN ]
+would/MD n't/RB affect/VB 
+[ those/DT plans/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Barbakow/NNP ]
+said/VBD 
+[ MGM\/UA/NN ]
+had/VBD continued/VBN to/TO talk/VB with/IN 
+[ Qintex/NNP ]
+through/IN 
+[ yesterday/NN ]
+but/CC without/IN 
+[ success/NN ]
+./. 
+
+``/`` Almost/RB 
+[ every/DT day/NN ]
+,/, 
+[ Qintex/NNP ]
+assured/VBD 
+[ us/PRP ]
+that/IN 
+[ the/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+would/MD be/VB immediately/RB 
+[ forthcoming/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+believe/VBP 
+[ it/PRP ]
+is/VBZ now/RB clear/JJ that/IN 
+[ Qintex/NNP ]
+repeatedly/RB misled/VBD 
+[ us/PRP ]
+regarding/VBG 
+[ its/PRP$ ability/NN ]
+to/TO furnish/VB 
+[ the/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Barbakow/NNP ]
+said/VBD 
+[ Qintex/NNP 's/POS final/JJ proposal/NN ]
+was/VBD to/TO eliminate/VB 
+[ the/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+or/CC 
+[ any/DT other/JJ security/NN ]
+,/, eliminate/VB 
+[ minimum/JJ damages/NNS ]
+that/IN 
+[ MGM\/UA/NNP ]
+might/MD claim/VB ,/, postpone/VB 
+[ the/DT Dec./NNP 15/CD closing/NN date/NN ]
+of/IN 
+[ the/DT transaction/NN ]
+by/IN 
+[ two/CD months/NNS ]
+,/, and/CC require/VB 
+[ MGM\/UA/NNP ]
+to/TO invest/VB in/IN 
+[ Qintex/NNP ]
+--/: 
+[ all/DT ]
+without/IN 
+[ any/DT confirmation/NN ]
+from/IN 
+[ Qintex/NNP ]
+of/IN 
+[ its/PRP$ ability/NN ]
+to/TO perform/VB ./. 
+
+======================================
+
+[ Mr./NNP Barbakow/NNP ]
+added/VBD that/IN ,/, ``/`` 
+[ MGM\/UA/NNP ]
+has/VBZ made/VBN 
+[ every/DT effort/NN ]
+to/TO cooperate/VB with/IN 
+[ Qintex/NNP ]
+,/, including/VBG 
+[ making/VBG proposals/NNS ]
+to/TO reduce/VB 
+[ the/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+,/, accept/VB 
+[ substitute/JJ security/NN ]
+,/, or/CC accept/VB 
+[ an/DT opinion/NN ]
+from/IN 
+[ Qintex/NNP 's/POS investment/NN bankers/NNS ]
+of/IN 
+[ Qintex/NNP 's/POS ability/NN ]
+to/TO finance/VB 
+[ the/DT merger/NN ]
+./. 
+
+[ We/PRP ]
+also/RB proposed/VBD that/IN 
+[ Qintex/NNP ]
+could/MD proceed/VB without/IN 
+[ a/DT letter/NN ]
+of/IN 
+[ credit/NN ]
+if/IN 
+[ MGM\/UA/NNP ]
+also/RB had/VBD 
+[ the/DT opportunity/NN ]
+to/TO consider/VB 
+[ a/DT better/JJR offer/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Barbakow/NNP ]
+said/VBD 
+[ Mr./NNP Kerkorian/NNP 's/POS personal/JJ holding/VBG company/NN ]
+,/, 
+[ Tracinda/NNP Corp./NNP ]
+,/, had/VBD also/RB indicated/VBN 
+[ its/PRP$ willingness/NN ]
+to/TO finance/VB as/RB much/RB as/IN 
+[ $/$ 135/CD million/CD ]
+of/IN 
+[ the/DT acquisition/NN cost/NN ]
+without/IN getting/VBG 
+[ voting/NN rights/NNS ]
+in/IN 
+[ the/DT surviving/VBG corporation/NN ]
+./. 
+
+======================================
+
+[ S./NNP Karene/NNP Witcher/NNP ]
+in/IN 
+[ Australia/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

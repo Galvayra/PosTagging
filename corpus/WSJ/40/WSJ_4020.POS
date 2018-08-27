@@ -1,0 +1,433 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Argentine/JJ President/NNP Carlos/NNP Saul/NNP Menem/NNP ]
+said/VBD 
+[ his/PRP$ country/NN ]
+has/VBZ always/RB honored/VBN 
+[ its/PRP$ obligations/NNS ]
+,/, but/CC said/VBD 
+[ he/PRP ]
+wants/VBZ 
+[ its/PRP$ foreign/JJ bank/NN debt/NN ]
+cut/VBN at/IN 
+[ least/JJS ]
+in/IN 
+[ half/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+do/VBP n't/RB expect/VB 
+[ an/DT 80/CD %/NN decrease/NN ]
+,/, but/CC at/IN 
+[ least/JJS a/DT reduction/NN ]
+of/IN 
+[ no/DT less/JJR ]
+than/IN 
+[ 50/CD %/NN ]
+,/, ''/'' 
+[ Mr./NNP Menem/NNP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+expect/VBP 
+[ a/DT plan/NN ]
+like/IN 
+[ the/DT Brady/NNP plan/NN ]
+,/, but/CC under/IN 
+[ better/JJR conditions/NNS ]
+than/IN 
+[ the/DT one/NN ]
+agreed/VBD on/IN with/IN 
+[ Mexico/NNP ]
+,/, ''/'' 
+[ Mr./NNP Menem/NNP ]
+remarked/VBD ./. 
+
+======================================
+
+[ The/DT Brady/NNP strategy/NN ]
+,/, launched/VBN 
+[ this/DT March/NNP ]
+,/, emphasizes/VBZ 
+[ debt/NN reduction/NN ]
+over/IN 
+[ continued/VBN bank/NN lending/NN ]
+./. 
+
+But/CC 
+[ it/PRP ]
+recently/RB has/VBZ shifted/VBN 
+[ some/DT ]
+of/IN 
+[ its/PRP$ emphasis/NN ]
+back/RB to/TO 
+[ boosting/VBG bank/NN loans/NNS ]
+./. 
+
+[ Mexico/NNP ]
+,/, 
+[ the/DT first/JJ nation/NN ]
+to/TO agree/VB to/TO 
+[ a/DT package/NN ]
+under/IN 
+[ the/DT strategy/NN ]
+,/, recently/RB negotiated/VBD 
+[ a/DT proposed/VBN bank/NN debt/NN agreement/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ options/NNS ]
+allowing/VBG for/IN 
+[ a/DT 35/CD %/NN ]
+cut/NN in/IN 
+[ either/DT its/PRP$ principal/NN ]
+or/CC 
+[ interest/NN payments/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Menem/NNP ]
+,/, elected/VBN 
+[ president/NN ]
+of/IN 
+[ Argentina/NNP ]
+
+[ this/DT year/NN ]
+,/, has/VBZ surprised/VBN 
+[ some/DT ]
+of/IN 
+[ his/PRP$ countrymen/NNS ]
+and/CC 
+[ foreign/JJ analysts/NNS ]
+by/IN 
+[ promising/JJ deregulation/NN ]
+and/CC 
+[ tough/JJ economic/JJ reforms/NNS ]
+./. 
+
+======================================
+
+[ Argentina/NNP ]
+,/, plagued/VBN by/IN 
+[ deep/JJ economic/JJ problems/NNS ]
+,/, has/VBZ about/IN 
+[ $/$ 60/CD billion/CD ]
+of/IN 
+[ overseas/JJ debt/NN ]
+,/, most/JJS of/IN 
+[ it/PRP ]
+owed/VBN to/TO 
+[ foreign/JJ commercial/JJ banks/NNS ]
+./. 
+
+[ It/PRP ]
+
+[ has/VBZ n't/RB ]
+paid/VBD 
+[ interest/NN ]
+on/IN 
+[ its/PRP$ medium-term/JJ ]
+and/CC 
+[ long-term/JJ bank/NN debt/NN ]
+since/IN 
+[ April/NNP last/JJ year/NN ]
+and/CC is/VBZ now/RB more/JJR than/IN 
+[ $/$ 4/CD billion/CD ]
+in/IN 
+[ arrears/NNS ]
+./. 
+
+[ This/DT June/NNP ]
+,/, 
+[ U.S./NNP regulators/NNS ]
+told/VBD 
+[ their/PRP$ banks/NNS ]
+to/TO write/VB down/RP 
+[ their/PRP$ Argentine/JJ loans/NNS ]
+by/IN 
+[ 20/CD %/NN ]
+./. 
+
+======================================
+
+In/IN setting/VBG 
+[ the/DT reduction/NN ]
+in/IN 
+[ Argentina/NNP 's/POS foreign/JJ bank/NN debt/NN ]
+,/, 
+[ there/EX ]
+should/MD be/VB ``/`` 
+[ a/DT balance/NN ]
+between/IN 
+[ the/DT nominal/NN ]
+and/CC 
+[ the/DT real/JJ value/NN ]
+of/IN 
+[ the/DT debt/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Menem/NNP ]
+,/, 
+[ who/WP ]
+remarked/VBD 
+[ that/DT his/PRP$ country/NN 's/POS foreign/JJ bank/NN debt/NN ]
+now/RB is/VBZ trading/VBG at/IN about/IN 
+[ 20/CD %/NN ]
+of/IN 
+[ face/JJ value/NN ]
+./. 
+
+======================================
+
+[ The/DT Brady/NNP strategy/NN ]
+sets/VBZ 
+[ a/DT high/JJ premium/NN ]
+on/IN 
+[ economic/JJ policies/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ ironic/JJ that/IN 
+[ Argentina/NNP ]
+,/, 
+[ which/WDT ]
+generally/RB has/VBZ n't/RB followed/VBN 
+[ policies/NNS ]
+as/IN 
+[ consistent/JJ ]
+and/CC strict/JJ as/IN 
+[ those/DT ]
+of/IN 
+[ Mexico/NNP ]
+,/, considers/VBZ 
+[ itself/PRP ]
+
+[ a/DT candidate/NN ]
+for/IN 
+[ a/DT bigger/JJR discount/NN ]
+than/IN 
+[ Mexico/NNP ]
+./. 
+
+But/CC 
+[ Argentina/NNP 's/POS recent/JJ economic/JJ difficulties/NNS ]
+have/VBP certainly/RB been/VBN greater/JJR ./. 
+
+[ Mr./NNP Menem/NNP ]
+says/VBZ 
+[ his/PRP$ government/NN ]
+wants/VBZ to/TO straighten/VB out/RP 
+[ domestic/JJ economic/JJ policy/NN ]
+before/IN talking/VBG with/IN 
+[ its/PRP$ bank/NN creditors/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+did/VBD n't/RB want/VB to/TO come/VB to/TO 
+[ the/DT U.S./NNP ]
+before/IN 
+[ we/PRP ]
+'d/MD drawn/VBN up/RP 
+[ our/PRP$ new/JJ economic/JJ policy/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ,/, emphasizing/VBG that/IN 
+[ Argentina/NNP ]
+during/IN 
+[ his/PRP$ visit/NN ]
+reached/VBD 
+[ an/DT accord/NN ]
+with/IN 
+[ the/DT International/NNP Monetary/NNP Fund/NNP ]
+
+[ that/WDT ]
+includes/VBZ 
+[ a/DT $/$ 1.4/CD billion/CD loan/NN ]
+and/CC 
+[ some/DT economic/JJ targets/NNS ]
+./. 
+
+[ Talks/NNS ]
+with/IN 
+[ banks/NNS ]
+will/MD follow/VB ,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT new/JJ Argentine/JJ government/NN ]
+has/VBZ done/VBN 
+[ some/DT planning/NN ]
+on/IN 
+[ its/PRP$ foreign/JJ debt/NN ]
+,/, though/RB ./. 
+
+[ It/PRP ]
+is/VBZ prepared/JJ to/TO exchange/VB 
+[ local/JJ equity/NN investments/NNS ]
+with/IN 
+[ holders/NNS ]
+of/IN 
+[ foreign/JJ bank/NN debt/NN ]
+,/, 
+[ Mr./NNP Menem/NNP ]
+said/VBD ./. 
+
+But/CC 
+[ these/DT ]
+should/MD be/VB at/IN 
+[ the/DT ]
+``/`` 
+[ right/JJ price/NN ]
+''/'' and/CC have/VB to/TO be/VB ``/`` just/JJ and/CC balanced/JJ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+[ Economic/JJ growth/NN ]
+also/RB ca/MD n't/RB be/VB sacrificed/VBN for/IN 
+[ the/DT sake/NN ]
+of/IN 
+[ debt/NN payments/NNS ]
+,/, 
+[ the/DT president/NN ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+want/VBP to/TO pay/VB ,/, but/CC 
+[ we/PRP ]
+also/RB want/VBP to/TO grow/VB ''/'' economically/RB ,/, 
+[ Mr./NNP Menem/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT new/JJ government/NN ]
+is/VBZ planning/VBG to/TO cut/VB 
+[ subsidies/NNS ]
+to/TO 
+[ local/JJ industry/NN ]
+,/, 
+[ a/DT notorious/JJ source/NN ]
+of/IN 
+[ graft/NN ]
+and/CC 
+[ inefficiency/NN ]
+./. 
+
+[ It/PRP ]
+also/RB is/VBZ introducing/VBG 
+[ tax/NN reforms/NNS ]
+to/TO reduce/VB 
+[ the/DT number/NN ]
+of/IN 
+[ taxes/NNS ]
+and/CC to/TO make/VB 
+[ tax/NN evasion/NN ]
+
+[ a/DT criminal/JJ offense/NN ]
+./. 
+
+``/`` 
+[ Sixty/CD percent/NN ]
+of/IN 
+[ Argentines/NNPS ]
+do/VBP n't/RB pay/VB 
+[ tax/NN ]
+,/, ''/'' 
+[ Mr./NNP Menem/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP n't/RB lived/VBN from/IN 
+[ our/PRP$ work/NN ]
+,/, but/CC from/IN 
+[ our/PRP$ wealth/NN ]
+,/, ''/'' 
+[ the/DT Argentine/JJ president/NN ]
+said/VBD ,/, discussing/VBG 
+[ Argentina/NNP 's/POS long/JJ history/NN ]
+of/IN 
+[ economic/JJ decline/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+are/VBP 
+[ some/DT encouraging/JJ signs/NNS ]
+./. 
+
+[ Argentina/NNP ]
+has/VBZ recently/RB received/VBN 
+[ some/DT capital/NN inflow/NN ]
+from/IN abroad/RB as/IN 
+[ its/PRP$ citizens/NNS ]
+repatriate/VBP 
+[ funds/NNS ]
+./. 
+
+[ Mr./NNP Menem/NNP ]
+said/VBD 
+[ new/JJ regulations/NNS ]
+allowing/VBG 
+[ Argentines/NNPS ]
+to/TO hold/VB 
+[ U.S./NNP dollar/NN accounts/NNS ]
+have/VBP resulted/VBN in/IN ``/`` 
+[ deposits/NNS ]
+of/IN 
+[ $/$ 1/CD billion/CD ]
+in/IN 
+[ Argentine/JJ banks/NNS ]
+,/, ''/'' and/CC 
+[ the/DT country/NN 's/POS reserves/NNS ]
+have/VBP grown/VBN to/TO ``/`` over/IN 
+[ $/$ 2/CD billion/CD ]
+''/'' from/IN less/JJR than/IN 
+[ $/$ 100/CD million/CD ]
+when/WRB 
+[ he/PRP ]
+took/VBD 
+[ office/NN ]
+in/IN 
+[ the/DT summer/NN ]
+./. 
+
+But/CC 
+[ Mr./NNP Menem/NNP ]
+emphasized/VBD 
+[ that/DT his/PRP$ government/NN ]
+will/MD stick/VB to/TO 
+[ its/PRP$ program/NN ]
+:/: ``/`` 
+[ We/PRP ]
+need/VBP at/IN 
+[ least/JJS three/CD years/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

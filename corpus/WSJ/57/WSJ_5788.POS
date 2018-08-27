@@ -1,0 +1,742 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ It/PRP ]
+sounds/VBZ 
+[ incredible/JJ ]
+,/, even/RB for/IN 
+[ a/DT boondoggler/NN ]
+like/IN 
+[ Uncle/NNP Sam/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ a/DT Customs/NNPS Service/NNP program/NN run/VBN ]
+by/IN 
+[ Northrop/NNP Corp./NNP ]
+to/TO auction/VB off/RP 
+[ property/NN ]
+confiscated/VBN from/IN 
+[ scofflaws/NNS ]
+is/VBZ losing/VBG 
+[ money/NN ]
+./. 
+
+======================================
+
+[ No/DT one/NN ]
+seems/VBZ 
+[ certain/JJ ]
+exactly/RB how/WRB much/RB because/RB ,/, 
+[ government/NN auditors/NNS ]
+say/VBP ,/, 
+[ Customs/NNPS '/POS books/NNS ]
+are/VBP 
+[ a/DT mess/NN ]
+./. 
+
+[ House/NNP aides/NNS ]
+believe/VBP 
+[ the/DT program/NN ]
+has/VBZ fallen/VBN 
+[ some/DT $/$ 8/CD million/CD ]
+in/IN 
+[ the/DT hole/NN ]
+since/IN 
+[ Northrop/NNP ]
+took/VBD 
+[ it/PRP ]
+over/RP in/IN 
+[ 1985/CD ]
+./. 
+
+[ Senate/NNP staffers/NNS ]
+put/VBD 
+[ the/DT loss/NN ]
+at/IN 
+[ $/$ 10/CD million/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+have/VBP been/VBN 
+[ real/JJ problems/NNS ]
+with/IN how/WRB 
+[ Customs/NNPS ]
+has/VBZ managed/VBN 
+[ this/DT contract/NN ]
+from/IN 
+[ the/DT very/JJ beginning/NN ]
+,/, ''/'' says/VBZ 
+[ Sen./NNP Carl/NNP Levin/NNP ]
+,/, 
+[ a/DT Michigan/NNP Democrat/NNP ]
+./. 
+
+``/`` Now/RB 
+[ we/PRP ]
+'re/VBP seeing/VBG 
+[ some/DT ]
+of/IN 
+[ the/DT unfortunate/JJ results/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Justice/NNP Department/NNP ]
+,/, as/IN reported/VBN ,/, is/VBZ investigating/VBG 
+[ the/DT matter/NN ]
+./. 
+
+[ Affidavits/NNS ]
+filed/VBN in/IN 
+[ U.S./NNP District/NNP Court/NNP ]
+in/IN 
+[ Oklahoma/NNP ]
+allege/VBP 
+[ that/DT Northrop/NNP ]
+has/VBZ been/VBN making/VBG ``/`` 
+[ fraudulent/JJ claims/NNS ]
+''/'' to/TO 
+[ the/DT government/NN ]
+and/CC ``/`` deliberately/RB billing/VBG ''/'' 
+[ it/PRP ]
+for/IN 
+[ storage/NN ]
+of/IN 
+[ items/NNS ]
+
+[ that/WDT ]
+have/VBP been/VBN out/IN of/IN 
+[ the/DT company/NN 's/POS hands/NNS ]
+for/IN up/IN to/TO 
+[ three/CD months/NNS ]
+./. 
+
+======================================
+
+[ Northrop/NNP ]
+and/CC 
+[ Customs/NNPS officials/NNS ]
+wo/MD n't/RB comment/VB on/IN 
+[ the/DT criminal/JJ inquiry/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+say/VBP 
+[ the/DT program/NN 's/POS critics/NNS ]
+fail/VBP to/TO consider/VB that/IN 
+[ even/RB worthless/JJ goods/NNS ]
+must/MD be/VB stored/VBN while/IN 
+[ a/DT suspect/NN 's/POS case/NN slogs/VBZ ]
+through/IN 
+[ the/DT legal/JJ system/NN ]
+./. 
+
+[ They/PRP ]
+also/RB say/VBP 
+[ balance-sheet/JJ estimates/NNS ]
+by/IN 
+[ Congress/NNP ]
+do/VBP n't/RB take/VB into/IN 
+[ account/NN property/NN ]
+that/WDT 
+[ the/DT government/NN ]
+decides/VBZ not/RB to/TO sell/VB off/RP ,/, but/CC instead/RB distributes/VBZ to/TO 
+[ various/JJ agencies/NNS ]
+for/IN 
+[ their/PRP$ own/JJ use/NN ]
+./. 
+
+If/IN credited/VBN for/IN 
+[ those/DT transfers/NNS ]
+,/, 
+[ they/PRP ]
+argue/VBP ,/, 
+[ the/DT program/NN ]
+would/MD be/VB in/IN 
+[ the/DT black/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'ve/VBP done/VBN 
+[ a/DT very/RB outstanding/JJ job/NN ]
+,/, ''/'' insists/VBZ 
+[ Roy/NNP P./NNP Hooks/NNP ]
+,/, 
+[ the/DT Northrop/NNP executive/NN ]
+
+[ who/WP ]
+runs/VBZ 
+[ the/DT program/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP providing/VBG 
+[ an/DT outstanding/JJ service/NN ]
+to/TO 
+[ Customs/NNPS ]
+and/CC 
+[ a/DT benefit/NN ]
+to/TO 
+[ the/DT taxpayers/NNS ]
+./. 
+
+''/'' But/CC 
+[ Customs/NNPS agents/NNS ]
+in/IN 
+[ the/DT field/NN ]
+tell/VBP 
+[ a/DT different/JJ story/NN ]
+./. 
+
+[ Documents/NNS ]
+unearthed/VBN by/IN 
+[ Sen./NNP Levin/NNP 's/POS staff/NN ]
+and/CC made/VBN available/JJ to/TO 
+[ this/DT newspaper/NN ]
+suggest/VBP 
+[ Northrop/NNP ]
+is/VBZ mismanaging/VBG 
+[ things/NNS ]
+,/, and/CC 
+[ that/IN monitoring/VBG ]
+by/IN 
+[ Customs/NNPS ]
+is/VBZ deficient/JJ ./. 
+
+``/`` 
+[ The/DT administration/NN ]
+of/IN 
+[ the/DT Northrop/NNP contract/NN ]
+may/MD be/VB leaving/VBG 
+[ the/DT Customs/NNPS Service/NNP vulnerable/JJ ]
+to/TO 
+[ a/DT charge/NN ]
+of/IN 
+[ waste/NN ]
+,/, 
+[ fraud/NN ]
+or/CC 
+[ abuse/NN ]
+,/, ''/'' warns/VBZ 
+[ a/DT June/NNP 1988/CD memo/NN ]
+from/IN 
+[ Customs/NNPS '/POS Southwest/NNP region/NN office/NN ]
+to/TO 
+[ Washington/NNP headquarters/NNS ]
+./. 
+
+======================================
+
+[ The/DT June/NNP memo/NN ]
+says/VBZ 
+[ Northrop/NNP ]
+charged/VBD 
+[ $/$ 25,516/CD ]
+for/IN 
+[ 16/CD days/NNS ]
+storage/JJ of/IN 
+[ 503/CD pieces/NNS ]
+of/IN 
+[ loose/JJ pipe/NN ]
+./. 
+
+When/WRB 
+[ regional/JJ Customs/NNPS officials/NNS ]
+,/, checking/VBG up/RP on/IN 
+[ the/DT company/NN ]
+,/, solicited/VBD 
+[ a/DT comparative/NN bid/NN ]
+from/IN 
+[ a/DT local/JJ pipe/NN yard/NN ]
+
+[ that/WDT ]
+serves/VBZ as/IN 
+[ a/DT bonded/JJ Customs/NNPS warehouse/NN ]
+,/, 
+[ they/PRP ]
+found/VBD ``/`` 
+[ an/DT identical/JJ shipment/NN ]
+with/IN 
+[ the/DT same/JJ amount/NN ]
+of/IN 
+[ sorting/VBG work/NN ]
+would/MD cost/VB 
+[ $/$ 4,300/CD ]
+for/IN 
+[ one/CD month/NN 's/POS storage/NN ]
+,/, including/VBG 
+[ all/DT in\/JJ handling/NN charges/NNS ]
+,/, ''/'' according/VBG to/TO 
+[ the/DT memo/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Hooks/NNP ]
+says/VBZ 
+[ Northrop/NNP 's/POS tally/NN ]
+was/VBD justified/VBN because/IN 
+[ Customs/NNPS ]
+ordered/VBD 
+[ the/DT pipes/NNS ]
+sorted/VBN ,/, stacked/VBN and/CC transported/VBN in/IN unusually/RB 
+[ quick/JJ fashion/NN ]
+./. 
+
+[ He/PRP ]
+also/RB says/VBZ 
+[ the/DT company/NN ]
+was/VBD unable/JJ to/TO find/VB 
+[ a/DT lower-cost/JJ alternative/NN ]
+./. 
+
+Still/RB ,/, 
+[ a/DT Customs/NNPS spokesman/NN ]
+says/VBZ of/IN 
+[ the/DT incident/NN ]
+:/: ``/`` 
+[ There/EX ]
+is/VBZ 
+[ a/DT problem/NN ]
+there/RB ./. 
+
+Thank/VB 
+[ God/NNP things/NNS ]
+like/IN 
+[ that/DT ]
+do/VBP n't/RB happen/VB very/RB often/RB ./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ they/PRP ]
+apparently/RB do/VBP ,/, if/IN 
+[ the/DT memos/NNS ]
+obtained/VBN by/IN 
+[ Sen./NNP Levin/NNP 's/POS office/NN ]
+are/VBP 
+[ any/DT indication/NN ]
+./. 
+
+While/IN 
+[ examples/NNS ]
+in/IN 
+[ the/DT documents/NNS ]
+generally/RB do/VBP n't/RB involve/VB 
+[ big/JJ dollar/NN amounts/NNS ]
+,/, 
+[ critics/NNS ]
+of/IN 
+[ the/DT program/NN ]
+say/VBP 
+[ they/PRP ]
+illustrate/VBP 
+[ a/DT pattern/NN ]
+of/IN 
+[ questionable/JJ transactions/NNS ]
+./. 
+
+======================================
+
+Specifically/RB ,/, 
+[ the/DT memos/NNS ]
+allege/VBP 
+[ that/DT Northrop/NNP ]
+has/VBZ raised/VBN 
+[ program/NN costs/NNS ]
+by/IN getting/VBG 
+[ outside/JJ appraisals/NNS ]
+on/IN 
+[ jewelry/NN ]
+when/WRB 
+[ in-house/JJ ]
+Customs/NNPS 
+[ personnel/NNS ]
+could/MD have/VB done/VBN 
+[ the/DT job/NN ]
+;/: by/IN needlessly/RB shuffling/VBG 
+[ items/NNS ]
+from/IN 
+[ one/CD district/NN ]
+to/TO 
+[ another/DT ]
+for/IN 
+[ auction/NN ]
+;/: and/CC by/IN failing/VBG to/TO get/VB 
+[ rid/JJ ]
+of/IN 
+[ merchandise/NN ]
+in/IN 
+[ a/DT timely/JJ fashion/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Hooks/NNP ]
+disputes/VBZ 
+[ the/DT allegations/NNS ]
+./. 
+
+In/IN 
+[ the/DT case/NN ]
+of/IN 
+[ outside/JJ appraisers/NNS ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ they/PRP ]
+are/VBP brought/VBN in/IN because/IN 
+[ Customs/NNPS personnel/NNS ]
+are/VBP n't/RB always/RB equipped/VBN to/TO handle/VB 
+[ specialized/JJ work/NN ]
+;/: 
+[ the/DT government/NN ]
+,/, 
+[ he/PRP ]
+adds/VBZ ,/, caps/VBZ 
+[ the/DT amount/NN ]
+
+[ that/WDT ]
+can/MD be/VB spent/VBN on/IN 
+[ that/DT part/NN ]
+of/IN 
+[ the/DT project/NN ]
+./. 
+
+[ He/PRP ]
+also/RB says/VBZ 
+[ goods/NNS ]
+are/VBP moved/VBN to/TO 
+[ a/DT common/JJ selling/JJ point/NN ]
+to/TO ``/`` get/VB 
+[ a/DT competitive/JJ crowd/NN ]
+and/CC maximize/VB 
+[ revenues/NNS ]
+./. 
+
+''/'' 
+[ He/PRP ]
+denies/VBZ that/IN 
+[ Northrop/NNP ]
+fails/VBZ to/TO dispose/VB of/IN 
+[ items/NNS ]
+quickly/RB ,/, though/IN 
+[ he/PRP ]
+says/VBZ 
+[ the/DT bookkeeping/NN ]
+on/IN 
+[ that/DT ]
+can/MD be/VB ``/`` 
+[ skewed/JJ ]
+''/'' because/IN 
+[ some/DT bidders/NNS ]
+fail/VBP to/TO claim/VB 
+[ their/PRP$ merchandise/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+have/VBP to/TO sell/VB 
+[ some/DT items/NNS three/CD times/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Nonetheless/RB ,/, 
+[ some/DT lawmakers/NNS ]
+argue/VBP that/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT built-in/JJ incentive/NN ]
+for/IN 
+[ Northrop/NNP ]
+to/TO run/VB up/RP 
+[ costs/NNS ]
+,/, 
+[ all/DT ]
+of/IN 
+[ which/WDT ]
+are/VBP covered/VBN by/IN 
+[ the/DT government/NN ]
+./. 
+
+Though/IN up/IN to/TO 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT company/NN 's/POS fee/NN ]
+is/VBZ based/VBN on/IN 
+[ performance/NN ]
+--/: 
+[ Customs/NNPS ]
+consistently/RB has/VBZ rated/VBN 
+[ it/PRP ]
+``/`` very/RB good/JJ ''/'' --/: 
+[ the/DT basic/JJ fee/NN structure/NN ]
+
+[ that/WDT ]
+'s/VBZ negotiated/VBN at/IN 
+[ the/DT outset/NN ]
+of/IN 
+[ the/DT fiscal/JJ year/NN ]
+is/VBZ linked/VBN to/TO 
+[ anticipated/VBN program/NN expenses/NNS ]
+./. 
+
+Thus/RB ,/, 
+[ the/DT more/RBR costs/NNS ]
+soar/VBP ,/, 
+[ the/DT higher/JJR the/DT next/JJ year/NN 's/POS base/NN fee/NN ]
+is/VBZ likely/JJ to/TO be/VB ./. 
+
+``/`` 
+[ The/DT contract/NN ]
+is/VBZ so/RB loosely/RB drawn/VBN ,/, 
+[ it/PRP ]
+'s/VBZ riddled/VBN with/IN 
+[ opportunity/NN ]
+for/IN 
+[ fraud/NN ]
+,/, ''/'' charges/VBZ 
+[ Rep./NNP E./NNP Clay/NNP Shaw/NNP ]
+,/, 
+[ a/DT Florida/NNP Republican/NNP ]
+./. 
+
+======================================
+
+[ The/DT Customs/NNPS spokesman/NN ]
+contends/VBZ that/IN ``/`` 
+[ the/DT government/NN ]
+is/VBZ not/RB out/IN to/TO make/VB 
+[ money/NN ]
+''/'' on/IN 
+[ the/DT program/NN ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+says/VBZ is/VBZ designed/VBN to/TO 
+[ free/VB agents/NNS ]
+from/IN ``/`` 
+[ custodial/JJ duties/NNS ]
+''/'' so/IN 
+[ they/PRP ]
+can/MD concentrate/VB on/IN 
+[ law/NN enforcement/NN ]
+./. 
+
+But/CC 
+[ Rep./NNP Shaw/NNP ]
+counters/VBZ ,/, ``/`` 
+[ We/PRP ]
+seize/VBP 
+[ hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+worth/JJ of/IN 
+[ assets/NNS ]
+,/, and/CC then/RB 
+[ we/PRP ]
+throw/VBP 
+[ it/PRP ]
+all/RB away/RB ./. 
+
+[ We/PRP ]
+envisioned/VBD 
+[ the/DT whole/JJ process/NN ]
+as/IN 
+[ potential/JJ profit/NN ]
+./. 
+
+''/'' 
+======================================
+
+Actually/RB ,/, most/RBS of/IN 
+[ the/DT seized/VBN items/NNS ]
+are/VBP n't/RB auctioned/VBN off/RP at/IN 
+[ all/DT ]
+;/: almost/RB 
+[ three-quarters/NNS ]
+are/VBP remitted/VBN ,/, usually/RB as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT settlement/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT original/JJ owner/NN ]
+pays/VBZ 
+[ Customs/NNPS its/PRP$ costs/NNS ]
+--/: and/CC often/RB 
+[ a/DT penalty/NN ]
+on/IN 
+[ top/NN ]
+of/IN 
+[ that/DT ]
+./. 
+
+``/`` 
+[ Customs/NNPS ]
+should/MD be/VB in/IN 
+[ the/DT black/JJ no/DT matter/NN ]
+how/WRB 
+[ you/PRP ]
+cut/VBP 
+[ it/PRP ]
+,/, ''/'' 
+[ Sen./NNP Levin/NNP 's/POS aide/NN ]
+says/VBZ ./. 
+
+======================================
+
+[ Part/NN ]
+of/IN 
+[ the/DT problem/NN ]
+may/MD be/VB 
+[ the/DT way/NN ]
+
+[ the/DT government/NN ]
+calculates/VBZ 
+[ costs/NNS ]
+./. 
+
+[ Northrop/NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, sold/VBD for/IN 
+[ $/$ 100/CD ]
+
+[ some/DT jewelry/NN ]
+
+[ that/WDT ]
+had/VBD been/VBN seized/VBN in/IN 
+[ El/NNP Paso/NNP ]
+,/, 
+[ Texas/NNP ]
+./. 
+
+[ Customs/NNPS ]
+put/VBD 
+[ the/DT cost/NN ]
+of/IN 
+[ the/DT sale/NN ]
+at/IN 
+[ $/$ 819/CD ]
+./. 
+
+But/CC 
+[ Northrop/NNP ]
+says/VBZ 
+[ $/$ 774/CD ]
+of/IN 
+[ that/DT amount/NN ]
+stems/VBZ from/IN 
+[ a/DT government/NN formula/NN ]
+to/TO recoup/VB 
+[ overhead/JJ expenses/NNS ]
+./. 
+
+``/`` Even/RB if/IN 
+[ Northrop/NNP ]
+did/VBD 
+[ nothing/NN ]
+wrong/JJ ,/, 
+[ there/EX ]
+'s/VBZ still/RB obviously/RB 
+[ a/DT problem/NN ]
+here/RB ,/, ''/'' says/VBZ 
+[ the/DT aide/NN ]
+to/TO 
+[ Sen./NNP Levin/NNP ]
+./. 
+
+======================================
+
+[ Los/NNP Angeles-based/JJ Northrop/NNP ]
+was/VBD brought/VBN aboard/IN to/TO make/VB 
+[ the/DT seized-property/JJ program/NN ]
+run/VB smoother/RB after/IN 
+[ a/DT 1983/CD report/NN ]
+by/IN 
+[ the/DT General/NNP Accounting/NNP Office/NNP ]
+,/, 
+[ Congress/NNP 's/POS investigative/JJ arm/NN ]
+,/, blasted/VBD 
+[ Customs/NNPS '/POS management/NN ]
+of/IN 
+[ the/DT program/NN ]
+and/CC recommended/VBD hiring/VBG 
+[ a/DT private/JJ contractor/NN ]
+./. 
+
+[ Northrop/NNP ]
+won/VBD 
+[ the/DT accord/NN ]
+because/IN 
+[ its/PRP$ sophisticated/JJ computer/NN system/NN ]
+could/MD track/VB 
+[ Customs/NNPS '/POS nationwide/JJ inventories/NNS ]
+./. 
+
+======================================
+
+Now/RB ,/, 
+[ House/NNP ]
+and/CC 
+[ Senate/NNP committees/NNS ]
+are/VBP abuzz/JJ that/IN 
+[ it/PRP ]
+might/MD be/VB 
+[ a/DT shoo-in/NN ]
+to/TO win/VB 
+[ an/DT extension/NN ]
+of/IN 
+[ the/DT pact/NN ]
+,/, 
+[ which/WDT ]
+recently/RB was/VBD put/VBN out/RP for/IN 
+[ bid/NN ]
+./. 
+
+But/CC 
+[ Northrop/NNP ]
+says/VBZ 
+[ it/PRP ]
+is/VBZ n't/RB even/RB planning/VBG to/TO go/VB after/IN 
+[ the/DT contract/NN ]
+again/RB because/IN 
+[ it/PRP ]
+'s/VBZ trying/VBG to/TO focus/VB on/IN 
+[ its/PRP$ core/NN aerospace/NN businesses/NNS ]
+./. 

@@ -1,0 +1,654 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Something/NN ]
+funny/JJ is/VBZ happening/VBG to/TO 
+[ the/DT gold/JJ stocks/NNS ]
+,/, 
+[ Homestake/NNP Mining/NNP ]
+in/IN 
+[ particular/NN ]
+./. 
+
+======================================
+
+With/IN 
+[ the/DT price/NN ]
+of/IN 
+[ gold/NN ]
+not/RB far/RB above/IN 
+[ its/PRP$ recent/JJ three-year/JJ low/JJ ]
+,/, 
+[ shares/NNS ]
+of/IN 
+[ gold/JJ producers/NNS ]
+could/MD easily/RB be/VB in/IN 
+[ the/DT doldrums/NN ]
+./. 
+
+Yet/RB 
+[ they/PRP ]
+'re/VBP up/RB about/IN 
+[ 10/CD %/NN ]
+
+[ this/DT month/NN ]
+./. 
+
+[ Homestake/NNP ]
+,/, 
+[ the/DT second/RB largest/JJS U.S./NNP gold-mining/NN company/NN ]
+,/, has/VBZ shown/VBN 
+[ puny/JJ earnings/NNS ]
+lately/RB ,/, yet/CC 
+[ it/PRP ]
+rose/VBD to/TO 
+[ a/DT series/NN ]
+of/IN 
+[ new/JJ 52-week/JJ highs/NNS last/JJ week/NN ]
+./. 
+
+======================================
+
+[ Homestake/NNP ]
+advanced/VBD 
+[ 1/CD 1\/4/CD points/NNS ]
+for/IN 
+[ the/DT week/NN ]
+to/TO 
+[ 16/CD 3\/8/CD ]
+./. 
+
+[ Daily/JJ volume/NN ]
+,/, 
+[ which/WDT ]
+averaged/VBD only/RB 
+[ 250,000/CD shares/NNS last/JJ month/NN ]
+,/, exceeded/VBD 
+[ 700,000/CD shares/NNS ]
+
+[ both/DT last/JJ Wednesday/NNP ]
+and/CC 
+[ Friday/NNP ]
+./. 
+
+======================================
+
+Yesterday/NN ,/, while/IN 
+[ most/JJS stocks/NNS ]
+declined/VBD ,/, 
+[ Homestake/NNP ]
+rose/VBD 
+[ another/DT 1\/4/CD ]
+to/TO 
+[ 16/CD 5\/8/CD ]
+,/, on/IN 
+[ volume/NN ]
+of/IN more/JJR than/IN 
+[ 900,000/CD shares/NNS ]
+./. 
+
+======================================
+
+[ The/DT price/NN ]
+of/IN 
+[ gold/NN ]
+,/, 
+[ which/WDT ]
+hit/VBD 
+[ a/DT three-year/JJ intraday/JJ ]
+low/NN of/IN 
+[ $/$ 356/CD ]
+
+[ an/DT ounce/NN ]
+on/IN 
+[ Sept./NNP 15/CD ]
+,/, has/VBZ bounced/VBN back/RB 
+[ 3.5/CD %/NN ]
+./. 
+
+And/CC 
+[ Homestake/NNP ]
+,/, long/RB regarded/JJ as/IN 
+[ a/DT high-cost/JJ producer/NN ]
+,/, is/VBZ making/VBG 
+[ progress/NN ]
+in/IN narrowing/VBG 
+[ the/DT production-cost/NN gap/NN ]
+between/IN 
+[ it/PRP ]
+and/CC 
+[ its/PRP$ major/JJ rivals/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ skeptics/NNS ]
+say/VBP 
+[ those/DT ]
+are/VBP 
+[ frail/JJ reeds/NNS ]
+on/IN 
+[ which/WDT ]
+to/TO build/VB 
+[ an/DT investment/NN ]
+./. 
+
+Mining/NN 
+[ company/NN shares/NNS ]
+,/, 
+[ they/PRP ]
+say/VBP ,/, are/VBP already/RB priced/VBN to/TO anticipate/VB 
+[ $/$ 400-an-ounce/JJ gold/NN ]
+./. 
+
+So/RB 
+[ anyone/NN ]
+betting/VBG on/IN 
+[ Homestake/NNP ]
+,/, or/CC 
+[ several/JJ other/JJ gold/NN producers/NNS whose/WP$ shares/NNS ]
+have/VBP edged/VBN up/RB recently/RB ,/, had/VBD better/RBR be/VB anticipating/VBG 
+[ prices/NNS ]
+even/RB higher/JJR than/IN 
+[ that/DT ]
+./. 
+
+======================================
+
+Besides/IN ,/, 
+[ they/PRP ]
+say/VBP ,/, 
+[ Homestake/NNP ]
+is/VBZ still/RB 
+[ a/DT high-cost/JJ producer/NN ]
+,/, just/RB less/RBR so/RB than/IN before/RB ./. 
+
+[ John/NNP Tumazos/NNP ]
+,/, 
+[ precious/JJ metals/NNS analyst/NN ]
+at/IN 
+[ Donaldson/NNP ]
+,/, 
+[ Lufkin/NNP ]
+&/CC 
+[ Jenrette/NNP ]
+,/, points/VBZ out/RB that/IN 
+[ the/DT cost/NN gap/NN ]
+has/VBZ closed/VBN mainly/RB because/IN 
+[ rivals/NNS '/POS costs/NNS ]
+have/VBP risen/VBN ,/, not/RB because/IN 
+[ Homestake/NNP 's/POS costs/NNS ]
+have/VBP come/VBN 
+[ way/RB ] 
+down/RB ./. 
+
+======================================
+
+In/IN 
+[ talks/NNS ]
+with/IN 
+[ analysts/NNS ]
+touring/VBG 
+[ two/CD ]
+of/IN 
+[ its/PRP$ mines/NNS ]
+earlier/RBR 
+[ this/DT month/NN ]
+,/, 
+[ Homestake/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ producing/VBG 
+[ gold/NN ]
+at/IN 
+[ a/DT cost/NN ]
+ (/( on/IN 
+[ a/DT ]
+``/`` 
+[ cash/NN basis/NN ]
+,/, ''/'' 
+[ which/WDT ]
+does/VBZ n't/RB include/VB 
+[ depreciation/NN ]
+and/CC 
+[ some/DT other/JJ items/NNS ]
+ )/) of/IN 
+[ $/$ 260/CD ]
+
+[ an/DT ounce/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ That/DT ]
+certainly/RB is/VBZ 
+[ a/DT positive/JJ development/NN ]
+,/, ''/'' says/VBZ 
+[ Vahid/NNP Fathi/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Prescott/NNP ]
+,/, 
+[ Ball/NNP ]
+&/CC 
+[ Turben/NNP ]
+in/IN 
+[ Cleveland/NNP ]
+,/, 
+[ who/WP ]
+considers/VBZ 
+[ Homestake/NNP ]
+
+[ a/DT buy/NN ]
+./. 
+
+[ He/PRP ]
+had/VBD previously/RB been/VBN estimating/VBG 
+[ Homestake/NNP 's/POS production/NN cost/NN ]
+at/IN 
+[ $/$ 275/CD ]
+
+[ an/DT ounce/NN ]
+./. 
+
+======================================
+
+Even/RB so/RB ,/, 
+[ Mr./NNP Fathi/NNP ]
+says/VBZ ,/, 
+[ rivals/NNS ]
+can/MD produce/VB 
+[ gold/NN ]
+more/RBR cheaply/RB ./. 
+
+[ The/DT lowest-cost/JJS producer/NN ]
+among/IN 
+[ the/DT big/JJ five/CD North/JJ American/JJ gold/NN ]
+mining/NN 
+[ companies/NNS ]
+,/, 
+[ he/PRP ]
+figures/VBZ ,/, is/VBZ 
+[ Newmont/NNP Gold/NNP ]
+,/, at/IN 
+[ $/$ 220/CD ]
+
+[ an/DT ounce/NN ]
+ (/( 
+[ cash/NN basis/NN ]
+ )/) ./. 
+
+Then/RB comes/VBZ 
+[ Echo/NNP Bay/NNP Mines/NNPS ]
+at/IN 
+[ $/$ 235/CD ]
+,/, followed/VBN by/IN 
+[ Placer/NNP Dome/NNP ]
+at/IN 
+[ $/$ 245/CD ]
+and/CC 
+[ American/NNP Barrick/NNP Resources/NNPS ]
+at/IN 
+[ $/$ 250/CD ]
+./. 
+
+[ Some/DT smaller/JJR competitors/NNS ]
+have/VBP 
+[ costs/NNS ]
+below/IN 
+[ $/$ 200/CD ]
+
+[ an/DT ounce/NN ]
+./. 
+
+======================================
+
+[ Homestake/NNP ]
+is/VBZ ``/`` 
+[ a/DT stock/NN ]
+that/IN 
+[ many/JJ people/NNS ]
+criticized/VBD ,/, from/IN 
+[ the/DT mid-1980s/NNS ]
+until/IN now/RB ,/, as/IN 
+[ a/DT high-cost/JJ producer/NN ]
+and/CC 
+[ a/DT slow/JJ grower/NN ]
+,/, ''/'' says/VBZ 
+[ Amy/NNP P./NNP Gassman/NNP ]
+,/, 
+[ a/DT Goldman/NNP Sachs/NNP analyst/NN ]
+./. 
+
+[ She/PRP ]
+thinks/VBZ 
+[ the/DT company/NN ]
+is/VBZ making/VBG 
+[ progress/NN ]
+,/, and/CC calls/VBZ 
+[ it/PRP ]
+``/`` 
+[ attractive/JJ long/JJ term/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ skeptics/NNS ]
+object/VBP 
+[ that/DT Homestake/NNP ]
+is/VBZ selling/VBG for/IN 
+[ 20/CD times/NNS ]
+
+[ the/DT consensus/NN estimate/NN ]
+of/IN 
+[ next/JJ year/NN 's/POS earnings/NNS ]
+,/, and/CC 
+[ 35/CD times/NNS ]
+
+[ this/DT year/NN 's/POS probable/JJ earnings/NNS ]
+./. 
+
+By/IN 
+[ contrast/NN ]
+,/, 
+[ stocks/NNS ]
+in/IN 
+[ general/JJ ]
+are/VBP selling/VBG for/IN about/IN 
+[ 13/CD times/NNS ]
+
+[ this/DT year/NN 's/POS expected/JJ earnings/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT major/JJ North/JJ American/JJ gold/NN companies/NNS ]
+are/VBP trading/VBG at/IN about/IN 
+[ 30/CD times/NNS ]
+ {/( estimated/VBN }/) 
+[ 1990/CD earnings/NNS ]
+at/IN 
+[ $/$ 400/CD gold/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Tumazos/NNP ]
+./. 
+
+``/`` While/IN 
+[ I/PRP ]
+expect/VBP 
+[ gold/NN ]
+to/TO rebound/VB to/TO 
+[ $/$ 400/CD next/JJ year/NN ]
+,/, 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ the/DT stocks/NNS ]
+have/VBP 
+[ a/DT ]
+particularly/RB large/JJ upside/NN ./. 
+
+''/'' 
+======================================
+
+[ Rivals/NNS ]
+such/JJ as/IN 
+[ Echo/NNP Bay/NNP ]
+,/, 
+[ American/NNP Barrick/NNP ]
+and/CC 
+[ Newmont/NNP Gold/NNP ]
+made/VBD 
+[ big/JJ discoveries/NNS ]
+in/IN 
+[ 1987/CD ]
+,/, 
+[ Mr./NNP Tumazos/NNP ]
+says/VBZ ,/, and/CC can/MD afford/VB to/TO cut/VB back/RB considerably/RB on/IN 
+[ exploration/NN ]
+if/IN 
+[ they/PRP ]
+wish/VBP ./. 
+
+[ He/PRP ]
+gives/VBZ 
+[ those/DT stocks/NNS ]
+
+[ a/DT neutral/JJ rating/NN ]
+./. 
+
+Meanwhile/RB ,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ Homestake/NNP ]
+is/VBZ spending/VBG about/IN 
+[ $/$ 35/CD million/CD ]
+ (/( or/CC about/IN 
+[ $/$ 35/CD ]
+per/IN 
+[ ounce/NN ]
+of/IN 
+[ gold/NN ]
+
+[ it/PRP ]
+produces/VBZ )/) on/IN 
+[ exploration/NN ]
+and/CC ca/MD n't/RB cut/VB back/RB without/IN 
+[ undermining/VBG investor/NN confidence/NN ]
+./. 
+
+[ He/PRP ]
+rates/VBZ 
+[ it/PRP ]
+``/`` 
+[ unattractive/JJ ]
+./. 
+
+''/'' 
+======================================
+
+For/IN 
+[ people/NNS ]
+
+[ who/WP ]
+want/VBP 
+[ gold/JJ shares/NNS ]
+,/, ``/`` 
+[ there/EX ]
+are/VBP 
+[ better/JJR stocks/NNS ]
+to/TO own/VB ,/, ''/'' says/VBZ 
+[ Nicholas/NNP Toufexis/NNP ]
+,/, 
+[ analyst/NN ]
+with/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP ]
+./. 
+
+[ He/PRP ]
+likes/VBZ 
+[ Freeport/NNP McMoRan/NNP Gold/NNP ]
+,/, 
+[ Battle/NNP Mountain/NNP Gold/NNP ]
+,/, 
+[ FMC/NNP Gold/NNP ]
+and/CC 
+[ Pegasus/NNP Gold/NNP ]
+./. 
+
+======================================
+
+But/CC if/IN 
+[ the/DT price/NN ]
+of/IN 
+[ gold/NN ]
+rises/VBZ well/RB above/IN 
+[ $/$ 400/CD ]
+
+[ an/DT ounce/NN ]
+,/, 
+[ Mr./NNP Toufexis/NNP notes/VBZ ]
+,/, 
+[ shares/NNS ]
+of/IN 
+[ high-cost/JJ producers/NNS ]
+like/IN 
+[ Homestake/NNP ]
+would/MD benefit/VB 
+[ the/DT most/JJS ]
+:/: 
+[ Their/PRP$ profit/NN margins/NNS ]
+would/MD surge/VB ./. 
+
+For/IN 
+[ that/DT reason/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ sophisticated/JJ gold-share/JJ investors/NNS ]
+sometimes/RB hold/VB 
+[ a/DT mixture/NN ]
+of/IN 
+[ three/CD low-cost/JJ producers/NNS ]
+and/CC 
+[ one/CD high-cost/JJ producer/NN ]
+./. 
+
+======================================
+
+Still/RB there/RB ./. 
+
+[ Yesterday/NN 's/POS edition/NN ]
+of/IN 
+[ Securities/NNPS Week/NNP ]
+,/, 
+[ an/DT industry/NN newsletter/NN ]
+,/, said/VBD that/IN 
+[ John/NNP Connolly/NNP ]
+,/, 
+[ chief/JJ strategist/NN ]
+for/IN 
+[ Dean/NNP Witter/NNP Reynolds/NNP ]
+,/, had/VBD resigned/VBN ./. 
+
+[ That/DT ]
+was/VBD 
+[ news/NN ]
+to/TO 
+[ Mr./NNP Connolly/NNP ]
+,/, 
+[ whose/WP$ authority/NN ]
+as/IN 
+[ a/DT Dean/NNP Witter/NNP spokesman/NN ]
+actually/RB was/VBD strengthened/VBN by/IN 
+[ the/DT recent/JJ departure/NN ]
+of/IN 
+[ veteran/NN strategist/NN John/NNP Mendelson/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'ll/MD have/VB to/TO call/VB {/( 
+[ Securities/NNPS Week/NNP ]
+ }/) and/CC find/VB out/RB where/WRB 
+[ I/PRP ]
+went/VBD ,/, ''/'' 
+[ Mr./NNP Connolly/NNP quipped/VBD ]
+./. 
+
+======================================
+
+[ Homestake/NNP Mining/NNP ]
+
+======================================
+
+ (/( 
+[ NYSE/NNP ]
+;/: 
+[ Symbol/NN ]
+:/: 
+[ HM/NNP ]
+ )/) 
+======================================
+
+[ Business/NN ]
+:/: 
+[ Precious/JJ metals/NNS ]
+mining/NN 
+[ Year/NN ]
+ended/VBN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+:/: 
+======================================
+
+[ Revenue/NN ]
+:/: 
+[ $/$ 432.6/CD million/CD ]
+
+======================================
+
+[ Net/JJ income/NN ]
+:/: 
+[ $/$ 66.4/CD million/CD ]
+;/: or/CC 
+[ 68/CD cents/NNS ]
+
+[ a/DT share/NN ]
+
+======================================
+
+[ Second/JJ quarter/NN ]
+,/, 
+[ June/NNP 30/CD ]
+,/, 
+[ 1989/CD ]
+:/: 
+======================================
+
+[ Per-share/JJ earnings/NNS ]
+:/: 
+[ 22/CD cents/NNS vs./FW 19/CD cents/NNS ]
+ 
+[ \*/SYM ]
+
+======================================
+
+[ Average/JJ daily/JJ trading/NN volume/NN ]
+:/: 
+======================================
+
+[ 258,046/CD shares/NNS ]
+
+======================================
+
+[ Common/JJ shares/NNS ]
+outstanding/JJ :/: 
+[ 96/CD million/CD ]
+
+======================================
+ 
+[ \*/SYM Figures/NNS ]
+include/VBP discontinued/VBN 
+[ operations/NNS ]
+./. 

@@ -1,0 +1,840 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ James/NNP Rill/NNP 's/POS appointment/NN ]
+to/TO head/VB 
+[ the/DT Department/NNP ]
+of/IN 
+[ Justice/NNP 's/POS Antitrust/NNP Division/NNP ]
+has/VBZ met/VBN 
+[ an/DT enthusiastic/JJ approval/NN ]
+that/IN 
+[ other/JJ Bush/NNP administration/NN nominees/NNS ]
+must/MD surely/RB envy/VB ./. 
+
+From/IN 
+[ all/DT points/NNS ]
+of/IN 
+[ the/DT political/JJ compass/NN ]
+,/, 
+[ private/JJ practitioners/NNS ]
+,/, 
+[ legislators/NNS ]
+and/CC 
+[ academics/NNS ]
+have/VBP welcomed/VBN 
+[ Mr./NNP Rill/NNP 's/POS ascent/NN ]
+./. 
+
+======================================
+
+[ The/DT current/JJ wisdom/NN ]
+is/VBZ 
+[ that/DT Mr./NNP Rill/NNP ]
+will/MD arrest/VB 
+[ the/DT rightward/JJ swing/NN ]
+in/IN 
+[ federal/JJ antitrust/JJ activity/NN ]
+and/CC will/MD renew/VB 
+[ enforcement/NN ]
+in/IN 
+[ terrain/NN ]
+largely/RB abandoned/VBN by/IN 
+[ the/DT Reagan/NNP Antitrust/NNP Division/NNP ]
+and/CC 
+[ Federal/NNP Trade/NNP Commission/NNP ]
+./. 
+
+[ The/DT tone/NN ]
+and/CC 
+[ content/NN ]
+of/IN 
+[ Mr./NNP Rill/NNP 's/POS own/JJ statements/NNS ]
+since/IN joining/VBG 
+[ the/DT Justice/NNP Department/NNP ]
+reliably/RB indicate/VBP that/IN 
+[ the/DT center/NN ]
+of/IN 
+[ gravity/NN ]
+of/IN 
+[ federal/JJ enforcement/NN activity/NN ]
+is/VBZ about/IN to/TO move/VB to/TO 
+[ the/DT left/NN ]
+./. 
+
+======================================
+
+[ The/DT doubtful/JJ issue/NN ]
+,/, however/RB ,/, is/VBZ not/RB 
+[ the/DT direction/NN ]
+of/IN 
+[ adjustment/NN ]
+but/CC 
+[ its/PRP$ degree/NN ]
+./. 
+
+Though/IN 
+[ tougher/JJR speeches/NNS ]
+do/VBP foreshadow/VB 
+[ some/DT noteworthy/JJ changes/NNS ]
+in/IN 
+[ federal/JJ policy/NN ]
+,/, 
+[ Mr./NNP Rill/NNP ]
+will/MD probably/RB conserve/VB and/CC consolidate/VB 
+[ the/DT core/NN elements/NNS ]
+of/IN 
+[ the/DT Reagan/NNP antitrust/JJ program/NN ]
+./. 
+
+======================================
+
+[ The/DT Reagan/NNP antitrust/JJ agencies/NNS ]
+adopted/VBD 
+[ a/DT single-minded/JJ focus/NN ]
+upon/IN 
+[ large/JJ horizontal/JJ mergers/NNS ]
+and/CC 
+[ output-restricting/JJ agreements/NNS ]
+among/IN 
+[ direct/JJ competitors/NNS ]
+./. 
+
+[ This/DT reorientation/NN ]
+entailed/VBD 
+[ a/DT break/NN ]
+with/IN 
+[ several/JJ past/JJ antitrust/JJ practices/NNS ]
+./. 
+
+======================================
+
+First/RB ,/, 
+[ the/DT Reagan/NNP enforcement/NN agencies/NNS ]
+largely/RB removed/VBD 
+[ the/DT government/NN ]
+from/IN 
+[ the/DT business/NN ]
+of/IN scrutinizing/VBG 
+[ exclusionary/JJ ]
+or/CC 
+[ abusive/JJ conduct/NN ]
+by/IN 
+[ dominant/JJ firms/NNS ]
+./. 
+
+From/IN 
+[ 1981/CD ]
+through/IN 
+[ 1988/CD ]
+,/, 
+[ the/DT Justice/NNP Department/NNP ]
+and/CC 
+[ the/DT Federal/NNP Trade/NNP Commission/NNP ]
+initiated/VBD 
+[ three/CD cases/NNS ]
+enforcing/VBG 
+[ the/DT Sherman/NNP Act/NNP 's/POS ban/NN ]
+on/IN 
+[ monopolization/NN ]
+and/CC attempted/VBN 
+[ monopolization/NN ]
+./. 
+
+[ This/DT level/NN ]
+of/IN 
+[ federal/JJ enforcement/NN activity/NN ]
+was/VBD 
+[ the/DT lowest/JJS ]
+in/IN 
+[ any/DT eight-year/JJ period/NN ]
+since/IN 
+[ 1900/CD ]
+./. 
+
+======================================
+
+[ Second/NNP ]
+,/, 
+[ the/DT Reagan/NNP enforcement/NN agencies/NNS ]
+stopped/VBD enforcing/VBG 
+[ rules/NNS ]
+
+[ that/WDT ]
+limited/VBD 
+[ a/DT manufacturer/NN 's/POS choice/NN ]
+of/IN 
+[ distribution/NN methods/NNS ]
+./. 
+
+[ So-called/JJ vertical/JJ distribution/NN restraints/NNS ]
+,/, such/JJ as/IN 
+[ resale/NN price/NN maintenance/NN ]
+,/, had/VBD been/VBN 
+[ a/DT recurring/VBG target/NN ]
+of/IN 
+[ federal/JJ enforcement/NN ]
+in/IN 
+[ the/DT post/NN World/NNP War/NNP II/NNP era/NN ]
+,/, but/CC 
+[ the/DT Reagan/NNP Justice/NNP Department/NNP ]
+filed/VBD 
+[ no/DT vertical-restraint/JJ cases/NNS ]
+./. 
+
+[ Reagan/NNP officials/NNS ]
+often/RB said/VBD 
+[ they/PRP ]
+would/MD prosecute/VB ``/`` economically/RB 
+[ sound/JJ ]
+''/'' 
+[ vertical-restraints/NNS cases/NNS ]
+,/, but/CC 
+[ they/PRP ]
+seldom/RB concealed/VBD 
+[ their/PRP$ belief/NN ]
+that/IN 
+[ such/JJ matters/NNS ]
+were/VBD as/RB common/JJ as/IN 
+[ unicorns/NNS ]
+./. 
+
+======================================
+
+[ Third/JJ ]
+,/, 
+[ the/DT Reagan/NNP antitrust/JJ agencies/NNS ]
+substantially/RB redirected/VBD 
+[ public/JJ merger/NN enforcement/NN ]
+./. 
+
+[ The/DT administration/NN ]
+frequently/RB declined/VBD to/TO challenge/VB 
+[ mergers/NNS ]
+
+[ that/WDT ]
+increased/VBD 
+[ market/NN concentrations/NNS ]
+beyond/IN 
+[ thresholds/NNS ]
+established/VBN in/IN 
+[ its/PRP$ own/JJ guidelines/NNS ]
+./. 
+
+[ Parties/NNS ]
+to/TO 
+[ proposed/VBN transactions/NNS ]
+also/RB benefited/VBN from/IN extremely/RB 
+[ favorable/JJ assumptions/NNS ]
+about/IN 
+[ the/DT ability/NN ]
+of/IN 
+[ new/JJ entrants/NNS ]
+or/CC 
+[ existing/VBG fringe/NN firms/NNS ]
+to/TO defeat/VB 
+[ any/DT effort/NN ]
+by/IN 
+[ the/DT merged/VBN entity/NN ]
+to/TO reduce/VB 
+[ output/NN ]
+and/CC 
+[ raise/VB prices/NNS ]
+./. 
+
+======================================
+
+Finally/RB ,/, 
+[ the/DT focus/NN ]
+of/IN 
+[ Reagan/NNP non-merger/JJ enforcement/NN activity/NN ]
+shifted/VBD heavily/RB to/TO 
+[ smaller/JJR firms/NNS ]
+./. 
+
+From/IN 
+[ 1973/CD ]
+through/IN 
+[ the/DT arrival/NN ]
+of/IN 
+[ Reagan/NNP appointees/NNS ]
+in/IN 
+[ 1981/CD ]
+,/, 
+[ the/DT federal/JJ antitrust/JJ agencies/NNS ]
+brought/VBD 
+[ a/DT total/NN ]
+of/IN 
+[ 108/CD non-merger/JJ cases/NNS ]
+involving/VBG 
+[ Fortune/NNP 500/CD companies/NNS ]
+./. 
+
+From/IN 
+[ 1981/CD ]
+through/IN 
+[ 1988/CD ]
+,/, that/DT 
+[ number/NN ]
+fell/VBD to/TO 
+[ 11/CD ]
+./. 
+
+[ This/DT trend/NN ]
+was/VBD particularly/RB evident/JJ in/IN 
+[ the/DT federal/JJ government/NN 's/POS efforts/NNS ]
+to/TO prosecute/VB 
+[ horizontal/JJ price-fixing/NN ]
+,/, 
+[ bid-rigging/NN ]
+and/CC 
+[ market-allocation/JJ schemes/NNS ]
+./. 
+
+From/IN 
+[ 1973-1981/CD ]
+to/TO 
+[ 1981-1988/CD ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ such/JJ cases/NNS ]
+involving/VBG 
+[ Fortune/NNP 500/CD firms/NNS ]
+dropped/VBD from/IN 
+[ 47/CD ]
+to/TO 
+[ 8/CD ]
+./. 
+
+[ Critics/NNS ]
+argue/VBP that/IN 
+[ the/DT Reagan/NNP administration/NN ]
+pursued/VBD 
+[ an/DT aggressive/JJ campaign/NN ]
+to/TO collar/VB 
+[ a/DT hapless/JJ ]
+,/, economically/RB 
+[ trivial/JJ parade/NN ]
+of/IN 
+[ asphalt/JJ suppliers/NNS ]
+,/, 
+[ lawyers/NNS ]
+for/IN 
+[ indigent/JJ criminal/JJ defendants/NNS ]
+,/, moving/NN and/CC 
+[ storage/NN firms/NNS ]
+,/, 
+[ bakeries/NNS ]
+,/, 
+[ individual/JJ physicians/NNS ]
+,/, 
+[ obscure/JJ trade/NN associations/NNS ]
+and/CC 
+[ a/DT host/NN ]
+of/IN 
+[ other/JJ commercial/JJ pygmies/NNS ]
+./. 
+
+======================================
+
+[ The/DT Rill/NNP Antitrust/NNP Division/NNP ]
+will/MD not/RB likely/RB depart/VB significantly/RB from/IN 
+[ these/DT enforcement/NN approaches/NNS ]
+./. 
+
+[ The/DT most/RBS immediate/JJ ]
+and/CC 
+[ fundamental/JJ constraint/NN ]
+upon/IN 
+[ a/DT dramatic/JJ reinvigoration/NN ]
+of/IN 
+[ forsaken/VBN antitrust/JJ approaches/NNS ]
+is/VBZ 
+[ the/DT success/NN ]
+of/IN 
+[ the/DT Reagan/NNP reduction/NN ]
+of/IN 
+[ the/DT government/NN 's/POS antitrust/JJ infrastructure/NN ]
+./. 
+
+[ Mr./NNP Rill/NNP ]
+and/CC 
+[ FTC/NNP Chairman/NNP Janet/NNP Steiger/NNP ]
+have/VBP inherited/VBN 
+[ organizations/NNS ]
+
+[ that/WDT ]
+are/VBP roughly/RB 
+[ half/PDT their/PRP$ size/NN ]
+of/IN 
+[ 10/CD years/NNS ]
+ago/RB ./. 
+
+[ Today/NN ]
+,/, 
+[ both/DT ]
+
+[ agencies/NNS ]
+have/VBP 
+[ their/PRP$ hands/NNS ]
+full/JJ keeping/VBG abreast/RB of/IN 
+[ the/DT existing/VBG flow/NN ]
+of/IN 
+[ merger/NN investigations/NNS ]
+and/CC 
+[ horizontal-restraints/NNS matters/NNS ]
+./. 
+
+[ Current/JJ ]
+and/CC 
+[ forseeable/JJ resource/NN limitations/NNS ]
+will/MD preclude/VB 
+[ the/DT pursuit/NN ]
+of/IN 
+[ more/JJR ]
+than/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ new/JJ cases/NNS ]
+designed/VBN to/TO attack/VB 
+[ dominant/JJ firm/JJ exclusionary/JJ conduct/NN ]
+or/CC 
+[ vertical/JJ restraints/NNS ]
+./. 
+
+======================================
+
+Even/RB if/IN 
+[ Congress/NNP ]
+were/VBD to/TO increase/VB 
+[ antitrust/JJ expenditures/NNS ]
+,/, 
+[ the/DT Antitrust/NNP Division/NNP ]
+would/MD find/VB 
+[ it/PRP ]
+difficult/JJ to/TO recruit/VB and/CC 
+[ retrain/VB talented/JJ attorneys/NNS ]
+to/TO pursue/VB 
+[ an/DT expanded/VBN enforcement/NN agenda/NN ]
+./. 
+
+[ Joseph/NNP Schumpeter/NNP ]
+noted/VBD that/IN ``/`` 
+[ A/DT good/JJ bureaucracy/NN ]
+is/VBZ 
+[ a/DT slow/JJ growth/NN ]
+and/CC can/MD not/RB be/VB created/VBN at/IN 
+[ will/NN ]
+./. 
+
+''/'' 
+[ The/DT opportunity/NN costs/NNS ]
+for/IN 
+[ bright/JJ law-school/JJ graduates/NNS ]
+considering/VBG 
+[ a/DT job/NN ]
+with/IN 
+[ a/DT federal/JJ agency/NN ]
+are/VBP staggering/JJ ./. 
+
+[ The/DT entry-level/JJ Justice/NNP Department/NNP wage/NN ]
+of/IN about/RB 
+[ $/$ 29,000/CD lags/VBZ ]
+roughly/RB 
+[ $/$ 40,000/CD ]
+to/TO 
+[ $/$ 50,000/CD ]
+behind/IN 
+[ the/DT going/VBG rate/NN ]
+at/IN 
+[ major/JJ law/NN firms/NNS ]
+in/IN 
+[ Washington/NNP ]
+or/CC 
+[ New/NNP York/NNP ]
+./. 
+
+Even/RB with/IN 
+[ promises/NNS ]
+of/IN 
+[ a/DT role/NN ]
+in/IN 
+[ a/DT ]
+``/`` rejuvenated/VBN ''/'' 
+[ antitrust/JJ program/NN ]
+,/, 
+[ Mr./NNP Rill/NNP ]
+faces/VBZ 
+[ a/DT daunting/VBG task/NN ]
+in/IN getting/VBG 
+[ the/DT upper/JJ strata/NNS ]
+of/IN 
+[ the/DT talent/NN pool/NN ]
+to/TO join/VB ,/, and/CC remain/VB with/IN ,/, 
+[ the/DT Antitrust/NNP Division/NNP ]
+./. 
+
+Indeed/RB ,/, 
+[ Mr./NNP Rill/NNP 's/POS biggest/JJS challenge/NN ]
+will/MD be/VB to/TO reverse/VB 
+[ an/DT erosion/NN ]
+of/IN 
+[ human/JJ capital/NN ]
+that/IN ,/, unless/IN impeded/VBN ,/, will/MD turn/VB 
+[ the/DT division/NN ]
+into/IN 
+[ a/DT second/JJ ]
+ -/: or/CC 
+[ third-rate/JJ law/NN office/NN ]
+./. 
+
+======================================
+
+[ A/DT second/JJ reason/NN ]
+to/TO expect/VB 
+[ general/JJ consistency/NN ]
+between/IN 
+[ Reagan/NNP ]
+and/CC 
+[ Bush/NNP enforcement/NN policy/NN ]
+is/VBZ 
+[ Mr./NNP Rill/NNP 's/POS awareness/NN ]
+of/IN 
+[ modern/JJ antitrust/JJ enforcement/NN history/NN ]
+./. 
+
+Despite/IN 
+[ calls/NNS ]
+for/IN 
+[ more/RBR aggressive/JJ enforcement/NN ]
+against/IN 
+[ single-firm/JJ conduct/NN ]
+,/, 
+[ Mr./NNP Rill/NNP ]
+knows/VBZ that/IN 
+[ the/DT government/NN ]
+fared/VBD poorly/RB in/IN 
+[ the/DT 1970s/NNS ] 
+when/WRB pursuing/VBG 
+[ large-firm/JJ attempted/VBN monopolization/NN ]
+and/CC 
+[ monopolization/NN cases/NNS ]
+./. 
+
+Not/RB only/RB have/VBP 
+[ these/DT cases/NNS ]
+often/RB exceeded/VBN 
+[ the/DT institutional/JJ capabilities/NNS ]
+of/IN 
+[ the/DT enforcement/NN agencies/NNS ]
+,/, but/CC 
+[ federal/JJ judges/NNS ]
+have/VBP endorsed/VBN relatively/RB 
+[ permissive/JJ standards/NNS ]
+governing/VBG 
+[ large-firm/JJ ]
+pricing/VBG ,/, 
+[ product/NN development/NN ]
+and/CC 
+[ promotional/JJ behavior/NN ]
+./. 
+
+[ These/DT cases/NNS ]
+are/VBP high-risk/JJ ,/, 
+[ resource-intensive/JJ ventures/NNS ]
+,/, and/CC 
+[ it/PRP ]
+would/MD be/VB surprising/JJ for/IN 
+[ the/DT Bush/NNP Antitrust/NNP Division/NNP ]
+to/TO undertake/VB more/JJR than/IN 
+[ a/DT few/JJ ]
+of/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+Although/IN 
+[ important/JJ personnel/NNS ]
+and/CC 
+[ policy/NN considerations/NNS ]
+point/VBP away/RB from/IN 
+[ substantial/JJ adjustments/NNS ]
+in/IN 
+[ enforcement/NN policy/NN ]
+,/, 
+[ modest/JJ expansion/NN ]
+in/IN 
+[ merger/NN enforcement/NN ]
+is/VBZ likely/JJ ./. 
+
+[ Experience/NN ]
+with/IN 
+[ the/DT government/NN 's/POS merger/NN guidelines/NNS ]
+during/IN 
+[ the/DT Reagan/NNP administration/NN ]
+resembled/VBD 
+[ the/DT typical/JJ baseball/NN umpire/NN 's/POS interpretation/NN ]
+of/IN 
+[ the/DT strike/NN zone/NN ]
+./. 
+
+[ The/DT Reagan/NNP merger/NN guidelines/NNS ]
+established/VBD 
+[ a/DT nominal/JJ strike/NN zone/NN ]
+
+[ that/WDT ]
+extended/VBD from/IN 
+[ the/DT letters/NNS ]
+down/RB to/TO 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT knee/NN ]
+,/, but/CC 
+[ the/DT enforcement/NN agencies/NNS ]
+rarely/RB called/VBD 
+[ strikes/NNS ]
+on/IN 
+[ pitches/NNS ]
+above/IN 
+[ the/DT belt/NN ]
+./. 
+
+[ The/DT Rill/NNP Antitrust/NNP Division/NNP ]
+seems/VBZ likely/JJ to/TO revive/VB 
+[ the/DT high/JJ strike/NN ]
+./. 
+
+======================================
+
+[ Bush/NNP antitrust/JJ officials/NNS ]
+may/MD not/RB attack/VB 
+[ a/DT ]
+substantially/RB 
+[ greater/JJR number/NN ]
+of/IN 
+[ mergers/NNS ]
+than/IN 
+[ the/DT Reagan/NNP administration/NN ]
+,/, but/CC 
+[ their/PRP$ choice/NN ]
+of/IN 
+[ cases/NNS ]
+will/MD signal/VB 
+[ an/DT intent/NN ]
+to/TO apply/VB 
+[ a/DT tighter/JJR mesh/NN ]
+./. 
+
+[ The/DT Antitrust/NNP Division/NNP 's/POS treatment/NN ]
+of/IN 
+[ Coors/NNP 's/POS proposed/VBN acquisition/NN ]
+of/IN 
+[ Stroh/NNP Brewing/NNP ]
+will/MD indicate/VB where/WRB 
+[ Mr./NNP Rill/NNP ]
+plans/VBZ to/TO draw/VB 
+[ the/DT line/NN ]
+./. 
+
+======================================
+
+Like/IN 
+[ the/DT Rill/NNP appointment/NN ]
+at/IN 
+[ the/DT Justice/NNP Department/NNP ]
+,/, 
+[ Richard/NNP Schmalensee/NNP 's/POS confirmation/NN ]
+as/IN 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT president/NN 's/POS Council/NNP ]
+of/IN 
+[ Economic/NNP Advisers/NNP ]
+suggests/VBZ 
+[ a/DT moderation/NN ]
+of/IN 
+[ the/DT Reagan/NNP antitrust/JJ program/NN ]
+./. 
+
+Though/IN sympathetic/JJ to/TO 
+[ the/DT modern/JJ retrenchment/NN ]
+of/IN 
+[ antitrust/JJ ]
+,/, 
+[ Mr./NNP Schmalensee/NNP ]
+has/VBZ cautioned/VBN that/IN 
+[ some/DT concepts/NNS ]
+have/VBP been/VBN carried/VBN to/TO 
+[ unsupportable/JJ extremes/NNS ]
+./. 
+
+[ Two/CD years/NNS ]
+ago/RB ,/, for/IN 
+[ example/NN ]
+,/, 
+[ he/PRP ]
+suggested/VBD that/IN 
+[ defendants/NNS ]
+in/IN 
+[ merger/NN cases/NNS ]
+bear/VBP 
+[ a/DT heavier/JJR burden/NN ]
+of/IN 
+[ proof/NN ]
+when/WRB claiming/VBG ``/`` 
+[ ease/NN ]
+of/IN 
+[ entry/NN ]
+''/'' in/IN 
+[ an/DT industry/NN ]
+in/IN 
+[ order/NN ]
+to/TO gain/VB 
+[ approval/NN ]
+for/IN 
+[ transactions/NNS ]
+in/IN 
+[ concentrated/VBN markets/NNS ]
+./. 
+
+======================================
+
+[ A/DT second/JJ area/NN ]
+destined/VBN for/IN 
+[ some/DT expansion/NN ]
+is/VBZ 
+[ vertical-restraints/NNS enforcement/NN ]
+./. 
+
+[ The/DT prosecution/NN ]
+of/IN 
+[ an/DT occasional/JJ vertical-restraints/NNS case/NN ]
+would/MD coincide/VB with/IN 
+[ Mr./NNP Rill/NNP 's/POS pledges/NNS ]
+to/TO enforce/VB existing/VBG 
+[ prohibitions/NNS ]
+against/IN 
+[ distribution/NN practices/NNS ]
+such/JJ as/IN 
+[ resale/NN price/NN maintenance/NN ]
+./. 
+
+Unlike/IN 
+[ Reagan/NNP antitrust/JJ officials/NNS ]
+,/, 
+[ Mr./NNP Rill/NNP 's/POS specifications/NNS ]
+for/IN 
+[ an/DT acceptable/JJ case/NN ]
+will/MD generate/VB 
+[ genuine/JJ enforcement/NN possibilities/NNS ]
+./. 
+
+Bringing/VBG 
+[ an/DT occasional/JJ case/NN ]
+also/RB would/MD permit/VB 
+[ the/DT federal/JJ agencies/NNS ]
+to/TO reassert/VB 
+[ control/NN ]
+over/IN 
+[ a/DT field/NN ]
+of/IN 
+[ enforcement/NN ]
+
+[ that/WDT ]
+has/VBZ fallen/VBN by/IN 
+[ default/NN ]
+to/TO increasingly/RB 
+[ active/JJ state/NN attorneys/NNS ]
+general/JJ ./. 
+
+Because/IN 
+[ recent/JJ Supreme/NNP Court/NNP decisions/NNS ]
+have/VBP increased/VBN 
+[ the/DT burden/NN ]
+that/IN 
+[ plaintiffs/NNS ]
+must/MD bear/VB to/TO challenge/VB 
+[ vertical/JJ restraints/NNS ]
+,/, 
+[ the/DT output/NN ]
+of/IN 
+[ new/JJ federal/JJ cases/NNS ]
+probably/RB will/MD be/VB small/JJ ./. 
+
+======================================
+
+[ The/DT Antitrust/NNP Division/NNP 's/POS enforcement/NN net/NN ]
+also/RB may/MD begin/VB to/TO yield/VB 
+[ a/DT greater/JJR number/NN ]
+of/IN 
+[ large/JJ companies/NNS ]
+in/IN 
+[ non-merger/JJ cases/NNS ]
+./. 
+
+For/IN 
+[ several/JJ years/NNS ]
+,/, 
+[ the/DT Justice/NNP Department/NNP ]
+has/VBZ been/VBN examining/VBG 
+[ the/DT conduct/NN ]
+of/IN 
+[ major/JJ defense-industry/JJ firms/NNS ]
+./. 
+
+[ Attention/NN ]
+to/TO 
+[ collective/JJ ]
+or/CC 
+[ single-firm/JJ behavior/NN ]
+in/IN 
+[ this/DT ]
+and/CC 
+[ other/JJ procurement/NN markets/NNS ]
+could/MD ensnare/VB 
+[ companies/NNS ]
+of/IN 
+[ considerable/JJ size/NN ]
+./. 
+
+[ The/DT U.S./NNP ]
+might/MD wisely/RB channel/VB 
+[ some/DT resources/NNS ]
+toward/IN studying/VBG how/WRB 
+[ competition/NN policy/NN ]
+might/MD be/VB used/VBN to/TO improve/VB 
+[ the/DT weapons-acquisition/NN process/NN ]
+--/: arguably/RB 
+[ the/DT most/RBS ]
+overlooked/VBN and/CC 
+[ most/RBS important/JJ candidate/NN ]
+for/IN 
+[ deregulation/NN experiments/NNS today/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kovacic/NNP ]
+,/, formerly/RB with/IN 
+[ the/DT FTC/NNP ]
+,/, teaches/VBZ 
+[ law/NN ]
+at/IN 
+[ George/NNP Mason/NNP University/NNP ]
+./. 

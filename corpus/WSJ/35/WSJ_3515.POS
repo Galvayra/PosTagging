@@ -1,0 +1,831 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT following/NN ]
+were/VBD among/IN 
+[ yesterday/NN 's/POS offerings/NNS ]
+and/CC 
+[ pricings/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ non-U.S./JJ capital/NN markets/NNS ]
+,/, with/IN 
+[ terms/NNS ]
+and/CC 
+[ syndicate/NN manager/NN ]
+,/, as/IN compiled/VBN by/IN 
+[ Dow/NNP Jones/NNP Capital/NNP Markets/NNP Report/NNP ]
+:/: 
+======================================
+
+[ Sysco/NNP Corp./NNP ]
+--/: 
+[ $/$ 330/CD million/CD redemption/NN amount/NN ]
+of/IN 
+[ zero-coupon/JJ convertible/JJ notes/NNS ]
+,/, also/RB known/VBN as/IN 
+[ liquid/JJ yield/NN options/NNS notes/NNS ]
+,/, 
+[ due/JJ Oct./NNP 12/CD ]
+,/, 
+[ 2004/CD ]
+,/, priced/VBN at/IN 
+[ $/$ 397.27/CD ]
+for/IN 
+[ each/DT $/$ 1,000/CD note/NN ]
+to/TO yield/VB 
+[ 6.25/CD %/NN ]
+at/IN 
+[ maturity/NN ]
+./. 
+
+[ The/DT notes/NNS ]
+are/VBP 
+[ zero-coupon/JJ securities/NNS ]
+and/CC will/MD not/RB pay/VB 
+[ interest/NN ]
+periodically/RB ./. 
+
+[ The/DT notes/NNS ]
+are/VBP convertible/JJ into/IN 
+[ common/JJ ]
+at/IN 
+[ $/$ 32.4156/CD ]
+
+[ a/DT share/NN ]
+,/, representing/VBG 
+[ a/DT 15/CD %/NN conversion/NN premium/NN ]
+over/IN 
+[ yesterday/NN 's/POS closing/VBG price/NN ]
+./. 
+
+[ Rated/VBN Baa-1/NNP ]
+by/IN 
+[ Moody/NNP 's/POS Investors/NNP Service/NNP Inc./NNP ]
+and/CC 
+[ triple-B-plus/NNP ]
+by/IN 
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS Corp./NNP ]
+,/, 
+[ the/DT issue/NN ]
+will/MD be/VB sold/VBN through/IN 
+[ Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP ]
+./. 
+
+======================================
+
+[ Atlantic/NNP City/NNP Electric/NNP Co./NNP ]
+--/: 
+[ $/$ 135/CD million/CD ]
+of/IN 
+[ first/JJ mortgage/NN bonds/NNS due/JJ Oct./NNP 1/CD ]
+,/, 
+[ 2019/CD ]
+,/, won/VBN in/IN 
+[ competitve/JJ bidding/NN ]
+by/IN 
+[ Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP ]
+and/CC reoffered/VBN with/IN 
+[ a/DT 9/CD 1\/4/CD %/NN coupon/NN rate/NN ]
+at/IN 
+[ 98.10/CD ]
+to/TO yield/VB 
+[ 9.44/CD %/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP non-refundable/JJ for/IN 
+[ five/CD years/NNS ]
+./. 
+
+[ Rated/NNP single-A-2/NNP ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ single-A-plus/NNP ]
+by/IN 
+[ S&P/NNP ]
+,/, 
+[ the/DT issue/NN ]
+is/VBZ being/VBG offered/VBN at/IN 
+[ a/DT spread/NN ]
+of/IN 
+[ 128/CD basis/NN points/NNS ]
+above/IN 
+[ the/DT Treasury/NNP 's/POS 30-year/JJ bond/NN ]
+./. 
+
+======================================
+
+[ Joy/NNP Technologies/NNP Inc./NNP ]
+--/: 
+[ $/$ 120/CD million/CD ]
+of/IN 
+[ 13/CD %/NN resettable/JJ senior/JJ secured/VBN notes/NNS ]
+at/IN 
+[ par/NN ]
+./. 
+
+[ The/DT notes/NNS ]
+are/VBP due/JJ May/NNP 
+[ 15/CD ]
+,/, 
+[ 1996/CD ]
+,/, and/CC are/VBP being/VBG 
+[ underwritten/NN ]
+by/IN 
+[ Goldman/NNP Sachs/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+[ Transamerica/NNP Finance/NNP Group/NNP Inc./NNP ]
+--/: 
+[ $/$ 100/CD million/CD ]
+of/IN 
+[ 8/CD 3\/4/CD %/NN ]
+notes/NNS 
+[ due/JJ Oct./NNP 1/CD ]
+,/, 
+[ 1999/CD ]
+,/, priced/VBN at/IN 
+[ 99.955/CD ]
+to/TO yield/VB 
+[ 8.76/CD %/NN ]
+./. 
+
+[ Rated/VBN single-A-2/NNP ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ single-A-plus/NNP ]
+by/IN 
+[ S&P/NNP ]
+,/, 
+[ the/DT issue/NN ]
+will/MD be/VB sold/VBN through/IN 
+[ underwriters/NNS ]
+led/VBN by/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ The/DT issue/NN ]
+is/VBZ non-callable/JJ and/CC is/VBZ puttable/JJ back/RB to/TO 
+[ the/DT company/NN ]
+in/IN 
+[ five/CD years/NNS ]
+./. 
+
+[ The/DT issue/NN ]
+was/VBD priced/VBN at/IN 
+[ 50/CD basis/NN points/NNS ]
+above/IN 
+[ the/DT Treasury/NNP 's/POS five-year/JJ note/NN ]
+./. 
+
+======================================
+
+[ Philadelphia/NNP Electric/NNP Co./NNP ]
+--/: 
+[ $/$ 100/CD million/CD ]
+of/IN 
+[ first/JJ ]
+and/CC 
+[ refunding/VBG mortgage/NN bonds/NNS due/JJ Oct./NNP 1/CD ]
+,/, 
+[ 2019/CD ]
+,/, won/VBN in/IN 
+[ competitive/JJ bidding/NN ]
+by/IN 
+[ a/DT group/NN ]
+led/VBN by/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+and/CC reoffered/VBD with/IN 
+[ a/DT 9/CD 7\/8/CD %/NN coupon/NN rate/NN ]
+at/IN 
+[ 99.335/CD ]
+to/TO yield/VB 
+[ 9.944/CD %/NN ]
+./. 
+
+[ Rated/NNP Baa-3/NNP ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ triple-B-minus/NNP ]
+by/IN 
+[ S&P/NNP ]
+,/, 
+[ the/DT issue/NN ]
+was/VBD priced/VBN at/IN 
+[ a/DT spread/NN ]
+of/IN 
+[ 178/CD basis/NN points/NNS ]
+above/IN 
+[ the/DT Treasury/NNP 's/POS 30-year/JJ note/NN ]
+./. 
+
+[ The/DT issue/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ non-refundable/JJ for/IN 
+[ five/CD years/NNS ]
+,/, is/VBZ refundable/JJ during/IN 
+[ the/DT last/JJ 10/CD years/NNS ]
+at/IN 
+[ par/NN ]
+./. 
+
+======================================
+
+[ Philadelphia/NNP Electric/NNP Co./NNP ]
+--/: 
+[ $/$ 75/CD million/CD ]
+of/IN 
+[ first/JJ ]
+and/CC 
+[ refunding/VBG mortgage/NN bonds/NNS due/JJ Oct./NNP 1/CD ]
+,/, 
+[ 1999/CD ]
+,/, won/VBN in/IN 
+[ competitive/JJ bidding/NN ]
+by/IN 
+[ PaineWebber/NNP Inc./NNP ]
+and/CC reoffered/VBN with/IN 
+[ a/DT 9/CD 1\/4/CD %/NN coupon/NN ]
+at/IN 
+[ 99.80/CD ]
+to/TO yield/VB 
+[ 9.28/CD %/NN ]
+./. 
+
+[ The/DT non-callable/JJ issue/NN ]
+is/VBZ rated/VBN 
+[ Baa-3/NNP ]
+by/IN 
+[ Moody/NNP 's/POS ]
+and/CC 
+[ triple-B-minus/NNP ]
+by/IN 
+[ S&P/NNP ]
+./. 
+
+[ It/PRP ]
+was/VBD priced/VBN at/IN 
+[ a/DT spread/NN ]
+of/IN 
+[ 105/CD basis/NN points/NNS ]
+above/IN 
+[ the/DT Treasury/NNP 's/POS 10-year/JJ note/NN ]
+./. 
+
+======================================
+
+[ California/NNP Housing/NNP Finance/NNP Agency/NNP ]
+--/: 
+[ $/$ 79.2/CD million/CD ]
+of/IN 
+[ home/NN mortgage/NN revenue/NN bonds/NNS ]
+,/, 
+[ 1989/CD Series/NNP E/NNP ]
+,/, with/IN 
+[ current/JJ interest/NN bonds/NNS due/JJ 1993-1999/CD ]
+,/, 
+[ 2009/CD ]
+,/, 
+[ 2019/CD ]
+and/CC 
+[ 2029/CD ]
+,/, and/CC 
+[ capital/NN appreciation/NN bonds/NNS due/JJ 2000-2005/JJ ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Merrill/NNP Lynch/NNP Capital/NNP Markets/NNP group/NN ]
+to/TO yield/VB from/IN 
+[ 6.50/CD %/NN ]
+in/IN 
+[ 1993/CD ]
+to/TO 
+[ 7.70/CD %/NN ]
+in/IN 
+[ 2029/CD ]
+./. 
+
+[ Serial/JJ bonds/NNS ]
+are/VBP priced/VBN at/IN 
+[ par/NN ]
+to/TO yield/VB from/IN 
+[ 6.50/CD %/NN ]
+in/IN 
+[ 1993/CD ]
+to/TO 
+[ 7.10/CD %/NN ]
+in/IN 
+[ 1999/CD ]
+./. 
+
+[ Capital/NN appreciation/NN bonds/NNS ]
+yield/VBP to/TO 
+[ maturity/NN ]
+from/IN 
+[ 7.15/CD %/NN ]
+in/IN 
+[ 2000/CD ]
+to/TO 
+[ 7.40/CD %/NN ]
+in/IN 
+[ 2005/CD ]
+./. 
+
+[ Term/NN bonds/NNS due/JJ 2009/CD ]
+have/VBP 
+[ a/DT 7.55/CD %/NN coupon/NN ]
+and/CC are/VBP priced/VBN at/IN 
+[ par/NN ]
+./. 
+
+[ Term/NN bonds/NNS due/JJ 2019/CD ]
+have/VBP 
+[ a/DT 7.65/CD %/NN coupon/NN ]
+at/IN 
+[ par/NN ]
+./. 
+
+[ The/DT $/$ 44.9/CD million/CD ]
+of/IN 
+[ term/NN bonds/NNS due/JJ 2029/CD ]
+,/, 
+[ the/DT largest/JJS maturity/NN ]
+of/IN 
+[ the/DT issue/NN ]
+,/, have/VBP 
+[ a/DT 7.70/CD %/NN coupon/NN ]
+at/IN 
+[ par/NN ]
+./. 
+
+[ Interest/NN ]
+on/IN 
+[ the/DT bonds/NNS ]
+will/MD be/VB treated/VBN as/IN 
+[ a/DT preference/NN item/NN ]
+in/IN calculating/VBG 
+[ the/DT federal/JJ alternative/JJ minimum/NN tax/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP rated/VBN 
+[ double-A\/NNP ]
+,/, according/VBG to/TO 
+[ the/DT lead/NN underwriter/NN ]
+./. 
+
+======================================
+
+[ Detroit/NNP ]
+--/: 
+[ $/$ 70/CD million/CD ]
+of/IN 
+[ sewerage/NN disposal/NN system/NN revenue/NN bonds/NNS ]
+,/, 
+[ Series/NNP 1989/CD ]
+,/, due/RB 
+[ 1990-2004/CD ]
+and/CC 
+[ 2019/CD ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Goldman/NNP Sachs/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+to/TO yield/VB from/IN 
+[ 6/CD %/NN ]
+in/IN 
+[ 1990/CD ]
+to/TO 
+[ 7.417/CD %/NN ]
+in/IN 
+[ 2019/CD ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ $/$ 60.8/CD million/CD ]
+of/IN 
+[ 7/CD 1\/8/CD %/NN term/NN bonds/NNS due/JJ July/NNP 1/CD ]
+,/, 
+[ 2019/CD ]
+,/, priced/VBN at/IN 
+[ 96/CD 1\/2/CD ]
+to/TO yield/VB 
+[ 7.417/CD %/NN ]
+./. 
+
+[ Serial/JJ bonds/NNS ]
+are/VBP priced/VBN at/IN 
+[ par/NN ]
+to/TO yield/VB from/IN 
+[ 6/CD %/NN ]
+in/IN 
+[ 1990/CD ]
+to/TO 
+[ 7.25/CD %/NN ]
+in/IN 
+[ 2003/CD ]
+and/CC 
+[ 2004/CD ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP rated/VBN 
+[ single-A\/NNP ]
+,/, according/VBG to/TO 
+[ the/DT lead/NN underwriter/NN ]
+./. 
+
+======================================
+
+[ Kentucky/NNP Development/NNP Finance/NNP Authority/NNP ]
+--/: 
+[ $/$ 68.5/CD million/CD ]
+of/IN 
+[ hospital/NN revenue/NN bonds/NNS ]
+,/, 
+[ Baptist/NNP Hospitals/NNP Issue/NNP ]
+,/, 
+[ Series/NNP 1989/CD ]
+,/, due/RB 
+[ 1992-1999/CD ]
+,/, 
+[ 2002/CD ]
+,/, 
+[ 2006/CD ]
+and/CC 
+[ 2015/CD ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Goldman/NNP Sachs/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+to/TO yield/VB from/IN 
+[ 6.35/CD %/NN ]
+in/IN 
+[ 1992/CD ]
+to/TO 
+[ 7.358/CD %/NN ]
+in/IN 
+[ 2015/CD ]
+./. 
+
+[ Serial/JJ bonds/NNS ]
+are/VBP priced/VBN to/TO yield/VB from/IN 
+[ 6.35/CD %/NN ]
+in/IN 
+[ 1992/CD ]
+to/TO 
+[ 6.95/CD %/NN ]
+in/IN 
+[ 1999/CD ]
+./. 
+
+[ Term/NN bonds/NNS due/JJ 2002/CD ]
+have/VBP 
+[ a/DT 7/CD %/NN coupon/NN ]
+and/CC are/VBP priced/VBN at/IN 
+[ 98.329/CD ]
+to/TO yield/VB 
+[ 7.20/CD %/NN ]
+./. 
+
+[ Term/NN bonds/NNS due/JJ 2006/CD ]
+have/VBP 
+[ a/DT 7.20/CD %/NN coupon/NN ]
+at/IN 
+[ 99.026/CD ]
+to/TO yield/VB 
+[ 7.30/CD %/NN ]
+./. 
+
+[ The/DT $/$ 30.1/CD million/CD ]
+of/IN 
+[ term/NN bonds/NNS due/JJ 2015/CD ]
+,/, 
+[ the/DT largest/JJS maturity/NN ]
+of/IN 
+[ the/DT issue/NN ]
+,/, have/VBP 
+[ a/DT 7/CD 1\/4/CD %/NN coupon/NN ]
+at/IN 
+[ 98/CD 3\/4/CD ]
+to/TO yield/VB 
+[ 7.358/CD %/NN ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP insured/VBN and/CC 
+[ triple-A-rated/JJ ]
+./. 
+
+======================================
+
+[ Port/NNP Everglades/NNP Authority/NNP ]
+,/, 
+[ Fla./NNP ]
+--/: 
+[ $/$ 50.7/CD million/CD ]
+of/IN 
+[ port/JJ facilities/NNS senior/JJ revenue/NN bonds/NNS ]
+,/, 
+[ Series/NNP 1989-B/NNP ]
+,/, due/RB 
+[ 1991-2000/CD ]
+,/, tentatively/RB priced/VBN by/IN 
+[ a/DT Bear/NNP Stearns/NNP ]
+&/CC 
+[ Co./NNP group/NN ]
+to/TO yield/VB from/IN 
+[ 6.25/CD %/NN ]
+in/IN 
+[ 1991/CD ]
+to/TO 
+[ 7.05/CD %/NN ]
+in/IN 
+[ 2000/CD ]
+./. 
+
+[ The/DT bonds/NNS ]
+are/VBP insured/VBN and/CC 
+[ triple-A-rated/JJ ]
+./. 
+
+======================================
+
+[ Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP ]
+--/: 
+[ $/$ 185/CD million/CD ]
+of/IN 
+[ Remic/JJ mortgage/NN securities/NNS ]
+offered/VBN in/IN 
+[ 12/CD classes/NNS ]
+by/IN 
+[ Goldman/NNP Sachs/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ The/DT offering/NN ]
+,/, 
+[ Freddie/NNP Mac/NNP 's/POS Series/NN 97/CD ]
+,/, is/VBZ backed/VBN by/IN 
+[ Freddie/NNP Mac/NNP mortgage/NN securites/NNS ]
+collateralized/VBN by/IN 
+[ 15-year/JJ ]
+``/`` 
+[ Homeowners/NNP Key/NNP ]
+''/'' 
+[ mortgages/NNS ]
+originated/VBN by/IN 
+[ Citicorp/NN ]
+./. 
+
+[ The/DT Homeowners/NNP Key/NNP ]
+mortgages/VBZ 
+[ feature/NN payments/NNS ]
+
+[ that/WDT ]
+rise/VBP by/IN 
+[ 7.5/CD %/NN ]
+annually/RB before/IN leveling/VBG off/RP at/IN 
+[ an/DT amount/NN ]
+sufficient/JJ to/TO amortize/VB 
+[ the/DT mortgages/NNS ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ no/DT potential/NN ]
+for/IN 
+[ negative/JJ amortization/NN ]
+,/, because/IN 
+[ homeowners/NNS ]
+must/MD make/VB up/IN 
+[ interest/NN shortfalls/NNS ]
+in/IN 
+[ cash/NN ]
+./. 
+
+[ The/DT offering/NN ]
+is/VBZ being/VBG made/VBN at/IN 
+[ market/NN prices/NNS ]
+./. 
+
+Among/IN 
+[ classes/NNS ]
+for/IN 
+[ which/WDT details/NNS ]
+were/VBD available/JJ ,/, 
+[ yields/NNS ]
+ranged/VBD from/IN 
+[ 9.06/CD %/NN ]
+,/, or/CC 
+[ 60/CD basis/NN points/NNS ]
+above/IN 
+[ one-year/JJ Treasury/NNP securities/NNS ]
+,/, to/TO 
+[ 9.89/CD %/NN ]
+,/, or/CC 
+[ 155/CD basis/NN points/NNS ]
+above/IN 
+[ seven-year/JJ Treasurys/NNPS ]
+./. 
+
+[ Collateral/NN ]
+consists/VBZ of/IN 
+[ Freddie/NNP Mac/NNP 15-year/CD mortgage/NN securities/NNS ]
+with/IN 
+[ an/DT ]
+underlying/VBG 
+[ weighted/JJ average/JJ coupon/NN rate/NN ]
+of/IN 
+[ 11/CD %/NN ]
+and/CC weighted/VBD 
+[ average/JJ term/NN ]
+to/TO 
+[ maturity/NN ]
+of/IN 
+[ 14.5/CD years/NNS ]
+./. 
+
+======================================
+
+[ Credit/NNP Lyonnais/NNP ]
+ (/( 
+[ France/NNP ]
+ )/) --/: 
+[ 10/CD billion/CD yen/NNS ]
+of/IN 
+[ Eurobonds/NNS due/JJ Nov./NNP 21/CD ]
+,/, 
+[ 2004/CD ]
+,/, at/IN 
+[ 102.25/CD ]
+./. 
+
+[ Coupon/NN ]
+of/IN 
+[ 7/CD %/NN ]
+in/IN 
+[ sterling/JJ ]
+until/IN 
+[ 1999/CD ]
+,/, then/RB 
+[ coupon/NN ]
+will/MD be/VB set/VBN at/IN 
+[ one/CD point/NN ]
+above/IN 
+[ the/DT Japanese/JJ long-term/JJ prime/JJ rate/NN ]
+,/, with/IN 
+[ payments/NNS ]
+to/TO be/VB denominated/VBN in/IN 
+[ yen/NNS ]
+./. 
+
+Call/NN 
+[ provision/NN ]
+in/IN 
+[ November/NNP 1999/CD ]
+./. 
+
+[ Lead/NN manager/NN Credit/NNP Lyonnais/NNP ]
+./. 
+
+[ Fees/NNS 2/CD 1\/4/CD ]
+./. 
+
+======================================
+
+[ Dai-Ichi/NNP Corp/NNP ]
+./. 
+
+ (/( 
+[ Japan/NNP ]
+ )/) --/: 
+[ 200/CD million/CD Swiss/JJ francs/NNS ]
+of/IN privately/RB placed/VBN 
+[ convertible/JJ notes/NNS due/JJ March/NNP 31/CD ]
+,/, 
+[ 1994/CD ]
+,/, with/IN 
+[ an/DT indicated/VBN 0.25/CD %/NN coupon/NN ]
+at/IN 
+[ par/NN ]
+via/IN 
+[ Union/NNP Bank/NNP ]
+of/IN 
+[ Switzerland/NNP ]
+./. 
+
+Put/NN 
+[ option/NN ]
+on/IN 
+[ March/NNP 31/CD ]
+,/, 
+[ 1992/CD ]
+,/, at/IN 
+[ an/DT indicated/VBN 109/CD 1\/8/CD ]
+to/TO yield/VB 
+[ 3.89/CD %/NN ]
+./. 
+
+[ Each/DT 50,000/CD Swiss/JJ franc/NN note/NN ]
+is/VBZ convertible/JJ from/IN 
+[ Nov./NNP 13/CD ]
+,/, 
+[ 1989/CD ]
+,/, to/TO 
+[ March/NNP 17/CD ]
+,/, 
+[ 1994/CD ]
+,/, at/IN 
+[ a/DT 5/CD %/NN premium/NN ]
+over/IN 
+[ the/DT closing/VBG share/NN price/NN Wednesday/NNP ]
+,/, when/WRB 
+[ terms/NNS ]
+will/MD be/VB fixed/VBN ./. 
+
+[ Fees/NNS 1/CD 3\/4/CD ]
+./. 
+
+======================================
+
+[ Taikisha/NNP Ltd/NNP ]
+./. 
+
+ (/( 
+[ Japan/NNP ]
+ )/) --/: 
+[ 60/CD million/CD Swiss/JJ francs/NNS ]
+of/IN privately/RB placed/VBN 
+[ convertible/JJ notes/NNS due/JJ March/NNP 31/CD ]
+,/, 
+[ 1995/CD ]
+,/, with/IN 
+[ an/DT indicated/VBN 0.25/CD %/NN coupon/NN ]
+at/IN 
+[ par/NN ]
+via/IN 
+[ Yamaichi/NNP Bank/NNP Switzerland/NNP ]
+./. 
+
+Put/NN 
+[ option/NN ]
+on/IN 
+[ March/NNP 31/CD ]
+,/, 
+[ 1992/CD ]
+,/, at/IN 
+[ an/DT indicated/VBN 109/CD 1\/4/CD ]
+to/TO yield/VB 
+[ 3.89/CD %/NN ]
+./. 
+
+[ Each/DT 50,000/CD Swiss/JJ franc/NN note/NN ]
+is/VBZ convertible/JJ from/IN 
+[ Nov./NNP 6/CD ]
+,/, 
+[ 1989/CD ]
+,/, to/TO 
+[ March/NNP 17/CD ]
+,/, 
+[ 1995/CD ]
+,/, at/IN 
+[ a/DT 5/CD %/NN premium/NN ]
+over/IN 
+[ the/DT closing/VBG share/NN price/NN Wednesday/NNP ]
+,/, when/WRB 
+[ terms/NNS ]
+will/MD be/VB fixed/VBN ./. 
+
+[ Fees/NNS 1/CD 3\/4/CD ]
+./. 

@@ -1,0 +1,211 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Tokio/NNP Marine/NNP ]
+&/CC 
+[ Fire/NNP Insurance/NNP Co./NNP ]
+of/IN 
+[ Tokyo/NNP ]
+agreed/VBD to/TO pay/VB 
+[ $/$ 42/CD million/CD ]
+for/IN 
+[ a/DT 10/CD %/NN stake/NN ]
+in/IN 
+[ Delaware/NNP Management/NNP Holdings/NNP Inc./NNP ]
+,/, in/IN 
+[ the/DT latest/JJS Japanese/JJ linkup/NN ]
+with/IN 
+[ a/DT U.S./NNP money-management/NN firm/NN ]
+./. 
+
+======================================
+
+[ The/DT price/NN ]
+agreed/VBN to/TO by/IN 
+[ the/DT world/NN 's/POS largest/JJS property/NN ]
+and/CC 
+[ casualty/NN insurance/NN company/NN ]
+places/VBZ 
+[ an/DT indicated/VBN value/NN ]
+on/IN 
+[ the/DT Philadelphia/NNP money-management/NN firm/NN ]
+far/RB exceeding/JJ that/DT paid/VBN in/IN 
+[ a/DT leveraged/JJ ]
+buy-out/NN of/IN 
+[ Delaware/NNP Management/NNP last/JJ year/NN ]
+./. 
+
+Since/IN 
+[ the/DT buy-out/NN ]
+,/, 
+[ Delaware/NNP Management/NNP 's/POS assets/NNS ]
+under/IN 
+[ management/NN ]
+have/VBP increased/VBN about/IN 
+[ a/DT third/JJ ]
+to/TO almost/RB 
+[ $/$ 24/CD billion/CD ]
+./. 
+
+======================================
+
+[ A/DT leveraged-buy-out/JJ fund/NN ]
+organized/VBN by/IN 
+[ New/NNP York/NNP merchant/NN bank/NN Castle/NNP Harlan/NNP Inc./NNP ]
+and/CC including/VBG 
+[ Delaware/NNP Management/NNP 's/POS top/JJ executives/NNS ]
+acquired/VBD 
+[ the/DT firm/NN ]
+for/IN 
+[ $/$ 305/CD million/CD ]
+in/IN 
+[ mid-1988/CD ]
+./. 
+
+Most/JJS of/IN 
+[ the/DT acquisition/NN price/NN ]
+represented/VBD 
+[ assumption/NN ]
+of/IN 
+[ Delaware/NNP Management/NNP 's/POS debt/NN ]
+,/, 
+[ which/WDT ]
+now/RB stands/VBZ at/IN 
+[ $/$ 200/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT $/$ 42/CD million/CD Tokio/NNP Marine/NNP ]
+agreed/VBD to/TO pay/VB suggests/VBZ that/IN 
+[ acquisition/NN ]
+of/IN 
+[ Delaware/NNP Management/NNP today/NN ]
+would/MD have/VB 
+[ an/DT indicated/VBN cost/NN ]
+of/IN 
+[ $/$ 420/CD million/CD ]
+plus/CC 
+[ the/DT assumption/NN ]
+of/IN 
+[ $/$ 200/CD million/CD ]
+in/IN 
+[ debt/NN ]
+./. 
+
+[ Delaware/NNP Management/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD use/VB 
+[ the/DT money/NN ]
+from/IN 
+[ Tokio/NNP Marine/NNP ]
+to/TO reduce/VB 
+[ debt/NN ]
+./. 
+
+======================================
+
+[ Delaware/NNP Management/NNP ]
+'s/POS sharply/RB 
+[ higher/JJR value/NN ]
+``/`` reflects/VBZ 
+[ both/PDT ]
+
+[ the/DT ]
+ {/( rising/VBG }/) 
+[ stock/NN market/NN ]
+and/CC how/WRB well/RB 
+[ the/DT company/NN ]
+has/VBZ performed/VBN ,/, ''/'' said/VBD 
+[ Leonard/NNP Harlan/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Castle/NNP Harlan/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Delaware/NNP Management/NNP ]
+and/CC 
+[ Tokio/NNP Marine/NNP ]
+would/MD handle/VB 
+[ investments/NNS ]
+in/IN 
+[ each/DT other/JJ ]
+
+[ 's/POS markets/NNS ]
+,/, giving/VBG 
+[ clients/NNS ]
+``/`` 
+[ a/DT two-way/JJ street/NN ]
+with/IN 
+[ asset/NN managers/NNS ]
+on/IN 
+[ both/DT ]
+
+[ sides/NNS ]
+of/IN 
+[ the/DT Pacific/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Tokio/NNP Marine/NNP ]
+,/, 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT Mitsubishi/NNP Group/NNP ]
+,/, will/MD receive/VB 
+[ a/DT seat/NN ]
+on/IN 
+[ Delaware/NNP Management/NNP 's/POS board/NN ]
+and/CC can/MD assign/VB 
+[ six/CD professionals/NNS ]
+to/TO obtain/VB training/VBG from/IN 
+[ the/DT U.S./NNP firm/NN ]
+./. 
+
+Closing/VBG for/IN 
+[ the/DT accord/NN ]
+is/VBZ expected/VBN 
+[ next/JJ month/NN ]
+./. 
+
+======================================
+
+[ Nikko/NNP Securities/NNPS Co./NNP ]
+of/IN 
+[ Japan/NNP last/JJ summer/NN ]
+agreed/VBD to/TO buy/VB 
+[ a/DT 50/CD %/NN stake/NN ]
+in/IN 
+[ Wells/NNP Fargo/NNP Bank/NNP 's/POS money-management/NN operation/NN ]
+for/IN 
+[ $/$ 125/CD million/CD ]
+./. 
+
+[ Other/JJ Japanese/JJ firms/NNS ]
+have/VBP 
+[ joint/JJ ventures/NNS ]
+with/IN or/CC 
+[ ownership/NN stakes/NNS ]
+in/IN 
+[ U.S./NNP money/NN managers/NNS ]
+./. 

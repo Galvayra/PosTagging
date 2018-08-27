@@ -1,0 +1,850 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Executives/NNS ]
+at/IN 
+[ employee-owned/JJ companies/NNS ]
+have/VBP 
+[ a/DT warning/NN ]
+for/IN 
+[ management/NN ]
+at/IN 
+[ UAL/NNP Corp/NNP ]
+:/: 
+[ There/EX ]
+'s/VBZ 
+[ turbulence/NN ]
+ahead/RB ./. 
+
+======================================
+
+Assuming/VBG that/IN 
+[ the/DT $/$ 6.75/CD billion/CD acquisition/NN ]
+hammered/VBN out/IN by/IN 
+[ the/DT pilots/NNS union/NN ]
+,/, 
+[ senior/JJ managers/NNS ]
+and/CC 
+[ British/NNP Airways/NNPS ]
+is/VBZ completed/VBN ,/, 
+[ employees/NNS ]
+will/MD own/VB 
+[ 85/CD %/NN ]
+of/IN 
+[ United/NNP Airlines/NNPS ]
+,/, making/VBG 
+[ it/PRP ]
+
+[ the/DT nation/NN 's/POS largest/JJS worker-owned/JJ company/NN ]
+./. 
+
+As/IN 
+[ such/JJ ]
+,/, 
+[ it/PRP ]
+better/RB be/VB ready/JJ for/IN 
+[ skillful/JJ maneuvers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ theory/NN ]
+,/, with/IN 
+[ a/DT worker-owned/JJ company/NN ]
+
+[ the/DT old/JJ labor-management/NN antagonism/NN dissolves/VBZ ]
+./. 
+
+[ Enthusiastic/JJ workers/NNS ]
+suggest/VBP 
+[ ways/NNS ]
+to/TO improve/VB 
+[ operations/NNS ]
+and/CC 
+[ an/DT ]
+equally/RB 
+[ eager/JJ management/NN ]
+welcomes/VBZ 
+[ the/DT ideas/NNS ]
+./. 
+
+In/IN 
+[ reality/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ n't/RB 
+[ that/RB simple/JJ ]
+./. 
+
+======================================
+
+[ Top/JJ executives/NNS ]
+find/VBP 
+[ themselves/PRP ]
+answering/VBG to/TO 
+[ novice/NN owners/NNS ]
+--/: from/IN 
+[ baggage/NN handlers/NNS ]
+to/TO 
+[ shop/NN stewards/NNS ]
+--/: 
+[ who/WP ]
+want/VBP 
+[ a/DT say/NN ]
+in/IN 
+[ decision-making/NN ]
+./. 
+
+``/`` 
+[ A/DT guy/NN ]
+
+[ whose/WP$ brother/NN ]
+owned/VBD 
+[ a/DT trucking/NN company/NN ]
+thought/VBD 
+[ his/PRP$ brother/NN ]
+should/MD be/VB delivering/VBG 
+[ steel/NN ]
+,/, ''/'' recalls/VBZ 
+[ a/DT manager/NN ]
+at/IN 
+[ National/NNP Steel/NNP Co./NNP ]
+,/, 
+[ which/WDT ]
+sold/VBD 
+[ its/PRP$ Weirton/NNP Steel/NNP division/NN ]
+to/TO 
+[ employees/NNS ]
+in/IN 
+[ 1983/CD ]
+./. 
+
+Yet/RB if/IN 
+[ suggestions/NNS ]
+are/VBP ignored/VBN ,/, 
+[ workers/NNS ]
+feel/VBP betrayed/VBN ./. 
+
+======================================
+
+``/`` If/IN 
+[ the/DT management/NN style/NN ]
+is/VBZ such/JJ that/IN 'I'm/VBP  
+[ the/DT ultimate/JJ decision-maker/NN ]
+and/CC 
+[ no/DT upstart/NN union/NN member/NN ]
+can/MD tell/VB 
+[ me/PRP ]
+differently/RB ,/, '/'' 
+[ you/PRP ]
+'re/VBP in/IN 
+[ big/JJ trouble/NN ]
+,/, ''/'' says/VBZ 
+[ Joseph/NNP V./NNP Vittoria/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ employee-owned/JJ Avis/NNP Inc/NNP ]
+./. 
+
+[ Mr./NNP Vittoria/NNP ]
+,/, 
+[ who/WP ]
+invites/VBZ 
+[ employees/NNS ]
+to/TO ``/`` Just/RB call/VB 
+[ me/PRP ]
+
+[ Joe/NNP ]
+,/, ''/'' says/VBZ 
+[ he/PRP ]
+presents/VBZ virtually/RB 
+[ the/DT same/JJ information/NN ]
+to/TO 
+[ employees/NNS ]
+that/IN 
+[ he/PRP ]
+does/VBZ 
+[ the/DT banks/NNS ]
+./. 
+
+======================================
+
+[ Employee-owned/JJ companies/NNS ]
+can/MD work/VB ,/, as/IN 
+[ the/DT viability/NN ]
+of/IN 
+[ Weirton/NNP ]
+and/CC 
+[ Avis/NNP ]
+show/VBP ./. 
+
+While/IN 
+[ management/NN ]
+is/VBZ still/RB 
+[ thrashing/NN ]
+out/IN 
+[ details/NNS ]
+on/IN how/WRB 
+[ UAL/NNP ]
+will/MD be/VB run/VBN ,/, 
+[ officials/NNS ]
+hope/VBP past/JJ 
+[ cooperative/JJ efforts/NNS ]
+will/MD provide/VB 
+[ a/DT foundation/NN ]
+for/IN 
+[ the/DT new/JJ organization/NN ]
+./. 
+
+Even/RB during/IN 
+[ a/DT heated/VBN contract/NN ]
+dispute/NN 
+[ a/DT few/JJ months/NNS ]
+back/IN ,/, 
+[ pilots/NNS ]
+and/CC 
+[ management/NN ]
+jointly/RB pressed/VBD 
+[ the/DT Transportation/NNP Department/NNP ]
+for/IN 
+[ a/DT new/JJ route/NN ]
+to/TO 
+[ Tokyo/NNP ]
+,/, 
+[ a/DT company/NN spokesman/NN ]
+says/VBZ ./. 
+
+``/`` 
+[ The/DT common/JJ interest/NN ]
+of/IN 
+[ common/JJ ownership/NN ]
+will/MD supersede/VB 
+[ any/DT parochial/JJ concerns/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+predicts/VBZ ./. 
+
+======================================
+
+Privately/RB ,/, however/RB ,/, 
+[ some/DT UAL/NNP officials/NNS ]
+fear/VBP 
+[ the/DT pilots/NNS union/NN ]
+may/MD try/VB to/TO muscle/VB in/IN on/IN 
+[ management/NN duties/NNS ]
+./. 
+
+[ It/PRP ]
+was/VBD 
+[ a/DT coup/NN ]
+that/IN ,/, under/IN 
+[ the/DT takeover/NN pact/NN ]
+,/, 
+[ labor/NN representatives/NNS ]
+on/IN 
+[ the/DT board/NN ]
+will/MD have/VB 
+[ the/DT right/NN ]
+to/TO block/VB 
+[ major/JJ corporate/JJ decisions/NNS ]
+like/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ routes/NNS ]
+or/CC 
+[ aircraft/NN ]
+,/, or/CC 
+[ the/DT acquisition/NN ]
+of/IN 
+[ another/DT carrier/NN ]
+./. 
+
+======================================
+
+[ Pilots/NNS union/NN chief/NN Frederick/NNP C./NNP Dubinsky/NNP ]
+insists/VBZ that/IN ``/`` 
+[ the/DT pilots/NNS ]
+have/VBP never/RB said/VBN 
+[ they/PRP ]
+want/VBP to/TO run/VB 
+[ the/DT airline/NN ]
+./. 
+
+''/'' 
+[ The/DT provision/NN ]
+on/IN 
+[ major/JJ corporate/JJ decisions/NNS ]
+is/VBZ merely/RB to/TO ``/`` prevent/VB 
+[ the/DT kind/NN ]
+of/IN 
+[ situation/NN ]
+
+[ we/PRP ]
+had/VBD 
+[ a/DT few/JJ years/NNS ]
+ago/IN where/WRB 
+[ management/NN ]
+was/VBD taking/VBG 
+[ money/NN ]
+from/IN 
+[ the/DT airline/NN ]
+to/TO buy/VB 
+[ hotels/NNS ]
+and/CC 
+[ other/JJ businesses/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Even/RB if/IN 
+[ the/DT pilots/NNS union/NN ]
+and/CC 
+[ management/NN ]
+make/VBP 
+[ their/PRP$ peace/NN ]
+,/, 
+[ there/EX ]
+will/MD be/VB 
+[ the/DT machinists/NNS union/NN ]
+to/TO deal/VB with/IN ./. 
+
+[ The/DT machinists/NNS '/POS financial/JJ adviser/NN ]
+has/VBZ accused/VBN 
+[ the/DT pilots/NNS union/NN ]
+of/IN using/VBG ``/`` 
+[ blue-collar-mail/JJ ]
+''/'' to/TO force/VB 
+[ the/DT other/JJ unions/NNS ]
+to/TO support/VB 
+[ their/PRP$ bid/NN ]
+``/`` just/RB so/IN 
+[ they/PRP ]
+can/MD declare/VB 
+[ victory/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Successful/JJ employee-owned/JJ companies/NNS ]
+require/VBP 
+[ abrupt/JJ culture/NN changes/NNS ]
+and/CC 
+[ top/JJ management/NN ]
+must/MD set/VB 
+[ the/DT tone/NN ]
+./. 
+
+At/IN 
+[ UAL/NNP ]
+,/, 
+[ the/DT first/JJ change/NN ]
+,/, 
+[ observers/NNS ]
+say/VBP ,/, must/MD come/VB from/IN 
+[ chairman/NN Stephen/NNP M./NNP Wolf/NNP ]
+./. 
+
+Known/VBN as/IN 
+[ a/DT cool/JJ ]
+,/, reserved/VBN 
+[ executive/NN ]
+,/, 
+[ he/PRP ]
+will/MD have/VB to/TO overcome/VB 
+[ his/PRP$ distance/NN ]
+from/IN 
+[ labor/NN ]
+and/CC 
+[ start/VB meeting/VBG union/NN members/NNS ]
+face/NN to/TO face/NN ./. 
+
+======================================
+
+In/IN 
+[ 1987/CD ]
+,/, after/IN 
+[ Avis/NNP ]
+agreed/VBD to/TO 
+[ an/DT employee/NN stock/NN ownership/NN plan/NN ]
+,/, or/CC 
+[ ESOP/NNP ]
+,/, 
+[ Mr./NNP Vittoria/NNP ]
+spent/VBD most/JJS of/IN 
+[ his/PRP$ time/NN ]
+traveling/VBG to/TO 
+[ dozens/NNS ]
+of/IN 
+[ cities/NNS ]
+,/, explaining/VBG 
+[ the/DT concept/NN ]
+to/TO 
+[ workers/NNS ]
+./. 
+
+[ He/PRP ]
+continues/VBZ to/TO hold/VB 
+[ regular/JJ employee/NN sessions/NNS ]
+./. 
+
+Initially/RB ,/, 
+[ reaction/NN ]
+was/VBD skeptical/JJ ./. 
+
+``/`` 
+[ We/PRP ]
+got/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ 'Hey/UH ]
+,/, wait/VB 
+[ a/DT minute/NN ]
+./. 
+
+Why/WRB 
+[ are/VBP you/PRP ]
+suddenly/RB giving/VBG 
+[ me/PRP ]
+
+[ stock/NN ]
+?/. 
+
+[ What/WP ]
+'s/VBZ it/PRP going/VBG to/TO cost/VB 
+[ me/PRP ]
+?/. 
+
+'/'' ``/`` 
+[ Mr./NNP Vittoria/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT selling/VBG job/NN ]
+was/VBD even/RB harder/JJR at/IN 
+[ Weirton/NNP Steel/NNP ]
+,/, where/WRB 
+[ employees/NNS ]
+were/VBD asked/VBN to/TO make/VB 
+[ substantial/JJ wage/NN ]
+and/CC 
+[ benefit/NN concessions/NNS ]
+,/, 
+[ a/DT situation/NN ]
+similar/JJ to/TO 
+[ what/WP ]
+
+[ UAL/NNP ]
+faces/VBZ ./. 
+
+[ Union/NN leaders/NNS ]
+and/CC 
+[ management/NN ]
+in/IN 
+[ the/DT small/JJ West/NNP Virginia/NNP steel/NN town/NN ]
+addressed/VBD 
+[ church/NN groups/NNS ]
+and/CC manned/VBD 
+[ a/DT booth/NN ]
+at/IN 
+[ the/DT county/NN ]
+fair/JJ to/TO explain/VB 
+[ the/DT ESOP/NNP ]
+./. 
+
+``/`` 
+[ One/CD ]
+
+[ big/JJ fear/NN ]
+always/RB associated/VBN with/IN 
+[ an/DT ESOP/NNP ]
+is/VBZ whether/IN 
+[ it/PRP ]
+'s/VBZ really/RB 
+[ a/DT union-busting/JJ tactic/NN ]
+,/, ''/'' says/VBZ 
+[ Walter/NNP Bish/NNP ]
+,/, 
+[ former/JJ union/NN president/NN ]
+and/CC now/RB 
+[ Weirton/NNP 's/POS manager/NN ]
+of/IN 
+[ government/NN affairs/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ Mr./NNP Bish/NNP ]
+says/VBZ 
+[ workers/NNS ]
+soon/RB evolved/VBD from/IN 
+[ laborers/NNS ]
+to/TO 
+[ business/NN people/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+went/VBD from/IN 
+[ asking/VBG 'Why/WRB ]
+did/VBD 
+[ those/DT no-good-bums/NNS ]
+cut/VB 
+[ us/PRP ]
+loose/RB ,/, '/'' to/TO 
+[ 'Who/WP ]
+is/VBZ going/VBG to/TO lend/VB 
+[ us/PRP ]
+
+[ money/NN ]
+at/IN 
+[ what/WDT interest/NN rates/NNS ]
+?/. 
+
+'/'' ``/`` 
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ certain/JJ labor-management/NN distinctions/NNS ]
+must/MD remain/VB ./. 
+
+When/WRB 
+[ workers/NNS ]
+came/VBD to/TO 
+[ Mr./NNP Bish/NNP ]
+complaining/VBG about/IN 
+[ a/DT supervisor/NN ]
+,/, arguing/VBG that/IN as/IN 
+[ owners/NNS they/PRP ]
+should/MD have/VB hiring/NN and/CC 
+[ firing/NN rights/NNS ]
+,/, 
+[ he/PRP ]
+put/VBD 
+[ his/PRP$ foot/NN ]
+down/IN ./. 
+
+======================================
+
+[ Front-line/NN supervisors/NNS ]
+often/RB have/VBP 
+[ the/DT hardest/JJS time/NN ]
+with/IN 
+[ worker/NN suggestions/NNS ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+have/VBP 
+[ a/DT manager/NN ]
+out/IN 
+[ there/EX ]
+
+[ who/WP ]
+is/VBZ insecure/JJ because/IN 
+[ a/DT machinist/NN ]
+comes/VBZ up/IN with/IN 
+[ a/DT better/JJR idea/NN ]
+,/, 
+[ you/PRP ]
+have/VBP 
+[ a/DT problem/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Vittoria/NNP ]
+./. 
+
+[ Avis/NNP ]
+says/VBZ 
+[ workers/NNS '/POS ideas/NNS ]
+--/: such/JJ as/IN 
+[ rental/JJ cars/NNS ]
+for/IN 
+[ non-smokers/NNS ]
+and/CC 
+[ gas/NN pump/NN islands/NNS ]
+redesigned/VBD so/IN 
+[ tires/NNS ]
+do/VBP n't/RB rub/VB against/IN 
+[ them/PRP ]
+--/: have/VBP been/VBN implemented/VBN ,/, bolstering/VBG 
+[ morale/NN ]
+./. 
+
+======================================
+
+[ Officers/NNS ]
+have/VBP to/TO understand/VB and/CC balance/VB 
+[ both/DT labor/NN ]
+and/CC 
+[ management/NN ]
+./. 
+
+[ Lee/NNP Irish/NNP ]
+,/, 
+[ a/DT partner/NN ]
+with/IN 
+[ law/NN firm/NN Jones/NNP ]
+,/, 
+[ Day/NNP ]
+,/, 
+[ Reavis/NNP ]
+&/CC 
+[ Pogue/NNP ]
+
+[ who/WP ]
+has/VBZ structured/VBN 
+[ ESOPs/NNS ]
+,/, 
+[ points/VBZ ]
+to/TO 
+[ ill-fated/JJ Rath/NNP Packing/NNP Co./NNP ]
+,/, where/WRB 
+[ a/DT union/NN chief/NN ]
+took/VBD over/IN as/IN 
+[ president/NN ]
+of/IN 
+[ the/DT meatpacker/NN ]
+only/RB to/TO fall/VB out/IN of/IN 
+[ favor/NN ]
+with/IN 
+[ his/PRP$ own/JJ union/NN ]
+over/IN 
+[ a/DT contract/NN dispute/NN ]
+./. 
+
+[ Strikes/NNS ]
+and/CC 
+[ plant/NN idlings/NNS ]
+helped/VBD cripple/VB 
+[ the/DT company/NN ]
+,/, 
+[ which/WDT ]
+ultimately/RB filed/VBD for/IN 
+[ bankruptcy/NN protection/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ UAL/NNP ]
+,/, 
+[ employees/NNS ]
+and/CC 
+[ managers/NNS ]
+will/MD 
+[ each/DT ]
+receive/VB 
+[ three/CD ]
+of/IN 
+[ 15/CD board/NN seats/NNS ]
+,/, leaving/VBG 
+[ the/DT majority/NN ]
+with/IN 
+[ outside/JJ directors/NNS ]
+./. 
+
+[ Both/PDT  ]
+
+[ the/DT pilots/NNS union/NN ]
+and/CC 
+[ management/NN ]
+wanted/VBD 
+[ such/PDT an/DT arrangement/NN ]
+,/, to/TO make/VB 
+[ sure/JJ ]
+neither/CC 
+[ side/NN ]
+could/MD stack/VB 
+[ the/DT board/NN ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ management/NN ]
+will/MD continue/VB to/TO hold/VB 
+[ an/DT upper/JJ hand/NN ]
+because/IN 
+[ it/PRP ]
+will/MD nominate/VB 
+[ the/DT outside/JJ directors/NNS ]
+,/, although/IN 
+[ UAL/NNP ]
+will/MD consult/VB 
+[ the/DT union/NN ]
+regarding/VBG 
+[ nominees/NNS ]
+,/, and/CC 
+[ labor/NN ]
+can/MD suggest/VB 
+[ its/PRP$ own/JJ candidates/NNS ]
+./. 
+
+[ Mr./NNP Dubinsky/NNP ]
+,/, 
+[ a/DT probable/JJ board/NN member/NN ]
+,/, has/VBZ hinted/VBN 
+[ that/IN labor/NN ]
+may/MD insist/VB that/IN 
+[ some/DT current/JJ directors/NNS ]
+not/RB return/VB ./. 
+
+======================================
+
+[ One/CD risk/NN ]
+of/IN 
+[ a/DT mixed/VBN board/NN ]
+is/VBZ that/IN 
+[ it/PRP ]
+can/MD become/VB 
+[ a/DT ]
+``/`` 
+[ parliament/NN ]
+where/WRB 
+[ people/NNS ]
+express/VBP 
+[ the/DT views/NNS ]
+of/IN 
+[ their/PRP$ constituents/NNS ]
+''/'' rather/RB than/IN solve/VBP 
+[ company/NN problems/NNS ]
+,/, says/VBZ 
+[ Eugene/NNP Keilin/NNP ]
+,/, 
+[ general/JJ partner/NN ]
+of/IN 
+[ Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ who/WP ]
+worked/VBD on/IN 
+[ both/PDT ]
+
+[ the/DT Weirton/NNP ]
+and/CC 
+[ UAL/NNP ESOPs/NNS ]
+./. 
+
+[ Infighting/NN ]
+between/IN 
+[ union/NN ]
+and/CC 
+[ management/NN representatives/NNS ]
+on/IN 
+[ the/DT board/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, contributed/VBD to/TO 
+[ the/DT problems/NNS ]
+at/IN 
+[ Hyatt-Clark/NNP Industries/NNPS Inc./NNP ]
+,/, 
+[ an/DT employee-owned/JJ bearings/NNS maker/NN ]
+
+[ that/WDT ]
+filed/VBD for/IN 
+[ bankruptcy/NN protection/NN ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+[ They/PRP ]
+squabbled/VBD over/IN how/WRB 
+[ much/JJ authority/NN workers/NNS ]
+should/MD have/VB in/IN 
+[ the/DT selection/NN ]
+of/IN 
+[ management/NN ]
+and/CC how/WRB 
+[ money/NN ]
+should/MD be/VB spent/VBN ./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ why/WRB at/IN 
+[ Weirton/NNP ]
+,/, 
+[ Mr./NNP Keilin/NNP ]
+--/: not/RB 
+[ management/NN ]
+--/: compiled/VBD 
+[ the/DT list/NN ]
+of/IN 
+[ outside/JJ candidates/NNS ]
+and/CC screened/VBD 
+[ them/PRP ]
+to/TO make/VB 
+[ sure/JJ ]
+
+[ none/NN ]
+had/VBD 
+[ a/DT history/NN ]
+of/IN 
+[ sour/JJ labor/NN relations/NNS ]
+or/CC 
+[ an/DT autocratic/JJ style/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT hard/JJ balancing/NN act/NN ]
+./. 
+
+[ Weirton/NNP 's/POS Mr./NNP Bish/NNP ]
+says/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT toughest/JJS things/NNS ]
+for/IN 
+[ him/PRP ]
+was/VBD 
+[ his/PRP$ first/JJ board/NN meeting/NN ]
+./. 
+
+``/`` Here/RB 
+[ I/PRP ]
+was/VBD ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ,/, ``/`` going/VBG into/IN 
+[ the/DT board/NN room/NN ]
+as/IN 
+[ president/NN ]
+of/IN 
+[ the/DT union/NN ]
+,/, representing/VBG 
+[ union/NN workers/NNS ]
+and/CC at/IN 
+[ the/DT same/JJ time/NN ]
+representing/VBG 
+[ 85/CD %/NN ]
+of/IN 
+[ the/DT shareholders/NNS ]
+at/IN 
+[ one/CD time/NN ]
+./. 

@@ -1,0 +1,735 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Backers/NNS ]
+of/IN 
+[ legislation/NN ]
+aimed/VBN at/IN revising/VBG 
+[ the/DT federal/JJ racketeering/NN law/NN ]
+are/VBP scrapping/VBG 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS controversial/JJ provisions/NNS ]
+in/IN 
+[ the/DT bill/NN ]
+./. 
+
+======================================
+
+[ Sen./NNP Dennis/NNP DeConcini/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ariz./NNP ]
+ )/) ,/, 
+[ a/DT chief/JJ sponsor/NN ]
+of/IN 
+[ the/DT legislation/NN ]
+,/, has/VBZ indicated/VBN 
+[ he/PRP ]
+plans/VBZ to/TO drop/VB 
+[ the/DT provision/NN ]
+
+[ that/WDT ]
+would/MD make/VB 
+[ the/DT bill/NN ]
+apply/VB to/TO pending/VBG 
+[ racketeering/NN cases/NNS ]
+,/, not/RB 
+[ just/RB future/JJ ones/NNS ]
+./. 
+
+======================================
+
+[ The/DT overall/JJ legislation/NN ]
+is/VBZ designed/VBN to/TO take/VB 
+[ some/DT ]
+of/IN 
+[ the/DT bite/NN ]
+out/IN of/IN 
+[ the/DT 1970/CD Racketeer/NNP Influenced/NNP ]
+and/CC 
+[ Corrupt/NNP Organizations/NNPS law/NN ]
+,/, or/CC 
+[ RICO/NNP ]
+./. 
+
+[ A/DT key/JJ part/NN ]
+of/IN 
+[ the/DT bill/NN ]
+would/MD eliminate/VB 
+[ the/DT ability/NN ]
+of/IN 
+[ RICO/NNP plaintiffs/NNS ]
+to/TO get/VB 
+[ triple/JJ damages/NNS ]
+in/IN 
+[ most/JJS civil/JJ RICO/NNP suits/NNS ]
+./. 
+
+======================================
+
+[ Sen./NNP DeConcini/NNP 's/POS move/NN ]
+followed/VBD 
+[ a/DT flurry/NN ]
+of/IN 
+[ negative/JJ press/NN articles/NNS ]
+in/IN 
+[ Arizona/NNP ]
+and/CC in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, highlighting/VBG 
+[ his/PRP$ campaign/NN contributions/NNS ]
+from/IN 
+[ Arizona/NNP businessman/NN Charles/NNP Keating/NNP Jr./NNP Mr./NNP Keating/NNP ]
+was/VBD hit/VBN with/IN 
+[ two/CD major/JJ RICO/NNP suits/NNS ]
+
+[ this/DT year/NN ]
+following/VBG 
+[ the/DT collapse/NN ]
+of/IN 
+[ Lincoln/NNP Savings/NNPS ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+,/, 
+[ which/WDT ]
+
+[ he/PRP ]
+owned/VBD ./. 
+
+[ Opponents/NNS ]
+of/IN 
+[ RICO/NNP reform/NN ]
+have/VBP argued/VBN loudly/RB that/IN 
+[ the/DT retroactivity/NN provision/NN ]
+of/IN 
+[ the/DT bill/NN ]
+would/MD bail/VB out/RP 
+[ Mr./NNP Keating/NNP ]
+and/CC 
+[ other/JJ current/JJ RICO/NNP defendants/NNS ]
+./. 
+
+======================================
+
+[ The/DT business/NN coalition/NN ]
+
+[ that/WDT ]
+has/VBZ fought/VBN long/RB and/CC hard/RB for/IN 
+[ RICO/NNP revision/NN ]
+is/VBZ reluctantly/RB going/VBG along/RB ./. 
+
+``/`` 
+[ The/DT real/JJ issue/NN ]
+is/VBZ halting/VBG 
+[ these/DT suits/NNS ]
+prospectively/RB ,/, ''/'' says/VBZ 
+[ Richard/NNP Moe/NNP ]
+,/, 
+[ who/WP ]
+represents/VBZ 
+[ the/DT insurance/NN industry/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ 
+[ broad/JJ consensus/NN ]
+that/IN 
+[ this/DT ]
+is/VBZ 
+[ the/DT last/JJ chance/NN ]
+for/IN passing/VBG 
+[ RICO/NNP reform/NN ]
+./. 
+
+[ No/DT one/NN ]
+wants/VBZ to/TO jeopardize/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+[ Similar/JJ RICO/NNP legislation/NN ]
+has/VBZ died/VBN on/IN 
+[ the/DT vine/NN ]
+
+[ each/DT ]
+of/IN 
+[ the/DT past/JJ four/CD years/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+are/VBP throwing/VBG 
+[ things/NNS ]
+overboard/RB to/TO keep/VB 
+[ the/DT balloon/NN ]
+afloat/RB ,/, ''/'' maintains/VBZ 
+[ Michael/NNP Waldman/NNP ]
+of/IN 
+[ Public/NNP Citizen/NNP ]
+,/, 
+[ part/NN ]
+of/IN 
+[ the/DT odd/JJ ]
+but/CC 
+[ potent/JJ alliance/NN ]
+of/IN 
+[ consumer/NN groups/NNS ]
+,/, 
+[ plaintiffs/NNS attorneys/NNS ]
+and/CC 
+[ some/DT corporations/NNS ]
+ (/( most/JJS of/IN 
+[ which/WDT ]
+are/VBP 
+[ plaintiffs/NNS ]
+in/IN pending/VBG 
+[ RICO/NNP cases/NNS ]
+ )/) 
+[ that/WDT ]
+has/VBZ so/RB far/RB blocked/VBN 
+[ the/DT RICO/NNP legislation/NN ]
+./. 
+
+======================================
+
+[ The/DT legislation/NN 's/POS outlook/NN ]
+in/IN 
+[ the/DT House/NNP ]
+,/, meanwhile/RB ,/, is/VBZ hazy/JJ as/IN 
+[ staffers/NNS ]
+to/TO 
+[ Rep./NNP William/NNP Hughes/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ N.J./NNP ]
+ )/) ,/, 
+[ head/NN ]
+of/IN 
+[ a/DT House/NNP Judiciary/NNP subcommittee/NN ]
+,/, ponder/VBP 
+[ various/JJ approaches/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ What/WP ]
+looked/VBD like/IN 
+[ a/DT done/JJ deal/NN ]
+earlier/RB  
+[ this/DT year/NN ]
+is/VBZ now/RB 
+[ a/DT wild/JJ card/NN ]
+,/, ''/'' says/VBZ 
+[ a/DT Washington/NNP lawyer/NN ]
+fighting/VBG 
+[ the/DT legislation/NN ]
+./. 
+
+======================================
+
+[ A/DT FORMER/JJ SEC/NNP OFFICER/NN ]
+pleaded/VBD guilty/JJ to/TO 
+[ federal/JJ stock-fraud/NN charges/NNS ]
+./. 
+
+======================================
+
+[ Sheldon/NNP Kanoff/NNP ]
+,/, 
+[ 53/CD ]
+,/, 
+[ who/WP ]
+served/VBD as/IN 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP 's/POS chief/JJ examiner/NN ]
+for/IN 
+[ broker-dealer/NN inspection/NN ]
+in/IN 
+[ the/DT New/NNP York/NNP regional/JJ office/NN ]
+from/IN 
+[ 1970/CD ]
+to/TO 
+[ 1983/CD ]
+,/, pleaded/VBD 
+[ guilty/JJ yesterday/NN ]
+in/IN 
+[ U.S./NNP District/NNP Court/NNP ]
+in/IN 
+[ Newark/NNP ]
+,/, 
+======================================
+
+[ The/DT charges/NNS ]
+stemmed/VBD from/IN 
+[ an/DT alleged/VBN stock-conspiracy/NN scheme/NN ]
+engineered/VBN by/IN 
+[ Mr./NNP Kanoff/NNP ]
+and/CC 
+[ other/JJ former/JJ officials/NNS ]
+of/IN 
+[ F.D./NNP Roberts/NNP Securities/NNPS Inc/NNP ]
+./. 
+
+[ Mr./NNP Kanoff/NNP ]
+was/VBD 
+[ a/DT former/JJ president/NN ]
+,/, 
+[ partner/NN ]
+and/CC 
+[ director/NN ]
+of/IN 
+[ the/DT Paramus/NNP ]
+,/, 
+[ N.J.-based/JJ pennystock/NN firm/NN ]
+
+[ that/WDT ]
+ceased/VBD operating/VBG and/CC filed/VBD under/IN 
+[ bankruptcy-law/NN proceedings/NNS ]
+in/IN 
+[ February/NNP ]
+./. 
+
+[ None/NN ]
+of/IN 
+[ the/DT charges/NNS ]
+were/VBD related/VBN to/TO 
+[ any/DT ]
+of/IN 
+[ Mr./NNP Kanoff/NNP 's/POS activities/NNS ]
+at/IN 
+[ the/DT SEC/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Kanoff/NNP ]
+,/, 
+[ who/WP ]
+agreed/VBD to/TO cooperate/VB with/IN 
+[ the/DT Newark/NNP U.S./NNP Attorney/NNP 's/POS investigation/NN ]
+of/IN 
+[ F.D./NNP Roberts/NNP ]
+,/, faces/VBZ 
+[ a/DT potential/JJ prison/NN sentence/NN ]
+and/CC fines/NNS on/IN 
+[ two/CD counts/NNS ]
+of/IN 
+[ stock-fraud/NN conspiracy/NN ]
+and/CC 
+[ a/DT combined/JJ count/NN ]
+of/IN 
+[ stock/NN ]
+and/CC 
+[ tax/NN fraud/NN ]
+,/, according/VBG to/TO 
+[ the/DT agreement/NN ]
+read/VBN by/IN 
+[ U.S./NNP District/NNP Judge/NNP Nicholas/NNP H./NNP Politan/NNP ]
+./. 
+
+======================================
+
+[ Albert/NNP Weiss/NNP ]
+,/, 
+[ 44/CD ]
+,/, 
+[ another/DT former/JJ president/NN ]
+of/IN 
+[ F.D./NNP Roberts/NNP ]
+,/, pleaded/VBD guilty/JJ to/TO 
+[ two/CD counts/NNS ]
+of/IN 
+[ securities/NNS fraud/NN ]
+and/CC 
+[ one/CD count/NN ]
+of/IN filing/VBG 
+[ a/DT false/JJ income-tax/NN return/NN ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+[ Mr./NNP Weiss/NNP ]
+also/RB faces/VBZ 
+[ a/DT potential/JJ prison/NN sentence/NN ]
+and/CC 
+[ fines/NNS ]
+./. 
+
+======================================
+
+Also/RB ,/, 
+[ three/CD former/JJ F.D./NNP Roberts/NNP brokers/NNS ]
+yesterday/NN pleaded/VBD guilty/JJ to/TO 
+[ stock-fraud/NN charges/NNS ]
+./. 
+
+[ A/DT total/NN ]
+of/IN 
+[ 12/CD F.D./NNP Roberts/NNP investors/NNS ]
+and/CC 
+[ employees/NNS ]
+so/RB far/RB have/VBP pleaded/VBN guilty/JJ to/TO 
+[ stock-fraud/NN conspiracy/NN ]
+,/, said/VBD 
+[ Assistant/NNP U.S./NNP Attorney/NNP Joseph/NNP G./NNP Braunreuther/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Braunreuther/NNP ]
+said/VBD 
+[ the/DT former/JJ F.D./NNP Roberts/NNP conspirators/NNS ]
+bilked/VBD 
+[ clients/NNS ]
+out/IN of/IN ``/`` 
+[ tens/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+''/'' by/IN inflating/VBG 
+[ prices/NNS ]
+of/IN 
+[ stocks/NNS ]
+sold/VBN ./. 
+
+======================================
+
+[ TEXAS/NNP PRISON/NN OFFICIALS/NNS block/VBP publication/NN ]
+of/IN 
+[ inmates/NNS '/POS monthly/JJ newspaper/NN ]
+./. 
+
+======================================
+
+[ The/DT officials/NNS ]
+apparently/RB are/VBP concerned/VBN about/IN whether/IN 
+[ legal/JJ articles/NNS ]
+written/VBN by/IN 
+[ inmates/NNS ]
+have/VBP been/VBN accurate/JJ --/: and/CC about/IN whether/IN 
+[ they/PRP ]
+have/VBP incited/VBN 
+[ other/JJ inmates/NNS ]
+to/TO file/VB 
+[ more/JJR legal/JJ grievances/NNS ]
+./. 
+
+======================================
+
+[ The/DT actual/JJ censorship/NN ]
+started/VBD with/IN 
+[ the/DT suspension/NN ]
+of/IN 
+[ a/DT staff-written/JJ legal/JJ column/NN ]
+in/IN 
+[ the/DT June/NNP issue/NN ]
+of/IN 
+[ the/DT newspaper/NN ]
+,/, known/VBN as/IN 
+[ the/DT Echo/NNP ]
+./. 
+
+Subsequently/RB ,/, 
+[ the/DT newspaper/NN was/VBD n't/RB ]
+allowed/VBN to/TO be/VB published/VBN at/IN 
+[ all/DT ]
+in/IN 
+[ July/NNP ]
+and/CC 
+[ August/NNP ]
+./. 
+
+======================================
+
+[ The/DT columnist/NN ]
+,/, 
+[ Randy/NNP Farrar/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+
+[ who/WP ]
+heads/VBZ 
+[ the/DT Inmate/NNP Legal/NNP Services/NNPS office/NN ]
+,/, said/VBD 
+[ he/PRP ]
+received/VBD conflicting/VBG 
+[ information/NN ]
+from/IN 
+[ prison/NN officials/NNS ]
+about/IN 
+[ the/DT reason/NN ]
+for/IN 
+[ the/DT ban/NN ]
+on/IN 
+[ legal/JJ articles/NNS ]
+./. 
+
+[ Mr./NNP Farrar/NNP ]
+said/VBD 
+[ the/DT Echo/NNP ]
+traditionally/RB has/VBZ been/VBN barred/VBN from/IN publishing/VBG 
+[ articles/NNS ]
+about/IN 
+[ civil/JJ rights/NNS issues/NNS ]
+,/, 
+[ the/DT basis/NN ]
+for/IN 
+[ many/JJ lawsuits/NNS ]
+by/IN 
+[ prisoners/NNS ]
+./. 
+
+[ His/PRP$ column/NN ]
+deals/VBZ with/IN 
+[ recent/JJ state/NN court/NN cases/NNS ]
+on/IN 
+[ detention/NN ]
+and/CC 
+[ appeals/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Farrar/NNP ]
+said/VBD 
+[ the/DT suspension/NN ]
+of/IN 
+[ his/PRP$ column/NN ]
+and/CC 
+[ other/JJ law/NN articles/NNS ]
+is/VBZ under/IN 
+[ investigation/NN ]
+by/IN 
+[ the/DT court-appointed/JJ special/JJ master/NN ]
+
+[ who/WP ]
+has/VBZ been/VBN monitoring/VBG 
+[ Texas/NNP prisons/NNS ]
+since/IN 
+[ a/DT federal/JJ judge/NN ]
+found/VBD 
+[ widespread/JJ civil/JJ rights/NNS violations/NNS ]
+in/IN 
+[ the/DT penal/JJ system/NN ]
+in/IN 
+[ 1982/CD ]
+./. 
+
+[ The/DT investigation/NN ]
+focuses/VBZ on/IN whether/IN 
+[ the/DT censorship/NN ]
+violates/VBZ 
+[ prisoners/NNS '/POS right/NN ]
+to/TO 
+[ access/NN ]
+to/TO 
+[ the/DT courts/NNS ]
+./. 
+
+======================================
+
+[ Prison/NN spokesman/NN Charles/NNP Brown/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ also/RB 
+[ the/DT adviser/NN ]
+to/TO 
+[ the/DT inmate/NN editor/NN ]
+and/CC 
+[ staff/NN ]
+of/IN 
+[ the/DT Echo/NNP ]
+,/, said/VBD 
+[ the/DT 35,000-circulation/JJ newspaper/NN ]
+will/MD resume/VB 
+[ publication/NN ]
+--/: under/IN 
+[ closer/JJR scrutiny/NN ]
+by/IN 
+[ the/DT administration/NN ]
+--/: with/IN 
+[ a/DT double/JJ issue/NN ]
+to/TO cover/VB 
+[ August/NNP ]
+and/CC 
+[ September/NNP ]
+./. 
+
+[ Mr./NNP Brown/NNP ]
+said/VBD 
+[ Mr./NNP Farrar/NNP 's/POS column/NN ]
+will/MD return/VB in/IN 
+[ the/DT October/NNP issue/NN ]
+./. 
+
+======================================
+
+``/`` As/RB long/RB as/IN 
+[ the/DT information/NN ]
+is/VBZ appropriate/JJ and/CC 
+[ accurate/JJ ]
+,/, 
+[ it/PRP ]
+will/MD be/VB allowed/VBN in/IN 
+[ the/DT paper/NN ]
+,/, ''/'' 
+[ Mr./NNP Brown/NNP ]
+said/VBD ./. 
+
+[ He/PRP ]
+said/VBD 
+[ appropriate/JJ articles/NNS ]
+would/MD include/VB almost/RB 
+[ anything/NN ]
+``/`` as/RB long/RB as/IN 
+[ it/PRP ]
+'s/VBZ of/IN 
+[ interest/NN ]
+to/TO 
+[ the/DT inmates/NNS ]
+./. 
+
+''/'' 
+======================================
+
+But/CC ,/, 
+[ he/PRP ]
+added/VBD ,/, ``/`` 
+[ you/PRP ]
+would/MD n't/RB want/VB to/TO supply/VB 
+[ inmates/NNS ]
+with/IN 
+[ information/NN ]
+
+[ that/WDT ]
+would/MD come/VB back/RB to/TO haunt/VB 
+[ you/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ AIDS/NNP CASES/NNS ]
+:/: In/IN 
+[ the/DT past/JJ five/CD years/NNS ]
+,/, 
+[ AIDS/NNP ]
+has/VBZ generated/VBN enough/RB 
+[ legal/JJ issues/NNS ]
+to/TO fill/VB 
+[ a/DT 1,000-page/JJ text/NN ]
+./. 
+
+[ The/DT ]
+newly/RB published/VBN ,/, ``/`` 
+[ AIDS/NNP ]
+:/: 
+[ Cases/NNS ]
+and/CC 
+[ Materials/NNS ]
+,/, ''/'' is/VBZ 
+[ the/DT first/JJ casebook/NN ]
+to/TO cover/VB 
+[ the/DT impact/NN ]
+of/IN 
+[ Acquired/NNP Immune/NNP Deficiency/NNP Syndrome/NNP ]
+on/IN 
+[ the/DT law/NN ]
+,/, says/VBZ 
+[ Michael/NNP L./NNP Closen/NNP ]
+,/, 
+[ a/DT key/JJ editor/NN ]
+of/IN 
+[ the/DT book/NN ]
+and/CC 
+[ a/DT professor/NN ]
+at/IN 
+[ John/NNP Marshall/NNP Law/NNP School/NNP ]
+./. 
+
+About/IN 
+[ 40/CD law/NN schools/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+are/VBP currently/RB conducting/VBG or/CC planning/VBG to/TO conduct/VB 
+[ courses/NNS ]
+on/IN 
+[ AIDS/NNP ]
+,/, and/CC 
+[ Prof./NNP Closen/NNP ]
+estimates/VBZ that/IN by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT spring/NN semester/NN ]
+
+[ the/DT casebook/NN ]
+should/MD be/VB used/VBN in/IN 
+[ courses/NNS ]
+at/IN 
+[ 10/CD ]
+of/IN 
+[ the/DT law/NN schools/NNS ]
+./. 
+
+======================================
+
+[ MYERSON/NNP ]
+&/CC 
+[ KUHN/NNP DEFECTOR/NNP ]
+:/: 
+[ Albert/NNP Halprin/NNP ]
+,/, formerly/RB 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT Washington/NNP office/NN ]
+of/IN 
+[ New/NNP York-based/JJ Myerson/NNP ]
+&/CC 
+[ Kuhn/NNP ]
+,/, has/VBZ joined/VBN 
+[ Verner/NNP ]
+,/, 
+[ Liipfert/NNP ]
+,/, 
+[ Bernhard/NNP ]
+,/, 
+[ McPherson/NNP ]
+&/CC 
+[ Hand/NNP ]
+,/, of/IN 
+[ Washington/NNP ]
+./. 
+
+[ Mr./NNP Halprin/NNP ]
+,/, 
+[ 41/CD ]
+,/, specializes/VBZ in/IN 
+[ telecommunications/NN ]
+and/CC was/VBD previously/RB chief/NN of/IN 
+[ the/DT Federal/NNP Communications/NNPS Commission/NNP 's/POS common/JJ carrier/NN bureau/NN ]
+./. 

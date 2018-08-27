@@ -1,0 +1,758 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+SO/RB 
+[ YOU/PRP WANT/VBP ]
+to/TO invest/VB overseas/RB ?/. 
+
+======================================
+
+[ That/DT ]
+makes/VBZ 
+[ sense/NN ]
+./. 
+
+After/IN 
+[ all/DT ]
+,/, 
+[ foreign/JJ stock/NN markets/NNS ]
+often/RB outperform/VBP 
+[ the/DT U.S./NNP market/NN ]
+./. 
+
+Now/RB 
+[ all/DT ]
+
+[ you/PRP ]
+have/VBP to/TO do/VB is/VBZ figure/VB out/IN 
+[ what/WP ]
+
+[ you/PRP ]
+'re/VBP investing/VBG in/IN ./. 
+
+======================================
+
+[ It/PRP ]
+wo/MD n't/RB be/VB easy/JJ :/: 
+[ Disclosure/NN ]
+and/CC 
+[ accounting/NN rules/NNS ]
+overseas/RB differ/VBP sharply/RB from/IN 
+[ those/DT ]
+in/IN 
+[ the/DT U.S./NNP ]
+--/: and/CC also/RB differ/VBP significantly/RB among/IN 
+[ the/DT foreign/JJ countries/NNS ]
+./. 
+
+======================================
+
+[ Only/JJ companies/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, 
+[ issue/VBP reports/NNS ]
+quarterly/RB on/IN 
+[ profits/NNS ]
+and/CC 
+[ other/JJ key/JJ financial/JJ data/NNS ]
+./. 
+
+And/CC 
+[ most/JJS companies/NNS ]
+in/IN 
+[ Japan/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+do/VBP n't/RB consolidate/VB 
+[ the/DT financial/JJ data/NNS ]
+of/IN 
+[ majority-owned/JJ subsidiaries/NNS ]
+ (/( see/VB 
+[ accompanying/VBG table/NN ]
+ )/) ./. 
+
+======================================
+
+[ Gary/NNP Greenberg/NNP ]
+,/, 
+[ a/DT global/JJ analyst/NN ]
+with/IN 
+[ Harris/NNP Associates/NNPS ]
+,/, says/VBZ that/IN in/IN 
+[ other/JJ nations/NNS ]
+
+[ the/DT lack/NN ]
+of/IN 
+[ a/DT strong/JJ enforcement/NN body/NN ]
+like/IN 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+permits/VBZ 
+[ overseas/JJ companies/NNS ]
+to/TO be/VB more/RBR footloose/JJ and/CC 
+[ fancy-free/JJ ]
+with/IN 
+[ disclosures/NNS ]
+./. 
+
+And/CC 
+[ insider/NN ]
+trading/NN is/VBZ often/RB greeted/VBN with/IN 
+[ a/DT wink/NN ]
+by/IN 
+[ government/NN regulators/NNS ]
+./. 
+
+In/IN 
+[ Holland/NNP ]
+,/, 
+[ Spain/NNP ]
+and/CC 
+[ France/NNP ]
+,/, where/WRB 
+[ stock/NN exchanges/NNS ]
+are/VBP relatively/RB 
+[ small/JJ ]
+,/, 
+[ government/NN regulation/NN ]
+and/CC 
+[ oversight/NN ]
+of/IN 
+[ company/NN disclosures/NNS ]
+are/VBP ``/`` very/RB relaxed/VBN ,/, ''/'' 
+[ Mr./NNP Greenberg/NNP ]
+says/VBZ ./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ many/JJ experts/NNS ]
+advise/VBP 
+[ individuals/NNS ]
+to/TO avoid/VB investing/VBG in/IN 
+[ foreign/JJ markets/NNS ]
+on/IN 
+[ their/PRP$ own/JJ ]
+./. 
+
+And/CC ,/, in/IN 
+[ fact/NN ]
+,/, 
+[ some/DT countries/NNS ]
+such/JJ as/IN 
+[ Brazil/NNP ]
+,/, 
+[ India/NNP ]
+,/, 
+[ South/NNP Korea/NNP ]
+and/CC 
+[ Taiwan/NNP ]
+make/VBP 
+[ it/PRP ]
+difficult/JJ ,/, if/IN not/RB 
+[ impossible/JJ ]
+,/, for/IN 
+[ individuals/NNS ]
+to/TO invest/VB in/IN 
+[ companies/NNS ]
+within/IN 
+[ their/PRP$ borders/NNS ]
+./. 
+
+``/`` Overseas/RB 
+[ mutual/JJ funds/NNS ]
+are/VBP better/JJR because/IN 
+[ professional/JJ fund/NN managers/NNS ]
+can/MD lead/VB 
+[ you/PRP ]
+through/IN 
+[ the/DT foreign/JJ stock-market/NN jungle/NN ]
+with/IN 
+[ all/PDT its/PRP$ perils/NNS ]
+and/CC 
+[ pitfalls/NNS ]
+,/, ''/'' says/VBZ 
+[ Martin/NNP Skala/NNP ]
+,/, 
+[ senior/JJ editor/NN ]
+of/IN 
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS Outlook/NN publication/NN ]
+on/IN 
+[ U.S./NNP ]
+and/CC 
+[ world/NN investment/NN ]
+./. 
+
+======================================
+
+But/CC even/RB 
+[ the/DT most/RBS sophisticated/JJ funds/NNS ]
+can/MD be/VB fooled/VBN ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT Acorn/NNP Fund/NNP ]
+in/IN 
+[ Chicago/NNP ]
+,/, 
+[ which/WDT ]
+invests/VBZ in/IN 
+[ small/JJ start-up/JJ companies/NNS ]
+overseas/RB ,/, recently/RB saw/VBD 
+[ its/PRP$ investment/NN ]
+of/IN 
+[ $/$ 575,000/CD ]
+in/IN 
+[ the/DT stock/NN ]
+of/IN 
+[ Lafe/NNP Holdings/NNP Ltd./NNP ]
+,/, 
+[ an/DT electronics/NNS manufacturer/NN ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+,/, 
+[ decline/VB ]
+by/IN 
+[ 54/CD %/NN ]
+after/IN 
+[ the/DT company/NN 's/POS chairman/NN ]
+sold/VBD 
+[ all/PDT his/PRP$ stock/NN ]
+but/CC did/VBD n't/RB disclose/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+``/`` 
+[ Such/JJ undisclosed/JJ insider/NN dealings/NNS ]
+are/VBP much/RB more/RBR common/JJ overseas/RB ,/, and/CC 
+[ you/PRP ]
+'ve/VBP really/RB got/VBN to/TO keep/VB 
+[ your/PRP$ eye/NN ]
+on/IN 
+[ management/NN ]
+,/, ''/'' says/VBZ 
+[ Ralph/NNP Wanger/NNP ]
+,/, 
+[ the/DT Acorn/NNP Fund/NNP 's/POS president/NN ]
+./. 
+
+======================================
+
+[ Outright/JJ ]
+lying/NN can/MD also/RB be/VB 
+[ a/DT problem/NN ]
+./. 
+
+[ A/DT case/NN ]
+in/IN 
+[ the/DT Netherlands/NNP ]
+is/VBZ cited/VBN by/IN 
+[ Mr./NNP Greenberg/NNP ]
+of/IN 
+[ Harris/NNP Associates/NNPS ]
+,/, 
+[ which/WDT ]
+manages/VBZ 
+[ the/DT Acorn/NNP Fund/NNP ]
+./. 
+
+======================================
+
+``/`` In/IN 
+[ Holland/NNP ]
+recently/RB ,/, 
+[ a/DT high-tech/JJ company/NN ]
+told/VBD 
+[ a/DT Dutch/JJ analyst/NN ]
+that/IN 
+[ six-month/JJ earnings/NNS ]
+would/MD meet/VB 
+[ 15/CD %/NN growth/NN projections/NNS ]
+,/, ''/'' 
+[ Mr./NNP Greenberg/NNP ]
+says/VBZ ./. 
+
+But/CC 
+[ profit/NN ]
+turned/VBD out/IN to/TO be/VB flat/JJ ,/, compared/VBN with/IN 
+[ the/DT year-earlier/JJ period/NN ]
+./. 
+
+``/`` 
+[ Company/NN officials/NNS ]
+said/VBD 
+[ they/PRP ]
+lied/VBD because/IN 
+[ they/PRP ]
+were/VBD trying/VBG to/TO be/VB fair/JJ in/IN not/RB telling/VBG 
+[ the/DT analyst/NN ]
+more/JJR than/IN 
+[ anyone/NN ]
+else/RB ,/, ''/'' 
+[ he/PRP ]
+adds/VBZ ./. 
+
+======================================
+
+[ The/DT Acorn/NNP Fund/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ holding/VBG 
+[ $/$ 1/CD million/CD ]
+of/IN 
+[ the/DT Dutch/JJ high-tech/JJ company/NN 's/POS stock/NN ]
+,/, ``/`` would/MD have/VB sold/VBN 
+[ it/PRP ]
+had/VBD 
+[ the/DT company/NN official/NN ]
+been/VBN honest/JJ about/IN 
+[ the/DT profits/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Greenberg/NNP ]
+./. 
+
+``/`` Now/RB 
+[ it/PRP ]
+'s/VBZ too/RB late/JJ because/IN 
+[ the/DT stock/NN price/NN ]
+has/VBZ come/VBN down/IN too/RB much/JJ ./. 
+
+''/'' 
+======================================
+
+Sometimes/RB 
+[ companies/NNS ]
+overseas/RB ,/, if/IN 
+[ they/PRP ]
+do/VBP n't/RB lie/VB ,/, at/IN 
+[ least/JJS ]
+embroider/VBP 
+[ the/DT facts/NNS ]
+./. 
+
+[ The/DT manager/NN ]
+of/IN 
+[ a/DT large/JJ overseas/JJ fund/NN ]
+for/IN 
+[ a/DT major/JJ brokerage/NN house/NN ]
+recalls/VBZ that/IN 
+[ four/CD years/NNS ]
+ago/IN 
+[ a/DT Southeast/JJ Asian/JJ company/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT fund/NN ]
+had/VBD invested/VBN claimed/VBD 
+[ it/PRP ]
+had/VBD 
+[ a/DT lucrative/JJ long-term/JJ contract/NN ]
+to/TO supply/VB 
+[ disk/NN drives/NNS ]
+to/TO 
+[ International/NNP Business/NNP Machines/NNPS Corp/NNP ]
+./. 
+
+======================================
+
+``/`` Suddenly/RB 
+[ the/DT company/NN ]
+went/VBD 
+[ bankrupt/NN ]
+from/IN 
+[ liquidity/NN problems/NNS ]
+,/, and/CC 
+[ there/EX ]
+was/VBD 
+[ no/DT advance/NN warning/NN ]
+,/, ''/'' says/VBZ 
+[ the/DT fund/NN manager/NN ]
+./. 
+
+[ No/DT one/NN ]
+knows/VBZ for/IN 
+[ sure/JJ ]
+
+[ what/WP ]
+really/RB happened/VBD ./. 
+
+But/CC 
+[ the/DT manager/NN ]
+says/VBZ that/IN if/IN 
+[ the/DT company/NN ]
+had/VBD 
+[ problems/NNS ]
+with/IN 
+[ the/DT contract/NN ]
+,/, in/IN 
+[ the/DT U.S./NNP ]
+
+[ it/PRP ]
+``/`` would/MD have/VB had/VBN to/TO tell/VB about/IN 
+[ its/PRP$ problems/NNS ]
+in/IN 
+[ advance/NN ]
+of/IN 
+[ the/DT disaster/NN ]
+./. 
+
+And/CC ,/, of/IN 
+[ course/NN ]
+,/, 
+[ IBM/NNP ]
+routinely/RB does/VBZ n't/RB comment/VB on/IN 
+[ contracts/NNS ]
+of/IN 
+[ this/DT nature/NN ]
+./. 
+
+[ We/PRP ]
+suspect/VBP 
+[ the/DT contract/NN ]
+never/RB was/VBD {/( formally/RB agreed/VBN to/TO }/) ./. 
+
+But/CC when/WRB 
+[ company/NN executives/NNS ]
+did/VBD n't/RB return/VB 
+[ our/PRP$ phone/NN ]
+calls/NNS ,/, 
+[ we/PRP ]
+luckily/RB got/VBD out/IN of/IN 
+[ the/DT stock/NN ]
+without/IN losing/VBG 
+[ our/PRP$ shirts/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Overseas/JJ companies/NNS ]
+do/VBP n't/RB have/VB to/TO embroider/VB 
+[ facts/NNS ]
+,/, though/RB ,/, to/TO complicate/VB 
+[ things/NNS ]
+for/IN 
+[ the/DT U.S./NNP investor/NN ]
+./. 
+
+[ Differences/NNS ]
+in/IN accounting/VBG 
+[ rules/NNS ]
+make/VBP for/IN 
+[ a/DT wide/JJ divergence/NN ]
+of/IN 
+[ financial/JJ results/NNS ]
+in/IN 
+[ various/JJ countries/NNS ]
+./. 
+
+======================================
+
+To/TO illustrate/VB how/WRB 
+[ tough/JJ ]
+
+[ it/PRP ]
+is/VBZ to/TO compare/VB 
+[ such/JJ profits/NNS ]
+,/, 
+[ three/CD accounting/NN professors/NNS  ]
+at/IN 
+[ Rider/NNP College/NNP ]
+in/IN 
+[ Lawrenceville/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, set/VBD up/IN 
+[ a/DT computer/NN model/NN ]
+of/IN 
+[ an/DT imaginary/NN company/NN 's/POS financial/JJ reports/NNS ]
+in/IN 
+[ four/CD nations/NNS ]
+./. 
+
+Starting/VBG with/IN 
+[ the/DT same/JJ gross/NN operating/VBG profit/NN ]
+of/IN 
+[ $/$ 1.5/CD million/CD ]
+,/, 
+[ the/DT company/NN ]
+had/VBD 
+[ net/JJ profit/NN ]
+of/IN 
+[ $/$ 34,600/CD ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ $/$ 260,600/CD ]
+in/IN 
+[ the/DT United/NNP Kingdom/NNP ]
+,/, 
+[ $/$ 240,600/CD ]
+in/IN 
+[ Australia/NNP ]
+and/CC 
+[ $/$ 10,402/CD ]
+in/IN 
+[ West/NNP Germany/NNP ]
+--/: 
+[ all/DT ]
+because/IN of/IN 
+[ varying/VBG accounting/NN rules/NNS ]
+in/IN 
+[ each/DT country/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ many/JJ companies/NNS ]
+have/VBP 
+[ worldwide/JJ operations/NNS ]
+,/, 
+[ their/PRP$ financial/JJ results/NNS ]
+in/IN 
+[ different/JJ countries/NNS ]
+are/VBP n't/RB comparable/JJ ,/, 
+[ the/DT professors/NNS ]
+say/VBP ./. 
+
+[ They/PRP ]
+term/VBP 
+[ this/DT a/DT ]
+``/`` 
+[ serious/JJ problem/NN ]
+''/'' for/IN ``/`` 
+[ accountants/NNS ]
+
+[ who/WP ]
+may/MD be/VB called/VBN upon/IN to/TO analyze/VB 
+[ a/DT foreign/JJ company/NN 's/POS financial/JJ statements/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT results/NNS ]
+of/IN 
+[ companies/NNS ]
+in/IN 
+[ Japan/NNP ]
+,/, 
+[ West/NNP Germany/NNP ]
+,/, 
+[ Switzerland/NNP ]
+and/CC 
+[ Spain/NNP ]
+are/VBP among/IN 
+[ the/DT ]
+most/RBS difficult/JJ to/TO compare/VB with/IN 
+[ those/DT ]
+of/IN 
+[ their/PRP$ U.S./NNP counterparts/NNS ]
+,/, says/VBZ 
+[ Kenneth/NNP Oberman/NNP ]
+,/, 
+[ manager/NN ]
+of/IN 
+[ the/DT Oppenheimer/NNP Global/NNP Fund/NNP ]
+./. 
+
+In/IN 
+[ Japan/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ many/JJ corporations/NNS ]
+do/VBP n't/RB consolidate/VB 
+[ results/NNS ]
+of/IN 
+[ their/PRP$ majority-owned/JJ subsidiaries/NNS ]
+;/: in/IN 
+[ Switzerland/NNP ]
+and/CC 
+[ Spain/NNP ]
+,/, 
+[ some/DT concerns/NNS ]
+set/VBD up/IN 
+[ hidden/VBN reserves/NNS ]
+,/, 
+[ which/WDT ]
+result/VBP in/IN 
+[ lower/JJR reported/VBN profits/NNS ]
+./. 
+
+``/`` When/WRB 
+[ I/PRP ]
+invest/VBP in/IN 
+[ a/DT Swiss/NNP company/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Oberman/NNP ]
+,/, ``/`` 
+[ I/PRP ]
+usually/RB add/VBP 
+[ a/DT fudge/NN factor/NN ]
+of/IN 
+[ 25/CD %/NN ]
+to/TO 
+[ its/PRP$ financial/JJ results/NNS ]
+,/, and/CC sometimes/RB 
+[ I/PRP ]
+find/VBP 
+[ I/PRP ]
+should/MD have/VB added/VBN 
+[ 40/CD %/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Investing/VBG ]
+in/IN 
+[ Korean/JJ companies/NNS ]
+can/MD also/RB be/VB tricky/JJ ./. 
+
+[ Some/DT Korean/JJ companies/NNS ]
+create/VBP ``/`` 
+[ special/JJ gains/NNS ]
+and/CC 
+[ losses/NNS ]
+''/'' 
+[ that/WDT ]
+sometimes/RB do/VBP n't/RB relate/VB to/TO 
+[ company/NN successes/NNS ]
+or/CC 
+[ failures/NNS ]
+,/, says/VBZ 
+[ Robert/NNP Kim/NNP ]
+,/, 
+[ a/DT portfolio/NN manager/NN ]
+for/IN 
+[ the/DT Korea/NNP Fund/NNP ]
+,/, managed/VBN by/IN 
+[ Scudder/NNP Stevens/NNP ]
+&/CC 
+[ Clark/NNP ]
+./. 
+
+``/`` If/IN 
+[ a/DT Korean/JJ company/NN ]
+wants/VBZ to/TO pay/VB 
+[ less/JJR taxes/NNS ]
+or/CC 
+[ quiet/JJ worker/NN demands/NNS ]
+for/IN 
+[ higher/JJR wages/NNS ]
+,/, 
+[ it/PRP ]
+can/MD do/VB 
+[ this/DT ]
+with/IN 
+[ depreciation/NN schedules/NNS ]
+much/RB more/RBR easily/RB than/IN in/IN 
+[ the/DT U.S./NNP ]
+,/, ''/'' 
+[ Mr./NNP Kim/NNP ]
+says/VBZ ./. 
+
+======================================
+
+Because/IN 
+[ financial/JJ reports/NNS ]
+can/MD lose/VB 
+[ something/NN ]
+in/IN 
+[ translation/NN ]
+,/, 
+[ some/DT managers/NNS ]
+of/IN 
+[ overseas/JJ funds/NNS ]
+hire/VBP 
+[ country/NN nationals/NNS ]
+to/TO analyze/VB 
+[ stocks/NNS ]
+./. 
+
+[ Five/CD years/NNS ]
+ago/IN 
+[ the/DT Merrill/NNP Lynch/NNP Pacific/NNP Fund/NNP ]
+hired/VBD 
+[ Etsuko/NNP Nakajima/NNP ]
+,/, 
+[ a/DT Japanese/JJ financial/JJ analyst/NN ]
+./. 
+
+``/`` 
+[ She/PRP ]
+has/VBZ been/VBN very/RB helpful/JJ in/IN 
+[ spelling/VBG ]
+out/IN 
+[ language/NN nuances/NNS ]
+,/, ''/'' says/VBZ 
+[ Stephen/NNP Silverman/NNP ]
+,/, 
+[ the/DT Pacific/NNP Fund/NNP portfolio/NN manager/NN ]
+./. 
+
+======================================
+
+In/IN researching/VBG 
+[ a/DT Japanese/JJ investment/NN company/NN ]
+,/, 
+[ the/DT fund/NN ]
+found/VBD that/IN 
+[ the/DT Japanese-language/JJ version/NN ]
+of/IN 
+[ the/DT company/NN 's/POS policy/NN ]
+of/IN 
+[ refunds/NNS ]
+to/TO 
+[ clients/NNS ]
+was/VBD less/RBR generous/JJ than/IN 
+[ the/DT U.S./NNP translation/NN ]
+had/VBD indicated/VBN ./. 
+
+``/`` 
+[ This/DT ]
+made/VBD 
+[ the/DT stock/NN ]
+more/RBR attractive/JJ to/TO 
+[ us/PRP ]
+,/, ''/'' 
+[ Mr./NNP Silverman/NNP ]
+adds/VBZ ./. 
+
+======================================
+
+[ Mr./NNP Berton/NNP covers/VBZ ]
+accounting/NN from/IN 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP 's/POS New/NNP York/NNP bureau/NN ]
+./. 

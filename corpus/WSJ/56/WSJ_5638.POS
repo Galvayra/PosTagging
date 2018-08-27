@@ -1,0 +1,723 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Senate/NNP ]
+voted/VBD to/TO raise/VB 
+[ the/DT national/JJ ceiling/NN ]
+on/IN 
+[ Federal/NNP Housing/NNP Administration-insured/JJ mortages/NNS ]
+for/IN 
+[ single-family/JJ homes/NNS ]
+to/TO nearly/RB 
+[ $/$ 125,000/CD ]
+--/: 
+[ a/DT ]
+roughly/RB 
+[ one-quarter/JJ increase/NN ]
+from/IN 
+[ the/DT current/JJ level/NN ]
+./. 
+
+======================================
+
+[ Final/JJ approval/NN ]
+came/VBD after/IN 
+[ prolonged/JJ debate/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT chamber/NN ]
+narrowly/RB split/VBN over/IN 
+[ a/DT proposal/NN ]
+to/TO do/VB away/RB with/IN 
+[ any/DT fixed/JJ ceiling/NN ]
+and/CC allow/VB 
+[ FHA-insured/JJ home/NN loans/NNS ]
+to/TO rise/VB with/IN 
+[ the/DT median/JJ cost/NN ]
+of/IN housing/NN in/IN 
+[ individual/JJ markets/NNS ]
+./. 
+
+[ The/DT more/RBR generous/JJ provision/NN ]
+had/VBD 
+[ the/DT backing/NN ]
+of/IN 
+[ real-estate/NN agents/NNS ]
+and/CC 
+[ lawmakers/NNS ]
+from/IN 
+[ high-cost/JJ states/NNS ]
+on/IN 
+[ the/DT East/JJ ]
+and/CC 
+[ West/JJ coasts/NNS ]
+,/, but/CC 
+[ conservatives/NNS ]
+led/VBN by/IN 
+[ Sen./NNP Don/NNP Nickles/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Okla/NNP ]
+./. 
+
+ )/) ultimately/RB succeeded/VBD in/IN peeling/VBG away/RB enough/RB votes/VBZ to/TO preserve/VB 
+[ some/DT fixed/JJ dollar/NN limit/NN ]
+./. 
+
+======================================
+
+[ The/DT floor/NN action/NN ]
+came/VBD as/IN 
+[ Republican/JJ negotiators/NNS ]
+offered/VBD 
+[ a/DT compromise/NN ]
+
+[ that/WDT ]
+would/MD significantly/RB increase/VB spending/NN above/IN 
+[ President/NNP Bush/NNP 's/POS request/NN ]
+for/IN 
+[ law-enforcement/NN ]
+and/CC 
+[ anti-drug/JJ programs/NNS ]
+in/IN 
+[ the/DT fiscal/JJ year/NN beginning/VBG Oct./NNP 1/CD ]
+./. 
+
+As/IN outlined/VBN in/IN 
+[ a/DT closed-door/JJ meeting/NN ]
+,/, 
+[ the/DT package/NN ]
+moves/VBZ about/IN halfway/RB toward/IN 
+[ increases/NNS ]
+demanded/VBN by/IN 
+[ Senate/NNP Appropriations/NNPS Committee/NNP Chairman/NNP Robert/NNP Byrd/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ W.Va/NNP ]
+./. 
+
+ )/) ./. 
+
+But/CC 
+[ major/JJ differences/NNS ]
+remain/VBP with/IN 
+[ Democrats/NNPS ]
+,/, 
+[ who/WP ]
+will/MD caucus/VB 
+[ today/NN ]
+,/, over/IN how/WRB to/TO finance/VB 
+[ the/DT added/VBN costs/NNS ]
+./. 
+
+======================================
+
+Though/IN 
+[ specifics/NNS ]
+remain/VBP 
+[ subject/JJ ]
+to/TO 
+[ negotiation/NN ]
+,/, 
+[ the/DT GOP/NNP plan/NN ]
+would/MD open/VB 
+[ the/DT door/NN ]
+to/TO 
+[ additions/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 800/CD million/CD ]
+in/IN 
+[ new/JJ budget/NN authority/NN ]
+above/IN 
+[ the/DT $/$ 2.2/CD billion/CD ]
+in/IN 
+[ increases/NNS ]
+proposed/VBN by/IN 
+[ Mr./NNP Bush/NNP ]
+for/IN 
+[ the/DT related/JJ programs/NNS ]
+./. 
+
+Of/IN 
+[ this/DT increase/NN ]
+,/, 
+[ $/$ 200/CD million/CD ]
+would/MD be/VB designated/VBN for/IN 
+[ state/NN ]
+and/CC 
+[ local/JJ law-enforcement/NN grants/NNS ]
+,/, but/CC 
+[ the/DT greater/JJR share/NN ]
+would/MD go/VB to/TO 
+[ drug-treatment/NN ]
+and/CC 
+[ education/NN programs/NNS ]
+favored/VBN by/IN 
+[ the/DT Democrats/NNPS ]
+./. 
+
+======================================
+
+Measured/VBN in/IN 
+[ direct/JJ ]
+spending/NN ,/, 
+[ the/DT increased/VBN appropriations/NNS ]
+would/MD add/VB 
+[ $/$ 400/CD million/CD ]
+to/TO 
+[ federal/JJ outlays/NNS ]
+in/IN 
+[ the/DT coming/VBG fiscal/NN year/NN ]
+,/, and/CC 
+[ these/DT increases/NNS ]
+must/MD be/VB offset/VBN by/IN 
+[ cuts/NNS ]
+elsewhere/RB to/TO stay/VB within/IN 
+[ budget/NN targets/NNS ]
+./. 
+
+======================================
+
+[ The/DT GOP/NNP proposal/NN ]
+assumes/VBZ 
+[ an/DT across-the-board/JJ ]
+cut/NN of/IN 
+[ one-quarter/NN ]
+of/IN 
+[ 1/CD %/NN ]
+on/IN 
+[ domestic/JJ ]
+and/CC 
+[ military/JJ accounts/NNS ]
+to/TO cover/VB 
+[ the/DT bulk/NN ]
+of/IN 
+[ the/DT president/NN 's/POS proposals/NNS ]
+./. 
+
+However/RB ,/, 
+[ all/DT ]
+of/IN 
+[ the/DT $/$ 800/CD million/CD ]
+in/IN 
+[ additional/JJ budget/NN authority/NN ]
+would/MD still/RB have/VB to/TO be/VB matched/VBN by/IN 
+[ more-selective/JJR ]
+,/, 
+[ individual/JJ reductions/NNS ]
+./. 
+
+[ These/DT cuts/NNS ]
+could/MD come/VB in/IN 
+[ some/DT cases/NNS ]
+from/IN 
+[ defense/NN ]
+as/RB well/RB as/IN 
+[ domestic/JJ accounts/NNS ]
+,/, but/CC 
+[ the/DT Bush/NNP administration/NN ]
+is/VBZ fearful/JJ that/IN if/IN 
+[ a/DT blanket/NN across-the-board/JJ formula/NN ]
+is/VBZ applied/VBN ,/, 
+[ the/DT military/NN ]
+will/MD be/VB forced/VBN to/TO absorb/VB 
+[ two-thirds/NNS ]
+of/IN 
+[ the/DT total/JJ package/NN ]
+./. 
+
+======================================
+
+[ The/DT FHA/NNP provision/NN ]
+was/VBD 
+[ an/DT amendment/NN ]
+to/TO 
+[ a/DT pending/VBG fiscal/JJ 1990/CD spending/NN bill/NN ]
+providing/VBG more/JJR than/IN 
+[ $/$ 67/CD billion/CD ]
+to/TO fund/VB 
+[ federal/JJ housing/NN ]
+and/CC 
+[ veteran/NN programs/NNS ]
+as/RB well/RB as/IN 
+[ independent/JJ agencies/NNS ]
+covering/VBG 
+[ science/NN ]
+,/, 
+[ space/NN ]
+and/CC 
+[ the/DT environment/NN ]
+./. 
+
+[ The/DT diverse/JJ ]
+and/CC 
+[ competing/JJ programs/NNS ]
+lead/VBP to/TO 
+[ immense/JJ fiscal/JJ pressure/NN ]
+on/IN 
+[ the/DT lawmakers/NNS ]
+allocating/VBG 
+[ funds/NNS ]
+,/, resulting/VBG in/IN 
+[ an/DT annual/JJ scramble/NN ]
+for/IN accounting/NN 
+[ devices/NNS ]
+to/TO stay/VB within/IN 
+[ the/DT budget/NN ]
+./. 
+
+[ These/DT considerations/NNS ]
+helped/VBD 
+[ fuel/VB ]
+
+[ the/DT drive/NN ]
+to/TO stimulate/VB 
+[ FHA/NNP lending/NN ]
+,/, and/CC thereby/RB increase/VB 
+[ premiums/NNS ]
+paid/VBN by/IN 
+[ borrowers/NNS ]
+./. 
+
+======================================
+
+As/IN initially/RB proposed/VBN by/IN 
+[ the/DT Senate/NNP Appropriations/NNPS Committee/NNP ]
+,/, 
+[ the/DT bill/NN ]
+would/MD have/VB removed/VBN 
+[ any/DT fixed/JJ cap/NN ]
+and/CC allowed/VBD 
+[ the/DT FHA/NNP ]
+to/TO insure/VB 
+[ loans/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ 95/CD %/NN ]
+of/IN 
+[ the/DT median/JJ value/NN ]
+of/IN 
+[ sales/NNS ]
+in/IN 
+[ a/DT state/NN ]
+or/CC 
+[ market/NN area/NN ]
+./. 
+
+[ Budget/NN analysts/NNS ]
+estimated/VBD that/IN 
+[ new/JJ revenues/NNS ]
+would/MD amount/VB to/TO 
+[ $/$ 157/CD million/CD ]
+,/, but/CC 
+[ opponents/NNS ]
+argued/VBD that/IN 
+[ the/DT immediate/JJ windfall/NN ]
+disguised/VBD 
+[ a/DT long-term/JJ risk/NN ]
+for/IN 
+[ the/DT government/NN ]
+./. 
+
+======================================
+
+[ An/DT early/JJ bid/NN ]
+to/TO set/VB 
+[ the/DT ceiling/NN ]
+at/IN approximately/RB 
+[ $/$ 118,000/CD ]
+lost/VBN on/IN 
+[ back-to-back/JJ 50-49/JJ roll/NN ]
+calls/NN ,/, but/CC 
+[ a/DT second/JJ alternative/NN ]
+--/: about/IN 
+[ $/$ 124,875/CD ]
+--/: survived/VBD 
+[ a/DT tabling/NN motion/NN ]
+,/, 
+[ 55-43/NN ]
+,/, and/CC was/VBD then/RB approved/VBN by/IN 
+[ voice/NN vote/NN ]
+./. 
+
+[ The/DT new/JJ ceiling/NN ]
+would/MD be/VB more/JJR than/IN 
+[ $/$ 24,000/CD ]
+above/IN 
+[ the/DT current/JJ limit/NN ]
+of/IN approximately/RB 
+[ $/$ 101,000/CD ]
+,/, and/CC though/IN still/RB restrictive/JJ on/IN lending/NN in/IN 
+[ such/JJ states/NNS ]
+as/IN 
+[ California/NNP ]
+and/CC 
+[ New/NNP York/NNP ]
+,/, 
+[ the/DT new/JJ limit/NN ]
+is/VBZ expected/VBN to/TO encourage/VB 
+[ FHA/NNP activity/NN ]
+and/CC yield/VB 
+[ $/$ 104/CD million/CD ]
+in/IN 
+[ new/JJ premiums/NNS ]
+./. 
+
+======================================
+
+[ The/DT increase/NN ]
+would/MD have/VB 
+[ the/DT greatest/JJS effect/NN ]
+on/IN 
+[ sales/NNS ]
+of/IN 
+[ new/JJ housing/NN ]
+,/, and/CC in/IN 
+[ more/JJR ]
+than/IN 
+[ a/DT dozen/NN states/NNS ]
+including/VBG 
+[ Illinois/NNP ]
+,/, 
+[ Michigan/NNP ]
+,/, 
+[ Maine/NNP ]
+and/CC 
+[ Maryland/NNP ]
+,/, 
+[ the/DT new/JJ ceiling/NN ]
+would/MD be/VB above/IN or/CC roughly/RB 
+[ the/DT equivalent/NN ]
+of/IN 
+[ median/JJ purchase/NN prices/NNS ]
+,/, according/VBG to/TO 
+[ figures/NNS ]
+used/VBN by/IN 
+[ the/DT Senate/NNP Banking/NNP ]
+,/, 
+[ Housing/NNP ]
+and/CC 
+[ Urban/NNP Affairs/NNPS Committee/NNP ]
+./. 
+
+Though/IN not/RB approaching/VBG 
+[ the/DT $/$ 180,000/CD ]
+to/TO 
+[ $/$ 189,000/CD level/NN ]
+of/IN 
+[ metropolitan/JJ New/NNP York/NNP ]
+,/, 
+[ the/DT higher/JJR ceiling/NN ]
+comes/VBZ far/RB closer/RBR to/TO 
+[ the/DT New/NNP York/NNP state/NN median/NN ]
+,/, and/CC 
+[ FHA/NNP terms/NNS ]
+would/MD encourage/VB 
+[ first-time/JJ buyers/NNS ]
+,/, 
+[ who/WP ]
+are/VBP required/VBN to/TO put/VB up/RP only/RB 
+[ 5/CD %/NN ]
+of/IN 
+[ the/DT total/JJ purchase/NN price/NN ]
+./. 
+
+======================================
+
+[ The/DT bigger/JJR premiums/NNS ]
+would/MD help/VB give/VB 
+[ the/DT Senate/NNP ]
+
+[ the/DT flexibility/NN ]
+to/TO raise/VB 
+[ annual/JJ spending/NN ]
+for/IN 
+[ the/DT space/NN station/NN ]
+to/TO 
+[ $/$ 1.85/CD billion/CD ]
+,/, 
+[ which/WDT ]
+is/VBZ twice/RB 
+[ this/DT year/NN 's/POS level/NN ]
+and/CC includes/VBZ 
+[ the/DT first/JJ construction/NN funds/NNS ]
+for/IN 
+[ the/DT massive/JJ project/NN ]
+./. 
+
+[ The/DT space/NN station/NN figures/NNS ]
+are/VBP nearly/RB 
+[ $/$ 195/CD million/CD ]
+above/IN 
+[ the/DT House-passed/JJ level/NN ]
+./. 
+
+[ The/DT measure/NN ]
+also/RB provides/VBZ 
+[ $/$ 62/CD million/CD ]
+to/TO preserve/VB 
+[ the/DT advanced/JJ communications-technology/NN satellite/NN being/VBG ]
+developed/VBN by/IN 
+[ General/NNP Electric/NNP Co/NNP ]
+./. 
+
+======================================
+
+Funding/NN for/IN 
+[ the/DT administration/NN 's/POS high-speed/JJ aerospace/NN plane/NN ]
+was/VBD rejected/VBN ,/, but/CC 
+[ the/DT bill/NN ]
+preserves/VBZ at/IN 
+[ least/JJS partial/JJ ]
+financing/NN of/IN 
+[ $/$ 20/CD million/CD ]
+for/IN starting/VBG up/RP 
+[ the/DT CRAF-Cassini/NNP mission/NN ]
+--/: 
+[ a/DT successor/NN ]
+to/TO 
+[ the/DT celebrated/JJ Voyager/NNP probe/NN ]
+./. 
+
+======================================
+
+Among/IN 
+[ major/JJ domestic/JJ accounts/NNS ]
+,/, 
+[ the/DT bill/NN ]
+endorses/VBZ 
+[ a/DT House-passed/JJ increase/NN ]
+of/IN more/JJR than/IN 
+[ 20/CD %/NN ]
+in/IN funding/NN to/TO modernize/VB 
+[ public/JJ housing/NN ]
+occupied/VBN by/IN 
+[ many/JJ ]
+of/IN 
+[ the/DT nation/NN 's/POS poorest/JJS tenants/NNS ]
+./. 
+
+[ Financing/NN ]
+for/IN 
+[ the/DT Superfund/NNP program/NN ]
+to/TO clean/VB 
+[ toxic-waste/NN sites/NNS ]
+would/MD be/VB increased/VBN 
+[ 10/CD %/NN ]
+above/IN 
+[ current/JJ appropriations/NNS ]
+,/, and/CC 
+[ total/JJ spending/NN ]
+for/IN 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP 's/POS programs/NNS ]
+would/MD exceed/VB 
+[ $/$ 5.6/CD billion/CD ]
+,/, or/CC 
+[ 15/CD %/NN ]
+above/IN 
+[ the/DT president/NN 's/POS request/NN ]
+./. 
+
+======================================
+
+[ Though/IN ]
+
+[ the/DT Senate/NNP ]
+completed/VBD 
+[ debate/NN last/JJ night/NN ]
+on/IN 
+[ the/DT underlying/VBG bill/NN ]
+,/, 
+[ final/JJ approval/NN ]
+was/VBD delayed/VBN by/IN 
+[ the/DT GOP/NNP leadership/NN ]
+in/IN 
+[ an/DT apparent/JJ effort/NN ]
+to/TO gain/VB 
+[ some/DT leverage/NN ]
+in/IN 
+[ the/DT negotiations/NNS ]
+on/IN 
+[ anti-drug/JJ programs/NNS ]
+./. 
+
+[ The/DT larger/JJR result/NN ]
+is/VBZ to/TO slow/VB 
+[ the/DT entire/JJ appropriations/NNS process/NN ]
+,/, and/CC with/IN less/JJR than/IN 
+[ two/CD weeks/NNS ]
+before/IN 
+[ the/DT new/JJ fiscal/JJ year/NN ]
+,/, 
+[ the/DT Senate/NNP ]
+has/VBZ yet/RB to/TO give/VB even/RB 
+[ initial/JJ approval/NN ]
+to/TO 
+[ bills/NNS ]
+covering/VBG 
+[ the/DT bulk/NN ]
+of/IN 
+[ defense/NN ]
+and/CC 
+[ domestic/JJ spending/NN ]
+./. 
+
+======================================
+
+By/IN slowing/VBG 
+[ the/DT process/NN ]
+,/, 
+[ the/DT GOP/NNP ]
+preserves/VBZ 
+[ its/PRP$ options/NNS ]
+for/IN offering/VBG competing/VBG 
+[ drug-funding/NN amendments/NNS ]
+if/IN 
+[ the/DT party/NN ]
+ca/MD n't/RB reach/VB 
+[ a/DT settlement/NN ]
+with/IN 
+[ the/DT Democrats/NNPS ]
+,/, but/CC for/IN 
+[ some/DT ]
+,/, 
+[ the/DT strategy/NN ]
+is/VBZ directed/VBN too/RB at/IN 
+[ Mr./NNP Byrd/NNP ]
+./. 
+
+[ The/DT West/NNP Virginia/NNP Democrat/NNP ]
+was/VBD adamant/JJ in/IN opposing/VBG 
+[ anything/NN ]
+but/CC 
+[ an/DT across-the-board/JJ ]
+cut/NN to/TO finance/VB 
+[ the/DT entire/JJ drug/NN package/NN ]
+,/, and/CC 
+[ his/PRP$ position/NN ]
+makes/VBZ 
+[ him/PRP ]
+
+[ a/DT target/NN ]
+for/IN 
+[ Republicans/NNPS ]
+
+[ who/WP ]
+resented/VBD 
+[ his/PRP$ tenure/NN ]
+as/IN 
+[ Democratic/JJ leader/NN ]
+in/IN 
+[ the/DT Senate/NNP ]
+./. 
+
+======================================
+
+[ Republicans/NNPS ]
+deny/VBP 
+[ any/DT animosity/NN ]
+toward/IN 
+[ Mr./NNP Byrd/NNP ]
+,/, but/CC by/IN delaying/VBG 
+[ the/DT bills/NNS ]
+,/, 
+[ some/DT GOP/NNP senators/NNS ]
+see/VBP 
+[ an/DT opportunity/NN ]
+to/TO take/VB 
+[ aim/NN ]
+at/IN 
+[ Mr./NNP Byrd/NNP 's/POS pride/NN ]
+in/IN ``/`` running/VBG 
+[ the/DT trains/NNS ]
+on/IN 
+[ time/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+has/VBZ prompted/VBN 
+[ recollections/NNS ]
+of/IN 
+[ an/DT earlier/JJR analogy/NN ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT senior/JJ Republican/NNP ]
+suggested/VBD half-jokingly/RB of/IN devising/VBG 
+[ a/DT ]
+``/`` 
+[ Gaslight/NN ]
+''/'' 
+[ strategy/NN ]
+,/, in/IN 
+[ which/WDT ]
+
+[ the/DT GOP/NNP ]
+would/MD seek/VB to/TO undermine/VB 
+[ its/PRP$ old/JJ nemesis/NN ]
+much/RB as/IN 
+[ Charles/NNP Boyer/NNP ]
+sought/VBD to/TO drive/VB 
+[ his/PRP$ wife/NN ]
+mad/JJ in/IN 
+[ the/DT 1940s/NNS suspense/NN movie/NN ]
+set/VBN in/IN 
+[ London/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP puzzled/JJ by/IN 
+[ that/DT approach/NN ]
+;/: 
+[ I/PRP ]
+'m/VBP saddened/JJ by/IN 
+[ it/PRP ]
+,/, ''/'' 
+[ Mr./NNP Byrd/NNP ]
+said/VBD of/IN 
+[ the/DT delaying/JJ tactics/NNS ]
+./. 
+
+But/CC 
+[ Sen./NNP Alan/NNP Simpson/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Wyo/NNP ]
+./. 
+
+ )/) vigorously/RB denied/VBD 
+[ any/DT effort/NN ]
+to/TO ``/`` bait/VB 
+[ Byrd/NNP ]
+./. 
+
+''/'' ``/`` 
+[ I/PRP ]
+would/MD n't/RB be/VB 
+[ part/NN ]
+of/IN 
+[ it/PRP ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

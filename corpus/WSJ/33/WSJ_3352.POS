@@ -1,0 +1,725 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ What/WP kind/NN ]
+of/IN 
+[ a/DT baseball/NN season/NN ]
+was/VBD 
+[ it/PRP ]
+?/. 
+
+[ A/DT remarkable/JJ one/NN ]
+,/, of/IN 
+[ course/NN ]
+./. 
+
+[ They/PRP ]
+
+[ all/DT ]
+are/VBP ./. 
+
+======================================
+
+[ The/DT Chicago/NNP Cubs/NNPS ]
+won/VBD 
+[ a/DT divisional/JJ championship/NN ]
+and/CC 
+[ the/DT New/NNP York/NNP Yankees/NNPS ]
+did/VBD n't/RB ./. 
+
+[ Nolan/NNP Ryan/NNP ]
+of/IN 
+[ the/DT Texas/NNP Rangers/NNPS ]
+became/VBD 
+[ the/DT first/JJ Major/NNP League/NNP pitcher/NN ]
+to/TO pass/VB 
+[ the/DT 5,000/CD mark/NN ]
+in/IN 
+[ career/NN strike-outs/NNS ]
+./. 
+
+[ The/DT Boston/NNP Red/NNP Sox/NNPS 's/POS Wade/NNP Boggs/NNP ]
+recorded/VBD 
+[ 200/CD hits/NNS ]
+for/IN 
+[ the/DT seventh/JJ straight/JJ season/NN ]
+,/, 
+[ something/NN ]
+
+[ neither/CC Pete/NNP Rose/NNP ]
+nor/CC 
+[ Ty/NNP Cobb/NNP ]
+could/MD manage/VB ./. 
+
+[ Tom/NNP Lasorda/NNP ]
+lost/VBD 
+[ weight/NN ]
+./. 
+
+[ Commissioner/NNP A./NN Bartlett/NNP Giamatti/NNP ]
+banished/VBD 
+[ Rose/NNP ]
+from/IN 
+[ the/DT game/NN ]
+for/IN 
+[ life/NN ]
+for/IN gambling/NN ,/, then/RB died/VBD of/IN 
+[ a/DT heart/NN ]
+attack/NN 
+[ a/DT week/NN ]
+later/RB ./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD 
+[ a/DT remarkable/JJ season/NN ]
+in/IN 
+[ other/JJ ways/NNS ]
+,/, too/RB ./. 
+
+Here/RB are/VBP 
+[ some/DT ]
+of/IN 
+[ them/PRP ]
+:/: 
+======================================
+
+[ Most-Remarkable/JJS Opening/NN Day/NN ]
+--/: While/IN 
+[ the/DT Chicago/NNP White/NNP Sox/NNPS ]
+were/VBD opening/VBG at/IN 
+[ home/NN ]
+against/IN 
+[ Oakland/NNP ]
+on/IN 
+[ April/NNP 14/CD ]
+,/, 
+[ a/DT fan/NN ]
+fell/VBD out/RB of/IN 
+[ the/DT right-field/NN bleachers/NNS ]
+ (/( 
+[ he/PRP ]
+was/VBD unhurt/JJ )/) ,/, 
+[ electrical/JJ power/NN ]
+went/VBD off/IN in/IN 
+[ the/DT eighth/JJ inning/NN ]
+,/, knocking/VBG out/RP 
+[ the/DT scoreboard/NN ]
+and/CC trapping/VBG 
+[ Acting/NNP Mayor/NNP Eugene/NNP Sawyer/NNP ]
+in/IN 
+[ an/DT elevator/NN ]
+,/, and/CC 
+[ bids/NNS ]
+on/IN 
+[ the/DT team/NN 's/POS new/JJ stadium/NN ]
+came/VBD in/RB 
+[ $/$ 30/CD million/CD above/RB estimates/NNS ]
+./. 
+
+[ The/DT Sox/NNP ]
+committed/VBD 
+[ three/CD errors/NNS ]
+and/CC lost/VBD ,/, 
+[ 7-4/CD ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Game/NN ]
+--/: 
+[ The/DT Los/NNP Angeles/NNP Dodgers/NNPS ]
+and/CC 
+[ Houston/NNP Astros/NNP ]
+played/VBD for/IN 
+[ seven/CD hours/NNS ]
+and/CC 
+[ 14/CD minutes/NNS ]
+on/IN 
+[ June/NNP 3/CD ]
+and/CC 
+[ 4/CD ]
+in/IN 
+[ Houston/NNP ]
+,/, finishing/VBG at/IN 
+[ 2:50/CD ]
+a.m/RB ./. 
+
+[ It/PRP ]
+was/VBD 
+[ the/DT longest/JJS night/NN game/NN ]
+in/IN 
+[ National/NNP League/NNP history/NN ]
+./. 
+
+[ The/DT Dodgers/NNPS ]
+used/VBD 
+[ nine/CD regular/JJ pitchers/NNS ]
+plus/CC 
+[ third/JJ baseman/NN Jeff/NNP Hamilton/NNP ]
+,/, 
+[ who/WP ]
+took/VBD 
+[ the/DT 5-4/CD loss/NN ]
+./. 
+
+[ The/DT next/JJ afternoon/NN ]
+,/, 
+[ the/DT two/CD teams/NNS ]
+played/VBD 
+[ 13/CD innings/NN ]
+before/IN 
+[ Houston/NNP ]
+won/VBD again/RB ./. 
+
+======================================
+
+[ Next-Most-Remarkable/JJ Game/NN ]
+--/: 
+[ All/DT 27/CD outs/NNS ]
+by/IN 
+[ the/DT Philadelphia/NNP Phillies/NNPS ]
+in/IN 
+[ a/DT June/NNP 25/CD contest/NN ]
+at/IN 
+[ New/NNP York/NNP ]
+were/VBD accomplished/VBN without/IN 
+[ a/DT Mets/NNP '/NNPS fielding/NN assist/NN ]
+,/, tying/VBG 
+[ a/DT 44-year-old/JJ record/NN ]
+./. 
+
+Met/NNP 
+[ pitchers/NNS ]
+struck/VBN out/RP 
+[ 13/CD ]
+,/, 
+[ the/DT Phils/NNPS ]
+hit/VBD 
+[ 12/CD fly/NN balls/NNS ]
+,/, and/CC 
+[ two/CD batters/NNS ]
+grounded/VBD out/RB to/TO 
+[ the/DT first/JJ baseman/NN ]
+,/, 
+[ unassisted/JJ ]
+,/, in/IN 
+[ a/DT 5-1/CD Mets/NNPS ]
+win/NN ./. 
+
+======================================
+
+[ Most-Remarkable/JJS Inning/NN ]
+--/: 
+[ The/DT Cincinnati/NNP Reds/NNPS ]
+scored/VBD 
+[ 14/CD runs/NNS ]
+on/IN 
+[ a/DT record/NN 16/CD hits/NNS ]
+in/IN 
+[ the/DT first/JJ inning/NN ]
+of/IN 
+[ an/DT Aug./NNP 3/CD home/NN game/NN ]
+against/IN 
+[ Houston/NNP ]
+./. 
+
+[ The/DT last/JJ two/CD batters/NNS ]
+in/IN 
+[ the/DT frame/NN ]
+were/VBD retired/VBN ./. 
+
+======================================
+
+[ Most-Remarkable/JJS Move/NNP ]
+by/IN 
+[ an/DT Owner/NN ]
+--/: 
+[ Reds/NNPS '/POS owner/NN Marge/NNP Schott/NNP ]
+agreed/VBD to/TO toss/VB 
+[ a/DT coin/NN ]
+with/IN 
+[ outfielder/NN Kal/NNP Daniels/NNP ]
+over/IN 
+[ a/DT $/$ 25,000/CD salary/NN difference/NN ]
+./. 
+
+[ She/PRP ]
+called/VBD 
+[ heads/NNS ]
+,/, 
+[ the/DT coin/NN ]
+came/VBD up/RB 
+[ tails/NNS ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Series/NN ]
+of/IN 
+[ Moves/NNS ]
+by/IN 
+[ a/DT Team/NN 's/POS Management/NN ]
+--/: By/IN 
+[ August/NNP ]
+,/, only/RB 
+[ five/CD players/NNS ]
+
+[ who/WP ]
+were/VBD on/IN 
+[ the/DT Yankees/NNPS '/POS 1988/CD opening-day/NN roster/NN ]
+were/VBD still/RB with/IN 
+[ the/DT club/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Performance/NN ]
+by/IN 
+[ a/DT Hitter/NN ]
+--/: 
+[ Toronto/NNP 's/POS Nelson/NNP Liriano/NNP ]
+broke/VBD up/RP 
+[ no-hitters/NNS ]
+with/IN 
+[ ninth-inning/NN hits/NNS ]
+against/IN 
+[ Texas/NNP 's/POS Ryan/NNP ]
+on/IN 
+[ April/NNP 23/CD ]
+and/CC 
+[ California/NNP 's/POS Kirk/NNP McCaskill/NNP ]
+on/IN 
+[ April/NNP 28/CD ]
+./. 
+
+On/IN 
+[ April/NNP 30/CD ]
+,/, 
+[ he/PRP ]
+got/VBD 
+[ his/PRP$ team/NN ]
+'s/POS first/JJ hit/NN off/IN 
+[ the/DT Angels/NNPS '/POS Mike/NNP Witt/NNP ]
+,/, 
+[ a/DT fifth-inning/NN single/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS ]
+Hitting/NN 
+[ Performance/NN ]
+by/IN 
+[ a/DT Team/NN ]
+--/: On/IN 
+[ June/NNP 24/CD ]
+,/, 
+[ the/DT Cleveland/NNP Indians/NNPS ]
+got/VBD 
+[ six/CD hits/NNS ]
+against/IN 
+[ the/DT Rangers/NNPS ]
+at/IN 
+[ Texas/NNP ]
+./. 
+
+[ All/DT ]
+were/VBD 
+[ home/NN runs/NNS ]
+in/IN 
+[ a/DT 7-3/CD Indians/NNPS ]
+win/NN ./. 
+
+======================================
+
+[ Most-Remarkable/JJS Performance/NN ]
+by/IN 
+[ a/DT Pitcher/NN ]
+--/: 
+[ Cubs/NNPS '/POS reliever/NN ]
+Mitch/NNP (/( 
+[ ``/`` Wild/NNP Thing/NNP ]
+''/'' )/) 
+[ Williams/NNP ]
+walked/VBD 
+[ two/CD batters/NNS ]
+,/, hit/VBD 
+[ two/CD others/NNS ]
+,/, threw/VBD 
+[ a/DT wild/JJ pitch/NN ]
+and/CC balked/VBD ,/, 
+[ all/DT ]
+without/IN permitting/VBG 
+[ a/DT run/NN ]
+in/IN 
+[ the/DT seventh/JJ inning/NN ]
+of/IN 
+[ a/DT May/NNP 21/CD game/NN ]
+against/IN 
+[ Cincinnati/NNP ]
+./. 
+
+[ He/PRP ]
+began/VBD 
+[ the/DT inning/NN ]
+by/IN getting/VBG 
+[ Todd/NNP Benzinger/NNP ]
+to/TO fly/VB out/RP ./. 
+
+[ He/PRP ]
+hit/VBD 
+[ Jeff/NNP Reed/NNP ]
+,/, but/CC picked/VBD 
+[ him/PRP ]
+off/IN 
+[ first/JJ base/NN ]
+./. 
+
+[ He/PRP ]
+hit/VBD 
+[ Lenny/NNP Harris/NNP ]
+and/CC allowed/VBD 
+[ him/PRP ]
+to/TO take/VB 
+[ second/JJ ]
+on/IN 
+[ a/DT wild/JJ pitch/NN ]
+./. 
+
+Then/RB 
+[ he/PRP ]
+walked/VBD 
+[ Rick/NNP Mahler/NNP ]
+,/, balked/VBD 
+[ the/DT runners/NNS ]
+to/TO 
+[ second/JJ ]
+and/CC 
+[ third/JJ ]
+,/, and/CC walked/VBD 
+[ Chris/NNP Sabo/NNP ]
+to/TO load/VB 
+[ the/DT bases/NNS ]
+./. 
+
+[ A/DT fly/NN ball/NN ]
+by/IN 
+[ Joel/NNP Youngblood/NNP ]
+ended/VBD 
+[ the/DT inning/NN ]
+./. 
+
+======================================
+
+[ Next-Most-Remarkable/JJ Performance/NN ]
+by/IN 
+[ a/DT Pitcher/NN ]
+--/: 
+[ John/NNP Wockenfuss/NNP ]
+,/, 
+[ the/DT manager/NN ]
+of/IN 
+[ the/DT Detroit/NNP Tigers/NNP '/POS minor/JJ league/NN team/NN ]
+at/IN 
+[ Toledo/NNP ]
+,/, 
+[ the/DT Mud/NNP Hens/NNPS ]
+,/, pitched/VBD 
+[ five/CD shutout/NN innings/NN ]
+against/IN 
+[ the/DT parent/NN club/NN ]
+in/IN 
+[ an/DT exhibition/NN game/NN ]
+May/MD 
+[ 11/CD ]
+./. 
+
+As/IN 
+[ a/DT player/NN ]
+,/, 
+[ Wockenfuss/NNP ]
+was/VBD 
+[ a/DT catcher/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Fielding/NN Performance/NN ]
+--/: 
+[ The/DT Cubs/NNPS ]
+and/CC 
+[ San/NNP Diego/NNP Padres/NNPS ]
+committed/VBD 
+[ 11/CD errors/NNS ]
+--/: 
+[ six/CD ]
+by/IN 
+[ the/DT Padres/NNPS ]
+--/: in/IN 
+[ an/DT April/NNP 29/CD game/NN ]
+at/IN 
+[ Chicago/NNP ]
+./. 
+
+[ The/DT crowd/NN ]
+booed/VBD when/WRB 
+[ the/DT official/JJ scorer/NN ]
+credited/VBD 
+[ a/DT Cub/NNP ]
+with/IN 
+[ a/DT hit/NN ]
+in/IN 
+[ the/DT seventh/JJ inning/NN ]
+on/IN 
+[ a/DT grounder/NN ]
+
+[ that/WDT ]
+bounced/VBD off/RB 
+[ the/DT mitt/NN ]
+of/IN 
+[ a/DT Padre/NNP infielder/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Move/NN ]
+by/IN 
+[ a/DT Manager/NN ]
+--/: 
+[ Philadelphia/NNP manager/NN Nick/NNP Leyva/NNP ]
+removed/VBD 
+[ John/NNP Kruk/NNP ]
+from/IN 
+[ a/DT Sept./NNP 4/CD home/NN game/NN ]
+against/IN 
+[ Pittsburgh/NNP ]
+because/IN 
+[ Kruk/NNP ]
+cursed/VBD loudly/RB while/IN running/VBG out/RP 
+[ an/DT infield/NN grounder/NN ]
+./. 
+
+Philly/RB 
+[ players/NNS ]
+had/VBD been/VBN warned/VBN against/IN 
+[ using/VBG profanity/NN ]
+on/IN 
+[ the/DT field/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Injury/NN ]
+--/: 
+[ Toronto/NNP pitcher/NN  David/NNP Wells/NNP ]
+needed/VBD 
+[ five/CD stitches/NNS ]
+to/TO close/VB 
+[ a/DT cut/NN ]
+
+[ he/PRP ]
+suffered/VBD when/WRB 
+[ he/PRP ]
+put/VBD 
+[ his/PRP$ pitching/NN hand/NN ]
+through/IN 
+[ a/DT bathroom/NN window/NN ]
+while/IN sleepwalking/NN ./. 
+
+======================================
+
+[ Most-Remarkable/JJS Performance/NN ]
+by/IN 
+[ the/DT Fans/NNS ]
+--/: 
+[ They/PRP ]
+elected/VBD to/TO 
+[ the/DT All-Star/NNP game/NN Philadelphia/NNP third/JJ baseman/NN Mike/NNP Schmidt/NNP ]
+,/, 
+[ who/WP ]
+'d/MD retired/VBN ,/, and/CC 
+[ Oakland/NNP outfielder/NN Jose/NNP Canseco/NNP ]
+,/, 
+[ who/WP ]
+'d/MD missed/VBN 
+[ the/DT entire/JJ season/NN ]
+to/TO 
+[ that/DT point/NN ]
+because/IN of/IN 
+[ injuries/NNS ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Performance/NN ]
+by/IN 
+[ a/DT Division/NN ]
+--/: On/IN 
+[ May/NNP 23/CD ]
+,/, with/IN more/JJR than/IN 
+[ one-fourth/NN ]
+of/IN 
+[ the/DT season/NN ]
+gone/VBN ,/, 
+[ all/DT seven/CD teams/NNS ]
+in/IN 
+[ the/DT American/NNP League/NNP East/NNP ]
+had/VBD 
+[ won-lost/JJ records/NNS ]
+under/IN 
+[ .500/CD ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Home/NN Run/NN ]
+--/: 
+[ The/DT Cubs/NNPS '/POS Andre/NNP Dawson/NNP ]
+got/VBD 
+[ a/DT homer/NN ]
+in/IN 
+[ a/DT Sept./NNP 25/CD game/NN ]
+at/IN 
+[ Montreal/NNP ]
+even/RB though/IN 
+[ Expo/NNP center/JJ fielder/NN Dave/NNP Martinez/NNP ]
+clearly/RB caught/VBD 
+[ Dawson/NNP 's/POS line/NN drive/NN ]
+./. 
+
+After/IN 
+[ the/DT catch/NN Martinez/NNP ]
+fell/VBD ,/, injuring/VBG 
+[ his/PRP$ shoulder/NN ]
+,/, and/CC allowed/VBD 
+[ the/DT ball/NN ]
+to/TO trickle/VB from/IN 
+[ his/PRP$ glove/NN ]
+as/IN 
+[ he/PRP ]
+lay/VBD writhing/VBG ./. 
+
+[ This/DT ]
+violated/VBD 
+[ a/DT little-known/JJ rule/NN ]
+saying/VBG 
+[ that/DT ]
+,/, to/TO make/VB 
+[ a/DT successful/JJ ]
+catch/NN ,/, 
+[ a/DT fielder/NN ]
+must/MD release/VB 
+[ the/DT ball/NN ]
+``/`` voluntarily/RB ./. 
+
+''/'' 
+======================================
+
+[ Most-Remarkable/JJS Move/NN ]
+by/IN 
+[ an/DT Umpire/NN ]
+--/: 
+[ Ken/NNP Kaiser/NNP ]
+ejected/VBD 
+[ Milwaukee/NNP 's/POS Terry/NNP Francona/NNP ]
+after/IN 
+[ Francona/NNP ]
+had/VBD received/VBN 
+[ an/DT intentional/JJ walk/NN ]
+./. 
+
+[ Kaiser/NNP ]
+objected/VBD to/TO 
+[ a/DT remark/NN ]
+made/VBN by/IN 
+[ Francona/NNP ]
+concerning/VBG 
+[ a/DT previous/JJ play/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Dining/NN Performance/NN ]
+--/: 
+[ Seven/CD Dodgers/NNPS ]
+devoured/VBD 
+[ some/DT $/$ 150/CD worth/NN ]
+of/IN 
+[ food/NN ]
+as/IN 
+[ guests/NNS ]
+of/IN 
+[ the/DT owner/NN ]
+of/IN 
+[ a/DT Cincinnati/NNP ribs/NNS restaurant/NN ]
+,/, then/RB left/VBN without/IN leaving/VBG 
+[ a/DT tip/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Tournament/NN ]
+--/: 
+[ The/DT championship/NN game/NN ]
+of/IN 
+[ the/DT first/JJ international/JJ baseball/NN tourney/NN ]
+held/VBN in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+ended/VBD when/WRB 
+[ officials/NNS ]
+refused/VBD to/TO allow/VB 
+[ teams/NNS ]
+from/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Miami/NNP ]
+and/CC 
+[ Japan/NNP 's/POS Tokai/NNP University/NNP ]
+to/TO continue/VB playing/VBG after/IN 
+[ they/PRP ]
+'d/MD tied/VBN ,/, 
+[ 5-5/CD ]
+,/, after/IN 
+[ nine/CD innings/NN ]
+./. 
+
+======================================
+
+[ Most-Remarkable/JJS Quote/NN ]
+--/: 
+[ Outfielder/NN Mel/NNP Hall/NNP ]
+,/, traded/VBN from/IN 
+[ Cleveland/NNP ]
+to/TO 
+[ the/DT Yankees/NNPS ]
+,/, was/VBD asked/VBN if/IN 
+[ he/PRP ]
+thought/VBD 
+[ he/PRP ]
+'d/MD ever/RB wear/VB 
+[ pin/NN stripes/NNS ]
+./. 
+
+``/`` Yeah/RB ,/, ''/'' 
+[ he/PRP ]
+replied/VBD ./. 
+
+``/`` In/IN 
+[ prison/NN ]
+./. 

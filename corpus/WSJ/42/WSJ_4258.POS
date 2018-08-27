@@ -1,0 +1,145 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Gillette/NNP Co./NNP ]
+reached/VBD 
+[ an/DT agreement/NN ]
+with/IN 
+[ California/NNP 's/POS attorney/NN general/NN ]
+and/CC 
+[ three/CD environmental/JJ groups/NNS ]
+to/TO remove/VB 
+[ a/DT ]
+potentially/RB 
+[ cancer-causing/JJ chemical/NN ]
+from/IN 
+[ its/PRP$ ]
+widely/RB used/JJ 
+[ Liquid/NNP Paper/NNP typing/NN correction/NN products/NNS ]
+and/CC to/TO pay/VB 
+[ $/$ 300,000/CD ]
+in/IN 
+[ fines/NNS ]
+and/CC 
+[ legal/JJ costs/NNS ]
+./. 
+
+======================================
+
+[ The/DT formal/JJ settlement/NN ]
+,/, signed/VBN yesterday/NN ,/, 
+[ calls/VBZ ]
+for/IN 
+[ Gillette/NNP ]
+to/TO eliminate/VB 
+[ trichloroethylene/NN ]
+,/, 
+[ a/DT chemical/NN ]
+used/VBN to/TO make/VB 
+[ Liquid/NNP Paper/NNP ]
+dry/VB faster/RBR ./. 
+
+======================================
+
+[ The/DT agreement/NN ]
+was/VBD concluded/VBN under/IN 
+[ California/NNP 's/POS Proposition/NN 65/CD ]
+,/, 
+[ a/DT 1986/CD voter/NN initiative/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ broad/JJ labeling/NN requirements/NNS ]
+for/IN 
+[ products/NNS ]
+containing/VBG 
+[ any/DT ]
+of/IN about/IN 
+[ 400/CD ]
+suspected/JJ 
+[ carcinogenic/JJ chemicals/NNS ]
+./. 
+
+According/VBG to/TO 
+[ the/DT parties/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ 
+[ the/DT first/JJ case/NN ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT manufacturer/NN ]
+has/VBZ agreed/VBN to/TO eliminate/VB 
+[ potential/JJ carcinogens/NNS ]
+from/IN 
+[ a/DT product/NN ]
+after/IN 
+[ a/DT public/JJ complaint/NN ]
+filed/VBN under/IN 
+[ the/DT law/NN ]
+./. 
+
+======================================
+
+[ A/DT lawyer/NN ]
+acting/VBG for/IN 
+[ Gillette/NNP ]
+said/VBD 
+[ the/DT company/NN ]
+quickly/RB agreed/VBD to/TO make/VB 
+[ the/DT change/NN ]
+``/`` to/TO eliminate/VB 
+[ any/DT confusion/NN ]
+or/CC 
+[ concern/NN ]
+about/IN 
+[ the/DT product/NN ]
+./. 
+
+''/'' 
+[ The/DT lawyer/NN ]
+,/, 
+[ Michele/NNP Corash/NNP ]
+,/, added/VBD that/IN ``/`` 
+[ Gillette/NNP ]
+believes/VBZ that/IN 
+[ Liquid/NNP Paper/NNP ]
+is/VBZ safe/JJ ./. 
+
+''/'' 
+======================================
+
+While/IN 
+[ the/DT settlement/NN ]
+requires/VBZ changing/VBG 
+[ the/DT formulation/NN ]
+of/IN 
+[ Liquid/NNP Paper/NNP ]
+for/IN 
+[ the/DT California/NNP market/NN ]
+only/RB ,/, 
+[ it/PRP ]
+'s/VBZ likely/JJ that/IN 
+[ trichloroethylene/NN ]
+will/MD be/VB removed/VBN from/IN 
+[ the/DT product/NN ]
+in/IN 
+[ all/DT markets/NNS ]
+,/, 
+[ Ms./NNP Corash/NNP ]
+said/VBD ./. 

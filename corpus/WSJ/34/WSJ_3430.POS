@@ -1,0 +1,458 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT House/NNP ]
+approved/VBD 
+[ legislation/NN ]
+expanding/VBG 
+[ federal/JJ assistance/NN ]
+for/IN 
+[ child/NN care/NN ]
+after/IN 
+[ it/PRP ]
+rejected/VBD 
+[ two/CD narrower/JJR proposals/NNS ]
+supported/VBN by/IN 
+[ the/DT Bush/NNP administration/NN ]
+./. 
+
+======================================
+
+[ The/DT action/NN ]
+put/VBD 
+[ Congress/NNP ]
+closer/RBR to/TO enacting/VBG 
+[ federal/JJ child-care/NN legislation/NN ]
+,/, though/IN 
+[ much/JJ shaping/NN ]
+remains/VBZ to/TO be/VB done/VBN in/IN 
+[ conference/NN ]
+with/IN 
+[ the/DT Senate/NNP ]
+,/, 
+[ which/WDT ]
+passed/VBD 
+[ its/PRP$ own/JJ child-care/NN subsidy/NN ]
+and/CC 
+[ tax-credit/NN bill/NN last/JJ June/NNP ]
+./. 
+
+[ The/DT legislation/NN ]
+still/RB faces/VBZ 
+[ other/JJ hurdles/NNS ]
+:/: 
+[ The/DT administration/NN ]
+opposes/VBZ 
+[ both/CC ]
+
+[ the/DT Senate/NNP ]
+and/CC 
+[ House/NNP versions/NNS ]
+./. 
+
+======================================
+
+[ The/DT House/NNP bill/NN ]
+actually/RB includes/VBZ 
+[ two/CD separate/JJ sets/NNS ]
+of/IN 
+[ proposals/NNS ]
+,/, although/IN 
+[ it/PRP ]
+'s/VBZ widely/RB expected/VBN 
+[ a/DT House-Senate/NNP conference/NN committee/NN ]
+wo/MD n't/RB approve/VB 
+[ all/PDT the/DT various/JJ recommendations/NNS ]
+./. 
+
+======================================
+
+[ One/CD set/NN ]
+of/IN 
+[ proposals/NNS ]
+,/, 
+[ which/WDT ]
+originally/RB emerged/VBD from/IN 
+[ the/DT House/NNP Education/NNP ]
+and/CC 
+[ Labor/NNP Committee/NNP ]
+,/, would/MD expand/VB 
+[ the/DT Head/NNP Start/NNP program/NN ]
+for/IN 
+[ disadvantaged/JJ preschool/JJ children/NNS ]
+into/IN 
+[ an/DT all-day/JJ ]
+,/, 
+[ year-round/JJ system/NN ]
+for/IN 
+[ children/NNS ]
+of/IN working/VBG 
+[ mothers/NNS ]
+,/, provide/VB for/IN 
+[ before-school/JJ ]
+and/CC 
+[ after-school/JJ day/NN care/NN ]
+,/, and/CC distribute/VB 
+[ grants/NNS ]
+to/TO 
+[ states/NNS ]
+for/IN 
+[ child-care/NN services/NNS ]
+./. 
+
+======================================
+
+[ The/DT other/JJ ]
+,/, 
+[ which/WDT ]
+came/VBD from/IN 
+[ the/DT Ways/NNP ]
+and/CC 
+[ Means/NNP Committee/NNP ]
+,/, would/MD expand/VB 
+[ the/DT earned-income/NN tax/NN credit/NN ]
+for/IN working/VBG 
+[ families/NNS ]
+and/CC increase/VB 
+[ block/JJ grants/NNS ]
+to/TO 
+[ states/NNS ]
+for/IN 
+[ child-care/NN services/NNS ]
+./. 
+
+======================================
+
+[ The/DT first/JJ proposal/NN ]
+would/MD authorize/VB 
+[ $/$ 1.8/CD billion/CD ]
+in/IN 
+[ federal/JJ spending/NN ]
+in/IN 
+[ fiscal/JJ 1990/CD ]
+,/, 
+[ which/WDT ]
+began/VBD 
+[ Oct./NNP 1/CD ]
+,/, and/CC ``/`` 
+[ such/JJ sums/NNS ]
+as/IN may/MD be/VB necessary/JJ ''/'' after/IN 
+[ that/DT ]
+./. 
+
+[ The/DT tax/NN ]
+and/CC 
+[ block-grant/NN proposal/NN ]
+,/, 
+[ which/WDT ]
+would/MD n't/RB require/VB 
+[ annual/JJ appropriations/NNS ]
+,/, would/MD cost/VB about/RB 
+[ $/$ 15/CD billion/CD ]
+over/IN 
+[ five/CD years/NNS ]
+./. 
+
+======================================
+
+[ The/DT Senate/NNP 's/POS child-care/NN bill/NN ]
+would/MD cost/VB 
+[ $/$ 1.75/CD billion/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ yesterday/NN 's/POS action/NN ]
+,/, 
+[ the/DT House/NNP ]
+defeated/VBD ,/, 
+[ 285-140/CD ]
+,/, 
+[ a/DT Republican/JJ substitute/NN ]
+proposed/VBN by/IN 
+[ Rep./NNP Mickey/NNP Edwards/NNP ]
+of/IN 
+[ Oklahoma/NNP ]
+
+[ that/WDT ]
+would/MD have/VB solely/RB expanded/VBN 
+[ the/DT tax/NN credit/NN ]
+for/IN working/VBG 
+[ poor/JJ families/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB rejected/VBD ,/, 
+[ 230-195/CD ]
+,/, 
+[ an/DT amendment/NN ]
+offered/VBN by/IN 
+[ Rep./NNP Charles/NNP Stenholm/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Texas/NNP ]
+ )/) to/TO strip/VB from/IN 
+[ the/DT bill/NN ]
+
+[ a/DT controversial/JJ provision/NN ]
+requiring/VBG 
+[ states/NNS ]
+to/TO regulate/VB 
+[ child-care/NN providers/NNS ]
+./. 
+
+======================================
+
+[ The/DT Stenholm/NNP plan/NN ]
+would/MD expand/VB 
+[ the/DT earned-income/NN tax/NN ]
+credit/NN and/CC increase/VB 
+[ child-care/NN block/JJ grant/NN ]
+and/CC 
+[ Head/NNP Start/NNP services/NNS ]
+./. 
+
+Echoing/VBG 
+[ others/NNS ]
+
+[ who/WP ]
+said/VBD 
+[ the/DT plan/NN ]
+lacked/VBD 
+[ quality/NN assurances/NNS ]
+,/, 
+[ Rep./NNP George/NNP Miller/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+ )/) argued/VBD against/IN 
+[ a/DT child-care/NN system/NN ]
+``/`` built/VBN on/IN 
+[ the/DT model/NN ]
+of/IN 
+[ Sam/NNP Pierce/NNP ]
+--/: 
+[ we/PRP ]
+can/MD put/VB 
+[ the/DT money/NN ]
+out/RB there/RB and/CC hope/VB for/IN 
+[ the/DT best/JJS ]
+./. 
+
+''/'' 
+======================================
+
+[ Samuel/NNP Pierce/NNP ]
+,/, 
+[ who/WP ]
+was/VBD 
+[ head/NN ]
+of/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Housing/NNP ]
+and/CC 
+[ Urban/NNP Affairs/NNP ]
+during/IN 
+[ the/DT Reagan/NNP administration/NN ]
+,/, has/VBZ come/VBN under/IN 
+[ widespread/JJ criticism/NN ]
+for/IN 
+[ a/DT loose/JJ management/NN style/NN ]
+that/IN 
+[ critics/NNS ]
+say/VBP allowed/VBD 
+[ extensive/JJ mismanagement/NN ]
+,/, 
+[ fraud/NN ]
+and/CC 
+[ influence/NN ]
+peddling/NN ./. 
+
+======================================
+
+[ Critics/NNS ]
+argue/VBP that/IN 
+[ the/DT Democratic-led/JJ child-care/NN plan/NN ]
+would/MD n't/RB give/VB 
+[ parents/NNS ]
+as/IN 
+[ many/JJ choices/NNS ]
+as/IN 
+[ tax/NN credits/NNS ]
+favored/VBN by/IN 
+[ Republicans/NNPS ]
+would/MD ./. 
+
+[ They/PRP ]
+also/RB said/VBD 
+[ the/DT Democratic/JJ proposals/NNS ]
+would/MD disproportionately/RB benefit/VB 
+[ families/NNS ]
+with/IN working/VBG 
+[ mothers/NNS ]
+,/, impose/VB 
+[ costly/JJ regulations/NNS ]
+and/CC create/VB 
+[ a/DT new/JJ bureaucracy/NN ]
+to/TO administer/VB 
+[ grant/NN programs/NNS ]
+./. 
+
+======================================
+
+[ Supporters/NNS ]
+of/IN 
+[ the/DT Democratic/JJ approach/NN ]
+contend/VBP 
+[ it/PRP ]
+would/MD make/VB 
+[ child-care/NN ]
+more/RBR affordable/JJ ,/, 
+[ available/JJ ]
+and/CC 
+[ safe/JJ ]
+./. 
+
+[ They/PRP ]
+say/VBP 
+[ the/DT Republican/JJ reliance/NN ]
+on/IN 
+[ tax/NN credits/NNS ]
+for/IN 
+[ families/NNS ]
+would/MD n't/RB provide/VB enough/JJ 
+[ overall/JJ assistance/NN ]
+and/CC would/MD n't/RB do/VB 
+[ anything/NN ]
+to/TO improve/VB 
+[ the/DT quality/NN ]
+,/, or/CC increase/VB 
+[ the/DT supply/NN ]
+,/, of/IN 
+[ day/NN care/NN ]
+./. 
+
+======================================
+
+[ A/DT House-Senate/NNP conference/NN committee/NN ]
+will/MD have/VB to/TO sort/VB out/RP 
+[ the/DT controversial/JJ issue/NN ]
+of/IN deciding/VBG under/IN 
+[ what/WDT circumstances/NNS public/JJ funds/NNS ]
+could/MD go/VB to/TO religiously/RB affiliated/JJ 
+[ child-care/NN centers/NNS ]
+./. 
+
+======================================
+
+[ The/DT White/NNP House/NNP ]
+already/RB has/VBZ labelled/VBN 
+[ the/DT Senate/NNP version/NN ]
+of/IN 
+[ the/DT child-care/NN bill/NN ]
+
+[ a/DT veto/NN candidate/NN ]
+,/, and/CC 
+[ administration/NN officials/NNS ]
+warned/VBD in/IN 
+[ a/DT letter/NN ]
+circulated/VBN 
+[ last/JJ week/NN ]
+that/IN 
+[ the/DT House/NNP provisions/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP attached/VBN to/TO 
+[ the/DT pending/VBG budget/NN ]
+``/`` 
+[ reconciliation/NN ]
+''/'' 
+[ tax/NN ]
+and/CC 
+[ spending/NN bill/NN ]
+,/, are/VBP ``/`` 
+[ incompatible/JJ ]
+with/IN 
+[ the/DT president/NN 's/POS child-care/NN principles/NNS ]
+./. 
+
+''/'' After/IN 
+[ yesterday/NN 's/POS vote/NN ]
+,/, 
+[ Rep./NNP Newt/NNP Gingrich/NNP ]
+,/, 
+[ the/DT Republican/JJ whip/NN ]
+from/IN 
+[ Georgia/NNP ]
+,/, warned/VBD that/IN 
+[ President/NNP Bush/NNP ]
+``/`` is/VBZ reluctantly/RB prepared/JJ to/TO veto/VB ''/'' 
+[ the/DT reconciliation/NN bill/NN ]
+if/IN 
+[ it/PRP ]
+reaches/VBZ 
+[ his/PRP$ desk/NN ]
+with/IN 
+[ child-care/NN provisions/NNS ]
+
+[ he/PRP ]
+deems/VBZ 
+[ unacceptable/JJ ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB believe/VB 
+[ a/DT kinder/JJR ]
+and/CC 
+[ gentler/JJR George/NNP Bush/NNP ]
+wants/VBZ to/TO veto/VB 
+[ child-care/NN legislation/NN ]
+,/, ''/'' responded/VBD 
+[ Sen./NNP Christopher/NNP Dodd/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Conn./NNP ]
+ )/) ,/, 
+[ the/DT chief/JJ sponsor/NN ]
+of/IN 
+[ the/DT Senate/NNP legislation/NN ]
+./. 
+
+[ He/PRP ]
+added/VBD that/IN 
+[ he/PRP ]
+was/VBD ``/`` very/RB confident/JJ ''/'' 
+[ child-care/NN provisions/NNS ]
+would/MD be/VB 
+[ part/NN ]
+of/IN 
+[ the/DT reconciliation/NN bill/NN ]
+when/WRB 
+[ it/PRP ]
+is/VBZ sent/VBN to/TO 
+[ the/DT president/NN ]
+./. 

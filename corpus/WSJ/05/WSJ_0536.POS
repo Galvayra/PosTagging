@@ -1,0 +1,40 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ General/NNP Motors/NNPS Corp./NNP 's/POS GMC/NNP Truck/NNP division/NN ]
+put/VBD 
+[ a/DT $/$ 750/CD cash/NN incentive/NN ]
+on/IN 
+[ its/PRP$ 1990/CD full-sized/JJ Jimmy/NNP ]
+and/CC 
+[ Suburban/NNP trucks/NNS ]
+./. 
+
+======================================
+
+[ The/DT program/NN ]
+,/, 
+[ which/WDT ]
+runs/VBZ through/IN 
+[ Jan./NNP 4/CD ]
+,/, also/RB offers/VBZ 
+[ low-rate/JJ financing/NN ]
+in/IN 
+[ lieu/NN ]
+of/IN 
+[ the/DT cash/NN rebate/NN ]
+./. 

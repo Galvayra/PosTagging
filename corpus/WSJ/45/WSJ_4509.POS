@@ -1,0 +1,225 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT oil/NN industry/NN ]
+showed/VBD renewed/JJ 
+[ interest/NN ]
+in/IN 
+[ the/DT sea/NN ]
+off/IN 
+[ Newfoundland/NNP ]
+,/, bidding/VBG 
+[ 52.8/CD million/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 44.9/CD million/CD ]
+ )/) for/IN 
+[ exploration/NN rights/NNS ]
+on/IN 
+[ eight/CD concessions/NNS ]
+totaling/VBG 
+[ 926,612/CD acres/NNS ]
+./. 
+
+======================================
+
+[ The/DT bids/NNS ]
+were/VBD in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ work/NN expenditure/NN commitments/NNS ]
+./. 
+
+[ The/DT area/NN ]
+is/VBZ near/IN 
+[ three/CD oil/NN fields/NNS ]
+including/VBG 
+[ the/DT large/JJ Hibernia/NNP field/NN ]
+./. 
+
+[ The/DT auction/NN ]
+was/VBD conducted/VBN by/IN 
+[ the/DT Canada-Newfoundland/NNP Offshore/NNP Petroleum/NNP Board/NNP ]
+,/, 
+[ a/DT joint/JJ federal/JJ ]
+and/CC 
+[ provincial/JJ regulatory/JJ agency/NN ]
+./. 
+
+======================================
+
+[ Successful/JJ bidders/NNS ]
+were/VBD 
+[ Cygnus/NNP Mineral/NNP Corp./NNP ]
+,/, 
+[ a/DT ]
+closely/RB held/JJ 
+[ Canadian/NNP concern/NN ]
+;/: 
+[ Petro-Canada/NNP Inc./NNP ]
+,/, 
+[ a/DT Canadian/JJ government/NN agency/NN ]
+;/: 
+[ Shell/NNP Canada/NNP Ltd./NNP ]
+;/: 
+[ two/CD Canadian/JJ units/NNS ]
+of/IN 
+[ British/NNP Petroleum/NNP Co./NNP ]
+;/: and/CC 
+[ a/DT consortium/NN ]
+of/IN 
+[ companies/NNS ]
+including/VBG 
+[ Esso/NNP Resources/NNPS Ltd./NNP ]
+,/, 
+[ Bow/NNP Valley/NNP Industries/NNPS Ltd./NNP ]
+,/, 
+[ Shell/NNP Canada/NNP Ltd./NNP ]
+and/CC 
+[ Chevron/NNP Canada/NNP Resources/NNPS Ltd/NNP ]
+./. 
+
+======================================
+
+[ Esso/NNP ]
+is/VBZ 
+[ a/DT unit/NN ]
+of/IN 
+[ Imperial/NNP Oil/NNP Ltd./NNP ]
+
+[ which/WDT ]
+is/VBZ 
+[ 70%-owned/JJ ]
+by/IN 
+[ Exxon/NNP Corp./NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+[ Shell/NNP ]
+is/VBZ about/IN 
+[ 71%-owned/JJ ]
+by/IN 
+[ the/DT Anglo-Dutch/NNP Royal/NNP Dutch\/Shell/NNP Group/NNP ]
+,/, and/CC 
+[ Chevron/NNP Canada/NNP ]
+is/VBZ 
+[ a/DT unit/NN ]
+of/IN 
+[ San/NNP Francisco-based/JJ Chevron/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Last/JJ year/NN ]
+,/, 
+[ there/EX ]
+were/VBD 
+[ fewer/JJR bidders/NNS ]
+at/IN 
+[ a/DT similar/JJ auction/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP pleasantly/RB surprised/VBN ''/'' with/IN 
+[ this/DT year/NN 's/POS auction/NN ]
+,/, said/VBD 
+[ Newfoundland/NNP Energy/NNP Minister/NNP Rex/NNP Gibbons/NNP ]
+./. 
+
+======================================
+
+Drilling/NN on/IN 
+[ Canada/NNP 's/POS east/JJ coast/NN ]
+came/VBD to/TO 
+[ a/DT standstill/NN ]
+in/IN 
+[ May/NNP ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+in/IN 
+[ more/JJR ]
+than/IN 
+[ a/DT decade/NN ]
+./. 
+
+But/CC 
+[ there/EX ]
+are/VBP 
+[ plans/NNS ]
+to/TO resume/VB drilling/NN 
+[ next/JJ year/NN ]
+,/, and/CC 
+[ Mr./NNP Gibbons/NNP ]
+said/VBD 
+[ there/EX ]
+may/MD be/VB as/RB many/JJ as/IN 
+[ five/CD wells/NNS ]
+drilled/VBN in/IN 
+[ the/DT next/JJ three/CD years/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT auction/NN ]
+./. 
+
+======================================
+
+[ Gerry/NNP Angevine/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Canadian/NNP Energy/NNP Research/NNP Institute/NNP ]
+,/, said/VBD 
+[ interest/NN ]
+in/IN 
+[ exploration/NN ]
+is/VBZ being/VBG spurred/VBN by/IN 
+[ plans/NNS ]
+to/TO develop/VB 
+[ the/DT Hibernia/NNP field/NN ]
+./. 
+
+[ Hibernia/NNP ]
+is/VBZ expected/VBN to/TO produce/VB 
+[ 110,000/CD barrels/NNS ]
+of/IN 
+[ crude/JJ oil/NN ]
+
+[ a/DT day/NN ]
+starting/VBG in/IN 
+[ 1996/CD ]
+./. 
+
+======================================
+
+[ Industry/NN analysts/NNS ]
+are/VBP also/RB predicting/VBG 
+[ a/DT good/JJ response/NN ]
+to/TO 
+[ a/DT planned/JJ offering/NN ]
+of/IN 
+[ exploration/NN rights/NNS ]
+in/IN 
+[ the/DT Beaufort/NNP Sea/NNP ]
+,/, 
+[ the/DT first/JJ auction/NN ]
+in/IN 
+[ the/DT Canadian/NNP Arctic/NNP ]
+in/IN 
+[ 20/CD years/NNS ]
+./. 

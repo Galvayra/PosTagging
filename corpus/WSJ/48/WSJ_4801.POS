@@ -1,0 +1,406 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Newsweek/NNP Inc./NNP ]
+named/VBD 
+[ a/DT new/JJ president/NN ]
+,/, 
+[ Alan/NNP Spoon/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ part/NN ]
+of/IN 
+[ a/DT new/JJ generation/NN ]
+of/IN 
+[ executives/NNS ]
+at/IN 
+[ the/DT ]
+newsweekly/RB 
+[ 's/POS parent/NN ]
+,/, 
+[ Washington/NNP Post/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Spoon/NNP ]
+,/, 
+[ 38/CD years/NNS ]
+old/JJ ,/, will/MD oversee/VB 
+[ Newsweek/NN magazine/NN ]
+,/, 
+[ whose/WP$ circulation/NN ]
+recently/RB reached/VBD 
+[ a/DT record/NN high/JJ ]
+,/, but/CC 
+[ which/WDT ]
+is/VBZ engaged/VBN in/IN 
+[ an/DT ever-more/JJ costly/JJ battle/NN ]
+for/IN advertising/VBG 
+[ dollars/NNS ]
+with/IN 
+[ its/PRP$ rival/NN ]
+,/, 
+[ Time/NN Warner/NNP Inc./NNP 's/POS Time/NN magazine/NN ]
+./. 
+
+======================================
+
+[ The/DT post/NN ]
+at/IN 
+[ Newsweek/NN ]
+has/VBZ been/VBN vacant/JJ since/IN 
+[ January/NNP ]
+,/, when/WRB 
+[ Christopher/NNP M./NNP Little/NNP ]
+abruptly/RB resigned/VBD to/TO become/VB 
+[ president/NN ]
+of/IN 
+[ the/DT much-smaller/JJ Cowles/NNP Magazine/NNP Inc./NNP ]
+,/, 
+[ a/DT publisher/NN ]
+of/IN 
+[ special/JJ interest/NN magazines/NNS ]
+./. 
+
+======================================
+
+Since/IN 
+[ last/JJ spring/NN ]
+,/, 
+[ Mr./NNP Spoon/NNP ]
+has/VBZ served/VBN at/IN 
+[ Newsweek/NNP ]
+in/IN 
+[ an/DT unofficial/JJ troika/NN ]
+,/, 
+[ which/WDT ]
+included/VBD 
+[ Howard/NNP W./NNP Smith/NNP ]
+,/, 
+[ Newsweek/NNP 's/POS publisher/NN ]
+,/, and/CC 
+[ Gerard/NNP Smith/NNP ]
+,/, 
+[ Newsweek/NNP 's/POS vice/NN chairman/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Spoon/NNP ]
+was/VBD 
+[ a/DT partner/NN ]
+at/IN 
+[ Boston/NNP Consulting/NNP Co./NNP ]
+when/WRB 
+[ he/PRP ]
+joined/VBD 
+[ Washington/NNP Post/NNP ]
+in/IN 
+[ 1982/CD ]
+./. 
+
+Currently/RB 
+[ a/DT vice/NN president/NN ]
+at/IN 
+[ the/DT parent/NN company/NN ]
+,/, 
+[ he/PRP ]
+has/VBZ been/VBN 
+[ head/NN ]
+of/IN 
+[ its/PRP$ new/JJ business/NN development/NN ]
+and/CC of/IN marketing/VBG and/CC finance/VB for/IN 
+[ the/DT Washington/NNP Post/NNP newspaper/NN ]
+./. 
+
+======================================
+
+[ Richard/NNP D./NNP Simmons/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Washington/NNP Post/NNP ]
+,/, said/VBD 
+[ Mr./NNP Spoon/NNP ]
+was/VBD chosen/VBN ``/`` because/IN 
+[ he/PRP ]
+'s/VBZ 
+[ the/DT best/JJS conceivable/JJ person/NN ]
+to/TO continue/VB 
+[ Newsweek/NNP 's/POS growth/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Simmons/NNP ]
+said/VBD 
+[ Newsweek/NNP 's/POS earnings/NNS ]
+
+[ this/DT year/NN ]
+will/MD be/VB 
+[ the/DT highest/JJS ]
+ever/RB ./. 
+
+======================================
+
+[ Newsweek/NNP ]
+has/VBZ not/RB been/VBN 
+[ a/DT major/JJ contributor/NN ]
+to/TO 
+[ the/DT earnings/NNS ]
+of/IN 
+[ Washington/NNP Post/NNP ]
+,/, 
+[ whose/WP$ other/JJ properties/NNS ]
+include/VB 
+[ television/NN stations/NNS ]
+,/, 
+[ cable/NN operations/NNS ]
+and/CC 
+[ Stanley/NNP Kaplan/NNP Educational/NNP Centers/NNP ]
+./. 
+
+[ Newsweek/NNP ]
+recorded/VBD about/IN 
+[ $/$ 20/CD million/CD ]
+in/IN 
+[ operating/NN profit/NN last/JJ year/NN ]
+,/, or/CC only/RB about/IN 
+[ 8/CD %/NN ]
+of/IN 
+[ the/DT parent/NN 's/POS net/JJ income/NN ]
+,/, compared/VBN with/IN 
+[ $/$ 140/CD million/CD ]
+in/IN 
+[ operating/NN profit/NN ]
+recorded/VBN by/IN 
+[ the/DT Washington/NNP Post/NNP newspaper/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ Newsweek/NNP circulation/NN ]
+has/VBZ been/VBN holding/VBG steady/RB at/IN about/IN 
+[ 3.2/CD million/CD ]
+,/, 
+[ the/DT ]
+newsweekly/RB 
+[ 's/POS advertising/VBG performance/NN ]
+in/IN 
+[ the/DT last/JJ two/CD years/NNS ]
+has/VBZ been/VBN hurt/VBN by/IN 
+[ flat/JJ spending/VBG patterns/NNS ]
+by/IN 
+[ national/JJ advertisers/NNS ]
+in/IN 
+[ consumer/NN magazines/NNS ]
+./. 
+
+[ Newsweek/NNP ]
+has/VBZ also/RB found/VBN 
+[ itself/PRP ]
+at/IN 
+[ a/DT disadvantage/NN ]
+against/IN 
+[ Time/NN Warner/NNP 's/POS advertiser/NN incentive/NN program/NN ]
+,/, 
+[ Max/NNP Plan/NNP ]
+,/, 
+[ which/WDT ]
+offers/VBZ 
+[ Time/NN 's/POS stable/NN ]
+of/IN 
+[ magazines/NNS ]
+in/IN 
+[ combination/NN packages/NNS ]
+to/TO 
+[ advertisers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ Newsweek/NNP 's/POS ad/NN pages/NNS ]
+totaled/VBD 
+[ 2,479/CD ]
+,/, 
+[ a/DT drop/NN ]
+of/IN 
+[ 3.3/CD %/NN ]
+from/IN 
+[ 1987/CD ]
+,/, while/IN 
+[ ad/NN revenue/NN ]
+increased/VBD slightly/RB to/TO 
+[ $/$ 242/CD million/CD ]
+./. 
+
+For/IN 
+[ the/DT first/JJ six/CD months/NNS ]
+of/IN 
+[ 1989/CD ]
+,/, 
+[ Newsweek/NNP 's/POS ad/NN pages/NNS ]
+totaled/VBD 
+[ 1,176/CD ]
+,/, 
+[ a/DT drop/NN ]
+of/IN 
+[ 0.5/CD %/NN ]
+from/IN 
+[ the/DT same/JJ period/NN ]
+in/IN 
+[ 1988/CD ]
+,/, while/IN 
+[ ad/NN revenue/NN ]
+in/IN 
+[ the/DT first/JJ ]
+
+[ half/DT ]
+was/VBD 
+[ $/$ 119/CD million/CD ]
+,/, 
+[ an/DT increase/NN ]
+of/IN 
+[ 6.9/CD %/NN ]
+from/IN 
+[ last/JJ year/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Our/PRP$ pages/NNS ]
+are/VBP down/RP from/IN 
+[ last/JJ year/NN ]
+,/, but/CC 
+[ our/PRP$ revenue/NN ]
+is/VBZ up/RB nicely/RB ,/, ''/'' said/VBD 
+[ Mr./NNP Spoon/NNP ]
+./. 
+
+``/`` 
+[ The/DT bottom/NN line/NN ]
+will/MD look/VB very/RB good/RB 
+[ this/DT year/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Spoon/NNP ]
+said/VBD 
+[ he/PRP ]
+expected/VBD 
+[ no/DT great/JJ changes/NNS ]
+at/IN 
+[ Newsweek/NN ]
+,/, except/IN that/IN 
+[ he/PRP ]
+would/MD continue/VB 
+[ efforts/NNS ]
+to/TO extend/VB 
+[ the/DT magazine/NN 's/POS name/NN ]
+to/TO 
+[ new/JJ media/NNS properties/NNS ]
+./. 
+
+======================================
+
+In/IN early/RB 
+[ 1988/CD ]
+,/, 
+[ Newsweek/NNP ]
+folded/VBD 
+[ two/CD specialty/NN editions/NNS ]
+,/, 
+[ Newsweek/NNP ]
+on/IN 
+[ Campus/NNP ]
+and/CC 
+[ Newsweek/NNP ]
+on/IN 
+[ Health/NNP ]
+,/, largely/RB for/IN 
+[ lack/NN ]
+of/IN 
+[ national/JJ advertising/NN ]
+./. 
+
+However/RB ,/, 
+[ Newsweek/NNP ]
+launched/VBD in/IN 
+[ January/NNP ]
+
+[ a/DT specialty/NN edition/NN ]
+called/VBN 
+[ Newsweek/NNP Business/NNP ]
+,/, 
+[ which/WDT ]
+replaced/VBD 
+[ two/CD previous/JJ editions/NNS ]
+./. 
+
+With/IN 
+[ a/DT circulation/NN ]
+of/IN 
+[ 750,000/CD ]
+,/, 
+[ Newsweek/NNP Business/NNP ]
+carries/VBZ 
+[ ads/NNS ]
+targeted/VBN specifically/RB at/IN 
+[ an/DT audience/NN ]
+
+[ that/WDT ]
+regularly/RB reads/VBZ 
+[ business/NN magazines/NNS ]
+such/JJ as/IN 
+[ Forbes/NNP ]
+and/CC 
+[ Time/NN Warner/NNP 's/POS Fortune/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Spoon/NNP ]
+labeled/VBD as/IN 
+[ ridiculous/JJ recurring/VBG industry/NN rumors/NNS ]
+that/IN 
+[ Washington/NNP Post/NNP Chairman/NNP Katharine/NNP Graham/NNP ]
+would/MD consider/VB 
+[ selling/VBG Newsweek/NN ]
+./. 
+
+``/`` 
+[ The/DT Grahams/NNP ]
+have/VB told/VBN 
+[ me/PRP ]
+,/, 
+[ 'Do/NNP 'Do/NNP your/PRP$ best/JJS ]
+./. 
+
+[ We/PRP ]
+are/VBP behind/IN 
+[ you/PRP ]
+,/, '/'' ''/'' said/VBD 
+[ Mr./NNP Spoon/NNP ]
+./. 

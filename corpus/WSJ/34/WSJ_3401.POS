@@ -1,0 +1,879 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+At/IN 
+[ age/NN 42/CD ]
+,/, 
+[ Frederick/NNP DeLuca/NNP ]
+has/VBZ fulfilled/VBN 
+[ the/DT franchising/NN industry/NN 's/POS wildest/JJS dreams/NNS ]
+./. 
+
+Nearly/RB 
+[ 25/CD years/NNS ]
+after/IN 
+[ he/PRP ]
+opened/VBD 
+[ his/PRP$ first/JJ Subway/NNP sandwich/NN shop/NN ]
+as/IN 
+[ a/DT teen-ager/NN ]
+,/, 
+[ he/PRP ]
+controls/VBZ 
+[ a/DT 3,750-unit/JJ chain/NN ]
+
+[ that/WDT ]
+is/VBZ opening/VBG 
+[ 100/CD new/JJ stores/NNS ]
+
+[ a/DT month/NN ]
+./. 
+
+According/VBG to/TO 
+[ a/DT study/NN ]
+by/IN 
+[ Technomic/NNP Inc./NNP ]
+,/, 
+[ a/DT food-service/NN industry/NN consulting/NN firm/NN ]
+,/, 
+[ Subway/NNP ]
+is/VBZ 
+[ America/NNP 's/POS fastest-growing/JJ franchiser/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP DeLuca/NNP ]
+has/VBZ become/VBN 
+[ famous/JJ ]
+:/: 
+[ National/JJ publications/NNS ]
+have/VBP praised/VBN 
+[ his/PRP$ success/NN ]
+in/IN 
+[ such/JJ rosy/JJ terms/NNS ]
+that/IN 
+[ he/PRP ]
+says/VBZ 
+[ he/PRP ]
+has/VBZ ``/`` always/RB worried/VBN ''/'' about/IN ``/`` 
+[ someone/NN ]
+doing/VBG 
+[ a/DT balanced/JJ story/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+also/RB has/VBZ gotten/VBN fabulously/RB 
+[ rich/JJ ]
+:/: Of/IN 
+[ the/DT $/$ 52/CD million/CD ]
+in/IN 
+[ royalties/NNS ]
+and/CC 
+[ other/JJ fees/NNS ]
+collected/VBN 
+[ last/JJ year/NN ]
+by/IN 
+[ Doctor/NNP 's/POS Associates/NNPS Inc./NNP ]
+,/, as/IN 
+[ the/DT franchiser/NN ]
+is/VBZ formally/RB known/VBN ,/, 
+[ Mr./NNP DeLuca/NNP ]
+received/VBD 
+[ $/$ 10/CD million/CD ]
+in/IN 
+[ bonuses/NNS ]
+./. 
+
+[ Doctor/NNP ]
+'s/VBZ 
+[ Associates/NNPS '/POS chief/JJ financial/JJ officer/NN ]
+,/, 
+[ Ralph/NNP Slivka/NNP ]
+,/, says/VBZ 
+[ he/PRP ]
+expects/VBZ 
+[ Mr./NNP DeLuca/NNP ]
+to/TO get/VB nearly/RB twice/RB as/IN much/JJ 
+[ this/DT year/NN ]
+./. 
+
+[ Boasts/VBZ Mr./NNP Slivka/NNP ]
+,/, ``/`` 
+[ I/PRP ]
+ca/MD n't/RB find/VB 
+[ enough/JJ places/NNS ]
+to/TO put/VB 
+[ all/PDT the/DT money/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ Subway/NNP ]
+is/VBZ feeling/VBG 
+[ growing/NN pains/NNS ]
+./. 
+
+[ Critics/NNS ]
+inside/IN and/CC outside/IN 
+[ Subway/NNP ]
+say/VBP 
+[ Mr./NNP DeLuca/NNP ]
+is/VBZ glutting/VBG 
+[ many/JJ markets/NNS ]
+with/IN 
+[ stores/NNS ]
+./. 
+
+[ Franchisee/NN complaints/NNS ]
+are/VBP growing/VBG ./. 
+
+According/VBG to/TO 
+[ state/NN franchise/NN examiners/NNS ]
+in/IN 
+[ Illinois/NNP ]
+and/CC 
+[ Maryland/NNP ]
+,/, companies/NNS 
+[ Mr./NNP DeLuca/NNP controls/VBZ ]
+face/VBP 
+[ more/JJR litigation/NN ]
+than/IN 
+[ much/RB larger/JJR fast-food/NN chains/NNS ]
+,/, including/VBG 
+[ McDonald/NNP 's/POS Corp/NNP ]
+./. 
+
+In/IN 
+[ one/CD dispute/NN ]
+,/, 
+[ a/DT circuit/NN court/NN ]
+in/IN 
+[ Ingham/NNP County/NNP ]
+,/, 
+[ Mich./NNP ]
+,/, has/VBZ ordered/VBN 
+[ Doctor/NNP 's/POS Associates/NNPS ]
+to/TO offer/VB to/TO rescind/VB 
+[ every/DT franchise/NN ]
+in/IN 
+[ Michigan/NNP ]
+for/IN failing/VBG to/TO make/VB 
+[ certain/JJ disclosures/NNS ]
+required/VBN by/IN 
+[ the/DT state/NN 's/POS franchise/NN investment/NN law/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+'re/VBP adding/VBG 
+[ stores/NNS ]
+much/RB too/RB fast/RB ,/, ''/'' says/VBZ 
+[ John/NNP Larsen/NNP ]
+,/, 
+[ owner/NN ]
+of/IN 
+[ Port/NNP ]
+of/IN 
+[ Subs/NNP ]
+,/, 
+[ a/DT small/JJ chain/NN ]
+of/IN 
+[ sandwich/NN stores/NNS ]
+based/VBN in/IN 
+[ Reno/NNP ]
+,/, 
+[ Nev/NNP ]
+./. 
+
+``/`` How/WRB 
+[ the/DT hell/NN ]
+can/MD 
+[ you/PRP ]
+put/VB up/RP 
+[ 1,000/CD stores/NNS ]
+
+[ a/DT year/NN ]
+and/CC control/VB 
+[ the/DT growth/NN ]
+?/. 
+
+''/'' 
+======================================
+
+[ Mr./NNP DeLuca/NNP ]
+says/VBZ 
+[ he/PRP ]
+is/VBZ controlling/VBG 
+[ growth/NN fine/RB ]
+./. 
+
+Despite/IN 
+[ the/DT addition/NN ]
+of/IN 
+[ 1,000/CD stores/NNS last/JJ year/NN ]
+,/, 
+[ average/JJ per-store/JJ sales/NNS ]
+grew/VBD 
+[ 9/CD %/NN ]
+to/TO 
+[ 10/CD %/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+Furthermore/RB ,/, 
+[ half/NN ]
+of/IN 
+[ the/DT new/JJ franchises/NNS ]
+
+[ he/PRP ]
+sells/VBZ are/VBP purchased/VBN by/IN existing/JJ 
+[ franchisees/NNS ]
+--/: 
+[ proof/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, that/IN 
+[ franchisees/NNS ]
+are/VBP content/JJ with/IN 
+[ Subway/NNP 's/POS expansion/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ some/DT franchisees/NNS ]
+are/VBP n't/RB so/RB happy/JJ about/IN 
+[ expansion/NN ]
+in/IN 
+[ their/PRP$ areas/NNS ]
+./. 
+
+[ Mr./NNP DeLuca/NNP ]
+says/VBZ 
+[ he/PRP ]
+has/VBZ 
+[ no/DT firm/JJ policy/NN ]
+concerning/VBG how/WRB far/RB apart/RB 
+[ stores/NNS ]
+should/MD be/VB ./. 
+
+``/`` 
+[ It/PRP ]
+winds/VBZ up/RP being/VBG 
+[ a/DT judgment/NN call/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ My/PRP$ approach/NN ]
+is/VBZ :/: Put/VB in/RP as/RB many/JJ as/IN 
+[ McDonald/NNP ]
+'s/POS has/VBZ ./. 
+
+''/'' 
+======================================
+
+[ Counters/VBZ Bob/NNP Gilbertie/NNP ]
+,/, 
+[ a/DT Subway/NNP franchisee/NN ]
+in/IN 
+[ Florida/NNP ]
+for/IN 
+[ 11/CD years/NNS ]
+:/: ``/`` 
+[ He/PRP ]
+wants/VBZ as/IN 
+[ many/JJ stores/NNS ]
+as/IN 
+[ McDonald/NNP ]
+'s/POS ,/, but/CC 
+[ I/PRP ]
+do/VBP n't/RB ./. 
+
+[ The/DT biggest/JJS concern/NN ]
+of/IN 
+[ most/JJS franchisees/NNS ]
+is/VBZ oversaturating/VBG 
+[ an/DT area/NN ]
+with/IN 
+[ stores/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Faced/VBN with/IN 
+[ this/DT problem/NN ]
+and/CC 
+[ others/NNS ]
+,/, 
+[ Mr./NNP Gilbertie/NNP ]
+has/VBZ sold/VBN or/CC closed/VBN 
+[ four/CD ]
+of/IN 
+[ his/PRP$ six/CD stores/NNS ]
+./. 
+
+[ Other/JJ franchisees/NNS ]
+,/, such/JJ as/IN 
+[ Carol/NNP McCrory/NNP ]
+,/, have/VBP quit/VBN 
+[ the/DT chain/NN ]
+altogether/RB ./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD doing/VBG quite/RB well/RB until/IN 
+[ they/PRP ]
+put/VBP 
+[ three/CD ]
+or/CC 
+[ four/CD more/JJR ]
+around/IN 
+[ us/PRP ]
+within/IN 
+[ a/DT two/CD ]
+ -/: to/TO 
+[ three-mile/JJ radius/NN ]
+and/CC took/VBD 
+[ all/PDT our/PRP$ profits/NNS ]
+away/RP ,/, ''/'' recalls/VBZ 
+[ Ms./NNP McCrory/NNP ]
+,/, 
+[ who/WP ]
+bought/VBD 
+[ a/DT Subway/NNP franchise/NN ]
+in/IN 
+[ Florida/NNP ]
+in/IN 
+[ the/DT early/JJ 1980s/NNS ]
+./. 
+
+======================================
+
+[ Ms./NNP McCrory/NNP ]
+filed/VBD 
+[ suit/NN ]
+in/IN 
+[ a/DT Pinellas/NNP County/NNP ]
+,/, 
+[ Fla./NNP ]
+,/, 
+[ circuit/NN court/NN ]
+,/, alleging/VBG 
+[ Doctor/NNP 's/POS Associates/NNPS ]
+misrepresented/VBD 
+[ her/PRP$ chances/NNS ]
+of/IN 
+[ success/NN ]
+./. 
+
+[ Mr./NNP DeLuca/NNP ]
+denies/VBZ 
+[ the/DT charge/NN ]
+,/, adding/VBG ,/, ``/`` 
+[ The/DT new/JJ owners/NNS ]
+have/VBP brought/VBN 
+[ the/DT sales/NNS ]
+back/RB up/RB ./. 
+
+[ Success/NN ]
+in/IN 
+[ business/NN ]
+depends/VBZ on/IN 
+[ the/DT owner/NN 's/POS attitude/NN ]
+,/, and/CC {/( 
+[ Ms./NNP McCrory/NNP ]
+and/CC 
+[ her/PRP$ partner/NN ]
+ }/) just/RB gave/VBD up/RP ./. 
+
+''/'' 
+======================================
+
+[ Ms./NNP McCrory/NNP ]
+and/CC 
+[ Doctor/NNP 's/POS Associates/NNPS ]
+settled/VBD 
+[ the/DT case/NN ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+But/CC 
+[ legal/JJ disputes/NNS ]
+pitting/VBG 
+[ Mr./NNP DeLuca/NNP ]
+against/IN 
+[ his/PRP$ franchisees/NNS ]
+have/VBP since/IN proliferated/VBN ./. 
+
+======================================
+
+In/IN 
+[ a/DT franchiser/NN disclosure/NN statement/NN ]
+filed/VBN with/IN 
+[ certain/JJ states/NNS ]
+,/, 
+[ Subway/NNP lists/NNS ]
+more/JJR than/IN 
+[ a/DT dozen/NN legal/JJ proceedings/NNS ]
+that/IN 
+[ franchisees/NNS ]
+,/, 
+[ development/NN agents/NNS ]
+and/CC 
+[ others/NNS ]
+have/VBP initiated/VBN against/IN 
+[ DeLuca/NNP companies/NNS ]
+since/IN 
+[ 1987/CD ]
+alone/RB ./. 
+
+ (/( 
+[ The/DT list/NN ]
+does/VBZ n't/RB include/VB 
+[ some/DT litigation/NN ]
+against/IN 
+[ DeLuca/NNP companies/NNS ]
+,/, such/JJ as/IN 
+[ five/CD suits/NNS ]
+pending/VBG in/IN 
+[ a/DT Milford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, 
+[ state/NN court/NN ]
+,/, mainly/RB filed/VBN by/IN 
+[ store/NN landlords/NNS ]
+./. 
+
+ )/) 
+[ The/DT plaintiffs/NNS ]
+in/IN 
+[ the/DT listed/JJ suits/NNS charge/VBP misrepresentation/NN ]
+of/IN 
+[ facts/NNS ]
+to/TO sell/VB 
+[ franchises/NNS ]
+,/, 
+[ breach/NN ]
+of/IN 
+[ contract/NN ]
+,/, 
+[ fraud/NN ]
+and/CC 
+[ violations/NNS ]
+of/IN 
+[ state/NN franchise/NN ]
+and/CC 
+[ federal/JJ racketeering/NN laws/NNS ]
+./. 
+
+[ The/DT DeLuca/NNP companies/NNS ]
+deny/VBP 
+[ the/DT charges/NNS ]
+./. 
+
+======================================
+
+Responding/VBG to/TO 
+[ the/DT charges/NNS ]
+,/, 
+[ Mr./NNP DeLuca/NNP himself/PRP ]
+adds/VBZ :/: ``/`` 
+[ We/PRP ]
+are/VBP very/RB scrupulous/JJ as/IN to/TO 
+[ the/DT way/NN ]
+
+[ we/PRP ]
+present/VBP 
+[ our/PRP$ company/NN ]
+,/, and/CC 
+[ we/PRP ]
+anticipate/VBP 
+[ those/DT disputes/NNS ]
+will/MD be/VB resolved/VBN in/IN 
+[ our/PRP$ favor/NN ]
+./. 
+
+''/'' Besides/RB ,/, 
+[ he/PRP ]
+says/VBZ ,/, ``/`` 
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+is/VBZ 
+[ a/DT below-average/JJ amount/NN ]
+of/IN 
+[ cases/NNS ]
+given/VBN 
+[ our/PRP$ number/NN ]
+of/IN 
+[ franchisees/NNS ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ Mark/NNP Forseth/NNP ]
+,/, 
+[ a/DT Maryland/NNP state/NN franchise/NN examiner/NN ]
+,/, commenting/VBG on/IN 
+[ the/DT company/NN 's/POS large/JJ number/NN ]
+of/IN 
+[ lawsuits/NNS ]
+,/, says/VBZ :/: ``/`` 
+[ Companies/NNS ]
+
+[ that/WDT ]
+are/VBP expanding/VBG quickly/RB have/VBP 
+[ more/JJR litigation/NN ]
+./. 
+
+[ They/PRP ]
+'re/VBP just/RB selling/VBG ,/, selling/VBG ,/, selling/VBG ,/, and/CC that/DT 
+[ 's/VBZ trouble/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT pace/NN was/VBD n't/RB ]
+always/RB so/RB torrid/JJ ./. 
+
+After/IN 
+[ Mr./NNP DeLuca/NNP ]
+opened/VBD 
+[ his/PRP$ first/JJ Subway/NNP shop/NN ]
+in/IN 
+[ 1965/CD ]
+,/, 
+[ he/PRP ]
+set/VBD 
+[ a/DT goal/NN ]
+of/IN 
+[ 32/CD stores/NNS ]
+by/IN 
+[ 1975/CD ]
+./. 
+
+[ He/PRP ]
+missed/VBD 
+[ the/DT target/NN ]
+by/IN 
+[ one/CD year/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+would/MD n't/RB miss/VB 
+[ another/DT ]
+./. 
+
+To/TO accelerate/VB 
+[ Subway/NNP 's/POS growth/NN ]
+,/, 
+[ he/PRP ]
+turned/VBD not/RB only/RB to/TO franchising/VBG but/CC to/TO 
+[ selling/VBG franchises/NNS ]
+at/IN 
+[ a/DT fraction/NN ]
+of/IN 
+[ the/DT cost/NN ]
+charged/VBN by/IN 
+[ his/PRP$ fast-food/NN competitors/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ Doctor/NNP 's/POS Associates/NNPS ]
+collects/VBZ 
+[ an/DT above-average/JJ royalty/NN ]
+of/IN 
+[ 8/CD %/NN ]
+of/IN 
+[ franchisee/NN sales/NNS ]
+,/, 
+[ its/PRP$ initial/JJ franchise/NN fee/NN ]
+for/IN 
+[ a/DT Subway/NNP store/NN ]
+is/VBZ only/RB 
+[ $/$ 7,500/CD ]
+./. 
+
+[ It/PRP ]
+drops/VBZ to/TO just/RB 
+[ $/$ 1,000/CD ]
+per/IN 
+[ additional/JJ franchise/NN ]
+./. 
+
+Throw/VB in/IN 
+[ costs/NNS ]
+for/IN 
+[ construction/NN ]
+,/, 
+[ equipment/NN ]
+and/CC 
+[ initial/JJ inventory/NN ]
+,/, and/CC 
+[ a/DT franchisee/NN ]
+can/MD be/VB selling/VBG 
+[ Subway/NNP 's/POS sandwiches/NNS ]
+and/CC 
+[ salads/NNS ]
+for/IN 
+[ $/$ 60,000/CD ]
+to/TO 
+[ $/$ 70,000/CD ]
+./. 
+
+[ Other/JJ small/JJ franchise/NN outlets/NNS ]
+commonly/RB cost/VBP up/IN to/TO 
+[ $/$ 200,000/CD ]
+,/, or/CC 
+[ more/JJR ]
+./. 
+
+======================================
+
+Moreover/RB ,/, while/IN 
+[ the/DT largest/JJS fast-food/NN chains/NNS ]
+require/VBP 
+[ individuals/NNS ]
+to/TO buy/VB 
+[ entire/JJ regions/NNS ]
+and/CC 
+[ own/VB all/DT ]
+of/IN 
+[ the/DT franchises/NNS ]
+in/IN 
+[ them/PRP ]
+,/, 
+[ Mr./NNP DeLuca/NNP ]
+,/, instead/RB of/IN selling/VBG 
+[ an/DT area/NN ]
+,/, gave/VBD 
+[ it/PRP ]
+to/TO 
+[ a/DT so-called/JJ development/NN agent/NN ]
+for/IN 
+[ nothing/NN ]
+./. 
+
+And/CC rather/RB than/IN requiring/VBG 
+[ these/DT agents/NNS ]
+to/TO 
+[ own/VB franchises/NNS themselves/PRP ]
+,/, 
+[ he/PRP ]
+permitted/VBD 
+[ them/PRP ]
+to/TO sell/VB 
+[ stores/NNS ]
+to/TO 
+[ others/NNS ]
+and/CC share/VB 
+[ the/DT royalty/NN ]
+and/CC 
+[ initial/JJ franchise/NN fee/NN ]
+./. 
+
+In/IN 
+[ effect/NN ]
+,/, 
+[ he/PRP ]
+has/VBZ created/VBN 
+[ a/DT commission-driven/JJ national/JJ sales/NNS force/NN ]
+
+[ that/WDT ]
+has/VBZ helped/VBN 
+[ Subway/NNP ]
+grow/VB even/RB faster/RBR ./. 
+
+======================================
+
+[ Mr./NNP Forseth/NNP ]
+,/, 
+[ the/DT Maryland/NNP official/NN ]
+,/, says/VBZ 
+[ the/DT concept/NN ]
+of/IN 
+[ Subway/NNP 's/POS commission-driven/JJ network/NN ]
+of/IN 
+[ development/NN agents/NNS ]
+may/MD contribute/VB to/TO 
+[ the/DT high/JJ number/NN ]
+of/IN 
+[ suits/NNS ]
+against/IN 
+[ the/DT franchiser/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT lot/NN ]
+faster/JJR and/CC 
+[ a/DT lot/NN looser/JJR ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+Like/IN 
+[ Mr./NNP DeLuca/NNP ]
+,/, 
+[ development/NN agents/NNS ]
+such/JJ as/IN 
+[ Joe/NNP Hart/NNP ]
+have/VBP reaped/VBN 
+[ huge/JJ rewards/NNS ]
+from/IN 
+[ the/DT system/NN ]
+./. 
+
+Once/RB 
+[ a/DT $/$ 2-an-hour/JJ sandwich/NN maker/NN ]
+in/IN 
+[ Connecticut/NNP ]
+,/, 
+[ Mr./NNP Hart/NNP ]
+now/RB runs/VBZ 
+[ a/DT region/NN ]
+including/VBG 
+[ northern/JJ Georgia/NNP ]
+and/CC 
+[ Chattanooga/NNP ]
+,/, 
+[ Tenn/NNP ]
+./. 
+
+[ He/PRP ]
+has/VBZ sold/VBN nearly/RB 
+[ 100/CD stores/NNS ]
+there/RB in/IN 
+[ the/DT past/JJ four/CD years/NNS ]
+./. 
+
+In/IN 
+[ 1989/CD ]
+,/, 
+[ his/PRP$ cut/NN ]
+of/IN 
+[ the/DT royalties/NNS ]
+and/CC 
+[ franchise/NN fees/NNS ]
+will/MD come/VB close/RB to/TO 
+[ $/$ 500,000/CD ]
+./. 
+
+======================================
+
+Aided/VBN by/IN 
+[ his/PRP$ low-cost/JJ franchises/NNS ]
+and/CC 
+[ hard-working/JJ development/NN agents/NNS ]
+,/, 
+[ Mr./NNP DeLuca/NNP ]
+began/VBD in/IN 
+[ 1982/CD ]
+doubling/VBG 
+[ the/DT size/NN ]
+of/IN 
+[ his/PRP$ chain/NN ]
+
+[ every/DT two/CD years/NNS ]
+to/TO fulfill/VB 
+[ a/DT goal/NN ]
+of/IN 
+[ 5,000/CD stores/NNS ]
+by/IN 
+[ 1994/CD ]
+./. 
+
+``/`` To/TO 
+[ everyone/NN ]
+else/RB ,/, ''/'' says/VBZ 
+[ Mr./NNP DeLuca/NNP ]
+of/IN 
+[ the/DT 5,000-store/JJ goal/NN ]
+,/, ``/`` 
+[ it/PRP ]
+seemed/VBD 
+[ impossible/JJ ]
+./. 
+
+To/TO 
+[ me/PRP ]
+
+[ it/PRP ]
+looked/VBD 
+[ easy/JJ ]
+./. 
+
+''/'' 
+[ Mr./NNP DeLuca/NNP ]
+now/RB vows/VBZ to/TO double/VB 
+[ the/DT ]
+nearly/RB 
+[ 4,000/CD stores/NNS ]
+currently/RB in/IN 
+[ his/PRP$ chain/NN ]
+by/IN 
+[ 1995/CD ]
+./. 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ he/PRP ]
+aims/VBZ to/TO nearly/RB double/VB 
+[ per-store/JJ sales/NNS ]
+,/, from/IN 
+[ $/$ 4,500/CD ]
+
+[ a/DT week/NN ]
+to/TO 
+[ $/$ 8,000/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+take/VBP 
+[ the/DT pulse/NN ]
+of/IN 
+[ the/DT company/NN ]
+weekly/RB ,/, ''/'' 
+[ Mr./NNP DeLuca/NNP ]
+says/VBZ ,/, ``/`` and/CC right/RB now/RB 
+[ all/PDT the/DT signs/NNS ]
+are/VBP very/RB good/JJ ./. 

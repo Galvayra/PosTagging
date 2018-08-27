@@ -1,0 +1,779 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Spending/NN on/IN 
+[ new/JJ construction/NN ]
+turned/VBD upward/RB in/IN 
+[ August/NNP ]
+after/IN 
+[ two/CD months/NNS ]
+of/IN 
+[ decline/NN ]
+,/, but/CC spending/NN for/IN 
+[ private/JJ residential/JJ projects/NNS ]
+dropped/VBD slightly/RB ,/, 
+[ the/DT Commerce/NNP Department/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Construction/NN spending/NN ]
+rose/VBD 
+[ 1.8/CD %/NN ]
+in/IN 
+[ August/NNP ]
+to/TO 
+[ an/DT annual/JJ rate/NN ]
+of/IN 
+[ $/$ 421.8/CD billion/CD ]
+,/, after/IN dropping/VBG 
+[ 0.6/CD %/NN ]
+in/IN 
+[ July/NNP ]
+and/CC 
+[ 0.8/CD %/NN ]
+in/IN 
+[ June/NNP ]
+./. 
+
+Most/JJS of/IN 
+[ the/DT increase/NN ]
+was/VBD for/IN 
+[ public/JJ projects/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP n't/RB as/RB sensitive/JJ to/TO 
+[ national/JJ economic/JJ trends/NNS ]
+./. 
+
+[ Total/JJ outlays/NNS ]
+were/VBD up/RB 
+[ 3.4/CD %/NN ]
+from/IN 
+[ August/NNP 1988/CD ]
+./. 
+
+[ All/PDT the/DT numbers/NNS ]
+are/VBP adjusted/VBN for/IN 
+[ seasonal/JJ fluctuations/NNS ]
+./. 
+
+======================================
+
+After/IN adjusting/VBG for/IN 
+[ inflation/NN ]
+,/, 
+[ construction/NN spending/NN ]
+grew/VBD 
+[ 0.7/CD %/NN ]
+in/IN 
+[ August/NNP ]
+after/IN falling/VBG 
+[ 0.9/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+Spending/NN was/VBD 
+[ 0.6/CD %/NN ]
+below/IN 
+[ August/NNP 1988/CD ]
+after/IN adjusting/VBG for/IN 
+[ inflation/NN ]
+./. 
+
+======================================
+
+[ Some/DT analysts/NNS ]
+expect/VBP 
+[ a/DT slight/JJ pickup/NN ]
+in/IN 
+[ private/JJ residential/JJ housing/NN ]
+in/IN 
+[ the/DT current/JJ quarter/NN ]
+because/IN of/IN 
+[ declining/VBG mortgage/NN rates/NNS ]
+./. 
+
+[ Others/NNS ]
+say/VBP 
+[ a/DT further/JJ spending/NN decline/NN ]
+in/IN 
+[ this/DT category/NN ]
+is/VBZ likely/JJ because/IN 
+[ new/JJ projects/NNS ]
+wo/MD n't/RB be/VB counted/VBN until/IN 
+[ they/PRP ]
+are/VBP completed/VBN ,/, 
+[ which/WDT ]
+might/MD n't/RB be/VB until/IN 
+[ next/JJ year/NN ]
+./. 
+
+Most/JJS agree/VBP that/IN 
+[ the/DT overall/JJ volume/NN ]
+of/IN 
+[ construction/NN ]
+will/MD taper/VB off/RP over/IN 
+[ the/DT next/JJ few/JJ years/NNS ]
+./. 
+
+======================================
+
+Seasonally/RB adjusted/VBN spending/NN on/IN 
+[ private/JJ residential/JJ projects/NNS ]
+declined/VBD 
+[ 0.1/CD %/NN ]
+in/IN 
+[ August/NNP ]
+to/TO 
+[ an/DT annual/JJ rate/NN ]
+of/IN 
+[ $/$ 198.9/CD billion/CD ]
+,/, after/IN 
+[ a/DT 0.2/CD %/NN rise/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+[ Public/JJ construction/NN spending/NN ]
+grew/VBD 
+[ 5.3/CD %/NN ]
+in/IN 
+[ August/NNP ]
+to/TO 
+[ an/DT annual/JJ rate/NN ]
+of/IN 
+[ $/$ 86/CD billion/CD ]
+./. 
+
+But/CC much/RB of/IN 
+[ that/DT spending/NN ]
+was/VBD for/IN 
+[ federal/JJ highway/NN projects/NNS ]
+,/, 
+[ which/WDT ]
+``/`` need/VBP to/TO be/VB done/VBN and/CC ca/MD n't/RB wait/VB ,/, ''/'' said/VBD 
+[ Richard/NNP Peach/NNP ]
+,/, 
+[ deputy/JJ chief/JJ economist/NN ]
+for/IN 
+[ the/DT Mortgage/NNP Bankers/NNPS Association/NNP ]
+./. 
+
+======================================
+
+Here/RB are/VBP 
+[ the/DT Commerce/NNP Department/NNP 's/POS figures/NNS ]
+for/IN 
+[ construction/NN ]
+spending/NN in/IN 
+[ billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+at/IN seasonally/RB adjusted/VBN 
+[ annual/JJ rates/NNS ]
+./. 
+
+======================================
+
+[ National/NNP Gallery/NNP ]
+of/IN 
+[ Art/NNP ]
+,/, 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+:/: ``/`` 
+[ Frans/NNP Hals/NNP ]
+''/'' --/: More/RBR than/IN 
+[ 60/CD paintings/NNS ]
+and/CC 
+[ small/JJ oil/NN sketches/NNS ]
+drawn/VBN from/IN throughout/IN 
+[ the/DT career/NN ]
+of/IN 
+[ the/DT 17th-century/JJ Dutch/JJ master/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT ]
+first/JJ 
+[ major/JJ exhibit/NN ]
+of/IN 
+[ Hals/NNP 's/POS works/NNS ]
+outside/IN 
+[ the/DT Netherlands/NNPS ]
+./. 
+
+[ The/DT works/NNS ]
+,/, borrowed/VBN from/IN 
+[ major/JJ public/JJ ]
+and/CC 
+[ private/JJ collections/NNS ]
+in/IN 
+[ Europe/NNP ]
+,/, 
+[ the/DT U.S./NNP ]
+and/CC 
+[ the/DT Soviet/NNP Union/NNP ]
+,/, include/VBP 
+[ his/PRP$ earliest/JJS known/VBN painting/NN ]
+,/, 
+[ a/DT portrait/NN ]
+of/IN 
+[ Jacobius/NNP Zaffius/NNP ]
+ (/( 
+[ 1611/CD ]
+ )/) ./. 
+
+[ Fourth/NNP Street/NNP ]
+at/IN 
+[ Constitution/NNP Avenue/NNP NW/NNP ]
+,/, through/IN 
+[ Dec./NNP 31/CD ]
+./. 
+
+[ The/DT show/NN ]
+then/RB moves/VBZ on/IN to/TO 
+[ the/DT Royal/NNP Academy/NNP ]
+of/IN 
+[ Arts/NNP ]
+,/, 
+[ London/NNP ]
+,/, 
+[ Jan./NNP 13-April/NNP 8/CD ]
+;/: and/CC 
+[ the/DT Frans/NNP Halsmuseum/NNP ]
+,/, 
+[ Haarlem/NNP ]
+,/, 
+[ the/DT Netherlands/NNPS ]
+,/, 
+[ May/NNP 11-July/NNP 22/CD ]
+./. 
+
+======================================
+
+[ Jewish/NNP Museum/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+:/: ``/`` 
+[ Gardens/NNPS ]
+and/CC 
+[ Ghettos/NNPS ]
+:/: 
+[ The/DT Art/NNP ]
+of/IN 
+[ Jewish/NNP Life/NNP ]
+in/IN 
+[ Italy/NNP ]
+''/'' --/: More/RBR than/IN 
+[ 300/CD works/NNS ]
+document/VBP 
+[ the/DT visual/JJ arts/NNS ]
+,/, performing/JJ 
+[ arts/NNS ]
+and/CC 
+[ literature/NN ]
+of/IN 
+[ the/DT Jews/NNPS living/VBG ]
+on/IN 
+[ the/DT Italian/JJ peninsula/NN ]
+./. 
+
+[ Objects/NNS ]
+include/VBP 
+[ ancient/JJ Roman/JJ architectural/JJ fragments/NNS ]
+,/, illuminated/JJ 
+[ manuscripts/NNS ]
+and/CC 
+[ books/NNS ]
+from/IN 
+[ the/DT Renaissance/NNP ]
+,/, 
+[ baroque/JJ ceremonial/JJ textiles/NNS ]
+and/CC 
+[ silver/NN ]
+,/, and/CC 
+[ 19th/JJ ]
+ -/: and/CC 
+[ 20th-century/JJ paintings/NNS ]
+,/, 
+[ graphics/NNS ]
+and/CC 
+[ sculpture/NN ]
+./. 
+
+[ 1109/CD Fifth/NNP Ave/NNP ]
+,/, through/IN 
+[ Feb./NNP 1/CD ]
+./. 
+
+[ The/DT exhibit/NN ]
+then/RB travels/VBZ to/TO 
+[ the/DT Palazzo/NNP dei/NNP Diamanti/NNP ]
+,/, 
+[ Ferrara/NNP ]
+,/, 
+[ Italy/NNP ]
+,/, 
+[ March/NNP 15-June/NNP 15/CD ]
+./. 
+
+======================================
+
+[ Valentine/NNP Museum/NNP ]
+,/, 
+[ Richmond/NNP ]
+,/, 
+[ Va./NNP ]
+:/: ``/`` 
+[ Dressed/VBN ]
+for/IN 
+[ Work/NN ]
+:/: 
+[ Women/NNS ]
+in/IN 
+[ the/DT Work/NN Force/NN ]
+,/, 
+[ 1900-1989/CD ]
+''/'' --/: 
+[ The/DT museum/NN ]
+continues/VBZ 
+[ its/PRP$ series/NN ]
+of/IN 
+[ exhibits/NNS ]
+reinterpreting/VBG 
+[ Richmond/NNP 's/POS history/NN ]
+with/IN 
+[ this/DT exploration/NN ]
+of/IN how/WRB 
+[ factors/NNS ]
+such/JJ as/IN 
+[ class/NN ]
+,/, 
+[ race/NN ]
+,/, 
+[ education/NN ]
+,/, 
+[ war/NN ]
+,/, 
+[ civil/JJ rights/NNS ]
+and/CC changing/VBG 
+[ societal/JJ attitudes/NNS ]
+have/VBP affected/VBN 
+[ the/DT city/NN 's/POS working/VBG|JJ women/NNS ]
+./. 
+
+On/IN 
+[ display/NN ]
+is/VBZ 
+[ a/DT variety/NN ]
+of/IN 
+[ work/NN clothing/NN ]
+--/: from/IN 
+[ an/DT early/JJ 1900s/NNS waitress/NN 's/POS shirtwaist/NN dress/NN ]
+,/, to/TO 
+[ a/DT 1950s/NNS secretary/NN 's/POS sweater/NN set/NN ]
+and/CC 
+[ skirt/NN ]
+,/, to/TO 
+[ a/DT 1970s/NNS teacher/NN 's/POS pants/NN suit/NN ]
+,/, to/TO 
+[ a/DT 1988/CD lawyer/NN 's/POS maternity/NN suit/NN ]
+--/: 
+[ photographs/NNS ]
+of/IN 
+[ women/NNS ]
+at/IN 
+[ work/NN ]
+and/CC 
+[ advertising/NN posters/NNS ]
+./. 
+
+[ 1015/CD East/NNP Clay/NNP St./NNP ]
+,/, through/IN 
+[ March/NNP 12/CD ]
+./. 
+
+======================================
+
+[ Federal/NNP Reserve/NNP Board/NNP headquarters/NN ]
+,/, 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+:/: ``/`` 
+[ Austrian/JJ Biedermeier/FW ]
+,/, ''/'' includes/VBZ 
+[ paintings/NNS ]
+,/, 
+[ furniture/NN ]
+,/, 
+[ glassware/NN ]
+,/, 
+[ silver/NN ]
+,/, 
+[ porcelain/NN ]
+and/CC 
+[ textiles/NNS ]
+dating/VBG to/TO 
+[ the/DT quiet/JJ decades/NNS ]
+after/IN 
+[ the/DT defeat/NN ]
+of/IN 
+[ Napoleon/NNP ]
+in/IN 
+[ 1815/CD ]
+,/, when/WRB 
+[ a/DT cozy/JJ feeling/NN ]
+of/IN 
+[ self-sufficiency/NN ]
+drifted/VBN through/IN 
+[ the/DT drawing/JJ rooms/NNS ]
+of/IN 
+[ the/DT Austro-Hungarian/JJ Empire/NNP ]
+./. 
+
+Also/RB shown/VBN is/VBZ 
+[ a/DT half-hour/JJ film/NN ]
+,/, ``/`` 
+[ The/DT Happiness/NN ]
+of/IN 
+[ Still/JJ Life/NN ]
+,/, ''/'' photographed/VBN in/IN 
+[ such/JJ Biedermeier/NNP locales/NNS ]
+as/IN 
+[ the/DT brooding/JJ forests/NNS ]
+of/IN 
+[ the/DT Bohmerwald/FW ]
+where/WRB 
+[ the/DT novelist/NN Adalbert/NNP Stifter/NNP ]
+was/VBD born/VBN ./. 
+
+[ Eccles/NNP Building/NNP ]
+ (/( between/IN 
+[ 20th/JJ ]
+and/CC 
+[ 21st/JJ Street/NN ]
+ )/) ./. 
+
+Through/IN 
+[ Dec./NNP 1/CD ]
+./. 
+
+======================================
+
+[ Ralph/NNP Lemon/NNP ]
+and/CC 
+[ Bebe/NNP Miller/NNP ]
+:/: 
+[ Two/CD ]
+of/IN 
+[ the/DT most/RBS eye-catching/JJ young/JJ choreographers/NNS ]
+premiere/VBP 
+[ their/PRP$ latest/JJS works/NNS ]
+on/IN 
+[ a/DT joint/JJ tour/NN ]
+of/IN 
+[ New/NNP England/NNP ]
+./. 
+
+[ The/DT lyrical/JJ Mr./NNP Lemon/NNP 's/POS company/NN ]
+dances/VBZ ``/`` 
+[ Joy/NN ]
+,/, ''/'' 
+[ a/DT look/NN ]
+at/IN 
+[ performers/NNS '/POS offstage/JJ lives/NNS ]
+set/VBN to/TO 
+[ music/NN ]
+by/IN 
+[ John/NNP Cale/NNP ]
+,/, while/IN 
+[ Ms./NNP Miller/NNP 's/POS troupe/NN ]
+presents/VBZ ``/`` Allies/NNS ,/, ''/'' 
+[ an/DT exploration/NN ]
+of/IN 
+[ body/NN language/NN ]
+and/CC 
+[ mind/NN games/NNS ]
+./. 
+
+[ Hanover/NNP ]
+,/, 
+[ N.H/NNP ]
+./. 
+
+ (/( 
+[ Dartmouth/NNP College/NNP ]
+,/, 
+[ Hopkins/NNP Center/NNP ]
+,/, 
+[ 603-646-2422/CD ]
+ )/) ,/, 
+[ Oct./NNP 3-4/CD ]
+;/: 
+[ Boston/NNP ]
+ (/( 
+[ Emerson/NNP Majestic/NNP Theater/NNP ]
+,/, 
+[ 617-491-7377/CD ]
+ )/) ,/, 
+[ Oct./NNP 6-7/CD ]
+;/: 
+[ Hartford/NNP ]
+,/, 
+[ Ct/NNP ]
+./. 
+
+ (/( 
+[ Trinity/NNP College/NNP ]
+,/, 
+[ Austin/NNP Arts/NNP Center/NNP ]
+,/, 
+[ 203-297-2199/CD ]
+ )/) ,/, 
+[ Oct./NNP 10/CD ]
+;/: 
+[ Amherst/NNP ]
+,/, 
+[ Mass/NNP ]
+./. 
+
+ (/( 
+[ U/NNP Mass\/Amherst/NNP ]
+,/, 
+[ Bowker/NNP Auditorium/NNP ]
+,/, 
+[ 413-545-2511/CD ]
+ )/) ,/, 
+[ Oct./NNP 12-13/CD ]
+;/: 
+[ Providence/NNP ]
+,/, 
+[ R.I/NNP ]
+./. 
+
+ (/( 
+[ Rhode/NNP Island/NNP College/NNP ]
+,/, 
+[ Roberts/NNP Auditorium/NNP ]
+,/, 
+[ 401-456-8194/CD ]
+ )/) ,/, 
+[ Oct./NNP 15/CD ]
+./. 
+
+======================================
+
+[ Ms./NNP Miller/NNP 's/POS work/NN ]
+can/MD subsequently/RB be/VB seen/VBN at/IN 
+[ the/DT Brooklyn/NNP Academy/NNP ]
+of/IN 
+[ Music/NNP 's/POS ]
+``/`` 
+[ Next/JJ Wave/NNP ]
+''/'' 
+[ Festival/NNP ]
+,/, 
+[ Nov./NNP 28-Dec/NNP ]
+./. 
+
+[ 3/CD ]
+ (/( 
+[ BAM/NNP Lepercq/NNP Space/NNP ]
+,/, 
+[ Brooklyn/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ 718-636-4100/CD ]
+ )/) ./. 
+
+======================================
+
+[ Cleveland/NNP Opera/NNP ]
+:/: While/IN 
+[ his/PRP$ fellow/NN Police-man/NNP Sting/NNP ]
+prepares/VBZ to/TO star/VB in/IN ``/`` 
+[ Threepenny/NNP Opera/NNP ]
+,/, ''/'' 
+[ Stewart/NNP Copeland/NNP ]
+has/VBZ written/VBN 
+[ one/CD ]
+./. 
+
+Inspired/VBN by/IN 
+[ his/PRP$ childhood/NN ]
+in/IN 
+[ the/DT Middle/NNP East/NNP ]
+,/, 
+[ the/DT percussionist/NN ]
+has/VBZ created/VBN ``/`` 
+[ Holy/NNP Blood/NNP ]
+and/CC 
+[ Crescent/NNP Moon/NNP ]
+,/, ''/'' 
+[ an/DT epic/NN ]
+set/VBN in/IN 
+[ the/DT era/NN ]
+of/IN 
+[ the/DT Crusades/NNPS ]
+./. 
+
+[ The/DT work/NN ]
+,/, led/VBN by/IN 
+[ New/NNP York/NNP City/NNP Opera/NNP veteran/NN Imre/NNP Pallo/NNP ]
+and/CC featuring/VBG 
+[ counter-tenor/NN Tom/NNP Emlyn/NNP Williams/NNP ]
+,/, has/VBZ 
+[ its/PRP$ world/NN premiere/NN Oct./NNP 10/CD ]
+,/, with/IN 
+[ subsequent/JJ performances/NNS Oct./NNP 1215/CD ]
+./. 
+
+[ State/NNP Theatre/NNP ]
+,/, 
+[ Playhouse/NNP Square/NNP ]
+ (/( 
+[ 1519/CD Euclid/NNP Ave./NNP ]
+ )/) ,/, 
+[ 1-800-492-9696/CD ]
+./. 
+
+======================================
+
+[ Metropolitan/NNP Opera/NNP ]
+,/, 
+[ Lincoln/NNP Center/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+:/: 
+[ Carlos/NNP Kleiber/NNP ]
+returns/VBZ to/TO 
+[ the/DT Metropolitan/NNP Opera/NNP ]
+for/IN 
+[ a/DT new/JJ production/NN ]
+of/IN 
+[ Verdi/NNP 's/POS ]
+``/`` 
+[ La/NNP Traviata/NNP ]
+,/, ''/'' with/IN 
+[ Edita/NNP Gruberova/NNP ]
+as/IN 
+[ the/DT tubercular/JJ toast/NN ]
+of/IN 
+[ Paris/NNP ]
+,/, 
+[ Neil/NNP Shicoff/NNP ]
+and/CC 
+[ Wolfgang/NNP Brendel/NNP ]
+./. 
+
+[ Oct./NNP 16/CD ]
+,/, 
+[ 20/CD ]
+,/, 
+[ 25/CD ]
+,/, 
+[ 28/CD ]
+,/, 
+[ 31/CD ]
+,/, 
+[ Nov./NNP 4/CD ]
+,/, 
+[ 8/CD ]
+,/, 
+[ 11/CD ]
+,/, 
+[ 16/CD ]
+./. 
+
+[ Conductor/NN Michelangelo/NNP Veltri/NNP ]
+takes/VBZ over/IN beginning/VBG 
+[ Nov./NNP 4/CD ]
+./. 
+
+======================================
+
+[ Winter/NNP Garden/NNP Jazz/NNP Series/NNP ]
+:/: 
+[ The/DT lineup/NN ]
+of/IN 
+[ free/JJ all-star/JJ concerts/NNS kicks/NNS ]
+off/RP 
+[ Oct./NNP 11/CD ]
+ (/( 
+[ 12:15/CD ]
+p.m/NN ./. 
+
+ )/) with/IN 
+[ the/DT Brooklyn/NNP Philharmonic/NNP ]
+and/CC 
+[ jazz/NN trumpeter/NN Frank/NNP Gordon/NNP ]
+in/IN 
+[ a/DT program/NN ]
+of/IN 
+[ classics/NNS ]
+by/IN 
+[ Duke/NNP Ellington/NNP ]
+and/CC 
+[ Eubie/NNP Blake/NNP ]
+./. 
+
+[ Other/JJ highlights/NNS ]
+include/VBP 
+[ an/DT Oct./NNP 18/CD performance/NN ]
+ (/( 
+[ 7/CD ]
+p.m/RB ./. 
+
+ )/) pairing/VBG 
+[ the/DT Max/NNP Roach/NNP Quartet/NNP ]
+with/IN 
+[ percussionist/NN Edwina/NNP Lee/NNP Tyler/NNP ]
+,/, and/CC 
+[ a/DT Nov./NNP 1/CD gig/NN ]
+ (/( 
+[ 7/CD ]
+p.m/NN ./. 
+
+ )/) by/IN 
+[ pianist/NN McCoy/NNP Tyner/NNP ]
+and/CC 
+[ jazz/NN violinist/NN John/NNP Blake/NNP ]
+./. 
+
+[ Winter/NNP Garden/NNP ]
+,/, 
+[ World/NNP Financial/NNP Center/NNP ]
+,/, 
+[ Battery/NNP Park/NNP City/NNP ]
+,/, 
+[ Manhattan/NNP ]
+./. 
+
+ (/( 
+[ 212/CD ]
+ )/) 
+[ 945-0505/CD ]
+./. 

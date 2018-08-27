@@ -1,0 +1,162 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Standard/NNP ]
+&/CC 
+[ Poor/NNP 's/POS Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+lowered/VBD to/TO single-B-minus/JJ from/IN 
+[ double-B-plus/JJ its/PRP$ rating/NN ]
+on/IN 
+[ the/DT company/NN 's/POS $/$ 57.5/CD million/CD ]
+of/IN 
+[ 6.5/CD %/NN convertible/JJ subordinated/VBN debentures/NNS due/JJ 2011/CD ]
+./. 
+
+[ It/PRP ]
+said/VBD 
+[ the/DT downgrade/NN ]
+reflects/VBZ 
+[ the/DT Irvine/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ concern/NN 's/POS ]
+``/`` 
+[ poor/JJ earnings/NNS outlook/NN ]
+and/CC diminished/VBN 
+[ financial/JJ flexibility/NN ]
+''/'' caused/VBN by/IN 
+[ its/PRP$ inability/NN ]
+to/TO integrate/VB 
+[ recent/JJ acquisitions/NNS ]
+./. 
+
+``/`` 
+[ The/DT acquisitions/NNS ]
+raised/VBD 
+[ business/NN risk/NN ]
+,/, drastically/RB shifting/VBG 
+[ the/DT business/NN mix/NN ]
+from/IN 
+[ mature/JJ vocational/JJ schools/NNS ]
+to/TO 
+[ more/JJR volatile/JJ computer-based/JJ corporate/JJ training/NN ]
+./. 
+
+''/'' 
+[ Near-term/JJ operating/NN propects/NNS ]
+are/VBP weak/JJ ,/, 
+[ S&P/NNP ]
+said/VBD ,/, citing/VBG 
+[ merger/NN expenses/NNS ]
+and/CC 
+[ large/JJ working/NN capital/NN expenses/NNS ]
+./. 
+
+[ National/NNP Education/NNP ]
+has/VBZ said/VBD 
+[ its/PRP$ lenders/NNS ]
+would/MD call/VB 
+[ $/$ 62/CD million/CD ]
+in/IN 
+[ unsecured/JJ loans/NNS ]
+if/IN 
+[ the/DT lenders/NNS ]
+decline/VBP to/TO participate/VB in/IN 
+[ a/DT new/JJ secured/VBN credit/NN line/NN ]
+,/, and/CC 
+[ S&P/NNP ]
+said/VBD 
+[ such/JJ difficulties/NNS ]
+could/MD result/VB in/IN 
+[ another/DT downgrade/NN ]
+./. 
+
+[ National/NNP Education/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+had/VBD n't/RB seen/VBN 
+[ the/DT S&P/NNP report/NN ]
+and/CC declined/VBD 
+[ comment/NN ]
+./. 
+
+======================================
+
+[ NIAGARA/NNP MOHAWK/NNP POWER/NNP Corp/NNP ]
+./. 
+
+ (/( 
+[ Syracuse/NNP ]
+,/, 
+[ N.Y./NNP ]
+ )/) --/: 
+[ Moody/NNP ]
+
+[ 's/POS Investors/NNPS Service/NNP Inc./NNP ]
+confirmed/VBD 
+[ the/DT ratings/NNS ]
+on/IN 
+[ senior/JJ securities/NNS ]
+of/IN 
+[ Niagara/NNP Mohawk/NNP ]
+but/CC lowered/VBD 
+[ ratings/NNS ]
+on/IN 
+[ its/PRP$ preferred/JJ stock/NN ]
+and/CC 
+[ commercial/JJ paper/NN ]
+,/, affecting/VBG 
+[ a/DT total/NN ]
+of/IN about/RB 
+[ $/$ 3.1/CD billion/CD ]
+in/IN 
+[ securities/NNS ]
+./. 
+
+Secured/JJ 
+[ facility/NN bonds/NNS ]
+were/VBD downgraded/VBN to/TO 
+[ Baa-3/JJ ]
+from/IN 
+[ Baa-2/JJ ]
+,/, preferred/JJ 
+[ stock/NN ]
+to/TO 
+[ Ba-2/JJ ]
+from/IN 
+[ Baa-3/JJ ]
+and/CC 
+[ commercial/JJ paper/NN ]
+to/TO 
+[ Prime-3/JJ ]
+from/IN 
+[ Prime-2/JJ ]
+./. 
+
+[ The/DT ratings/NNS firm/NN ]
+noted/VBD 
+[ the/DT company/NN 's/POS reduced/JJ cash/NN position/NN ]
+and/CC 
+[ financial/JJ flexibility/NN ]
+,/, and/CC 
+[ risks/NNS ]
+associated/VBN with/IN 
+[ its/PRP$ nuclear/JJ program/NN ]
+./. 

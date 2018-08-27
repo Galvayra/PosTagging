@@ -1,0 +1,71 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT group/NN ]
+including/VBG 
+[ Gene/NNP E./NNP Phillips/NNP ]
+,/, 
+[ former/JJ chairman/NN ]
+of/IN 
+[ Southmark/NNP Corp./NNP ]
+,/, and/CC 
+[ William/NNP S./NNP Friedman/NNP ]
+,/, 
+[ former/JJ vice/NN chairman/NN ]
+of/IN 
+[ Southmark/NNP ]
+,/, lowered/VBD 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ the/DT Dallas/NNP real/JJ estate/NN concern/NN ]
+to/TO 
+[ 7.7/CD %/NN ]
+,/, according/VBG to/TO 
+[ a/DT filing/NN ]
+with/IN 
+[ the/DT Securities/NNP ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+./. 
+
+======================================
+
+[ The/DT group/NN ]
+said/VBD 
+[ it/PRP ]
+sold/VBD 
+[ 455,410/CD Southmark/NNP common/JJ shares/NNS ]
+from/IN 
+[ Sept./NNP 5/CD ]
+to/TO Oct./NNP 
+[ 5/CD ]
+for/IN 
+[ 18.75/CD cents/NNS ]
+to/TO 
+[ 25/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ The/DT filing/NN ]
+said/VBD 
+[ the/DT group/NN ]
+continues/VBZ to/TO hold/VB 
+[ 3,481,887/CD remaining/VBG shares/NNS ]
+./. 

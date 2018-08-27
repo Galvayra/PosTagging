@@ -1,0 +1,549 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT federal/JJ judge/NN ]
+in/IN 
+[ Manhattan/NNP ]
+rejected/VBD 
+[ a/DT challenge/NN ]
+by/IN 
+[ attorneys/NNS ]
+for/IN 
+[ Michael/NNP Milken/NNP ]
+to/TO 
+[ grand/JJ jury/NN subpoenas/NNS ]
+seeking/VBG 
+[ Mr./NNP Milken/NNP 's/POS bills/NNS ]
+from/IN 
+[ American/NNP Express/NNP Co./NNP ]
+from/IN 
+[ 1983/CD ]
+to/TO 
+======================================
+
+[ Attorneys/NNP ]
+for/IN 
+[ Mr./NNP Milken/NNP ]
+claimed/VBD that/IN 
+[ prosecutors/NNS ]
+were/VBD misusing/VBG 
+[ the/DT federal/JJ grand/JJ jury/NN ]
+by/IN having/VBG 
+[ it/PRP ]
+retrace/VB 
+[ ground/NN ]
+already/RB covered/VBN in/IN 
+[ the/DT investigation/NN ]
+
+[ that/WDT ]
+led/VBD to/TO 
+[ the/DT March/NNP indictment/NN ]
+of/IN 
+[ Mr./NNP Milken/NNP ]
+,/, 
+[ the/DT former/JJ chief/NN ]
+of/IN 
+[ junk/NN bond/NN operations/NNS ]
+for/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP Inc/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ U.S./NNP District/NNP Judge/NNP Kimba/NNP Wood/NNP ]
+said/VBD in/IN 
+[ a/DT conference/NN ]
+with/IN 
+[ prosecutors/NNS ]
+and/CC 
+[ lawyers/NNS ]
+for/IN 
+[ Mr./NNP Milken/NNP ]
+
+[ this/DT week/NN ]
+that/IN 
+[ the/DT government/NN ]
+had/VBD ``/`` made/VBN 
+[ a/DT sufficient/JJ showing/NN ]
+''/'' in/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ the/DT court/NN ]
+that/WDT ``/`` 
+[ the/DT grand/JJ jury/NN ]
+is/VBZ investigating/VBG 
+[ transactions/NNS ]
+separate/JJ from/IN 
+[ those/DT ]
+
+[ that/WDT ]
+are/VBP 
+[ the/DT subject/NN ]
+of/IN 
+[ the/DT pending/VBG indictment/NN ]
+''/'' of/IN 
+[ Mr./NNP Milken/NNP ]
+./. 
+
+[ Judge/NNP Wood/NNP ]
+said/VBD that/IN 
+[ the/DT government/NN ]
+has/VBZ shown/VBN that/IN 
+[ the/DT American/NNP Express/NNP subpoenas/NNS ]
+were/VBD issued/VBN in/IN 
+[ connection/NN ]
+with/IN 
+[ such/JJ separate/JJ transactions/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Milken/NNP ]
+was/VBD charged/VBN in/IN 
+[ March/NNP ]
+in/IN 
+[ a/DT 98-count/JJ indictment/NN ]
+alleging/VBG racketeering/NN and/CC 
+[ fraud/NN ]
+in/IN 
+[ connection/NN ]
+with/IN 
+[ securities/NNS trades/NNS ]
+./. 
+
+[ Lawyers/NNP ]
+for/IN 
+[ Mr./NNP Milken/NNP ]
+have/VBP repeatedly/RB asserted/VBN 
+[ his/PRP$ innocence/NN ]
+and/CC said/VBD 
+[ he/PRP ]
+intends/VBZ to/TO fight/VB 
+[ his/PRP$ case/NN ]
+in/IN 
+[ court/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT same/JJ conference/NN ]
+with/IN 
+[ the/DT judge/NN ]
+,/, 
+[ Assistant/NNP U.S./NNP Attorney/NNP John/NNP K./NNP Carroll/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ leading/VBG 
+[ the/DT prosecution/NN ]
+of/IN 
+[ Mr./NNP Milken/NNP ]
+,/, said/VBD that/IN 
+[ an/DT expanded/VBN indictment/NN ]
+of/IN 
+[ Mr./NNP Milken/NNP ]
+will/MD come/VB in/IN 
+[ November/NNP ]
+./. 
+
+[ Mr./NNP Carroll/NNP ]
+previously/RB had/VBD said/VBD 
+[ the/DT government/NN ]
+would/MD be/VB unable/JJ to/TO meet/VB 
+[ its/PRP$ Oct./NNP 1/CD deadline/NN ]
+for/IN 
+[ an/DT expanded/JJ indictment/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+did/VBD n't/RB specify/VB when/WRB 
+[ a/DT new/JJ indictment/NN ]
+might/MD be/VB returned/VBN ./. 
+
+======================================
+
+[ TWO/CD INSURANCE/NN COMPANIES/NNS ]
+settle/VBP 
+[ an/DT antitrust/JJ lawsuit/NN ]
+filed/VBN by/IN 
+[ Texas/NNP '/POS attorney/NN general/NN ]
+./. 
+
+======================================
+
+[ Travelers/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, and/CC 
+[ St./NNP Paul/NNP Fire/NNP ]
+&/CC 
+[ Marine/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ St./NNP Paul/NNP ]
+,/, 
+[ Minn./NNP ]
+,/, agreed/VBD to/TO pay/VB 
+[ $/$ 500,000/CD each/DT ]
+to/TO 
+[ the/DT state/NN ]
+of/IN 
+[ Texas/NNP ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ the/DT settlement/NN ]
+of/IN 
+[ the/DT suit/NN ]
+filed/VBN 
+[ last/JJ year/NN ]
+./. 
+
+[ The/DT companies/NNS ]
+also/RB agreed/VBD to/TO refrain/VB from/IN participating/VBG on/IN 
+[ certain/JJ committees/NNS ]
+of/IN 
+[ the/DT Insurance/NNP Services/NNP Office/NNP Inc./NNP ]
+,/, 
+[ an/DT industry/NN rating/NN organization/NN ]
+,/, for/IN 
+[ three/CD years/NNS ]
+./. 
+
+======================================
+
+[ Texas/NNP Attorney/NNP General/NNP Jim/NNP Mattox/NNP ]
+and/CC 
+[ other/JJ attorneys/NNS ]
+general/JJ have/VBP charged/VBN that/IN 
+[ the/DT ISO/NNP ]
+was/VBD 
+[ a/DT vehicle/NN ]
+for/IN 
+[ the/DT insurance/NN companies/NNS ]
+to/TO conspire/VB to/TO raise/VB 
+[ rates/NNS ]
+,/, decrease/VB 
+[ coverage/NN ]
+and/CC create/VB 
+[ a/DT crisis/NN ]
+in/IN 
+[ commercial/JJ liability/NN insurance/NN ]
+./. 
+
+[ Lawyers/NNS ]
+for/IN 
+[ Travelers/NNP ]
+and/CC 
+[ St./NNP Paul/NNP ]
+deny/VBP that/IN 
+[ such/JJ a/DT conspiracy/NN ]
+existed/VBD and/CC say/VB 
+[ the/DT settlement/NN ]
+was/VBD more/RBR cost-effective/JJ than/IN fighting/VBG 
+[ the/DT lawsuit/NN ]
+and/CC winning/VBG ./. 
+
+======================================
+
+[ The/DT settlement/NN ]
+,/, approved/VBN yesterday/NN by/IN 
+[ a/DT state/NN district/NN judge/NN ]
+in/IN 
+[ Austin/NNP ]
+,/, 
+[ Texas/NNP ]
+,/, leaves/VBZ 
+[ six/CD insurance/NN companies/NNS ]
+as/IN 
+[ defendants/NNS ]
+in/IN 
+[ the/DT Texas/NNP lawsuit/NN ]
+,/, 
+[ which/WDT ]
+was/VBD filed/VBN in/IN 
+[ March/NNP 1988/CD ]
+./. 
+
+Most/JJS of/IN 
+[ the/DT remaining/JJ defendants/NNS ]
+were/VBD also/RB sued/VBN in/IN 
+[ a/DT federal/JJ antitrust/JJ action/NN ]
+filed/VBN by/IN 
+[ attorneys/NNS ]
+general/JJ from/IN 
+[ several/JJ other/JJ states/NNS ]
+,/, including/VBG 
+[ New/NNP York/NNP ]
+./. 
+
+[ That/DT suit/NN ]
+was/VBD dismissed/VBN by/IN 
+[ a/DT federal/JJ judge/NN ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+======================================
+
+[ THE/DT ACTING/JJ U.S./NNP ATTORNEY/NNP ]
+in/IN 
+[ Manhattan/NNP ]
+will/MD join/VB 
+[ Willkie/NNP Farr/NNP ]
+&/CC 
+[ Gallagher/NNP ]
+./. 
+
+======================================
+
+[ Benito/NNP Romano/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ been/VBN acting/JJ 
+[ U.S./NNP attorney/NN ]
+for/IN 
+[ the/DT Southern/NNP District/NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+since/IN 
+[ January/NNP ]
+,/, will/MD join/VB 
+[ the/DT New/NNP York/NNP law/NN firm/NN ]
+in/IN 
+[ early/JJ November/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Romano/NNP ]
+,/, 
+[ 40/CD ]
+,/, was/VBD appointed/VBN to/TO 
+[ his/PRP$ prosecutorial/JJ post/NN ]
+following/VBG 
+[ the/DT resignation/NN ]
+of/IN 
+[ Rudolph/NNP W./NNP Giuliani/NNP ]
+./. 
+
+[ He/PRP ]
+had/VBD previously/RB been/VBN 
+[ a/DT partner/NN ]
+at/IN 
+[ the/DT New/NNP York/NNP law/NN firm/NN ]
+of/IN 
+[ Dewey/NNP ]
+,/, 
+[ Ballantine/NNP ]
+,/, 
+[ Bushby/NNP ]
+,/, 
+[ Palmer/NNP ]
+&/CC 
+[ Wood/NNP ]
+./. 
+
+[ Otto/NNP Obermaier/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT New/NNP York/NNP law/NN firm/NN ]
+of/IN 
+[ Obermaier/NNP ]
+,/, 
+[ Morvillo/NNP ]
+&/CC 
+[ Abramowitz/NNP ]
+,/, will/MD be/VB sworn/VBN in/RP as/IN 
+[ the/DT new/JJ U.S./NNP attorney/NN ]
+on/IN 
+[ Monday/NNP ]
+./. 
+
+======================================
+
+Although/IN 
+[ his/PRP$ tenure/NN ]
+as/IN 
+[ U.S./NNP attorney/NN ]
+was/VBD short/JJ ,/, 
+[ Mr./NNP Romano/NNP ]
+presided/VBD over/IN 
+[ a/DT host/NN ]
+of/IN 
+[ celebrated/JJ cases/NNS ]
+./. 
+
+Among/IN 
+[ them/PRP ]
+was/VBD 
+[ the/DT Princeton\/JJ trial/NN ]
+,/, 
+[ the/DT first-ever/JJ prosecution/NN ]
+and/CC 
+[ conviction/NN ]
+of/IN 
+[ securities/NNS firm/JJ officials/NNS ]
+on/IN 
+[ racketeering/NN charges/NNS ]
+./. 
+
+[ Mr./NNP Romano/NNP ]
+also/RB helped/VBD negotiate/VB 
+[ criminal/JJ plea/NN agreements/NNS ]
+with/IN 
+[ Robert/NNP Freeman/NNP ]
+,/, 
+[ the/DT former/JJ head/NN ]
+of/IN 
+[ arbitrage/NN ]
+for/IN 
+[ Goldman/NNP Sachs/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, and/CC 
+[ former/JJ Wall/NNP Street/NNP securities/NNS trader/NN Salim/NNP B./NNP Lewis/NNP ]
+./. 
+
+======================================
+
+At/IN 
+[ Willkie/NNP Farr/NNP ]
+,/, 
+[ Mr./NNP Romano/NNP ]
+will/MD specialize/VB in/IN 
+[ civil/JJ ]
+and/CC 
+[ criminal/JJ litigation/NN ]
+./. 
+
+[ Mr./NNP Romano/NNP ]
+began/VBD 
+[ his/PRP$ legal/JJ career/NN ]
+at/IN 
+[ Willkie/NNP Farr/NNP ]
+in/IN 
+[ 1976/CD ]
+./. 
+
+======================================
+
+[ MYERSON/NNP ]
+&/CC 
+[ KUHN/NNP partner/NN Philip/NNP S./NNP Kaufman/NNP ]
+is/VBZ leaving/VBG to/TO join/VB 
+[ the/DT New/NNP York/NNP law/NN firm/NN ]
+of/IN 
+[ Kramer/NNP Levin/NNP Nessen/NNP Kamin/NNP ]
+&/CC 
+[ Frankel/NNP ]
+as/IN 
+[ a/DT partner/NN ]
+,/, 
+[ effective/JJ Monday/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Kaufman/NNP ]
+has/VBZ represented/VBN 
+[ AmBase/NNP Corp./NNP 's/POS Home/NNP Insurance/NNP Co./NNP unit/NN ]
+./. 
+
+[ James/NNP Killelea/NNP ]
+,/, 
+[ general/JJ counsel/NN ]
+for/IN 
+[ Home/NNP ]
+,/, said/VBD 
+[ Mr./NNP Kaufman/NNP ]
+will/MD continue/VB to/TO represent/VB 
+[ Home/NNP ]
+at/IN 
+[ Kramer/NNP Levin/NNP ]
+./. 
+
+======================================
+
+[ NORTH/NNP PROSECUTOR/NNP ]
+goes/VBZ 
+[ private/JJ ]
+:/: In/IN 
+[ another/DT hat/NN switch/NN ]
+by/IN 
+[ a/DT government/NN lawyer/NN ]
+,/, 
+[ Michael/NNP Bromwich/NNP ]
+,/, 
+[ a/DT member/NN ]
+of/IN 
+[ the/DT trial/NN team/NN ]
+
+[ that/WDT ]
+prosecuted/VBD 
+[ Oliver/NNP North/NNP ]
+,/, is/VBZ going/VBG into/IN 
+[ private/JJ practice/NN ]
+as/IN 
+[ a/DT white-collar/JJ criminal/NN defense/NN lawyer/NN ]
+./. 
+
+======================================
+
+Later/RBR 
+[ this/DT month/NN ]
+,/, 
+[ Mr./NNP Bromwich/NNP ]
+,/, 
+[ 35/CD ]
+,/, will/MD join/VB 
+[ the/DT Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ office/NN ]
+of/IN 
+[ Chicago/NNP 's/POS Mayer/NNP ]
+,/, 
+[ Brown/NNP ]
+&/CC 
+[ Platt/NNP ]
+as/IN 
+[ a/DT partner/NN ]
+./. 
+
+Before/IN joining/VBG 
+[ the/DT independent/JJ counsel/NN 's/POS investigation/NN ]
+of/IN 
+[ the/DT Iran-Contra/JJ scandal/NN ]
+in/IN 
+[ 1987/CD ]
+,/, 
+[ Mr./NNP Bromwich/NNP ]
+served/VBD 
+[ four/CD years/NNS ]
+as/IN 
+[ an/DT assistant/JJ U.S./NNP attorney/NN ]
+for/IN 
+[ the/DT Southern/NNP District/NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+./. 

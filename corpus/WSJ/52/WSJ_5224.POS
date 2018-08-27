@@ -1,0 +1,1157 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Treasury/NNP bond/NN prices/NNS ]
+fell/VBD 
+[ late/JJ yesterday/NN ]
+as/IN 
+[ the/DT government/NN ]
+prepares/VBZ to/TO auction/VB 
+[ a/DT large/JJ supply/NN ]
+of/IN 
+[ new/JJ securities/NNS ]
+./. 
+
+======================================
+
+[ The/DT Treasury/NNP ]
+will/MD auction/VB 
+[ $/$ 32/CD billion/CD ]
+in/IN 
+[ securities/NNS ]
+next/IN 
+[ week/NN ]
+,/, including/VBG 
+[ $/$ 9.75/CD billion/CD ]
+in/IN 
+[ two-year/JJ notes/NNS ]
+and/CC 
+[ $/$ 7.75/CD billion/CD ]
+in/IN 
+[ four-year/JJ notes/NNS ]
+./. 
+
+[ The/DT size/NN ]
+of/IN 
+[ the/DT auctions/NNS ]
+was/VBD increased/VBN over/IN 
+[ recent/JJ similar/JJ auctions/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT prospect/NN ]
+of/IN 
+[ more/JJR supply/NN ]
+is/VBZ 
+[ what/WP ]
+'s/VBZ hurting/VBG 
+[ the/DT market/NN ]
+,/, ''/'' said/VBD 
+[ William/NNP M./NNP Brachfeld/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+at/IN 
+[ Daiwa/NNP Securities/NNPS America/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT benchmark/NN 30-year/JJ Treasury/NNP bond/NN ]
+fell/VBD 
+[ 1\/4/CD point/NN ]
+,/, or/CC about/IN 
+[ $/$ 2.50/CD ]
+,/, for/IN 
+[ each/DT $/$ 1,000/CD face/NN amount/NN ]
+./. 
+
+[ The/DT issue/NN 's/POS yield/NN ]
+,/, 
+[ which/WDT ]
+moves/VBZ in/IN 
+[ the/DT opposite/JJ direction/NN ]
+from/IN 
+[ its/PRP$ price/NN ]
+,/, rose/VBD to/TO 
+[ 8.18/CD %/NN ]
+from/IN 
+[ 8.16/CD %/NN ]
+./. 
+
+======================================
+
+[ Bond/NN prices/NNS ]
+were/VBD 
+[ 1\/4/CD point/NN ]
+higher/JJR in/IN overnight/RB trading/NN in/IN 
+[ Tokyo/NNP ]
+and/CC retained/VBD 
+[ the/DT gains/NNS ]
+when/WRB trading/NN began/VBD in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+[ One/CD dealer/NN ]
+said/VBD 
+[ Japanese/JJ investors/NNS ]
+were/VBD ``/`` 
+[ bargain/NN hunting/VBG ]
+''/'' in/IN 
+[ the/DT U.S./NNP securities/NNS market/NN ]
+,/, buying/VBG primarily/RB 
+[ 10-year/JJ notes/NNS ]
+and/CC 
+[ 30-year/JJ bonds/NNS ]
+on/IN 
+[ hopes/NNS ]
+that/IN 
+[ those/DT securities/NNS ]
+would/MD rebound/VB if/IN 
+[ the/DT U.S./NNP dollar/NN ]
+starts/VBZ to/TO rise/VB again/RB ./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+was/VBD 
+[ a/DT small/JJ amount/NN ]
+of/IN 
+[ activity/NN ]
+in/IN 
+[ Japan/NNP ]
+very/RB early/JJ ,/, but/CC 
+[ it/PRP ]
+looks/VBZ like/IN 
+[ they/PRP ]
+were/VBD wrong/JJ ,/, ''/'' in/IN betting/VBG that/IN 
+[ the/DT dollar/NN ]
+would/MD push/VB 
+[ the/DT market/NN ]
+higher/JJR ,/, said/VBD 
+[ Mr./NNP Brachfeld/NNP ]
+./. 
+
+======================================
+
+[ Bond/NN dealers/NNS ]
+said/VBD 
+[ the/DT selling/VBG spree/NN ]
+began/VBD in/IN 
+[ the/DT bond/NN futures/NNS ]
+trading/NN 
+[ pit/NN ]
+,/, where/WRB 
+[ sell/NN orders/NNS ]
+were/VBD triggered/VBN after/IN 
+[ prices/NNS ]
+slipped/VBD below/IN  
+[ key/JJ technical/JJ support/NN levels/NNS ]
+./. 
+
+[ The/DT sell-off/NN ]
+quickly/RB spread/VBD to/TO 
+[ the/DT cash/NN market/NN ]
+./. 
+
+======================================
+
+Also/RB weighing/VBG on/IN 
+[ Treasury/NNP prices/NNS ]
+were/VBD 
+[ rumors/NNS ]
+that/IN 
+[ the/DT Resolution/NNP Funding/NNP Corp./NNP ]
+will/MD soon/RB announce/VB 
+[ details/NNS ]
+of/IN 
+[ its/PRP$ first/JJ bond/NN offering/NN ]
+./. 
+
+[ Refcorp/NNP ]
+is/VBZ 
+[ a/DT new/JJ agency/NN ]
+created/VBN to/TO raise/VB 
+[ money/NN ]
+for/IN 
+[ the/DT thrift/NN industry/NN bailout/NN ]
+./. 
+
+[ The/DT Treasury/NNP ]
+has/VBZ said/VBN 
+[ the/DT agency/NN ]
+will/MD issue/VB about/IN 
+[ $/$ 30/CD billion/CD ]
+in/IN 
+[ securities/NNS ]
+over/IN 
+[ the/DT next/JJ two/CD fiscal/JJ years/NNS ]
+,/, possibly/RB starting/VBG as/RB soon/RB as/IN 
+[ next/JJ month/NN ]
+./. 
+
+======================================
+
+But/CC yesterday/NN ,/, 
+[ traders/NNS ]
+heard/VBD 
+[ rumors/NNS ]
+that/IN 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT auction/NN ]
+may/MD be/VB raised/VBN to/TO as/RB much/JJ as/IN 
+[ $/$ 50/CD billion/CD ]
+./. 
+
+[ A/DT Treasury/NNP spokesman/NN ]
+denied/VBD 
+[ the/DT rumors/NNS ]
+./. 
+
+======================================
+
+[ Philip/NNP Braverman/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP financial/JJ economist/NN ]
+,/, said/VBD 
+[ many/JJ analysts/NNS ]
+doubted/VBD 
+[ the/DT credibility/NN ]
+of/IN 
+[ the/DT rumors/NNS ]
+throughout/IN 
+[ the/DT day/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+noted/VBD that/IN just/RB 
+[ the/DT slight/JJ chance/NN ]
+that/IN 
+[ the/DT rumors/NNS ]
+were/VBD 
+[ true/JJ ]
+``/`` kept/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ buyers/NNS ]
+away/RB ./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ There/EX ]
+seemed/VBD to/TO be/VB misinformed/VBN 
+[ rumors/NNS ]
+about/IN 
+[ Refcorp/NNP ]
+,/, ''/'' said/VBD 
+[ F./NNP Ward/NNP McCarthy/NNP ]
+of/IN 
+[ Stone/NNP ]
+&/CC 
+[ McCarthy/NNP Research/NNP Associates/NNPS Inc/NNP ]
+./. 
+
+``/`` 
+[ One/CD ]
+of/IN 
+[ the/DT rumors/NNS ]
+was/VBD that/IN 
+[ Refcorp/NNP ]
+was/VBD going/VBG to/TO announce/VB 
+[ a/DT $/$ 5/CD billion/CD zero/CD coupon/NN issue/NN ]
+,/, possibly/RB as/RB early/JJ as/IN 
+[ today/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP McCarthy/NNP ]
+said/VBD 
+[ talk/NN ]
+has/VBZ been/VBN circulating/VBG in/IN 
+[ the/DT credit/NN market/NN ]
+for/IN 
+[ the/DT past/JJ several/JJ weeks/NNS ]
+
+[ that/IN Refcorp/NNP ]
+will/MD start/VB to/TO raise/VB funding/NN for/IN 
+[ the/DT thrift/NN bailout/NN ]
+by/IN selling/VBG 
+[ $/$ 5/CD billion/CD ]
+of/IN 
+[ 30-year/JJ bonds/NNS ]
+during/IN 
+[ the/DT first/JJ ]
+
+[ half/DT ]
+of/IN 
+[ October/NNP ]
+,/, and/CC not/RB 
+[ zero/CD coupon/NN bonds/NNS ]
+./. 
+
+======================================
+
+[ The/DT federal/JJ government/NN 's/POS thrift/NN bailout/NN plan/NN ]
+put/VBD ``/`` 
+[ on-budget/JJ ]
+,/, ''/'' for/IN 
+[ fiscal/JJ 1989/CD ending/VBG Sept./NNP 30/CD ]
+,/, 
+[ $/$ 20/CD billion/CD ]
+of/IN 
+[ the/DT $/$ 50/CD billion/CD ]
+needed/VBN toward/IN 
+[ the/DT eventual/JJ $/$ 166/CD billion/CD thrift/NN bailout/NN cost/NN ]
+./. 
+
+[ The/DT additional/JJ $/$ 30/CD billion/CD ]
+will/MD be/VB raised/VBN through/IN 
+[ bonds/NNS ]
+issued/VBN by/IN 
+[ Refcorp/NNP ]
+and/CC wo/MD n't/RB be/VB counted/VBN as/IN 
+[ part/NN ]
+of/IN 
+[ the/DT federal/JJ budget/NN ]
+./. 
+
+======================================
+
+[ The/DT Treasury/NNP ]
+has/VBZ been/VBN raising/VBG 
+[ the/DT sizes/NNS ]
+of/IN 
+[ its/PRP$ ]
+regularly/RB scheduled/VBN 
+[ bill/NN ]
+and/CC 
+[ note/NN sales/NNS ]
+and/CC has/VBZ also/RB held/VBN 
+[ cash/NN management/NN bill/NN sales/NNS ]
+recently/RB to/TO help/VB raise/VB 
+[ the/DT initial/JJ $/$ 20/CD billion/CD that/WDT ]
+is/VBZ ``/`` 
+[ on-budget/JJ ]
+./. 
+
+''/'' 
+======================================
+
+On/IN 
+[ the/DT economic/JJ front/NN ]
+,/, 
+[ the/DT Commerce/NNP Department/NNP today/NN ]
+will/MD release/VB 
+[ the/DT latest/JJS data/NNS ]
+on/IN 
+[ personal/JJ income/NN ]
+and/CC 
+[ personal/JJ consumption/NN expenditures/NNS ]
+./. 
+
+Although/IN 
+[ economists/NNS ]
+expect/VBP 
+[ the/DT report/NN ]
+to/TO show/VB 
+[ signs/NNS ]
+of/IN 
+[ economic/JJ weakness/NN ]
+,/, 
+[ the/DT data/NNS ]
+are/VBP not/RB likely/JJ to/TO have/VB 
+[ much/JJ impact/NN ]
+on/IN 
+[ the/DT bond/NN market/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ These/DT data/NNS ]
+should/MD show/VB 
+[ more/JJR signs/NNS ]
+of/IN 
+[ an/DT economy/NN ]
+
+[ that/WDT ]
+is/VBZ decelerating/VBG ,/, ''/'' says/VBZ 
+[ Mr./NNP McCarthy/NNP ]
+./. 
+
+However/RB ,/, 
+[ he/PRP ]
+added/VBD ,/, ``/`` 
+[ the/DT market/NN ]
+is/VBZ either/RB looking/VBG for/IN 
+[ real/JJ strength/NN ]
+or/CC 
+[ negative/JJ numbers/NNS ]
+./. 
+
+[ It/PRP ]
+does/VBZ n't/RB have/VB 
+[ the/DT patience/NN ]
+right/RB now/RB to/TO accept/VB 
+[ the/DT gradual/JJ slowing/NN ]
+
+[ we/PRP ]
+'re/VBP seeing/VBG in/IN 
+[ the/DT economy/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Economists/NNS ]
+surveyed/VBN by/IN 
+[ Dow/NNP Jones/NNP Capital/NNP Markets/NNPS Report/NNP ]
+expect/VBP ,/, on/IN 
+[ average/NN ]
+,/, 
+[ a/DT 0.3/CD %/NN gain/NN ]
+in/IN 
+[ last/JJ month/NN 's/POS personal/JJ income/NN ]
+./. 
+
+[ Personal/JJ consumption/NN expenditures/NNS ]
+are/VBP expected/VBN to/TO have/VB increased/VBN 
+[ 0.8/CD %/NN ]
+./. 
+
+In/IN 
+[ July/NNP ]
+,/, 
+[ both/DT personal/JJ income/NN ]
+and/CC 
+[ personal/JJ consumption/NN expenditures/NNS ]
+advanced/VBD 
+[ 0.7/CD %/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT corporate/JJ bond/NN market/NN ]
+,/, 
+[ the/DT banking/NN industry/NN ]
+crossed/VBD 
+[ a/DT major/JJ milestone/NN ]
+when/WRB 
+[ Bankers/NNPS Trust/NNP New/NNP York/NNP Corp./NNP ]
+became/VBD 
+[ the/DT first/JJ commercial/JJ bank/NN ]
+to/TO lead/VB 
+[ an/DT underwriting/VBG group/NN ]
+for/IN 
+[ a/DT corporate/JJ bond/NN ]
+offering/NN since/IN 
+[ the/DT early/JJ 1930s/CD ]
+./. 
+
+======================================
+
+[ BT/NNP Securities/NNPS ]
+,/, 
+[ the/DT securities/NNS unit/NN ]
+of/IN 
+[ Bankers/NNPS Trust/NNP ]
+,/, was/VBD chosen/VBN as/IN 
+[ underwriter/NN ]
+for/IN 
+[ a/DT $/$ 150/CD million/CD junk/NN bond/NN ]
+offering/VBG of/IN 
+[ seven-year/JJ notes/NNS ]
+by/IN 
+[ MorningStar/NNP Foods/NNPS Inc./NNP ]
+,/, 
+[ a/DT Dallas-based/JJ producer/NN ]
+and/CC 
+[ distributor/NN ]
+of/IN 
+[ dairy/NN products/NNS ]
+./. 
+
+======================================
+
+[ Bankers/NNPS Trust/NNP ]
+and/CC 
+[ several/JJ other/JJ major/JJ banks/NNS ]
+were/VBD given/VBN 
+[ authority/NN ]
+in/IN 
+[ recent/JJ months/NNS ]
+by/IN 
+[ the/DT Federal/NNP Reserve/NNP ]
+to/TO underwrite/VB 
+[ corporate/JJ debt/NN ]
+to/TO 
+[ a/DT limited/JJ degree/NN ]
+./. 
+
+[ Several/JJ banks/NNS ]
+have/VBP been/VBN included/VBN in/IN underwriting/VBG 
+[ groups/NNS ]
+for/IN 
+[ corporate/JJ bonds/NNS ]
+,/, but/CC until/IN yesterday/NN 
+[ none/NN ]
+had/VBD been/VBN designated/VBN as/IN 
+[ a/DT lead/NN manager/NN ]
+./. 
+
+======================================
+
+[ Treasury/NNP Securities/NNPS ]
+
+======================================
+
+[ Treasury/NNP securities/NNS ]
+fell/VBD in/IN 
+[ light/JJ ]
+trading/NN ./. 
+
+[ The/DT benchmark/NN 30-year/JJ bond/NN ]
+was/VBD quoted/VBN late/RB in/IN 
+[ the/DT day/NN ]
+at/IN 
+[ a/DT price/NN ]
+of/IN 
+[ 99/CD 07\/32/CD ]
+compared/VBN with/IN 
+[ 99/CD 15\/32/CD Wednesday/NNP ]
+./. 
+
+[ The/DT latest/JJS 10-year/JJ notes/NNS ]
+were/VBD quoted/VBN at/IN 
+[ 98/CD 20\/32/CD ]
+to/TO yield/VB 
+[ 8.19/CD %/NN ]
+compared/VBN with/IN 
+[ 98/CD 25\/32/CD ]
+to/TO yield/VB 
+[ 8.16/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT government/NN ]
+sold/VBD 
+[ $/$ 9.51/CD billion/CD ]
+of/IN 
+[ one-year/JJ Treasury/NNP bills/NNS ]
+yesterday/NN at/IN 
+[ an/DT average/JJ rate/NN ]
+of/IN 
+[ 7.61/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT Treasury/NNP ]
+received/VBD 
+[ bids/NNS ]
+totaling/VBG 
+[ $/$ 25.56/CD billion/CD ]
+for/IN 
+[ the/DT bills/NNS ]
+and/CC accepted/VBD 
+[ $/$ 9.51/CD billion/CD ]
+,/, including/VBG 
+[ $/$ 469.9/CD million/CD ]
+of/IN 
+[ noncompetitive/JJ tenders/NNS ]
+at/IN 
+[ the/DT average/JJ return/NN ]
+./. 
+
+======================================
+
+Here/RB are/VBP 
+[ details/NNS ]
+of/IN 
+[ yesterday/NN 's/POS auction/NN ]
+:/: 
+======================================
+
+[ Rates/NNS ]
+are/VBP determined/VBN by/IN 
+[ the/DT difference/NN ]
+between/IN 
+[ the/DT purchase/NN price/NN ]
+and/CC 
+[ face/NN value/NN ]
+./. 
+
+Thus/RB ,/, 
+[ higher/JJR bidding/NN ]
+narrows/VBZ 
+[ the/DT investor/NN 's/POS return/NN ]
+while/IN 
+[ lower/JJR bidding/NN ]
+widens/VBZ 
+[ it/PRP ]
+./. 
+
+[ The/DT percentage/NN rates/NNS ]
+are/VBP calculated/VBN on/IN 
+[ a/DT 360-day/JJ year/NN ]
+,/, while/IN 
+[ the/DT coupon/NN equivalent/JJ yield/NN ]
+is/VBZ based/VBN on/IN 
+[ a/DT 365-day/JJ year/NN ]
+./. 
+
+======================================
+
+[ The/DT bills/NNS ]
+are/VBP dated/VBN 
+[ Sept./NNP 28/CD ]
+and/CC 
+[ mature/VBP Sept./NNP  27/CD ]
+,/, 
+[ 1990/CD ]
+./. 
+
+======================================
+
+[ Corporate/NNP Issues/NNPS ]
+
+======================================
+
+[ Corporate/JJ bonds/NNS ]
+ended/VBD about/IN 
+[ 1\/2/CD point/NN ]
+lower/JJR ./. 
+
+======================================
+
+[ The/DT new-issue/JJ market/NN ]
+took/VBD 
+[ a/DT breather/NN ]
+after/IN 
+[ Wednesday/NNP 's/POS heavy/JJ round/NN ]
+of/IN 
+[ corporate/JJ debt/NN issuance/NN ]
+./. 
+
+Less/JJR than/IN 
+[ $/$ 300/CD million/CD ]
+in/IN 
+[ new/JJ corporate/JJ debt/NN ]
+was/VBD issued/VBN yesterday/NN ,/, 
+[ a/DT significant/JJ reduction/NN ]
+from/IN 
+[ Wednesday/NNP 's/POS total/JJ debt/NN issuance/NN ]
+of/IN more/JJR than/IN 
+[ $/$ 2/CD billion/CD ]
+./. 
+
+======================================
+
+Among/IN 
+[ the/DT new/JJ issues/NNS ]
+
+[ that/WDT ]
+came/VBD to/TO 
+[ market/NN ]
+was/VBD 
+[ a/DT $/$ 150/CD million/CD 12-year/JJ note/NN ]
+offering/NN by/IN 
+[ Kaiser/NNP Permanente/NNP ]
+,/, 
+[ a/DT non-governmental/JJ prepaid/VBN health/NN care/NN delivery/NN system/NN ]
+./. 
+
+[ An/DT underwriting/NN syndicate/NN ]
+led/VBN by/IN 
+[ First/NNP Boston/NNP Corp./NNP ]
+priced/VBD 
+[ the/DT notes/NNS ]
+at/IN 
+[ par/NN ]
+to/TO yield/VB 
+[ 9/CD %/NN ]
+./. 
+
+======================================
+
+[ Household/NNP Finance/NNP Corp./NNP ]
+revisited/VBD 
+[ the/DT corporate/JJ debt/NN market/NN ]
+with/IN 
+[ an/DT $/$ 100/CD million/CD offering/NN ]
+of/IN 
+[ 12-year/JJ senior/JJ subordinated/VBN notes/NNS ]
+./. 
+
+[ A/DT group/NN ]
+led/VBD by/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+won/VBD 
+[ the/DT securities/NNS ]
+through/IN 
+[ competitive/JJ bidding/NN ]
+,/, and/CC was/VBD reoffering/VBG 
+[ the/DT notes/NNS ]
+to/TO 
+[ investors/NNS ]
+at/IN 
+[ a/DT price/NN ]
+to/TO yield/VB 
+[ 9.101/CD %/NN ]
+./. 
+
+In/IN 
+[ the/DT high-yield/JJ market/NN ]
+,/, 
+[ issues/NNS ]
+of/IN 
+[ Resorts/NNPS International/NNP Inc./NNP ]
+continued/VBD to/TO slide/VB on/IN 
+[ Tuesday/NNP 's/POS news/NN ]
+that/IN 
+[ the/DT company/NN ]
+has/VBZ proposed/VBN 
+[ an/DT exchange/NN offer/NN ]
+for/IN 
+[ junior/JJ ]
+and/CC 
+[ senior/JJ debtholders/NNS ]
+./. 
+
+======================================
+
+[ The/DT biggest/JJS loser/NN ]
+was/VBD Resorts/NNPS 
+[ '/POS 10/CD %/NN ]
+subordinated/VBN 
+[ debentures/NNS ]
+of/IN 
+[ 1999/CD ]
+,/, 
+[ which/WDT ]
+lost/VBD 
+[ 3/CD 1\/2/CD points/NNS ]
+to/TO close/VB below/IN 
+[ its/PRP$ year/NN ]
+'s/POS low/JJ at/IN 
+[ 24/CD ]
+./. 
+
+[ Another/DT issue/NN ]
+,/, 
+[ the/DT 10/CD %/NN ]
+subordinated/VBN 
+[ debentures/NNS ]
+of/IN 
+[ 1998/CD ]
+,/, fell/VBD 
+[ two/CD points/NNS ]
+to/TO finish/VB 
+[ the/DT session/NN ]
+at/IN 
+[ 24/CD 1\/2/CD ]
+./. 
+
+[ That/DT issue/NN ]
+had/VBD dropped/VBN below/IN 
+[ its/PRP$ low/JJ ]
+of/IN 
+[ the/DT year/NN ]
+in/IN trading/VBG 
+[ Wednesday/NNP ]
+./. 
+
+======================================
+
+At/IN 
+[ a/DT bondholders/NNS meeting/NN ]
+earlier/RBR 
+[ this/DT week/NN ]
+,/, 
+[ Resorts/NNPS ]
+said/VBD 
+[ it/PRP ]
+will/MD offer/VB 
+[ bondholders/NNS ]
+
+[ a/DT package/NN ]
+of/IN 
+[ new/JJ ]
+subordinated/VBN secured/VBN 
+[ debt/NN due/JJ ]
+in/IN 
+[ 1999/CD ]
+,/, 
+[ some/DT cash/NN ]
+,/, and/CC 
+[ common/JJ stock/NN ]
+in/IN 
+[ exchange/NN ]
+for/IN 
+[ the/DT firm/NN 's/POS junior/JJ ]
+and/CC 
+[ senior/JJ debt/NN ]
+./. 
+
+If/IN 
+[ all/DT debentures/NNS ]
+are/VBP exchanged/VBN ,/, 
+[ bondholders/NNS ]
+would/MD receive/VB 
+[ a/DT 25/CD %/NN equity/NN stake/NN ]
+in/IN 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ prices/NNS ]
+of/IN 
+[ junk/NN bond/NN issues/NNS ]
+across/IN 
+[ the/DT board/NN ]
+were/VBD almost/RB unchanged/JJ in/IN 
+[ what/WP dealers/NNS ]
+said/VBD was/VBD 
+[ quiet/JJ ]
+trading/NN ./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP up/IN from/IN 
+[ the/DT bottoms/NNS ]
+,/, ''/'' said/VBD 
+[ one/CD trader/NN ]
+./. 
+
+``/`` But/CC 
+[ I/PRP ]
+would/MD n't/RB describe/VB 
+[ it/PRP ]
+as/IN 
+[ a/DT ]
+screaming/JJ ,/, buying/JJ 
+[ market/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Foreign/NNP Bonds/NNPS ]
+
+======================================
+
+[ West/JJ German/JJ government/NN bonds/NNS ]
+ended/VBD 
+[ weaker/JJR ]
+even/RB though/IN 
+[ the/DT policy-making/JJ unit/NN ]
+of/IN 
+[ the/DT Deutsche/NNP Bundesbank/NNP ]
+left/VBD 
+[ important/JJ interest/NN rates/NNS ]
+unchanged/JJ ./. 
+
+======================================
+
+[ The/DT market/NN 's/POS weakness/NN ]
+reflects/VBZ 
+[ growing/VBG sentiment/NN ]
+that/IN 
+[ the/DT central/JJ bank/NN ]
+will/MD eventually/RB push/VB 
+[ interest/NN rates/NNS ]
+higher/JJR ./. 
+
+[ Economists/NNS ]
+contend/VBP 
+[ that/IN inflation/NN ]
+is/VBZ likely/JJ to/TO rise/VB in/IN 
+[ West/NNP Germany/NNP ]
+in/IN 
+[ the/DT coming/VBG months/NNS ]
+as/IN 
+[ buoyant/JJ demand/NN ]
+exceeds/VBZ 
+[ industrial/JJ capacity/NN ]
+./. 
+
+[ Another/DT concern/NN ]
+,/, 
+[ they/PRP ]
+said/VBD ,/, is/VBZ that/IN 
+[ some/DT measures/NNS ]
+of/IN 
+[ the/DT nation/NN 's/POS money/NN supply/NN ]
+remain/VBP above/IN 
+[ target/NN ]
+./. 
+
+======================================
+
+[ Bonn/NNP 's/POS 6/CD 3\/4/CD %/NN issue/NN due/JJ June/NNP 1999/CD ]
+ended/VBD at/IN 
+[ 99.10/CD ]
+,/, down/IN 
+[ 0.15/CD ]
+to/TO yield/VB 
+[ 6.87/CD %/NN ]
+while/IN 
+[ the/DT 6/CD 3\/4/CD %/NN notes/NNS due/JJ 1994/CD ]
+fell/VBD 
+[ 0.03/CD ]
+to/TO 
+[ 98.9/CD ]
+to/TO yield/VB 
+[ 7.02/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT prospect/NN ]
+of/IN 
+[ higher/JJR rates/NNS ]
+in/IN 
+[ West/NNP Germany/NNP ]
+also/RB hurt/VBD 
+[ Great/NNP Britain/NNP 's/POS government/NN bond/NN market/NN ]
+./. 
+
+[ The/DT Treasury/NNP 's/POS benchmark/NN 11/CD 3\/4/CD %/NN bond/NN due/JJ 2003\/2007/CD ]
+fell/VBD 
+[ 2\/32/CD ]
+to/TO 
+[ 113/CD 9\/32/CD ]
+to/TO yield/VB 
+[ 9.91/CD %/NN ]
+while/IN 
+[ the/DT 12/CD %/NN notes/NNS due/JJ 1995/CD ]
+fell/VBD 
+[ 2\/32/CD ]
+to/TO 
+[ 104/CD 22\/32/CD ]
+to/TO yield/VB 
+[ 10.80/CD %/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ Japan/NNP ]
+,/, 
+[ government/NN bonds/NNS ]
+ended/VBD 
+[ unchanged/JJ ]
+./. 
+
+[ The/DT benchmark/NN No./NN 111/CD 4.6/CD %/NN issue/NN due/JJ 1998/CD ]
+ended/VBD on/IN 
+[ brokers/NNS '/POS screens/NNS ]
+at/IN 
+[ 95.67/CD ]
+to/TO yield/VB 
+[ 5.325/CD %/NN ]
+,/, 
+[ the/DT same/JJ ]
+as/IN 
+[ Wednesday/NNP ]
+./. 
+
+======================================
+
+[ Mortgage-Backed/NNP Securities/NNPS ]
+
+======================================
+
+[ Mortgage/NN securities/NNS ]
+fell/VBD 
+[ 5\/32/CD ]
+to/TO 
+[ 6\/32/CD ]
+but/CC held/VBD up/IN better/RB than/IN 
+[ intermediate/JJ Treasurys/NNS ]
+,/, 
+[ which/WDT ]
+were/VBD off/IN as/RB much/JJ as/IN 
+[ 1\/4/CD point/NN ]
+./. 
+
+======================================
+
+[ Traders/NNS ]
+said/VBD 
+[ there/EX ]
+was/VBD fairly/RB 
+[ strong/JJ investor/NN ]
+buying/NN of/IN 
+[ mortgage/NN issues/NNS ]
+as/IN 
+[ many/JJ institutions/NNS ]
+continued/VBD to/TO adopt/VB 
+[ a/DT more/RBR favorable/JJ market/NN view/NN ]
+following/VBG 
+[ the/DT problems/NNS ]
+in/IN 
+[ the/DT mortgage/NN sector/NN ]
+earlier/RBR 
+[ this/DT year/NN ]
+caused/VBN by/IN 
+[ heavy/JJ thrift/NN ]
+selling/NN ./. 
+
+======================================
+
+Among/IN 
+[ major/JJ mortgage/NN issues/NNS ]
+,/, 
+[ Government/NNP National/NNP Mortgage/NNP Association/NNP 9/CD %/NN securities/NNS ]
+for/IN 
+[ October/NNP delivery/NN ]
+ended/VBD at/IN 
+[ 97/CD 4\/32/CD ]
+,/, down/IN 
+[ 6\/32/CD ]
+;/: and/CC 
+[ Federal/NNP Home/NNP Loan/NNP Mortgage/NNP Corp./NNP 9/CD %/NN securities/NNS ]
+at/IN 
+[ 96/CD 11\/32/CD ]
+,/, down/IN 
+[ 5\/32/CD ]
+./. 
+
+======================================
+
+[ Ginnie/NNP Mae/NNP 9/CD %/NN securities/NNS ]
+were/VBD yielding/VBG 
+[ 9.53/CD %/NN ]
+to/TO 
+[ a/DT 12-year/JJ average/NN life/NN assumption/NN ]
+,/, as/IN 
+[ the/DT spread/NN ]
+above/IN 
+[ Treasury/NNP 10-year/JJ note/NN ]
+narrowed/VBD 
+[ .01/CD percentage/NN point/NN ]
+to/TO 
+[ 1.34/CD ]
+./. 
+
+======================================
+
+[ Municipals/NNS ]
+
+======================================
+
+[ Municipal/JJ bonds/NNS ]
+finished/VBD narrowly/RB mixed/VBN ,/, having/VBG finally/RB stabilized/VBN after/IN 
+[ the/DT tumble/NN ]
+earlier/RBR 
+[ this/DT week/NN ]
+./. 
+
+======================================
+
+Actively/RB traded/VBN 
+[ municipals/NNS ]
+finished/VBD about/IN 
+[ 1\/8/CD point/NN ]
+lower/JJR to/TO 
+[ 1\/8/CD ]
+higher/JJR in/IN 
+[ light/JJ ]
+trading/NN ./. 
+
+======================================
+
+While/IN 
+[ the/DT market/NN ]
+attracted/VBD 
+[ a/DT flurry/NN ]
+of/IN 
+[ bargain/NN ]
+hunting/NN ,/, 
+[ municipal/JJ bonds/NNS ]
+were/VBD still/RB burdened/VBN by/IN 
+[ worries/NNS ]
+about/IN 
+[ the/DT heavy/JJ supply/NN ]
+flooding/VBG 
+[ the/DT market/NN ]
+,/, 
+[ traders/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ Underwriters/NNS ]
+led/VBN by/IN 
+[ Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP ]
+made/VBD 
+[ allotments/NNS ]
+on/IN 
+[ $/$ 891/CD million/CD ]
+of/IN 
+[ Dormitory/NNP Authority/NNP ]
+of/IN 
+[ the/DT State/NNP ]
+of/IN 
+[ New/NNP York/NNP bonds/NNS ]
+./. 
+
+[ The/DT issue/NN ]
+,/, launched/VBN 
+[ Tuesday/NNP ]
+,/, was/VBD increased/VBN that/DT 
+[ day/NN ]
+from/IN 
+[ the/DT ]
+originally/RB scheduled/VBN 
+[ size/NN ]
+of/IN 
+[ $/$ 874/CD million/CD ]
+,/, 
+[ the/DT underwriter/NN ]
+said/VBD ./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ the/DT New/NNP Jersey/NNP Turnpike/NNP Authority/NNP 's/POS 7.20/CD %/NN issue/NN ]
+of/IN 
+[ 2018/CD ]
+finished/VBD 
+[ 1\/8/CD lower/JJR ]
+at/IN 
+[ 96/CD 1\/4/CD ]
+,/, yielding/VBG 
+[ 7.50/CD %/NN ]
+./. 

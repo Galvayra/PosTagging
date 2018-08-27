@@ -1,0 +1,436 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT United/NNP Auto/NNP Workers/NNP union/NN ]
+is/VBZ demanding/VBG that/IN 
+[ General/NNP Motors/NNP Corp./NNP ]
+pay/VB 
+[ full/JJ wages/NNS ]
+and/CC 
+[ benefits/NNS ]
+to/TO 
+[ 3,200/CD workers/NNS ]
+at/IN 
+[ a/DT Georgia/NNP assembly/NN plant/NN ]
+for/IN at/IN 
+[ least/JJS six/CD months/NNS ]
+after/IN 
+[ GM/NNP ]
+closes/VBZ 
+[ the/DT plant/NN ]
+next/IN 
+[ March/NNP ]
+./. 
+
+======================================
+
+[ The/DT move/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ signs/NNS ]
+that/IN 
+[ the/DT union/NN ]
+intends/VBZ to/TO take/VB 
+[ a/DT far/RB tougher/JJR stance/NN ]
+than/IN previously/RB toward/IN 
+[ plant/NN closings/NNS ]
+by/IN 
+[ GM/NNP ]
+,/, and/CC may/MD set/VB 
+[ an/DT adversarial/JJ tone/NN ]
+leading/VBG up/IN to/TO 
+[ next/JJ year/NN 's/POS national/JJ contract/NN talks/NNS ]
+./. 
+
+[ The/DT union/NN 's/POS willingness/NN ]
+to/TO cooperate/VB with/IN 
+[ auto/NN makers/NNS ]
+has/VBZ been/VBN 
+[ the/DT focal/JJ point/NN ]
+of/IN 
+[ much/JJ internal/JJ debate/NN ]
+within/IN 
+[ the/DT UAW/NNP ]
+,/, and/CC 
+[ it/PRP ]
+will/MD play/VB 
+[ a/DT key/JJ role/NN ]
+in/IN 
+[ the/DT effort/NN ]
+by/IN 
+[ U.S./NNP auto/NN companies/NNS ]
+to/TO compete/VB against/IN 
+[ foreign/JJ auto/NN makers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT recent/JJ letter/NN ]
+to/TO 
+[ GM/NNP officials/NNS ]
+,/, 
+[ UAW/NNP Vice/NNP President/NNP Stephen/NNP P./NNP Yokich/NNP ]
+accused/VBD 
+[ the/DT company/NN ]
+of/IN violating/VBG 
+[ a/DT contract/NN provision/NN ]
+
+[ that/WDT ]
+forbids/VBZ 
+[ plant/NN closings/NNS ]
+when/WRB 
+[ it/PRP ]
+announced/VBD 
+[ last/JJ month/NN plans/NNS ]
+to/TO ``/`` indefinitely/RB 
+[ idle/VB ]
+''/'' 
+[ its/PRP$ Lakewood/NNP ]
+,/, 
+[ Ga./NNP assembly/NN plant/NN ]
+next/IN 
+[ March/NNP ]
+./. 
+
+======================================
+
+[ GM/NNP ]
+has/VBZ consistently/RB used/VBN 
+[ the/DT term/NN ]
+``/`` idling/NN ''/'' when/WRB referring/VBG to/TO 
+[ such/JJ measures/NNS ]
+./. 
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ no/DT mention/NN ]
+of'idling/NN '/'' in/IN 
+[ the/DT contract/NN ]
+,/, ''/'' 
+[ Mr./NNP Yokich/NNP ]
+noted/VBD in/IN 
+[ an/DT interview/NN yesterday/NN ]
+./. 
+
+======================================
+
+[ He/PRP ]
+said/VBD 
+[ the/DT Lakewood/NNP workers/NNS ]
+should/MD be/VB placed/VBN in/IN 
+[ the/DT company/NN 's/POS ]
+``/`` 
+[ jobs/NNS bank/NN ]
+,/, ''/'' where/WRB 
+[ they/PRP ]
+would/MD receive/VB 
+[ full/JJ pay/NN ]
+and/CC 
+[ benefits/NNS ]
+for/IN 
+[ activities/NNS ]
+ranging/VBG from/IN attending/VBG 
+[ retraining/NN classes/NNS ]
+to/TO doing/VBG 
+[ public/JJ service/NN work/NN ]
+./. 
+
+[ Mr./NNP Yokich/NNP ]
+added/VBD that/IN if/IN 
+[ the/DT company/NN ]
+and/CC 
+[ the/DT union/NN ]
+ca/MD n't/RB agree/VB on/IN 
+[ a/DT solution/NN ]
+,/, 
+[ he/PRP ]
+will/MD take/VB 
+[ the/DT matter/NN ]
+to/TO 
+[ arbitration/NN ]
+./. 
+
+======================================
+
+[ A/DT GM/NNP spokesman/NN ]
+said/VBD 
+[ the/DT company/NN 's/POS actions/NNS ]
+come/VBP under/IN 
+[ its/PRP$ right/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ allowed/VBN in/IN 
+[ its/PRP$ contract/NN ]
+with/IN 
+[ the/DT UAW/NNP ]
+,/, to/TO lay/VB off/RP 
+[ employees/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ weak/JJ market/NN demand/NN ]
+for/IN 
+[ its/PRP$ cars/NNS ]
+and/CC 
+[ trucks/NNS ]
+./. 
+
+[ Company/NN officials/NNS ]
+are/VBP ``/`` studying/VBG ''/'' 
+[ Mr./NNP Yokich/NNP 's/POS letter/NN ]
+,/, 
+[ the/DT spokesman/NN ]
+added/VBD ./. 
+
+======================================
+
+As/IN 
+[ things/NNS ]
+stand/VBP ,/, 
+[ GM/NNP ]
+is/VBZ planning/VBG to/TO treat/VB 
+[ the/DT Lakewood/NNP workers/NNS ]
+like/IN 
+[ others/NNS ]
+on/IN 
+[ temporary/JJ layoff/NN ]
+,/, even/RB though/IN 
+[ there/EX ]
+'s/VBZ virtually/RB 
+[ no/DT chance/NN ]
+that/IN 
+[ the/DT plant/NN ]
+will/MD ever/RB reopen/VB ./. 
+
+[ Such/JJ workers/NNS ]
+are/VBP eligible/JJ for/IN 
+[ supplemental/JJ unemployment/NN benefits/NNS ]
+
+[ that/WDT ]
+provide/VBP up/IN to/TO 
+[ 95/CD %/NN ]
+of/IN 
+[ a/DT worker/NN 's/POS take-home/JJ ]
+pay/NN ,/, but/CC only/RB if/IN 
+[ the/DT fund/NN ]
+is/VBZ full/JJ ./. 
+
+Right/RB now/RB 
+[ the/DT fund/NN ]
+is/VBZ low/JJ and/CC is/VBZ providing/VBG 
+[ most/JJS workers/NNS ]
+with/IN only/RB 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT maximum/NN amount/NN ]
+./. 
+
+======================================
+
+[ The/DT fund/NN 's/POS depletion/NN ]
+stems/VBZ from/IN 
+[ frequent/JJ layoffs/NNS ]
+in/IN 
+[ recent/JJ years/NNS ]
+at/IN 
+[ GM/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ three/CD ]
+to/TO 
+[ four/CD more/JJR North/JJ American/JJ assembly/NN plants/NNS ]
+than/IN 
+[ it/PRP ]
+needs/VBZ ,/, 
+[ analysts/NNS ]
+estimate/VBP ./. 
+
+[ The/DT layoffs/NNS ]
+include/VBP 
+[ those/DT ]
+of/IN 
+[ 10,000/CD UAW/NNP workers/NNS ]
+at/IN 
+[ three/CD plants/NNS ]
+
+[ that/WDT ]
+have/VBP been/VBN ``/`` indefinitely/RB idled/VBN ''/'' in/IN 
+[ recent/JJ years/NNS ]
+without/IN 
+[ much/JJ chance/NN ]
+of/IN reopening/VBG ./. 
+
+[ The/DT idlings/NNS ]
+occurred/VBD after/IN 
+[ the/DT 1987/CD contract/NN ]
+,/, with/IN 
+[ its/PRP$ ]
+``/`` 
+[ no/DT closings/NNS ]
+''/'' 
+[ provision/NN ]
+,/, was/VBD signed/VBN ,/, but/CC 
+[ the/DT union/NN ]
+did/VBD n't/RB challenge/VB 
+[ GM/NNP 's/POS handling/NN ]
+of/IN 
+[ those/DT plants/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Yokich/NNP ]
+,/, however/RB ,/, appears/VBZ to/TO be/VB signalling/VBG 
+[ a/DT sharp/JJ change/NN ]
+in/IN 
+[ the/DT union/NN 's/POS attitude/NN ]
+./. 
+
+[ Mr./NNP Yokich/NNP 's/POS letter/NN ]
+to/TO 
+[ GM/NNP ]
+seeks/VBZ 
+[ full/JJ pay/NN ]
+for/IN not/RB only/RB 
+[ the/DT 3,200/CD Lakewood/NNP workers/NNS ]
+,/, but/CC 
+[ all/DT ]
+of/IN 
+[ those/DT union/NN members/NNS ]
+
+[ who/WP ]
+have/VBP been/VBN laid/VBN off/RP from/IN ``/`` idled/VBN ''/'' 
+[ plants/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Yokich/NNP ]
+recently/RB assumed/VBD 
+[ leadership/NN ]
+of/IN 
+[ the/DT union/NN 's/POS GM/NNP department/NN ]
+from/IN 
+[ Donald/NNP P./NNP Ephlin/NNP ]
+,/, 
+[ who/WP ]
+retired/VBD ./. 
+
+[ Mr./NNP Ephlin/NNP ]
+was/VBD 
+[ the/DT UAW/NNP 's/POS most/RBS noted/VBN apostle/NN ]
+of/IN 
+[ cooperation/NN ]
+with/IN 
+[ the/DT auto/NN makers/NNS ]
+,/, and/CC 
+[ hundreds/NNS ]
+of/IN 
+[ top/JJ auto/NN executives/NNS ]
+attended/VBD 
+[ a/DT retirement/NN dinner/NN ]
+for/IN 
+[ him/PRP last/JJ spring/NN ]
+./. 
+
+======================================
+
+[ The/DT 54-year-old/JJ Mr./NNP Yokich/NNP ]
+previously/RB ran/VBD 
+[ the/DT union/NN 's/POS Ford/NNP Motor/NNP Co./NNP department/NN ]
+,/, where/WRB 
+[ he/PRP ]
+forged/VBD 
+[ a/DT solid/JJ working/VBG relationship/NN ]
+with/IN 
+[ executives/NNS ]
+at/IN 
+[ the/DT No./NN 2/CD auto/NN maker/NN ]
+./. 
+
+But/CC 
+[ GM/NNP officials/NNS ]
+are/VBP deeply/RB worried/VBN about/IN 
+[ Mr./NNP Yokich/NNP 's/POS earlier/JJR history/NN ]
+as/IN 
+[ a/DT firebrand/NN ]
+,/, 
+[ which/WDT ]
+stems/VBZ partly/RB from/IN 
+[ his/PRP$ leadership/NN ]
+of/IN 
+[ the/DT UAW/NNP 's/POS 205-day/JJ strike/NN ]
+against/IN 
+[ Caterpillar/NNP Inc./NNP ]
+
+[ that/WDT ]
+began/VBD in/IN 
+[ 1982/CD ]
+./. 
+
+Already/RB ,/, 
+[ Mr./NNP Yokich/NNP ]
+has/VBZ taken/VBN 
+[ such/JJ symbolic/JJ steps/NNS ]
+as/IN forbidding/VBG 
+[ union/NN staffers/NNS ]
+from/IN accepting/VBG 
+[ rides/NNS ]
+on/IN 
+[ GM/NNP company/NN airplanes/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Yokich/NNP ]
+did/VBD indicate/VB 
+[ yesterday/NN ]
+,/, however/RB ,/, that/IN 
+[ his/PRP$ challenge/NN ]
+to/TO 
+[ GM/NNP ]
+over/IN 
+[ the/DT Lakewood/NNP plant/NN ]
+is/VBZ n't/RB meant/VBN to/TO scrap/VB 
+[ all/DT cooperative/JJ efforts/NNS ]
+between/IN 
+[ the/DT company/NN ]
+and/CC 
+[ the/DT union/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP entitled/VBN to/TO have/VB 
+[ an/DT honest/JJ disagreement/NN ]
+,/, ''/'' 
+[ Mr./NNP Yokich/NNP ]
+said/VBD ./. 
+
+``/`` And/CC 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ this/DT ]
+affects/VBZ 
+[ our/PRP$ ]
+working/VBG together/RB in/IN 
+[ the/DT future/NN ]
+./. 

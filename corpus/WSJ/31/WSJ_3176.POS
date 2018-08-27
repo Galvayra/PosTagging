@@ -1,0 +1,559 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Foreign/JJ buyers/NNS ]
+are/VBP good/JJ for/IN 
+[ America/NNP ]
+,/, whether/IN 
+[ they/PRP ]
+'re/VBP purchasing/VBG 
+[ U.S./NNP companies/NNS ]
+,/, 
+[ property/NN ]
+,/, manufactured/JJ 
+[ goods/NNS ]
+or/CC 
+[ Treasury/NNP bonds/NNS ]
+./. 
+
+And/CC lately/RB ,/, 
+[ there/EX ]
+seems/VBZ to/TO be/VB 
+[ no/DT limit/NN ]
+to/TO 
+[ the/DT foreign/JJ appetite/NN ]
+for/IN 
+[ U.S./NNP assets/NNS ]
+./. 
+
+======================================
+
+[ Japan/NNP 's/POS Sony/NNP Corp./NNP ]
+has/VBZ offered/VBN 
+[ $/$ 3.4/CD billion/CD ]
+for/IN 
+[ Columbia/NNP Pictures/NNP Entertainment/NNP Inc/NNP ]
+./. 
+
+[ Tokyo-based/JJ Dai-Ichi/NNP Kangyo/NNP Bank/NNP Ltd./NNP ]
+has/VBZ paid/VBN 
+[ $/$ 1.4/CD billion/CD ]
+for/IN 
+[ a/DT slice/NN ]
+of/IN 
+[ New/NNP York/NNP banking/NN behemoth/NN Manufacturers/NNP Hanover/NNP Corp./NNP ]
+and/CC 
+[ 60/CD %/NN ]
+of/IN 
+[ its/PRP$ CIT/NNP Group/NNP Inc/NNP ]
+./. 
+
+Meanwhile/RB ,/, 
+[ British/JJ ]
+,/, 
+[ Dutch/JJ ]
+and/CC 
+[ Australian/JJ companies/NNS ]
+are/VBP investing/VBG 
+[ hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+in/IN 
+[ such/JJ U.S./NNP air/NN carriers/NNS ]
+as/IN 
+[ UAL/NNP Corp./NNP ]
+and/CC 
+[ Northwest/NNP Airlines/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT latest/JJS round/NN ]
+of/IN 
+[ direct/JJ foreign/JJ investment/NN ]
+is/VBZ touching/VBG off/RP 
+[ a/DT new/JJ period/NN ]
+of/IN 
+[ Yankee/NNP paranoia/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ fine/JJ for/IN 
+[ foreigners/NNS ]
+to/TO make/VB 
+[ indirect/JJ investments/NNS ]
+,/, through/IN 
+[ U.S./NNP bonds/NNS ]
+and/CC 
+[ stock/NN ]
+,/, according/VBG to/TO 
+[ this/DT view/NN ]
+./. 
+
+But/CC when/WRB 
+[ they/PRP ]
+invest/VBP directly/RB ,/, in/IN 
+[ U.S./NNP companies/NNS ]
+and/CC 
+[ real/JJ estate/NN ]
+,/, 
+[ they/PRP ]
+'re/VBP no/RB longer/RBR merely/RB taking/VBG over/RP 
+[ assets/NNS ]
+--/: 
+[ they/PRP ]
+'re/VBP ``/`` taking/VBG over/RP 
+[ America/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Transportation/NNP Secretary/NNP Samuel/NNP Skinner/NNP ]
+is/VBZ 
+[ the/DT latest/JJS hand-wringer/NN ]
+on/IN 
+[ foreign/JJ direct/JJ investment/NN ]
+./. 
+
+[ He/PRP ]
+recently/RB decided/VBD ,/, apparently/RB without/IN consulting/VBG 
+[ colleagues/NNS ]
+at/IN 
+[ other/JJ agencies/NNS ]
+,/, to/TO take/VB 
+[ a/DT tough/JJ line/NN ]
+against/IN 
+[ KLM/NNP Royal/NNP Dutch/NNP Airways/NNP '/POS $/$ 400/CD million/CD investment/NN ]
+in/IN 
+[ Northwest/NNP Airlines/NNP ]
+./. 
+
+[ He/PRP ]
+forced/VBD 
+[ the/DT European/JJ airline/NN ]
+to/TO reduce/VB 
+[ its/PRP$ planned/JJ investment/NN ]
+,/, saying/VBG that/IN 
+[ it/PRP ]
+contravened/VBD 
+[ the/DT spirit/NN ]
+of/IN 
+[ the/DT federal/JJ aviation/NN laws/NNS ]
+
+[ that/WDT ]
+prohibit/VBP 
+[ foreigners/NNS ]
+from/IN owning/VBG more/JJR than/IN 
+[ a/DT 25/CD %/NN voting/NN interest/NN ]
+in/IN 
+[ U.S./NNP airlines/NNS ]
+and/CC 
+[ that/WDT ]
+say/VBP 
+[ the/DT carriers/NNS ]
+must/MD be/VB controlled/VBN by/IN 
+[ U.S./NNP citizens/NNS ]
+./. 
+
+Under/IN 
+[ Mr./NNP Skinner/NNP 's/POS pressure/NN ]
+,/, 
+[ KLM/NNP ]
+agreed/VBD to/TO curb/VB 
+[ the/DT powers/NNS ]
+of/IN 
+[ its/PRP$ representative/NN ]
+on/IN 
+[ the/DT Northwest/NNP board/NN ]
+and/CC to/TO drop/VB 
+[ plans/NNS ]
+to/TO have/VB 
+[ a/DT KLM-controlled/JJ advisory/JJ committee/NN ]
+for/IN 
+[ the/DT airline/NN ]
+./. 
+
+======================================
+
+With/IN 
+[ less/JJR fanfare/NN ]
+,/, 
+[ an/DT interagency/JJ task/NN force/NN ]
+called/VBD 
+[ the/DT Committee/NN ]
+on/IN 
+[ Foreign/NNP Investment/NNP ]
+in/IN 
+[ the/DT U.S./NNP ]
+has/VBZ screened/VBN 
+[ dozens/NNS ]
+of/IN 
+[ prospective/JJ takeovers/NNS ]
+./. 
+
+Under/IN 
+[ a/DT short/JJ amendment/NN ]
+to/TO 
+[ the/DT 1988/CD trade/NN act/NN ]
+,/, 
+[ Congress/NNP ]
+empowered/VBD 
+[ the/DT president/NN ]
+,/, based/VBN on/IN 
+[ the/DT committee/NN 's/POS recommendations/NNS ]
+,/, to/TO reject/VB 
+[ a/DT foreign/JJ ]
+take/NN over/RP on/IN  
+[ national-security/NN grounds/NNS ]
+./. 
+
+======================================
+
+[ The/DT anti-foreign/JJ rhetoric/NN ]
+and/CC 
+[ investment/NN obstacles/NNS ]
+belie/VBP how/WRB 
+[ positive/JJ ]
+--/: indeed/RB ,/, how/WRB 
+[ essential/JJ ]
+--/: 
+[ foreign/JJ investment/NN ]
+has/VBZ become/VBN ./. 
+
+[ It/PRP ]
+brings/VBZ in/RP 
+[ capital/NN ]
+to/TO compensate/VB for/IN 
+[ the/DT low/JJ level/NN ]
+of/IN 
+[ U.S./NNP savings/NNS ]
+./. 
+
+With/IN 
+[ the/DT nation/NN ]
+still/RB running/VBG 
+[ big/JJ trade/NN ]
+and/CC 
+[ budget/NN deficits/NNS ]
+,/, 
+[ such/JJ investments/NNS ]
+help/VBP hold/VB down/RP 
+[ interest/NN rates/NNS ]
+./. 
+
+======================================
+
+Moreover/RB ,/, when/WRB 
+[ foreigners/NNS ]
+own/VBP 
+[ property/NN ]
+and/CC 
+[ corporations/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ they/PRP ]
+are/VBP less/RBR likely/JJ to/TO cut/VB and/CC run/VB in/IN 
+[ bad/JJ times/NNS ]
+--/: and/CC more/RBR likely/JJ to/TO invest/VB 
+[ extra/JJ capital/NN ]
+,/, introduce/VB 
+[ new/JJ technology/NN ]
+and/CC create/VB 
+[ jobs/NNS ]
+./. 
+
+If/IN 
+[ they/PRP ]
+put/VBP 
+[ all/PDT their/PRP$ dollars/NNS ]
+into/IN 
+[ government/NN bonds/NNS ]
+
+[ that/WDT ]
+can/MD be/VB bought/VBN and/CC sold/VBN in/IN 
+[ seconds/NNS ]
+,/, 
+[ there/EX ]
+'s/VBZ 
+[ a/DT much/RB greater/JJR risk/NN ]
+that/IN 
+[ foreign/JJ investors/NNS ]
+will/MD simply/RB sell/VB out/RP when/WRB 
+[ prospects/NNS ]
+darken/VBP ./. 
+
+======================================
+
+[ Total/JJ foreign/JJ investment/NN ]
+in/IN 
+[ America/NNP ]
+still/RB constitutes/VBZ only/RB about/RB 
+[ 5/CD %/NN ]
+of/IN 
+[ U.S./NNP assets/NNS ]
+./. 
+
+[ Direct/JJ foreign/JJ investment/NN ]
+represents/VBZ 
+[ less/JJR money/NN ]
+than/IN 
+[ the/DT U.S./NNP ]
+has/VBZ invested/VBN directly/RB abroad/RB ./. 
+
+At/IN 
+[ the/DT start/NN ]
+of/IN 
+[ 1989/CD ]
+,/, 
+[ foreign/JJ direct/JJ investment/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+totaled/VBD about/RB 
+[ $/$ 304/CD billion/CD ]
+,/, compared/VBN with/IN 
+[ $/$ 329/CD billion/CD ]
+of/IN 
+[ U.S./NNP direct/JJ investment/NN ]
+in/IN 
+[ other/JJ nations/NNS ]
+./. 
+
+======================================
+
+Apart/RB from/IN 
+[ Mr./NNP Skinner/NNP 's/POS actions/NNS ]
+withdrawing/VBG 
+[ the/DT foreign-airline/NN welcome/NN mat/NN ]
+,/, 
+[ the/DT Bush/NNP administration/NN ]
+has/VBZ generally/RB applauded/VBN 
+[ foreigners/NNS ]
+buying/VBG into/IN 
+[ American/JJ companies/NNS ]
+./. 
+
+``/`` 
+[ The/DT administration/NN 's/POS policy/NN ]
+is/VBZ to/TO encourage/VB 
+[ foreign/JJ investment/NN ]
+,/, with/IN 
+[ the/DT exception/NN ]
+of/IN 
+[ those/DT investments/NNS ]
+
+[ that/WDT ]
+threaten/VBP 
+[ national/JJ security/NN ]
+,/, ''/'' 
+[ a/DT senior/JJ Treasury/NNP official/NN ]
+says/VBZ ./. 
+
+======================================
+
+And/CC in/IN 
+[ recent/JJ testimony/NN ]
+to/TO 
+[ Congress/NNP ]
+,/, 
+[ Mr./NNP Skinner/NNP ]
+himself/PRP seemed/VBD to/TO be/VB trying/VBG to/TO draw/VB back/RP 
+[ a/DT bit/NN ]
+from/IN 
+[ his/PRP$ earlier/JJR toughness/NN ]
+./. 
+
+[ He/PRP ]
+emphasized/VBD 
+[ the/DT ]
+``/`` potentially/RB 
+[ significant/JJ benefits/NNS ]
+''/'' to/TO be/VB derived/VBN from/IN attracting/VBG 
+[ foreign/JJ capital/NN investment/NN ]
+to/TO 
+[ U.S./NNP airlines/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Skinner/NNP 's/POS apparent/JJ ]
+backtracking/NN may/MD have/VB 
+[ something/NN ]
+to/TO do/VB with/IN 
+[ the/DT displeasure/NN ]
+that/IN 
+[ some/DT ]
+of/IN 
+[ his/PRP$ colleagues/NNS ]
+expressed/VBD with/IN 
+[ his/PRP$ approach/NN ]
+./. 
+
+``/`` 
+[ Mr./NNP Skinner/NNP ]
+--/: as/RB far/RB as/IN 
+[ I/PRP ]
+know/VBP --/: acted/VBD under/IN 
+[ specific/JJ transportation/NN laws/NNS ]
+,/, ''/'' 
+[ a/DT Treasury/NNP official/NN ]
+says/VBZ ./. 
+
+``/`` To/TO 
+[ my/PRP$ knowledge/NN ]
+,/, 
+[ his/PRP$ decision/NN was/VBD n't/RB ]
+reviewed/VBN by/IN 
+[ the/DT Economic/NNP Policy/NNP Council/NNP ]
+,/, ''/'' 
+[ the/DT official/NN ]
+adds/VBZ ./. 
+
+[ The/DT interagency/JJ EPC/NNP ]
+,/, led/VBN by/IN 
+[ the/DT Treasury/NNP ]
+,/, generally/RB reviews/VBZ 
+[ economic-policy/NN decisions/NNS ]
+./. 
+
+[ Mr./NNP Skinner/NNP ]
+says/VBZ 
+[ he/PRP ]
+'s/VBZ consulting/VBG fully/RB with/IN 
+[ other/JJ government/NN agencies/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ Mr./NNP Skinner/NNP 's/POS action/NN ]
+,/, 
+[ the/DT administration/NN ]
+is/VBZ making/VBG 
+[ soothing/JJ noises/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ mindful/JJ that/IN 
+[ the/DT European/NNP Community/NNP ]
+is/VBZ starting/VBG to/TO deregulate/VB 
+[ its/PRP$ own/JJ airlines/NNS ]
+,/, and/CC 
+[ some/DT American/JJ carriers/NNS ]
+may/MD well/RB want/VB to/TO buy/VB into/IN 
+[ European/JJ lines/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+are/VBP basically/RB for/IN as/RB 
+[ much/JJ open/JJ investment/NN ]
+as/IN 
+[ possible/JJ ]
+,/, so/RB long/RB as/IN 
+[ it/PRP ]
+does/VBZ not/RB create/VB 
+[ a/DT problem/NN ]
+for/IN 
+[ our/PRP$ national/JJ security/NN ]
+or/CC 
+[ our/PRP$ strategic/JJ interests/NNS ]
+,/, ''/'' 
+[ U.S./NNP Trade/NNP Representative/NNP Carla/NNP Hills/NNP ]
+told/VBD 
+[ members/NNS ]
+of/IN 
+[ Congress/NNP last/JJ week/NN ]
+when/WRB 
+[ she/PRP ]
+was/VBD asked/VBN about/IN 
+[ Mr./NNP Skinner/NNP 's/POS moves/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT investment/NN ]
+
+[ that/WDT ]
+has/VBZ occurred/VBN from/IN 
+[ the/DT Dutch/NNPS ]
+,/, 
+[ the/DT British/NNPS ]
+,/, 
+[ the/DT Japanese/NNPS ]
+,/, ''/'' 
+[ she/PRP ]
+added/VBD ,/, ``/`` has/VBZ been/VBN not/RB 
+[ a/DT negative/JJ factor/NN ]
+--/: any/RB more/RBR than/IN 
+[ our/PRP$ investment/NN ]
+in/IN 
+[ the/DT European/NNP Community/NNP ]
+./. 
+
+''/'' 
+[ It/PRP ]
+'s/VBZ hardly/RB 
+[ a/DT coincidence/NN ]
+
+[ she/PRP ]
+mentioned/VBD 
+[ those/DT three/CD countries/NNS ]
+;/: 
+[ they/PRP ]
+'re/VBP 
+[ the/DT biggest/JJS foreign/JJ investors/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+[ The/DT Japanese/NNPS ]
+and/CC 
+[ the/DT British/NNPS ]
+,/, 
+[ who/WP ]
+invested/VBD 
+[ $/$ 28.3/CD billion/CD ]
+directly/RB in/IN 
+[ the/DT U.S./NNP ]
+in/IN 
+[ 1988/CD ]
+,/, accounted/VBD for/IN 
+[ two-thirds/NNS ]
+of/IN 
+[ all/DT foreign/JJ direct/JJ investment/NN ]
+./. 
+
+[ The/DT Dutch/NNPS ] 
+,/, while/IN stepping/VBG up/RP 
+[ their/PRP$ interest/NN ]
+in/IN 
+[ U.S./NNP airlines/NNS ]
+,/, already/RB control/VBP 
+[ the/DT parent/NN ]
+of/IN 
+[ U.S.-based/JJ Shell/NNP Oil/NNP Co/NNP ]
+./. 

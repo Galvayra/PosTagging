@@ -1,0 +1,735 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+and/CC 
+[ the/DT National/NNP Institutes/NNP ]
+of/IN 
+[ Health/NNP ]
+unveiled/VBD 
+[ a/DT long-awaited/JJ plan/NN ]
+to/TO distribute/VB 
+[ the/DT drug/NN DDI/NNP ]
+to/TO 
+[ a/DT broad/JJ number/NN ]
+of/IN 
+[ AIDS/NNP patients/NNS ]
+while/IN 
+[ tests/NNS ]
+on/IN 
+[ the/DT drug/NN ]
+continue/VBP ./. 
+
+======================================
+
+[ The/DT move/NN ]
+,/, cheered/VBN by/IN 
+[ AIDS/NNP activists/NNS ]
+,/, was/VBD delayed/VBN by/IN 
+[ two/CD weeks/NNS ]
+of/IN wrangling/VBG over/IN 
+[ dosage/NN levels/NNS ]
+,/, and/CC by/IN 
+[ belated/JJ alarms/NNS ]
+raised/VBN over/IN 
+[ toxic/JJ side/JJ effects/NNS ]
+
+[ that/WDT ]
+had/VBD been/VBN reported/VBN in/IN 
+[ the/DT scientific/JJ ]
+and/CC 
+[ general/JJ press/NN two/CD months/NNS ]
+ago/RB ./. 
+
+======================================
+
+[ DDI/NNP ]
+,/, or/CC 
+[ dideoxyinosine/NN ]
+,/, was/VBD created/VBN at/IN 
+[ the/DT National/NNP Cancer/NNP Institute/NNP ]
+by/IN 
+[ Samuel/NNP Broder/NNP ]
+and/CC 
+[ Robert/NNP Yarchoan/NNP ]
+,/, and/CC licensed/VBD to/TO 
+[ Bristol-Myers/NNP Co./NNP ]
+for/IN 
+[ further/JJ development/NN ]
+./. 
+
+[ A/DT chemical/NN cousin/NN ]
+of/IN 
+[ AZT/NNP ]
+,/, 
+[ DDI/NNP ]
+is/VBZ 
+[ a/DT nuceoside/NN analog/NN ]
+,/, 
+[ a/DT false/JJ building/NN block/NN ]
+of/IN 
+[ DNA/NNP ]
+
+[ that/WDT ]
+gets/VBZ into/IN 
+[ the/DT virus/NN 's/POS genetic/JJ material/NN ]
+and/CC blocks/VBZ 
+[ its/PRP$ replication/NN ]
+./. 
+
+[ DDI/NNP ]
+shows/VBZ 
+[ promise/NN ]
+of/IN being/VBG 
+[ useful/JJ ]
+to/TO 
+[ the/DT 40/CD %/NN ]
+of/IN 
+[ AIDS/NNP patients/NNS ]
+
+[ who/WP ]
+ca/MD n't/RB take/VB 
+[ AZT/NNP ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ toxic/JJ side/JJ effects/NNS ]
+,/, mainly/RB 
+[ bone/NN marrow/NN suppression/NN ]
+and/CC 
+[ a/DT drop/NN ]
+in/IN 
+[ red/JJ ]
+or/CC 
+[ white/JJ blood/NN cells/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ July/NNP ]
+,/, 
+[ the/DT phase-one/JJ safety/NN study/NN ]
+of/IN 
+[ the/DT experimental/JJ drug/NN ]
+reported/VBD that/IN 
+[ most/JJS patients/NNS ]
+tolerated/VBD 
+[ the/DT drug/NN ]
+well/RB and/CC experienced/VBD 
+[ a/DT fall/NN ]
+in/IN 
+[ virus/NN levels/NNS ]
+in/IN 
+[ the/DT blood/NN ]
+,/, accompanied/VBN by/IN 
+[ a/DT rise/NN ]
+in/IN 
+[ T4/NNP ]
+and/CC 
+[ T8/NNP lymphocytes/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP 
+[ disease-fighting/JJ white/JJ blood/NN cells/NNS ]
+./. 
+
+However/RB ,/, 
+[ the/DT study/NN ]
+,/, published/VBN in/IN 
+[ the/DT journal/NN Science/NNP ]
+,/, said/VBD 
+[ a/DT few/JJ patients/NNS ]
+at/IN 
+[ the/DT highest/JJS dose/NN levels/NNS ]
+developed/VBD 
+[ pancreatitis/NN ]
+,/, 
+[ an/DT inflammation/NN ]
+of/IN 
+[ the/DT pancreas/NN ]
+,/, or/CC 
+[ neuropathy/NN ]
+,/, 
+[ nerve/NN damage/NN ]
+with/IN 
+[ pain/NN ]
+and/CC tingling/NN in/IN 
+[ the/DT hands/NNS ]
+or/CC 
+[ feet/NNS ]
+./. 
+
+======================================
+
+Under/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT broad/JJ program/NN ]
+launched/VBN yesterday/NN ,/, 
+[ phase-two/JJ studies/NNS ]
+for/IN 
+[ efficacy/NN ]
+will/MD determine/VB whether/IN 
+[ the/DT drug/NN ]
+is/VBZ beneficial/JJ in/IN 
+[ 2,600/CD patients/NNS ]
+with/IN 
+[ acquired/VBN immune/JJ deficiency/NN syndrome/NN ]
+or/CC 
+[ AIDS-related/JJ complex/NN ]
+,/, 
+[ a/DT precursor/NN condition/NN ]
+
+[ that/WDT ]
+can/MD be/VB serious/JJ or/CC 
+[ fatal/JJ ]
+in/IN 
+[ its/PRP$ own/JJ right/NN ]
+./. 
+
+[ Two/CD studies/NNS ]
+will/MD compare/VB 
+[ DDI/NNP ]
+against/IN 
+[ AZT/NNP ]
+,/, and/CC 
+[ a/DT third/JJ study/NN ]
+will/MD compare/VB 
+[ three/CD different/JJ doses/NNS ]
+of/IN 
+[ DDI/NNP ]
+in/IN 
+[ patients/NNS ]
+
+[ who/WP ]
+can/MD not/RB tolerate/VB 
+[ AZT/NNP due/JJ ]
+to/TO 
+[ drug/NN toxicity/NN ]
+./. 
+
+======================================
+
+Simultaneously/RB ,/, 
+[ the/DT FDA/NNP ]
+granted/VBD 
+[ Bristol-Myers/NNP ]
+
+[ the/DT right/NN ]
+to/TO distribute/VB 
+[ DDI/NNP ]
+under/IN 
+[ two/CD ]
+related/VBN 
+[ give-away/JJ plans/NNS ]
+:/: 
+[ a/DT treatment/NN investigational/JJ new/JJ drug/NN ]
+ (/( 
+[ IND/NNP ]
+ )/) 
+[ program/NN ]
+for/IN 
+[ patients/NNS ]
+
+[ who/WP ]
+can/MD not/RB take/VB 
+[ AZT/NNP ]
+;/: and/CC 
+[ an/DT open/JJ safety/NN protocol/NN ]
+for/IN 
+[ patients/NNS ]
+in/IN 
+[ whom/WP AZT/NNP ]
+failed/VBD to/TO halt/VB 
+[ the/DT disease/NN ]
+./. 
+
+[ The/DT company/NN ]
+declined/VBD to/TO say/VB how/WRB 
+[ many/JJ people/NNS ]
+
+[ the/DT two/CD give-away/JJ programs/NNS ]
+can/MD accommodate/VB and/CC disputed/VBD 
+[ a/DT ]
+currently/RB rumored/VBN 
+[ figure/NN ]
+of/IN 
+[ 5,000/CD ]
+./. 
+
+``/`` 
+[ We/PRP ]
+think/VBP 
+[ we/PRP ]
+have/VBP enough/JJ 
+[ supply/NN ]
+,/, ''/'' 
+[ she/PRP ]
+added/VBD ./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ a/DT tremendous/JJ step/NN ]
+forward/RB ,/, ''/'' said/VBD 
+[ Jay/NNP Lipner/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP attorney/NN ]
+with/IN 
+[ the/DT Lambda/NNP Legal/NNP Defense/NNP Fund/NNP ]
+,/, 
+[ which/WDT ]
+specializes/VBZ in/IN 
+[ gay-rights/NNS issues/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS important/JJ developments/NNS ]
+in/IN 
+[ the/DT past/JJ two/CD years/NNS ]
+because/IN 
+[ it/PRP ]
+responds/VBZ to/TO 
+[ the/DT needs/NNS ]
+of/IN 
+[ people/NNS ]
+
+[ who/WP ]
+are/VBP sick/JJ ./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ Access/NN ]
+to/TO 
+[ promising/JJ drugs/NNS ]
+must/MD be/VB increased/VBN ,/, and/CC 
+[ this/DT ]
+is/VBZ 
+[ a/DT step/NN ]
+in/IN 
+[ that/DT direction/NN ]
+,/, ''/'' agreed/VBD 
+[ Jerome/NNP Groopman/NNP ]
+,/, 
+[ a/DT researcher/NN ]
+at/IN 
+[ New/NNP England/NNP Deaconess/NNP Hospital/NNP ]
+in/IN 
+[ Boston/NNP ]
+./. 
+
+[ Dr./NNP Groopman/NNP ]
+described/VBD 
+[ the/DT drug/NN ]
+as/IN ``/`` very/RB active/JJ but/CC still/RB experimental/JJ ./. 
+
+''/'' 
+[ He/PRP ]
+added/VBD that/IN ``/`` 
+[ physicians/NNS ]
+and/CC 
+[ patients/NNS ]
+must/MD understand/VB not/RB only/RB 
+[ its/PRP$ promise/NN ]
+,/, but/CC also/RB 
+[ its/PRP$ unknowns/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Reactions/NNS ]
+from/IN 
+[ the/DT gay/JJ community/NN ]
+and/CC 
+[ patient/NN advocacy/NN groups/NNS ]
+yesterday/NN offered/VBD 
+[ the/DT first/JJ general/JJ affirmation/NN ]
+of/IN 
+[ the/DT coordinated/VBN FDA-NIH-industry/JJ actions/NNS ]
+in/IN 
+[ recent/JJ days/NNS ]
+of/IN 
+[ the/DT epidemic/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP encouraged/VBN by/IN 
+[ the/DT FDA/NNP 's/POS responsiveness/NN ]
+to/TO 
+[ community/NN input/NN ]
+on/IN 
+[ DDI/NNP ]
+,/, ''/'' said/VBD 
+[ Timothy/NNP Sweeney/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ acting/VBG 
+[ executive/JJ director/NN ]
+of/IN 
+[ the/DT Gay/NNP Men/NN 's/POS Health/NNP Crisis/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP support/NN group/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ the/DT group/NN ]
+is/VBZ n't/RB unaware/JJ of/IN 
+[ toxicity/NN risks/NNS ]
+attendant/JJ upon/IN 
+[ such/JJ an/DT expansion/NN ]
+of/IN 
+[ an/DT experimental/JJ treatment/NN ]
+./. 
+
+``/`` But/CC 
+[ we/PRP ]
+feel/VBP that/IN 
+[ this/DT process/NN ]
+will/MD give/VB 
+[ us/PRP answers/NNS ]
+quickly/RB on/IN 
+[ DDI/NNP 's/POS safety/NN ]
+and/CC 
+[ effectiveness/NN ]
+./. 
+
+''/'' 
+======================================
+
+While/IN 
+[ the/DT Bristol-Myers/NNP plan/NN stops/NNS ]
+short/JJ of/IN 
+[ a/DT more/RBR ]
+liberalized/VBN ``/`` 
+[ parallel/JJ track/NN ]
+''/'' 
+[ distribution/NN ]
+still/RB under/IN 
+[ review/NN ]
+at/IN 
+[ the/DT Department/NNP ]
+of/IN 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNP ]
+,/, 
+[ fans/NNS ]
+of/IN 
+[ parallel/JJ track/NN ]
+still/RB expressed/VBN 
+[ satisfaction/NN ]
+with/IN 
+[ yesterday/NN 's/POS progress/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+'m/VBP very/RB happy/JJ ,/, ''/'' said/VBD 
+[ Mathilde/NNP Krim/NNP ]
+,/, founding/NN 
+[ co-chairperson/NN ]
+of/IN 
+[ the/DT American/NNP Foundation/NNP ]
+for/IN 
+[ AIDS/NNP Research/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT step/NN ]
+toward/IN implementing/VBG 
+[ the/DT concept/NN ]
+of/IN 
+[ parallel/JJ track/NN ]
+,/, and/CC ensures/VBZ 
+[ DDI/NNP ]
+will/MD be/VB studied/VBN in/IN 
+[ a/DT controlled/VBN clinical/JJ trial/NN ]
+./. 
+
+''/'' 
+[ She/PRP ]
+said/VBD 
+[ the/DT trial/NN ]
+carries/VBZ heightened/VBN 
+[ importance/NN ]
+in/IN 
+[ view/NN ]
+of/IN 
+[ data/NN ]
+,/, reported/VBN at/IN 
+[ the/DT Montreal/NNP AIDS/NNP conference/NN last/JJ June/NNP ]
+,/, that/IN 
+[ AZT-resistant/JJ strains/NNS ]
+of/IN 
+[ virus/NN ]
+retain/VBP 
+[ the/DT ability/NN ]
+to/TO respond/VB to/TO 
+[ DDI/NNP ]
+./. 
+
+======================================
+
+But/CC even/RB as/IN 
+[ excitement/NN ]
+was/VBD mounting/VBG in/IN 
+[ the/DT patient/NN population/NN ]
+about/IN 
+[ imminent/JJ access/NN ]
+to/TO 
+[ DDI/NNP ]
+,/, 
+[ a/DT group/NN ]
+of/IN 
+[ academic/JJ investigators/NNS ]
+allied/VBN with/IN 
+[ the/DT AIDS/NNP Clinical/NNP Trial/NNP Group/NNP ]
+were/VBD growing/VBG 
+[ restive/JJ ]
+in/IN 
+[ recent/JJ weeks/NNS ]
+./. 
+
+Worried/VBN about/IN 
+[ a/DT popular/JJ ]
+and/CC 
+[ uncritical/JJ embrace/NN ]
+of/IN 
+[ the/DT drug/NN ]
+,/, 
+[ they/PRP ]
+began/VBD 
+[ private/JJ circulation/NN ]
+of/IN 
+[ a/DT letter/NN ]
+damning/VBG 
+[ the/DT effort/NN ]
+and/CC raising/VBG anew/RB 
+[ the/DT specter/NN ]
+of/IN 
+[ toxicity/NN ]
+--/: 
+[ much/JJ ]
+of/IN 
+[ it/PRP ]
+at/IN 
+[ high/JJ doses/NNS ]
+ (/( above/IN 
+[ the/DT current/JJ 750/CD mg/NN ]
+per/IN 
+[ day/NN ceiling/NN ]
+ )/) 
+[ that/WDT ]
+were/VBD already/RB abandoned/VBN ./. 
+
+======================================
+
+``/`` 
+[ DDI/NNP ]
+swept/VBD through/IN with/IN 
+[ a/DT lot/NN ]
+of/IN 
+[ enthusiasm/NN ]
+,/, ''/'' said/VBD 
+[ Thomas/NNP Merigan/NNP ]
+,/, 
+[ professor/NN ]
+of/IN 
+[ medicine/NN ]
+at/IN 
+[ Stanford/NNP University/NNP ]
+./. 
+
+``/`` When/WRB 
+[ you/PRP ]
+initiate/VBP 
+[ wide/JJ use/NN ]
+
+[ you/PRP ]
+run/VBP 
+[ a/DT risk/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+acknowledged/VBD 
+[ he/PRP ]
+now/RB is/VBZ satisfied/VBN with/IN 
+[ the/DT dose/NN levels/NNS ]
+in/IN 
+[ the/DT trial/NN ]
+,/, especially/RB since/IN 
+[ Bristol/NNP ]
+agreed/VBD to/TO include/VB 
+[ a/DT 500/CD mg/NN dose/NN  ]
+in/IN 
+[ the/DT study/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+cautioned/VBD that/IN even/RB at/IN 
+[ moderate/JJ doses/NNS ]
+,/, 
+[ toxicity/NN ]
+can/MD appear/VB over/IN 
+[ time/NN ]
+./. 
+
+======================================
+
+[ Dr./NNP Yarchoan/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ tested/VBN and/CC reported/VBN 
+[ DDI/NNP 's/POS effects/NNS ]
+in/IN 
+[ many/JJ patients/NNS ]
+,/, reiterated/VBN yesterday/NN that/IN out/IN of/IN 
+[ 30/CD patients/NNS ]
+tested/VBN at/IN 
+[ the/DT 500/CD mg/NN ]
+to/TO 
+[ 750/CD mg/NN dose/NN range/NN ]
+,/, only/RB 
+[ one/CD patient/NN ]
+developed/VBD 
+[ pancreatitis/NN ]
+,/, with/IN 
+[ some/DT ]
+vomiting/NN and/CC elevated/VBN 
+[ enzymes/NNS ]
+./. 
+
+[ No/DT patients/NNS ]
+suffered/VBD 
+[ neuropathy/NN ]
+at/IN 
+[ that/DT dose/NN range/NN ]
+,/, and/CC 
+[ those/DT ]
+
+[ who/WP ]
+had/VBD 
+[ nerve/NN pain/NN ]
+at/IN 
+[ higher/JJR doses/NNS ]
+got/VBD 
+[ relief/NN ]
+when/WRB 
+[ the/DT drug/NN ]
+was/VBD stopped/VBN ./. 
+
+======================================
+
+``/`` From/IN 
+[ my/PRP$ experience/NN ]
+,/, 
+[ doses/NNS ]
+selected/VBN for/IN 
+[ the/DT trial/NN ]
+and/CC for/IN 
+[ the/DT treatment/NN IND/NNP ]
+and/CC 
+[ open/JJ safety/NN protocol/NN ]
+are/VBP 
+[ doses/NNS ]
+
+[ that/WDT ]
+are/VBP well/RB tolerated/VBN and/CC show/VB 
+[ activity/NN ]
+against/IN 
+[ the/DT virus/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ lowering/VBG virus/NN levels/NNS ]
+and/CC 
+[ boosting/VBG levels/NNS ]
+of/IN 
+[ immune/JJ cells/NNS ]
+,/, 
+[ Drs./NNP Yarchoan/NNP ]
+and/CC 
+[ Philip/NNP Pizzo/NNP ]
+of/IN 
+[ the/DT cancer/NN institute/NN ]
+have/VBP reported/VBN at/IN 
+[ recent/JJ scientific/JJ meetings/NNS ]
+
+[ the/DT reversal/NN ]
+of/IN 
+[ AIDS/NNP dementia/NN ]
+
+[ both/DT ]
+in/IN 
+[ adults/NNS ]
+and/CC in/IN 
+[ children/NNS ]
+./. 
+
+======================================
+
+[ Dr./NNP Broder/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT cancer/NN institute/NN ]
+,/, said/VBD that/IN notwithstanding/IN 
+[ community/NN enthusiasm/NN ]
+or/CC 
+[ disputes/NNS ]
+over/IN 
+[ dosage/NN ]
+,/, ``/`` 
+[ the/DT only/JJ way/NN ]
+
+[ we/PRP ]
+'re/VBP going/VBG to/TO make/VB 
+[ progress/NN ]
+with/IN 
+[ this/DT ]
+or/CC 
+[ any/DT drug/NN ]
+is/VBZ to/TO do/VB 
+[ controlled/VBN trials/NNS ]
+./. 

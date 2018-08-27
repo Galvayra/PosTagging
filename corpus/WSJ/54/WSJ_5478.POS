@@ -1,0 +1,245 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Transportation/NNP Department/NNP ]
+put/VBD out/IN 
+[ a/DT good-news/NN ]
+,/, 
+[ bad-news/NN report/NN ]
+showing/VBG 
+[ that/DT airline/NN competition/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+has/VBZ increased/VBN at/IN 
+[ smaller/JJR airports/NNS ]
+but/CC declined/VBD sharply/RB at/IN 
+[ major/JJ hub/NN airports/NNS ]
+./. 
+
+======================================
+
+[ The/DT findings/NNS ]
+,/, presented/VBN yesterday/NN at/IN 
+[ a/DT House/NNP Aviation/NNP Subcommittee/NNP hearing/NN ]
+,/, are/VBP expected/VBN to/TO help/VB shape/VB 
+[ the/DT continuing/VBG debate/NN ]
+over/IN whether/IN 
+[ the/DT government/NN ]
+should/MD take/VB 
+[ action/NN ]
+to/TO foster/VB 
+[ airline/NN competition/NN ]
+./. 
+
+[ The/DT topic/NN ]
+has/VBZ become/VBN 
+[ a/DT hot/JJ issue/NN ]
+recently/RB ,/, with/IN 
+[ further/JJ hearings/NNS ]
+scheduled/VBN for/IN 
+[ today/NN ]
+in/IN 
+[ the/DT Senate/NNP ]
+and/CC 
+[ tomorrow/NN ]
+in/IN 
+[ the/DT House/NNP ]
+./. 
+
+======================================
+
+In/IN describing/VBG 
+[ the/DT preliminary/JJ findings/NNS ]
+,/, 
+[ Jeffrey/NNP Shane/NNP ]
+,/, 
+[ assistant/JJ transportation/NN secretary/NN ]
+for/IN 
+[ policy/NN ]
+and/CC 
+[ international/JJ affairs/NNS ]
+,/, said/VBD that/IN 
+[ increases/NNS ]
+in/IN 
+[ concentration/NN ]
+at/IN 
+[ many/JJ large/JJ hub/NN airports/NNS ]
+have/VBP been/VBN ``/`` 
+[ substantial/JJ ]
+,/, ''/'' adding/VBG that/IN :/: 
+======================================
+
+--/: In/IN 
+[ 1988/CD ]
+,/, 
+[ eight/CD airlines/NNS ]
+accounted/VBD for/IN 
+[ 90/CD %/NN ]
+of/IN 
+[ domestic/JJ air/NN traffic/NN ]
+,/, compared/VBN with/IN 
+[ 15/CD carriers/NNS ]
+in/IN 
+[ 1984/CD ]
+and/CC 
+[ 11/CD ]
+in/IN 
+[ 1979/CD ]
+,/, 
+[ the/DT year/NN ]
+after/IN 
+[ passage/NN ]
+of/IN 
+[ airline-deregulation/NN legislation/NN ]
+./. 
+
+======================================
+
+--/: In/IN 
+[ 1988/CD ]
+,/, 
+[ a/DT single/JJ carrier/NN ]
+controlled/VBD 
+[ 75/CD %/NN ]
+or/CC 
+[ more/JJR ]
+of/IN 
+[ the/DT aircraft/NN ]
+departures/NNS at/IN 
+[ six/CD large/JJ hubs/NNS ]
+./. 
+
+[ No/DT large/JJ hub/NN ]
+was/VBD as/RB concentrated/VBN in/IN 
+[ 1984/CD ]
+or/CC 
+[ 1979/CD ]
+./. 
+
+======================================
+
+--/: In/IN 
+[ 1988/CD ]
+,/, 
+[ two/CD carriers/NNS ]
+controlled/VBD 
+[ 50/CD %/NN ]
+or/CC 
+[ more/JJR ]
+of/IN 
+[ the/DT departures/NNS ]
+at/IN 
+[ 20/CD ]
+of/IN 
+[ the/DT 27/CD large/JJ hubs/NNS ]
+./. 
+
+[ That/DT situation/NN ]
+occurred/VBD at/IN 
+[ nine/CD such/JJ hubs/NNS ]
+in/IN 
+[ 1984/CD ]
+and/CC 
+[ eight/CD ]
+in/IN 
+[ 1979/CD ]
+./. 
+
+======================================
+
+But/CC while/IN 
+[ concentration/NN ]
+increased/VBD at/IN 
+[ larger/JJR airports/NNS ]
+,/, 
+[ Mr./NNP Shane/NNP ]
+said/VBD ,/, ``/`` 
+[ the/DT reverse/NN ]
+is/VBZ true/JJ at/IN 
+[ many/JJ smaller/JJR airports/NNS ]
+./. 
+
+''/'' 
+[ The/DT department/NN ]
+found/VBD that/IN in/IN 
+[ 1988/CD ]
+,/, 
+[ 32/CD small/JJ hubs/NNS ]
+had/VBD 
+[ four/CD ]
+or/CC 
+[ more/JJR competing/VBG airlines/NNS ]
+,/, while/IN only/RB 
+[ nine/CD small/JJ hubs/NNS ]
+had/VBD 
+[ that/DT number/NN ]
+of/IN 
+[ competitors/NNS ]
+in/IN 
+[ 1979/CD ]
+./. 
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ 23/CD smaller/JJR airports/NNS ]
+
+[ that/WDT ]
+are/VBP n't/RB 
+[ hubs/NNS ]
+had/VBD 
+[ four/CD ]
+or/CC 
+[ more/JJR competitors/NNS ]
+,/, compared/VBN with/IN 
+[ none/NN ]
+in/IN 
+[ 1979/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Shane/NNP ]
+said/VBD 
+[ the/DT department/NN ]
+does/VBZ n't/RB want/VB 
+[ the/DT government/NN ]
+to/TO get/VB back/RB into/IN 
+[ the/DT business/NN ]
+of/IN regulating/VBG 
+[ airlines/NNS '/POS routes/NNS ]
+and/CC 
+[ fares/NNS ]
+./. 
+
+But/CC 
+[ he/PRP ]
+said/VBD 
+[ Transportation/NNP Secretary/NNP Samuel/NNP Skinner/NNP ]
+is/VBZ searching/VBG for/IN 
+[ ways/NNS ]
+to/TO make/VB 
+[ it/PRP ]
+easier/JJR for/IN 
+[ newer/JJR airlines/NNS ]
+to/TO get/VB landing/NN 
+[ rights/NNS ]
+at/IN 
+[ the/DT nation/NN ]
+'s/POS most/RBS crowded/VBN 
+[ airports/NNS ]
+./. 

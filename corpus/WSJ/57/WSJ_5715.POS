@@ -1,0 +1,416 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Delta/NNP Air/NNP Lines/NNPS Inc./NNP ]
+is/VBZ talking/VBG with/IN 
+[ NWA/NNP Inc./NNP ]
+and/CC 
+[ Trans/NNP World/NNP Airlines/NNPS Inc./NNP ]
+about/IN forming/VBG 
+[ a/DT joint/JJ computer/NN reservation/NN system/NN ]
+
+[ that/WDT ]
+could/MD become/VB 
+[ a/DT significant/JJ new/JJ competitor/NN ]
+for/IN 
+[ domestic/JJ travel-agency/NN bookings/NNS ]
+./. 
+
+======================================
+
+[ The/DT move/NN ]
+is/VBZ 
+[ Delta/NNP 's/POS second/JJ try/NN ]
+at/IN improving/VBG 
+[ its/PRP$ standing/NN ]
+in/IN 
+[ the/DT computer/NN reservation/NN business/NN ]
+./. 
+
+Earlier/RB 
+[ this/DT summer/NN ]
+,/, 
+[ the/DT government/NN ]
+effectively/RB quashed/VBD on/IN 
+[ antitrust/JJ grounds/NNS ]
+
+[ a/DT plan/NN ]
+under/IN 
+[ which/WDT ]
+
+[ Delta/NNP ]
+would/MD have/VB merged/VBN 
+[ its/PRP$ existing/VBG system/NN ]
+with/IN 
+[ the/DT Sabre/NNP reservation/NN system/NN ]
+of/IN 
+[ AMR/NNP Corp./NNP ]
+,/, 
+[ No./NN 1/CD ]
+in/IN 
+[ the/DT business/NN ]
+./. 
+
+[ AMR/NNP ]
+is/VBZ 
+[ the/DT parent/NN ]
+of/IN 
+[ American/NNP Airlines/NNPS ]
+./. 
+
+======================================
+
+[ The/DT control/NN ]
+of/IN 
+[ computer/NN reservation/NN systems/NNS ]
+is/VBZ considered/VBN 
+[ a/DT big/JJ advantage/NN ]
+in/IN 
+[ the/DT airline/NN industry/NN ]
+./. 
+
+[ The/DT systems/NNS ]
+,/, 
+[ which/WDT ]
+travel/NN 
+[ agents/NNS ]
+use/VBP to/TO 
+[ book/VB airline/NN ]
+,/, 
+[ car-rental/NN ]
+,/, 
+[ hotel/NN ]
+and/CC 
+[ other/JJ reservations/NNS ]
+,/, can/MD generate/VB 
+[ substantial/JJ fees/NNS ]
+./. 
+
+[ Industry/NN experts/NNS ]
+say/VBP 
+[ the/DT systems/NNS ]
+also/RB tend/VBP to/TO create/VB 
+[ more/JJR bookings/NNS ]
+for/IN 
+[ the/DT airlines/NNS ]
+owning/VBG 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ The/DT latest/JJS venture/NN ]
+proposed/VBN by/IN 
+[ Delta/NNP ]
+would/MD operate/VB autonomously/RB with/IN 
+[ its/PRP$ own/JJ management/NN ]
+,/, according/VBG to/TO 
+[ Delta/NNP 's/POS brief/JJ announcement/NN ]
+./. 
+
+Beyond/IN 
+[ that/DT ]
+,/, 
+[ none/NN ]
+of/IN 
+[ the/DT companies/NNS ]
+would/MD discuss/VB 
+[ what/WP form/NN ]
+
+[ the/DT transaction/NN ]
+would/MD take/VB ./. 
+
+======================================
+
+[ Currently/NNP ]
+,/, 
+[ TWA/NNP ]
+and/CC 
+[ NWA/NNP ]
+,/, 
+[ parent/NN ]
+of/IN 
+[ Northwest/NNP Airlines/NNPS ]
+,/, jointly/RB operate/VBP 
+[ PARS/NNP ]
+,/, 
+[ the/DT industry/NN 's/POS fourth-largest/JJ reservation/NN system/NN ]
+./. 
+
+[ Delta/NNP 's/POS system/NN ]
+,/, 
+[ Datas/NNP II/NNP ]
+,/, is/VBZ in/IN 
+[ fifth/JJ place/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ What/WP ]
+
+[ we/PRP ]
+see/VBP is/VBZ 
+[ a/DT combination/NN ]
+of/IN 
+[ Datas/NNP II/NNP ]
+and/CC 
+[ PARS/NNP ]
+,/, resulting/VBG in/IN 
+[ a/DT strong/JJ third/JJ company/NN ]
+
+[ that/WDT ]
+'s/VBZ 
+[ a/DT more/RBR effective/JJ competitor/NN ]
+for/IN 
+[ the/DT two/CD big/JJ systems/NNS ]
+,/, 
+[ Covia/NNP ]
+and/CC 
+[ Sabre/NNP ]
+,/, ''/'' said/VBD 
+[ a/DT Delta/NNP spokesman/NN ]
+./. 
+
+[ Covia/NNP ]
+,/, owned/VBN by/IN 
+[ UAL/NNP Inc./NNP ]
+and/CC 
+[ several/JJ other/JJ carriers/NNS ]
+,/, is/VBZ 
+[ the/DT second-largest/JJ system/NN ]
+./. 
+
+======================================
+
+[ A/DT combined/VBN PARS-Datas/NNP II/NNP system/NN ]
+would/MD place/VB 
+[ it/PRP ]
+neck-and-neck/JJ with/IN 
+[ third-place/JJ SystemOne/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Texas/NNP Air/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Delta/NNP ]
+was/VBD forced/VBN to/TO give/VB up/RP 
+[ its/PRP$ effort/NN ]
+to/TO combine/VB 
+[ its/PRP$ system/NN ]
+with/IN 
+[ Sabre/NNP last/JJ June/NNP ]
+after/IN 
+[ the/DT Justice/NNP Department/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD fight/VB 
+[ any/DT merger/NN ]
+of/IN 
+[ the/DT systems/NNS ]
+./. 
+
+[ A/DT merger/NN ]
+of/IN 
+[ Sabre/NNP ]
+with/IN 
+[ Delta/NNP 's/POS system/NN ]
+would/MD have/VB given/VBN 
+[ the/DT two/CD ]
+about/RB 
+[ 46/CD %/NN ]
+of/IN 
+[ the/DT domestic/JJ travel-agency/NN market/NN ]
+./. 
+
+======================================
+
+[ The/DT Department/NNP ]
+of/IN 
+[ Transportation/NNP ]
+,/, 
+[ which/WDT ]
+can/MD make/VB 
+[ recommendations/NNS ]
+on/IN 
+[ airline/NN mergers/NNS ]
+,/, also/RB raised/VBN 
+[ objections/NNS ]
+in/IN 
+[ May/NNP ]
+to/TO 
+[ the/DT proposed/VBN AMR-Delta/NNP transaction/NN ]
+./. 
+
+[ It/PRP ]
+said/VBD 
+[ the/DT two/CD airlines/NNS ]
+should/MD include/VB 
+[ other/JJ partners/NNS ]
+in/IN 
+[ the/DT new/JJ company/NN ]
+./. 
+
+======================================
+
+Although/IN at/IN 
+[ least/JJS three/CD smaller/JJR airlines/NNS ]
+said/VBD 
+[ they/PRP ]
+were/VBD interested/VBN ,/, 
+[ the/DT Justice/NNP Department/NNP ]
+still/RB said/VBD 
+[ it/PRP ]
+would/MD sue/VB ./. 
+
+======================================
+
+[ Delta/NNP ]
+was/VBD to/TO have/VB paid/VBN 
+[ $/$ 650/CD million/CD ]
+to/TO 
+[ AMR/NNP ]
+for/IN 
+[ the/DT right/NN ]
+to/TO buy/VB 
+[ half/NN ]
+of/IN 
+[ Sabre/NNP ]
+./. 
+
+[ An/DT interest/NN ]
+in/IN 
+[ PARS/NNP ]
+is/VBZ n't/RB as/RB valuable/JJ ./. 
+
+[ NWA/NNP ]
+paid/VBD 
+[ TWA/NNP $/$ 140/CD million/CD ]
+for/IN 
+[ a/DT 50/CD %/NN share/NN ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+[ Today/NNP ]
+,/, 
+[ Delta/NNP ]
+would/MD have/VB to/TO pay/VB roughly/RB 
+[ $/$ 125/CD million/CD ]
+for/IN 
+[ a/DT one-third/JJ share/NN ]
+of/IN 
+[ PARS/NNP ]
+,/, 
+[ analysts/NNS ]
+estimate/VBP ./. 
+
+======================================
+
+``/`` 
+[ Delta/NNP ]
+'s/VBZ bringing/VBG 
+[ something/NN ]
+to/TO 
+[ the/DT table/NN ]
+,/, ''/'' said/VBD 
+[ analyst/NN Timothy/NNP Pettee/NNP ]
+of/IN 
+[ Merrill/NNP Lynch/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ not/RB like/IN 
+[ they/PRP ]
+do/VBP n't/RB have/VB 
+[ anything/NN ]
+to/TO contribute/VB ./. 
+
+[ It/PRP ]
+
+[ 's/VBZ Datas/NNP II/NNP system/NN ]
+and/CC not/RB 
+[ just/JJ cash/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ providing/VBG travel/NN agents/NNS ]
+with/IN 
+[ back-office/JJ assistance/NN ]
+,/, 
+[ computer/NN reservations/NNS systems/NNS ]
+enable/VBP 
+[ them/PRP ]
+to/TO make/VB 
+[ reservations/NNS ]
+on/IN 
+[ any/DT major/JJ carrier/NN ]
+./. 
+
+But/CC 
+[ the/DT airlines/NNS ]
+operating/VBG 
+[ the/DT systems/NNS ]
+possess/VBP 
+[ an/DT edge/NN ]
+,/, 
+[ industry/NN experts/NNS ]
+contend/VBP ,/, because/IN of/IN 
+[ so-called/JJ architectural/JJ biases/NNS ]
+in/IN 
+[ the/DT software/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ Delta/NNP 's/POS Datas/NNP II/NNP system/NN ]
+is/VBZ considered/VBN technologically/RB competitive/JJ with/IN 
+[ other/JJ computer/NN reservation/NN systems/NNS ]
+,/, 
+[ Delta/NNP 's/POS late/JJ start/NN ]
+in/IN designing/VBG and/CC marketing/VBG 
+[ the/DT system/NN ]
+put/VBD 
+[ it/PRP ]
+at/IN 
+[ a/DT disadvantage/NN ]
+./. 
+
+[ Delta/NNP ]
+,/, unable/JJ to/TO increase/VB 
+[ its/PRP$ base/NN ]
+of/IN 
+[ 3,500/CD travel/NN agents/NNS ]
+by/IN winning/VBG 
+[ them/PRP ]
+from/IN 
+[ rival/JJ systems/NNS ]
+,/, finally/RB turned/VBD to/TO 
+[ the/DT merger/NN route/NN last/JJ January/NNP ]
+with/IN 
+[ the/DT unsuccessful/JJ AMR/NNP proposal/NN ]
+./. 

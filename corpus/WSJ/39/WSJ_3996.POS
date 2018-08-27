@@ -1,0 +1,145 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ West/NNP Germany/NNP ]
+is/VBZ selling/VBG 
+[ 48/CD %/NN ]
+in/IN 
+[ Deutsche/NNP Siedlungs/NNP '/POS ]
+&/CC 
+[ Landesrentenbank/NNP ]
+ (/( 
+[ DSL/NNP Bank/NNP ]
+ )/) for/IN 
+[ 408.7/CD million/CD marks/NNS ]
+ (/( 
+[ $/$ 218.4/CD million/CD ]
+ )/) ,/, launching/VBG 
+[ the/DT largest/JJS initial/JJ public-stock/NN ]
+offering/NN of/IN 
+[ the/DT year/NN ]
+./. 
+
+======================================
+
+[ The/DT West/JJ German/JJ government/NN ]
+will/MD offer/VB 
+[ 2.1/CD million/CD shares/NNS ]
+in/IN 
+[ DSL/NNP Holding/NNP AG/NNP ]
+at/IN 
+[ 195/CD marks/NNS ]
+ (/( 
+[ $/$ 104.21/CD ]
+ )/) 
+[ each/DT ]
+to/TO 
+[ the/DT public/NN ]
+between/IN 
+[ Wednesday/NNP ]
+and/CC 
+[ Friday/NNP ]
+,/, 
+[ lead/JJ manager/NN Dresdner/NNP Bank/NNP AG/NNP ]
+said/VBD ./. 
+
+[ DSL/NNP Holding/NNP ]
+,/, 
+[ which/WDT ]
+was/VBD set/VBN up/RP specifically/RB for/IN 
+[ the/DT public/JJ offering/NN ]
+,/, holds/VBZ 
+[ 48/CD %/NN ]
+of/IN 
+[ the/DT wholesale/JJ ]
+and/CC 
+[ commercial/JJ bank/NN ]
+,/, while/IN 
+[ the/DT government/NN ]
+and/CC 
+[ several/JJ regional/JJ states/NNS ]
+have/VBP 
+[ 52/CD %/NN ]
+./. 
+
+======================================
+
+[ The/DT partial/JJ sale/NN ]
+of/IN 
+[ West/NNP Germany/NNP 's/POS 16th-largest/JJ bank/NN ]
+is/VBZ 
+[ the/DT first/JJ major/JJ public/JJ offering/NN ]
+since/IN 
+[ May/NNP 1988/CD ]
+,/, when/WRB 
+[ the/DT government/NN ]
+sold/VBD 
+[ its/PRP$ ]
+remaining/VBG 
+[ 60/CD %/NN interest/NN ]
+in/IN 
+[ aluminum/NN ]
+,/, 
+[ energy/NN ]
+,/, and/CC 
+[ chemical/NN concern/NN Viag/NNP AG/NNP ]
+./. 
+
+======================================
+
+[ The/DT government/NN 's/POS net/JJ receipts/NNS ]
+from/IN 
+[ the/DT offering/NN ]
+will/MD amount/VB to/TO only/RB 
+[ 250/CD million/CD marks/NNS ]
+./. 
+
+[ A/DT total/NN ]
+of/IN 
+[ 150/CD million/CD marks/NNS ]
+will/MD be/VB used/VBN for/IN 
+[ a/DT capital/NN increase/NN ]
+at/IN 
+[ DSL/NNP Bank/NNP ]
+,/, and/CC 
+[ another/DT nine/CD million/CD marks/NNS ]
+will/MD go/VB into/IN 
+[ the/DT reserves/NNS ]
+of/IN 
+[ the/DT holding/NN company/NN ]
+./. 
+
+======================================
+
+[ The/DT complex/JJ holding/NN company/NN construction/NN ]
+will/MD permit/VB 
+[ DSL/NNP Bank/NNP ]
+to/TO maintain/VB 
+[ its/PRP$ public-sector/NN status/NN ]
+,/, 
+[ which/WDT ]
+gives/VBZ 
+[ the/DT bank/NN ]
+
+[ a/DT better/JJR credit/NN rating/NN ]
+and/CC allows/VBZ 
+[ the/DT placement/NN ]
+of/IN 
+[ debt/NN instruments/NNS ]
+with/IN 
+[ government/NN guarantees/NNS ]
+./. 

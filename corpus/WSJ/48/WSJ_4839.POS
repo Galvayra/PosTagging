@@ -1,0 +1,340 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Three/CD top/JJ executives/NNS ]
+at/IN 
+[ Suzuki/NNP Motor/NNP Co./NNP 's/POS beleaguered/JJ U.S./NNP sales/NNS arm/NN ]
+resigned/VBD suddenly/RB and/CC 
+[ a/DT fourth/JJ accepted/VBN reassignment/NN ]
+to/TO 
+[ an/DT unspecified/JJ job/NN ]
+with/IN 
+[ the/DT auto/NN maker/NN ]
+in/IN 
+[ Japan/NNP ]
+./. 
+
+======================================
+
+[ The/DT sweeping/JJ changes/NNS ]
+are/VBP 
+[ a/DT further/JJ disruption/NN ]
+for/IN 
+[ Suzuki/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ n't/RB 
+[ rebounded/NN ]
+from/IN 
+[ safety/NN allegations/NNS last/JJ year/NN ]
+against/IN 
+[ its/PRP$ Samurai/NNP sport/NN utility/NN vehicle/NN ]
+./. 
+
+[ The/DT moves/NNS ]
+also/RB come/VBP on/IN 
+[ the/DT heels/NNS ]
+of/IN 
+[ Suzuki/NNP 's/POS inability/NN ]
+
+[ this/DT year/NN ]
+to/TO successfully/RB sell/VB 
+[ its/PRP$ first/JJ car/NN ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ The/DT three/CD executives/NNS ]
+
+[ who/WP ]
+resigned/VBD from/IN 
+[ American/NNP Suzuki/NNP Motor/NNP Corp./NNP ]
+,/, 
+[ effective/JJ yesterday/NN ]
+,/, are/VBP :/: 
+[ Doug/NNP Mazza/NNP ]
+,/, 
+[ vice/NN president/NN ]
+and/CC 
+[ general/JJ manager/NN ]
+;/: 
+[ John/NNP Dorsey/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ sales/NNS ]
+;/: and/CC 
+[ Larry/NNP Messelt/NNP ]
+,/, 
+[ national/JJ sales/NNS manager/NN ]
+./. 
+
+[ American/NNP Suzuki/NNP officials/NNS ]
+also/RB said/VBD that/IN 
+[ the/DT company/NN 's/POS president/NN ]
+for/IN 
+[ the/DT past/JJ five/CD years/NNS ]
+,/, 
+[ Yoshiyuki/NNP Arai/NNP ]
+,/, will/MD return/VB to/TO 
+[ a/DT job/NN ]
+in/IN 
+[ Japan/NNP ]
+at/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ October/NNP ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+said/VBD that/IN 
+[ Kenji/NNP Shimizu/NNP ]
+,/, 
+[ who/WP ]
+was/VBD brought/VBN in/IN 
+[ above/IN  Mr./NNP Arai/NNP ]
+as/IN 
+[ America/NNP Suzuki/NNP chairman/NN ]
+in/IN 
+[ July/NNP ]
+,/, will/MD assume/VB 
+[ Mr./NNP Arai/NNP 's/POS title/NN ]
+./. 
+
+[ Mr./NNP Shimizu/NNP ]
+also/RB oversees/VBZ 
+[ Suzuki/NNP 's/POS U.S./NNP motorcycle/NN ]
+,/, 
+[ outboard/JJ motor/NN ]
+and/CC 
+[ generator/NN sales/NNS ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ also/RB transferring/VBG 
+[ Yoshi/NNP Fujii/NNP ]
+from/IN 
+[ Japan/NNP ]
+to/TO become/VB 
+[ executive/NN vice/NN president/NN ]
+of/IN 
+[ the/DT U.S./NNP subsidiary/NN ]
+./. 
+
+======================================
+
+[ No/DT successors/NNS ]
+were/VBD named/VBN to/TO replace/VB 
+[ the/DT American/JJ executives/NNS ]
+
+[ who/WP ]
+resigned/VBD ./. 
+
+[ Mr./NNP Mazza/NNP ]
+,/, 
+[ a/DT former/JJ U.S./NNP distribution/NN manager/NN ]
+for/IN 
+[ Mitsubishi/NNP Motor/NNP Corp./NNP ]
+,/, joined/VBD 
+[ Suzuki/NNP ]
+in/IN 
+[ 1985/CD ]
+shortly/RB before/IN 
+[ it/PRP ]
+launched/VBD 
+[ the/DT Samurai/NNP ]
+in/IN 
+[ the/DT U.S./NNP Mr./NNP Mazza/NNP ]
+lured/VBD 
+[ Mr./NNP Dorsey/NNP ]
+from/IN 
+[ Mitsubishi/NNP ]
+and/CC 
+[ he/PRP ]
+,/, in/IN 
+[ turn/NN ]
+,/, hired/VBD 
+[ Mr./NNP Messelt/NNP ]
+away/RB from/IN 
+[ Chrysler/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Mazza/NNP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+yesterday/NN that/IN 
+[ the/DT recent/JJ arrival/NN ]
+of/IN 
+[ Mr./NNP Shimizu/NNP ]
+and/CC 
+[ the/DT pending/VBG arrival/NN ]
+of/IN 
+[ Mr./NNP Fujii/NNP ]
+had/VBD ``/`` 
+[ no/DT direct/JJ role/NN ]
+''/'' in/IN 
+[ his/PRP$ resignation/NN ]
+./. 
+
+======================================
+
+Speaking/VBG for/IN 
+[ the/DT other/JJ two/CD American/JJ officials/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD in/IN 
+[ a/DT prepared/JJ statement/NN ]
+:/: ``/`` As/IN 
+[ a/DT result/NN ]
+of/IN 
+[ changes/NNS ]
+in/IN 
+[ the/DT company/NN 's/POS operating/NN goals/NNS ]
+and/CC 
+[ philosophies/NNS ]
+,/, 
+[ we/PRP ]
+have/VBP decided/VBN 
+[ the/DT time/NN ]
+is/VBZ right/JJ to/TO move/VB on/RB to/TO 
+[ new/JJ challenges/NNS ]
+./. 
+
+''/'' 
+[ Mr./NNP Mazza/NNP ]
+declined/VBD to/TO 
+[ state/VB ]
+more/RBR specifically/RB 
+[ what/WDT changes/NNS ]
+caused/VBD 
+[ the/DT resignations/NNS ]
+./. 
+
+But/CC 
+[ a/DT spokeswoman/NN ]
+for/IN 
+[ the/DT company/NN ]
+said/VBD 
+[ the/DT changes/NNS ]
+involved/VBD 
+[ product-marketing/NN priorities/NNS ]
+./. 
+
+======================================
+
+[ Suzuki/NNP ]
+enjoyed/VBD 
+[ impressive/JJ growth/NN ]
+selling/VBG only/RB 
+[ the/DT Samurai/NNP ]
+during/IN 
+[ its/PRP$ first/JJ three/CD years/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+But/CC 
+[ last/JJ year/NN ]
+,/, 
+[ Consumer/NNP Reports/NNPS magazine/NN ]
+published/VBD 
+[ an/DT extensive/JJ story/NN ]
+
+[ that/WDT ]
+condemned/VBD 
+[ the/DT Samurai/NNP ]
+as/RB unsafe/JJ because/IN of/IN 
+[ its/PRP$ alleged/VBN tendency/NN ]
+to/TO roll/VB over/RB during/IN 
+[ sudden/JJ turns/NNS ]
+./. 
+
+======================================
+
+Although/IN 
+[ the/DT National/NNP Highway/NNP Traffic/NNP Safety/NNP Administration/NNP ]
+refused/VBD to/TO open/VB 
+[ a/DT safety/NN investigation/NN ]
+into/IN 
+[ the/DT allegations/NNS ]
+and/CC 
+[ Suzuki/NNP ]
+aggressively/RB challenged/VBD 
+[ its/PRP$ critics/NNS ]
+,/, 
+[ Samurai/NNP sales/NNS ]
+evaporated/VBD ./. 
+
+======================================
+
+[ Last/JJ fall/NN ]
+,/, 
+[ Suzuki/NNP 's/POS U.S./NNP officials/NNS ]
+hoped/VBD to/TO improve/VB 
+[ their/PRP$ standing/NN ]
+with/IN 
+[ the/DT new/JJ Sidekick/NNP sport/NN utility/NN vehicle/NN ]
+and/CC 
+[ the/DT subcompact/NN Swift/NNP ]
+,/, 
+[ which/WDT ]
+was/VBD 
+[ the/DT first/JJ car/NN ]
+sold/VBN by/IN 
+[ Suzuki/NNP ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+Neither/CC 
+[ vehicle/NN ]
+has/VBZ met/VBN 
+[ expectations/NNS ]
+./. 
+
+[ Suzuki/NNP officials/NNS ]
+expected/VBD to/TO ship/VB 
+[ 20,000/CD cars/NNS ]
+and/CC 
+[ 30,000/CD trucks/NNS ]
+
+[ a/DT year/NN ]
+at/IN 
+[ first/RB ]
+./. 
+
+But/CC 
+[ Suzuki/NNP ]
+has/VBZ sold/VBN only/RB 
+[ 4,000/CD Swifts/NNPS ]
+so/RB far/RB 
+[ this/DT year/NN ]
+and/CC watched/VBN 
+[ its/PRP$ truck/NN sales/NNS ]
+drop/VB 
+[ 65/CD %/NN ]
+from/IN already/RB depressed/JJ 
+[ levels/NNS ]
+to/TO just/RB 
+[ 17,419/CD units/NNS ]
+./. 

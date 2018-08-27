@@ -1,0 +1,82 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Sun/NNP Microsystems/NNP Inc./NNP ]
+,/, 
+[ Mountain/NNP View/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, said/VBD 
+[ it/PRP ]
+received/VBD 
+[ a/DT contract/NN ]
+valued/VBN at/IN about/RB 
+[ $/$ 97/CD million/CD ]
+to/TO provide/VB 
+[ computer/NN workstations/NNS ]
+to/TO 
+[ the/DT Ames/NNP Research/NNP Center/NNP ]
+,/, 
+[ a/DT field/NN laboratory/NN ]
+for/IN 
+[ the/DT National/NNP Aeronautics/NNP ]
+and/CC 
+[ Space/NNP Administration/NNP ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT seven-year/JJ contract/NN ]
+,/, 
+[ Sun/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD provide/VB 
+[ workstations/NNS ]
+using/VBG 
+[ its/PRP$ Sparc/NNP microprocessor/NN ]
+./. 
+
+[ The/DT Sparc/NNP chip/NN ]
+,/, designed/VBN by/IN 
+[ Sun/NNP ]
+,/, incorporates/VBZ reduced/JJ 
+[ set/NN ]
+computing/NN ,/, or/CC 
+[ RISC/NNP ]
+,/, 
+[ techniques/NNS ]
+used/VBN in/IN 
+[ high-performance/JJ computers/NNS ]
+./. 
+
+[ The/DT machines/NNS ]
+will/MD be/VB used/VBN for/IN 
+[ scientific/JJ ]
+and/CC 
+[ aeronautical/JJ research/NN ]
+,/, 
+[ Sun/NNP ]
+said/VBD ./. 
+
+[ Deliveries/NNS ]
+are/VBP expected/VBN to/TO begin/VB 
+[ next/JJ month/NN ]
+,/, 
+[ the/DT company/NN ]
+said/VBD ./. 

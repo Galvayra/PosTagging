@@ -1,0 +1,726 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Marlon/NNP Brando/NNP ]
+appears/VBZ for/IN only/RB 
+[ a/DT few/JJ minutes/NNS ]
+in/IN ``/`` 
+[ A/DT Dry/NNP White/NNP Season/NNP ]
+,/, ''/'' in/IN 
+[ the/DT part/NN ]
+of/IN 
+[ a/DT brilliant/JJ lawyer/NN ]
+
+[ who/WP ]
+continues/VBZ to/TO fight/VB 
+[ apartheid/NN ]
+even/RB though/IN 
+[ he/PRP ]
+knows/VBZ 
+[ his/PRP$ courtroom/NN victories/NNS ]
+will/MD be/VB nullified/VBN ,/, 
+[ one/CD way/NN ]
+or/CC 
+[ the/DT other/JJ ]
+./. 
+
+[ This/DT brief/JJ ]
+,/, 
+[ exquisite/JJ characterization/NN ]
+happily/RB revives/VBZ 
+[ the/DT memory/NN ]
+of/IN 
+[ Marlon/NNP ]
+
+[ the/DT Great/JJ ]
+,/, when/WRB 
+[ he/PRP ]
+was/VBD acting/VBG up/RP 
+[ a/DT storm/NN ]
+and/CC 
+[ he/PRP ]
+was/VBD pretty/JJ ./. 
+
+[ He/PRP ]
+'s/VBZ long/JJ since/IN almost/RB disappeared/VBN from/IN 
+[ the/DT screen/NN ]
+,/, and/CC seems/VBZ to/TO have/VB settled/VBN into/IN 
+[ his/PRP$ protective/JJ heft/NN ]
+./. 
+
+Yet/RB even/RB now/RB ,/, with/IN 
+[ a/DT twist/NN ]
+of/IN 
+[ the/DT mouth/NN ]
+,/, 
+[ an/DT inflection/NN ]
+,/, 
+[ he/PRP ]
+tells/VBZ 
+[ you/PRP ]
+
+[ what/WP ]
+
+[ you/PRP ]
+need/VBP to/TO know/VB about/IN 
+[ Ian/NNP McKenzie/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+
+[ whose/WP$ cynicism/NN ]
+poorly/RB disguises/VBZ 
+[ a/DT deep/JJ ]
+,/, 
+[ weary/JJ sadness/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT memorable/JJ act/NN ]
+,/, 
+[ a/DT ]
+remarkably/RB 
+[ subtle/JJ ]
+,/, 
+[ bravura/NN performance/NN ]
+./. 
+
+Unfortunately/RB ,/, almost/RB 
+[ everyone/NN ]
+else/RB in/IN 
+[ this/DT dutiful/JJ picture/NN plods/VBZ ]
+through/IN 
+[ his/PRP$ preordained/VBN paces/NNS ]
+./. 
+
+ (/( 
+[ The/DT exception/NN ]
+is/VBZ exiled/VBN 
+[ South/NNP African/JJ actor/NN Zakes/NNP Mokae/NNP ]
+,/, 
+[ who/WP ]
+gives/VBZ 
+[ a/DT wild/JJ edge/NN ]
+to/TO 
+[ the/DT character/NN ]
+of/IN 
+[ a/DT black/JJ taxi/NN driver/NN ]
+pushed/VBN by/IN 
+[ events/NNS ]
+into/IN 
+[ a/DT revolutionary/JJ role/NN ]
+./. 
+
+ )/) 
+======================================
+
+``/`` 
+[ A/DT Dry/NNP White/NNP Season/NNP ]
+''/'' originally/RB was/VBD 
+[ a/DT novel/NN ]
+by/IN 
+[ Andre/NNP Brink/NNP ]
+,/, 
+[ a/DT South/NNP African/NNP ]
+writing/VBG about/IN 
+[ an/DT Afrikaaner/NNP ]
+shaken/VBN out/IN of/IN 
+[ his/PRP$ complacency/NN ]
+by/IN 
+[ the/DT 1976/CD Soweto/NNP uprising/NN ]
+./. 
+
+[ His/PRP$ protagonist/NN ]
+,/, Ben/NNP 
+[ du/NNP Toit/NNP ]
+,/, found/VBD 
+[ his/PRP$ assumptions/NNS ]
+about/IN 
+[ life/NN ]
+turned/VBD upside/RB down/RB at/IN 
+[ age/NN 50/CD ]
+,/, when/WRB 
+[ he/PRP ]
+realized/VBD that/IN 
+[ his/PRP$ minor/JJ acts/NNS ]
+of/IN 
+[ benevolence/NN ]
+toward/IN 
+[ the/DT family/NN gardener/NN ]
+did/VBD n't/RB 
+[ mean/VB ]
+much/RB when/WRB 
+[ black/JJ schoolchildren/NN ]
+were/VBD being/VBG gunned/VBD down/RP by/IN 
+[ government/NN men/NNS ]
+./. 
+
+======================================
+
+Putting/VBG 
+[ this/DT story/NN ]
+on/IN 
+[ film/NN ]
+,/, 
+[ director/NN Euzhan/NNP Palcy/NNP ]
+ (/( 
+[ ``/`` Sugar/NNP Cane/NNP Alley/NNP ]
+''/'' )/) --/: 
+[ a/DT woman/NN ]
+born/VBN and/CC raised/VBN in/IN 
+[ Martinique/NNP ]
+--/: wanted/VBD to/TO avoid/VB 
+[ the/DT ]
+``/`` 
+[ Cry/NNP Freedom/NNP ]
+''/'' 
+[ scenario/NN ]
+ (/( doing/VBG 
+[ an/DT anti-apartheid/JJ movie/NN ]
+entirely/RB from/IN 
+[ a/DT white/JJ man/NN 's/POS perspective/NN ]
+ )/) ./. 
+
+So/IN 
+[ she/PRP ]
+reworked/VBD 
+[ the/DT script/NN ]
+with/IN 
+[ Colin/NNP Welland/NNP ]
+to/TO include/VB 
+[ the/DT black/JJ point/NN ]
+of/IN 
+[ view/NN ]
+as/RB well/RB ./. 
+
+======================================
+
+[ What/WP ]
+'s/VBZ emerged/VBN is/VBZ 
+[ an/DT ]
+entirely/RB 
+[ worthy/JJ effort/NN ]
+without/IN 
+[ an/DT unpredictable/JJ moment/NN ]
+./. 
+
+Except/IN for/IN 
+[ a/DT gesture/NN ]
+from/IN 
+[ Mr./NNP Brando/NNP ]
+,/, 
+[ another/DT ]
+from/IN 
+[ Mr./NNP Mokae/NNP ]
+,/, 
+[ the/DT entire/JJ enterprise/NN ]
+moves/VBZ by/IN 
+[ rote/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT high-minded/JJ equivalent/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ Rocky/NNP ]
+''/'' 
+[ picture/NN ]
+,/, earnestly/RB teaching/VBG 
+[ the/DT lesson/NN ]
+
+[ that/DT apartheid/NN ]
+is/VBZ evil/JJ ./. 
+
+ (/( Is/VBZ 
+[ there/EX anyone/NN ]
+in/IN 
+[ the/DT Western/JJ world/NN ]
+
+[ who/WP ]
+would/MD argue/VB 
+[ the/DT point/NN ]
+,/, at/IN 
+[ least/JJS ]
+openly/RB ?/. 
+
+ )/) 
+======================================
+
+[ The/DT movie/NN ]
+is/VBZ n't/RB poorly/RB made/VBN ./. 
+
+[ Ms./NNP Palcy/NNP ]
+has/VBZ lined/VBN up/RP 
+[ all/PDT the/DT ingredients/NNS ]
+in/IN 
+[ the/DT right/JJ order/NN ]
+./. 
+
+[ There/EX ]
+'s/VBZ 
+[ the/DT juxtaposition/NN ]
+of/IN 
+[ comfortable/JJ white/JJ life/NN ]
+in/IN 
+[ South/NNP Africa/NNP ]
+against/IN 
+[ the/DT impoverishment/NN ]
+of/IN 
+[ blacks/NNS ]
+;/: 
+[ the/DT horror/NN ]
+of/IN 
+[ black/JJ children/NNS ]
+being/VBG massacred/VBN ;/: 
+[ the/DT loaded/VBN legal/JJ system/NN ]
+
+[ that/WDT ]
+makes/VBZ 
+[ the/DT murder/NN ]
+of/IN 
+[ blacks/NNS ]
+
+[ an/DT unprovable/JJ crime/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+
+[ 's/VBZ all/DT ]
+laid/VBD out/RP too/RB neatly/RB ,/, as/IN though/IN filling/VBG in/RP 
+[ some/DT equation/NN ]
+
+[ that/WDT ]
+equals/VBZ 
+[ outrage/NN ]
+./. 
+
+But/CC 
+[ genuine/JJ outrage/NN ]
+comes/VBZ from/IN 
+[ passion/NN ]
+,/, and/CC 
+[ it/PRP ]
+is/VBZ hard/JJ to/TO feel/VB 
+[ passionate/JJ ]
+about/IN 
+[ characters/NNS ]
+
+[ who/WP ]
+never/RB slip/VBP outside/IN 
+[ their/PRP$ archetypes/NNS ]
+./. 
+
+[ Donald/NNP Sutherland/NNP ]
+has/VBZ 
+[ the/DT ostensible/JJ ]
+lead/NN ,/, as/IN 
+[ Ben/NNP ]
+,/, 
+[ whose/WP$ discovery/NN ]
+of/IN 
+[ the/DT evil/NN ]
+around/IN 
+[ him/PRP ]
+seems/VBZ 
+[ neither/CC astonishing/JJ ]
+nor/CC particularly/RB interesting/JJ ./. 
+
+======================================
+
+[ Janet/NNP Suzman/NNP ]
+,/, as/IN 
+[ his/PRP$ wife/NN ]
+,/, has/VBZ 
+[ the/DT far/RB ]
+less/RBR sympathetic/JJ but/CC slightly/RB 
+[ more/RBR absorbing/JJ part/NN ]
+./. 
+
+[ She/PRP ]
+'s/VBZ disturbed/VBN about/IN 
+[ what/WP ]
+'s/VBZ happening/VBG to/TO blacks/NNS but/CC prefers/VBZ to/TO act/VB with/IN 
+[ unenlightened/JJ self-interest/NN ]
+./. 
+
+[ She/PRP ]
+recognizes/VBZ 
+[ she/PRP ]
+has/VBZ 
+[ a/DT good/JJ thing/NN ]
+going/VBG ,/, in/IN 
+[ the/DT material/JJ ]
+if/IN not/RB 
+[ the/DT moral/JJ sense/NN ]
+./. 
+
+Where/WRB else/RB could/MD 
+[ she/PRP ]
+,/, 
+[ the/DT wife/NN ]
+of/IN 
+[ a/DT schoolteacher/NN ]
+without/IN 
+[ an/DT inheritance/NN ]
+,/, live/VB like/IN 
+[ a/DT pasha/NN ]
+?/. 
+
+======================================
+
+[ The/DT South/NNP African/JJ officials/NNS all/DT ]
+are/VBP 
+[ cruel/JJ pigs/NNS ]
+ (/( but/CC 
+[ we/PRP ]
+already/RB learned/VBD that/IN 
+[ this/DT summer/NN ]
+,/, in/IN ``/`` 
+[ Lethal/NNP Weapon/NNP 2/CD ]
+''/'' )/) ./. 
+
+Most/RBS of/IN 
+[ the/DT black/JJ actors/NNS ]
+are/VBP doomed/VBN to/TO suffering/VBG nobly/RB ,/, except/IN for/IN 
+[ Mr./NNP Mokae/NNP 's/POS Stanley/NNP ]
+./. 
+
+[ He/PRP ]
+'s/VBZ 
+[ Ben/NNP 's/POS guide/NN ]
+into/IN 
+[ reality/NN ]
+,/, and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT few/JJ characters/NNS ]
+allowed/VBN at/IN 
+[ least/JJS a/DT layer/NN ]
+of/IN 
+[ complexity/NN ]
+./. 
+
+======================================
+
+[ Susan/NNP Sarandon/NNP ]
+,/, 
+[ who/WP ]
+likes/VBZ to/TO be/VB associated/VBN with/IN 
+[ righteous/JJ causes/NNS ]
+,/, must/MD have/VB taken/VBN 
+[ the/DT part/NN ]
+of/IN 
+[ the/DT liberal/JJ journalist/NN ]
+for/IN 
+[ that/DT reason/NN ]
+,/, because/IN 
+[ there/EX ]
+could/MD n't/RB have/VB been/VBN 
+[ much/RB professional/JJ interest/NN ]
+for/IN 
+[ her/PRP ]
+in/IN 
+[ what/WP ]
+
+[ she/PRP ]
+'s/VBZ been/VBN given/VBN to/TO do/VB ./. 
+
+[ The/DT movie/NN ]
+may/MD be/VB instructive/JJ to/TO 
+[ those/DT ]
+
+[ who/WP ]
+have/VBP missed/VBN 
+[ the/DT evening/NN news/NN ]
+for/IN 
+[ the/DT last/JJ decade/NN ]
+or/CC so/RB ./. 
+
+At/IN 
+[ the/DT very/RB least/JJS ]
+,/, 
+[ it/PRP ]
+means/VBZ well/RB ./. 
+
+======================================
+
+[ Which/WDT ]
+is/VBZ more/JJR than/IN 
+[ anyone/NN ]
+could/MD plausibly/RB argue/VB about/IN ``/`` 
+[ Black/NNP Rain/NNP ]
+,/, ''/'' 
+[ the/DT latest/JJS action/NN picture/NN ]
+from/IN 
+[ sci-fi/JJ futurist\/director/NN Ridley/NNP Scott/NNP ]
+ (/( ``/`` Alien/NNP ,/, ''/'' ``/`` 
+[ Blade/NNP Runner/NNP ]
+''/'' )/) ./. 
+
+======================================
+
+[ Mr./NNP Scott/NNP ]
+,/, 
+[ who/WP ]
+in/IN 
+[ his/PRP$ former/JJ life/NN ]
+produced/VBD 
+[ 2,000/CD commercials/NNS ]
+,/, has/VBZ 
+[ an/DT eye/NN ]
+for/IN 
+[ what/WP ]
+'s/VBZ visually/RB 
+[ hot/JJ ]
+--/: or/CC rather/RB ,/, 
+[ what/WP ]
+'s/VBZ stylistically/RB cool/JJ ./. 
+
+[ His/PRP$ films/NNS ]
+have/VBP been/VBN 
+[ masterworks/NNS ]
+of/IN 
+[ design/NN ]
+and/CC 
+[ sound/NN ]
+,/, creating/VBG 
+[ dehumanized/VBN worlds/NNS ]
+of/IN 
+[ tomorrow/NN ]
+./. 
+
+======================================
+
+Here/RB 
+[ he/PRP ]
+'s/VBZ applied/VBN 
+[ his/PRP$ particular/JJ talent/NN ]
+to/TO 
+[ the/DT present/NN ]
+,/, to/TO 
+[ an/DT ]
+otherwise/RB 
+[ routine/JJ cops'n/NNS  ]
+'/'' 
+[ mobsters/NNS scenario/NN ]
+played/VBD out/RP in/IN 
+[ Japan/NNP ]
+,/, 
+[ the/DT world/NN ]
+of/IN 
+[ tomorrow/NN ]
+
+[ he/PRP ]
+'s/VBZ found/VBN 
+[ today/NN ]
+./. 
+
+[ His/PRP$ Japanese/NNPS ]
+are/VBP 
+[ alien/JJ creatures/NNS ]
+as/RB well/RB --/: either/CC grimly/RB impassive/JJ or/CC 
+[ cuddly/JJ ]
+and/CC 
+[ fun/JJ ]
+,/, like/IN 
+[ so/RB many/JJ extraterrestrials/NNS ]
+
+[ who/WP ]
+have/VBP marched/VBN across/IN 
+[ the/DT big/JJ screen/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+Underneath/IN 
+[ the/DT slick/JJ production/NN ]
+,/, 
+[ the/DT smoky/JJ grays/NNS ]
+and/CC 
+[ blues/NNS ]
+,/, lurks/VBZ 
+[ some/DT ]
+rather/RB 
+[ unstylish/JJ racism/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ cop/NN stories/NNS ]
+go/VBP ,/, 
+[ this/DT one/NN ]
+ (/( written/VBN by/IN 
+[ Craig/NNP Bolotin/NNP ]
+and/CC 
+[ Warren/NNP Lewis/NNP ]
+ )/) 
+[ dredges/VBZ ]
+up/RP 
+[ many/JJ cliches/NNS ]
+of/IN 
+[ the/DT genre/NN ]
+and/CC invents/VBZ 
+[ many/JJ new/JJ ones/NNS ]
+,/, mostly/RB 
+[ vulgar/JJ lines/NNS ]
+spit/VBD out/RP by/IN 
+[ Michael/NNP Douglas/NNP ]
+with/IN 
+[ a/DT reasonable/JJ amount/NN ]
+of/IN 
+[ fervor/NN ]
+./. 
+
+[ There/EX ]
+is/VBZ much/RB 
+[ violence/NN ]
+,/, shot/VBN with/IN 
+[ the/DT same/JJ chill/JJ elegance/NN ]
+as/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT film/NN ]
+,/, 
+[ which/WDT ]
+somehow/RB makes/VBZ 
+[ it/PRP ]
+seem/VB even/RB worse/JJR than/IN 
+[ the/DT usual/JJ cinematic/JJ ]
+bloodletting/NN ./. 
+
+======================================
+
+[ Andy/NNP Garcia/NNP ]
+ (/( 
+[ the/DT feisty/JJ rooster/NN ]
+in/IN ``/`` 
+[ The/DT Untouchables/NNPS ]
+''/'' and/CC 
+[ the/DT ]
+really/RB 
+[ vicious/JJ bad/JJ guy/NN ]
+in/IN ``/`` 
+[ Eight/CD Million/NNP Ways/NNPS ]
+to/TO Die/VB ''/'' )/) is/VBZ 
+[ the/DT picture/NN 's/POS brightest/JJS light/NN ]
+,/, as/IN 
+[ the/DT affable/JJ partner/NN ]
+./. 
+
+[ Yusaku/NNP Matsuda/NNP ]
+could/MD spend/VB 
+[ a/DT lifetime/NN ]
+playing/VBG 
+[ soulless/JJ heavies/NNS ]
+--/: 
+[ he/PRP ]
+'s/VBZ so/RB mean/JJ as/IN 
+[ the/DT punk/JJ gangster/NN ]
+--/: but/CC does/VBZ 
+[ he/PRP ]
+really/RB want/VB to/TO ?/. 
+
+And/CC 
+[ Japanese/JJ star/NN Ken/NNP Takakura/NNP ]
+admirably/RB carries/VBZ 
+[ the/DT burden/NN ]
+of/IN being/VBG 
+[ the/DT human/JJ Japanese/NNP ]
+,/, 
+[ the/DT cop/NN ]
+
+[ who/WP ]
+joins/VBZ up/RP with/IN 
+[ the/DT visitors/NNS ]
+from/IN 
+[ New/NNP York/NNP ]
+./. 
+
+Oh/UH ,/, yes/UH ,/, 
+[ there/EX ]
+'s/VBZ 
+[ a/DT girl/NN ]
+,/, played/VBN by/IN 
+[ Kate/NNP Capshaw/NNP ]
+,/, 
+[ whose/WP$ lines/NNS ]
+seem/VBP to/TO have/VB been/VBN cut/VBN drastically/RB ,/, but/CC not/RB nearly/RB as/RB much/JJ as/IN 
+[ the/DT backs/NNS ]
+of/IN 
+[ her/PRP$ dresses/NNS ]
+./. 
+
+On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ one/NN ]
+could/MD argue/VB 
+[ that/DT ]
+'s/VBZ entirely/RB appropriate/JJ for/IN 
+[ an/DT enterprise/NN ]
+
+[ that/WDT ]
+'s/VBZ 
+[ more/JJR fashion/NN statement/NN ]
+than/IN 
+[ film/NN ]
+./. 
+
+======================================
+
+[ VIDEO/NNP TIP/NNP ]
+:/: For/IN 
+[ one/CD ]
+of/IN 
+[ the/DT few/JJ interesting/JJ movies/NNS ]
+about/IN 
+[ apartheid/NN ]
+,/, take/VB 
+[ a/DT look/NN ]
+at/IN ``/`` 
+[ A/DT World/NNP Apart/NNP ]
+,/, ''/'' scheduled/VBN to/TO appear/VB on/IN 
+[ video/NN ]
+in/IN 
+[ the/DT next/JJ few/JJ weeks/NNS ]
+./. 
+
+[ This/DT 1988/CD picture/NN ]
+about/IN 
+[ a/DT real-life/JJ journalist/NN ]
+ (/( played/VBN by/IN 
+[ Barbara/NNP Hershey/NNP ]
+ )/) imprisoned/VBN for/IN 
+[ her/PRP$ anti-apartheid/JJ views/NNS ]
+,/, told/VBN from/IN 
+[ the/DT point/NN ]
+of/IN 
+[ view/NN ]
+of/IN 
+[ her/PRP$ daughter/NN ]
+,/, was/VBD 
+[ a/DT vivid/JJ ]
+,/, 
+[ personal/JJ account/NN ]
+./. 

@@ -1,0 +1,623 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ford/NNP Motor/NNP Co./NNP 's/POS surprise/JJ strike/NN ]
+for/IN 
+[ a/DT minority/NN stake/NN ]
+in/IN 
+[ Jaguar/NNP PLC/NNP ]
+well/RB may/MD turn/VB into/IN 
+[ a/DT bidding/NN contest/NN ]
+for/IN 
+[ Britain/NNP 's/POS leading/VBG luxury/NN car/NN maker/NN ]
+./. 
+
+======================================
+
+[ Jaguar/NNP 's/POS share/NN price/NN ]
+soared/VBD yesterday/NN as/IN 
+[ investors/NNS ]
+speculated/VBD that/IN 
+[ others/NNS ]
+also/RB may/MD amass/VB 
+[ significant/JJ holdings/NNS ]
+./. 
+
+[ Jaguar/NNP shares/NNS ]
+climbed/VBD 
+[ 43/CD pence/NNS ]
+to/TO 
+[ 510/CD pence/NNS ]
+ (/( 
+[ $/$ 8/CD ]
+ )/) ,/, 
+[ this/DT year/NN 's/POS highest/JJS level/NN ]
+,/, after/IN 
+[ heavy/JJ ]
+trading/NN on/IN 
+[ London/NNP 's/POS stock/NN exchange/NN ]
+./. 
+
+[ The/DT stock/NN price/NN ]
+``/`` will/MD continue/VB to/TO go/VB 
+[ bonkers/JJ ]
+,/, ''/'' 
+[ increasing/VBG pressure/NN ]
+on/IN 
+[ any/DT Jaguar/NNP predators/NNS ]
+``/`` to/TO be/VB at/IN 
+[ the/DT negotiating/NN table/NN ]
+as/RB soon/RB as/IN 
+[ possible/JJ ]
+,/, ''/'' said/VBD 
+[ Gavin/NNP Launder/NNP ]
+,/, 
+[ an/DT auto/NN industry/NN analyst/NN ]
+at/IN 
+[ U.K./NN brokers/NNS Kleinwort/NNP Benson/NNP Securities/NNPS ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT prelude/NN ]
+to/TO 
+[ a/DT ]
+possibly/RB 
+[ unfriendly/JJ ]
+offer/NN ,/, 
+[ Ford/NNP ]
+said/VBD 
+[ Tuesday/NNP ]
+that/IN 
+[ it/PRP ]
+intends/VBZ to/TO buy/VB as/RB much/RB as/IN 
+[ 15/CD %/NN ]
+of/IN 
+[ Jaguar/NNP shares/NNS ]
+,/, 
+[ the/DT maximum/NN ]
+allowed/VBN under/IN 
+[ current/JJ U.K./NNP government/NN restrictions/NNS ]
+./. 
+
+[ Yesterday/NN ]
+,/, 
+[ Ford/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+began/VBD buying/VBG 
+[ Jaguar/NNP shares/NNS ]
+after/IN 
+[ hearing/VBG industry/NN rumors/NNS ]
+that/IN 
+[ General/NNP Motors/NNPS Corp./NNP  ]
+and/CC 
+[ other/JJ auto/NN makers/NNS ]
+wanted/VBD to/TO pursue/VB 
+[ Jaguar/NNP ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ n't/RB clear/JJ whether/IN 
+[ GM/NNP ]
+actually/RB is/VBZ interested/VBN in/IN 
+[ Jaguar/NNP ]
+./. 
+
+[ The/DT No./NN 1/CD auto/NN maker/NN ]
+took/VBD 
+[ a/DT close/JJ look/NN ]
+at/IN 
+[ Jaguar/NNP ]
+
+[ a/DT few/JJ years/NNS ]
+ago/RB ,/, but/CC decided/VBD then/RB that/IN 
+[ Jaguar/NNP ]
+had/VBD 
+[ too/RB many/JJ problems/NNS ]
+to/TO make/VB 
+[ it/PRP ]
+
+[ a/DT good/JJ value/NN ]
+./. 
+
+[ GM/NNP ]
+also/RB has/VBZ 
+[ a/DT full/JJ plate/NN ]
+already/RB ;/: 
+[ it/PRP ]
+'s/VBZ struggling/VBG to/TO turn/VB around/RP 
+[ its/PRP$ sagging/VBG car/NN market/NN share/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, and/CC is/VBZ pushing/VBG to/TO boost/VB 
+[ earnings/NNS ]
+during/IN 
+[ Chairman/NNP Roger/NNP B./NNP Smith/NNP 's/POS last/JJ year/NN ]
+on/IN 
+[ the/DT job/NN ]
+./. 
+
+[ Chrysler/NNP Corp./NNP ]
+,/, for/IN 
+[ its/PRP$ part/NN ]
+,/, is/VBZ n't/RB interested/VBN in/IN 
+[ Jaguar/NNP ]
+,/, 
+[ Robert/NNP A./NNP Lutz/NNP  ]
+,/, 
+[ president/NN ]
+of/IN 
+[ auto/NN operations/NNS ]
+,/, said/VBD yesterday/NN ./. 
+
+======================================
+
+[ Analysts/NNS ]
+,/, meanwhile/RB ,/, speculate/VBP that/IN 
+[ Ford/NNP 's/POS move/NN ]
+may/MD prompt/VB 
+[ the/DT buying/NN ]
+of/IN 
+[ Jaguar/NN shares/NNS ]
+by/IN 
+[ other/JJ European/JJ auto/NN makers/NNS ]
+--/: including/VBG 
+[ West/NNP Germany/NNP 's/POS Volkswagen/NNP AG/NNP ]
+,/, 
+[ Sweden/NNP 's/POS AB/NNP Volvo/NNP ]
+and/CC 
+[ Peugeot/NNP S.A./NNP ]
+of/IN 
+[ France/NNP ]
+./. 
+
+Unlike/IN 
+[ Ford/NNP ]
+,/, 
+[ Europeans/NNPS ] 
+are/VBP n't/RB fettered/VBN by/IN 
+[ a/DT U.S./NNP law/NN ]
+limiting/VBG 
+[ the/DT U.S./NNP company/NN ]
+'s/POS holding/NN to/TO about/IN 
+[ 1/CD %/NN ]
+for/IN 
+[ 30/CD days/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ One/NN ]
+could/MD say/VB 
+[ Ford/NNP ]
+has/VBZ taken/VBN 
+[ all/PDT the/DT heat/NN ]
+and/CC now/RB 
+[ they/PRP ]
+ {/( 
+[ auto/NN rivals/NNS ]
+ }/) can/MD walk/VB in/RP because/IN 
+[ the/DT door/NN ]
+is/VBZ open/JJ ,/, ''/'' said/VBD 
+[ Bruce/NNP Blythe/NNP ]
+,/, 
+[ business/NN strategy/NN vice/NN president/NN ]
+for/IN 
+[ Ford/NNP ]
+of/IN 
+[ Europe/NNP Inc/NNP ]
+./. 
+
+``/`` Without/IN 
+[ a/DT doubt/NN ]
+,/, 
+[ that/WDT ]
+would/MD complicate/VB 
+[ things/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+added/VBD in/IN 
+[ an/DT interview/NN ]
+at/IN 
+[ Ford/NNP ]
+of/IN 
+[ Europe/NNP 's/POS plush/JJ London/NNP office/NN ]
+--/: 
+[ a/DT block/NN ]
+from/IN 
+[ a/DT Jaguar/NNP dealership/NN ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS European/JJ rivals/NNS ]
+``/`` will/MD come/VB into/IN 
+[ the/DT fray/NN ]
+because/IN 
+[ the/DT thought/NN ]
+of/IN 
+[ Ford/NNP 's/POS financial/JJ muscle/NN ]
+coming/VBG into/IN {/( 
+[ Jaguar/NNP ]
+ }/) could/MD significantly/RB alter/VB 
+[ the/DT balance/NN ]
+of/IN 
+[ power/NN ]
+''/'' in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ European/JJ luxury/NN car/NN markets/NNS ]
+,/, said/VBD 
+[ Stephen/NNP Reitman/NNP ]
+,/, 
+[ European/JJ auto-industry/JJ analyst/NN ]
+for/IN 
+[ the/DT London/NNP brokerage/NN firm/NN UBS-Phillips/NNP ]
+&/CC 
+[ Drew/NNP ]
+./. 
+
+[ Other/JJ car/NN makers/NNS ]
+also/RB may/MD start/VB buying/VBG 
+[ Jaguar/NNP shares/NNS ]
+just/RB to/TO make/VB 
+[ Jaguar/NNP ]
+
+[ a/DT more/RBR expensive/JJ target/NN ]
+for/IN 
+[ Ford/NNP ]
+./. 
+
+[ Analysts/NNS ]
+have/VBP put/VBN 
+[ Jaguar/NNP 's/POS value/NN ]
+in/IN 
+[ a/DT takeover/NN fight/NN ]
+at/IN between/IN 
+[ #/# 6/CD ]
+ (/( 
+[ $/$ 9.42/CD ]
+ )/) and/CC #/# 
+[ 10/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC between/IN about/RB 
+[ #/# 1/CD billion/CD ]
+and/CC #/# 
+[ 1.8/CD billion/CD ]
+./. 
+
+======================================
+
+[ Yesterday/NN ]
+,/, 
+[ VW/NNP ]
+and/CC 
+[ Volvo/NNP spokesmen/NNS ]
+denied/VBD 
+[ speculation/NN ]
+about/IN 
+[ their/PRP$ possible/JJ interest/NN ]
+in/IN 
+[ Jaguar/NNP ]
+./. 
+
+[ A/DT Peugeot/NNP spokeswoman/NN ]
+did/VBD n't/RB 
+[ return/VB calls/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+declines/VBZ to/TO say/VB how/WRB 
+[ many/JJ Jaguar/NNP shares/NNS ]
+
+[ it/PRP ]
+owns/VBZ ,/, but/CC has/VBZ indicated/VBN 
+[ its/PRP$ purchases/NNS ]
+would/MD n't/RB have/VB exceeded/VBN 
+[ the/DT $/$ 15/CD million/CD limit/NN ]
+set/VBN for/IN 
+[ 30/CD days/NNS ]
+by/IN 
+[ U.S./NNP law/NN ]
+./. 
+
+Thus/RB ,/, 
+[ Ford/NNP ]
+could/MD have/VB bought/VBN about/RB 
+[ two/CD million/CD Jaguar/NNP shares/NNS Tuesday/NNP ]
+,/, or/CC about/RB 
+[ 1.1/CD %/NN ]
+of/IN 
+[ the/DT 182/CD million/CD outstanding/JJ ]
+./. 
+
+[ The/DT British/JJ government/NN 's/POS anti-takeover/JJ measure/NN ]
+prevents/VBZ 
+[ any/DT outside/JJ investor/NN ]
+from/IN buying/VBG more/RBR than/IN 
+[ 15/CD %/NN ]
+of/IN 
+[ Jaguar/NNP shares/NNS ]
+without/IN 
+[ permission/NN ]
+until/IN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1990/CD ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+is/VBZ dangling/VBG 
+[ access/NN ]
+to/TO 
+[ cash/NN ]
+and/CC 
+[ technological/JJ know-how/NN ]
+in/IN 
+[ front/NN ]
+of/IN 
+[ Jaguar/NNP ]
+./. 
+
+But/CC 
+[ the/DT ]
+fiercely/RB 
+[ proud/JJ British/JJ company/NN ]
+prefers/VBZ to/TO remain/VB 
+[ independent/JJ ]
+and/CC publicly/RB held/VBN ./. 
+
+In/IN 
+[ months/NNS ]
+of/IN 
+[ recent/JJ talks/NNS ]
+,/, 
+[ Jaguar/NNP Chairman/NNP Sir/NNP John/NNP Egan/NNP ]
+offered/VBD 
+[ Ford/NNP ]
+and/CC 
+[ several/JJ other/JJ car/NN makers/NNS ]
+
+[ a/DT chance/NN ]
+to/TO become/VB 
+[ passive/JJ ]
+,/, 
+[ small/JJ shareholders/NNS ]
+./. 
+
+``/`` 
+[ He/PRP ]
+
+[ has/VBZ n't/RB ]
+found/VBN 
+[ any/DT takers/NNS ]
+for/IN 
+[ that/DT ]
+ {/( 
+[ idea/NN ]
+ }/) from/IN 
+[ Ford/NNP ]
+or/CC 
+[ anyone/NN ]
+else/RB ,/, ''/'' 
+[ Mr./NNP Blythe/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ The/DT terms/NNS ]
+
+[ he/PRP ]
+was/VBD seeking/VBG would/MD give/VB 
+[ a/DT very/JJ minority/NN benefit/NN ]
+to/TO 
+[ Ford/NNP ]
+in/IN 
+[ exchange/NN ]
+for/IN 
+[ a/DT big/JJ investment/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Ford/NNP ]
+wants/VBZ 
+[ more/JJR ]
+./. 
+
+[ Mr./NNP Blythe/NNP ]
+hinted/VBD that/IN 
+[ the/DT U.S./NNP car/NN producer/NN ]
+ultimately/RB might/MD offer/VB 
+[ Jaguar/NNP ]
+
+[ a/DT deal/NN ]
+along/IN 
+[ the/DT lines/NNS ]
+of/IN 
+[ its/PRP$ 1987/CD purchase/NN ]
+of/IN 
+[ a/DT 75/CD %/NN stake/NN ]
+in/IN 
+[ Aston/NNP Martin/NNP Lagonda/NNP Ltd/NNP ]
+./. 
+
+[ Ford/NNP ]
+does/VBZ n't/RB meddle/VB with/IN 
+[ management/NN decision-making/NN ]
+,/, but/CC ``/`` has/VBZ brought/VBN 
+[ tremendous/JJ security/NN ]
+to/TO 
+[ a/DT company/NN ]
+
+[ that/WDT ]
+had/VBD for/IN 
+[ 20/CD years/NNS ]
+lived/VBD 
+[ a/DT very/RB precarious/JJ life/NN ]
+,/, ''/'' said/VBD 
+[ Victor/NNP Gauntlett/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT tiny/JJ U.K./NNP car/NN maker/NN ]
+./. 
+
+======================================
+
+[ Jaguar/NNP ]
+is/VBZ n't/RB interested/VBN in/IN 
+[ an/DT Aston/NNP Martin-type/JJ deal/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+do/VBP n't/RB own/VB very/RB much/RB if/IN 
+[ you/PRP ]
+only/RB own/VBP 
+[ 25/CD %/NN ]
+,/, ''/'' said/VBD 
+[ a/DT spokesman/NN ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+,/, meanwhile/RB ,/, is/VBZ marshaling/VBG 
+[ its/PRP$ forces/NNS ]
+for/IN 
+[ what/WP ]
+could/MD be/VB 
+[ a/DT long/JJ ]
+and/CC 
+[ costly/JJ siege/NN ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ courting/VBG 
+[ British/JJ government/NN officials/NNS ]
+,/, and/CC 
+[ hand-delivered/JJ letters/NNS ]
+to/TO 
+[ many/JJ Tuesday/NNP ]
+./. 
+
+[ Ford/NNP officials/NNS ]
+also/RB briefed/VBD 
+[ London/NNP analysts/NNS late/JJ yesterday/NN afternoon/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ we/PRP ]
+'d/MD use/VB 
+[ the/DT government/NN ]
+to/TO 
+[ pressure/NN ]
+
+[ him/PRP ]
+ {/( 
+[ Sir/NNP John/NNP ]
+ }/) into/IN being/VBG 
+[ cooperative/JJ ]
+,/, ''/'' 
+[ Mr./NNP Blythe/NNP ]
+said/VBD ./. 
+
+But/CC by/IN promoting/VBG 
+[ its/PRP$ role/NN ]
+as/IN 
+[ Britain/NNP 's/POS biggest/JJS car/NN maker/NN ]
+,/, 
+[ Ford/NNP ]
+hopes/VBZ to/TO convince/VB 
+[ the/DT government/NN ]
+that/IN 
+[ it/PRP ]
+should/MD n't/RB impose/VB 
+[ additional/JJ anti-takeover/JJ protections/NNS ]
+for/IN 
+[ Jaguar/NNP ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+will/MD raise/VB 
+[ its/PRP$ Jaguar/NNP stake/NN ]
+to/TO 
+[ the/DT maximum/JJ 15/CD %/NN ]
+after/IN 
+[ the/DT 30-day/JJ waiting/NN period/NN ]
+expires/VBZ ,/, 
+[ the/DT Ford/NNP executive/NN ]
+said/VBD ./. 
+
+======================================
+
+But/CC 
+[ Ford/NNP ]
+might/MD withdraw/VB if/IN 
+[ a/DT bidding/NN war/NN ]
+inflated/VBD 
+[ Jaguar/NNP 's/POS price/NN ]
+too/RB much/RB ./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ 
+[ a/DT price/NN ]
+above/IN 
+[ which/WDT ]
+
+[ Ford/NNP ]
+wo/MD n't/RB go/VB ,/, ''/'' 
+[ Mr./NNP Blythe/NNP ]
+said/VBD ,/, declining/VBG to/TO specify/VB 
+[ that/DT price/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP n't/RB interested/VBN in/IN 
+[ Jaguar/NNP ]
+at/IN 
+[ any/DT price/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Paul/NNP Ingrassia/NNP ]
+in/IN 
+[ Detroit/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

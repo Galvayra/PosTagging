@@ -1,0 +1,964 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Once/RB ,/, 
+[ chicken/NN magnate/NN Frank/NNP Perdue/NNP ]
+flaunted/VBD 
+[ what/WP ]
+
+[ he/PRP ]
+did/VBD right/RB :/: ``/`` 
+[ It/PRP ]
+takes/VBZ 
+[ a/DT tough/JJ man/NN ]
+to/TO make/VB 
+[ a/DT tender/JJ chicken/NN ]
+,/, ''/'' 
+[ his/PRP$ ads/NNS ]
+boasted/VBD ./. 
+
+[ Nothing/NN ]
+has/VBZ changed/VBN about/IN 
+[ Perdue/NNP Farms/NNPS Inc./NNP 's/POS chickens/NNS ]
+,/, but/CC 
+[ something/NN ]
+has/VBZ changed/VBN in/IN 
+[ its/PRP$ attitude/NN ]
+./. 
+
+[ Today/NN ]
+,/, 
+[ Mr./NNP Perdue/NNP ]
+begs/VBZ 
+[ customers/NNS ]
+to/TO tell/VB 
+[ him/PRP ]
+where/WRB 
+[ he/PRP ]
+'s/VBZ going/VBG 
+[ wrong/JJ ]
+:/: ``/`` Do/VBP n't/RB just/RB sit/VB there/RB ,/, ''/'' 
+[ he/PRP ]
+tells/VBZ 
+[ viewers/NNS ]
+./. 
+
+``/`` Come/VB on/RB --/: let/VB 
+[ me/PRP ]
+have/VB 
+[ it/PRP ]
+./. 
+
+[ I/PRP ]
+can/MD take/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Perdue/NNP ]
+and/CC 
+[ many/JJ other/JJ companies/NNS ]
+are/VBP out/IN to/TO turn/VB 
+[ customer/NN service/NN ]
+--/: 
+[ a/DT subject/NN ]
+of/IN 
+[ relentless/JJ complaint/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+--/: into/IN 
+[ a/DT marketing/NN opportunity/NN ]
+./. 
+
+[ They/PRP ]
+are/VBP scrambling/VBG to/TO find/VB out/RB 
+[ what/WP ]
+'s/VBZ on/IN 
+[ their/PRP$ customers/NNS '/POS minds/NNS ]
+,/, even/RB if/IN 
+[ it/PRP ]
+'s/VBZ 
+[ bad/JJ news/NN ]
+--/: 
+[ an/DT approach/NN consultants/NNS ]
+label/VBP ``/`` 
+[ customer/NN focus/NN ]
+''/'' or/CC ``/`` getting/VBG close/RB to/TO 
+[ the/DT customer/NN ]
+./. 
+
+''/'' And/CC 
+[ they/PRP ]
+'re/VBP trying/VBG to/TO act/VB on/IN 
+[ what/WP ]
+
+[ they/PRP ]
+learn/VBP ./. 
+
+======================================
+
+But/CC 
+[ it/PRP ]
+'s/VBZ still/RB easier/JJR to/TO talk/VB about/IN serving/VBG 
+[ the/DT customer/NN ]
+than/IN to/TO do/VB 
+[ it/PRP ]
+./. 
+
+``/`` Better/JJR than/IN 
+[ 50/CD %/NN ]
+ {/( of/IN 
+[ companies/NNS ]
+ }/) are/VBP saying/VBG 
+[ they/PRP ]
+have/VBP to/TO get/VB closer/RBR to/TO 
+[ their/PRP$ customers/NNS ]
+,/, while/IN only/RB 
+[ 5/CD %/NN ]
+to/TO 
+[ 10/CD %/NN ]
+are/VBP doing/VBG 
+[ the/DT work/NN ]
+
+[ it/PRP ]
+takes/VBZ to/TO get/VB there/RB ,/, ''/'' says/VBZ 
+[ Thomas/NNP Arenberg/NNP ]
+of/IN 
+[ Arthur/NNP Andersen/NNP ]
+&/CC 
+[ Co./NNP ]
+in/IN 
+[ Milwaukee/NNP ]
+./. 
+
+======================================
+
+[ A/DT growing/VBG number/NN ]
+of/IN 
+[ companies/NNS ]
+,/, however/RB ,/, are/VBP backing/VBG up/RP 
+[ their/PRP$ assertions/NNS ]
+with/IN 
+[ actions/NNS ]
+./. 
+
+In/IN 
+[ the/DT past/JJ year/NN ]
+,/, 
+[ Motorola/NNP Corp./NNP ]
+gave/VBD 
+[ its/PRP$ 250/CD top/JJ executives/NNS beepers/NNS ]
+to/TO keep/VB 
+[ them/PRP ]
+in/IN 
+[ touch/NN ]
+with/IN 
+[ customers/NNS ]
+around/IN 
+[ the/DT clock/NN ]
+;/: 
+[ CUNA/NNP Mutual/NNP Insurance/NNP Group/NNP ]
+of/IN 
+[ Madison/NNP ]
+,/, 
+[ Wis./NNP ]
+,/, changed/VBD 
+[ some/DT claims-processing/NN procedures/NNS ]
+after/IN 
+[ senior/JJ executives/NNS ]
+were/VBD required/VBN to/TO spend/VB 
+[ two/CD weeks/NNS ]
+working/VBG for/IN 
+[ some/DT top/JJ customers/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Customer/NN satisfaction/NN ]
+is/VBZ 
+[ the/DT No./NN 1/CD thing/NN ]
+
+[ that/WDT ]
+drives/VBZ 
+[ market/NN share/NN ]
+,/, ''/'' says/VBZ 
+[ David/NNP Kearns/NNP ]
+,/, 
+[ chief/JJ executive/NN ]
+of/IN 
+[ Xerox/NNP Corp/NNP ]
+./. 
+
+``/`` 
+[ The/DT customer/NN ]
+is/VBZ 
+[ the/DT reason/NN ]
+
+[ we/PRP ]
+exist/VBP ./. 
+
+''/'' 
+[ Last/JJ year/NN ]
+,/, says/VBZ 
+[ Mr./NNP Kearns/NNP ]
+,/, 
+[ Xerox/NNP ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+refused/VBD to/TO bolster/VB sagging/VBG 
+[ profits/NNS ]
+by/IN 
+[ cutting/VBG customer/NN service/NN ]
+--/: and/CC indeed/RB improved/JJ 
+[ response/NN time/NN ]
+on/IN 
+[ repair/NN calls/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT recent/JJ survey/NN ]
+by/IN 
+[ Forum/NNP Corp./NNP ]
+,/, 
+[ a/DT Boston/NNP consulting/NN company/NN ]
+,/, 
+[ 86/CD %/NN ]
+of/IN 
+[ 611/CD Fortune/NNP 500/CD senior/JJ executives/NNS ]
+polled/VBD named/VBN ``/`` 
+[ quality/NN ]
+of/IN 
+[ customer/NN service/NN ]
+''/'' as/IN ``/`` extremely/RB 
+[ important/JJ ]
+''/'' to/TO 
+[ their/PRP$ company/NN ]
+and/CC 
+[ a/DT higher/JJR priority/NN ]
+than/IN 
+[ 10/CD other/JJ items/NNS ]
+,/, including/VBG 
+[ productivity/NN ]
+and/CC 
+[ company/NN reputation/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ up/RB from/IN 
+[ 68/CD %/NN ]
+
+[ who/WP ]
+cited/VBD 
+[ customer/NN service/NN ]
+as/IN ``/`` extremely/RB 
+[ important/JJ ]
+''/'' in/IN 
+[ 1986/CD ]
+,/, 
+[ Forum/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT reason/NN ]
+for/IN 
+[ the/DT new/JJ emphasis/NN ]
+is/VBZ 
+[ simple/JJ ]
+:/: 
+[ Companies/NNS ]
+increasingly/RB are/VBP finding/VBG 
+[ that/DT bad/JJ service/NN costs/NNS customers/NNS ]
+./. 
+
+[ Seven/CD ]
+of/IN 
+[ 10/CD customers/NNS ]
+
+[ who/WP ]
+switch/VBP from/IN 
+[ one/CD company/NN ]
+to/TO 
+[ a/DT competitor/NN ]
+cite/VBP 
+[ poor/JJ service/NN ]
+--/: not/RB 
+[ price/NN ]
+or/CC 
+[ quality/NN ]
+--/: as/IN 
+[ the/DT reason/NN ]
+,/, 
+[ Forum/NNP surveys/NNS ]
+found/VBD ./. 
+
+[ Good/JJ service/NN ]
+,/, on/IN 
+[ the/DT other/JJ hand/NN ]
+,/, boosts/VBZ 
+[ revenue/NN ]
+:/: 
+[ Harvey/NNP N./NNP Shycon/NNP Consultants/NNP ]
+,/, 
+[ a/DT marketing/NN consulting/NN company/NN ]
+in/IN 
+[ Waltham/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, figures/VBZ that/IN 
+[ a/DT 1/CD %/NN increase/NN ]
+in/IN 
+[ customer/NN service/NN ]
+--/: in/IN 
+[ such/JJ measurable/JJ areas/NNS ]
+as/IN 
+[ reliability/NN ]
+of/IN 
+[ delivery/NN ]
+and/CC 
+[ time/NN ]
+needed/VBN to/TO fill/VB 
+[ orders/NNS ]
+--/: can/MD increase/VB 
+[ sales/NNS ]
+by/IN 
+[ the/DT same/JJ amount/NN ]
+./. 
+
+======================================
+
+[ Many/JJ companies/NNS struggle/NN ]
+with/IN 
+[ service/NN ]
+because/IN 
+[ they/PRP ]
+have/VBP n't/RB effectively/RB tracked/VBN 
+[ customer/NN satisfaction/NN ]
+./. 
+
+[ Traditional/JJ market-research/NN departments/NNS ]
+,/, 
+[ which/WDT ]
+gathered/VBD 
+[ information/NN ]
+on/IN 
+[ trends/NNS ]
+,/, 
+[ demographics/NNS ]
+or/CC 
+[ market/NN segments/NNS ]
+,/, did/VBD n't/RB determine/VB whether/IN 
+[ customers/NNS ]
+actually/RB got/VBD 
+[ what/WP ]
+
+[ they/PRP ]
+wanted/VBD ./. 
+
+``/`` 
+[ A/DT printout/NN ]
+will/MD tell/VB 
+[ you/PRP ]
+
+[ what/WDT color/NN customers/NNS ]
+are/VBP buying/VBG ,/, but/CC not/RB 
+[ what/WP color/NN ]
+
+[ they/PRP ]
+asked/VBD for/IN {/( 
+[ that/DT ]
+ }/) 
+[ you/PRP ]
+did/VBD n't/RB have/VB ,/, ''/'' says/VBZ 
+[ an/DT official/NN ]
+of/IN 
+[ Limited/NNP Inc./NNP ]
+,/, 
+[ the/DT specialty/NN retailer/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ years/NNS ]
+,/, 
+[ GTE/NNP Corp./NNP 's/POS telephone/NN operations/NNS ]
+rigorously/RB sampled/VBN 
+[ customers/NNS ]
+to/TO find/VB out/RB how/WRB 
+[ happy/JJ they/PRP ]
+were/VBD with/IN 
+[ the/DT company/NN 's/POS service/NN ]
+./. 
+
+Then/RB ,/, in/IN 
+[ 1984/CD ]
+,/, 
+[ GTE/NNP ]
+started/VBD 
+[ a/DT program/NN ]
+of/IN 
+[ focus/NN groups/NNS ]
+,/, 
+[ personal/JJ ]
+interviewing/NN and/CC 
+[ statistical/JJ analysis/NN ]
+to/TO find/VB out/IN if/IN 
+[ it/PRP ]
+was/VBD asking/VBG 
+[ the/DT right/JJ questions/NNS ]
+./. 
+
+In/IN 
+[ many/JJ cases/NNS ]
+,/, 
+[ it/PRP ]
+
+[ was/VBD n't/RB ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+had/VBD stressed/VBN 
+[ things/NNS ]
+like/IN 
+[ the/DT appearance/NN ]
+of/IN 
+[ its/PRP$ employees/NNS ]
+and/CC 
+[ the/DT importance/NN ]
+of/IN being/VBG 
+[ a/DT full-service/JJ provider/NN ]
+./. 
+
+Instead/RB ,/, says/VBZ 
+[ Michael/NNP English/NNP ]
+,/, 
+[ a/DT GTE/NNP quality/NN official/NN ]
+,/, 
+[ customers/NNS ]
+``/`` wanted/VBD 
+[ reliability/NN ]
+in/IN 
+[ an/DT emergency/NN situation/NN ]
+,/, 
+[ they/PRP ]
+wanted/VBD 
+[ better/JJR maintenance/NN hours/NNS ]
+./. 
+
+[ They/PRP ]
+wanted/VBD 
+[ higher/JJR reliability/NN ]
+of/IN 
+[ transmission/NN quality/NN ]
+./. 
+
+''/'' 
+======================================
+
+Sometimes/RB ,/, 
+[ customer/NN responses/NNS ]
+can/MD be/VB misleading/JJ ./. 
+
+[ John/NNP A./NN Goodman/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ TARP/NNP ]
+,/, 
+[ a/DT consulting/NN firm/NN ]
+in/IN 
+[ Washington/NNP ]
+,/, cites/VBZ 
+[ customer/NN statements/NNS ]
+that/IN 
+[ friendly/JJ service/NN ]
+in/IN 
+[ a/DT bank/NN ]
+is/VBZ important/JJ ./. 
+
+[ A/DT more/RBR detailed/JJ survey/NN ]
+,/, however/RB ,/, found/VBD that/IN while/IN 
+[ unfriendly/JJ service/NN ]
+alienated/VBD 
+[ customers/NNS ]
+,/, 
+[ courtesy/NN ]
+alone/RB did/VBD n't/RB satisfy/VB 
+[ them/PRP ]
+./. 
+
+======================================
+
+To/TO try/VB to/TO find/VB out/RB 
+[ what/WP ]
+pleased/VBD 
+[ one/CD group/NN ]
+of/IN 
+[ customers/NNS ]
+--/: 
+[ retail/JJ buyers/NNS ]
+--/: 
+[ Harvey/NNP Shycon/NNP ]
+of/IN 
+[ Harvey/NNP N./NNP Shycon/NNP Consultants/NNPS ]
+used/VBD 
+[ statistical/JJ analysis/NN ]
+to/TO correlate/VB 
+[ different/JJ kinds/NNS ]
+of/IN 
+[ service/NN ]
+with/IN 
+[ changes/NNS ]
+in/IN 
+[ purchases/NNS ]
+./. 
+
+[ He/PRP ]
+found/VBD that/IN while/IN 
+[ manufacturers/NNS ]
+presumed/VBD 
+[ buyers/NNS ]
+favored/VBD 
+[ high-profit-margin/JJ products/NNS ]
+,/, 
+[ the/DT buyers/NNS ]
+really/RB wanted/VBD 
+[ reliability/NN ]
+./. 
+
+``/`` 
+[ They/PRP ]
+like/VBP 
+[ suppliers/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB cause/VB 
+[ them/PRP problems/NNS ]
+,/, do/VBP n't/RB 
+[ short/RB ship/VB ]
+and/CC do/VBP n't/RB ship/VB late/RB ,/, and/CC 
+[ they/PRP ]
+tend/VBP to/TO favor/VB 
+[ such/JJ suppliers/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Companies/NNS ]
+also/RB are/VBP trying/VBG to/TO wrest/VB 
+[ customer/NN service/NN ]
+from/IN 
+[ low-level/JJ ]
+,/, 
+[ untrained/JJ personnel/NNS ]
+./. 
+
+In/IN 
+[ Philadelphia/NNP ]
+,/, 
+[ Fidelity/NNP Bank/NNP ]
+raised/VBD 
+[ the/DT average/JJ annual/JJ salary/NN ]
+of/IN 
+[ its/PRP$ 100/CD customer-service/NN representatives/NNS 58/CD %/NN ]
+to/TO 
+[ $/$ 19,000/CD ]
+and/CC authorized/VBD 
+[ them/PRP ]
+to/TO resolve/VB 
+[ problems/NNS ]
+involving/VBG 
+[ sums/NNS ]
+up/RB to/TO 
+[ $/$ 1,000/CD ]
+;/: before/IN ,/, 
+[ they/PRP ]
+had/VBD to/TO get/VB 
+[ a/DT supervisor/NN 's/POS approval/NN ]
+to/TO resolve/VB 
+[ any/DT problem/NN involving/VBG money/NN ]
+./. 
+
+[ A/DT survey/NN ]
+taken/VBN after/IN 
+[ Fidelity/NNP ]
+made/VBD that/IN 
+[ change/NN ]
+and/CC centralized/VBN 
+[ its/PRP$ customer-service/NN operation/NN ]
+found/VBD over/IN 
+[ 90/CD %/NN ]
+of/IN 
+[ customers/NNS ]
+would/MD recommend/VB 
+[ the/DT bank/NN ]
+to/TO 
+[ a/DT friend/NN ]
+,/, up/RB from/IN 
+[ 65/CD %/NN ]
+previously/RB ./. 
+
+======================================
+
+[ One/CD ]
+of/IN 
+[ the/DT first/JJ places/NNS companies/NNS ]
+look/VB to/TO improve/VB 
+[ service/NN ]
+is/VBZ 
+[ response/NN time/NN ]
+./. 
+
+When/WRB 
+[ Motorola/NNP ]
+was/VBD supplying/VBG 
+[ microprocessors/NNS ]
+for/IN 
+[ Steve/NNP Jobs/NNP 's/POS new/JJ Next/NNP computer/NN ]
+,/, 
+[ George/NNP Fisher/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+of/IN 
+[ the/DT Schaumburg/NNP ]
+,/, 
+[ Ill./NNP ]
+,/, 
+[ company/NN ]
+,/, made/VBD 
+[ a/DT point/NN ]
+of/IN returning/VBG 
+[ Mr./NNP Jobs/NNP 's/POS frequent/JJ calls/NNS ]
+within/IN 
+[ five/CD ]
+to/TO 
+[ 10/CD minutes/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+showed/VBD 
+[ we/PRP ]
+not/RB only/RB could/MD help/VB 
+[ him/PRP ]
+,/, but/CC 
+[ we/PRP ]
+were/VBD really/RB interested/JJ in/IN 
+[ his/PRP$ business/NN ]
+,/, ''/'' 
+[ Mr./NNP Fisher/NNP ]
+says/VBZ ./. 
+
+[ The/DT company/NN 's/POS executives/NNS ]
+have/VBP been/VBN required/VBN since/IN 
+[ last/JJ year/NN ]
+to/TO carry/VB 
+[ pagers/NNS ]
+and/CC meet/VB 
+[ similar/JJ standards/NNS ]
+./. 
+
+======================================
+
+[ Many/JJ companies/NNS ]
+are/VBP trying/VBG to/TO find/VB 
+[ better/JJR ways/NNS ]
+of/IN 
+[ translating/VBG information/NN ]
+about/IN 
+[ customer/NN problems/NNS ]
+into/IN 
+[ changes/NNS ]
+in/IN how/WRB 
+[ they/PRP ]
+do/VBP 
+[ things/NNS ]
+./. 
+
+[ A/DT computer/NN system/NN ]
+at/IN 
+[ Fidelity/NNP Bank/NNP ]
+tracks/VBZ 
+[ customer/NN complaints/NNS ]
+and/CC tries/VBZ to/TO establish/VB 
+[ a/DT cause/NN ]
+./. 
+
+[ The/DT system/NN ]
+recently/RB flagged/VBD 
+[ a/DT programming/NN error/NN ]
+,/, since/IN corrected/VBN ,/, 
+[ that/WDT ]
+was/VBD producing/VBG 
+[ incorrect/JJ service/NN charges/NNS ]
+./. 
+
+======================================
+
+[ One/CD CUNA/NNP Mutual/NNP executive/NN ]
+,/, after/IN 
+[ a/DT stint/NN ]
+watching/VBG 
+[ a/DT customer/NN ]
+try/VB to/TO get/VB 
+[ a/DT claim/NN ]
+processed/VBN ,/, cut/VBD 
+[ the/DT number/NN ]
+of/IN 
+[ steps/NNS ]
+involved/VBN to/TO 
+[ 20/CD ]
+from/IN 
+[ 39/CD ]
+./. 
+
+[ Another/DT executive/NN ]
+realized/VBD that/IN having/VBG to/TO recite/VB 
+[ policy/NN numbers/NNS ]
+when/WRB calling/VBG 
+[ the/DT company/NN ]
+alienated/VBD 
+[ customers/NNS ]
+;/: now/RB 
+[ CUNA/NNP ]
+uses/VBZ 
+[ last/JJ names/NNS ]
+or/CC 
+[ Social/NNP Security/NNP numbers/NNS ]
+to/TO identify/VB at/IN 
+[ least/JJS ]
+
+[ some/DT policyholders/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT most/RBS competitive/JJ companies/NNS ]
+are/VBP trying/VBG to/TO anticipate/VB 
+[ what/WP ]
+
+[ their/PRP$ customers/NNS ]
+want/VBP before/IN 
+[ they/PRP ]
+ever/RB write/VBP 
+[ a/DT check/NN ]
+,/, ''/'' says/VBZ 
+[ Diane/NNP Hessan/NNP ]
+,/, 
+[ a/DT Forum/NNP senior/JJ vice/NN president/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ manufacturers/NNS ]
+,/, 
+[ customer/NN focus/NN ]
+involves/VBZ 
+[ nothing/NN ]
+less/JJR than/IN producing/VBG 
+[ better/JJR products/NNS ]
+faster/RBR at/IN 
+[ cheaper/JJR cost/NN ]
+./. 
+
+``/`` 
+[ User-friendly/JJ ]
+is/VBZ n't/RB enough/RB anymore/RB ,/, ''/'' says/VBZ 
+[ Arthur/NNP Andersen/NNP 's/POS Mr./NNP Arenberg/NNP ]
+./. 
+
+``/`` 
+[ You/PRP ]
+'ve/VBP got/VBD to/TO be/VB user-inviting/JJ ''/'' with/IN 
+[ error-free/JJ products/NNS ]
+and/CC 
+[ delivery/NN systems/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/JJ 18/CD months/NNS ]
+,/, 
+[ Corning/NNP Inc./NNP ]
+has/VBZ sent/VBN 
+[ teams/NNS ]
+to/TO 
+[ big/JJ customers/NNS ]
+to/TO find/VB 
+[ glitches/NNS ]
+
+[ that/WDT ]
+annoy/VBP 
+[ them/PRP ]
+./. 
+
+On/IN 
+[ one/CD visit/NN ]
+,/, 
+[ a/DT team/NN ]
+found/VBD that/IN 
+[ chips/NNS ]
+in/IN 
+[ ceramic/JJ products/NNS ]
+,/, 
+[ which/WDT ]
+
+[ the/DT company/NN ]
+had/VBD blamed/VBN on/IN 
+[ shippers/NNS ]
+,/, were/VBD actually/RB caused/VBN in/IN 
+[ production/NN ]
+./. 
+
+[ Corning/NNP ]
+solved/VBD 
+[ the/DT problem/NN ]
+,/, pleasing/VBG 
+[ the/DT customer/NN ]
+and/CC saving/VBG 
+[ itself/PRP ]
+
+[ costs/NNS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+had/VBD been/VBN expensive/JJ ,/, because/IN 
+[ the/DT customer/NN ]
+had/VBD been/VBN charging/VBG 
+[ us/PRP ]
+''/'' for/IN 
+[ the/DT breakage/NN ]
+,/, says/VBZ 
+[ David/NNP B./NNP Luther/NNP ]
+,/, 
+[ Corning/NNP 's/POS corporate/JJ director/NN ]
+of/IN 
+[ quality/NN ]
+./. 
+
+======================================
+
+[ Xerox/NNP last/JJ year/NN ]
+delayed/VBD 
+[ the/DT release/NN ]
+of/IN 
+[ a/DT copier/NN ]
+until/IN 
+[ it/PRP ]
+was/VBD good/JJ enough/RB to/TO meet/VB 
+[ customer/NN standards/NNS ]
+for/IN 
+[ paper/NN ]
+jamming/NN ./. 
+
+In/IN 
+[ the/DT past/NN ]
+,/, says/VBZ 
+[ the/DT company/NN 's/POS Mr./NNP Kearns/NNP ]
+,/, 
+[ Xerox/NNP ]
+would/MD have/VB rolled/VBN out/RP 
+[ the/DT new/JJ model/NN ]
+anyway/RB because/IN 
+[ it/PRP ]
+jammed/VBD less/RBR often/RB than/IN 
+[ competitors/NNS '/POS machines/NNS ]
+./. 
+
+======================================
+
+[ GenCorp/NNP Inc./NNP 's/POS automotive/JJ division/NN ]
+has/VBZ overhauled/VBN 
+[ the/DT way/NN ]
+
+[ it/PRP ]
+designs/VBZ and/CC makes/VBZ 
+[ such/JJ products/NNS ]
+as/IN 
+[ automobile/NN ]
+sealing/NN 
+[ systems/NNS ]
+./. 
+
+Previously/RB ,/, 
+[ General/NNP Motors/NNPS Corp./NNP ]
+,/, 
+[ its/PRP$ biggest/JJS customer/NN ]
+,/, would/MD design/VB on/IN 
+[ its/PRP$ own/JJ the/DT sheet-metal/NN frame/NN ]
+for/IN 
+[ GenCorp/NNP 's/POS sealing/NN system/NN ]
+./. 
+
+But/CC over/IN 
+[ the/DT past/NN year/NN ]
+,/, 
+[ engineers/NNS ]
+at/IN 
+[ the/DT two/CD companies/NNS ]
+have/VBP worked/VBN 
+[ side/RB ]
+by/IN 
+[ side/RB ]
+designing/VBG 
+[ parts/NNS ]
+
+[ that/WDT ]
+fit/VBP together/RB ./. 
+
+``/`` 
+[ It/PRP ]
+used/VBD to/TO be/VB nearly/RB impossible/JJ to/TO get/VB 
+[ our/PRP$ seals/NNS ]
+to/TO fit/VB 
+[ GM/NNP 's/POS sheet/NN metal/NN ]
+--/: and/CC 
+[ the/DT consumer/NN ]
+ended/VBD up/RB with/IN 
+[ noisy/JJ ]
+,/, leaking/JJ 
+[ cars/NNS ]
+,/, ''/'' says/VBZ 
+[ Marvin/NNP Isles/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ GenCorp/NNP 's/POS automotive/JJ unit/NN ]
+./. 
+
+But/CC working/VBG together/RB ,/, ``/`` 
+[ we/PRP ]
+'ve/VBP been/VBN able/JJ to/TO significantly/RB improve/VB 
+[ quality/NN ]
+and/CC also/RB reduce/VB 
+[ costs/NNS ]
+./. 

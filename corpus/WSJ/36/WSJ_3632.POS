@@ -1,0 +1,390 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT federal/JJ judge/NN ]
+dismissed/VBD 
+[ a/DT crucial/JJ claim/NN ]
+in/IN 
+[ a/DT major/JJ sex-discrimination/NN case/NN ]
+
+[ that/WDT ]
+threatened/VBD to/TO cost/VB 
+[ the/DT state/NN ]
+of/IN 
+[ California/NNP billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+in/IN 
+[ lost/JJ wages/NNS ]
+for/IN 
+[ thousands/NNS ]
+of/IN 
+[ past/JJ ]
+and/CC 
+[ current/JJ state/NN women/NNS employees/NNS ]
+./. 
+
+======================================
+
+[ The/DT decision/NN ]
+also/RB is/VBZ 
+[ a/DT further/JJR setback/NN ]
+for/IN 
+[ proponents/NNS ]
+of/IN ``/`` 
+[ comparable/JJ worth/NN ]
+''/'' --/: 
+[ the/DT notion/NN ]
+that/WDT 
+[ jobs/NNS ]
+dominated/VBN by/IN 
+[ women/NNS ]
+should/MD demand/VB 
+[ salaries/NNS ]
+
+[ that/WDT ]
+are/VBP equal/JJ to/TO 
+[ those/DT ]
+paid/VBN for/IN 
+[ jobs/NNS ]
+dominated/VBN by/IN 
+[ men/NNS ]
+,/, whenever/WRB 
+[ similar/JJ responsibilities/NNS ]
+are/VBP involved/VBN ./. 
+
+[ Recent/JJ legal/JJ decisions/NNS ]
+in/IN 
+[ other/JJ cases/NNS ]
+have/VBP made/VBN 
+[ it/PRP ]
+increasingly/RB difficult/JJ for/IN 
+[ women/NNS ]
+to/TO win/VB 
+[ such/JJ suits/NNS ]
+./. 
+
+======================================
+
+[ The/DT decision/NN yesterday/NN ]
+by/IN 
+[ San/NNP Francisco/NNP federal/JJ Judge/NNP Marilyn/NNP Patel/NNP ]
+essentially/RB rejected/VBD 
+[ what/WP some/DT ]
+had/VBD considered/VBN 
+[ a/DT backdoor/JJ attack/NN ]
+on/IN 
+[ disparate/JJ wage/NN patterns/NNS ]
+by/IN focusing/VBG on/IN 
+[ historic/JJ discrimination/NN patterns/NNS ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+was/VBD filed/VBN in/IN 
+[ 1984/CD ]
+by/IN 
+[ the/DT California/NNP State/NNP Employees/NNP '/POS Association/NN ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ an/DT estimated/JJ 60,000/CD past/NN ]
+and/CC 
+[ present/JJ secretaries/NNS ]
+,/, 
+[ clerks/NNS ]
+,/, 
+[ nurses/NNS ]
+and/CC 
+[ others/NNS ]
+in/IN predominantly/RB 
+[ female/JJ state/NN jobs/NNS ]
+./. 
+
+[ The/DT suit/NN ]
+contended/VBD that/IN 
+[ those/DT jobs/NNS ]
+had/VBD been/VBN deliberately/RB underpaid/VBN for/IN 
+[ decades/NNS ]
+because/IN 
+[ the/DT employees/NNS ]
+were/VBD 
+[ women/NNS ]
+./. 
+
+[ The/DT state/NN ]
+denied/VBD 
+[ discrimination/NN ]
+and/CC said/VBD 
+[ any/DT differences/NNS ]
+in/IN 
+[ pay/NN scales/NNS ]
+reflected/VBD 
+[ market/NN rates/NNS ]
+./. 
+
+======================================
+
+[ The/DT state/NN employees/NNS ]
+sought/VBD to/TO prove/VB that/IN 
+[ California/NNP ]
+had/VBD 
+[ a/DT history/NN ]
+of/IN discriminating/VBG against/IN 
+[ them/PRP ]
+dating/VBG to/TO 
+[ the/DT 1930s/NNS ]
+./. 
+
+But/CC 
+[ Judge/NNP Patel/NNP ]
+ruled/VBD that/IN 
+[ the/DT evidence/NN ]
+failed/VBD to/TO document/VB 
+[ deliberate/JJ ]
+and/CC 
+[ systematic/JJ bias/NN ]
+./. 
+
+======================================
+
+[ Judge/NNP Patel/NNP ]
+said/VBD 
+[ she/PRP ]
+would/MD consider/VB 
+[ arguments/NNS ]
+that/IN 
+[ state/NN policies/NNS ]
+had/VBD 
+[ the/DT effect/NN ]
+of/IN illegally/RB holding/VBG down/RP 
+[ wages/NNS ]
+for/IN 
+[ women/NNS ]
+,/, in/IN 
+[ the/DT absence/NN ]
+of/IN 
+[ discriminatory/JJ intent/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ such/JJ suits/NNS ]
+have/VBP proven/VBN increasingly/RB difficult/JJ for/IN 
+[ plaintiffs/NNS ]
+./. 
+
+[ Last/JJ June/NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, 
+[ the/DT U.S./NNP Supreme/NNP Court/NNP ]
+cast/VBD 
+[ doubt/NN ]
+whether/IN 
+[ statistical/JJ evidence/NN ]
+alone/RB ,/, for/IN 
+[ instance/NN ]
+,/, was/VBD sufficient/JJ to/TO establish/VB 
+[ employment/NN discrimination/NN ]
+./. 
+
+======================================
+
+[ The/DT state/NN employees/NNS '/POS group/NN ]
+said/VBD 
+[ it/PRP ]
+was/VBD ``/`` shocked/JJ and/CC disappointed/JJ ''/'' at/IN 
+[ the/DT decision/NN ]
+by/IN 
+[ Judge/NNP Patel/NNP ]
+,/, 
+[ a/DT former/JJ lawyer/NN ]
+for/IN 
+[ the/DT National/NNP Organization/NNP ]
+for/IN 
+[ Women/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+certainly/RB can/MD not/RB believe/VB 
+[ that/DT sex/NN discrimination/NN ]
+was/VBD eliminated/VBN in/IN 
+[ 1937/CD ]
+,/, nor/CC that/IN 
+[ it/PRP ]
+has/VBZ been/VBN eliminated/VBN to/TO 
+[ this/DT day/NN ]
+,/, ''/'' said/VBD 
+[ Margaret/NNP Dean/NNP ]
+,/, 
+[ the/DT association/NN 's/POS president/NN ]
+./. 
+
+======================================
+
+[ The/DT group/NN ]
+said/VBD 
+[ it/PRP ]
+was/VBD considering/VBG whether/IN to/TO appeal/VB ./. 
+
+======================================
+
+[ Christopher/NNP Waddell/NNP ]
+,/, 
+[ chief/JJ counsel/NN ]
+for/IN 
+[ the/DT state/NN Department/NNP ]
+of/IN 
+[ Personnel/NNP Administration/NNP ]
+,/, said/VBD 
+[ the/DT decision/NN ]
+was/VBD ``/`` very/RB significant/JJ in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT future/NN ]
+of/IN 
+[ the/DT lawsuit/NN ]
+./. 
+
+[ A/DT major/JJ element/NN ]
+has/VBZ been/VBN laid/VBN to/TO rest/VB ./. 
+
+''/'' 
+======================================
+
+[ Comparable/JJ worth/NN ]
+has/VBZ been/VBN on/IN 
+[ the/DT ropes/NNS ]
+legally/RB for/IN 
+[ several/JJ years/NNS ]
+./. 
+
+In/IN 
+[ 1985/CD ]
+,/, for/IN 
+[ instance/NN ]
+,/, 
+[ the/DT 9th/NNP U.S./NNP Circuit/NNP Court/NNP ]
+of/IN 
+[ Appeals/NNP ]
+,/, based/VBN in/IN 
+[ San/NNP Francisco/NNP ]
+,/, held/VBD 
+[ that/IN lower/JJR pay/NN ]
+for/IN 
+[ female-dominated/JJ jobs/NNS ]
+based/VBN on/IN 
+[ prevailing/JJ market/NN levels/NNS ]
+was/VBD legal/JJ ,/, overturning/VBG 
+[ a/DT lower-court/JJ decision/NN ]
+
+[ that/WDT ]
+had/VBD awarded/VBN 
+[ $/$ 400/CD million/CD ]
+in/IN 
+[ lost/JJ pay/NN ]
+to/TO 
+[ female/JJ employees/NNS ]
+in/IN 
+[ Washington/NNP state/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT basic/JJ concept/NN ]
+of/IN 
+[ comparable/JJ worth/NN ]
+has/VBZ been/VBN very/RB dormant/JJ over/IN 
+[ the/DT last/JJ few/JJ years/NNS ]
+,/, because/IN 
+[ the/DT underlying/JJ theory/NN ]
+that/IN 
+[ there/EX ]
+is/VBZ 
+[ an/DT entitlement/NN ]
+to/TO 
+[ comparable/JJ worth/NN ]
+has/VBZ never/RB been/VBN bought/VBN by/IN 
+[ the/DT courts/NNS ]
+generally/RB ,/, ''/'' said/VBD 
+[ Victor/NNP Schachter/NNP ]
+,/, 
+[ a/DT San/NNP Francisco/NNP labor/NN lawyer/NN ]
+./. 
+
+======================================
+
+Much/JJ of/IN 
+[ the/DT evidence/NN ]
+that/IN 
+[ the/DT employees/NNS '/POS group/NN ]
+offered/VBD of/IN 
+[ deliberate/JJ discrimination/NN ]
+came/VBD from/IN 
+[ the/DT 1930s/NNS ]
+,/, when/WRB 
+[ the/DT state/NN pay/NN system/NN ]
+was/VBD overhauled/VBN and/CC 
+[ some/DT staffers/NNS ]
+were/VBD quoted/VBN as/IN saying/VBG 
+[ that/DT sex/NN ]
+should/MD influence/VB 
+[ salary/NN levels/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT judge/NN ]
+determined/VBD that/IN 
+[ such/JJ comments/NNS ]
+never/RB reflected/VBD 
+[ the/DT formal/JJ policy/NN ]
+of/IN 
+[ the/DT state/NN ]
+at/IN 
+[ the/DT time/NN ]
+./. 
+
+[ She/PRP ]
+noted/VBD that/IN 
+[ salaries/NNS ]
+in/IN 
+[ female-dominated/JJ jobs/NNS ]
+were/VBD then/RB lower/JJR than/IN in/IN 
+[ some/DT male-dominated/JJ jobs/NNS ]
+,/, but/CC still/RB matched/VBD 
+[ pay/NN ]
+for/IN 
+[ similar/JJ jobs/NNS ]
+in/IN 
+[ the/DT private/JJ sector/NN ]
+./. 
+
+======================================
+
+[ The/DT judge/NN ]
+said/VBD :/: ``/`` 
+[ Plaintiffs``/`` smoking/VBG  guns/NNS '/POS ]
+never/RB held/VBD 
+[ ammunition/NN ]
+./. 

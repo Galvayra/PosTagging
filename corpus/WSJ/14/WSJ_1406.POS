@@ -1,0 +1,46 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Japan/NNP 's/POS wholesale/JJ prices/NNS ]
+in/IN 
+[ the/DT first/JJ 10/CD days/NNS ]
+of/IN 
+[ October/NNP ]
+fell/VBD 
+[ 0.3/CD %/NN ]
+from/IN 
+[ the/DT previous/JJ 10/CD days/NNS ]
+but/CC rose/VBD 
+[ 3.3/CD %/NN ]
+from/IN 
+[ a/DT year/NN ]
+ago/RB ,/, 
+[ the/DT Bank/NNP ]
+of/IN 
+[ Japan/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT wholesale/JJ price/NN index/NN ]
+stood/VBD at/IN 
+[ 89.6/CD ]
+ (/( 
+[ 1985/CD ]
+equals/VBZ 
+[ 100/CD ]
+ )/) ./. 

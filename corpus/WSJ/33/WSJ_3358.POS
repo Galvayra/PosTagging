@@ -1,0 +1,806 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+When/WRB 
+[ Robert/NNP Gates/NNP talks/VBZ ]
+,/, 
+[ Mikhail/NNP Gorbachev/NNP ]
+listens/VBZ ./. 
+
+[ He/PRP ]
+does/VBZ n't/RB always/RB like/VB 
+[ what/WP ]
+
+[ he/PRP ]
+hears/VBZ ,/, but/CC 
+[ he/PRP ]
+listens/VBZ ./. 
+
+======================================
+
+[ Mr./NNP Gates/NNP ]
+is/VBZ 
+[ a/DT longtime/JJ U.S./NNP Sovietologist/NN ]
+
+[ who/WP ]
+now/RB is/VBZ 
+[ President/NNP Bush/NNP 's/POS deputy/NN national/JJ security/NN adviser/NN ]
+./. 
+
+[ A/DT ]
+relatively/RB 
+[ low-profile/JJ official/NN ]
+at/IN 
+[ home/NN ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+was/VBD amazed/VBN to/TO discover/VB on/IN 
+[ a/DT May/NNP visit/NN ]
+to/TO 
+[ the/DT Kremlin/NNP ]
+that/IN 
+[ Mr./NNP Gorbachev/NNP ]
+was/VBD thoroughly/RB familiar/JJ with/IN 
+[ his/PRP$ speeches/NNS ]
+analyzing/VBG 
+[ the/DT enormous/JJ obstacles/NNS ]
+imperiling/VBG 
+[ Gorbachev-era/NN reforms/NNS ]
+./.  
+
+======================================
+
+And/CC while/IN 
+[ critics/NNS ]
+at/IN 
+[ home/NN ]
+chide/VBP 
+[ Mr./NNP Gates/NNP ]
+for/IN being/VBG overly/RB skeptical/JJ in/IN gauging/VBG 
+[ the/DT chances/NNS ]
+that/IN 
+[ Mr./NNP Gorbachev/NNP 's/POS reforms/NNS ]
+will/MD succeed/VB ,/, 
+[ he/PRP ]
+insists/VBZ 
+[ Kremlin/NNP leaders/NNS themselves/PRP ]
+actually/RB share/VBP much/JJ of/IN 
+[ his/PRP$ analysis/NN ]
+./. 
+
+``/`` Without/IN 
+[ getting/VBG specific/JJ ]
+,/, when/WRB 
+[ I/PRP ]
+was/VBD in/IN 
+[ Moscow/NNP I/PRP ]
+was/VBD told/VBN by/IN 
+[ senior/JJ Soviets/NNPS ]
+that/IN 
+[ my/PRP$ appraisal/NN ]
+of/IN 
+[ the/DT problems/NNS they/PRP ]
+face/VBP was/VBD 
+[ a/DT pretty/RB accurate/JJ ]
+
+[ one/NN ]
+,/, ''/'' says/VBZ 
+[ the/DT silver-haired/JJ former/JJ deputy/NN director/NN ]
+of/IN 
+[ Central/NNP Intelligence/NNP ]
+./. 
+
+======================================
+
+[ The/DT fact/NN ]
+that/IN 
+[ the/DT Soviets/NNPS ]
+are/VBP tuned/VBN in/RB to/TO 
+[ Mr./NNP Gates/NNP ]
+underscores/VBZ 
+[ the/DT important/JJ behind-the-scenes/JJ role/NN ]
+
+[ he/PRP ]
+is/VBZ assuming/VBG in/IN 
+[ the/DT Bush/NNP administration/NN ]
+--/: 
+[ a/DT role/NN ]
+
+[ that/WDT ]
+is/VBZ likely/JJ to/TO grow/VB as/IN 
+[ the/DT administration/NN heads/VBZ ]
+toward/IN 
+[ a/DT strategic-arms/NNS treaty/NN ]
+and/CC 
+[ a/DT superpower/NN summit/NN ]
+./. 
+
+[ Mr./NNP Gates/NNP ]
+has/VBZ spent/VBN much/JJ of/IN 
+[ his/PRP$ career/NN ]
+dissecting/VBG 
+[ twists/NNS ]
+and/CC turns/NNS in/IN 
+[ the/DT Soviet/JJ system/NN ]
+,/, and/CC now/RB 
+[ he/PRP ]
+is/VBZ perhaps/RB 
+[ the/DT administration/NN 's/POS main/JJ Soviet/JJ analyst/NN ]
+./. 
+
+======================================
+
+Within/IN 
+[ the/DT White/NNP House/NNP ]
+,/, 
+[ he/PRP ]
+is/VBZ regarded/VBN as/IN 
+[ National/NNP Security/NNP Adviser/NNP Brent/NNP Scowcroft/NNP 's/POS ]
+``/`` 
+[ alter/JJ ego/NN ]
+''/'' and/CC recently/RB was/VBD promoted/VBN to/TO 
+[ the/DT highest/JJS internal/JJ staff/NN rank/NN ]
+./. 
+
+[ He/PRP ]
+often/RB is/VBZ 
+[ one/CD ]
+of/IN 
+[ a/DT handful/NN ]
+of/IN 
+[ top/JJ aides/NNS ]
+invited/VBN into/IN 
+[ the/DT Oval/NNP Office/NNP ]
+for/IN 
+[ the/DT informal/JJ sessions/NNS ]
+at/IN 
+[ which/WDT ]
+
+[ President/NNP Bush/NNP ]
+likes/VBZ to/TO make/VB 
+[ sensitive/JJ foreign-policy/NN decisions/NNS ]
+./. 
+
+======================================
+
+``/`` When/WRB 
+[ we/PRP ]
+'re/VBP in/IN there/RB ,/, 
+[ there/EX ]
+are/VBP 
+[ five/CD ]
+or/CC 
+[ six/CD ]
+of/IN 
+[ us/PRP ]
+,/, and/CC 
+[ Gates/NNP ]
+tends/VBZ to/TO be/VB 
+[ part/NN ]
+of/IN 
+[ that/DT group/NN ]
+,/, ''/'' says/VBZ 
+[ White/NNP House/NNP Chief/NNP ]
+of/IN 
+[ Staff/NNP John/NNP Sununu/NNP ]
+./. 
+
+Indeed/RB ,/, when/WRB 
+[ five/CD officials/NNS ]
+stepped/VBD into/IN 
+[ the/DT president/NN 's/POS office/NN Tuesday/NNP afternoon/NN ]
+to/TO brief/VB 
+[ him/PRP ]
+on/IN 
+[ a/DT coup/NN attempt/NN ]
+in/IN 
+[ Panama/NNP ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+was/VBD among/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+When/WRB 
+[ Secretary/NNP ]
+of/IN 
+[ State/NNP James/NNP Baker/NNP ]
+met/VBD 
+[ Soviet/NNP Foreign/NNP Minister/NNP Eduard/NNP Shevardnadze/NNP ]
+in/IN 
+[ Wyoming/NNP two/CD weeks/NNS ]
+ago/RB ,/, 
+[ Mr./NNP Gates/NNP ]
+sat/VBD at/IN 
+[ Mr./NNP Baker/NNP 's/POS side/NN ]
+./. 
+
+[ Progress/NN ]
+there/RB propelled/VBD 
+[ U.S.-Soviet/JJ relations/NNS ]
+to/TO 
+[ center/JJ stage/NN ]
+:/: 
+[ The/DT superpowers/NNS ]
+agreed/VBD on/IN 
+[ a/DT summit/NN meeting/NN ]
+,/, likely/RB to/TO be/VB held/VBN around/IN 
+[ May/NNP ]
+,/, between/IN 
+[ Mr./NNP Bush/NNP ]
+and/CC 
+[ Mr./NNP Gorbachev/NNP ]
+./. 
+
+[ Both/DT ]
+
+[ sides/NNS ]
+say/VBP 
+[ there/EX ]
+'s/VBZ 
+[ a/DT good/JJ chance/NN ]
+by/IN then/RB 
+[ they/PRP ]
+will/MD finish/VB 
+[ an/DT historic/JJ treaty/NN ]
+to/TO cut/VB 
+[ strategic/JJ arsenals/NNS ]
+in/IN 
+[ half/NN ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ there/EX ]
+will/MD be/VB 
+[ a/DT new/JJ focus/NN ]
+in/IN coming/VBG 
+[ months/NNS ]
+on/IN 
+[ the/DT administration/NN 's/POS system/NN ]
+for/IN making/VBG 
+[ East-West/JJ policy/NN decisions/NNS ]
+,/, 
+[ a/DT system/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT dapper/JJ ]
+,/, 
+[ good-natured/JJ Mr./NNP Gates/NNP ]
+is/VBZ 
+[ an/DT important/JJ cog/NN ]
+./. 
+
+Thus/RB ,/, 
+[ a/DT look/NN ]
+at/IN 
+[ Mr./NNP Gates/NNP helps/VBZ ]
+illustrate/VB 
+[ the/DT approach/NN ]
+
+[ the/DT Bush/NNP team/NN ]
+will/MD be/VB taking/VBG --/: 
+[ an/DT approach/NN ]
+that/IN 
+[ some/DT Democrats/NNPS ]
+recently/RB have/VBP branded/VBN as/RB either/CC too/RB timid/JJ or/CC too/RB 
+[ hard-line/JJ ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+prefer/VBP to/TO think/VB of/IN 
+[ myself/PRP ]
+as/IN 
+[ a/DT realist/NN ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ what/WP ]
+'s/VBZ going/VBG on/RP inside/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+,/, ''/'' 
+[ Mr./NNP Gates/NNP ]
+says/VBZ ./. 
+
+``/`` But/CC 
+[ I/PRP ]
+think/VBP 
+[ there/EX ]
+are/VBP also/RB 
+[ some/DT ]
+
+[ very/RB important/JJ opportunities/NNS ]
+for/IN 
+[ the/DT United/NNP States/NNP ]
+that/IN 
+[ we/PRP ]
+should/MD be/VB moving/VBG on/IN ,/, and/CC 
+[ I/PRP ]
+think/VBP 
+[ we/PRP ]
+'re/VBP doing/VBG 
+[ that/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Gates/NNP ]
+,/, 
+[ 46/CD years/NNS ]
+old/JJ ,/, is/VBZ 
+[ a/DT native/JJ Kansan/NNP ]
+
+[ who/WP ]
+developed/VBD 
+[ a/DT deep/JJ interest/NN ]
+in/IN 
+[ Eastern/NNP Europe/NNP ]
+and/CC 
+[ the/DT Soviet/NNP Union/NNP ]
+in/IN 
+[ college/NN ]
+./. 
+
+[ He/PRP ]
+joined/VBD 
+[ the/DT Central/NNP Intelligence/NNP Agency/NNP ]
+as/IN 
+[ an/DT analyst/NN ]
+in/IN 
+[ 1966/CD ]
+,/, later/RB spent/VBD 
+[ five/CD years/NNS ]
+on/IN 
+[ assignment/NN ]
+to/TO 
+[ the/DT National/NNP Security/NNP Council/NNP staff/NN ]
+and/CC eventually/RB became/VBD 
+[ deputy/NN director/NN ]
+of/IN 
+[ the/DT CIA/NNP ]
+./. 
+
+======================================
+
+When/WRB 
+[ CIA/NNP director/NN William/NNP Casey/NNP ]
+became/VBD fatally/RB ill/JJ in/IN 
+[ 1987/CD ]
+,/, 
+[ President/NNP Reagan/NNP ]
+nominated/VBD 
+[ Mr./NNP Gates/NNP ]
+to/TO replace/VB 
+[ him/PRP ]
+./. 
+
+But/CC 
+[ the/DT nomination/NN ]
+was/VBD later/RB withdrawn/VBN when/WRB 
+[ it/PRP ]
+was/VBD imperiled/VBN by/IN lingering/VBG 
+[ congressional/JJ anger/NN ]
+over/IN 
+[ the/DT CIA/NNP 's/POS role/NN ]
+in/IN 
+[ the/DT Iran-Contra/JJ affair/NN ]
+./. 
+
+======================================
+
+Despite/IN 
+[ his/PRP$ long/JJ interest/NN ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+could/MD n't/RB actually/RB visit/VB 
+[ the/DT country/NN ]
+until/IN 
+[ this/DT year/NN ]
+,/, when/WRB 
+[ he/PRP ]
+left/VBD 
+[ the/DT intelligence/NN business/NN ]
+and/CC moved/VBD into/IN 
+[ his/PRP$ new/JJ role/NN ]
+as/IN 
+[ Mr./NNP Scowcroft/NNP 's/POS deputy/NN ]
+./. 
+
+In/IN 
+[ this/DT job/NN ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+filters/VBZ 
+[ all/DT paper/NN work/NN ]
+churned/VBD out/RB by/IN 
+[ the/DT foreign-policy/NN bureaucracy/NN ]
+before/IN 
+[ it/PRP ]
+reaches/VBZ 
+[ Mr./NNP Scowcroft/NNP ]
+./. 
+
+And/CC 
+[ he/PRP ]
+heads/VBZ 
+[ an/DT obscure/JJ ]
+but/CC 
+[ important/JJ group/NN ]
+in/IN 
+[ the/DT administration/NN ]
+called/VBD 
+[ the/DT Deputies/NNPS Committee/NNP ]
+,/, 
+[ a/DT panel/NN ]
+of/IN 
+[ top/JJ aides/NNS ]
+at/IN 
+[ the/DT State/NNP Department/NNP ]
+,/, 
+[ Pentagon/NNP ]
+,/, 
+[ CIA/NNP ]
+and/CC 
+[ the/DT Joint/NNP Chiefs/NNPS ]
+of/IN 
+[ Staff/NNP ]
+
+[ that/WDT ]
+debates/VBZ 
+[ important/JJ national-security/NN decisions/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Gates/NNP ]
+,/, 
+[ a/DT dedicated/JJ jogger/NN ]
+
+[ who/WP ]
+often/RB rises/VBZ before/IN 
+[ dawn/NN ]
+to/TO do/VB 
+[ his/PRP$ ]
+running/NN ,/, has/VBZ adopted/VBN 
+[ an/DT open/JJ ]
+and/CC 
+[ genial/JJ style/NN ]
+with/IN 
+[ other/JJ staffers/NNS ]
+that/IN 
+[ contrasts/VBZ ]
+with/IN 
+[ the/DT stealthy/JJ image/NN ]
+normally/RB associated/VBN with/IN 
+[ a/DT former/JJ intelligence/NN officer/NN ]
+./. 
+
+And/CC on/IN 
+[ Soviet/JJ affairs/NNS ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+and/CC 
+[ Mr./NNP Scowcroft/NNP ]
+seem/VBP to/TO complement/VB 
+[ each/DT other/JJ ]
+:/: While/IN 
+[ Mr./NNP Scowcroft/NNP ]
+likes/VBZ to/TO discuss/VB 
+[ the/DT complexities/NNS ]
+of/IN 
+[ arms-control/NN issues/NNS ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+prefers/VBZ talking/VBG about/IN 
+[ the/DT sweep/NN ]
+of/IN 
+[ Soviet/JJ ]
+and/CC 
+[ Russian/JJ history/NN ]
+and/CC 
+[ politics/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ essence/NN ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+says/VBZ that/IN while/IN 
+[ all/DT top/JJ administration/NN aides/NNS ]
+are/VBP in/IN ``/`` 
+[ harmony/NN ]
+''/'' in/IN hoping/VBG 
+[ Mr./NNP Gorbachev/NNP 's/POS reforms/NNS ]
+succeed/VBP ,/, 
+[ history/NN ]
+raises/VBZ 
+[ doubts/NNS ]
+about/IN how/WRB 
+[ deep/JJ ]
+or/CC 
+[ lasting/JJ changes/NNS ]
+in/IN 
+[ Moscow/NNP ]
+actually/RB will/MD be/VB ./. 
+
+In/IN 
+[ an/DT April/NNP speech/NN ]
+,/, for/IN 
+[ instance/NN ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+asserted/VBD that/IN ``/`` for/IN 
+[ 70/CD years/NNS we/PRP ]
+repeatedly/RB have/VBP seen/VBN 
+[ a/DT system/NN ]
+in/IN 
+[ crisis/NN ]
+proclaim/VB 
+[ reform/NN ]
+and/CC 
+[ turn/VB ]
+to/TO 
+[ the/DT West/NNP ]
+for/IN 
+[ help/NN ]
+,/, while/IN 
+[ the/DT essential/JJ features/NNS ]
+of/IN 
+[ their/PRP$ system/NN ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT day/NN ]
+remain/VB 
+[ unchanged/JJ ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ particular/JJ ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+says/VBZ 
+[ Mr./NNP Gorbachev/NNP ]
+faces/VBZ 
+[ breathtaking/JJ problems/NNS ]
+in/IN overcoming/VBG 
+[ centuries/NNS ]
+of/IN 
+[ Russian/JJ reliance/NN ]
+on/IN 
+[ the/DT state/NN ]
+as/IN 
+[ the/DT source/NN ]
+of/IN 
+[ all/DT economic/JJ life/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+see/VBP 
+[ the/DT contrast/NN ]
+between/IN 
+[ what/WP ]
+has/VBZ happened/VBN in/IN 
+[ the/DT political/JJ arena/NN ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+and/CC 
+[ the/DT economic/JJ problems/NNS ]
+,/, 
+[ which/WDT ]
+seem/VBP to/TO get/VB only/RB 
+[ worse/RBR ]
+,/, ''/'' 
+[ Mr./NNP Gates/NNP ]
+says/VBZ in/IN 
+[ an/DT interview/NN ]
+./. 
+
+Because/IN of/IN 
+[ the/DT obstacles/NNS ]
+,/, 
+[ he/PRP ]
+adds/VBZ ,/, ``/`` 
+[ there/EX ]
+already/RB have/VBP been/VBN 
+[ significant/JJ tactical/JJ retreats/NNS ]
+on/IN 
+[ the/DT economic/JJ side/NN ]
+./. 
+
+[ Significant/JJ elements/NNS ]
+of/IN 
+[ economic/JJ reform/NN ]
+have/VBP essentially/RB been/VBN put/VBN off/RP indefinitely/RB ./. 
+
+''/'' 
+======================================
+
+Yet/RB through/IN 
+[ it/PRP ]
+
+[ all/DT ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+maintains/VBZ ,/, 
+[ Soviet/JJ strategic/JJ modernization/NN ]
+continues/VBZ ./. 
+
+======================================
+
+``/`` If/IN 
+[ I/PRP ]
+have/VBP 
+[ a/DT difference/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ not/RB really/RB with/IN 
+[ people/NNS ]
+inside/IN 
+[ the/DT administration/NN ]
+but/CC 
+[ some/DT people/NNS ]
+outside/IN 
+[ the/DT administration/NN ]
+
+[ who/WP ]
+believe/VBP that/IN ,/, somehow/RB ,/, 
+[ the/DT United/NNP States/NNP ]
+can/MD make/VB 
+[ a/DT significant/JJ difference/NN ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ Gorbachev/NNP 's/POS success/NN ]
+in/IN carrying/VBG out/RP 
+[ these/DT reforms/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` Whether/IN 
+[ reform/NN ]
+succeeds/VBZ or/CC not/RB depends/VBZ almost/RB entirely/RB on/IN 
+[ internal/JJ decisions/NNS ]
+and/CC 
+[ structural/JJ changes/NNS ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+''/'' 
+[ Mr./NNP Gates/NNP ]
+says/VBZ 
+[ the/DT U.S./NNP ]
+is/VBZ offering/VBG 
+[ what/WP ]
+limited/JJ help/NN 
+[ it/PRP ]
+can/MD by/IN fostering/VBG 
+[ good/JJ superpower/NN relations/NNS ]
+,/, 
+[ which/WDT ]
+enhance/VBP 
+[ Mr./NNP Gorbachev/NNP 's/POS stature/NN ]
+,/, and/CC by/IN proposing/VBG 
+[ deep/JJ conventional-arms/NNS cuts/NNS ]
+,/, 
+[ which/WDT ]
+offer/VBP 
+[ tangible/JJ economic/JJ relief/NN ]
+./. 
+
+======================================
+
+[ Privately/RB ]
+,/, 
+[ Mr./NNP Gates/NNP ]
+is/VBZ known/VBN to/TO calculate/VB that/IN 
+[ Mr./NNP Gorbachev/NNP ]
+is/VBZ shrewd/JJ enough/RB to/TO survive/VB even/RB if/IN 
+[ all/DT his/PRP$ reforms/NNS ]
+do/VBP n't/RB ,/, and/CC to/TO believe/VB 
+[ that/DT cautious/JJ analysis/NN ]
+is/VBZ necessary/JJ to/TO offset/VB 
+[ unrealistic/JJ euphoria/NN ]
+about/IN 
+[ changes/NNS ]
+in/IN 
+[ Moscow/NNP ]
+./. 
+
+Still/RB ,/, 
+[ critics/NNS ]
+wonder/VBP whether/IN 
+[ Mr./NNP Gates/NNP ]
+,/, like/IN 
+[ others/NNS ]
+in/IN 
+[ the/DT Bush/NNP administration/NN ]
+,/, is/VBZ so/RB skeptical/JJ that/IN 
+[ openings/NNS ]
+for/IN 
+[ improvement/NN ]
+will/MD be/VB missed/VBN ./. 
+
+======================================
+
+``/`` 
+[ He/PRP ]
+seems/VBZ rather/RB extremely/RB 
+[ cautious/JJ ]
+,/, ''/'' says/VBZ 
+[ Jeremy/NNP Hough/NNP ]
+,/, 
+[ a/DT prominent/JJ Sovietologist/NN ]
+at/IN 
+[ Duke/NNP University/NNP ]
+./. 
+
+======================================
+
+Yet/CC even/RB 
+[ analysts/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB share/VB 
+[ all/DT his/PRP$ views/NNS ]
+generally/RB respect/VBP 
+[ Mr./NNP Gates/NNP 's/POS arguments/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP quite/RB impressed/JJ with/IN 
+[ Bob/NNP Gates/NNP ]
+,/, ''/'' says/VBZ 
+[ Dimitri/NNP Simes/NNP ]
+,/, 
+[ a/DT Soviet/JJ analyst/NN ]
+at/IN 
+[ the/DT Carnegie/NNP Endowment/NNP ]
+for/IN 
+[ International/NNP Peace/NNP ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ enough/RB 
+[ justification/NN ]
+,/, looking/VBG at/IN 
+[ Russian/JJ history/NN ]
+,/, for/IN 
+[ Bob/NNP Gates/NNP 's/POS caution/NN ]
+./. 

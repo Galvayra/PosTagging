@@ -1,0 +1,231 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ National/NNP Bank/NNP ]
+of/IN 
+[ Canada/NNP 's/POS net/JJ income/NN ]
+for/IN 
+[ the/DT year/NN ending/VBG Oct./NNP 31/CD ]
+``/`` will/MD be/VB between/IN 
+[ 2.10/CD ]
+and/CC 
+[ 2.20/CD Canadian/JJ dollars/NNS ]
+ {/( 
+[ $/$ 1.78/CD ]
+and/CC 
+[ $/$ 1.86/CD ]
+ }/) 
+[ a/DT share/NN ]
+and/CC 
+[ the/DT outlook/NN ]
+for/IN {/( 
+[ fiscal/JJ ]
+ }/) 
+[ 1990/CD ]
+is/VBZ very/RB positive/JJ ,/, ''/'' 
+[ Andre/NNP Berard/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+,/, said/VBD ./. 
+
+======================================
+
+[ National/NNP Bank/NNP ]
+of/IN 
+[ Canada/NNP ]
+had/VBD 
+[ fiscal/JJ 1988/CD net/JJ income/NN ]
+of/IN 
+[ C$/$ 226.3/CD million/CD ]
+,/, or/CC 
+[ C$/$ 1.87/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Net/JJ income/NN ]
+for/IN 
+[ the/DT nine/CD months/NNS ]
+ended/VBD 
+[ July/NNP 31/CD ]
+was/VBD 
+[ C$/$ 208.7/CD million/CD ]
+,/, or/CC 
+[ C$/$ 1.63/CD ]
+
+[ a/DT share/NN ]
+,/, compared/VBN with/IN 
+[ C$/$ 159.2/CD million/CD ]
+,/, or/CC 
+[ C$/$ 1.32/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT year/NN ]
+earlier/RB ./. 
+
+[ Mr./NNP Berard/NNP 's/POS estimate/NN ]
+of/IN 
+[ fiscal/JJ 1989/CD earnings/NNS ]
+indicates/VBZ 
+[ the/DT bank/NN ]
+expects/VBZ to/TO report/VB 
+[ net/NN ]
+of/IN 
+[ 47/CD ]
+to/TO 
+[ 57/CD Canadian/JJ cents/NNS ]
+
+[ a/DT share/NN ]
+for/IN 
+[ the/DT current/JJ fourth/JJ quarter/NN ]
+./. 
+
+[ Year-earlier/JJ fourth/JJ quarter/NN net/NN ]
+was/VBD 
+[ C$/$ 67/CD million/CD ]
+,/, or/CC 
+[ 55/CD Canadian/JJ cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Berard/NNP ]
+said/VBD 
+[ the/DT Canadian/JJ economy/NN ]
+is/VBZ slowing/VBG down/RP ,/, but/CC 
+[ he/PRP ]
+does/VBZ n't/RB expect/VB 
+[ a/DT full-blown/JJ recession/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ we/PRP ]
+will/MD have/VB 
+[ a/DT more/RBR pronounced/JJ slowdown/NN ]
+than/IN anticipated/VBN ,/, ''/'' 
+[ Mr./NNP Berard/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP during/IN 
+[ the'soft/JJ  landing/NN ]
+'/'' here/RB 
+[ the/DT wheels/NNS ]
+will/MD squeal/VB 
+[ a/DT little/JJ bit/NN ]
+more/JJR than/IN expected/VBN ./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ an/DT economic/JJ slowdown/NN ]
+in/IN 
+[ Canada/NNP ]
+wo/MD n't/RB have/VB 
+[ a/DT major/JJ impact/NN ]
+on/IN 
+[ National/NNP Bank/NNP ]
+of/IN 
+[ Canada/NNP ]
+,/, 
+[ Mr./NNP Berard/NNP ]
+said/VBD ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB see/VB 
+[ a/DT marked/JJ reduction/NN ]
+in/IN 
+[ the/DT bank/NN 's/POS profits/NNS ]
+even/RB if/IN 
+[ we/PRP ]
+have/VBP 
+[ a/DT major/JJ economic/JJ slowdown/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+[ He/PRP ]
+said/VBD that/IN 
+[ Quebec/NNP ]
+,/, and/CC 
+[ Quebec/NNP companies/NNS ]
+,/, are/VBP better/RB prepared/VBN than/IN in/IN 
+[ the/DT past/NN ]
+to/TO minimize/VB 
+[ the/DT consequences/NNS ]
+of/IN 
+[ a/DT slowdown/NN ]
+./. 
+
+Despite/IN 
+[ National/NNP Bank/NNP 's/POS geographic/JJ concentration/NN ]
+--/: 
+[ it/PRP ]
+is/VBZ 
+[ the/DT dominant/JJ chartered/JJ bank/NN ]
+in/IN 
+[ Quebec/NNP ]
+--/: 
+[ the/DT bank/NN 's/POS deposit/NN base/NN ]
+and/CC 
+[ borrowers/NNS ]
+are/VBP diversified/JJ and/CC ``/`` 
+[ they/PRP ]
+ca/MD n't/RB 
+[ all/DT ]
+go/VB 
+[ bad/JJ ]
+at/IN once/RB ,/, ''/'' 
+[ Mr./NNP Berard/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Montreal-based/JJ National/NNP Bank/NNP ]
+of/IN 
+[ Canada/NNP ]
+is/VBZ 
+[ the/DT smallest/JJS ]
+of/IN 
+[ Canada/NNP 's/POS so-called/JJ Big/NNP Six/CD banks/NNS ]
+,/, with/IN 
+[ assets/NNS ]
+of/IN 
+[ C$/$ 33.25/CD billion/CD ]
+as/IN of/IN 
+[ July/NNP 31/CD ]
+,/, about/RB 
+[ half/PDT the/DT assets/NNS ]
+held/VBN by/IN 
+[ the/DT fifth-largest/JJ bank/NN ]
+,/, 
+[ Toronto-Dominion/NNP ]
+./. 

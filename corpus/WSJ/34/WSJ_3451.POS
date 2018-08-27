@@ -1,0 +1,582 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ a/DT sign/NN ]
+of/IN 
+[ current/JJ troubles/NNS ]
+facing/VBG 
+[ the/DT market/NN ]
+for/IN highly/RB 
+[ leveraged/JJ takeovers/NNS ]
+,/, 
+[ an/DT investment/NN group/NN ]
+including/VBG 
+[ Chicago/NNP 's/POS wealthy/JJ Pritzker/JJR family/NN ]
+and/CC 
+[ Wall/NNP Street/NNP 's/POS First/NNP Boston/NNP Corp./NNP ]
+withdrew/VBD 
+[ its/PRP$ $/$ 3.35/CD billion/CD offer/NN ]
+for/IN 
+[ American/NNP Medical/NNP International/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT investment/NN group/NN ]
+,/, 
+[ IMA/NNP Holdings/NNP Corp./NNP ]
+,/, yesterday/NN offered/VBD to/TO buy/VB 
+[ American/NNP Medical/NNP ]
+,/, 
+[ a/DT hospital/NN company/NN ]
+,/, for/IN 
+[ a/DT lower/JJR price/NN ]
+of/IN 
+[ $/$ 3/CD billion/CD ]
+,/, including/VBG 
+[ the/DT assumption/NN ]
+of/IN about/RB 
+[ $/$ 1.31/CD billion/CD ]
+in/IN 
+[ debt/NN ]
+./. 
+
+But/CC 
+[ officials/NNS ]
+involved/VBN in/IN 
+[ the/DT negotiations/NNS ]
+declined/VBD to/TO speculate/VB on/IN whether/IN 
+[ the/DT new/JJ offer/NN ]
+would/MD be/VB accepted/VBN ./. 
+
+======================================
+
+In/IN 
+[ a/DT terse/JJ statement/NN ]
+,/, First/NNP 
+[ Boston/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ CS/NNP First/NNP Boston/NNP Group/NNP ]
+,/, said/VBD that/IN 
+[ IMA/NNP ]
+``/`` does/VBZ not/RB expect/VB to/TO be/VB able/JJ to/TO satisfy/VB 
+[ the/DT conditions/NNS ]
+for/IN 
+[ its/PRP$ financing/NN ]
+ {/( of/IN 
+[ the/DT initial/JJ $/$ 3.35/CD billion/CD offer/NN ]
+ }/) prior/RB to/TO 
+[ Oct./NNP 11/CD ]
+,/, ''/'' when/WRB 
+[ the/DT offer/NN ]
+was/VBD to/TO expire/VB ./. 
+
+======================================
+
+[ IMA/NNP Holdings/NNP ]
+cut/VBD 
+[ its/PRP$ tender/NN offer/NN price/NN ]
+to/TO 
+[ $/$ 26.50/CD ]
+
+[ a/DT share/NN ]
+from/IN 
+[ the/DT original/JJ bid/NN ]
+of/IN 
+[ $/$ 28/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ American/NNP Medical/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT ]
+unraveling/NN of/IN 
+[ the/DT American/NNP Medical/NNP deal/NN ]
+comes/VBZ amid/IN 
+[ turbulence/NN ]
+in/IN 
+[ the/DT $/$ 200/CD billion/CD market/NN ]
+for/IN 
+[ high-yield/JJ ]
+,/, 
+[ high-risk/JJ junk/NN bonds/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP provided/VBN much/JJ of/IN 
+[ the/DT long-term/JJ financing/NN ]
+for/IN 
+[ leveraged/JJ takeovers/NNS ]
+./. 
+
+======================================
+
+First/NNP 
+[ Boston/NNP ]
+,/, 
+[ which/WDT ]
+already/RB has/VBZ almost/RB 
+[ $/$ 1/CD billion/CD ]
+in/IN 
+[ temporary/JJ ]
+``/`` 
+[ bridge/NN ]
+''/'' 
+[ loans/NNS ]
+outstanding/JJ to/TO 
+[ clients/NNS ]
+to/TO help/VB 
+[ them/PRP complete/VB takeovers/NNS ]
+,/, had/VBD agreed/VBN to/TO lend/VB more/JJR than/IN 
+[ $/$ 700/CD million/CD ]
+to/TO help/VB finance/VB 
+[ the/DT acquisition/NN ]
+of/IN 
+[ American/NNP Medical/NNP ]
+./. 
+
+[ Yesterday/NN ]
+,/, 
+[ First/NNP Boston/NNP ]
+withdrew/VBD that/DT lending/NN 
+[ commitment/NN ]
+and/CC replaced/VBD 
+[ it/PRP ]
+with/IN 
+[ a/DT new/JJ ]
+offer/NN ,/, 
+[ the/DT details/NNS ]
+of/IN 
+[ which/WDT ]
+were/VBD n't/RB disclosed/VBN ./. 
+
+======================================
+
+``/`` 
+[ Our/PRP$ offer/NN has/VBZ n't/RB ]
+been/VBN withdrawn/VBN ;/: 
+[ it/PRP ]
+'s/VBZ just/RB 
+[ a/DT revision/NN ]
+,/, ''/'' 
+[ a/DT First/NNP Boston/NNP official/NN ]
+said/VBD ./. 
+
+[ Separately/NNP ]
+,/, 
+[ Michael/NNP Goldberg/NNP ]
+,/, 
+[ co-head/NN ]
+of/IN 
+[ First/NNP Boston/NNP 's/POS mergers/NNS ]
+and/CC 
+[ acquisitions/NNS department/NN ]
+,/, said/VBD :/: ``/`` 
+[ First/NNP Boston/NNP ]
+and/CC 
+[ its/PRP$ partners/NNS ]
+still/RB like/VBP 
+[ this/DT company/NN ]
+very/RB much/RB ,/, want/VBP to/TO conclude/VB 
+[ this/DT transaction/NN ]
+and/CC are/VBP committed/VBN|JJ to/TO doing/VBG 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Takeover/NN speculators/NNS ]
+apparently/RB expect/VBP 
+[ the/DT acquisition/NN ]
+to/TO be/VB completed/VBN ./. 
+
+On/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP yesterday/NN ]
+,/, 
+[ American/NNP Medical/NNP 's/POS shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 23.375/CD ]
+,/, up/RB 
+[ 62.5/CD cents/NNS ]
+,/, on/IN 
+[ the/DT news/NN ]
+./. 
+
+About/RB 
+[ 1.4/CD million/CD shares/NNS ]
+changed/VBD 
+[ hands/NNS ]
+,/, nearly/RB double/RB 
+[ the/DT stock/NN 's/POS daily/JJ average/JJ trading/NN volume/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ IMA/NNP Holdings/NNP ]
+lowering/VBG 
+[ the/DT price/NN ]
+of/IN 
+[ its/PRP$ ]
+offer/NN ,/, 
+[ the/DT group/NN ]
+also/RB reduced/VBD 
+[ the/DT number/NN ]
+of/IN 
+[ shares/NNS ]
+
+[ that/WDT ]
+would/MD be/VB tendered/VBN to/TO 
+[ 63/CD million/CD shares/NNS ]
+from/IN 
+[ 68.8/CD million/CD ]
+./. 
+
+[ The/DT hospital/NN company/NN ]
+said/VBD 
+[ IMA/NNP ]
+boosted/VBD 
+[ the/DT amount/NN ]
+of/IN 
+[ equity/NN ]
+to/TO be/VB received/VBN by/IN 
+[ American/NNP Medical/NNP shareholders/NNS ]
+to/TO 
+[ 20/CD %/NN ]
+from/IN 
+[ 10/CD %/NN ]
+of/IN 
+[ IMA/NNP 's/POS common/JJ stock/NN ]
+outstanding/JJ at/IN 
+[ the/DT time/NN ]
+of/IN 
+[ the/DT merger/NN ]
+./. 
+
+======================================
+
+[ American/NNP Medical/NNP ]
+said/VBD 
+[ a/DT special/JJ committee/NN ]
+of/IN 
+[ its/PRP$ board/NN ]
+would/MD meet/VB in/IN 
+[ the/DT next/JJ few/JJ days/NNS ]
+to/TO review/VB 
+[ the/DT offer/NN ]
+,/, but/CC 
+[ a/DT spokeswoman/NN ]
+and/CC 
+[ officials/NNS ]
+of/IN 
+[ the/DT company/NN ]
+would/MD n't/RB comment/VB further/RB ./. 
+
+======================================
+
+[ IMA/NNP ]
+has/VBZ 
+[ four/CD times/NNS ]
+extended/VBD 
+[ its/PRP$ tender/NN offer/NN ]
+for/IN 
+[ American/NNP Medical/NNP ]
+,/, saying/VBG 
+[ it/PRP ]
+is/VBZ awaiting/VBG 
+[ congressional/JJ action/NN ]
+on/IN 
+[ a/DT proposal/NN ]
+
+[ that/WDT ]
+could/MD eliminate/VB 
+[ the/DT tax/NN deductibility/NN ]
+of/IN 
+[ certain/JJ interest/NN payments/NNS ]
+on/IN 
+[ original-issue/JJ discounts/NNS ]
+of/IN 
+[ debt/NN securities/NNS ]
+used/VBN to/TO finance/VB 
+[ the/DT offer/NN ]
+./. 
+
+But/CC of/IN 
+[ greater/JJR concern/NN ]
+has/VBZ been/VBN 
+[ recent/JJ price/NN drops/NNS ]
+in/IN 
+[ the/DT junk-bond/NN market/NN ]
+,/, 
+[ which/WDT ]
+have/VBP fueled/VBN 
+[ doubts/NNS ]
+among/IN 
+[ analysts/NNS ]
+that/IN 
+[ the/DT transaction/NN ]
+could/MD be/VB financed/VBN on/IN 
+[ its/PRP$ original/JJ terms/NNS ]
+./. 
+
+======================================
+
+[ IMA/NNP ]
+began/VBD 
+[ its/PRP$ tender/NN offer/NN ]
+in/IN 
+[ July/NNP ]
+,/, but/CC had/VBD extended/VBN 
+[ it/PRP ]
+to/TO 
+[ 12:01/CD a.m./RB EDT/NNP Oct./NNP 12/CD ]
+./. 
+
+As/IN of/IN 
+[ Sept./NNP 26/CD ]
+,/, 
+[ the/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+had/VBD received/VBN offers/NNS for/IN about/RB 
+[ 40.4/CD million/CD shares/NNS ]
+,/, including/VBG 
+[ shares/NNS ]
+issuable/JJ upon/IN 
+[ conversion/NN ]
+of/IN 
+[ convertible/JJ debentures/NNS ]
+./. 
+
+======================================
+
+Given/VBN 
+[ the/DT troubles/NNS ]
+with/IN 
+[ the/DT transaction/NN ]
+,/, 
+[ a/DT price/NN cut/NN ]
+was/VBD expected/VBN ,/, but/CC 
+[ one/CD analyst/NN ]
+said/VBD that/IN 
+[ the/DT actual/JJ cut/NN ]
+was/VBD greater/JJR than/IN anticipated/VBN ./. 
+
+[ Rae/NNP Alperstein/NNP ]
+of/IN 
+[ Bateman/NNP Eicher/NNP ]
+,/, 
+[ Hill/NNP Richards/NNP Inc./NNP ]
+said/VBD 
+[ she/PRP ]
+valued/VBD 
+[ the/DT previous/JJ offer/NN ]
+at/IN 
+[ $/$ 27/CD ]
+
+[ a/DT share/NN ]
+,/, and/CC 
+[ the/DT revised/VBN offer/NN ]
+at/IN 
+[ $/$ 24.50/CD ]
+./. 
+
+[ She/PRP ]
+anticipated/VBD only/RB 
+[ a/DT $/$ 1.50/CD decline/NN ]
+per/IN 
+[ share/NN ]
+in/IN 
+[ the/DT valuation/NN ]
+,/, and/CC expects/VBZ 
+[ American/NNP Medical/NNP ]
+to/TO push/VB for/IN 
+[ a/DT higher/JJR price/NN ]
+./. 
+
+Still/RB ,/, 
+[ she/PRP ]
+and/CC 
+[ others/NNS ]
+do/VBP n't/RB expect/VB 
+[ the/DT transaction/NN ]
+to/TO crumble/VB ./. 
+
+``/`` First/NNP 
+[ Boston/NNP ]
+very/RB much/RB wants/VBZ and/CC needs/VBZ to/TO do/VB 
+[ this/DT deal/NN ]
+,/, ''/'' 
+[ she/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ John/NNP Hindelong/NNP ]
+,/, 
+[ a/DT health-care/NN analyst/NN ]
+with/IN 
+[ Donaldson/NNP Lufkin/NNP ]
+&/CC 
+[ Jenrette/NNP ]
+,/, said/VBD :/: ``/`` 
+[ The/DT main/JJ thing/NN ]
+is/VBZ ,/, 
+[ this/DT ]
+indicates/VBZ 
+[ there/EX ]
+will/MD be/VB 
+[ a/DT deal/NN ]
+,/, at/IN 
+[ a/DT modest/JJ price/NN cut/NN ]
+./. 
+
+[ Shareholders/NNS ]
+will/MD still/RB get/VB 
+[ a/DT nice/JJ return/NN ]
+./. 
+
+''/'' 
+[ One/CD takeover-stock/JJ speculator/NN ]
+,/, or/CC 
+[ arbitrager/NN ]
+,/, 
+[ who/WP ]
+declined/VBD to/TO be/VB identified/VBN ,/, said/VBD that/IN 
+[ most/JJS arbs/NNS ]
+had/VBD expected/VBN 
+[ a/DT $/$ 2/CD ]
+to/TO 
+[ $/$ 3-a-share/JJ cut/NN ]
+in/IN 
+[ price/NN ]
+./. 
+
+======================================
+
+[ IMA/NNP 's/POS bid/NN ]
+,/, made/VBN 
+[ last/JJ July/NNP ]
+,/, topped/VBD 
+[ proposals/NNS ]
+made/VBN by/IN at/IN 
+[ least/JJS two/CD rival/JJ bidders/NNS ]
+for/IN 
+[ Beverly/NNP Hills/NNP ]
+,/, 
+[ Calif.-based/JJ American/NNP Medical/NNP ]
+./. 
+
+[ The/DT initial/JJ bid/NN ]
+was/VBD valued/VBN by/IN 
+[ IMA/NNP ]
+at/IN 
+[ $/$ 1.93/CD billion/CD ]
+,/, and/CC included/VBD 
+[ the/DT assumption/NN ]
+of/IN 
+[ $/$ 1.42/CD billion/CD ]
+in/IN 
+[ debt/NN ]
+,/, giving/VBG 
+[ the/DT transaction/NN ]
+
+[ a/DT total/JJ ]
+indicated/JJ 
+[ value/NN ]
+of/IN about/RB 
+[ $/$ 3.35/CD billion/CD ]
+./. 
+
+======================================
+
+[ IMA/NNP ]
+was/VBD 
+[ a/DT new/JJ company/NN ]
+formed/VBN by/IN 
+[ First/NNP Boston/NNP ]
+and/CC 
+[ Harry/NNP Gray/NNP Melvyn/NNP Klein/NNP ]
+&/CC 
+[ Partners/NNP ]
+,/, 
+[ a/DT leveraged/JJ buy-out/NN fund/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT Pritzkers/NNPS ]
+are/VBP 
+[ major/JJ investors/NNS ]
+./. 
+
+======================================
+
+[ The/DT initial/JJ bid/NN ]
+was/VBD for/IN about/RB 
+[ 94/CD %/NN ]
+of/IN 
+[ American/NNP Medical/NNP ]
+'s/VBZ fully/RB diluted/JJ 
+[ shares/NNS ]
+./. 
+
+If/IN 
+[ all/DT ]
+of/IN 
+[ the/DT shares/NNS ]
+were/VBD tendered/VBN under/IN 
+[ that/DT offer/NN ]
+,/, 
+[ each/DT holder/NN ]
+would/MD receive/VB about/RB 
+[ $/$ 26.50/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+[ cash/NN ]
+on/IN 
+[ a/DT pro-rated/JJ basis/NN ]
+,/, plus/CC 
+[ an/DT equity/NN ]
+``/`` 
+[ stub/NN ]
+,/, ''/'' 
+[ which/WDT ]
+entitles/VBZ 
+[ holders/NNS ]
+to/TO 
+[ an/DT equity/NN participation/NN ]
+./. 
+
+[ The/DT stubs/NNS ]
+collectively/RB would/MD have/VB given/VBN 
+[ holders/NNS ]
+
+[ a/DT 10/CD %/NN stake/NN ]
+in/IN 
+[ new/JJ shares/NNS ]
+of/IN 
+[ American/NNP Medical/NNP ]
+./. 

@@ -1,0 +1,192 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+and/CC 
+[ Kidder/NNP ]
+,/, 
+[ Peabody/NNP ]
+&/CC 
+[ Co./NNP ]
+continued/VBD 
+[ their/PRP$ nose-to-nose/JJ program-trading/JJ battle/NN ]
+in/IN 
+[ August/NNP ]
+on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+======================================
+
+[ Morgan/NNP Stanley/NNP ]
+displaced/VBD 
+[ Kidder/NNP ]
+as/IN 
+[ the/DT top/JJ user/NN ]
+of/IN 
+[ the/DT controversial/JJ computer-generated/JJ trading/NN practice/NN last/JJ month/NN ]
+;/: 
+[ the/DT firms/NNS ]
+accounted/VBD for/IN 
+[ 89.1/CD million/CD shares/NNS ]
+and/CC 
+[ 76.2/CD million/CD shares/NNS ]
+,/, respectively/RB ,/, in/IN 
+[ August/NNP ]
+./. 
+
+In/IN 
+[ July/NNP ]
+,/, 
+[ Kidder/NNP outpaced/NN second-place/JJ Morgan/NNP Stanley/NNP ]
+by/IN more/JJR than/IN 
+[ 20/CD million/CD shares/NNS ]
+./. 
+
+======================================
+
+Overall/RB ,/, 
+[ program/NN ]
+trading/NN accounted/VBD for/IN 
+[ 10.3/CD %/NN ]
+of/IN 
+[ average/JJ daily/JJ volume/NN ]
+in/IN 
+[ August/NNP ]
+,/, up/IN from/IN 
+[ 9.4/CD %/NN ]
+in/IN 
+[ July/NNP ]
+,/, 
+[ the/DT exchange/NN ]
+said/VBD ./. 
+
+[ Program/NN volume/NN ]
+reached/VBD 
+[ an/DT average/NN ]
+of/IN 
+[ 17.7/CD million/CD shares/NNS ]
+daily/RB ,/, compared/VBN with/IN 
+[ 15.3/CD million/CD ]
+in/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+[ The/DT Big/NNP Board/NNP ]
+defines/VBZ 
+[ program/NN ]
+trading/NN as/IN 
+[ any/DT ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ strategies/NNS ]
+involving/VBG 
+[ the/DT purchase/NN ]
+or/CC 
+[ sale/NN ]
+of/IN 
+[ a/DT basket/NN ]
+of/IN 
+[ 15/CD ]
+or/CC 
+[ more/JJR stocks/NNS ]
+./. 
+
+======================================
+
+[ Brokerage/NN firms/NNS ]
+argue/VBP that/IN 
+[ strategies/NNS ]
+such/JJ as/IN 
+[ stock-index/NN arbitrage/NN ]
+--/: 
+[ rapid/JJ ]
+trading/NN between/IN 
+[ stock-index/NN futures/NNS ]
+and/CC 
+[ stocks/NNS ]
+to/TO capture/VB 
+[ fleeting/JJ price/NN differences/NNS ]
+--/: 
+[ link/VBP two/CD related/VBN markets/NNS ]
+and/CC thus/RB benefit/VBP 
+[ both/DT ]
+./. 
+
+In/IN 
+[ August/NNP ]
+,/, 
+[ 64.7/CD %/NN ]
+of/IN 
+[ program/NN trades/NNS ]
+on/IN 
+[ the/DT Big/NNP Board/NNP ]
+involved/VBD 
+[ index/NN arbitrage/NN ]
+,/, compared/VBN with/IN 
+[ 59.8/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+[ Opponents/NNS ]
+contend/VBP that/IN 
+[ these/DT strategies/NNS ]
+produce/VBP 
+[ sharp/JJ market/NN swings/NNS ]
+
+[ that/WDT ]
+frighten/VBP away/RB 
+[ small/JJ investors/NNS ]
+,/, and/CC 
+[ some/DT ]
+argued/VBD 
+[ that/DT program/NN ]
+trading/NN contributed/VBD to/TO 
+[ the/DT 1987/CD market/NN crash/NN ]
+./. 
+
+======================================
+
+Following/VBG 
+[ Morgan/NNP Stanley/NNP Group/NNP Inc./NNP 's/POS unit/NN ]
+and/CC 
+[ General/NNP Electric/NNP Co./NNP 's/POS Kidder/NNP unit/NN ]
+in/IN 
+[ August/NNP program/NN ]
+trading/NN were/VBD 
+[ Susquehanna/NNP Investment/NNP Group/NNP ]
+with/IN 
+[ 34/CD million/CD shares/NNS ]
+;/: 
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ 32.6/CD million/CD ]
+;/: and/CC 
+[ CS/NNP First/NNP Boston/NNP Group/NNP 's/POS First/NNP Boston/NNP Corp./NNP unit/NN ]
+,/, 
+[ 31.9/CD million/CD ]
+./. 

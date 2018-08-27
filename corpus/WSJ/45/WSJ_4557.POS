@@ -1,0 +1,785 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Li/NNP Lu/NNP ]
+,/, 
+[ an/DT exiled/JJ veteran/NN ]
+of/IN 
+[ the/DT democracy/NN demonstrations/NNS ]
+crushed/VBN in/IN 
+[ June/NNP ]
+by/IN 
+[ the/DT Chinese/JJ communists/NNS ]
+in/IN 
+[ Tiananmen/NNP Square/NNP ]
+,/, examines/VBZ 
+[ his/PRP$ ballot/NN ]
+,/, then/RB writes/VBZ in/IN 
+[ his/PRP$ choices/NNS ]
+for/IN 
+[ the/DT leaders/NNS ]
+of/IN 
+[ the/DT Federation/NN ]
+for/IN 
+[ a/DT Democratic/NNP China/NNP ]
+ (/( 
+[ FDC/NNP ]
+ )/) ./. 
+
+Behind/IN 
+[ him/PRP ]
+sits/VBZ 
+[ a/DT delegate/NN ]
+from/IN 
+[ Hong/NNP Kong/NNP ]
+./. 
+
+Nearby/RB are/VBP 
+[ other/JJ Chinese/NNPS ]
+from/IN 
+[ places/NNS ]
+as/RB far-flung/JJ as/IN 
+[ Taiwan/NNP ]
+and/CC 
+[ California/NNP ]
+,/, 
+[ Canada/NNP ]
+and/CC 
+[ Australia/NNP ]
+./. 
+
+From/IN behind/IN 
+[ long/JJ tables/NNS ]
+stacked/VBN with/IN 
+[ notebooks/NNS they/PRP ]
+watch/VBP as/IN 
+[ the/DT votes/NNS ]
+are/VBP tallied/VBN on/IN 
+[ an/DT easel/NN ]
+at/IN 
+[ the/DT front/NN ]
+of/IN 
+[ the/DT room/NN ]
+./. 
+
+======================================
+
+Thus/RB is/VBZ 
+[ the/DT leadership/NN ]
+being/VBG installed/VBN ,/, here/RB in/IN 
+[ a/DT blue-carpeted/JJ hall/NN ]
+far/RB from/IN Beijing/NNP --/: for/IN 
+[ a/DT new/JJ organization/NN ]
+
+[ that/WDT ]
+intends/VBZ over/IN 
+[ the/DT coming/VBG years/NNS ]
+to/TO finally/RB liberate/VB 
+[ the/DT Chinese/JJ mainland/NN ]
+./. 
+
+Only/RB 
+[ a/DT handful/NN ]
+of/IN 
+[ China/NNP 's/POS leading/VBG democrats/NNS ]
+have/VBP been/VBN able/JJ to/TO escape/VB from/IN 
+[ China/NNP itself/PRP ]
+to/TO cast/VB 
+[ their/PRP$ votes/NNS ]
+./. 
+
+[ They/PRP ]
+are/VBP among/IN 
+[ 167/CD Chinese/JJ delegates/NNS ]
+
+[ who/WP ]
+have/VBP come/VBN from/IN more/JJR than/IN 
+[ a/DT dozen/NN countries/NNS ]
+to/TO found/VB 
+[ the/DT new/JJ federation/NN ]
+./. 
+
+[ This/DT group/NN ]
+aims/VBZ to/TO carry/VB 
+[ the/DT torch/NN ]
+for/IN ,/, among/IN 
+[ millions/NNS ]
+of/IN 
+[ others/NNS ]
+,/, 
+[ the/DT millions/NNS ]
+of/IN 
+[ Chinese/NNPS ]
+
+[ who/WP ]
+demonstrated/VBD and/CC 
+[ the/DT thousands/NNS ]
+
+[ who/WP ]
+died/VBD 
+[ this/DT past/JJ spring/NN ]
+in/IN 
+[ the/DT Tiananmen/NNP uprising/NN ]
+for/IN 
+[ democracy/NN ]
+./. 
+
+======================================
+
+[ The/DT calm/JJ scene/NN ]
+,/, 
+[ which/WDT ]
+took/VBD 
+[ place/NN Sunday/NNP ]
+in/IN 
+[ this/DT Paris/NNP suburb/NN ]
+,/, was/VBD 
+[ a/DT world/NN ]
+away/RB from/IN 
+[ the/DT ragged/JJ tent/NN encampment/NN ]
+in/IN 
+[ Tiananmen/NNP Square/NNP ]
+,/, where/WRB 
+[ the/DT 23-year-old/JJ Mr./NNP Li/NNP ]
+and/CC 
+[ his/PRP$ fellow/JJ demonstrators/NNS ]
+made/VBD 
+[ their/PRP$ stand/NN ]
+against/IN 
+[ the/DT Chinese/JJ army/NN ]
+./. 
+
+Then/RB ,/, 
+[ Beijing/NNP 's/POS citizens/NNS ]
+were/VBD dying/VBG in/IN 
+[ the/DT surrounding/VBG streets/NNS ]
+,/, trying/VBG to/TO protect/VB 
+[ the/DT leaders/NNS ]
+of/IN 
+[ China/NNP 's/POS democratic/JJ movement/NN ]
+from/IN 
+[ the/DT approaching/VBG soldiers/NNS ]
+./. 
+
+[ The/DT Paris/NNP meeting/NN ]
+featured/VBD 
+[ French/NNP biscuits/NNS ]
+and/CC 
+[ a/DT helpful/JJ hotel/NN staff/NN ]
+./. 
+
+[ The/DT determination/NN ]
+was/VBD 
+[ the/DT same/JJ ]
+,/, however/RB ,/, as/IN that/IN 
+[ which/WDT ]
+caught/VBD 
+[ the/DT sympathy/NN ]
+of/IN 
+[ the/DT Free/JJ World/NN ]
+when/WRB 
+[ TV/NN cameras/NNS ]
+focused/VBD on/IN 
+[ China/NNP 's/POS 1989/CD protests/NNS ]
+./. 
+
+======================================
+
+[ The/DT Evry/NNP meeting/NN ]
+generated/VBD 
+[ intense/JJ debate/NN ]
+about/IN 
+[ the/DT best/JJS way/NN ]
+to/TO preserve/VB 
+[ the/DT democratic/JJ aims/NNS ]
+of/IN 
+[ the/DT movement/NN ]
+./. 
+
+[ A/DT draft/NN charter/NN ]
+drawn/VBN up/IN by/IN 
+[ some/DT older/JJR delegates/NNS ]
+was/VBD revised/VBN to/TO provide/VB 
+[ a/DT more/RBR balanced/JJ leadership/NN ]
+./. 
+
+For/IN 
+[ several/JJ days/NNS ]
+after/IN 
+[ the/DT conference/NN ]
+ended/VBN 
+[ Sunday/NNP ]
+,/, 
+[ small/JJ groups/NNS ]
+were/VBD still/RB 
+[ thrashing/VBG ]
+out/IN 
+[ ways/NNS ]
+to/TO resolve/VB 
+[ their/PRP$ differences/NNS ]
+./. 
+
+[ Their/PRP$ aims/NNS ]
+are/VBP of/IN 
+[ the/DT democratic/JJ ]
+and/CC 
+[ capitalist/JJ variety/NN ]
+
+[ that/WDT ]
+deserve/VBP 
+[ support/NN ]
+not/RB only/RB from/IN 
+[ the/DT French/NNPS ]
+,/, but/CC also/RB from/IN 
+[ the/DT U.S./NNP State/NNP Department/NNP ]
+--/: 
+[ which/WDT ]
+in/IN 
+[ its/PRP$ eagerness/NN ]
+to/TO stay/VB cozy/RB with/IN 
+[ the/DT Chinese/JJ regime/NN ]
+has/VBZ at/IN 
+[ best/JJS played/VBN pickup/NN ]
+to/TO 
+[ the/DT French/NNPS ]
+in/IN aiding/VBG 
+[ China/NNP 's/POS democratic/JJ movement/NN ]
+./. 
+
+======================================
+
+[ The/DT prime/JJ concern/NN ]
+of/IN 
+[ the/DT Bush/NNP administration/NN ]
+so/RB far/RB seems/VBZ to/TO be/VB 
+[ the/DT preservation/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ stable/JJ ]
+''/'' 
+[ situation/NN ]
+in/IN 
+[ China/NNP ]
+./. 
+
+[ The/DT FDC/NNP 's/POS new/JJ general/JJ secretary/NN ]
+,/, exiled/VBD 
+[ Chinese/JJ businessman/NN Wan/NNP Runnan/NNP ]
+,/, addressed/VBD 
+[ this/DT issue/NN Sunday/NNP evening/NN ]
+at/IN 
+[ a/DT news/NN conference/NN ]
+held/VBN by/IN 
+[ the/DT group/NN 's/POS board/NN ]
+of/IN 
+[ directors/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+understand/VBP that/IN 
+[ a/DT stable/JJ China/NNP ]
+is/VBZ in/IN 
+[ the/DT interest/NN ]
+of/IN 
+[ the/DT United/NNP States/NNPS ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Wan/NNP ]
+./. 
+
+But/CC 
+[ he/PRP ]
+questioned/VBD whether/IN 
+[ it/PRP ]
+is/VBZ possible/JJ now/RB to/TO have/VB 
+[ a/DT stable/JJ China/NNP ]
+./. 
+
+[ Both/DT ]
+
+[ he/PRP ]
+and/CC 
+[ the/DT FDC/NNP 's/POS new/JJ chairman/NN ]
+,/, 
+[ Yan/NNP Jiaqi/NNP ]
+,/, pointed/VBD out/RB 
+[ that/DT communist/NN rule/NN ]
+has/VBZ produced/VBN 
+[ a/DT corrupt/JJ ]
+,/, 
+[ inefficient/JJ ]
+and/CC 
+[ repressive/JJ regime/NN ]
+--/: facing/VBG yet/RB 
+[ another/DT massive/JJ power/NN struggle/NN ]
+when/WRB 
+[ Deng/NNP Xiaoping/NNP ]
+dies/VBZ ./. 
+
+[ Internal/JJ power/NN grabs/NNS ]
+in/IN 
+[ the/DT past/NN ]
+have/VBP produced/VBN 
+[ such/JJ horrors/NNS ]
+as/IN 
+[ the/DT Great/NNP Leap/NNP Forward/NNP ]
+and/CC 
+[ the/DT 1965-75/CD Cultural/NNP Revolution/NNP ]
+,/, in/IN 
+[ which/WDT millions/NNS ]
+died/VBD and/CC 
+[ hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+suffered/VBD ./. 
+
+``/`` 
+[ China/NNP ]
+is/VBZ hopeless/JJ without/IN 
+[ democracy/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Wan/NNP ]
+,/, adding/VBG ,/, ``/`` 
+[ I/PRP ]
+believe/VBP that/IN making/VBG 
+[ a/DT democratic/JJ ]
+and/CC 
+[ stable/JJ China/NNP ]
+will/MD be/VB in/IN 
+[ the/DT interest/NN ]
+of/IN 
+[ the/DT United/NNP States/NNPS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT list/NN ]
+of/IN 
+[ FDC/NNP delegates/NNS ]
+included/VBD 
+[ a/DT virtual/JJ ]
+
+[ who/WP ]
+
+[ 's/VBZ ]
+
+[ who/WP ]
+of/IN 
+[ the/DT Chinese/JJ liberal/JJ thinkers/NNS ]
+
+[ who/WP ]
+helped/VBD lead/VB 
+[ the/DT protests/NNS ]
+in/IN 
+[ Beijing/NNP ]
+and/CC were/VBD lucky/JJ enough/RB to/TO escape/VB into/IN 
+[ exile/NN ]
+:/: 
+[ people/NNS ]
+such/JJ as/IN 
+[ Mr./NNP Yan/NNP ]
+,/, 
+[ who/WP ]
+in/IN 
+[ China/NNP ]
+was/VBD 
+[ the/DT head/NN ]
+of/IN 
+[ the/DT Beijing/NNP Academy/NNP ]
+of/IN 
+[ Social/NNP Sciences/NNPS ]
+;/: 
+[ Beijing/NNP student/NN leader/NN Wuer/NNP Kaixi/NNP ]
+,/, just/RB elected/VBN 
+[ vice/NN chairman/NN ]
+ (/( 
+[ his/PRP$ name/NN ]
+sometimes/RB appears/VBZ as/IN 
+[ Uerkesh/NNP Daolet/NNP ]
+ )/) ;/: 
+[ Nanjing/NNP student/NN leader/NN Li/NNP Lu/NNP ]
+,/, recently/RB enrolled/VBN at/IN 
+[ Columbia/NNP University/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+;/: 
+[ another/DT social/JJ scientist/NN ]
+,/, 
+[ Chen/NNP Yizi/NNP ]
+;/: and/CC 
+[ film/NN director/NN Su/NNP Xiao/NNP Kang/NNP ]
+./. 
+
+Since/IN 
+[ the/DT June/NNP 3-4/CD attack/NN ]
+on/IN 
+[ Tiananmen/NNP Square/NNP ]
+,/, 
+[ many/JJ ]
+of/IN 
+[ their/PRP$ colleagues/NNS ]
+back/RB 
+[ home/NN ]
+have/VBP been/VBN arrested/VBN or/CC killed/VBN ./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT sign/NN ]
+of/IN 
+[ the/DT will/NN ]
+driving/VBG 
+[ this/DT movement/NN ]
+that/IN less/JJR than/IN 
+[ four/CD months/NNS ]
+after/IN 
+[ some/DT ]
+of/IN 
+[ these/DT delegates/NNS ]
+fled/VBD 
+[ China/NNP ]
+,/, 
+[ they/PRP ]
+already/RB have/VBP regrouped/VBN in/IN 
+[ exile/NN ]
+,/, set/VBN up/RP 
+[ a/DT world-wide/JJ federation/NN ]
+,/, and/CC vowed/VBD in/IN 
+[ their/PRP$ manifesto/NN ]
+``/`` to/TO advance/VB 
+[ the/DT cause/NN ]
+of/IN 
+[ democracy/NN ]
+''/'' at/IN 
+[ home/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ hardly/RB 
+[ the/DT first/JJ time/NN ]
+that/IN 
+[ Chinese/JJ political/JJ outcasts/NNS ]
+have/VBP sought/VBN 
+[ refuge/NN ]
+and/CC 
+[ support/NN ]
+in/IN 
+[ France/NNP ]
+./. 
+
+[ China/NNP 's/POS 85-year-old/JJ supreme/NN leader/NN Deng/NNP Xiaoping/NNP ]
+came/VBD to/TO 
+[ Paris/NNP ]
+to/TO meet/VB 
+[ fellow/JJ communists/NNS ]
+in/IN 
+[ the/DT 1920s/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ Asia/NNP 's/POS other/JJ notorious/JJ communists/NNS ]
+also/RB studied/VBD or/CC sought/VBD 
+[ support/NN ]
+in/IN 
+[ Paris/NNP ]
+in/IN 
+[ their/PRP$ day/NN ]
+,/, including/VBG 
+[ Vietnam/NNP 's/POS Ho/NNP Chi/NNP Minh/NNP ]
+and/CC 
+[ Cambodia/NNP 's/POS Pol/NNP Pot/NNP ]
+./. 
+
+[ This/DT time/NN ]
+
+[ the/DT emigre/NN ]
+dissidents/NNS have/VBP got/VBN 
+[ themselves/PRP ]
+on/IN 
+[ the/DT right/JJ course/NN ]
+./. 
+
+[ They/PRP ]
+have/VBP seen/VBN enough/RB of/IN 
+[ the/DT wreck/NN ]
+
+[ the/DT communists/NNS ]
+have/VBP made/VBN of/IN 
+[ China/NNP ]
+during/IN 
+[ the/DT past/JJ 40/CD years/NNS ]
+;/: at/IN 
+[ their/PRP$ meeting/NN ]
+in/IN 
+[ Evry/NNP ]
+
+[ they/PRP ]
+did/VBD not/RB even/RB give/VB 
+[ lip/JJ service/NN ]
+to/TO 
+[ building/NN ]
+
+[ a/DT ]
+``/`` 
+[ better/JJR communist/NN system/NN ]
+''/'' --/: as/IN 
+[ some/DT cautious/JJ reformers/NNS ]
+tend/VBP to/TO do/VB when/WRB playing/VBG to/TO 
+[ the/DT secret/JJ police/NN ]
+and/CC 
+[ party/NN toughs/NNS ]
+back/RB in/IN Beijing/NNP ./. 
+
+======================================
+
+[ The/DT FDC/NNP manifesto/NN ]
+signed/VBN by/IN 
+[ Mr./NNP Yan/NNP ]
+and/CC 
+[ Wuer/NNP Kaixi/NNP ]
+is/VBZ fundamentally/RB anti-communist/JJ ./. 
+
+[ It/PRP ]
+recognizes/VBZ 
+[ the/DT link/NN ]
+between/IN 
+[ property/NN ]
+and/CC 
+[ liberty/NN ]
+./. 
+
+Among/IN 
+[ its/PRP$ statements/NNS ]
+:/: ``/`` Taking/VBG away/RB 
+[ the/DT property/NN rights/NNS ]
+of/IN 
+[ the/DT citizens/NNS ]
+in/IN 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT state/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT important/JJ causes/NNS ]
+of/IN 
+[ economic/JJ stagnation/NN ]
+and/CC 
+[ political/JJ dictatorship/NN ]
+in/IN 
+[ all/DT countries/NNS ]
+dominated/VBN by/IN 
+[ a/DT communist/NN party/NN ]
+./. 
+
+''/'' 
+[ The/DT manifesto/NN ]
+adds/VBZ 
+[ another/DT crucial/JJ insight/NN ]
+:/: ``/`` 
+[ Returning/VBG society/NN 's/POS wealth/NN ]
+to/TO 
+[ the/DT people/NNS ]
+and/CC developing/VBG 
+[ private/JJ enterprise/NN ]
+is/VBZ 
+[ the/DT only/JJ road/NN ]
+
+[ that/WDT ]
+will/MD let/VB 
+[ China/NNP ]
+find/VB 
+[ a/DT way/NN ]
+out/IN of/IN 
+[ its/PRP$ difficulties/NNS ]
+and/CC achieve/VB 
+[ modernization/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ This/DT ]
+,/, of/IN 
+[ course/NN ]
+,/, is/VBZ 
+[ what/WP ]
+
+[ many/JJ ]
+in/IN 
+[ the/DT West/NNP ]
+had/VBD hoped/VBN 
+[ Mr./NNP Deng/NNP ]
+and/CC 
+[ some/DT ]
+of/IN 
+[ his/PRP$ fellow/JJ cadres/NNS ]
+were/VBD aiming/VBG to/TO achieve/VB with/IN 
+[ China/NNP 's/POS economic/JJ liberalizations/NNS ]
+of/IN 
+[ the/DT past/JJ 10/CD years/NNS ]
+./. 
+
+[ That/DT ambition/NN ]
+now/RB seems/VBZ to/TO have/VB survived/VBN only/RB underground/JJ in/IN 
+[ China/NNP ]
+or/CC among/IN 
+[ Chinese/NNPS ]
+abroad/RB ./. 
+
+======================================
+
+[ What/WP ]
+
+[ the/DT FDC/NNP ]
+might/MD do/VB 
+[ next/RB ]
+is/VBZ vague/JJ ./. 
+
+[ The/DT federation/NN 's/POS goals/NNS ]
+for/IN now/RB are/VBP to/TO publicize/VB 
+[ the/DT arrests/NNS ]
+and/CC 
+[ general/JJ persecution/NN ]
+continuing/VBG inside/IN 
+[ China/NNP ]
+,/, try/VB to/TO drum/VB up/RP 
+[ world/NN pressure/NN ]
+for/IN 
+[ change/NN ]
+by/IN 
+[ the/DT Chinese/JJ regime/NN ]
+,/, and/CC try/VB to/TO ensure/VB 
+[ that/DT news/NN ]
+of/IN 
+[ this/DT ]
+gets/VBZ back/RB to/TO 
+[ the/DT people/NNS ]
+of/IN 
+[ China/NNP ]
+./. 
+
+[ The/DT group/NN ]
+says/VBZ 
+[ it/PRP ]
+plans/VBZ to/TO stick/VB to/TO 
+[ peaceful/JJ methodsm/NN ] 
+--/: but/CC is/VBZ still/RB mulling/VBG over/RP  just/RB 
+[ what/WP ]
+
+[ these/DT ]
+might/MD be/VB ./. 
+
+[ A/DT visitor/NN ]
+to/TO 
+[ the/DT FDC/NNP press/NN office/NN ]
+just/RB set/VBN up/RB at/IN 
+[ 10/CD Rue/NNP Faraday/NNP ]
+in/IN 
+[ Paris/NNP ]
+finds/VBZ 
+[ stacks/NNS ]
+of/IN 
+[ boxes/NNS ]
+yet/RB to/TO be/VB unpacked/JJ in/IN 
+[ the/DT four-room/JJ apartment/NN ]
+,/, and/CC 
+[ two/CD personal/JJ computers/NNS ]
+yet/RB to/TO be/VB hooked/VBN up/RB ./. 
+
+[ The/DT first/JJ priority/NN ]
+has/VBZ been/VBN to/TO get/VB 
+[ the/DT organization/NN ]
+up/RB and/CC running/VBG ;/: now/RB comes/VBZ 
+[ the/DT tough/JJ business/NN ]
+of/IN taking/VBG on/RP --/: somehow/RB --/: 
+[ the/DT Chinese/JJ government/NN ]
+./. 
+
+======================================
+
+[ The/DT manifesto/NN ]
+of/IN 
+[ the/DT Federation/NN ]
+for/IN 
+[ a/DT Democratic/NNP China/NNP ]
+does/VBZ acknowledge/VB 
+[ drawing/VBG inspiration/NN ]
+from/IN 
+[ the/DT Nationalist/NNP government/NN ]
+on/IN 
+[ Taiwan/NNP ]
+./. 
+
+``/`` 
+[ The/DT FDC/NNP ]
+,/, ''/'' 
+[ it/PRP ]
+says/VBZ ,/, ``/`` is/VBZ intimately/RB concerned/JJ with/IN 
+[ the/DT democratization/NN process/NN ]
+of/IN 
+[ Taiwan/NNP ]
+,/, and/CC sees/VBZ 
+[ it/PRP ]
+as/IN 
+[ a/DT profound/JJ influence/NN ]
+for/IN 
+[ the/DT cause/NN ]
+of/IN 
+[ democracy/NN ]
+in/IN 
+[ China/NNP ]
+and/CC 
+[ the/DT rebirth/NN ]
+of/IN 
+[ the/DT Chinese/JJ nation/NN ]
+./. 
+
+''/'' 
+[ The/DT FDC/NNP ]
+is/VBZ also/RB well/RB aware/JJ that/IN 
+[ a/DT failure/NN ]
+to/TO adhere/VB to/TO 
+[ democratic/JJ principles/NNS ]
+cost/VB 
+[ the/DT Nationalist/JJ regime/NN ]
+
+[ the/DT support/NN ]
+
+[ it/PRP ]
+otherwise/RB might/MD have/VB enjoyed/VBN --/: in/IN 
+[ China/NNP ]
+and/CC abroad/RB --/: in/IN 
+[ its/PRP$ own/JJ campaign/NN ]
+to/TO topple/VB 
+[ the/DT communist/NN dictatorship/NN ]
+on/IN 
+[ the/DT mainland/NN ]
+./. 
+
+======================================
+
+[ Miss/NNP Rosett/NNP ]
+is/VBZ 
+[ editorial/JJ page/NN editor/NN ]
+of/IN 
+[ The/NNP Asian/NNP Wall/NNP Street/NNP Journal/NNP ]
+./. 

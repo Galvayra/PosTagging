@@ -1,0 +1,59 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Constar/NNP International/NNP Inc./NNP ]
+said/VBD 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+declared/VBD 
+[ effective/JJ ]
+
+[ the/DT company/NN 's/POS registration/NN statement/NN ]
+covering/VBG 
+[ the/DT ]
+previously/RB announced/JJ 
+[ offering/NN ]
+of/IN 
+[ 750,000/CD common/JJ shares/NNS ]
+at/IN 
+[ $/$ 31/CD each/DT ]
+./. 
+
+======================================
+
+[ The/DT shares/NNS ]
+are/VBP being/VBG offered/VBN through/IN 
+[ a/DT syndicate/NN ]
+of/IN 
+[ underwriters/NNS ]
+headed/VBN by/IN 
+[ PaineWebber/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Constar/NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ plastic/NN containers/NNS ]
+,/, said/VBD 
+[ proceeds/NNS ]
+will/MD be/VB used/VBN to/TO repay/VB 
+[ bank/NN debt/NN ]
+./. 

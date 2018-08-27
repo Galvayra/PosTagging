@@ -1,0 +1,1288 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1801/CD ]
+./. 
+
+[ You/PRP ]
+can/MD also/RB automatically/RB run/VB 
+[ the/DT saved/VBN transfer/NN request/NN ]
+using/VBG 
+[ the/DT automatic/JJ transfer/NN function/NN ]
+./. 
+
+[ 1802/CD ]
+./. 
+
+For/IN 
+[ details/NNS ]
+,/, refer/VB to/TO ``/`` Using/VBG 
+[ the/DT Automatic/NNP Transfer/NNP Function/NNP Programs/NNPS ''/'' ]
+in/IN 
+[ topic/NN 7.11/CD ]
+./. 
+
+[ 1803/CD ]
+./. 
+
+[ You/PRP ]
+should/MD save/VB 
+[ a/DT transfer/NN request/NN ]
+if/IN 
+[ you/PRP ]
+need/VBP to/TO transfer/VB 
+[ the/DT same/JJ information/NN ]
+often/RB ./. 
+
+[ 1804/CD ]
+./. 
+
+Saving/VBG 
+[ a/DT transfer/NN request/NN ]
+prevents/VBZ 
+[ you/PRP ]
+from/IN having/VBG to/TO create/VB 
+[ a/DT transfer/NN request/NN ]
+
+[ each/DT time/NN ]
+
+[ you/PRP ]
+want/VBP to/TO transfer/VB 
+[ this/DT information/NN ]
+./. 
+
+[ 1805/CD ]
+./. 
+
+To/TO save/VB 
+[ a/DT transfer/NN request/NN ]
+,/, select/VB Save/VB on/IN 
+[ the/DT action/NN ]
+list/NN and/CC press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1806/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ a/DT list/NN ]
+of/IN 
+[ all/PDT the/DT transfer/NN request/NN names/NNS ]
+on/IN 
+[ the/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+,/, 
+[ you/PRP ]
+can/MD press/VB 
+[ F4/NNP ]
+./. 
+
+[ 1807/CD ]
+./. 
+
+To/TO limit/VB 
+[ the/DT number/NN ]
+of/IN 
+[ names/NNS ]
+listed/VBN ,/, specify/VB 
+[ part/NN ]
+of/IN 
+[ a/DT name/NN ]
+using/VBG 
+[ a/DT global/JJ file/NN name/NN character/NN ]
+(/( 
+[ */SYM ]
+or/CC ?/SYM 
+
+)/) 
+[ 1808/CD ]
+./. 
+
+in/IN 
+[ the/DT transfer/NN request/NN name/NN input/NN area/NN ]
+./. 
+
+[ 1809/CD ]
+./. 
+
+In/IN 
+[ this/DT case/NN ]
+,/, pressing/VBG 
+[ F4/NNP lists/VBZ all/DT ]
+of/IN 
+[ the/DT transfer/NN request/NN names/NNS ]
+
+[ that/WDT ]
+are/VBP 
+[ the/DT same/JJ ]
+as/IN 
+[ the/DT characters/NNS you/PRP ]
+typed/VBD ./. 
+
+[ 1810/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specify/VBP only/RB 
+[ a/DT period/NN ]
+(/( ./. 
+
+)/) 
+[ 1811/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT Arrow/NN ]
+keys/NNS to/TO find/VB 
+[ the/DT transfer/NN request/NN name/NN ]
+
+[ you/PRP ]
+want/VBP ,/, and/CC then/RB 
+[ you/PRP ]
+can/MD press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+to/TO select/VB 
+[ it/PRP ]
+./. 
+
+[ 1812/CD ]
+./. 
+
+[ This/DT ]
+automatically/RB copies/VBZ 
+[ the/DT name/NN ]
+from/IN 
+[ the/DT list/NN ]
+to/TO 
+[ the/DT transfer/NN request/NN name/NN input/NN area/NN ]
+./. 
+
+[ 1813/CD ]
+./. 
+
+[ The/DT option/NN ]
+
+[ you/PRP ]
+select/VBP determines/VBZ if/IN 
+[ the/DT data/NN ]
+in/IN 
+[ the/DT file/NN ]
+is/VBZ automatically/RB replaced/VBN ./. 
+
+[ 1814/CD ]
+./. 
+
+Yes/UH ,/, if/IN 
+[ the/DT file/NN ]
+should/MD be/VB replaced/VBN (/( if/IN 
+[ it/PRP ]
+exists/VBZ )/) ./. 
+
+[ 1815/CD ]
+./. 
+
+No/UH ,/, if/IN 
+[ the/DT file/NN ]
+should/MD not/RB be/VB replaced/VBN ./. 
+
+[ 1816/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP creating/VBG 
+[ the/DT file/NN ]
+(/( 
+[ it/PRP ]
+does/VBZ not/RB already/RB exist/VB )/) ,/, 
+[ you/PRP ]
+should/MD specify/VB Yes/UH ./. 
+
+[ 1817/CD ]
+./. 
+
+[ It/PRP ]
+allows/VBZ 
+[ you/PRP ]
+to/TO type/VB 
+[ a/DT short/JJ description/NN ]
+of/IN 
+[ the/DT transfer/NN request/NN ]
+./. 
+
+[ 1818/CD ]
+./. 
+
+[ The/DT description/NN ]
+can/MD be/VB up/IN to/TO 
+[ 40/CD characters/NNS ]
+long/RB ./. 
+
+[ 1819/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+selected/VBD 
+[ the/DT transfer/NN request/NN name/NN ]
+from/IN 
+[ a/DT list/NN ]
+,/, 
+[ the/DT description/NN ]
+is/VBZ automatically/RB copied/VBN into/IN 
+[ the/DT input/NN area/NN ]
+for/IN 
+[ this/DT prompt/NN ]
+./. 
+
+[ 1820/CD ]
+./. 
+
+[ The/DT transfer/NN request/NN ]
+is/VBZ saved/VBN in/IN 
+[ the/DT specified/VBN personal/JJ computer/NN disk/NN ]
+or/CC 
+[ diskette/NN file/NN ]
+./. 
+
+[ 1821/CD ]
+./. 
+
+[ The/DT transfer/NN request/NN ]
+is/VBZ saved/VBN in/IN 
+[ a/DT personal/JJ computer/NN file/NN ]
+
+[ that/WDT ]
+is/VBZ intended/VBN for/IN 
+[ use/NN ]
+only/RB by/IN 
+[ the/DT transfer/NN function/NN ]
+./. 
+
+[ 1822/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ the/DT transfer/NN request/NN ]
+using/VBG 
+[ the/DT following/VBG format/NN ]
+:/: 
+[ 1823/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP 
+[ a/DT list/NN ]
+of/IN 
+[ all/PDT the/DT transfer/NN request/NN file/NN names/NNS ]
+on/IN 
+[ the/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+,/, 
+[ press/VB F4/NNP ]
+./. 
+
+[ 1824/CD ]
+./. 
+
+In/IN 
+[ this/DT case/NN ]
+,/, pressing/VBG 
+[ F4/NNP ]
+lists/VBZ 
+[ all/DT the/DT transfer/NN request/NN names/NNS ]
+
+[ that/WDT ]
+are/VBP 
+[ the/DT same/JJ ]
+as/IN 
+[ the/DT characters/NNS you/PRP ]
+typed/VBD ./. 
+
+[ 1825/CD ]
+./. 
+
+for/IN 
+[ the/DT extension/NN ]
+,/, 
+[ no/DT extension/NN ]
+is/VBZ used/VBN ./. 
+
+[ 1826/CD ]
+./. 
+
+[ This/DT ]
+automatically/RB copies/VBZ 
+[ the/DT selected/VBN name/NN ]
+to/TO 
+[ the/DT transfer/NN request/NN name/NN input/NN area/NN ]
+./. 
+
+[ 1827/CD ]
+./. 
+
+After/IN 
+[ you/PRP ]
+type/VBP 
+[ the/DT transfer/NN request/NN name/NN ]
+,/, press/VB 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1828/CD ]
+./. 
+
+[ The/DT transfer/NN request/NN ]
+is/VBZ read/VBN from/IN 
+[ the/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+and/CC becomes/VBZ 
+[ the/DT current/JJ transfer/NN request/NN ]
+./. 
+
+[ 1829/CD ]
+./. 
+
+[ You/PRP ]
+can/MD end/VB 
+[ the/DT transfer/NN function/NN ]
+by/IN 
+[ selecting/VBG Exit/VB ]
+on/IN 
+[ the/DT action/NN list/NN ]
+and/CC pressing/VBG 
+[ the/DT ]
+Enter/NNP 
+[ key/NN ]
+./. 
+
+[ 1830/CD ]
+./. 
+
+[ There/EX ]
+are/VBP 
+[ two/CD interactive/JJ programs/NNS ]
+:/: 
+[ 1831/CD ]
+./. 
+
+To/TO start/VB 
+[ the/DT interactive/JJ transfer/NN ]
+of/IN 
+[ data/NNS ]
+from/IN 
+[ the/DT host/NN system/NN ]
+to/TO 
+[ the/DT personal/JJ computer/NN type/NN ]
+:/: where/WRB :/: 
+[ transfer-request-filename/NN ]
+is/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT transfer/NN request/NN ]
+previously/RB created/VBN and/CC saved/VBN ./. 
+
+[ 1832/CD ]
+./. 
+
+To/TO start/VB 
+[ the/DT interactive/JJ transfer/NN ]
+of/IN 
+[ data/NNS ]
+from/IN 
+[ the/DT personal/JJ computer/NN ]
+to/TO 
+[ the/DT host/NN system/NN type/NN ]
+:/: where/WRB :/: 
+[ transfer-request-filename/NN ]
+is/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT transfer/NN request/NN ]
+previously/RB created/VBN and/CC saved/VBN ./. 
+
+[ 1833/CD ]
+./. 
+
+[ The/DT automatic/JJ transfer/NN function/NN programs/NNS ]
+run/VBP 
+[ a/DT ]
+previously/RB created/VBN and/CC saved/VBN 
+[ transfer/NN request/NN ]
+without/IN prompting/VBG 
+[ you/PRP ]
+for/IN 
+[ information/NN ]
+./. 
+
+[ 1834/CD ]
+./. 
+
+To/TO create/VB and/CC save/VB 
+[ a/DT transfer/NN request/NN ]
+,/, 
+[ you/PRP ]
+must/MD use/VB 
+[ the/DT interactive/JJ transfer/NN function/NN ]
+./. 
+
+[ 1835/CD ]
+./. 
+
+To/TO start/VB 
+[ the/DT program/NN ]
+,/, enter/VB 
+[ the/DT following/VBG command/NN ]
+at/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: where/WRB 
+[ transfer-request-filename/NN ]
+specifies/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ a/DT transfer/NN request/NN ]
+
+[ that/WDT ]
+was/VBD previously/RB created/VBN and/CC saved/VBN ./. 
+
+[ 1836/CD ]
+./. 
+
+[ The/DT transfer-request-filename/NN ]
+is/VBZ required/VBN ./. 
+
+[ 1837/CD ]
+./. 
+
+[ The/DT file/NN name/NN ]
+can/MD be/VB from/IN 
+[ 1/CD ]
+to/TO 
+[ 8/CD characters/NNS ]
+long/RB and/CC is/VBZ required/VBN in/IN 
+[ the/DT command/NN ]
+./. 
+
+[ 1838/CD ]
+./. 
+
+[ The/DT extension/NN ]
+consists/VBZ of/IN 
+[ a/DT period/NN ]
+(/( ./. 
+
+)/) 
+[ 1839/CD ]
+./. 
+
+and/CC 
+[ 3/CD characters/NNS ]
+immediately/RB following/VBG 
+[ the/DT file/NN name/NN ]
+./. 
+
+[ 1840/CD ]
+./. 
+
+with/IN 
+[ no/DT characters/NNS ]
+following/VBG 
+[ it/PRP ]
+,/, 
+[ no/DT extension/NN ]
+is/VBZ used/VBN ./. 
+
+[ 1841/CD ]
+./. 
+
+[ Your/PRP$ transfer/NN request/NN ]
+is/VBZ running/VBG After/IN 
+[ the/DT transfer/NN request/NN runs/VBZ ]
+,/, 
+[ the/DT transferred/VBN records/NNS ]
+are/VBP sent/VBN to/TO 
+[ the/DT output/NN device/NN ]
+specified/VBN in/IN 
+[ the/DT transfer/NN request/NN ]
+./. 
+
+[ 1842/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specified/VBD 
+[ Display/NNP ]
+for/IN 
+[ the/DT Output/NNP device/NN prompt/NN ]
+,/, 
+[ the/DT transferred/VBN records/NNS ]
+are/VBP sent/VBN to/TO 
+[ the/DT display/NN ]
+./. 
+
+[ 1843/CD ]
+./. 
+
+[ Each/DT record/NN ]
+is/VBZ shown/VBN using/VBG 
+[ one/CD ]
+or/CC 
+[ more/JJR lines/NNS ]
+of/IN 
+[ the/DT display/NN ]
+,/, depending/VBG on/IN 
+[ the/DT length/NN ]
+of/IN 
+[ the/DT record/NN ]
+./. 
+
+[ 1844/CD ]
+./. 
+
+[ The/DT output/NN ]
+is/VBZ printed/VBN by/IN 
+[ the/DT values/NNS ]
+specified/VBN in/IN 
+[ the/DT transfer/NN request/NN ]
+./. 
+
+[ 1845/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+are/VBP printing/VBG on/IN 
+[ a/DT virtual/JJ printer/NN ]
+,/, 
+[ these/DT characteristics/NNS ]
+might/MD not/RB be/VB 
+[ reset/VBN ]
+./. 
+
+[ 1846/CD ]
+./. 
+
+[ The/DT format/NN ]
+of/IN 
+[ transferred/VBN data/NN ]
+is/VBZ being/VBG printed/VBN 
+[ You/PRP ]
+can/MD press/VB 
+[ the/DT Esc/NNP key/NN ]
+to/TO stop/VB printing/VBG 
+[ the/DT format/NN ]
+of/IN 
+[ transferred/VBN data/NNS ]
+./. 
+
+[ 1847/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specified/VBD that/IN 
+[ the/DT personal/NN computer/NN file/NN description/NN ]
+should/MD be/VB saved/VBN ,/, 
+[ the/DT following/VBG message/NN ]
+appears/VBZ while/IN 
+[ the/DT file/NN description/NN ]
+is/VBZ being/VBG written/VBN to/TO 
+[ the/DT specified/VBN disk/NN ]
+or/CC 
+[ diskette/NN file/NN ]
+:/: 
+[ 1848/CD ]
+./. 
+
+Retrieved/VBN 
+[ data/NN records/NNS ]
+are/VBP being/VBG written/VBN to/TO disk/NN If/IN 
+[ you/PRP ]
+want/VBP to/TO stop/VB writing/VBG 
+[ records/NNS ]
+to/TO 
+[ the/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+before/IN 
+[ the/DT transfer/NN request/NN ends/VBZ ]
+,/, 
+[ you/PRP ]
+can/MD press/VB 
+[ the/DT Esc/NNP key/NN ]
+./. 
+
+[ 1849/CD ]
+./. 
+
+[ Release/NN 3.0/CD Level/NN 00/CD ]
+./. 
+
+[ 1850/CD ]
+./. 
+
+[ You/PRP ]
+can/MD end/VB 
+[ the/DT transfer/NN request/NN ]
+at/IN 
+[ any/DT time/NN ]
+by/IN pressing/VBG 
+[ the/DT Esc/NNP key/NN ]
+./. 
+
+[ 1851/CD ]
+./. 
+
+[ You/PRP ]
+can/MD specify/VB 
+[ a/DT character/NN string/NN ]
+or/CC 
+[ a/DT number/NN ]
+as/IN 
+[ a/DT constant/NN ]
+./. 
+
+[ 1852/CD ]
+./. 
+
+[ A/DT character/NN string/NN ]
+must/MD be/VB enclosed/VBN in/IN 
+[ apostrophes/NNS ]
+./. 
+
+[ 1853/CD ]
+./. 
+
+If/IN 
+[ the/DT character/NN string/NN ]
+is/VBZ longer/JJR than/IN 
+[ the/DT specified/VBN field/NN ]
+,/, 
+[ the/DT character/NN string/NN ]
+is/VBZ truncated/VBN ./. 
+
+[ 1854/CD ]
+./. 
+
+[ A/DT search/NN ]
+is/VBZ made/VBN for/IN 
+[ the/DT exact/JJ characters/NNS you/PRP ]
+specify/VBP ./. 
+
+[ 1855/CD ]
+./. 
+
+[ That/DT ]
+is/VBZ ,/, if/IN 
+[ you/PRP ]
+specify/VBP 
+[ only/JJ uppercase/NN characters/NNS ]
+,/, 
+[ a/DT search/NN ]
+is/VBZ made/VBN only/RB for/IN 
+[ uppercase/NN letters/NNS ]
+./. 
+
+[ 1856/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+specify/VBP 
+[ only/JJ lowercase/NN characters/NNS ]
+,/, 
+[ a/DT search/NN ]
+is/VBZ made/VBN only/RB for/IN 
+[ lowercase/NN letters/NNS ]
+./. 
+
+[ 1857/CD ]
+./. 
+
+[ A/DT number/NN ]
+may/MD include/VB 
+[ an/DT optional/JJ sign/NN ]
+(/( 
+[ +/SYM ]
+or/CC -/SYM: )/) and/CC 
+[ an/DT optional/JJ decimal/NN point/NN ]
+./. 
+
+[ 1858/CD ]
+./. 
+
+Either/CC 
+[ a/DT period/NN ]
+(/( ./. 
+
+)/) 
+[ 1859/CD ]
+./. 
+
+or/CC 
+[ a/DT comma/NN ]
+(/( ,/, )/) can/MD be/VB used/VBN for/IN 
+[ the/DT decimal/JJ point/NN ]
+./. 
+
+[ 1860/CD ]
+./. 
+
+[ The/DT specified/VBN field/NN ]
+must/MD be/VB 
+[ a/DT character/NN field/NN ]
+./. 
+
+[ 1861/CD ]
+./. 
+
+[ The/DT string/NN ]
+may/MD contain/VB 
+[ any/DT character/NN ]
+./. 
+
+[ 1862/CD ]
+./. 
+
+[ The/DT percent/NN ]
+(/( 
+[ %/SYM ]
+{/( 
+[ }/) ]
+)/) 
+[ character/NN ]
+represents/VBZ 
+[ any/DT character/NN string/NN ]
+of/IN 
+[ zero/CD ]
+or/CC 
+[ more/JJR characters/NNS ]
+./. 
+
+[ 1863/CD ]
+./. 
+
+[ The/DT underscore/NN ]
+(/( \/SYM _/SYM 
+[ {/( ]
+
+[ }/) ]
+)/) 
+[ character/NN ]
+represents/VBZ 
+[ any/DT single/JJ character/NN ]
+./. 
+
+[ 1864/CD ]
+./. 
+
+[ The/DT following/VBG examples/NNS ]
+show/VBP 
+[ the/DT use/NN ]
+of/IN 
+[ the/DT LIKE/JJ test/NN ]
+:/: 
+[ 1865/CD ]
+./. 
+
+[ The/DT constants/NNS ]
+must/MD be/VB separated/VBN by/IN AND/CC ./. 
+
+[ 1866/CD ]
+./. 
+
+[ The/DT constants/NNS ]
+must/MD be/VB separated/VBN by/IN 
+[ blanks/NNS ]
+and/CC enclosed/VBN in/IN 
+[ parentheses/NNS ]
+;/: up/IN to/TO 
+[ 100/CD constants/NNS ]
+can/MD be/VB specified/VBN ./. 
+
+[ 1867/CD ]
+./. 
+
+[ Tests/NNS ]
+can/MD be/VB combined/VBN with/IN 
+[ a/DT logical/JJ ]
+AND/CC or/CC OR/CC ./. 
+
+[ 1868/CD ]
+./. 
+
+[ A/DT maximum/NN ]
+of/IN 
+[ 50/CD conditions/NNS ]
+can/MD be/VB specified/VBN ./. 
+
+[ 1869/CD ]
+./. 
+
+[ A/DT comparison/NN ]
+can/MD start/VB on/IN 
+[ one/CD line/NN ]
+and/CC 
+[ end/VB ]
+on/IN 
+[ the/DT next/JJ line/NN ]
+./. 
+
+[ 1870/CD ]
+./. 
+
+[ The/DT batch/NN return/NN codes/NNS ]
+are/VBP as/RB follows/VBZ ./. 
+
+[ 1871/CD ]
+./. 
+
+[ You/PRP ]
+have/VBP 
+[ the/DT option/NN ]
+of/IN changing/VBG 
+[ the/DT way/NN ]
+
+[ the/DT message/NN function/NN ]
+operates/VBZ ./. 
+
+[ 1872/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+use/VBP 
+[ the/DT PC/NNP Support/NNP editor/NN ]
+,/, 
+[ you/PRP ]
+must/MD make/VB 
+[ the/DT changes/NNS ]
+in/IN 
+[ the/DT configuration/NN file/NN ]
+
+[ yourself/PRP ]
+./. 
+
+[ 1873/CD ]
+./. 
+
+[ The/DT work/NN station/NN function/NN ]
+and/CC 
+[ the/DT message/NN function/NN ]
+use/VB 
+[ the/DT same/JJ message/NN queue/NN ]
+./. 
+
+[ 1874/CD ]
+./. 
+
+Therefore/RB ,/, if/IN 
+[ you/PRP ]
+start/VBP 
+[ the/DT work/NN station/NN function/NN ]
+before/IN 
+[ you/PRP ]
+start/VBP 
+[ the/DT message/NN function/NN ]
+,/, 
+[ you/PRP ]
+can/MD only/RB use/VB 
+[ the/DT message/NN function/NN ]
+to/TO send/VB 
+[ messages/NNS ]
+./. 
+
+[ 1875/CD ]
+./. 
+
+[ You/PRP ]
+also/RB have/VBP 
+[ the/DT option/NN ]
+of/IN starting/VBG 
+[ the/DT message/NN function/NN ]
+automatically/RB 
+[ each/DT time/NN PC/NNP Support/NNP ]
+is/VBZ started/VBN or/CC of/IN starting/VBG 
+[ it/PRP ]
+manually/RB 
+[ yourself/PRP ]
+from/IN 
+[ a/DT command/NN line/NN ]
+./. 
+
+[ 1876/CD ]
+./. 
+
+[ Select/VB Message/NNP function/NN ]
+from/IN 
+[ the/DT list/NN ]
+of/IN 
+[ functions/NNS ]
+on/IN 
+[ the/DT menu/NN ]
+./. 
+
+[ 1877/CD ]
+./. 
+
+From/IN 
+[ this/DT window/NN ]
+
+[ you/PRP ]
+can/MD select/VB to/TO start/VB 
+[ the/DT message/NN function/NN ]
+automatically/RB or/CC manually/RB ./. 
+
+[ 1878/CD ]
+./. 
+
+Enter/VB 
+[ values/NNS ]
+for/IN 
+[ the/DT following/VBG prompts/NNS ]
+ 
+[ */SYM Host/NN system/NN ]
+
+[ that/WDT ]
+controls/VBZ 
+[ the/DT messages/NNS ]
+./. 
+
+[ 1879/CD ]
+./. 
+
+Enter/VB 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT system/NN ]
+
+[ you/PRP ]
+want/VBP to/TO send/VB 
+[ messages/NNS ]
+to/TO and/CC receive/VB 
+[ messages/NNS ]
+from/IN ./. 
+
+[ 1880/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB specify/VB 
+[ a/DT system/NN name/NN ]
+,/, 
+[ your/PRP$ default/NN system/NN ]
+is/VBZ used/VBN ./. 
+
+[ 1881/CD ]
+./. 
+
+[ This/DT prompt/NN ]
+determines/VBZ how/WRB 
+[ you/PRP ]
+receive/VBP 
+[ your/PRP$ messages/NNS ]
+./. 
+
+[ 1882/CD ]
+./. 
+
+[ A/DT default/NN value/NN ]
+of/IN 
+[ 60/CD seconds/NNS ]
+is/VBZ specified/VBN for/IN 
+[ this/DT prompt/NN ]
+./. 
+
+[ 1883/CD ]
+./. 
+
+[ You/PRP ]
+can/MD enter/VB 
+[ a/DT number/NN ]
+from/IN 
+[ 1/CD ]
+to/TO 
+[ 3600/CD ]
+./. 
+
+[ 1884/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP not/RB want/VB to/TO use/VB 
+[ the/DT configuration/NN program/NN ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP Editor/NNP ]
+to/TO prepare/VB 
+[ the/DT message/NN function/NN ]
+for/IN 
+[ use/NN ]
+./. 
+
+[ 1885/CD ]
+./. 
+
+For/IN 
+[ the/DT remainder/NN ]
+of/IN 
+[ this/DT chapter/NN ]
+,/, 
+[ reference/NN ]
+will/MD be/VB made/VBN to/TO 
+[ the/DT configuration/NN file/NN ]
+./. 
+
+[ 1886/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+add/VBP or/CC change/VBP 
+[ any/DT ]
+of/IN 
+[ the/DT configuration/NN file/NN commands/NNS ]
+or/CC 
+[ identifiers/NNS ]
+,/, 
+[ the/DT changes/NNS ]
+are/VBP not/RB in/IN 
+[ effect/NN ]
+until/IN 
+[ the/DT next/JJ time/NN ]
+
+[ you/PRP ]
+enter/VBP 
+[ the/DT STARTMSG/NNP command/NN ]
+./. 
+
+[ 1887/CD ]
+./. 
+
+[ The/DT extension/NN ]
+consists/VBZ of/IN 
+[ a/DT period/NN ]
+and/CC up/IN to/TO 
+[ 3/CD characters/NNS ]
+./. 
+
+[ 1888/CD ]
+./. 
+
+If/IN used/VBN ,/, 
+[ the/DT extension/NN ]
+must/MD immediately/RB follow/VB 
+[ the/DT file/NN name/NN ]
+./. 
+
+[ 1889/CD ]
+./. 
+
+[ STARTMSG/NNP ]
+allows/VBZ 
+[ the/DT user/NN ]
+to/TO specify/VB 
+[ an/DT alternative/JJ configuration/NN file/NN ]
+./. 
+
+[ 1890/CD ]
+./. 
+
+[ This/DT configuration/NN file/NN ]
+can/MD be/VB used/VBN to/TO set/VB or/CC change/VB 
+[ the/DT configuration/NN ]
+for/IN automatically/RB receiving/VBG 
+[ messages/NNS ]
+./. 
+
+[ 1891/CD ]
+./. 
+
+To/TO do/VB 
+[ this/DT ]
+,/, 
+[ you/PRP ]
+need/VBP to/TO add/VB 
+[ the/DT following/VBG entry/NN ]
+to/TO 
+[ an/DT alternative/JJ configuration/NN file/NN ]
+:/: 
+[ 1892/CD ]
+./. 
+
+If/IN 
+[ there/EX ]
+is/VBZ 
+[ an/DT ]
+up/RB or/CC down/RB 
+[ arrow/NN ]
+on/IN 
+[ the/DT upper/JJ right/JJ corner/NN ]
+of/IN 
+[ the/DT display/NN ]
+,/, 
+[ you/PRP ]
+can/MD see/VB 
+[ more/JJR information/NN ]
+by/IN pressing/VBG 
+[ the/DT Page/NNP ]
+Up/RB or/CC 
+[ Page/NNP ]
+Down/RB 
+[ keys/NNS ]
+./. 
+
+[ 1893/CD ]
+./. 
+
+[ You/PRP ]
+must/MD run/VB 
+[ STARTMSG/NNP ]
+to/TO put/VB 
+[ this/DT ]
+into/IN 
+[ effect/NN ]
+./. 
+
+[ 1894/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+want/VBP to/TO change/VB 
+[ the/DT monitor/NN ]
+
+[ that/WDT ]
+displays/VBZ 
+[ the/DT messages/NNS ]
+,/, issue/VB 
+[ another/DT STARTMSG/NNP command/NN ]
+on/IN 
+[ the/DT monitor/NN ]
+
+[ you/PRP ]
+want/VBP to/TO display/VB 
+[ the/DT messages/NNS ]
+./. 
+
+[ 1895/CD ]
+./. 
+
+Enter/VB 
+[ the/DT following/VBG command/NN ]
+at/IN 
+[ the/DT DOS/NNP command/NN line/NN ]
+:/: where/WRB 
+[ d/NN ]
+:/: and/CC 
+[ path/NN ]
+are/VBP 
+[ the/DT drive/NN ]
+and/CC 
+[ directory/NN ]
+containing/VBG 
+[ the/DT message/NN function/NN program/NN ]
+./. 
+
+[ 1896/CD ]
+./. 
+
+[ Online/JJ information/NN ]
+is/VBZ available/JJ for/IN 
+[ each/DT display/NN ]
+and/CC 
+[ prompt/NN ]
+./. 
+
+[ 1897/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ the/DT interactive/JJ message/NN command/NN ]
+,/, refer/VB to/TO 
+[ the/DT PC/NNP Support/NNP User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 1898/CD ]
+./. 
+
+[ You/PRP ]
+can/MD enter/VB 
+[ the/DT first/JJ part/NN ]
+of/IN 
+[ a/DT two-part/JJ user/NN identification/NN ]
+(/( 
+[ ID/NN ]
+)/) by/IN 
+[ which/WDT ]
+
+[ the/DT user/NN ]
+is/VBZ known/VBN within/IN 
+[ the/DT distribution/NN network/NN ]
+./. 
+
+[ 1899/CD ]
+./. 
+
+[ The/DT person/NN ]
+sending/VBG 
+[ the/DT message/NN ]
+must/MD be/VB enrolled/VBN in/IN 
+[ the/DT directory/NN ]
+also/RB ./. 
+
+[ 1900/CD ]
+./. 
+
+Using/VBG 
+[ directory/JJ entries/NNS ]
+,/, 
+[ you/PRP ]
+can/MD send/VB 
+[ messages/NNS ]
+to/TO 
+[ user/NN groups/NNS ]
+,/, 
+[ users/NNS ]
+at/IN 
+[ other/JJ systems/NNS ]
+,/, and/CC 
+[ local/JJ users/NNS ]
+./. 

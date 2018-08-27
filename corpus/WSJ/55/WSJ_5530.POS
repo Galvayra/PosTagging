@@ -1,0 +1,666 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Exxon/NNP oil/NN spill/NN ]
+in/IN 
+[ Alaska/NNP 's/POS Prince/NNP William/NNP Sound/NNP ]
+was/VBD 
+[ a/DT terrible/JJ waste/NN ]
+./. 
+
+[ An/DT area/NN ]
+of/IN 
+[ enormous/JJ natural/JJ beauty/NN ]
+was/VBD polluted/VBN ,/, 
+[ large/JJ numbers/NNS ]
+of/IN 
+[ animals/NNS ]
+were/VBD killed/VBN and/CC 
+[ hundreds/NNS ]
+of/IN 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+have/VBP been/VBN spent/VBN on/IN 
+[ the/DT cleanup/NN ]
+,/, not/RB to/TO mention/VB 
+[ the/DT loss/NN ]
+of/IN 
+[ 11/CD million/CD gallons/NNS ]
+of/IN 
+[ petroleum/NN ]
+./. 
+
+Yet/RB 
+[ the/DT greatest/JJS destruction/NN ]
+of/IN 
+[ wealth/NN ]
+associated/VBN with/IN 
+[ Alaskan/JJ oil/NN ]
+has/VBZ gone/VBN 
+[ unnoticed/JJ ]
+./. 
+
+As/IN 
+[ a/DT direct/JJ result/NN ]
+of/IN 
+[ the/DT actions/NNS ]
+of/IN 
+[ the/DT Alaskan/JJ state/NN government/NN ]
+,/, 
+[ a/DT significant/JJ portion/NN ]
+of/IN 
+[ the/DT net/JJ value/NN ]
+of/IN 
+[ Alaska/NNP 's/POS petroleum/NN reserves/NNS ]
+has/VBZ been/VBN wasted/VBN just/RB as/IN surely/RB as/IN if/IN 
+[ it/PRP ]
+were/VBD being/VBG deliberately/RB spilled/VBN into/IN 
+[ Prince/NNP William/NNP Sound/NNP ]
+./. 
+
+======================================
+
+Holding/VBG 
+[ government/NN ]
+accountable/JJ for/IN 
+[ its/PRP$ actions/NNS ]
+is/VBZ difficult/JJ under/IN 
+[ the/DT best/JJS ]
+of/IN 
+[ conditions/NNS ]
+./. 
+
+Relatively/RB 
+[ small/JJ groups/NNS ]
+organized/VBN around/IN narrowly/RB focused/VBN 
+[ interests/NNS ]
+find/VBP 
+[ advantage/NN ]
+in/IN 
+[ lobbying/VBG government/NN ]
+for/IN 
+[ programs/NNS ]
+
+[ that/WDT ]
+serve/VBP 
+[ those/DT interests/NNS ]
+./. 
+
+[ The/DT general/JJ taxpaying/JJ public/NN ]
+
+[ that/WDT ]
+pays/VBZ for/IN 
+[ those/DT programs/NNS ]
+is/VBZ such/JJ 
+[ a/DT large/JJ group/NN ]
+that/IN organizing/VBG 
+[ effective/JJ resistance/NN ]
+to/TO 
+[ special/JJ interests/NNS spending/NN ]
+is/VBZ difficult/JJ ./. 
+
+[ The/DT result/NN ]
+is/VBZ 
+[ a/DT clear/JJ bias/NN ]
+in/IN 
+[ the/DT political/JJ process/NN ]
+
+[ that/WDT ]
+magnifies/VBZ 
+[ the/DT benefits/NNS ]
+of/IN 
+[ government/NN actions/NNS ]
+and/CC obscures/VBZ 
+[ the/DT costs/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ most/JJS states/NNS ]
+,/, however/RB ,/, 
+[ taxpayers/NNS ]
+are/VBP aware/JJ of/IN 
+[ their/PRP$ tax/NN burdens/NNS ]
+,/, and/CC 
+[ they/PRP ]
+do/VBP not/RB have/VB to/TO organize/VB to/TO send/VB 
+[ politicians/NNS ]
+
+[ a/DT message/NN ]
+at/IN 
+[ the/DT polls/NNS ]
+that/IN 
+[ there/EX ]
+are/VBP 
+[ limits/NNS ]
+to/TO 
+[ the/DT taxes/NNS ]
+
+[ that/WDT ]
+will/MD be/VB condoned/VBN ./. 
+
+[ This/DT general/JJ resistance/NN ]
+from/IN 
+[ the/DT taxpaying/JJ public/NN ]
+to/TO 
+[ overt/JJ tax/NN increases/NNS ]
+imposes/VBZ 
+[ a/DT modicum/NN ]
+of/IN 
+[ accountability/NN ]
+on/IN 
+[ the/DT spending/NN ]
+of/IN 
+[ most/JJS state/NN legislatures/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ Alaska/NNP ]
+,/, however/RB ,/, 
+[ taxpayers/NNS ]
+have/VBP 
+[ little/JJ motivation/NN ]
+to/TO resist/VB 
+[ the/DT transfer/NN ]
+of/IN 
+[ private/JJ wealth/NN ]
+into/IN 
+[ common/JJ property/NN state/NN revenues/NNS ]
+./. 
+
+Since/IN 
+[ the/DT discovery/NN ]
+of/IN 
+[ oil/NN ]
+on/IN 
+[ Alaska/NNP 's/POS North/NNP Slope/NNP ]
+in/IN 
+[ the/DT late/JJ 1960s/CD ]
+,/, more/JJR than/IN 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT state/NN 's/POS tax/NN revenue/NN ]
+has/VBZ come/VBN from/IN 
+[ taxes/NNS ]
+on/IN 
+[ oil/NN ]
+./. 
+
+[ These/DT taxes/NNS ]
+are/VBP paid/VBN almost/RB entirely/RB by/IN 
+[ consumers/NNS ]
+and/CC 
+[ investors/NNS ]
+
+[ who/WP ]
+do/VBP not/RB live/VB in/IN 
+[ Alaska/NNP ]
+./. 
+
+======================================
+
+So/RB when/WRB faced/VBN with/IN 
+[ constituent/JJ pressures/NNS ]
+to/TO increase/VB spending/NN ,/, 
+[ politicians/NNS ]
+in/IN 
+[ Juneau/NNP ]
+have/VBP seen/VBN 
+[ little/JJ reason/NN ]
+to/TO resist/VB ./. 
+
+Why/WRB 
+[ risk/VB ]
+exasperating/VBG 
+[ those/DT ]
+
+[ who/WP ]
+can/MD vote/VB 
+[ you/PRP ]
+out/IN of/IN 
+[ office/NN ]
+when/WRB 
+[ they/PRP ]
+can/MD be/VB accommodated/VBN by/IN increasing/VBG 
+[ the/DT taxes/NNS ]
+on/IN 
+[ those/DT ]
+
+[ who/WP ]
+can/MD not/RB ?/. 
+
+======================================
+
+Since/IN 
+[ 1968/CD ]
+
+[ the/DT Alaskan/NNP Legislature/NNP ]
+has/VBZ increased/VBN 
+[ taxes/NNS ]
+on/IN 
+[ oil/NN 12/CD times/NNS ]
+./. 
+
+Even/RB though/IN 
+[ Alaska/NNP ]
+had/VBD by/IN far/RB 
+[ the/DT highest/JJS taxes/NNS ]
+in/IN 
+[ the/DT nation/NN ]
+on/IN 
+[ oil/NN production/NN ]
+,/, 
+[ the/DT 1989/CD state/NN legislature/NN ]
+in/IN 
+[ Juneau/NNP ]
+increased/VBD 
+[ the/DT state/NN taxes/NNS ]
+on/IN 
+[ Prudhoe/NNP Bay/NNP production/NN ]
+by/IN 
+[ 25/CD %/NN ]
+,/, and/CC by/IN almost/RB 
+[ 60/CD %/NN ]
+on/IN 
+[ production/NN ]
+out/IN of/IN 
+[ the/DT nearby/JJ Kuparuk/NNP oil/NN field/NN ]
+./. 
+
+[ The/DT Alaskan/JJ state/NN government/NN ]
+is/VBZ capturing/VBG more/JJR than/IN 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT net/JJ return/NN ]
+generated/VBN by/IN 
+[ the/DT recovery/NN ]
+of/IN 
+[ North/NNP Slope/NNP oil/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 70/CD %/NN ]
+more/JJR than/IN 
+[ the/DT share/NN ]
+received/VBN by/IN 
+[ the/DT oil/NN industry/NN ]
+./. 
+
+======================================
+
+[ These/DT oil/NN revenues/NNS ]
+are/VBP fueling/VBG 
+[ state/NN ]
+spending/NN at/IN 
+[ unprecedented/JJ rates/NNS ]
+./. 
+
+[ Alaska/NNP ]
+is/VBZ far/RB out/IN in/IN 
+[ front/NN ]
+of/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT nation/NN ]
+in/IN 
+[ per-capita/JJ state/NN spending/NN ]
+./. 
+
+In/IN 
+[ 1986/CD per-capita/JJ state/NN ]
+spending/NN in/IN 
+[ Alaska/NNP ]
+was/VBD 
+[ $/$ 7,309/CD ]
+--/: 
+[ 2/CD 1\/2/CD times/NNS ]
+more/JJR than/IN that/IN of/IN 
+[ its/PRP$ nearest/JJS rival/NN ]
+,/, Wyoming/NNP ,/, and/CC nearly/RB 
+[ five/CD times/NNS ]
+
+[ the/DT national/JJ average/NN ]
+./. 
+
+[ The/DT higher/JJR cost/NN ]
+of/IN living/VBG in/IN 
+[ Alaska/NNP ]
+can/MD account/VB for/IN only/RB 
+[ a/DT ]
+relatively/RB 
+[ small/JJ share/NN ]
+of/IN 
+[ these/DT differences/NNS ]
+./. 
+
+======================================
+
+[ There/EX ]
+is/VBZ 
+[ no/DT way/NN ]
+
+[ the/DT Alaskan/JJ state/NN government/NN ]
+can/MD spend/VB 
+[ the/DT tremendous/JJ oil/NN revenues/NNS ]
+on/IN 
+[ programs/NNS ]
+
+[ that/WDT ]
+make/VBP 
+[ sense/NN ]
+economically/RB ./. 
+
+But/CC given/VBN 
+[ the/DT huge/JJ pool/NN ]
+of/IN 
+[ oil/NN revenues/NNS ]
+at/IN 
+[ their/PRP$ disposal/NN ]
+,/, 
+[ politicians/NNS ]
+in/IN 
+[ Juneau/NNP ]
+are/VBP well/RB aware/JJ that/IN spending/VBG 
+[ vast/JJ amounts/NNS ]
+on/IN 
+[ wasteful/JJ programs/NNS ]
+makes/VBZ 
+[ sense/NN ]
+politically/RB ./. 
+
+Not/RB surprisingly/RB ,/, 
+[ the/DT Alaska/NNP government/NN ]
+is/VBZ literally/RB spilling/VBG 
+[ oil/NN wealth/NN ]
+throughout/IN 
+[ the/DT state/NN ]
+on/IN 
+[ one/CD economic/JJ black/JJ hole/NN ]
+after/IN 
+[ another/DT ]
+./. 
+
+Consider/VB 
+[ some/DT examples/NNS ]
+:/: 
+======================================
+
+--/: 
+[ A/DT state-owned/JJ meat/NN plant/NN ]
+acquired/VBN for/IN 
+[ $/$ 3.5/CD million/CD ]
+in/IN 
+[ 1986/CD ]
+has/VBZ been/VBN losing/VBG 
+[ money/NN ]
+ever/RB since/IN ./. 
+
+======================================
+
+--/: 
+[ A/DT state-owned/JJ dairy/NN ]
+,/, 
+[ which/WDT ]
+lost/VBD 
+[ $/$ 887,000/CD ]
+in/IN 
+[ 1987/CD ]
+even/RB with/IN 
+[ the/DT help/NN ]
+of/IN 
+[ a/DT 7/CD %/NN local/JJ bidder/NN 's/POS preference/NN ]
+,/, raises/VBZ 
+[ the/DT amount/NN ]
+that/IN 
+[ the/DT Anchorage/NNP School/NNP District/NNP ]
+pays/VBZ for/IN 
+[ milk/NN ]
+by/IN 
+[ $/$ 25,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+--/: 
+[ A/DT $/$ 300,000/CD grant/NN ]
+to/TO 
+[ the/DT Bering/NNP Strait/NNP School/NNP District/NNP ]
+for/IN ``/`` 
+[ adventure-based/JJ education/NN ]
+''/'' was/VBD used/VBN ,/, among/IN 
+[ other/JJ things/NNS ]
+,/, to/TO send/VB 
+[ students/NNS ]
+on/IN 
+[ a/DT European/JJ tour/NN ]
+./. 
+
+While/IN 
+[ the/DT $/$ 88,414/CD travel/NN cost/NN ]
+was/VBD expensive/JJ ,/, 
+[ it/PRP ]
+was/VBD less/JJR than/IN 
+[ the/DT $/$ 106,034/CD ]
+spent/VBN on/IN ``/`` 
+[ consultant/NN fees/NNS ]
+''/'' paid/VBN to/TO 
+[ education/NN ]
+travel/NN ``/`` 
+[ specialists/NNS ]
+''/'' 
+[ who/WP ]
+arranged/VBD 
+[ the/DT trip/NN ]
+and/CC accompanied/VBD 
+[ the/DT students/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ The/DT state/NN ]
+spent/VBD 
+[ $/$ 5.8/CD million/CD ]
+on/IN 
+[ a/DT barley/NN terminal/NN ]
+
+[ that/WDT ]
+was/VBD never/RB finished/VBN ./. 
+
+Had/VBD 
+[ the/DT $/$ 8.2/CD million/CD facility/NN ]
+been/VBN completed/VBN ,/, 
+[ it/PRP ]
+could/MD have/VB processed/VBN 
+[ all/DT ]
+of/IN 
+[ the/DT barley/NN ]
+produced/VBN in/IN 
+[ Alaska/NNP ]
+during/IN 
+[ its/PRP$ peak/NN 1986/CD harvest/NN ]
+in/IN 
+[ fewer/JJR ]
+than/IN 
+[ 4.5/CD hours/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ A/DT $/$ 70/CD million/CD performing/NN arts/NNS center/NN ]
+in/IN 
+[ Anchorage/NNP ]
+will/MD lose/VB more/JJR than/IN 
+[ $/$ 1/CD million/CD ]
+
+[ a/DT year/NN ]
+even/RB under/IN 
+[ the/DT rosiest/JJS ]
+of/IN 
+[ revenue/NN projections/NNS ]
+,/, 
+[ independent/JJ auditors/NNS ]
+say/VBP ./.  
+
+======================================
+
+--/: 
+[ Billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+were/VBD lent/VBN to/TO Alaskan/JJ 
+[ businesses/NNS ]
+and/CC 
+[ individuals/NNS ]
+,/, including/VBG 
+[ a/DT loan/NN ]
+for/IN 
+[ the/DT development/NN ]
+of/IN 
+[ a/DT dog-powered/JJ washing/NN machine/NN ]
+./. 
+
+As/RB of/IN 
+[ the/DT end/NN ]
+of/IN 
+[ 1987/CD ]
+more/JJR than/IN 
+[ $/$ 233/CD million/CD ]
+of/IN 
+[ these/DT loans/NNS ]
+were/VBD in/IN 
+[ default/NN ]
+and/CC 
+[ an/DT additional/JJ $/$ 1/CD billion/CD ]
+were/VBD delinquent/JJ ./. 
+
+======================================
+
+If/IN 
+[ there/EX ]
+is/VBZ 
+[ a/DT difference/NN ]
+between/IN 
+[ the/DT consequences/NNS ]
+of/IN 
+[ decisions/NNS ]
+on/IN 
+[ the/DT transportation/NN ]
+of/IN 
+[ petroleum/NN ]
+by/IN 
+[ oil/NN industry/NN executives/NNS ]
+and/CC 
+[ decisions/NNS ]
+on/IN 
+[ the/DT use/NN ]
+of/IN 
+[ petroleum/NN wealth/NN ]
+by/IN 
+[ Alaskan/JJ politicians/NNS ]
+,/, 
+[ it/PRP ]
+comes/VBZ from/IN 
+[ the/DT fact/NN ]
+
+[ the/DT former/NN ]
+are/VBP 
+[ far/RB more/RBR subject/JJ ]
+to/TO 
+[ the/DT constraints/NNS ]
+of/IN 
+[ public/JJ opinion/NN ]
+./. 
+
+[ Almost/NNP everyone/NN ]
+is/VBZ aware/JJ of/IN 
+[ the/DT waste/NN ]
+resulting/VBG from/IN 
+[ oil/NN ]
+spills/NNS ,/, and/CC 
+[ this/DT public/JJ awareness/NN ]
+serves/VBZ as/IN 
+[ a/DT powerful/JJ incentive/NN ]
+for/IN 
+[ the/DT oil/NN industry/NN ]
+to/TO make/VB 
+[ careful/JJ use/NN ]
+of/IN 
+[ our/PRP$ oceans/NNS ]
+and/CC 
+[ waterways/NNS ]
+./. 
+
+[ Almost/IN ]
+no/DT 
+[ one/NN ]
+is/VBZ aware/JJ of/IN 
+[ the/DT far/RB greater/JJR waste/NN ]
+resulting/VBG from/IN 
+[ the/DT political/JJ exploitation/NN ]
+of/IN 
+[ Alaska/NNP 's/POS oil/NN wealth/NN ]
+./. 
+
+Because/IN 
+[ this/DT oil/NN spill/NN ]
+is/VBZ going/VBG 
+[ unnoticed/JJ ]
+by/IN 
+[ the/DT media/NNS ]
+,/, and/CC therefore/RB by/IN 
+[ the/DT public/NN ]
+,/, 
+[ the/DT politicians/NNS ]
+responsible/JJ for/IN 
+[ it/PRP ]
+continue/VBP 
+[ their/PRP$ wasteful/JJ ways/NNS ]
+with/IN 
+[ impunity/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Lee/NNP ]
+is/VBZ 
+[ an/DT economics/NNS professor/NN ]
+at/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Georgia/NNP ]
+,/, 
+[ Athens/NNP ]
+./. 
+
+[ This/DT ]
+is/VBZ based/VBN on/IN 
+[ an/DT article/NN ]
+,/, 
+[ co-written/VBN ]
+by/IN 
+[ Stephen/NNP L./NNP Jackstadt/NNP ]
+,/, to/TO appear/VB in/IN 
+[ the/DT Freeman/NNP ]
+./. 

@@ -1,0 +1,163 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ New/NNP York/NNP lawyer/NN Martin/NNP S./NNP Ackerman/NNP ]
+filed/VBD 
+[ a/DT counterclaim/NN ]
+in/IN 
+[ Chancery/NNP Court/NNP ]
+in/IN 
+[ Delaware/NNP ]
+,/, accusing/VBG 
+[ Datapoint/NNP Corp./NNP Chairman/NNP Asher/NNP B./NNP Edelman/NNP ]
+and/CC 
+[ companies/NNS ]
+
+[ he/PRP ]
+controls/VBZ of/IN improperly/RB purchasing/VBG 
+[ Datapoint/NNP shares/NNS ]
+in/IN 
+[ an/DT effort/NN ]
+to/TO 
+[ block/VB Mr./NNP Ackerman/NNP 's/POS attempt/NN ]
+to/TO oust/VB 
+[ the/DT company/NN 's/POS board/NN ]
+of/IN 
+[ directors/NNS ]
+,/, including/VBG 
+[ Mr./NNP Edelman/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT suit/NN ]
+,/, 
+[ Mr./NNP Ackerman/NNP ]
+alleges/VBZ that/IN 
+[ Datapoint/NNP ]
+,/, 
+[ Intelogic/NNP Trace/NNP Inc./NNP ]
+,/, 
+[ Canal/NNP Capital/NNP Corp./NNP ]
+and/CC 
+[ Mr./NNP Edelman/NNP ]
+``/`` admitted/VBD ''/'' in/IN 
+[ a/DT Securities/NNP ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+filing/VBG that/IN 
+[ they/PRP ]
+bought/VBD up/IN to/TO 
+[ 30/CD %/NN ]
+of/IN 
+[ Datapoint/NNP 's/POS stock/NN ]
+in/IN 
+[ anticipation/NN ]
+of/IN 
+[ the/DT battle/NN ]
+over/IN 
+[ the/DT board/NN seats/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Ackerman/NNP ]
+contends/VBZ in/IN 
+[ the/DT suit/NN ]
+that/IN 
+[ Mr./NNP Edelman/NNP ]
+and/CC 
+[ his/PRP$ companies/NNS ]
+spent/VBD 
+[ $/$ 17/CD million/CD ]
+to/TO buy/VB 
+[ the/DT stock/NN ]
+,/, endangering/VBG 
+[ the/DT companies/NNS '/POS financial/JJ health/NN ]
+./. 
+
+======================================
+
+[ A/DT spokeswoman/NN ]
+for/IN 
+[ San/NNP Antonio-based/JJ Datapoint/NNP ]
+said/VBD 
+[ the/DT computer-products/JJ company/NN ]
+has/VBZ yet/RB to/TO review/VB 
+[ the/DT suit/NN ]
+./. 
+
+[ Mr./NNP Ackerman/NNP ]
+,/, 
+[ she/PRP ]
+said/VBD ,/, ``/`` has/VBZ been/VBN sending/VBG 
+[ us/PRP draft/NN copies/NNS ]
+of/IN 
+[ the/DT suit/NN ]
+,/, and/CC 
+[ we/PRP ]
+'ve/VBP been/VBN advised/VBN by/IN 
+[ our/PRP$ lawyers/NNS ]
+that/IN 
+[ the/DT claims/NNS ]
+are/VBP totally/RB without/IN 
+[ merit/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ a/DT suit/NN ]
+filed/VBD earlier/RBR 
+[ this/DT month/NN ]
+,/, 
+[ Datapoint/NNP ]
+accused/VBD 
+[ Mr./NNP Ackerman/NNP ]
+and/CC 
+[ a/DT group/NN ]
+of/IN 
+[ shareholders/NNS ]
+of/IN violating/VBG 
+[ SEC/NNP rules/NNS ]
+in/IN 
+[ their/PRP$ effort/NN ]
+to/TO oust/VB 
+[ Mr./NNP Edelman/NNP ]
+./. 
+
+[ The/DT suit/NN ]
+alleged/VBD that/IN 
+[ Mr./NNP Ackerman/NNP ]
+and/CC 
+[ the/DT dissident/JJ group/NN ]
+contacted/VBD 
+[ Datapoint/NNP shareholders/NNS ]
+without/IN filing/VBG 
+[ the/DT proper/JJ proxy/NN material/NN ]
+./. 
+
+[ The/DT dissidents/NNS ]
+own/VBP about/RB 
+[ 4.5/CD %/NN ]
+of/IN 
+[ Datapoint/NNP 's/POS ]
+approximately/RB 
+[ 10/CD million/CD shares/NNS ]
+outstanding/JJ ./. 

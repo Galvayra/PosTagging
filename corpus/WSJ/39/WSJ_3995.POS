@@ -1,0 +1,584 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Department/NNP ]
+of/IN 
+[ Housing/NNP ]
+and/CC 
+[ Urban/NNP Development/NNP Secretary/NNP Jack/NNP Kemp/NNP ]
+plans/VBZ to/TO announce/VB 
+[ a/DT broad-based/JJ plan/NN ]
+to/TO reshape/VB 
+[ agency/NN programs/NNS ]
+
+[ that/WDT ]
+have/VBP been/VBN hit/VBN by/IN 
+[ scandal/NN ]
+and/CC 
+[ mismanagement/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kemp/NNP ]
+scheduled/VBD 
+[ a/DT news/NN conference/NN ]
+for/IN 
+[ today/NN ]
+to/TO release/VB 
+[ details/NNS ]
+of/IN 
+[ his/PRP$ package/NN ]
+./. 
+
+[ HUD/NNP documents/NNS ]
+and/CC 
+[ agency/NN officials/NNS ]
+said/VBD 
+[ it/PRP ]
+would/MD include/VB 
+[ the/DT creation/NN ]
+of/IN 
+[ a/DT chief/JJ financial/JJ officer/NN position/NN ]
+for/IN 
+[ the/DT department/NN ]
+,/, 
+[ the/DT elimination/NN ]
+of/IN 
+[ certain/JJ Federal/NNP Housing/NNP Administration/NNP programs/NNS ]
+,/, 
+[ fines/NNS ]
+for/IN 
+[ consultants/NNS ]
+and/CC 
+[ lobbyists/NNS ]
+
+[ who/WP ]
+fail/VBP to/TO register/VB with/IN 
+[ the/DT agency/NN ]
+,/, and/CC 
+[ the/DT termination/NN ]
+of/IN 
+[ the/DT secretary/NN 's/POS discretionary/JJ fund/NN ]
+./. 
+
+======================================
+
+[ He/PRP ]
+apparently/RB rejected/VBD 
+[ a/DT call/NN ]
+by/IN 
+[ two/CD ]
+of/IN 
+[ his/PRP$ top/JJ appointees/NNS ]
+to/TO change/VB 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT agency/NN ]
+to/TO 
+[ the/DT ]
+``/`` 
+[ Home/NNP Department/NNP ]
+./. 
+
+''/'' 
+======================================
+
+Since/IN 
+[ an/DT inspector/NN general/JJ 's/POS report/NN ]
+was/VBD released/VBN in/IN 
+[ April/NNP ]
+,/, 
+[ HUD/NNP ]
+has/VBZ been/VBN hit/VBN with/IN 
+[ a/DT series/NN ]
+of/IN 
+[ reports/NNS ]
+about/IN 
+[ lack/NN ]
+of/IN 
+[ oversight/NN ]
+,/, 
+[ weak/JJ internal/JJ controls/NNS ]
+,/, 
+[ serious/JJ inefficiencies/NNS ]
+,/, 
+[ bribery/NN ]
+and/CC 
+[ embezzlement/NN ]
+,/, as/RB well/RB as/IN 
+[ influence/NN ]
+peddling/NN by/IN politically/RB 
+[ well-connected/JJ consultants/NNS ]
+during/IN 
+[ Samuel/NNP Pierce/NNP 's/POS eight/CD years/NNS ]
+as/IN 
+[ HUD/NNP secretary/NN ]
+in/IN 
+[ the/DT Reagan/NNP administration/NN ]
+./. 
+
+======================================
+
+[ This/DT last/JJ issue/NN ]
+was/VBD 
+[ a/DT central/JJ point/NN ]
+in/IN 
+[ the/DT April/NNP report/NN ]
+and/CC in/IN continuing/VBG 
+[ hearings/NNS ]
+by/IN 
+[ the/DT House/NNP Government/NNP Operations/NNP subcommittee/NN ]
+on/IN 
+[ employment/NN ]
+and/CC 
+[ housing/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ investigating/VBG 
+[ the/DT agency/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kemp/NNP ]
+will/MD propose/VB that/IN 
+[ consultants/NNS ]
+and/CC 
+[ lobbyists/NNS ]
+disclose/VBP 
+[ the/DT source/NN ]
+of/IN 
+[ any/DT fee/NN ]
+paid/VBN to/TO 
+[ them/PRP ]
+for/IN 
+[ HUD-related/JJ work/NN ]
+,/, said/VBD 
+[ Robert/NNP Nipp/NNP ]
+,/, 
+[ a/DT department/NN spokesman/NN ]
+./. 
+
+[ Failure/NN ]
+to/TO do/VB so/RB would/MD result/VB in/IN 
+[ a/DT $/$ 10,000/CD fine/NN ]
+for/IN 
+[ each/DT violation/NN ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+
+[ Consultants/NNS ]
+,/, generally/RB with/IN 
+[ extensive/JJ ties/NNS ]
+to/TO 
+[ the/DT Republican/NNP Party/NNP ]
+,/, received/VBD 
+[ large/JJ fees/NNS ]
+for/IN assisting/VBG 
+[ developers/NNS ]
+with/IN 
+[ HUD/NNP contracts/NNS ]
+./. 
+
+[ Some/DT top/JJ HUD/NNP officials/NNS ]
+during/IN 
+[ the/DT Reagan/NNP administration/NN ]
+also/RB received/VBD 
+[ HUD/NNP work/NN ]
+after/IN 
+[ leaving/VBG office/NN ]
+./. 
+
+======================================
+
+[ The/DT role/NN ]
+of/IN 
+[ consultants/NNS ]
+again/RB was/VBD 
+[ the/DT topic/NN ]
+of/IN 
+[ a/DT hearing/NN ]
+of/IN 
+[ a/DT House/NNP subcommittee/NN ]
+investigating/VBG 
+[ federal/JJ housing/NN scandals/NNS ]
+./. 
+
+[ A/DT top/JJ political/JJ consultant/NN ]
+,/, 
+[ who/WP ]
+previously/RB acknowledged/VBD to/TO 
+[ the/DT panel/NN ]
+engaging/VBG in/IN ``/`` 
+[ influence/NN ]
+peddling/NN ,/, ''/'' yesterday/RB said/VBD 
+[ his/PRP$ company/NN ]
+``/`` played/VBD by/IN 
+[ the/DT rules/NNS ]
+''/'' to/TO get/VB funding/NN for/IN 
+[ a/DT controversial/JJ project/NN ]
+./. 
+
+======================================
+
+[ Paul/NNP Manafort/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT lobbying/NN ]
+and/CC consulting/NN 
+[ firm/JJ Black/NNP ]
+,/, 
+[ Manafort/NNP ]
+,/, 
+[ Stone/NNP ]
+&/CC 
+[ Kelly/NNP ]
+,/, told/VBD 
+[ the/DT employment/NN ]
+and/CC 
+[ housing/NN subcommittee/NN ]
+that/IN 
+[ the/DT firm/NN ]
+``/`` worked/VBD within/IN 
+[ the/DT existing/JJ system/NN ]
+at/IN 
+[ HUD/NNP ]
+''/'' on/IN 
+[ behalf/NN ]
+of/IN 
+[ the/DT Seabrook/NNP apartment/NN project/NN ]
+in/IN 
+[ Upper/NNP Deerfield/NNP ]
+,/, 
+[ N.J/NNP ]
+./. 
+
+======================================
+
+During/IN 
+[ an/DT ]
+often/RB 
+[ contentious/JJ hearing/NN ]
+,/, 
+[ subcommittee/NN Chairman/NNP Rep./NNP Tom/NNP Lantos/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, said/VBD that/IN 
+[ Mr./NNP Manafort/NNP 's/POS firm/NN ]
+secured/VBD 
+[ the/DT moderate-rehabilitation/NN program/NN contract/NN ]
+through/IN ``/`` 
+[ a/DT sweetheart/JJ deal/NN ]
+with/IN 
+[ Deborah/NNP Dean/NNP ]
+,/, ''/'' 
+[ who/WP ]
+was/VBD 
+[ executive/JJ assistant/NN ]
+to/TO 
+[ Secretary/NNP Pierce/NNP ]
+./. 
+
+======================================
+
+[ Ms./NNP Dean/NNP 's/POS lawyer/NN ]
+,/, 
+[ Joseph/NNP diGenova/NNP ]
+,/, said/VBD ,/, ``/`` 
+[ There/EX ]
+are/VBP 
+[ no/DT witnesses/NNS ]
+and/CC 
+[ no/DT testimony/NN ]
+,/, indeed/RB 
+[ no/DT evidence/NN ]
+that/IN 
+[ Ms./NNP Dean/NNP ]
+or/CC 
+[ anyone/NN ]
+else/RB promised/VBD funding/NN for/IN 
+[ the/DT program/NN ]
+would/MD be/VB provided/VBN ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Manafort/NNP ]
+was/VBD asked/VBN about/IN 
+[ his/PRP$ relationship/NN ]
+with/IN 
+[ Scott/NNP Reed/NNP ]
+,/, 
+[ executive/JJ assistant/NN ]
+to/TO 
+[ Mr./NNP Kemp/NNP ]
+./. 
+
+[ Mr./NNP Reed/NNP ]
+ran/VBD 
+[ the/DT Iowa/NNP campaign/NN ]
+of/IN 
+[ Mr./NNP Kemp/NNP ]
+when/WRB 
+[ he/PRP ]
+sought/VBD 
+[ the/DT Republican/JJ presidential/JJ nomination/NN last/JJ year/NN ]
+./. 
+
+[ Mr./NNP Kemp/NNP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ Black/NNP Manafort/NNP 's/POS clients/NNS ]
+,/, as/IN was/VBD 
+[ President/NNP Bush/NNP ]
+and/CC 
+[ former/JJ President/NNP Reagan/NNP ]
+./. 
+
+[ HUD/NNP 's/POS Mr./NNP Nipp/NNP ]
+said/VBD 
+[ there/EX ]
+is/VBZ ``/`` 
+[ no/DT type/NN ]
+of/IN 
+[ special/JJ relationship/NN ]
+''/'' between/IN 
+[ the/DT department/NN ]
+and/CC 
+[ the/DT consulting/NN firm/NN ]
+./. 
+
+======================================
+
+[ Some/DT consultants/NNS ]
+and/CC 
+[ members/NNS ]
+of/IN 
+[ Congress/NNP ]
+were/VBD able/JJ to/TO get/VB funding/NN for/IN 
+[ projects/NNS ]
+through/IN 
+[ the/DT secretary/NN 's/POS discretionary/JJ fund/NN ]
+,/, 
+[ which/WDT ]
+
+[ Mr./NNP Kemp/NNP ]
+wants/VBZ to/TO eliminate/VB ./. 
+
+[ These/DT projects/NNS ]
+were/VBD n't/RB required/VBN to/TO undergo/VB 
+[ the/DT same/JJ level/NN ]
+of/IN 
+[ scrutiny/NN ]
+as/IN 
+[ those/DT ]
+funded/VBN through/IN 
+[ the/DT competitive/JJ process/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kemp/NNP ]
+is/VBZ expected/VBN to/TO announce/VB 
+[ the/DT termination/NN ]
+of/IN 
+[ programs/NNS ]
+
+[ that/WDT ]
+allow/VBP 
+[ dealers/NNS ]
+of/IN 
+[ mobile/JJ homes/NNS ]
+and/CC 
+[ home-improvement/JJ services/NNS ]
+to/TO approve/VB 
+[ FHA/NNP loans/NNS ]
+to/TO 
+[ homeowners/NNS ]
+./. 
+
+[ HUD/NNP officials/NNS ]
+believe/VBP allowing/VBG 
+[ the/DT sellers/NNS ]
+to/TO authorize/VB 
+[ government-backed/JJ loans/NNS ]
+to/TO 
+[ buyers/NNS ]
+of/IN 
+[ their/PRP$ products/NNS ]
+was/VBD 
+[ an/DT invitation/NN ]
+to/TO 
+[ fraud/NN ]
+and/CC 
+[ mismanagement/NN ]
+./. 
+
+======================================
+
+[ Another/DT change/NN ]
+would/MD encourage/VB 
+[ nonprofit/JJ organizations/NNS ]
+and/CC 
+[ state/NN ]
+and/CC 
+[ local/JJ governments/NNS ]
+to/TO replace/VB 
+[ the/DT role/NN ]
+of/IN 
+[ investors/NNS ]
+in/IN 
+[ FHA/NNP programs/NNS ]
+for/IN insuring/VBG 
+[ single-home/JJ mortgages/NNS ]
+./. 
+
+[ A/DT Sept./NNP 1/CD memo/NN ]
+from/IN 
+[ C./NNP Austin/NNP Fitts/NNP ]
+,/, 
+[ FHA/NNP commissioner/NN ]
+,/, and/CC 
+[ J./NNP Kenneth/NNP Blackwell/NNP ]
+,/, 
+[ deputy/JJ undersecretary/NN ]
+for/IN 
+[ intergovernmental/JJ relations/NNS ]
+,/, urged/VBD 
+[ Mr./NNP Kemp/NNP ]
+to/TO ``/`` actively/RB create/VB 
+[ a/DT distribution/NN network/NN ]
+of/IN 
+[ nonprofit/JJ ]
+and/CC 
+[ local/JJ groups/NNS ]
+to/TO take/VB 
+[ FHA/NNP insurance/NN ]
+to/TO 
+[ the/DT inner/JJ cities/NNS ]
+and/CC 
+[ other/JJ areas/NNS you/PRP ]
+will/MD designate/VB as'housing/VBG  
+[ zones/NNS '/POS ]
+to/TO be'greenlined/VBN  ./. 
+
+'/'' ''/'' 
+======================================
+
+[ The/DT position/NN ]
+of/IN 
+[ chief/JJ financial/JJ officer/NN ]
+for/IN 
+[ the/DT department/NN ]
+would/MD be/VB created/VBN as/IN 
+[ a/DT watchdog/NN ]
+over/IN 
+[ the/DT financial/JJ affairs/NNS ]
+of/IN 
+[ the/DT agency/NN ]
+./. 
+
+[ This/DT officer/NN ]
+would/MD ensure/VB 
+[ the/DT fiscal/JJ integrity/NN ]
+of/IN 
+[ its/PRP$ programs/NNS ]
+by/IN operating/VBG 
+[ sound/JJ reporting/NN ]
+and/CC 
+[ control/NN systems/NNS ]
+./. 
+
+[ A/DT General/NNP Accounting/NNP Office/NNP ]
+report/NN 
+[ last/JJ week/NN ]
+recommended/VBD that/DT 
+[ position/NN ]
+and/CC 
+[ the/DT corresponding/JJ one/NN ]
+of/IN 
+[ comptroller/NN ]
+within/IN 
+[ the/DT FHA/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Kemp/NNP ]
+has/VBZ previously/RB announced/VBN 
+[ his/PRP$ intention/NN ]
+to/TO make/VB 
+[ some/DT changes/NNS ]
+in/IN 
+[ HUD/NNP programs/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ last/JJ month/NN ]
+
+[ he/PRP ]
+said/VBD 
+[ companies/NNS ]
+in/IN 
+[ the/DT scandal-ridden/JJ co-insurance/JJ program/NN ]
+would/MD have/VB to/TO meet/VB 
+[ stronger/JJR capital/NN requirements/NNS ]
+to/TO protect/VB against/IN 
+[ high/JJ default/NN rates/NNS ]
+./. 
+
+======================================
+
+[ Many/JJ ]
+of/IN 
+[ the/DT changes/NNS ]
+
+[ the/DT secretary/NN ]
+will/MD propose/VB can/MD be/VB done/VBN administratively/RB ,/, through/IN 
+[ the/DT regular/JJ rule-making/JJ process/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ a/DT certain/JJ period/NN ]
+for/IN 
+[ public/JJ comment/NN ]
+./. 
+
+[ Other/JJ revisions/NNS ]
+in/IN 
+[ the/DT way/NN HUD/NNP ]
+does/VBZ 
+[ business/NN ]
+already/RB have/VBP been/VBN proposed/VBN by/IN 
+[ members/NNS ]
+of/IN 
+[ Congress/NNP ]
+
+[ who/WP ]
+are/VBP considering/VBG 
+[ various/JJ pieces/NNS ]
+of/IN 
+[ HUD-related/JJ legislation/NN ]
+./. 

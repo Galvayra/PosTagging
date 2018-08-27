@@ -1,0 +1,672 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+choose/VB 
+[ one/CD ]
+:/: 
+[ A/DT bowl/NN ]
+of/IN 
+[ ice/NN cream/NN ]
+./. 
+
+Or/CC 
+[ a/DT scoop/NN ]
+of/IN 
+[ frozen/JJ processed/VBN dairy/NN dessert/NN ]
+with/IN 
+[ cellulose/NN gel/NN ]
+./. 
+
+======================================
+
+[ Chances/NNS ]
+are/VBP ,/, 
+[ no/DT matter/NN ]
+how/WRB 
+[ good/JJ the/DT frozen/VBN ]
+
+[ processed/VBN stuff/NN tastes/VBZ ]
+,/, not/RB 
+[ too/RB many/JJ people/NNS ]
+are/VBP going/VBG to/TO buy/VB 
+[ anything/NN ]
+with/IN 
+[ a/DT moniker/NN ]
+like/IN 
+[ that/DT ]
+./. 
+
+And/CC 
+[ that/DT ]
+could/MD turn/VB out/IN to/TO be/VB quite/RB 
+[ a/DT marketing/NN problem/NN ]
+for/IN 
+[ the/DT dairy/NN industry/NN ]
+./. 
+
+[ Every/DT major/JJ dairy/NN company/NN ]
+in/IN 
+[ the/DT country/NN ]
+right/RB now/RB is/VBZ trying/VBG to/TO find/VB 
+[ ways/NNS ]
+to/TO create/VB 
+[ low-calorie/JJ ]
+,/, 
+[ low-cholesterol/JJ ice/NN creams/NNS ]
+,/, 
+[ cheeses/NNS ]
+and/CC 
+[ yogurts/NNS ]
+./. 
+
+[ They/PRP ]
+'re/VBP experimenting/VBG with/IN 
+[ two/CD all-natural/JJ fat/JJ substitutes/NNS ]
+that/IN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+is/VBZ currently/RB reviewing/VBG ,/, 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP 's/POS Olestra/NNP ]
+and/CC 
+[ the/DT Monsanto/NNP Nutrasweet/NNP unit/NN 's/POS Simplesse/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT problem/NN ]
+is/VBZ ,/, 
+[ current/JJ FDA/NNP rules/NNS ]
+prohibit/VBP 
+[ the/DT dairies/NNS ]
+from/IN using/VBG 
+[ names/NNS ]
+like/IN ``/`` 
+[ ice/NN cream/NN ]
+''/'' or/CC ``/`` 
+[ cottage/NN cheese/NN ]
+''/'' for/IN 
+[ their/PRP$ low-cal/JJ creations/NNS ]
+./. 
+
+[ The/DT names/NNS they/PRP ]
+would/MD have/VB to/TO use/VB probably/RB would/MD be/VB technical/JJ --/: like/IN ``/`` frozen/VBN processed/VBN 
+[ dairy/NN dessert/NN ]
+''/'' rather/RB than/IN ``/`` 
+[ ice/NN cream/NN ]
+''/'' --/: and/CC 
+[ technical/JJ ]
+does/VBZ n't/RB sell/VB ./. 
+
+[ It/PRP ]
+also/RB does/VBZ n't/RB sound/VB 
+[ natural/JJ ]
+,/, even/RB if/IN 
+[ the/DT product/NN ]
+
+[ itself/PRP ]
+is/VBZ ./. 
+
+======================================
+
+[ The/DT result/NN ]
+is/VBZ 
+[ a/DT marketing/NN quandary/NN ]
+for/IN 
+[ the/DT dairy/NN companies/NNS ]
+:/: 
+[ They/PRP ]
+do/VBP n't/RB want/VB to/TO pour/VB 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+into/IN developing/VBG 
+[ fat-substitute/JJ ice/NN creams/NNS ]
+and/CC 
+[ cheeses/NNS ]
+only/RB to/TO be/VB forced/VBN to/TO use/VB 
+[ names/NNS ]
+so/IN unappealing/VBG that/IN 
+[ consumers/NNS ]
+recoil/VBP in/IN 
+[ disgust/NN ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP ]
+``/`` is/VBZ going/VBG to/TO have/VB to/TO re-evaluate/VB ''/'' 
+[ its/PRP$ definitions/NNS ]
+of/IN 
+[ dairy/NN foods/NNS ]
+,/, says/VBZ 
+[ William/NNP Baar/NNP ]
+,/, 
+[ vice/NN president/NN ]
+of/IN 
+[ sales/NNS ]
+and/CC marketing/NN for/IN 
+[ Borden/NNP Inc./NNP 's/POS dairy/NN division/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ experimenting/VBG with/IN 
+[ fat/JJ substitutes/NNS ]
+for/IN 
+[ its/PRP$ ice/NN creams/NNS ]
+,/, 
+[ yogurts/NNS ]
+and/CC 
+[ other/JJ dairy/NN products/NNS ]
+./. 
+
+[ He/PRP ]
+contends/VBZ 
+[ revisions/NNS ]
+are/VBP necessary/JJ because/IN 
+[ things/NNS ]
+like/IN 
+[ fat/JJ substitutes/NNS ]
+``/`` were/VBD n't/RB even/RB 
+[ issues/NNS ]
+when/WRB 
+[ those/DT ]
+ 
+{/( 
+[ regulations/NNS ]
+ }/) were/VBD written/VBN originally/RB ,/, ''/'' more/JJR than/IN 
+[ 40/CD years/NNS ]
+ago/IN ./. 
+
+======================================
+
+[ Kraft/NNP General/NNP Foods/NNPS ]
+,/, 
+[ a/DT Philip/NNP Morris/NNP Cos./NNP unit/NN ]
+,/, is/VBZ about/IN to/TO test/VB how/WRB far/RB 
+[ the/DT FDA/NNP ]
+will/MD let/VB 
+[ it/PRP ]
+go/VB with/IN 
+[ a/DT new/JJ product/NN ]
+called/VBN 
+[ Sealtest/NNP Free/NNP Nonfat/NNP Ice/NNP Cream/NNP ]
+./. 
+
+As/IN previously/RB reported/VBN ,/, 
+[ the/DT new/JJ entrant/NN ]
+uses/VBZ 
+[ cellulose/NN gel/NN ]
+,/, 
+[ a/DT natural/JJ ingredient/NN ]
+widely/RB used/VBN in/IN 
+[ foods/NNS ]
+,/, instead/RB of/IN 
+[ fat/NN ]
+./. 
+
+But/CC 
+[ the/DT product/NN ]
+apparently/RB does/VBZ n't/RB contain/VB 
+[ the/DT 10/CD %/NN butterfat/NN ]
+
+[ the/DT FDA/NNP ]
+requires/VBZ in/IN ``/`` 
+[ real/JJ ]
+''/'' 
+[ ice/NN cream/NN ]
+./. 
+
+======================================
+
+[ A/DT Kraft/NNP spokesman/NN ]
+says/VBZ ``/`` 
+[ the/DT term'nonfat/NN  ice/NN cream/NN ]
+'/'' is/VBZ very/RB appropriate/JJ ./. 
+
+''/'' 
+[ He/PRP ]
+adds/VBZ that/IN 
+[ Kraft/NNP ]
+plans/VBZ to/TO send/VB 
+[ a/DT letter/NN ]
+to/TO 
+[ the/DT FDA/NNP ]
+suggesting/VBG how/WRB 
+[ it/PRP ]
+could/MD revise/VB 
+[ its/PRP$ current/JJ frozen/VBN desert/NN standards/NNS ]
+./. 
+
+[ An/DT FDA/NNP spokesman/NN ]
+wo/MD n't/RB comment/VB other/JJ than/IN to/TO say/VB ,/, ``/`` 
+[ current/JJ standards/NNS ]
+say/VBP 
+[ 10/CD %/NN butterfat/NN ]
+is/VBZ standard/JJ ,/, so/RB if/IN 
+[ this/DT ]
+deviates/VBZ ,/, 
+[ it/PRP ]
+is/VBZ n't/RB meeting/VBG 
+[ the/DT standard/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Kraft/NNP ]
+tried/VBD 
+[ a/DT similar/JJ strategy/NN ]
+,/, with/IN 
+[ some/DT success/NN ]
+,/, 
+[ several/JJ years/NNS ]
+ago/IN with/IN 
+[ its/PRP$ Kraft/NNP Light/NNP Naturals/NNPS Reduced/NNP Fat/NNP Cheeses/NNPS ]
+,/, 
+[ which/WDT ]
+contain/VBP less/JJR fat/NN than/IN 
+[ FDA-defined/JJ cheeses/NNS ]
+./. 
+
+[ Regulators/NNS ]
+initially/RB contended/VBD 
+[ the/DT label/NN ]
+was/VBD misleading/VBG because/IN 
+[ the/DT product/NN ]
+does/VBZ n't/RB meet/VB 
+[ the/DT FDA/NNP 's/POS definition/NN ]
+of/IN 
+[ cheese/NN ]
+./. 
+
+But/CC 
+[ the/DT controversy/NN ]
+died/VBD down/IN when/WRB 
+[ the/DT FDA/NNP ]
+did/VBD n't/RB take/VB 
+[ action/NN ]
+./. 
+
+======================================
+
+[ This/DT time/NN ]
+around/IN ,/, however/RB ,/, 
+[ the/DT debate/NN ]
+is/VBZ likely/JJ to/TO intensify/VB ./. 
+
+Already/RB ,/, 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT dairy/NN industry/NN ]
+is/VBZ trying/VBG to/TO figure/VB out/IN where/WRB 
+[ it/PRP ]
+should/MD stand/VB ./. 
+
+At/IN 
+[ Borden/NNP ]
+,/, 
+[ Mr./NNP Baar/NNP ]
+says/VBZ 
+[ the/DT company/NN has/VBZ n't/RB ]
+decided/VBN if/IN 
+[ it/PRP ]
+wants/VBZ to/TO take/VB 
+[ the/DT Kraft/NNP route/NN ]
+,/, boldly/RB naming/VBG as/IN ``/`` 
+[ yogurt/NN ]
+''/'' and/CC ``/`` 
+[ cottage/NN cheese/NN ]
+''/'' 
+[ the/DT fat-substitute/JJ products/NNS ]
+
+[ it/PRP ]
+is/VBZ developing/VBG ./. 
+
+[ Mr./NNP Baar/NNP ]
+points/VBZ out/IN that/IN if/IN 
+[ fat-substitute/JJ dairy/NN products/NNS ]
+flop/VBP or/CC turn/VBP out/IN to/TO be/VB just/RB 
+[ fads/NNS ]
+,/, 
+[ the/DT company/NN ]
+could/MD hurt/VB 
+[ its/PRP$ main/JJ product/NN line/NN ]
+by/IN forging/VBG ahead/RB with/IN 
+[ those/DT names/NNS ]
+./. 
+
+======================================
+
+``/`` Whether/IN or/CC not/RB {/( 
+[ fat-substitute/JJ products/NNS ]
+ }/) are/VBP long-lasting/JJ is/VBZ 
+[ the/DT big/JJ issue/NN ]
+,/, ''/'' 
+[ Mr./NNP Baar/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ You/PRP ]
+have/VBP to/TO look/VB closely/RB before/IN 
+[ you/PRP ]
+make/VBP 
+[ dramatic/JJ changes/NNS ]
+./. 
+
+''/'' 
+[ He/PRP ]
+points/VBZ to/TO 
+[ the/DT short-lived/JJ soft-cookie/NN craze/NN ]
+
+[ that/WDT ]
+lost/VBD 
+[ several/JJ companies/NNS ]
+
+[ a/DT bundle/NN ]
+./. 
+
+======================================
+
+[ Dairy/NN trade/NN groups/NNS ]
+are/VBP also/RB still/RB working/VBG out/IN 
+[ their/PRP$ positions/NNS ]
+./. 
+
+On/IN 
+[ the/DT one/CD hand/NN ]
+,/, 
+[ they/PRP ]
+do/VBP n't/RB want/VB 
+[ fat-substitute/JJ ice/NN creams/NNS ]
+and/CC 
+[ cheeses/NNS ]
+masquerading/VBG as/IN 
+[ the/DT real/JJ thing/NN ]
+./. 
+
+Yet/RB 
+[ they/PRP ]
+want/VBP 
+[ labels/NNS ]
+to/TO distinguish/VB between/IN 
+[ natural/JJ products/NNS ]
+,/, like/IN 
+[ Kraft/NNP 's/POS fat-substitute/JJ ice/NN cream/NN ]
+,/, and/CC completely/RB 
+[ artificial/JJ knock-offs/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP looking/VBG at/IN 
+[ a/DT couple/NN ]
+of/IN 
+[ options/NNS ]
+right/RB now/RB to/TO accommodate/VB 
+[ new/JJ ]
+ {/( 
+[ fat-substitute/JJ ]
+ }/) 
+[ products/NNS ]
+more/RBR readily/RB than/IN 
+[ the/DT current/JJ system/NN ]
+permits/VBZ ,/, ''/'' says/VBZ 
+[ Thomas/NNP Balmer/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ special/JJ promotions/NNS ]
+for/IN 
+[ the/DT International/NNP Ice/NNP Cream/NNP Association/NNP ]
+,/, 
+[ a/DT trade/NN group/NN ]
+./. 
+
+======================================
+
+[ Alan/NNP Huggins/NNP ]
+,/, 
+[ a/DT dairy/NN industry/NN consultant/NN ]
+in/IN 
+[ Chicago/NNP ]
+,/, notes/VBZ that/IN 
+[ the/DT issue/NN ]
+is/VBZ complicated/VBN because/IN not/RB only/RB 
+[ the/DT FDA/NNP ]
+,/, but/CC also/RB 
+[ individual/JJ states/NNS ]
+,/, have/VBP 
+[ their/PRP$ own/JJ definition/NN ]
+of/IN 
+[ what/WP ]
+constitutes/VBZ 
+[ dairy/NN products/NNS ]
+like/IN 
+[ cheese/NN ]
+and/CC 
+[ mayonnaise/NN ]
+./. 
+
+======================================
+
+[ Ad/NNP Notes/NNPS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ DUN/NNP DEAL/NNP ]
+:/: 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP Corp./NNP ]
+named/VBD 
+[ Wells/NNP ]
+,/, 
+[ Rich/NNP ]
+,/, 
+[ Greene\/Worldwide/NNP ]
+to/TO handle/VB advertising/NN for/IN 
+[ its/PRP$ Business/NNP Credit/NNP Services/NNPS division/NN ]
+./. 
+
+[ Billings/NNS ]
+will/MD be/VB approximately/RB 
+[ $/$ 5/CD million/CD ]
+to/TO 
+[ $/$ 10/CD million/CD ]
+./. 
+
+[ The/DT account/NN ]
+was/VBD previously/RB handled/VBN by/IN 
+[ Edwin/NNP Bird/NNP Wilson/NNP Inc./NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+[ HI/NNP ]
+ /) 
+[ FIDELITY/NNP ]
+:/: 
+[ McCann-Erickson/NNP New/NNP York/NNP ]
+was/VBD hired/VBN to/TO direct/VB 
+[ ad/NN efforts/NNS ]
+for/IN 
+[ Fidelity/NNP Investments/NNPS ]
+,/, 
+[ a/DT Boston-based/JJ financial/JJ services/NNS unit/NN ]
+of/IN 
+[ FMR/NNP Corp/NNP ]
+./. 
+
+[ The/DT account/NN ]
+,/, estimated/VBN at/IN 
+[ $/$ 10/CD million/CD ]
+,/, was/VBD previously/RB handled/VBN 
+[ in-house/RB ]
+by/IN 
+[ Fidelity/NNP ]
+./. 
+
+======================================
+
+[ DOW/NNP JONES/NNP ACCOUNT/NNP ]
+:/: 
+[ Angotti/NNP ]
+,/, 
+[ Thomas/NNP ]
+,/, 
+[ Hedge/NNP Inc./NNP ]
+was/VBD hired/VBN to/TO handle/VB 
+[ ads/NNS ]
+for/IN 
+[ Dow/NNP Jones/NNP ]
+&/CC 
+[ Co./NNP 's/POS News\/Retrieval/NNP ]
+,/, 
+[ News/NNP Services/NNPS ]
+and/CC 
+[ Broadcast/NNP Services/NNPS units/NNS ]
+./. 
+
+[ The/DT $/$ 2.5/CD million/CD account/NN ]
+had/VBD been/VBN with/IN 
+[ Bozell/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+,/, and/CC 
+[ Gillespie/NNP Advertising/NNP Inc./NNP ]
+,/, 
+[ Princeton/NNP ]
+,/, 
+[ N.J/NNP ]
+./. 
+
+======================================
+
+[ CEREAL/NNP MYSTERY/NNP ]
+:/: 
+[ Kraft/NNP General/NNP Foods/NNPS ]
+named/VBD 
+[ North/NNP Castle/NNP Advertising/NNP Inc./NNP ]
+,/, 
+[ Stamford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, to/TO handle/VB 
+[ the/DT account/NN ]
+for/IN 
+[ an/DT undisclosed/JJ new/JJ product/NN ]
+from/IN 
+[ Kraft/NNP 's/POS Post/NNP Cereal/NNP division/NN ]
+./. 
+
+[ The/DT size/NN ]
+of/IN 
+[ the/DT ad/NN budget/NN was/VBD n't/RB ]
+disclosed/VBN ./. 
+
+======================================
+
+[ TIME/NNP ]
+AND/NNP 
+[ KODAK/NNP ]
+:/: 
+[ Time/NN Warner/NNP Inc./NNP ]
+will/MD publish/VB 
+[ its/PRP$ first/JJ single-sponsor/JJ issue/NN ]
+of/IN 
+[ Time/NNP magazine/NN ]
+./. 
+
+[ The/DT special/JJ issue/NN ]
+,/, 
+[ which/WDT ]
+comes/VBZ out/IN on/IN 
+[ Oct./NNP 23/CD ]
+,/, is/VBZ 
+[ a/DT retrospective/NN ]
+of/IN 
+[ photojournalism/NN ]
+and/CC will/MD be/VB sponsored/VBN entirely/RB by/IN 
+[ Eastman/NNP Kodak/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ WHO'S/NNP NEWS/NNP ]
+:/: 
+[ D'Arcy/NNP Masius/NNP Benton/NNP ]
+&/CC 
+[ Bowles/NNP ]
+announced/VBD 
+[ three/CD promotions/NNS ]
+:/: 
+[ Thomas/NNP Carey/NNP ]
+,/, 
+[ 45/CD ]
+,/, will/MD be/VB 
+[ the/DT new/JJ executive/NN vice/NN president/NN ]
+of/IN 
+[ DMB&B\/International/JJ ]
+;/: 
+[ Peter/NNP Rosow/NNP ]
+,/, 
+[ 51/CD ]
+,/, and/CC 
+[ Richard/NNP Levenson/NNP ]
+,/, 
+[ 47/CD ]
+,/, were/VBD named/VBN 
+[ joint/JJ managing/VBG directors/NNS ]
+of/IN 
+[ DMB&B\/New/NNP York/NNP ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ M.T./NNP Rainey/NNP ]
+,/, 
+[ 34/CD ]
+,/, was/VBD named/VBN 
+[ new/JJ chief/NN executive/NN ]
+of/IN 
+[ Chiat\/NNP 's/POS London/NNP office/NN ]
+./. 
+
+[ She/PRP ]
+was/VBD previously/RB 
+[ Chiat/NNP 's/POS corporate/JJ director/NN ]
+of/IN 
+[ new/JJ business/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 

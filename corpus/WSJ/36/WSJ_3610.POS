@@ -1,0 +1,3398 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Gunthrop-Warren/NNP Printing/NNP Inc./NNP ]
+was/VBD 
+[ a/DT solid/JJ ]
+,/, 
+[ upstanding/JJ company/NN last/JJ December/NNP ]
+,/, according/VBG to/TO 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP Corp/NNP ]
+./. 
+
+[ A/DT credit/NN report/NN ]
+
+[ it/PRP ]
+issued/VBD 
+[ that/DT month/NN ]
+said/VBD 
+[ the/DT commercial/JJ printing/NN company/NN ]
+was/VBD in/IN ``/`` 
+[ good/JJ financial/JJ condition/NN ]
+''/'' and/CC gave/VBD 
+[ it/PRP ]
+
+[ a/DT top/JJ rating/NN ]
+./. 
+
+======================================
+
+[ Twenty-nine/CD days/NNS ]
+later/RB ,/, 
+[ Gunthrop-Warren/NNP Printing/NNP ]
+was/VBD forced/VBN into/IN 
+[ bankruptcy/NN proceedings/NNS ]
+by/IN 
+[ angry/JJ creditors/NNS ]
+with/IN 
+[ long-overdue/JJ bills/NNS ]
+./. 
+
+======================================
+
+[ Mountain-Hi/NNP Surplus/NNP ]
+&/CC 
+[ Sales/NNP Co./NNP ]
+was/VBD also/RB 
+[ solid/JJ ]
+,/, 
+[ another/DT Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP credit/NN report/NN ]
+said/VBD ./. 
+
+Based/VBN on/IN 
+[ that/DT rating/NN ]
+,/, 
+[ commercial/JJ lender/NN Heller/NNP Financial/NNP Inc./NNP ]
+lent/VBD 
+[ Mountain-Hi/NNP $/$ 32,000/CD ]
+in/IN 
+[ August/NNP 1988/CD ]
+to/TO buy/VB 
+[ inventory/NN ]
+./. 
+
+======================================
+
+[ Six/CD weeks/NNS ]
+later/RB ,/, 
+[ Mountain-Hi/NNP ]
+defaulted/VBD ./. 
+
+[ The/DT lender/NN ]
+could/MD n't/RB find/VB 
+[ the/DT woman/NN ]
+
+[ whom/WP ]
+
+[ the/DT credit/NN report/NN ]
+listed/VBD as/IN 
+[ Mountain-Hi/NNP 's/POS owner/NN ]
+./. 
+
+[ U.S./NNP postal/JJ inspectors/NNS ]
+found/VBD 
+[ her/PRP ]
+,/, however/RB --/: exposing/VBG 
+[ a/DT scheme/NN ]
+
+[ that/WDT ]
+had/VBD bamboozled/VBN 
+[ several/JJ companies/NNS ]
+out/IN of/IN about/RB 
+[ $/$ 1/CD million/CD ]
+./. 
+
+======================================
+
+[ Surprising/JJ ]
+?/. 
+
+Not/RB to/TO 
+[ many/JJ customers/NNS ]
+of/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+,/, 
+[ the/DT information/NN giant/NN ]
+familiarly/RB known/VBN as/IN 
+[ D&B/NNP ]
+./. 
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP credit/NN reports/NNS ]
+,/, 
+[ they/PRP ]
+assert/VBP ,/, often/RB contain/VBP 
+[ information/NN ]
+
+[ that/WDT ]
+is/VBZ inaccurate/JJ ,/, 
+[ outdated/JJ ]
+or/CC 
+[ skimpy/JJ ]
+./. 
+
+Like/IN 
+[ Gunthrop-Warren/NNP ]
+and/CC 
+[ Mountain-Hi/NNP ]
+,/, 
+[ many/PDT a/DT rickety/JJ company/NN ]
+has/VBZ received/VBN 
+[ an/DT attractive/JJ credit/NN rating/NN ]
+from/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+./. 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ companies/NNS ]
+complain/VBP ,/, 
+[ D&B/NNP ]
+has/VBZ given/VBN 
+[ poor/JJ ratings/NNS ]
+to/TO 
+[ some/DT ]
+
+[ that/WDT ]
+deserved/VBD better/JJR ./. 
+
+======================================
+
+[ The/DT complaints/NNS ]
+raise/VBP 
+[ fundamental/JJ questions/NNS ]
+about/IN 
+[ a/DT product/NN ]
+
+[ whose/WP$ importance/NN ]
+to/TO 
+[ American/JJ business/NN ]
+is/VBZ difficult/JJ to/TO overestimate/VB ./. 
+
+Though/IN little/RB known/VBN to/TO 
+[ the/DT general/JJ public/NN ]
+,/, 
+[ D&B/NNP reports/NNS ]
+play/VBP 
+[ a/DT critical/JJ role/NN ]
+in/IN 
+[ daily/JJ commerce/NN ]
+./. 
+
+[ The/DT company/NN ]
+provides/VBZ 
+[ information/NN ]
+on/IN 
+[ the/DT creditworthiness/NN ]
+of/IN 
+[ 9.5/CD million/CD companies/NNS ]
+./. 
+
+[ D&B/NNP 's/POS customers/NNS ]
+use/VBP 
+[ the/DT reports/NNS thousands/NNS ]
+of/IN 
+[ times/NNS ]
+
+[ a/DT day/NN ]
+to/TO help/VB 
+[ them/PRP ]
+decide/VB whether/IN to/TO lend/VB 
+[ money/NN ]
+to/TO 
+[ another/DT company/NN ]
+or/CC sell/VB to/TO 
+[ it/PRP ]
+on/IN 
+[ credit/NN ]
+./. 
+
+[ Many/JJ such/JJ business/NN decisions/NNS ]
+are/VBP based/VBN almost/RB entirely/RB on/IN 
+[ the/DT information/NN ]
+in/IN 
+[ D&B/NNP credit/NN reports/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ inaccuracies/NNS ]
+can/MD have/VB 
+[ severe/JJ repercussions/NNS ]
+on/IN 
+[ both/DT ]
+
+[ the/DT subjects/NNS ]
+and/CC 
+[ users/NNS ]
+of/IN 
+[ D&B/NNP reports/NNS ]
+./. 
+
+======================================
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+unwaveringly/RB rejects/VBZ 
+[ any/DT suggestion/NN ]
+that/IN 
+[ there/EX ]
+are/VBP 
+[ broad/JJ problems/NNS ]
+with/IN 
+[ the/DT quality/NN ]
+of/IN 
+[ its/PRP$ credit/NN data/NNS ]
+./. 
+
+[ The/DT company/NN 's/POS theme/NN ]
+is/VBZ ``/`` 
+[ Quality/NN First/RB ]
+./. 
+
+''/'' During/IN 
+[ a/DT lengthy/JJ interview/NN ]
+and/CC 
+[ tour/NN ]
+of/IN 
+[ D&B/NNP 's/POS operations/NNS ]
+,/, 
+[ top/JJ officials/NNS ]
+of/IN 
+[ its/PRP$ credit-services/NNS business/NN ]
+repeatedly/RB emphasized/VBD 
+[ the/DT completeness/NN ]
+,/, 
+[ timeliness/NN ]
+and/CC 
+[ accuracy/NN ]
+of/IN 
+[ D&B/NNP credit/NN reports/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ a/DT lot/NN ]
+of/IN 
+[ safeguards/NNS ]
+''/'' to/TO weed/VB out/RP 
+[ flaws/NNS ]
+,/, says/VBZ 
+[ Patrick/NNP C./NNP Sommers/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+of/IN 
+[ credit/NN services/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP reinvesting/VBG 
+[ every/DT gain/NN ]
+that/IN 
+[ we/PRP ]
+make.../: into/IN  
+[ quality/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Sommers/NNP ]
+says/VBZ that/IN 
+[ any/DT quality/NN problems/NNS ]
+
+[ that/WDT ]
+might/MD have/VB existed/VBN 
+[ years/NNS ]
+ago/RB are/VBP now/RB behind/IN 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+Because/IN 
+[ D&B/NNP ]
+maintains/VBZ 
+[ reports/NNS ]
+on/IN 
+[ so/RB many/JJ companies/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ of/IN 
+[ course/NN ]
+inevitable/JJ that/IN 
+[ some/DT inaccuracies/NNS ]
+will/MD occur/VB ./. 
+
+But/CC 
+[ a/DT five-month/JJ investigation/NN ]
+by/IN 
+[ this/DT newspaper/NN ]
+,/, involving/VBG 
+[ company/NN documents/NNS ]
+and/CC 
+[ interviews/NNS ]
+with/IN 
+[ numerous/JJ customers/NNS ]
+and/CC 
+[ former/JJ employees/NNS ]
+,/, indicates/VBZ that/IN 
+[ widespread/JJ problems/NNS ]
+have/VBP continued/VBN at/IN 
+[ least/JJS ]
+until/IN 
+[ the/DT recent/JJ past/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT investigation/NN ]
+indicates/VBZ that/IN 
+[ the/DT quality/NN problems/NNS ]
+are/VBP in/IN 
+[ large/JJ part/NN ]
+
+[ a/DT result/NN ]
+of/IN 
+[ internal/JJ D&B/NNP practices/NNS ]
+
+[ that/WDT ]
+encourage/VBP 
+[ employees/NNS ]
+to/TO prepare/VB 
+[ large/JJ numbers/NNS ]
+of/IN 
+[ reports/NNS ]
+quickly/RB ./. 
+
+======================================
+
+[ Former/JJ D&B/NNP credit/NN reporters/NNS ]
+tell/VBP how/WRB 
+[ they/PRP ]
+were/VBD expected/VBN to/TO meet/VB 
+[ unrealistic/JJ production/NN quotas/NNS ]
+
+[ that/WDT ]
+made/VBD 
+[ the/DT preparation/NN ]
+of/IN 
+[ accurate/JJ reports/NNS ]
+extremely/RB difficult/JJ ./. 
+
+Struggling/VBG to/TO 
+[ complete/VB ]
+as/RB many/JJ as/IN 
+[ 20/CD reports/NNS ]
+
+[ a/DT day/NN ]
+,/, 
+[ reporters/NNS ]
+have/VBP sometimes/RB simply/RB regurgitated/VBN 
+[ information/NN ]
+provided/VBN by/IN 
+[ companies/NNS ]
+,/, without/IN questioning/VBG 
+[ its/PRP$ accuracy/NN ]
+./. 
+
+Where/WRB 
+[ hard/JJ information/NN ]
+,/, particularly/RB 
+[ financial/JJ data/NNS ]
+,/, was/VBD unavailable/JJ or/CC 
+[ skimpy/JJ ]
+,/, 
+[ some/DT ex-employees/NNS ] 
+say/VBP ,/, 
+[ they/PRP ]
+made/VBD 
+[ their/PRP$ own/JJ estimates/NNS ]
+,/, often/RB based/VBN on/IN 
+[ flimsy/JJ evidence/NN ]
+./. 
+
+And/CC in/IN 
+[ a/DT few/JJ cases/NNS ]
+,/, 
+[ D&B/NNP reporters/NNS ]
+have/VBP fabricated/VBN 
+[ information/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+was/VBD literally/RB impossible/JJ to/TO do/VB 
+[ a/DT good/JJ job/NN ]
+on/IN 
+[ any/DT ]
+of/IN 
+[ the/DT reports/NNS ]
+,/, ''/'' says/VBZ 
+[ Owen/NNP Phillips/NNP ]
+,/, 
+[ a/DT reporter/NN ]
+in/IN 
+[ D*/NNP&B/NN 's/POS Lancaster/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ office/NN ]
+until/IN 
+[ last/JJ fall/NN ]
+./. 
+
+======================================
+
+ (/( 
+[ All/DT former/JJ employees/NNS ]
+quoted/VBN in/IN 
+[ this/DT story/NN ]
+,/, including/VBG 
+[ Mr./NNP Phillips/NNP ]
+,/, say/VBP 
+[ they/PRP ]
+left/VBD 
+[ the/DT company/NN ]
+on/IN 
+[ good/JJ terms/NNS ]
+./. 
+
+[ This/DT newspaper/NN ]
+attempted/VBD to/TO interview/VB 
+[ several/JJ current/JJ D&B/NNP reporters/NNS ]
+,/, but/CC 
+[ they/PRP ]
+declined/VBD ./. 
+
+[ Some/DT ]
+indicated/VBD 
+[ they/PRP ]
+had/VBD been/VBN instructed/VBN not/RB to/TO talk/VB with/IN 
+[ the/DT media/NN ]
+./. 
+
+[ D&B/NNP ]
+wo/MD n't/RB comment/VB on/IN 
+[ reasons/NNS former/JJ employees/NNS ]
+left/VBD ,/, and/CC 
+[ it/PRP ]
+says/VBZ 
+[ company/NN policy/NN ]
+prohibits/VBZ 
+[ current/JJ employees/NNS ]
+from/IN talking/VBG to/TO 
+[ the/DT press/NN ]
+without/IN 
+[ authorization/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ Former/JJ employees/NNS ]
+assert/VBP that/IN 
+[ some/DT managers/NNS ]
+were/VBD aware/JJ of/IN 
+[ the/DT problems/NNS ]
+but/CC tolerated/VBD 
+[ them/PRP ]
+because/IN of/IN 
+[ financial/JJ concerns/NNS ]
+./. 
+
+[ They/PRP ]
+describe/VBP 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+as/IN 
+[ a/DT company/NN ]
+almost/RB obsessively/RB concerned/JJ with/IN attaining/VBG 
+[ ambitious/JJ financial/JJ goals/NNS ]
+./. 
+
+[ Vicky/NNP Hicks/NNP ]
+,/, 
+[ who/WP ]
+worked/VBD as/IN 
+[ a/DT D&B/NNP reporter/NN ]
+for/IN 
+[ six/CD years/NNS ]
+until/IN 
+[ June/NNP 1988/CD ]
+,/, says/VBZ 
+[ her/PRP$ managers/NNS ]
+told/VBD 
+[ her/PRP ]
+not/RB to/TO be/VB overly/RB concerned/JJ about/IN 
+[ the/DT quality/NN ]
+of/IN 
+[ her/PRP$ reports/NNS ]
+on/IN 
+[ many/JJ companies/NNS ]
+,/, particularly/RB 
+[ smaller/JJR ones/NNS ]
+./. 
+
+[ The/DT reason/NN ]
+?/. 
+
+[ Those/DT reports/NNS ]
+,/, 
+[ she/PRP ]
+says/VBZ 
+[ she/PRP ]
+was/VBD told/VBN ,/, were/VBD infrequently/RB requested/VBN and/CC did/VBD n't/RB generate/VB 
+[ much/JJ revenue/NN ]
+for/IN 
+[ the/DT corporation/NN ]
+./. 
+
+======================================
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP 's/POS sales/NNS culture/NN ]
+has/VBZ prompted/VBN 
+[ other/JJ complaints/NNS ]
+from/IN 
+[ customers/NNS ]
+./. 
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ this/DT newspaper/NN ]
+reported/VBD on/IN 
+[ widespread/JJ allegations/NNS ]
+that/IN 
+[ the/DT company/NN ]
+misled/VBD 
+[ many/JJ customers/NNS ]
+into/IN purchasing/VBG 
+[ more/JJR credit/NN data/NNS services/NNS ]
+than/IN 
+[ they/PRP ]
+needed/VBD ./. 
+
+In/IN 
+[ June/NNP ]
+,/, 
+[ D&B/NNP ]
+agreed/VBD to/TO settle/VB 
+[ several/JJ suits/NNS ]
+related/VBN to/TO 
+[ its/PRP$ sales/NNS practices/NNS ]
+for/IN 
+[ $/$ 18/CD million/CD ]
+without/IN admitting/VBG or/CC denying/VBG 
+[ the/DT charges/NNS ]
+./. 
+
+[ An/DT investigation/NN ]
+by/IN 
+[ U.S./NNP Postal/JJ ]
+inspectors/NNS is/VBZ continuing/VBG ./. 
+
+======================================
+
+[ The/DT problems/NNS ]
+are/VBP 
+[ an/DT uncommon/JJ blemish/NN ]
+on/IN 
+[ one/CD ]
+of/IN 
+[ the/DT most/JJS venerable/NN ]
+of/IN 
+[ U.S./NNP companies/NNS ]
+./. 
+
+Founded/VBN in/IN 
+[ 1841/CD ]
+,/, 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+swiftly/RB set/VBD to/TO building/VBG 
+[ a/DT reputation/NN ]
+for/IN 
+[ reliability/NN ]
+and/CC 
+[ thoroughness/NN ]
+./. 
+
+[ An/DT early/JJ credit/NN report/NN ]
+on/IN 
+[ a/DT grocer/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, even/RB noted/VBD 
+[ a/DT rat/NN hole/NN ]
+in/IN 
+[ the/DT shop/NN ]
+that/IN ``/`` would/MD bear/VB looking/VBG into/IN ./. 
+
+''/'' 
+[ The/DT report/NN ]
+was/VBD prepared/VBN by/IN 
+[ Abraham/NNP Lincoln/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ four/CD D&B/NNP reporters/NNS ]
+
+[ who/WP ]
+later/RB became/VBD 
+[ a/DT U.S./NNP president/NN ]
+./. 
+
+ (/( 
+[ The/DT others/NNS ]
+were/VBD 
+[ Grant/NNP ]
+,/, 
+[ McKinley/NNP ]
+and/CC 
+[ Cleveland/NNP ]
+./. 
+
+ )/) 
+======================================
+
+[ D&B/NNP ]
+still/RB has/VBZ 
+[ many/JJ admirers/NNS ]
+
+[ who/WP ]
+regard/VBP 
+[ its/PRP$ services/NNS ]
+as/IN 
+[ indispensable/NN ]
+and/CC 
+[ its/PRP$ faults/NNS ]
+as/IN 
+[ tolerable/JJ ]
+./. 
+
+``/`` For/IN 
+[ the/DT massive/JJ number/NN ]
+of/IN 
+[ names/NNS ]
+
+[ it/PRP ]
+reports/VBZ on/IN ,/, 
+[ it/PRP ]
+is/VBZ 
+[ a/DT good/JJ service/NN ]
+,/, ''/'' says/VBZ 
+[ Russell/NNP J./NNP Hart/NNP ]
+,/, 
+[ an/DT executive/JJ vice/NN president/NN ]
+at/IN 
+[ Republic/NNP Factors/NNP Corp./NNP ]
+,/, 
+[ a/DT major/JJ source/NN ]
+of/IN financing/NN in/IN 
+[ the/DT retailing/NN ]
+and/CC 
+[ garment/NN industries/NNS ]
+./. 
+
+[ Joe/NNP Mullen/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP private/JJ investigator/NN ]
+,/, describes/VBZ 
+[ D&B/NNP 's/POS wide/JJ range/NN ]
+of/IN 
+[ services/NNS ]
+as/IN being/VBG ``/`` like/IN 
+[ 28/CD flavors/NNS ]
+of/IN 
+[ ice/NN cream/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ D&B/NNP ]
+has/VBZ ,/, in/IN 
+[ fact/NN ]
+,/, 
+[ a/DT virtual/JJ monopoly/NN ]
+on/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ commercial/JJ credit/NN data/NNS ]
+./. 
+
+While/IN 
+[ TRW/NNP Inc./NNP ]
+and/CC 
+[ a/DT few/JJ other/JJ companies/NNS ]
+also/RB sell/VBP 
+[ commercial/JJ credit/NN data/NN ]
+,/, 
+[ D&B/NNP ]
+controls/VBZ 
+[ 90/CD %/NN ]
+of/IN 
+[ the/DT market/NN ]
+./. 
+
+Most/JJS of/IN 
+[ the/DT company/NN 's/POS customers/NNS ]
+have/VBP 
+[ little/JJ choice/NN ]
+but/CC to/TO use/VB 
+[ its/PRP$ services/NNS ]
+./. 
+
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ they/PRP ]
+have/VBP 
+[ little/JJ recourse/NN ]
+when/WRB 
+[ problems/NNS ]
+arise/VBP ./. 
+
+[ Courts/NNS ]
+have/VBP generally/RB held/VBN 
+[ D&B/NNP ]
+is/VBZ n't/RB liable/JJ for/IN 
+[ errors/NNS ]
+./. 
+
+While/IN 
+[ there/EX ]
+are/VBP federal/JJ and/CC 
+[ state/NN laws/NNS ]
+governing/VBG 
+[ companies/NNS ]
+
+[ that/WDT ]
+sell/VBP 
+[ credit/NN data/NNS ]
+on/IN 
+[ individuals/NNS ]
+,/, 
+[ D&B/NNP ]
+is/VBZ largely/RB unregulated/JJ ./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ it/PRP ]
+perhaps/RB is/VBZ n't/RB surprising/JJ that/IN 
+[ the/DT subject/NN ]
+of/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+makes/VBZ 
+[ many/JJ executives/NNS ]
+seethe/VB ./. 
+
+[ Many/JJ small/JJ businessmen/NNS ]
+are/VBP particularly/RB 
+[ angry/JJ ]
+,/, viewing/VBG 
+[ the/DT company/NN ]
+as/IN 
+[ an/DT arrogant/JJ Big/NNP Brother/NNP ]
+./. 
+
+[ Perry/NNP Pinion/NNP ]
+,/, 
+[ a/DT D&B/NNP credit/NN reporter/NN ]
+in/IN 
+[ Greenville/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, and/CC 
+[ Richmond/NNP ]
+,/, 
+[ Va./NNP ]
+,/, before/IN quitting/VBG 
+[ last/JJ year/NN ]
+,/, estimates/VBZ that/IN 
+[ 75/CD %/NN ]
+of/IN 
+[ the/DT firms/NNS ]
+
+[ he/PRP ]
+called/VBD for/IN 
+[ data/NNS ]
+were/VBD 
+[ hostile/JJ ]
+to/TO 
+[ D&B/NNP ]
+and/CC told/VBD 
+[ him/PRP ]
+to/TO ``/`` drop/VB 
+[ dead/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ D&B/NNP reports/NNS ]
+on/IN 
+[ small/JJ businesses/NNS ]
+are/VBP ``/`` 
+[ dangerous/JJ ]
+to/TO 
+[ both/CC ]
+
+[ those/DT ]
+
+[ who/WP ]
+seek/VBP 
+[ them/PRP ]
+out/RP ,/, as/RB well/RB as/IN to/TO 
+[ the/DT fragile/JJ reputations/NNS ]
+of/IN growing/VBG ,/, 
+[ small/JJ companies/NNS ]
+,/, ''/'' 
+[ Joseph/NNP Arlauskas/NNP ]
+wrote/VBD to/TO 
+[ the/DT company/NN ]
+after/IN 
+[ errors/NNS ]
+appeared/VBD in/IN 
+[ reports/NNS ]
+on/IN 
+[ Arlauskas/NNP Inc./NNP ]
+,/, 
+[ a/DT Gloucester/NNP ]
+,/, 
+[ Va./NNP ]
+,/, 
+[ general/JJ contractor/NN ]
+
+[ he/PRP ]
+partly/RB owns/VBZ ./. 
+
+======================================
+
+[ The/DT reports/NNS ]
+vary/VBP widely/RB in/IN how/WRB much/JJ 
+[ they/PRP ]
+contain/VBP ./. 
+
+[ A/DT complete/JJ one/CD ]
+has/VBZ 
+[ data/NNS ]
+such/JJ as/IN 
+[ sales/NNS ]
+and/CC 
+[ assets/NNS ]
+,/, 
+[ a/DT brief/JJ corporate/JJ history/NN ]
+and/CC 
+[ the/DT names/NNS ]
+and/CC about/RB 
+[ two/CD decades/NNS ]
+of/IN 
+[ background/NN ]
+on/IN 
+[ each/DT officer/NN ]
+./. 
+
+[ A/DT full/JJ report/NN ]
+also/RB has/VBZ 
+[ a/DT credit/NN history/NN ]
+
+[ that/WDT ]
+shows/VBZ whether/IN 
+[ the/DT company/NN ]
+is/VBZ behind/RB on/IN 
+[ its/PRP$ bills/NNS ]
+,/, whether/IN 
+[ it/PRP ]
+has/VBZ ever/RB had/VBN 
+[ bad/JJ debt/NN ]
+placed/VBN for/IN 
+[ collection/NN ]
+,/, and/CC whether/IN 
+[ it/PRP ]
+has/VBZ ever/RB been/VBN refused/VBN 
+[ credit/NN ]
+./. 
+
+Based/VBN on/IN 
+[ the/DT credit/NN history/NN ]
+and/CC 
+[ financial/JJ data/NNS ]
+,/, among/IN 
+[ other/JJ factors/NNS ]
+,/, 
+[ D&B/NNP ]
+assigns/VBZ 
+[ a/DT credit/NN rating/NN ]
+./. 
+
+======================================
+
+[ Gathering/VBG ]
+
+[ the/DT Data/NNS ]
+
+======================================
+
+[ A/DT large/JJ amount/NN ]
+of/IN 
+[ the/DT information/NN ]
+is/VBZ collected/VBN by/IN 
+[ D&B/NNP reporters/NNS ]
+;/: ideally/RB ,/, 
+[ it/PRP ]
+is/VBZ based/VBN largely/RB on/IN 
+[ interviews/NNS ]
+with/IN 
+[ top/JJ officials/NNS ]
+of/IN 
+[ the/DT subject/NN|JJ company/NN ]
+./. 
+
+[ Other/JJ D&B/NNP employees/NNS stake/VBP ]
+out/IN 
+[ bankruptcy/NN courts/NNS ]
+and/CC 
+[ public/JJ agencies/NNS ]
+,/, from/IN 
+[ which/WDT ]
+,/, 
+[ this/DT year/NN ]
+,/, 
+[ they/PRP ]
+will/MD collect/VB 
+[ an/DT estimated/JJ 2.6/CD million/CD pieces/NNS ]
+of/IN 
+[ information/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ general/JJ ]
+,/, 
+[ another/DT group/NN ]
+of/IN 
+[ employees/NNS ]
+assembles/VBZ 
+[ the/DT credit/NN histories/NNS ]
+,/, based/VBN on/IN 
+[ interviews/NNS ]
+with/IN 
+[ trade/NN references/NNS ]
+,/, 
+[ information/NN ]
+mailed/VBN in/RP by/IN 
+[ creditors/NNS ]
+,/, or/CC 
+[ computer/NN tapes/NNS ]
+of/IN 
+[ accounts/NNS ]
+provided/VBN by/IN 
+[ creditors/NNS ]
+./. 
+
+[ D*/NNP&B/NN estimates/NNS ]
+
+[ it/PRP ]
+will/MD collect/VB 
+[ 120/CD million/CD separate/JJ payment/NN records/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+[ Substantial/JJ numbers/NNS ]
+of/IN 
+[ D&B/NNP reports/NNS ]
+are/VBP prepared/VBN at/IN ``/`` 
+[ ticket/NN centers/NNS ]
+''/'' in/IN 
+[ Lancaster/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ Tucson/NNP ]
+,/, 
+[ Ariz./NNP ]
+,/, 
+[ Greensboro/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, and/CC 
+[ other/JJ ]
+relatively/RB 
+[ low-cost/JJ cities/NNS ]
+./. 
+
+[ Reporters/NNS ]
+at/IN 
+[ the/DT ticket/NN centers/NNS ]
+are/VBP often/RB 
+[ recent/JJ college/NN graduates/NNS ]
+hired/VBN for/IN 
+[ modest/JJ salaries/NNS ]
+and/CC then/RB given/VBN 
+[ three/CD months/NNS '/POS training/NN ]
+./. 
+
+[ D&B/NNP ]
+began/VBD setting/VBG up/RP 
+[ the/DT centers/NNS ]
+in/IN 
+[ the/DT early/JJ 1980s/NNS ]
+,/, 
+[ ex-employees/NNS ]
+say/VBP ,/, to/TO reduce/VB 
+[ the/DT cost/NN ]
+of/IN preparing/VBG 
+[ reports/NNS ]
+
+[ that/WDT ]
+are/VBP n't/RB 
+[ big/JJ sellers/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ There/EX ]
+was/VBD 
+[ a/DT very/RB big/JJ concern/NN ]
+that/IN 
+[ costs/NNS ]
+were/VBD getting/VBG out/IN of/IN 
+[ control/NN ]
+,/, ''/'' recalls/VBZ 
+[ Ruth/NNP Boley/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+of/IN 
+[ the/DT data-gathering/JJ operations/NNS ]
+until/IN 
+[ late/JJ 1986/CD ]
+./. 
+
+======================================
+
+While/IN 
+[ D&B/NNP ]
+does/VBZ have/VB 
+[ reporters/NNS ]
+
+[ who/WP ]
+visit/VBP 
+[ companies/NNS ]
+in/IN 
+[ person/NN ]
+,/, 
+[ those/DT ]
+at/IN 
+[ the/DT ticket/NN centers/NNS ]
+do/VBP 
+[ all/PDT their/PRP$ work/NN ]
+by/IN 
+[ phone/NN ]
+./. 
+
+[ Former/JJ employees/NNS ]
+describe/VBP 
+[ these/DT centers/NNS ]
+as/IN 
+[ a/DT kind/NN ]
+of/IN 
+[ high-technology/NN sweatshop/NN ]
+where/WRB 
+[ reporters/NNS ]
+had/VBD to/TO hustle/VB to/TO ,/, in/IN 
+[ a/DT literal/JJ sense/NN ]
+,/, 
+[ score/VB points/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ example/NN ]
+,/, 
+[ reporters/NNS ]
+could/MD score/VB 
+[ 50/CD points/NNS ]
+for/IN landing/VBG 
+[ an/DT interview/NN ]
+with/IN 
+[ management/NN ]
+./. 
+
+[ Reporters/NNS '/POS scores/NNS ]
+were/VBD tallied/VBN 
+[ monthly/JJ ]
+and/CC measured/VBN against/IN 
+[ the/DT goals/NNS ]
+set/VBN by/IN 
+[ management/NN ]
+./. 
+
+[ Pay/NN ]
+,/, 
+[ promotions/NNS ]
+and/CC bonuses/VBZ depended/VBD on/IN meeting/VBG 
+[ the/DT goals/NNS ]
+,/, 
+[ several/JJ ex-reporters/NNS ]
+say/VBP ./. 
+
+``/`` If/IN 
+[ you/PRP ]
+did/VBD n't/RB make/VB 
+[ production/NN ]
+,/, 
+[ you/PRP ]
+were/VBD n't/RB eligible/JJ for/IN 
+[ anything/NN ]
+,/, ''/'' recalls/VBZ 
+[ Ms./NNP Hicks/NNP ]
+./. 
+
+======================================
+
+[ D*/NNP&B/NN ]
+says/VBZ 
+[ reporters/NNS ]
+are/VBP expected/VBN to/TO meet/VB 
+[ productivity/NN guidelines/NNS ]
+,/, 
+[ which/WDT ]
+
+[ it/PRP ]
+wo/MD n't/RB disclose/VB ,/, but/CC 
+[ it/PRP ]
+denies/VBZ 
+[ former/JJ reporters/NNS '/POS assertions/NNS they/PRP ]
+were/VBD expected/VBN to/TO do/VB 
+[ a/DT certain/JJ number/NN ]
+of/IN 
+[ reports/NNS ]
+
+[ a/DT day/NN ]
+./. 
+
+[ It/PRP ]
+also/RB says/VBZ 
+[ bonuses/NNS ]
+are/VBP based/VBN on/IN 
+[ the/DT quality/NN ]
+of/IN 
+[ reporters/NNS '/POS work/NN ]
+,/, not/RB 
+[ their/PRP$ productivity/NN ]
+./. 
+
+======================================
+
+[ Suspect/JJ Information/NN ]
+
+======================================
+
+[ D&B/NNP reporters/NNS ]
+generally/RB did/VBD n't/RB make/VB 
+[ any/DT attempt/NN ]
+to/TO verify/VB 
+[ information/NN ]
+provided/VBN by/IN 
+[ companies/NNS ]
+,/, 
+[ ex-reporters/NNS ]
+say/VBP ./. 
+
+Nor/CC ,/, 
+[ they/PRP ]
+say/VBP ,/, were/VBD 
+[ they/PRP ]
+supposed/VBD to/TO ./. 
+
+[ D&B/NNP ]
+asserts/VBZ in/IN 
+[ a/DT disclaimer/NN ]
+on/IN 
+[ all/PDT its/PRP$ reports/NNS ]
+that/IN 
+[ it/PRP ]
+wo/MD n't/RB be/VB held/VBN responsible/JJ for/IN 
+[ the/DT accuracy/NN ]
+of/IN 
+[ information/NN ]
+./. 
+
+But/CC in/IN 
+[ their/PRP$ haste/NN ]
+to/TO meet/VB 
+[ production/NN goals/NNS ]
+,/, 
+[ some/DT former/JJ reporters/NNS ]
+say/VBP ,/, 
+[ they/PRP ]
+would/MD accept/VB 
+[ information/NN ]
+even/RB when/WRB 
+[ they/PRP ]
+knew/VBD 
+[ it/PRP ]
+was/VBD suspect/JJ ./. 
+
+======================================
+
+``/`` Sometimes/RB 
+[ you/PRP ]
+could/MD just/RB tell/VB 
+[ companies/NNS ]
+were/VBD exaggerating/VBG ,/, ''/'' says/VBZ 
+[ Wendee/NNP Maniago/NNP ]
+,/, 
+[ who/WP ]
+quit/VBD 
+[ the/DT Lancaster/NNP office/NN ]
+in/IN 
+[ March/NNP ]
+./. 
+
+[ She/PRP ]
+says/VBZ 
+[ she/PRP ]
+recalls/VBZ ,/, for/IN 
+[ example/NN ]
+,/, that/IN 
+[ small/JJ laundries/NNS ]
+would/MD routinely/RB tell/VB 
+[ her/PRP ]
+
+[ they/PRP ]
+had/VBD 
+[ receivables/NN ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ dollars/NNS ]
+but/CC 
+[ no/DT accounts/NNS ]
+payable/JJ ./. 
+
+======================================
+
+When/WRB 
+[ D&B/NNP ]
+called/VBD 
+[ Robert/NNP F./NNP Naples/NNP ]
+&/CC 
+[ Associates/NNP Inc./NNP last/JJ January/NNP ]
+,/, 
+[ Mr./NNP Naples/NNP ]
+says/VBZ ,/, 
+[ he/PRP ]
+told/VBD 
+[ the/DT reporter/NN ]
+that/IN projected/JJ 
+[ sales/NNS ]
+were/VBD 
+[ $/$ 20/CD million/CD ]
+./. 
+
+[ A/DT sharp/JJ reporter/NN ]
+would/MD have/VB questioned/VBN 
+[ this/DT ]
+,/, 
+[ Mr./NNP Naples/NNP ]
+suggests/VBZ ,/, because/IN 
+[ he/PRP ]
+also/RB indicated/VBD 
+[ that/DT his/PRP$ company/NN ]
+,/, 
+[ which/WDT ]
+buys/VBZ and/CC sells/VBZ 
+[ power/NN plant/NN gear/NN ]
+,/, has/VBZ only/RB 
+[ four/CD employees/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ Mr./NNP Naples/NNP ]
+says/VBZ in/IN 
+[ several/JJ interviews/NNS ]
+,/, 
+[ his/PRP$ company/NN ]
+had/VBD 
+[ sales/NNS ]
+of/IN 
+[ no/DT more/JJR ]
+than/IN 
+[ $/$ 1/CD million/CD ]
+in/IN 
+[ its/PRP$ March/NNP fiscal/JJ year/NN ]
+and/CC under/IN 
+[ the/DT best/JJS ]
+of/IN 
+[ circumstances/NNS ]
+can/MD generate/VB no/RB more/JJR than/IN 
+[ $/$ 5/CD million/CD ]
+./. 
+
+But/CC 
+[ he/PRP ]
+says/VBZ that/IN when/WRB 
+[ he/PRP ]
+got/VBD 
+[ a/DT sample/JJ copy/NN ]
+of/IN 
+[ his/PRP$ D&B/NNP report/NN ]
+,/, 
+[ the/DT $/$ 20/CD million/CD sales/NNS figure/NN ]
+appeared/VBD ./. 
+
+[ He/PRP ]
+says/VBZ disdainfully/RB that/IN 
+[ he/PRP ]
+was/VBD proving/VBG 
+[ the/DT point/NN ]
+that/IN 
+[ D&B/NNP ]
+``/`` will/MD publish/VB 
+[ anything/NN ]
+
+[ you/PRP ]
+give/VBP 
+[ them/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+says/VBZ 
+[ reporters/NNS ]
+are/VBP expected/VBN to/TO ,/, and/CC do/VB ,/, 
+[ question/NN information/NN ]
+
+[ they/PRP ]
+find/VBP 
+[ suspect/JJ ]
+./. 
+
+Moreover/RB ,/, 
+[ the/DT company/NN ]
+says/VBZ 
+[ it/PRP ]
+is/VBZ introducing/VBG 
+[ an/DT improved/JJ quality-control/NN system/NN ]
+
+[ that/WDT ]
+will/MD catch/VB 
+[ exaggerations/NNS ]
+like/IN 
+[ Mr./NNP Naples/NNP 's/POS ]
+./. 
+
+[ The/DT system/NN ]
+is/VBZ designed/VBN ,/, among/IN 
+[ other/JJ things/NNS ]
+,/, to/TO question/VB 
+[ data/NNS ]
+
+[ that/WDT ]
+fall/VBP 
+[ outside/IN industry/NN norms/NNS ]
+calculated/VBN by/IN 
+[ D*/NNP  ]
+./. 
+
+======================================
+
+But/CC 
+[ it/PRP ]
+is/VBZ n't/RB clear/JJ how/WRB well/RB 
+[ such/JJ monitoring/NN ]
+will/MD work/VB ./. 
+
+[ D&B/NNP ]
+says/VBZ 
+[ the/DT reporter/NN ]
+
+[ who/WP ]
+talked/VBD to/TO 
+[ Mr./NNP Naples/NNP ]
+did/VBD raise/VB 
+[ a/DT question/NN ]
+about/IN 
+[ the/DT sales/NNS figure/NN ]
+with/IN 
+[ her/PRP$ manager/NN ]
+,/, but/CC 
+[ D&B/NNP ]
+published/VBD 
+[ it/PRP ]
+anyway/RB after/IN concluding/VBG 
+[ it/PRP ]
+was/VBD possible/JJ for/IN 
+[ the/DT business/NN ]
+to/TO generate/VB 
+[ sales/NNS ]
+of/IN 
+[ that/DT size/NN ]
+./. 
+
+======================================
+
+Taking/VBG 
+[ a/DT Guess/NN ]
+?/. 
+
+======================================
+
+[ Reporters/NNS ]
+,/, at/IN 
+[ least/JJS ]
+in/IN 
+[ the/DT past/NN ]
+,/, have/VBP been/VBN free/JJ to/TO make/VB 
+[ their/PRP$ own/JJ ]
+``/`` 
+[ guesstimates/NNS ]
+''/'' for/IN 
+[ companies/NNS ]
+not/RB providing/VBG 
+[ complete/JJ financial/JJ statements/NNS ]
+./. 
+
+In/IN 
+[ 1982/CD ]
+,/, 
+[ a/DT Denver/NNP construction/NN firm/NN ]
+called/VBN 
+[ Sunward/NNP Corp./NNP ]
+and/CC 
+[ two/CD units/NNS ]
+sued/VBD 
+[ D&B/NNP ]
+,/, claiming/VBG that/IN 
+[ inaccurate/JJ credit/NN reports/NNS ]
+were/VBD creating/VBG 
+[ the/DT perception/NN Sunward/NNP ]
+was/VBD failing/VBG ./. 
+
+[ A/DT 1983/CD trial/NN ]
+in/IN 
+[ Denver/NNP federal/JJ court/NN ]
+revealed/VBD that/IN 
+[ a/DT D&B/NNP reporter/NN ]
+had/VBD used/VBN 
+[ estimates/NNS ]
+,/, 
+[ assumptions/NNS ]
+and/CC ``/`` 
+[ guesstimates/NNS ]
+''/'' to/TO prepare/VB 
+[ financial/JJ statements/NNS ]
+
+[ that/WDT ]
+grossly/RB understated/VBD 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT Sunward/NNP enterprises/NNS ]
+./. 
+
+[ The/DT reports/NNS ]
+,/, for/IN 
+[ example/NN ]
+,/, put/VBD 
+[ total/JJ sales/NNS ]
+at/IN less/JJR than/IN 
+[ $/$ 1/CD million/CD ]
+when/WRB 
+[ they/PRP ]
+actually/RB exceeded/VBD 
+[ $/$ 29/CD million/CD ]
+./. 
+
+======================================
+
+[ Sunward/NNP ]
+had/VBD refused/VBN to/TO cooperate/VB with/IN 
+[ D&B/NNP ]
+when/WRB 
+[ it/PRP ]
+originally/RB sought/VBD 
+[ data/NNS ]
+./. 
+
+Nonetheless/RB ,/, 
+[ it/PRP ]
+was/VBD awarded/VBN 
+[ $/$ 3.8/CD million/CD ]
+at/IN 
+[ trial/NN ]
+;/: after/IN 
+[ an/DT appeals/NNS court/NN ]
+ordered/VBD 
+[ a/DT retrial/NN ]
+,/, 
+[ Sunward/NNP ]
+and/CC 
+[ D&B/NNP ]
+settled/VBD out/IN of/IN 
+[ court/NN two/CD years/NNS ]
+ago/RB ./. 
+
+======================================
+
+``/`` 
+[ Guesstimates/NNS ]
+''/'' about/IN 
+[ company/NN data/NNS ]
+are/VBP ``/`` 
+[ dead/JJ ]
+and/CC gone/JJ in/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+,/, ''/'' 
+[ D&B/NNP 's/POS attorney/NN ]
+said/VBD at/IN 
+[ the/DT trial/NN ]
+./. 
+
+And/CC in/IN 
+[ recent/JJ interviews/NNS ]
+,/, 
+[ D&B/NNP officials/NNS ]
+also/RB say/VBP that/IN 
+[ reporters/NNS ]
+are/VBP n't/RB allowed/VBN to/TO estimate/VB 
+[ financial/JJ data/NNS ]
+./. 
+
+But/CC 
+[ some/DT former/JJ reporters/NNS ]
+say/VBP 
+[ the/DT practice/NN ]
+continued/VBD after/IN 
+[ the/DT Sunward/NNP case/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+filled/VBD in/IN 
+[ the/DT blanks/NNS ]
+with/IN 
+[ whatever/WDT ]
+
+[ it/PRP ]
+took/VBD to/TO make/VB 
+[ the/DT bottom/NN line/NN ]
+add/VB up/RP ,/, ''/'' says/VBZ 
+[ Mr./NNP Phillips/NNP ]
+,/, 
+[ who/WP ]
+was/VBD 
+[ a/DT reporter/NN ]
+until/IN 
+[ a/DT year/NN ]
+ago/RB ./. 
+
+``/`` 
+[ I/PRP ]
+can/MD remember/VB being/VBG told/VBN by/IN 
+[ my/PRP$ manager/NN ]
+to/TO do/VB 
+[ that/DT sort/NN ]
+of/IN 
+[ thing/NN ]
+if/IN 
+[ that/DT ]
+is/VBZ 
+[ what/WP ]
+
+[ it/PRP ]
+took/VBD ./. 
+
+''/'' 
+======================================
+
+[ Some/DT customers/NNS ]
+complain/VBP that/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+sometimes/RB assigns/VBZ 
+[ a/DT favorable/JJ rating/NN ]
+to/TO 
+[ a/DT company/NN ]
+even/RB though/IN 
+[ the/DT report/NN ]
+
+[ itself/PRP ]
+shows/VBZ 
+[ it/PRP ]
+woefully/RB behind/RB on/IN 
+[ its/PRP$ bills/NNS ]
+./. 
+
+``/`` 
+[ You/PRP ]
+look/VBP at/IN 
+[ it/PRP ]
+and/CC say/VBP ,/, 
+[ my/PRP$ God/NNP ]
+,/, how/WRB can/MD 
+[ they/PRP ]
+assign/VB 
+[ these/DT ratings/NNS ]
+?/. ''/'' says/VBZ 
+[ Mel/NNP Langer/NNP ]
+,/, 
+[ a/DT senior/JJ vice/NN president/NN ]
+at/IN 
+[ Heller/NNP Financial/NNP ]
+,/, 
+[ the/DT U.S./NNP commercial/JJ lending/NN arm/NN ]
+of/IN 
+[ Japan/NNP 's/POS Fuji/NNP Bank/NNP Ltd/NNP ]
+./. 
+
+In/IN 
+[ August/NNP 1988/CD ]
+,/, 
+[ Mr./NNP Langer/NNP ]
+complained/VBD in/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ John/NNP P./NNP Kunz/NNP ]
+,/, then/RB 
+[ president/NN ]
+of/IN 
+[ D&B/NNP 's/POS credit/NN services/NNS operations/NNS ]
+,/, about/IN 
+[ a/DT report/NN ]
+on/IN 
+[ WB/NNP Thomas/NNP Installation/NNP ]
+./. 
+
+[ D&B/NNP ]
+had/VBD rated/VBN 
+[ the/DT Huntington/NNP Beach/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ floor-covering/NN contractor/NN ]
+favorably/RB ./. 
+
+But/CC 
+[ the/DT same/JJ report/NN ]
+showed/VBD 
+[ it/PRP ]
+had/VBD 
+[ bills/NNS ]
+as/RB much/RB as/IN  
+[ six/CD months/NNS ]
+overdue/JJ ./. 
+
+======================================
+
+In/IN 
+[ a/DT similar/JJ peculiarity/NN ]
+,/, 
+[ D&B/NN 's/NNP report/NN last/JJ December/NNP ]
+on/IN 
+[ Gunthrop-Warren/NNP Printing/NNP ]
+,/, 
+[ which/WDT ]
+was/VBD based/VBN largely/RB on/IN 
+[ an/DT interview/NN ]
+with/IN 
+[ the/DT company/NN ]
+,/, indicated/VBD 
+[ it/PRP ]
+had/VBD 
+[ financial/JJ strength/NN ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 10/CD million/CD ]
+./. 
+
+But/CC on/IN 
+[ the/DT very/RB same/JJ page/NN ]
+,/, 
+[ the/DT report/NN ]
+said/VBD 
+[ the/DT company/NN ]
+was/VBD up/IN to/TO 
+[ three/CD months/NNS ]
+late/JJ on/IN 
+[ some/DT bills/NNS ]
+,/, and/CC 
+[ others/NNS ]
+had/VBD been/VBN turned/VBN over/RP to/TO 
+[ collectors/NNS ]
+./. 
+
+======================================
+
+[ Mrs./NNP Maniago/NNP ]
+,/, 
+[ the/DT former/JJ reporter/NN ]
+in/IN 
+[ Lancaster/NNP ]
+,/, says/VBZ 
+[ inconsistencies/NNS ]
+between/IN 
+[ ratings/NNS ]
+and/CC 
+[ payment/NN records/NNS ]
+were/VBD n't/RB unusual/JJ ./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ she/PRP ]
+says/VBZ ,/, 
+[ reporters/NNS ]
+sometimes/RB assigned/VBD 
+[ a/DT rating/NN ]
+before/IN 
+[ the/DT report/NN ]
+was/VBD sent/VBN on/RB to/TO 
+[ co-workers/NNS whose/WP$ job/NN ]
+was/VBD to/TO prepare/VB 
+[ the/DT credit/NN history/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+was/VBD 
+[ kind/NN ]
+of/IN 
+[ backwards/NNS ]
+,/, ''/'' 
+[ Mrs./NNP Maniago/NNP ]
+admits/VBZ ./. 
+
+======================================
+
+[ D&B/NNP officials/NNS ]
+concede/VBP that/IN 
+[ reports/NNS ]
+can/MD be/VB internally/RB 
+[ inconsistent/JJ ]
+,/, but/CC 
+[ they/PRP ]
+attribute/VBP 
+[ the/DT problem/NN ]
+to/TO 
+[ the/DT fact/NN ]
+
+[ that/DT payment/NN information/NN ]
+is/VBZ updated/VBN more/RBR often/RB than/IN 
+[ ratings/NNS ]
+./. 
+
+[ It/PRP ]
+says/VBZ 
+[ it/PRP ]
+is/VBZ installing/VBG 
+[ a/DT monitoring/NN system/NN ]
+
+[ that/WDT ]
+will/MD prompt/VB 
+[ reporters/NNS ]
+to/TO review/VB 
+[ ratings/NNS ]
+when/WRB 
+[ new/JJ payment/NN information/NN ]
+becomes/VBZ 
+[ available/JJ ]
+./. 
+
+======================================
+
+[ Some/DT customers/NNS ]
+also/RB gripe/VBP that/IN 
+[ D&B/NNP ]
+is/VBZ like/IN 
+[ the/DT consultant/NN ]
+
+[ who/WP ]
+borrows/VBZ 
+[ your/PRP$ watch/NN ]
+to/TO tell/VB 
+[ you/PRP ]
+
+[ what/WP time/NN ]
+
+[ it/PRP ]
+is/VBZ ./. 
+
+[ Reporters/NNS ]
+are/VBP encouraged/VBN to/TO turn/VB to/TO 
+[ the/DT subscriber/NN ]
+as/IN 
+[ a/DT source/NN ]
+of/IN 
+[ the/DT very/JJ data/NNS ]
+
+[ the/DT subscriber/NN ]
+has/VBZ requested/VBN from/IN 
+[ D&B/NNP ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ a/DT customer/NN ]
+might/MD request/VB 
+[ a/DT report/NN ]
+on/IN 
+[ a/DT company/NN ]
+
+[ that/WDT ]
+refuses/VBZ to/TO provide/VB 
+[ trade/NN references/NNS ]
+./. 
+
+[ The/DT solution/NN ]
+?/. 
+
+In/IN 
+[ a/DT June/NNP 1988/CD memo/NN ]
+,/, 
+[ the/DT manager/NN ]
+of/IN 
+[ the/DT Lancaster/NNP office/NN ]
+urged/VBD 
+[ reporters/NNS ]
+to/TO ``/`` call/VB back/RP 
+[ the/DT subscriber/NN ]
+./. 
+
+[ 90/CD %/NN ]
+of/IN 
+[ the/DT time/NN ]
+,/, 
+[ they/PRP ]
+will/MD have/VB 
+[ some/DT credit/NN application/NN ]
+to/TO give/VB 
+[ you/PRP names/NNS ]
+of/IN 
+[ trade/NN references/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ D&B/NNP officials/NNS ]
+acknowledge/VBP that/IN 
+[ customers/NNS ]
+are/VBP 
+[ one/CD ]
+of/IN 
+[ the/DT firm/NN ]
+'s/VBZ 
+[ most/RBS important/JJ sources/NNS ]
+,/, especially/RB on/IN 
+[ new/JJ businesses/NNS ]
+or/CC for/IN 
+[ original/JJ reports/NNS ]
+./. 
+
+======================================
+
+[ The/DT problem/NN ]
+with/IN 
+[ that/DT ]
+,/, say/VBP 
+[ some/DT customers/NNS ]
+,/, is/VBZ 
+[ that/DT D&B/NNP ]
+sometimes/RB does/VBZ n't/RB bother/VB to/TO verify/VB 
+[ the/DT data/NNS ]
+./. 
+
+``/`` If/IN 
+[ they/PRP ]
+do/VBP n't/RB have/VB 
+[ a/DT report/NN ]
+on/IN 
+[ the/DT business/NN ]
+,/, 
+[ they/PRP ]
+will/MD take/VB 
+[ information/NN ]
+
+[ you/PRP ]
+gave/VBD 
+[ them/PRP ]
+and/CC send/VB 
+[ it/PRP ]
+back/RB to/TO 
+[ you/PRP ]
+on/IN 
+[ a/DT form/NN ]
+without/IN investigating/VBG 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Robert/NNP E./NNP Martin/NNP ]
+,/, 
+[ credit/NN manager/NN ]
+of/IN 
+[ Blackstone/NNP Co./NNP ]
+,/, 
+[ an/DT East/NNP Brunswick/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ building-products/NNS firm/NN ]
+./. 
+
+======================================
+
+[ Production/NN demands/NNS ]
+also/RB provide/VBP 
+[ an/DT incentive/NN ]
+for/IN 
+[ some/DT reporters/NNS ]
+to/TO tell/VB 
+[ subscribers/NNS ]
+that/IN 
+[ a/DT company/NN ]
+simply/RB ca/MD n't/RB be/VB located/VBN ,/, 
+[ some/DT former/JJ employees/NNS ]
+say/VBP ./. 
+
+To/TO file/VB 
+[ a/DT so-called/JJ ]
+``/`` 
+[ unable/JJ ]
+to/TO locate/VB ''/'' 
+[ report/NN ]
+,/, 
+[ they/PRP ]
+say/VBP ,/, 
+[ a/DT reporter/NN ]
+had/VBD only/RB to/TO find/VB 
+[ two/CD outside/JJ sources/NNS ]
+,/, such/JJ as/IN 
+[ the/DT Post/NNP Office/NNP ]
+or/CC 
+[ telephone/NN company/NN ]
+,/, 
+[ that/WDT ]
+did/VBD n't/RB know/VB 
+[ the/DT subject/NN 's/POS whereabouts/NNS ]
+./. 
+
+======================================
+
+[ Such/JJ reports/NNS ]
+are/VBP problematic/JJ ./. 
+
+[ A/DT customer/NN ]
+ordering/VBG 
+[ a/DT report/NN ]
+on/IN 
+[ a/DT company/NN ]
+has/VBZ to/TO pay/VB for/IN 
+[ it/PRP ]
+even/RB if/IN 
+[ it/PRP ]
+comes/VBZ back/RB marked/VBN ``/`` 
+[ unable/JJ ]
+to/TO locate/VB ''/'' and/CC provides/VBZ 
+[ no/DT information/NN ]
+./. 
+
+[ The/DT subject/NN ]
+of/IN 
+[ the/DT report/NN ]
+can/MD suffer/VB too/RB ,/, since/IN 
+[ a/DT potential/JJ creditor/NN ]
+is/VBZ less/RBR likely/JJ to/TO extend/VB 
+[ credit/NN ]
+to/TO 
+[ a/DT firm/NN ]
+that/WDT 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+says/VBZ 
+[ it/PRP ]
+ca/MD n't/RB locate/VB ./. 
+
+But/CC 
+[ former/JJ D&B/NNP reporters/NNS ]
+say/VBP that/IN ,/, while/IN 
+[ they/PRP ]
+could/MD get/VB 
+[ poorer/JJR scores/NNS ]
+for/IN filing/VBG 
+[ incomplete/JJ reports/NNS ]
+on/IN 
+[ firms/NNS they/PRP ]
+found/VBD ,/, 
+[ they/PRP ]
+did/VBD n't/RB lose/VB 
+[ any/DT points/NNS ]
+if/IN 
+[ they/PRP ]
+marked/VBD 
+[ the/DT firm/JJ ]
+``/`` 
+[ unable/JJ ]
+to/TO locate/VB ./. 
+
+''/'' 
+======================================
+
+[ Unwarranted/JJ ]
+``/`` 
+[ UTL/JJ ]
+''/'' 
+[ reports/NNS ]
+apparently/RB are/VBP difficult/JJ to/TO 
+[ police/VB ]
+and/CC are/VBP 
+[ a/DT longstanding/JJ problem/NN ]
+./. 
+
+[ Five/CD years/NNS ]
+ago/RB ,/, 
+[ an/DT internal/JJ audit/NN ]
+of/IN 
+[ the/DT Charlotte/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, 
+[ office/NN ]
+easily/RB found/VBD 
+[ five/CD ]
+of/IN 
+[ 20/CD companies/NNS ]
+
+[ that/WDT ]
+had/VBD been/VBN listed/VBN as/RB not/RB possible/JJ to/TO locate/VB ,/, 
+[ a/DT copy/NN ]
+of/IN 
+[ the/DT audit/NN ]
+shows/VBZ ./. 
+
+More/RBR recently/RB ,/, in/IN 
+[ the/DT Lancaster/NNP ticket/NN center/NN ]
+,/, 
+[ the/DT volume/NN ]
+of/IN 
+[ UTL/JJ reports/NNS ]
+swelled/VBD so/RB large/JJ that/IN 
+[ the/DT office/NN manager/NN ]
+warned/VBD 
+[ reporters/NNS ]
+in/IN 
+[ a/DT October/NNP 1988/CD memo/NN ]
+to/TO cut/VB back/RP ./. 
+
+======================================
+
+[ D&B/NNP 's/POS Mr./NNP Sommers/NNP ]
+says/VBZ 
+[ the/DT company/NN ]
+is/VBZ working/VBG to/TO reduce/VB 
+[ the/DT number/NN ]
+of/IN 
+[ unable-to-locate/JJ reports/NNS ]
+./. 
+
+[ Procedures/NNS ]
+put/VBN in/IN 
+[ place/NN 18/CD months/NNS ]
+ago/RB have/VBP reduced/VBN 
+[ them/PRP ]
+by/IN 
+[ 36/CD %/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ He/PRP ]
+adds/VBZ that/IN 
+[ UTLs/NNS ]
+are/VBP n't/RB necessarily/RB bad/JJ since/IN 
+[ they/PRP ]
+help/VBP 
+[ some/DT D&B/NNP customers/NNS ]
+spot/VB 
+[ phony/JJ companies/NNS ]
+./. 
+
+======================================
+
+[ New/JJ Data/NNS ]
+and/CC 
+[ Old/JJ ]
+
+======================================
+
+[ Stale/JJ information/NN ]
+is/VBZ 
+[ another/DT common/JJ customer/NN complaint/NN ]
+./. 
+
+[ Reports/NNS ]
+
+[ that/WDT ]
+are/VBP requested/VBN 
+[ two/CD ]
+or/CC 
+[ more/JJR times/NNS ]
+
+[ a/DT year/NN ]
+are/VBP revised/VBN annually/RB and/CC 
+[ the/DT rest/NN ]
+are/VBP revised/VBN as/IN needed/VBN ,/, 
+[ the/DT company/NN ]
+says/VBZ ./. 
+
+But/CC 
+[ many/JJ reports/NNS ]
+contain/VBP 
+[ more/RBR outdated/JJ information/NN ]
+,/, 
+[ customers/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ Last/JJ July/NNP ]
+,/, 
+[ a/DT Georgia-Pacific/NNP Corp/NNP ]
+./. 
+
+[ Midwest/NNP distribution/NN division/NN ]
+ordered/VBD 
+[ a/DT D&B/NNP report/NN ]
+on/IN 
+[ Falb/NNP Construction/NNP ]
+,/, 
+[ a/DT Columbiana/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, 
+[ construction/NN supply/NN concern/NN ]
+
+[ that/WDT ]
+was/VBD seeking/VBG 
+[ a/DT line/NN ]
+of/IN 
+[ credit/NN ]
+./. 
+
+[ D&B/NNP ]
+rated/VBD 
+[ the/DT company/NN ]
+highly/RB ,/, says/VBZ 
+[ Jeff/NNP Yarnell/NNP ]
+,/, 
+[ credit/NN manager/NN ]
+for/IN 
+[ the/DT Georgia-Pacific/NNP operation/NN ]
+,/, but/CC 
+[ the/DT rating/NN ]
+was/VBD based/VBN on/IN 
+[ a/DT two-year-old/JJ financial/JJ statement/NN ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ Mr./NNP Yarnell/NNP ]
+says/VBZ ,/, 
+[ Falb/NNP ]
+got/VBD 
+[ a/DT smaller/JJR credit/NN line/NN ]
+than/IN 
+[ the/DT $/$ 25,000/CD it/PRP ]
+would/MD have/VB gotten/VBN if/IN 
+[ the/DT D&B/NNP report/NN ]
+had/VBD contained/VBN 
+[ fresher/JJR data/NNS ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ D&B/NNP 's/POS information/NN ]
+is/VBZ so/RB often/RB outdated/JJ that/IN 
+[ his/PRP$ division/NN ]
+has/VBZ ``/`` realized/VBN that/IN 
+[ it/PRP ]
+is/VBZ n't/RB prudent/JJ to/TO be/VB making/VBG 
+[ decisions/NNS ]
+on/IN 
+[ D&B/NNP ratings/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ D&B/NNP 's/POS Mr./NNP Sommers/NNP ]
+says/VBZ 
+[ the/DT Falb/NNP report/NN ]
+was/VBD ``/`` on/IN 
+[ the/DT outer/JJ limits/NNS ]
+of/IN 
+[ what/WP ]
+is/VBZ 
+[ acceptable/JJ standards/NNS ]
+''/'' for/IN 
+[ timeliness/NN ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ D&B/NNP ]
+``/`` has/VBZ made/VBN 
+[ tremendous/JJ progress/NN ]
+''/'' in/IN collecting/VBG and/CC maintaining/VBG 
+[ fresh/JJ financial/JJ statements/NNS ]
+through/IN 
+[ an/DT effort/NN ]
+called/VBN 
+[ the/DT ]
+``/`` 
+[ statement/NN timeliness/NN program/NN ]
+./. 
+
+''/'' 
+======================================
+
+Perhaps/RB most/RBS troubling/JJ is/VBZ 
+[ evidence/NN ]
+that/IN 
+[ some/DT D&B/NNP reporters/NNS ]
+have/VBP fabricated/VBN 
+[ data/NNS ]
+outright/RB over/IN 
+[ the/DT years/NNS ]
+./. 
+
+[ Several/JJ years/NNS ]
+ago/RB ,/, 
+[ an/DT employee/NN ]
+in/IN 
+[ the/DT Millburn/NNP ]
+,/, 
+[ N.J./NNP ]
+,/, 
+[ office/NN ]
+was/VBD found/VBN to/TO have/VB been/VBN making/VBG up/RP 
+[ scores/NNS ]
+of/IN 
+[ bank/NN references/NNS ]
+,/, according/VBG to/TO 
+[ a/DT former/JJ manager/NN ]
+./. 
+
+In/IN 
+[ mid-1988/NN ]
+,/, 
+[ D&B/NNP ]
+also/RB discovered/VBD that/IN 
+[ a/DT reporter/NN ]
+in/IN 
+[ Lancaster/NNP ]
+had/VBD falsified/VBN 
+[ reports/NNS ]
+./. 
+
+In/IN 
+[ Greensboro/NNP ]
+,/, 
+[ a/DT reporter/NN ]
+had/VBD n't/RB even/RB produced/VBN 
+[ reports/NNS ]
+that/WDT 
+[ he/PRP ]
+had/VBD recorded/VBN on/IN 
+[ a/DT log/NN ]
+as/IN being/VBG completed/VBN ./. 
+
+In/IN 
+[ each/DT case/NN ]
+,/, 
+[ D&B/NNP ]
+fired/VBD 
+[ the/DT employee/NN ]
+./. 
+
+======================================
+
+[ D&B/NNP ]
+says/VBZ that/IN ,/, given/VBN 
+[ the/DT size/NN ]
+of/IN 
+[ its/PRP$ work/NN force/NN ]
+and/CC 
+[ the/DT type/NN ]
+of/IN 
+[ work/NN ]
+,/, 
+[ such/JJ incidents/NNS ]
+are/VBP bound/VBN to/TO happen/VB from/IN 
+[ time/NN ]
+to/TO 
+[ time/NN ]
+./. 
+
+``/`` Whenever/WRB 
+[ we/PRP ]
+find/VBP 
+[ it/PRP ]
+,/, 
+[ they/PRP ]
+'re/VBP gone/VBN ,/, ''/'' 
+[ Mr./NNP Sommers/NNP ]
+says/VBZ ./. 
+
+[ The/DT company/NN ]
+declines/VBZ to/TO provide/VB 
+[ details/NNS ]
+on/IN 
+[ such/JJ firings/NNS ]
+./. 
+
+======================================
+
+[ A/DT former/JJ manager/NN ]
+in/IN 
+[ the/DT Toledo/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, 
+[ ticket/NN office/NN ]
+was/VBD dismissed/VBN after/IN 
+[ a/DT ]
+particularly/RB troubling/JJ 
+[ instance/NN ]
+of/IN 
+[ falsification/NN ]
+,/, according/VBG to/TO 
+[ several/JJ former/JJ employees/NNS ]
+in/IN 
+[ Ohio/NNP ]
+./. 
+
+[ The/DT manager/NN ]
+had/VBD prepared/VBN at/IN 
+[ least/JJS one/CD report/NN ]
+on/IN 
+[ a/DT nonexistent/JJ company/NN ]
+,/, says/VBZ 
+[ David/NNP Ringenbach/NNP ]
+,/, 
+[ a/DT Toledo/NNP employee/NN ]
+
+[ who/WP ]
+resigned/VBD in/IN 
+[ May/NNP ]
+./. 
+
+[ Reports/NNS ]
+were/VBD also/RB written/VBN on/IN 
+[ affiliated/VBN dummy/JJ companies/NNS ]
+,/, according/VBG to/TO 
+[ him/PRP ]
+./. 
+
+[ The/DT reports/NNS ]
+apparently/RB helped/VBD 
+[ the/DT phony/JJ companies/NNS ]
+to/TO buy/VB 
+[ merchandise/NN ]
+on/IN 
+[ credit/NN ]
+,/, 
+[ he/PRP ]
+adds/VBZ ./. 
+
+======================================
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+says/VBZ 
+[ the/DT former/JJ manager/NN ]
+is/VBZ no/RB longer/RB with/IN 
+[ the/DT company/NN ]
+but/CC declines/VBZ to/TO discuss/VB 
+[ the/DT incident/NN ]
+./. 
+
+[ The/DT person/NN ]
+could/MD n't/RB be/VB reached/VBN for/IN 
+[ comment/NN ]
+./. 
+
+======================================
+
+[ D&B/NNP ]
+,/, in/IN 
+[ fact/NN ]
+,/, is/VBZ 
+[ a/DT popular/JJ instrument/NN ]
+of/IN 
+[ swindlers/NNS ]
+./. 
+
+In/IN 
+[ a/DT June/NNP 1988/CD memo/NN ]
+to/TO 
+[ its/PRP$ reporters/NNS ]
+,/, 
+[ the/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+had/VBD recently/RB uncovered/VBN ``/`` 
+[ many/JJ instances/NNS ]
+of/IN 
+[ fraudulent/JJ report/NN ]
+writing/NN on/IN 
+[ businesses/NNS ]
+
+[ that/WDT ]
+simply/RB do/VBP n't/RB exist/VB ./. 
+
+''/'' 
+======================================
+
+Says/VBZ 
+[ William/NNP P./NNP Callahan/NNP ]
+,/, 
+[ a/DT private/JJ investigator/NN ]
+:/: ``/`` 
+[ You/PRP ]
+have/VBP 
+[ a/DT lot/NN ]
+of/IN 
+[ con/JJ men/NNS ]
+--/: 
+[ the/DT Robert/NNP Vescos/NNPS ]
+of/IN 
+[ the/DT world/NN ]
+--/: 
+[ who/WP ]
+go/VBP out/IN of/IN 
+[ their/PRP$ way/NN ]
+to/TO have/VB 
+[ D&B/VBP ]
+do/VB 
+[ a/DT report/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mountain-Hi/NNP Surplus/NNP ]
+appears/VBZ to/TO have/VB been/VBN such/PDT 
+[ a/DT case/NN ]
+./. 
+
+[ The/DT D&B/NNP report/NN ]
+describes/VBZ 
+[ it/PRP ]
+as/IN 
+[ a/DT five-year-old/JJ diversified/JJ wholesaler/NN ]
+with/IN 
+[ estimated/JJ ]
+``/`` 
+[ financial/JJ strength/NN ]
+''/'' of/IN as/RB much/JJ as/IN 
+[ $/$ 500,000/CD ]
+./. 
+
+[ The/DT source/NN ]
+of/IN 
+[ the/DT information/NN ]
+:/: 
+[ Mountain-Hi/NNP itself/PRP ]
+./. 
+
+[ D&B/NNP ]
+merely/RB ``/`` regurgitated/VBD ''/'' 
+[ the/DT information/NN ]
+,/, 
+[ none/NN ]
+of/IN 
+[ which/WDT ]
+was/VBD true/JJ ,/, says/VBZ 
+[ Patrick/NNP Carr/NNP ]
+,/, 
+[ a/DT U.S./NNP postal/JJ inspector/NN ]
+
+[ who/WP ]
+investigated/VBD 
+[ the/DT company/NN ]
+./. 
+
+[ Last/JJ July/NNP ]
+,/, 
+[ Mountain-Hi/NNP 's/POS owner/NN ]
+,/, 
+[ Laura/NNP Pugh/NNP ]
+,/, pleaded/VBD 
+[ guilty/JJ ]
+in/IN 
+[ federal/JJ court/NN ]
+in/IN 
+[ Denver/NNP ]
+to/TO 
+[ a/DT conspiracy/NN charge/NN ]
+./. 
+
+======================================
+
+[ Verification/NN Process/NN ]
+
+======================================
+
+[ D&B/NNP ]
+says/VBZ that/IN 
+[ its/PRP$ own/JJ monitoring/NN systems/NNS ]
+spotted/VBD 
+[ the/DT problem/NN ]
+and/CC that/IN 
+[ D&B/NNP ]
+subsequently/RB warned/VBD 
+[ customers/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+saved/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ people/NNS ]
+
+[ a/DT lot/NN ]
+of/IN 
+[ money/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Sommers/NNP ]
+./. 
+
+But/CC according/VBG to/TO 
+[ Mr./NNP Carr/NNP ]
+,/, 
+[ several/JJ creditors/NNS ]
+,/, including/VBG 
+[ Heller/NNP Financial/NNP ]
+,/, suffered/VBD 
+[ losses/NNS ]
+./. 
+
+======================================
+
+[ D&B/NNP ]
+does/VBZ strive/VB to/TO monitor/VB 
+[ the/DT accuracy/NN ]
+of/IN 
+[ its/PRP$ reports/NNS ]
+./. 
+
+[ Each/DT local/JJ office/NN ]
+has/VBZ 
+[ a/DT ]
+``/`` 
+[ verifier/NN ]
+''/'' 
+[ who/WP ]
+checks/VBZ 
+[ a/DT sample/NN ]
+of/IN 
+[ each/DT reporter/NN 's/POS work/NN ]
+./. 
+
+[ D&B/NNP ]
+also/RB sends/VBZ 
+[ teams/NNS ]
+of/IN 
+[ auditors/NNS ]
+unannounced/JJ to/TO 
+[ local/JJ offices/NNS ]
+at/IN 
+[ least/JJS ]
+once/IN 
+[ a/DT year/NN ]
+./. 
+
+Finally/RB ,/, 
+[ its/PRP$ computer/NN ]
+monitoring/NN 
+[ systems/NNS ]
+perform/VBP 
+[ thousands/NNS ]
+of/IN 
+[ quality/NN checks/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ there/EX ]
+are/VBP 
+[ weaknesses/NNS ]
+in/IN 
+[ the/DT defenses/NNS ]
+./. 
+
+Although/IN 
+[ D&B/NNP officials/NNS ]
+say/VBP 
+[ verification/NN samples/NNS ]
+are/VBP statistically/RB 
+[ valid/JJ ]
+,/, 
+[ former/JJ reporters/NNS ]
+say/VBP 
+[ verifiers/NNS ]
+in/IN 
+[ the/DT local/JJ offices/NNS ]
+check/VBP only/RB 
+[ a/DT handful/NN ]
+of/IN 
+[ the/DT hundreds/NNS ]
+
+[ each/DT reporter/NN ]
+prepares/VBZ monthly/RB ./. 
+
+[ Four/CD years/NNS ]
+ago/RB ,/, 
+[ an/DT internal/JJ audit/NN ]
+of/IN 
+[ D&B/NNP 's/POS Tampa/NNP ]
+,/, 
+[ Fla./NNP ]
+,/, 
+[ office/NN ]
+determined/VBD that/IN 
+[ the/DT local/JJ verifier/NN ]
+often/RB confirmed/VBD 
+[ nothing/NN ]
+more/RBR|JJR than/IN that/IN 
+[ the/DT reporter/NN ]
+had/VBD ,/, in/IN 
+[ fact/NN ]
+,/, contacted/VBD 
+[ the/DT subject/NN company/NN ]
+./. 
+
+======================================
+
+Even/RB 
+[ the/DT audits/NN ]
+can/MD be/VB compromised/VBN ,/, says/VBZ 
+[ Stephen/NNP Feigenbaum/NNP ]
+,/, 
+[ a/DT former/JJ reporter/NN ]
+in/IN 
+[ Cleveland/NN ]
+./. 
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ he/PRP ]
+said/VBD 
+[ he/PRP ]
+was/VBD once/RB told/VBN by/IN 
+[ his/PRP$ manager/NN ]
+to/TO take/VB 
+[ home/RB ]
+
+[ some/DT reports/NNS ]
+because/RB of/IN 
+[ a/DT pending/VBG audit/NN ]
+,/, leaving/VBG 
+[ better-prepared/JJ ones/NNS ]
+to/TO be/VB seen/VBN by/IN 
+[ the/DT auditor/NN ]
+./. 
+
+[ D&B/NNP ]
+says/VBZ 
+[ it/PRP ]
+investigated/VBD 
+[ this/DT matter/NN ]
+after/IN being/VBG contacted/VBN by/IN 
+[ the/DT Journal/NNP ]
+,/, and/CC denies/VBZ 
+[ the/DT incident/NN ]
+ever/RB took/VBD 
+[ place/NN ]
+./. 
+
+======================================
+
+[ A/DT couple/NN ]
+of/IN 
+[ years/NNS ]
+ago/RB D&B/NNP instituted/VBD 
+[ a/DT computer/NN system/NN ]
+called/VBD 
+[ Delta/NNP ]
+to/TO help/VB 
+[ measure/VB reporters/NNS '/POS performance/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ Delta/NNP ]
+``/`` kicks/VBZ out/RP 
+[ an/DT automatic/JJ sample/NN ]
+of/IN 
+[ every/DT reporter/NN 's/POS work/NN ]
+,/, and/CC 
+[ those/DT reports/NNS ]
+are/VBP read/VBN by/IN 
+[ hand/NN ]
+by/IN 
+[ the/DT data/NNS quality/NN department/NN ]
+,/, ''/'' says/VBZ 
+[ the/DT system/NN 's/POS designer/NN ]
+,/, 
+[ Angus/NNP Carroll/NNP ]
+./. 
+
+======================================
+
+Since/IN 
+[ 1986/CD ]
+,/, 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+also/RB has/VBZ sent/VBN 
+[ copies/NNS ]
+of/IN 
+[ reports/NNS ]
+on/IN 
+[ companies/NNS ]
+to/TO 
+[ the/DT companies/NNS ]
+for/IN 
+[ review/NN ]
+./. 
+
+But/CC 
+[ a/DT company/NN ]
+seeing/VBG 
+[ wrong/JJ information/NN ]
+about/IN 
+[ itself/PRP ]
+on/IN 
+[ a/DT report/NN ]
+can/MD have/VB 
+[ a/DT frustrating/JJ time/NN ]
+setting/VBG 
+[ the/DT record/NN ]
+straight/RB ./. 
+
+======================================
+
+[ Cedric/NNP Blazer/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Zenith/NNP Cutter/NNP Co./NNP ]
+,/, 
+[ a/DT Rockford/NNP ]
+,/, 
+[ Ill./NNP ]
+,/, 
+[ manufacturer/NN ]
+of/IN 
+[ industrial/JJ blades/NNS ]
+,/, says/VBZ 
+[ a/DT 1988/CD report/NN ]
+on/IN 
+[ his/PRP$ company/NN ]
+indicated/VBD falsely/RB that/IN 
+[ Zenith/NNP ]
+was/VBD late/JJ on/IN 
+[ a/DT bill/NN ]
+./. 
+
+When/WRB 
+[ he/PRP ]
+protested/VBD ,/, 
+[ D&B/NNP ]
+went/VBD back/RB to/TO 
+[ the/DT creditor/NN ]
+,/, and/CC then/RB amended/VBD 
+[ the/DT report/NN ]
+when/WRB 
+[ no/DT proof/NN ]
+was/VBD forthcoming/JJ ./. 
+
+But/CC 
+[ D&B/NNP ]
+refused/VBD to/TO give/VB 
+[ Mr./NNP Blazer/NNP ]
+
+[ the/DT name/NN ]
+of/IN 
+[ the/DT creditor/NN ]
+./. 
+
+======================================
+
+[ Frustrated/JJ ]
+,/, 
+[ Zenith/NNP ]
+sued/VBD in/IN 
+[ Illinois/NNP state/NN court/NN late/RB last/JJ year/NN ]
+against/IN ``/`` 
+[ John/NNP Doe/NNP Corp/NNP ''./.  ]
+--/: 
+[ the/DT anonymous/JJ source/NN ]
+--/: allowing/VBG 
+[ it/PRP ]
+to/TO subpoena/VB 
+[ D&B/NNP records/NNS ]
+./. 
+
+[ The/DT court/NN case/NN cost/VBD Zenith/NNP $/$ 2,500/CD ]
+in/IN 
+[ legal/JJ fees/NNS ]
+./. 
+
+``/`` 
+[ These/DT guys/NNS ]
+,/, because/IN of/IN 
+[ their/PRP$ size/NN ]
+,/, really/RB do/VBP n't/RB respond/VB to/TO 
+[ anybody/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Blazer/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Arlauskas/NNP ]
+,/, 
+[ the/DT part-owner/NN ]
+of/IN 
+[ the/DT Gloucester/NNP ]
+,/, 
+[ Va./NNP ]
+,/, 
+[ general/JJ contracting/NN company/NN ]
+,/, offers/VBZ 
+[ several/JJ months/NNS ]
+of/IN 
+[ phone/NN records/NNS ]
+,/, 
+[ correspondence/NN ]
+and/CC 
+[ other/JJ documentation/NN ]
+of/IN 
+[ his/PRP$ attempts/NNS ]
+to/TO have/VB 
+[ D&B/NNP ]
+correct/VB 
+[ inaccurate/JJ information/NN ]
+
+[ it/PRP ]
+distributed/VBD about/IN 
+[ his/PRP$ company/NN ]
+./. 
+
+[ D&B/NNP ]
+still/RB has/VBZ n't/RB 
+[ corrected/VBN its/PRP$ report/NN ]
+,/, 
+[ Mr./NNP Arlauskas/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ D&B/NN officials/NNS ]
+say/VBP 
+[ they/PRP ]
+tried/VBD for/IN about/RB 
+[ two/CD years/NNS ]
+to/TO satisfy/VB 
+[ Mr./NNP Arlauskas/NNP ]
+./. 
+
+[ It/PRP ]
+appears/VBZ that/IN 
+[ he/PRP ]
+``/`` is/VBZ not/RB real/RB thrilled/JJ about/IN 
+[ the/DT fact/NN ]
+that/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+is/VBZ publishing/VBG 
+[ anything/NN ]
+on/IN 
+[ his/PRP$ business/NN ]
+,/, ''/'' 
+[ Mr./NNP Sommers/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ people/NNS ]
+out/IN there/RB 
+[ who.../:  ]
+are/VBP never/RB going/VBG to/TO agree/VB that/IN 
+[ we/PRP ]
+have/VBP 
+[ a/DT right/NN ]
+to/TO publish/VB 
+[ information/NN ]
+,/, and/CC 
+[ we/PRP ]
+are/VBP never/RB going/VBG to/TO totally/RB resolve/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+Like/IN 
+[ many/JJ other/JJ small/JJ businessmen/NNS ]
+,/, 
+[ Mr./NNP Arlauskas/NNP ]
+had/VBD refused/VBN to/TO cooperate/VB with/IN 
+[ D&B/NNP ]
+when/WRB 
+[ it/PRP ]
+sought/VBD 
+[ information/NN ]
+./. 
+
+So/RB 
+[ it/PRP ]
+might/MD seem/VB as/IN though/IN 
+[ the/DT inaccuracies/NNS ]
+are/VBP 
+[ his/PRP$ own/JJ fault/NN ]
+./. 
+
+But/CC 
+[ Mr./NNP Arlauskas/NNP ]
+says/VBZ 
+[ he/PRP ]
+had/VBD 
+[ good/JJ reason/NN ]
+for/IN not/RB cooperating/VBG ./. 
+
+[ He/PRP ]
+says/VBZ that/IN 
+[ D&B/NNP ]
+often/RB sells/VBZ 
+[ its/PRP$ information/NN ]
+to/TO 
+[ direct/JJ marketers/NNS ]
+and/CC 
+[ others/NNS ]
+./. 
+
+======================================
+
+[ W./NNP David/NNP Thompson/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Spectrum/NNP Research/NNP Inc./NNP ]
+,/, 
+[ an/DT El/NNP Segundo/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, 
+[ space/NN research/NN ]
+and/CC 
+[ development/NN company/NN ]
+,/, says/VBZ 
+[ he/PRP ]
+learned/VBD 
+[ last/JJ December/NNP ]
+that/IN 
+[ D&B/NNP ]
+had/VBD sold/VBN 
+[ his/PRP$ company/NN 's/POS name/NN ]
+and/CC 
+[ phone/NN number/NN ]
+when/WRB 
+[ he/PRP ]
+began/VBD receiving/VBG 
+[ phone/NN solicitations/NNS ]
+from/IN 
+[ various/JJ groups/NNS ]
+./. 
+
+[ One/CD company/NN ]
+in/IN 
+[ Memphis/NNP ]
+promised/VBD 
+[ a/DT 1989/CD Nissan/NNP pickup/JJ truck/NN ]
+for/IN only/RB 
+[ $/$ 89.50/CD ]
+if/IN 
+[ he/PRP ]
+would/MD only/RB order/VB 
+[ a/DT box/NN ]
+of/IN 
+[ magic/JJ markers/NNS ]
+with/IN 
+[ his/PRP$ company/NN name/NN ]
+printed/VBN on/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+was/VBD absolutely/RB dumbfounded/JJ and/CC sickened/JJ that/IN 
+[ a/DT reputable/JJ firm.../:  ]
+would/MD stoop/VB to/TO 
+[ selling/VBG lists/NNS ]
+of/IN 
+[ names/NNS ]
+of/IN 
+[ companies/NNS ]
+that/IN 
+[ you/PRP ]
+gathered/VBD in/IN 
+[ the/DT name/NN ]
+of/IN 
+[ credit/NN ]
+and/CC 
+[ financial/JJ reporting/NN ]
+to/TO telemarketing/NN 
+[ and'boiler/NN  room/NN ]
+'/'' 
+[ organizations/NNS ]
+,/, ''/'' 
+[ Mr./NNP Thompson/NNP ]
+complained/VBD in/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ D&B/NNP ]
+./. 
+
+======================================
+
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+says/VBZ 
+[ companies/NNS ]
+can/MD request/VB to/TO have/VB 
+[ their/PRP$ names/NNS ]
+removed/VBN from/IN mailing/NN 
+[ lists/NNS ]
+sold/VBN by/IN 
+[ D&B/NNP ]
+./. 
+
+======================================
+
+[ D&B/NNP ]
+has/VBZ in/IN 
+[ some/DT cases/NNS ]
+supplied/VBD 
+[ reporters/NNS ]
+with/IN 
+[ scripts/NNS ]
+to/TO help/VB 
+[ them/PRP ]
+deal/VB with/IN 
+[ uncooperative/JJ companies/NNS ]
+./. 
+
+[ Family-owned/JJ businesses/NNS ]
+
+[ that/WDT ]
+clam/VBP up/RP should/MD be/VB told/VBN that/IN 
+[ the/DT information/NN D&B/NNP ]
+wants/VBZ ``/`` does/VBZ not/RB represent/VB 
+[ your/PRP$ family/NN secrets/NNS ]
+,/, ''/'' suggests/VBZ 
+[ an/DT internal/JJ memo/NN ]
+received/VBN by/IN 
+[ Mr./NNP Phillips/NNP ]
+,/, 
+[ the/DT former/JJ reporter/NN ]
+./. 
+
+To/TO 
+[ companies/NNS ]
+holding/VBG back/RP because/IN 
+[ they/PRP ]
+got/VBD 
+[ an/DT unfavorable/JJ rating/NN ]
+in/IN 
+[ the/DT past/NN ]
+,/, 
+[ the/DT memo/NN ]
+suggests/VBZ saying/VBG ,/, ``/`` 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+does/VBZ n't/RB give/VB 
+[ bad/JJ ratings/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ No/DT Regulation/NN ]
+
+======================================
+
+[ D&B/NNP ]
+and/CC 
+[ other/JJ concerns/NNS ]
+
+[ that/WDT ]
+sell/VBP 
+[ commercial/JJ credit/NN data/NNS ]
+are/VBP basically/RB unregulated/JJ ./. 
+
+[ The/DT Fair/NNP Credit/NNP Reporting/NNP Act/NNP ]
+applies/VBZ only/RB to/TO 
+[ companies/NNS ]
+selling/VBG 
+[ credit/NN data/NNS ]
+on/IN 
+[ individuals/NNS ]
+./. 
+
+[ It/PRP ]
+gives/VBZ 
+[ consumers/NNS ]
+
+[ the/DT right/NN ]
+to/TO 
+[ correct/JJ information/NN ]
+in/IN 
+[ their/PRP$ reports/NNS ]
+or/CC submit/VB 
+[ a/DT statement/NN ]
+
+[ that/WDT ]
+must/MD be/VB included/VBN in/IN 
+[ the/DT reports/NNS ]
+./. 
+
+======================================
+
+[ Ten/CD years/NNS ]
+ago/RB ,/, 
+[ a/DT Senate/NNP committee/NN ]
+held/VBD 
+[ hearings/NNS ]
+at/IN 
+[ which/WDT ]
+
+[ many/JJ small/JJ businessmen/NNS ]
+complained/VBD about/IN 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP ]
+./. 
+
+[ One/CD ]
+told/VBD how/WRB 
+[ a/DT rival/NN ]
+had/VBD interfered/VBN with/IN 
+[ his/PRP$ business/NN ]
+by/IN getting/VBG 
+[ D&B/NNP ]
+to/TO publish/VB 
+[ false/JJ information/NN ]
+on/IN 
+[ him/PRP ]
+./. 
+
+But/CC 
+[ D&B/NNP 's/POS position/NN ]
+
+[ that/DT regulation/NN ]
+was/VBD unnecessary/JJ prevailed/VBD ,/, and/CC 
+[ Congress/NNP has/VBZ n't/RB ]
+taken/VBN up/RP 
+[ the/DT issue/NN ]
+since/RB ./. 
+
+======================================
+
+[ Aggrieved/JJ companies/NNS ]
+can/MD ,/, of/IN 
+[ course/NN ]
+,/, take/VB 
+[ D&B/NNP ]
+to/TO court/NN ./. 
+
+[ One/CD notable/JJ case/NN ]
+concluded/VBD in/IN 
+[ 1985/CD ]
+,/, when/WRB 
+[ the/DT Supreme/NNP Court/NNP ]
+upheld/VBD 
+[ a/DT $/$ 350,000/CD libel/NN judgment/NN ]
+favoring/VBG 
+[ Greenmoss/NNP Builders/NNP Inc./NNP ]
+of/IN 
+[ Vermont/NNP ]
+./. 
+
+[ D&B/NNP ]
+had/VBD published/VBN 
+[ a/DT report/NN ]
+
+[ that/WDT ]
+falsely/RB said/VBD 
+[ the/DT company/NN ]
+had/VBD filed/VBN for/IN 
+[ bankruptcy/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ such/JJ judgments/NNS ]
+are/VBP relatively/RB rare/JJ ./. 
+
+[ Generally/NNP ]
+,/, 
+[ U.S./NNP business/NN credit-reporting/NN agencies/NNS ]
+such/JJ as/IN 
+[ D&B/NNP ]
+enjoy/VBP 
+[ a/JJ qualified/VBN legal/JJ privilege/NN ]
+to/TO make/VB 
+[ ordinary/JJ errors/NNS ]
+./. 
+
+In/IN 
+[ any/DT case/NN ]
+,/, 
+[ D&B/NNP 's/POS contracts/NNS ]
+with/IN 
+[ subscribers/NNS ]
+purport/VBP to/TO free/VB 
+[ it/PRP ]
+of/IN 
+[ liability/NN ]
+for/IN 
+[ erroneous/JJ data/NNS ]
+./. 
+
+======================================
+
+[ A/DT few/JJ companies/NNS ]
+are/VBP dropping/VBG 
+[ D&B/NNP ]
+,/, limiting/VBG 
+[ their/PRP$ use/NN ]
+of/IN 
+[ the/DT service/NN ]
+or/CC seeking/VBG out/RP 
+[ data/NNS  ]
+from/IN 
+[ suppliers/NNS ]
+
+[ who/WP ]
+specialize/VBP in/IN 
+[ particular/JJ industries/NNS ]
+./. 
+
+But/CC 
+[ such/JJ moves/NNS ]
+are/VBP n't/RB likely/JJ to/TO have/VB 
+[ much/JJ effect/NN ]
+given/VBN 
+[ D&B/NNP 's/POS monopoly/NN position/NN ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, 
+[ Blackstone/NNP Co./NNP ]
+canceled/VBD 
+[ its/PRP$ $/$ 13,000-a-year/JJ contract/NN ]
+with/IN 
+[ D&B/NNP ]
+because/IN of/IN 
+[ complaints/NNS ]
+about/IN 
+[ quality/NN ]
+./. 
+
+But/CC 
+[ Mr./NNP Martin/NNP ]
+,/, 
+[ the/DT company/NN 's/POS credit/NN manager/NN ]
+,/, does/VBZ n't/RB pretend/VB 
+[ the/DT move/NN ]
+will/MD prompt/VB 
+[ consternation/NN ]
+at/IN 
+[ D&B/NNP headquarters/NNS ]
+./. 
+
+[ The/DT information/NN giant/NN ]
+,/, 
+[ he/PRP ]
+admits/VBZ ,/, ``/`` will/MD survive/VB nicely/RB ''/'' without/IN 
+[ him/PRP ]
+./. 
+
+======================================

@@ -1,0 +1,803 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Federal/JJ drug/NN agents/NNS ]
+here/RB had/VBD identified/VBN 
+[ a/DT new/JJ cocaine/NN gang/NN ]
+by/IN 
+[ some/DT ]
+of/IN 
+[ the/DT usual/JJ signs/NNS ]
+:/: 
+[ frequent/JJ contacts/NNS ]
+with/IN 
+[ New/NNP York/NNP suppliers/NNS ]
+,/, 
+[ flashy/JJ imported/VBN cars/NNS ]
+,/, 
+[ no/DT obvious/JJ legal/JJ income/NN ]
+./. 
+
+But/CC 
+[ the/DT agents/NNS ]
+did/VBD n't/RB know/VB 
+[ the/DT dealers/NNS '/POS full/JJ names/NNS ]
+or/CC where/WRB 
+[ they/PRP ]
+lived/VBD ,/, and/CC gathering/VBG 
+[ that/DT information/NN ]
+would/MD cost/VB 
+[ valuable/JJ time/NN ]
+./. 
+
+======================================
+
+So/RB 
+[ the/DT feds/NNS ]
+turned/VBD to/TO 
+[ local/JJ police/NNS ]
+assigned/VBN to/TO work/VB with/IN 
+[ them/PRP ]
+on/IN 
+[ a/DT joint/JJ task/NN force/NN ]
+./. 
+
+[ One/CD D.C./NNP cop/NN ]
+had/VBD gone/VBN to/TO 
+[ high/JJ school/NN ]
+with/IN 
+[ some/DT ]
+of/IN 
+[ the/DT suspects/NNS ]
+and/CC immediately/RB provided/VBD 
+[ names/NNS ]
+and/CC 
+[ addresses/NNS ]
+./. 
+
+``/`` With/IN 
+[ our/PRP$ own/JJ ]
+ {/( 
+[ computer/NN identification/NN ]
+ }/) 
+[ techniques/NNS ]
+,/, 
+[ it/PRP ]
+would/MD have/VB taken/VBN much/RB longer/RBR ,/, ''/'' says/VBZ 
+[ Andy/NNP Johnson/NNP ]
+of/IN 
+[ the/DT Drug/NNP Enforcement/NNP Administration/NNP ]
+./. 
+
+Now/RB 
+[ the/DT task/NN force/NN ]
+is/VBZ watching/VBG 
+[ the/DT gang/NN members/NNS ]
+closely/RB and/CC planning/VBG 
+[ imminent/JJ arrests/NNS ]
+./. 
+
+======================================
+
+[ The/DT federal-local/JJ team/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ operating/VBG units/NNS ]
+in/IN 
+[ William/NNP Bennett/NNP 's/POS war/NN ]
+on/IN 
+[ drugs/NNS ]
+./. 
+
+[ It/PRP ]
+
+[ 's/POS part/NN ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ emergency/NN plan/NN ]
+''/'' 
+[ the/DT White/NNP House/NNP drug/NN czar/NN ]
+announced/VBN in/IN 
+[ April/NNP ]
+to/TO combat/VB 
+[ Washington/NNP 's/POS violent/JJ narcotics/NNS trade/NN ]
+./. 
+
+[ The/DT nation/NN 's/POS capital/NN ]
+,/, 
+[ he/PRP ]
+declared/VBD ,/, would/MD be/VB 
+[ a/DT ]
+``/`` 
+[ test/NN case/NN ]
+''/'' for/IN 
+[ future/JJ efforts/NNS ]
+in/IN 
+[ cities/NNS ]
+such/JJ as/IN 
+[ Houston/NNP ]
+and/CC 
+[ Miami/NNP ]
+./. 
+
+======================================
+
+Nearly/RB 
+[ six/CD months/NNS ]
+later/RB ,/, 
+[ the/DT test/NN ]
+has/VBZ yielded/VBN mixed/JJ 
+[ results/NNS ]
+./. 
+
+By/IN combining/VBG 
+[ the/DT expertise/NN ]
+of/IN 
+[ two/CD dozen/NN federal/JJ agencies/NNS ]
+and/CC 
+[ area/NN police/NN departments/NNS ]
+,/, 
+[ the/DT task/NN force/NN ]
+has/VBZ notched/VBN more/JJR than/IN 
+[ 130/CD arrests/NNS ]
+since/IN 
+[ June/NNP ]
+./. 
+
+Though/IN 
+[ it/PRP ]
+
+[ has/VBZ n't/RB ]
+yet/RB dented/VBN 
+[ the/DT city/NN 's/POS drug/NN problem/NN ]
+,/, 
+[ the/DT 88-member/JJ group/NN ]
+demonstrates/VBZ that/IN 
+[ cops/NNS ]
+can/MD set/VB aside/RB 
+[ some/DT turf/NN battles/NNS ]
+and/CC concentrate/VB on/IN 
+[ catching/VBG pushers/NNS ]
+./. 
+
+======================================
+
+But/CC apart/RB from/IN 
+[ the/DT enforcement/NN team/NN ]
+,/, 
+[ some/DT critics/NNS ]
+say/VBP ,/, 
+[ the/DT Bennett/NNP plan/NN ]
+offers/VBZ considerably/RB less/JJR than/IN 
+[ it/PRP ]
+first/RB appeared/VBD ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ Mr./NNP Bennett/NNP ]
+promised/VBD 
+[ federal/JJ money/NN ]
+to/TO 
+[ train/VB teachers/NNS ]
+
+[ that/WDT ]
+would/MD have/VB been/VBN granted/VBN anyway/RB ./. 
+
+[ He/PRP ]
+also/RB backed/VBD off/RB building/VBG 
+[ a/DT new/JJ federal/JJ prison/NN ]
+just/RB for/IN 
+[ Washington/NNP ]
+./. 
+
+======================================
+
+[ Local/JJ officials/NNS ]
+complain/VBP 
+[ that/DT his/PRP$ commitment/NN ]
+to/TO improve/VB 
+[ security/NN ]
+in/IN 
+[ public/JJ housing/NN ]
+turned/VBD out/RB to/TO be/VB 
+[ an/DT empty/JJ gesture/NN ]
+./. 
+
+[ All/DT ]
+that/IN 
+[ federal/JJ officials/NNS ]
+have/VBP done/VBN ,/, says/VBZ 
+[ D.C./JJ public/JJ housing/NN administrator/NN Roland/NNP Turpin/NNP ]
+,/, is/VBZ ``/`` put/VB 
+[ us/PRP ]
+in/RB 
+[ touch/RB ]
+with/IN 
+[ people/NNS we/PRP ]
+knew/VBD anyway/RB ./. 
+
+''/'' 
+[ Mayors/NNS ]
+and/CC 
+[ minority/NN leaders/NNS ]
+have/VBP criticized/VBN 
+[ Mr./NNP Bennett/NNP 's/POS efforts/NNS ]
+as/IN 
+[ inadequate/JJ ]
+./. 
+
+[ The/DT Rev./NNP Jesse/NNP Jackson/NNP ]
+,/, 
+[ who/WP ]
+has/VBZ moved/VBN here/RB and/CC hints/VBZ about/IN running/VBG for/IN 
+[ mayor/NN ]
+,/, recently/RB attacked/VBD 
+[ the/DT drug/NN czar/NN ]
+before/IN 
+[ Congress/NNP ]
+,/, saying/VBG ,/, ``/`` 
+[ We/PRP ]
+still/RB have/VBP 
+[ the/DT emergency/NN ]
+ {/( in/IN 
+[ Washington/NNP ]
+ }/) but/CC 
+[ no/DT comprehensive/JJ action/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Bennett/NNP ]
+declines/VBZ to/TO comment/VB until/IN 
+[ he/PRP ]
+issues/VBZ 
+[ a/DT formal/JJ report/NN ]
+next/IN 
+[ month/NN ]
+./. 
+
+[ An/DT aide/NN ]
+says/VBZ 
+[ parts/NNS ]
+of/IN 
+[ the/DT plan/NN ]
+,/, such/JJ as/IN 
+[ building/VBG prisons/NNS ]
+,/, necessarily/RB will/MD take/VB 
+[ years/NNS ]
+./. 
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ a/DT tendency/NN ]
+for/IN 
+[ people/NNS ]
+to/TO expect/VB 
+[ a/DT silver/JJ bullet/NN ]
+right/RB away/RB ,/, ''/'' 
+[ the/DT aide/NN ]
+contends/VBZ ./. 
+
+======================================
+
+Though/IN focused/VBN only/RB on/IN 
+[ nabbing/VBG criminals/NNS ]
+,/, 
+[ the/DT multi-agency/NN enforcement/NN team/NN ]
+is/VBZ considered/VBN 
+[ a/DT possible/JJ model/NN ]
+for/IN 
+[ other/JJ cities/NNS ]
+./. 
+
+Led/VBN by/IN 
+[ the/DT DEA/NNP ]
+,/, 
+[ the/DT task/NN force/NN ]
+brings/VBZ together/RB 
+[ such/JJ talents/NNS ]
+as/IN 
+[ federal/JJ marshals/NNS '/POS knack/NN ]
+for/IN tracking/VBG 
+[ fugitives/NNS ]
+and/CC 
+[ Washington/NNP cops/NNS '/POS familiarity/NN ]
+with/IN 
+[ local/JJ gang/NN members/NNS '/POS hangouts/NNS ]
+./. 
+
+======================================
+
+Pursuing/VBG 
+[ defendants/NNS ]
+
+[ who/WP ]
+jump/VBP 
+[ bail/NN ]
+has/VBZ never/RB been/VBN 
+[ a/DT strength/NN ]
+of/IN 
+[ either/DT ] 
+
+[ the/DT DEA/NNP ]
+or/CC 
+[ city/NN police/NNS ]
+./. 
+
+``/`` Once/RB 
+[ we/PRP ]
+arrest/VBP 
+[ the/DT violator/NN ]
+,/, 
+[ we/PRP ]
+tend/VBP to/TO want/VB to/TO move/VB on/RB to/TO 
+[ new/JJ investigations/NNS ]
+,/, ''/'' says/VBZ 
+[ Douglas/NNP Ross/NNP ]
+,/, 
+[ a/DT DEA/NNP supervisor/NN ]
+./. 
+
+[ U.S./NNP marshals/NNS ]
+,/, though/RB ,/, specialize/VBP in/IN finding/VBG 
+[ fugitives/NNS ]
+and/CC 
+[ escapees/NNS ]
+./. 
+
+[ The/DT problem/NN ]
+,/, typically/RB ,/, is/VBZ getting/VBG 
+[ the/DT paper/NN work/NN ]
+from/IN 
+[ arresting/VBG officers/NNS ]
+to/TO 
+[ the/DT marshals/NNS ]
+./. 
+
+[ The/DT process/NN ]
+often/RB takes/VBZ 
+[ months/NNS ]
+;/: 
+[ defendants/NNS ]
+,/, meanwhile/RB ,/, slip/VBP away/RB ./. 
+
+======================================
+
+In/IN 
+[ response/NN ]
+,/, 
+[ the/DT Washington/NNP task/NN force/NN ]
+established/VBD 
+[ a/DT special/JJ fugitive/NN squad/NN ]
+led/VBN by/IN 
+[ marshals/NNS ]
+./. 
+
+Using/VBG 
+[ sophisticated/JJ telephone/NN surveillance/NN ]
+,/, 
+[ the/DT squad/NN ]
+tracked/VBD 
+[ a/DT drug/NN hit/NN man/NN ]
+wanted/VBN here/RB to/TO 
+[ a/DT girlfriend/NN 's/POS apartment/NN ]
+in/IN 
+[ Miami/NNP ]
+and/CC arrested/VBD 
+[ him/PRP ]
+there/RB ./. 
+
+In/IN 
+[ another/DT case/NN ]
+,/, 
+[ the/DT team/NN ]
+used/VBD 
+[ neighborhood/NN informants/NNS ]
+to/TO find/VB and/CC arrest/VB 
+[ two/CD alleged/JJ leaders/NNS ]
+of/IN 
+[ what/WP ]
+purportedly/RB is/VBZ 
+[ Washington/NNP 's/POS biggest/JJS cocaine/NN gang/NN ]
+,/, just/RB 
+[ days/NNS ]
+before/IN 
+[ the/DT group/NN ]
+was/VBD put/VBN on/IN 
+[ trial/NN ]
+
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+[ The/DT key/NN ]
+to/TO 
+[ the/DT task/NN force/NN 's/POS success/NN ]
+appears/VBZ to/TO be/VB 
+[ Mr./NNP Bennett/NNP 's/POS decision/NN ]
+to/TO give/VB 
+[ one/CD agency/NN ]
+--/: in/IN 
+[ this/DT case/NN ]
+,/, 
+[ the/DT DEA/NNP ]
+--/: 
+[ clear/JJ authority/NN ]
+so/IN that/IN 
+[ imaginative/JJ agents/NNS ]
+can/MD solve/VB 
+[ bureaucratic/JJ problems/NNS ]
+./. 
+
+[ The/DT task/NN force/NN ]
+swiftly/RB set/VBN up/RP 
+[ its/PRP$ headquarters/NNS ]
+in/IN 
+[ southwest/JJ Washington/NNP ]
+by/IN routing/VBG 
+[ $/$ 2.1/CD million/CD ]
+in/IN 
+[ Justice/NNP Department/NNP money/NN ]
+through/IN 
+[ the/DT Arlington/NNP ]
+,/, 
+[ Va./NNP ]
+,/, 
+[ police/NN department/NN ]
+./. 
+
+[ DEA/NNP supervisor/NN William/NNP McMullan/NNP ]
+used/VBD 
+[ the/DT budgetary/JJ detour/NN ]
+because/IN 
+[ the/DT money-granting/NN branch/NN ]
+within/IN 
+[ Justice/NNP ]
+technically/RB ca/MD n't/RB give/VB 
+[ funds/NNS ]
+to/TO 
+[ another/DT federal/JJ agency/NN ]
+./. 
+
+``/`` 
+[ Arlington/NNP ]
+was/VBD willing/JJ ;/: 
+[ we/PRP ]
+were/VBD in/IN 
+[ a/DT hurry/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT DEA/NNP 's/POS eagerness/NN ]
+to/TO play/VB 
+[ a/DT big/JJ role/NN ]
+in/IN 
+[ the/DT Bush/NNP administration/NN 's/POS anti-drug/JJ program/NN ]
+backfired/VBD in/IN 
+[ one/CD case/NN ]
+./. 
+
+[ Agents/NNS ]
+from/IN 
+[ the/DT Washington/NNP task/NN force/NN ]
+,/, including/VBG 
+[ Mr./NNP McMullan/NNP ]
+,/, concocted/VBD 
+[ an/DT undercover/JJ crack/NN purchase/NN ]
+in/IN 
+[ a/DT park/NN ]
+near/IN 
+[ the/DT White/NNP House/NNP ]
+to/TO provide/VB 
+[ a/DT prop/NN ]
+for/IN 
+[ a/DT televised/JJ presidential/JJ speech/NN ]
+./. 
+
+[ The/DT staged/VBN ploy/NN ]
+,/, designed/VBN to/TO show/VB that/IN 
+[ drugs/NNS ]
+can/MD be/VB bought/VBN anywhere/RB ,/, embarrassed/VBD 
+[ the/DT administration/NN ]
+because/IN 
+[ many/JJ Washington/NNP neighborhoods/NNS ]
+genuinely/RB suffer/VBP from/IN 
+[ cocaine/NN ]
+pushing/NN ./. 
+
+After/IN 
+[ the/DT Washington/NNP Post/NNP ]
+reported/VBD 
+[ the/DT incident/JJ last/JJ week/NN ]
+,/, 
+[ the/DT suspect/NN ]
+disappeared/VBD ./. 
+
+======================================
+
+More/RBR important/JJ for/IN 
+[ the/DT long/JJ term/NN ]
+,/, 
+[ Mr./NNP Bennett/NNP has/VBZ n't/RB ]
+eliminated/VBN 
+[ all/DT federal/JJ rivalries/NNS ]
+with/IN 
+[ the/DT enforcement/NN group/NN ]
+./. 
+
+Although/IN 
+[ the/DT drug/NN czar/NN ]
+said/VBD 
+[ last/JJ month/NN ]
+that/IN 
+[ the/DT Federal/NNP Bureau/NNP ]
+of/IN 
+[ Investigation/NNP ]
+had/VBD joined/VBN 
+[ the/DT task/NN force/NN ]
+,/, in/IN 
+[ fact/NN ]
+,/, 
+[ the/DT FBI/NNP ]
+``/`` does/VBZ n't/RB participate/VB ,/, ''/'' because/IN 
+[ it/PRP ]
+does/VBZ n't/RB want/VB 
+[ its/PRP$ agents/NNS ]
+reporting/VBG to/TO 
+[ the/DT DEA/NNP ]
+,/, according/VBG to/TO 
+[ Mr./NNP McMullan/NNP ]
+./. 
+
+[ An/DT FBI/NNP spokeswoman/NN ]
+says/VBZ that/IN 
+[ the/DT bureau/NN ]
+moved/VBD 
+[ additional/JJ agents/NNS ]
+here/RB ,/, but/CC 
+[ she/PRP ]
+confirms/VBZ that/IN 
+[ the/DT FBI/NNP has/VBZ n't/RB ]
+changed/VBN 
+[ its/PRP$ policy/NN ]
+of/IN eschewing/VBG 
+[ local/JJ cases/NNS ]
+./. 
+
+======================================
+
+[ This/DT ]
+is/VBZ n't/RB 
+[ the/DT only/JJ example/NN ]
+of/IN 
+[ Mr./NNP Bennett/NNP ]
+'s/VBZ advertising/VBG more/JJR than/IN 
+[ he/PRP ]
+has/VBZ delivered/VBN ./. 
+
+[ The/DT drug/NN czar/NN ]
+said/VBD in/IN 
+[ an/DT August/NNP document/NN ]
+entitled/VBN ``/`` 
+[ Accomplishments/NNS ]
+to/TO 
+[ Date/NN ]
+''/'' that/IN 
+[ the/DT Education/NNP Department/NNP ]
+had/VBD agreed/VBN to/TO increase/VB 
+[ Washington/NNP 's/POS federal/JJ grants/NNS ]
+by/IN 
+[ 50/CD %/NN ]
+for/IN 
+[ such/JJ things/NNS ]
+as/IN 
+[ drug-education/NN training/NN ]
+for/IN 
+[ teachers/NNS ]
+./. 
+
+About/IN 
+[ $/$ 1.4/CD million/CD ]
+in/IN 
+[ new/JJ money/NN ]
+did/VBD become/VBN 
+[ available/JJ ]
+
+[ this/DT summer/NN ]
+,/, but/CC 
+[ the/DT increase/NN ]
+came/VBD from/IN 
+[ a/DT ]
+previously/RB planned/VBN 
+[ 50/CD %/NN jump/NN ]
+in/IN 
+[ such/JJ federal/JJ grants/NNS ]
+across/IN 
+[ the/DT country/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+was/VBD 
+[ no/DT special/JJ increase/NN ]
+for/IN 
+[ D.C./NN schools/NNS ]
+,/, ''/'' says/VBZ 
+[ Dick/NNP Hays/NNP ]
+,/, 
+[ an/DT Education/NNP Department/NNP drug/NN policy/NN administrator/NN ]
+./. 
+
+======================================
+
+Similarly/RB ,/, 
+[ Mr./NNP Bennett/NNP ]
+promised/VBD that/IN 
+[ the/DT federal/JJ government/NN ]
+would/MD build/VB 
+[ a/DT 700-bed/JJ prison/NN ]
+to/TO ease/VB 
+[ Washington/NNP 's/POS inmate/NN glut/NN ]
+./. 
+
+[ He/PRP ]
+quickly/RB retracted/VBD that/IN 
+[ vow/NN ]
+and/CC instead/RB says/VBZ 
+[ he/PRP ]
+will/MD accelerate/VB 
+[ construction/NN ]
+of/IN 
+[ a/DT ]
+previously/RB planned/VBN 
+[ prison/NN ]
+in/IN 
+[ western/JJ Maryland/NNP ]
+./. 
+
+======================================
+
+[ The/DT Maryland/NNP facility/NN ]
+wo/MD n't/RB be/VB completed/VBN for/IN at/IN 
+[ least/JJS several/JJ years/NNS ]
+and/CC even/RB then/RB wo/MD n't/RB necessarily/RB take/VB 
+[ more/JJR convicts/NNS ]
+from/IN 
+[ the/DT capital/NN ]
+./. 
+
+[ Federal/NNP courts/NNS ]
+send/VBP 
+[ inmates/NNS ]
+to/TO 
+[ facilities/NNS all/DT ]
+across/IN 
+[ the/DT country/NN ]
+,/, depending/VBG on/IN 
+[ security/NN needs/NNS ]
+./. 
+
+``/`` 
+[ D.C./JJ prisoners/NNS ]
+,/, ''/'' says/VBZ 
+[ Greg/NNP Bogdan/NNP ]
+,/, 
+[ a/DT federal/JJ prisons/NNS spokesman/NN ]
+,/, ``/`` may/MD or/CC may/MD not/RB ''/'' end/VB up/RB in/IN 
+[ the/DT new/JJ Maryland/NNP prison/NN ]
+./. 
+
+Acknowledges/VBZ 
+[ a/DT sheepish/JJ Bennett/NNP adviser/NN ]
+:/: ``/`` 
+[ Something/NN ]
+got/VBD lost/VBN in/IN 
+[ the/DT translation/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT last/JJ three/CD ]
+of/IN 
+[ the/DT 10/CD Pentagon/NNP prosecutors/NNS ]
+
+[ the/DT drug/NN czar/NN ]
+arranged/VBN to/TO have/VB loaned/VBN to/TO 
+[ Washington/NNP ]
+arrived/VBD 
+[ last/JJ week/NN ]
+./. 
+
+But/CC 
+[ the/DT U.S./NNP attorney/NN ]
+here/RB ,/, 
+[ Jay/NNP Stephens/NNP ]
+,/, points/VBZ out/RB that/IN 
+[ the/DT new/JJ 20-lawyer/JJ narcotics/NNS unit/NN Mr./NNP Bennett/NNP ]
+takes/VBZ 
+[ credit/NN ]
+for/IN in/IN 
+[ his/PRP$ ]
+``/`` 
+[ Accomplishments/NNS ]
+''/'' 
+[ report/NN ]
+actually/RB started/VBD before/IN 
+[ the/DT drug/NN czar/NN ]
+took/VBD 
+[ office/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Drug/NNP Enforcement/NNP Administration/NNP ]
+launches/VBZ 
+[ a/DT new/JJ federal-local/JJ enforcement/NN team/NN ]
+./. 
+
+======================================
+
+--/: 
+[ U.S./NNP marshals/NNS ]
+crack/VBP down/RB on/IN 
+[ Washington-area/JJ drug/NN fugitives/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Pentagon/NNP ]
+lends/VBZ 
+[ prosecutors/NNS ]
+to/TO 
+[ U.S./NNP attorney/NN ]
+for/IN 
+[ one/CD year/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Federal/NNP authorities/NNS ]
+promise/VBP to/TO take/VB 
+[ custody/NN ]
+of/IN 
+[ 750/CD Washington/NNP inmates/NNS ]
+and/CC to/TO build/VB 
+[ a/DT new/JJ jail/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNPS Department/NNP ]
+plans/VBZ 
+[ three/CD new/JJ treatment/NN centers/NNS ]
+./. 

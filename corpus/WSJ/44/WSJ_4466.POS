@@ -1,0 +1,369 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Toyota/NNP Motor/NNP Corp./NNP ]
+,/, in/IN 
+[ an/DT aggressive/JJ bid/NN ]
+to/TO boost/VB 
+[ U.S./NNP market/NN share/NN ]
+,/, is/VBZ raising/VBG 
+[ 1990/CD base/JJ prices/NNS ]
+on/IN 
+[ its/PRP$ most/RBS popular/JJ car/NN lines/NNS ]
+by/IN 
+[ 2.5/CD %/NN ]
+or/CC 
+[ less/JJR ]
+from/IN 
+[ 1989/CD levels/NNS ]
+./. 
+
+======================================
+
+[ Toyota/NNP 's/POS pricing/NN ]
+,/, along/IN with/IN 
+[ similar/JJ modest/JJ increases/NNS ]
+by/IN 
+[ other/JJ foreign/JJ car/NN makers/NNS ]
+,/, does/VBZ n't/RB bode/VB well/RB for/IN 
+[ American/JJ auto/NN makers/NNS ]
+,/, 
+[ analysts/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ Foreign/JJ auto/NN makers/NNS ]
+will/MD boost/VB 
+[ their/PRP$ share/NN ]
+of/IN 
+[ the/DT U.S./NNP car/NN market/NN ]
+to/TO 
+[ 41.5/CD %/NN ]
+in/IN 
+[ 1990/CD ]
+from/IN 
+[ 36.7/CD %/NN ]
+
+[ this/DT year/NN ]
+,/, said/VBD 
+[ Ronald/NNP Glantz/NNP ]
+of/IN 
+[ Montgomery/NNP Securities/NNP ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+======================================
+
+[ Japanese/JJ auto/NN makers/NNS ]
+raised/VBD 
+[ prices/NNS ]
+substantially/RB in/IN 
+[ 1987/CD ]
+and/CC 
+[ 1988/CD ]
+,/, as/IN 
+[ the/DT declining/VBG value/NN ]
+of/IN 
+[ the/DT dollar/NN ]
+forced/VBD up/RB 
+[ the/DT prices/NNS ]
+of/IN 
+[ imported/JJ goods/NNS ]
+./. 
+
+But/CC now/RB ,/, 
+[ Japanese/JJ auto/NN makers/NNS ]
+like/IN 
+[ Toyota/NNP ]
+have/VBP largely/RB overcome/VBN 
+[ that/DT disadvantage/NN ]
+./. 
+
+Despite/IN 
+[ a/DT recent/JJ drop/NN ]
+,/, 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT dollar/NN ]
+has/VBZ risen/VBN about/RB 
+[ 5/CD %/NN ]
+against/IN 
+[ the/DT yen/NN ]
+since/IN 
+[ a/DT year/NN ]
+ago/RB ./. 
+
+Moreover/RB ,/, 
+[ Japanese/JJ auto/NN makers/NNS ]
+are/VBP increasingly/RB protected/VBN from/IN 
+[ currency/NN fluctuations/NNS ]
+because/IN 
+[ they/PRP ]
+are/VBP building/VBG 
+[ some/DT ]
+of/IN 
+[ their/PRP$ best-selling/JJ models/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+Now/RB ,/, as/IN 
+[ they/PRP ]
+battle/VBP for/IN 
+[ market/NN share/NN ]
+on/IN 
+[ a/DT more-level/JJ playing/NN field/NN ]
+,/, 
+[ Detroit/NNP ]
+and/CC 
+[ the/DT Japanese/NNPS ]
+are/VBP pursuing/VBG sharply/RB 
+[ different/JJ strategies/NNS ]
+./. 
+
+======================================
+
+[ The/DT Big/NNP Three/NNP U.S./NNP auto/NN makers/NNS ]
+are/VBP boosting/VBG 
+[ base/JJ sticker/NN prices/NNS ]
+on/IN 
+[ most/JJS 1990/CD models/NNS ]
+by/IN 
+[ 6/CD %/NN ]
+to/TO 
+[ 8/CD %/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+are/VBP giving/VBG 
+[ all/DT ]
+or/CC 
+[ part/NN ]
+of/IN 
+[ these/DT increases/NNS ]
+back/RP in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ cash/NN rebates/NNS ]
+to/TO 
+[ customers/NNS ]
+./. 
+
+[ General/NNP Motors/NNP Corp./NNP ]
+,/, for/IN 
+[ instance/NN ]
+,/, already/RB has/VBZ announced/VBN 
+[ rebates/NNS ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 1,000/CD ]
+on/IN 
+[ certain/JJ 1990/CD models/NNS ]
+,/, even/RB though/IN 
+[ the/DT model/NN year/NN ]
+does/VBZ n't/RB start/VB officially/RB until/IN 
+[ Sunday/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT major/JJ Japanese/JJ auto/NN makers/NNS ]
+,/, as/RB well/RB as/IN 
+[ some/DT European/JJ companies/NNS ]
+such/JJ as/IN 
+[ Volkswagen/NNP AG/NNP ]
+,/, are/VBP raising/VBG 
+[ 1990/CD prices/NNS ]
+much/RB less/RBR aggressively/RB and/CC signaling/VBG that/IN 
+[ they/PRP ]
+do/VBP n't/RB plan/VB to/TO rely/VB heavily/RB on/IN 
+[ rebates/NNS ]
+./. 
+
+``/`` 
+[ Our/PRP$ policy/NN ]
+is/VBZ that/IN if/IN 
+[ the/DT car/NN ]
+is/VBZ priced/VBN properly/RB to/TO begin/VB with/IN ,/, 
+[ you/PRP ]
+do/VBP n't/RB have/VB to/TO pay/VB 
+[ somebody/NN ]
+to/TO buy/VB 
+[ it/PRP ]
+,/, ''/'' 
+[ a/DT Toyota/NNP spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+If/IN 
+[ Japanese/JJ auto/NN makers/NNS ]
+are/VBP forced/VBN into/IN offering/VBG 
+[ rebates/NNS ]
+to/TO keep/VB 
+[ their/PRP$ U.S./NNP factories/NNS ]
+running/VBG profitably/RB ,/, 
+[ they/PRP ]
+now/RB have/VB 
+[ more/JJR flexibility/NN ]
+to/TO do/VB so/RB ,/, said/VBD 
+[ Kidder/NNP Peabody/NNP ]
+&/CC 
+[ Co./NNP analyst/NN Jack/NNP V./NNP Kirnan/NNP ]
+./. 
+
+[ The/DT Japanese/NNPS ]
+can/MD build/VB 
+[ cars/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+for/IN 
+[ $/$ 500/CD ]
+per/IN 
+[ vehicle/NN ]
+less/JJR than/IN 
+[ their/PRP$ Big/NNP Three/NNP rivals/NNS ]
+,/, 
+[ Mr./NNP Kirnan/NNP ]
+said/VBD ./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ just/RB 
+[ a/DT question/NN ]
+of/IN 
+[ who/WP ]
+can/MD cut/VB 
+[ prices/NNS ]
+faster/RBR and/CC 
+[ who/WP ]
+can/MD protect/VB 
+[ their/PRP$ margins/NNS ]
+,/, and/CC 
+[ it/PRP ]
+seems/VBZ to/TO 
+[ me/PRP ]
+
+[ the/DT Japanese/NNPS ]
+have/VBP 
+[ an/DT advantage/NN ]
+there/RB ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Toyota/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ virutally/RB maintaining/VBG 
+[ 1989/CD prices/NNS ]
+on/IN 
+[ most/JJS 1990/CD versions/NNS ]
+of/IN 
+[ its/PRP$ compact/NN|JJ Camry/NNP ]
+./. 
+
+[ That/DT model/NN ]
+,/, 
+[ which/WDT ]
+competes/VBZ against/IN 
+[ the/DT Honda/NNP Accord/NNP ]
+and/CC 
+[ some/DT Big/NNP Three/NNP ]
+midsize/JJ 
+[ models/NNS ]
+,/, 
+[ accounts/VBZ ]
+for/IN 
+[ 37/CD %/NN ]
+of/IN 
+[ Toyota/NNP 's/POS U.S./NNP sales/NNS ]
+,/, and/CC is/VBZ now/RB being/VBG built/VBN at/IN 
+[ a/DT factory/NN ]
+in/IN 
+[ Kentucky/NNP ]
+./. 
+
+======================================
+
+For/IN 
+[ example/NN ]
+,/, 
+[ a/DT 1990/CD Camry/NNP Sedan/NNP DLX/NNP ]
+with/IN 
+[ an/DT automatic/JJ transmission/NN ]
+will/MD start/VB at/IN 
+[ $/$ 13,078/CD ]
+,/, 
+[ unchanged/JJ ]
+from/IN 
+[ this/DT year/NN ]
+./. 
+
+[ A/DT 1990/CD Camry/NNP Sedan/NNP ]
+with/IN 
+[ a/DT standard/JJ five-speed/JJ transmission/NN ]
+will/MD start/VB at/IN 
+[ $/$ 11,588/CD ]
+,/, just/RB 
+[ $/$ 100/CD more/JJR ]
+than/IN 
+[ the/DT 1989/CD model/NN ]
+./. 
+
+[ The/DT cheapest/JJS 1990/CD Camry/NNP ]
+equipped/VBN with/IN 
+[ a/DT multi-valve/JJ V-6/JJ engine/NN ]
+will/MD start/VB at/IN 
+[ $/$ 13,698/CD ]
+,/, up/RB only/RB 
+[ $/$ 60/CD ]
+from/IN 
+[ a/DT year/NN ]
+ago/RB ./. 
+
+======================================
+
+[ Toyota/NNP ]
+is/VBZ raising/VBG 
+[ prices/NNS ]
+most/RBS sharply/RB on/IN 
+[ its/PRP$ cheapest/JJS car/NN ]
+,/, 
+[ the/DT Tercel/NNP EZ/NNP ]
+./. 
+
+[ That/DT model/NN ]
+will/MD start/VB at/IN 
+[ $/$ 6,488/CD ]
+for/IN 
+[ 1990/CD ]
+,/, up/RB 
+[ $/$ 160/CD ]
+,/, or/CC 
+[ 2.5/CD %/NN ]
+,/, from/IN 
+[ 1989/CD ]
+./. 

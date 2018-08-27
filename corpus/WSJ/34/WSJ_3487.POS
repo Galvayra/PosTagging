@@ -1,0 +1,313 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Canadian/JJ government/NN ]
+decided/VBD to/TO cut/VB by/IN more/JJR than/IN 
+[ 50/CD %/NN ]
+
+[ the/DT nationwide/JJ rail-passenger/NN network/NN ]
+operated/VBN by/IN 
+[ Via/NNP Rail/NNP Canada/NNP Inc./NNP ]
+,/, 
+[ a/DT government/NN agency/NN ]
+./. 
+
+======================================
+
+[ The/DT decision/NN ]
+,/, 
+[ which/WDT ]
+prompted/VBD 
+[ protests/NNS ]
+from/IN 
+[ opposition/NN politicians/NNS ]
+and/CC 
+[ many/JJ communities/NNS ]
+,/, is/VBZ designed/VBN to/TO cut/VB 
+[ the/DT government/NN 's/POS heavy/JJ costs/NNS ]
+of/IN 
+[ subsidizing/VBG rail-passenger/NN travel/NN ]
+./. 
+
+[ The/DT 1988/CD subsidy/NN ]
+totaled/VBD 
+[ 645/CD million/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 548.8/CD million/CD ]
+ )/) ,/, or/CC more/JJR than/IN 
+[ C$/$ 100/CD ]
+
+[ a/DT passenger/NN ]
+./. 
+
+======================================
+
+[ Prime/NNP Minister/NNP Brian/NNP Mulroney/NNP ]
+said/VBD that/IN if/IN 
+[ the/DT services/NNS ]
+were/VBD n't/RB cut/VBN ,/, 
+[ Via/NNP Rail/NNP ]
+would/MD have/VB needed/VBN 
+[ a/DT C$/$ 1/CD billion-a-year/JJ subsidy/NN ]
+to/TO maintain/VB 
+[ its/PRP$ network/NN ]
+,/, 
+[ which/WDT ]
+extends/VBZ into/IN 
+[ some/DT ]
+of/IN 
+[ Canada/NNP 's/POS ]
+sparsely/RB populated/VBN 
+[ northern/JJ regions/NNS ]
+./. 
+
+======================================
+
+[ The/DT reductions/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP to/TO be/VB made/VBN by/IN 
+[ Jan./NNP 15/CD ]
+,/, are/VBP expected/VBN to/TO save/VB 
+[ taxpayers/NNS C$/$ 1/CD billion/CD ]
+over/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+,/, said/VBD 
+[ Transport/NNP Minister/NNP Benoit/NNP Bouchard/NNP ]
+./. 
+
+``/`` 
+[ The/DT government/NN 's/POS decision/NN ]
+is/VBZ based/VBN on/IN 
+[ Canadian/JJ economic/JJ ]
+and/CC 
+[ demographic/JJ realities/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT cutback/NN ]
+will/MD trim/VB 
+[ the/DT number/NN ]
+of/IN 
+[ routes/NNS ]
+to/TO 
+[ 20/CD ]
+from/IN 
+[ 38/CD ]
+and/CC involve/VB 
+[ a/DT layoff/NN ]
+of/IN 
+[ 2,761/CD Via/NNP Rail/NNP employees/NNS ]
+,/, or/CC 
+[ 38/CD %/NN ]
+of/IN 
+[ the/DT total/NN ]
+./. 
+
+======================================
+
+[ Via/NNP Rail/NNP ]
+also/RB is/VBZ to/TO boost/VB 
+[ its/PRP$ fares/NNS ]
+to/TO ``/`` 
+[ market/NN levels/NNS ]
+''/'' and/CC to/TO invite/VB 
+[ takeovers/NNS ]
+by/IN 
+[ others/NNS ]
+of/IN 
+[ any/DT ]
+of/IN 
+[ its/PRP$ rail-passenger/NN services/NNS ]
+./. 
+
+======================================
+
+[ Opposition/NN politicians/NNS ]
+demanded/VBD that/IN 
+[ the/DT government/NN ]
+abandon/VB 
+[ the/DT cutback/NN ]
+of/IN 
+[ services/NNS ]
+and/CC ,/, instead/RB ,/, try/VB to/TO emulate/VB 
+[ the/DT performance/NN ]
+of/IN 
+[ the/DT U.S./NNP National/NNP Railroad/NNP Passenger/NNP Corp./NNP ]
+,/, or/CC 
+[ Amtrak/NNP ]
+./. 
+
+[ Amtrak/NNP 's/POS operating/NN revenue/NN ]
+covers/VBZ 
+[ 69/CD %/NN ]
+of/IN 
+[ its/PRP$ operating/NN costs/NNS ]
+,/, compared/VBN with/IN 
+[ Via/NNP Rail/NNP 's/POS operating-cost/JJ recovery/NN ]
+of/IN 
+[ only/RB 30/CD %/NN ]
+./. 
+
+[ Amtrak/NNP ]
+received/VBD 
+[ US$/$ 581/CD million/CD ]
+in/IN 
+[ federal/JJ ]
+funding/NN in/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Mulroney/NNP ]
+said/VBD 
+[ the/DT U.S./NNP approach/NN was/VBD n't/RB ]
+acceptable/JJ to/TO 
+[ Canada/NNP ]
+because/IN 
+[ it/PRP ]
+involved/VBD eliminating/VBG 
+[ 75/CD %/NN ]
+of/IN 
+[ U.S./NNP passenger/NN services/NNS ]
+when/WRB 
+[ Amtrak/NNP ]
+was/VBD formed/VBN in/IN 
+[ 1970/CD ]
+and/CC putting/VBG 
+[ a/DT heavy/JJ focus/NN ]
+on/IN 
+[ operations/NNS ]
+in/IN 
+[ one/CD region/NN ]
+,/, 
+[ the/DT U.S./NNP northeast/NN ]
+./. 
+
+======================================
+
+[ The/DT Canadian/JJ leader/NN ]
+said/VBD 
+[ the/DT Canadian/JJ plan/NN ]
+will/MD maintain/VB 
+[ rail/NN services/NNS ]
+in/IN 
+[ all/DT regions/NNS ]
+of/IN 
+[ Canada/NNP ]
+,/, including/VBG 
+[ remote/JJ areas/NNS ]
+where/WRB 
+[ operating/NN subsidies/NNS ]
+per/IN 
+[ passenger/NN ]
+currently/RB 
+[ amount/VBP ]
+to/TO 
+[ C$/$ 256/CD ]
+./. 
+
+======================================
+
+[ Via/NNP Rail/NNP officials/NNS ]
+,/, however/RB ,/, predicted/VBD that/IN 
+[ any/DT future/JJ growth/NN ]
+for/IN 
+[ rail-passenger/NN service/NN ]
+in/IN 
+[ Canada/NNP ]
+would/MD likely/RB be/VB in/IN 
+[ the/DT corridor/NN ]
+between/IN 
+[ Quebec/NNP City/NNP ]
+,/, 
+[ Quebec/NNP ]
+,/, and/CC 
+[ Windsor/NNP ]
+,/, 
+[ Ontario/NNP ]
+,/, where/WRB more/JJR than/IN 
+[ 60/CD %/NN ]
+of/IN 
+[ Canadians/NNPS ]
+live/VBP ./. 
+
+[ They/PRP ]
+said/VBD 
+[ Via/NNP Rail/NNP ]
+would/MD welcome/VB 
+[ proposals/NNS ]
+for/IN 
+[ a/DT high-speed/JJ service/NN ]
+between/IN 
+[ the/DT two/CD cities/NNS ]
+./. 
+
+[ Rail/NN ]
+currently/RB accounts/VBZ for/IN only/RB 
+[ 3/CD %/NN ]
+of/IN 
+[ inter-city/JJ Canadian/JJ travel/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Mulroney/NNP ]
+said/VBD 
+[ he/PRP ]
+will/MD establish/VB 
+[ a/DT commission/NN ]
+to/TO investigate/VB and/CC make/VB 
+[ recommendations/NNS ]
+on/IN 
+[ Canada/NNP 's/POS national/JJ passenger-transportation/JJ ]
+needs/NNS for/IN 
+[ the/DT coming/JJ century/NN ]
+./. 
+
+======================================
+
+Among/IN 
+[ the/DT services/NNS ]
+to/TO be/VB cut/VBN will/MD be/VB 
+[ one/CD ]
+of/IN 
+[ Via/NNP Rail/NNP 's/POS trans-Canadian/JJ runs/NNS ]
+,/, known/VBN as/IN 
+[ the/DT Canadian/NNP ]
+,/, 
+[ that/WDT ]
+links/VBZ 
+[ Montreal/NNP ]
+and/CC 
+[ Vancouver/NNP ]
+./. 
+
+[ Another/DT transcontinental/JJ service/NN ]
+,/, between/IN 
+[ Toronto/NNP ]
+and/CC 
+[ Vancouver/NNP ]
+,/, will/MD be/VB maintained/VBN with/IN 
+[ three/CD departures/NNS ]
+
+[ a/DT week/NN ]
+./. 

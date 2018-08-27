@@ -1,0 +1,120 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Boston/NNP Edison/NNP Co./NNP ]
+,/, 
+[ an/DT electric/JJ utility/NN ]
+,/, said/VBD 
+[ it/PRP ]
+reached/VBD 
+[ a/DT tentative/JJ agreement/NN ]
+with/IN 
+[ the/DT state/NN ]
+of/IN 
+[ Massachusetts/NNP ]
+under/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+wo/MD n't/RB request/VB 
+[ a/DT rate/NN increase/NN ]
+for/IN 
+[ three/CD years/NNS ]
+and/CC will/MD report/VB 
+[ a/DT $/$ 60/CD million/CD charge/NN ]
+./. 
+
+======================================
+
+[ The/DT charge/NN ]
+will/MD occur/VB because/IN 
+[ Boston/NNP Edison/NNP ]
+agreed/VBD 
+[ it/PRP ]
+wo/MD n't/RB seek/VB to/TO recover/VB 
+[ costs/NNS ]
+incurred/VBN during/IN 
+[ a/DT 32-month/JJ shutdown/NN ]
+of/IN 
+[ its/PRP$ Pilgrm/NNP Nuclear/NNP Power/NNP Plant/NNP ]
+
+[ that/WDT ]
+was/VBD criticized/VBN by/IN 
+[ federal/JJ regulators/NNS ]
+./. 
+
+======================================
+
+[ The/DT settlement/NN ]
+,/, reached/VBN between/IN 
+[ the/DT utility/NN ]
+,/, 
+[ the/DT state/NN attorney/NN general/NN 's/POS office/NN ]
+,/, 
+[ the/DT state/NN executive/NN office/NN ]
+of/IN 
+[ energy/NN resources/NNS ]
+,/, and/CC 
+[ several/JJ other/JJ parties/NNS ]
+,/, is/VBZ subject/JJ to/TO 
+[ approval/NN ]
+by/IN 
+[ the/DT state/NN Department/NNP ]
+of/IN 
+[ Public/NNP Utilities/NNPS ]
+./. 
+
+======================================
+
+[ Boston/NNP Edison/NNP ]
+said/VBD 
+[ the/DT quarter/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT charge/NN ]
+is/VBZ made/VBN will/MD depend/VB on/IN when/WRB 
+[ the/DT agreement/NN ]
+is/VBZ approved/VBN ./. 
+
+======================================
+
+Under/IN 
+[ the/DT plan/NN ]
+,/, 
+[ the/DT Boston-based/JJ utility/NN ]
+will/MD drop/VB 
+[ the/DT ]
+pending/VBG 
+[ $/$ 85.8/CD million/CD ]
+,/, 
+[ 8.4/CD %/NN rate/NN increase/NN ]
+request/NN and/CC begin/VB 
+[ a/DT three-year/JJ plan/NN ]
+to/TO stabilize/VB 
+[ costs/NNS ]
+to/TO 
+[ customers/NNS ]
+while/IN adjusting/VBG 
+[ revenue/NN ]
+by/IN 
+[ 2/CD %/NN ]
+to/TO 
+[ 2.4/CD %/NN ]
+annually/RB over/IN 
+[ a/DT three-year/JJ period/NN ]
+./. 

@@ -1,0 +1,126 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Toyota/NNP Motor/NNP Corp./NNP ]
+said/VBD 
+[ fiscal-year/JJ net/NN income/NN ]
+climbed/VBD 
+[ 11/CD %/NN ]
+to/TO 
+[ 346.26/CD billion/CD yen/NN ]
+ (/( 
+[ $/$ 2.37/CD billion/CD ]
+ )/) ,/, or/CC 
+[ 121.19/CD yen/NN ]
+ (/( 
+[ 83/CD cents/NNS ]
+ )/) 
+[ a/DT share/NN ]
+,/, from/IN 
+[ 310.95/CD billion/CD yen/NN ]
+,/, or/CC 
+[ 116.58/CD yen/NN ]
+
+[ a/DT share/NN ]
+,/, 
+[ the/DT prior/JJ year/NN ]
+./. 
+
+======================================
+
+[ Japan/NNP 's/POS biggest/JJS car/NN maker/NN ]
+said/VBD 
+[ consolidated-pretax/JJ earnings/NNS ]
+for/IN 
+[ the/DT year/NN ]
+ended/VBD 
+[ June/NNP 30/CD ]
+rose/VBD 
+[ 2.5/CD %/NN ]
+to/TO 
+[ 625.66/CD billion/CD yen/NN ]
+from/IN 
+[ 610.25/CD billion/CD yen/NN ]
+
+[ the/DT previous/JJ year/NN ]
+owing/JJ to/TO 
+[ vigorous/JJ demand/NN ]
+in/IN 
+[ the/DT domestic/JJ market/NN ]
+,/, 
+[ North/NNP America/NNP ]
+and/CC 
+[ Southeast/NNP Asia/NNP ]
+./. 
+
+======================================
+
+[ Sales/NNS ]
+rose/VBD 
+[ 11/CD %/NN ]
+to/TO 
+[ 8.021/CD trillion/CD yen/NN ]
+ (/( 
+[ $/$ 54.98/CD billion/CD ]
+ )/) from/IN 
+[ 7.215/CD trillion/CD yen/NN ]
+
+[ a/DT year/NN ]
+ago/IN ./. 
+
+======================================
+
+For/IN 
+[ the/DT latest/JJS fiscal/JJ year/NN ]
+,/, 
+[ motor-vehicle/NN production/NN ]
+totaled/VBD 
+[ 4.1/CD million/CD units/NNS ]
+,/, 
+[ a/DT 6.1/CD %/NN increase/NN ]
+from/IN 
+[ the/DT previous/JJ fiscal/JJ year/NN ]
+./. 
+
+Combined/VBN 
+[ motor-vehicle/NN sales/NNS ]
+,/, 
+[ both/DT ]
+in/IN 
+[ the/DT domestic/JJ market/NN ]
+and/CC overseas/RB ,/, totaled/VBD approximately/RB 
+[ 4.1/CD million/CD units/NNS ]
+,/, up/IN 
+[ 6.2/CD %/NN ]
+from/IN 
+[ a/DT year/NN ]
+ago/IN ./. 
+
+======================================
+
+[ Toyota/NNP officials/NNS ]
+did/VBD n't/RB make/VB 
+[ predictions/NNS ]
+for/IN 
+[ consolidated/VBN results/NNS ]
+for/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+,/, adding/VBG that/IN 
+[ accurate/JJ estimates/NNS ]
+were/VBD difficult/JJ because/IN of/IN 
+[ uncertain/JJ currency/NN movements/NNS ]
+./. 

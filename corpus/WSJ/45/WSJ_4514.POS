@@ -1,0 +1,800 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Federal/NNP regulators/NNS ]
+set/VBD 
+[ the/DT level/NN ]
+of/IN 
+[ capital/NN ]
+that/IN 
+[ investors/NNS ]
+must/MD inject/VB into/IN 
+[ insolvent/JJ thrifts/NNS ]
+at/IN 
+[ 4.5/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+,/, 
+[ a/DT level/NN ]
+
+[ that/WDT ]
+should/MD make/VB 
+[ it/PRP ]
+easier/JJR for/IN 
+[ many/JJ healthy/JJ thrifts/NNS ]
+to/TO acquire/VB 
+[ their/PRP$ ailing/VBG brethren/NNS ]
+./. 
+
+======================================
+
+As/RB recently/RB as/IN 
+[ last/JJ week/NN ]
+,/, 
+[ officials/NNS ]
+of/IN 
+[ the/DT Resolution/NNP Trust/NNP Corp./NNP ]
+,/, 
+[ the/DT agency/NN ]
+created/VBD to/TO sell/VB and/CC liquidate/VB 
+[ thrifts/NNS ]
+taken/VBN over/IN by/IN 
+[ the/DT government/NN ]
+,/, had/VBD discussed/VBN setting/VBG 
+[ the/DT required/JJ capital/NN infusion/NN ]
+at/IN 
+[ 6/CD %/NN ]
+of/IN 
+[ assets/NNS ]
+./. 
+
+That/IN prompted/VBD 
+[ some/DT worry/NN ]
+in/IN 
+[ the/DT thrift/NN industry/NN ]
+that/IN 
+[ the/DT better-capitalized/JJ banking/NN industry/NN ]
+would/MD have/VB 
+[ a/DT stronger/JJR hand/NN ]
+in/IN buying/VBG up/RP 
+[ the/DT government/NN 's/POS inventory/NN ]
+of/IN 
+[ sick/JJ thrifts/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+will/MD stimulate/VB 
+[ additional/JJ interest/NN ]
+among/IN 
+[ thrifts/NNS ]
+,/, ''/'' said/VBD 
+[ Kip/NNP Weissman/NNP ]
+,/, 
+[ an/DT attorney/NN ]
+with/IN 
+[ Silver/NNP ]
+,/, 
+[ Freedman/NNP ]
+&/CC 
+[ Taff/NNP ]
+here/RB ./. 
+
+[ Mr./NNP Weissman/NNP ]
+said/VBD 
+[ there/EX ]
+are/VBP 
+[ many/JJ thrifts/NNS ]
+
+[ that/WDT ]
+can/MD raise/VB 
+[ the/DT 4.5/CD %/NN capital/NN ]
+but/CC would/MD balk/VB at/IN trying/VBG to/TO raise/VB 
+[ 6/CD %/NN ]
+because/IN 
+[ profits/NNS ]
+might/MD not/RB justify/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+Also/RB ,/, 
+[ the/DT assets/NNS ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT 4.5/CD %/NN level/NN ]
+will/MD be/VB based/VBN will/MD be/VB adjusted/VBN for/IN 
+[ riskiness/NN ]
+./. 
+
+Thus/RB ,/, broke/VBD 
+[ institutions/NNS ]
+
+[ that/WDT ]
+hold/VBP 
+[ less-risky/JJ loans/NNS ]
+,/, such/JJ as/IN 
+[ home/NN mortgages/NNS ]
+,/, should/MD be/VB less/RBR expensive/JJ to/TO acquire/VB than/IN 
+[ thrifts/NNS ]
+
+[ that/WDT ]
+hold/VBP 
+[ many/JJ commercial/JJ loans/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP considered/VBN 
+[ riskier/RBR ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ unclear/JJ ,/, however/RB ,/, how/WRB 
+[ the/DT requirements/NNS ]
+for/IN 
+[ initial/JJ capital/NN infusions/NNS ]
+will/MD work/VB with/IN 
+[ other/JJ capital/NN standards/NNS ]
+for/IN 
+[ all/DT thrifts/NNS ]
+that/IN 
+[ regulators/NNS ]
+are/VBP now/RB working/VBG out/RB ./. 
+
+In/IN 
+[ a/DT statement/NN ]
+,/, 
+[ the/DT RTC/NNP ]
+said/VBD 
+[ Danny/NNP Wall/NNP ]
+,/, 
+[ an/DT RTC/NNP board/NN member/NN ]
+
+[ who/WP ]
+is/VBZ also/RB 
+[ the/DT top/JJ thrift/NN regulator/NN ]
+,/, voted/VBD for/IN 
+[ the/DT 4.5/CD %/NN level/NN ]
+but/CC indicated/VBD that/IN 
+[ a/DT higher/JJR ]
+or/CC even/RB 
+[ a/DT lower/JJR capital/NN rate/NN ]
+may/MD be/VB needed/VBN to/TO operate/VB 
+[ the/DT thrift/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT RTC/NNP ]
+said/VBD 
+[ it/PRP ]
+moved/VBD 
+[ the/DT deadline/NN ]
+for/IN 
+[ bids/NNS ]
+on/IN 
+[ five/CD insolvent/JJ thrifts/NNS ]
+to/TO 
+[ Tuesday/NNP ]
+because/IN of/IN 
+[ the/DT announcement/NN ]
+of/IN 
+[ the/DT policy/NN ]
+./. 
+
+[ The/DT previous/JJ deadline/NN ]
+had/VBD been/VBN yesterday/NN ./. 
+
+[ The/DT thrifts/NNS ]
+are/VBP 
+[ University/NNP Federal/NNP Savings/NNPS Association/NNP ]
+of/IN 
+[ Houston/NNP ]
+;/: 
+[ Freedom/NNP S&L/NNP ]
+,/, 
+[ Tampa/NNP ]
+,/, 
+[ Fla./NNP ]
+;/: 
+[ Hill/NNP Financial/NNP Savings/NNPS Association/NNP ]
+in/IN 
+[ Red/NNP Hill/NNP ]
+,/, 
+[ Pa./NNP ]
+;/: 
+[ People/NNPS 's/POS Heritage/NNP Savings/NNPS ]
+,/, 
+[ Salina/NNP ]
+,/, 
+[ Kan./NNP ]
+;/: and/CC 
+[ Pacific/NNP Savings/NNPS Bank/NNP ]
+,/, 
+[ Costa/NNP Mesa/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+======================================
+
+[ Christies/NNP International/NNP PLC/NNP ]
+said/VBD 
+[ Tokyo-based/JJ Aska/NNP International/NNP Co./NNP ]
+owns/VBZ 
+[ 7.2/CD %/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+======================================
+
+[ The/DT London-based/JJ fine-arts/NNS auction/NN house/NN ]
+said/VBD 
+[ the/DT Japanese/JJ concern/NN ]
+bought/VBD 
+[ 11/CD million/CD ]
+of/IN 
+[ its/PRP$ ordinary/JJ shares/NNS ]
+from/IN 
+[ Carisbrook/NNP Holdings/NNPS U.K./NNP Ltd./NNP ]
+,/, 
+[ a/DT company/NN ]
+owned/VBN by/IN 
+[ Australian/JJ financier/NN Robert/NNP Holmes/NNP ]
+
+[ a/DT Court/NN ] 
+./. 
+
+[ Carisbrook/NNP ]
+,/, 
+[ which/WDT ]
+surfaced/VBD as/IN 
+[ a/DT Christies/NNP shareholder/NN last/JJ December/NNP ]
+,/, retains/VBZ 
+[ a/DT small/JJ stake/NN ]
+of/IN ``/`` significantly/RB less/JJR than/IN 
+[ 1/CD million/CD shares/NNS ]
+,/, ''/'' said/VBD 
+[ Christies/NNP Finance/NNP Director/NNP David/NNP Tyler/NNP ]
+./. 
+
+======================================
+
+[ Aska/NNP 's/POS emergence/NN ]
+as/IN 
+[ a/DT major/JJ Christies/NNP shareholder/NN ]
+puzzled/VBD 
+[ company/NN officials/NNS ]
+./. 
+
+[ Mr./NNP Tyler/NNP ]
+said/VBD 
+[ Christies/NNP ]
+had/VBD never/RB heard/VBN of/IN 
+[ Aska/NNP ]
+but/CC believes/VBZ 
+[ it/PRP ]
+might/MD be/VB 
+[ a/DT ]
+privately/RB held/VBN 
+[ company/NN run/NN ]
+by/IN 
+[ Yasumichi/NNP Marushita/NNP ]
+,/, 
+[ a/DT Japanese/JJ art/NN collector/NN ]
+./. 
+
+[ Christies/NNP officials/NNS ]
+were/VBD trying/VBG yesterday/NN to/TO gather/VB 
+[ information/NN ]
+about/IN 
+[ Aska/NNP ]
+and/CC 
+[ its/PRP$ intentions/NNS ]
+toward/IN 
+[ the/DT stake/NN ]
+./. 
+
+[ Aska/NNP ]
+could/MD n't/RB be/VB reached/VBN for/IN 
+[ comment/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+hope/VBP 
+[ it/PRP ]
+is/VBZ 
+[ a/DT long-term/JJ investment/NN ]
+,/, ''/'' 
+[ Mr./NNP Tyler/NNP ]
+said/VBD ./. 
+
+``/`` 
+[ We/PRP ]
+anticipate/VBP 
+[ that/DT ]
+is/VBZ  
+[ the/DT case/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Swissair/NNP ]
+,/, 
+[ Switzerland/NNP 's/POS shareholder-owned/JJ flag/NN carrier/NN ]
+,/, said/VBD 
+[ talks/NNS ]
+are/VBP under/RB 
+[ way/RB ]
+with/IN 
+[ Scandinavian/NNP Airlines/NNPS Systems/NNPS ]
+on/IN 
+[ a/DT possible/JJ cooperation/NN accord/NN ]
+./. 
+
+[ A/DT Swissair/NNP spokesman/NN ]
+,/, 
+[ who/WP ]
+declined/VBD to/TO reveal/VB 
+[ details/NNS ]
+of/IN 
+[ the/DT talks/NNS ]
+,/, said/VBD ,/, ``/`` 
+[ It/PRP ]
+will/MD be/VB 
+[ another/DT agreement/NN ]
+similar/JJ to/TO 
+[ the/DT Delta/NNP agreement/NN ]
+,/, but/CC for/IN 
+[ Europe/NNP ]
+./. 
+
+''/'' In/IN 
+[ July/NNP ]
+,/, 
+[ Swissair/NNP ]
+and/CC 
+[ Delta/NNP Air/NNP Lines/NNPS ]
+announced/VBD 
+[ an/DT agreement/NN ]
+to/TO take/VB 
+[ a/DT 5/CD %/NN stake/NN ]
+in/IN 
+[ one/NN another/DT ]
+./. 
+
+[ That/DT agreement/NN ]
+built/VBN on/IN 
+[ a/DT cooperation/NN accord/NN ]
+announced/VBN in/IN 
+[ March/NNP ]
+,/, in/IN 
+[ which/WDT ]
+
+[ the/DT two/CD airlines/NNS ]
+agreed/VBD to/TO coordinate/VB 
+[ flight/NN scheduling/NN ]
+,/, marketing/NN and/CC 
+[ other/JJ operational/JJ efforts/NNS ]
+./. 
+
+[ SAS/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ 50/CD %/NN ]
+owned/VBN by/IN 
+[ Sweden/NNP ]
+,/, 
+[ Norway/NNP ]
+and/CC 
+[ Denmark/NNP ]
+,/, has/VBZ 
+[ a/DT 10/CD %/NN stake/NN ]
+in/IN 
+[ Texas/NNP Air/NNP Corp./NNP ]
+and/CC is/VBZ backing/VBG 
+[ an/DT investor/NN group/NN ]
+buying/VBG 
+[ 53/CD %/NN ]
+of/IN 
+[ LAN/NNP Chile/NNP ]
+./. 
+
+======================================
+
+Just/RB as/IN 
+[ Peugeot/NNP SA/NNP Chairman/NNP Jacques/NNP Calvet/NNP ]
+seemed/VBD to/TO be/VB winning/VBG 
+[ a/DT bitter/JJ wage/NN dispute/NN ]
+with/IN 
+[ striking/JJ workers/NNS ]
+in/IN 
+[ two/CD plants/NNS ]
+,/, 
+[ an/DT item/NN ]
+appeared/VBD in/IN 
+[ the/DT satirical/JJ newspaper/NN Le/NNP Canard/NNP Enchaine/NNP ]
+
+[ that/WDT ]
+could/MD give/VB 
+[ the/DT strike/NN ]
+
+[ a/DT second/JJ wind/NN ]
+./. 
+
+[ The/DT paper/NN ]
+printed/VBD 
+[ copies/NNS ]
+of/IN 
+[ Mr./NNP Calvet/NNP ]
+'s/VBZ supposedly/RB 
+[ secret/JJ tax/NN returns/NNS ]
+for/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+,/, allowing/VBG 
+[ all/DT his/PRP$ employees/NNS ]
+to/TO see/VB 
+[ that/DT his/PRP$ salary/NN ]
+was/VBD 
+[ 2.22/CD billion/CD francs/NNS last/JJ year/NN ]
+ (/( about/IN 
+[ $/$ 346,000/CD ]
+ )/) and/CC 
+[ that/DT his/PRP$ raise/NN ]
+was/VBD 
+[ 24/CD %/NN ]
+in/IN 
+[ 1988/CD ]
+./. 
+
+[ Peugeot/NNP workers/NNS ]
+are/VBP striking/JJ because/IN 
+[ they/PRP ]
+want/VBP more/JJR than/IN 
+[ the/DT 4.4/CD %/NN ]
+offered/VBN by/IN 
+[ the/DT auto/NN company/NN ]
+./. 
+
+======================================
+
+[ The/DT Soviet/NNP Communist/NNP Party/NNP ]
+rebuked/VBD 
+[ two/CD government/NN ministers/NNS ]
+for/IN failing/VBG to/TO produce/VB and/CC deliver/VB 
+[ basic/JJ consumer/NN goods/NNS ]
+,/, 
+[ Pravda/NNP ]
+said/VBD ./. 
+
+``/`` Out/IN of/IN 
+[ 276/CD basic/JJ consumer/NN goods/NNS ]
+,/, 
+[ 243/CD ]
+can/MD not/RB be/VB found/VBN in/IN 
+[ shops/NNS ]
+,/, including/VBG 
+[ soap/NN ]
+,/, 
+[ toothpaste/NN ]
+,/, 
+[ razor/NN blades/NNS ]
+,/, 
+[ notebooks/NNS ]
+,/, 
+[ pencils/NNS ]
+,/, 
+[ clothing/NN ]
+and/CC 
+[ shoes/NNS ]
+,/, ''/'' 
+[ the/DT newspaper/NN ]
+said/VBD ./. 
+
+[ The/DT two/CD officials/NNS ]
+
+[ who/WP ]
+were/VBD reprimanded/VBN ,/, 
+[ Pravda/NNP ]
+said/VBD ,/, were/VBD 
+[ the/DT minister/NN ]
+responsible/JJ for/IN 
+[ chemical/NN ]
+and/CC 
+[ timber/NN industries/NNS ]
+and/CC 
+[ the/DT minister/NN ]
+in/IN 
+[ charge/NN ]
+of/IN 
+[ social/JJ development/NN ]
+./. 
+
+======================================
+
+[ Japan/NNP ]
+is/VBZ underwriting/VBG 
+[ a/DT $/$ 25/CD million/CD ]
+,/, 
+[ three-month/JJ cultural/JJ festival/NN ]
+to/TO polish/VB 
+[ its/PRP$ image/NN ]
+in/IN 
+[ the/DT European/NNP Community/NNP ]
+./. 
+
+``/`` 
+[ Europalia/NNP 89/CD ]
+''/'' got/VBD under/RB  
+[ way/RB ]
+
+[ this/DT week/NN ]
+and/CC will/MD include/VB 
+[ such/JJ features/NNS ]
+of/IN 
+[ Japanese/JJ culture/NN ]
+as/IN 
+[ Sumo/NN wrestling/NN ]
+and/CC 
+[ No/DT theater/NN presentations/NNS ]
+staged/VBN throughout/IN 
+[ Europe/NNP ]
+./. 
+
+[ Japan/NNP ]
+is/VBZ 
+[ the/DT first/JJ nation/NN ]
+outside/IN 
+[ Europe/NNP ]
+to/TO be/VB 
+[ the/DT focus/NN ]
+of/IN 
+[ Europalia/NNP ]
+,/, 
+[ a/DT biennial/JJ event/NN ]
+showcasing/VBG 
+[ a/DT single/JJ country/NN ]
+
+[ that/WDT ]
+began/VBD 
+[ 20/CD years/NNS ]
+ago/RB ./. 
+
+[ The/DT aim/NN ]
+of/IN 
+[ Japan/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ viewed/VBN by/IN 
+[ Europeans/NNPS ]
+as/IN 
+[ a/DT sometimes-aggressive/JJ trading/NN partner/NN ]
+,/, is/VBZ ``/`` to/TO show/VB 
+[ ourselves/PRP ]
+from/IN 
+[ a/DT better/JJR angle/NN ]
+,/, ''/'' says/VBZ 
+[ Mikie/NNP Kiyoi/NNP ]
+,/, 
+[ first/JJ secretary/NN ]
+of/IN 
+[ the/DT Japanese/JJ Embassy/NNP ]
+in/IN 
+[ Brussels/NNP ]
+./. 
+
+======================================
+
+Up/IN to/TO 
+[ 46,000/CD ]
+highly/RB qualified/JJ 
+[ young/JJ people/NNS ]
+are/VBP leaving/VBG 
+[ Ireland/NNP ]
+
+[ every/DT year/NN ]
+to/TO search/VB for/IN 
+[ work/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ a/DT very/RB disturbing/JJ ]
+and/CC 
+[ distressing/JJ figure/NN ]
+./. 
+
+[ The/DT last/JJ time/NN ]
+
+[ it/PRP ]
+was/VBD as/RB high/JJ as/IN 
+[ that/DT ]
+was/VBD in/IN 
+[ 1958/CD ]
+,/, ''/'' 
+[ Communications/NNPS Minister/NNP Ray/NNP Burke/NNP ]
+said/VBD when/WRB 
+[ the/DT latest/JJS emigration/NN statistics/NNS ]
+were/VBD announced/VBN ./. 
+
+======================================
+
+[ Figures/NNS ]
+for/IN 
+[ the/DT past/JJ five/CD years/NNS ]
+show/VBP that/IN up/RB to/TO 
+[ one/CD ]
+in/IN 
+[ five/CD people/NNS ]
+in/IN 
+[ the/DT 15-to-24-year-old/JJ age/NN group/NN ]
+decided/VBD to/TO emigrate/VB to/TO 
+[ Britain/NNP ]
+,/, 
+[ Australia/NNP ]
+and/CC 
+[ North/NNP America/NNP ]
+./. 
+
+``/`` 
+[ The/DT equivalent/NN ]
+of/IN 
+[ the/DT population/NN ]
+of/IN 
+[ Galway/NNP ]
+left/VBD 
+[ the/DT country/NN last/JJ year/NN ]
+and/CC will/MD continue/VB to/TO leave/VB ./. 
+
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+is/VBZ absolutely/RB shattering/JJ ,/, ''/'' said/VBD 
+[ Roman/JJ Catholic/JJ Bishop/NNP Eamonn/NNP Casey/NNP ]
+./. 
+
+======================================
+
+[ Today/NN 's/POS emigrants/NNS ]
+are/VBP 
+[ computer-literate/JJ graduates/NNS ]
+--/: 
+[ the/DT men/NNS ]
+and/CC 
+[ women/NNS ]
+
+[ who/WP ]
+might/MD have/VB been/VBN 
+[ Ireland/NNP 's/POS future/JJ architects/NNS ]
+,/, 
+[ doctors/NNS ]
+,/, 
+[ nurses/NNS ]
+and/CC 
+[ business/NN executives/NNS ]
+./. 
+
+[ They/PRP ]
+are/VBP leaving/VBG 
+[ a/DT nation/NN ]
+where/WRB almost/RB 
+[ 18/CD %/NN ]
+of/IN 
+[ the/DT work/NN force/NN ]
+is/VBZ unemployed/JJ --/: 
+[ one/CD ]
+of/IN 
+[ the/DT highest/JJS jobless/JJ rates/NNS ]
+in/IN 
+[ the/DT European/NNP Community/NNP ]
+./. 
+
+======================================
+
+[ Ironically/RB ]
+,/, 
+[ Ireland/NNP ]
+could/MD prove/VB to/TO be/VB 
+[ the/DT economic/JJ success/NN story/NN ]
+of/IN 
+[ Europe/NNP ]
+in/IN 
+[ 1989/CD ]
+,/, with/IN 
+[ analysts/NNS ]
+forecasting/VBG 
+[ a/DT 6/CD %/NN growth/NN rate/NN ]
+,/, 
+[ record/NN exports/NNS ]
+,/, 
+[ a/DT big/JJ boost/NN ]
+for/IN 
+[ the/DT crucial/JJ manufacturing/NN industry/NN ]
+and/CC 
+[ an/DT excellent/JJ year/NN ]
+for/IN 
+[ tourism/NN ]
+./. 
+
+======================================
+
+[ Sicilian/JJ muscatel/NN ]
+is/VBZ 
+[ the/DT best/JJS wine/NN ]
+for/IN 
+[ use/NN ]
+during/IN 
+[ the/DT celebration/NN ]
+of/IN 
+[ the/DT Roman/NNP Catholic/NNP Mass/NNP ] 
+./. 
+
+[ The/DT judgment/NN ]
+was/VBD pronounced/VBN by/IN 
+[ a/DT panel/NN ]
+of/IN 
+[ priests/NNS ]
+and/CC 
+[ wine/NN experts/NNS ]
+during/IN 
+[ a/DT conference/NN ]
+in/IN 
+[ Asti/NNP ]
+,/, in/IN 
+[ Italy/NNP 's/POS Piedmont/NNP region/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ Iraq/NNP ]
+has/VBZ banned/VBN 
+[ nightclub/NN patrons/NNS ]
+from/IN 
+[ throwing/VBG money/NN ]
+at/IN 
+[ dancers/NNS ]
+and/CC 
+[ other/JJ entertainers/NNS ]
+./. 
+
+[ It/PRP ]
+says/VBZ 
+[ the/DT custom/NN ]
+humiliates/VBZ 
+[ the/DT national/JJ currency/NN ]
+./. 

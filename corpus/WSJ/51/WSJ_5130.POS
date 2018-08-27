@@ -1,0 +1,668 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ An/DT American/JJ visitor/NN ]
+to/TO 
+[ Moscow/NNP ]
+asked/VBD recently/RB to/TO use/VB 
+[ a/DT Xerox/NNP machine/NN ]
+./. 
+
+[ He/PRP ]
+was/VBD led/VBN ,/, with/IN 
+[ Fort/NNP Knox-like/JJ ceremony/NN ]
+,/, behind/IN 
+[ a/DT locked/VBN door/NN ]
+into/IN 
+[ a/DT backroom/NN ]
+,/, where/WRB 
+[ a/DT Soviet/NNP ]
+made/VBD 
+[ the/DT precious/JJ copies/NNS ]
+./. 
+
+[ The/DT question/NN ]
+of/IN 
+[ the/DT week/NN ]
+is/VBZ :/: 
+[ What/WP ]
+can/MD 
+[ the/DT U.S./NNP ]
+possibly/RB do/VB to/TO help/VB 
+[ a/DT nation/NN ]
+
+[ that/WDT ]
+treats/VBZ 
+[ Xerox/NNP machines/NNS ]
+as/IN 
+[ a/DT controlled/VBN substance/NN ]
+?/. 
+
+======================================
+
+Back/RB in/IN 
+[ Washington/NNP ]
+,/, copying/NN is/VBZ 
+[ a/DT different/JJ sort/NN ]
+of/IN 
+[ problem/NN ]
+;/: 
+[ George/NNP Bush/NNP 's/POS critics/NNS ]
+are/VBP borrowing/VBG 
+[ metaphors/NNS ]
+./. 
+
+[ George/NNP Mitchell/NNP ]
+,/, 
+[ the/DT Senate/NNP majority/NN leader/NN ]
+,/, accused/VBD 
+[ the/DT administration/NN ]
+
+[ this/DT week/NN ]
+of/IN harboring/VBG ``/`` 
+[ nostalgia/NN ]
+for/IN 
+[ the/DT Cold/NNP War/NNP ]
+,/, ''/'' because/IN 
+[ it/PRP ]
+was/VBD n't/RB doing/VBG more/JJR to/TO help/VB 
+[ Mikhail/NNP Gorbachev/NNP ]
+./. 
+
+======================================
+
+[ A/DT day/NN ]
+later/RB ,/, 
+[ foreign-policy/NN Bigfoot/NNP Peter/NNP Tarnoff/NNP ]
+added/VBD 
+[ a/DT creative/JJ fillip/NN ]
+by/IN deploring/VBG 
+[ a/DT ]
+``/`` 
+[ bizarre/JJ nostalgia/NN ]
+for/IN 
+[ the/DT Cold/NNP War/NNP ]
+./. 
+
+''/'' 
+[ The/DT same/JJ people/NNS ]
+
+[ who/WP ]
+think/VBP 
+[ the/DT U.S./NNP ]
+does/VBZ n't/RB do/VB much/JJ of/IN 
+[ anything/NN ]
+well/RB in/IN 
+[ the/DT Third/NNP World/NNP ]
+now/RB insist/VBP that/IN 
+[ the/DT U.S./NNP ]
+somehow/RB save/VB 
+[ the/DT Second/NNP ]
+./. 
+
+======================================
+
+[ The/DT trigger/NN ]
+for/IN 
+[ this/DT scorn/NN ]
+was/VBD 
+[ a/DT speech/NN ]
+by/IN 
+[ Lawrence/NNP Eagleburger/NNP ]
+,/, 
+[ the/DT deputy/NN Secretary/NNP ]
+of/IN 
+[ State/NNP ]
+./. 
+
+[ The/DT speech/NN was/VBD n't/RB ]
+cleared/VBN in/IN 
+[ advance/NN ]
+,/, 
+[ a/DT fact/NN ]
+
+[ that/WDT ]
+irritated/VBD 
+[ Secretary/NNP ]
+of/IN 
+[ State/NNP James/NNP Baker/NNP 's/POS political/JJ antennae/NNS ]
+on/IN 
+[ the/DT eve/NN ]
+of/IN 
+[ today/NN 's/POS meeting/NN ]
+with/IN 
+[ the/DT Soviet/JJ foreign/JJ minister/NN ]
+./. 
+
+But/CC 
+[ its/PRP$ main/JJ sin/NN ]
+seems/VBZ to/TO have/VB been/VBN 
+[ candor/NN ]
+./. 
+
+[ It/PRP ]
+``/`` is/VBZ not/RB 
+[ the/DT task/NN ]
+of/IN 
+[ American/JJ foreign/JJ policy/NN ]
+,/, ''/'' 
+[ Mr./NNP Eagleburger/NNP ]
+said/VBD ,/, ``/`` to/TO ensure/VB 
+[ the/DT success/NN ]
+of/IN 
+[ Gorbachev/NNP 's/POS reforms/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT evidence/NN ]
+for/IN 
+[ this/DT simple/JJ proposition/NN ]
+is/VBZ illustrated/VBN by/IN 
+[ the/DT poverty/NN ]
+of/IN 
+[ the/DT critics/NNS '/POS own/JJ proposed/VBN agenda/NN ]
+./. 
+
+[ They/PRP ]
+express/VBP 
+[ fine/JJ broad/JJ sentiments/NNS ]
+but/CC 
+[ few/JJ specifics/NNS ]
+./. 
+
+[ Sen./NNP Mitchell/NNP ]
+frets/VBZ that/IN 
+[ the/DT administration/NN ]
+is/VBZ ``/`` 
+[ complacent/JJ ]
+about/IN 
+[ the/DT arms/NNS control/NN process/NN ]
+,/, ''/'' because/IN 
+[ it/PRP ]
+has/VBZ placed/VBN 
+[ a/DT higher/JJR priority/NN ]
+on/IN 
+[ conventional/JJ ]
+than/IN on/IN 
+[ nuclear/JJ arms/NNS control/NN ]
+./. 
+
+But/CC 
+[ conventional/JJ arms/NNS ]
+is/VBZ where/WRB 
+[ the/DT greatest/JJS ruble/NN savings/NNS ]
+lie/VBP ./. 
+
+[ Tanks/NNS ]
+and/CC 
+[ infantry/NN cost/VBP ]
+more/JJR than/IN 
+[ cookie-cutter/NN missiles/NNS ]
+./. 
+
+If/IN 
+[ Mr./NNP Gorbachev/NNP ]
+needs/VBZ ``/`` 
+[ resources/NNS ]
+''/'' to/TO buy/VB 
+[ more/JJR butter/NN ]
+,/, 
+[ he/PRP ]
+can/MD make/VB 
+[ fewer/JJR guns/NNS ]
+./. 
+
+======================================
+
+Yet/CC 
+[ the/DT Soviets/NNPS ] 
+are/VBP making/VBG 
+[ as/RB many/JJ new/JJ guns/NNS ]
+as/RB ever/RB ./. 
+
+[ A/DT recent/JJ report/NN ]
+from/IN 
+[ the/DT Committee/NNP ]
+on/IN 
+[ the/DT Present/NNP Danger/NNP ]
+says/VBZ that/IN while/IN 
+[ obsolete/JJ weapons/NNS ]
+are/VBP being/VBG demobilized/VBN ,/, 
+[ better/JJR ones/NNS ]
+are/VBP taking/VBG 
+[ their/PRP$ place/NN ]
+./. 
+
+[ The/DT Soviets/NNPS ]
+still/RB build/VBP 
+[ military/JJ aircraft/NN ]
+at/IN twice/RB 
+[ the/DT rate/NN ]
+of/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+In/IN 
+[ 1983/CD ]
+,/, 
+[ pre-``/`` perestroika/NN ]
+,/, ''/'' 
+[ they/PRP ]
+produced/VBD 
+[ 810/CD nuclear/JJ artillery/NN pieces/NNS ]
+and/CC 
+[ 400/CD short-range/JJ nuclear/JJ missiles/NNS ]
+./. 
+
+[ Last/JJ year/NN ]
+,/, with/IN 
+[ detente/NN ]
+in/IN 
+[ full/JJ bloom/NN ]
+,/, 
+[ they/PRP ]
+made/VBD 
+[ 850/CD ]
+and/CC 
+[ 450/CD ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ also/RB apparently/RB impolite/JJ to/TO mention/VB 
+[ details/NNS ]
+about/IN 
+[ what/WP ]
+used/VBD to/TO be/VB known/VBN as/IN ``/`` 
+[ the/DT Soviet/JJ empire/NN ]
+./. 
+
+''/'' 
+[ Charles/NNP Wolf/NNP ]
+,/, 
+[ the/DT astute/JJ Rand/NNP analyst/NN ]
+,/, has/VBZ pegged/VBN 
+[ its/PRP$ cost/NN ]
+to/TO 
+[ the/DT Soviets/NNPS ]
+at/IN nearly/RB 
+[ $/$ 30/CD billion/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+[ Fidel/NNP Castro/NNP 's/POS dole/NN ]
+alone/RB costs/VBZ more/JJR than/IN 
+[ $/$ 4/CD billion/CD ]
+./. 
+
+[ A/DT ceasefire/NN ]
+is/VBZ in/IN 
+[ effect/NN ]
+in/IN 
+[ Nicaragua/NNP ]
+,/, but/CC 
+[ Soviet-bloc/JJ military/JJ aid/NN ]
+to/TO 
+[ Managua/NNP ]
+amounted/VBN to/TO 
+[ $/$ 350/CD million/CD ]
+in/IN 
+[ the/DT first/JJ eight/CD months/NNS ]
+of/IN 
+[ this/DT year/NN ]
+./. 
+
+``/`` 
+[ Resources/NNS ]
+''/'' for/IN ``/`` 
+[ perestroika/FW ]
+?/. 
+
+''/'' 
+======================================
+
+[ Sen./NNP Mitchell/NNP ]
+wants/VBZ to/TO bring/VB 
+[ the/DT Soviets/NNPS ]
+into/IN 
+[ the/DT web/NN ]
+of/IN ``/`` 
+[ Western/JJ institutions/NNS ]
+''/'' such/JJ as/IN 
+[ the/DT GATT/NNP ]
+,/, 
+[ IMF/NNP ]
+and/CC 
+[ World/NNP Bank/NNP ]
+./. 
+
+But/CC 
+[ it/PRP ]
+stretches/VBZ 
+[ belief/NN ]
+to/TO think/VB 
+[ that/DT entry/NN ]
+in/IN 
+[ the/DT IMF/NNP ]
+is/VBZ going/VBG to/TO do/VB much/RB for/IN 
+[ Soviet/JJ coal/NN miners/NNS ]
+,/, 
+[ whose/WP$ main/JJ complaint/NN ]
+while/IN striking/VBG 
+[ this/DT summer/NN ]
+was/VBD 
+[ a/DT shortage/NN ]
+of/IN 
+[ soap/NN ]
+./. 
+
+======================================
+
+[ One/CD ranking/JJ Soviet/JJ reformer/JJ ]
+,/, visiting/VBG 
+[ a/DT senior/JJ U.S./NNP official/NN ]
+,/, recently/RB illustrated/VBD 
+[ his/PRP$ economy/NN 's/POS problems/NNS ]
+by/IN relating/VBG 
+[ that/DT his/PRP$ neighbor/NN ]
+had/VBD stockpiled/VBN 
+[ seven/CD years/NNS '/POS supply/NN ]
+of/IN 
+[ detergent/NN ]
+./. 
+
+Does/VBZ 
+[ the/DT notion/NN ]
+of/IN 
+[ a/DT tariff-reduction/NN ]
+mean/VB 
+[ anything/NN ]
+in/IN 
+[ such/PDT an/DT economy/NN ]
+?/. 
+
+======================================
+
+[ The/DT critics/NNS ]
+are/VBP going/VBG to/TO get/VB 
+[ their/PRP$ Bush-Gorbachev/NNP summit/NN ]
+but/CC will/MD more/JJR good/JJ 
+[ international/JJ press/NN ]
+satisfy/VB 
+[ the/DT independent/JJ yearnings/NNS ]
+of/IN 
+[ Ukrainians/NNPS ]
+or/CC 
+[ Balts/NNPS ]
+?/. 
+
+======================================
+
+If/IN 
+[ U.S./NNP restraint/NN ]
+is/VBZ ``/`` 
+[ nostalgia/NN ]
+,/, ''/'' 
+[ we/PRP ]
+may/MD yet/RB need/VB 
+[ more/JJR ]
+of/IN 
+[ it/PRP ]
+./. 
+
+In/IN 
+[ his/PRP$ first/JJ meeting/NN ]
+with/IN 
+[ the/DT Soviet/JJ foreign/JJ minister/NN ]
+,/, 
+[ Mr./NNP Baker/NNP ]
+stressed/VBD 
+[ the/DT importance/NN ]
+of/IN 
+[ price/NN reform/NN ]
+,/, but/CC was/VBD told/VBN how/WRB 
+[ difficult/JJ ]
+
+[ it/PRP ]
+is/VBZ ./. 
+
+Now/RB ,/, before/IN 
+[ this/DT meeting/NN ]
+,/, 
+[ a/DT stream/NN ]
+of/IN 
+[ Soviets/NNPS ]
+arrive/VBP preaching/VBG 
+[ imminent/JJ danger/NN ]
+and/CC 
+[ the/DT need/NN ]
+for/IN 
+[ Western/JJ ]
+help/NN ,/, but/CC 
+[ price/NN ]
+and/CC 
+[ currency/NN reform/NN ]
+still/RB go/VBP 
+[ unaddressed/JJ ]
+./. 
+
+======================================
+
+[ Supply-sider/NNP Jude/NNP Wanniski/NNP ]
+and/CC 
+[ Federal/NNP Reserve/NNP Governor/NNP Wayne/NNP Angell/NNP ]
+recently/RB urged/VBD ,/, in/IN 
+[ Moscow/NNP ]
+,/, that/IN 
+[ the/DT ruble/NN ]
+be/VB made/VBN convertible/JJ to/TO 
+[ gold/NN ]
+--/: 
+[ the/DT ruble/NN ]
+would/MD suddenly/RB have/VB 
+[ some/DT measure/NN ]
+of/IN 
+[ value/NN ]
+./. 
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ this/DT ]
+is/VBZ 
+[ another/DT idea/NN ]
+that/IN only/RB 
+[ Moscow/NNP ]
+can/MD implement/VB ,/, so/IN 
+[ it/PRP ]
+also/RB probably/RB wo/MD n't/RB pass/VB 
+[ Sen./NNP Mitchell/NNP 's/POS test/NN ]
+for/IN assisting/VBG ``/`` 
+[ perestroika/FW ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT same/JJ American/NNP ]
+
+[ who/WP ]
+asked/VBD to/TO use/VB that/IN 
+[ Soviet/JJ Xerox/NNP machine/NN ]
+,/, 
+[ former/JJ defense/NN official/NN Philip/NNP Merrill/NNP ]
+,/, says/VBZ that/IN asking/VBG whether/IN or/CC not/RB to/TO help/VB 
+[ Mr./NNP Gorbachev/NNP ]
+``/`` succeed/VB ''/'' is/VBZ 
+[ the/DT wrong/JJ question/NN ]
+./. 
+
+[ The/DT better/JJR question/NN ]
+is/VBZ ,/, Can/MD 
+[ we/PRP ]
+help/VB 
+[ open/VB ]
+up/IN 
+[ Soviet/JJ society/NN ]
+?/. 
+
+[ Soviet/JJ citizens/NNS ]
+already/RB know/VBP 
+[ this/DT ]
+./. 
+
+At/IN 
+[ Moscow/NNP University/NNP ]
+,/, 
+[ the/DT first/JJ question/NN students/NNS ]
+asked/VBD 
+[ Mr./NNP Merrill/NNP ]
+was/VBD :/: ``/`` How/WRB long/RB would/MD 
+[ it/PRP ]
+be/VB before/IN 
+[ they/PRP ]
+received/VBD 
+[ direct/JJ satellite/NN transmissions/NNS ]
+from/IN 
+[ the/DT West/NN ]
+?/. 
+
+''/'' 
+[ Their/PRP$ second/JJ wistful/JJ question/NN ]
+:/: ``/`` 
+[ What/WP ]
+did/VBD 
+[ you/PRP ]
+do/VB on/IN 
+[ your/PRP$ vacation/NN ]
+?/. 
+
+''/'' 
+======================================
+
+[ The/DT students/NNS ]
+understand/VBP ,/, better/RB than/IN 
+[ their/PRP$ Kremlin/NNP overseers/NNS ]
+,/, 
+[ the/DT liberating/VBG effects/NNS ]
+of/IN 
+[ modern/JJ technology/NN ]
+./. 
+
+[ Orwell/NNP ]
+was/VBD wrong/JJ ./. 
+
+[ Modern/JJ technology/NN ]
+does/VBZ n't/RB sustain/VB 
+[ the/DT totalitarian/JJ state/NN ]
+,/, but/CC causes/VBZ 
+[ it/PRP ]
+to/TO wither/VB away/RB 
+[ as/RB more/JJR knowledge/NN ]
+ (/( 
+[ microchip/JJ power/NN ]
+ )/) is/VBZ put/VBN in/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ individuals/NNS ]
+./. 
+
+Have/VBP 
+[ TV/NN ]
+or/CC 
+[ computer/NN ]
+,/, 
+[ the/DT mind/NN ]
+will/MD travel/VB ./. 
+
+======================================
+
+[ Mr./NNP Merrill/NNP 's/POS idea/NN ]
+for/IN helping/VBG ``/`` 
+[ perestroika/FW ]
+''/'' would/MD be/VB to/TO bombard/VB 
+[ Soviet/JJ citizens/NNS ]
+with/IN 
+[ millions/NNS ]
+of/IN 
+[ old/JJ ]
+ (/( 
+[ 16-byte/JJ ]
+ )/) 
+[ personal/JJ computers/NNS ]
+,/, 
+[ printers/NNS ]
+,/, 
+[ modems/NNS ]
+,/, 
+[ cellular/JJ telephones/NNS ]
+,/, 
+[ VCRs/NNS ]
+,/, 
+[ fax/NN ]
+and/CC 
+[ Xerox/NNP machines/NNS ]
+,/, as/RB well/RB as/IN 
+[ direct/JJ satellite/NN TV/NN ]
+./. 
+
+Imagine/VB 
+[ the/DT subversive/JJ impact/NN ]
+of/IN 
+[ CNN/NNP ]
+,/, 
+[ much/RB less/JJR MTV/NNP ]
+./. 
+
+ (/( Just/RB do/VB n't/RB beam/VB 
+[ C-SPAN/NNP ]
+while/IN 
+[ Congress/NNP ]
+is/VBZ in/IN 
+[ session/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ The/DT Bush/NNP administration/NN ]
+has/VBZ proposed/VBN 
+[ Open/NNP Skies/NNPS ]
+,/, and/CC yesterday/NN 
+[ it/PRP ]
+offered/VBD 
+[ Open/NNP Lands/NNPS ]
+,/, but/CC why/WRB not/RB ``/`` 
+[ Open/NNP Minds/NNPS ]
+''/'' ?/. 
+
+[ Liberating/VBG ]
+
+[ the/DT Xerox/NNP machine/NN ]
+from/IN 
+[ its/PRP$ Gulag/NN ]
+would/MD do/VB more/RBR for/IN ``/`` 
+[ perestroika/FW ]
+''/'' than/IN 
+[ all/DT ]
+of/IN 
+[ the/DT arms/NNS control/NN ]
+ever/RB dreamed/VBD of/IN ./. 

@@ -1,0 +1,48 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Annualized/JJ 
+[ interest/NN rates/NNS ]
+on/IN 
+[ certain/JJ investments/NNS ]
+as/IN reported/VBN by/IN 
+[ the/DT Federal/NNP Reserve/NNP Board/NNP ]
+on/IN 
+[ a/DT weekly-average/JJ basis/NN ]
+:/: 
+======================================
+
+[ a-Discounted/LS|JJ rate/NN ]
+./. 
+
+[ b-Week/LS|NN ]
+ended/VBN 
+[ Wednesday/NNP ]
+,/, 
+[ October/NNP 18/CD ]
+,/, 
+[ 1989/CD ]
+and/CC 
+[ Wednesday/NNP October/NNP 11/CD ]
+,/, 
+[ 1989/CD ]
+./. 
+
+[ c-Yields/LS|NNS ]
+,/, adjusted/VBN for/IN 
+[ constant/JJ maturity/NN ]
+./. 

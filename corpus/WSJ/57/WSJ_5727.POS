@@ -1,0 +1,530 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ the/DT Jim/NNP Wright/NNP ]
+and/CC 
+[ Tony/NNP Coelho/NNP ethics/NN scandals/NNS ]
+,/, 
+[ bills/NNS ]
+have/VBP been/VBN introduced/VBN to/TO 
+[ limit/VB PACs/NNPS ]
+,/, 
+[ ban/VB honorariums/NNS ]
+and/CC restrict/VB lobbying/VBG by/IN 
+[ former/JJ Members/NNPS ]
+and/CC 
+[ congressional/JJ staffers/NNS ]
+./. 
+
+[ Status/NN ]
+:/: 
+[ All/DT ]
+are/VBP stalled/VBN ./. 
+
+But/CC 
+[ one/CD ethics-related/JJ bill/NN ]
+is/VBZ doing/VBG very/RB well/RB ,/, 
+[ this/DT one/NN ]
+to/TO place/VB 
+[ curbs/NNS ]
+on/IN 
+[ the/DT outside/JJ lobbyists/NNS ]
+
+[ who/WP ]
+often/RB compete/VBP with/IN 
+[ Members/NNPS ]
+of/IN 
+[ Congress/NNP ]
+to/TO get/VB 
+[ action/NN ]
+from/IN 
+[ the/DT executive/JJ branch/NN ]
+./. 
+
+[ Its/PRP$ status/NN ]
+:/: Passed/VBN in/IN 
+[ both/DT ]
+
+[ chambers/NNS ]
+,/, with/IN 
+[ approval/NN last/JJ week/NN ]
+in/IN 
+[ the/DT House/NNP ]
+by/IN 
+[ a/DT vote/NN ]
+of/IN 
+[ 410/CD ]
+to/TO 
+[ 3/CD ]
+./. 
+
+[ Any/DT businessman/NN ]
+can/MD see/VB 
+[ what/WP ]
+'s/VBZ going/VBG on/RP here/RB :/: 
+[ Congress/NNP ]
+is/VBZ sticking/VBG 
+[ it/PRP ]
+to/TO 
+[ its/PRP$ competition/NN ]
+./. 
+
+======================================
+
+[ The/DT anti-lobbyist/NN bill/NN ]
+requires/VBZ 
+[ anyone/NN ]
+
+[ who/WP ]
+is/VBZ seeking/VBG 
+[ a/DT federal/JJ contract/NN ]
+or/CC 
+[ grant/NN ]
+to/TO disclose/VB 
+[ the/DT identity/NN ]
+of/IN 
+[ the/DT lobbyist/NN ]
+
+[ who/WP ]
+helped/VBD 
+[ him/PRP ]
+get/VB 
+[ it/PRP ]
+./. 
+
+[ West/NNP Virginia/NNP 's/POS Senator/NNP Robert/NNP Byrd/NNP ]
+devised/VBD 
+[ the/DT bill/NN ]
+after/IN 
+[ a/DT private/JJ lobbyist/NN ]
+beat/VBD 
+[ him/PRP ]
+to/TO 
+[ the/DT pork/NN barrel/NN ]
+for/IN 
+[ one/CD ]
+of/IN 
+[ his/PRP$ constituents/NNS ]
+./. 
+
+======================================
+
+Recall/VB that/IN 
+[ Senator/NNP Byrd/NNP ]
+stepped/VBD down/RP as/IN  
+[ Majority/NNP Leader/NNP last/JJ year/NN ]
+to/TO chair/VB 
+[ the/DT Appropriations/NNPS Committee/NNP ]
+,/, saying/VBG then/RB that/IN 
+[ he/PRP ]
+'d/MD now/RB be/VB in/IN 
+[ a/DT better/JJR position/NN ]
+to/TO funnel/VB 
+[ money/NN ]
+to/TO 
+[ West/NNP Virginia/NNP ]
+./. 
+
+[ Officials/NNS ]
+at/IN 
+[ West/NNP Virginia/NNP University/NNP ]
+discovered/VBD 
+[ last/JJ month/NN ]
+how/WRB seriously/RB 
+[ Senator/NNP Byrd/NNP ]
+took/VBD 
+[ his/PRP$ renewed/VBN commitment/NN ]
+to/TO 
+[ the/DT pork/NN barrel/NN ]
+;/: 
+[ he/PRP ]
+withdrew/VBD 
+[ his/PRP$ support/NN ]
+for/IN 
+[ a/DT ]
+federally/RB 
+[ funded/VBN research/NN center/NN ]
+on/IN 
+[ their/PRP$ campus/NN ]
+./. 
+
+[ The/DT university/NN ]
+had/VBD sinned/VBN against/IN 
+[ Beltway/NNP orthodoxy/NN ]
+by/IN hiring/VBG 
+[ a/DT lobbying/JJ firm/NN ]
+to/TO secure/VB 
+[ funds/NNS ]
+for/IN 
+[ the/DT project/NN ]
+./. 
+
+[ Mr./NNP Byrd/NNP ]
+resented/VBD 
+[ this/DT ]
+./. 
+
+``/`` Why/WRB ,/, ''/'' 
+[ he/PRP ]
+asked/VBD 
+[ the/DT school/NN 's/POS officials/NNS ]
+,/, ``/`` do/VBP 
+[ you/PRP ]
+waste/VB 
+[ your/PRP$ money/NN ]
+on/IN 
+[ a/DT lobbyist/NN ]
+when/WRB 
+[ I/PRP ]
+'m/VBP being/VBG paid/VBN to/TO be/VB 
+[ your/PRP$ Senator/NNP ]
+?/. 
+
+''/'' 
+[ He/PRP ]
+thereupon/RB introduced/VBD 
+[ his/PRP$ anti-lobbying/JJ bill/NN ]
+,/, and/CC 
+[ his/PRP$ colleagues/NNS whooped/VBD ]
+
+[ it/PRP ]
+through/IN 
+[ both/DT ]
+
+[ chambers/NNS ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ the/DT Beltway/NNP ]
+bellows/VBZ on/IN for/IN yet/RB 
+[ another/DT month/NN ]
+about/IN ``/`` 
+[ influence/NN ]
+peddling/VBG ''/'' at/IN 
+[ HUD/NNP ]
+./. 
+
+[ Ethics/NN ]
+aside/RB ,/, 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS interesting/JJ revelations/NNS ]
+from/IN 
+[ the/DT HUD/NNP scandal/NN ]
+is/VBZ that/RB 
+[ so/RB many/JJ developers/NNS ]
+felt/VBD 
+[ they/PRP ]
+had/VBD to/TO bypass/VB 
+[ a/DT ]
+largely/RB 
+[ Democratic/JJ Congress/NNP ]
+and/CC hire/VB 
+[ professional/JJ lobbyists/NNS ]
+to/TO win/VB 
+[ contracts/NNS ]
+from/IN 
+[ a/DT Republican/JJ administration/NN ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, over/IN 
+[ the/DT past/JJ decade/NN ]
+
+[ the/DT number/NN ]
+of/IN 
+[ lobbyists/NNS ]
+has/VBZ gone/VBN up/IN by/IN 
+[ some/DT 50/CD %/NN ]
+./. 
+
+Divided/VBN 
+[ government/NN ]
+is/VBZ fostering/VBG 
+[ competition/NN ]
+--/: and/CC 
+[ Congress/NNP ]
+does/VBZ n't/RB like/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ the/DT Members/NNPS ]
+resent/VBP 
+[ the/DT notion/NN ]
+that/IN 
+[ there/EX ]
+'s/VBZ 
+[ anything/NN ]
+analogous/JJ between/IN 
+[ what/WP ]
+
+[ they/PRP ]
+call/VBP ``/`` 
+[ constituent/JJ service/NN ]
+''/'' --/: 
+[ the/DT pressure/NN ]
+
+[ they/PRP ]
+exert/VBP on/IN 
+[ behalf/NN ]
+of/IN 
+[ special/JJ interests/NNS ]
+or/CC 
+[ campaign/NN contributors/NNS ]
+--/: and/CC 
+[ what/WP ]
+
+[ they/PRP ]
+call/VBP ``/`` 
+[ influence/NN ]
+peddling/VBG ''/'' --/: defined/VBN as/IN 
+[ former/JJ Republican/JJ administration/NN officials/NNS ]
+lobbying/VBG on/IN 
+[ behalf/NN ]
+of/IN paying/VBG 
+[ clients/NNS ]
+./. 
+
+======================================
+
+[ This/DT theological/JJ distinction/NN ]
+was/VBD raised/VBN directly/RB at/IN 
+[ one/CD ]
+of/IN 
+[ the/DT recent/JJ congressional/JJ hearings/NNS ]
+into/IN 
+[ the/DT HUD/NNP scandal/NN ]
+./. 
+
+[ Former/NNP HUD/NNP Regional/NNP Administrator/NNP Joseph/NNP Monticciolo/NNP ]
+had/VBD estimated/VBN that/IN at/IN 
+[ least/JJS half/NN ]
+of/IN 
+[ Section/NNP 8/CD HUD/NNP contract/NN decisions/NNS ]
+were/VBD politically/RB motivated/VBN and/CC went/VBD on/IN to/TO say/VB that/IN 
+[ Members/NNPS ]
+of/IN 
+[ Congress/NNP ]
+as/RB well/RB as/IN 
+[ former/JJ Reagan/NNP administration/NN officials/NNS ]
+had/VBD improperly/RB lobbied/VBN 
+[ HUD/NNP ]
+./. 
+
+======================================
+
+[ Rep./NNP Tom/NNP Lantos/NNP ]
+asked/VBD :/: ``/`` Would/MD 
+[ you/PRP ]
+like/VBP to/TO rephrase/VB 
+[ your/PRP$ last/JJ few/JJ sentences/NNS ]
+,/, because/IN 
+[ they/PRP ]
+did/VBD n't/RB strike/VB 
+[ a/DT very/RB reasonable/JJ chord/NN ]
+?/. 
+
+''/'' 
+[ Mr./NNP Monticciolo/NNP ]
+quickly/RB backed/VBD down/IN from/IN 
+[ his/PRP$ heresy/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+have/VBP 
+[ no/DT real/JJ problem/NN ]
+with/IN 
+[ Senator/NNP Byrd/NNP 's/POS attempt/NN ]
+to/TO force/VB 
+[ lobbyists/NNS ]
+into/IN 
+[ full/JJ disclosure/NN ]
+,/, but/CC why/WRB not/RB mandate/VB 
+[ the/DT same/JJ treatment/NN ]
+for/IN 
+[ Congress/NNP ]
+?/. 
+
+[ Executive-branch/JJ agencies/NNS ]
+already/RB keep/VBP 
+[ thorough/JJ records/NNS ]
+of/IN 
+[ their/PRP$ contacts/NNS ]
+with/IN 
+[ lobbyists/NNS ]
+,/, but/CC not/RB with/IN 
+[ Members/NNPS ]
+of/IN 
+[ Congress/NNP ]
+./. 
+
+[ A/DT good/JJ way/NN ]
+to/TO tell/VB 
+[ which/WDT ]
+
+[ congressional/JJ calls/NNS ]
+to/TO 
+[ an/DT executive/NN agency/NN ]
+are/VBP 
+[ legitimate/JJ business/NN ]
+and/CC 
+[ which/WDT ]
+are/VBP 
+[ Jim/NNP Wright-style/JJ arm-twisting/NNP ]
+would/MD be/VB to/TO have/VB 
+[ the/DT agencies/NNS ]
+publicly/RB report/VB 
+[ all/DT contacts/NNS ]
+with/IN 
+[ Members/NNPS ]
+and/CC 
+[ their/PRP$ staff/NN ]
+on/IN 
+[ specific/NN contracts/NNS ]
+or/CC 
+[ cases/NNS ]
+./. 
+
+======================================
+
+[ This/DT idea/NN ]
+was/VBD actually/RB floated/VBN on/IN 
+[ Capitol/NNP Hill/NNP ]
+,/, and/CC 
+[ Congress/NNP ]
+recoiled/VBD 
+[ more/RBR ]
+or/CC 
+[ less/RBR the/DT way/NN Bela/NNP Lugosi/NNP ]
+did/VBD at/IN 
+[ the/DT sight/NN ]
+of/IN 
+[ a/DT cross/NN ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ Congress/NNP ]
+has/VBZ just/RB made/VBN 
+[ such/JJ reports/NNS ]
+illegal/JJ :/: 
+[ The/DT current/JJ Interior/NNP Department/NNP appropriations/NNS bill/NN ]
+carries/VBZ with/IN 
+[ it/PRP ]
+
+[ a/DT measure/NN ]
+
+[ that/WDT ]
+flatly/RB prohibits/VBZ 
+[ its/PRP$ employees/NNS ]
+from/IN logging/VBG 
+[ any/DT contacts/NNS ]
+with/IN 
+[ the/DT legislative/JJ branch/NN ]
+./. 
+
+======================================
+
+[ What/WP ]
+
+[ 's/POS Congress/NNP afraid/JJ ]
+of/IN ?/. 
+
+Perhaps/RB if/IN 
+[ reporters/NNS ]
+or/CC even/RB 
+[ average/JJ citizens/NNS ]
+had/VBD 
+[ access/NN ]
+to/TO 
+[ a/DT record/NN ]
+of/IN 
+[ such/JJ congressional/JJ interventions/NNS ]
+
+[ it/PRP ]
+'d/MD become/VB 
+[ obvious/JJ ]
+
+[ what/WP ]
+
+[ much/JJ ]
+of/IN 
+[ modern/JJ Washington/NNP ]
+is/VBZ 
+[ all/DT ]
+about/IN ./. 
+
+[ Voters/NNS ]
+might/MD see/VB that/IN 
+[ a/DT Congressman/NNP 's/POS job/NN today/NN ]
+has/VBZ less/RBR to/TO do/VB with/IN forming/VBG 
+[ public/JJ policy/NN ]
+and/CC more/JJR to/TO do/VB with/IN helping/VBG 
+[ special/JJ interests/NNS ]
+get/VB 
+[ their/PRP$ piece/NN ]
+of/IN 
+[ the/DT $/$ 1/CD trillion/CD federal/JJ pie/NN Congress/NNP ]
+bakes/VBZ 
+[ every/DT year/NN ]
+./. 
+
+In/IN 
+[ turn/NN ]
+,/, 
+[ grateful/JJ PACs/NNPS ]
+underwrite/VBP 
+[ their/PRP$ incumbencies/NNS ]
+./. 
+
+======================================
+
+[ It/PRP ]
+will/MD be/VB hard/JJ to/TO take/VB 
+[ Washington/NNP 's/POS handling/NN ]
+of/IN 
+[ the/DT ethics/NN issue/NN ]
+seriously/RB until/IN 
+[ it/PRP ]
+subjects/VBZ 
+[ itself/PRP ]
+to/TO 
+[ the/DT same/JJ commandments/NNS ]
+
+[ it/PRP ]
+keeps/VBZ handing/VBG down/RP for/IN 
+[ everyone/NN ]
+else/RB to/TO obey/VB ./. 
+
+[ The/DT Byrd/NNP lobbying/VBG amendment/NN ]
+should/MD include/VB 
+[ Congress/NNP ]
+./. 

@@ -1,0 +1,422 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+has/VBZ 
+[ the/DT inside/JJ track/NN ]
+in/IN 
+[ the/DT bidding/NN ]
+for/IN 
+[ Lockheed/NNP Corp./NNP 's/POS Cadam/NNP division/NN ]
+and/CC may/MD purchase/VB 
+[ it/PRP ]
+for/IN about/RB 
+[ $/$ 100/CD million/CD ]
+,/, 
+[ industry/NN executives/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ They/PRP ]
+said/VBD 
+[ some/DT Japanese/JJ companies/NNS ]
+--/: notably/RB 
+[ CSK/NNP ]
+,/, 
+[ Japan/NNP 's/POS biggest/JJS software/NN company/NN ]
+--/: are/VBP also/RB participating/VBG in/IN 
+[ the/DT bidding/NN ]
+
+[ that/WDT ]
+Lockheed/NNP solicited/VBD in/IN 
+[ April/NNP ]
+,/, when/WRB 
+[ it/PRP ]
+announced/VBD that/IN 
+[ it/PRP ]
+hoped/VBD to/TO sell/VB 
+[ its/PRP$ information-systems/JJ operations/NNS ]
+./. 
+
+But/CC 
+[ the/DT executives/NNS ]
+said/VBD 
+[ IBM/NNP ]
+is/VBZ 
+[ the/DT front-runner/NN ]
+to/TO acquire/VB 
+[ Cadam/NNP ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ software/NN ]
+for/IN 
+[ computer-aided/JJ design/NN ]
+and/CC manufacturing/NN ./. 
+
+[ The/DT winner/NN ]
+is/VBZ expected/VBN to/TO be/VB announced/VBN within/IN 
+[ two/CD ]
+or/CC 
+[ three/CD weeks/NNS ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+,/, 
+[ Armonk/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, and/CC 
+[ Lockheed/NNP ]
+,/, 
+[ Calabasas/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, declined/VBD to/TO comment/VB ./. 
+
+[ CSK/NNP officials/NNS ]
+could/MD n't/RB be/VB reached/VBN ./. 
+
+======================================
+
+[ The/DT industry/NN executives/NNS ]
+said/VBD 
+[ Cadam/NNP ]
+had/VBD 
+[ revenue/NN ]
+of/IN just/RB 
+[ $/$ 84/CD million/CD ]
+in/IN 
+[ 1988/CD ]
+and/CC has/VBZ been/VBN losing/VBG 
+[ money/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+said/VBD 
+[ its/PRP$ software/NN ]
+has/VBZ 
+[ a/DT loyal/JJ following/NN ]
+and/CC has/VBZ 
+[ strategic/JJ value/NN ]
+./. 
+
+While/IN 
+[ such/JJ software/NN ]
+initially/RB began/VBD as/IN 
+[ a/DT computerized/JJ drafting/NN tool/NN ]
+,/, 
+[ its/PRP$ capability/NN ]
+has/VBZ expanded/VBN to/TO include/VB modeling/NN and/CC 
+[ analysis/NN ]
+of/IN 
+[ design/NN ]
+./. 
+
+======================================
+
+[ The/DT software/NN ]
+also/RB seems/VBZ likely/JJ to/TO play/VB 
+[ an/DT ]
+increasingly/RB 
+[ larger/JJR role/NN ]
+in/IN 
+[ computer-integrated/JJ ]
+manufacturing/NN ,/, 
+[ an/DT area/NN ]
+on/IN 
+[ which/WDT ]
+
+[ many/JJ computer/NN companies/NNS ]
+are/VBP focusing/VBG ./. 
+
+Although/IN 
+[ companies/NNS ]
+have/VBP succeeded/VBN in/IN computerizing/VBG 
+[ offices/NNS ]
+,/, 
+[ efforts/NNS ]
+in/IN 
+[ the/DT factory/NN ]
+have/VBP faltered/VBN ,/, and/CC 
+[ many/JJ companies/NNS ]
+think/VBP 
+[ there/EX ]
+will/MD be/VB 
+[ major/JJ opportunities/NNS ]
+
+[ there/RB ]
+in/IN coming/VBG 
+[ years/NNS ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+is/VBZ especially/RB interested/VBN in/IN 
+[ Cadam/NNP ]
+,/, 
+[ the/DT industry/NN executives/NNS ]
+said/VBD ,/, because/IN about/RB 
+[ two-thirds/NNS ]
+of/IN 
+[ the/DT IBM/NNP customers/NNS ]
+
+[ who/WP ]
+use/VBP 
+[ powerful/JJ computer-aided-design/JJ tools/NNS ]
+use/VBP 
+[ Cadam/NNP software/NN ]
+./. 
+
+And/CC 
+[ IBM/NNP ]
+has/VBZ been/VBN very/RB active/JJ lately/RB in/IN making/VBG 
+[ alliances/NNS ]
+with/IN 
+[ companies/NNS ]
+
+[ that/WDT ]
+develop/VBP 
+[ software/NN ]
+that/IN 
+[ it/PRP ]
+considers/VBZ 
+[ strategic/JJ ]
+./. 
+
+======================================
+
+[ Cadam/NNP software/NN ]
+runs/VBZ primarily/RB on/IN 
+[ IBM/NNP minicomputers/NNS ]
+and/CC 
+[ mainframes/NNS ]
+./. 
+
+[ The/DT company/NN ]
+recently/RB branched/VBN out/RP ,/, however/RB ,/, by/IN designing/VBG 
+[ its/PRP$ software/NN ]
+to/TO run/VB on/IN 
+[ machines/NNS ]
+of/IN 
+[ IBM/NNP competitors/NNS ]
+,/, 
+[ a/DT reason/NN ]
+for/IN 
+[ IBM/NNP ]
+to/TO want/VB to/TO ensure/VB that/IN 
+[ Cadam/NNP ]
+stays/VBZ loyal/JJ to/TO 
+[ IBM/NNP hardware/NN ]
+in/IN 
+[ the/DT future/NN ]
+./. 
+
+======================================
+
+[ Lockheed/NNP ]
+had/VBD said/VBD in/IN 
+[ April/NNP ]
+that/IN 
+[ it/PRP ]
+wanted/VBD to/TO sell/VB 
+[ its/PRP$ information-systems/NNS operations/NNS ]
+so/IN 
+[ it/PRP ]
+could/MD focus/VB on/IN 
+[ its/PRP$ military/JJ ]
+and/CC 
+[ commercial/JJ aerospace/NN ]
+and/CC 
+[ electronics/NN businesses/NNS ]
+./. 
+
+[ Securities/NNS analysts/NNS ]
+said/VBD at/IN 
+[ the/DT time/NN ]
+that/IN 
+[ the/DT units/NNS ]
+--/: 
+[ Cadam/NNP ]
+,/, 
+[ CalComp/NNP ]
+,/, 
+[ Metier/NNP ]
+and/CC 
+[ Lockheed/NNP DataPlan/NNP ]
+--/: accounted/VBD for/IN 
+[ some/DT $/$ 600/CD million/CD ]
+of/IN 
+[ Lockheed/NNP 's/POS $/$ 10.59/CD billion/CD ]
+of/IN 
+[ annual/JJ revenue/NN ]
+and/CC could/MD be/VB sold/VBN for/IN roughly/RB 
+[ the/DT amount/NN ]
+of/IN 
+[ their/PRP$ sales/NNS ]
+./. 
+
+======================================
+
+[ The/DT Cadam/NNP negotiations/NNS ]
+,/, however/RB ,/, have/VBP apparently/RB been/VBN 
+[ a/DT disappointment/NN ]
+./. 
+
+[ The/DT industry/NN executives/NNS ]
+said/VBD Lockheed/VBN 
+[ 's/POS investment/NN bankers/NNS ]
+tried/VBD to/TO stir/VB up/RP 
+[ a/DT bidding/NN war/NN ]
+by/IN pitting/VBG 
+[ IBM/NNP ]
+against/IN 
+[ the/DT Japanese/JJ companies/NNS ]
+,/, in/IN 
+[ hopes/NNS ]
+of/IN getting/VBG 
+[ a/DT price/NN ]
+as/RB high/JJ as/IN 
+[ $/$ 200/CD million/CD ]
+./. 
+
+But/CC when/WRB 
+[ various/JJ overhead/JJ costs/NNS ]
+were/VBD split/VBN up/RP and/CC assigned/VBN to/TO 
+[ the/DT different/JJ units/NNS ]
+,/, 
+[ Cadam/NNP 's/POS losses/NNS ]
+turned/VBD out/RP to/TO be/VB steeper/JJR than/IN expected/VBN ,/, and/CC 
+[ the/DT anticipated/VBN price/NN ]
+fell/VBD ./. 
+
+======================================
+
+[ Separately/RB ]
+,/, 
+[ IBM/NNP ]
+said/VBD 
+[ it/PRP ]
+has/VBZ begun/VBN 
+[ shipping/VBG circuit/NN boards/NNS ]
+
+[ that/WDT ]
+contain/VBP 
+[ an/DT Intel/NNP Corp./NNP 80486/CD central/JJ processor/NN ]
+,/, becoming/VBG 
+[ the/DT first/JJ personal-computer/NN maker/NN ]
+to/TO offer/VB 
+[ products/NNS ]
+using/VBG 
+[ the/DT powerful/JJ processor/NN ]
+./. 
+
+======================================
+
+[ IBM/NNP ]
+made/VBD 
+[ hay/NN ]
+
+[ this/DT summer/NN ]
+by/IN being/VBG 
+[ the/DT first/JJ manufacturer/NN ]
+to/TO announce/VB 
+[ a/DT 486-based/JJ product/NN ]
+,/, and/CC delivering/VBG 
+[ it/PRP ]
+now/RB ,/, 
+[ a/DT quarter/NN ]
+ahead/RB of/IN 
+[ schedule/NN ]
+,/, lets/VBZ 
+[ IBM/NNP ]
+keep/VB 
+[ those/DT ]
+bragging/NN 
+[ rights/NNS ]
+./. 
+
+[ IBM/NNP ]
+has/VBZ developed/VBN 
+[ a/DT reputation/NN ]
+as/IN 
+[ a/DT technological/JJ laggard/NN ]
+in/IN 
+[ the/DT personal-computer/NN arena/NN ]
+and/CC is/VBZ doing/VBG 
+[ everything/NN ]
+
+[ it/PRP ]
+can/MD to/TO change/VB 
+[ that/DT image/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ the/DT announcement/NN ]
+is/VBZ likely/JJ to/TO have/VB 
+[ little/JJ immediate/JJ effect/NN ]
+on/IN 
+[ the/DT market/NN ]
+./. 
+
+[ IBM/NNP 's/POS product/NN ]
+is/VBZ just/RB 
+[ a/DT circuit/NN board/NN ]
+
+[ that/WDT ]
+can/MD be/VB used/VBN to/TO upgrade/VB 
+[ an/DT existing/VBG machine/NN ]
+,/, and/CC 
+[ customers/NNS ]
+interested/VBN in/IN 
+[ a/DT hot/JJ new/JJ processor/NN ]
+typically/RB want/VBP 
+[ a/DT machine/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN tuned/VBN to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ all/DT its/PRP$ capabilities/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ 486/CD chips/NNS ]
+have/VBP been/VBN in/IN 
+[ short/JJ supply/NN ]
+because/IN of/IN manufacturing/NN 
+[ problems/NNS ]
+at/IN 
+[ Intel/NNP ]
+,/, so/IN 
+[ it/PRP ]
+will/MD be/VB 
+[ several/JJ weeks/NNS ]
+before/IN 
+[ the/DT IBM/NNP board/NN ]
+will/MD be/VB generally/RB available/JJ ./. 

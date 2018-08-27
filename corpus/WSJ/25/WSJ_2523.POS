@@ -1,0 +1,742 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Co./NNP ]
+announced/VBD 
+[ a/DT major/JJ management/NN ]
+restructuring/NN 
+[ that/WDT ]
+appears/VBZ to/TO shift/VB 
+[ Maurice/NNP Saatchi/NNP ]
+,/, 
+[ a/DT co-founder/NN ]
+of/IN 
+[ the/DT company/NN ]
+,/, away/RB from/IN 
+[ day-to-day/JJ responsibilities/NNS ]
+./. 
+
+======================================
+
+Meanwhile/RB ,/, 
+[ Carl/NNP Spielvogel/NNP ]
+,/, 
+[ a/DT top/JJ Saatchi/NNP unit/NN executive/NN ]
+,/, said/VBD 
+[ he/PRP ]
+has/VBZ offered/VBN to/TO lead/VB 
+[ a/DT management/NN ]
+buy-out/NN of/IN 
+[ the/DT troubled/VBN British/JJ ]
+advertising/NN and/CC 
+[ consulting/NN giant/NN ]
+,/, but/CC was/VBD rebuffed/VBN ./. 
+
+======================================
+
+Under/IN 
+[ the/DT ]
+restructuring/NN ,/, 
+[ Robert/NNP Louis-Dreyfus/NNP ]
+,/, 
+[ 43/CD years/NNS ]
+old/JJ ,/, 
+[ a/DT French/JJ entrepreneur/NN ]
+
+[ who/WP ]
+until/IN 
+[ last/JJ year/NN ]
+headed/VBD 
+[ the/DT research/NN concern/NN IMS/NNP International/NNP Inc./NNP ]
+,/, will/MD join/VB 
+[ Jan./NNP 1/CD ]
+as/IN 
+[ chief/JJ executive/JJ officer/NN ]
+,/, succeeding/VBG 
+[ Mr./NNP Saatchi/NNP ]
+./. 
+
+[ Mr./NNP Saatchi/NNP ]
+,/, 
+[ 43/CD ]
+,/, remains/VBZ 
+[ chairman/NN ]
+and/CC will/MD continue/VB to/TO guide/VB 
+[ long-term/JJ strategies/NNS ]
+,/, while/IN 
+[ Mr./NNP Dreyfus/NNP ]
+will/MD concentrate/VB first/RB on/IN repairing/VBG 
+[ the/DT company/NN 's/POS poor/JJ financial/JJ state/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Spielvogel/NNP ]
+,/, 
+[ chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+of/IN 
+[ Saatchi/NNP 's/POS Backer/NNP Spielvogel/NNP Bates/NNP unit/NN ]
+,/, said/VBD 
+[ he/PRP ]
+is/VBZ interested/VBN either/RB in/IN 
+[ a/DT management/NN ]
+buy-out/NN and/CC restructuring/NN of/IN 
+[ the/DT entire/JJ firm/NN ]
+,/, or/CC 
+[ a/DT management/NN ]
+buy-out/NN of/IN 
+[ Backer/NNP Spielvogel/NNP ]
+alone/RB ./. 
+
+[ Mr./NNP Spielvogel/NNP ]
+said/VBD 
+[ Prudential-Bache/NNP Securities/NNP ]
+,/, 
+[ a/DT Backer/NNP Spielvogel/NNP advertising/NN client/NN ]
+,/, is/VBZ prepared/VBN to/TO back/VB 
+[ him/PRP ]
+financially/RB ./. 
+
+[ The/DT executive/NN ]
+said/VBD 
+[ he/PRP ]
+did/VBD n't/RB propose/VB 
+[ a/DT specific/JJ price/NN ]
+./. 
+
+[ Analysts/NNS ]
+believe/VBP 
+[ Saatchi/NNP ]
+would/MD fetch/VB 
+[ upwards/RB ]
+of/IN 
+[ $/$ 1.3/CD billion/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Spielvogel/NNP ]
+confirmed/VBD 
+[ he/PRP ]
+first/RB approached/VBD 
+[ Maurice/NNP Saatchi/NNP 's/POS brother/NN ]
+,/, 
+[ Charles/NNP ]
+,/, on/IN 
+[ May/NNP 24/CD ]
+and/CC suggested/VBD 
+[ a/DT buy-out/NN ]
+of/IN 
+[ either/DT ]
+
+[ the/DT entire/JJ firm/NN ]
+,/, with/IN 
+[ managers/NNS ]
+of/IN 
+[ Saatchi/NNP 's/POS advertising/NN units/NNS  ]
+participating/VBG ,/, or/CC of/IN 
+[ the/DT Backer/NNP Spielvogel/NNP unit/NN ]
+./. 
+
+[ Charles/NNP Saatchi/NNP has/VBZ n't/RB ]
+been/VBN actively/RB involved/VBN in/IN 
+[ day-to-day/JJ management/NN ]
+for/IN 
+[ several/JJ years/NNS ]
+,/, but/CC 
+[ he/PRP ]
+remains/VBZ 
+[ a/DT director/NN ]
+and/CC is/VBZ widely/RB believed/VBN to/TO be/VB 
+[ the/DT company/NN 's/POS major/JJ strategist/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ the/DT time/NN ]
+,/, 
+[ Charles/NNP Saatchi/NNP ]
+declined/VBD ./. 
+
+[ Mr./NNP Spielvogel/NNP ]
+replied/VBD that/IN 
+[ he/PRP ]
+
+[ was/VBD n't/RB ]
+interested/VBN in/IN 
+[ a/DT hostile/JJ attempt/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Spielvogel/NNP ]
+repeated/VBD 
+[ his/PRP$ offer/NN ]
+yesterday/NN ,/, 
+[ he/PRP ]
+said/VBD ,/, when/WRB 
+[ Mr./NNP Saatchi/NNP ]
+called/VBD to/TO tell/VB 
+[ him/PRP ]
+about/IN 
+[ the/DT management/NN ]
+restructuring/NN ./. 
+
+``/`` 
+[ I/PRP ]
+said/VBD ,/, `/`` 
+[ Charles/NNP ]
+,/, 
+[ that/WDT ]
+'s/VBZ fine/JJ ,/, and/CC 
+[ I/PRP ]
+hope/VBP 
+[ everything/NN ]
+works/VBZ out/RP well/RB ,/, and/CC 
+[ I/PRP ]
+would/MD like/VB to/TO remind/VB 
+[ you/PRP ]
+of/IN 
+[ our/PRP$ earlier/JJR conversation/NN ]
+./. 
+
+[ That/DT offer/NN ]
+still/RB holds/VBZ 
+[ true/JJ ]
+,/, '/'' ''/'' 
+[ Mr./NNP Spielvogel/NNP ]
+said/VBD ./. 
+
+[ He/PRP ]
+said/VBD 
+[ Mr./NNP Saatchi/NNP ]
+again/RB replied/VBD that/IN 
+[ he/PRP ]
+was/VBD n't/RB interested/JJ ./. 
+
+[ Mr./NNP Saatchi/NNP ]
+could/MD n't/RB be/VB reached/VBN ./. 
+
+======================================
+
+[ Mr./NNP Louis-Dreyfus/NNP ]
+will/MD have/VB to/TO contend/VB with/IN 
+[ a/DT company/NN ]
+in/IN 
+[ turmoil/NN ]
+./. 
+
+[ Saatchi/NNP 's/POS advertising/NN business/NN ]
+is/VBZ performing/VBG poorly/RB ,/, 
+[ its/PRP$ ]
+troubled/VBN 
+[ consulting/NN business/NN ]
+is/VBZ on/IN 
+[ the/DT block/NN ]
+,/, and/CC 
+[ its/PRP$ stock/NN ]
+has/VBZ been/VBN buffetted/VBN by/IN 
+[ takeover/NN rumors/NNS ]
+./. 
+
+[ Southeastern/NNP Asset/NNP Management/NNP ]
+,/, 
+[ Saatchi/NNP 's/POS largest/JJS shareholder/NN ]
+with/IN 
+[ a/DT 10.24/CD %/NN stake/NN ]
+,/, said/VBD earlier/RBR 
+[ this/DT week/NN ]
+that/IN 
+[ it/PRP ]
+had/VBD been/VBN approached/VBN by/IN 
+[ some/DT third/JJ parties/NNS ]
+interested/VBN in/IN 
+[ possible/JJ restructuring/NN transactions/NNS ]
+./. 
+
+[ Southeastern/NNP ]
+declined/VBD 
+[ comment/NN ]
+yesterday/NN ./. 
+
+======================================
+
+[ Some/DT analysts/NNS ]
+and/CC 
+[ Saatchi/NNP insiders/NNS ]
+were/VBD skeptical/JJ that/IN 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+would/MD be/VB able/JJ to/TO call/VB 
+[ the/DT shots/NNS ]
+at/IN 
+[ Saatchi/NNP ]
+,/, saying/VBG 
+[ the/DT brothers/NNS ]
+would/MD likely/RB wield/VB 
+[ control/NN ]
+just/RB as/IN 
+[ they/PRP ]
+always/RB have/VBP ./. 
+
+[ Saatchi/NNP ]
+has/VBZ brought/VBN in/IN 
+[ a/DT series/NN ]
+of/IN 
+[ outsiders/NNS ]
+to/TO 
+[ top/JJ positions/NNS ]
+,/, including/VBG 
+[ Anthony/NNP Simonds-Gooding/NNP ]
+,/, 
+[ who/WP ]
+was/VBD 
+[ chief/JJ executive/NN ]
+of/IN 
+[ its/PRP$ communications/NNS business/NN ]
+until/IN 
+[ he/PRP ]
+left/VBD in/IN 
+[ 1987/CD ]
+./. 
+
+But/CC 
+[ the/DT outsiders/NNS ]
+have/VBP n't/RB yet/RB been/VBN able/JJ to/TO crack/VB 
+[ Saatchi/NNP 's/POS clubby/JJ inner/JJ circle/NN ]
+,/, or/CC to/TO have/VB 
+[ significant/JJ influence/NN ]
+on/IN 
+[ company/NN strategy/NN ]
+./. 
+
+And/CC 
+[ analysts/NNS ]
+believe/VBP 
+[ the/DT company/NN ]
+has/VBZ lacked/VBN 
+[ direction/NN ]
+since/IN 
+[ 1986/CD ]
+,/, when/WRB 
+[ Martin/NNP Sorrell/NNP ]
+,/, 
+[ the/DT top/JJ financial/JJ officer/NN ]
+,/, left/VBD to/TO build/VB up/IN 
+[ rival/JJ WPP/NNP Group/NNP ]
+
+======================================
+
+Nevertheless/RB ,/, in/IN 
+[ an/DT interview/NN ]
+,/, 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+will/MD be/VB having/VBG 
+[ the/DT final/JJ say/NN ]
+./. 
+
+If/IN 
+[ I/PRP ]
+did/VBD n't/RB think/VB 
+[ that/DT ]
+was/VBD 
+[ the/DT case/NN ]
+,/, 
+[ I/PRP ]
+would/MD n't/RB have/VB come/VBN to/TO 
+[ the/DT company/NN ]
+./. 
+
+''/'' And/CC 
+[ analysts/NNS ]
+said/VBD that/IN if/IN 
+[ any/DT outsider/NN ]
+were/VBD able/JJ to/TO succeed/VB at/IN 
+[ Saatchi/NNP ]
+,/, 
+[ it/PRP ]
+would/MD be/VB 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Louis-Dreyfus/NNP ]
+,/, 
+[ a/DT member/NN ]
+of/IN 
+[ one/CD ]
+of/IN 
+[ the/DT wealthiest/JJS families/NNS ]
+in/IN 
+[ France/NNP ]
+,/, joined/VBD 
+[ IMS/NNP ]
+as/IN 
+[ chief/JJ operating/NN officer/NN ]
+in/IN 
+[ 1982/CD ]
+and/CC later/RBR became/VBD 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+./. 
+
+When/WRB 
+[ he/PRP ]
+joined/VBD 
+[ the/DT firm/JJ ]
+,/, 
+[ its/PRP$ market/NN capitalization/NN ]
+was/VBD about/RB 
+[ $/$ 230/CD million/CD ]
+;/: by/IN 
+[ last/JJ year/NN ]
+,/, 
+[ Dun/NNP ]
+&/CC 
+[ Bradstreet/NNP Corp./NNP ]
+bought/VBD 
+[ it/PRP ]
+for/IN 
+[ $/$ 1.7/CD billion/CD ]
+./. 
+
+[ He/PRP ]
+has/VBZ also/RB been/VBN involved/VBN with/IN 
+[ a/DT family-owned/JJ company/NN ]
+,/, 
+[ Louis-Dreyfus/NNP ]
+et/NNP 
+[ Cie./NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ France/NNP 's/POS largest/JJS private/JJ firm/NN ]
+and/CC 
+[ one/CD ]
+of/IN 
+[ the/DT world/NN 's/POS largest/JJS grain-trading/JJ firms/NNS ]
+./. 
+
+======================================
+
+[ Executives/NNS ]
+
+[ who/WP ]
+know/VBP 
+[ him/PRP ]
+say/VBP 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+works/VBZ 
+[ non-stop/JJ ]
+,/, travels/VBZ constantly/RB and/CC is/VBZ at/IN 
+[ his/PRP$ best/JJS ]
+in/IN 
+[ turnaround/NN situations/NNS ]
+./. 
+
+[ Several/JJ ]
+compared/VBN 
+[ him/PRP ]
+with/IN 
+[ Mr./NNP Sorrell/NNP ]
+,/, 
+[ who/WP ]
+since/IN leaving/VBG 
+[ Saatchi/NNP ]
+has/VBZ been/VBN 
+[ successful/JJ ]
+building/VBG 
+[ his/PRP$ own/JJ ad/NN agency/NN group/NN ]
+by/IN concentrating/VBG on/IN 
+[ strict/JJ financial/JJ management/NN ]
+./. 
+
+Indeed/RB ,/, 
+[ Saatchi/NNP ]
+--/: while/IN 
+[ Mr./NNP Sorrell/NNP ]
+was/VBD 
+[ there/EX ]
+--/: tried/VBD unsuccessfully/RB to/TO buy/VB 
+[ IMS/NNP several/JJ years/NNS ]
+ago/RB ./. 
+
+======================================
+
+[ Analysts/NNS ]
+believe/VBP 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+may/MD have/VB more/JJR say/NN than/IN 
+[ other/JJ outsiders/NNS ]
+
+[ who/WP ]
+have/VBP joined/VBN 
+[ Saatchi/NNP ]
+,/, 
+[ both/DT ]
+because/IN 
+[ the/DT company/NN ]
+is/VBZ troubled/VBN and/CC because/IN 
+[ he/PRP ]
+is/VBZ wealthy/JJ enough/RB to/TO leave/VB if/IN 
+[ the/DT brothers/NNS ]
+do/VBP n't/RB listen/VB ./. 
+
+[ Mr./NNP Louis-Dreyfus/NNP ]
+also/RB comes/VBZ to/TO 
+[ Saatchi/NNP complete/JJ ]
+with/IN 
+[ an/DT ally/NN ]
+:/: 
+[ He/PRP ]
+is/VBZ bringing/VBG with/IN 
+[ him/PRP ]
+
+[ Charles/NNP Scott/NNP ]
+,/, 
+[ 40/CD ]
+,/, 
+[ who/WP ]
+had/VBD been/VBN 
+[ chief/JJ financial/JJ officer/NN ]
+at/IN 
+[ IMS/NNP ]
+and/CC will/MD become/VB 
+[ Saatchi/NNP 's/POS group/NN financial/JJ director/NN ]
+./. 
+
+[ Both/DT ]
+will/MD become/VB 
+[ members/NNS ]
+of/IN 
+[ Saatchi/NNP 's/POS board/NN ]
+./. 
+
+======================================
+
+[ Saatchi/NNP ]
+``/`` has/VBZ brought/VBN in/IN 
+[ somebody/NN ]
+from/IN 
+[ the/DT outside/NN ]
+before/RB ;/: 
+[ that/DT ]
+'s/VBZ 
+[ nothing/NN ]
+./. 
+
+[ The/DT one/CD difference/NN ]
+is/VBZ ,/, {/( 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+ }/) is/VBZ bringing/VBG in/IN 
+[ an/DT ally/NN ]
+,/, ''/'' noted/VBD 
+[ Emma/NNP Hill/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Wertheim/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+``/`` But/CC 
+[ Saatchi/NNP ]
+has/VBZ always/RB struck/VBN 
+[ me/PRP ]
+as/IN 
+[ a/DT club/NN ]
+,/, and/CC 
+[ I/PRP ]
+think/VBP 
+[ the/DT question/NN ]
+is/VBZ ,/, can/MD 
+[ he/PRP ]
+become/VB 
+[ part/NN ]
+of/IN 
+[ the/DT club/NN ]
+or/CC change/VB 
+[ the/DT club/NN ]
+,/, or/CC does/VBZ 
+[ he/PRP ]
+quit/VB because/IN 
+[ he/PRP ]
+ca/MD n't/RB change/VB 
+[ it/PRP ]
+?/. 
+
+''/'' 
+======================================
+
+In/IN 
+[ the/DT interview/NN ]
+,/, 
+[ Mr./NNP Louis-Dreyfus/NNP ]
+said/VBD 
+[ he/PRP ]
+hoped/VBD ``/`` 
+[ the/DT bulk/NN ]
+''/'' of/IN 
+[ Saatchi/NNP 's/POS consulting/NN operations/NNS ]
+would/MD be/VB sold/VBN in/IN 
+[ the/DT next/JJ six/CD months/NNS ]
+,/, so/RB that/IN 
+[ he/PRP ]
+can/MD concentrate/VB on/IN 
+[ Saatchi/NNP 's/POS core/NN ]
+advertising/NN 
+[ businesses/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+would/MD at/IN 
+[ first/RBS attempt/VB ]
+to/TO help/VB sell/VB 
+[ the/DT consulting/VBG operations/NNS ]
+,/, and/CC then/RB turn/VB to/TO cost/NN 
+[ control/NN ]
+at/IN 
+[ the/DT remainder/NN ]
+of/IN 
+[ the/DT company/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+said/VBD 
+[ he/PRP ]
+does/VBZ n't/RB expect/VB 
+[ more/JJR layoffs/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Louis-Dreyfus/NNP ]
+also/RB will/MD be/VB charged/VBN with/IN helping/VBG improve/VB 
+[ morale/NN ]
+and/CC repairing/VBG 
+[ Saatchi/NNP 's/POS battered/VBN reputation/NN ]
+among/IN 
+[ investors/NNS ]
+--/: 
+[ a/DT process/NN ]
+
+[ that/WDT ]
+may/MD be/VB starting/VBG already/RB :/: 
+[ Analysts/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+and/CC 
+[ London/NNP ]
+said/VBD 
+[ Maurice/NNP Saatchi/NNP ]
+phoned/VBD 
+[ them/PRP ]
+personally/RB yesterday/NN to/TO tell/VB 
+[ them/PRP ]
+of/IN 
+[ the/DT management/NN change/NN ]
+./. 
+
+======================================
+
+[ Several/JJ industry/NN executives/NNS ]
+said/VBD 
+[ they/PRP ]
+expected/VBD 
+[ Mr./NNP Louis-Dreyfus/NNP 's/POS appointment/NN ]
+to/TO prompt/VB 
+[ the/DT departure/NN ]
+of/IN 
+[ the/DT co-chief/JJ executives/NNS ]
+of/IN 
+[ Saatchi/NNP 's/POS ad/NN business/NN ]
+./. 
+
+But/CC 
+[ Terry/NNP Bannister/NNP ]
+,/, 
+[ who/WP ]
+shares/VBZ 
+[ the/DT chief/JJ executive/NN title/NN ]
+with/IN 
+[ Roy/NNP Warman/NNP ]
+,/, said/VBD 
+[ neither/DT man/NN ]
+will/MD leave/VB ./. 
+
+======================================
+
+[ Mr./NNP Louis-Dreyfus/NNP ]
+also/RB 
+[ shares/VBZ ]
+with/IN 
+[ Saatchi/NNP grand/JJ visions/NNS ]
+of/IN growing/VBG as/RB big/JJ as/IN 
+[ possible/JJ ]
+as/RB quickly/RB as/IN 
+[ possible/JJ ]
+;/: 
+[ he/PRP ]
+said/VBD 
+[ his/PRP$ goal/NN ]
+is/VBZ to/TO command/VB ``/`` 
+[ 20/CD %/NN ]
+of/IN 
+[ the/DT advertising/NN business/NN ]
+in/IN 
+[ every/DT part/NN ]
+
+[ the/DT world/NN ]
+./. 
+
+''/'' 
+[ The/DT executive/NN ]
+added/VBD that/IN 
+[ he/PRP ]
+is/VBZ n't/RB concerned/VBN about/IN 
+[ the/DT takeover/NN speculation/NN ]
+
+[ that/WDT ]
+has/VBZ dogged/VBN 
+[ the/DT company/NN ]
+of/IN late/RB ./. 
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB think/VB 
+[ I/PRP ]
+would/MD have/VB joined/VBN 
+[ the/DT company/NN ]
+if/IN 
+[ I/PRP ]
+was/VBD afraid/JJ of/IN 
+[ a/DT takeover/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

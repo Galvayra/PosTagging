@@ -1,0 +1,917 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ John/NNP F./NNP Sandner/NNP ]
+received/VBD 
+[ investment/NN income/NN ]
+from/IN 
+[ one/CD ]
+of/IN 
+[ the/DT Chicago/NNP Mercantile/NNP Exchange/NNP 's/POS most/JJS active/JJ broker/NN groups/NNS ]
+while/IN serving/VBG on/IN 
+[ a/DT ]
+``/`` 
+[ blue-ribbon/JJ ]
+''/'' 
+[ panel/NN ]
+
+[ that/WDT ]
+was/VBD convened/VBN 
+[ this/DT year/NN ]
+to/TO recommend/VB 
+[ rule/NN changes/NNS ]
+affecting/VBG 
+[ Merc/NNP floor/NN broker/NN groups/NNS ]
+and/CC 
+[ others/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+,/, 
+[ a/DT six-time/JJ former/JJ chairman/NN ]
+of/IN 
+[ the/DT Merc/NNP ]
+,/, currently/RB holds/VBZ 
+[ the/DT title/NN ]
+of/IN 
+[ senior/JJ policy/NN adviser/NN ]
+at/IN 
+[ the/DT exchange/NN ]
+./. 
+
+[ He/PRP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ nine/CD people/NNS ]
+
+[ the/DT Merc/NNP ]
+appointed/VBD in/IN 
+[ late/JJ January/NNP ]
+to/TO review/VB 
+[ possible/JJ rule/NN changes/NNS ]
+in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ the/DT federal/JJ investigation/NN ]
+of/IN 
+[ Chicago/NNP 's/POS trading/NN pits/NNS ]
+,/, including/VBG 
+[ possible/JJ steps/NNS ]
+to/TO curtail/VB 
+[ activities/NNS ]
+of/IN 
+[ broker/NN groups/NNS ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, just/RB 
+[ a/DT few/JJ weeks/NNS ]
+later/RB ,/, 
+[ Mr./NNP Sandner/NNP ]
+elected/VBD to/TO begin/VB receiving/VBG 
+[ payments/NNS ]
+in/IN 
+[ connection/NN ]
+with/IN 
+[ an/DT investment/NN ]
+in/IN 
+[ the/DT broker/NN group/NN ABS/NNP Partners/NNPS ]
+./. 
+
+[ A/DT Merc/NNP member/NN ]
+familiar/JJ with/IN 
+[ ABS/NNP Partners/NNPS ]
+estimated/VBD 
+[ Mr./NNP Sandner/NNP 's/POS income/NN ]
+from/IN 
+[ the/DT group/NN ]
+at/IN between/IN 
+[ $/$ 50,000/CD ]
+and/CC 
+[ $/$ 100,000/CD ]
+annually/RB ./. 
+
+======================================
+
+[ Four/CD members/NNS ]
+of/IN 
+[ ABS/NNP ]
+were/VBD widely/RB known/VBN among/IN 
+[ Merc/NNP members/NNS ]
+to/TO be/VB 
+[ targets/NNS ]
+of/IN 
+[ the/DT federal/JJ investigation/NN ]
+of/IN 
+[ futures/NNS ]
+trading/NN in/IN 
+[ March/NNP ]
+,/, when/WRB 
+[ Mr./NNP Sandner/NNP ]
+decided/VBD to/TO begin/VB 
+[ receiving/VBG income/NN ]
+from/IN 
+[ the/DT group/NN ]
+./. 
+
+[ The/DT four/CD ]
+were/VBD indicted/VBN in/IN 
+[ August/NNP ]
+on/IN 
+[ criminal/JJ fraud/NN charges/NNS ]
+and/CC subsequently/RB pleaded/VBD 
+[ innocent/JJ ]
+./. 
+
+======================================
+
+[ The/DT apparent/JJ conflict/NN ]
+between/IN 
+[ Mr./NNP Sandner/NNP 's/POS investment/NN ]
+and/CC 
+[ his/PRP$ role/NN ]
+on/IN 
+[ the/DT special/JJ panel/NN ]
+could/MD stir/VB 
+[ controversy/NN ]
+./. 
+
+[ The/DT Merc/NNP set/VBD ]
+up/RP 
+[ the/DT panel/NN ]
+to/TO 
+[ head/VB ]
+off/IN 
+[ outside/JJ reform/NN efforts/NNS ]
+./. 
+
+But/CC if/IN 
+[ the/DT panel/NN 's/POS findings/NNS ]
+are/VBP impugned/VBN ,/, 
+[ regulators/NNS ]
+could/MD take/VB 
+[ a/DT tougher/JJR stance/NN ]
+./. 
+
+======================================
+
+[ The/DT disclosure/NN ]
+of/IN 
+[ Mr./NNP Sandner/NNP 's/POS investment/NN ]
+also/RB highlights/VBZ 
+[ the/DT potential/NN ]
+for/IN 
+[ conflict/NN ]
+between/IN 
+[ self-regulation/NN ]
+in/IN 
+[ the/DT futures/NNS industry/NN ]
+and/CC 
+[ the/DT self-interest/NN ]
+of/IN 
+[ prominent/JJ members/NNS ]
+./. 
+
+======================================
+
+[ Commodity/NNP Futures/NNP Trading/NNP Commission/NNP member/NN Fowler/NNP West/NNP ]
+declined/VBD to/TO comment/VB on/IN 
+[ Mr./NNP Sandner/NNP ]
+but/CC said/VBD :/: ``/`` 
+[ It/PRP ]
+'s/VBZ in/IN 
+[ the/DT interest/NN ]
+of/IN 
+[ the/DT self-regulator/NN ]
+to/TO avoid/VB even/RB 
+[ the/DT appearance/NN ]
+of/IN 
+[ impropriety/NN ]
+./. 
+
+''/'' 
+[ The/DT CFTC/NNP ]
+is/VBZ 
+[ the/DT federal/JJ regulator/NN ]
+of/IN 
+[ the/DT futures/NNS markets/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+,/, 
+[ who/WP ]
+also/RB sits/VBZ on/IN 
+[ the/DT executive/JJ committee/NN ]
+of/IN 
+[ the/DT Merc/NNP 's/POS board/NN ]
+,/, confirmed/VBD 
+[ his/PRP$ investment/NN ]
+in/IN 
+[ ABS/NNP ]
+but/CC denied/VBN 
+[ any/DT conflict/NN ]
+./. 
+
+In/IN 
+[ an/DT interview/NN ]
+,/, 
+[ he/PRP ]
+described/VBD 
+[ his/PRP$ decision/NN ]
+in/IN 
+[ March/NNP ]
+to/TO take/VB 
+[ his/PRP$ share/NN ]
+of/IN 
+[ the/DT ABS/NNP profit/NN ]
+as/IN 
+[ a/DT ]
+``/`` 
+[ good/JJ business/NN decision/NN ]
+''/'' while/IN maintaining/VBG 
+[ that/IN his/PRP$ portion/NN ]
+of/IN 
+[ the/DT group/NN 's/POS income/NN ]
+was/VBD ``/`` 
+[ negligible/JJ ]
+./. 
+
+''/'' 
+[ He/PRP ]
+declined/VBD to/TO elaborate/VB ./. 
+
+======================================
+
+[ Merc/NNP Senior/NNP Vice/NNP President/NNP Gerald/NNP Beyer/NNP ]
+said/VBD 
+[ the/DT exchange/NN ]
+did/VBD n't/RB see/VB 
+[ anything/NN ]
+wrong/JJ with/IN 
+[ Mr./NNP Sandner/NNP receiving/VBG income/NN ]
+from/IN 
+[ ABS/NNP Partners/NNPS ]
+while/IN serving/VBG on/IN 
+[ the/DT committee/NN ]
+
+[ that/WDT ]
+would/MD make/VB 
+[ recommendations/NNS ]
+to/TO 
+[ the/DT full/JJ board/NN ]
+./. 
+
+``/`` 
+[ A/DT conflict/NN ]
+of/IN 
+[ interest/NN standard/NN ]
+for/IN 
+[ a/DT committee/NN ]
+giving/VBG 
+[ us/PRP ]
+
+[ advice/NN ]
+is/VBZ n't/RB 
+[ a/DT relevant/JJ standard/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Mr./NNP Beyer/NNP ]
+said/VBD 
+[ he/PRP ]
+became/VBD 
+[ aware/JJ ]
+of/IN 
+[ Mr./NNP Sandner/NNP 's/POS interest/NN ]
+in/IN 
+[ ABS/NNP ]
+shortly/RB after/IN 
+[ it/PRP ]
+was/VBD included/VBN in/IN 
+[ Merc/NNP regulatory/JJ filings/NNS March/NNP 13/CD ]
+./. 
+
+======================================
+
+When/WRB 
+[ the/DT special/JJ panel/NN ]
+reported/VBD 
+[ its/PRP$ recommendations/NNS April/NNP 19/CD ]
+,/, 
+[ some/DT ]
+in/IN 
+[ the/DT industry/NN ]
+expressed/VBD 
+[ surprise/NN ]
+that/IN 
+[ tougher/JJR restrictions/NNS ]
+against/IN 
+[ broker/NN groups/NNS ]
+were/VBD n't/RB included/VBN ./. 
+
+[ The/DT Merc/NNP board/NN ]
+later/RB approved/VBD 
+[ the/DT panel/NN 's/POS findings/NNS ]
+./. 
+
+======================================
+
+[ Broker/NN groups/NNS ]
+began/VBD forming/VBG rapidly/RB on/IN 
+[ the/DT floors/NNS ]
+of/IN 
+[ futures/NNS exchanges/NNS ]
+in/IN 
+[ the/DT early/JJ 1980s/CD ]
+./. 
+
+[ Most/JJS groups/NNS ]
+allow/VBP 
+[ members/NNS ]
+to/TO share/VB 
+[ certain/JJ profits/NNS ]
+and/CC 
+[ expenses/NNS ]
+as/RB well/RB as/IN to/TO pool/VB 
+[ the/DT risk/NN ]
+of/IN trading/VBG 
+[ losses/NNS ]
+caused/VBN by/IN 
+[ the/DT increasing/VBG volume/NN ]
+of/IN 
+[ orders/NNS ]
+and/CC 
+[ price/NN volatility/NN ]
+in/IN 
+[ financial/JJ futures/NNS markets/NNS ]
+./. 
+
+======================================
+
+[ The/DT federal/JJ investigation/NN ]
+of/IN 
+[ futures/NNS ]
+trading/NN 
+[ fraud/NN ]
+,/, 
+[ which/WDT ]
+so/RB far/RB has/VBZ led/VBN to/TO 
+[ fraud/NN charges/NNS ]
+against/IN 
+[ 45/CD traders/NNS ]
+and/CC 
+[ one/CD clerk/NN ]
+on/IN 
+[ the/DT Merc/NNP ]
+and/CC 
+[ the/DT Chicago/NNP Board/NNP ]
+of/IN 
+[ Trade/NNP ]
+,/, has/VBZ led/VBN 
+[ industry/NN critics/NNS ]
+here/RB and/CC on/IN 
+[ Capitol/NNP Hill/NNP ]
+to/TO call/VB for/IN 
+[ tougher/JJR oversight/NN ]
+of/IN 
+[ the/DT ]
+lightly/RB regulated/VBN 
+[ futures/NNS industry/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+is/VBZ 
+[ president/NN ]
+of/IN 
+[ RB&H/NNP Inc./NNP ]
+,/, 
+[ a/DT Merc/NNP clearing/NN member/NN firm/NN ]
+
+[ that/WDT ]
+receives/VBZ 
+[ thousands/NNS ]
+of/IN 
+[ dollars/NNS ]
+monthly/JJ for/IN processing/VBG 
+[ trades/NNS ]
+for/IN 
+[ a/DT number/NN ]
+of/IN 
+[ brokers/NNS ]
+in/IN 
+[ ABS/NNP Partners/NNPS ]
+./. 
+
+[ He/PRP ]
+is/VBZ also/RB 
+[ a/DT friend/NN ]
+of/IN 
+[ James/NNP Kaulentis/NNP ]
+and/CC 
+[ Maury/NNP Kravitz/NNP ]
+,/, 
+[ two/CD Merc/NNP members/NNS ]
+
+[ who/WP ]
+own/VBP 
+[ 51/CD %/NN ]
+of/IN 
+[ ABS/NNP Partners/NNPS ]
+./. 
+
+[ Mr./NNP Kravitz/NNP ]
+rents/VBZ 
+[ office/NN space/NN ]
+from/IN 
+[ Mr./NNP Sandner/NNP ]
+and/CC is/VBZ 
+[ a/DT former/JJ officer/NN ]
+of/IN 
+[ RB&H/NNP ]
+./. 
+
+[ Mr./NNP Kaulentis/NNP ]
+
+[ a/DT few/JJ years/NNS ]
+ago/IN pledged/VBD to/TO pay/VB 
+[ $/$ 350,000/CD ]
+for/IN 
+[ a/DT house/NN ]
+in/IN 
+[ a/DT Chicago/NNP suburb/NN ]
+that/IN 
+[ Mr./NNP Sandner/NNP ]
+was/VBD having/VBG 
+[ trouble/NN selling/VBG ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT interview/NN ]
+,/, 
+[ Mr./NNP Sandner/NNP ]
+confirmed/VBD that/IN 
+[ the/DT company/NN ]
+
+[ that/WDT ]
+owns/VBZ 
+[ RB&H/NNP ]
+,/, 
+[ an/DT Arizona/NNP holding/NN company/NN ]
+controlled/VBN by/IN 
+[ Phoenix/NNP investor/NN F./NNP Michael/NNP Geddes/NNP ]
+,/, bought/VBD 
+[ 20/CD %/NN ]
+of/IN 
+[ ABS/NNP Partners/NNPS ]
+in/IN 
+[ early/JJ 1988/CD ]
+./. 
+
+[ Mr./NNP Sandner/NNP ]
+in/IN 
+[ turn/NN ]
+owns/VBZ 
+[ 10/CD %/NN ]
+of/IN 
+[ Mr./NNP Geddes/NNP 's/POS company/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+said/VBD 
+[ he/PRP ]
+initially/RB decided/VBD not/RB to/TO receive/VB 
+[ any/DT income/NN ]
+from/IN 
+[ the/DT company/NN 's/POS investment/NN ]
+in/IN 
+[ the/DT broker/NN group/NN ]
+./. 
+
+[ A/DT year/NN ]
+later/RB ,/, 
+[ he/PRP ]
+had/VBD 
+[ a/DT change/NN ]
+of/IN 
+[ heart/NN ]
+./. 
+
+``/`` Eventually/RB ,/, 
+[ I/PRP ]
+looked/VBD at/IN 
+[ the/DT numbers/NNS ]
+from/IN 
+[ ABS/NNP ]
+./. 
+
+[ I/PRP ]
+told/VBD 
+[ myself/PRP ]
+,/, 'I'm/VBP  only/RB not/RB doing/VBG 
+[ this/DT ]
+because/IN of/IN 
+[ what/WP ]
+
+[ someone/NN ]
+might/MD say/VB about/IN 
+[ me/PRP ]
+,/, '/'' ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ His/PRP$ 1988/CD indirect/JJ interest/NN ]
+in/IN 
+[ ABS/NNP was/VBD n't/RB ]
+disclosed/VBN in/IN 
+[ Merc/NNP regulatory/JJ filings/NNS ]
+./. 
+
+[ He/PRP ]
+appeared/VBD as/IN 
+[ an/DT ABS/NNP investor/NN ]
+for/IN 
+[ the/DT first/JJ time/NN ]
+in/IN 
+[ March/NNP ]
+,/, when/WRB 
+[ he/PRP ]
+started/VBD receiving/VBG 
+[ income/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+receives/VBZ 
+[ $/$ 150,000/CD ]
+annually/RB for/IN being/VBG 
+[ Merc/NNP senior/JJ policy/NN adviser/NN ]
+./. 
+
+[ His/PRP$ RB&H/NNP compensation/NN ]
+is/VBZ n't/RB disclosed/VBN ./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+denied/VBD 
+[ that/IN his/PRP$ decision/NN ]
+in/IN 
+[ March/NNP ]
+to/TO start/VB 
+[ receiving/VBG profit/NN ]
+from/IN 
+[ ABS/NNP Partners/NNPS ]
+affected/VBD 
+[ his/PRP$ thinking/NN ]
+about/IN 
+[ broker/NN groups/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+would/MD never/RB allow/VB 
+[ any/DT interest/NN ]
+
+[ I/PRP ]
+have/VBP to/TO influence/VB 
+[ my/PRP$ thinking/NN ]
+on/IN 
+[ an/DT issue/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+[ He/PRP ]
+also/RB said/VBD 
+[ that/IN testimony/NN ]
+before/IN 
+[ the/DT Merc/NNP panel/NN last/JJ spring/NN ]
+from/IN 
+[ futures/NNS industry/NN members/NNS ]
+was/VBD ``/`` overwhelmingly/RB positive/JJ for/IN 
+[ broker/NN groups/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Proponents/NNS ]
+of/IN 
+[ broker/NN groups/NNS ]
+argue/VBP that/IN 
+[ they/PRP ]
+are/VBP better/RB able/JJ than/IN 
+[ independent/JJ brokers/NNS ]
+to/TO serve/VB 
+[ big/JJ institutional/JJ customers/NNS ]
+
+[ that/WDT ]
+trade/VBP in/IN 
+[ several/JJ futures/NNS ]
+contracts/NNS 
+[ a/DT day/NN ]
+./. 
+
+[ Critics/NNS ]
+say/VBP 
+[ the/DT broker/NN groups/NNS ]
+have/VBP 
+[ too/RB much/JJ control/NN ]
+over/IN 
+[ the/DT flow/NN ]
+of/IN 
+[ orders/NNS ]
+in/IN 
+[ certain/JJ Merc/NNP ]
+trading/NN 
+[ pits/NNS ]
+./. 
+
+[ Current/NNP Merc/NNP rules/NNS ]
+restrict/VBP 
+[ the/DT amount/NN ]
+of/IN trading/NN that/IN 
+[ group/NN members/NNS ]
+can/MD do/VB with/IN 
+[ each/DT other/JJ ]
+./. 
+
+======================================
+
+Most/JJS of/IN 
+[ the/DT major/JJ recommendations/NNS ]
+from/IN 
+[ the/DT Merc/NNP panel/NN ]
+--/: such/JJ as/IN 
+[ limits/NNS ]
+on/IN 
+[ dual/JJ ]
+trading/NN by/IN 
+[ brokers/NNS ]
+for/IN 
+[ their/PRP$ own/JJ ]
+and/CC 
+[ customers/NNS '/POS accounts/NNS ]
+,/, having/VBG 
+[ non-members/NNS ]
+serve/VB on/IN 
+[ exchange/NN disciplinary/JJ committees/NNS ]
+and/CC 
+[ toughening/VBG exchange/NN sanctions/NNS ]
+--/: were/VBD adopted/VBN or/CC slightly/RB modified/VBN and/CC approved/VBN by/IN 
+[ the/DT Merc/NNP board/NN ]
+in/IN 
+[ August/NNP ]
+./. 
+
+But/CC 
+[ they/PRP ]
+are/VBP n't/RB likely/JJ to/TO take/VB 
+[ effect/NN ]
+until/IN 
+[ two/CD bills/NNS ]
+in/IN 
+[ Congress/NNP ]
+regarding/VBG 
+[ the/DT reauthorization/NN ]
+of/IN 
+[ the/DT CFTC/NNP ]
+are/VBP passed/VBN ./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ Mr./NNP Sandner/NNP ]
+,/, 
+[ the/DT Merc/NNP panel/NN ]
+comprised/VBD 
+[ Leo/NNP Melamed/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Merc/NNP 's/POS executive/JJ committee/NN ]
+;/: 
+[ John/NNP T./NNP Geldermann/NNP ]
+,/, 
+[ Merc/NNP chairman/NN ]
+;/: 
+[ William/NNP Brodsky/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Merc/NNP ]
+;/: 
+[ Susan/NNP Phillips/NNP ]
+,/, 
+[ a/DT Merc/NNP governor/NN ]
+and/CC 
+[ former/JJ CFTC/NNP chairman/NN ]
+;/: 
+[ Thomas/NNP F./NNP Eagleton/NNP ]
+,/, 
+[ a/DT former/JJ U.S./NNP senator/NN ]
+from/IN 
+[ Missouri/NNP ]
+and/CC 
+[ a/DT Merc/NNP director/NN ]
+;/: 
+[ Louis/NNP Margolis/NNP ]
+,/, managing/VBG 
+[ director/NN ]
+of/IN 
+[ Salomon/NNP Brothers/NNPS Inc./NNP ]
+and/CC 
+[ an/DT exchange/NN governor/NN ]
+;/: 
+[ Donald/NNP Butler/NNP ]
+,/, 
+[ governor/NN ]
+and/CC 
+[ former/JJ president/NN ]
+of/IN 
+[ the/DT National/NNP Cattlemen/NNPS 's/POS Association/NNP ]
+;/: and/CC 
+[ John/NNP A./NNP Wing/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/NN executive/JJ officer/NN ]
+of/IN 
+[ Chicago/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ This/DT ]
+is/VBZ n't/RB 
+[ the/DT first/JJ time/NN ]
+that/IN 
+[ Mr./NNP Sandner/NNP ]
+has/VBZ found/VBN 
+[ himself/PRP ]
+at/IN 
+[ the/DT center/NN ]
+of/IN 
+[ controversy/NN ]
+./. 
+
+While/IN 
+[ he/PRP ]
+was/VBD 
+[ head/NN ]
+of/IN 
+[ the/DT central/JJ region/NN 's/POS business/NN conduct/NN committee/NN ]
+of/IN 
+[ the/DT National/NNP Futures/NNP Association/NNP ]
+,/, 
+[ an/DT industry/NN group/NN ]
+overseeing/VBG 
+[ sales/NNS practices/NNS ]
+,/, 
+[ Mr./NNP Sandner/NNP 's/POS firm/NN ]
+hired/VBD 
+[ a/DT dozen/NN salesmen/NNS ]
+from/IN 
+[ First/NNP Commodity/NNP Corp./NNP ]
+of/IN 
+[ Boston/NNP ]
+;/: 
+[ First/NNP Commodity/NNP 's/POS Boston/NNP headquarters/NN ]
+had/VBD been/VBN raided/VBN by/IN 
+[ the/DT FBI/NNP ]
+in/IN late/RB 
+[ 1986/CD ]
+during/IN 
+[ Mr./NNP Sandner/NNP 's/POS tenure/NN ]
+as/IN 
+[ Merc/NNP chairman/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Sandner/NNP ]
+folded/VBD 
+[ his/PRP$ retail/JJ operation/NN ]
+in/IN 
+[ early/JJ January/NNP ]
+of/IN 
+[ this/DT year/NN ]
+./. 
+
+Less/JJR than/IN 
+[ two/CD weeks/NNS ]
+later/RB ,/, 
+[ 16/CD former/JJ First/NNP Commodity/NNP salesmen/NNS ]
+,/, including/VBG 
+[ some/DT ]
+
+[ who/WP ]
+had/VBD worked/VBN for/IN 
+[ Mr./NNP Sandner/NNP ]
+,/, were/VBD indicted/VBN here/RB on/IN 
+[ federal/JJ fraud/NN charges/NNS ]
+related/VBN to/TO 
+[ activities/NNS ]
+at/IN 
+[ First/NNP Commodity/NNP ]
+./. 
+
+[ They/PRP ]
+pleaded/VBD not/RB 
+[ guilty/JJ ]
+;/: 
+[ their/PRP$ case/NN has/VBZ n't/RB ]
+gone/VBN to/TO 
+[ trial/NN ]
+./. 
+
+[ Mr./NNP Sandner/NNP was/VBD n't/RB ]
+implicated/VBN in/IN 
+[ the/DT federal/JJ charges/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ 1987/CD ]
+,/, 
+[ Mr./NNP Sandner/NNP 's/POS firm/NN ]
+allowed/VBD 
+[ two/CD salesmen/NNS ]
+to/TO become/VB affiliated/VBN with/IN 
+[ it/PRP ]
+
+[ who/WP ]
+had/VBD been/VBN accused/VBN of/IN 
+[ fraudulent/JJ ]
+trading/NN ./. 
+
+[ Last/JJ year/NN ]
+,/, 
+[ the/DT CFTC/NNP ]
+filed/VBD 
+[ charges/NNS ]
+against/IN 
+[ the/DT salesmen/NNS ]
+,/, 
+[ their/PRP$ former/JJ employer/NN GNP/NNP Commodities/NNPS Inc./NNP ]
+and/CC 
+[ its/PRP$ chairman/NN ]
+,/, 
+[ Brian/NNP Monieson/NNP ]
+--/: also/RB 
+[ a/DT former/JJ Merc/NNP chairman/NN ]
+--/: related/VBN to/TO 
+[ the/DT fraud/NN allegations/NNS ]
+./. 
+
+[ Those/DT CFTC/NNP charges/NNS ]
+are/VBP still/RB pending/VBG ./. 
+
+======================================
+
+Shortly/RB after/IN folding/VBG 
+[ the/DT retail/JJ operation/NN ]
+,/, 
+[ Mr./NNP Sandner/NNP ]
+said/VBD 
+[ he/PRP ]
+regretted/VBD not/RB being/VBG more/RBR involved/VBN in/IN hiring/VBG and/CC reviewing/VBG 
+[ his/PRP$ salesmen/NNS 's/POS activities/NNS ]
+./. 

@@ -1,0 +1,43 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Mellon/NNP Bank/NNP Corp./NNP ]
+said/VBD 
+[ directors/NNS ]
+authorized/VBD 
+[ the/DT buy-back/NN ]
+of/IN as/RB many/JJ as/IN 
+[ 250,000/CD common/JJ shares/NNS ]
+./. 
+
+======================================
+
+[ The/DT bank/NN holding/VBG company/NN ]
+said/VBD 
+[ stock/NN ]
+repurchased/VBN will/MD be/VB used/VBN to/TO meet/VB 
+[ requirements/NNS ]
+for/IN 
+[ the/DT company/NN 's/POS benefit/NN plans/NNS ]
+./. 
+
+======================================
+
+[ Mellon/NNP ]
+has/VBZ 
+[ 36.6/CD million/CD shares/NNS ]
+outstanding/JJ ./. 

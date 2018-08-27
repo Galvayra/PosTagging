@@ -1,0 +1,934 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+With/IN 
+[ interest/NN ]
+rates/NNS 
+[ a/DT full/JJ percentage/NN point/NN ]
+or/CC 
+[ more/JJR ]
+below/IN 
+[ last/JJ spring/NN 's/POS levels/NNS ]
+,/, 
+[ many/JJ people/NNS ]
+are/VBP focusing/VBG on/IN 
+[ the/DT financing/NN ]
+of/IN 
+[ their/PRP$ biggest/JJS investment/NN ]
+--/: 
+[ their/PRP$ homes/NNS ]
+./. 
+
+======================================
+
+Figuring/VBG that/IN 
+[ the/DT easiest/JJS way/NN ]
+to/TO make/VB 
+[ money/NN ]
+is/VBZ not/RB to/TO spend/VB 
+[ it/PRP ]
+,/, 
+[ they/PRP ]
+'re/VBP wondering/VBG if/IN 
+[ it/PRP ]
+'s/VBZ 
+[ time/NN ]
+to/TO refinance/VB 
+[ their/PRP$ mortgages/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ become/VBN 
+[ a/DT real/JJ consideration/NN ]
+,/, ''/'' says/VBZ 
+[ William/NNP G./NNP Brennan/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT accounting/NN firm/NN Ernst/NNP ]
+&/CC 
+[ Young/NNP ]
+./. 
+
+======================================
+
+[ The/DT average/JJ interest/NN rate/NN ]
+on/IN 
+[ a/DT 30-year/JJ fixed-rate/JJ mortgage/NN ]
+in/IN 
+[ major/JJ metropolitan/JJ areas/NNS ]
+was/VBD just/RB under/IN 
+[ 10/CD %/NN last/JJ week/NN ]
+,/, compared/VBN with/IN 
+[ 11.22/CD %/NN ]
+in/IN 
+[ late/JJ March/NNP ]
+,/, according/VBG to/TO 
+[ Bank/NNP Rate/NNP Monitor/NNP ]
+,/, 
+[ a/DT North/NNP Palm/NNP Beach/NNP ]
+,/, 
+[ Fla./NNP ]
+,/, 
+[ newsletter/NN ]
+./. 
+
+In/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, 
+[ the/DT average/JJ rate/NN ]
+was/VBD 
+[ 9.59/CD %/NN ]
+./. 
+
+======================================
+
+And/CC 
+[ rates/NNS ]
+may/MD go/VB still/RB lower/JJR in/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+./. 
+
+[ Robert/NNP K./NNP Heady/NNP ]
+,/, 
+[ publisher/NN ]
+of/IN 
+[ Bank/NNP Rate/NNP Monitor/NNP ]
+,/, predicts/VBZ 
+[ a/DT drop/NN ]
+of/IN 
+[ another/DT half/NN ]
+to/TO 
+[ three-quarters/NNS ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+by/IN 
+[ March/NNP ]
+./. 
+
+Not/RB only/RB are/VBP 
+[ interest/NN rates/NNS ]
+in/IN 
+[ general/JJ ]
+expected/VBN to/TO dip/VB ,/, 
+[ he/PRP ]
+says/VBZ ,/, but/CC 
+[ mortgage/NN rates/NNS ]
+usually/RB decline/VBP during/IN 
+[ the/DT winter/NN months/NNS ]
+,/, when/WRB 
+[ demand/NN ]
+is/VBZ low/JJ ./. 
+
+======================================
+
+Refinancing/NN can/MD look/VB particularly/RB attractive/JJ to/TO 
+[ people/NNS ]
+with/IN 
+[ adjustable/JJ rate/NN mortgages/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ them/PRP ]
+have/VBP seen/VBN 
+[ payments/NNS ]
+rise/VB by/IN 
+[ several/JJ hundred/CD dollars/NNS ]
+
+[ a/DT month/NN ]
+,/, as/IN 
+[ interest/NN rates/NNS ]
+climbed/VBD steadily/RB over/IN 
+[ the/DT past/JJ two/CD years/NNS ]
+./. 
+
+[ The/DT increases/NNS ]
+have/VBP been/VBN especially/RB dramatic/JJ for/IN 
+[ those/DT ]
+
+[ who/WP ]
+started/VBD out/IN with/IN 
+[ low/JJ introductory/JJ ]
+,/, ``/`` 
+[ teaser/NN ]
+''/'' 
+[ rates/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT rule/NN ]
+of/IN 
+[ thumb/NN ]
+,/, 
+[ a/DT number/NN ]
+of/IN 
+[ financial/JJ advisers/NNS ]
+say/VBP ,/, when/WRB 
+[ borrowers/NNS ]
+can/MD get/VB 
+[ a/DT fixed/VBN rate/NN ]
+close/JJ to/TO 
+[ 10/CD %/NN ]
+,/, 
+[ they/PRP ]
+should/MD lock/VB 
+[ it/PRP ]
+in/IN ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ kind/NN ]
+of/IN 
+[ a/DT good/JJ rate/NN ]
+to/TO have/VB over/IN 
+[ the/DT near/JJ term/NN ]
+,/, ''/'' says/VBZ 
+[ Robert/NNP Mahoney/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+of/IN 
+[ First/NNP National/NNP Bank/NNP ]
+of/IN 
+[ Boston/NNP ]
+./. 
+
+======================================
+
+But/CC refinancing/NN involves/VBZ more/JJR than/IN 
+[ a/DT simple/JJ rule/NN ]
+of/IN 
+[ thumb/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ time/NN ]
+consuming/NN ,/, and/CC 
+[ it/PRP ]
+also/RB costs/VBZ 
+[ money/NN ]
+,/, ''/'' says/VBZ 
+[ Kenneth/NNP Sheridan/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT mortgage/NN banking/NN unit/NN ]
+of/IN 
+[ Southeast/NNP Banking/NNP Corp./NNP ]
+in/IN 
+[ Miami/NNP ]
+./. 
+
+======================================
+
+How/WRB to/TO decide/VB ?/. 
+
+Find/VB out/IN 
+[ what/WP ]
+
+[ it/PRP ]
+would/MD cost/VB to/TO refinance/VB and/CC 
+[ what/WP ]
+
+[ the/DT monthly/JJ savings/NNS ]
+would/MD be/VB ./. 
+
+``/`` Shop/VB as/IN 
+[ many/JJ institutions/NNS ]
+as/IN 
+[ you/PRP ]
+can/MD ,/, write/VB down/IN 
+[ each/DT ]
+of/IN 
+[ the/DT costs/NNS ]
+,/, and/CC make/VB 
+[ a/DT decision/NN ]
+based/VBN on/IN 
+[ your/PRP$ bottom/NN line/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Heady/NNP ]
+./. 
+
+======================================
+
+[ The/DT biggest/JJS cost/NN ]
+of/IN refinancing/NN is/VBZ usually/RB 
+[ the/DT bank/NN 's/POS up-front/JJ fee/NN ]
+,/, or/CC ``/`` 
+[ points/NNS ]
+./. 
+
+''/'' 
+[ Each/DT point/NN ]
+is/VBZ equal/JJ to/TO 
+[ 1/CD %/NN ]
+of/IN 
+[ the/DT amount/NN ]
+of/IN 
+[ the/DT mortgage/NN ]
+./. 
+
+[ One/CD ]
+and/CC 
+[ a/DT half/NN ]
+to/TO 
+[ two/CD points/NNS ]
+is/VBZ 
+[ a/DT typical/JJ fee/NN ]
+,/, although/IN 
+[ a/DT charge/NN ]
+of/IN 
+[ three/CD points/NNS ]
+is/VBZ n't/RB unheard/JJ of/IN ./. 
+
+Thus/RB ,/, on/IN 
+[ a/DT $/$ 100,000/CD ]
+refinancing/NN ,/, 
+[ a/DT homeowner/NN ]
+can/MD easily/RB expect/VB to/TO spend/VB 
+[ $/$ 2,000/CD ]
+or/CC 
+[ $/$ 3,000/CD ]
+for/IN 
+[ points/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT costs/NNS ]
+do/VBP n't/RB stop/VB there/RB ./. 
+
+[ Lawyers/NNS '/POS fees/NNS ]
+can/MD add/VB 
+[ several/JJ hundred/CD dollars/NNS ]
+--/: and/CC 
+[ that/DT ]
+'s/VBZ just/RB for/IN 
+[ the/DT bank/NN 's/POS attorney/NN ]
+./. 
+
+[ Borrowers/NNS ]
+
+[ who/WP ]
+hire/VBP 
+[ lawyers/NNS ]
+to/TO represent/VB 
+[ their/PRP$ own/JJ interests/NNS ]
+face/VBP 
+[ an/DT additional/JJ charge/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+may/MD also/RB be/VB necessary/JJ to/TO get/VB 
+[ a/DT new/JJ appraisal/NN ]
+of/IN 
+[ the/DT property/NN ]
+,/, particularly/RB in/IN 
+[ parts/NNS ]
+of/IN 
+[ the/DT country/NN ]
+where/WRB 
+[ real/JJ estate/NN values/NNS ]
+have/VBP fallen/VBN recently/RB ,/, as/RB well/RB as/IN 
+[ a/DT title/NN search/NN ]
+./. 
+
+Then/RB 
+[ there/EX ]
+are/VBP 
+[ miscellaneous/JJ fees/NNS ]
+for/IN filing/VBG 
+[ various/JJ documents/NNS ]
+./. 
+
+[ Many/JJ banks/NNS ]
+also/RB charge/VBP 
+[ an/DT application/NN fee/NN ]
+of/IN 
+[ $/$ 150/CD ]
+,/, 
+[ which/WDT ]
+sometimes/RB is/VBZ refundable/JJ if/IN 
+[ the/DT mortgage/NN ]
+is/VBZ approved/VBN ./. 
+
+======================================
+
+[ It/PRP ]
+
+[ all/DT ]
+adds/VBZ up/IN quickly/RB ./. 
+
+======================================
+
+[ There/EX ]
+are/VBP 
+[ tax/NN considerations/NNS ]
+,/, too/RB ./. 
+
+[ None/NN ]
+of/IN 
+[ these/DT ]
+refinancing/NN 
+[ costs/NNS ]
+is/VBZ immediately/RB deductible/JJ under/IN 
+[ current/JJ tax/NN law/NN ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ points/NNS ]
+on/IN 
+[ an/DT original/JJ mortgage/NN ]
+are/VBP generally/RB deductible/JJ for/IN 
+[ the/DT tax/NN year/NN ]
+in/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+are/VBP paid/VBN ,/, but/CC 
+[ points/NNS ]
+incurred/VBN in/IN refinancing/NN must/MD be/VB amortized/VBN over/IN 
+[ the/DT life/NN ]
+of/IN 
+[ the/DT loan/NN ]
+./. 
+
+======================================
+
+[ Tax/NN considerations/NNS ]
+will/MD also/RB affect/VB 
+[ the/DT savings/NNS ]
+
+[ a/DT borrower/NN ]
+can/MD expect/VB from/IN refinancing/NN ./. 
+
+Since/IN 
+[ a/DT smaller/JJR mortgage/NN payment/NN ]
+usually/RB means/VBZ 
+[ a/DT smaller/JJR tax/NN deduction/NN ]
+for/IN 
+[ mortgage-interest/JJ payments/NNS ]
+,/, 
+[ the/DT real/JJ ]
+,/, 
+[ after-tax/JJ savings/NNS ]
+is/VBZ often/RB less/JJR than/IN 
+[ it/PRP ]
+appears/VBZ ./. 
+
+======================================
+
+[ Homeowners/NNS ]
+``/`` need/VBP to/TO run/VB 
+[ the/DT numbers/NNS ]
+on/IN 
+[ an/DT after-tax/JJ basis/NN ]
+,/, ''/'' says/VBZ 
+[ Timothy/NNP Kochis/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ the/DT accounting/NN firm/NN ]
+of/IN 
+[ Deloitte/NNP ]
+,/, 
+[ Haskins/NNP ]
+&/CC 
+[ Sells/NNP ]
+./. 
+
+``/`` 
+[ The/DT spread/NN ]
+
+[ that/WDT ]
+may/MD have/VB tempted/VBN 
+[ you/PRP ]
+into/IN 
+[ this/DT ]
+in/IN 
+[ the/DT first/JJ place/NN ]
+may/MD not/RB be/VB as/RB big/JJ as/IN 
+[ you/PRP ]
+think/VBP 
+[ it/PRP ]
+is/VBZ ./. 
+
+''/'' 
+======================================
+
+Adding/VBG up/IN 
+[ all/PDT the/DT costs/NNS ]
+and/CC comparing/VBG 
+[ them/PRP ]
+with/IN 
+[ the/DT prospective/JJ savings/NNS ]
+,/, 
+[ people/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB plan/VB to/TO remain/VB in/IN 
+[ their/PRP$ home/NN ]
+for/IN 
+[ several/JJ more/JJR years/NNS ]
+probably/RB should/MD n't/RB even/RB consider/VB refinancing/NN ./. 
+
+``/`` 
+[ It/PRP ]
+takes/VBZ at/IN 
+[ least/JJS two/CD ]
+or/CC maybe/RB as/RB many/JJ as/IN 
+[ four/CD years/NNS ]
+to/TO make/VB 
+[ it/PRP ]
+worth/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Kochis/NNP ]
+./. 
+
+``/`` 
+[ You/PRP ]
+have/VBP to/TO be/VB able/JJ to/TO justify/VB 
+[ those/DT costs/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT big/JJ imponderable/JJ ]
+,/, or/CC 
+[ course/NN ]
+,/, is/VBZ 
+[ what/WP ]
+'s/VBZ going/VBG to/TO happen/VB to/TO 
+[ interest/NN rates/NNS ]
+./. 
+
+[ Some/DT rate-watchers/NNS ]
+say/VBP 
+[ a/DT ]
+reasonably/RB 
+[ strong/JJ economy/NN ]
+will/MD keep/VB 
+[ interest/NN rates/NNS ]
+from/IN falling/VBG further/RB ./. 
+
+But/CC 
+[ others/NNS ]
+note/VBP that/IN aside/RB from/IN 
+[ the/DT unusual/JJ highs/NNS ]
+of/IN 
+[ the/DT early/JJ 1980s/CD ]
+,/, 
+[ rates/NNS ]
+are/VBP still/RB 
+[ several/JJ percentage/NN points/NNS ]
+above/IN where/WRB 
+[ they/PRP ]
+have/VBP been/VBN historically/RB and/CC are/VBP certain/JJ to/TO decline/VB ./. 
+
+======================================
+
+[ This/DT uncertainty/NN ]
+makes/VBZ 
+[ the/DT refinancing/VBG question/NN ]
+especially/RB difficult/JJ for/IN 
+[ holders/NNS ]
+of/IN 
+[ adjustable/JJ rate/NN mortgages/NNS ]
+./. 
+
+[ A/DT fixed/VBN rate/NN ]
+of/IN about/IN 
+[ 10/CD %/NN ]
+may/MD look/VB 
+[ good/JJ ]
+compared/VBN to/TO 
+[ what/WP ]
+
+[ they/PRP ]
+'re/VBP paying/VBG now/RB ,/, but/CC 
+[ the/DT adjustable-rate/JJ loan/NN ]
+could/MD be/VB 
+[ a/DT better/JJR deal/NN ]
+later/RB if/IN 
+[ interest/NN rates/NNS ]
+fall/VBP further/RB ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ your/PRP$ decision/NN ]
+as/IN to/TO how/WRB 
+[ much/JJ risk/NN ]
+
+[ you/PRP ]
+'re/VBP willing/JJ to/TO accept/VB ,/, ''/'' says/VBZ 
+[ Deborah/NNP Reed/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+at/IN 
+[ New/NNP York/NNP 's/POS Manufacturers/NNPS Hanover/NNP Trust/NNP Co/NNP ]
+./. 
+
+[ Some/DT people/NNS ]
+think/VBP that/IN over/IN 
+[ the/DT long/JJ term/NN ]
+
+[ it/PRP ]
+may/MD be/VB better/JJR to/TO keep/VB 
+[ the/DT adjustable/JJ rate/NN ]
+./. 
+
+[ Research/NN ]
+by/IN 
+[ the/DT U.S./NNP League/NNP ]
+of/IN 
+[ Savings/NNP Institutions/NNPS ]
+shows/VBZ that/IN 
+[ most/JJS holders/NNS ]
+of/IN 
+[ adjustable/JJ rate/NN mortgages/NNS ]
+have/VBP paid/VBN significantly/RB less/JJR in/IN 
+[ interest/NN ]
+than/IN 
+[ they/PRP ]
+would/MD have/VB on/IN 
+[ fixed/VBN rate/NN loans/NNS ]
+./. 
+
+======================================
+
+[ Someone/NN ]
+
+[ who/WP ]
+bought/VBD 
+[ a/DT home/NN ]
+in/IN 
+[ September/NNP 1984/CD ]
+,/, for/IN 
+[ example/NN ]
+,/, with/IN 
+[ a/DT fixed/VBN rate/NN mortgage/NN ]
+at/IN 
+[ the/DT average/JJ rate/NN ]
+of/IN 
+[ 14.35/CD %/NN ]
+,/, would/MD be/VB paying/VBG 
+[ $/$ 1,212.63/CD ]
+
+[ a/DT month/NN ]
+on/IN 
+[ a/DT $/$ 100,000/CD loan/NN ]
+./. 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ the/DT discounted/VBN introductory/JJ rate/NN ]
+on/IN 
+[ an/DT ARM/NNP ]
+linked/VBD to/TO 
+[ the/DT one-year/JJ Treasury/NNP bill/NN ]
+,/, 
+[ a/DT ]
+commonly/RB used/VBN 
+[ index/NN ]
+,/, was/VBD 
+[ 11.96/CD %/NN ]
+./. 
+
+Although/IN 
+[ the/DT rate/NN ]
+could/MD rise/VB or/CC fall/VB by/IN 
+[ two/CD percentage/NN ]
+points/NNS 
+[ a/DT year/NN ]
+,/, 
+[ the/DT average/JJ monthly/JJ payment/NN ]
+since/IN 
+[ the/DT loan/NN ]
+was/VBD originated/VBN has/VBZ been/VBN just/RB 
+[ $/$ 899.65/CD ]
+./. 
+
+[ The/DT total/JJ savings/NNS ]
+from/IN 
+[ the/DT adjustable/JJ rate/NN mortgage/NN ]
+would/MD be/VB about/IN 
+[ $/$ 20,000/CD ]
+so/RB far/RB ./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+have/VBP to/TO be/VB real/RB unlucky/JJ for/IN 
+[ the/DT variable/JJ rate/NN ]
+to/TO cost/VB 
+[ you/PRP ]
+more/JJR than/IN 
+[ the/DT ]
+fixed/VBN ,/, ''/'' says/VBZ 
+[ Greg/NNP Confair/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Sigma/NNP Financial/NNP Inc./NNP ]
+,/, 
+[ an/DT Allentown/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ investment/NN adviser/NN ]
+./. 
+
+======================================
+
+[ Some/DT people/NNS ]
+might/MD even/RB consider/VB refinancing/VBG from/IN 
+[ one/CD adjustable/JJ rate/NN mortgage/NN ]
+to/TO 
+[ another/DT ]
+./. 
+
+[ A/DT lower/JJR introductory/JJ rate/NN ]
+could/MD cover/VB 
+[ the/DT costs/NNS ]
+of/IN refinancing/NN and/CC also/RB lower/VB 
+[ the/DT all-time/JJ cap/NN ]
+,/, or/CC 
+[ maximum/JJ rate/NN ]
+,/, on/IN 
+[ the/DT mortgage/NN ]
+--/: usually/RB 
+[ a/DT set/VBN number/NN ]
+of/IN 
+[ percentage/NN points/NNS ]
+above/IN 
+[ either/CC ]
+
+[ the/DT first-year/JJ ]
+or/CC 
+[ second-year/JJ rate/NN ]
+./. 
+
+======================================
+
+Still/RB ,/, 
+[ many/JJ people/NNS ]
+prefer/VBP 
+[ the/DT certainty/NN ]
+of/IN knowing/VBG 
+[ what/WP ]
+
+[ their/PRP$ housing/NN costs/NNS ]
+will/MD be/VB over/IN 
+[ the/DT long/JJ term/NN ]
+./. 
+
+``/`` 
+[ A/DT lot/NN ]
+of/IN 
+[ first-time/JJ homeowners/NNS ]
+are/VBP strapped/VBN ,/, ''/'' says/VBZ 
+[ Manufacturers/NNPS Hanover/NNP 's/POS Ms./NNP Reed/NNP ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+see/VBP 
+[ a/DT fixed/VBN rate/NN ]
+with/IN 
+[ monthly/JJ payments/NNS you/PRP ]
+can/MD handle/VB and/CC (/( 
+[ the/DT lower/JJR payment/NN ]
+ )/) covers/VBZ 
+[ the/DT cost/NN ]
+of/IN 
+[ another/DT closing/NN ]
+,/, then/RB do/VB 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Those/DT ]
+
+[ who/WP ]
+do/VBP decide/VB to/TO refinance/VB should/MD consider/VB 
+[ ways/NNS ]
+to/TO reduce/VB 
+[ their/PRP$ costs/NNS ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ many/JJ financial/JJ advisers/NNS ]
+agree/VBP that/IN for/IN 
+[ a/DT straightforward/JJ ]
+refinancing/NN ,/, 
+[ a/DT borrower/NN ]
+may/MD be/VB able/JJ to/TO rely/VB on/IN 
+[ the/DT bank/NN 's/POS attorney/NN ]
+./. 
+
+======================================
+
+Also/RB ,/, 
+[ some/DT ]
+of/IN 
+[ the/DT bank/NN 's/POS fees/NNS ]
+,/, including/VBG 
+[ the/DT up-front/JJ points/NNS ]
+,/, may/MD be/VB negotiable/JJ ./. 
+
+``/`` 
+[ It/PRP ]
+depends/VBZ on/IN how/WRB 
+[ hungry/JJ the/DT institution/NN ]
+is/VBZ for/IN 
+[ fees/NNS ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Kochis/NNP ]
+of/IN 
+[ Deloitte/NNP Haskin/NNP ]
+./. 
+
+[ The/DT lender/NN ]
+often/RB can/MD help/VB calculate/VB 
+[ the/DT after-tax/JJ costs/NNS ]
+of/IN refinancing/NN ./. 
+
+======================================
+
+In/IN 
+[ the/DT end/NN ]
+,/, 
+[ a/DT lot/NN ]
+comes/VBZ down/IN to/TO where/WRB 
+[ you/PRP ]
+think/VBP 
+[ interest/NN rates/NNS ]
+are/VBP headed/VBN ,/, 
+[ which/WDT ]
+is/VBZ 
+[ a/DT hard/JJ call/NN ]
+for/IN 
+[ professionals/NNS these/DT days/NNS ]
+,/, let/VB alone/RB 
+[ individual/JJ homeowners/NNS ]
+./. 
+
+``/`` 
+[ You/PRP ]
+'re/VBP having/VBG to/TO make/VB 
+[ a/DT gamble/NN ]
+
+[ no/DT matter/NN ]
+
+[ what/WP ]
+
+[ you/PRP ]
+do/VBP ,/, ''/'' says/VBZ 
+[ Mr./NNP Kochis/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT game/NN ]
+
+[ you/PRP ]
+play/VBP with/IN 
+[ the/DT lending/VBG institution/NN ]
+./. 
+
+[ You/PRP ]
+'re/VBP trying/VBG to/TO outwit/VB 
+[ them/PRP ]
+and/CC 
+[ they/PRP ]
+'re/VBP trying/VBG to/TO outwit/VB 
+[ you/PRP ]
+./. 
+
+''/'' 
+======================================
+
+When/WRB does/VBZ 
+[ it/PRP ]
+pay/VB to/TO refinance/VB ?/. 
+
+Find/VB 
+[ the/DT amount/NN ]
+on/IN 
+[ the/DT left/NN ]
+
+[ that/WDT ]
+'s/VBZ closest/JJS to/TO 
+[ what/WP ]
+
+[ it/PRP ]
+would/MD cost/VB to/TO refinance/VB 
+[ your/PRP$ mortgage/NN ]
+and/CC 
+[ the/DT amount/NN ]
+at/IN 
+[ the/DT bottom/NN ]
+
+[ that/WDT ]
+'s/VBZ closest/JJS to/TO 
+[ what/WP ]
+
+[ you/PRP ]
+would/MD save/VB 
+[ each/DT month/NN ]
+./. 
+
+[ The/DT number/NN ]
+where/WRB 
+[ the/DT cost/NN row/NN ]
+and/CC 
+[ the/DT savings/NNS column/NN ]
+intersect/VBP is/VBZ approximately/RB 
+[ how/WRB many/JJ monthsit/NN ]
+will/MD take/VB for/IN refinancing/NN to/TO begin/VB paying/VBG off/IN ./. 
+
+[ Actual/JJ pay-back/JJ periods/NNS ]
+will/MD be/VB affected/VBN by/IN 
+[ tax/NN considerations/NNS ]
+./. 

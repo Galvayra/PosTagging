@@ -1,0 +1,826 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Senate/NNP Finance/NNP Committee/NNP ]
+moved/VBD toward/IN 
+[ approval/NN ]
+of/IN 
+[ legislation/NN ]
+to/TO raise/VB about/RB 
+[ $/$ 5.4/CD billion/CD ]
+in/IN 
+[ fiscal/JJ 1990/CD ]
+and/CC expand/VB 
+[ the/DT deduction/NN ]
+for/IN 
+[ individual/JJ retirement/NN accounts/NNS ]
+,/, while/IN avoiding/VBG 
+[ a/DT change/NN ]
+in/IN 
+[ the/DT capital-gains/JJ tax/NN ]
+./. 
+
+======================================
+
+[ The/DT capital-gains/JJ issue/NN ]
+,/, however/RB ,/, probably/RB will/MD come/VB to/TO 
+[ a/DT showdown/NN ]
+soon/RB on/IN 
+[ the/DT Senate/NNP floor/NN ]
+./. 
+
+[ Prospects/NNS ]
+for/IN 
+[ some/DT sort/NN ]
+of/IN 
+[ capital-gains/JJ tax/NN cut/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ a/DT priority/NN ]
+of/IN 
+[ President/NNP Bush/NNP ]
+,/, remain/VBP 
+[ strong/JJ ]
+in/IN 
+[ the/DT full/JJ Senate/NNP ]
+./. 
+
+======================================
+
+[ The/DT Finance/NNP Committee/NNP 's/POS bill/NN ]
+,/, 
+[ a/DT huge/JJ measure/NN ]
+containing/VBG 
+[ changes/NNS ]
+in/IN 
+[ both/DT spending/NN ]
+and/CC 
+[ taxes/NNS ]
+,/, is/VBZ 
+[ the/DT vehicle/NN ]
+to/TO 
+[ which/WDT ]
+
+[ capital-gains/JJ proponents/NNS ]
+hope/VBP to/TO attach/VB 
+[ their/PRP$ provision/NN ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+would/MD result/VB in/IN 
+[ a/DT ]
+roughly/RB 
+[ $/$ 5.4/CD billion/CD net/JJ increase/NN ]
+in/IN 
+[ taxes/NNS ]
+in/IN 
+[ the/DT fiscal/JJ year/NN ]
+
+[ that/WDT ]
+began/VBD 
+[ Sunday/NNP ]
+./. 
+
+[ Taxes/NNS ]
+would/MD be/VB raised/VBN through/IN 
+[ a/DT laundry/NN list/NN ]
+of/IN mostly/RB 
+[ obscure/JJ revenue-law/NN changes/NNS ]
+,/, 
+[ many/JJ ]
+of/IN 
+[ which/WDT ]
+are/VBP contained/VBN in/IN 
+[ a/DT bill/NN ]
+approved/VBN earlier/RB 
+[ this/DT year/NN ]
+by/IN 
+[ the/DT House/NNP Ways/NNPS ]
+and/CC 
+[ Means/NNPS Committee/NNP ]
+./. 
+
+[ The/DT measure/NN ]
+also/RB provides/VBZ 
+[ tax/NN reductions/NNS ]
+,/, including/VBG 
+[ the/DT repeal/NN ]
+of/IN 
+[ a/DT law/NN ]
+called/VBD 
+[ Section/NNP 89/CD ]
+./. 
+
+[ The/DT law/NN ]
+compels/VBZ 
+[ companies/NNS ]
+to/TO provide/VB 
+[ comparable/JJ health/NN benefits/NNS ]
+to/TO 
+[ both/DT ]
+highly/RB paid/VBN 
+[ executives/NNS ]
+and/CC 
+[ rank-and-file/JJ workers/NNS ]
+./. 
+
+[ The/DT House/NNP ]
+already/RB has/VBZ voted/VBN for/IN 
+[ repeal/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ IRAs/NNPS ]
+,/, 
+[ the/DT finance/NN panel/NN 's/POS bill/NN ]
+would/MD provide/VB 
+[ a/DT 50/CD %/NN deduction/NN ]
+for/IN 
+[ IRA/NNP contributions/NNS ]
+by/IN 
+[ individuals/NNS ]
+
+[ who/WP ]
+are/VBP n't/RB already/RB 
+[ eligible/JJ ]
+and/CC permit/VB 
+[ penalty-free/JJ withdrawals/NNS ]
+for/IN 
+[ purchases/NNS ]
+of/IN 
+[ a/DT first/JJ home/NN ]
+and/CC spending/NN for/IN 
+[ higher/JJR education/NN ]
+./. 
+
+[ It/PRP ]
+also/RB would/MD extend/VB 
+[ several/JJ expiring/VBG tax/NN breaks/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT bill/NN ]
+would/MD reduce/VB 
+[ Medicare/NNP ]
+spending/NN in/IN 
+[ fiscal/JJ 1990/CD ]
+by/IN 
+[ some/DT $/$ 3.6/CD billion/CD ]
+,/, in/IN 
+[ part/NN ]
+by/IN curbing/VBG 
+[ reimbursements/NNS ]
+to/TO 
+[ physicians/NNS ]
+./. 
+
+[ The/DT plan/NN ]
+also/RB would/MD impose/VB 
+[ a/DT nationwide/JJ limit/NN ]
+on/IN 
+[ Medicare/NNP payments/NNS ]
+to/TO 
+[ doctors/NNS ]
+,/, but/CC in/IN 
+[ a/DT way/NN ]
+
+[ that/WDT ]
+is/VBZ far/RB more/RBR acceptable/JJ to/TO 
+[ the/DT doctors/NNS '/POS lobby/NN ]
+than/IN 
+[ a/DT tough/JJ plan/NN ]
+approved/VBN by/IN 
+[ the/DT Ways/NNPS ]
+and/CC 
+[ Means/NNPS Committee/NNP ]
+./. 
+
+======================================
+
+[ The/DT Ways/NNPS ]
+and/CC 
+[ Means/NNPS bill/NN ]
+would/MD eventually/RB cut/VB 
+[ back/RP payments/NNS ]
+to/TO 
+[ physicians/NNS ]
+if/IN 
+[ the/DT national/JJ target/NN ]
+is/VBZ exceeded/VBN ./. 
+
+[ The/DT Finance/NNP Committee/NNP measure/NN ]
+would/MD require/VB 
+[ the/DT government/NN ]
+to/TO hold/VB increased/VBN 
+[ discussions/NNS ]
+about/IN 
+[ the/DT problem/NN ]
+if/IN 
+[ the/DT target/NN ]
+is/VBZ exceeded/VBN ./. 
+
+======================================
+
+[ The/DT Finance/NNP Committee/NNP bill/NN ]
+also/RB would/MD raise/VB spending/NN in/IN 
+[ several/JJ areas/NNS ]
+,/, particularly/RB for/IN 
+[ senior/JJ citizens/NNS ]
+./. 
+
+[ The/DT measure/NN ]
+would/MD increase/VB 
+[ the/DT income/NN threshold/NN ]
+beyond/IN 
+[ which/WDT ]
+
+[ senior/JJ citizens/NNS ]
+have/VBP 
+[ their/PRP$ Social/NNP Security/NNP benefits/NNS ]
+reduced/VBN ./. 
+
+======================================
+
+[ The/DT threshold/NN next/JJ year/NN ]
+is/VBZ 
+[ $/$ 9,360/CD ]
+for/IN 
+[ retirees/NNS ]
+aged/VBN 
+[ 65/CD ]
+to/TO 
+[ 69/CD ]
+./. 
+
+[ The/DT panel/NN ]
+would/MD increase/VB 
+[ that/DT level/NN ]
+to/TO 
+[ $/$ 11,700/CD ]
+in/IN 
+[ 1990/CD ]
+and/CC 
+[ $/$ 14,520/CD ]
+in/IN 
+[ 1991/CD ]
+,/, compared/VBN with/IN 
+[ the/DT current/JJ law/NN 's/POS level/NN ]
+of/IN 
+[ $/$ 9,840/CD ]
+for/IN 
+[ the/DT latter/JJ year/NN ]
+./. 
+
+[ The/DT panel/NN ]
+also/RB would/MD cut/VB 
+[ the/DT amount/NN ]
+by/IN 
+[ which/WDT ]
+
+[ the/DT benefits/NNS ]
+are/VBP taken/VBN away/RP above/IN 
+[ those/DT thresholds/NNS ]
+./. 
+
+[ The/DT cost/NN ]
+of/IN 
+[ these/DT changes/NNS ]
+is/VBZ about/RB 
+[ $/$ 1/CD billion/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+[ Tax/NN Increases/NNS ]
+
+======================================
+
+[ The/DT wide-ranging/JJ bill/NN ]
+contains/VBZ 
+[ provisions/NNS ]
+
+[ that/WDT ]
+would/MD :/: 
+======================================
+
+--/: Prevent/VB 
+[ companies/NNS ]
+
+[ that/WDT ]
+have/VBP made/VBN 
+[ leveraged/JJ buy-outs/NNS ]
+from/IN getting/VBG 
+[ federal/JJ tax/NN refunds/NNS ]
+resulting/VBG from/IN 
+[ losses/NNS ]
+caused/VBN by/IN 
+[ interest/NN payments/NNS ]
+on/IN 
+[ debt/NN ]
+issued/VBN to/TO finance/VB 
+[ the/DT buy-outs/NNS ]
+,/, 
+[ effective/JJ Aug./NNP 2/CD ]
+,/, 
+[ 1989/CD ]
+./. 
+
+======================================
+
+--/: Require/VB 
+[ mutual/JJ funds/NNS ]
+to/TO include/VB in/IN 
+[ their/PRP$ taxable/JJ income/NN dividends/NNS ]
+paid/VBN to/TO 
+[ them/PRP ]
+on/IN 
+[ the/DT date/NN ]
+that/IN 
+[ the/DT dividends/NNS ]
+are/VBP declared/VBN rather/RB than/IN received/VBN ,/, 
+[ effective/JJ ]
+
+[ the/DT day/NN ]
+after/IN 
+[ the/DT tax/NN bill/NN ]
+is/VBZ enacted/VBN ./. 
+
+======================================
+
+--/: Close/VB 
+[ a/DT loophole/NN regarding/VBG employee/NN stock/NN ownership/NN plans/NNS ]
+,/, 
+[ effective/JJ June/NNP 6/CD ]
+,/, 
+[ 1989/CD ]
+,/, 
+[ that/WDT ]
+has/VBZ been/VBN exploited/VBN by/IN 
+[ investment/NN bankers/NNS ]
+in/IN 
+[ corporate/JJ takeovers/NNS ]
+./. 
+
+[ The/DT measure/NN repeals/VBZ ]
+
+[ a/DT 50/CD %/NN exclusion/NN ]
+given/VBN to/TO 
+[ banks/NNS ]
+on/IN 
+[ the/DT interest/NN ]
+from/IN 
+[ loans/NNS ]
+used/VBN to/TO acquire/VB 
+[ securities/NNS ]
+for/IN 
+[ an/DT ESOP/NNP ]
+,/, if/IN 
+[ the/DT ESOP/NNP ]
+owns/VBZ less/RBR than/IN 
+[ 30/CD %/NN ]
+of/IN 
+[ the/DT employer/NN 's/POS stock/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Curb/VB junk/NN bonds/NNS ]
+by/IN 
+[ ending/VBG tax/NN benefits/NNS ]
+for/IN 
+[ certain/JJ securities/NNS ]
+,/, such/JJ as/IN 
+[ zero-coupon/JJ bonds/NNS ]
+,/, 
+[ that/WDT ]
+postpone/VBP 
+[ cash/NN interest/NN payments/NNS ]
+./. 
+
+======================================
+
+--/: Raise/VB 
+[ $/$ 851/CD million/CD ]
+by/IN repealing/VBG 
+[ an/DT automatic/JJ reduction/NN ]
+in/IN 
+[ airport/NN ]
+and/CC 
+[ airway/NN taxes/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Speed/VB ]
+up/RP 
+[ the/DT collection/NN ]
+of/IN 
+[ the/DT payroll/NN tax/NN ]
+from/IN 
+[ large/JJ companies/NNS ]
+,/, 
+[ effective/JJ August/NNP 1990./CD ]
+--/: Impose/VB 
+[ a/DT tax/NN ]
+on/IN 
+[ ozone-depleting/JJ chemicals/NNS ]
+,/, such/JJ as/IN 
+[ those/DT ]
+used/VBN in/IN 
+[ air/NN conditioners/NNS ]
+and/CC in/IN 
+[ Styrofoam/NNP ]
+,/, beginning/VBG at/IN 
+[ $/$ 1.10/CD ]
+
+[ a/DT pound/NN ]
+starting/VBG 
+[ next/JJ year/NN ]
+./. 
+
+======================================
+
+--/: Repeal/VB 
+[ special/JJ tax/NN breaks/NNS ]
+created/VBN for/IN 
+[ financial/JJ institutions/NNS ]
+
+[ that/WDT ]
+will/MD be/VB getting/VBG 
+[ direct/JJ aid/NN ]
+from/IN 
+[ the/DT savings-and-loan/JJ bailout/NN legislation/NN ]
+./. 
+
+======================================
+
+--/: Withhold/VB 
+[ income/NN taxes/NNS ]
+from/IN 
+[ the/DT paychecks/NNS ]
+of/IN 
+[ certain/JJ farm/NN workers/NNS ]
+currently/RB exempt/VB from/IN 
+[ withholding/NN ]
+./. 
+
+======================================
+
+--/: 
+[ Repeal/VB ]
+
+[ what/WP ]
+remains/VBZ of/IN 
+[ the/DT completed-contract/JJ method/NN ]
+of/IN 
+[ accounting/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ used/VBN by/IN 
+[ military/JJ contractors/NNS ]
+to/TO reduce/VB 
+[ their/PRP$ tax/NN burden/NN ]
+./. 
+
+======================================
+
+--/: Permit/VB 
+[ corporations/NNS ]
+to/TO use/VB 
+[ excess/JJ pension/NN funds/NNS ]
+to/TO pay/VB 
+[ health/NN benefits/NNS ]
+for/IN 
+[ current/JJ retirees/NNS ]
+./. 
+
+Using/VBG 
+[ the/DT pension/NN excess/NN ]
+would/MD increase/VB 
+[ a/DT company/NN 's/POS taxable/JJ income/NN ]
+./. 
+
+Currently/RB ,/, 
+[ companies/NNS ]
+deduct/VBP as/IN 
+[ business/NN ]
+expenses/NNS 
+[ the/DT money/NN ]
+
+[ they/PRP ]
+use/VBP to/TO pay/VB for/IN 
+[ retirees/NNS '/POS health/NN benefits/NNS ]
+./. 
+
+======================================
+
+--/: Change/VB 
+[ the/DT collection/NN ]
+of/IN 
+[ gasoline/NN excise/NN taxes/NNS ]
+to/TO 
+[ weekly/JJ ]
+from/IN semimonthly/JJ ,/, 
+[ effective/JJ ]
+next/JJ 
+[ year/NN ]
+./. 
+
+======================================
+
+--/: Restrict/VB 
+[ the/DT ability/NN ]
+of/IN 
+[ real/JJ estate/NN owners/NNS ]
+to/TO escape/VB 
+[ taxes/NNS ]
+by/IN swapping/VBG 
+[ one/CD piece/NN ]
+of/IN 
+[ property/NN ]
+for/IN 
+[ another/DT ]
+instead/RB of/IN selling/VBG 
+[ it/PRP ]
+for/IN 
+[ cash/NN ]
+./. 
+
+======================================
+
+--/: Impose/VB 
+[ a/DT tax/NN ]
+of/IN 
+[ three/CD cents/NNS ]
+
+[ a/DT barrel/NN ]
+on/IN 
+[ domestic/JJ crude/NN oil/NN ]
+,/, 
+[ effective/NN ]
+next/JJ 
+[ year/NN ]
+,/, to/TO pay/VB for/IN 
+[ a/DT fund/NN ]
+
+[ that/WDT ]
+finances/VBZ 
+[ oil-spill/JJ cleanups/NNS ]
+./. 
+
+======================================
+
+--/: 
+[ Increase/VB ]
+to/TO 
+[ $/$ 6/CD ]
+
+[ a/DT person/NN ]
+from/IN 
+[ $/$ 3/CD ]
+
+[ the/DT international/JJ air-passenger/NN departure/NN tax/NN ]
+,/, and/CC impose/VB 
+[ a/DT $/$ 3-a-person/JJ tax/NN ]
+on/IN 
+[ international/JJ departures/NNS ]
+by/IN 
+[ commercial/JJ ships/NNS ]
+./. 
+
+======================================
+
+--/: Make/VB 
+[ permanent/JJ a/DT 3/CD %/NN excise/NN tax/NN ]
+on/IN 
+[ long-distance/JJ telephoning/NN ]
+
+[ that/WDT ]
+is/VBZ due/JJ to/TO expire/VB at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ next/JJ year/NN ]
+./. 
+
+======================================
+
+[ Tax/NN Reductions/NNS ]
+
+======================================
+
+Under/IN 
+[ current/JJ law/NN ]
+,/, 
+[ individuals/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB have/VB 
+[ employer-provided/JJ pension/NN plans/NNS ]
+can/MD make/VB fully/RB 
+[ deductible/JJ contributions/NNS ]
+into/IN 
+[ IRAs/NNPS ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 2,000/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+Also/RB ,/, married/JJ 
+[ couples/NNS ]
+with/IN less/RBR than/IN 
+[ $/$ 40,000/CD ]
+in/IN 
+[ adjusted/VBN gross/JJ income/NN ]
+and/CC 
+[ single/JJ people/NNS ]
+with/IN 
+[ incomes/NNS ]
+of/IN less/RBR than/IN 
+[ $/$ 25,000/CD ]
+may/MD make/VB 
+[ deductible/JJ IRA/NNP contributions/NNS ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT committee/NN plan/NN ]
+proposed/VBN by/IN 
+[ Chairman/NNP Lloyd/NNP Bentsen/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Texas/NNP ]
+ )/) ,/, 
+[ those/DT ]
+
+[ who/WP ]
+are/VBP currently/RB eligible/JJ for/IN fully/RB 
+[ deductible/JJ IRAs/NNPS ]
+would/MD continue/VB to/TO get/VB 
+[ the/DT same/JJ tax/NN treatment/NN ]
+./. 
+
+[ Those/DT ]
+
+[ who/WP ]
+do/VBP n't/RB currently/RB qualify/VB would/MD get/VB 
+[ a/DT deduction/NN ]
+of/IN 
+[ 50/CD %/NN ]
+of/IN 
+[ their/PRP$ IRA/NNP contribution/NN ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 2,000/CD ]
+annually/RB ./. 
+
+Thus/RB ,/, 
+[ an/DT individual/NN ]
+making/VBG 
+[ an/DT IRA/NNP contribution/NN ]
+of/IN 
+[ $/$ 2,000/CD ]
+would/MD get/VB 
+[ a/DT $/$ 1,000/CD deduction/NN ]
+./. 
+
+======================================
+
+[ The/DT Finance/NNP Committee/NNP plan/NN ]
+would/MD allow/VB 
+[ penalty-free/JJ withdrawals/NNS ]
+of/IN 
+[ IRA/NNP funds/NNS ]
+if/IN 
+[ the/DT money/NN ]
+is/VBZ used/VBN for/IN 
+[ higher-education/JJ expenses/NNS ]
+,/, 
+[ first-home/JJ purchases/NNS ]
+and/CC ,/, as/IN in/IN 
+[ current/JJ law/NN ]
+,/, 
+[ retirement/NN ]
+./. 
+
+======================================
+
+[ Another/DT provision/NN ]
+would/MD increase/VB 
+[ tax/NN credits/NNS ]
+for/IN 
+[ child/NN care/NN ]
+and/CC for/IN 
+[ low-income/JJ families/NNS ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+also/RB would/MD extend/VB 
+[ several/JJ popular/JJ tax/NN credits/NNS ]
+
+[ that/WDT ]
+are/VBP scheduled/VBN to/TO expire/VB at/IN 
+[ year/NN 's/POS end/NN ]
+./. 
+
+[ It/PRP ]
+would/MD extend/VB for/IN 
+[ two/CD years/NNS ]
+,/, through/IN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1991/CD ]
+,/, 
+[ the/DT credit/NN ]
+
+[ that/WDT ]
+helps/VBZ 
+[ employers/NNS ]
+hire/VB 
+[ low-income/JJ workers/NNS ]
+,/, and/CC 
+[ the/DT credits/NNS ]
+
+[ that/WDT ]
+encourage/VBP 
+[ solar/JJ ]
+,/, 
+[ geothermal/JJ ]
+and/CC 
+[ oceanthermal/JJ energy/NN projects/NNS ]
+by/IN 
+[ businesses/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB would/MD restore/VB for/IN 
+[ two/CD years/NNS ]
+
+[ the/DT exclusion/NN ]
+from/IN 
+[ income/NN ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 5,250/CD ]
+in/IN 
+[ educational/JJ assistance/NN ]
+provided/VBN by/IN 
+[ employers/NNS ]
+to/TO 
+[ their/PRP$ workers/NNS ]
+./. 
+
+======================================
+
+[ Permanent/JJ extensions/NNS ]
+would/MD be/VB granted/VBN 
+[ credits/NNS ]
+
+[ that/WDT ]
+assist/VBP 
+[ the/DT construction/NN ]
+of/IN 
+[ lowincome/JJ ]
+housing/NN and/CC provide/VB 
+[ incentives/NNS ]
+for/IN 
+[ corporate/JJ research/NN ]
+and/CC 
+[ development/NN spending/NN ]
+./. 
+
+[ These/DT two/CD tax/NN ]
+breaks/NNS also/RB were/VBD extended/VBN permanently/RB by/IN 
+[ the/DT House/NNP Ways/NNPS ]
+and/CC 
+[ Means/NNPS Committee/NNP ]
+./. 

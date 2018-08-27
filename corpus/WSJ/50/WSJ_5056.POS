@@ -1,0 +1,835 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ It/PRP ]
+'s/VBZ easy/JJ to/TO get/VB excited/VBN about/IN 
+[ Surgical/NNP Laser/NNP Technologies/NNPS ]
+,/, 
+[ a/DT new/JJ issue/NN ]
+slated/VBN to/TO begin/VB trading/VBG on/IN 
+[ the/DT Nasdaq/NNP over-the-counter/JJ market/NN ]
+
+[ this/DT week/NN ]
+./. 
+
+======================================
+
+[ The/DT Malvern/NNP ]
+,/, 
+[ Pa.-based/JJ company/NN ]
+,/, 
+[ which/WDT ]
+develops/VBZ 
+[ laser-surgery/NN devices/NNS ]
+,/, just/RB reported/VBD 
+[ its/PRP$ first/JJ profit/NN ]
+,/, and/CC 
+[ it/PRP ]
+holds/VBZ 
+[ a/DT patent/NN ]
+on/IN 
+[ a/DT new/JJ laser/NN instrument/NN ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ planning/VBG to/TO issue/VB 
+[ 1.5/CD million/CD shares/NNS ]
+in/IN 
+[ its/PRP$ initial/JJ public/NN offering/NN ]
+,/, for/IN 
+[ $/$ 9.50/CD ]
+to/TO 
+[ $/$ 11.50/CD ]
+
+[ a/DT share/NN ]
+,/, at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ laser/NN stocks/NNS ]
+are/VBP 
+[ one/CD ]
+of/IN 
+[ the/DT hottest/JJS industry/NN groups/NNS ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+./. 
+
+======================================
+
+[ Some/DT ]
+think/VBP 
+[ the/DT company/NN 's/POS timing/NN ]
+could/MD n't/RB be/VB better/JJR ./. 
+
+``/`` 
+[ The/DT next/JJ 10/CD years/NNS ]
+will/MD be/VB 
+[ gangbusters/NNS ]
+for/IN 
+[ laser/NN companies/NNS ]
+,/, ''/'' predicts/VBZ 
+[ Edward/NNP Mutsch/NNP ]
+,/, 
+[ a/DT medical/JJ technology/NN analyst/NN ]
+at/IN 
+[ Piper/NNP ]
+,/, 
+[ Jaffray/NNP ]
+&/CC 
+[ Hopwood/NNP ]
+in/IN 
+[ Minneapolis/NNP ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ lots/NNS ]
+of/IN 
+[ risks/NNS ]
+,/, but/CC 
+[ the/DT potential/NN ]
+is/VBZ exciting/JJ ./. 
+
+''/'' 
+======================================
+
+[ Other/JJ analysts/NNS ]
+,/, however/RB ,/, remain/VBP 
+[ cool/JJ ]
+./. 
+
+``/`` 
+[ There/EX ]
+'s/VBZ 
+[ a/DT hot/JJ new/JJ laser/NN ]
+
+[ every/DT year/NN ]
+,/, ''/'' says/VBZ 
+[ Kenneth/NNP Abramowitz/NNP ]
+,/, 
+[ a/DT medical/JJ technology/NN stock/NN analyst/NN ]
+at/IN 
+[ Sanford/NNP C./NNP Bernstein/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+``/`` 
+[ The/DT technology/NN ]
+is/VBZ sexy/JJ ./. 
+
+But/CC 
+[ I/PRP ]
+do/VBP n't/RB spend/VB 
+[ much/JJ time/NN ]
+following/VBG 
+[ the/DT companies/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Lasers/NNS ]
+harness/VBP 
+[ the/DT natural/JJ energy/NN states/NNS ]
+of/IN 
+[ electrons/NNS ]
+to/TO produce/VB 
+[ a/DT high-intensity/JJ beam/NN ]
+of/IN 
+[ light/NN ]
+./. 
+
+Used/VBN in/IN 
+[ surgery/NN ]
+,/, according/VBG to/TO 
+[ manufacturers/NNS ]
+and/CC 
+[ doctors/NNS ]
+,/, 
+[ they/PRP ]
+offer/VBP 
+[ a/DT number/NN ]
+of/IN 
+[ benefits/NNS ]
+over/IN 
+[ standard/JJ procedures/NNS ]
+,/, such/JJ as/IN increased/VBN 
+[ precision/NN ]
+,/, faster/JJR healing/NN ,/, 
+[ shorter/JJR hospital/NN stays/NNS ]
+and/CC reduced/JJ 
+[ bleeding/NN ]
+,/, swelling/NN ,/, 
+[ pain/NN ]
+and/CC 
+[ infection/NN ]
+./. 
+
+======================================
+
+[ Stock/NN prices/NNS ]
+of/IN 
+[ laser/NN makers/NNS Summit/NNP Technology/NNP ]
+,/, 
+[ Visx/NNP ]
+,/, 
+[ Taunton/NNP Technologies/NNPS ]
+and/CC 
+[ Coherent/NNP ]
+have/VBP jumped/VBN sharply/RB 
+[ this/DT year/NN ]
+./. 
+
+But/CC 
+[ many/JJ analysts/NNS ]
+fret/VBP that/IN 
+[ many/JJ ]
+of/IN 
+[ the/DT companies/NNS ]
+do/VBP n't/RB have/VB 
+[ steady/JJ ]
+,/, 
+[ reliable/JJ streams/NNS ]
+of/IN 
+[ revenue/NN ]
+because/IN 
+[ lasers/NNS ]
+are/VBP n't/RB disposable/JJ and/CC ,/, therefore/RB ,/, do/VBP n't/RB generate/VB 
+[ repeat/NN sales/NNS ]
+./. 
+
+======================================
+
+``/`` Selling/VBG 
+[ one/CD product/NN ]
+to/TO 
+[ one/CD customer/NN ]
+that/IN 
+[ you/PRP ]
+never/RB see/VBP again/RB is/VBZ n't/RB much/JJ of/IN 
+[ a/DT business/NN ]
+,/, ''/'' says/VBZ 
+[ Neal/NNP Bradsher/NNP ]
+,/, 
+[ a/DT medical/JJ technology/NN analyst/NN ]
+at/IN 
+[ Hambrecht/NNP ]
+&/CC 
+[ Quist/NNP ]
+./. 
+
+[ Disposable/JJ products/NNS ]
+,/, on/IN 
+[ the/DT other/JJ hand/NN ]
+,/, tend/VBP to/TO have/VB 
+[ good/JJ margins/NNS ]
+,/, provide/VB 
+[ steady/JJ revenue/NN flow/NN ]
+and/CC have/VB 
+[ more/RBR predictable/JJ sales/NNS patterns/NNS ]
+,/, 
+[ he/PRP ]
+explains/VBZ ./. 
+
+======================================
+
+Furthermore/RB ,/, 
+[ the/DT disappointing/JJ results/NNS ]
+and/CC 
+[ inherent/JJ risks/NNS ]
+of/IN 
+[ some/DT laser/NN techniques/NNS ]
+lead/VBP 
+[ many/JJ analysts/NNS ]
+to/TO wonder/VB whether/IN 
+[ the/DT industry/NN ]
+will/MD live/VB up/IN to/TO 
+[ investors/NNS '/POS expectations/NNS ]
+./. 
+
+======================================
+
+Just/RB 
+[ last/JJ June/NNP ]
+,/, 
+[ research/NN ]
+by/IN 
+[ one/CD cardiologist/NN cast/NN doubts/NNS ]
+on/IN 
+[ Trimedyne/NNP 's/POS laser/NN therapy/NN ]
+,/, citing/VBG 
+[ deaths/NNS ]
+,/, 
+[ limb/NN amputations/NNS ]
+and/CC 
+[ other/JJ complications/NNS ]
+
+[ that/WDT ]
+occurred/VBD after/IN 
+[ some/DT patients/NNS ]
+used/VBD 
+[ the/DT treatment/NN ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD at/IN 
+[ the/DT time/NN ]
+that/IN 
+[ investors/NNS ]
+misinterpreted/VBD 
+[ the/DT study/NN 's/POS findings/NNS ]
+,/, leading/VBG to/TO 
+[ a/DT steep/JJ drop/NN ]
+in/IN 
+[ the/DT stock/NN price/NN ]
+./. 
+
+[ Trimedyne/NNP ]
+finished/VBD 
+[ unchanged/JJ ]
+at/IN 
+[ 9/CD Friday/NNP ]
+,/, and/CC is/VBZ down/RB 
+[ 54/CD %/NN ]
+for/IN 
+[ the/DT year/NN ]
+./. 
+
+======================================
+
+[ Investor/NN interest/NN ]
+in/IN 
+[ Summit/NNP Technology/NNP ]
+,/, 
+[ Visx/NNP ]
+and/CC 
+[ Taunton/NNP Technologies/NNPS ]
+blossomed/VBD 
+[ last/JJ month/NN ]
+after/IN 
+[ an/DT article/NN ]
+in/IN 
+[ this/DT newspaper/NN ]
+said/VBD 
+[ the/DT three/CD companies/NNS ]
+are/VBP racing/VBG to/TO market/VB 
+[ a/DT version/NN ]
+of/IN 
+[ a/DT ]
+highly/RB specialized/VBN 
+[ laser/NN ]
+to/TO correct/VB 
+[ vision/NN defects/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ its/PRP$ prospectus/NN ]
+,/, 
+[ Surgical/NNP Laser/NNP Technologies/NNPS ]
+says/VBZ 
+[ it/PRP ]
+plans/VBZ to/TO focus/VB selling/VBG 
+[ its/PRP$ products/NNS ]
+in/IN 
+[ such/JJ areas/NNS ]
+as/IN 
+[ gynecology/NN ]
+,/, 
+[ general/JJ surgery/NN ]
+and/CC 
+[ orthopedics/NNS ]
+,/, even/RB though/IN 
+[ its/PRP$ laser/NN system/NN ]
+has/VBZ been/VBN approved/VBN by/IN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+for/IN 
+[ various/JJ other/JJ uses/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+also/RB is/VBZ working/VBG with/IN 
+[ Medtronic/NNP ]
+,/, 
+[ another/DT medical/JJ devices/NNS maker/NN ]
+,/, to/TO develop/VB and/CC obtain/VB 
+[ regulatory/JJ approval/NN ]
+of/IN 
+[ laser/NN catheters/NNS ]
+for/IN 
+[ treating/VBG heart/NN ]
+and/CC 
+[ limb/NN arteries/NNS ]
+./. 
+
+======================================
+
+[ Surgical/NNP Laser/NNP ]
+says/VBZ 
+[ it/PRP ]
+has/VBZ 
+[ a/DT patented/VBN ]
+``/`` 
+[ contact/NN laser/NN system/NN ]
+''/'' 
+[ that/WDT ]
+allows/VBZ 
+[ surgeons/NNS ]
+to/TO use/VB 
+[ the/DT laser/NN instrument/NN ]
+directly/RB on/IN 
+[ the/DT tissue/NN ]
+being/VBG treated/VBN ./. 
+
+[ Doctors/NNS ]
+using/VBG 
+[ non-contact/JJ lasers/NNS ]
+must/MD hold/VB 
+[ the/DT devices/NNS ]
+away/RB from/IN 
+[ the/DT tissue/NN ]
+being/VBG treated/VBN and/CC attempt/VB to/TO control/VB 
+[ the/DT laser/NN ]
+from/IN 
+[ a/DT distance/NN ]
+./. 
+
+======================================
+
+[ Surgical/NNP Laser/NNP 's/POS system/NN ]
+includes/VBZ 
+[ a/DT portable/NN unit/NN ]
+
+[ that/WDT ]
+transmits/VBZ 
+[ the/DT laser/NN energy/NN ]
+,/, as/RB well/RB as/IN 
+[ interchangeable/JJ probes/NNS ]
+and/CC 
+[ scalpels/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB has/VBZ 
+[ disposable/JJ hand/NN pieces/NNS ]
+and/CC 
+[ fibers/NNS ]
+
+[ that/WDT ]
+connect/VBP 
+[ the/DT probes/NNS ]
+to/TO 
+[ the/DT energy/NN source/NN ]
+,/, according/VBG to/TO 
+[ Scott/NNP Greisler/NNP ]
+,/, 
+[ a/DT company/NN spokesman/NN ]
+./. 
+
+[ The/DT prospectus/NN ]
+states/VBZ that/IN 
+[ 42/CD %/NN ]
+of/IN 
+[ the/DT company/NN 's/POS revenue/NN ]
+since/IN 
+[ its/PRP$ inception/NN ]
+has/VBZ come/VBN from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ the/DT disposables/NNS ]
+and/CC 
+[ other/JJ accessories/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT year/NN ]
+ended/VBN 
+[ Jan./NNP 1/CD ]
+,/, 
+[ the/DT company/NN 's/POS sales/NNS ]
+totaled/VBD 
+[ $/$ 12.2/CD million/CD ]
+./. 
+
+In/IN 
+[ the/DT six/CD months/NNS ]
+ended/VBN 
+[ July/NNP 2/CD ]
+,/, 
+[ sales/NNS ]
+were/VBD 
+[ $/$ 10.6/CD million/CD ]
+./. 
+
+======================================
+
+[ Piper/NNP Jaffray/NNP 's/POS Mr./NNP Mutsch/NNP ]
+says/VBZ 
+[ the/DT projected/VBN price/NN ]
+is/VBZ roughly/RB 
+[ 2.4/CD times/NNS ]
+estimated/VBN 
+[ 1989/CD revenue/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ reasonable/JJ for/IN 
+[ an/DT emerging-growth/NN company/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ Surgical/NNP Laser/NNP ]
+``/`` looks/VBZ 
+[ a/DT lot/NN ]
+less/RBR risky/JJ than/IN 
+[ most/JJS ]
+''/'' 
+[ medical/JJ laser/NN companies/NNS ]
+,/, 
+[ Mr./NNP Mutsch/NNP ]
+says/VBZ ./. 
+
+======================================
+
+But/CC 
+[ Norman/NNP Fosback/NNP ]
+,/, 
+[ editor/NN ]
+of/IN 
+[ a/DT newsletter/NN ]
+on/IN 
+[ IPOs/NNPS ]
+based/VBN in/IN 
+[ Fort/NNP Lauderdale/NNP ]
+,/, 
+[ Fla./NNP ]
+,/, thinks/VBZ 
+[ Surgical/NNP Laser/NNP 's/POS shares/NNS ]
+are/VBP ``/`` richly/RB priced/VBN ./. 
+
+''/'' In/IN 
+[ the/DT first/JJ six/CD months/NNS ]
+,/, 
+[ the/DT company/NN ]
+earned/VBD 
+[ $/$ 464,000/CD ]
+,/, or/CC 
+[ 11/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Mr./NNP Fosback/NNP ]
+calculates/VBZ that/IN ,/, at/IN 
+[ the/DT current/JJ offering-price/JJ range/NN ]
+,/, 
+[ investors/NNS ]
+will/MD pay/VB roughly/RB 
+[ 50/CD times/NNS 1989/CD earnings/NNS ]
+,/, based/VBN on/IN 
+[ his/PRP$ estimate/NN ]
+of/IN 
+[ 20/CD cents/NNS ]
+
+[ a/DT share/NN ]
+for/IN 
+[ the/DT year/NN ]
+ending/VBG in/IN 
+[ January/NNP ]
+./. 
+
+[ His/PRP$ advice/NN ]
+to/TO 
+[ investors/NNS ]
+:/: Wait/VB for/IN 
+[ a/DT discount/NN ]
+to/TO develop/VB after/IN 
+[ the/DT shares/NNS ]
+start/VBP trading/VBG in/IN 
+[ the/DT open/JJ market/NN ]
+./. 
+
+======================================
+
+[ BLUE/JJ SKIES/NNS ]
+IN/IN 
+[ THE/DT GOLDEN/NNP STATE/NNP ]
+:/: 
+[ The/DT National/NNP Association/NNP ]
+of/IN 
+[ Securities/NNPS Dealers/NNPS ]
+said/VBD 
+[ California/NNP ]
+now/RB exempts/VBZ 
+[ Nasdaq/NNP 's/POS National/NNP Market/NNP System/NNP stocks/NNS ]
+from/IN 
+[ the/DT state/NN 's/POS securities/NNS registration/NN requirements/NNS ]
+known/VBN as/IN 
+[ blue-sky/JJ laws/NNS ]
+./. 
+
+[ The/DT exemption/NN ]
+means/VBZ that/IN 
+[ companies/NNS whose/WP$ issues/NNS ]
+are/VBP 
+[ part/NN ]
+of/IN 
+[ the/DT elite/JJ NMS/NNP system/NN ]
+wo/MD n't/RB have/VB to/TO meet/VB 
+[ costly/JJ ]
+and/CC 
+[ time-consuming/JJ filing/NN requirements/NNS ]
+before/IN selling/VBG 
+[ shares/NNS ]
+in/IN 
+[ the/DT state/NN ]
+./. 
+
+======================================
+
+[ Friday/NNP 's/POS Market/NN Activity/NN ]
+
+======================================
+
+[ The/DT Nasdaq/NNP Composite/NNP Index/NNP ]
+rose/VBD 
+[ 1.07/CD ]
+to/TO 
+[ 468.07/CD ]
+,/, to/TO end/VB 
+[ the/DT week/NN ]
+up/RB 
+[ 0.1/CD %/NN ]
+./. 
+
+[ Both/DT ]
+
+[ indexes/NNS ]
+of/IN 
+[ larger/JJR OTC/NNP stocks/NNS ]
+were/VBD higher/JJR ./. 
+
+[ The/DT Nasdaq/NNP 100/CD Index/NNP ]
+advanced/VBD 
+[ 2.47/CD ]
+to/TO 
+[ 447.78/CD ]
+,/, while/IN 
+[ the/DT Nasdaq/NNP Financial/NNP Index/NNP ]
+improved/VBD 
+[ 0.16/CD ]
+to/TO 
+[ 463.01/CD ]
+./. 
+
+[ Volume/NN ]
+totaled/VBD 
+[ 148.9/CD million/CD shares/NNS ]
+./. 
+
+======================================
+
+[ Noxell/NNP shares/NNS ]
+soared/VBD 
+[ 47/CD %/NN ]
+,/, or/CC 
+[ 10/CD ]
+,/, to/TO 
+[ 31/CD 1\/4/CD ]
+,/, after/IN 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP 's/POS announcement/NN ]
+of/IN 
+[ a/DT $/$ 1.3/CD billion/CD agreement/NN ]
+to/TO acquire/VB 
+[ the/DT company/NN ]
+in/IN 
+[ a/DT stock/NN swap/NN ]
+./. 
+
+Under/IN 
+[ the/DT agreement/NN ]
+,/, 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP ]
+would/MD exchange/VB ,/, on/IN 
+[ a/DT tax-free/JJ basis/NN ]
+,/, 
+[ 0.272/CD shares/NNS ]
+of/IN 
+[ its/PRP$ stock/NN ]
+for/IN 
+[ each/DT Noxell/NNP common/NN ]
+and/CC 
+[ Class/NNP B/JJ share/NN ]
+./. 
+
+[ P&G/NNP ]
+said/VBD that/IN based/VBN on/IN 
+[ recent/JJ market/NN prices/NNS ]
+,/, 
+[ its/PRP$ offer/NN ]
+values/VBZ 
+[ Noxell/NNP 's/POS shares/NNS ]
+at/IN about/RB 
+[ $/$ 33.15/CD each/DT ]
+./. 
+
+======================================
+
+[ The/DT American/JJ depositary/NN receipts/NNS ]
+of/IN 
+[ Jaguar/NNP ]
+again/RB headed/VBD 
+[ the/DT Nasdaq/NN most-actives/JJS list/NN ]
+,/, gaining/VBG 
+[ 13\/32/CD ]
+to/TO 
+[ 9/CD 7\/32/CD ]
+on/IN 
+[ 4.2/CD million/CD shares/NNS ]
+traded/VBN ./. 
+
+In/IN 
+[ response/NN ]
+to/TO 
+[ Ford/NNP Motor/NNP 's/POS announcement/NN ]
+that/IN 
+[ it/PRP ]
+intends/VBZ to/TO take/VB up/RP as/RB much/JJ as/IN 
+[ a/DT 15/CD %/NN stake/NN ]
+in/IN 
+[ the/DT company/NN ]
+,/, 
+[ the/DT British/JJ auto/NN maker/NN ]
+said/VBD that/IN 
+[ it/PRP ]
+would/MD consider/VB 
+[ any/DT bid/NN ]
+to/TO take/VB 
+[ control/NN ]
+of/IN 
+[ the/DT company/NN ]
+``/`` 
+[ unwelcome/JJ ]
+,/, ''/'' and/CC vowed/VBD to/TO take/VB 
+[ action/NN ]
+to/TO preserve/VB 
+[ its/PRP$ independence/NN ]
+./. 
+
+======================================
+
+[ Adobe/NNP Systems/NNPS ]
+rose/VBD 
+[ 7\/8/CD ]
+to/TO close/VB at/IN 
+[ 16/CD 1\/2/CD ]
+./. 
+
+[ The/DT company/NN ]
+,/, 
+[ whose/WP$ shares/NNS ]
+sank/VBD following/VBG 
+[ news/NN ]
+of/IN 
+[ an/DT agreement/NN ]
+between/IN 
+[ Microsoft/NNP ]
+and/CC 
+[ Apple/NNP Computer/NNP ]
+to/TO jointly/RB develop/VB 
+[ certain/JJ computer/NN technology/NN ]
+,/, announced/VBD 
+[ a/DT buy-back/NN ]
+of/IN up/IN to/TO 
+[ $/$ 15/CD million/CD ]
+,/, or/CC about/RB 
+[ 4.8/CD %/NN ]
+,/, of/IN 
+[ its/PRP$ common/JJ shares/NNS ]
+outstanding/JJ ./. 
+
+======================================
+
+[ Adaptec/NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ computer/NN data/NN flow/NN systems/NNS ]
+,/, rose/VBD 
+[ 7\/8/CD ]
+to/TO 
+[ 16/CD 1\/2/CD ]
+on/IN nearly/RB 
+[ 300,000/CD shares/NNS ]
+./. 
+
+[ Needham/NNP ]
+&/CC 
+[ Co./NNP ]
+said/VBD 
+[ it/PRP ]
+believes/VBZ 
+[ the/DT company/NN ]
+will/MD be/VB 
+[ a/DT major/JJ beneficiary/NN ]
+of/IN 
+[ some/DT news/NN ]
+from/IN 
+[ International/NNP Business/NNP Machines/NNPS ]
+
+[ this/DT week/NN ]
+./. 
+
+======================================
+
+[ International/NNP Holding/NNP Capital/NNP ]
+gained/VBD 
+[ 2/CD 1\/2/CD ]
+to/TO 
+[ 24/CD ]
+./. 
+
+[ The/DT holding/VBG company/NN ]
+for/IN 
+[ International/NNP Savings/NNPS ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+said/VBD 
+[ it/PRP ]
+signed/VBD 
+[ an/DT agreement/NN ]
+to/TO be/VB acquired/VBN by/IN 
+[ Maruwa/NNP Koyo/NNP ]
+for/IN 
+[ $/$ 28.50/CD ]
+
+[ a/DT share/NN ]
+./. 

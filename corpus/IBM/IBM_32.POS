@@ -1,0 +1,1190 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 3101/CD ]
+./. 
+
+[ The/DT format/NN ]
+of/IN 
+[ the/DT ID/NN card/NN ]
+is/VBZ :/: 
+[ 3102/CD ]
+./. 
+
+[ A/DT list/NN processor/NN ]
+is/VBZ 
+[ a/DT special/JJ service/NN link/NN ]
+
+[ that/WDT ]
+processes/VBZ 
+[ files/NNS ]
+with/IN 
+[ distribution/NN lists/NNS ]
+./. 
+
+[ 3103/CD ]
+./. 
+
+Here/RB is/VBZ 
+[ your/PRP$ network/NN ]
+with/IN 
+[ the/DT files/NNS ]
+being/VBG sent/VBN :/: 
+[ 3104/CD ]
+./. 
+
+[ The/DT longer/JJR your/PRP$ distribution/NN list/NN ]
+,/, 
+[ the/DT more/RBR ]
+
+[ you/PRP ]
+save/VBP using/VBG 
+[ the/DT list/NN processor/NN ]
+./. 
+
+[ 3105/CD ]
+./. 
+
+[ The/DT file/NN ]
+must/MD have/VB 
+[ the/DT following/VBG format/NN ]
+:/: 
+[ 3106/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, if/IN 
+[ the/DT personal/JJ message/NN ]
+was/VBD 
+[ three/CD lines/NNS ]
+long/RB ,/, 
+[ the/DT count/NN field/NN ]
+would/MD also/RB be/VB 
+[ 3/CD ]
+./. 
+
+[ 3107/CD ]
+./. 
+
+See/VB 
+[ page/NN 17/CD ]
+for/IN 
+[ the/DT time/NN ]
+and/CC 
+[ place/NN ]
+./. 
+
+[ 3108/CD ]
+./. 
+
+[ The/DT following/VBG example/NN ]
+illustrates/VBZ 
+[ sending/VBG spool/NN output/NN ]
+from/IN 
+[ a/DT VM/NNP system/NN ]
+to/TO 
+[ a/DT remote/JJ 3270/CD Information/NNP Display/NNP System/NNP printer/NN ]
+./. 
+
+[ 3109/CD ]
+./. 
+
+[ The/DT user/NN ID/NN ]
+must/MD be/VB ``/`` 
+[ SYSTEM/NNP ]
+./. 
+
+[ ''/'' 3110/CD ]
+./. 
+
+[ Any/DT printable/JJ data/NN ]
+is/VBZ truncated/VBN to/TO 
+[ the/DT maximum/JJ print/NN line/NN length/NN ]
+of/IN 
+[ the/DT work/NN station/NN printer/NN ]
+./. 
+
+[ 3111/CD ]
+./. 
+
+[ These/DT needs/NNS ]
+supply/VBP 
+[ the/DT answers/NNS ]
+to/TO 
+[ such/JJ questions/NNS ]
+as/IN :/: 
+[ 3112/CD ]
+./. 
+
+Will/MD 
+[ the/DT connections/NNS ]
+be/VB made/VBN through/IN 
+[ switched/JJ ]
+or/CC 
+[ non-switched/JJ lines/NNS ]
+?/. 
+
+[ 3113/CD ]
+./. 
+
+[ The/DT following/VBG pages/NNS ]
+describe/VBP 
+[ each/DT ]
+of/IN 
+[ these/DT steps/NNS ]
+in/IN 
+[ more/JJR detail/NN ]
+./. 
+
+[ 3114/CD ]
+./. 
+
+[ You/PRP ]
+must/MD load/VB 
+[ it/PRP ]
+into/IN 
+[ virtual/JJ storage/NN ]
+before/IN using/VBG 
+[ it/PRP ]
+./. 
+
+[ 3115/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+had/VBD occurred/VBN ,/, 
+[ an/DT error/NN return/NN code/NN ]
+would/MD have/VB been/VBN included/VBN ./. 
+
+[ 3116/CD ]
+./. 
+
+[ Ready/NNP ]
+(/( 
+[ 28/CD ]
+)/) ;/: In/IN 
+[ this/DT case/NN ]
+,/, 
+[ the/DT Ready/NNP message/NN ]
+includes/VBZ 
+[ an/DT error/NN return/NN code/NN ]
+in/IN 
+[ parentheses/NNS ]
+./. 
+
+[ 3117/CD ]
+./. 
+
+[ All/DT others/NNS ]
+remain/VBP as/IN 
+[ they/PRP ]
+were/VBD ./. 
+
+[ 3118/CD ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO starting/VBG 
+[ an/DT inactive/JJ link/NN ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT START/NNP command/NN ]
+to/TO temporarily/RB change/VB 
+[ the/DT link/NN ]
+attributes/NNS of/IN 
+[ an/DT existing/VBG link/NN ]
+./. 
+
+[ 3119/CD ]
+./. 
+
+[ What/WP ]
+
+[ you/PRP ]
+specify/VBP on/IN 
+[ the/DT START/NNP command/NN ]
+remains/VBZ in/IN 
+[ effect/NN ]
+until/IN 
+[ the/DT link/NN ]
+becomes/VBZ 
+[ inactive/JJ ]
+./. 
+
+[ 3120/CD ]
+./. 
+
+Once/RB 
+[ that/DT operator/NN ]
+has/VBZ issued/VBN 
+[ the/DT proper/JJ START/NNP command/NN ]
+,/, 
+[ you/PRP ]
+would/MD see/VB 
+[ the/DT ]
+following/VBG 
+[ informational/JJ messages/NNS ]
+:/: 
+[ 3121/CD ]
+./. 
+
+For/IN 
+[ link/NN WRKSTN1/NNP ]
+,/, 
+[ you/PRP ]
+will/MD see/VB :/: 
+[ 3122/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ a/DT password/NN ]
+for/IN 
+[ an/DT auto-answer/JJ link/NN ]
+./. 
+
+[ 3123/CD ]
+./. 
+
+Record/VB 
+[ the/DT information/NN ]
+in/IN 
+[ the/DT message/NN ]
+to/TO help/VB determine/VB 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT problem/NN ]
+./. 
+
+[ 3124/CD ]
+./. 
+
+[ An/DT auto-start/JJ link/NN ]
+can/MD also/RB be/VB 
+[ an/DT auto-dial/JJ link/NN ]
+./. 
+
+[ 3125/CD ]
+./. 
+
+(/( 
+[ There/EX ]
+are/VBP 
+[ three/CD automatic/JJ ]
+restart/NN 
+[ procedures/NNS ]
+described/VBN below/RB ./. 
+
+)/) 
+[ 3126/CD ]
+./. 
+
+[ A/DT link/NN ]
+may/MD restart/VB automatically/RB under/IN 
+[ certain/JJ conditions/NNS ]
+./. 
+
+[ 3127/CD ]
+./. 
+
+However/RB ,/, file/NN 
+[ mode/NN numbers/NNS 1/CD ]
+,/, 
+[ 2/CD ]
+,/, 
+[ 4/CD ]
+,/, 
+[ 5/CD ]
+,/, and/CC 
+[ 6/CD ]
+are/VBP acceptable/JJ ./. 
+
+[ 3128/CD ]
+./. 
+
+Do/VB not/RB use/VB 
+[ file/NN mode/NN numbers/NNS 0/CD ]
+,/, 
+[ 3/CD ]
+,/, 
+[ 7/CD ]
+,/, 
+[ 8/CD ]
+,/, or/CC 
+[ 9/CD ]
+./. 
+
+[ 3129/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT printer/NN ]
+may/MD have/VB run/VBN out/IN of/IN 
+[ paper/NN ]
+./. 
+
+[ 3130/CD ]
+./. 
+
+[ Each/DT ]
+of/IN 
+[ these/DT link/NN types/NNS ]
+has/VBZ 
+[ common/JJ features/NNS ]
+and/CC 
+[ some/DT ]
+have/VBP 
+[ unique/JJ features/NNS ]
+./. 
+
+[ 3131/CD ]
+./. 
+
+[ The/DT rest/NN ]
+of/IN 
+[ this/DT section/NN ]
+describes/VBZ 
+[ these/DT features/NNS ]
+and/CC indicates/VBZ on/IN 
+[ which/WDT link/NN types/NNS they/PRP ]
+are/VBP available/JJ ./. 
+
+[ 3132/CD ]
+./. 
+
+When/WRB printing/VBG 
+[ the/DT separator/NN pages/NNS ]
+between/IN 
+[ jobs/NNS ]
+,/, 
+[ many/JJ printers/NNS ]
+show/VBP 
+[ the/DT job/NN name/NN ]
+in/IN 
+[ large/JJ ]
+,/, 
+[ block/NN letters/NNS ]
+./. 
+
+[ 3133/CD ]
+./. 
+
+[ A/DT message/NN ]
+can/MD usually/RB fit/VB in/IN 
+[ one/CD buffer/NN ]
+,/, but/CC 
+[ a/DT file/NN ]
+can/MD not/RB ./. 
+
+[ 3134/CD ]
+./. 
+
+[ The/DT remote/JJ work/NN station/NN operator/NN ]
+uses/VBZ 
+[ the/DT ]
+:/: 
+[ 3135/CD ]
+./. 
+
+[ START/NNP command/NN ]
+to/TO cause/VB 
+[ the/DT link/NN ]
+to/TO begin/VB processing/VBG 
+[ files/NNS ]
+./. 
+
+[ 3136/CD ]
+./. 
+
+[ The/DT following/NN ]
+illustrates/VBZ 
+[ different/JJ ways/NNS ]
+to/TO select/VB 
+[ forms/NNS ]
+./. 
+
+[ 3137/CD ]
+./. 
+
+[ Forms/NNS ]
+are/VBP ignored/VBN ;/: 
+[ no/DT forms-change/JJ messages/NNS ]
+are/VBP produced/VBN ./. 
+
+[ 3138/CD ]
+./. 
+
+If/IN 
+[ there/EX ]
+are/VBP 
+[ none/NN ]
+,/, 
+[ the/DT first/JJ file/NN ]
+in/IN 
+[ the/DT queue/NN ]
+is/VBZ selected/VBN ./. 
+
+[ 3139/CD ]
+./. 
+
+[ A/DT ]
+is/VBZ 
+[ the/DT ]
+``/`` 
+[ sequence/NN number-END/NN ''/'' message/NN ]
+and/CC 
+[ B/NN ]
+is/VBZ 
+[ the/DT ]
+``/`` 
+[ END-sequence/JJ number/NN ''/'' message/NN ]
+./. 
+
+[ 3140/CD ]
+./. 
+
+[ The/DT paper/NN ]
+in/IN 
+[ the/DT printer/NN ]
+should/MD be/VB positioned/VBN 
+[ one/CD line/NN ]
+below/IN 
+[ the/DT perforation/NN ]
+in/IN 
+[ the/DT continuous/JJ form/NN paper/NN ]
+to/TO initially/RB set/VB 
+[ the/DT top/NN ]
+of/IN 
+[ a/DT page/NN ]
+./. 
+
+[ 3141/CD ]
+./. 
+
+[ The/DT link/NN ]
+will/MD then/RB issue/VB 
+[ a/DT Forms/NNPS Feed/NN ]
+(/( instead/RB of/IN 
+[ multiple/JJ New/NNP Line/NNP characters/NNS ]
+)/) to/TO skip/VB to/TO 
+[ the/DT top/NN ]
+of/IN 
+[ the/DT next/JJ page/NN ]
+./. 
+
+[ 3142/CD ]
+./. 
+
+[ Output/NN processing/NN ]
+at/IN 
+[ the/DT remote/JJ work/NN station/NN ]
+can/MD be/VB interrupted/VBN at/IN 
+[ any/DT point/NN ]
+to/TO allow/VB 
+[ the/DT transmission/NN ]
+of/IN 
+[ input/NN data/NNS ]
+./. 
+
+[ 3143/CD ]
+./. 
+
+[ This/DT field/NN ]
+is/VBZ required/VBN and/CC must/MD appear/VB in/IN 
+[ columns/NNS 8/CD ]
+through/IN 
+[ 20/CD ]
+./. 
+
+[ 3144/CD ]
+./. 
+
+[ Work/NNP Acceptable/NNP Values/NNPS Default/NNP Station/NNP 2770/CD 128/CD ]
+,/, 
+[ 256/CD ]
+,/, or/CC 
+[ 512/CD 128/CD 2780/CD 170/CD ]
+or/CC 
+[ 400/CD 170/CD 3770/CD 256/CD 256/CD 3780/CD 512/CD 512/CD Note/NN ]
+:/: 
+[ 3145/CD ]
+./. 
+
+[ The/DT buffer/NN ]
+must/MD be/VB large/JJ enough/RB to/TO contain/VB 
+[ six/CD bytes/NNS ]
+of/IN 
+[ control/NN information/NN ]
+and/CC 
+[ the/DT characters/NNS ]
+to/TO be/VB printed/VBN ./. 
+
+[ 3146/CD ]
+./. 
+
+[ One/CD ]
+is/VBZ 
+[ the/DT eight/CD characters/NNS ]
+starting/VBG in/IN 
+[ column/NN 16/CD ]
+./. 
+
+[ 3147/CD ]
+./. 
+
+[ The/DT other/JJ ]
+is/VBZ 
+[ the/DT eight/CD characters/NNS ]
+starting/VBG in/IN 
+[ column/NN 25/CD ]
+./. 
+
+[ 3148/CD ]
+./. 
+
+[ All/DT other/JJ columns/NNS ]
+are/VBP ignored/VBN ./. 
+
+[ 3149/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ ports/NNS ]
+,/, see/VB 
+[ the/DT descriptions/NNS ]
+of/IN 
+[ the/DT ]
+:/: 
+[ 6.0/CD Chapter/NN 6/CD ]
+./. 
+
+[ 3150/CD ]
+./. 
+
+From/IN 
+[ RESVM2/NNP ]
+:/: 
+[ 3151/CD ]
+./. 
+
+Also/RB ,/, 
+[ you/PRP ]
+know/VBP that/IN 
+[ these/DT two/CD files/NNS ]
+are/VBP not/RB 
+[ the/DT same/JJ length/NN ]
+and/CC 
+[ you/PRP ]
+want/VBP 
+[ the/DT longer/JJR one/CD ]
+printed/VBN first/RB ./. 
+
+[ 3152/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+try/VBP ,/, 
+[ you/PRP ]
+will/MD receive/VB 
+[ error/NN message/NN 646E/CD ]
+./. 
+
+[ 3153/CD ]
+./. 
+
+If/IN 
+[ this/DT operator/NN ]
+is/VBZ logged/VBN on/IN 
+[ any/DT ]
+
+[ one/CD ]
+of/IN 
+[ his/PRP$ user/NN IDs/NNS ]
+,/, 
+[ there/EX ]
+is/VBZ not/RB 
+[ a/DT problem/NN ]
+./. 
+
+[ 3154/CD ]
+./. 
+
+[ The/DT link/NN ]
+could/MD have/VB been/VBN in/IN 
+[ one/CD ]
+of/IN 
+[ several/JJ other/JJ states/NNS ]
+:/: 
+[ 3155/CD ]
+./. 
+
+[ This/DT response/NN ]
+tells/VBZ 
+[ you/PRP ]
+how/WRB 
+[ many/JJ files/NNS ]
+are/VBP in/IN 
+[ the/DT queue/NN ]
+for/IN 
+[ link/NN PRINTER1/NNP ]
+./. 
+
+[ 3156/CD ]
+./. 
+
+[ This/DT example/NN ]
+shows/VBZ 
+[ two/CD file/NN states/NNS ]
+:/: sending/VBG and/CC waiting/VBG ./. 
+
+[ 3157/CD ]
+./. 
+
+[ Files/NNS ]
+can/MD have/VB 
+[ the/DT following/VBG states/NNS ]
+:/: 
+[ 3158/CD ]
+./. 
+
+(/( See/VB 
+[ Table/NNP 10/CD ]
+in/IN 
+[ topic/NN A.11.2/CD ]
+for/IN 
+[ a/DT list/NN ]
+of/IN 
+[ options/NNS ]
+./. 
+
+)/) 
+[ 3159/CD ]
+./. 
+
+[ You/PRP ]
+need/VBP to/TO know/VB 
+[ the/DT local/JJ ]
+(/( or/CC current/JJ )/) 
+[ spool/NN ID/NN ]
+of/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 3160/CD ]
+./. 
+
+[ Any/DT subsequent/JJ failure/NN ]
+on/IN 
+[ the/DT link/NN ]
+causes/VBZ 
+[ the/DT ]
+retry/NN 
+[ procedure/NN ]
+to/TO begin/VB again/RB ./. 
+
+[ 3161/CD ]
+./. 
+
+To/TO help/VB 
+[ your/PRP$ operators/NNS ]
+analyze/VB 
+[ the/DT state/NN ]
+of/IN 
+[ your/PRP$ network/NN ]
+,/, 
+[ you/PRP ]
+may/MD want/VB to/TO provide/VB 
+[ tools/NNS ]
+
+[ that/WDT ]
+can/MD perform/VB 
+[ several/JJ tasks/NNS ]
+./. 
+
+[ 3162/CD ]
+./. 
+
+[ The/DT second/JJ column/NN ]
+tells/VBZ 
+[ you/PRP ]
+
+[ the/DT message/NN number/NN ]
+./. 
+
+[ 3163/CD ]
+./. 
+
+Note/VB that/IN 
+[ the/DT last/JJ line/NN ]
+has/VBZ 
+[ 0001/CD ]
+as/IN 
+[ the/DT message/NN number/NN ]
+./. 
+
+[ 3164/CD ]
+./. 
+
+[ The/DT first/JJ character/NN ]
+tells/VBZ 
+[ you/PRP ]
+
+[ what/WP kind/NN ]
+of/IN 
+[ message/NN line/NN ]
+
+[ it/PRP ]
+is/VBZ :/: 
+[ 3165/CD ]
+./. 
+
+[ The/DT last/JJ character/NN ]
+is/VBZ either/RB 
+[ an/DT L/NN ]
+or/CC 
+[ a/DT blank/NN ]
+./. 
+
+[ 3166/CD ]
+./. 
+
+[ The/DT rest/NN ]
+of/IN 
+[ the/DT message/NN lines/NNS ]
+contain/VBP 
+[ the/DT actual/JJ message/NN information/NN ]
+
+[ you/PRP ]
+requested/VBD ./. 
+
+[ 3167/CD ]
+./. 
+
+Notice/VB that/IN 
+[ the/DT first/JJ five/CD columns/NNS ]
+remain/VBP 
+[ the/DT same/JJ ]
+./. 
+
+[ 3168/CD ]
+./. 
+
+[ Lines/NNS 0012/CD ]
+and/CC 
+[ 0013/CD ]
+are/VBP different/JJ from/IN 
+[ the/DT first/JJ 11/CD lines/NNS ]
+./. 
+
+[ 3169/CD ]
+./. 
+
+[ Line/NN 0012/CD ]
+starts/VBZ out/RP like/IN 
+[ the/DT previous/JJ 11/CD lines/NNS ]
+by/IN having/VBG 
+[ a/DT three-character/JJ length/NN ]
+(/( 
+[ 002/CD ]
+)/) followed/VBN by/IN 
+[ two/CD characters/NNS ]
+of/IN 
+[ data/NNS ]
+(/( 
+[ 11/CD ]
+)/) ./. 
+
+[ 3170/CD ]
+./. 
+
+After/IN 
+[ that/DT ]
+,/, 
+[ you/PRP ]
+see/VBP :/: 
+[ 3171/CD ]
+./. 
+
+[ D08D01/CD ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+When/WRB 
+[ the/DT three-character/JJ length/NN field/NN ]
+starts/VBZ with/IN 
+[ the/DT letter/NN D/NNP ]
+,/, 
+[ it/PRP ]
+indicates/VBZ 
+[ a/DT dictionary/NN term/NN ]
+./. 
+
+[ 3172/CD ]
+./. 
+
+In/IN 
+[ the/DT second/JJ column/NN ]
+of/IN 
+[ line/NN 0012/CD ]
+,/, 
+[ you/PRP ]
+see/VBP 
+[ 0620/CD ]
+,/, 
+[ which/WDT ]
+tells/VBZ 
+[ you/PRP ]
+
+[ the/DT message/NN number/NN ]
+./. 
+
+[ 3173/CD ]
+./. 
+
+[ This/DT ]
+would/MD allow/VB 
+[ you/PRP ]
+to/TO send/VB 
+[ files/NNS ]
+out/RP over/IN 
+[ the/DT link/NN ]
+,/, but/CC would/MD prevent/VB 
+[ others/NNS ]
+from/IN sending/VBG 
+[ files/NNS ]
+to/TO 
+[ you/PRP ]
+./. 
+
+[ 3174/CD ]
+./. 
+
+(/( See/VB 
+[ topic/NN A.46/CD ]
+for/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ the/DT SET/NNP command/NN ]
+./. 
+
+)/) 
+[ 3175/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT SET/NNP command/NN format/NN ]
+is/VBZ :/: 
+[ 3176/CD ]
+./. 
+
+(/( See/VB 
+[ topic/NN A.51/NNP ]
+./. 
+
+)/) 
+[ 3177/CD ]
+./. 
+
+[ START/NNP ]
+has/VBZ limited/JJ 
+[ functional/JJ capabilities/NNS ]
+when/WRB issued/VBN by/IN 
+[ a/DT link/NN operator/NN ]
+./. 
+
+[ 3178/CD ]
+./. 
+
+(/( See/VB with/IN 
+[ topic/NN A.51/NNP ]
+./. 
+
+)/) 
+[ 3179/CD ]
+./. 
+
+[ Each/DT ]
+of/IN 
+[ these/DT commands/NNS ]
+has/VBZ 
+[ two/CD formats/NNS ]
+:/: 
+[ a/DT VM/NNP user/NN format/NN ]
+and/CC 
+[ an/DT operator/NN format/NN ]
+./. 
+
+[ 3180/CD ]
+./. 
+
+Since/IN 
+[ you/PRP ]
+are/VBP 
+[ an/DT authorized/VBN operator/NN ]
+for/IN 
+[ another/DT link/NN ]
+,/, 
+[ you/PRP ]
+must/MD specify/VB 
+[ the/DT link/NN ID/NN ]
+on/IN 
+[ the/DT VM/NNP user/NN format/NN ]
+of/IN 
+[ the/DT command/NN ]
+./. 
+
+[ 3181/CD ]
+./. 
+
+Note/VB 
+[ the/DT following/NN ]
+about/IN 
+[ the/DT first/JJ column/NN ]
+of/IN 
+[ this/DT table/NN ]
+:/: 
+[ 3182/CD ]
+./. 
+
+[ The/DT comment/NN command/NN ]
+is/VBZ available/JJ to/TO 
+[ all/DT classes/NNS ]
+of/IN 
+[ users/NNS ]
+and/CC 
+[ operators/NNS ]
+./. 
+
+[ 3183/CD ]
+./. 
+
+[ The/DT delimiter/NN ]
+must/MD be/VB 
+[ a/DT period/NN ]
+(/( ./. 
+
+)/) 
+[ 3184/CD ]
+./. 
+
+[ The/DT CHANGE/NNP command/NN ]
+has/VBZ 
+[ two/CD formats/NNS ]
+./. 
+
+[ 3185/CD ]
+./. 
+
+[ All/DT other/JJ operators/NNS ]
+must/MD specify/VB 
+[ a/DT link/NN ID/NN ]
+./. 
+
+[ 3186/CD ]
+./. 
+
+[ The/DT options/NNS ]
+for/IN 
+[ the/DT operator/NN format/NN ]
+are/VBP 
+[ the/DT same/JJ ]
+as/IN for/IN 
+[ the/DT VM/NNP user/NN format/NN ]
+,/, with/IN 
+[ one/CD addition/NN ]
+:/: 
+[ 3187/CD ]
+./. 
+
+[ The/DT name/NN ]
+(/( or/CC 
+[ names/NNS ]
+)/) must/MD be/VB from/IN 
+[ one/CD ]
+to/TO 
+[ four/CD characters/NNS ]
+./. 
+
+[ 3188/CD ]
+./. 
+
+[ The/DT maximum/JJ value/NN ]
+of/IN 
+[ nnn/NN ]
+(/( 
+[ number/NN ]
+of/IN 
+[ copies/NNS ]
+)/) is/VBZ 
+[ 255/CD ]
+(/( leading/VBG 
+[ zeros/NNS ]
+are/VBP optional/JJ )/) ./. 
+
+[ 3189/CD ]
+./. 
+
+[ The/DT maximum/JJ value/NN ]
+is/VBZ 
+[ 255/CD ]
+(/( leading/VBG 
+[ zeros/NNS ]
+are/VBP optional/JJ )/) ./. 
+
+[ 3190/CD ]
+./. 
+
+[ The/DT name/NN ]
+must/MD be/VB 
+[ one/CD ]
+to/TO 
+[ four/CD characters/NNS ]
+./. 
+
+[ 3191/CD ]
+./. 
+
+Use/VB 
+[ this/DT option/NN ]
+when/WRB 
+[ the/DT operator/NN ]
+changes/VBZ 
+[ the/DT class/NN ]
+or/CC 
+[ the/DT forms/NNS ]
+on/IN 
+[ the/DT printer/NN ]
+while/IN 
+[ a/DT file/NN ]
+with/IN 
+[ multiple/JJ copies/NNS ]
+is/VBZ printing/VBG ./. 
+
+[ 3192/CD ]
+./. 
+
+[ Priority/NN 1/CD ]
+is/VBZ 
+[ the/DT highest/JJS ]
+and/CC 
+[ priority/NN 9/CD ]
+is/VBZ 
+[ the/DT lowest/JJS ]
+./. 
+
+[ 3193/CD ]
+./. 
+
+[ Valid/JJ addresses/NNS ]
+are/VBP 
+[ X'0000/CD ]
+'/'' and/CC 
+[ X'0002/CD ]
+'/'' to/TO 
+[ X'1FFF/CD ]
+'/'' ./. 
+
+[ 3194/CD ]
+./. 
+
+[ The/DT value/NN ]
+specified/VBN 
+[ overrides/VBZ ]
+
+[ a/DT device/NN address/NN ]
+
+[ that/WDT ]
+may/MD have/VB been/VBN previously/RB defined/VBN for/IN 
+[ the/DT link/NN ]
+./. 
+
+[ 3195/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ ignored/VBN for/IN 
+[ all/DT other/JJ link/NN types/NNS ]
+./. 
+
+[ 3196/CD ]
+./. 
+
+[ Start-point/JJ ]
+can/MD be/VB 
+[ any/DT decimal/JJ number/NN ]
+between/IN 
+[ 1/CD ]
+and/CC 
+[ 10,000/CD ]
+;/: 
+[ stop-point/JJ ]
+can/MD be/VB 
+[ any/DT decimal/JJ number/NN ]
+between/IN 
+[ 0/CD ]
+and/CC 
+[ 9,999/CD ]
+./. 
+
+[ 3197/CD ]
+./. 
+
+[ The/DT start/NN value/NN ]
+must/MD be/VB greater/JJR than/IN 
+[ the/DT stop/NN value/NN ]
+./. 
+
+[ 3198/CD ]
+./. 
+
+[ The/DT following/VBG types/NNS ]
+can/MD be/VB specified/VBN :/: 
+[ 3199/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ the/DT link/NN type/NN ]
+before/IN using/VBG 
+[ the/DT START/NNP command/NN ]
+to/TO activate/VB 
+[ the/DT link/NN ]
+./. 
+
+[ 3200/CD ]
+./. 
+
+See/VB 
+[ the/DT Usage/NNP ]
+Note/NN below/RB for/IN 
+[ a/DT list/NN ]
+of/IN 
+[ valid/JJ signs/NNS ]
+./. 

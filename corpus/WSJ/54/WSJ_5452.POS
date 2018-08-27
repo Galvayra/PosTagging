@@ -1,0 +1,598 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ GORBACHEV/NNP OUSTED/VBD two/CD conservative/JJ members/NNS ]
+of/IN 
+[ the/DT ruling/VBG Politburo/NNP ]
+./. 
+
+======================================
+
+As/IN 
+[ part/NN ]
+of/IN 
+[ a/DT Kremlin/NNP reshuffle/NN ]
+
+[ that/WDT ]
+appears/VBZ to/TO further/RB consolidate/VB 
+[ the/DT Soviet/JJ leader/NN 's/POS power/NN ]
+,/, 
+[ Vladimir/NNP Shcherbitsky/NNP ]
+,/, 
+[ the/DT 71-year-old/JJ Communist/NNP Party/NNP chief/NN ]
+of/IN 
+[ the/DT Ukraine/NNP ]
+,/, and/CC 
+[ Viktor/NNP Chebrikov/NNP ]
+,/, 
+[ 66/CD ]
+,/, 
+[ former/JJ chief/NN ]
+of/IN 
+[ the/DT KGB/NNP ]
+and/CC 
+[ head/NN ]
+of/IN 
+[ a/DT committee/NN ]
+overseeing/VBG 
+[ legal/JJ affairs/NNS ]
+,/, 
+[ both/DT ]
+``/`` retired/VBN ./. 
+
+''/'' 
+[ The/DT moves/NNS ]
+were/VBD announced/VBN following/VBG 
+[ a/DT meeting/NN ]
+in/IN 
+[ Moscow/NNP ]
+of/IN 
+[ the/DT Communist/NNP Party/NNP 's/POS policy-setting/JJ Central/NNP Committee/NNP ]
+./. 
+
+[ A/DT third/JJ full/JJ Politburo/NNP member/NN ]
+,/, 
+[ Viktor/NNP Nikonov/NNP ]
+,/, 
+[ 60/CD ]
+,/, 
+[ who/WP ]
+had/VBD been/VBN nominally/RB in/IN 
+[ charge/NN ]
+of/IN 
+[ agriculture/NN ]
+,/, also/RB was/VBD dropped/VBN ./. 
+
+======================================
+
+[ The/DT party/NN ]
+adopted/VBD 
+[ a/DT plan/NN ]
+granting/VBG 
+[ the/DT Soviet/NNP Union/NNP 's/POS republics/NNS ]
+
+[ more/RBR economic/JJ autonomy/NN ]
+,/, but/CC demanded/VBD that/IN 
+[ calls/NNS ]
+for/IN 
+[ independence/NN cease/VBP ]
+./. 
+
+======================================
+
+[ HURRICANE/NNP HUGO/NNP HEADED/VBD ]
+to/TO 
+[ the/DT U.S./NNP ]
+as/IN looting/VBG flared/VBD in/IN 
+[ the/DT storm/NN 's/POS wake/NN ]
+./. 
+
+======================================
+
+[ Coastal/JJ residents/NNS ]
+from/IN 
+[ Florida/NNP ]
+to/TO 
+[ North/NNP Carolina/NNP ]
+stocked/VBD up/IN on/IN 
+[ supplies/NNS ]
+and/CC made/VBD 
+[ evacuation/NN plans/NNS ]
+as/IN 
+[ the/DT storm/NN ]
+quickened/VBD 
+[ its/PRP$ pace/NN ]
+toward/IN 
+[ the/DT Eastern/NNP Seaboard/NNP ]
+./. 
+
+On/IN 
+[ the/DT island/NN ]
+of/IN 
+[ St./NNP Croix/NNP ]
+,/, 
+[ violence/NN ]
+and/CC 
+[ widespread/JJ ]
+looting/NN erupted/VBD in/IN 
+[ the/DT aftermath/NN ]
+of/IN 
+[ the/DT hurricane/NN ]
+,/, and/CC 
+[ Bush/NNP ]
+authorized/VBD sending/VBG 
+[ military/JJ police/NNS ]
+to/TO 
+[ the/DT U.S./NNP Virgin/NNP Islands/NNPS ]
+``/`` to/TO help/VB restore/VB 
+[ order/NN ]
+./. 
+
+''/'' 
+[ Relief/NN efforts/NNS ]
+intensified/VBD ,/, with/IN 
+[ Coast/NNP Guard/NNP planes/NNS ]
+flying/VBG 
+[ Red/NNP Cross/NNP goods/NNS ]
+to/TO 
+[ St./NNP Thomas/NNP ]
+and/CC 
+[ other/JJ islands/NNS ]
+./. 
+
+======================================
+
+[ Forecasters/NNS ]
+warned/VBD that/IN 
+[ the/DT hurricane/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ killed/VBN at/IN 
+[ least/JJS 25/CD people/NNS ]
+,/, could/MD hit/VB 
+[ the/DT U.S./NNP late/JJ today/NN ]
+or/CC 
+[ tomorrow/NN ]
+after/IN 
+[ it/PRP ]
+skirts/VBZ past/IN 
+[ the/DT Bahamas/NNPS ]
+./. 
+
+======================================
+
+[ Moslem/NNP extremists/NNS ]
+claimed/VBD 
+[ responsibility/NN ]
+for/IN 
+[ Tuesday/NNP ]
+'s/POS downing/VBG of/IN 
+[ a/DT French/JJ DC-10/NNP jetliner/NN ]
+over/IN 
+[ northern/JJ Africa/NNP ]
+./. 
+
+[ All/DT 171/CD people/NNS ]
+aboard/IN ,/, including/VBG 
+[ the/DT wife/NN ]
+of/IN 
+[ the/DT U.S./NNP envoy/NN ]
+to/TO 
+[ Chad/NNP ]
+,/, were/VBD killed/VBN ./. 
+
+[ The/DT wreckage/NN ]
+of/IN 
+[ the/DT plane/NN ]
+,/, 
+[ which/WDT ]
+exploded/VBD while/IN bound/VBN for/IN 
+[ Paris/NNP ]
+from/IN 
+[ the/DT Congo/NNP ]
+,/, was/VBD found/VBN in/IN 
+[ Niger/NNP ]
+./. 
+
+[ A/DT U.S./NNP team/NN ]
+will/MD help/VB investigate/VB 
+[ the/DT incident/NN ]
+./. 
+
+======================================
+
+[ The/DT FAA/NNP ]
+proposed/VBD fining/VBG 
+[ Pan/NNP ]
+Am/NNP 
+[ $/$ 630,000/CD ]
+for/IN 
+[ alleged/JJ security/NN violations/NNS ]
+involving/VBG 
+[ six/CD flights/NNS ]
+,/, including/VBG 
+[ the/DT one/CD ]
+
+[ that/WDT ]
+exploded/VBD and/CC crashed/VBD over/IN 
+[ Scotland/NNP ]
+,/, killing/VBG 
+[ 270/CD people/NNS ]
+./. 
+
+[ The/DT infractions/NNS ]
+involved/VBD 
+[ security/NN breaches/NNS ]
+in/IN 
+[ the/DT methods/NNS ]
+used/VBN to/TO 
+[ screen/VB passengers/NNS ]
+and/CC 
+[ baggage/NN ]
+at/IN 
+[ London/NNP ]
+and/CC 
+[ Frankfurt/NNP airports/NNS ]
+./. 
+
+======================================
+
+Pierce/NNP was/VBD subpoenaed/VBN to/TO appear/VB before/IN 
+[ a/DT House/NNP subcommittee/NN ]
+investigating/VBG 
+[ allegations/NNS ]
+of/IN 
+[ mismanagement/NN ]
+and/CC 
+[ fraud/NN ]
+at/IN 
+[ HUD/NNP ]
+./. 
+
+[ The/DT former/JJ housing/NN secretary/NN ]
+had/VBD abruptly/RB canceled/VBN 
+[ his/PRP$ scheduled/VBN appearance/NN last/JJ week/NN ]
+before/IN 
+[ the/DT panel/NN ]
+,/, 
+[ which/WDT ]
+directed/VBD 
+[ him/PRP ]
+to/TO appear/VB on/IN 
+[ three/CD separate/JJ dates/NNS ]
+beginning/VBG 
+[ next/JJ Tuesday/NNP ]
+./. 
+
+======================================
+
+[ The/DT Senate/NNP ]
+voted/VBD to/TO resume/VB 
+[ U.S./NNP contributions/NNS ]
+to/TO 
+[ a/DT U.N./NNP population/NN fund/NN ]
+opposed/VBN by/IN 
+[ anti-abortionists/NNS ]
+./. 
+
+[ The/DT action/NN ]
+,/, overturning/VBG 
+[ a/DT five-year/JJ policy/NN ]
+begun/VBN under/IN 
+[ Reagan/NNP ]
+,/, came/VBD as/IN 
+[ a/DT bipartisan/JJ majority/NN ]
+approved/VBD increased/VBN 
+[ military/JJ aid/NN ]
+of/IN 
+[ $/$ 90/CD million/CD ]
+for/IN 
+[ El/NNP Salvador/NNP ]
+./. 
+
+======================================
+
+[ NATO/NNP ]
+intends/VBZ to/TO present/VB to/TO 
+[ the/DT Warsaw/NNP Pact/NNP today/NN ]
+in/IN 
+[ Vienna/NNP ]
+
+[ a/DT package/NN ]
+of/IN 
+[ conventional/JJ arms-control/JJ proposals/NNS ]
+
+[ that/WDT ]
+foresee/VBP limiting/VBG 
+[ the/DT number/NN ]
+of/IN 
+[ troops/NNS ]
+taking/VBG 
+[ part/NN ]
+in/IN 
+[ military/JJ exercises/NNS ]
+across/IN 
+[ Europe/NNP ]
+,/, 
+[ diplomats/NNS ]
+in/IN 
+[ Brussels/NNP ]
+said/VBD ./. 
+
+[ The/DT package/NN ]
+was/VBD completed/VBN after/IN 
+[ a/DT U.S.-European/JJ dispute/NN ]
+over/IN 
+[ verification/NN procedures/NNS ]
+was/VBD resolved/VBN ./. 
+
+======================================
+
+[ Ex-Premier/NNP Papandreou/NNP ]
+was/VBD ordered/VBN by/IN 
+[ Greece/NNP 's/POS 300-seat/JJ Parliament/NNP ]
+to/TO stand/VB 
+[ trial/NN ]
+before/IN 
+[ a/DT special/JJ court/NN ]
+on/IN 
+[ criminal/JJ charges/NNS ]
+of/IN ordering/VBG 
+[ illegal/JJ telephone/NN wire-tapping/NN ]
+during/IN 
+[ his/PRP$ eight/CD years/NNS ]
+in/IN 
+[ power/NN ]
+./. 
+
+[ The/DT 70-year-old/JJ Socialist/JJ ]
+will/MD be/VB 
+[ the/DT first/JJ civilian/JJ prime/JJ minister/NN ]
+in/IN 
+[ Greece/NNP ]
+to/TO stand/VB 
+[ trial/NN ]
+over/IN 
+[ allegations/NNS ]
+of/IN 
+[ wrongdoing/NN while/NN ]
+in/IN 
+[ office/NN ]
+./. 
+
+======================================
+
+[ South/NNP Africa/NNP 's/POS de/NNP Klerk/NNP ]
+was/VBD sworn/VBN in/IN as/IN 
+[ president/NN ]
+and/CC vowed/VBD 
+[ a/DT new/JJ constitution/NN ]
+
+[ that/WDT ]
+would/MD bring/VB 
+[ blacks/NNS ]
+into/IN 
+[ the/DT government/NN ]
+by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ his/PRP$ five-year/JJ term/NN ]
+./. 
+
+While/IN 
+[ he/PRP ]
+did/VBD n't/RB specify/VB 
+[ any/DT apartheid/NN laws/NNS ]
+
+[ that/WDT ]
+would/MD be/VB repealed/VBN ,/, de/NNP 
+[ Klerk/NNP ]
+appealed/VBD to/TO 
+[ South/NNP Africans/NNPS ]
+of/IN 
+[ all/DT races/NNS ]
+to/TO help/VB build/VB 
+[ a/DT nation/NN ]
+``/`` 
+[ free/JJ ]
+of/IN 
+[ domination/NN ]
+and/CC 
+[ oppression/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT jury/NN ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+convicted/VBD 
+[ self-proclaimed/JJ devil/NN worshipper/NN Richard/NNP Ramirez/NNP ]
+of/IN 
+[ 13/CD murders/NNS ]
+and/CC 
+[ 30/CD other/JJ felonies/NNS ]
+,/, deciding/VBG that/IN 
+[ he/PRP ]
+was/VBD 
+[ the/DT ]
+``/`` 
+[ Night/NNP Stalker/NNP ]
+''/'' 
+[ who/WP ]
+terrified/VBD 
+[ Southern/NNP California/NNP ]
+in/IN 
+[ 1985/CD ]
+./. 
+
+[ The/DT 29-year-old/JJ Ramirez/NNP ]
+could/MD be/VB sentenced/VBN to/TO 
+[ death/NN ]
+./. 
+
+======================================
+
+[ Boston-based/JJ researchers/NNS ]
+found/VBD that/IN 
+[ users/NNS ]
+of/IN ``/`` 
+[ extended-wear/JJ ]
+''/'' 
+[ soft/JJ contact/NN lenses/NNS ]
+run/VBP 
+[ a/DT risk/NN ]
+of/IN 
+[ a/DT serious/JJ eye/NN infection/NN several/JJ times/NNS ]
+higher/JJR than/IN 
+[ those/DT ]
+using/VBG 
+[ daily/JJ wear/NN lenses/NNS ]
+./. 
+
+Of/IN 
+[ an/DT estimated/VBN 13/CD million/CD people/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+
+[ who/WP ]
+wear/VBP
+[ contact/NN lenses/NNS ]
+,/, about/IN 
+[ four/CD million/CD use/VBP ]
+
+[ the/DT extended-wear/JJ type/NN ]
+./. 
+
+======================================
+
+[ Mubarak/NNP ]
+said/VBD 
+[ PLO/NNP leader/NN Arafat/NNP ]
+has/VBZ accepted/VBN 
+[ Egypt/NNP 's/POS proposals/NNS ]
+for/IN 
+[ direct/JJ Israeli-Palestinian/NNP peace/NN talks/NNS ]
+./. 
+
+[ The/DT Egyptian/JJ president/NN ]
+appealed/VBD to/TO 
+[ the/DT people/NNS ]
+of/IN 
+[ Israel/NNP ]
+to/TO tell/VB 
+[ the/DT government/NN ]
+``/`` to/TO agree/VB with/IN 
+[ the/DT principle/NN ]
+of/IN 
+[ territories/NNS ]
+for/IN 
+[ peace/NN ]
+./. 
+
+''/'' 
+[ Israel/NNP 's/POS Prime/NNP Minister/NNP Shamir/NNP ]
+has/VBZ rejected/VBN 
+[ Mubarak/NNP 's/POS proposal/NN ]
+to/TO trade/VB occupied/VBN 
+[ land/NN ]
+for/IN 
+[ peace/NN ]
+./. 
+
+======================================
+
+[ Massachusetts/NNP Rep./NNP Frank/NNP ]
+rejected/VBD 
+[ suggestions/NNS ]
+
+[ he/PRP ]
+would/MD resign/VB ./. 
+
+[ The/DT Democrat/NNP ]
+said/VBD 
+[ it/PRP ]
+would/MD be/VB ``/`` 
+[ cowardly/JJ ]
+and/CC 
+[ inappropriate/JJ ]
+''/'' to/TO step/VB down/IN while/IN 
+[ the/DT House/NNP Ethics/NNP Committee/NNP ]
+investigates/VBZ 
+[ his/PRP$ acknowledged/JJ involvement/NN ]
+with/IN 
+[ a/DT male/JJ prostitute/NN ]
+./. 
+
+======================================
+
+[ Rebels/NNS ]
+in/IN 
+[ Afghanistan/NNP ]
+bombarded/VBD 
+[ Kabul/NNP ]
+with/IN 
+[ rockets/NNS ]
+,/, killing/VBG at/IN 
+[ least/JJS 10/CD people/NNS ]
+,/, 
+[ authorities/NNS ]
+said/VBD ./. 
+
+[ A/DT military/JJ truck/NN carrying/VBG mortar/NN shells/NNS ]
+and/CC 
+[ other/JJ kinds/NNS ]
+of/IN 
+[ ammunition/NN ]
+collided/VBD with/IN 
+[ a/DT civilian/JJ vehicle/NN ]
+in/IN 
+[ the/DT capital/NN ]
+,/, killing/VBG at/IN 
+[ least/JJS two/CD people/NNS ]
+./. 
+
+======================================
+
+[ U.S./NNP security/NN officials/NNS ]
+expect/VBP 
+[ Colombian/JJ drug/NN cartels/NNS ]
+to/TO launch/VB 
+[ attacks/NNS ]
+against/IN 
+[ U.S./NNP targets/NNS ]
+in/IN 
+[ an/DT attempt/NN ]
+to/TO scare/VB 
+[ Washington/NNP ]
+away/RB from/IN 
+[ its/PRP$ drive/NN ]
+against/IN 
+[ drug-traffickers/NNS ]
+./. 
+
+[ The/DT FBI/NNP 's/POS third-ranking/JJ official/NN ]
+said/VBD 
+[ the/DT likeliest/JJS initial/JJ targets/NNS ]
+would/MD be/VB 
+[ U.S./NNP government/NN ]
+and/CC 
+[ business/NN representatives/NNS ]
+in/IN 
+[ Latin/NNP America/NNP ]
+./. 

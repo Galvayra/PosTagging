@@ -1,0 +1,70 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Pratt/NNP ]
+&/CC 
+[ Lambert/NNP Inc./NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD purchase/VB up/IN to/TO 
+[ 300,000/CD shares/NNS ]
+,/, or/CC about/IN 
+[ 5/CD %/NN ]
+,/, of/IN 
+[ the/DT company/NN 's/POS stock/NN ]
+through/IN 
+[ open/JJ market/NN ]
+or/CC 
+[ private/JJ transactions/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ American/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ]
+,/, 
+[ Pratt/NNP ]
+&/CC 
+[ Lambert/NNP shares/NNS ]
+closed/VBD at/IN 
+[ $/$ 14.375/CD ]
+,/, down/RB 
+[ 62.5/CD cents/NNS ]
+./. 
+
+At/IN 
+[ yesterday/NN 's/POS price/NN ]
+,/, 
+[ a/DT buy-back/NN ]
+of/IN 
+[ 300,000/CD shares/NNS ]
+would/MD have/VB 
+[ a/DT total/JJ value/NN ]
+of/IN 
+[ $/$ 4.3/CD million/CD ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ 
+[ a/DT maker/NN ]
+of/IN 
+[ paint/NN ]
+,/, 
+[ coatings/NNS ]
+and/CC 
+[ adhesives/NNS ]
+./. 

@@ -1,0 +1,160 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+introduced/VBD 
+[ a/DT low-end/JJ laser/NN printer/NN ]
+
+[ that/WDT ]
+could/MD make/VB 
+[ it/PRP ]
+
+[ a/DT significant/JJ factor/NN ]
+in/IN 
+[ that/DT ]
+rapidly/RB growing/VBG 
+[ market/NN ]
+./. 
+
+======================================
+
+[ The/DT machine/NN ]
+,/, 
+[ which/WDT ]
+was/VBD expected/VBN ,/, is/VBZ 
+[ 25/CD %/NN ]
+faster/JJR than/IN 
+[ the/DT Hewlett-Packard/NNP Co./NNP printer/NN ]
+
+[ that/WDT ]
+dominates/VBZ 
+[ the/DT low/JJ end/NN ]
+of/IN 
+[ the/DT market/NN ]
+./. 
+
+At/IN 
+[ a/DT list/NN price/NN ]
+of/IN 
+[ $/$ 2,600/CD ]
+,/, 
+[ the/DT IBM/NNP machine/NN ]
+slightly/RB undercuts/VBZ 
+[ Hewlett-Packard/NNP 's/POS price/NN ]
+of/IN 
+[ $/$ 2,700/CD ]
+and/CC presumably/RB will/MD be/VB sold/VBN at/IN 
+[ discounts/NNS ]
+below/IN 
+[ Hewlett-Packard/NNP 's/POS street/NN price/NN ]
+of/IN 
+[ $/$ 1,600/CD ]
+to/TO 
+[ $/$ 1,700/CD ]
+./. 
+
+[ The/DT IBM/NNP printer/NN ]
+is/VBZ smaller/JJR ,/, slickly/RB packaged/JJ and/CC has/VBZ about/IN 
+[ half/NN ]
+as/IN 
+[ many/JJ parts/NNS ]
+as/IN 
+[ the/DT Hewlett-Packard/NNP machine/NN ]
+--/: in/IN 
+[ an/DT area/NN ]
+where/WRB 
+[ fewer/JJR parts/NNS ]
+typically/RB means/VBZ 
+[ higher/JJR reliability/NN ]
+./. 
+
+======================================
+
+[ Market-research/NN firms/NNS ]
+say/VBP 
+[ Hewlett-Packard/NNP ]
+has/VBZ more/JJR than/IN 
+[ half/NN ]
+of/IN 
+[ the/DT low/JJ end/NN ]
+of/IN 
+[ the/DT market/NN ]
+,/, while/IN 
+[ IBM/NNP ]
+has/VBZ almost/RB 
+[ nothing/NN ]
+,/, so/RB 
+[ IBM/NNP ]
+will/MD have/VB 
+[ an/DT uphill/JJ fight/NN ]
+./. 
+
+Also/RB ,/, 
+[ IBM/NNP ]
+is/VBZ taking/VBG 
+[ aim/NN ]
+at/IN 
+[ a/DT two-year-old/JJ machine/NN ]
+,/, suggesting/VBG 
+[ Hewlett-Packard/NNP ]
+may/MD well/RB respond/VB with/IN 
+[ a/DT new/JJ printer/NN ]
+of/IN 
+[ its/PRP$ own/JJ ]
+at/IN 
+[ some/DT point/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ any/DT case/NN ]
+,/, 
+[ IBM/NNP ]
+indicated/VBD 
+[ it/PRP ]
+will/MD market/VB 
+[ the/DT machine/NN ]
+vigorously/RB ./. 
+
+[ IBM/NNP ]
+went/VBD so/RB far/RB as/IN to/TO have/VB 
+[ a/DT Hewlett-Packard/NNP machine/NN ]
+at/IN 
+[ a/DT news/NN briefing/NN yesterday/NN ]
+--/: 
+[ a/DT move/NN ]
+
+[ that/WDT ]
+would/MD have/VB once/RB been/VBN 
+[ heresy/NN ]
+./. 
+
+[ Its/PRP$ ad/NN campaign/NN ]
+will/MD also/RB be/VB unusually/RB 
+[ aggressive/JJ ]
+;/: 
+[ it/PRP ]
+will/MD compare/VB 
+[ the/DT IBM/NNP machine/NN ]
+,/, 
+[ point/NN ]
+by/IN 
+[ point/NN ]
+,/, against/IN 
+[ Hewlett-Packard/NNP 's/POS machine/NN ]
+./. 

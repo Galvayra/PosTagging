@@ -1,0 +1,115 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Ranked/VBN by/IN 
+[ market/NN value/NN ]
+as/IN of/IN 
+[ June/NNP 30/CD ]
+,/, 
+[ 1989/CD ]
+,/, as/IN determined/VBN by/IN 
+[ Morgan/NNP Stanley/NNP Capital/NNP International/NNP Perspective/NNP ]
+
+======================================
+
+ (/( In/IN 
+[ millions/NNS ]
+of/IN 
+[ U.S./NNP dollars/NNS ]
+;/: 
+[ financial/JJ data/NNS ]
+at/IN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+,/, 
+[ exchange/NN rates/NNS ]
+;/: 
+[ percentage/NN change/NN ]
+based/VBN on/IN 
+[ home/NN currency/NN ]
+ )/) 
+======================================
+ 
+[ \*/SYM Figures/NNS ]
+are/VBP based/VBN on/IN 
+[ unconsolidated/JJ ]
+
+[ operating/VBG data/NNS ]
+
+======================================
+ 
+[ \*\*/SYM 1987/CD data/NNS ]
+
+======================================
+ 
+[ \*\*\*/SYM ]
+Reflects/VBZ 
+[ a/DT change/NN ]
+in/IN 
+[ company/NN 's/POS fiscal/JJ year/NN ]
+,/, 
+[ data/NNS ]
+not/RB for/IN 
+[ 12/CD months/NNS ]
+
+======================================
+
+[ #/# ]
+Based/VBN on/IN 
+[ pounds/NNS ]
+
+======================================
+
+[ #/# #/# 1988/CD ]
+restated/VBN according/VBG to/TO 
+[ U.S./NNP ]
+accounting/VBG 
+[ rules/NNS ]
+
+======================================
+
+[ #/# #/# #/# 1987/CD data/NNS ]
+include/VBP 
+[ provisions/NNS ]
+for/IN 
+[ loan/NN losses/NNS ]
+
+======================================
+
+@/IN Not/RB 
+[ meaningful/JJ ]
+;/: 
+[ switch/NN ]
+from/IN 
+[ profit/NN ]
+to/TO 
+[ loss/NN ]
+
+======================================
+
+@/IN @/IN 
+[ Assets/NNS ]
+are/VBP used/VBN instead/RB of/IN 
+[ sales/NNS ]
+for/IN 
+[ financial/JJ companies/NNS ]
+,/, and/CC are/VBP calculated/VBN without/IN 
+[ contingent/JJ liabilities/NNS ]
+and/CC 
+[ treasury/NN stock/NN items/NNS ]
+./. 

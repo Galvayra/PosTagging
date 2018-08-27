@@ -1,0 +1,279 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Miller/NNP Brewing/NNP Co./NNP ]
+has/VBZ filed/VBN 
+[ suit/NN ]
+against/IN 
+[ a/DT physicians/NNS group/NN ]
+
+[ that/WDT ]
+sold/VBD 
+[ T-shirts/NNS ]
+mocking/VBG 
+[ its/PRP$ Miller/NNP Lite/NNP ad/NN campaign/NN ]
+in/IN 
+[ Texas/NNP ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+,/, filed/VBN in/IN 
+[ federal/JJ court/NN ]
+in/IN 
+[ Houston/NNP ]
+,/, 
+[ sets/VBZ ]
+up/IN 
+[ a/DT clash/NN ]
+between/IN 
+[ trademark/NN claims/NNS ]
+by/IN 
+[ the/DT company/NN ]
+and/CC 
+[ an/DT assertion/NN ]
+of/IN 
+[ free/JJ speech/NN rights/NNS ]
+by/IN 
+[ the/DT doctors/NNS group/NN ]
+,/, 
+[ a/DT nonprofit/JJ organization/NN ]
+called/VBN 
+[ Doctors/NNS ]
+Ought/MD to/TO Care/VB ./. 
+
+======================================
+
+[ Miller/NNP 's/POS campaign/NN ]
+featured/VBD 
+[ actor/NN Randy/NNP Quaid/NNP ]
+telling/VBG 
+[ the/DT public/NN ]
+in/IN 
+[ a/DT months-long/JJ series/NN ]
+of/IN 
+[ ads/NNS ]
+that/IN ``/`` 
+[ We/PRP ]
+'re/VBP having/VBG 
+[ a/DT party/NN ]
+''/'' in/IN 
+[ Texas/NNP ]
+,/, and/CC to/TO stay/VB 
+[ tuned/JJ ]
+for/IN 
+[ the/DT details/NNS ]
+./. 
+
+Touted/VBN as/IN ``/`` 
+[ The/DT Biggest/NNP Party/NNP ]
+in/IN 
+[ History/NNP ]
+,/, ''/'' 
+[ Miller/NNP ]
+followed/VBD up/RP by/IN sponsoring/VBG 
+[ public/JJ bashes/NNS ]
+over/IN 
+[ the/DT Labor/NNP Day/NNP weekend/NN ]
+in/IN 
+[ Houston/NNP ]
+,/, 
+[ Dallas/NNP ]
+,/, 
+[ San/NNP Antonio/NNP ]
+,/, and/CC 
+[ other/JJ Texas/NNP cities/NNS ]
+./. 
+
+[ The/DT parties/NNS ]
+,/, 
+[ which/WDT ]
+included/VBD 
+[ entertainment/NN ]
+by/IN 
+[ well-known/JJ musical/JJ groups/NNS ]
+,/, raised/VBD 
+[ money/NN ]
+for/IN 
+[ the/DT Texas/NNP Special/NNP Olympics/NNP ]
+./. 
+
+======================================
+
+[ The/DT campaign/NN ]
+drew/VBD 
+[ criticism/NN ]
+from/IN 
+[ several/JJ anti-alcohol/JJ groups/NNS ]
+,/, but/CC 
+[ the/DT legal/JJ clash/NN ]
+focuses/VBZ on/IN 
+[ T-shirts/NNS ]
+sold/VBD by/IN 
+[ the/DT doctors/NNS group/NN ]
+at/IN 
+[ the/DT Houston/NNP party/NN ]
+./. 
+
+[ The/DT front/NN ]
+of/IN 
+[ the/DT shirts/NNS ]
+carried/VBD 
+[ the/DT words/NNS ]
+``/`` 
+[ Killer/NNP Lite/NNP ]
+''/'' and/CC 
+[ a/DT logo/NN ]
+
+[ that/WDT ]
+stated/VBD ,/, ``/`` 
+[ We/PRP ]
+'re/VBP pushing/VBG 
+[ a/DT drug/NN ]
+./. 
+
+''/'' 
+[ The/DT back/NN ]
+of/IN 
+[ the/DT shirts/NNS ]
+stated/VBD ,/, ``/`` 
+[ We/PRP ]
+'re/VBP grabbing/VBG 
+[ a/DT potty/NN ]
+,/, ''/'' and/CC depicted/VBD 
+[ a/DT man/NN ]
+throwing/VBG up/RP in/IN 
+[ a/DT toilet/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT lawsuit/NN ]
+filed/VBN 
+[ Sept./NNP 28/CD ]
+in/IN 
+[ U.S./NNP District/NNP Court/NNP ]
+in/IN 
+[ Houston/NNP ]
+,/, 
+[ Miller/NNP ]
+contends/VBZ 
+[ the/DT T-shirts/NNS ]
+infringe/VBP on/IN 
+[ its/PRP$ ]
+``/`` 
+[ Lite/NNP ]
+''/'' 
+[ trademark/NN ]
+``/`` in/IN 
+[ a/DT manner/NN ]
+calculated/VBN to/TO slander/VB 
+[ plaintiffs/NNS '/POS business/NN reputation/NN ]
+and/CC 
+[ dilute/JJ its/PRP$ goodwill/NN ]
+./. 
+
+''/'' 
+[ The/DT lawsuit/NN ]
+asks/VBZ for/IN 
+[ an/DT injunction/NN ]
+barring/VBG 
+[ such/JJ infringement/NN ]
+,/, for/IN 
+[ profits/NNS ]
+``/`` unlawfully/RB gained/VBN ,/, ''/'' for/IN 
+[ unspecified/JJ damages/NNS ]
+and/CC for/IN 
+[ destruction/NN ]
+of/IN 
+[ the/DT defendant/NN 's/POS products/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ Dr./NNP Alan/NNP Blum/NNP ]
+,/, 
+[ a/DT Houston/NNP physician/NN ]
+
+[ who/WP ]
+founded/VBD 
+[ the/DT doctors/NNS group/NN ]
+in/IN 
+[ 1977/CD ]
+,/, said/VBD 
+[ the/DT central/JJ issue/NN ]
+is/VBZ 
+[ its/PRP$ free/JJ speech/NN right/NN ]
+to/TO spoof/VB 
+[ advertising/NN ]
+,/, not/RB 
+[ trademark/NN law/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ the/DT physicians/NNS ]
+were/VBD objecting/VBG to/TO 
+[ the/DT link/NN ]
+between/IN 
+[ a/DT beer/NN company/NN ]
+and/CC 
+[ a/DT health/NN charity/NN ]
+,/, such/JJ as/IN 
+[ the/DT Texas/NNP Special/NNP Olympics/NNP ]
+./. 
+
+[ The/DT lawsuit/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` is/VBZ 
+[ a/DT malicious/JJ attack/NN ]
+on/IN 
+[ us/PRP ]
+,/, and/CC on/IN 
+[ the/DT First/NNP Amendment/NNP ]
+./. 
+
+''/'' 
+[ Miller/NNP ]
+earlier/RBR had/VBD gone/VBN to/TO state/NN 
+[ court/NN ]
+seeking/VBG to/TO stop/VB 
+[ the/DT T-shirt/NNS sales/NNS ]
+./. 
+
+[ A/DT state/NN district/NN judge/NN ]
+denied/VBD 
+[ its/PRP$ request/NN ]
+for/IN 
+[ a/DT temporary/JJ restraining/VBG order/NN ]
+,/, saying/VBG 
+[ he/PRP ]
+saw/VBD 
+[ the/DT sales/NNS ]
+as/IN 
+[ a/DT form/NN ]
+of/IN 
+[ protest/NN ]
+under/IN 
+[ the/DT First/NNP Amendment/NNP ]
+,/, not/RB 
+[ a/DT trademark/NN matter/NN ]
+./. 

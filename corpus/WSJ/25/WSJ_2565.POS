@@ -1,0 +1,325 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT tax/NN dispute/NN ]
+with/IN 
+[ the/DT Canadian/JJ government/NN ]
+could/MD scrap/VB 
+[ a/DT proposed/VBN 528/CD million/CD Canadian/JJ dollar/NN ]
+ (/( 
+[ US$/$ 449.3/CD million/CD ]
+ )/) 
+[ oil/NN ]
+and/CC 
+[ gas/NN asset/NN sale/NN ]
+by/IN 
+[ Westmin/NNP Resources/NNP Ltd./NNP ]
+to/TO 
+[ Norcen/NNP Energy/NNP Resources/NNP Ltd./NNP ]
+,/, 
+[ the/DT companies/NNS ]
+said/VBD ./. 
+
+======================================
+
+``/`` Obviously/RB ,/, if/IN 
+[ we/PRP ]
+do/VBP n't/RB get/VB 
+[ a/DT favorable/JJ ruling/NN ]
+
+[ we/PRP ]
+'ll/MD have/VB to/TO go/VB back/RB to/TO 
+[ the/DT drawing/NN board/NN ]
+,/, ''/'' said/VBD 
+[ Donald/NNP Webster/NNP ]
+,/, 
+[ Westmin/NNP 's/POS executive/JJ vice/NN president/NN ]
+,/, 
+[ finance/NN ]
+and/CC 
+[ administration/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+ (/( 
+[ a/DT negative/JJ ruling/NN ]
+ )/) could/MD undo/VB 
+[ the/DT deal/NN ]
+./. 
+
+[ We/PRP ]
+'re/VBP very/RB frustrated/VBN ./. 
+
+''/'' 
+======================================
+
+[ The/DT proposed/VBN sale/NN ]
+,/, announced/VBN 
+[ last/JJ February/NNP ]
+,/, would/MD increase/VB 
+[ the/DT oil/NN ]
+and/CC 
+[ gas/NN reserves/NNS ]
+of/IN 
+[ Calgary-based/JJ Norcen/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ already/RB 
+[ a/DT major/JJ oil/NN ]
+and/CC 
+[ gas/NN producer/NN ]
+,/, by/IN about/RB 
+[ 50/CD %/NN ]
+and/CC 
+[ 35/CD %/NN ]
+,/, respectively/RB ,/, 
+[ analysts/NNS ]
+estimated/VBD ./. 
+
+[ It/PRP ]
+also/RB would/MD add/VB significantly/RB to/TO 
+[ Norcen/NNP 's/POS exploration/NN acreage/NN ]
+and/CC 
+[ production/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT proposed/VBN purchase/NN ]
+,/, 
+[ which/WDT ]
+had/VBD been/VBN expected/VBN to/TO close/VB in/IN 
+[ July/NNP ]
+,/, was/VBD delayed/VBN by/IN 
+[ protracted/JJ negotiations/NNS ]
+with/IN 
+[ Revenue/NNP Canada/NNP ]
+,/, 
+[ the/DT country/NN 's/POS federal/JJ tax/NN department/NN ]
+./. 
+
+[ Executives/NNS ] 
+of/IN 
+[ Norcen/NNP ]
+and/CC 
+[ Westmin/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ interests/NNS ]
+in/IN 
+[ oil/NN ]
+,/, 
+[ gas/NN ]
+and/CC 
+[ mining/NN ]
+,/, said/VBD 
+[ the/DT dispute/NN ]
+stems/VBZ from/IN 
+[ a/DT proposal/NN ]
+by/IN 
+[ Westmin/NNP ]
+to/TO transfer/VB about/RB 
+[ C$/$ 400/CD million/CD ]
+of/IN 
+[ related/VBN tax/NN pools/NNS ]
+to/TO 
+[ Norcen/NNP ]
+,/, as/IN 
+[ part/NN ]
+of/IN 
+[ the/DT transaction/NN ]
+./. 
+
+======================================
+
+[ Norcen/NNP ]
+planned/VBD to/TO apply/VB 
+[ the/DT tax/NN pools/NNS ]
+against/IN 
+[ future/JJ taxable/JJ income/NN ]
+,/, and/CC 
+[ the/DT asset/NN purchase/NN price/NN ]
+partly/RB reflects/VBZ 
+[ the/DT value/NN ]
+of/IN 
+[ those/DT tax/NN pools/NNS ]
+,/, 
+[ Norcen/NNP executives/NNS ]
+said/VBD ./. 
+
+``/`` If/IN 
+[ we/PRP ]
+ca/MD n't/RB roll/VB down/RB 
+[ what/WP ]
+
+[ we/PRP ]
+thought/VBD 
+[ we/PRP ]
+could/MD ''/'' in/IN 
+[ Westmin/NNP tax/NN pools/NNS ]
+,/, 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT Westmin/NNP assets/NNS ]
+``/`` is/VBZ not/RB as/RB great/JJ as/IN 
+[ we/PRP ]
+thought/VBD ,/, ''/'' said/VBD 
+[ Edward/NNP Battle/NNP ]
+,/, 
+[ Norcen/NNP 's/POS president/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+,/, in/IN 
+[ an/DT interview/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ 
+[ the/DT issue/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ An/DT official/NN ]
+at/IN 
+[ Revenue/NNP Canada/NNP 's/POS tax/NN rulings/NNS department/NN ]
+in/IN 
+[ Ottawa/NN ]
+said/VBD 
+[ he/PRP ]
+did/VBD n't/RB have/VB 
+[ access/NN ]
+to/TO 
+[ details/NNS ]
+of/IN 
+[ the/DT dispute/NN ]
+,/, and/CC could/MD n't/RB comment/VB ./. 
+
+======================================
+
+[ Revenue/NNP Canada/NNP ]
+``/`` has/VBZ had/VBD 
+[ a/DT problem/NN ]
+with/IN 
+[ the/DT concept/NN ]
+''/'' and/CC proposed/VBN 
+[ structure/NN ]
+under/IN 
+[ which/WDT Westmin/NNP ]
+planned/VBD to/TO pass/VB 
+[ the/DT tax/NN ]
+advantages/NNS along/IN to/TO 
+[ Norcen/NNP ]
+,/, 
+[ Mr./NNP Webster/NNP ]
+said/VBD ./. 
+
+Neither/CC 
+[ he/PRP ]
+nor/CC 
+[ Norcen/NNP officials/NNS ]
+offered/VBD 
+[ specifics/NNS ]
+./. 
+
+======================================
+
+[ A/DT final/JJ ruling/NN ]
+on/IN 
+[ the/DT proposed/VBN transaction/NN ]
+is/VBZ expected/VBN at/IN 
+[ any/DT time/NN ]
+,/, 
+[ Mr./NNP Webster/NNP ]
+said/VBD ,/, and/CC 
+[ Norcen/NNP ]
+said/VBD 
+[ the/DT purchase/NN ]
+could/MD close/VB as/RB early/RB as/IN 
+[ Nov./NNP 1/CD ]
+,/, provided/VBN 
+[ the/DT tax/NN ruling/NN ]
+is/VBZ favorable/JJ ./. 
+
+======================================
+
+Under/IN 
+[ Canadian/JJ tax/NN regulations/NNS ]
+,/, according/VBG to/TO 
+[ Paul/NNP Palmer/NNP ]
+,/, 
+[ Norcen/NNP 's/POS senior/JJ vice/NN president/NN ]
+and/CC 
+[ chief/JJ financial/JJ officer/NN ]
+,/, 
+[ Westmin/NNP 's/POS tax/NN pools/NNS ]
+could/MD be/VB applied/VBN against/IN 
+[ all/DT ]
+of/IN 
+[ Norcen/NNP 's/POS 1989/CD earnings/NNS ]
+as/RB long/RB as/IN 
+[ the/DT transaction/NN ]
+closes/VBZ by/IN 
+[ Dec./NNP 31/CD ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ the/DT delay/NN ]
+in/IN 
+[ closing/NN ]
+would/MD have/VB ``/`` 
+[ some/DT impact/NN ]
+''/'' on/IN 
+[ Norcen/NNP 's/POS cash/NN flow/NN ]
+
+[ this/DT year/NN ]
+,/, but/CC 
+[ the/DT effect/NN ]
+on/IN 
+[ earnings/NNS ]
+would/MD be/VB negligible/JJ ./. 
+
+======================================
+
+[ Brascade/NNP Resources/NNP Inc./NNP ]
+,/, 
+[ a/DT holding/VBG company/NN ]
+controlled/VBN by/IN 
+[ Toronto/NNP 's/POS Bronfman/NNP family/NN ]
+,/, owns/VBZ about/RB 
+[ 73/CD %/NN ]
+of/IN 
+[ Westmin/NNP ]
+and/CC about/RB 
+[ 42/CD %/NN ]
+of/IN 
+[ Noranda/NNP Inc./NNP ]
+,/, 
+[ a/DT Toronto-based/JJ resource/NN concern/NN ]
+that/WDT in/IN 
+[ turn/NN ]
+owns/VBZ about/RB 
+[ 34.2/CD %/NN ]
+of/IN 
+[ Norcen/NNP ]
+./. 

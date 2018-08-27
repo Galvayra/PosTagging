@@ -1,0 +1,309 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Commerce/NNP Department/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ easing/VBG 
+[ a/DT much-criticized/JJ rule/NN ]
+
+[ that/WDT ]
+imposes/VBZ 
+[ U.S./NNP ]
+licensing/NN 
+[ requirements/NNS ]
+on/IN 
+[ foreign/JJ products/NNS ]
+
+[ that/WDT ]
+contain/VBP 
+[ sensitive/JJ U.S./NNP parts/NNS ]
+./. 
+
+======================================
+
+[ The/DT department/NN ]
+said/VBD 
+[ foreign/JJ manufacturers/NNS ]
+no/RB longer/RBR will/MD need/VB 
+[ prior/JJ U.S./NNP approval/NN ]
+to/TO export/VB 
+[ such/JJ products/NNS ]
+to/TO 
+[ most/JJS countries/NNS ]
+if/IN 
+[ the/DT U.S./NNP content/NN ]
+of/IN 
+[ sensitive/JJ parts/NNS ]
+does/VBZ n't/RB exceed/VB 
+[ 25/CD %/NN ]
+of/IN 
+[ the/DT value/NN ]
+of/IN 
+[ those/DT products/NNS ]
+./. 
+
+Previously/RB ,/, 
+[ the/DT department/NN ]
+applied/VBD 
+[ the/DT 25/CD %/NN level/NN ]
+to/TO only/RB 
+[ a/DT few/JJ countries/NNS ]
+;/: for/IN 
+[ other/JJ destinations/NNS ]
+
+[ it/PRP ]
+applied/VBD 
+[ a/DT 10/CD %/NN standard/NN ]
+./. 
+
+======================================
+
+[ Dennis/NNP Kloske/NNP ]
+,/, 
+[ undersecretary/NN ]
+of/IN 
+[ commerce/NN ]
+for/IN 
+[ export/NN administration/NN ]
+,/, said/VBD 
+[ the/DT more/RBR liberal/JJ rule/NN ]
+will/MD help/VB reverse/VB 
+[ the/DT ]
+``/`` 
+[ de-Americanization/NN ]
+''/'' 
+[ trend/NN ]
+,/, or/CC 
+[ the/DT inclination/NN ]
+of/IN 
+[ foreign/JJ manufacturers/NNS ]
+to/TO engineer/VB 
+[ U.S./NNP parts/NNS ]
+out/IN of/IN 
+[ their/PRP$ products/NNS ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ many/JJ ]
+of/IN 
+[ those/DT manufacturers/NNS ]
+have/VBP been/VBN doing/VBG that/DT just/RB to/TO avoid/VB ``/`` 
+[ being/VBG bound/VBN ]
+by/IN 
+[ U.S./NNP export/NN regulations/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Foreign/JJ companies/NNS ]
+
+[ that/WDT ]
+had/VBD n't/RB complied/VBN with/IN 
+[ the/DT U.S./NNP requirement/NN ]
+faced/VBD 
+[ Commerce/NNP Department/NNP prohibitions/NNS ]
+on/IN 
+[ shipments/NNS ]
+of/IN 
+[ U.S.-made/JJ parts/NNS ]
+./. 
+
+[ Foreign/JJ governments/NNS ]
+have/VBP objected/VBN to/TO 
+[ this/DT ]
+``/`` 
+[ extraterritorial/JJ ]
+''/'' 
+[ reach/NN ]
+of/IN 
+[ U.S./NNP law/NN ]
+,/, and/CC 
+[ U.S./NNP component/NN suppliers/NNS ]
+complained/VBD that/IN 
+[ they/PRP ]
+were/VBD being/VBG regulated/VBN out/IN of/IN 
+[ business/NN ]
+in/IN 
+[ important/JJ foreign/JJ markets/NNS ]
+./. 
+
+======================================
+
+[ Sensitive/JJ goods/NNS ]
+are/VBP 
+[ high-technology/NN products/NNS ]
+
+[ that/WDT ]
+can/MD have/VB 
+[ both/CC military/JJ ]
+and/CC 
+[ civilian/JJ uses/NNS ]
+,/, and/CC require/VBP 
+[ a/DT license/NN ]
+for/IN exporting/VBG from/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+At/IN 
+[ the/DT 25/CD %/NN level/NN ]
+,/, 
+[ many/JJ more/JJR foreign/JJ electronics/NNS products/NNS ]
+can/MD incorporate/VB 
+[ U.S.-made/JJ microprocessors/NNS ]
+,/, 
+[ disk/NN drives/NNS ]
+and/CC 
+[ other/JJ parts/NNS ]
+without/IN triggering/VBG 
+[ additional/JJ U.S./NNP ]
+licensing/NN 
+[ requirements/NNS ]
+./. 
+
+[ The/DT new/JJ rule/NN ]
+went/VBD into/IN 
+[ effect/NN ]
+on/IN 
+[ Friday/NNP ]
+,/, although/IN 
+[ it/PRP ]
+also/RB provides/VBZ for/IN 
+[ a/DT 30-day/JJ period/NN ]
+for/IN 
+[ public/JJ comment/NN ]
+./. 
+
+======================================
+
+[ The/DT 1988/CD trade/NN act/NN ]
+instructed/VBD 
+[ the/DT Commerce/NNP Department/NNP ]
+to/TO undertake/VB 
+[ this/DT change/NN ]
+,/, but/CC 
+[ an/DT inter-agency/JJ debate/NN ]
+over/IN 
+[ what/WP exceptions/NNS ]
+could/MD be/VB made/VBN to/TO 
+[ the/DT new/JJ rule/NN ]
+delayed/VBD 
+[ action/NN ]
+for/IN 
+[ months/NNS ]
+./. 
+
+[ The/DT 25/CD %/NN rule/NN ]
+,/, for/IN 
+[ instance/NN ]
+,/, is/VBZ to/TO apply/VB to/TO 
+[ all/DT ]
+but/IN 
+[ eight/CD countries/NNS ]
+being/VBG proscribed/VBN for/IN 
+[ foreign-policy/NN reasons/NNS ]
+--/: 
+[ Iran/NNP ]
+,/, 
+[ Syria/NNP ]
+,/, 
+[ South/NNP Yemen/NNP ]
+,/, 
+[ Libya/NNP ]
+,/, 
+[ Vietnam/NNP ]
+,/, 
+[ North/NNP Korea/NNP ]
+,/, 
+[ Cuba/NNP ]
+and/CC 
+[ Cambodia/NNP ]
+./. 
+
+[ Foreign/JJ manufacturers/NNS ]
+shipping/VBG 
+[ products/NNS ]
+to/TO 
+[ these/DT countries/NNS ]
+will/MD still/RB be/VB held/VBN to/TO 
+[ the/DT 10/CD %/NN standard/NN ]
+./. 
+
+[ Other/JJ countries/NNS ]
+could/MD be/VB added/VBN to/TO 
+[ the/DT list/NN ]
+in/IN 
+[ the/DT future/NN ]
+./. 
+
+======================================
+
+[ The/DT Commerce/NNP Department/NNP ]
+also/RB is/VBZ working/VBG on/IN 
+[ new/JJ rules/NNS ]
+to/TO free/VB 
+[ older/JJR supercomputer/NN models/NNS ]
+from/IN 
+[ stringent/JJ export-control/JJ rules/NNS ]
+./. 
+
+In/IN 
+[ most/JJS cases/NNS ]
+,/, 
+[ foreign/JJ buyers/NNS ]
+of/IN 
+[ U.S./NNP supercomputers/NNS ]
+are/VBP required/VBN to/TO take/VB 
+[ extraordinary/JJ measures/NNS ]
+to/TO prevent/VB 
+[ these/DT devices/NNS ]
+from/IN being/VBG misused/VBN ./. 
+
+[ Such/JJ rules/NNS ]
+,/, however/RB ,/, place/VBP 
+[ U.S./NNP supercomputer/NN manufacturers/NNS ]
+at/IN 
+[ a/DT disadvantage/NN ]
+in/IN 
+[ foreign/JJ markets/NNS ]
+because/IN 
+[ their/PRP$ Japanese/JJ competitors/NNS ]
+are/VBP n't/RB similarly/RB bound/VBN ./. 
+
+======================================
+
+Under/IN 
+[ some/DT proposals/NNS ]
+being/VBG studied/VBN ,/, 
+[ the/DT Commerce/NNP Department/NNP ]
+would/MD ``/`` 
+[ redefine/VB ]
+''/'' 
+[ supercomputers/NNS ]
+and/CC apply/VB 
+[ such/JJ ]
+exceptionally/RB 
+[ tight/JJ controls/NNS ]
+only/RB to/TO 
+[ the/DT latest/JJS models/NNS ]
+and/CC 
+[ less/RBR restrictive/JJ ones/NNS ]
+to/TO 
+[ the/DT older/JJR models/NNS ]
+./. 

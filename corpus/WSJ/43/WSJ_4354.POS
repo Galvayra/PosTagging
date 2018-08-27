@@ -1,0 +1,747 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Investors/NNS ]
+will/MD soon/RB be/VB offered/VBN 
+[ a/DT new/JJ way/NN ]
+to/TO make/VB 
+[ money/NN ]
+from/IN 
+[ the/DT savings-and-loan/NN debacle/NN ]
+./. 
+
+======================================
+
+Sometime/RB in/IN 
+[ the/DT next/JJ few/JJ weeks/NNS ]
+,/, 
+[ Resolution/NNP Funding/NNP Corp./NNP ]
+--/: created/VBN by/IN 
+[ Congress/NNP ]
+to/TO help/VB finance/VB 
+[ the/DT massive/JJ thrift/NN rescue/NN ]
+--/: is/VBZ expected/VBN to/TO launch/VB 
+[ the/DT first/JJ ]
+of/IN 
+[ several/JJ bond/NN offerings/NNS ]
+
+[ that/WDT ]
+will/MD eventually/RB total/VBP as/RB much/JJ as/IN 
+[ $/$ 30/CD billion/CD ]
+./. 
+
+[ The/DT bailout/NN bonds/NNS ]
+are/VBP already/RB being/VBG hailed/VBN by/IN 
+[ many/JJ professional/JJ investment/NN managers/NNS ]
+as/IN 
+[ an/DT easy/JJ ]
+,/, 
+[ risk-free/JJ way/NN ]
+to/TO earn/VB 
+[ higher/JJR yields/NNS ]
+than/IN on/IN 
+[ plain-vanilla/NN Treasury/NNP bonds/NNS ]
+./. 
+
+======================================
+
+But/CC although/IN 
+[ details/NNS ]
+have/VBP yet/RB to/TO be/VB announced/VBN ,/, 
+[ individual/JJ investors/NNS ]
+may/MD have/VBP 
+[ reason/NN ]
+to/TO be/VB less/RBR enthusiastic/JJ ./. 
+
+[ Bond/NN specialists/NNS ]
+say/VBP 
+[ the/DT Refcorp/NNP securities/NNS ]
+are/VBP likely/JJ to/TO offer/VB only/RB 
+[ a/DT small/JJ fraction/NN ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+more/JJR in/IN 
+[ yield/NN ]
+than/IN 
+[ Treasury/NNP bonds/NNS ]
+./. 
+
+For/IN 
+[ many/JJ conservative/JJ investors/NNS ]
+,/, 
+[ the/DT difference/NN ]
+probably/RB wo/MD n't/RB be/VB enough/JJ to/TO make/VB 
+[ the/DT bonds/NNS ]
+worthwhile/JJ ./. 
+
+======================================
+
+Even/RB 
+[ some/DT investors/NNS ]
+
+[ who/WP ]
+are/VBP attracted/VBN by/IN 
+[ the/DT slight/JJ yield/NN advantage/NN ]
+may/MD back/VB off/RP because/RB of/IN 
+[ fears/NNS ]
+about/IN how/WRB 
+[ the/DT bonds/NNS ]
+will/MD trade/VB in/IN 
+[ the/DT secondary/JJ ]
+,/, or/CC 
+[ resale/NN ]
+,/, 
+[ markets/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ years/NNS ]
+,/, 
+[ yield-hungry/JJ investors/NNS ]
+earned/VBD 
+[ extra/JJ interest/NN ]
+by/IN making/VBG federally/RB insured/VBN 
+[ deposits/NNS ]
+in/IN 
+[ troubled/JJ S&Ls/NNS ]
+
+[ that/WDT ]
+had/VBD to/TO pay/VB 
+[ above-market/JJ rates/NNS ]
+to/TO attract/VB 
+[ funds/NNS ]
+./. 
+
+More/RBR recently/RB ,/, 
+[ investors/NNS ]
+snapped/VBD up/RP 
+[ limited/VBN partnerships/NNS ]
+
+[ that/WDT ]
+aimed/VBD to/TO profit/VB by/IN resuscitating/VBG 
+[ sick/JJ thrifts/NNS ]
+with/IN 
+[ federal/JJ assistance/NN ]
+./. 
+
+[ Investors/NNS ]
+were/VBD also/RB quick/JJ to/TO bid/VB up/RB 
+[ the/DT stock/NN prices/NNS ]
+of/IN 
+[ S&Ls/NNS ]
+expected/VBN to/TO benefit/VB after/RB 
+[ the/DT government/NN rescue/NN package/NN ]
+was/VBD passed/VBN 
+[ last/JJ summer/NN ]
+./. 
+
+======================================
+
+[ The/DT coming/JJ bailout/NN bonds/NNS ]
+,/, 
+[ which/WDT ]
+will/MD probably/RB require/VB 
+[ a/DT minimum/NN investment/NN ]
+of/IN 
+[ $/$ 1,000/CD ]
+,/, represent/VBP yet/RB 
+[ another/DT opportunity/NN ]
+to/TO profit/VB from/IN 
+[ the/DT thrift/NN mess/NN ]
+./. 
+
+Because/IN 
+[ the/DT securities/NNS ]
+wo/MD n't/RB be/VB 
+[ direct/JJ obligations/NNS ]
+of/IN 
+[ the/DT government/NN ]
+,/, backed/VBN by/IN 
+[ the/DT country/NN 's/POS ]
+``/`` 
+[ full/JJ faith/NN ]
+and/CC 
+[ credit/NN ]
+,/, ''/'' 
+[ Refcorp/NNP ]
+will/MD have/VB to/TO pay/VB 
+[ investors/NNS ]
+
+[ a/DT higher/JJR yield/NN ]
+than/IN that/DT offered/VBN on/IN 
+[ standard-issue/JJ government/NN securities/NNS ]
+sold/VBN by/IN 
+[ the/DT Treasury/NNP ]
+./. 
+
+======================================
+
+[ The/DT central/JJ question/NN ]
+for/IN 
+[ investors/NNS ]
+is/VBZ just/RB how/WRB big/JJ that/DT 
+[ yield/NN premium/NN ]
+turns/VBZ out/RP to/TO be/VB ./. 
+
+[ Some/DT long-term/JJ bonds/NNS ]
+of/IN 
+[ other/JJ government/NN agencies/NNS ]
+and/CC 
+[ government-sponsored/JJ entities/NNS ]
+are/VBP currently/RB yielding/VBG about/RB 
+[ half/NN ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+more/JJR than/IN 
+[ comparable/JJ Treasury/NNP securities/NNS ]
+./. 
+
+When/WRB 
+[ a/DT new/JJ security/NN ]
+is/VBZ first/RB offered/VBN to/TO 
+[ the/DT public/NN ]
+,/, 
+[ the/DT spread/NN ]
+can/MD be/VB even/RB greater/JJR ./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ 
+[ what/WP ]
+happened/VBD with/IN 
+[ bonds/NNS ]
+sold/VBN by/IN 
+[ Financing/NNP Corp./NNP ]
+,/, or/CC 
+[ FICO/NNP ]
+,/, set/VBD up/RP by/IN 
+[ Congress/NNP ]
+to/TO bail/VB out/RP 
+[ the/DT Federal/NNP Savings/NNP ]
+and/CC 
+[ Loan/NNP Insurance/NNP Corp/NNP ]
+./. 
+
+When/WRB 
+[ FICO/NNP bonds/NNS ]
+were/VBD introduced/VBN in/IN 
+[ 1987/CD ]
+,/, 
+[ many/JJ investors/NNS ]
+shied/VBD away/RB ,/, saying/VBG 
+[ they/PRP ]
+did/VBD n't/RB want/VB to/TO be/VB 
+[ guinea/NN pigs/NNS ]
+./. 
+
+So/RB ,/, at/IN 
+[ one/CD point/NN ]
+,/, 
+[ some/DT FICO/NNP bonds/NNS ]
+yielded/VBD more/JJR than/IN 
+[ 1.125/CD percentage/NN points/NNS ]
+over/IN 
+[ Treasury/NNP bonds/NNS ]
+./. 
+
+[ Today/NN ]
+,/, with/IN 
+[ greater/JJR public/JJ understanding/NN ]
+and/CC 
+[ market/NN acceptance/NN ]
+,/, 
+[ the/DT spread/NN ]
+has/VBZ narrowed/VBN to/TO 
+[ less/JJR ]
+than/IN 
+[ half/PDT that/DT amount/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Any/DT time/NN ]
+
+[ you/PRP ]
+bring/VBP out/RP 
+[ a/DT new/JJ issue/NN ]
+,/, 
+[ you/PRP ]
+have/VBP 
+[ an/DT issue/NN ]
+
+[ that/WDT ]
+comes/VBZ 
+[ a/DT little/JJ cheap/JJ ]
+to/TO 
+[ the/DT market/NN ]
+,/, and/CC 
+[ it/PRP ]
+usually/RB stays/VBZ 
+[ that/DT way/NN ]
+until/IN 
+[ people/NNS ]
+have/VBP 
+[ time/NN ]
+to/TO understand/VB 
+[ it/PRP ]
+and/CC develop/VB 
+[ a/DT secondary/JJ market/NN ]
+in/IN 
+[ it/PRP ]
+,/, ''/'' says/VBZ 
+[ E./NNP Craig/NNP Coats/NNP Jr./NNP ]
+,/, 
+[ vice/NN chairman/NN ]
+of/IN 
+[ Voute/NNP Coats/NNP Stuart/NNP ]
+&/CC 
+[ O'Grady/NNP ]
+in/IN 
+[ Greenwich/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+======================================
+
+[ Bond/NN specialists/NNS ]
+say/VBP ,/, however/RB ,/, that/IN 
+[ they/PRP ]
+do/VBP n't/RB expect/VB 
+[ the/DT ]
+coming/VBG 
+[ Refcorp/NNP securities/NNS ]
+to/TO yield/VB even/RB 
+[ half/PDT a/DT percentage/NN point/NN ]
+more/JJR than/IN 
+[ Treasurys/NNPS ]
+./. 
+
+[ They/PRP ]
+estimate/VBP ,/, for/IN 
+[ instance/NN ]
+,/, that/IN 
+[ a/DT 30-year/JJ Refcorp/NNP bond/NN ]
+would/MD initially/RB pay/VB only/RB about/RB 
+[ 0.20/CD percentage/NN point/NN ]
+to/TO 
+[ 0.35/CD percentage/NN point/NN ]
+more/JJR than/IN 
+[ similar/JJ 30-year/JJ Treasury/NNP bonds/NNS ]
+./. 
+
+======================================
+
+[ The/DT reason/NN ]
+for/IN 
+[ the/DT slim/JJ spread/NN ]
+is/VBZ 
+[ the/DT way/NN ]
+
+[ the/DT securities/NNS ]
+will/MD be/VB backed/VBN ./. 
+
+[ The/DT principal/NN ]
+will/MD be/VB backed/VBN by/IN 
+[ zero-coupon/JJ Treasury/NNP bonds/NNS ]
+,/, and/CC 
+[ the/DT Treasury/NNP ]
+is/VBZ required/VBN by/IN 
+[ law/NN ]
+to/TO pay/VB 
+[ the/DT interest/NN ]
+on/IN 
+[ the/DT securities/NNS ]
+if/IN 
+[ there/EX ]
+ever/RB are/VBP 
+[ insufficient/JJ funds/NNS ]
+from/IN 
+[ other/JJ sources/NNS ]
+./. 
+
+[ Other/JJ so-called/JJ ]
+``/`` 
+[ agency/NN securities/NNS ]
+,/, ''/'' while/IN by/IN 
+[ no/DT means/NNS ]
+risky/JJ ,/, do/VBP n't/RB have/VB so/RB strong/JJ 
+[ a/DT backing/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT ]
+intensely/RB 
+[ competitive/JJ world/NN ]
+of/IN 
+[ mutual/JJ funds/NNS ]
+,/, 
+[ insurance/NN companies/NNS ]
+and/CC 
+[ other/JJ institutional/JJ investors/NNS ]
+,/, even/RB 
+[ a/DT quarter/NN ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+can/MD make/VB 
+[ a/DT tremendous/JJ difference/NN ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+'re/VBP 
+[ an/DT institutional/JJ investor/NN ]
+,/, why/WRB 
+[ own/VB Treasurys/NNPS ]
+at/IN 
+[ 8.25/CD %/NN ]
+when/WRB 
+[ you/PRP ]
+can/MD own/VB 
+[ Refcorp/NNP ]
+at/IN 
+[ 8.40/CD %/NN ]
+or/CC 
+[ 8.45/CD %/NN ]
+?/. ''/'' says/VBZ 
+[ David/NNP Ellison/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+and/CC 
+[ portfolio/NN manager/NN ]
+at/IN 
+[ Fidelity/NNP Management/NNP ]
+&/CC 
+[ Research/NNP ]
+in/IN 
+[ Boston/NNP ]
+./. 
+
+[ That/DT spread/NN ]
+``/`` could/MD make/VB 
+[ all/DT the/DT difference/NN ]
+between/IN 
+[ mediocrity/NN ]
+and/CC 
+[ excellence/NN ]
+./. 
+
+So/IN 
+[ it/PRP ]
+'s/VBZ 
+[ an/DT easy/JJ decision/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT slam/NN ]
+dunk/NN ./. 
+
+''/'' 
+======================================
+
+[ Marginal/JJ yield/NN differences/NNS ]
+,/, however/RB ,/, are/VBP n't/RB usually/RB so/RB significant/JJ for/IN 
+[ individual/JJ investors/NNS ]
+./. 
+
+On/IN 
+[ a/DT $/$ 10,000/CD investment/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, 
+[ a/DT difference/NN ]
+of/IN 
+[ a/DT quarter/NN ]
+of/IN 
+[ a/DT percentage/NN point/NN ]
+amounts/VBZ to/TO only/RB 
+[ $/$ 25/CD ]
+
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ you/PRP ]
+'re/VBP talking/VBG about/IN 
+[ a/DT guy/NN ]
+with/IN 
+[ $/$ 60,000/CD ]
+''/'' in/IN 
+[ a/DT certificate/NN ]
+of/IN 
+[ deposit/NN ]
+
+[ who/WP ]
+may/MD be/VB thinking/VBG about/IN 
+[ Refcorp/NNP ]
+,/, says/VBZ 
+[ Mr./NNP Ellison/NNP ]
+,/, ``/`` forget/VB 
+[ it/PRP ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT waste/NN ]
+of/IN 
+[ time/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ not/RB worth/JJ 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+and/CC 
+[ other/JJ analysts/NNS ]
+also/RB note/VBP that/IN 
+[ government-agency/JJ securities/NNS ]
+are/VBP n't/RB as/RB ``/`` 
+[ liquid/JJ ]
+''/'' as/IN 
+[ Treasury/NNP securities/NNS ]
+./. 
+
+[ That/DT ]
+means/VBZ 
+[ they/PRP ]
+are/VBP n't/RB quite/RB so/RB easy/RB for/IN 
+[ investors/NNS ]
+to/TO sell/VB as/IN 
+[ Treasury/NNP securities/NNS ]
+./. 
+
+======================================
+
+For/IN 
+[ investors/NNS ]
+willing/JJ to/TO do/VB without/IN 
+[ the/DT iron-clad/JJ backing/NN ]
+and/CC 
+[ liquidity/NN ]
+of/IN 
+[ Treasurys/NNPS ]
+,/, 
+[ the/DT analysts/NNS ]
+say/VBP ,/, 
+[ some/DT other/JJ agency/NN securities/NNS ]
+are/VBP more/RBR attractive/JJ for/IN 
+[ individuals/NNS ]
+because/IN 
+[ they/PRP ]
+offer/VBP 
+[ better/JJR returns/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'d/MD rather/RB own/VB 
+[ FICOs/NNS ]
+and/CC pick/VB up/RP 
+[ the/DT additional/JJ ]
+yield/NN ,/, ''/'' says/VBZ 
+[ William/NNP M./NNP Brachfeld/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+at/IN 
+[ Daiwa/NNP Securities/NNP America/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ Morgan/NNP B./NNP Stark/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+of/IN 
+[ Chemical/NNP Securities/NNP Inc./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Chemical/NNP Banking/NNP Corp./NNP ]
+,/, also/RB likes/VBZ 
+[ FICO/NNP bonds/NNS ]
+and/CC owns/VBZ 
+[ zero-coupon/JJ FICOs/NNS ]
+for/IN 
+[ his/PRP$ individual/JJ retirement/NN account/NN ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ FICO/NNP bonds/NNS ]
+may/MD not/RB be/VB quite/RB as/RB liquid/JJ as/IN 
+[ Refcorp/NNP bonds/NNS ]
+because/IN 
+[ there/EX ]
+will/MD be/VB more/JJR 
+[ Refcorps/NNS ]
+than/IN 
+[ FICOs/NNS ]
+,/, but/CC that/IN does/VBZ n't/RB matter/VB to/TO 
+[ him/PRP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP not/RB going/VBG to/TO trade/VB 
+[ them/PRP ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP willing/JJ to/TO give/VB up/RP 
+[ a/DT little/JJ more/JJR liquidity/NN ]
+because/IN 
+[ I/PRP ]
+can/MD gain/VB 
+[ a/DT higher/JJR yield/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Treasury/NNP ]
+,/, 
+[ Refcorp/NNP ]
+and/CC 
+[ FICO/NNP bonds/NNS all/DT ]
+have/VBP 
+[ an/DT important/JJ advantage/NN ]
+over/IN 
+[ CDs/NNS ]
+./. 
+
+[ The/DT interest/NN ]
+
+[ they/PRP ]
+pay/VBP is/VBZ exempt/JJ from/IN 
+[ state/NN ]
+and/CC 
+[ local/JJ income/NN taxes/NNS ]
+./. 
+
+[ That/DT ]
+'s/VBZ especially/RB significant/JJ for/IN 
+[ investors/NNS ]
+in/IN 
+[ high-tax/JJ states/NNS ]
+,/, such/JJ as/IN 
+[ New/NNP York/NNP ]
+,/, 
+[ California/NNP ]
+and/CC 
+[ Massachusetts/NNP ]
+./. 
+
+======================================
+
+[ One/CD thing/NN investors/NNS ]
+should/MD watch/VB for/IN when/WRB 
+[ Refcorp/NNP ]
+announces/VBZ 
+[ details/NNS ]
+of/IN 
+[ the/DT new/JJ securities/NNS ]
+is/VBZ ``/`` 
+[ call/NN protection/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+is/VBZ widely/RB expected/VBN that/IN 
+[ the/DT Refcorp/NNP bonds/NNS ]
+will/MD be/VB modeled/VBN after/IN 
+[ Treasury/NNP bonds/NNS ]
+,/, 
+[ which/WDT ]
+generally/RB protect/VBP 
+[ investors/NNS ]
+from/IN 
+[ the/DT risk/NN ]
+of/IN having/VBG 
+[ a/DT bond/NN ]
+called/VBN ,/, or/CC redeemed/VBN ,/, before/IN 
+[ the/DT scheduled/VBN maturity/NN date/NN ]
+./. 
+
+[ Corporate/JJ ]
+and/CC 
+[ municipal/JJ bonds/NNS ]
+typically/RB can/MD be/VB called/VBN early/RB --/: presenting/VBG 
+[ investors/NNS ]
+with/IN 
+[ the/DT unhappy/JJ chore/NN ]
+of/IN reinvesting/VBG 
+[ their/PRP$ principal/NN ]
+at/IN 
+[ a/DT lower/JJR interest/NN rate/NN ]
+than/IN 
+[ they/PRP ]
+had/VBD on/IN 
+[ the/DT bond/NN ]
+
+[ that/WDT ]
+was/VBD called/VBN ./. 
+
+======================================
+
+[ Other/JJ details/NNS ]
+yet/RB to/TO be/VB disclosed/VBN include/VBP 
+[ the/DT timing/NN ]
+of/IN 
+[ the/DT first/JJ bond/NN sale/NN ]
+,/, how/WRB 
+[ many/JJ ]
+will/MD be/VB sold/VBN ,/, 
+[ what/WP maturities/NNS ]
+will/MD be/VB offered/VBN and/CC how/WRB 
+[ investors/NNS ]
+can/MD buy/VB 
+[ them/PRP ]
+./. 
+
+======================================
+
+[ A/DT sampling/NN ]
+of/IN 
+[ current/JJ yields/NNS ]
+on/IN 
+[ 30-year/JJ bonds/NNS ]
+issued/VBN by/IN 
+[ the/DT Treasury/NNP ]
+,/, 
+[ government-sponsored/JJ enterprises/NNS ]
+and/CC 
+[ agencies/NNS ]
+./. 

@@ -1,0 +1,911 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+FROM/IN 
+[ NEW/NNP YORK/NNP ]
+to/TO 
+[ Nagoya/NNP ]
+,/, 
+[ corporate/JJ leaders/NNS ]
+are/VBP entranced/VBN by/IN 
+[ the/DT prospect/NN ]
+of/IN running/VBG 
+[ a/DT global/JJ business/NN ]
+./. 
+
+[ They/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ crucial/JJ to/TO 
+[ success/NN ]
+--/: 
+[ both/PDT their/PRP$ own/JJ ]
+and/CC that/IN of/IN 
+[ their/PRP$ businesses/NNS ]
+./. 
+
+======================================
+
+[ There/EX ]
+are/VBP ,/, however/RB ,/, 
+[ a/DT couple/NN ]
+of/IN 
+[ hitches/NNS ]
+to/TO 
+[ this/DT global/JJ vision/NN ]
+:/: 
+[ Executives/NNS ]
+are/VBP n't/RB quite/RB sure/JJ how/WRB to/TO go/VB about/IN 
+[ it/PRP ]
+,/, and/CC 
+[ there/EX ]
+'s/VBZ 
+[ some/DT disagreement/NN ]
+over/IN 
+[ what/WP ]
+
+[ the/DT precise/JJ benefits/NNS ]
+will/MD be/VB ./. 
+
+======================================
+
+[ Those/DT ]
+are/VBP 
+[ some/DT ]
+of/IN 
+[ the/DT findings/NNS ]
+
+[ that/WDT ]
+emerge/VBP from/IN 
+[ an/DT extensive/JJ new/JJ survey/NN ]
+of/IN 
+[ 433/CD chief/NN executive/JJ officers/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ Europe/NNP ]
+,/, 
+[ Japan/NNP ]
+and/CC 
+[ Pacific/NNP Rim/NNP nations/NNS ]
+./. 
+
+[ The/DT poll/NN ]
+was/VBD conducted/VBN jointly/RB by/IN 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP ]
+,/, 
+[ the/DT management/NN consulting/VBG firm/NN ]
+of/IN 
+[ Booz-Allen/NNP ]
+&/CC 
+[ Hamilton/NNP Inc./NNP ]
+,/, and/CC 
+[ Nihon/NNP Keizai/NNP Shimbun/NNP ]
+,/, 
+[ Japan/NNP 's/POS leading/VBG business/NN newspaper/NN ]
+./. 
+
+======================================
+
+Nearly/RB 
+[ 50/CD %/NN ]
+of/IN 
+[ CEOs/NNS ]
+say/VBP that/IN expanding/VBG abroad/RB is/VBZ 
+[ a/DT very/RB important/JJ part/NN ]
+of/IN 
+[ their/PRP$ plan/NN ]
+to/TO increase/VB 
+[ revenue/NN ]
+and/CC 
+[ profit/NN ]
+in/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+./. 
+
+[ Some/DT 30/CD %/NN ]
+say/VBP 
+[ that/IN globalization/NN ]
+will/MD be/VB 
+[ a/DT vital/JJ means/NN ]
+of/IN lowering/VBG 
+[ their/PRP$ costs/NNS ]
+or/CC upgrading/VBG 
+[ their/PRP$ technology/NN ]
+./. 
+
+And/CC 
+[ many/JJ CEOs/NNS figure/VBZ ]
+
+[ more/RBR foreign/JJ exposure/NN ]
+will/MD make/VB 
+[ them/PRP ]
+smarter/RB ,/, even/RB if/IN 
+[ they/PRP ]
+are/VBP n't/RB quite/RB sure/JJ how/WRB ./. 
+
+``/`` 
+[ Globalization/NN ]
+means/VBZ 
+[ different/JJ things/NNS ]
+to/TO 
+[ different/JJ industries/NNS ]
+,/, ''/'' observes/VBZ 
+[ Seth/NNP Masters/NNP ]
+,/, 
+[ a/DT senior/JJ associate/NN ]
+at/IN 
+[ Booz-Allen/NNP ]
+./. 
+
+``/`` 
+[ Everyone/NN ]
+sees/VBZ 
+[ it/PRP ]
+as/IN 
+[ a/DT winning/VBG proposition/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ plenty/NN ]
+of/IN 
+[ pitfalls/NNS ]
+lie/VBP ahead/RB in/IN 
+[ the/DT race/NN ]
+toward/IN 
+[ globalization/NN ]
+./. 
+
+While/IN 
+[ CEOs/NNS ]
+are/VBP eager/JJ to/TO expand/VB abroad/RB ,/, 
+[ they/PRP ]
+acknowledge/VBP that/IN 
+[ foreign/JJ competitors/NNS ]
+will/MD keep/VB making/VBG 
+[ inroads/NNS ]
+in/IN 
+[ their/PRP$ home/NN markets/NNS ]
+./. 
+
+[ Protectionist/JJ trade/NN barriers/NNS ]
+are/VBP 
+[ a/DT worry/NN ]
+,/, especially/RB in/IN 
+[ Europe/NNP ]
+./. 
+
+And/CC as/RB much/JJ as/IN 
+[ companies/NNS ]
+love/VBP to/TO talk/VB about/IN becoming/VBG 
+[ global/JJ ]
+,/, most/JJS of/IN 
+[ them/PRP ]
+are/VBP n't/RB there/RB yet/RB ./. 
+
+[ They/PRP ]
+remain/VBP largely/RB local/JJ in/IN 
+[ practice/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ the/DT surface/NN ]
+,/, 
+[ there/EX ]
+
+[ 's/VBZ virtual/JJ unanimity/NN ]
+about/IN 
+[ the/DT merits/NNS ]
+of/IN running/VBG 
+[ a/DT business/NN ]
+globally/RB ./. 
+
+``/`` 
+[ I/PRP ]
+find/VBP 
+[ it/PRP ]
+essential/JJ to/TO know/VB 
+[ what/WP ]
+'s/VBZ happening/VBG around/IN 
+[ the/DT world/NN ]
+,/, just/RB to/TO keep/VB abreast/RB of/IN 
+[ the/DT opportunities/NNS ]
+,/, ''/'' says/VBZ 
+[ Lester/NNP A./NNP Hudson/NNP Jr./NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ CEO/NN ]
+of/IN 
+[ Dan/NNP River/NNP Corp./NNP ]
+,/, 
+[ a/DT textile/NN concern/NN ]
+./. 
+
+In/IN 
+[ the/DT past/JJ 12/CD months/NNS ]
+,/, 
+[ Mr./NNP Hudson/NNP ]
+has/VBZ traveled/VBN 
+[ both/DT ]
+to/TO 
+[ Europe/NNP ]
+and/CC to/TO 
+[ Australia/NNP ]
+on/IN 
+[ business/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ pretty/RB typical/JJ ;/: 
+[ 68/CD %/NN ]
+of/IN 
+[ the/DT CEOs/NNS ]
+surveyed/VBN say/VBP 
+[ they/PRP ]
+travel/VBP overseas/RB on/IN 
+[ business/NN ]
+at/IN 
+[ least/JJS ]
+twice/RB 
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ experts/NNS ]
+differ/VBP on/IN just/RB 
+[ what/WP ]
+
+[ it/PRP ]
+takes/VBZ to/TO be/VB 
+[ a/DT proper/JJ global/JJ business/NN ]
+./. 
+
+Does/VBZ 
+[ it/PRP ]
+require/VB 
+[ a/DT minimum/JJ percentage/NN ]
+of/IN 
+[ sales/NNS ]
+overseas/RB ,/, such/JJ as/IN 
+[ 25/CD %/NN ]
+?/. 
+
+Or/CC does/VBZ 
+[ it/PRP ]
+involve/VB 
+[ a/DT top/JJ management/NN team/NN ]
+with/IN 
+[ experience/NN ]
+from/IN 
+[ a/DT variety/NN ]
+of/IN 
+[ different/JJ countries/NNS ]
+?/. 
+
+Or/CC is/VBZ it/PRP more/JJR 
+[ a/DT state/NN ]
+of/IN 
+[ mind/NN ]
+,/, where/WRB 
+[ CEOs/NNS ]
+scan/VBP 
+[ the/DT whole/JJ world/NN ]
+before/IN 
+[ making/VBG production/NN ]
+,/, 
+[ sales/NNS ]
+or/CC 
+[ finance/NN decisions/NNS ]
+?/. 
+
+``/`` 
+[ There/EX ]
+is/VBZ n't/RB 
+[ one/NN ]
+driving/VBG 
+[ force/NN ]
+,/, ''/'' asserts/VBZ 
+[ John/NNP Creedon/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ CEO/NN ]
+of/IN 
+[ Metropolitan/NNP Life/NNP Insurance/NNP Co/NNP ]
+./. 
+
+======================================
+
+Judging/VBG by/IN 
+[ sales/NNS ]
+alone/RB ,/, 
+[ many/JJ businesses/NNS ]
+are/VBP more/JJR talk/NN than/IN 
+[ action/NN ]
+;/: 
+[ they/PRP ]
+currently/RB get/VBP only/RB 
+[ a/DT modest/JJ percentage/NN ]
+of/IN 
+[ their/PRP$ revenue/NN ]
+from/IN abroad/RB ./. 
+
+[ That/DT ]
+'s/VBZ especially/RB true/JJ of/IN 
+[ U.S./NNP companies/NNS ]
+,/, with/IN 
+[ their/PRP$ big/JJ domestic/JJ markets/NNS ]
+;/: 
+[ they/PRP ]
+reported/VBD that/IN only/RB 
+[ 13/CD %/NN ]
+of/IN 
+[ 1988/CD revenue/NN ]
+came/VBD from/IN outside/IN 
+[ North/NNP America/NNP ]
+./. 
+
+By/IN 
+[ contrast/NN ]
+,/, 
+[ 33/CD %/NN ]
+of/IN 
+[ European/JJ companies/NNS '/POS revenue/NN ]
+originated/VBD from/IN outside/IN 
+[ Europe/NNP ]
+./. 
+
+And/CC 
+[ 18/CD %/NN ]
+of/IN 
+[ Japanese/JJ companies/NNS '/POS revenue/NN ]
+was/VBD from/IN 
+[ non-Japanese/JJ sources/NNS ]
+./. 
+
+======================================
+
+[ Growth/NN ]
+into/IN 
+[ overseas/JJ markets/NNS ]
+will/MD be/VB brisk/JJ but/CC not/RB 
+[ overwhelming/JJ ]
+,/, if/IN 
+[ CEOs/NNS '/POS crystal/NN balls/NNS ]
+are/VBP functioning/VBG properly/RB ./. 
+
+[ Five/CD years/NNS ]
+from/IN now/RB ,/, 
+[ CEOs/NNS ]
+on/IN 
+[ the/DT average/NN ]
+expect/VBP 
+[ 26/CD %/NN ]
+of/IN 
+[ their/PRP$ revenue/NN ]
+to/TO come/VB from/IN 
+[ outside/JJ their/PRP$ home/NN region/NN ]
+,/, compared/VBN with/IN 
+[ a/DT shade/NN ]
+less/JJR than/IN 
+[ 20/CD %/NN today/NN ]
+./. 
+
+======================================
+
+[ The/DT survey/NN ]
+also/RB found/VBD that/IN 
+[ industries/NNS ]
+with/IN 
+[ heavy/JJ research/NN ]
+or/CC 
+[ capital-spending/JJ budgets/NNS ]
+are/VBP much/RB more/RBR global/JJ already/RB than/IN 
+[ the/DT average/JJ business/NN ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ companies/NNS ]
+involved/VBN in/IN 
+[ aerospace/NN ]
+or/CC 
+[ telecommunications/NNS ]
+typically/RB derive/VBP more/JJR than/IN 
+[ 25/CD %/NN ]
+of/IN 
+[ their/PRP$ revenue/NN ]
+abroad/RB ,/, perhaps/RB because/IN of/IN 
+[ a/DT desire/NN ]
+to/TO spread/VB 
+[ their/PRP$ big/JJ costs/NNS ]
+over/IN 
+[ a/DT wider/JJR selling/NN area/NN ]
+./. 
+
+In/IN 
+[ any/DT event/NN ]
+,/, 
+[ it/PRP ]
+puts/VBZ 
+[ them/PRP ]
+well/RB ahead/RB of/IN 
+[ other/JJ businesses/NNS ]
+such/JJ as/IN 
+[ financial/JJ services/NNS ]
+in/IN 
+[ the/DT drive/NN ]
+to/TO be/VB truly/RB global/JJ ./. 
+
+======================================
+
+Even/RB 
+[ the/DT ]
+most/RBS globally/RB oriented/VBN 
+[ companies/NNS ]
+are/VBP n't/RB sitting/VBG still/RB ./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP 
+[ 35/CD %/NN ]
+to/TO 
+[ 40/CD %/NN ]
+of/IN 
+[ sales/NNS ]
+overseas/RB ,/, but/CC 
+[ it/PRP ]
+should/MD be/VB more/JJR ,/, ''/'' says/VBZ 
+[ Richard/NNP Wood/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Eli/NNP Lilly/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ Several/JJ years/NNS ]
+ago/IN 
+[ the/DT pharmaceutical/JJ company/NN ]
+reorganized/VBD 
+[ each/DT ]
+of/IN 
+[ its/PRP$ activities/NNS ]
+on/IN 
+[ a/DT world-wide/JJ basis/NN ]
+,/, trying/VBG to/TO make/VB 
+[ sure/JJ ]
+
+[ it/PRP ]
+approached/VBD 
+[ each/DT business/NN problem/NN ]
+globally/RB ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ Mr./NNP Wood/NNP ]
+says/VBZ :/: ``/`` 
+[ Thirty/CD years/NNS ]
+ago/IN 
+[ our/PRP$ research/NN people/NNS ]
+thought/VBD only/RB in/IN 
+[ terms/NNS ]
+of/IN {/( getting/VBG 
+[ regulatory/JJ approvals/NNS ]
+from/IN }/) 
+[ the/DT U.S./NNP Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+./. 
+
+[ The/DT rest/NN ]
+of/IN 
+[ the/DT world/NN ]
+was/VBD 
+[ an/DT afterthought/NN ]
+./. 
+
+[ Today/NN ]
+
+[ they/PRP ]
+think/VBP of/IN 
+[ world-wide/JJ testing/NN ]
+from/IN 
+[ the/DT beginning/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ industries/NNS ]
+
+[ that/WDT ]
+historically/RB have/VBP chosen/VBN 
+[ a/DT local/JJ focus/NN ]
+,/, 
+[ globalization/NN ]
+also/RB is/VBZ winning/VBG 
+[ support/NN ]
+./. 
+
+``/`` 
+[ The/DT world/NN ]
+is/VBZ getting/VBG to/TO be/VB 
+[ a/DT smaller/JJR place/NN ]
+,/, ''/'' says/VBZ 
+[ Metropolitan/NNP Life/NNP 's/POS Mr./NNP Creedon/NNP ]
+./. 
+
+[ His/PRP$ company/NN ]
+recently/RB has/VBZ opened/VBN 
+[ offices/NNS ]
+in/IN 
+[ Taiwan/NNP ]
+and/CC 
+[ Spain/NNP ]
+,/, and/CC has/VBZ begun/VBN 
+[ a/DT joint/JJ venture/NN ]
+in/IN 
+[ South/NNP Korea/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP 
+[ our/PRP$ toes/NNS ]
+in/IN 
+[ the/DT water/NN ]
+,/, ''/'' 
+[ Mr./NNP Creedon/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ premature/JJ to/TO tell/VB whether/IN 
+[ this/DT ]
+will/MD be/VB 
+[ significant/JJ 10/CD years/NNS ]
+from/IN now/RB ./. 
+
+''/'' 
+======================================
+
+To/TO make/VB 
+[ a/DT splash/NN ]
+globally/RB ,/, 
+[ CEOs/NNS ]
+from/IN 
+[ all/DT nations/NNS ]
+seem/VBP willing/JJ to/TO spend/VB however/WRB 
+[ many/JJ dollars/NNS ]
+,/, 
+[ marks/NNS ]
+,/, 
+[ yen/NN ]
+and/CC 
+[ drachma/NN ]
+
+[ it/PRP ]
+takes/VBZ ./. 
+
+[ American/JJ ]
+,/, 
+[ European/JJ ]
+and/CC 
+[ Japanese/JJ executives/NNS all/DT ]
+plan/VBP to/TO direct/VB more/JJR of/IN 
+[ their/PRP$ investments/NNS ]
+outside/IN 
+[ their/PRP$ home/NN region/NN ]
+in/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+./. 
+
+[ The/DT trend/NN ]
+is/VBZ especially/RB pronounced/VBN for/IN 
+[ U.S./JJ ]
+and/CC 
+[ Canadian/JJ executives/NNS ]
+./. 
+
+From/IN 
+[ 1983/CD ]
+to/TO 
+[ 1988/CD ]
+,/, only/RB 
+[ 9/CD %/NN ]
+of/IN 
+[ their/PRP$ investments/NNS ]
+were/VBD made/VBN outside/IN 
+[ North/NNP America/NNP ]
+./. 
+
+During/IN 
+[ the/DT next/JJ five/CD years/NNS ]
+,/, 
+[ they/PRP ]
+say/VBP ,/, 
+[ that/DT figure/NN ]
+will/MD rise/VB to/TO 
+[ 16/CD %/NN ]
+./. 
+
+======================================
+
+As/IN for/IN 
+[ profitability/NN ]
+,/, 
+[ most/JJS U.S./NNP executives/NNS ]
+think/VBP 
+[ they/PRP ]
+can/MD achieve/VB 
+[ average/JJ ]
+or/CC 
+[ better/JJR returns/NNS ]
+just/RB about/IN everywhere/RB in/IN 
+[ the/DT world/NN ]
+except/IN 
+[ the/DT Soviet/JJ bloc/NN ]
+or/CC 
+[ China/NNP ]
+./. 
+
+[ European/JJ executives/NNS ]
+are/VBP n't/RB quite/RB so/RB optimistic/JJ ,/, and/CC nearly/RB 
+[ 60/CD %/NN ]
+of/IN 
+[ Japanese/JJ CEOs/NNS ]
+think/VBP 
+[ they/PRP  ]
+will/MD encounter/VB 
+[ below-average/JJ ]
+or/CC 
+[ negative/JJ returns/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Western/NNP Europe/NNP ]
+./. 
+
+But/CC if/IN 
+[ history/NN ]
+is/VBZ 
+[ any/DT guide/NN ]
+,/, 
+[ the/DT Americans/NNPS ]
+are/VBP too/RB cocky/JJ and/CC 
+[ the/DT Japanese/NNP ]
+will/MD do/VB better/RB than/IN 
+[ they/PRP ]
+think/VBP ./. 
+
+======================================
+
+In/IN 
+[ other/JJ survey/NN findings/NNS ]
+,/, 
+[ many/JJ executives/NNS ]
+are/VBP optimistic/JJ about/IN 
+[ plans/NNS ]
+to/TO reduce/VB 
+[ trade/NN barriers/NNS ]
+within/IN 
+[ the/DT European/NNP Community/NNP ]
+by/IN 
+[ 1992/CD ]
+./. 
+
+More/JJR than/IN  
+[ 80/CD %/NN ]
+of/IN 
+[ CEOs/NNS ]
+expect/VBP 
+[ freer/JJR movement/NN ]
+of/IN 
+[ labor/NN ]
+within/IN 
+[ Europe/NNP ]
+and/CC 
+[ easier/JJR cross-border/JJ transit/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ non-European/JJ executives/NNS ]
+fear/VBP that/IN 
+[ the/DT whole/JJ 1992/CD movement/NN ]
+may/MD be/VB 
+[ a/DT stalking/VBG horse/NN ]
+for/IN 
+[ European/JJ protectionist/JJ desires/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP concerned/VBN about/IN 
+[ some/DT indications/NNS ]
+that/IN 
+[ Europeans/NNPS ]
+would/MD like/VB 
+[ this/DT ]
+to/TO be/VB 
+[ a/DT reason/NN ]
+to/TO build/VB 
+[ a/DT wall/NN ]
+around/IN 
+[ Europe/NNP ]
+,/, ''/'' says/VBZ 
+[ William/NNP Johnson/NNP ]
+,/, 
+[ CEO/NN ]
+of/IN 
+[ Scientific-Atlanta/NNP Inc/NNP ]
+./. 
+
+[ His/PRP$ company/NN ]
+,/, 
+[ which/WDT ]
+makes/VBZ 
+[ satellite/NN ]
+and/CC 
+[ cable-television/NN equipment/NN ]
+,/, has/VBZ pushed/VBN up/IN 
+[ overseas/JJ sales/NNS ]
+rapidly/RB ,/, to/TO 
+[ 20/CD %/NN ]
+of/IN 
+[ total/JJ sales/NNS ]
+in/IN 
+[ the/DT past/JJ year/NN ]
+from/IN 
+[ 14/CD %/NN ]
+
+[ the/DT year/NN ]
+before/IN ./. 
+
+[ Mr./NNP Johnson/NNP ]
+complains/VBZ ,/, however/RB ,/, that/IN 
+[ some/DT European/JJ nations/NNS ]
+force/VBP 
+[ his/PRP$  company/NN ]
+to/TO ``/`` redesign/VB 
+[ products/NNS ]
+to/TO 
+[ specious/JJ standards/NNS ]
+./. 
+
+''/'' 
+[ That/WDT ]
+puts/VBZ 
+[ foreign/JJ companies/NNS ]
+like/IN 
+[ his/PRP$ ]
+at/IN 
+[ a/DT disadvantage/NN ]
+to/TO 
+[ local/JJ competition/NN ]
+./. 
+
+======================================
+
+Within/IN 
+[ Europe/NNP ]
+,/, 
+[ executives/NNS ]
+have/VBP 
+[ a/DT new/JJ favorite/JJ country/NN ]
+:/: 
+[ Spain/NNP ]
+./. 
+
+[ Some/DT 64/CD %/NN ]
+of/IN 
+[ CEOs/NNS whose/WP$ companies/NNS ]
+do/VBP 
+[ business/NN ]
+in/IN 
+[ Spain/NNP ]
+said/VBD 
+[ they/PRP ]
+plan/VBP to/TO increase/VB 
+[ their/PRP$ activity/NN ]
+there/RB ,/, vs./CC less/JJR than/IN 
+[ 1/CD %/NN ]
+
+[ that/DT plan/NN ]
+to/TO cut/VB back/RB ./. 
+
+[ That/DT ]
+was/VBD 
+[ the/DT best/JJS showing/NN ]
+of/IN 
+[ any/DT European/JJ nation/NN ]
+./. 
+
+[ The/DT charm/NN ]
+of/IN 
+[ Spain/NNP ]
+,/, 
+[ it/PRP ]
+appears/VBZ ,/, has/VBZ to/TO do/VB with/IN 
+[ the/DT country/NN 's/POS strong/JJ economic/JJ gains/NNS ]
+,/, relatively/RB 
+[ low/JJ wages/NNS ]
+,/, and/CC 
+[ recent/JJ entry/NN ]
+into/IN 
+[ the/DT European/NNP Community/NNP ]
+./. 
+
+======================================
+
+[ The/DT local/JJ competition/NN ]
+there/RB ``/`` is/VBZ n't/RB as/RB strong/JJ as/IN ,/, say/VB ,/, 
+[ Tokyo/NNP ]
+,/, ''/'' says/VBZ 
+[ Metropolitan/NNP Life/NNP 's/POS Mr./NNP Creedon/NNP ]
+./. 
+
+``/`` 
+[ Spain/NNP ]
+is/VBZ growing/VBG very/RB rapidly/RB ./. 
+
+[ Per-capita/JJ insurance/NN ]
+and/CC 
+[ pensions/NNS ]
+are/VBP relatively/RB small/JJ ./. 
+
+[ It/PRP ]
+looks/VBZ like/IN 
+[ an/DT undeveloped/JJ market/NN ]
+where/WRB 
+[ we/PRP ]
+can/MD make/VB 
+[ a/DT contribution/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Andes/NNP ]
+is/VBZ 
+[ a/DT senior/JJ special/JJ writer/NN ]
+based/VBN in/IN 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP 's/POS New/NNP York/NNP bureau/NN ]
+./. 
+
+[ He/PRP ]
+also/RB served/VBD as/IN contributing/VBG 
+[ editor/NN ]
+of/IN 
+[ this/DT Wall/NNP Street/NNP Journal/NNP report/NN ]
+./. 

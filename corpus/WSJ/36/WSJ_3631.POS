@@ -1,0 +1,441 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT House/NNP ]
+voted/VBD overwhelmingly/RB to/TO repeal/VB 
+[ the/DT Medicare/NNP Catastrophic/NNP Care/NNP Act/NNP ]
+,/, 
+[ which/WDT ]
+
+[ angry/JJ senior/JJ citizens/NNS ]
+complained/VBD cost/VBD 
+[ them/PRP ]
+too/RB much/JJ and/CC gave/VBD 
+[ them/PRP ]
+too/RB little/JJ ./. 
+
+======================================
+
+After/IN 
+[ the/DT 358-67/CD vote/NN ]
+to/TO repeal/VB 
+[ the/DT law/NN ]
+,/, enacted/VBN just/RB 
+[ 14/CD months/NNS ]
+ago/RB ,/, 
+[ the/DT House/NNP ]
+soundly/RB rejected/VBD 
+[ a/DT proposal/NN ]
+to/TO maintain/VB 
+[ a/DT less/RBR expensive/JJ ]
+,/, 
+[ stripped-down/JJ version/NN ]
+./. 
+
+======================================
+
+[ The/DT lopsided/JJ rejection/NN ]
+in/IN 
+[ the/DT House/NNP ]
+makes/VBZ 
+[ it/PRP ]
+likely/JJ that/IN 
+[ the/DT Senate/NNP ]
+also/RB will/MD repeal/VB 
+[ the/DT catastrophic-care/NN benefits/NNS ]
+and/CC 
+[ the/DT unpopular/JJ income/NN surtax/NN ]
+that/WDT financed/VBD 
+[ them/PRP ]
+./. 
+
+[ The/DT Senate/NNP ]
+may/MD take/VB up/RP 
+[ the/DT measure/NN today/NN ]
+./. 
+
+======================================
+
+[ The/DT program/NN ]
+provided/VBD 
+[ expanded/JJ hospital/NN ]
+and/CC 
+[ medical/JJ benefits/NNS ]
+as/RB well/RB as/IN 
+[ new/JJ drug/NN coverage/NN ]
+for/IN 
+[ 33/CD million/CD elderly/JJ ]
+and/CC 
+[ disabled/JJ citizens/NNS ]
+./. 
+
+[ The/DT plan/NN ]
+is/VBZ unique/JJ because/IN 
+[ it/PRP ]
+is/VBZ financed/VBN solely/RB by/IN 
+[ its/PRP$ beneficiaries/NNS ]
+;/: on/IN 
+[ top/NN ]
+of/IN 
+[ a/DT flat/JJ monthly/JJ fee/NN ]
+paid/VBN by/IN 
+[ all/DT beneficiaries/NNS ]
+,/, about/RB 
+[ 40/CD %/NN ]
+of/IN 
+[ the/DT wealthiest/JJS beneficiaries/NNS ]
+paid/VBD 
+[ an/DT income/NN surtax/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD 
+[ this/DT surtax/NN ]
+that/WDT triggered/VBD 
+[ hostility/NN ]
+from/IN 
+[ the/DT elderly/JJ ]
+./. 
+
+[ Many/JJ ]
+contended/VBD that/IN 
+[ they/PRP ]
+were/VBD being/VBG forced/VBN to/TO subsidize/VB 
+[ lower-income/JJ beneficiaries/NNS ]
+and/CC that/IN 
+[ they/PRP ]
+were/VBD paying/VBG for/IN 
+[ benefits/NNS they/PRP ]
+already/RB received/VBD under/IN 
+[ current/JJ retirement/NN plans/NNS ]
+./. 
+
+======================================
+
+[ The/DT repeal/NN measure/NN ]
+
+[ that/WDT ]
+passed/VBD 
+[ the/DT House/NNP ]
+would/MD end/VB 
+[ the/DT surtax/NN ]
+immediately/RB and/CC refund/VB 
+[ all/DT surtax/NN revenue/NN ]
+collected/VBN 
+[ this/DT year/NN ]
+from/IN 
+[ seniors/NNS ]
+
+[ who/WP ]
+paid/VBD estimated/JJ 
+[ income/NN taxes/NNS ]
+./. 
+
+[ Many/JJ ]
+of/IN 
+[ the/DT ]
+nearly/RB 
+[ 14/CD million/CD seniors/NNS ]
+liable/JJ for/IN 
+[ the/DT tax/NN ]
+,/, 
+[ which/WDT ]
+ranges/VBZ from/IN 
+[ $/$ 22.50/CD ]
+to/TO 
+[ $/$ 800/CD this/DT year/NN ]
+,/, would/MD n't/RB have/VB paid/VBN 
+[ the/DT levy/NN ]
+until/IN 
+[ they/PRP ]
+filed/VBD 
+[ their/PRP$ 1989/CD tax/NN ]
+returns/NNS 
+[ next/JJ year/NN ]
+./. 
+
+About/IN 
+[ 1.8/CD million/CD ]
+,/, or/CC 
+[ 5/CD %/NN ]
+of/IN 
+[ the/DT beneficiaries/NNS ]
+,/, would/MD have/VB been/VBN liable/JJ for/IN 
+[ the/DT maximum/JJ tax/NN ]
+of/IN 
+[ $/$ 800/CD ]
+./. 
+
+======================================
+
+[ The/DT repeal/NN proposal/NN ]
+,/, sponsored/VBN by/IN 
+[ Reps./NNP Brian/NNP Donnelly/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mass/NNP ]
+./. 
+
+ )/) and/CC 
+[ Bill/NNP Archer/NNP ]
+ (/( 
+[ R./NNP ]
+,/, 
+[ Texas/NNP ]
+ )/) ,/, also/RB would/MD end/VB 
+[ the/DT monthly/JJ premium/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ $/$ 4/CD this/DT year/NN ]
+./. 
+
+[ The/DT government/NN ]
+would/MD keep/VB 
+[ the/DT revenue/NN ]
+already/RB collected/VBN from/IN 
+[ the/DT monthly/JJ premium/NN ]
+in/IN 
+[ order/NN ]
+to/TO pay/VB for/IN 
+[ the/DT unlimited/JJ hospital/NN ]
+benefits/VBZ 
+[ the/DT law/NN ]
+provides/VBZ ,/, after/IN 
+[ the/DT payment/NN ]
+of/IN 
+[ a/DT deductible/JJ ]
+of/IN 
+[ $/$ 560/CD this/DT year/NN ]
+./. 
+
+[ The/DT expanded/JJ coverage/NN ]
+would/MD end/VB 
+[ Jan./NNP 1/CD ]
+,/, 
+[ 1990/CD ]
+./. 
+
+======================================
+
+[ Opposition/NN ]
+to/TO 
+[ the/DT surtax/NN ]
+obscured/VBD 
+[ most/JJS other/JJ elements/NNS ]
+of/IN 
+[ the/DT law/NN ]
+and/CC rocked/VBD 
+[ members/NNS ]
+of/IN 
+[ Congress/NNP ]
+./. 
+
+[ Other/JJ social/JJ benefits/NNS ]
+are/VBP supported/VBN by/IN 
+[ broad/JJ financing/NN ]
+;/: 
+[ Social/NNP Security/NNP ]
+is/VBZ supported/VBN by/IN 
+[ payroll/NN taxes/NNS ]
+paid/VBN by/IN 
+[ workers/NNS ]
+and/CC 
+[ their/PRP$ employers/NNS ]
+,/, 
+[ Medicare/NNP ]
+for/IN 
+[ the/DT elderly/JJ ]
+is/VBZ financed/VBN by/IN 
+[ payroll/NN taxes/NNS ]
+and/CC 
+[ general/JJ tax/NN revenues/NNS ]
+,/, 
+[ Medicaid/NNP ]
+for/IN 
+[ the/DT poor/JJ ]
+is/VBZ financed/VBN out/IN of/IN 
+[ general/JJ tax/NN revenues/NNS ]
+./. 
+
+[ Many/JJ seniors/NNS ]
+resented/VBD bearing/VBG 
+[ the/DT full/JJ cost/NN ]
+of/IN 
+[ their/PRP$ expanded/JJ benefits/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ the/DT Iwo/NNP Jima/NNP generation/NN ]
+;/: 
+[ they/PRP ]
+came/VBD through/IN 
+[ the/DT Depression/NNP ]
+,/, fought/VBD in/IN 
+[ the/DT war/NN ]
+,/, sent/VBD 
+[ people/NNS ]
+to/TO 
+[ the/DT moon/NN ]
+./. 
+
+[ They/PRP ]
+think/VBP 
+[ they/PRP ]
+have/VBP paid/VBN enough/JJ ,/, ''/'' explained/VBD 
+[ Rep./NNP Pat/NNP Williams/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mont/NNP ]
+./. 
+
+ )/) ./. 
+
+======================================
+
+[ The/DT fierce/JJ reaction/NN ]
+to/TO 
+[ the/DT catastrophic-illness/NN plan/NN ]
+has/VBZ scrambled/VBN 
+[ the/DT politics/NNS ]
+of/IN providing/VBG 
+[ benefits/NNS ]
+,/, particularly/RB for/IN 
+[ the/DT aged/JJ ]
+./. 
+
+[ Many/JJ seniors/NNS ]
+say/VBP 
+[ they/PRP ]
+wanted/VBD 
+[ a/DT plan/NN ]
+to/TO help/VB 
+[ them/PRP ]
+bear/VB 
+[ the/DT cost/NN ]
+of/IN 
+[ long-term/JJ care/NN ]
+in/IN nursing/NN 
+[ homes/NNS ]
+,/, not/RB 
+[ the/DT expensive/JJ acute-care/NN benefits/NNS they/PRP ]
+got/VBD in/IN 
+[ the/DT Catastrophic/NNP Care/NNP Act/NNP ]
+./. 
+
+But/CC 
+[ many/JJ ]
+in/IN 
+[ Congress/NNP ]
+may/MD be/VB reluctant/JJ to/TO consider/VB 
+[ any/DT new/JJ benefits/NNS ]
+until/IN 
+[ the/DT dust/NN ]
+has/VBZ settled/VBN from/IN 
+[ this/DT repeal/NN ]
+./. 
+
+======================================
+
+Referring/VBG to/TO 
+[ demands/NNS ]
+by/IN 
+[ the/DT elderly/JJ ]
+for/IN 
+[ long-term/JJ care/NN coverage/NN ]
+,/, 
+[ Rep./NNP Fortney/NNP Stark/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, 
+[ who/WP ]
+sponsored/VBD 
+[ the/DT rejected/VBN proposal/NN ]
+to/TO preserve/VB 
+[ the/DT drug/NN benefits/NNS ]
+,/, said/VBD ``/`` 
+[ there/EX ]
+'s/VBZ 
+[ no/DT way/NN ]
+
+[ this/DT ]
+can/MD be/VB done/VBN unless/IN 
+[ people/NNS ]
+are/VBP willing/JJ to/TO step/VB up/IN to/TO 
+[ the/DT bar/NN ]
+and/CC pay/VB for/IN 
+[ it/PRP ]
+./. 
+
+''/'' By/IN 
+[ some/DT estimates/NNS ]
+,/, 
+[ long-term/JJ care/NN ]
+could/MD cost/VB as/RB much/JJ as/IN 
+[ $/$ 50/CD billion/CD ]
+to/TO 
+[ $/$ 60/CD billion/CD ]
+
+[ a/DT year/NN ]
+,/, 
+[ five/CD times/NNS ]
+
+[ the/DT annual/JJ cost/NN ]
+of/IN 
+[ the/DT catastrophic-illness/NN plan/NN 's/POS benefits/NNS ]
+./. 
+
+======================================
+
+[ Rep./NNP Donnelly/NNP ]
+said/VBD 
+[ the/DT lesson/NN ]
+from/IN 
+[ the/DT opposition/NN ]
+to/TO 
+[ the/DT Catastrophic/NNP Care/NNP Act/NNP ]
+is/VBZ ``/`` listen/VB to/TO 
+[ the/DT people/NNS you/PRP ]
+represent/VBP ,/, not/RB to/TO 
+[ the/DT representatives/NNS ]
+in/IN 
+[ the/DT corridors/NNS ]
+./. 
+
+''/'' Although/IN 
+[ the/DT leaders/NNS ]
+of/IN 
+[ the/DT powerful/JJ American/NNP Association/NNP ]
+of/IN 
+[ Retired/NNP Persons/NNP ]
+backed/VBD 
+[ the/DT plan/NN ]
+,/, 
+[ their/PRP$ support/NN ]
+was/VBD drowned/VBN out/RP by/IN 
+[ grass-roots/JJ opposition/NN ]
+./. 

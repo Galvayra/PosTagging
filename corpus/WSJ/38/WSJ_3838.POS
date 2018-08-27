@@ -1,0 +1,248 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ International/NNP Business/NNP Machines/NNPS Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+received/VBD 
+[ a/DT U.S./NNP patent/NN ]
+for/IN 
+[ a/DT compound/NN ]
+with/IN 
+[ thallium/NN ]
+
+[ that/WDT ]
+works/VBZ at/IN 
+[ the/DT highest/JJS temperature/NN ]
+recorded/VBN for/IN 
+[ any/DT superconductor/NN ]
+./. 
+
+======================================
+
+[ The/DT patent/NN ]
+was/VBD 
+[ the/DT first/JJ one/NN ]
+awarded/VBN in/IN 
+[ the/DT U.S./NNP ]
+for/IN 
+[ a/DT high-temperature/JJ superconductor/NN ]
+,/, 
+[ several/JJ ]
+of/IN 
+[ which/WDT ]
+have/VBP been/VBN discovered/VBN during/IN 
+[ the/DT past/JJ three/CD years/NNS ]
+./. 
+
+[ Such/JJ materials/NNS ]
+conduct/VBP 
+[ electricity/NN ]
+without/IN 
+[ resistance/NN ]
+when/WRB cooled/VBN ,/, and/CC 
+[ promise/VBP advances/NNS ]
+in/IN 
+[ electronics/NN ]
+,/, 
+[ power/NN generation/NN ]
+and/CC 
+[ other/JJ technologies/NNS ]
+./. 
+
+======================================
+
+[ The/DT awarding/NN ]
+of/IN 
+[ the/DT patent/NN ]
+to/TO 
+[ IBM/NNP ]
+surprised/VBD 
+[ many/JJ ]
+in/IN 
+[ the/DT field/NN ]
+./. 
+
+[ University/NNP ]
+of/IN 
+[ Arkansas/NNP scientists/NNS ]
+led/VBN by/IN 
+[ physicist/NN Allen/NNP Hermann/NNP ]
+first/RB reported/VBD in/IN early/RB 
+[ 1988/CD ]
+
+[ the/DT discovery/NN ]
+of/IN 
+[ thallium/NN superconductors/NNS ]
+and/CC were/VBD considered/VBN 
+[ the/DT leading/VBG group/NN ]
+in/IN 
+[ the/DT race/NN ]
+to/TO get/VB 
+[ a/DT patent/NN ]
+on/IN 
+[ them/PRP ]
+./. 
+
+Shortly/RB after/IN 
+[ the/DT Arkansas/NNP discovery/NN ]
+,/, 
+[ the/DT IBM/NNP group/NN ]
+developed/VBD 
+[ a/DT particular/JJ thallium/NN superconductor/NN ]
+
+[ that/WDT ]
+works/VBZ at/IN minus/IN 
+[ 234/CD degrees/NNS ]
+Fahrenheit/NNP --/: 
+[ the/DT current/JJ temperature/NN record/NN ]
+for/IN 
+[ superconductivity/NN ]
+./. 
+
+======================================
+
+[ The/DT IBM/NNP patent/NN ]
+was/VBD based/VBN on/IN 
+[ work/NN ]
+at/IN 
+[ its/PRP$ Almaden/NNP Research/NNP Center/NNP ]
+in/IN 
+[ San/NNP Jose/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+[ It/PRP ]
+covers/VBZ only/RB 
+[ a/DT narrow/JJ range/NN ]
+of/IN 
+[ superconductor/NN compositions/NNS ]
+and/CC may/MD not/RB preclude/VB 
+[ other/JJ patents/NNS ]
+related/VBN to/TO 
+[ the/DT materials/NNS ]
+with/IN 
+[ thallium/NN ]
+./. 
+
+But/CC 
+[ it/PRP ]
+may/MD prevent/VB 
+[ any/DT other/JJ group/NN ]
+from/IN getting/VBG 
+[ a/DT broad/JJ patent/NN ]
+on/IN 
+[ thallium/NN superconductors/NNS ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ one/CD species/NNS ]
+of/IN 
+[ a/DT compound/NN ]
+is/VBZ patented/VBN ,/, 
+[ it/PRP ]
+prevents/VBZ later/JJR 
+[ generic/JJ claims/NNS ]
+,/, ''/'' said/VBD 
+[ Sam/NNP Pasternack/NNP ]
+,/, 
+[ a/DT Boston/NNP patent/NN attorney/NN ]
+
+[ who/WP ]
+handles/VBZ 
+[ superconductor/NN patent/NN applications/NNS ]
+for/IN 
+[ Massachusetts/NNP Institute/NNP ]
+of/IN 
+[ Technology/NNP ]
+./. 
+
+[ He/PRP ]
+added/VBD ,/, however/RB ,/, that/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Arkansas/NNP ]
+can/MD still/RB challenge/VB 
+[ the/DT IBM/NNP patent/NN ]
+./. 
+
+======================================
+
+[ Robert/NNP Barrett/NNP ]
+,/, 
+[ a/DT patent/NN attorney/NN ]
+representing/VBG 
+[ the/DT University/NNP ]
+of/IN 
+[ Arkansas/NNP ]
+,/, said/VBD 
+[ it/PRP ]
+is/VBZ ``/`` 
+[ possible/JJ ]
+''/'' that/IN 
+[ the/DT school/NN ]
+will/MD challenge/VB 
+[ the/DT IBM/NNP patent/NN ]
+by/IN seeking/VBG 
+[ an/DT interference/NN proceeding/NN ]
+,/, 
+[ a/DT hearing/NN ]
+in/IN 
+[ which/WDT ]
+
+[ rival/JJ patent/NN claims/NNS ]
+are/VBP considered/VBN ./. 
+
+[ No/DT decision/NN ]
+has/VBZ been/VBN made/VBN yet/RB on/IN 
+[ the/DT matter/NN ]
+,/, 
+[ he/PRP ]
+added/VBD ./. 
+
+======================================
+
+[ Other/JJ superconductor/NN patent/NN claims/NNS ]
+already/RB have/VBP spawned/VBN 
+[ interference/NN proceedings/NNS ]
+,/, including/VBG 
+[ one/CD ]
+over/IN 
+[ rights/NNS ]
+to/TO 
+[ the/DT so-called/JJ 1-2-3/JJ compound/NN ]
+./. 
+
+[ That/DT proceeding/NN ]
+involves/VBZ conflicting/VBG 
+[ claims/NNS ]
+by/IN 
+[ the/DT University/NNP ]
+of/IN 
+[ Houston/NNP ]
+,/, 
+[ American/NNP Telephone/NNP ]
+&/CC 
+[ Telegraph/NNP Co./NNP ]
+,/, 
+[ IBM/NNP ]
+and/CC 
+[ the/DT U.S./NNP Naval/NNP Research/NNP Laboratory/NNP ]
+./. 

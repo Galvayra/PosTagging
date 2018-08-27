@@ -1,0 +1,663 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ REAL-ESTATE/NN INVESTORS/NNS ]
+face/VBP 
+[ a/DT blow/NN ]
+from/IN 
+[ the/DT House/NNP capital-gains/NNS provisions/NNS ]
+./. 
+
+======================================
+
+[ A/DT little-noted/JJ rule/NN ]
+would/MD limit/VB 
+[ the/DT benefit/NN ]
+of/IN 
+[ a/DT lower/JJR tax/NN ]
+on/IN 
+[ gains/NNS ]
+when/WRB 
+[ property/NN ]
+is/VBZ sold/VBN ,/, by/IN letting/VBG 
+[ Uncle/NNP Sam/NNP ]
+``/`` recapture/VB ''/'' 
+[ all/DT taxes/NNS ]
+lost/VBN from/IN 
+[ past/JJ depreciation/NN ]
+./. 
+
+[ The/DT law/NN ]
+now/RB taxes/VBZ as/IN 
+[ ordinary/JJ income/NN ]
+only/RB gains/NNS derived/VBN from/IN 
+[ accelerated/JJ write-offs/NNS ]
+;/: 
+[ gains/NNS ]
+from/IN 
+[ straight-line/JJ write-offs/NNS ]
+--/: 
+[ equal/JJ sums/NNS ]
+annually/RB --/: are/VBP capital/JJ ./. 
+
+[ That/DT ]
+makes/VBZ 
+[ little/JJ difference/NN ]
+now/RB ,/, for/IN 
+[ ordinary/JJ ]
+and/CC gains/NNS 
+[ tax/NN rates/NNS ]
+are/VBP 
+[ the/DT same/JJ ]
+./. 
+
+But/CC 
+[ the/DT House/NNP bill/NN ]
+would/MD lower/VB 
+[ gains/NNS taxes/NNS ]
+while/IN recapturing/VBG and/CC taxing/VBG 
+[ all/DT depreciation/NN ]
+as/IN 
+[ ordinary/JJ income/NN ]
+./. 
+
+======================================
+
+[ An/DT industry/NN official/NN ]
+says/VBZ 
+[ recapture/NN ]
+was/VBD 
+[ a/DT trade-off/NN ]
+in/IN 
+[ a/DT ]
+``/`` 
+[ monumental/JJ ]
+''/'' 
+[ fight/NN ]
+to/TO get/VB 
+[ depreciable/JJ real/JJ estate/NN ]
+into/IN 
+[ the/DT gains/NNS package/NN ]
+--/: and/CC that/IN 
+[ there/EX ]
+are/VBP 
+[ other/JJ more/RBR pressing/VBG battles/NNS ]
+ahead/RB ./. 
+
+Still/RB ,/, says/VBZ 
+[ CPA/NNP Joseph/NNP Green/NNP ]
+of/IN 
+[ Mann/NNP Judd-Boston/NNP ]
+,/, 
+[ the/DT rule/NN ]
+would/MD hit/VB nearly/RB 
+[ every/DT sale/NN ]
+after/IN 
+[ last/JJ Sept./NNP 14/CD ]
+and/CC be/VB 
+[ an/DT unpleasant/JJ surprise/NN ]
+for/IN 
+[ owners/NNS ]
+large/JJ and/CC 
+[ small/JJ ]
+
+[ that/WDT ]
+have/VBP based/VBN 
+[ tax/NN ]
+planning/VBG on/IN 
+[ the/DT current/JJ treatment/NN ]
+of/IN 
+[ depreciation/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ a/DT gains/NNS ]
+cut/NN survives/VBZ ,/, 
+[ lobbyists/NNS ]
+hope/VBP to/TO get/VB 
+[ recapture/NN relief/NN ]
+for/IN 
+[ property/NN ]
+held/VBN before/IN 
+[ 1986/CD 's/POS tax/NN revisions/NNS ]
+./. 
+
+======================================
+
+[ DON'T/NNP  RUSH/VB ]
+IN/RB where/WRB 
+[ we/PRP ]
+fear/VBP to/TO tread/VB ,/, 
+[ the/DT IRS/NNP ]
+cautions/VBZ 
+[ banks/NNS ]
+on/IN 
+[ levies/NNS ]
+./. 
+
+======================================
+
+[ The/DT taxpayer/NN bill/NN ]
+of/IN 
+[ rights/NNS ]
+,/, enacted/VBN in/IN 
+[ 1988/CD ]
+,/, has/VBZ required/VBN since/IN 
+[ last/JJ July/NNP 1/CD ]
+that/IN 
+[ banks/NNS ]
+wait/VB 
+[ 21/CD days/NNS ]
+after/IN getting/VBG 
+[ a/DT levy/NN notice/NN ]
+from/IN 
+[ the/DT IRS/NNP ]
+before/IN seizing/VBG 
+[ funds/NNS ]
+in/IN 
+[ a/DT delinquent/JJ taxpayer/NN 's/POS account/NN ]
+./. 
+
+[ This/DT holding/VBG period/NN ]
+was/VBD established/VBN to/TO give/VB 
+[ taxpayers/NNS time/NN ]
+to/TO try/VB to/TO resolve/VB 
+[ problems/NNS ]
+with/IN 
+[ the/DT IRS/NNP ]
+;/: but/CC now/RB 
+[ the/DT IRS/NNP ]
+is/VBZ concerned/JJ ,/, because/IN 
+[ many/JJ banks/NNS ]
+are/VBP sending/VBG 
+[ payments/NNS ]
+to/TO 
+[ it/PRP ]
+well/RB before/IN 
+[ the/DT holding/VBG period/NN ]
+expires/VBZ ./. 
+
+======================================
+
+[ Last/JJ week/NN ]
+,/, 
+[ the/DT IRS/NNP ]
+said/VBD that/IN 
+[ banks/NNS ]
+are/VBP remitting/VBG up/IN to/TO 
+[ 50/CD %/NN ]
+of/IN 
+[ the/DT proceeds/NNS ]
+from/IN 
+[ its/PRP$ levy/NN notices/NNS ]
+before/IN 
+[ the/DT holding/VBG period/NN ]
+has/VBZ ended/VBN ,/, in/IN 
+[ violation/NN ]
+of/IN 
+[ the/DT new/JJ law/NN ]
+./. 
+
+[ It/PRP ]
+urged/VBD 
+[ banks/NNS ]
+with/IN 
+[ questions/NNS ]
+about/IN 
+[ the/DT new/JJ levy/NN rules/NNS ]
+to/TO contact/VB 
+[ local/JJ IRS/NNP offices/NNS ]
+for/IN 
+[ information/NN ]
+./. 
+
+And/CC 
+[ it/PRP ]
+reminded/VBD 
+[ taxpayers/NNS ]
+that/IN 
+[ it/PRP ]
+has/VBZ 
+[ two/CD booklets/NNS ]
+on/IN ``/`` 
+[ The/DT Collection/NN Process/NN ]
+''/'' 
+[ that/WDT ]
+explain/VBP 
+[ their/PRP$ rights/NNS ]
+--/: 
+[ Publication/NN 586A/NNP ]
+on/IN 
+[ income/NN taxes/NNS ]
+and/CC 
+[ Publication/NN 594/CD ]
+on/IN 
+[ employment/NN taxes/NNS ]
+./. 
+
+======================================
+
+[ TAX/NN PROSPECTORS/NNS ]
+from/IN 
+[ five/CD Eastern/JJ states/NNS ]
+strike/VBP 
+[ it/PRP ]
+rich/JJ in/IN 
+[ Silicon/NNP Valley/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ April/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+,/, 
+[ Connecticut/NNP ]
+,/, 
+[ New/NNP Jersey/NNP ]
+,/, 
+[ New/NNP Hampshire/NNP ]
+,/, and/CC 
+[ Pennsylvania/NNP ]
+joined/VBD to/TO send/VB 
+[ 20/CD auditors/NNS ]
+to/TO 
+[ California/NNP 's/POS high-tech/JJ area/NN ]
+./. 
+
+In/IN 
+[ two/CD weeks/NNS ]
+,/, 
+[ team/NN members/NNS ]
+called/VBN on/IN 
+[ 1,200/CD computer/NN hardware/NN ]
+and/CC 
+[ software/NN firms/NNS ]
+to/TO ask/VB about/IN 
+[ ties/NNS ]
+and/CC 
+[ customers/NNS ]
+back/RB 
+[ East/NNP ]
+
+[ that/WDT ]
+might/MD create/VB 
+[ income/NN ]
+ -/: or/CC 
+[ sales-tax/NN liabilities/NNS ]
+./. 
+
+[ Responses/NNS ]
+were/VBD stunning/JJ ./. 
+
+Before/IN getting/VBG 
+[ any/DT bills/NNS ]
+,/, 
+[ some/DT firms/NNS ]
+volunteered/VBD 
+[ checks/NNS ]
+totaling/VBG 
+[ $/$ 100,000/CD ]
+to/TO 
+[ Connecticut/NNP ]
+and/CC 
+[ $/$ 294,000/CD ]
+to/TO 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+[ New/NNP York/NNP ]
+correlated/VBD 
+[ data/NN|NNS ]
+gathered/VBN by/IN 
+[ the/DT team/NN ]
+and/CC recently/RB sent/VBD 
+[ a/DT total/NN ]
+of/IN 
+[ 353/CD leads/NNS ]
+to/TO 
+[ its/PRP$ four/CD partners/NNS ]
+;/: 
+[ the/DT states/NNS ]
+will/MD send/VB 
+[ formal/JJ tax/NN notices/NNS ]
+to/TO 
+[ firms/NNS ]
+./. 
+
+[ New/NNP York/NNP ]
+found/VBD 
+[ 50/CD companies/NNS ]
+that/IN 
+[ it/PRP ]
+says/VBZ must/MD collect/VB 
+[ its/PRP$ sales/NNS tax/NN ]
+and/CC 
+[ 170/CD ]
+that/IN probably/RB should/MD ;/: 
+[ it/PRP ]
+thinks/VBZ at/IN 
+[ least/JJS 108/CD ]
+should/MD pay/VB 
+[ its/PRP$ corporate/JJ tax/NN ]
+./. 
+
+[ It/PRP ]
+sent/VBD 
+[ three/CD auditors/NNS ]
+back/RB to/TO 
+[ Silicon/NNP Valley/NNP ]
+to/TO follow/VB up/RB ./. 
+
+[ The/DT partners/NNS plan/NN ]
+forays/VBZ to/TO 
+[ other/JJ regions/NNS ]
+,/, with/IN 
+[ the/DT Washington/NNP Beltway/NNP ]
+and/CC 
+[ Los/NNP Angeles/NNP next/JJ ]
+./. 
+
+======================================
+
+Down/IN 
+[ the/DT road/NN ]
+:/: 
+[ Boston/NNP 's/POS Route/NN 128/CD ]
+,/, 
+[ Dallas/NNP ]
+and/CC 
+[ Fort/NNP Worth/NNP ]
+,/, and/CC 
+[ North/NNP Carolina/NNP 's/POS Research/NN Triangle/NN ]
+./. 
+
+======================================
+
+[ DELAYED/VBN ]
+TO/TO 
+[ 1990/CD ]
+are/VBP 
+[ the/DT first/JJ IRS/NNP lists/NNS ]
+of/IN 
+[ taxpayers/NNS ]
+subject/JJ to/TO 
+[ 20/CD %/NN withholding/NN ]
+for/IN supplying/VBG 
+[ faulty/JJ Social/NNP Security/NNP ]
+or/CC 
+[ employer/NN numbers/NNS ]
+to/TO 
+[ payers/NNS ]
+of/IN 
+[ interest/NN ]
+and/CC 
+[ dividends/NNS ]
+./. 
+
+[ Banks/NNS ]
+and/CC 
+[ other/JJ payers/NNS ]
+were/VBD to/TO get/VB 
+[ the/DT lists/NNS ]
+
+[ this/DT fall/NN ]
+and/CC to/TO withhold/VB 
+[ tax/NN ]
+from/IN 
+[ customers/NNS ]
+
+[ that/WDT ]
+did/VBD n't/RB report/VB 
+[ correct/JJ numbers/NNS ]
+within/IN 
+[ 30/CD days/NNS ]
+after/IN 
+[ a/DT notice/NN ]
+./. 
+
+======================================
+
+[ DAMAGES/NNS RECEIVED/VBN ]
+for/IN 
+[ personal/JJ injury/NN ]
+are/VBP 
+[ exempt/JJ ]
+;/: 
+[ some/DT courts/NNS ]
+have/VBP extended/VBN 
+[ the/DT exemption/NN ]
+to/TO 
+[ payments/NNS ]
+for/IN 
+[ wrongful/JJ discharge/NN ]
+or/CC 
+[ injury/NN ]
+to/TO 
+[ a/DT professional/JJ reputation/NN ]
+./. 
+
+But/CC 
+[ the/DT House/NNP bill/NN ]
+would/MD bar/VB 
+[ broad/JJ interpretations/NNS ]
+and/CC 
+[ limit/VB exemption/NN ]
+to/TO 
+[ cases/NNS ]
+involving/VBG 
+[ physical/JJ injury/NN ]
+or/CC 
+[ sickness/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ GIMMEE/UH ] 
+
+[ AN/DT R/NNP ,../NN ''./NN ] 
+:/: 
+[ The/DT 1988/CD tax/NN act/NN ]
+ended/VBD 
+[ an/DT old/JJ row/NN ]
+by/IN allowing/VBG 
+[ 80/CD %/JJ charitable/JJ deductions/NNS ]
+back/RB to/TO 
+[ 1984/CD ]
+for/IN 
+[ gifts/NNS ]
+
+[ that/WDT ]
+entitle/VBP 
+[ you/PRP ]
+to/TO buy/VB 
+[ preferred/JJ college-sports/NNS tickets/NNS ]
+./. 
+
+[ IRS/NNP Announcement/NN 89-122/CD ]
+tells/VBZ how/WRB to/TO claim/VB 
+[ refunds/NNS ]
+based/VBN on/IN 
+[ past/JJ gifts/NNS ]
+./. 
+
+======================================
+
+[ CHARITABLE/JJ HOSPITALS/NNS ]
+vying/VBG for/IN 
+[ patients/NNS ]
+and/CC 
+[ doctors/NNS ]
+attract/VBP 
+[ IRS/NNP concern/NN ]
+./. 
+
+======================================
+
+[ The/DT issue/NN ]
+is/VBZ whether/IN 
+[ such/JJ entities/NNS ]
+use/VBP 
+[ exempt/JJ funds/NNS ]
+only/RB to/TO serve/VB 
+[ the/DT public/NN ]
+or/CC 
+[ risk/NN losing/VBG exemption/NN ]
+by/IN turning/VBG away/RB 
+[ indigents/NNS ]
+and/CC 
+[ over-rewarding/JJ doctors/NNS ]
+
+[ who/WP ]
+refer/VBP paying/VBG 
+[ patients/NNS ]
+./. 
+
+[ Assistant/NNP Chief/NNP Counsel/NNP McGovern/NNP ]
+says/VBZ 
+[ the/DT IRS/NNP ]
+has/VBZ begun/VBN looking/VBG for/IN 
+[ hospitals/NNS ]
+
+[ that/WDT ]
+may/MD breach/VB 
+[ exempt/JJ boundaries/NNS ]
+and/CC will/MD make/VB 
+[ them/PRP ]
+
+[ a/DT big/JJ part/NN ]
+of/IN 
+[ a/DT new/JJ study/NN ]
+of/IN 
+[ all/DT exempt/JJ entities/NNS ]
+./. 
+
+======================================
+
+Among/IN 
+[ its/PRP$ concerns/NNS ]
+:/: offers/NNS of/IN 
+[ unreasonable/JJ pay/NN ]
+and/CC 
+[ perks/NNS ]
+to/TO entice/VB and/CC keep/VB 
+[ doctors/NNS ]
+,/, 
+[ service/NN partnerships/NNS ]
+
+[ that/WDT ]
+promote/VBP 
+[ doctors/NNS '/POS private/JJ interests/NNS ]
+with/IN 
+[ exempt/JJ funds/NNS ]
+,/, 
+[ exempt/JJ holding/VBG companies/NNS ]
+with/IN 
+[ for-profit/JJ units/NNS ]
+,/, and/CC 
+[ reports/NNS ]
+of/IN 
+[ restrictions/NNS ]
+on/IN 
+[ emergency-room/NN admittances/NNS ]
+./. 
+
+[ The/DT Health/NNP ]
+and/CC 
+[ Human/NNP Services/NNPS Department/NNP ]
+is/VBZ concerned/VBN about/IN 
+[ Medicare/NNP ]
+and/CC 
+[ Medicaid/NNP abuse/NN ]
+by/IN 
+[ any/DT hospital/NN ]
+,/, 
+[ McGovern/NNP notes/NNS ]
+,/, and/CC 
+[ the/DT IRS/NNP ]
+is/VBZ talking/VBG to/TO 
+[ HHS/NNP ]
+about/IN 
+[ getting/VBG information/NN ]
+./. 
+
+======================================
+
+[ Hospitals/NNS ]
+welcome/VBP 
+[ any/DT IRS-HHS/JJ liaison/NN ]
+
+[ that/WDT ]
+produces/VBZ 
+[ firm/JJ guidance/NN ]
+on/IN 
+[ these/DT issues/NNS ]
+,/, says/VBZ 
+[ Michael/NNP Anthony/NNP ]
+of/IN 
+[ the/DT American/NNP Hospital/NNP Association/NNP ]
+./. 
+
+======================================
+
+[ BRIEFS/NNS ]
+:/: 
+[ The/DT Supreme/NNP Court/NNP ]
+refused/VBD to/TO hear/VB 
+[ the/DT appeal/NN ]
+of/IN 
+[ shelter/NN promoter/NN Charles/NNP Agee/NNP Atkins/NNP ]
+from/IN 
+[ his/PRP$ 1987/CD conviction/NN ]
+for/IN 
+[ conspiracy/NN ]
+and/CC aiding/VBG 
+[ the/DT filing/NN ]
+of/IN 
+[ false/JJ returns/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ A/DT 1986/CD law/NN 's/POS retroactive/JJ increase/NN ]
+to/TO 
+[ 25/CD %/NN ]
+from/IN 
+[ 10/CD %/NN ]
+in/IN 
+[ the/DT civil/JJ penalty/NN ]
+for/IN 
+[ substantial/JJ understatement/NN ]
+of/IN 
+[ tax/NN was/VBD n't/RB unconstitutional/JJ ]
+,/, 
+[ the/DT Tax/NNP Court/NNP ]
+told/VBD 
+[ Jay/NNP N./NNP ]
+and/CC 
+[ Elizabeth/NNP J./NNP Karpa/NNP ]
+./. 

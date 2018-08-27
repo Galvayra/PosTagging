@@ -1,0 +1,93 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Initial/JJ claims/NNS ]
+for/IN 
+[ regular/JJ state/NN unemployment/NN benefits/NNS ]
+rose/VBD to/TO 
+[ a/DT ]
+seasonally/RB adjusted/VBN 
+[ 328,000/CD ]
+during/IN 
+[ the/DT week/NN ]
+ended/VBD 
+[ Sept./NNP 23/CD ]
+from/IN 
+[ 319,000/CD ]
+
+[ the/DT previous/JJ week/NN ]
+,/, 
+[ the/DT Labor/NNP Department/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT number/NN ]
+of/IN 
+[ people/NNS ]
+receiving/VBG 
+[ regular/JJ state/NN benefits/NNS ]
+in/IN 
+[ the/DT week/NN ]
+ended/VBD 
+[ Sept./NNP 16/CD ]
+decreased/VBD to/TO 
+[ a/DT ]
+seasonally/RB adjusted/VBN 
+[ 2,156,000/CD ]
+,/, or/CC 
+[ 2.1/CD %/NN ]
+of/IN 
+[ those/DT ]
+covered/VBN by/IN 
+[ unemployment/NN insurance/NN ]
+,/, from/IN 
+[ 2,196,000/CD ]
+
+[ the/DT previous/JJ week/NN ]
+,/, when/WRB 
+[ the/DT insured/VBN unemployment/NN rate/NN ]
+was/VBD 
+[ 2.2/CD %/NN ]
+./. 
+
+======================================
+
+Counting/VBG 
+[ all/DT state/NN ]
+and/CC 
+[ federal/JJ benefit/NN programs/NNS ]
+,/, 
+[ the/DT number/NN ]
+of/IN 
+[ people/NNS ]
+receiving/VBG 
+[ unemployment/NN benefits/NNS ]
+in/IN 
+[ the/DT week/NN ]
+ended/VBD 
+[ Sept./NNP 16/CD ]
+fell/VBD to/TO 
+[ 1,840,600/CD ]
+from/IN 
+[ 1,981,100/CD ]
+
+[ a/DT week/NN ]
+earlier/RBR ./. 
+
+[ These/DT figures/NNS ]
+are/VBP n't/RB seasonally/RB adjusted/VBN ./. 

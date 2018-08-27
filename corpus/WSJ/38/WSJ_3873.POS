@@ -1,0 +1,191 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Ford/NNP Motor/NNP Co./NNP ]
+and/CC 
+[ Chrysler/NNP Corp./NNP ]
+said/VBD 
+[ they/PRP ]
+are/VBP adjusting/VBG 
+[ some/DT 1990-model/JJ prices/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP ]
+lowered/VBD 
+[ final/JJ 1990/CD prices/NNS ]
+on/IN 
+[ six/CD slow-selling/JJ models/NNS ]
+and/CC increased/VBD 
+[ prices/NNS ]
+of/IN 
+[ some/DT popular/JJ cars/NNS ]
+from/IN previously/RB announced/VBN 
+[ pre-introduction/JJ levels/NNS ]
+./. 
+
+[ Separately/NNP ]
+,/, 
+[ Chrysler/NNP ]
+announced/VBD 
+[ cash/NN rebates/NNS ]
+on/IN 
+[ some/DT Jeep/NNP ]
+and/CC 
+[ Dodge/NNP trucks/NNS ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS biggest/JJS price/NN decrease/NN ]
+came/VBD on/IN 
+[ the/DT 1990/CD Ford/NNP Festiva/NNP L/NNP model/NN ]
+,/, 
+[ which/WDT ]
+dropped/VBD 
+[ $/$ 151/CD ]
+to/TO 
+[ $/$ 6,319/CD ]
+from/IN 
+[ its/PRP$ $/$ 6,470/CD pre-introduction/JJ price/NN ]
+./. 
+
+[ The/DT Festiva/NNP 's/POS final/JJ price/NN ]
+is/VBZ still/RB 
+[ 4.1/CD %/NN ]
+above/IN 
+[ the/DT 1989/CD base/NN price/NN ]
+./. 
+
+======================================
+
+[ Final/JJ prices/NNS ]
+on/IN 
+[ the/DT Mercury/NNP Cougar/NNP ]
+and/CC 
+[ Topaz/NNP ]
+,/, along/IN with/IN 
+[ Ford/NNP Thunderbird/NNP ]
+and/CC 
+[ Tempo/NNP ]
+,/, also/RB fell/VBD from/IN 
+[ the/DT tentative/NN levels/NNS ]
+announced/VBN in/IN 
+[ the/DT summer/NN ]
+./. 
+
+[ Buyers/NNS ]
+
+[ who/WP ]
+paid/VBD 
+[ the/DT higher/JJR pre-introduction/JJ prices/NNS ]
+will/MD get/VB 
+[ a/DT check/NN ]
+from/IN 
+[ Ford/NNP ]
+to/TO cover/VB 
+[ the/DT difference/NN ]
+./. 
+
+======================================
+
+[ Ford/NNP 's/POS biggest/JJS increase/NN ]
+from/IN 
+[ the/DT preliminary/JJ prices/NNS ]
+came/VBD on/IN 
+[ the/DT Ford/NNP Mustang/NNP GT/NNP convertible/NN ]
+,/, 
+[ which/WDT ]
+rose/VBD 
+[ $/$ 502/CD ]
+to/TO 
+[ $/$ 18,805/CD ]
+,/, 
+[ a/DT 7.4/CD %/NN jump/NN ]
+from/IN 
+[ the/DT 1989/CD base/NN price/NN ]
+./. 
+
+[ Other/JJ cars/NNS ]
+on/IN 
+[ which/WDT ]
+
+[ Ford/NNP ]
+raised/VBD 
+[ final/JJ prices/NNS ]
+included/VBD 
+[ the/DT Mercury/NNP Grand/NNP Marquis/NNP ]
+and/CC 
+[ Ford/NNP Taurus/NNP ]
+./. 
+
+======================================
+
+[ Chrysler/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ offering/VBG 
+[ $/$ 1,000/CD rebates/NNS ]
+on/IN 
+[ the/DT 1990/CD Cherokee/NNP Laredo/NNP ]
+and/CC 
+[ Limited/NNP models/NNS ]
+,/, 
+[ 1990/CD Jeep/NNP Wagoneer/NNP Limited/NNP ]
+and/CC 
+[ Grand/NNP Wagoneer/NNP ]
+and/CC on/IN most/RBS of/IN 
+[ its/PRP$ 1990/CD Comanches/NNPS ]
+./. 
+
+[ The/DT 1990/CD Cherokee/NNP Pioneer/NNP ]
+and/CC 
+[ the/DT 1990/CD Comanche/NNP two-wheel-drive/JJ short/JJ bed/NN ]
+will/MD have/VB 
+[ $/$ 500/CD rebates/NNS ]
+./. 
+
+======================================
+
+[ Chrysler/NNP ]
+also/RB increased/VBD 
+[ rebates/NNS ]
+on/IN 
+[ its/PRP$ 1990/CD Dodge/NNP Ramcharger/NNP ]
+to/TO 
+[ $/$ 2,000/CD ]
+from/IN 
+[ $/$ 1,500/CD ]
+and/CC on/IN 
+[ certain/JJ 1988/CD ]
+and/CC 
+[ 1989/CD Comanches/NNPS ]
+to/TO 
+[ $/$ 1,500/CD ]
+from/IN 
+[ $/$ 750/CD ]
+./. 
+
+[ The/DT alternative/NN ]
+of/IN 
+[ low-interest/JJ financing/NN ]
+is/VBZ unchanged/JJ from/IN 
+[ the/DT program/NN ]
+announced/VBN 
+[ Sept./NNP 16/CD ]
+./. 

@@ -1,0 +1,477 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Unisys/NNP Corp./NNP ]
+said/VBD 
+[ it/PRP ]
+plans/VBZ to/TO cut/VB 
+[ its/PRP$ work/NN force/NN ]
+by/IN 
+[ 7,000/CD ]
+to/TO 
+[ 8,000/CD people/NNS ]
+,/, roughly/RB 
+[ 1,000/CD ]
+more/JJR than/IN 
+[ it/PRP ]
+expected/VBD in/IN 
+[ August/NNP ]
+when/WRB 
+[ it/PRP ]
+announced/VBD 
+[ a/DT ]
+restructuring/NN designed/VBN to/TO restore/VB 
+[ the/DT company/NN ]
+to/TO 
+[ health/NN ]
+./. 
+
+======================================
+
+[ The/DT maker/NN ]
+of/IN 
+[ computers/NNS ]
+and/CC 
+[ defense-electronics/NNS products/NNS ]
+said/VBD 
+[ it/PRP ]
+is/VBZ laying/VBG off/RP 
+[ 6,300/CD people/NNS ]
+,/, with/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT reduction/NN ]
+coming/VBG through/IN 
+[ attrition/NN ]
+and/CC 
+[ a/DT ]
+previously/RB reported/JJ 
+[ early-retirement/NN program/NN ]
+./. 
+
+[ That/DT ]
+will/MD reduce/VB 
+[ employment/NN ]
+by/IN 
+[ 8/CD %/NN ]
+to/TO 
+[ 9/CD %/NN ]
+,/, to/TO 
+[ the/DT low/JJ 80,000s/NNS ]
+,/, by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ next/JJ year/NN ]
+./. 
+
+======================================
+
+[ Unisys/NNS ]
+said/VBD 
+[ the/DT moves/NNS ]
+will/MD cut/VB 
+[ costs/NNS ]
+by/IN 
+[ $/$ 400/CD million/CD ]
+to/TO 
+[ $/$ 500/CD million/CD ]
+
+[ a/DT year/NN ]
+;/: in/IN 
+[ August/NNP ]
+,/, 
+[ it/PRP ]
+had/VBD put/VBN 
+[ the/DT amount/NN ]
+at/IN 
+[ $/$ 400/CD million/CD ]
+./. 
+
+[ The/DT company/NN ]
+said/VBD 
+[ the/DT reorganization/NN ]
+will/MD cut/VB 
+[ its/PRP$ break-even/JJ point/NN ]
+by/IN 
+[ $/$ 1.5/CD billion/CD ]
+--/: meaning/VBG that/IN if/IN 
+[ it/PRP ]
+were/VBD to/TO break/VB even/RB on/IN 
+[ the/DT ]
+roughly/RB 
+[ $/$ 10/CD billion/CD ]
+of/IN 
+[ sales/NNS ]
+
+[ it/PRP ]
+expects/VBZ to/TO post/VB for/IN 
+[ this/DT year/NN ]
+,/, 
+[ it/PRP ]
+would/MD be/VB able/JJ to/TO break/VB even/RB on/IN 
+[ $/$ 8.5/CD billion/CD ]
+of/IN 
+[ sales/NNS ]
+in/IN 
+[ 1990/CD ]
+./. 
+
+======================================
+
+[ The/DT Blue/NNP Bell/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, 
+[ company/NN ]
+said/VBD 
+[ it/PRP ]
+will/MD take/VB 
+[ a/DT substantial/JJ charge/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+to/TO cover/VB 
+[ the/DT program/NN ]
+but/CC wo/MD n't/RB disclose/VB 
+[ the/DT amount/NN ]
+until/IN 
+[ it/PRP ]
+reports/VBZ 
+[ third-quarter/JJ results/NNS ]
+in/IN 
+[ midmonth/RB ]
+./. 
+
+======================================
+
+[ Securities/NNS analysts/NNS ]
+,/, 
+[ who/WP ]
+had/VBD expressed/VBN 
+[ doubts/NNS ]
+in/IN 
+[ August/NNP ]
+that/IN 
+[ the/DT cutbacks/NNS Unisys/NNP ]
+had/VBD talked/VBN about/IN then/RB went/VBD far/RB enough/RB ,/, were/VBD encouraged/VBN by/IN 
+[ yesterday/NN 's/POS announcement/NN ]
+./. 
+
+ (/( 
+[ The/DT stock/NN ]
+,/, 
+[ which/WDT ]
+has/VBZ dropped/VBN from/IN 
+[ $/$ 39/CD ]
+
+[ a/DT bit/RB ]
+more/JJR than/IN 
+[ a/DT year/NN ]
+ago/RB ,/, inched/VBD up/IN 
+[ 25/CD cents/NNS ]
+
+[ a/DT share/NN ]
+in/IN 
+[ advance/NN ]
+of/IN 
+[ the/DT announcement/NN ]
+to/TO close/VB at/IN 
+[ $/$ 19.625/CD ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+ )/) 
+======================================
+
+Still/RB ,/, 
+[ Unisys/NNP ]
+has/VBZ dug/VBN 
+[ itself/PRP ]
+
+[ a/DT deep/JJ hole/NN ]
+and/CC will/MD have/VB to/TO work/VB hard/RB merely/RB to/TO regain/VB 
+[ its/PRP$ position/NN ]
+of/IN 
+[ a/DT year/NN ]
+ago/RB ./. 
+
+Despite/IN 
+[ pent-up/JJ demand/NN ]
+for/IN 
+[ a/DT new/JJ line/NN ]
+of/IN 
+[ mainframes/NNS ]
+,/, 
+[ it/PRP ]
+has/VBZ generally/RB been/VBN losing/VBG 
+[ ground/NN ]
+in/IN 
+[ the/DT mainframe/NN ]
+and/CC 
+[ minicomputer/NN markets/NNS ]
+./. 
+
+[ Its/PRP$ big/JJ defense/NN business/NN ]
+has/VBZ lagged/VBN ,/, partly/RB because/IN of/IN 
+[ the/DT slowing/VBG growth/NN ]
+in/IN 
+[ the/DT U.S./NNP defense/NN budget/NN ]
+but/CC also/RB because/IN of/IN 
+[ a/DT three-month/JJ suspension/NN ]
+tied/VBN to/TO 
+[ the/DT company/NN 's/POS involvement/NN ]
+in/IN 
+[ the/DT Pentagon/NNP procurement/NN scandal/NN ]
+./. 
+
+======================================
+
+[ Other/JJ parts/NNS ]
+of/IN 
+[ the/DT business/NN ]
+--/: notably/RB 
+[ systems/NNS ]
+based/VBN on/IN 
+[ the/DT Unix/NNP operating/VBG system/NN ]
+--/: have/VBP grown/VBN fast/RB ,/, but/CC not/RB fast/RB enough/RB to/TO offset/VB 
+[ the/DT weak/JJ performers/NNS ]
+;/: 
+[ the/DT company/NN ]
+had/VBD 
+[ a/DT net/JJ loss/NN ]
+of/IN 
+[ $/$ 25.1/CD million/CD ]
+in/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+on/IN 
+[ revenue/NN ]
+of/IN 
+[ $/$ 4.78/CD billion/CD ]
+and/CC is/VBZ expected/VBN to/TO do/VB little/RB better/RBR than/IN break/VB even/RB for/IN 
+[ the/DT year/NN ]
+./. 
+
+And/CC ,/, with/IN 
+[ debt/NN ]
+high/JJ and/CC 
+[ the/DT stock/NN price/NN ]
+low/JJ ,/, 
+[ Unisys/NNP ]
+has/VBZ limited/JJ 
+[ room/NN ]
+to/TO maneuver/VB ./. 
+
+======================================
+
+[ Unisys/NNP ]
+said/VBD most/JJS of/IN 
+[ the/DT job/NN reductions/NNS ]
+will/MD come/VB from/IN 
+[ corporate/JJ staffs/NNS ]
+,/, where/WRB 
+[ it/PRP ]
+is/VBZ trying/VBG to/TO reduce/VB 
+[ duplication/NN ]
+of/IN 
+[ effort/NN ]
+./. 
+
+[ It/PRP ]
+said/VBD 
+[ 3,200/CD jobs/NNS ]
+will/MD be/VB cut/VBN at/IN 
+[ 250/CD locations/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+starting/VBG 
+[ this/DT week/NN ]
+./. 
+
+Outside/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ 1,200/CD jobs/NNS ]
+will/MD be/VB cut/VBN by/IN 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1990/CD ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+will/MD also/RB consolidate/VB manufacturing/NN by/IN closing/VBG 
+[ two/CD operations/NNS ]
+and/CC continuing/VBG to/TO wind/VB down/RP 
+[ a/DT third/NN ]
+./. 
+
+[ That/DT ]
+will/MD eliminate/VB 
+[ 1,900/CD jobs/NNS ]
+starting/VBG later/RB 
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+[ Unisys/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD close/VB 
+[ the/DT mainframe-manufacturing/NN operation/NN ]
+in/IN 
+[ Tredyffrin/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, and/CC move/VB 
+[ the/DT work/NN ]
+to/TO 
+[ a/DT facility/NN ]
+in/IN 
+[ Clear/NNP Lake/NNP ]
+,/, 
+[ Iowa/NNP ]
+./. 
+
+[ Engineering/NN ]
+will/MD remain/VB in/IN 
+[ Tredyffrin/NNP ]
+./. 
+
+[ The/DT computer-power-supply/NN ]
+manufacturing/NN and/CC 
+[ engineering/NN operations/NNS ]
+in/IN 
+[ St./NNP Laurent/NNP ]
+,/, 
+[ Canada/NNP ]
+,/, will/MD be/VB closed/VBN in/IN 
+[ the/DT first/JJ quarter/NN ]
+./. 
+
+Engineering/NN 
+[ support/NN ]
+will/MD be/VB moved/VBN to/TO 
+[ Rancho/NNP Bernardo/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+[ Computer-peripherals/NNS operations/NNS ]
+in/IN 
+[ Santa/NNP Clara/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, will/MD continue/VB to/TO be/VB moved/VBN out/RB through/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT year/NN ]
+./. 
+
+Manufacturing/NN of/IN 
+[ disk/NN drives/NNS ]
+and/CC 
+[ certain/JJ disk/NN materials/NNS ]
+will/MD stay/VB there/RB ./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT cutbacks/NNS ]
+in/IN manufacturing/NN and/CC 
+[ staffs/NNS ]
+,/, 
+[ Unisys/NNP ]
+said/VBD 
+[ it/PRP ]
+will/MD cut/VB out/RP 
+[ management/NN layers/NNS ]
+and/CC centralize/VB 
+[ support/NN ]
+for/IN 
+[ its/PRP$ marketing/NN staff/NN ]
+./. 
+
+[ That/DT means/NN ]
+,/, for/IN 
+[ example/NN ]
+,/, that/IN 
+[ someone/NN ]
+trained/VBD to/TO sell/VB to/TO 
+[ health-care/NN organizations/NNS ]
+and/CC 
+[ someone/NN ]
+selling/VBG to/TO 
+[ financial-services/NNS concerns/NNS ]
+would/MD draw/VB on/IN 
+[ the/DT same/JJ pool/NN ]
+of/IN 
+[ internal/JJ experts/NNS ]
+on/IN 
+[ Unisys/NNP hardware/NN ]
+and/CC 
+[ software/NN ]
+rather/RB than/IN 
+[ each/DT ]
+having/VBG 
+[ a/DT dedicated/JJ group/NN ]
+./. 
+
+======================================
+
+[ Unisys/NNP ]
+also/RB said/VBD 
+[ it/PRP ]
+is/VBZ continuing/VBG to/TO look/VB at/IN 
+[ its/PRP$ defense-electronics/NNS operations/NNS ]
+,/, 
+[ whose/WP$ fortunes/NNS ]
+tend/VBP to/TO rise/VB and/CC fall/VB 
+[ independent/JJ ]
+of/IN 
+[ the/DT pressures/NNS ]
+facing/VBG 
+[ the/DT company/NN 's/POS computer/NN operations/NNS ]
+./. 
+
+[ Unisys/NNP ]
+said/VBD 
+[ it/PRP ]
+has/VBZ cut/VBN 
+[ the/DT division/NN 's/POS work/NN force/NN ]
+by/IN 
+[ 1,900/CD ]
+so/RB far/RB 
+[ this/DT year/NN ]
+--/: to/TO 
+[ 21,700/CD ]
+--/: including/VBG 
+[ 200/CD ]
+
+[ who/WP ]
+were/VBD 
+[ part/NN ]
+of/IN 
+[ the/DT layoffs/NNS ]
+announced/VBD yesterday/RB ./. 

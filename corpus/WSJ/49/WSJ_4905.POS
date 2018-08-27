@@ -1,0 +1,895 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Many/JJ U.S./NNP technology/NN companies/NNS ]
+appear/VBP headed/VBN for/IN 
+[ a/DT slump/NN ]
+in/IN 
+[ domestic/JJ sales/NNS ]
+,/, but/CC 
+[ the/DT trend/NN ]
+is/VBZ being/VBG 
+[ offset/VBN ]
+by/IN 
+[ penetration/NN ]
+of/IN 
+[ European/JJ ]
+and/CC 
+[ Asian/JJ markets/NNS ]
+./. 
+
+======================================
+
+Indeed/RB ,/, 
+[ U.S./NNP electronics/NNS concerns/NNS ]
+are/VBP finding/VBG that/IN 
+[ a/DT fat/JJ dose/NN ]
+of/IN 
+[ foreign/JJ sales/NNS ]
+can/MD ease/VB 
+[ the/DT pain/NN ]
+of/IN 
+[ a/DT bad/JJ quarter/NN ]
+or/CC even/RB 
+[ a/DT recession/NN ]
+,/, and/CC help/VB 
+[ the/DT U.S./NNP 's/POS huge/JJ trade/NN deficit/NN ]
+to/TO boot/NN ./. 
+
+======================================
+
+Just/RB ask/VB 
+[ Drew/NNP Osterman/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ a/DT small/JJ semiconductor/NN maker/NN ]
+in/IN 
+[ San/NNP Jose/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+[ A/DT flat/JJ U.S./NNP market/NN ]
+for/IN 
+[ chips/NNS has/VBZ n't/RB ]
+hurt/VBD 
+[ his/PRP$ International/NNP CMOS/NNP Technology/NNP Inc./NNP ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, 
+[ thanks/NNS ]
+to/TO 
+[ booming/JJ sales/NNS ]
+in/IN 
+[ Asia/NNP ]
+and/CC 
+[ Europe/NNP ]
+./. 
+
+Likewise/RB ,/, 
+[ Microsoft/NNP Corp./NNP ]
+says/VBZ 
+[ foreign/JJ sales/NNS ]
+--/: accounting/VBG for/IN 
+[ 55/CD %/NN ]
+of/IN 
+[ its/PRP$ revenue/NN ]
+--/: smoothed/VBD out/RP 
+[ a/DT dip/NN ]
+in/IN 
+[ domestic/JJ revenue/NN ]
+early/RB 
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+With/IN 
+[ overseas/JJ sales/NNS ]
+``/`` 
+[ you/PRP ]
+have/VBP 
+[ a/DT much/RB better/JJR chance/NN ]
+of/IN coming/VBG through/RP nicely/RB than/IN if/IN 
+[ you/PRP ]
+have/VBP 
+[ all/PDT your/PRP$ eggs/NNS ]
+in/IN 
+[ one/CD basket/NN ]
+,/, ''/'' says/VBZ 
+[ Jeremy/NNP Butler/NNP ]
+,/, 
+[ senior/JJ vice/NN president/NN ]
+for/IN 
+[ Microsoft/NNP 's/POS international/JJ operations/NNS ]
+./. 
+
+======================================
+
+After/IN essentially/RB ignoring/VBG 
+[ foreign/JJ markets/NNS ]
+for/IN 
+[ years/NNS ]
+,/, 
+[ U.S./NNP companies/NNS ]
+are/VBP beginning/VBG to/TO reap/VB 
+[ the/DT fruit/NN ]
+of/IN 
+[ stepped-up/JJ overseas/JJ sales/NNS efforts/NNS ]
+,/, says/VBZ 
+[ economist/NN Richard/NNP Berner/NNP ]
+of/IN 
+[ Salomon/NNP Brothers/NNP Inc/NNP ]
+./. 
+
+[ That/DT move/NN ]
+overseas/RB --/: 
+[ which/WDT ]
+has/VBZ been/VBN among/IN 
+[ a/DT broad/JJ range/NN ]
+of/IN 
+[ U.S./NNP industries/NNS ]
+--/: is/VBZ ``/`` 
+[ a/DT factor/NN ]
+
+[ that/WDT ]
+'s/VBZ helped/VBN to/TO forestall/VB ,/, or/CC to/TO completely/RB keep/VB 
+[ us/PRP ]
+out/IN of/IN ,/, 
+[ a/DT recession/NN ]
+,/, ''/'' 
+[ Mr./NNP Berner/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT shift/NN ]
+to/TO 
+[ foreign/JJ markets/NNS ]
+is/VBZ clearest/JJS in/IN 
+[ electronic/JJ industries/NNS ]
+./. 
+
+Of/IN 
+[ every/DT 20/CD microcomputers/NNS ]
+that/IN 
+[ U.S./NNP makers/NNS ]
+sell/VBP 
+[ this/DT year/NN ]
+,/, 
+[ seven/CD ]
+will/MD go/VB to/TO 
+[ overseas/JJ buyers/NNS ]
+,/, up/RB from/IN about/RB 
+[ two/CD machines/NNS ]
+out/IN of/IN 
+[ 20/CD ]
+in/IN 
+[ 1984/CD ]
+,/, according/VBG to/TO 
+[ the/DT research/NN firm/NN InfoCorp/NNP ]
+./. 
+
+[ Overseas/JJ markets/NNS ]
+accounted/VBD for/IN about/RB 
+[ 40/CD %/NN ]
+of/IN 
+[ sales/NNS ]
+at/IN 
+[ U.S./NNP chip/NN makers/NNS ]
+in/IN 
+[ 1988/CD ]
+,/, up/RB from/IN 
+[ 30/CD %/NN ]
+in/IN 
+[ 1984/CD ]
+,/, according/VBG to/TO 
+[ Dataquest/NNP Inc./NNP ]
+,/, 
+[ a/DT market-research/NN firm/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT strategy/NN ]
+in/IN 
+[ the/DT past/NN ]
+was/VBD that/IN 
+[ the/DT U.S./NNP ]
+would/MD do/VB ,/, ''/'' says/VBZ 
+[ Timothy/NNP Dwyer/NNP ]
+,/, 
+[ a/DT Sun/NNP Microsystems/NNP Inc./NNP vice/NN president/NN ]
+
+[ who/WP ]
+heads/VBZ 
+[ operations/NNS ]
+in/IN 
+[ Asia/NNP ]
+and/CC 
+[ several/JJ other/JJ foreign/JJ markets/NNS ]
+./. 
+
+``/`` 
+[ The/DT strategy/NN ]
+now/RB is/VBZ that/IN 
+[ you/PRP ]
+have/VBP to/TO be/VB 
+[ a/DT global/JJ player/NN ]
+./. 
+
+''/'' 
+[ Sun/NNP 's/POS international/JJ sales/NNS ]
+grew/VBD to/TO 
+[ 42/CD %/NN ]
+of/IN 
+[ total/JJ revenue/NN ]
+
+[ this/DT year/NN ]
+from/IN 
+[ 10/CD %/NN ]
+in/IN 
+[ 1985/CD ]
+./. 
+
+======================================
+
+[ All/PDT this/DT ]
+has/VBZ helped/VBN to/TO arrest/VB 
+[ the/DT once-exploding/JJ U.S./NNP trade/NN deficit/NN ]
+./. 
+
+[ Electronics/NNS exports/NNS ]
+accounted/VBD for/IN 
+[ 17.2/CD %/NN ]
+of/IN 
+[ U.S./NNP exports/NNS ]
+in/IN 
+[ 1988/CD ]
+,/, up/RB from/IN 
+[ 15.7/CD %/NN ]
+in/IN 
+[ 1987/CD ]
+and/CC 
+[ 8.9/CD %/NN ]
+in/IN 
+[ 1980/CD ]
+,/, according/VBG to/TO 
+[ the/DT Electronic/NNP Industries/NNP Association/NNP ]
+./. 
+
+======================================
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ heavy/JJ overseas/JJ sales/NNS ]
+carry/VBP 
+[ risks/NNS ]
+:/: 
+[ Currency/NN swings/NNS ]
+can/MD wither/VB 
+[ earnings/NNS ]
+,/, 
+[ profits/NNS ]
+come/VBP 
+[ years/NNS ]
+behind/IN 
+[ initial/JJ investments/NNS ]
+and/CC 
+[ threats/NNS ]
+of/IN 
+[ protectionism/NN ]
+are/VBP always/RB hanging/VBG overhead/RB ./. 
+
+But/CC 
+[ the/DT biggest/JJS risk/NN today/NN ]
+,/, says/VBZ 
+[ Delbert/NNP Yocum/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Apple/NNP Computer/NNP Inc./NNP 's/POS Apple/NNP Pacific/NNP unit/NN ]
+,/, is/VBZ in/IN not/RB doing/VBG 
+[ business/NN ]
+overseas/RB ./. 
+
+``/`` 
+[ It/PRP ]
+could/MD absolutely/RB destroy/VB 
+[ your/PRP$ business/NN ]
+overnight/RB if/IN 
+[ the/DT U.S./NNP economy/NN ]
+goes/VBZ into/IN 
+[ recession/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Apple/NNP ]
+has/VBZ seen/VBN 
+[ its/PRP$ overseas/JJ sales/NNS ]
+grow/VB to/TO 
+[ 37/CD %/NN ]
+of/IN 
+[ revenue/NN today/NN ]
+from/IN 
+[ 22/CD %/NN ]
+in/IN 
+[ 1985/CD ]
+./. 
+
+[ The/DT company/NN 's/POS Asian/JJ sales/NNS ]
+,/, 
+[ which/WDT ]
+will/MD expand/VB about/RB 
+[ 45/CD %/NN ]
+
+[ this/DT year/NN ]
+,/, are/VBP 
+[ the/DT company/NN 's/POS fastest-growing/JJ segment/NN ]
+,/, says/VBZ 
+[ Mr./NNP Yokum/NNP ]
+,/, 
+[ who/WP ]
+before/IN heading/VBG up/RP 
+[ the/DT Apple/NNP Pacific/NNP unit/NN ]
+was/VBD 
+[ Apple/NNP 's/POS chief/JJ operating/NN officer/NN ]
+./. 
+
+``/`` 
+[ The/DT Asia-Pacific/NNP arena/NN ]
+is/VBZ 
+[ the/DT area/NN ]
+of/IN 
+[ the/DT 1990s/NNS ]
+and/CC beyond/RB ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Asian/JJ ]
+and/CC 
+[ European/JJ computer/NN markets/NNS ]
+are/VBP strong/JJ partly/RB because/IN 
+[ they/PRP ]
+lag/VBP behind/IN 
+[ the/DT U.S./NNP ]
+in/IN 
+[ computer/NN installations/NNS ]
+./. 
+
+[ Intel/NNP Corp./NNP 's/POS European/JJ sales/NNS ]
+are/VBP growing/VBG twice/RB as/RB fast/RB as/IN 
+[ its/PRP$ domestic/JJ sales/NNS ]
+because/IN ``/`` 
+[ Europe/NNP ]
+has/VBZ 
+[ a/DT lot/NN ]
+to/TO catch/VB up/RP ,/, ''/'' says/VBZ 
+[ Bernard/NNP Giraud/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Intel/NNP 's/POS European/JJ operations/NNS ]
+./. 
+
+======================================
+
+Even/RB in/IN fiercely/RB 
+[ competitive/JJ markets/NNS ]
+for/IN 
+[ products/NNS ]
+such/JJ as/IN 
+[ semiconductors/NNS ]
+,/, 
+[ U.S./NNP companies/NNS ]
+are/VBP making/VBG 
+[ headway/NN ]
+--/: 
+[ one/CD reason/NN ]
+that/IN 
+[ U.S./NNP electronics/NNS exports/NNS ]
+grew/VBD faster/RBR than/IN 
+[ imports/NNS last/JJ year/NN ]
+./. 
+
+[ Such/JJ companies/NNS ]
+as/IN 
+[ Motorola/NNP Inc./NNP ]
+have/VBP reorganized/VBN 
+[ their/PRP$ Japanese/JJ operations/NNS ]
+to/TO tap/VB into/IN 
+[ the/DT huge/JJ market/NN ]
+for/IN 
+[ chips/NNS ]
+
+[ that/WDT ]
+go/VBP into/IN 
+[ consumer/NN gadgets/NNS ]
+made/VBN there/RB ./. 
+
+And/CC while/IN 
+[ some/DT U.S./NNP semiconductor-equipment/NN makers/NNS ]
+such/JJ as/IN 
+[ Perkin-Elmer/NNP Corp./NNP ]
+are/VBP dropping/VBG out/IN of/IN 
+[ the/DT business/NN ]
+,/, 
+[ Applied/NNP Materials/NNP Inc./NNP ]
+of/IN 
+[ Santa/NNP Clara/NNP ]
+,/, does/VBZ 
+[ 40/CD %/NN ]
+of/IN 
+[ its/PRP$ sales/NNS ]
+in/IN 
+[ Japan/NNP ]
+./. 
+
+[ Applied/NNP Materials/NNP ]
+is/VBZ doing/VBG well/RB now/RB partly/RB because/IN 
+[ it/PRP ]
+got/VBD in/IN 
+[ the/DT door/NN ]
+early/RB ,/, having/VBG established/VBN 
+[ its/PRP$ own/JJ subsidiary/NN ]
+in/IN 
+[ the/DT late/JJ 1970s/NNS ]
+./. 
+
+[ It/PRP ]
+has/VBZ been/VBN able/JJ to/TO work/VB directly/RB with/IN 
+[ customers/NNS ]
+,/, rather/RB than/IN depend/VB on/IN 
+[ a/DT Japanese/JJ representative/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ such/JJ companies/NNS ]
+as/IN 
+[ Applied/NNP ]
+,/, 
+[ success/NN ]
+overseas/RB stabilizes/VBZ 
+[ the/DT bottom/JJ line/NN ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ Applied/NNP 's/POS domestic/JJ markets/NNS ]
+slipped/VBD into/IN 
+[ the/DT doldrums/NN ]
+as/IN 
+[ U.S./NNP chip/NN makers/NNS ]
+cut/VBD back/RP on/IN outfitting/VBG 
+[ new/JJ plants/NNS ]
+and/CC updating/VBG 
+[ old/JJ ones/NNS ]
+./. 
+
+But/CC 
+[ Asian/NNP orders/NNS ]
+blossomed/VBD ./. 
+
+[ The/DT company/NN ]
+landed/VBD 
+[ a/DT $/$ 20/CD million/CD order/NN ]
+from/IN 
+[ Samsung/NNP Electronics/NNP Co./NNP ]
+in/IN 
+[ Korea/NNP ]
+,/, more/JJR than/IN 
+[ its/PRP$ total/JJ sales/NNS ]
+in/IN 
+[ Asia/NNP ]
+for/IN 
+[ all/DT ]
+of/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+[ Computer/NNP Associates/NNP International/NNP ]
+says/VBZ 
+[ its/PRP$ acquisition/NN ]
+of/IN 
+[ Cullinet/NNP Software/NNP Inc./NNP ]
+caused/VBD 
+[ some/DT domestic/JJ customers/NNS ]
+to/TO postpone/VB 
+[ orders/NNS ]
+as/IN 
+[ they/PRP ]
+waited/VBD to/TO see/VB 
+[ what/WP ]
+
+[ new/JJ products/NNS ]
+would/MD come/VB out/RP ./. 
+
+But/CC 
+[ overseas/JJ sales/NNS ]
+grew/VBD 
+[ 50/CD %/NN ]
+in/IN 
+[ the/DT latest/JJS quarter/NN ]
+./. 
+
+Similarly/RB ,/, 
+[ Sun/NNP ]
+says/VBZ 
+[ that/IN Thanksgiving/NNP ]
+always/RB brings/VBZ 
+[ slow/JJ sales/NNS ]
+here/RB ;/: fortunately/RB ,/, 
+[ that/DT ]
+'s/VBZ 
+[ Europe/NNP 's/POS busiest/JJS period/NN ]
+./. 
+
+======================================
+
+But/CC cracking/VBG 
+[ the/DT world/NN 's/POS markets/NNS ]
+is/VBZ expensive/JJ ./. 
+
+[ Companies/NNS ]
+estimate/VBP that/IN 
+[ it/PRP ]
+costs/VBZ 
+[ 25/CD %/NN ]
+to/TO 
+[ 35/CD %/NN ]
+more/JJR to/TO do/VB 
+[ business/NN ]
+in/IN 
+[ Europe/NNP ]
+than/IN in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+[ The/DT cost/NN ]
+of/IN 
+[ office/NN space/NN ]
+in/IN 
+[ Japan/NNP ]
+can/MD be/VB 
+[ four/CD times/NNS ]
+more/JJR than/IN 
+[ U.S./NNP space/NN ]
+./. 
+
+And/CC 
+[ companies/NNS ]
+must/MD pour/VB 
+[ millions/NNS ]
+of/IN 
+[ dollars/NNS ]
+into/IN 
+[ development/NN ]
+of/IN 
+[ products/NNS ]
+
+[ that/WDT ]
+are/VBP tailored/VBN to/TO 
+[ local/JJ languages/NNS ]
+and/CC 
+[ customs/NNS ]
+./. 
+
+[ Microsoft/NNP ]
+says/VBZ 
+[ its/PRP$ research/NN ]
+and/CC 
+[ development/NN budget/NN ]
+
+[ this/DT year/NN ]
+will/MD increase/VB partly/RB because/IN 
+[ it/PRP ]
+must/MD spend/VB more/JJR to/TO develop/VB 
+[ software/NN ]
+for/IN 
+[ foreign/JJ markets/NNS ]
+./. 
+
+======================================
+
+[ Protectionist/JJ sentiments/NNS ]
+add/VBP to/TO 
+[ the/DT cost/NN ]
+,/, as/RB well/RB as/IN to/TO concern/NN for/IN 
+[ the/DT future/NN ]
+./. 
+
+To/TO get/VB 
+[ access/NN ]
+to/TO 
+[ the/DT Australian/JJ market/NN ]
+,/, 
+[ Apple/NNP ]
+agreed/VBD to/TO do/VB 
+[ research/NN ]
+and/CC 
+[ development/NN ]
+there/RB and/CC to/TO export/VB 
+[ computer/NN communications/NNS devices/NNS ]
+
+[ it/PRP ]
+builds/VBZ in/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Silicon/NNP Valley/NNP ]
+worries/VBZ that/IN 
+[ the/DT European/NNP Community/NNP ]
+will/MD increasingly/RB demand/VB that/IN 
+[ chips/NNS ]
+sold/VBN in/IN 
+[ Europe/NNP ]
+be/VB made/VBN in/IN 
+[ Europe/NNP ]
+or/CC 
+[ face/VB tariffs/NNS ]
+./. 
+
+[ Many/JJ U.S./NNP companies/NNS ]
+therefore/RB talk/VBP of/IN building/VBG 
+[ European/JJ factories/NNS ]
+to/TO bypass/VB 
+[ possible/JJ duties/NNS ]
+,/, but/CC 
+[ new/JJ plants/NNS ]
+would/MD add/VB 
+[ capacity/NN ]
+at/IN 
+[ a/DT time/NN ]
+when/WRB 
+[ there/EX ]
+'s/VBZ already/RB too/RB much/JJ ./. 
+
+======================================
+
+``/`` 
+[ The/DT investment/NN ]
+may/MD be/VB 
+[ a/DT duplication/NN ]
+of/IN 
+[ what/WP ]
+already/RB exists/VBZ somewhere/RB else/RB ,/, ''/'' says/VBZ 
+[ Intel/NNP 's/POS Mr./NNP Giraud/NNP ]
+./. 
+
+``/`` But/CC 
+[ we/PRP ]
+have/VBP to/TO be/VB ready/JJ to/TO serve/VB 
+[ that/DT market/NN ]
+with/IN or/CC without/IN 
+[ restrictions/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ It/PRP ]
+'s/VBZ also/RB harder/JJR to/TO keep/VB 
+[ tabs/NNS ]
+on/IN 
+[ operations/NNS ]
+across/IN 
+[ the/DT ocean/NN ]
+,/, and/CC 
+[ uncertainties/NNS ]
+can/MD be/VB greater/JJR ./. 
+
+[ ComputerLand/NNP Corp./NNP ]
+posted/VBD 
+[ a/DT loss/NN $/$ 13.9/CD million/CD ]
+in/IN 
+[ its/PRP$ third/JJ quarter/NN ]
+,/, mainly/RB because/IN of/IN 
+[ management/NN problems/NNS ]
+in/IN 
+[ Australia/NNP ]
+and/CC 
+[ unrest/NN ]
+in/IN 
+[ China/NNP ]
+./. 
+
+Earlier/RBR 
+[ this/DT year/NN ]
+
+[ it/PRP ]
+was/VBD troubled/VBN by/IN 
+[ fraud/NN ]
+in/IN 
+[ its/PRP$ Hong/NNP Kong/NNP office/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT biggest/JJS risk/NN ]
+,/, ''/'' says/VBZ 
+[ InfoCorp./NNP analyst/NN David/NNP Carnevale/NNP ]
+,/, ``/`` is/VBZ 
+[ currency/NN fluctuation/NN ]
+and/CC 
+[ political/JJ instability/NN ]
+./. 
+
+''/'' 
+[ Political/JJ unrest/NN ]
+in/IN 
+[ areas/NNS ]
+such/JJ as/IN 
+[ Latin/NNP America/NNP ]
+and/CC 
+[ China/NNP ]
+can/MD make/VB 
+[ investments/NNS ]
+go/VB 
+[ sour/JJ ]
+on/IN 
+[ short/JJ ]
+notice/NN ,/, 
+[ he/PRP ]
+says/VBZ ,/, and/CC 
+[ a/DT rising/VBG dollar/NN ]
+forces/VBZ 
+[ exporters/NNS ]
+to/TO raise/VB 
+[ prices/NNS ]
+or/CC accept/VB 
+[ slimmer/JJR profits/NNS ]
+./. 
+
+======================================
+
+[ Amdahl/NNP Corp./NNP ]
+blamed/VBD 
+[ the/DT strong/JJ dollar/NN ]
+for/IN at/IN 
+[ least/JJS part/NN ]
+of/IN 
+[ the/DT 38/CD %/NN drop/NN ]
+in/IN 
+[ earnings/NNS ]
+in/IN 
+[ its/PRP$ latest/JJS quarter/NN ]
+./. 
+
+[ Zenith/NNP Electronics/NNP Corp./NNP ]
+guessed/VBD 
+[ wrong/JJ ]
+at/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ the/DT dollar/NN ]
+when/WRB 
+[ it/PRP ]
+hedged/VBD in/IN 
+[ forward/JJ exchange/NN contracts/NNS ]
+,/, ending/VBG up/RP with/IN 
+[ a/DT $/$ 13/CD million/CD loss/NN ]
+during/IN 
+[ the/DT second/JJ quarter/NN ]
+,/, despite/IN growing/VBG 
+[ sales/NNS ]
+./. 
+
+[ Commodore/NNP International/NNP Ltd./NNP ]
+,/, with/IN 
+[ scant/JJ domestic/JJ sales/NNS ]
+to/TO cushion/VB 
+[ the/DT dollar/NN 's/POS blow/NN ]
+,/, had/VBD 
+[ a/DT $/$ 10.1/CD million/CD loss/NN ]
+from/IN 
+[ operations/NNS ]
+in/IN 
+[ its/PRP$ latest/JJS quarter/NN ]
+./. 
+
+[ Commodore/NNP ]
+does/VBZ more/JJR than/IN 
+[ 75/CD %/NN ]
+of/IN 
+[ its/PRP$ business/NN ]
+overseas/RB --/: 
+[ business/NN ]
+that/WDT ,/, ironically/RB ,/, helped/VBD save/VB 
+[ the/DT company/NN ]
+when/WRB 
+[ domestic/JJ sales/NNS ]
+plummeted/VBD 
+[ years/NNS ]
+ago/RB ./. 
+
+======================================
+
+And/CC for/IN 
+[ a/DT few/JJ ]
+,/, 
+[ foreign/JJ markets/NNS ]
+have/VBP just/RB plain/RB failed/VBN 
+[ them/PRP ]
+./. 
+
+[ Chip/NN maker/NN Micron/NNP Technology/NNP Inc./NNP ]
+of/IN 
+[ Boise/NNP ]
+,/, 
+[ Idaho/NNP ]
+,/, leased/VBD 
+[ an/DT expensive/JJ Tokyo/NNP office/NN ]
+in/IN 
+[ December/NNP 1984/CD ]
+,/, hiring/VBG 
+[ Japanese/JJ employees/NNS ]
+to/TO start/VB 
+[ a/DT sales/NNS ]
+drive/NN ./. 
+
+[ Fourteen/CD months/NNS ]
+later/RB 
+[ it/PRP ]
+had/VBD n't/RB sold/VBN 
+[ a/DT single/JJ chip/NN ]
+,/, and/CC closed/VBD 
+[ the/DT office/NN ]
+./. 
+
+======================================
+
+[ Japanese/JJ companies/NNS ]
+say/VBP 
+[ Micron/NNP ]
+did/VBD n't/RB offer/VB 
+[ the/DT right/JJ quality/NN ]
+,/, 
+[ price/NN ]
+or/CC 
+[ service/NN ]
+./. 
+
+[ Micron/NNP ]
+maintains/VBZ that/IN 
+[ the/DT market/NN ]
+was/VBD simply/RB closed/JJ to/TO 
+[ it/PRP ]
+./. 
+
+[ The/DT company/NN ]
+still/RB does/VBZ n't/RB sell/VB 
+[ any/DT chips/NNS ]
+in/IN 
+[ Japan/NNP ]
+,/, and/CC sells/VBZ only/RB 
+[ 25/CD %/NN ]
+of/IN 
+[ its/PRP$ chips/NNS ]
+overseas/RB ./. 

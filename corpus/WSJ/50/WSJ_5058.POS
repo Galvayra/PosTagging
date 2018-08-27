@@ -1,0 +1,788 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Tokyo/NNP stocks/NNS ]
+ended/VBD generally/RB 
+[ higher/RBR Friday/NNP ]
+,/, helped/VBN by/IN 
+[ index-linked/JJ buying/NN ]
+by/IN 
+[ investment/NN trust/NN funds/NNS ]
+
+[ that/WDT ]
+came/VBD to/TO 
+[ the/DT market/NN several/JJ times/NNS ]
+during/IN 
+[ the/DT day/NN ]
+./. 
+
+======================================
+
+[ London/NNP stocks/NNS ]
+closed/VBD moderately/RB lower/RBR in/IN 
+[ thin/JJ ]
+trading/NN ./. 
+
+======================================
+
+[ Tokyo/NNP stock/NN prices/NNS ]
+opened/VBD firm/JJ as/IN 
+[ sentiment/NN ]
+improved/VBN after/IN 
+[ Thursday/NNP 's/POS substantial/JJ advances/NNS ]
+,/, 
+[ traders/NNS ]
+said/VBD ./. 
+
+However/RB ,/, 
+[ stocks/NNS ]
+failed/VBD to/TO sustain/VB 
+[ their/PRP$ early/JJ gains/NNS ]
+as/IN 
+[ the/DT trading/NN ]
+was/VBD extremely/RB 
+[ unfocused/JJ ]
+,/, 
+[ traders/NNS ]
+added/VBD ./. 
+
+======================================
+
+[ Many/JJ ]
+of/IN 
+[ Thursday/NNP 's/POS winners/NNS ]
+lost/VBD 
+[ strength/NN ]
+as/IN 
+[ investors/NNS ]
+took/VBD 
+[ profits/NNS ]
+and/CC then/RB shifted/VBD 
+[ their/PRP$ attention/NN ]
+to/TO 
+[ other/JJ issues/NNS ]
+./. 
+
+======================================
+
+[ Investor/NN interest/NN ]
+was/VBD mainly/RB targeted/VBN at/IN 
+[ issues/NNS whose/WP$ prices/NNS ]
+seemed/VBD to/TO move/VB up/RP quickly/RB ./. 
+
+[ They/PRP ]
+were/VBD selected/VBN individually/RB regardless/RB of/IN 
+[ sector/NN ]
+or/CC 
+[ theme/NN ]
+,/, reflecting/VBG 
+[ an/DT investor/NN attitude/NN ]
+of/IN avoiding/VBG 
+[ longer-term/JJ commitments/NNS ]
+to/TO 
+[ any/DT specific/NN shares/NNS ]
+,/, 
+[ traders/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT Nikkei/NNP index/NN ]
+of/IN 
+[ 225/CD selected/VBN issues/NNS ]
+was/VBD up/RB 
+[ 26.77/CD points/NNS ]
+at/IN 
+[ 34771.79/CD ]
+./. 
+
+[ It/PRP ]
+gained/VBD 
+[ 274.44/CD Thursday/NNP ]
+./. 
+
+======================================
+
+In/IN early/JJ trading/NN in/IN 
+[ Tokyo/NNP Monday/NNP ]
+,/, 
+[ the/DT Nikkei/NNP index/NN ]
+rose/VBD 
+[ 179.83/CD points/NNS ]
+to/TO 
+[ 34951.62/CD ]
+./. 
+
+======================================
+
+[ Friday/NNP 's/POS volume/NN ]
+on/IN 
+[ the/DT First/JJ Section/NNP ]
+was/VBD estimated/VBN at/IN 
+[ 650/CD million/CD shares/NNS ]
+,/, about/RB 
+[ the/DT same/JJ ]
+as/IN 
+[ the/DT previous/JJ session/NN 's/POS 655/CD million/CD ]
+./. 
+
+======================================
+
+Despite/IN 
+[ the/DT Nikkei/NNP 's/POS gain/NN ]
+,/, declining/VBG 
+[ issues/NNS ]
+outnumbered/VBD advancing/VBG 
+[ shares/NNS ]
+,/, 
+[ 494/CD ]
+to/TO 
+[ 463/CD ]
+,/, while/IN 
+[ 169/CD ]
+remained/VBD 
+[ unchanged/JJ ]
+./. 
+
+======================================
+
+[ The/DT Tokyo/NNP Stock/NNP Price/NNP Index/NNP ]
+ (/( 
+[ Topix/NNP ]
+ )/) of/IN 
+[ all/DT issues/NNS ]
+listed/VBN in/IN 
+[ the/DT First/JJ Section/NNP ]
+,/, 
+[ which/WDT ]
+gained/VBD 
+[ 17.94/CD points/NNS Thursday/NNP ]
+,/, was/VBD down/RB 
+[ 4.12/CD points/NNS ]
+,/, or/CC 
+[ 0.16/CD %/NN ]
+,/, at/IN 
+[ 2629.40/CD ]
+./. 
+
+======================================
+
+[ The/DT Second/NNP Section/NNP index/NN ]
+,/, 
+[ which/WDT ]
+gained/VBD 
+[ 23/CD points/NNS Thursday/NNP ]
+,/, was/VBD up/IN 
+[ 35.06/CD points/NNS ]
+,/, or/CC 
+[ 1.02/CD %/NN ]
+,/, to/TO close/VB at/IN 
+[ 3484.95/CD ]
+./. 
+
+[ Volume/NNP ]
+in/IN 
+[ the/DT Second/NNP Section/NNP ]
+was/VBD estimated/VBN at/IN 
+[ 26/CD million/CD shares/NNS ]
+,/, 
+[ unchanged/JJ ]
+from/IN 
+[ Thursday/NNP ]
+./. 
+
+======================================
+
+Amid/IN 
+[ uncertainty/NN ]
+about/IN 
+[ exchange/NN rate/NN directions/NNS ]
+and/CC 
+[ domestic/JJ interest/NN rates/NNS ]
+,/, 
+[ institutional/JJ investors/NNS ]
+remained/VBD sidelined/JJ through/IN 
+[ the/DT week/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, participating/VBG 
+[ investors/NNS ]
+,/, mostly/RB 
+[ individuals/NNS ]
+,/, avoided/VBD 
+[ large-capital/CD issues/NNS ]
+such/JJ as/IN 
+[ steels/NNS ]
+and/CC 
+[ constructions/NNS ]
+,/, rotating/VBG 
+[ their/PRP$ attention/NN ]
+through/IN 
+[ smaller-capital/JJ ]
+,/, 
+[ incentive-backed/JJ issues/NNS ]
+./. 
+
+[ Those/DT ]
+related/VBN to/TO 
+[ speculation/NN ]
+about/IN 
+[ mergers/NNS ]
+and/CC 
+[ acquisitions/NNS ]
+,/, such/JJ as/IN 
+[ retail/JJ ]
+and/CC 
+[ local/JJ bank/NN issues/NNS ]
+,/, made/VBD 
+[ notable/JJ gains/NNS ]
+during/IN 
+[ the/DT week/NN ]
+./. 
+
+======================================
+
+[ The/DT week/NN ]
+also/RB saw/VBD 
+[ meetings/NNS ]
+held/VBN by/IN 
+[ the/DT Big/NNP Four/NNP brokerage/NN houses/NNS ]
+to/TO set/VB 
+[ their/PRP$ October-March/NNP strategies/NNS ]
+./. 
+
+[ The/DT four/CD ]
+agreed/VBD to/TO concentrate/VB on/IN 
+[ an/DT ]
+``/`` upgraded/JJ 
+[ life/NN style/NN ]
+''/'' 
+[ theme/NN emphasizing/VBG housing/NN ]
+and/CC 
+[ retail/JJ issues/NNS ]
+based/VBN on/IN growing/VBG 
+[ domestic/JJ consumption/NN ]
+./. 
+
+======================================
+
+[ Most-recommended/JJ lists/NNS ]
+issued/VBN by/IN 
+[ the/DT brokerages/NNS ]
+were/VBD characterized/VBN by/IN 
+[ fewer/JJR large-capitalization/NN issues/NNS ]
+such/JJ as/IN 
+[ steels/NNS ]
+and/CC 
+[ more/JJR consumer-oriented/JJ issues/NNS ]
+./. 
+
+======================================
+
+[ Pioneer/NNP ]
+surged/VBD 
+[ 480/CD yen/NNS ]
+ (/( 
+[ $/$ 3.29/CD ]
+ )/) to/TO 
+[ 4,950/CD yen/NNS ]
+ (/( 
+[ $/$ 33.99/CD ]
+ )/) ./. 
+
+[ Sony/NNP ]
+gained/VBD 
+[ 140/CD ]
+to/TO 
+[ 8,400/CD ]
+./. 
+
+[ Fanuc/NNP ]
+advanced/VBD 
+[ 300/CD ]
+to/TO 
+[ 7,400/CD ]
+and/CC 
+[ Kyocera/NNP ]
+was/VBD up/IN 
+[ 190/CD ]
+to/TO close/VB at/IN 
+[ 5,580/CD ]
+./. 
+
+======================================
+
+[ Thursday/NNP 's/POS winners/NNS ]
+,/, 
+[ retail/JJ issues/NNS ]
+,/, ended/VBD mixed/JJ 
+[ Friday/NNP ]
+as/IN 
+[ some/DT investors/NNS ]
+sold/VBD 
+[ these/DT issues/NNS ]
+on/IN 
+[ profit-taking/NN ]
+./. 
+
+======================================
+
+[ Seiyu/NNP ]
+gained/VBD 
+[ 180/CD ]
+to/TO 
+[ 2,900/CD ]
+and/CC 
+[ Daiei/NNP ]
+added/VBD 
+[ 40/CD ]
+to/TO 
+[ 3,130/CD ]
+but/CC 
+[ Ito-Yokado/NNP ]
+lost/VBD 
+[ 10/CD ]
+to/TO 
+[ 4,560/CD ]
+./. 
+
+[ Isetan/NNP ]
+ended/VBD 
+[ flat/JJ ]
+./. 
+
+======================================
+
+[ Steels/NNS ]
+were/VBD lower/JJR ./. 
+
+[ Nippon/NNP Steel/NNP ]
+dropped/VBD to/TO 
+[ 752/CD yen/NNS ]
+,/, 
+[ its/PRP$ lowest/JJS level/NN ]
+since/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ this/DT year/NN ]
+,/, down/RB 
+[ 15/CD ]
+from/IN 
+[ Thursday/NNP 's/POS close/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ London/NNP ]
+,/, 
+[ share/NN prices/NNS ]
+dropped/VBD amid/IN 
+[ the/DT exodus/NN ]
+of/IN 
+[ buyers/NNS ]
+ahead/RB of/IN 
+[ the/DT Group/NNP ]
+of/IN 
+[ Seven/NNP industrialized/JJ nations/NNS summit/NN ]
+
+[ this/DT past/NN weekend/NN ]
+./. 
+
+======================================
+
+[ The/DT Financial/NNP Times-Stock/NNP Exchange/NNP 100-share/JJ index/NN ]
+closed/VBD down/RB 
+[ 10.7/CD points/NNS ]
+at/IN 
+[ 2370.2/CD ]
+,/, nominally/RB above/IN 
+[ its/PRP$ session/NN ]
+low/JJ of/IN 
+[ 2369.7/CD ]
+,/, and/CC well/RB below/IN 
+[ the/DT day/NN ]
+'s/POS high/JJ of/IN 
+[ 2382.1/CD ]
+recorded/VBN near/IN 
+[ the/DT opening/NN ]
+./. 
+
+======================================
+
+[ The/DT narrower/JJR Financial/NNP Times/NNPS 30-share/JJ index/NN ]
+finished/VBN at/IN 
+[ 1949.5/CD ]
+,/, down/RB 
+[ 13.4/CD ]
+./. 
+
+[ Total/JJ volume/NN ]
+was/VBD 
+[ 452.9/CD million/CD shares/NNS ]
+,/, up/IN from/IN 
+[ 413.8/CD million/CD Thursday/NNP ]
+but/CC still/RB 
+[ very/JJ light/NN ]
+for/IN 
+[ a/DT Friday/NNP ]
+./. 
+
+======================================
+
+Besides/IN 
+[ concerns/NNS ]
+over/IN 
+[ potential/JJ action/NN ]
+by/IN 
+[ the/DT G-7/NNP ]
+in/IN 
+[ Washington/NNP ]
+over/IN 
+[ the/DT weekend/NN ]
+,/, 
+[ dealers/NNS ]
+said/VBD limited/VBN 
+[ action/NN ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+gave/VBD 
+[ scant/JJ direction/NN ]
+to/TO 
+[ London/NNP ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ turn/NN ]
+drifted/VBD lower/RBR throughout/IN 
+[ the/DT day/NN ]
+as/IN 
+[ more/JJR ]
+and/CC 
+[ more/JJR players/NNS ]
+left/VBD ahead/RB of/IN 
+[ the/DT weekend/NN ]
+./. 
+
+======================================
+
+[ The/DT major/JJ feature/NN ]
+of/IN 
+[ the/DT session/NN ]
+was/VBD 
+[ Boots/NNP ]
+,/, 
+[ a/DT U.K./JJ health-care/JJ retailer/NN ]
+and/CC 
+[ pharmaceuticals/NNS concern/NN ]
+,/, 
+[ which/WDT ]
+shed/VBD 
+[ 26/CD pence/NNS ]
+ (/( 
+[ 41/CD cents/NNS ]
+ )/) to/TO 
+[ 290/CD pence/NNS ]
+ (/( 
+[ $/$ 4.58/CD ]
+ )/) 
+[ a/DT share/NN ]
+after/IN 
+[ the/DT company/NN ]
+said/VBD 
+[ clinical/JJ trials/NNS ]
+of/IN 
+[ a/DT heart/NN drug/NN ]
+showed/VBD 
+[ it/PRP ]
+was/VBD less/RBR successful/JJ than/IN expected/VBN in/IN treating/VBG 
+[ congestive/JJ heart/NN failure/NN ]
+./. 
+
+[ Boots/NNP ]
+was/VBD relatively/RB active/JJ at/IN 
+[ 21/CD million/CD shares/NNS ]
+,/, but/CC 
+[ 19/CD million/CD ]
+of/IN 
+[ the/DT total/NN ]
+was/VBD traded/VBN before/IN 
+[ midday/NN ]
+,/, 
+[ which/WDT dealers/NNS ]
+said/VBD underscored/VBD 
+[ the/DT market/NN 's/POS action/NN overall/NN ]
+./. 
+
+======================================
+
+[ Glaxo/NNP ]
+,/, 
+[ which/WDT ]
+fell/VBD sharply/RB earlier/RB in/IN 
+[ the/DT week/NN ]
+on/IN 
+[ profit-taking/NN ]
+after/IN 
+[ its/PRP$ ]
+relatively/RB 
+[ positive/JJ interim/NN results/NNS ]
+,/, added/VBD 
+[ 8/CD ]
+to/TO #/# 
+[ 15.39/CD ]
+ (/( 
+[ $/$ 24.30/CD ]
+ )/) on/IN 
+[ the/DT Boots/NNP news/NN ]
+,/, 
+[ dealers/NNS ]
+said/VBD ./. 
+
+[ Glaxo/NNP ]
+produces/VBZ 
+[ several/JJ cardiovascular/JJ products/NNS ]
+./. 
+
+======================================
+
+[ Luxury/NN car/NN maker/NN Jaguar/NNP motored/VBD ]
+ahead/RB again/RB as/IN 
+[ rumors/NNS ]
+abounded/VBD about/IN 
+[ possible/JJ link-ups/NNS ]
+with/IN 
+[ other/JJ major/JJ car/NN companies/NNS ]
+,/, and/CC 
+[ the/DT market/NN ]
+shrugged/VBD off/RP 
+[ a/DT statement/NN ]
+by/IN 
+[ Jaguar/NNP 's/POS board/NN ]
+that/IN 
+[ any/DT takeover/NN ]
+would/MD be/VB unwelcome/JJ ./. 
+
+[ It/PRP ]
+ended/VBD 
+[ the/DT session/NN ]
+at/IN 
+[ 581/CD ]
+,/, up/RB 
+[ 33/CD ]
+./. 
+
+======================================
+
+[ Ewan/NNP Fraser/NNP ]
+,/, 
+[ an/DT automotive/JJ analyst/NN ]
+with/IN 
+[ James/NNP Capel/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, said/VBD 
+[ Jaguar/NNP 's/POS shares/NNS ]
+appear/VBP to/TO be/VB extremely/RB overbought/JJ on/IN 
+[ the/DT hostile-bid/JJ speculation/NN ]
+./. 
+
+``/`` 
+[ Its/PRP$ share/NN price/NN ]
+is/VBZ really/RB 
+[ three/CD times/NNS ]
+
+[ what/WP ]
+
+[ it/PRP ]
+should/MD be/VB ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ all/DT speculative/JJ ]
+driven/VBN ./. 
+
+''/'' 
+======================================
+
+[ Standard/NNP Chartered/NNP ]
+advanced/VBD 
+[ 19/CD ]
+to/TO 
+[ 557/CD ]
+./. 
+
+[ Dealers/NNS ]
+said/VBD 
+[ the/DT shares/NNS ]
+were/VBD bolstered/VBN by/IN 
+[ talk/NN ]
+that/IN 
+[ Lloyds/NNP Bank/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT four/CD U.K./JJ ]
+clearing/NN 
+[ banks/NNS ]
+,/, may/MD mount/VB 
+[ a/DT bid/NN ]
+for/IN 
+[ the/DT London-based/JJ commercial/JJ bank/NN ]
+./. 
+
+======================================
+
+[ Hawker/NNP Siddeley/NNP ]
+,/, 
+[ a/DT major/JJ British/JJ engineering/NN concern/NN ]
+,/, slipped/VBD 
+[ 16/CD ]
+to/TO 
+[ 720/CD ]
+./. 
+
+[ Dealers/NNS ]
+attributed/VBD 
+[ the/DT decline/NN ]
+to/TO 
+[ a/DT sharp/JJ drop/NN ]
+in/IN 
+[ earnings/NNS ]
+reported/VBN by/IN 
+[ a/DT U.S./NNP heavy/NN machinery/NN manufacturer/NN ]
+in/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+holds/VBZ 
+[ a/DT stake/NN ]
+./. 
+
+======================================
+
+[ Some/DT dealers/NNS ]
+rejected/VBD 
+[ the/DT talk/NN ]
+and/CC largely/RB attributed/VBD 
+[ the/DT move/NN ]
+to/TO 
+[ profit-taking/JJ ]
+and/CC 
+[ thin/JJ volume/NN ]
+./. 
+
+Only/RB 
+[ 1.2/CD million/CD shares/NNS ]
+were/VBD traded/VBN ./. 
+
+======================================
+
+[ Lucas/NNP Industries/NNPS ]
+,/, 
+[ an/DT aerospace/NN ]
+and/CC 
+[ automotive/JJ concern/NN ]
+,/, rose/VBD 
+[ 12/CD ]
+to/TO 
+[ 680/CD ]
+on/IN 
+[ modest/JJ volume/NN ]
+./. 
+
+======================================
+
+Elsewhere/RB ,/, 
+[ stock/NN prices/NNS ]
+closed/VBD higher/RBR in/IN 
+[ Taipei/NNP ]
+and/CC 
+[ Hong/NNP Kong/NNP ]
+and/CC were/VBD lower/JJR in/IN 
+[ Singapore/NNP ]
+,/, 
+[ Seoul/NNP ]
+,/, 
+[ Sydney/NNP ]
+,/, 
+[ Manila/NNP ]
+and/CC 
+[ Wellington/NNP ]
+./. 
+
+======================================
+
+[ Share/NN prices/NNS ]
+closed/VBD higher/RBR in/IN 
+[ Paris/NNP ]
+,/, 
+[ Frankfurt/NNP ]
+,/, 
+[ Brussels/NNP ]
+and/CC 
+[ Milan/NNP ]
+;/: lower/RBR in/IN 
+[ Stockholm/NNP ]
+and/CC 
+[ Amsterdam/NNP ]
+and/CC mixed/JJ in/IN 
+[ Zurich/NNP ]
+./. 
+
+[ South/JJ African/JJ gold/NN stocks/NNS ]
+closed/VBD 
+[ firmer/JJR ]
+./. 
+
+======================================
+
+Here/RB are/VBP 
+[ price/NN trends/NNS ]
+on/IN 
+[ the/DT world/NN 's/POS major/JJ stock/NN markets/NNS ]
+,/, as/IN calculated/VBN by/IN 
+[ Morgan/NNP Stanley/NNP Capital/NNP International/NNP Perspective/NNP ]
+,/, 
+[ Geneva/NNP ]
+./. 
+
+To/TO make/VB 
+[ them/PRP ]
+directly/RB 
+[ comparable/JJ ]
+,/, 
+[ each/DT index/NN ]
+is/VBZ based/VBN on/IN 
+[ the/DT close/NN ]
+of/IN 
+[ 1969/CD ]
+equaling/VBG 
+[ 100/CD ]
+./. 
+
+[ The/DT percentage/NN change/NN ]
+is/VBZ since/IN 
+[ year-end/JJ ]
+./. 

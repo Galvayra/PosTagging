@@ -1,0 +1,675 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP Co./NNP ]
+,/, marking/VBG 
+[ its/PRP$ first/JJ venture/NN ]
+in/IN 
+[ the/DT cosmetics/NNS business/NN ]
+,/, agreed/VBD to/TO buy/VB 
+[ Noxell/NNP Corp./NNP ]
+in/IN 
+[ a/DT stock/NN swap/NN ]
+valued/VBN at/IN about/RB 
+[ $/$ 1.3/CD billion/CD ]
+./. 
+
+======================================
+
+[ P&G/NNP ]
+,/, 
+[ a/DT Cincinnati/NNP consumer/NN products/NNS concern/NN ]
+,/, will/MD exchange/VB ,/, on/IN 
+[ a/DT tax-free/JJ basis/NN ]
+,/, 
+[ 0.272/CD share/NN ]
+of/IN 
+[ its/PRP$ common/NN ]
+for/IN 
+[ each/DT share/NN ]
+of/IN 
+[ Noxell/NNP 's/POS common/JJ ]
+and/CC 
+[ Class/NNP B/JJ stock/NN ]
+./. 
+
+[ The/DT estimated/JJ value/NN ]
+is/VBZ 
+[ $/$ 33.15/CD ]
+
+[ a/DT Noxell/NNP share/NN ]
+,/, based/VBN on/IN 
+[ last/JJ Thursday/NNP 's/POS closing/JJ price/NN ]
+for/IN 
+[ P&G/NNP ]
+./. 
+
+[ P&G/NNP ]
+will/MD issue/VB 
+[ 11/CD million/CD ]
+previously/RB authorized/JJ 
+[ shares/NNS ]
+./. 
+
+======================================
+
+[ P&G/NN shares/NNS ]
+closed/VBD 
+[ Friday/NNP ]
+at/IN 
+[ $/$ 119.875/CD ]
+,/, off/RB 
+[ $/$ 2/CD ]
+,/, in/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ./. 
+
+[ Noxell/NNP B/NNP shares/NNS ]
+surged/VBD 
+[ $/$ 10/CD ]
+,/, to/TO 
+[ $/$ 31.25/CD ]
+,/, in/IN 
+[ national/JJ over-the-counter/JJ ]
+trading/NN ./. 
+
+[ Noxell/NNP common/JJ stock/NN ]
+is/VBZ closely/RB held/VBN ./. 
+
+======================================
+
+[ Noxell/NNP ]
+,/, of/IN 
+[ Hunt/NNP Valley/NNP ]
+,/, 
+[ Md./NNP ]
+,/, has/VBZ been/VBN controlled/VBN by/IN 
+[ descendants/NNS ]
+of/IN 
+[ its/PRP$ founder/NN ]
+,/, 
+[ George/NNP Avery/NNP Bunting/NNP ]
+,/, 
+[ a/DT pharmacist/NN ]
+
+[ who/WP ]
+developed/VBD 
+[ Noxema/NNP skin/NN cream/NN ]
+in/IN 
+[ 1917/CD ]
+./. 
+
+[ The/DT company/NN ]
+,/, 
+[ which/WDT ]
+also/RB makes/VBZ 
+[ best-selling/JJ Cover/NNP Girl/NNP makeup/NN ]
+,/, decided/VBD to/TO sell/VB out/RP to/TO P&G/NNP because/IN 
+[ it/PRP ]
+needed/VBD 
+[ outside/JJ money/NN ]
+to/TO improve/VB 
+[ its/PRP$ research/NN ]
+and/CC 
+[ development/NN ]
+and/CC to/TO expand/VB internationally/RB ,/, said/VBD 
+[ George/NNP L./NNP Bunting/NNP Jr./NNP ]
+,/, 
+[ Noxell/NNP chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+./. 
+
+======================================
+
+[ Completion/NN ]
+of/IN 
+[ the/DT transaction/NN ]
+by/IN 
+[ year/NN end/NN ]
+is/VBZ considered/VBN 
+[ a/DT sure/JJ thing/NN ]
+because/IN 
+[ the/DT Bunting/NNP family/NN ]
+already/RB has/VBZ given/VBN 
+[ P&G/NNP irrevocable/JJ proxies/NNS ]
+on/IN about/RB 
+[ 6.5/CD million/CD ]
+,/, or/CC 
+[ 85.6/CD %/NN ]
+,/, of/IN 
+[ the/DT company/NN 's/POS shares/NNS ]
+./. 
+
+[ P&G/NNP ]
+also/RB received/VBD 
+[ options/NNS ]
+to/TO acquire/VB 
+[ those/DT shares/NNS ]
+./. 
+
+======================================
+
+[ Noxell/NNP ]
+is/VBZ considered/VBN 
+[ a/DT good/JJ catch/NN ]
+and/CC 
+[ one/CD ]
+
+[ that/WDT ]
+has/VBZ been/VBN looked/VBN at/IN by/IN 
+[ other/JJ consumer/NN ]
+and/CC 
+[ health/NN ]
+and/CC 
+[ beauty/NN care/NN concerns/NNS ]
+,/, including/VBG 
+[ Unilever/NNP N.V./NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN building/VBG 
+[ its/PRP$ cosmetics/NNS cabinet/NN ]
+through/IN 
+[ acquisitions/NNS ]
+./. 
+
+[ P&G/NNP 's/POS chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN officer/NN ]
+,/, 
+[ John/NNP G./NNP Smale/NNP ]
+,/, said/VBD 
+[ the/DT acquisition/NN ]
+will/MD enable/VB 
+[ P&G/NNP ]
+``/`` to/TO accelerate/VB 
+[ the/DT growth/NN ]
+of/IN 
+[ our/PRP$ important/JJ health/NN ]
+and/CC 
+[ beauty/NN care/NN business/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Noxell/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ P&G/NNP 's/POS largest/JJS purchases/NNS ]
+and/CC illustrates/VBZ 
+[ its/PRP$ increasing/VBG emphasis/NN ]
+on/IN 
+[ buying/VBG brands/NNS ]
+to/TO complement/VB 
+[ its/PRP$ in-house/NN research/NN ]
+./. 
+
+``/`` 
+[ Ten/CD ]
+or/CC 
+[ 15/CD years/NNS ]
+ago/RB ,/, 
+[ P&G/NNP ]
+would/MD 've/VB introduced/VBN 
+[ a/DT brand/RB new/JJ line/NN ]
+of/IN 
+[ cosmetics/NNS ]
+and/CC gotten/VBN killed/VBN ,/, ''/'' said/VBD 
+[ Hugh/NNP Zurkuhlen/NNP ]
+,/, 
+[ analyst/NN ]
+with/IN 
+[ Salomon/NNP Bros/NNPS ]
+./. 
+
+``/`` Now/RB 
+[ they/PRP ]
+'re/VBP paying/VBG up/IN to/TO buy/VB 
+[ premium/JJ brand/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Analysts/NNS ]
+considered/VBD 
+[ the/DT price/NN ]
+--/: 
+[ 2.5/CD times/NNS Noxell/NNP 's/POS annual/JJ sales/NNS ]
+of/IN 
+[ $/$ 522/CD million/CD ]
+--/: to/TO be/VB hefty/JJ ,/, but/CC not/RB unusual/JJ for/IN 
+[ strong/JJ brands/NNS ]
+./. 
+
+For/IN 
+[ the/DT first/JJ six/CD months/NNS ]
+of/IN 
+[ the/DT year/NN ]
+,/, 
+[ Noxell/NNP ]
+reported/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 28.9/CD million/CD ]
+,/, or/CC 
+[ 71/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, on/IN 
+[ sales/NNS ]
+of/IN 
+[ $/$ 282/CD million/CD ]
+,/, compared/VBN with/IN 
+[ net/NN ]
+of/IN 
+[ $/$ 27/CD million/CD ]
+,/, or/CC 
+[ 67/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, on/IN 
+[ sales/NNS ]
+of/IN 
+[ $/$ 267.3/CD million/CD ]
+for/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+of/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ expensive/JJ ,/, but/CC not/RB out/IN of/IN 
+[ line/NN ]
+,/, ''/'' said/VBD 
+[ David/NNP Williams/NNP ]
+,/, 
+[ a/DT principal/NN ]
+with/IN 
+[ New/NNP England/NNP Consulting/NNP Group/NNP ]
+and/CC 
+[ a/DT former/JJ P&G/NN manager/NN ]
+./. 
+
+``/`` 
+[ The/DT window/NN ]
+of/IN 
+[ opportunity/NN ]
+to/TO buy/VB 
+[ a/DT major/JJ factor/NN ]
+in/IN 
+[ consumer/NN products/NNS ]
+is/VBZ narrowing/VBG ,/, if/IN not/RB closing/VBG ./. 
+
+''/'' 
+======================================
+
+[ Noxell/NNP ]
+has/VBZ 
+[ no/DT debt/NN ]
+and/CC had/VBD about/RB 
+[ $/$ 100/CD million/CD ]
+in/IN 
+[ cash/NN ]
+at/IN 
+[ year/NN end/NN ]
+,/, 
+[ officials/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT deal/NN ]
+will/MD be/VB treated/VBN as/IN 
+[ a/DT ]
+pooling/NN of/IN 
+[ interest/NN ]
+,/, 
+[ which/WDT ]
+combines/VBZ 
+[ the/DT income/NN statements/NNS ]
+and/CC 
+[ balance/NN sheets/NNS ]
+of/IN 
+[ the/DT two/CD companies/NNS ]
+and/CC does/VBZ n't/RB create/VB 
+[ any/DT good/JJ will/NN ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+expect/VBP 
+[ the/DT purchase/NN ]
+to/TO be/VB mildly/RB dilutive/JJ to/TO P&G/VB ,/, perhaps/RB 
+[ 20/CD cents/NNS ]
+or/CC 
+[ 25/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Some/DT analysts/NNS ]
+lowered/VBD 
+[ their/PRP$ 1990/CD earnings/NNS forecasts/NNS ]
+on/IN 
+[ the/DT news/NN ]
+./. 
+
+[ Joseph/NNP Kozloff/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+with/IN 
+[ Drexel/NNP Burnham/NNP Lambert/NNP ]
+,/, lowered/VBD 
+[ his/PRP$ estimate/NN ]
+to/TO 
+[ $/$ 8.30/CD ]
+
+[ a/DT share/NN ]
+from/IN 
+[ $/$ 8.50/CD ]
+,/, but/CC left/VBD 
+[ 1991/CD ]
+at/IN 
+[ $/$ 9.75/CD ]
+./. 
+
+======================================
+
+Along/IN with/IN 
+[ Noxema/NNP ]
+and/CC 
+[ Cover/NNP Girl/NNP ]
+,/, 
+[ Noxell/NNP ]
+gives/VBZ 
+[ P*/NNP&G/NN ]
+
+[ the/DT line/NN ]
+of/IN 
+[ Clarion/NNP cosmetics/NNS ]
+,/, 
+[ Lestoil/NNP ]
+cleaner/NN and/CC 
+[ Wick/NNP Fowler/NNP Two/CD Alarm/NNP Chili/NNP ]
+,/, 
+[ a/DT seasoning/NN ]
+for/IN 
+[ chili/NN ]
+./. 
+
+======================================
+
+[ P&G/NNP ]
+already/RB has/VBZ 
+[ a/DT strong/JJ presence/NN ]
+in/IN 
+[ skin/NN care/NN products/NNS ]
+,/, such/JJ as/IN 
+[ Oil/NNP ]
+of/IN 
+[ Olay/NNP ]
+,/, 
+[ Clearasil/NNP ]
+and/CC 
+[ Bain/NNP ]
+de/IN 
+[ Soleil/NNP ]
+./. 
+
+But/CC 
+[ this/DT ]
+is/VBZ 
+[ its/PRP$ first/JJ venture/NN ]
+into/IN 
+[ the/DT $/$ 1.5/CD billion/CD mass/NN market/NN cosmetic/NN business/NN ]
+./. 
+
+======================================
+
+[ Noxell/NNP 's/POS Cover/NNP Girl/NNP ]
+and/CC 
+[ Clarion/NNP lines/NNS ]
+have/VBP 
+[ a/DT combined/VBN 25.4/CD %/NN share/NN ]
+,/, followed/VBN by/IN 
+[ Maybelline/NNP ]
+,/, with/IN 
+[ 17.7/CD %/NN ]
+and/CC 
+[ Revlon/NNP ]
+,/, with/IN 
+[ 13.9/CD %/NN ]
+./. 
+
+[ Those/DT shares/NNS ]
+are/VBP for/IN 
+[ the/DT ]
+``/`` 
+[ mass/NN market/NN ]
+''/'' 
+[ sales/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP through/IN 
+[ drug/NN ]
+and/CC 
+[ food/NN stores/NNS ]
+and/CC 
+[ mass/NN merchandisers/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+bought/VBD 
+[ the/DT Procter/NNP ]
+of/IN 
+[ the/DT cosmetics/NNS business/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Zurkuhlen/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT mass/NN market/NN brands/NNS ]
+,/, 
+[ other/JJ brands/NNS ]
+of/IN 
+[ cosmetics/NNS ]
+are/VBP sold/VBN in/IN 
+[ department/NN stores/NNS ]
+and/CC 
+[ door-to-door/NN ]
+through/IN 
+[ Mary/NNP Kay/NNP ]
+and/CC 
+[ Avon/NNP brands/NNS ]
+./. 
+
+======================================
+
+[ What/WP ]
+
+[ P&G/NNP ]
+offers/VBZ is/VBZ 
+[ greater/JJR distribution/NN ]
+through/IN 
+[ its/PRP$ existing/VBG sales/NNS networks/NNS ]
+to/TO 
+[ retailers/NNS ]
+./. 
+
+[ That/DT ]
+will/MD be/VB especially/RB helpful/JJ in/IN building/VBG 
+[ Noxell/NNP 's/POS presence/NN ]
+in/IN 
+[ drugstores/NNS ]
+,/, where/WRB about/RB 
+[ 55/CD %/NN ]
+of/IN 
+[ mass/NN market/NN cosmetics/NNS ]
+are/VBP sold/VBN ,/, said/VBD 
+[ Deepak/NNP Raj/NNP ]
+,/, 
+[ analyst/NN ]
+with/IN 
+[ Merrill/NNP Lynch/NNP Research/NNP ]
+./. 
+
+[ Only/JJ one-third/NN ]
+of/IN 
+[ Noxell/NNP 's/POS sales/NNS ]
+now/RB come/VBP from/IN 
+[ drugstore/NN sales/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Nov./NNP 1985/CD ]
+--/: 
+[ Richardson-Vicks/NNP Inc./NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ personal/NN care/NN products/NNS ]
+including/VBG 
+[ Vicks/NNP cold/JJ medicines/NNS ]
+,/, based/VBN in/IN 
+[ Wilton/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+[ Price/NN ]
+:/: 
+[ $/$ 1.24/CD billion/CD ]
+./. 
+
+======================================
+
+[ Dec./NNP 1985/CD ]
+--/: 
+[ G.D./NNP Searle/NNP ]
+&/CC 
+[ Co./NNP 's/POS over-the-counter/JJ drug/NN business/NN ]
+./. 
+
+[ Price/NN ]
+:/: 
+[ $/$ 300/CD million/CD ]
+./. 
+
+======================================
+
+[ Dec./NNP 1987/CD  ]
+--/: 
+[ Blendax/NNP Group/NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ personal/NN care/NN products/NNS ]
+,/, primarily/RB 
+[ toothbrushes/NNS ]
+and/CC 
+[ toothpaste/NN ]
+in/IN 
+[ Mainz/NNP ]
+,/, 
+[ West/NNP Germany/NNP ]
+./. 
+
+[ Price/NN ]
+:/: about/RB 
+[ $/$ 400/CD million/CD ]
+./. 
+
+======================================
+
+[ March/NNP 1989/CD ]
+--/: 
+[ Sundor/NNP Group/NNP Inc./NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ fruit/NN drinks/NNS ]
+in/IN 
+[ Darien/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+[ Price/NN ]
+:/: 
+[ $/$ 300/CD million/CD ]
+./. 
+
+======================================
+
+[ July/NNP 1989/CD ]
+--/: 
+[ Beatrice/NNP 's/POS Fisher/NNP Nut/NNP ]
+,/, 
+[ a/DT Chicago/NNP company/NN ]
+./. 
+
+[ Price/NN ]
+:/: about/RB 
+[ $/$ 150/CD million/CD ]
+./. 
+
+======================================
+
+[ Sept./NNP 1989/CD ]
+--/: 
+[ Noxell/NNP Corp./NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ skin/NN care/NN products/NNS ]
+including/VBG 
+[ Cover/NNP Girl/NNP ]
+and/CC 
+[ Noxema/NNP ]
+,/, in/IN 
+[ Hunt/NNP Valley/NNP ]
+,/, 
+[ Md/NNP ]
+./. 
+
+[ Price/NN ]
+:/: 
+[ $/$ 1.3/CD billion/CD ]
+in/IN 
+[ stock/NN ]
+./. 
+
+======================================

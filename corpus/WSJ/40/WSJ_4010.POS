@@ -1,0 +1,810 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ I/PRP ]
+predict/VBP 
+[ a/DT lot/NN ]
+of/IN 
+[ highbrow-furrowing/NN ]
+at/IN 
+[ the/DT new/JJ PBS/NNP series/NN ]
+,/, ``/`` 
+[ Art/NN ]
+of/IN 
+[ the/DT Western/JJ World/NN ]
+,/, ''/'' 
+[ which/WDT ]
+begins/VBZ 
+[ tonight/NN ]
+and/CC continues/VBZ for/IN 
+[ eight/CD Mondays/NNS ]
+ (/( 
+[ 9-10/CD p.m./RB EDT/NNP ]
+and/CC 
+[ EST/NNP ]
+ )/) ./. 
+
+[ Connoisseurs/NNS ]
+will/MD abhor/VB seeing/VBG 
+[ two/CD millenniums/NNS ]
+of/IN 
+[ masterpieces/NNS ]
+crammed/VBN into/IN 
+[ that/DT despicable/JJ invention/NN ]
+,/, 
+[ the/DT cathoderay/NN tube/NN ]
+./. 
+
+And/CC 
+[ intellectuals/NNS ]
+will/MD detest/VB hearing/VBG 
+[ Western/JJ culture/NN ]
+reduced/VBD to/TO voice-over/JJ 
+[ narration/NN ]
+,/, even/RB if/IN 
+[ it/PRP ]
+is/VBZ delivered/VBN by/IN 
+[ several/JJ respected/JJ art/NN historians/NNS ]
+and/CC 
+[ the/DT ever-so-Oxonian/JJ host/NN ]
+,/, 
+[ Michael/NNP Wood/NNP ]
+./. 
+
+======================================
+
+Yet/CC 
+[ I/PRP ]
+also/RB predict/VBP that/IN 
+[ most/JJS viewers/NNS ]
+--/: including/VBG 
+[ the/DT students/NNS ]
+
+[ who/WP ]
+watch/VBP 
+[ this/DT series/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ an/DT introductory/JJ college/NN course/NN ]
+--/: will/MD find/VB 
+[ it/PRP ]
+entertaining/JJ ,/, edifying/JJ ,/, even/RB inspiring/JJ ./. 
+
+Certainly/RB 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT cut/NN ]
+above/IN 
+[ the/DT type/NN ]
+of/IN 
+[ college/NN course/NN ]
+in/IN 
+[ which/WDT students/NNS ]
+squint/VBP at/IN 
+[ blurry/JJ slides/NNS ]
+and/CC memorize/VBP 
+[ dates/NNS ]
+without/IN grasping/VBG 
+[ the/DT broader/JJR historical/JJ context/NN ]
+./. 
+
+[ It/PRP ]
+also/RB beats/VBZ 
+[ the/DT sort/NN ]
+of/IN 
+[ elite/JJ seminar/NN ]
+in/IN 
+[ which/WDT students/NNS ]
+exalt/VBP 
+[ trendy/JJ theories/NNS ]
+on/IN 
+[ pedestals/NNS ]
+of/IN 
+[ pure/JJ ignorance/NN ]
+./. 
+
+======================================
+
+[ Any/DT educator/NN worth/JJ his/PRP$ salt/NN ]
+can/MD tell/VB 
+[ you/PRP ]
+that/IN 
+[ it/PRP ]
+does/VBZ n't/RB help/VB 
+[ Johnny/NNP ]
+to/TO learn/VB that/IN 
+[ Caravaggio/NNP 's/POS ]
+``/`` 
+[ Entombment/NN ]
+''/'' was/VBD painted/VBN in/IN 
+[ 1604/CD ]
+,/, or/CC that/IN 
+[ the/DT painter/NN 's/POS deep/JJ pictorial/JJ space/NN ]
+currently/RB influences/VBZ 
+[ the/DT post-minimalist/JJ work/NN ]
+of/IN 
+[ Frank/NNP Stella/NNP ]
+,/, if/IN 
+[ Johnny/NNP ]
+has/VBZ n't/RB 
+[ a/DT clue/NN ]
+about/IN 
+[ Caravaggio/NNP ]
+./. 
+
+Better/JJR to/TO let/VB 
+[ Mr./NNP Wood/NNP ]
+describe/VB 
+[ Caravaggio/NNP 's/POS realism/NN ]
+as/IN 
+[ an/DT expression/NN ]
+of/IN 
+[ resurgent/JJ Catholic/JJ faith/NN ]
+poised/VBN between/IN 
+[ the/DT Reformation/NNP ]
+and/CC 
+[ the/DT Age/NNP ]
+of/IN 
+[ Reason/NNP ]
+--/: while/IN 
+[ the/DT camera/NN ]
+compares/VBZ 
+[ the/DT faces/NNS ]
+in/IN 
+[ the/DT paintings/NNS ]
+with/IN 
+[ those/DT outside/JJ ]
+in/IN 
+[ the/DT Roman/JJ streets/NNS ]
+./. 
+
+======================================
+
+Or/CC better/JJR to/TO let/VB 
+[ Mr./NNP Wood/NNP ]
+describe/VB 
+[ the/DT renewed/JJ prosperity/NN ]
+of/IN 
+[ early/JJ 17th-century/JJ Rome/NNP ]
+to/TO stirring/VBG 
+[ baroque/JJ music/NN ]
+--/: while/IN 
+[ the/DT camera/NN ]
+pans/VBZ 
+[ a/DT ]
+gushing/VBG 
+[ Bernini/NNP fountain/NN ]
+,/, 
+[ sails/VBZ ]
+into/IN 
+[ the/DT high/JJ baroque/JJ halls/NNS ]
+of/IN 
+[ the/DT Palazzo/NNP Barberini/NNP ]
+and/CC 
+[ hovers/VBZ ]
+,/, like/IN 
+[ one/CD ]
+of/IN 
+[ the/DT family/NN 's/POS heraldic/JJ bees/NNS ]
+,/, beneath/IN 
+[ an/DT ornate/JJ Bernini/NNP ceiling/NN ]
+./. 
+
+To/TO match/VB 
+[ this/DT experience/NN ]
+,/, 
+[ Johnny/NNP ]
+would/MD need/VB 
+[ a/DT good/JJ reading/NN list/NN ]
+,/, 
+[ a/DT Walkman/NN ]
+,/, 
+[ a/DT generous/JJ travel/NN allowance/NN ]
+and/CC 
+[ a/DT pair/NN ]
+of/IN 
+[ wings/NNS ]
+./. 
+
+======================================
+
+[ Praise/NN ]
+for/IN 
+[ the/DT power/NN ]
+and/CC 
+[ mobility/NN ]
+of/IN 
+[ the/DT camera/NN ]
+is/VBZ ,/, of/IN 
+[ course/NN ]
+,/, 
+[ heresy/NN ]
+to/TO 
+[ highbrows/NNS ]
+
+[ who/WP ]
+blame/VBP 
+[ the/DT decline/NN ]
+of/IN 
+[ Western/JJ art/NN ]
+on/IN 
+[ the/DT invention/NN ]
+of/IN 
+[ that/DT infernal/JJ machine/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ true/JJ that/IN 
+[ photography/NN ]
+helped/VBD 
+[ stifle/VB art/NN 's/POS representational/JJ glory/NN ]
+./. 
+
+But/CC 
+[ the/DT camera/NN ]
+can/MD also/RB celebrate/VB 
+[ that/DT glory/NN ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ Program/NN Four/CD ]
+ (/( 
+[ Oct./NNP 23/CD ]
+ )/) includes/VBZ 
+[ a/DT stunning/JJ sequence/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT narrator/NN ]
+reads/VBZ 
+[ Michelangelo/NNP 's/POS sonnet/NN ]
+about/IN 
+[ the/DT sin/NN ]
+of/IN 
+[ worshipping/VBG art/NN ]
+over/IN 
+[ God/NNP ]
+,/, and/CC 
+[ the/DT camera/NN ]
+circles/VBZ 
+[ the/DT sorrowful/JJ ]
+``/`` 
+[ Rondanini/NNP Pieta/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ What/WP ]
+
+[ the/DT highbrows/NNS ]
+do/VBP n't/RB acknowledge/VB is/VBZ 
+[ the/DT fact/NN ]
+that/IN 
+[ much/JJ ]
+of/IN 
+[ the/DT magnificent/JJ art/NN ]
+created/VBN before/IN 
+[ the/DT invention/NN ]
+of/IN 
+[ the/DT camera/NN ]
+is/VBZ actually/RB rather/RB well-served/JJ by/IN 
+[ the/DT camera/NN ]
+./. 
+
+[ Mr./NNP Wood/NNP ]
+suggests/VBZ ,/, in/IN 
+[ his/PRP$ introduction/NN ]
+to/TO 
+[ the/DT book/NN ]
+accompanying/VBG 
+[ the/DT series/NN ]
+,/, that/IN ``/`` 
+[ film/NN ]
+is/VBZ 
+[ the/DT true/JJ successor/NN ]
+of/IN 
+[ the/DT Greek/JJ mimetic/JJ revolution/NN ]
+,/, and/CC 
+[ the/DT West/NNP ]
+is/VBZ still/RB in/IN 
+[ the/DT grip/NN ]
+of/IN 
+[ that/DT obsession/NN ]
+with/IN 
+[ the/DT illusion/NN ]
+of/IN 
+[ reality/NN ]
+in/IN 
+[ art/NN ]
+./. 
+
+''/'' 
+======================================
+
+Yet/RB 
+[ this/DT compatibility/NN ]
+between/IN 
+[ lofty/JJ art/NN ]
+and/CC 
+[ lowly/JJ camera/NN fades/NNS ]
+as/IN 
+[ the/DT series/NN ]
+proceeds/VBZ ./. 
+
+[ Program/NN Seven/CD ]
+ (/( 
+[ Nov./NNP 13/CD ]
+ )/) looks/VBZ at/IN 
+[ impressionism/NN ]
+,/, arguably/RB 
+[ the/DT first/JJ period/NN ]
+in/IN 
+[ Western/JJ art/NN ]
+to/TO define/VB 
+[ itself/PRP ]
+in/IN 
+[ opposition/NN ]
+to/TO 
+[ photography/NN ]
+./. 
+
+[ The/DT essential/JJ optical/JJ effects/NNS ]
+of/IN 
+[ impressionism/NN ]
+are/VBP n't/RB reproducible/JJ by/IN 
+[ the/DT camera/NN ]
+--/: 
+[ which/WDT ]
+is/VBZ ironic/JJ ,/, considering/VBG 
+[ that/DT impressionism/NN ]
+is/VBZ 
+[ the/DT most/RBS mass-reproduced/JJ style/NN ]
+of/IN 
+[ painting/NN ]
+in/IN 
+[ history/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ optical/JJ effects/NNS ]
+are/VBP 
+[ the/DT least/JJS ]
+of/IN 
+[ it/PRP ]
+./. 
+
+[ The/DT film/NN medium/NN ]
+has/VBZ been/VBN justly/RB criticized/VBN for/IN overwhelming/VBG 
+[ the/DT verbal/JJ ]
+with/IN 
+[ the/DT visual/JJ ]
+--/: for/IN having/VBG 
+[ a/DT built-in/JJ bias/NN ]
+against/IN 
+[ ideas/NNS ]
+./. 
+
+[ This/DT bias/NN ]
+poses/VBZ 
+[ no/DT problems/NNS ]
+as/RB long/RB as/IN 
+[ the/DT series/NN ]
+offers/VBZ 
+[ quick/JJ ]
+,/, 
+[ light/JJ sketches/NNS ]
+of/IN 
+[ history/NN ]
+while/IN providing/VBG 
+[ access/NN ]
+to/TO 
+[ objects/NNS ]
+,/, 
+[ buildings/NNS ]
+and/CC 
+[ vistas/NNS ]
+that/IN 
+[ viewers/NNS ]
+might/MD otherwise/RB never/RB see/VB ./. 
+
+But/CC 
+[ problems/NNS ]
+do/VBP arise/VB when/WRB 
+[ the/DT series/NN ]
+reaches/VBZ 
+[ the/DT modern/JJ period/NN ]
+with/IN 
+[ its/PRP$ abstract/JJ ]
+,/, 
+[ difficult/JJ images/NNS ]
+and/CC 
+[ its/PRP$ reliance/NN ]
+on/IN 
+[ complex/JJ ideas/NNS ]
+./. 
+
+======================================
+
+Not/RB 
+[ that/DT film/NN ]
+is/VBZ 
+[ incapable/JJ ]
+of/IN conveying/VBG 
+[ any/DT ideas/NNS ]
+./. 
+
+In/IN 
+[ Program/NN Seven/CD ]
+,/, 
+[ an/DT art/NN historian/NN ]
+named/VBN 
+[ Griselda/NNP Pollack/NNP ]
+delivers/VBZ 
+[ a/DT feminist/JJ diatribe/NN ]
+./. 
+
+Standing/VBG 
+[ next/JJ ]
+to/TO 
+[ Gauguin/NNP 's/POS ]
+``/`` 
+[ Spirit/NN ]
+of/IN 
+[ the/DT Dead/NNS Watching/VBG ]
+,/, ''/'' 
+[ a/DT painting/NN ]
+of/IN 
+[ a/DT Tahitian/JJ girl/NN ]
+cowering/VBG on/IN 
+[ a/DT bed/NN ]
+guarded/VBN by/IN 
+[ a/DT black-robed/JJ spirit/NN ]
+,/, 
+[ Ms./NNP Pollack/NNP ]
+complains/VBZ ,/, ``/`` 
+[ The/DT power/NN ]
+that/IN 
+[ men/NNS ]
+enjoy/VBP makes/VBZ 
+[ women/NNS ]
+available/JJ for/IN 
+[ artistic/JJ experimentation/NN ]
+and/CC 
+[ colonization/NN ]
+./. 
+
+''/'' 
+======================================
+
+To/TO drive/VB 
+[ home/NN ]
+
+[ the/DT point/NN ]
+,/, 
+[ the/DT camera/NN ]
+cuts/VBZ between/IN 
+[ the/DT girl/NN 's/POS frightened/JJ face/NN ]
+and/CC 
+[ a/DT ]
+particularly/RB menacing/VBG 
+[ photograph/NN ]
+of/IN 
+[ Gauguin/NNP ]
+./. 
+
+Thus/RB ,/, 
+[ the/DT medium/NN ]
+of/IN 
+[ film/NN ]
+is/VBZ better/JJR at/IN 
+[ conveying/VBG crude/JJ ideas/NNS ]
+than/IN 
+[ subtle/JJ ones/NNS ]
+./. 
+
+[ Ms./NNP Pollack/NNP ]
+approaches/VBZ 
+[ ideological/JJ censorship/NN ]
+when/WRB 
+[ she/PRP ]
+implies/VBZ that/IN 
+[ the/DT aesthetic/JJ concerns/NNS ]
+of/IN 
+[ such/JJ artists/NNS ]
+as/IN 
+[ Gauguin/NNP ]
+,/, 
+[ Manet/NNP ]
+and/CC 
+[ Picasso/NNP ]
+were/VBD really/RB just/RB 
+[ a/DT cover/NN ]
+for/IN 
+[ their/PRP$ aggressive/JJ feelings/NNS ]
+toward/IN 
+[ the/DT female/JJ sex/NN ]
+./. 
+
+======================================
+
+Speaking/VBG of/IN 
+[ ideological/JJ censorship/NN ]
+,/, 
+[ Program/NN Eight/CD ]
+includes/VBZ 
+[ an/DT intriguing/JJ look/NN ]
+at/IN 
+[ the/DT tripe/NN ]
+preferred/VBD by/IN 
+[ that/DT renowned/JJ art/NN critic/NN ]
+,/, 
+[ Adolf/NNP Hitler/NNP ]
+./. 
+
+Less/RBR intriguing/JJ is/VBZ 
+[ the/DT dutiful/JJ way/NN ]
+
+[ this/DT segment/NN ]
+tramps/VBZ over/IN 
+[ the/DT well-trampled/JJ ground/NN ]
+of/IN 
+[ 20th-century/JJ ]
+``/`` 
+[ isms/NNS ]
+./. 
+
+''/'' And/CC for/IN 
+[ all/DT its/PRP$ ]
+groveling/VBG before/IN 
+[ feminism/NN ]
+,/, 
+[ the/DT show/NN ]
+proves/VBZ surprisingly/RB obtuse/JJ about/IN 
+[ African/JJ art/NN ]
+ (/( 
+[ which/WDT ]
+influenced/VBD 
+[ expressionism/NN ]
+and/CC 
+[ cubism/NN ]
+ )/) ./. 
+
+[ Christopher/NNP Green/NNP ]
+calls/VBZ 
+[ it/PRP ]
+``/`` 
+[ primitive/JJ ]
+''/'' and/CC ``/`` 
+[ savage/JJ ]
+''/'' in/IN 
+[ an/DT echo/NN ]
+of/IN 
+[ century-old/JJ prejudices/NNS ]
+./. 
+
+======================================
+
+[ Program/NN Nine/CD ]
+,/, 
+[ which/WDT ]
+tackles/VBZ 
+[ art/NN ]
+since/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, has/VBZ 
+[ an/DT even/RB worse/JJR time/NN ]
+conveying/VBG 
+[ the/DT ideas/NNS ]
+behind/IN 
+[ its/PRP$ subject/NN ]
+./. 
+
+Most/RBS disappointing/JJ is/VBZ 
+[ its/PRP$ failure/NN ]
+to/TO display/VB 
+[ any/DT self-awareness/NN ]
+as/IN 
+[ a/DT medium/NN ]
+--/: specifically/RB ,/, as/IN 
+[ a/DT TV/NN program/NN ]
+presuming/VBG to/TO deal/VB with/IN 
+[ the/DT plight/NN ]
+of/IN 
+[ art/NN ]
+in/IN 
+[ the/DT age/NN ]
+of/IN 
+[ TV/NN ]
+./. 
+
+Ever/RB since/IN 
+[ Pop/NNP Art/NNP ]
+appeared/VBD in/IN 
+[ the/DT 1960s/NNS ]
+,/, 
+[ the/DT ubiquitousness/NN ]
+of/IN 
+[ mass-media/NN images/NNS ]
+has/VBZ been/VBN 
+[ the/DT main/JJ preoccupation/NN ]
+of/IN 
+[ artists/NNS ]
+such/JJ as/IN 
+[ Andy/NNP Warhol/NNP ]
+,/, 
+[ whose/WP$ gimmick/NN ]
+ (/( or/CC 
+[ inspiration/NN ]
+,/, depending/VBG on/IN 
+[ your/PRP$ viewpoint/NN ]
+ )/) was/VBD to/TO stick/VB 
+[ those/DT images/NNS ]
+where/WRB 
+[ people/NNS least/JJS ]
+expected/VBN to/TO see/VB 
+[ them/PRP ]
+--/: in/IN 
+[ the/DT art/NN museum/NN ]
+./. 
+
+======================================
+
+[ The/DT joke/NN ]
+has/VBZ lost/VBN 
+[ its/PRP$ punch/NN ]
+,/, now/RB that/IN 
+[ the/DT scholarly/JJ study/NN ]
+of/IN 
+[ art/NN ]
+entails/VBZ pondering/VBG 
+[ such/JJ venerable/JJ masterpieces/NNS ]
+as/IN 
+[ Warhol/NNP 's/POS Brillo/NN pads/NNS ]
+./. 
+
+And/CC as/IN 
+[ Jesse/NNP Helms/NNP ]
+can/MD tell/VB 
+[ you/PRP ]
+,/, 
+[ there/EX ]
+is/VBZ n't/RB 
+[ an/DT image/NN ]
+under/IN 
+[ the/DT sun/NN ]
+that/IN 
+[ people/NNS ]
+do/VBP n't/RB expect/VB to/TO see/VB in/IN 
+[ the/DT art/NN museum/NN ]
+./. 
+
+By/IN now/RB 
+[ most/JJS people/NNS ]
+have/VBP heard/VBN 
+[ Warhol/NNP 's/POS observation/NN ]
+that/IN 
+[ the/DT effect/NN ]
+of/IN 
+[ his/PRP$ celebrity/NN ]
+was/VBD to/TO recycle/VB 
+[ the/DT images/NNS ]
+
+[ he/PRP ]
+originally/RB took/VBD from/IN 
+[ the/DT mass/JJ media/NNS ]
+back/RB into/IN 
+[ the/DT mass/JJ media/NNS ]
+./. 
+
+At/IN 
+[ the/DT very/RB least/JJS ]
+,/, ``/`` 
+[ Art/NN ]
+of/IN 
+[ the/DT Western/JJ World/NN ]
+''/'' ought/MD to/TO acknowledge/VB that/IN 
+[ it/PRP ]
+is/VBZ doing/VBG just/RB 
+[ that/DT ]
+./. 
+
+======================================
+
+But/CC 
+[ no/DT such/JJ luck/NN ]
+./. 
+
+Instead/RB ,/, 
+[ we/PRP ]
+get/VBP 
+[ Rosalind/NNP Krauss/NNP ]
+declaring/VBG ,/, in/IN 
+[ the/DT middle/NN ]
+of/IN 
+[ Times/NNP Square/NNP ]
+,/, ``/`` 
+[ The/DT media/NNS ]
+have/VBP created/VBN 
+[ a/DT world/NN ]
+of/IN 
+[ images/NNS ]
+
+[ that/WDT ]
+separates/VBZ 
+[ us/PRP ]
+from/IN 
+[ nature/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ Reality/NN ]
+has/VBZ become/VBN 
+[ a/DT TV/NN tube/NN ]
+./. 
+
+''/'' However/RB diverting/VBG 
+[ it/PRP ]
+is/VBZ to/TO hear/VB 
+[ such/JJ tidings/NNS ]
+from/IN 
+[ a/DT person/NN ]
+inside/IN 
+[ a/DT TV/NN tube/NN ]
+,/, 
+[ it/PRP ]
+'s/VBZ also/RB annoying/JJ ./. 
+
+[ I/PRP ]
+mean/VBP ,/, 
+[ who/WP ]
+is/VBZ 
+[ this/DT flickering/VBG image/NN ]
+to/TO tell/VB 
+[ me/PRP ]
+,/, in/IN 
+[ such/JJ a/DT deadly/JJ serious/JJ manner/NN ]
+,/, that/IN 
+[ my/PRP$ sense/NN ]
+of/IN 
+[ reality/NN ]
+is/VBZ screwed/VBN up/RB ?/. 
+
+[ It/PRP ]
+'s/VBZ too/RB bad/JJ that/IN ``/`` 
+[ Art/NN ]
+of/IN 
+[ the/DT Western/JJ World/NN ]
+''/'' loses/VBZ 
+[ its/PRP$ light/NN touch/NN ]
+just/RB when/WRB 
+[ it/PRP ]
+needs/VBZ 
+[ it/PRP ]
+
+[ the/DT most/JJS ]
+./. 

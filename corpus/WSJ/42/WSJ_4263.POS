@@ -1,0 +1,387 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Kyocera/NNP Corp./NNP ]
+agreed/VBD to/TO acquire/VB 
+[ AVX/NNP Corp./NNP ]
+for/IN 
+[ stock/NN ]
+valued/VBN at/IN 
+[ $/$ 31.98/CD ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ $/$ 561/CD million/CD ]
+,/, apparently/RB marking/VBG 
+[ the/DT first/JJ time/NN ]
+
+[ a/DT Japanese/JJ company/NN ]
+has/VBZ bought/VBN 
+[ a/DT U.S./NNP concern/NN ]
+entirely/RB for/IN 
+[ stock/NN ]
+./. 
+
+======================================
+
+[ Kazuo/NNP Inamori/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Kyocera/NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ ceramic/JJ packages/NNS ]
+for/IN 
+[ semiconductors/NNS ]
+,/, said/VBD in/IN 
+[ an/DT interview/NN ]
+that/IN 
+[ he/PRP ]
+wanted/VBD to/TO buy/VB 
+[ AVX/NNP ]
+for/IN 
+[ stock/NN ]
+partly/RB because/IN of/IN 
+[ trade/NN frictions/NNS ]
+between/IN 
+[ Japan/NNP ]
+and/CC 
+[ the/DT U.S/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ he/PRP ]
+wanted/VBD to/TO emphasize/VB that/IN 
+[ AVX/NNP ]
+,/, 
+[ a/DT maker/NN ]
+of/IN 
+[ electronic/JJ components/NNS ]
+,/, was/VBD 
+[ a/DT partner/NN ]
+
+[ that/WDT ]
+would/MD remain/VB 
+[ intact/JJ ]
+./. 
+
+======================================
+
+``/`` When/WRB 
+[ we/PRP ]
+buy/VBP with/IN 
+[ cash/NN ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ a/DT connotation/NN ]
+--/: certainly/RB in/IN 
+[ Japan/NNP ]
+and/CC maybe/RB in/IN 
+[ the/DT U.S./NNP ]
+,/, as/RB well/RB --/: that/IN 
+[ we/PRP ]
+bought/VBD 
+[ the/DT company/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ ours/JJ and/CC 
+[ we/PRP ]
+can/MD do/VB 
+[ anything/NN ]
+with/IN 
+[ it/PRP ]
+,/, ''/'' 
+[ Mr./NNP Inamori/NNP ]
+said/VBD through/IN 
+[ an/DT interpreter/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+certainly/RB is/VBZ not/RB 
+[ the/DT spirit/NN ]
+of/IN 
+[ this/DT arrangement/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ John/NNP O'Herron/NNP ]
+,/, 
+[ a/DT general/JJ partner/NN ]
+of/IN 
+[ Lazard/NNP Freres/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ which/WDT ]
+helped/VBD represent/VB 
+[ AVX/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+thought/VBD 
+[ this/DT ]
+could/MD lead/VB to/TO 
+[ similar/JJ acquisitions/NNS ]
+because/IN 
+[ it/PRP ]
+could/MD show/VB 
+[ Japanese/JJ companies/NNS ]
+how/WRB to/TO limit/VB 
+[ the/DT predatory/JJ image/NN ]
+
+[ they/PRP ]
+sometimes/RB have/VBP in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Inamori/NNP ]
+also/RB has/VBZ argued/VBN that/IN 
+[ Japanese/JJ companies/NNS ]
+need/VBP to/TO take/VB 
+[ the/DT initiative/NN ]
+in/IN buying/VBG 
+[ parts/NNS ]
+from/IN 
+[ U.S./NNP companies/NNS ]
+and/CC 
+[ moving/VBG manufacturing/NN ]
+to/TO 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ Mr./NNP Inamori/NNP ]
+said/VBD 
+[ he/PRP ]
+and/CC 
+[ AVX/NNP Chairman/NNP Marshall/NNP D./NNP Butler/NNP ]
+,/, 
+[ who/WP ]
+have/VBP known/VBN 
+[ each/DT other/JJ ]
+for/IN almost/RB 
+[ 30/CD years/NNS ]
+,/, initially/RB talked/VBD about/IN having/VBG 
+[ AVX/NNP ]
+make/VB 
+[ some/DT parts/NNS ]
+for/IN 
+[ Kyocera/NNP ]
+,/, especially/RB in/IN 
+[ Europe/NNP ]
+,/, where/WRB 
+[ Kyocera/NNP ]
+has/VBZ almost/RB 
+[ no/DT manufacturing/NN capacity/NN ]
+./. 
+
+[ Kyocera/NNP ]
+,/, based/VBN in/IN 
+[ Kyoto/NNP ]
+,/, generates/VBZ just/RB 
+[ $/$ 200/CD million/CD ]
+of/IN 
+[ its/PRP$ $/$ 2.5/CD billion/CD ]
+of/IN 
+[ annual/JJ sales/NNS ]
+in/IN 
+[ Europe/NNP ]
+./. 
+
+[ Kyocera/NNP ]
+wants/VBZ to/TO expand/VB there/RB before/IN 
+[ internal/JJ European/NNP Community/NNP trade/NN barriers/NNS ]
+come/VBP down/RB in/IN 
+[ 1992/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Inamori/NNP ]
+said/VBD 
+[ the/DT decision/NN ]
+to/TO purchase/VB 
+[ the/DT company/NN ]
+for/IN 
+[ stock/NN ]
+faced/VBN 
+[ some/DT obstacles/NNS ]
+,/, notably/RB that/IN 
+[ Japanese/JJ law/NN ]
+forbids/VBZ 
+[ subsidiaries/NNS ]
+from/IN 
+[ owning/VBG stock/NN ]
+in/IN 
+[ the/DT parent/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+said/VBD 
+[ he/PRP ]
+interceded/VBD with/IN 
+[ Japanese/JJ ministries/NNS ]
+and/CC won/VBD ``/`` 
+[ a/DT liberal/JJ interpretation/NN ]
+of/IN 
+[ the/DT rules/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Butler/NNP ]
+said/VBD 
+[ he/PRP ]
+agreed/VBD to/TO 
+[ the/DT purchase/NN ]
+because/IN 
+[ it/PRP ]
+would/MD give/VB 
+[ AVX/NNP access/NN ]
+to/TO 
+[ a/DT broad/JJ line/NN ]
+of/IN 
+[ parts/NNS ]
+that/IN 
+[ it/PRP ]
+could/MD sell/VB in/IN 
+[ Europe/NNP ]
+,/, where/WRB 
+[ AVX/NNP ]
+currently/RB generates/VBZ 
+[ 25/CD %/NN ]
+of/IN 
+[ its/PRP$ $/$ 408/CD million/CD ]
+of/IN 
+[ annual/JJ sales/NNS ]
+./. 
+
+[ Mr./NNP Butler/NNP ]
+also/RB cited/VBD 
+[ Kyocera/NNP 's/POS technology/NN ]
+;/: while/IN 
+[ AVX/NNP ]
+and/CC 
+[ Kyocera/NNP ]
+
+[ both/DT ]
+make/VBP 
+[ capacitors/NNS ]
+,/, 
+[ Kyocera/NNP ]
+also/RB makes/VBZ 
+[ a/DT broad/JJ line/NN ]
+of/IN 
+[ electronics/NNS ]
+,/, including/VBG 
+[ printer/NN heads/NNS ]
+,/, 
+[ liquid/NN crystal/NN displays/NNS ]
+and/CC 
+[ personal/JJ computers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ Mr./NNP Butler/NNP ]
+said/VBD 
+[ AVX/NNP 's/POS stock/NN ]
+was/VBD undervalued/VBN ./. 
+
+[ AVX/NNP stock/NN ]
+surged/VBD 
+[ $/$ 8/CD yesterday/NN ]
+to/TO close/VB at/IN 
+[ $/$ 29.625/CD ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+./. 
+
+======================================
+
+If/IN 
+[ the/DT necessary/JJ governmental/JJ approvals/NNS ]
+are/VBP received/VBN and/CC 
+[ a/DT majority/NN ]
+of/IN 
+[ AVX/NNP holders/NNS ]
+accept/VBP ,/, 
+[ each/DT share/NN ]
+of/IN 
+[ AVX/NNP ]
+will/MD be/VB exchanged/VBN for/IN 
+[ 0.39/CD Kyocera/NNP American/NNP depositary/NN receipts/NNS ]
+./. 
+
+[ The/DT ADRs/NNS ]
+,/, 
+[ each/DT ]
+of/IN 
+[ which/WDT ]
+represents/VBZ 
+[ two/CD shares/NNS ]
+of/IN 
+[ Kyocera/NNP common/JJ stock/NN ]
+,/, closed/VBD yesterday/NN at/IN 
+[ $/$ 80.625/CD ]
+in/IN 
+[ composite/JJ ]
+trading/NN on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+,/, up/IN 
+[ 12.5/CD cents/NNS ]
+./. 
+
+======================================
+
+[ The/DT number/NN ]
+of/IN 
+[ ADRs/NNS ]
+exchanged/VBN will/MD be/VB increased/VBN if/IN 
+[ their/PRP$ average/NN closing/NN price/NN ]
+remains/VBZ below/IN 
+[ $/$ 82/CD ]
+during/IN 
+[ the/DT 15/CD days/NNS ]
+beginning/VBG 
+[ a/DT month/NN ]
+before/IN 
+[ the/DT AVX/NNP shareholders/NNS ]
+vote/VBP on/IN 
+[ the/DT acquisition/NN ]
+,/, probably/RB in/IN 
+[ late/JJ December/NNP ]
+./. 

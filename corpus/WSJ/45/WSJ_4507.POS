@@ -1,0 +1,702 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Securities/NNS firms/NNS ]
+
+[ that/WDT ]
+underwrite/VBP 
+[ stock/NN offerings/NNS ]
+usually/RB find/VBP 
+[ something/NN ]
+kind/JJ to/TO say/VB about/IN 
+[ their/PRP$ corporate/JJ clients/NNS ]
+,/, and/CC 
+[ this/DT ]
+is/VBZ 
+[ the/DT case/NN ]
+with/IN 
+[ Smith/NNP 's/POS Food/NNP ]
+&/CC 
+[ Drug/NNP Centers/NNPS ]
+./. 
+
+======================================
+
+[ Smith/NNP 's/POS ]
+,/, 
+[ a/DT successful/JJ ]
+and/CC 
+[ fast-growing/JJ supermarket/NN chain/NN ]
+based/VBN in/IN 
+[ Salt/NNP Lake/NNP City/NNP ]
+,/, went/VBD 
+[ public/RB ]
+in/IN 
+[ June/NNP ]
+at/IN 
+[ 19/CD ]
+./. 
+
+[ The/DT shares/NNS ]
+have/VBP since/IN risen/VBN to/TO 
+[ 24/CD 1\/2/CD ]
+,/, 
+[ a/DT level/NN ]
+at/IN 
+[ which/WDT ]
+
+[ Rotan/NNP Mosle/NNP ]
+says/VBZ 
+[ Smith/NNP 's/POS shares/NNS ]
+are/VBP overvalued/VBN by/IN 
+[ 50/CD %/NN ]
+--/: and/CC well/RB 
+[ worth/JJ ]
+avoiding/VBG ./. 
+
+======================================
+
+[ Goldman/NNP Sachs/NNP ]
+,/, on/IN 
+[ the/DT other/JJ hand/NN ]
+,/, has/VBZ given/VBN 
+[ the/DT stock/NN ]
+
+[ a/DT plug/NN ]
+./. 
+
+[ Anything/NN ]
+less/JJR would/MD have/VB been/VBN impolitic/JJ ./. 
+
+[ Goldman/NNP ]
+was/VBD 
+[ the/DT underwriter/NN ]
+in/IN 
+[ Smith/NNP 's/POS initial/JJ public/JJ stock/NN offering/NN ]
+./. 
+
+======================================
+
+[ Gary/NNP Giblen/NNP ]
+,/, 
+[ Rotan/NNP 's/POS supermarket/NN analyst/NN ]
+,/, says/VBZ that/IN 
+[ Smith/NNP 's/POS stock/NN price/NN ]
+,/, about/IN 
+[ 21/CD times/NNS bullish/JJ estimates/NNS ]
+for/IN 
+[ 1989/CD earnings/NNS ]
+,/, is/VBZ trading/VBG at/IN 
+[ a/DT premium/NN ]
+to/TO 
+[ the/DT industry/NN 's/POS best/JJS ]
+ (/( and/CC proven/JJ )/) 
+[ chains/NNS ]
+and/CC that/IN 
+[ its/PRP$ multiple/NN ]
+assumes/VBZ 
+[ a/DT level/NN ]
+of/IN 
+[ earnings/NNS growth/NN Smith/NNP 's/POS ]
+has/VBZ yet/RB to/TO sustain/VB ./. 
+
+======================================
+
+[ Mr./NNP Giblen/NNP ]
+says/VBZ 
+[ Smith/NNP 's/POS ]
+is/VBZ about/IN to/TO run/VB into/IN 
+[ a/DT nasty/JJ surprise/NN ]
+
+[ that/WDT ]
+will/MD put/VB 
+[ a/DT damper/NN ]
+on/IN 
+[ its/PRP$ earnings/NNS ]
+./. 
+
+[ The/DT company/NN ]
+is/VBZ entering/VBG 
+[ Phoenix/NNP ]
+,/, 
+[ Ariz./NNP ]
+,/, 
+[ its/PRP$ biggest/JJS market/NN ]
+,/, on/IN 
+[ Nov./NNP 1/CD ]
+./. 
+
+[ It/PRP ]
+will/MD go/VB 
+[ head/RB ]
+to/TO 
+[ head/RB ]
+with/IN 
+[ Albertson/NNP 's/POS ]
+,/, 
+[ a/DT ]
+highly/RB regarded/JJ 
+[ chain/NN ]
+
+[ that/WDT ]
+is/VBZ moving/VBG in/RB on/IN 
+[ the/DT same/JJ date/NN ]
+./. 
+
+Within/IN 
+[ a/DT year/NN ]
+or/CC so/RB ,/, 
+[ Smith/NNP 's/POS plans/NNS ]
+on/IN having/VBG 
+[ eight/CD big/JJ stores/NNS ]
+
+[ there/RB ]
+and/CC 
+[ Albertson/NNP 's/POS plans/NNS ]
+on/IN 
+[ opening/NN nine/CD ]
+or/CC 
+[ 10/CD ]
+./. 
+
+======================================
+
+When/WRB 
+[ the/DT chains/NNS ]
+were/VBD making/VBG 
+[ their/PRP$ plans/NNS ]
+,/, 
+[ Phoenix/NNP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT fastest/RBS growing/VBG cities/NNS ]
+in/IN 
+[ the/DT country/NN ]
+./. 
+
+[ Its/PRP$ population/NN surge/NN ]
+,/, however/RB ,/, has/VBZ slowed/VBN ./. 
+
+And/CC according/VBG to/TO 
+[ a/DT survey/NN ]
+by/IN 
+[ Mr./NNP Giblen/NNP ]
+,/, 
+[ Phoenix/NNP ]
+has/VBZ 
+[ more/JJR supermarket/NN square/NN footage/NN ]
+per/IN 
+[ person/NN ]
+than/IN 
+[ any/DT other/JJ U.S./NNP metropolis/NN ]
+./. 
+
+[ He/PRP ]
+predicts/VBZ ``/`` 
+[ a/DT long/JJ ]
+,/, 
+[ bloody/JJ price/NN war/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Giblen/NNP ]
+says/VBZ 
+[ the/DT four/CD established/JJ chains/NNS ]
+in/IN 
+[ Phoenix/NNP ]
+are/VBP more/RBR modern/JJ and/CC tougher/JJR than/IN 
+[ the/DT stores/NNS ]
+in/IN 
+[ Smith/NNP 's/POS other/JJ markets/NNS ]
+./. 
+
+======================================
+
+[ Richard/NNP Barr/NNP ]
+,/, 
+[ a/DT Phoenix/NNP food/NN broker/NN ]
+,/, says/VBZ ``/`` 
+[ The/DT area/NN ]
+is/VBZ over-stored/JJ now/RB ./. 
+
+''/'' With/IN 
+[ the/DT new/JJ entrants/NNS ]
+,/, 
+[ he/PRP ]
+fears/VBZ ,/, ``/`` 
+[ it/PRP ]
+'s/VBZ going/VBG to/TO be/VB 
+[ a/DT bloodbath/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Giblen/NNP ]
+is/VBZ 
+[ the/DT first/JJ ]
+to/TO concede/VB that/IN 
+[ Smith/NNP 's/POS ]
+,/, 
+[ which/WDT ]
+operates/VBZ 
+[ 94/CD stores/NNS ]
+in/IN 
+[ eight/CD Western/JJ states/NNS ]
+,/, is/VBZ well/RB run/VBN and/CC 
+[ a/DT nice/JJ place/NN ]
+to/TO 
+[ shop/NN ]
+./. 
+
+[ Its/PRP$ large/JJ ]
+,/, 
+[ modern/JJ stores/NNS ]
+combining/VBG 
+[ groceries/NNS ]
+and/CC 
+[ drugs/NNS ]
+are/VBP full/JJ of/IN 
+[ wide/JJ aisles/NNS ]
+and/CC 
+[ beaming/VBG employees/NNS ]
+,/, 
+[ who/WP ]
+seemingly/RB make/VBP 
+[ it/PRP their/PRP$ goal/NN ]
+for/IN 
+[ customers/NNS ]
+to/TO breeze/VB through/IN 
+[ checkout/NN lines/NNS ]
+./. 
+
+======================================
+
+[ Sales/NNS ]
+have/VBP jumped/VBN 
+[ 21.8/CD %/NN ]
+
+[ a/DT year/NN ]
+since/IN 
+[ 1984/CD ]
+,/, 
+[ thanks/NNS ]
+to/TO 
+[ newer/JJR ]
+and/CC 
+[ bigger/JJR stores/NNS ]
+and/CC 
+[ higher/JJR sales/NNS ]
+per/IN 
+[ square/JJ foot/NN ]
+./. 
+
+[ The/DT company/NN ]
+strives/VBZ to/TO couple/VB 
+[ an/DT upbeat/JJ ambiance/NN ]
+with/IN 
+[ low/JJ prices/NNS ]
+./. 
+
+ (/( 
+[ Its/PRP$ slogan/NN ]
+:/: ``/`` When/WRB 
+[ Smith/NNP 's/POS ]
+comes/VBZ to/TO 
+[ town/NN ]
+,/, 
+[ prices/NNS ]
+go/VBP down/RB ''/'' )/) ./. 
+
+======================================
+
+While/IN 
+[ Smith/NNP 's/POS earnings/NNS ]
+have/VBP risen/VBN at/IN 
+[ a/DT compounded/JJ  rate/NN ]
+of/IN 
+[ 12/CD %/NN ]
+,/, 
+[ they/PRP ]
+have/VBP n't/RB climbed/VBN as/RB quickly/RB or/CC as/RB steadily/RB as/IN 
+[ its/PRP$ sales/NNS ]
+./. 
+
+[ Net/JJ profit/NN margins/NNS ]
+have/VBP slipped/VBN to/TO 
+[ 1.4/CD %/NN ]
+from/IN 
+[ 1.8/CD %/NN ]
+in/IN 
+[ 1984/CD ]
+./. 
+
+And/CC 
+[ Smith/NNP 's/POS return/NN ]
+on/IN 
+[ equity/NN ]
+,/, in/IN 
+[ the/DT low/JJ teens/NNS ]
+,/, is/VBZ well/RB behind/IN 
+[ the/DT industry/NN leaders/NNS '/POS ]
+./. 
+
+======================================
+
+[ Albertson/NNP 's/POS ]
+has/VBZ 
+[ higher/JJR net/JJ margins/NNS ]
+ (/( 
+[ 2.4/CD %/NN ]
+ )/) ,/, 
+[ higher/JJR return/NN ]
+on/IN 
+[ equity/NN ]
+ (/( 
+[ 22/CD %/NN ]
+ )/) and/CC 
+[ higher/JJR earnings/NNS growth/NN ]
+--/: well/RB above/IN 
+[ 20/CD %/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+--/: than/IN 
+[ Smith/NNP 's/POS ]
+./. 
+
+But/CC 
+[ Albertson/NNP 's/POS ]
+is/VBZ trading/VBG at/IN 
+[ a/DT lower/JJR multiple/NN ]
+ (/( 
+[ 18/CD ]
+ )/) of/IN 
+[ estimated/VBN earnings/NNS ]
+./. 
+
+======================================
+
+Even/RB 
+[ Stephen/NNP Mandel/NNP ]
+,/, 
+[ analyst/NN ]
+with/IN 
+[ Goldman/NNP Sachs/NNP ]
+,/, concedes/VBZ that/IN 
+[ Smith/NNP 's/POS stock/NN ]
+does/VBZ n't/RB appear/VB 
+[ a/DT bargain/NN ]
+./. 
+
+But/CC 
+[ it/PRP ]
+will/MD prove/VB to/TO have/VB been/VBN so/RB ,/, 
+[ he/PRP ]
+says/VBZ ,/, after/IN 
+[ its/PRP$ earnings/NNS ]
+explode/VBP at/IN 
+[ 25/CD %/NN ]
+per/IN 
+[ annum/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Mandel/NNP ]
+prophesies/VBZ 
+[ net/NN ]
+of/IN 
+[ $/$ 1.15/CD ]
+
+[ a/DT share/NN ]
+
+[ this/DT year/NN ]
+and/CC 
+[ $/$ 1.35/CD ]
+in/IN 
+[ 1990/CD ]
+and/CC ``/`` very/RB significant/JJ ''/'' 
+[ gains/NNS ]
+thereafter/RB ./. 
+
+[ His/PRP$ reason/NN ]
+,/, simply/RB ,/, is/VBZ that/IN 
+[ Smith/NNP 's/POS ]
+``/`` is/VBZ superb/JJ at/IN 
+[ the/DT supermarket/NN business/NN ]
+./. 
+
+''/'' (/( 
+[ It/PRP ]
+should/MD be/VB noted/VBN that/IN 
+[ Mr./NNP Mandel/NNP ]
+has/VBZ in/IN 
+[ the/DT past/NN ]
+declined/VBD to/TO recommend/VB 
+[ other/JJ stocks/NNS underwritten/VBN ]
+by/IN 
+[ Goldman/NNP ]
+./. 
+
+ )/) 
+======================================
+
+[ Robert/NNP Bolinder/NNP ]
+,/, 
+[ Smith/NNP 's/POS chief/JJ financial/JJ officer/NN ]
+,/, says/VBZ 
+[ Smith/NNP 's/POS profit/NN margins/NNS ]
+suffered/VBN from/IN 
+[ the/DT cost/NN ]
+of/IN remodeling/NN and/CC 
+[ opening/NN stores/NNS  ]
+./. 
+
+But/CC 
+[ such/JJ costs/NNS ]
+,/, relative/JJ to/TO 
+[ Smith/NNP 's/POS growing/VBG size/NN ]
+,/, will/MD shrink/VB ./. 
+
+[ Smith/NNP 's/POS aims/VBZ ]
+to/TO keep/VB on/RB adding/VBG about/IN 
+[ 14/CD new/JJ stores/NNS ]
+
+[ a/DT year/NN ]
+,/, but/CC 
+[ it/PRP ]
+will/MD benefit/VB from/IN 
+[ synergies/NNS ]
+and/CC 
+[ economies/NNS ]
+of/IN 
+[ scale/NN ]
+./. 
+
+[ Mr./NNP Bolinder/NNP ]
+thus/RB predicts/VBZ that/IN 
+[ sales/NNS ]
+,/, 
+[ margins/NNS ]
+and/CC 
+[ returns/NNS ]
+on/IN 
+[ equity/NN ]
+will/MD increase/VB ./. 
+
+======================================
+
+And/CC 
+[ Smith/NNP 's/POS debt/NN ]
+is/VBZ low/JJ enough/RB ,/, 
+[ analysts/NNS ]
+note/VBP ,/, to/TO cushion/VB 
+[ a/DT bit/NN ]
+of/IN bleeding/NN in/IN 
+[ Phoenix/NNP ]
+./. 
+
+[ Mr./NNP Bolinder/NNP ]
+says/VBZ 
+[ Smith/NNP 's/POS ]
+can/MD absorb/VB 
+[ two/CD years/NNS ]
+of/IN 
+[ losses/NNS ]
+there/RB and/CC still/RB keep/VB 
+[ pace/NN ]
+with/IN 
+[ Goldman/NNP 's/POS earnings/NNS estimates/NNS ]
+./. 
+
+[ He/PRP ]
+concedes/VBZ that/IN 
+[ population/NN growth/NN ]
+has/VBZ slowed/VBN ,/, but/CC adds/VBZ that/IN 
+[ Smith/NNP 's/POS stores/NNS ]
+are/VBP planned/VBN for/IN 
+[ well-populated/JJ areas/NNS ]
+and/CC wo/MD n't/RB depend/VB on/IN 
+[ growth/NN ]
+./. 
+
+Asked/VBD whether/IN 
+[ the/DT city/NN ]
+is/VBZ overstored/JJ ,/, 
+[ he/PRP ]
+says/VBZ ``/`` 
+[ they/PRP ]
+said/VBD that/IN about/IN 
+[ Tucson/NNP ]
+./. 
+
+''/'' 
+[ Smith/NNP 's/POS ]
+entered/VBN 
+[ that/DT city/NN ]
+in/IN 
+[ 1987/CD ]
+and/CC turned/VBD 
+[ profitable/JJ ]
+there/RB in/IN 
+[ less/JJR ]
+than/IN 
+[ a/DT year/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP plenty/NN of/IN 
+[ stores/NNS ]
+in/IN 
+[ Phoenix/NNP ]
+,/, but/CC 
+[ they/PRP ]
+are/VBP 
+[ the/DT wrong/JJ kind/NN ]
+of/IN 
+[ stores/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ Mr./NNP Bolinder/NNP ]
+,/, 
+[ a/DT former/JJ vice/NN chairman/NN ]
+at/IN 
+[ Albertson/NNP 's/POS ]
+,/, says/VBZ ``/`` 
+[ the/DT market/NN ]
+is/VBZ ripe/JJ ''/'' and/CC can/MD accommodate/VB 
+[ both/DT ]
+
+[ chains/NNS ]
+./. 
+
+[ Mike/NNP Reuling/NNP ]
+,/, 
+[ executive/NN vice/NN president/NN ]
+of/IN 
+[ store/NN development/NN ]
+at/IN 
+[ Albertson/NNP 's/POS ]
+,/, is/VBZ 
+[ a/DT bit/RB ]
+less/RBR generous/JJ ./. 
+
+[ He/PRP ]
+says/VBZ ``/`` 
+[ we/PRP ]
+intend/VBP 
+[ there/EX ]
+to/TO be/VB 
+[ room/NN ]
+for/IN 
+[ us/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ Smith/NNP 's/POS Food/NNP ]
+&/CC 
+[ Drug/NNP Centers/NNPS ]
+
+======================================
+
+ (/( 
+[ NYSE/NNP ]
+;/: 
+[ Symbol/NN ]
+:/: 
+[ SFD/NNP ]
+ )/) 
+======================================
+
+[ Business/NN ]
+:/: 
+[ Food/NN ]
+and/CC 
+[ drug/NN supermarket/NN chain/NN ]
+
+======================================
+
+[ Year/NN ]
+ended/VBN 
+[ Dec./NNP 31/CD ]
+,/, 
+[ 1988/CD ]
+:/: 
+======================================
+
+[ Sales/NNS ]
+:/: 
+[ $/$ 1.39/CD billion/CD ]
+
+======================================
+
+[ Net/JJ income/NN ]
+:/: 
+[ $/$ 17.7/CD million/CD ]
+;/: 
+[ 91/CD cents/NNS ]
+
+[ a/DT share/NN ]
+ 
+[ \*/NN ]
+
+======================================
+
+[ Second/JJ quarter/NN ]
+,/, 
+[ July/NNP 1/CD ]
+,/, 
+[ 1989/CD ]
+:/: 
+======================================
+
+[ Per-share/JJ earnings/NNS ]
+:/: 
+[ 30/CD cents/NNS vs./FW 24/CD cents/NNS ]
+
+======================================
+
+[ Average/JJ daily/JJ trading/NN volume/NN ]
+:/: 
+[ 59,217/CD shares/NNS ]
+
+======================================
+
+[ Common/JJ shares/NNS ]
+outstanding/JJ :/: 
+[ 25.3/CD million/CD ]
+
+======================================
+ 
+[ \*/SYM Company/NN ]
+completed/VBD 
+[ a/DT public/JJ offering/NN ]
+of/IN 
+[ 5,975,000/CD new/JJ shares/NNS ]
+and/CC 
+[ 1.5/CD million/CD existing/VBG shares/NNS ]
+on/IN 
+[ June/NNP 21/CD ]
+,/, 
+[ 1989/CD ]
+./. 

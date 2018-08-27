@@ -1,0 +1,132 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Magma/NNP Copper/NNP Co./NNP ]
+said/VBD 
+[ it/PRP ]
+assigned/VBD to/TO 
+[ Canyon/NNP Resources/NNPS Corp/NNP ]
+./. 
+
+[ Magma/NNP 's/POS option/NN ]
+to/TO buy/VB 
+[ Addwest/NNP Gold/NNP Inc./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Addington/NNP Resources/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+[ Canyon/NNP ]
+said/VBD 
+[ it/PRP ]
+exercised/VBD 
+[ the/DT option/NN ]
+and/CC expects/VBZ to/TO complete/VB 
+[ the/DT purchase/NN ]
+by/IN 
+[ Dec./NNP 31/CD ]
+,/, subject/JJ to/TO financing/VBG for/IN 
+[ the/DT $/$ 33/CD million/CD transaction/NN ]
+./. 
+
+======================================
+
+[ Magma/NNP Copper/NNP ]
+said/VBD 
+[ the/DT agreement/NN ]
+calls/VBZ for/IN 
+[ it/PRP ]
+to/TO receive/VB from/IN 
+[ Canyon/NNP ]
+
+[ the/DT $/$ 500,000/CD it/PRP ]
+paid/VBD for/IN 
+[ the/DT option/NN ]
+in/IN 
+[ August/NNP ]
+plus/CC about/IN 
+[ $/$ 250,000/CD ]
+in/IN 
+[ related/VBN expenses/NNS ]
+./. 
+
+======================================
+
+[ Addwest/NNP Gold/NNP ]
+holds/VBZ 
+[ a/DT 60/CD %/NN interest/NN ]
+in/IN 
+[ the/DT Kendall/NNP gold/NN mine/NN ]
+in/IN 
+[ Montana/NNP ]
+as/RB well/RB as/IN 
+[ various/JJ properties/NNS ]
+in/IN 
+[ that/DT state/NN ]
+and/CC in/IN 
+[ California/NNP ]
+./. 
+
+======================================
+
+[ Magma/NNP ]
+,/, based/VBN in/IN 
+[ San/NNP Manuel/NNP ]
+,/, 
+[ Ariz./NNP ]
+;/: 
+[ Addington/NNP Resources/NNPS ]
+,/, 
+[ Ashland/NNP ]
+,/, 
+[ Ky./NNP ]
+;/: and/CC 
+[ Canyon/NNP ]
+,/, 
+[ Golden/NNP ]
+,/, 
+[ Colo./NNP ]
+,/, are/VBP 
+[ all/DT mining/VBG companies/NNS ]
+./. 
+
+[ Magma/NNP 's/POS stock/NN ]
+fell/VBD 
+[ 12.5/CD cents/NNS Friday/NNP ]
+to/TO close/VB at/IN 
+[ $/$ 6.50/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+[ American/NNP Stock/NNP Exchange/NNP composite/JJ ]
+trading/NN ./. 
+
+======================================
+
+[ Addington/NNP ]
+rose/VBD 
+[ 50/CD cents/NNS ]
+to/TO 
+[ $/$ 20.75/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+[ national/JJ over-the-counter/JJ ]
+trading/NN ./. 

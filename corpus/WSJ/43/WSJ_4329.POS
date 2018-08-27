@@ -1,0 +1,96 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ UnionFed/NNP Financial/NNP Corp./NNP ]
+and/CC 
+[ its/PRP$ Union/NNP Federal/NNP Savings/NNP Bank/NNP subsidiary/NN ]
+said/VBD 
+[ they/PRP ]
+will/MD redeem/VB on/IN 
+[ Oct./NNP 13/CD ]
+
+[ all/DT ]
+of/IN 
+[ their/PRP$ 7/CD 1\/4/CD %/NN convertible/JJ subordinated/VBN debentures/NNS due/JJ 2001/CD ]
+./. 
+
+======================================
+
+As/IN of/IN 
+[ Wednesday/NNP ]
+,/, 
+[ $/$ 15.7/CD million/CD ]
+of/IN 
+[ the/DT debentures/NNS ]
+had/VBD been/VBN converted/VBN into/IN 
+[ common/JJ stock/NN ]
+of/IN 
+[ the/DT parent/NN ]
+,/, leaving/VBG 
+[ $/$ 24.6/CD million/CD ]
+of/IN 
+[ the/DT debt/NN issue/NN ]
+outstanding/JJ ./. 
+
+[ Debenture/NN holders/NNS ]
+may/MD convert/VB 
+[ their/PRP$ debentures/NNS ]
+until/IN 
+[ 5/CD p.m./NN PDT/NNP ]
+,/, 
+[ Oct./NNP 10/CD ]
+,/, into/IN 
+[ common/JJ stock/NN ]
+at/IN 
+[ a/DT conversion/NN price/NN ]
+of/IN 
+[ $/$ 16.67/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ equal/JJ to/TO 
+[ 59.99/CD shares/NNS ]
+for/IN 
+[ each/DT $/$ 1,000/CD principal/JJ amount/NN ]
+of/IN 
+[ debentures/NNS ]
+./. 
+
+======================================
+
+UnionFed/NNP said/VBD 
+[ Montgomery/NNP Securities/NNP ]
+has/VBZ agreed/VBN ,/, subject/JJ to/TO 
+[ certain/JJ conditions/NNS ]
+,/, to/TO buy/VB 
+[ any/DT debentures/NNS ]
+tendered/VBN for/IN 
+[ redemption/NN ]
+or/CC not/RB surrendered/VBD for/IN 
+[ redemption/NN ]
+or/CC 
+[ conversion/NN ]
+prior/RB to/TO 
+[ the/DT close/NN ]
+of/IN 
+[ business/NN Oct./NNP 10/CD ]
+,/, and/CC to/TO convert/VB 
+[ those/DT debentures/NNS ]
+into/IN 
+[ common/JJ stock/NN ]
+./. 

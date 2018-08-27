@@ -1,0 +1,522 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Consuming/VBG 
+[ a/DT lot/NN ]
+of/IN 
+[ calcium/NN ]
+may/MD not/RB prevent/VB 
+[ hip/NN fractures/NNS ]
+in/IN 
+[ older/JJR people/NNS ]
+,/, 
+[ a/DT British/JJ study/NN ]
+concluded/VBD ./. 
+
+======================================
+
+[ The/DT report/NN ]
+,/, in/IN 
+[ this/DT week/NN 's/POS British/NNP Medical/NNP Journal/NNP ]
+,/, found/VBD 
+[ physical/JJ activity/NN ]
+offers/VBZ 
+[ greater/JJR protection/NN ]
+than/IN 
+[ dietary/JJ calcium/NN ]
+./. 
+
+[ The/DT finding/NN ]
+will/MD 
+[ reignite/VB ]
+
+[ a/DT protracted/JJ controversy/NN ]
+over/IN whether/IN increased/VBN 
+[ calcium/NN intake/NN helps/VBZ ]
+avoid/VB 
+[ osteoporosis/NN ]
+./. 
+
+[ The/DT bone-loss/NN disease/NN ]
+is/VBZ 
+[ a/DT leading/VBG cause/NN ]
+of/IN 
+[ hip/NN fractures/NNS ]
+in/IN 
+[ the/DT elderly/JJ ]
+,/, especially/RB for/IN 
+[ women/NNS ]
+./. 
+
+======================================
+
+[ Hip/NN fractures/NNS ]
+in/IN 
+[ the/DT elderly/JJ cost/VBP ]
+
+[ the/DT U.S./NNP ]
+more/JJR than/IN 
+[ $/$ 6/CD billion/CD ]
+
+[ a/DT year/NN ]
+and/CC cost/VBP 
+[ Britain/NNP ]
+
+[ an/DT estimated/VBN #/# 300/CD million/CD ]
+ (/( 
+[ $/$ 480.5/CD million/CD ]
+ )/) 
+[ a/DT year/NN ]
+./. 
+
+[ Sales/NNS ]
+of/IN 
+[ calcium/NN supplements/NNS ]
+have/VBP surged/VBN and/CC sagged/VBN since/IN 
+[ 1984/CD ]
+amid/IN 
+[ a/DT welter/NN ]
+of/IN 
+[ conflicting/VBG evidence/NN ]
+about/IN 
+[ the/DT health/NN benefits/NNS ]
+of/IN gulping/VBG 
+[ extra/JJ calcium/NN ]
+./. 
+
+======================================
+
+[ The/DT investigation/NN ]
+of/IN 
+[ 1,419/CD British/JJ men/NNS ]
+and/CC 
+[ women/NNS ]
+showed/VBD ``/`` 
+[ no/DT evidence/NN ]
+that/IN 
+[ the/DT risk/NN ]
+of/IN 
+[ fracture/NN ]
+increased/VBN with/IN declining/VBG 
+[ dietary/JJ calcium/NN ]
+,/, ''/'' concluded/VBD 
+[ a/DT team/NN ]
+of/IN 
+[ epidemiologists/NNS ]
+at/IN 
+[ England/NNP 's/POS Southampton/NNP General/NNP Hospital/NNP ]
+./. 
+
+[ The/DT result/NN ]
+seems/VBZ to/TO contradict/VB 
+[ a/DT major/JJ U.S./NNP study/NN ]
+reported/VBD 
+[ last/JJ November/NNP ]
+./. 
+
+In/IN tracking/VBG 
+[ 957/CD men/NNS ]
+and/CC 
+[ women/NNS ]
+aged/VBN 
+[ 50/CD ]
+to/TO 
+[ 79/CD ]
+for/IN 
+[ 14/CD years/NNS ]
+,/, 
+[ California/NNP scientists/NNS ]
+found/VBD 
+[ those/DT ]
+
+[ who/WP ]
+later/RB broke/VBD 
+[ their/PRP$ hips/NNS ]
+had/VBD consumed/VBN 
+[ less/JJR calcium/NN ]
+than/IN 
+[ those/DT ]
+
+[ who/WP ]
+did/VBD n't/RB ./. 
+
+[ The/DT study/NN ]
+boosted/VBD sagging/VBG 
+[ U.S./NNP sales/NNS ]
+of/IN 
+[ calcium/NN supplements/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT California/NNP research/NN ]
+was/VBD flawed/VBN ,/, 
+[ the/DT British/NNP Medical/NNP Journal/NNP authors/NNS ]
+argued/VBD ./. 
+
+With/IN 
+[ the/DT latest/JJS report/NN ]
+,/, 
+[ doctors/NNS ]
+now/RB may/MD downplay/VB 
+[ the/DT importance/NN ]
+of/IN 
+[ calcium/NN ]
+for/IN 
+[ older/JJR individuals/NNS ]
+while/IN seeking/VBG 
+[ greater/JJR calcium/NN consumption/NN ]
+among/IN 
+[ women/NNS ]
+in/IN 
+[ their/PRP$ 20s/NNS ]
+and/CC 
+[ 30s/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT critical/JJ consumption/NN ]
+of/IN 
+[ calcium/NN ]
+,/, especially/RB in/IN 
+[ women/NNS ]
+,/, is/VBZ in/IN 
+[ the/DT younger/JJR age/NN groups/NNS ]
+before/IN 
+[ menopause/NN ]
+,/, ''/'' said/VBD 
+[ Kurt/NNP Isselbacher/NNP ]
+,/, 
+[ professor/NN ]
+of/IN 
+[ medicine/NN ]
+at/IN 
+[ Harvard/NNP University/NNP Medical/NNP School/NNP ]
+./. 
+
+[ Calcium/NN supplement/NN makers/NNS ]
+incorrectly/RB have/VBP promoted/VBN 
+[ their/PRP$ products/NNS ]
+for/IN 
+[ all/DT age/NN groups/NNS ]
+,/, 
+[ he/PRP ]
+added/VBD ,/, citing/VBG 
+[ the/DT new/JJ British/JJ study/NN ]
+./. 
+
+``/`` To/TO give/VB {/( 
+[ calcium/NN ]
+ }/) to/TO 
+[ you/PRP ]
+at/IN 
+[ age/NN 50/CD ]
+is/VBZ really/RB missing/VBG 
+[ the/DT boat/NN ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ a/DT bit/NN ]
+late/RB ./. 
+
+''/'' 
+======================================
+
+[ Dr./NNP Isselbacher/NNP ]
+is/VBZ vice/NN 
+[ chairman/NN ]
+of/IN 
+[ the/DT U.S./NNP National/NNP Academy/NNP ]
+of/IN 
+[ Science/NNP 's/POS Food/NNP ]
+and/CC 
+[ Nutrition/NNP Board/NNP ]
+,/, 
+[ which/WDT ]
+sets/VBZ recommended/JJ 
+[ daily/JJ allowances/NNS ]
+for/IN 
+[ nutrients/NNS ]
+./. 
+
+On/IN 
+[ Oct./NNP 24/CD ]
+,/, 
+[ the/DT board/NN ]
+will/MD announce/VB 
+[ a/DT revision/NN ]
+in/IN 
+[ its/PRP$ ]
+recommended/JJ 
+[ daily/JJ allowance/NN ]
+of/IN 
+[ 800/CD milligrams/NNS ]
+of/IN 
+[ calcium/NN ]
+for/IN 
+[ adults/NNS ]
+./. 
+
+[ Dr./NNP Isselbacher/NNP ]
+indicated/VBD 
+[ the/DT board/NN ]
+will/MD urge/VB 
+[ a/DT higher/JJR intake/NN ]
+for/IN 
+[ younger/JJR women/NNS ]
+./. 
+
+======================================
+
+[ Some/DT endocrinologists/NNS ]
+have/VBP advocated/VBN raising/VBG 
+[ the/DT overall/JJ recommended/JJ allowance/NN ]
+to/TO 
+[ 1,000/CD milligrams/NNS ]
+
+[ a/DT day/NN ]
+--/: 
+[ the/DT equivalent/NN ]
+of/IN 
+[ three/CD daily/JJ helpings/NNS ]
+of/IN 
+[ dairy/NN products/NNS ]
+,/, 
+[ the/DT main/JJ dietary/JJ source/NN ]
+of/IN 
+[ calcium/NN ]
+./. 
+
+[ The/DT calcium/NN fad/NN ]
+began/VBD in/IN 
+[ 1984/CD ]
+after/IN 
+[ a/DT U.S./NNP National/NNP Institutes/NNPS ]
+of/IN 
+[ Health/NNP report/NN ]
+urged/VBD 
+[ women/NNS ]
+to/TO consume/VB between/IN 
+[ 1,000/CD milligrams/NNS ]
+and/CC 
+[ 1,500/CD milligrams/NNS ]
+
+[ a/DT day/NN ]
+./. 
+
+[ Women/NNS ]
+are/VBP more/RBR prone/JJ to/TO develop/VB 
+[ osteoporosis/NN ]
+because/IN after/IN 
+[ menopause/NN ]
+,/, 
+[ the/DT loss/NN ]
+of/IN 
+[ natural/JJ estrogen/NN hormones/NNS ]
+seems/VBZ to/TO speed/VB 
+[ the/DT loss/NN ]
+of/IN 
+[ bone/NN mass/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ the/DT British/JJ study/NN ]
+,/, 
+[ investigators/NNS ]
+tracked/VBD 
+[ 1,419/CD men/NNS ]
+and/CC 
+[ women/NNS 15/CD years/NNS ]
+after/IN 
+[ a/DT 1973-74/CD initial/JJ screening/NN ]
+in/IN 
+[ which/WDT ]
+
+[ they/PRP ]
+were/VBD asked/VBN about/IN 
+[ their/PRP$ outdoor/JJ activities/NNS ]
+and/CC 
+[ they/PRP ]
+kept/VBN 
+[ dietary/JJ records/NNS ]
+for/IN 
+[ seven/CD days/NNS ]
+./. 
+
+======================================
+
+[ Forty-four/CD participants/NNS ]
+subsequently/RB fractured/VBD 
+[ their/PRP$ hips/NNS ]
+./. 
+
+[ Calcium/NN intake/NN ]
+did/VBD n't/RB 
+[ influence/VB their/PRP$ chances/NNS ]
+of/IN 
+[ suffering/VBG hip/NN fractures/NNS ]
+,/, even/RB after/IN excluding/VBG 
+[ other/JJ possible/JJ explanations/NNS ]
+such/JJ as/IN smoking/NN and/CC 
+[ weight/NN ]
+,/, according/VBG to/TO 
+[ the/DT report/NN ]
+./. 
+
+But/CC 
+[ the/DT least/RBS active/JJ patients/NNS ]
+,/, especially/RB 
+[ housebound/JJ ones/NNS ]
+,/, ran/VBD as/RB much/RB as/IN 
+[ a/DT five/CD times/NNS greater/JJR risk/NN ]
+of/IN breaking/VBG 
+[ their/PRP$ hips/NNS ]
+./. 
+
+======================================
+
+[ Older/JJR Britons/NNPS ]
+consume/VBP 
+[ more/JJR calcium/NN ]
+than/IN 
+[ Americans/NNPS ]
+--/: 
+[ which/WDT ]
+may/MD explain/VB 
+[ the/DT disparity/NN ]
+between/IN 
+[ the/DT U.K./NNP ]
+and/CC 
+[ U.S./NNP studies/NNS ]
+,/, suggested/VBD 
+[ Cyrus/NNP Cooper/NNP ]
+,/, 
+[ a/DT Southampton/NNP General/NNP Hospital/NNP epidemiologist/NN ]
+
+[ who/WP ]
+was/VBD 
+[ one/CD ]
+of/IN 
+[ the/DT report/NN 's/POS six/CD authors/NNS ]
+./. 
+
+Among/IN 
+[ the/DT hip/NN fracture/NN patients/NNS ]
+,/, 
+[ men/NNS 's/POS average/JJ calcium/NN intake/NN ]
+was/VBD 
+[ 870/CD milligrams/NNS ]
+
+[ a/DT day/NN ]
+,/, while/IN 
+[ women/NNS ]
+consumed/VBD 
+[ an/DT average/NN ]
+of/IN 
+[ 730/CD milligrams/NNS ]
+
+[ a/DT day/NN ]
+--/: more/JJR than/IN twice/RB 
+[ the/DT levels/NNS ]
+seen/VBN in/IN 
+[ the/DT California/NNP study/NN ]
+./. 
+
+======================================
+
+``/`` Until/IN 
+[ you/PRP ]
+get/VBP to/TO 
+[ a/DT very/RB low/JJ level/NN ]
+of/IN 
+[ calcium/NN ]
+,/, 
+[ you/PRP ]
+do/VBP n't/RB have/VB to/TO worry/VB ''/'' about/IN 
+[ the/DT need/NN ]
+for/IN 
+[ calcium/NN supplements/NNS ]
+,/, 
+[ Dr./NNP Cooper/NNP ]
+said/VBD ./. 
+
+``/`` If/IN {/( 
+[ the/DT elderly/JJ ]
+ }/) have/VBP 
+[ two/CD dairy/NN ]
+portions/NNS 
+[ a/DT day/NN ]
+,/, 
+[ they/PRP ]
+do/VBP n't/RB need/VB to/TO pop/VB 
+[ calcium/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC on/IN 
+[ average/NN ]
+,/, 
+[ Americans/NNPS ]
+aged/VBD 
+[ 65/CD ]
+to/TO 
+[ 74/CD ]
+consume/VBP only/RB slightly/RB 
+[ less/JJR calcium/NN ]
+
+[ a/DT day/NN ]
+than/IN 
+[ their/PRP$ British/JJ cousins/NNS ]
+--/: 
+[ 698/CD milligrams/NNS ]
+for/IN 
+[ men/NNS ]
+and/CC 
+[ 542/CD milligrams/NNS ]
+for/IN 
+[ women/NNS ]
+,/, according/VBG to/TO 
+[ the/DT U.S./NNP Food/NNP ]
+and/CC 
+[ Nutrition/NNP Board/NNP ]
+./. 
+
+So/RB ,/, 
+[ Dr./NNP Isselbacher/NNP ]
+suggested/VBD ,/, ``/`` 
+[ I/PRP ]
+doubt/VBP {/( 
+[ the/DT new/JJ report/NN ]
+ }/) will/MD end/VB 
+[ the/DT debate/NN ]
+''/'' over/IN 
+[ calcium/NN ]
+./. 

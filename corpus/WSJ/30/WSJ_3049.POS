@@ -1,0 +1,658 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ All/DT three/CD major/JJ U.S./NNP auto/NN makers/NNS ]
+may/MD report/VB 
+[ losses/NNS ]
+for/IN 
+[ the/DT third/JJ quarter/NN ]
+on/IN 
+[ their/PRP$ core/NN North/JJ American/JJ automotive/JJ businesses/NNS ]
+./. 
+
+[ It/PRP ]
+would/MD be/VB 
+[ the/DT first/JJ time/NN ]
+
+[ this/DT ]
+has/VBZ happened/VBN since/IN 
+[ the/DT recession/NN year/NN ]
+of/IN 
+[ 1982/CD ]
+./. 
+
+======================================
+
+[ General/NNP Motors/NNP Corp./NNP ]
+,/, 
+[ Ford/NNP Motor/NNP Co./NNP ]
+and/CC 
+[ Chrysler/NNP Corp./NNP ]
+are/VBP likely/JJ to/TO post/VB 
+[ net/JJ income/NN ]
+for/IN 
+[ the/DT period/NN thanks/NNS ]
+to/TO 
+[ earnings/NNS ]
+from/IN 
+[ diversified/JJ businesses/NNS ]
+,/, notably/RB 
+[ financial/JJ services/NNS ]
+,/, and/CC from/IN 
+[ international/JJ operations/NNS ]
+./. 
+
+But/CC because/IN 
+[ their/PRP$ core/NN businesses/NNS ]
+appear/VBP to/TO have/VB run/VBN in/IN 
+[ the/DT red/JJ ]
+,/, 
+[ several/JJ analysts/NNS ]
+say/VBP ,/, 
+[ third-quarter/JJ net/JJ ]
+for/IN 
+[ the/DT Big/NNP Three/CD ]
+as/IN 
+[ a/DT group/NN ]
+could/MD have/VB dropped/VBN as/RB much/RB as/IN 
+[ 50/CD %/NN ]
+from/IN 
+[ last/JJ year/NN ]
+'s/POS unusually/RB 
+[ strong/JJ $/$ 1.83/CD billion/CD ]
+./. 
+
+======================================
+
+[ The/DT third/JJ quarter/NN ]
+is/VBZ traditionally/RB 
+[ the/DT weakest/JJS ]
+for/IN 
+[ auto/NN makers/NNS ]
+,/, because/IN 
+[ factories/NNS ]
+take/VBP 
+[ time/NN ]
+off/JJ for/IN 
+[ maintenance/NN ]
+and/CC to/TO install/VB 
+[ machinery/NN ]
+to/TO manufacture/VB 
+[ new/JJ models/NNS ]
+./. 
+
+Nonetheless/RB ,/, 
+[ the/DT plunge/NN ]
+in/IN 
+[ profits/NNS ]
+markedly/RB illustrates/VBZ 
+[ Detroit/NNP 's/POS vulnerability/NN ]
+to/TO 
+[ industrywide/JJ excess/JJ production/NN capacity/NN ]
+./. 
+
+[ Japanese/JJ auto/NN makers/NNS ]
+are/VBP rapidly/RB expanding/VBG 
+[ their/PRP$ manufacturing/NN base/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, in/IN 
+[ response/NN ]
+to/TO 
+[ the/DT import-restricting/JJ measures/NNS ]
+that/IN 
+[ Detroit/NNP ]
+helped/VBD put/VB in/IN 
+[ place/NN ]
+earlier/RBR in/IN 
+[ the/DT decade/NN ]
+./. 
+
+======================================
+
+[ The/DT most/RBS striking/JJ part/NN ]
+of/IN 
+[ the/DT third-quarter/JJ earnings/NN picture/NN ]
+is/VBZ 
+[ the/DT prospect/NN ]
+that/IN 
+[ Ford/NNP ]
+may/MD have/VB had/VBD 
+[ a/DT loss/NN ]
+on/IN 
+[ North/JJ American/JJ auto/NN operations/NNS ]
+./. 
+
+[ The/DT last/JJ time/NN ]
+
+[ the/DT No./NN 2/CD U.S./NNP auto/NN maker/NN ]
+did/VBD 
+[ that/DT ]
+was/VBD in/IN 
+[ the/DT fourth/JJ quarter/NN ]
+of/IN 
+[ 1982/CD ]
+./. 
+
+On/IN 
+[ Wall/NNP Street/NNP ]
+,/, 
+[ Ford/NNP ]
+is/VBZ regarded/VBN as/IN 
+[ the/DT U.S./NNP auto/NN maker/NN ]
+best/RB prepared/VBN to/TO weather/VB 
+[ hard/JJ times/NNS ]
+in/IN 
+[ the/DT domestic/JJ market/NN ]
+./. 
+
+======================================
+
+But/CC now/RB ,/, 
+[ several/JJ analysts/NNS ]
+say/VBP that/IN 
+[ Ford/NNP 's/POS North/JJ American/JJ business/NN ]
+had/VBD 
+[ a/DT loss/NN ]
+or/CC broke/VBD even/RB during/IN 
+[ the/DT third/JJ quarter/NN ]
+./. 
+
+[ Analyst/NNP David/NNP Healy/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT most/RBS bearish/JJ industry/NN observers/NNS ]
+,/, 
+[ estimates/VBZ Ford/NNP ]
+had/VBD 
+[ a/DT deficit/NN ]
+of/IN as/RB much/JJ as/IN 
+[ $/$ 104/CD million/CD ]
+on/IN 
+[ North/JJ American/JJ auto/NN operations/NNS ]
+./. 
+
+Besides/IN being/VBG burdened/VBN with/IN 
+[ heavy/JJ sales-incentive/JJ costs/NNS ]
+,/, 
+[ Ford/NNP ]
+was/VBD forced/VBN by/IN 
+[ slow/JJ sales/NNS ]
+to/TO cut/VB 
+[ production/NN ]
+at/IN 
+[ several/JJ ]
+of/IN 
+[ its/PRP$ most/RBS profitable/JJ factories/NNS ]
+./. 
+
+[ Those/DT ]
+include/VBP 
+[ the/DT plants/NNS ]
+
+[ that/WDT ]
+build/VBP 
+[ the/DT midsized/VBN Mercury/NNP Sable/NNP ]
+and/CC 
+[ Ford/NNP Taurus/NNP models/NNS ]
+as/RB well/RB as/IN 
+[ light/JJ trucks/NNS ]
+./. 
+
+======================================
+
+[ Some/DT analysts/NNS ]
+believe/VBP 
+[ Ford/NNP ]
+did/VBD manage/VB 
+[ a/DT profit/NN ]
+on/IN 
+[ its/PRP$ North/JJ American/JJ auto/NN business/NN ]
+,/, but/CC not/RB much/JJ of/IN 
+[ one/CD ]
+./. 
+
+[ Prudential-Bache/NNP analyst/NN Philip/NNP Fricke/NNP ]
+estimates/VBZ 
+[ Ford/NNP 's/POS pretax/JJ North/JJ American/JJ auto/NN profit/NN ]
+fell/VBD 
+[ 32/CD %/NN ]
+to/TO 
+[ $/$ 384/CD million/CD ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+./. 
+
+``/`` 
+[ Production/NNP ]
+in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Canada/NNP ]
+is/VBZ down/RB significantly/RB ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Analysts/NNS ]
+estimate/VBP 
+[ Ford/NNP 's/POS overall/JJ net/JJ income/NN ]
+dropped/VBD as/RB much/RB as/IN 
+[ 50/CD %/NN ]
+from/IN 
+[ $/$ 856/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.78/CD ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+[ Estimates/NNS ]
+range/VBP from/IN 
+[ $/$ 415/CD million/CD ]
+,/, or/CC 
+[ 90/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, to/TO about/RB 
+[ $/$ 600/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.30/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Ford/NNP officials/NNS ]
+,/, following/VBG 
+[ company/NN policy/NN ]
+,/, declined/VBD to/TO comment/VB on/IN 
+[ the/DT earnings/NNS estimates/NNS ]
+./. 
+
+======================================
+
+At/IN 
+[ GM/NNP ]
+,/, 
+[ analysts/NNS ]
+estimate/VBP 
+[ profit/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+fell/VBD as/RB much/RB as/IN 
+[ 49/CD %/NN ]
+from/IN 
+[ record/NN year-earlier/JJ earnings/NNS ]
+of/IN 
+[ $/$ 859.2/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.23/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Estimates/NNS ]
+range/VBP from/IN 
+[ $/$ 435/CD million/CD ]
+,/, or/CC 
+[ 50/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, to/TO 
+[ $/$ 644/CD million/CD ]
+,/, or/CC 
+[ 90/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+[ Analysts/NNS ]
+said/VBD 
+[ they/PRP ]
+expect/VBP 
+[ all/DT ]
+of/IN 
+[ GM/NNP 's/POS profit/NN ]
+for/IN 
+[ the/DT September/NNP quarter/NN ]
+came/VBD from/IN 
+[ the/DT auto/NN maker/NN 's/POS financial/JJ arm/NN ]
+,/, 
+[ overseas/JJ operations/NNS ]
+and/CC 
+[ technology/NN units/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ they/PRP ]
+'re/VBP going/VBG to/TO lose/VB 
+[ $/$ 290/CD million/CD ]
+for/IN 
+[ the/DT year/NN ]
+''/'' in/IN 
+[ North/JJ American/JJ auto/NN operations/NNS ]
+,/, says/VBZ 
+[ Prudential-Bache/NNP 's/POS Mr./NNP Fricke/NNP ]
+./. 
+
+``/`` 
+[ They/PRP ]
+have/VBP 
+[ a/DT long/JJ way/NN ]
+to/TO go/VB ./. 
+
+''/'' 
+======================================
+
+[ A/DT GM/NNP spokesman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+had/VBD 
+[ no/DT comment/NN ]
+on/IN 
+[ the/DT earnings/NNS estimates/NNS ]
+./. 
+
+======================================
+
+At/IN 
+[ Chrysler/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ relatively/RB 
+[ little/RB overseas/JJ business/NN ]
+,/, 
+[ most/JJS analysts/NNS ]
+expect/VBP 
+[ third-quarter/JJ profit/NN ]
+before/IN 
+[ extraordinary/JJ gains/NNS ]
+fell/VBD about/RB 
+[ 50/CD %/NN ]
+from/IN 
+[ year-earlier/JJ net/JJ income/NN ]
+of/IN 
+[ $/$ 112.5/CD million/CD ]
+,/, or/CC 
+[ 50/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Chrysler/NNP ]
+is/VBZ expected/VBN to/TO report/VB 
+[ a/DT $/$ 310/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.33-a-share/JJ ]
+,/, 
+[ special/JJ gain/NN ]
+from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ 45/CD %/NN ]
+of/IN 
+[ its/PRP$ stake/NN ]
+in/IN 
+[ Mitsubishi/NNP Motors/NNP Corp/NNP ]
+./. 
+
+But/CC 
+[ earnings/NNS ]
+from/IN 
+[ operations/NNS ]
+are/VBP expected/VBN to/TO fall/VB to/TO between/IN 
+[ 20/CD cents/NNS ]
+and/CC 
+[ 25/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, or/CC 
+[ $/$ 45/CD million/CD ]
+to/TO 
+[ $/$ 60/CD million/CD ]
+,/, 
+[ most/JJS analysts/NNS ]
+say/VBP ./. 
+
+Some/RB ,/, like/IN 
+[ Mr./NNP Healy/NNP ]
+,/, say/VBP 
+[ the/DT figure/NN ]
+could/MD be/VB even/RB lower/JJR ./. 
+
+======================================
+
+[ Chrysler/NNP officials/NNS ]
+would/MD n't/RB comment/VB directly/RB on/IN 
+[ the/DT earnings/NNS estimates/NNS ]
+./. 
+
+But/CC 
+[ Robert/NNP S./NNP Miller/NNP Jr./NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+and/CC 
+[ chief/JJ financial/JJ officer/NN ]
+,/, said/VBD in/IN 
+[ a/DT recent/JJ interview/NN ]
+that/IN if/IN 
+[ the/DT analysts/NNS '/POS estimates/NNS ]
+for/IN 
+[ Chrysler/NNP ]
+do/VBP prove/VB 
+[ correct/JJ ]
+,/, 
+[ it/PRP ]
+would/MD indicate/VB that/IN 
+[ the/DT company/NN ]
+earned/VBD virtually/RB 
+[ nothing/NN ]
+from/IN 
+[ automotive/JJ operations/NNS ]
+during/IN 
+[ the/DT quarter/NN ]
+./. 
+
+======================================
+
+So/RB far/RB 
+[ this/DT year/NN ]
+,/, 
+[ total/JJ U.S./NNP car/NN ]
+and/CC 
+[ truck/NN sales/NNS ]
+are/VBP running/VBG only/RB 
+[ 3/CD %/NN ]
+behind/IN 
+[ a/DT year/NN ]
+ago/RB ./. 
+
+But/CC 
+[ production/NN ]
+at/IN 
+[ Japanese/JJ auto/NN plants/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ some/DT ]
+of/IN 
+[ which/WDT ]
+are/VBP 
+[ joint/JJ efforts/NNS ]
+with/IN 
+[ the/DT Big/NNP Three/CD ]
+,/, is/VBZ sharply/RB increasing/VBG ./. 
+
+[ These/DT plants/NNS ]
+accounted/VBD for/IN 
+[ 12.3/CD %/NN ]
+of/IN 
+[ U.S./NNP vehicle/NN production/NN ]
+in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, compared/VBN with/IN just/RB 
+[ 8.5/CD %/NN ]
+
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+======================================
+
+[ One/CD result/NN ]
+:/: 
+[ An/DT increasing/VBG number/NN ]
+of/IN 
+[ temporary/JJ plant/NN shutdowns/NNS ]
+by/IN 
+[ GM/NNP ]
+,/, 
+[ Ford/NNP ]
+and/CC 
+[ Chrysler/NNP ]
+to/TO keep/VB 
+[ inventories/NNS ]
+from/IN getting/VBG out/IN of/IN 
+[ hand/NN ]
+./. 
+
+[ GM/NNP ]
+,/, for/IN 
+[ example/NN ]
+,/, cut/VBD 
+[ its/PRP$ third-quarter/JJ car/NN output/NN ]
+to/TO 
+[ the/DT lowest/JJS ]
+of/IN 
+[ any/DT quarter/NN ]
+since/IN 
+[ late/JJ 1970/CD ]
+,/, when/WRB 
+[ a/DT strike/NN ]
+closed/VBD most/JJS of/IN 
+[ the/DT company/NN 's/POS assembly/NN lines/NNS ]
+./. 
+
+Meanwhile/RB ,/, 
+[ the/DT No./NN 1/CD auto/NN maker/NN 's/POS third-quarter/JJ truck/NN ]
+and/CC 
+[ van/NN output/NN ]
+slipped/VBD 
+[ 3/CD %/NN ]
+from/IN 
+[ a/DT strong/JJ year/NN ]
+earlier/RBR ./. 
+
+[ That/WDT ]
+pushed/VBD 
+[ GM/NNP 's/POS total/JJ vehicle/NN production/NN ]
+to/TO 
+[ its/PRP$ lowest/JJS third-quarter/JJ level/NN ]
+since/IN 
+[ 1981/CD ]
+./. 
+
+======================================
+
+[ What/WP ]
+'s/VBZ more/JJR ,/, because/IN 
+[ the/DT appeal/NN ]
+of/IN 
+[ Japanese/JJ cars/NNS ]
+remains/VBZ 
+[ high/JJ ]
+,/, 
+[ the/DT Big/NNP Three/CD ]
+are/VBP being/VBG forced/VBN to/TO discount/VB 
+[ their/PRP$ vehicles/NNS ]
+heavily/RB to/TO achieve/VB 
+[ the/DT sales/NNS they/PRP ]
+do/VBP get/VB ./. 
+
+In/IN 
+[ the/DT third/JJ quarter/NN ]
+alone/RB ,/, 
+[ analysts/NNS ]
+estimate/VBP ,/, 
+[ Big/NNP Three/CD buyer/NN ]
+``/`` 
+[ incentives/NNS ]
+''/'' totaled/VBD 
+[ $/$ 2.4/CD billion/CD ]
+--/: or/CC about/RB 
+[ $/$ 850/CD ]
+for/IN 
+[ each/DT vehicle/NN ]
+sold/VBN by/IN 
+[ GM/NNP ]
+,/, 
+[ Ford/NNP ]
+and/CC 
+[ Chrysler/NNP ]
+./. 
+
+======================================
+
+[ These/DT twin/JJ problems/NNS ]
+are/VBP likely/JJ to/TO continue/VB for/IN 
+[ a/DT long/JJ time/NN ]
+,/, 
+[ industry/NN officials/NNS ]
+and/CC 
+[ analysts/NNS ]
+believe/VBP ./. 
+
+Says/VBZ 
+[ Scott/NNP Merlis/NNP ]
+,/, 
+[ auto/NN analyst/NN ]
+at/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co./NNP ]
+:/: ``/`` 
+[ We/PRP ]
+look/VBP for/IN 
+[ the/DT third/JJ ]
+and/CC 
+[ fourth/JJ quarters/NNS ]
+ {/( of/IN 
+[ 1989/CD ]
+ }/) to/TO be/VB 
+[ the/DT prototypes/NNS ]
+for/IN 
+[ 1990/CD ]
+./. 
+
+''/'' 
+======================================
+
+from/IN 
+[ overseas/JJ ]
+and/CC 
+[ non-automotive/JJ ]

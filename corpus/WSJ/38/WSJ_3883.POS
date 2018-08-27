@@ -1,0 +1,363 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ California/NNP 's/POS Department/NNP ]
+of/IN 
+[ Insurance/NNP ]
+ordered/VBD 
+[ an/DT immediate/JJ six-month/JJ freeze/NN ]
+on/IN 
+[ private/JJ auto-insurance/NN rates/NNS ]
+while/IN 
+[ it/PRP ]
+holds/VBZ 
+[ public/JJ hearings/NNS ]
+on/IN 
+[ the/DT state/NN 's/POS rate-slashing/JJ initiative/NN ]
+,/, 
+[ Proposition/NNP 103/CD ]
+./. 
+
+======================================
+
+Under/IN 
+[ terms/NNS ]
+of/IN 
+[ that/DT initiative/NN ]
+,/, after/IN 
+[ Nov./NNP 8/CD insurance/NN companies/NNS ]
+must/MD have/VB 
+[ the/DT department/NN 's/POS approval/NN ]
+before/IN raising/VBG 
+[ rates/NNS ]
+./. 
+
+[ The/DT freeze/NN ]
+was/VBD ordered/VBN to/TO prevent/VB 
+[ insurance/NN companies/NNS ]
+from/IN increasing/VBG 
+[ rates/NNS ]
+in/IN 
+[ the/DT interim/JJ period/NN ]
+./. 
+
+======================================
+
+[ Proposition/NNP 103/CD ]
+,/, passed/VBN by/IN 
+[ voters/NNS last/JJ November/NNP ]
+,/, called/VBD for/IN 
+[ a/DT 20/CD %/NN ]
+cut/NN in/IN 
+[ rates/NNS ]
+./. 
+
+But/CC in/IN 
+[ June/NNP ]
+,/, 
+[ California/NNP 's/POS Supreme/NNP Court/NNP ]
+essentially/RB voided/VBD 
+[ the/DT rollback/NN ]
+in/IN 
+[ cases/NNS ]
+where/WRB 
+[ it/PRP ]
+deprived/VBD 
+[ a/DT company/NN ]
+of/IN 
+[ a/DT chance/NN ]
+to/TO earn/VB 
+[ a/DT ]
+``/`` 
+[ fair/JJ rate/NN ]
+of/IN 
+[ return/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Insurance/NNP Commissioner/NNP Roxani/NNP Gillespie/NNP ]
+said/VBD 
+[ the/DT hearings/NNS ]
+,/, 
+[ which/WDT ]
+begin/VBP 
+[ Oct./NNP 30/CD ]
+,/, will/MD be/VB used/VBN to/TO make/VB 
+[ a/DT final/JJ determination/NN ]
+of/IN 
+[ the/DT fair/JJ rate/NN ]
+of/IN 
+[ return/NN ]
+for/IN 
+[ insurance/NN companies/NNS ]
+./. 
+
+[ The/DT hearings/NNS ]
+,/, expected/VBN to/TO be/VB completed/VBN by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT year/NN ]
+,/, will/MD also/RB determine/VB 
+[ cuts/NNS ]
+in/IN 
+[ rates/NNS ]
+
+[ that/WDT ]
+are/VBP deemed/VBN 
+[ excessive/JJ ]
+,/, and/CC discuss/VB 
+[ enforcement/NN ]
+of/IN 
+[ the/DT initiative/NN ]
+./. 
+
+======================================
+
+[ Ms./NNP Gillespie/NNP ]
+has/VBZ suggested/VBN that/IN 
+[ 11.2/CD %/NN ]
+is/VBZ 
+[ a/DT fair/JJ rate/NN ]
+of/IN 
+[ return/NN ]
+,/, 
+[ a/DT figure/NN ]
+
+[ the/DT department/NN ]
+said/VBD has/VBZ been/VBN 
+[ the/DT average/JJ U.S./NNP return/NN ]
+for/IN 
+[ property/NN ]
+and/CC 
+[ casualty/NN carriers/NNS ]
+over/IN 
+[ the/DT past/JJ 15/CD years/NNS ]
+./. 
+
+However/RB ,/, that/DT 
+[ figure/NN ]
+has/VBZ angered/VBN 
+[ consumer/NN groups/NNS ]
+
+[ who/WP ]
+question/VBP 
+[ the/DT methods/NNS ]
+by/IN 
+[ which/WDT ]
+
+[ it/PRP ]
+was/VBD determined/VBN ./. 
+
+As/IN reported/VBN ,/, 
+[ an/DT insurance-reform/JJ group/NN ]
+has/VBZ sued/VBN 
+[ Ms./NNP Gillespie/NNP ]
+,/, accusing/VBG 
+[ her/PRP ]
+of/IN failing/VBG to/TO implement/VB 
+[ the/DT provisions/NNS ]
+of/IN 
+[ Proposition/NNP 103/CD ]
+./. 
+
+======================================
+
+[ Last/JJ month/NN ]
+,/, 
+[ State/NNP Farm/NNP Mutual/NNP Automobile/NNP Insurance/NNP Co./NNP ]
+notified/VBD 
+[ the/DT department/NN ]
+that/IN 
+[ it/PRP ]
+planned/VBD to/TO implement/VB 
+[ the/DT ]
+``/`` 
+[ good-driver/JJ discount/NN ]
+''/'' 
+[ plan/NN ]
+ordered/VBN in/IN 
+[ the/DT Proposition/NNP 103/CD legislation/NN ]
+./. 
+
+[ The/DT Bloomington/NNP ]
+,/, 
+[ Ind./NNP ]
+,/, 
+[ company/NN ]
+said/VBD 
+[ it/PRP ]
+did/VBD n't/RB know/VB how/WRB 
+[ the/DT freeze/NN order/NN ]
+would/MD affect/VB 
+[ its/PRP$ ]
+filing/NN ./. 
+
+======================================
+
+[ State/NNP Farm/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT largest/JJS auto/NN insurers/NNS ]
+in/IN 
+[ California/NNP ]
+,/, said/VBD that/IN if/IN 
+[ a/DT driver/NN ]
+qualified/VBD for/IN 
+[ the/DT discount/NN ]
+,/, 
+[ rates/NNS ]
+could/MD be/VB lowered/VBN about/RB 
+[ 20/CD %/NN ]
+./. 
+
+[ It/PRP ]
+estimated/VBD that/IN 
+[ 89/CD %/NN ]
+of/IN 
+[ drivers/NNS ]
+might/MD qualify/VB for/IN 
+[ the/DT discount/NN ]
+./. 
+
+[ Those/DT ]
+
+[ who/WP ]
+fail/VBP to/TO qualify/VB could/MD see/VB 
+[ a/DT rate/NN increase/NN ]
+between/IN 
+[ 29/CD %/NN ]
+and/CC 
+[ 36/CD %/NN ]
+,/, 
+[ the/DT company/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Farmers/NNPS Insurance/NNP Group/NNP ]
+,/, 
+[ a/DT subsidiary/NN ]
+of/IN 
+[ Britain/NNP 's/POS B.A.T/NNP Industries/NNPS PLC/NNP ]
+,/, 
+[ last/JJ week/NN ]
+notified/VBD 
+[ the/DT Department/NNP ]
+of/IN 
+[ Insurance/NNP ]
+that/IN 
+[ it/PRP ]
+planned/VBD to/TO raise/VB 
+[ auto/NN insurance/NN rates/NNS ]
+by/IN 
+[ 5.9/CD %/NN ]
+./. 
+
+[ A/DT Farmers/NNPS spokesman/NN ]
+said/VBD 
+[ it/PRP ]
+'s/VBZ unclear/JJ whether/IN 
+[ the/DT department/NN ]
+``/`` has/VBZ 
+[ the/DT authority/NN ]
+to/TO implement/VB 
+[ a/DT blanket/JJ freeze/NN ]
+''/'' on/IN 
+[ rates/NNS ]
+./. 
+
+[ The/DT action/NN ]
+does/VBZ n't/RB help/VB 
+[ Farmers/NNPS ]
+solve/VB 
+[ its/PRP$ major/JJ problem/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ the/DT high/JJ cost/NN ]
+of/IN insuring/VBG ``/`` 
+[ high/JJ risk/NN ]
+''/'' 
+[ drivers/NNS ]
+under/IN 
+[ the/DT state/NN 's/POS ]
+``/`` 
+[ assigned/JJ risk/NN ]
+''/'' 
+[ program/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Aetna/NNP Life/NNP ]
+&/CC 
+[ Casualty/NNP Insurance/NNP Co./NNP ]
+,/, 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, also/RB questioned/VBD whether/IN 
+[ Ms./NNP Gillespie/NNP ]
+had/VBD 
+[ the/DT authority/NN ]
+to/TO order/VB 
+[ the/DT freeze/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+
+[ 's/POS little/JJ difference/NN ]
+between/IN ordering/VBG 
+[ a/DT freeze/NN ]
+and/CC 
+[ a/DT rollback/NN ]
+./. 
+
+[ Both/DT ]
+are/VBP 
+[ arbitrary/JJ decisions/NNS ]
+without/IN knowing/VBG how/WRB 
+[ profitable/JJ a/DT line/NN ]
+of/IN 
+[ business/NN ]
+is/VBZ or/CC whether/IN 
+[ a/DT company/NN ]
+is/VBZ earning/VBG 
+[ a/DT fair/JJ rate/NN ]
+of/IN 
+[ return/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Beatrice/NNP E./NNP Garcia/NNP ]
+in/IN 
+[ Philadelphia/NNP ]
+and/CC 
+[ Earl/NNP C./NNP Gottschalk/NNP Jr./NNP ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

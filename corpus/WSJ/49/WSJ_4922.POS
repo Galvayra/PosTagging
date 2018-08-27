@@ -1,0 +1,422 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT television/NN special/NN ]
+produced/VBN by/IN 
+[ the/DT National/NNP Audubon/NNP Society/NNP ]
+was/VBD broadcast/VBN 
+[ last/JJ night/NN ]
+without/IN 
+[ commercials/NNS ]
+on/IN 
+[ a/DT cable/NN channel/NN ]
+owned/VBN by/IN 
+[ Turner/NNP Broadcasting/NNP System/NNP Inc./NNP ]
+after/IN 
+[ eight/CD advertisers/NNS ]
+pulled/VBD out/RP because/RB of/IN 
+[ pressure/NN ]
+from/IN 
+[ the/DT logging/JJ industry/NN ]
+,/, 
+[ the/DT program/NN 's/POS producers/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT special/JJ ]
+,/, ``/`` 
+[ Ancient/JJ Forests/NNS ]
+:/: 
+[ Rage/NN ]
+Over/IN 
+[ Trees/NNS ]
+,/, ''/'' was/VBD aired/VBN with/IN 
+[ public-service/NN announcements/NNS ]
+instead/RB of/IN 
+[ the/DT scheduled/JJ commercials/NNS ]
+./. 
+
+Although/IN 
+[ Turner/NNP ]
+declined/VBD to/TO release/VB 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT sponsors/NNS ]
+,/, 
+[ other/JJ officials/NNS ]
+close/RB to/TO 
+[ the/VBD process/NN ]
+identified/VBN 
+[ some/DT ]
+as/IN 
+[ Stroh/NNP Brewery/NNP Co./NNP ]
+,/, 
+[ the/DT Exxon/NNP Corp./NNP ]
+,/, 
+[ the/DT Michelin/NNP Group/NNP ]
+,/, 
+[ Ford/NNP Motor/NNP Co./NNP ]
+and/CC 
+[ Sears/NNP ]
+,/, 
+[ Roebuck/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ whose/WP$ subsidiary/NN Dean/NNP Witter/NNP Reynolds/NNP Inc./NNP ]
+was/VBD advertising/VBG 
+[ its/PRP$ Discovery/NNP credit/NN card/NN ]
+./. 
+
+[ The/DT officials/NNS ]
+asked/VBD that/IN 
+[ they/PRP ]
+not/RB be/VB identified/VBN ./. 
+
+======================================
+
+[ The/DT special/NN ]
+,/, broadcast/VBN over/IN 
+[ the/DT Turner/NNP Broadcasting/NNP channel/NN WTBS/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ seen/VBN on/IN 
+[ cable/NN systems/NNS ]
+nationwide/RB ,/, will/MD be/VB repeated/VBN 
+[ three/CD times/NNS ]
+during/IN 
+[ the/DT week/NN ]
+as/IN are/VBP 
+[ all/DT other/JJ programs/NNS ]
+in/IN 
+[ the/DT ]
+``/`` 
+[ World/NNP ]
+of/IN 
+[ Audubon/NNP ]
+''/'' 
+[ series/NN ]
+./. 
+
+======================================
+
+[ The/DT program/NN ]
+dealt/VBD with/IN 
+[ the/DT ]
+cutting/NN down/RP of/IN 
+[ trees/NNS ]
+in/IN 
+[ the/DT old/JJ growth/NN forests/NNS ]
+in/IN 
+[ the/DT Northwest/JJ states/NNS ]
+,/, specifically/RB 
+[ Washington/NNP ]
+and/CC 
+[ Oregon/NNP ]
+./. 
+
+[ The/DT logging/JJ industry/NN ]
+and/CC 
+[ environmentalists/NNS ]
+have/VBP been/VBN arguing/VBG over/IN 
+[ the/DT logging/NN ]
+in/IN 
+[ such/JJ forests/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP 
+[ the/DT natural/JJ habitats/NNS ]
+of/IN 
+[ the/DT northern/JJ spotted/JJ owl/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Due/RB ]
+to/TO 
+[ concerted/JJ ]
+and/CC apparently/RB organized/JJ 
+[ pressure/NN ]
+from/IN 
+[ the/DT timber/NN industry/NN ]
+,/, ''/'' 
+[ Turner/NNP Broadcasting/NNP ]
+said/VBD in/IN 
+[ a/DT statement/NN ]
+,/, ``/`` 
+[ many/JJ ]
+of/IN 
+[ the/DT advertisers/NNS ]
+scheduled/VBN for/IN 
+[ the/DT ]
+ {/( 
+[ special/NN ]
+ }/) canceled/VBD 
+[ their/PRP$ commercials/NNS ]
+for/IN 
+[ the/DT time/NN period/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Spokesmen/NNP ]
+for/IN 
+[ Ford/NNP ]
+and/CC 
+[ Dean/NNP Witter/NNP ]
+confirmed/VBD 
+[ their/PRP$ companies/NNS ]
+had/VBD withdrawn/VBN 
+[ commercials/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ outrageous/JJ ,/, ''/'' said/VBD 
+[ Peter/NNP A.A./NNP Berle/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT National/NNP Audubon/NNP Society/NNP ]
+./. 
+
+``/`` 
+[ The/DT notion/NN ]
+that/IN 
+[ a/DT bunch/NN ]
+of/IN 
+[ people/NNS ]
+would/MD keep/VB 
+[ a/DT documentary/NN ]
+off/IN 
+[ the/DT air/NN ]
+and/CC keep/VB 
+[ an/DT issue/NN ]
+away/RB from/IN 
+[ the/DT public/NN ]
+is/VBZ against/IN 
+[ everything/NN ]
+
+[ America/NNP ]
+stands/VBZ for/IN in/IN 
+[ terms/NNS ]
+of/IN 
+[ free/JJ speech/NN ]
+and/CC 
+[ the/DT open/JJ exchange/NN ]
+of/IN 
+[ ideas/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ One/CD group/NN ]
+of/IN 
+[ loggers/NNS ]
+
+[ that/WDT ]
+organized/VBD 
+[ what/WP ]
+
+[ it/PRP ]
+called/VBD 
+[ a/DT grass-roots/JJ boycott/NN ]
+said/VBD 
+[ it/PRP ]
+was/VBD ``/`` pleased/JJ ''/'' with/IN 
+[ the/DT results/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'ll/MD take/VB 
+[ some/DT credit/NN ]
+,/, ''/'' said/VBD 
+[ William/NNP N./NNP Grannell/NNP ]
+,/, 
+[ executive/JJ director/NN ]
+of/IN 
+[ the/DT Western/NNP States/NNP Public/NNP Land/NNP Coalition/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ based/VBN in/IN 
+[ Pueblo/NNP ]
+,/, 
+[ Colo/NNP ]
+./. 
+
+``/`` 
+[ Our/PRP$ people/NNS ]
+got/VBD 
+[ the/DT word/NN ]
+out/RP and/CC told/VBD 
+[ Stroh/NNP 's/POS beer/NN ]
+that/IN if/IN 
+[ they/PRP ]
+sponsored/VBD 
+[ such/PDT a/DT program/NN ]
+,/, well/RB ,/, 
+[ our/PRP$ members/NNS ]
+would/MD not/RB be/VB so/RB inclined/JJ to/TO drink/VB 
+[ Stroh/NNP 's/POS beer/NN ]
+any/RB longer/RBR ./. 
+
+[ I/PRP ]
+'m/VBP just/RB 
+[ glad/JJ ]
+
+[ these/DT companies/NNS ]
+became/VBD sensitive/JJ to/TO 
+[ our/PRP$ side/NN ]
+of/IN 
+[ the/DT issue/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Grannell/NNP ]
+dismissed/VBD 
+[ the/DT argument/NN ]
+that/IN 
+[ the/DT Audubon/NNP Society/NNP ]
+said/VBD 
+[ it/PRP ]
+produced/VBD 
+[ a/DT ]
+``/`` 
+[ balanced/JJ ]
+''/'' 
+[ documentary/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'ll/MD reserve/VB 
+[ judgment/NN ]
+on/IN 
+[ that/DT ]
+,/, ''/'' 
+[ Mr./NNP Grannell/NNP ]
+said/VBD ./. 
+
+[ Mr./NNP Berle/NNP ]
+said/VBD 
+[ the/DT program/NN ]
+interviewed/VBD 
+[ loggers/NNS ]
+and/CC presented/VBD 
+[ their/PRP$ point/NN ]
+of/IN 
+[ view/NN ]
+,/, although/IN ,/, 
+[ he/PRP ]
+added/VBD ,/, ``/`` 
+[ the/DT script/NN ]
+does/VBZ have/VB 
+[ a/DT pro-environmental/JJ attitude/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Berle/NNP ]
+also/RB said/VBD that/IN 
+[ Stroh/NNP ]
+had/VBD decided/VBN to/TO withdraw/VB 
+[ its/PRP$ sponsorship/NN ]
+of/IN 
+[ the/DT entire/JJ ]
+``/`` 
+[ World/NNP ]
+of/IN 
+[ Audubon/NNP ]
+''/'' 
+[ series/NN ]
+,/, 
+[ which/WDT ]
+consists/VBZ of/IN 
+[ four/CD specials/NNS ]
+annually/RB ./. 
+
+[ Stroh/NNP ]
+,/, 
+[ which/WDT ]
+could/MD n't/RB be/VB reached/VBN for/IN 
+[ comment/NN ]
+,/, contributed/VBD 
+[ $/$ 100,000/CD ]
+annually/RB to/TO 
+[ the/DT projects/NNS ]
+./. 
+
+======================================
+
+[ There/EX ]
+is/VBZ ,/, of/IN 
+[ course/NN ]
+,/, 
+[ nothing/NN ]
+new/JJ in/IN 
+[ special-interest/JJ groups/NNS ]
+threatening/VBG to/TO boycott/VB 
+[ advertisers/NNS they/PRP ]
+believe/VBP sponsor/VBP 
+[ controversial/JJ shows/NNS ]
+./. 
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ conservative/JJ religious/JJ organizations/NNS ]
+called/VBD for/IN 
+[ a/DT boycott/NN ]
+of/IN 
+[ companies/NNS ]
+sponsoring/VBG ``/`` 
+[ Roe/NNP V./IN Wade/NNP ]
+,/, ''/'' 
+[ a/DT made-for-television/JJ movie/NN ]
+on/IN 
+[ General/NNP Electric/NNP Co./NNP 's/POS National/NNP Broadcasting/NNP Co./NNP ]
+about/IN 
+[ the/DT Supreme/NNP Court/NNP 's/POS landmark/JJ ruling/NN legalizing/VBG abortion/NN ]
+./. 
+
+======================================
+
+``/`` But/CC 
+[ this/DT ]
+is/VBZ not/RB that/RB controversial/JJ ,/, ''/'' said/VBD 
+[ Mr./NNP Berle/NNP ]
+./. 
+
+``/`` 
+[ It/PRP ]
+is/VBZ ,/, however/RB ,/, on/IN 
+[ the/DT front/JJ burner/NN ]
+out/IN in/IN 
+[ the/DT Northwest/NNP ]
+./. 

@@ -1,0 +1,1230 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 1901/CD ]
+./. 
+
+[ This/DT address/NN ]
+can/MD be/VB from/IN 
+[ 1/CD ]
+to/TO 
+[ 8/CD characters/NNS ]
+long/RB ./. 
+
+[ 1902/CD ]
+./. 
+
+[ There/EX ]
+can/MD be/VB up/IN to/TO 
+[ 127/CD characters/NNS ]
+in/IN 
+[ the/DT message/NN ]
+./. 
+
+[ 1903/CD ]
+./. 
+
+[ This/DT ]
+can/MD be/VB 
+[ a/DT host/NN system/NN ]
+
+[ that/WDT ]
+is/VBZ on/IN 
+[ the/DT local/JJ area/NN network/NN ]
+or/CC 
+[ one/CD ]
+
+[ that/WDT ]
+is/VBZ remote/JJ to/TO 
+[ the/DT current/JJ default/NN host/NN system/NN ]
+./. 
+
+[ 1904/CD ]
+./. 
+
+[ The/DT default/NN ]
+when/WRB 
+[ this/DT parameter/NN ]
+is/VBZ not/RB specified/VBN is/VBZ to/TO leave/VB 
+[ the/DT messages/NNS ]
+in/IN 
+[ the/DT message/NN queues/NNS ]
+./. 
+
+[ 1905/CD ]
+./. 
+
+[ The/DT file/NN name/NN ]
+can/MD be/VB from/IN 
+[ 1/CD ]
+to/TO 
+[ 8/CD characters/NNS ]
+./. 
+
+[ 1906/CD ]
+./. 
+
+When/WRB 
+[ this/DT command/NN ]
+is/VBZ issued/VBN ,/, 
+[ all/DT message/NN sessions/NNS ]
+are/VBP stopped/VBN (/( whether/IN 
+[ the/DT sessions/NNS ]
+are/VBP active/JJ or/CC not/RB )/) ./. 
+
+[ 1907/CD ]
+./. 
+
+[ The/DT format/NN ]
+is/VBZ :/: where/WRB 
+[ d/NN ]
+:/: and/CC 
+[ path/NN ]
+are/VBP 
+[ the/DT drive/NN ]
+and/CC 
+[ directory/NN ]
+containing/VBG 
+[ the/DT message/NN function/NN program/NN ]
+./. 
+
+[ 1908/CD ]
+./. 
+
+If/IN 
+[ an/DT error/NN ]
+occurs/VBZ ,/, but/CC 
+[ STARTMSG/NNP ]
+is/VBZ able/JJ to/TO continue/VB ,/, 
+[ the/DT error/NN level/NN ]
+is/VBZ 
+[ 10/CD ]
+./. 
+
+[ 1909/CD ]
+./. 
+
+Receive/VB 
+[ messages/NNS ]
+
+[ that/WDT ]
+were/VBD sent/VBN to/TO 
+[ your/PRP$ PC/NNP location/NN ]
+./. 
+
+[ 1910/CD ]
+./. 
+
+[ The/DT default/NN ]
+for/IN 
+[ this/DT parameter/NN ]
+is/VBZ 
+[ 60/CD seconds/NNS ]
+./. 
+
+[ 1911/CD ]
+./. 
+
+[ Some/DT programs/NNS ]
+may/MD affect/VB 
+[ the/DT way/NN ]
+
+[ you/PRP ]
+receive/VBP 
+[ messages/NNS ]
+./. 
+
+[ 1912/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ recommended/VBN that/IN 
+[ the/DT personal/JJ computer/NN location/NN name/NN ]
+be/VB different/JJ from/IN 
+[ the/DT user/NN ID/NN ]
+,/, so/RB that/IN 
+[ you/PRP ]
+can/MD receive/VB 
+[ messages/NNS ]
+sent/VBN either/RB to/TO 
+[ your/PRP$ personal/JJ computer/NN ]
+or/CC to/TO 
+[ your/PRP$ user/NN ID/NN ]
+./. 
+
+[ 1913/CD ]
+./. 
+
+[ You/PRP ]
+may/MD want/VB to/TO end/VB and/CC remove/VB 
+[ a/DT PC/NNP Support/NNP function/NN ]
+from/IN 
+[ memory/NN ]
+so/IN 
+[ the/DT memory/NN ]
+can/MD be/VB used/VBN with/IN 
+[ other/JJ DOS/NNP applications/NNS ]
+./. 
+
+[ 1914/CD ]
+./. 
+
+In/IN 
+[ order/NN ]
+for/IN 
+[ the/DT programs/NNS ]
+to/TO work/VB ,/, 
+[ they/PRP ]
+must/MD communicate/VB with/IN 
+[ each/DT other/JJ ]
+./. 
+
+[ 1915/CD ]
+./. 
+
+To/TO communicate/VB ,/, 
+[ they/PRP ]
+must/MD share/VB 
+[ a/DT common/JJ language/NN ]
+./. 
+
+[ 1916/CD ]
+./. 
+
+[ PC/NNP Support/NNP ]
+provides/VBZ 
+[ several/JJ different/JJ router/NN programs/NNS ]
+./. 
+
+[ 1917/CD ]
+./. 
+
+[ The/DT first/JJ ]
+of/IN 
+[ these/DT ]
+is/VBZ 
+[ the/DT PC/NNP location/NN name/NN ]
+./. 
+
+[ 1918/CD ]
+./. 
+
+When/WRB 
+[ PC/NNP Support/NNP ]
+was/VBD installed/VBN ,/, 
+[ the/DT installation/NN program/NN ]
+requested/VBD 
+[ this/DT information/NN ]
+./. 
+
+[ 1919/CD ]
+./. 
+
+If/IN 
+[ necessary/JJ ]
+,/, 
+[ you/PRP ]
+can/MD change/VB 
+[ it/PRP ]
+using/VBG 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+./. 
+
+[ 1920/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+to/TO do/VB 
+[ this/DT ]
+./. 
+
+[ 1921/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ also/RB necessary/JJ for/IN 
+[ you/PRP ]
+to/TO identify/VB 
+[ yourself/PRP ]
+to/TO 
+[ the/DT router/NN program/NN ]
+./. 
+
+[ 1922/CD ]
+./. 
+
+[ This/DT ]
+can/MD be/VB 
+[ the/DT same/JJ user/NN ID/NN you/PRP ]
+use/VB to/TO sign/VB on/IN to/TO 
+[ a/DT work/NN station/NN session/NN ]
+./. 
+
+[ 1923/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+choose/VBP not/RB to/TO provide/VB 
+[ a/DT unique/JJ user/NN ID/NN ]
+,/, 
+[ the/DT router/NN program/NN ]
+uses/VBZ 
+[ a/DT common/JJ user/NN ID/NN ]
+./. 
+
+[ 1924/CD ]
+./. 
+
+If/IN 
+[ necessary/JJ ]
+,/, 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT configuration/NN program/NN ]
+to/TO change/VB 
+[ your/PRP$ user/NN ID/NN ]
+./. 
+
+[ 1925/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ also/RB 
+[ the/DT most/RBS important/JJ task/NN ]
+./. 
+
+[ 1926/CD ]
+./. 
+
+[ The/DT information/NN ]
+in/IN 
+[ this/DT section/NN ]
+applies/VBZ to/TO 
+[ all/DT router/NN types/NNS ]
+./. 
+
+[ 1927/CD ]
+./. 
+
+[ It/PRP ]
+was/VBD entered/VBN into/IN 
+[ the/DT file/NN ]
+when/WRB 
+[ PC/NNP Support/NNP ]
+was/VBD installed/VBN ./. 
+
+[ 1928/CD ]
+./. 
+
+When/WRB 
+[ the/DT STARTRTR/NNP program/NN ]
+is/VBZ run/VBN ,/, 
+[ it/PRP ]
+determines/VBZ if/IN 
+[ the/DT router/NN ]
+is/VBZ active/JJ or/CC 
+[ inactive/JJ ]
+./. 
+
+[ 1929/CD ]
+./. 
+
+As/IN 
+[ it/PRP ]
+searches/VBZ 
+[ the/DT file/NN ]
+,/, 
+[ it/PRP ]
+looks/VBZ for/IN 
+[ identifier/NN information/NN ]
+corresponding/VBG to/TO 
+[ the/DT PC/NNP location/NN name/NN ]
+,/, 
+[ system/NN name/NN ]
+,/, and/CC 
+[ router/NN type/NN ]
+./. 
+
+[ 1930/CD ]
+./. 
+
+For/IN 
+[ a/DT description/NN ]
+of/IN 
+[ the/DT additional/JJ identifier/NN information/NN ]
+,/, refer/VB to/TO 
+[ the/DT specific/NN section/NN ]
+in/IN 
+[ this/DT chapter/NN ]
+describing/VBG 
+[ your/PRP$ router/NN type/NN ]
+./. 
+
+[ 1931/CD ]
+./. 
+
+[ STARTRTR/NNP \/D/NNP ]
+
+[ the/DT status/NN ]
+of/IN 
+[ the/DT router/NN ]
+is/VBZ displayed/VBN ./. 
+
+[ 1932/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+enter/VBP 
+[ the/DT following/VBG command/NN ]
+at/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 1933/CD ]
+./. 
+
+[ STARTRTR/NNP \/R/NNP ]
+
+[ the/DT information/NN ]
+in/IN 
+[ the/DT router/NN error/NN log/NN ]
+is/VBZ 
+[ reset/VBN ]
+./. 
+
+[ 1934/CD ]
+./. 
+
+[ STARTRTR/NNP \/B/NNP ]
+
+[ the/DT error/NN ]
+notify/VB 
+[ option/NN ]
+within/IN 
+[ the/DT router/NN ]
+is/VBZ turned/VBN on/RP or/CC off/RP ./. 
+
+[ 1935/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ one/CD ]
+or/CC 
+[ the/DT other/JJ ]
+./. 
+
+[ 1936/CD ]
+./. 
+
+Also/RB ,/, 
+[ you/PRP ]
+can/MD only/RB specify/VB 
+[ one/CD command/NN line/NN parameter/NN ]
+at/IN 
+[ a/DT time/NN ]
+./. 
+
+[ 1937/CD ]
+./. 
+
+[ Use/VB ]
+either/CC 
+[ the/DT STOPRTR/NNP command/NN ]
+or/CC 
+[ the/DT remove/VB PC/NNP Support/NNP function/NN ]
+to/TO stop/VB 
+[ the/DT router/NN ]
+./. 
+
+[ 1938/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, release/VB 
+[ any/DT ]
+assigned/VBN shared/VBN 
+[ folders/NNS function/NN ]
+drives/NNS ./. 
+
+[ 1939/CD ]
+./. 
+
+-/: Enter/VB 
+[ the/DT following/VBG command/NN ]
+after/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 1940/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+have/VBP 
+[ virtual/JJ printers/NNS ]
+assigned/VBN when/WRB 
+[ you/PRP ]
+enter/VBP 
+[ STOPRTR/NNP ]
+,/, 
+[ it/PRP ]
+is/VBZ recommended/VBN that/IN 
+[ you/PRP ]
+do/VBP not/RB force/VB 
+[ the/DT router/NN ]
+to/TO stop/VB ./. 
+
+[ 1941/CD ]
+./. 
+
+To/TO ensure/VB that/IN 
+[ all/DT ]
+of/IN 
+[ the/DT data/NN ]
+is/VBZ sent/VBN to/TO 
+[ the/DT printer/NN ]
+and/CC 
+[ the/DT printer/NN file/NN ]
+is/VBZ closed/VBN ,/, 
+[ you/PRP ]
+must/MD use/VB 
+[ the/DT SETVPRT/NNP command/NN ]
+to/TO release/VB 
+[ the/DT virtual/JJ printers/NNS ]
+./. 
+
+[ 1942/CD ]
+./. 
+
+Then/RB enter/VB 
+[ the/DT STOPRTR/NNP command/NN ]
+again/RB ./. 
+
+[ 1943/CD ]
+./. 
+
+To/TO use/VB 
+[ the/DT remove/NN PC/NNP Support/NNP function/NN ]
+,/, enter/VB 
+[ the/DT following/VBG command/NN ]
+after/IN 
+[ the/DT DOS/NNP prompt/NN ]
+:/: 
+[ 1944/CD ]
+./. 
+
+Follow/VB 
+[ the/DT prompts/NNS ]
+on/IN 
+[ the/DT menu/NN ]
+and/CC 
+[ press/VB F1/NNP ]
+(/( 
+[ Help/NN ]
+)/) for/IN 
+[ additional/JJ help/NN information/NN ]
+when/WRB necessary/JJ ./. 
+
+[ 1945/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+need/VBP 
+[ more/JJR information/NN ]
+about/IN 
+[ the/DT remove/VBP PC/NNP Support/NNP function/NN ]
+,/, refer/VB to/TO 
+[ the/DT manual/JJ PC/NNP Support/NNP User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ DOS/NNP ]
+./. 
+
+[ 1946/CD ]
+./. 
+
+[ The/DT information/NN ]
+in/IN 
+[ this/DT section/NN ]
+applies/VBZ to/TO 
+[ all/DT PC/NNP Support/NNP router/NN types/NNS ]
+./. 
+
+[ 1947/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+to/TO change/VB 
+[ the/DT PC/NNP location/NN name/NN ]
+,/, 
+[ default/NN user/NN ID/NN ]
+,/, and/CC 
+[ software/NN ]
+interrupt/NN 
+[ number/NN ]
+./. 
+
+[ 1948/CD ]
+./. 
+
+[ You/PRP ]
+should/MD consider/VB 
+[ the/DT following/VBG points/NNS ]
+before/IN making/VBG 
+[ any/DT changes/NNS ]
+./. 
+
+[ 1949/CD ]
+./. 
+
+In/IN 
+[ most/JJS cases/NNS ]
+,/, 
+[ you/PRP ]
+do/VBP not/RB want/VB to/TO change/VB 
+[ this/DT ]
+./. 
+
+[ 1950/CD ]
+./. 
+
+[ You/PRP ]
+can/MD define/VB 
+[ a/DT default/NN user/NN ID/NN ]
+to/TO use/VB with/IN 
+[ all/DT ]
+of/IN 
+[ the/DT systems/NNS you/PRP ]
+have/VBP 
+[ access/NN ]
+to/TO ./. 
+
+[ 1951/CD ]
+./. 
+
+[ Personal/JJ computer/NN applications/NNS ]
+use/VBP 
+[ this/DT number/NN ]
+when/WRB communicating/VBG with/IN 
+[ the/DT router/NN ]
+./. 
+
+[ 1952/CD ]
+./. 
+
+Enter/VB 
+[ values/NNS ]
+for/IN 
+[ the/DT prompts/NNS ]
+in/IN 
+[ the/DT window/NN ]
+./. 
+
+[ 1953/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+describes/VBZ 
+[ the/DT prompts/NNS ]
+and/CC 
+[ the/DT values/NNS you/PRP ]
+can/MD enter/VB ./. 
+
+[ 1954/CD ]
+./. 
+
+[ Press/VB F1/NNP ]
+(/( 
+[ Help/NN ]
+)/) for/IN 
+[ additional/JJ help/NN information/NN ]
+./. 
+
+[ 1955/CD ]
+./. 
+
+In/IN 
+[ most/JJS cases/NNS ]
+,/, 
+[ you/PRP ]
+will/MD not/RB change/VB 
+[ this/DT value/NN ]
+from/IN 
+[ that/DT ]
+specified/VBN when/WRB 
+[ PC/NNP Support/NNP ]
+was/VBD installed/VBN ./. 
+
+[ 1956/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ specified/VBN when/WRB 
+[ PC/NNP Support/NNP ]
+is/VBZ installed/VBN ./. 
+
+[ 1957/CD ]
+./. 
+
+-/: Do/VB not/RB put/VB 
+[ any/DT blank/JJ spaces/NNS ]
+in/IN 
+[ the/DT name/NN ]
+./. 
+
+[ 1958/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+supply/VBP 
+[ a/DT value/NN ]
+for/IN 
+[ this/DT prompt/NN ]
+,/, 
+[ it/PRP ]
+must/MD be/VB 
+[ 1/CD ]
+to/TO 
+[ 10/CD characters/NNS ]
+long/RB ./. 
+
+[ 1959/CD ]
+./. 
+
+[ The/DT default/NN ]
+for/IN 
+[ this/DT prompt/NN ]
+is/VBZ 
+[ 68/CD ]
+./. 
+
+[ 1960/CD ]
+./. 
+
+In/IN 
+[ most/JJS cases/NNS ]
+,/, 
+[ you/PRP ]
+will/MD not/RB need/VB to/TO change/VB 
+[ this/DT number/NN ]
+./. 
+
+[ 1961/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP ,/, specify/VB 
+[ a/DT number/NN ]
+between/IN 
+[ 60/CD ]
+and/CC 
+[ 68/CD ]
+./. 
+
+[ 1962/CD ]
+./. 
+
+[ Press/VB ]
+
+[ the/DT Enter/NNP key/NN ]
+after/IN 
+[ you/PRP ]
+have/VBP entered/VBN 
+[ the/DT values/NNS ]
+./. 
+
+[ 1963/CD ]
+./. 
+
+Start/VB 
+[ your/PRP$ personal/JJ computer/NN ]
+and/CC 
+[ the/DT router/NN ]
+again/RB if/IN 
+[ the/DT router/NN ]
+was/VBD already/RB running/VBG ./. 
+
+[ 1964/CD ]
+./. 
+
+Or/CC ,/, use/VB 
+[ the/DT remove/NN PC/NNP Support/NNP function/NN ]
+to/TO remove/VB 
+[ the/DT router/NN ]
+from/IN 
+[ memory/NN ]
+,/, and/CC then/RB enter/VB 
+[ the/DT STARTRTR/NNP command/NN ]
+again/RB ./. 
+
+[ 1965/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+use/VBP 
+[ an/DT IBM/NNP Token-Ring/NNP Network/NNP ]
+,/, 
+[ you/PRP ]
+have/VBP 
+[ the/DT ability/NN ]
+to/TO attach/VB more/JJR than/IN 
+[ one/CD device/NN ]
+to/TO 
+[ the/DT network/NN ]
+and/CC have/VB 
+[ all/PDT the/DT devices/NNS ]
+on/IN 
+[ the/DT network/NN ]
+communicate/VB ./. 
+
+[ 1966/CD ]
+./. 
+
+[ It/PRP ]
+does/VBZ not/RB need/VB to/TO pass/VB through/IN 
+[ one/CD system/NN ]
+to/TO communicate/VB with/IN 
+[ another/DT ]
+./. 
+
+[ 1967/CD ]
+./. 
+
+[ DOS/NNP ]
+must/MD be/VB loaded/VBN on/IN 
+[ the/DT personal/JJ computer/NN ]
+./. 
+
+[ 1968/CD ]
+./. 
+
+See/VB 
+[ the/DT correct/JJ DOS/NNP manuals/NNS ]
+to/TO determine/VB how/WRB to/TO load/VB 
+[ DOS/NNP ]
+./. 
+
+[ 1969/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+and/CC 
+[ the/DT translation/NN table/NN utility/NN ]
+without/IN 
+[ the/DT router/NN being/VBG active/NN ]
+./. 
+
+[ 1970/CD ]
+./. 
+
+However/RB ,/, 
+[ the/DT router/NN ]
+must/MD be/VB active/JJ to/TO use/VB 
+[ any/DT ]
+of/IN 
+[ the/DT other/JJ functions/NNS ]
+of/IN 
+[ PC/NNP Support/NNP ]
+./. 
+
+[ 1971/CD ]
+./. 
+
+[ This/DT connection/NN ]
+is/VBZ called/VBN 
+[ a/DT link/NN ]
+./. 
+
+[ 1972/CD ]
+./. 
+
+[ You/PRP ]
+can/MD operate/VB 
+[ PC/NNP Support/NNP ]
+using/VBG 
+[ the/DT set/NN ]
+up/RP provided/VBN ,/, or/CC 
+[ you/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+to/TO add/VB to/TO or/CC change/VB 
+[ the/DT information/NN ]
+in/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 1973/CD ]
+./. 
+
+[ The/DT information/NN ]
+is/VBZ in/IN 
+[ the/DT form/NN ]
+of/IN 
+[ a/DT four-character/JJ identifier/NN ]
+./. 
+
+[ 1974/CD ]
+./. 
+
+[ The/DT following/VBG list/NN ]
+shows/VBZ 
+[ the/DT configuration/NN file/NN information/NN ]
+used/VBN to/TO set/VB up/RP 
+[ the/DT adapter/NN ]
+./. 
+
+[ 1975/CD ]
+./. 
+
+[ The/DT actual/JJ four-character/JJ identifier/NN ]
+found/VBN in/IN 
+[ the/DT configuration/NN file/NN ]
+follows/VBZ in/IN 
+[ parentheses/NNS ]
+./. 
+
+[ 1976/CD ]
+./. 
+
+Stopping/VBG and/CC starting/VBG 
+[ the/DT router/NN ]
+with/IN 
+[ the/DT STOPRTR/NNP ]
+and/CC 
+[ STARTRTR/NNP commands/NNS ]
+does/VBZ not/RB cause/VB 
+[ the/DT TRAL/NNP ]
+and/CC 
+[ TRAS/NNP identifiers/NNS ]
+to/TO take/VB 
+[ effect/NN ]
+./. 
+
+[ 1977/CD ]
+./. 
+
+When/WRB 
+[ the/DT router/NN ]
+is/VBZ stopped/VBN by/IN 
+[ the/DT STOPRTR/NNP command/NN ]
+,/, 
+[ the/DT adapter/NN ]
+remains/VBZ in/IN 
+[ an/DT open/JJ condition/NN ]
+;/: therefore/RB ,/, 
+[ the/DT TRAL/NNP ]
+and/CC 
+[ the/DT TRAS/NNP configuration/NN file/NN identifiers/NNS ]
+do/VBP not/RB take/VB 
+[ effect/NN ]
+if/IN 
+[ the/DT router/NN ]
+is/VBZ started/VBN again/RB ./. 
+
+[ 1978/CD ]
+./. 
+
+[ The/DT amount/NN ]
+of/IN 
+[ adapter-shared/JJ memory/NN ]
+remains/VBZ fixed/VBN ./. 
+
+[ 1979/CD ]
+./. 
+
+[ The/DT adapter-shared/JJ memory/NN ]
+is/VBZ divided/VBN into/IN 
+[ two/CD areas/NNS ]
+./. 
+
+[ 1980/CD ]
+./. 
+
+[ The/DT same/JJ configuration/NN file/NN information/NN ]
+used/VBN to/TO open/VB and/CC set/VB up/RP 
+[ the/DT adapter/NN ]
+is/VBZ used/VBN to/TO affect/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT adapter-shared/JJ memory/NN ]
+./. 
+
+[ 1981/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+do/VBP need/VB to/TO change/VB 
+[ the/DT values/NNS ]
+,/, keep/VB 
+[ them/PRP ]
+as/RB small/JJ as/IN 
+[ possible/JJ ]
+./. 
+
+[ 1982/CD ]
+./. 
+
+[ You/PRP ]
+can/MD use/VB 
+[ the/DT PC/NNP Support/NNP configuration/NN program/NN ]
+to/TO change/VB 
+[ these/DT values/NNS ]
+./. 
+
+[ 1983/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+add/VBP 
+[ a/DT link/NN ]
+using/VBG 
+[ the/DT configuration/NN program/NN ]
+,/, 
+[ each/DT TRLI/NNP entry/NN ]
+contains/VBZ 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT link/NN ]
+
+[ you/PRP ]
+want/VBP established/VBN and/CC 
+[ the/DT adapter/NN address/NN ]
+of/IN 
+[ the/DT remote/JJ system/NN ]
+
+[ you/PRP ]
+want/VBP to/TO connect/VB to/TO ./. 
+
+[ 1984/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+on/IN 
+[ the/DT configuration/NN program/NN ]
+,/, refer/VB to/TO 
+[ Chapter/NN 2/CD ]
+,/, ``/`` 
+[ Configuring/VBG PC/NNP Support/NNP ]
+with/IN 
+[ the/DT Configuration/NNP Program/NNP ]
+./. 
+
+[ ''/'' 1985/CD ]
+./. 
+
+[ You/PRP ]
+must/MD know/VB 
+[ the/DT adapter/NN address/NN ]
+of/IN 
+[ each/DT ]
+of/IN 
+[ these/DT systems/NNS ]
+./. 
+
+[ 1986/CD ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ the/DT one/NN ]
+
+[ you/PRP ]
+use/VBP most/RBS often/RB from/IN 
+[ day/NN ]
+to/TO 
+[ day/NN ]
+./. 
+
+[ 1987/CD ]
+./. 
+
+[ The/DT adapter/NN address/NN ]
+of/IN 
+[ this/DT system/NN ]
+is/VBZ 
+[ 1000A7001234/CD ]
+./. 
+
+[ 1988/CD ]
+./. 
+
+[ The/DT first/JJ parameter/NN ]
+on/IN 
+[ the/DT TRLI/NNP entry/NN ]
+is/VBZ 
+[ the/DT link/NN name/NN ]
+./. 
+
+[ 1989/CD ]
+./. 
+
+As/IN 
+[ each/DT entry/NN ]
+is/VBZ processed/VBN ,/, 
+[ an/DT attempt/NN ]
+is/VBZ made/VBN to/TO communicate/VB to/TO 
+[ the/DT system/NN ]
+with/IN 
+[ the/DT specified/VBN adapter/NN address/NN ]
+./. 
+
+[ 1990/CD ]
+./. 
+
+[ The/DT first/JJ link/NN ]
+started/VBN (/( in/IN 
+[ this/DT example/NN ]
+,/, 
+[ the/DT department/NN system/NN ]
+)/) is/VBZ always/RB 
+[ the/DT default/NN link/NN ]
+./. 
+
+[ 1991/CD ]
+./. 
+
+[ This/DT ]
+means/VBZ that/IN 
+[ all/PDT the/DT virtual/JJ print/NN ]
+and/CC 
+[ transfer/NN function/NN requests/NNS ]
+are/VBP directed/VBN to/TO 
+[ this/DT system/NN ]
+./. 
+
+[ 1992/CD ]
+./. 
+
+[ You/PRP ]
+can/MD create/VB 
+[ the/DT alternative/JJ configuration/NN file/NN ]
+using/VBG 
+[ the/DT PC/NNP Support/NNP configuration/NN file/NN ]
+./. 
+
+[ 1993/CD ]
+./. 
+
+To/TO do/VB 
+[ this/DT ]
+,/, enter/VB 
+[ the/DT STARTRTR/NNP command/NN ]
+with/IN 
+[ the/DT name/NN ]
+of/IN 
+[ the/DT configuration/NN file/NN ]
+./. 
+
+[ 1994/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+set/VBD up/RP 
+[ the/DT TRLI/NNP entry/NN ]
+,/, 
+[ you/PRP ]
+can/MD specify/VB 
+[ an/DT action/NN ]
+to/TO be/VB performed/VBN on/IN 
+[ the/DT link/NN ]
+./. 
+
+[ 1995/CD ]
+./. 
+
+[ Specify/VB ]
+
+[ the/DT Release/NNP action/NN ]
+to/TO release/VB 
+[ a/DT link/NN ]
+./. 
+
+[ 1996/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+are/VBP done/VBN using/VBG 
+[ this/DT printer/NN ]
+,/, 
+[ you/PRP ]
+may/MD want/VB to/TO release/VB 
+[ any/DT virtual/JJ printers/NNS you/PRP ]
+have/VBP assigned/VBN to/TO 
+[ it/PRP ]
+and/CC then/RB stop/VB 
+[ the/DT link/NN ]
+./. 
+
+[ 1997/CD ]
+./. 
+
+Then/RB ,/, complete/VB 
+[ the/DT steps/NNS ]
+for/IN adding/VBG 
+[ a/DT link/NN ]
+,/, being/VBG sure/RB to/TO specify/VB 
+[ the/DT Release/NN action/NN ]
+./. 
+
+[ 1998/CD ]
+./. 
+
+If/IN 
+[ this/DT ]
+were/VBD also/RB 
+[ the/DT default/NN link/NN ]
+,/, 
+[ the/DT router/NN ]
+would/MD search/VB 
+[ its/PRP$ link/NN table/NN ]
+for/IN 
+[ the/DT first/JJ active/JJ link/NN ]
+./. 
+
+[ 1999/CD ]
+./. 
+
+In/IN 
+[ this/DT case/NN ]
+,/, 
+[ that/DT ]
+is/VBZ 
+[ the/DT DEPT/NNP link/NN ]
+./. 
+
+[ 2000/CD ]
+./. 
+
+[ DEPT/NNP ]
+then/RB becomes/VBZ 
+[ the/DT new/JJ default/NN link/NN ]
+./. 

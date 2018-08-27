@@ -1,0 +1,284 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT House/NNP subcommittee/NN ]
+said/VBD in/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ the/DT Epilepsy/NNP Foundation/NNP ]
+of/IN 
+[ America/NNP ]
+that/IN 
+[ it/PRP ]
+has/VBZ ``/`` 
+[ no/DT confidence/NN ]
+''/'' that/IN 
+[ generic/JJ anti-epileptic/JJ drugs/NNS ]
+are/VBP safe/JJ ./. 
+
+======================================
+
+[ The/DT subcommittee/NN ]
+said/VBD 
+[ its/PRP$ investigation/NN ]
+``/`` leaves/VBZ 
+[ us/PRP ]
+with/IN 
+[ no/DT confidence/NN ]
+''/'' that/IN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+``/`` has/VBZ 
+[ the/DT ability/NN ]
+,/, or/CC that/IN 
+[ a/DT significant/JJ portion/NN ]
+of/IN 
+[ the/DT generic/JJ drug/NN industry/NN ]
+has/VBZ 
+[ the/DT integrity/NN ]
+,/, to/TO assure/VB that/IN 
+[ the/DT manufacture/NN ]
+of/IN extremely/RB 
+[ sensitive/JJ medications/NNS ]
+''/'' is/VBZ safe/JJ ./. 
+
+======================================
+
+[ Rep./NNP John/NNP Dingell/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mich./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT subcommittee/NN ]
+,/, also/RB asked/VBD 
+[ the/DT FDA/NNP ]
+in/IN 
+[ a/DT letter/NN ]
+to/TO review/VB ``/`` 
+[ all/DT drugs/NNS ]
+used/VBN to/TO treat/VB 
+[ epilepsy/NN ]
+and/CC 
+[ any/DT other/JJ narrow/JJ therapeutic/JJ range/NN medication/NN ]
+''/'' made/VBN by/IN 
+[ generic/JJ drug/NN companies/NNS ]
+
+[ that/WDT ]
+are/VBP considered/VBN equivalent/JJ to/TO brand/NN 
+[ name/NN drugs/NNS ]
+./. 
+
+======================================
+
+Specifically/RB ,/, 
+[ the/DT Dingell/NNP subcommittee/NN ]
+cited/VBD 
+[ a/DT 1988/CD recall/NN ]
+of/IN 
+[ carbamazepine/NN ]
+,/, 
+[ an/DT anti-epileptic/JJ drug/NN ]
+made/VBN by/IN 
+[ Pharmaceutical/NNP Basics/NNP Inc./NNP ]
+,/, 
+[ Denver/NNP ]
+,/, 
+[ Colo./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Akzo/NNP N.V/NNP ]
+./. 
+
+[ The/DT subcommittee/NN ]
+also/RB said/VBD 
+[ it/PRP ]
+has/VBZ ``/`` 
+[ preliminary/JJ information/NN ]
+''/'' that/IN 
+[ two/CD other/JJ generic/JJ drug/NN makers/NNS ]
+``/`` may/MD have/VB made/VBN 
+[ misrepresentations/NNS ]
+''/'' to/TO obtain/VB 
+[ FDA/NNP clearance/NN ]
+for/IN 
+[ diazepam/NN ]
+,/, 
+[ the/DT generic/JJ version/NN ]
+of/IN 
+[ Valium/NNP ]
+,/, also/RB used/VBN for/IN 
+[ epilepsy/NN ]
+./. 
+
+======================================
+
+[ Pharmaceutical/NNP Basics/NNP ]
+said/VBD in/IN 
+[ a/DT statement/NN ]
+that/IN 
+[ its/PRP$ recall/NN ]
+of/IN 
+[ carbamazepine/NN ]
+was/VBD due/JJ to/TO 
+[ problems/NNS ]
+with/IN 
+[ the/DT drug/NN ]
+properly/RB dissolving/VBG ./. 
+
+[ The/DT company/NN ]
+said/VBD that/IN is/VBZ n't/RB ``/`` 
+[ an/DT unusual/JJ problem/NN ]
+for/IN 
+[ this/DT particular/JJ drug/NN ]
+regardless/RB of/IN 
+[ the/DT manufacturer/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+added/VBD that/IN 
+[ it/PRP ]
+has/VBZ increased/VBN 
+[ controls/NNS ]
+to/TO 
+[ its/PRP$ manufacturing/NN process/NN ]
+to/TO assure/VB 
+[ the/DT safety/NN ]
+and/CC 
+[ efficacy/NN ]
+of/IN 
+[ the/DT product/NN ]
+./. 
+
+======================================
+
+[ The/DT FDA/NNP ]
+said/VBD 
+[ it/PRP ]
+is/VBZ in/IN 
+[ the/DT process/NN ]
+of/IN reviewing/VBG 
+[ the/DT country/NN 's/POS top/JJ 30/CD selling/JJ drugs/NNS ]
+,/, including/VBG 
+[ some/DT anti-seizure/JJ medications/NNS ]
+,/, and/CC that/IN 
+[ it/PRP ]
+
+[ has/VBZ n't/RB ]
+turned/VBN up/RP 
+[ any/DT serious/JJ problems/NNS ]
+./. 
+
+[ One/CD ]
+of/IN 
+[ the/DT most/RBS common/JJ problems/NNS ]
+,/, 
+[ an/DT agency/NN spokesman/NN ]
+said/VBD ,/, is/VBZ that/IN 
+[ drugs/NNS ]
+do/VBP n't/RB dissolve/VB properly/RB ./. 
+
+[ The/DT Dingell/NNP subcommittee/NN ]
+contended/VBD 
+[ carbamazepine/NN problems/NNS ]
+were/VBD 
+[ the/DT result/NN ]
+of/IN 
+[ the/DT firm/NN ]
+switching/VBG ``/`` from/IN 
+[ a/DT ]
+more/RBR expensive/JJ to/TO 
+[ a/DT cheaper/JJR raw/JJ material/NN supplier/NN ]
+./. 
+
+''/'' But/CC 
+[ Pharmaceutical/NNP Basics/NNP ]
+said/VBD 
+[ any/DT implication/NN ]
+``/`` that/IN 
+[ our/PRP$ choice/NN ]
+of/IN either/DT of/IN 
+[ our/PRP$ suppliers/NNS ]
+of/IN 
+[ this/DT raw/JJ material/NN ]
+was/VBD based/VBN on/IN 
+[ cost/NN consideration/NN ]
+rather/RB than/IN 
+[ quality/NN ]
+and/CC 
+[ continuity/NN ]
+of/IN 
+[ supply/NN ]
+is/VBZ wrong/JJ ./. 
+
+''/'' 
+======================================
+
+[ Several/JJ people/NNS ]
+had/VBD 
+[ seizures/NNS ]
+because/IN 
+[ the/DT drug/NN ]
+passed/VBD through/IN 
+[ their/PRP$ bodies/NNS ]
+without/IN dissolving/VBG ,/, and/CC at/IN 
+[ least/JJS one/CD person/NN ]
+died/VBD ,/, according/VBG to/TO 
+[ the/DT FDA/NNP recall/NN report/NN ]
+./. 
+
+[ Hospital/NNP records/NNS ]
+indicated/VBD that/IN 
+[ the/DT tablets/NNS ]
+were/VBD ``/`` 
+[ sub-therapeutic/JJ ]
+,/, ''/'' 
+[ the/DT report/NN ]
+said/VBD ./. 
+
+======================================
+
+However/RB ,/, 
+[ Pharmaceutical/NNP Basics/NNP ]
+contended/VBD ,/, ``/`` 
+[ any/DT implication/NN ]
+that/IN 
+[ the/DT problems/NNS we/PRP ]
+had/VBD with/IN 
+[ this/DT drug.../: ]
+caused/VBD 
+[ mortality/NN ]
+is/VBZ wrong/JJ ./. 
+
+''/'' 
+[ The/DT company/NN ]
+said/VBD 
+[ side/JJ effects/NNS ]
+,/, including/VBG 
+[ death/NN ]
+,/, 
+[ result/VBP ]
+from/IN 
+[ both/CC generic/JJ ]
+and/CC 
+[ brand/NN name/NN drugs/NNS ]
+./. 

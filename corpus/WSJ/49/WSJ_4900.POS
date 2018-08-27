@@ -1,0 +1,557 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Wendy/NNP 's/POS International/NNP Inc./NNP 's/POS ]
+``/`` Where/WRB 's/VBZ 
+[ the/DT beef/NN ]
+?/. ''/'' 
+[ ads/NNS ]
+made/VBD 
+[ a/DT mint/NN ]
+for/IN 
+[ the/DT hamburger/NN chain/NN ]
+and/CC turned/VBD 
+[ Clara/NNP Peller/NNP ]
+into/IN 
+[ a/DT stentorian/JJ ]
+,/, 
+[ crotchety/JJ cult/NN hero/NN ]
+./. 
+
+But/CC since/IN 
+[ the/DT 1984/CD campaign/NN ]
+,/, 
+[ Wendy/NNP 's/POS ]
+has/VBZ spun/VBN 
+[ its/PRP$ wheels/NNS ]
+with/IN 
+[ an/DT ill-fated/JJ omelette/NN ]
+,/, 
+[ slipshod/JJ stores/NNS ]
+and/CC 
+[ forgettable/JJ ads/NNS ]
+./. 
+
+======================================
+
+Now/RB 
+[ the/DT company/NN ]
+has/VBZ turned/VBN to/TO 
+[ another/DT improbable/JJ television/NN personality/NN ]
+:/: 
+[ R./NNP David/NNP Thomas/NNP ]
+,/, 
+[ who/WP ]
+founded/VBD 
+[ Wendy/NNP 's/POS 20/CD years/NNS ]
+ago/RB ./. 
+
+[ The/DT round-faced/JJ ]
+,/, 
+[ bespectacled/JJ Mr./NNP Thomas/NNP ]
+hopes/VBZ 
+[ his/PRP$ folksy/JJ on-air/JJ demeanor/NN ]
+will/MD improve/VB 
+[ the/DT company/NN 's/POS image/NN ]
+./. 
+
+======================================
+
+[ Lee/NNP Iacocca/NNP ]
+,/, 
+[ he/PRP ]
+'s/VBZ not/RB ./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP 
+[ a/DT hamburger/NN cook/NN ]
+,/, not/RB 
+[ a/DT celebrity/NN ]
+,/, ''/'' says/VBZ 
+[ the/DT 57-year-old/JJ Mr./NNP Thomas/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+'m/VBP only/RB trying/VBG to/TO sell/VB 
+[ hamburgers/NNS ]
+,/, and/CC if/IN 
+[ I/PRP ]
+do/VBP n't/RB ,/, 
+[ I/PRP ]
+'m/VBP 
+[ history/NN ]
+./. 
+
+''/'' 
+======================================
+
+Selling/VBG 
+[ hamburgers/NNS ]
+is/VBZ tough/JJ 
+[ these/DT days/NNS ]
+for/IN 
+[ fast-food/NN restaurants/NNS ]
+./. 
+
+[ The/DT $/$ 60-billion-a-year/JJ industry/NN ]
+expects/VBZ 
+[ little/JJ growth/NN ]
+
+[ this/DT year/NN ]
+,/, and/CC 
+[ heavy/JJ ]
+discounting/NN to/TO boost/VB 
+[ market/NN share/NN ]
+is/VBZ cutting/VBG 
+[ profits/NNS ]
+./. 
+
+[ Small/JJ ]
+drive-through/JJ 
+[ hamburger/NN stands/NNS ]
+have/VBP saturated/VBN 
+[ some/DT markets/NNS ]
+,/, while/IN 
+[ beef/NN consumption/NN ]
+in/IN 
+[ general/JJ ]
+is/VBZ falling/VBG ./. 
+
+======================================
+
+[ Wendy/NNP 's/POS ]
+desperately/RB needs/VBZ to/TO increase/VB 
+[ customer/NN traffic/NN ]
+for/IN 
+[ its/PRP$ 1,159/CD company-operated/JJ restaurants/NNS ]
+and/CC 
+[ 2,609/CD franchisees/NNS ]
+./. 
+
+In/IN 
+[ the/DT first/JJ ]
+
+[ half/NN ]
+of/IN 
+[ this/DT year/NN ]
+,/, 
+[ Wendy/NNP 's/POS operating/NN profit/NN ]
+fell/VBD 
+[ 29/CD %/NN ]
+to/TO 
+[ $/$ 10.1/CD million/CD ]
+,/, largely/RB because/IN of/IN 
+[ higher/JJR costs/NNS ]
+related/VBN to/TO couponing/NN ,/, 
+[ local/JJ advertising/NN ]
+and/CC 
+[ chicken/NN prices/NNS ]
+./. 
+
+======================================
+
+[ Wendy/NNP ]
+'s/POS ,/, based/VBN in/IN 
+[ Dublin/NNP ]
+,/, 
+[ Ohio/NNP ]
+,/, has/VBZ seen/VBN 
+[ its/PRP$ market/NN share/NN fall/VB ]
+to/TO 
+[ 4.8/CD %/NN last/JJ year/NN ]
+from/IN 
+[ 5.5/CD %/NN ]
+in/IN 
+[ 1984/CD ]
+./. 
+
+[ Competition/NN ]
+with/IN 
+[ the/DT three/CD leading/JJ hamburger/NN chains/NNS ]
+--/: 
+[ McDonald/NNP 's/POS Corp./NNP ]
+,/, 
+[ Grand/NNP Metropolitan/NNP PLC/NNP 's/POS Burger/NNP King/NNP ]
+and/CC 
+[ Imasco/NNP Ltd./NNP 's/POS Hardee/NNP ]
+'s/POS --/: is/VBZ expected/VBN to/TO intensify/VB ./. 
+
+======================================
+
+[ Burger/NNP King/NNP ]
+in/IN 
+[ May/NNP ]
+switched/VBD advertising/NN 
+[ agencies/NNS ]
+,/, dropping/VBG 
+[ N/NNP W/NNP Ayer/NNP ]
+and/CC 
+[ splitting/VBG its/PRP$ $/$ 215/CD million/CD account/NN ]
+equally/RB between/IN 
+[ D'Arcy/NNP Masius/NNP Benton/NNP ]
+&/CC 
+[ Bowles/NNP ]
+and/CC 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Advertising/NNP ]
+./. 
+
+[ The/DT first/JJ ads/NNS ]
+are/VBP expected/VBN to/TO appear/VB 
+[ this/DT fall/NN ]
+./. 
+
+[ London-based/JJ Grand/NNP Met/NNP ]
+,/, 
+[ which/WDT ]
+acquired/VBD 
+[ Burger/NNP King/NNP last/JJ year/NN ]
+,/, is/VBZ expected/VBN to/TO heavily/RB promote/VB 
+[ the/DT chain/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+will/MD put/VB added/JJ 
+[ pressure/NN ]
+on/IN 
+[ Wendy/NNP 's/POS ]
+,/, 
+[ which/WDT ]
+has/VBZ sunk/VBN 
+[ most/JJS ]
+of/IN 
+[ its/PRP$ $/$ 50/CD million/CD television/NN advertising/NN budget/NN ]
+for/IN 
+[ 1989/CD ]
+into/IN 
+[ the/DT David/NNP Thomas/NNP commercials/NNS ]
+,/, produced/VBN by/IN 
+[ Backer/NNP Spielvogel/NNP Bates/NNP ]
+./. 
+
+[ Trade/NN publications/NNS ]
+,/, such/JJ as/IN 
+[ Advertising/NNP Age/NNP ]
+,/, have/VBP panned/VBN 
+[ the/DT ads/NNS ]
+,/, saying/VBG that/IN 
+[ Mr./NNP Thomas/NNP ]
+is/VBZ stiff/JJ and/CC 
+[ awkward/JJ ]
+,/, but/CC 
+[ polls/NNS ]
+conducted/VBN in/IN 
+[ July/NNP ]
+by/IN 
+[ the/DT Gallup/NNP Organization/NNP ]
+show/VBP that/IN 
+[ the/DT ads/NNS ]
+have/VBP increased/VBN 
+[ consumer/NN awareness/NN ]
+./. 
+
+[ Wendy/NNP 's/POS has/VBZ n't/RB ]
+released/VBN 
+[ sales/NNS figures/NNS ]
+since/IN 
+[ the/DT campaign/NN ]
+went/VBD into/IN 
+[ full/JJ swing/NN ]
+in/IN 
+[ June/NNP ]
+./. 
+
+======================================
+
+[ Wendy/NNP 's/POS ]
+still/RB appears/VBZ to/TO be/VB searching/VBG for/IN 
+[ the/DT right/JJ TV/NN ad/NN formula/NN ]
+./. 
+
+[ James/NNP W/NNP ]
+./.  
+
+Near/NNP ,/, 
+[ Wendy/NNP 's/POS president/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+,/, says/VBZ 
+[ the/DT ads/NNS ]
+with/IN 
+[ Mr./NNP Thomas/NNP ]
+are/VBP 
+[ a/DT ]
+``/`` 
+[ bridge/NN ]
+until/IN 
+[ we/PRP ]
+find/VBP out/RP 
+[ what/WP ]
+
+[ we/PRP ]
+want/VBP to/TO do/VB with/IN 
+[ our/PRP$ marketing/NN ]
+./. 
+
+''/'' 
+[ The/DT company/NN ]
+also/RB plans/VBZ to/TO run/VB 
+[ ads/NNS ]
+featuring/VBG 
+[ Mr./NNP Thomas/NNP 's/POS daughter/NN ]
+,/, 
+[ Wendy/NNP ]
+,/, for/IN 
+[ whom/WP ]
+
+[ the/DT chain/NN ]
+was/VBD named/VBN ./. 
+
+ (/( 
+[ Wendy/NNP ]
+,/, now/RB 
+[ 28/CD years/NNS ]
+old/JJ ,/, and/CC 
+[ her/PRP$ husband/NN ]
+operate/VBP 
+[ a/DT golf/NN course/NN ]
+in/IN 
+[ Columbia/NNP ]
+,/, 
+[ S.C/NNP ]
+./. 
+
+ )/) 
+======================================
+
+[ Mr/NNP ]
+./.  
+
+Near/NNP acknowledges/VBZ that/IN 
+[ Wendy/NNP 's/POS ]
+has/VBZ had/VBN 
+[ trouble/NN ]
+forging/VBG 
+[ a/DT consistent/JJ ]
+,/, 
+[ strong/JJ identity/NN ]
+./. 
+
+Unlike/IN 
+[ McDonald/NNP 's/POS ]
+,/, 
+[ whose/WP$ ads/NNS ]
+always/RB include/VBP 
+[ the/DT same/JJ type/NN ]
+of/IN 
+[ happy/JJ jingles/NNS ]
+,/, 
+[ family/NN images/NNS ]
+and/CC 
+[ golden/JJ arches/NNS ]
+,/, 
+[ Wendy/NNP 's/POS has/VBZ n't/RB ]
+been/VBN 
+[ able/JJ latch/NN ]
+on/IN to/TO 
+[ lasting/JJ slogans/NNS ]
+or/CC 
+[ motifs/NNS ]
+./. 
+
+Further/RB ,/, 
+[ its/PRP$ expanded/JJ menu/NN ]
+of/IN 
+[ salads/NNS ]
+,/, 
+[ chicken/NN sandwiches/NNS ]
+and/CC 
+[ small/JJ buffets/NNS ]
+with/IN 
+[ Mexican/JJ food/NN ]
+and/CC 
+[ pasta/NN ]
+may/MD have/VB detracted/VBN from/IN 
+[ what/WP ]
+
+[ Wendy/NNP 's/POS ]
+says/VBZ is/VBZ 
+[ its/PRP$ strong/JJ suit/NN ]
+--/: 
+[ high-quality/JJ hamburgers/NNS ]
+./. 
+
+[ An/DT omelette/NN ]
+introduced/VBN in/IN 
+[ 1985/CD ]
+flopped/VBD --/: partly/RB because/IN 
+[ customers/NNS ]
+could/MD n't/RB eat/VB 
+[ it/PRP ]
+in/IN 
+[ the/DT car/NN ]
+--/: and/CC was/VBD discontinued/VBN by/IN 
+[ most/JJS stores/NNS ]
+./. 
+
+======================================
+
+[ Wendy/NNP 's/POS problems/NNS ]
+have/VBP also/RB stemmed/VBN from/IN 
+[ neglecting/VBG store/NN operations/NNS ]
+during/IN 
+[ the/DT years/NNS ]
+of/IN 
+[ runaway/JJ growth/NN ]
+./. 
+
+During/IN much/JJ of/IN 
+[ the/DT 1980s/CD ]
+,/, 
+[ Wendy/NNP 's/POS added/VBN hundreds/NNS ]
+of/IN 
+[ stores/NNS ]
+
+[ each/DT year/NN ]
+,/, and/CC 
+[ customers/NNS ]
+came/VBD by/IN 
+[ droves/NNS ]
+after/IN 
+[ the/DT ]
+``/`` Where/WRB 's/VBZ 
+[ the/DT beef/NN ]
+''/'' 
+[ campaign/NN ]
+./. 
+
+[ They/PRP ]
+found/VBD 
+[ the/DT beef/NN ]
+,/, but/CC 
+[ they/PRP ]
+also/RB found/VBD 
+[ poor/JJ service/NN ]
+,/, 
+[ messy/JJ tables/NNS ]
+and/CC 
+[ inconsistent/JJ quality/NN ]
+./. 
+
+======================================
+
+[ Wendy/NNP 's/POS ]
+``/`` did/VBD n't/RB watch/VB 
+[ the/DT stores/NNS ]
+as/RB carefully/RB as/IN 
+[ they/PRP ]
+should/MD have/VB been/VBN ,/, and/CC 
+[ some/DT credibility/NN ]
+was/VBD lost/VBN between/IN 
+[ the/DT franchisee/NN ]
+and/CC 
+[ the/DT company/NN ]
+,/, ''/'' says/VBZ 
+[ Mr/NNP ]
+./.  
+
+[ Near/NNP ]
+,/, 
+[ a/DT former/JJ Wendy/NNP 's/POS franchise/NN owner/NN ]
+./. 
+
+======================================
+
+[ Mr/NNP ]
+./.  
+
+[ Near/NNP ]
+
+[ 's/POS effort/NN ]
+to/TO turn/VB 
+[ Wendy/NNP 's/POS ]
+around/IN began/VBD when/WRB 
+[ he/PRP ]
+joined/VBD 
+[ the/DT company/NN ]
+as/IN 
+[ chief/JJ operating/NN officer/NN ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+[ He/PRP ]
+cut/VBD 
+[ 500/CD positions/NNS ]
+,/, or/CC about/RB 
+[ one-third/NN ]
+of/IN 
+[ the/DT staff/NN ]
+./. 
+
+[ Last/JJ year/NN Wendy/NNP ]
+'s/VBZ sold/VBD or/CC closed/VBD 
+[ 26/CD more/JJR stores/NNS ]
+than/IN 
+[ it/PRP ]
+opened/VBD ./. 
+
+[ Mr/NNP ]
+./.  
+
+Near/NNP ,/, 
+[ 51/CD ]
+,/, has/VBZ also/RB introduced/VBN 
+[ a/DT smaller/JJR ]
+,/, 
+[ less/RBR expensive/JJ hamburger/NN ]
+and/CC 
+[ several/JJ 99-cent/JJ items/NNS ]
+,/, such/JJ as/IN 
+[ junior/JJ bacon/NN cheeseburgers/NNS ]
+./. 
+
+======================================
+
+[ Wendy/NNP 's/POS ]
+also/RB is/VBZ seeking/VBG to/TO ensure/VB that/IN 
+[ bathrooms/NNS ]
+are/VBP mopped/VBN and/CC 
+[ employees/NNS ]
+smile/VBP ./. 
+
+[ This/DT month/NN ]
+
+[ it/PRP ]
+is/VBZ offering/VBG 
+[ cash/NN incentives/NNS ]
+to/TO 
+[ the/DT operators/NNS ]
+of/IN 
+[ the/DT best-looking/JJ restaurants/NNS ]
+,/, and/CC 
+[ the/DT manager/NN ]
+of/IN 
+[ the/DT cleanest/JJS Wendy/NNP 's/POS ]
+gets/VBZ 
+[ a/DT Corvette/NNP ]
+./. 

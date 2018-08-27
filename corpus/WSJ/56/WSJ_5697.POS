@@ -1,0 +1,792 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ New/NNP Deal/NNP philosophers/NNS Adolph/NNP Berle/NNP ]
+and/CC 
+[ Gardner/NNP Means/NNP ]
+in/IN 
+[ 1932/CD ]
+published/VBD ``/`` 
+[ The/DT Modern/JJ Corporation/NN ]
+and/CC 
+[ Private/JJ Property/NN ]
+,/, ''/'' 
+[ a/DT book/NN ]
+
+[ that/WDT ]
+much/RB pleased/VBD 
+[ the/DT American/JJ near-left/NN ]
+./. 
+
+[ It/PRP ]
+argued/VBD that/IN 
+[ the/DT ascendancy/NN ]
+of/IN 
+[ professional/JJ managers/NNS ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT broad/JJ spread/NN ]
+of/IN 
+[ public/JJ stock/NN ownership/NN ]
+of/IN 
+[ the/DT ]
+Roaring/NNP 
+[ '20s/NNPS ]
+had/VBD severed/VBN 
+[ corporate/JJ control/NN ]
+from/IN 
+[ corporate/JJ ownership/NN ]
+./. 
+
+[ Government/NN ]
+was/VBD justified/VBN in/IN challenging/VBG 
+[ these/DT managers/NNS ]
+
+[ who/WP ]
+had/VBD usurped/VBN 
+[ economic/JJ power/NN ]
+./. 
+
+======================================
+
+[ Nine/CD years/NNS ]
+later/RB ,/, in/IN ``/`` 
+[ The/DT Managerial/JJ Revolution/NN ]
+,/, ''/'' 
+[ James/NNP Burnham/NNP ]
+attacked/VBD from/IN 
+[ the/DT opposite/JJ direction/NN ]
+./. 
+
+[ He/PRP ]
+asserted/VBD that/IN 
+[ capitalism/NN ]
+
+[ itself/PRP ]
+,/, not/RB 
+[ government/NN ]
+,/, had/VBD 
+[ the/DT most/JJS ]
+to/TO fear/VB from/IN 
+[ the/DT new/JJ professionals/NNS ]
+./. 
+
+[ They/PRP ]
+offer/VBP 
+[ little/JJ resistance/NN ]
+to/TO 
+[ socialism/NN ]
+,/, 
+[ he/PRP ]
+argued/VBD ,/, because/IN 
+[ they/PRP ]
+have/VBP 
+[ no/DT deep/JJ philosophical/JJ commitment/NN ]
+to/TO 
+[ private/JJ property/NN ]
+and/CC could/MD as/RB happily/RB manage/VB 
+[ state/NN corporations/NNS ]
+as/IN 
+[ private/JJ ones/NNS ]
+./. 
+
+======================================
+
+Professionally/RB managed/JJ 
+[ corporations/NNS ]
+grew/VBD and/CC prospered/VBD despite/IN 
+[ such/JJ attacks/NNS ]
+./. 
+
+[ The/DT professionals/NNS ]
+were/VBD good/JJ at/IN 
+[ their/PRP$ jobs/NNS ]
+./. 
+
+[ Alfred/NNP P./NNP Sloan/NNP Jr./NNP ]
+decentralized/VBD 
+[ General/NNP Motors/NNPS ]
+,/, showing/VBG how/WRB to/TO manage/VB efficiently/RB 
+[ vast/JJ enterprises/NNS ]
+with/IN 
+[ many/JJ production/NN ]
+and/CC 
+[ sales/NNS units/NNS ]
+and/CC 
+[ many/JJ thousands/NNS ]
+of/IN 
+[ employees/NNS ]
+./. 
+
+[ Pearl/NNP Harbor/NNP ]
+touched/VBD off/RP 
+[ amazing/JJ managerial/JJ feats/NNS ]
+as/IN 
+[ consumer-goods/NNS plants/NNS ]
+were/VBD retooled/VBN in/IN 
+[ months/NNS ]
+to/TO produce/VB 
+[ weapons/NNS ]
+./. 
+
+[ Postwar/RB ]
+,/, 
+[ CEOs/NNS ]
+made/VBD 
+[ use/NN ]
+of/IN 
+[ strong/JJ dollars/NNS ]
+and/CC 
+[ American/JJ political/JJ hegemony/NN ]
+to/TO internationalize/VB ./. 
+
+In/IN 
+[ response/NN ]
+to/TO 
+[ political/JJ ]
+and/CC 
+[ social/JJ pressures/NNS ]
+in/IN 
+[ the/DT 1960s/NNS ]
+and/CC 
+[ 1970s/NNS ]
+,/, 
+[ they/PRP ]
+turned/VBD 
+[ corporations/NNS ]
+into/IN 
+[ miniwelfare/JJ states/NNS ]
+,/, with/IN 
+[ wide-ranging/JJ benefits/NNS ]
+and/CC 
+[ protections/NNS ]
+for/IN 
+[ employees/NNS ]
+./. 
+
+======================================
+
+Now/RB ,/, 
+[ another/DT challenge/NN ]
+looms/VBZ ./. 
+
+[ Professional/JJ managers/NNS ]
+are/VBP confronted/VBN with/IN ``/`` 
+[ the/DT market/NN ]
+for/IN 
+[ corporate/JJ control/NN ]
+''/'' as/IN 
+[ raiders/NNS ]
+seek/VBP 
+[ their/PRP$ assets/NNS ]
+and/CC 
+[ power/NN ]
+./. 
+
+[ LBOs/NNS ]
+,/, 
+[ management/NN buy-outs/NNS ]
+,/, 
+[ division/NN spinoffs/NNS ]
+and/CC 
+[ stock/NN repurchases/NNS ]
+are/VBP restoring/VBG 
+[ narrow/JJ private/JJ ownership/NN ]
+./. 
+
+As/IN 
+[ owners/NNS ]
+increasingly/RB take/VBP 
+[ a/DT direct/JJ hand/NN ]
+in/IN 
+[ management/NN ]
+,/, and/CC vice/RB versa/RB ,/, 
+[ corporations/NNS ]
+look/VBP 
+[ more/RBR ]
+and/CC more/RBR like/IN 
+[ those/DT ]
+created/VBN early/RB in/IN 
+[ the/DT century/NN ]
+by/IN 
+[ the/DT likes/NNS ]
+of/IN 
+[ J.P./NNP Morgan/NNP ]
+,/, 
+[ Henry/NNP Ford/NNP ]
+,/, 
+[ Thomas/NNP Edison/NNP ]
+,/, 
+[ Harvey/NNP Firestone/NNP ]
+and/CC 
+[ other/JJ rugged/JJ individualists/NNS ]
+./. 
+
+======================================
+
+[ A/DT new/JJ debate/NN rages/VBZ ]
+:/: Is/VBZ 
+[ this/DT bad/JJ ]
+or/CC 
+[ good/JJ ]
+?/. 
+
+Do/VBP 
+[ the/DT raiders/NNS ]
+mostly/RB milk/VB 
+[ the/DT corporations/NNS ]
+?/. 
+
+Is/VBZ 
+[ the/DT heavy/JJ use/NN ]
+of/IN 
+[ leverage/NN ]
+dangerous/JJ ?/. 
+
+Is/VBZ there/RB 
+[ insufficient/JJ regard/NN ]
+for/IN 
+[ employee/NN welfare/NN ]
+?/. 
+
+Does/VBZ 
+[ the/DT risk/NN ]
+of/IN 
+[ hostile/JJ takeovers/NNS ]
+force/VB 
+[ corporate/JJ officers/NNS ]
+to/TO focus/VB on/IN 
+[ the/DT short/JJ term/NN ]
+and/CC ignore/VB 
+[ the/DT corporation/NN 's/POS long-range/JJ interests/NNS ]
+?/. 
+
+[ An/DT excellent/JJ discussion/NN ]
+of/IN 
+[ these/DT issues/NNS ]
+is/VBZ offered/VBN in/IN 
+[ the/DT September-October/NNP Harvard/NNP Business/NNP Review/NNP ]
+by/IN 
+[ two/CD Harvard/NNP Business/NNP School/NNP professors/NNS ]
+,/, 
+[ Michael/NNP C./NNP Jensen/NNP ]
+and/CC 
+[ Jay/NNP O./NNP Light/NNP ]
+./. 
+
+[ Prof./NNP Jensen/NNP ]
+argues/VBZ that/IN 
+[ what/WP ]
+
+[ he/PRP ]
+calls/VBZ 
+[ the/DT ]
+``/`` 
+[ Eclipse/NN ]
+of/IN 
+[ the/DT Public/JJ Corporation/NN ]
+''/'' is/VBZ ,/, on/IN 
+[ balance/NN ]
+,/, 
+[ good/JJ ]
+./. 
+
+For/IN 
+[ one/CD thing/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ breaking/VBG down/RP 
+[ the/DT natural/NN reluctance/NN ]
+of/IN 
+[ managers/NNS ]
+to/TO return/VB 
+[ surpluses/NNS ]
+to/TO 
+[ the/DT capital/NN markets/NNS ]
+through/IN 
+[ dividends/NNS ]
+,/, where/WRB 
+[ they/PRP ]
+will/MD be/VB subject/JJ to/TO 
+[ market/NN judgments/NNS ]
+in/IN 
+[ their/PRP$ reinvestment/NN ]
+./. 
+
+[ It/PRP ]
+has/VBZ subjected/VBN 
+[ managers/NNS ]
+not/RB only/RB to/TO 
+[ capital-market/NN disciplines/NNS ]
+but/CC also/RB to/TO 
+[ the/DT direct/JJ scrutiny/NN ]
+of/IN 
+[ new/JJ owners/NNS ]
+with/IN 
+[ very/RB large/JJ stakes/NNS ]
+in/IN 
+[ performance/NN ]
+./. 
+
+[ Managers/NNS ]
+are/VBP no/RB longer/RB as/RB able/JJ as/IN in/IN 
+[ the/DT past/NN ]
+to/TO apply/VB 
+[ their/PRP$ own/JJ tests/NNS ]
+to/TO 
+[ investment/NN decisions/NNS ]
+./. 
+
+[ Those/DT tests/NNS ]
+might/MD be/VB 
+[ no/DT ]
+more/RBR beneficial/JJ to/TO 
+[ shareholders/NNS ]
+or/CC 
+[ the/DT economy/NN ]
+than/IN 
+[ their/PRP$ desire/NN ]
+to/TO make/VB 
+[ the/DT company/NN larger/JJR ]
+,/, giving/VBG 
+[ themselves/PRP ]
+
+[ more/JJR prestige/NN ]
+and/CC 
+[ middle/JJ managers/NNS more/JJR chances/NNS ]
+for/IN 
+[ promotion/NN ]
+./. 
+
+======================================
+
+[ Prof./NNP Jensen/NNP ]
+asserts/VBZ ,/, ``/`` 
+[ The/DT ]
+publicly/RB held/JJ 
+[ corporation/NN ]
+,/, 
+[ the/DT main/JJ engine/NN ]
+of/IN 
+[ economic/JJ progress/NN ]
+in/IN 
+[ the/DT United/NNP States/NNPS ]
+for/IN 
+[ a/DT century/NN ]
+,/, has/VBZ outlived/VBN 
+[ its/PRP$ usefulness/NN ]
+in/IN 
+[ many/JJ sectors/NNS ]
+of/IN 
+[ the/DT economy/NN ]
+and/CC is/VBZ being/VBG eclipsed/VBN ./. 
+
+''/'' 
+[ He/PRP ]
+believes/VBZ that/IN 
+[ a/DT profound/JJ change/NN ]
+in/IN 
+[ American/JJ capitalism/NN ]
+is/VBZ well/RB under/IN 
+[ way/NN ]
+and/CC thinks/VBZ 
+[ it/PRP ]
+should/MD be/VB encouraged/VBN ./. 
+
+``/`` By/IN resolving/VBG 
+[ the/DT central/JJ weakness/NN ]
+of/IN 
+[ the/DT public/JJ corporation/NN ]
+--/: 
+[ the/DT conflict/NN ]
+between/IN 
+[ owners/NNS ]
+and/CC 
+[ managers/NNS ]
+over/IN 
+[ the/DT control/NN ]
+and/CC 
+[ use/NN ]
+of/IN 
+[ corporate/JJ resources/NNS ]
+--/: 
+[ these/DT new/JJ organizations/NNS ]
+are/VBP making/VBG 
+[ remarkable/JJ gains/NNS ]
+in/IN 
+[ operating/NN efficiency/NN ]
+,/, 
+[ employee/NN productivity/NN ]
+and/CC 
+[ shareholder/NN value/NN ]
+./. 
+
+Over/IN 
+[ the/DT long/JJ term/NN ]
+,/, 
+[ they/PRP ]
+will/MD enhance/VB 
+[ U.S./NNP economic/JJ performance/NN ]
+relative/JJ to/TO 
+[ our/PRP$ most/RBS formidable/JJ international/JJ competitor/NN ]
+,/, 
+[ Japan/NNP ]
+,/, 
+[ whose/WP$ companies/NNS ]
+are/VBP moving/VBG in/IN 
+[ the/DT opposite/JJ direction/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ This/DT revolution/NN ]
+is/VBZ not/RB happening/VBG because/IN 
+[ someone/NN ]
+decreed/VBD 
+[ a/DT new/JJ ]
+``/`` 
+[ industrial/JJ policy/NN ]
+''/'' from/IN 
+[ Washington/NNP ]
+,/, but/CC rather/RB because/IN of/IN 
+[ major/JJ changes/NNS ]
+taking/VBG 
+[ place/NN ]
+in/IN 
+[ the/DT capital/NN markets/NNS themselves/PRP ]
+./. 
+
+[ Huge/JJ supplies/NNS ]
+of/IN 
+[ capital/NN ]
+are/VBP building/VBG up/RB in/IN 
+[ the/DT hands/NNS ]
+of/IN 
+[ institutional/JJ investors/NNS ]
+--/: 
+[ pension/NN funds/NNS ]
+in/IN 
+[ particular/NN ]
+./. 
+
+[ Their/PRP$ investment/NN needs/NNS ]
+are/VBP very/RB different/JJ from/IN 
+[ those/DT ]
+of/IN 
+[ individual/JJ investors/NNS ]
+./. 
+
+In/IN 
+[ his/PRP$ companion/NN piece/NN ]
+,/, 
+[ Prof./NNP Light/NNP ]
+notes/VBZ that/IN 
+[ pension/NN funds/NNS ]
+do/VBP n't/RB really/RB need/VB 
+[ the/DT liquidity/NN ]
+
+[ the/DT individual/NN ]
+wants/VBZ ,/, since/IN 
+[ they/PRP ]
+``/`` can/MD project/VB 
+[ their/PRP$ cash/NN ]
+needs/NNS well/RB into/IN 
+[ the/DT future/NN ]
+based/VBN on/IN 
+[ predictable/JJ factors/NNS ]
+such/JJ as/IN 
+[ employee/NN demographics/NNS ]
+,/, 
+[ life/NN expectancies/NNS ]
+and/CC 
+[ health/NN trends/NNS ]
+./. 
+
+So/RB 
+[ they/PRP ]
+can/MD take/VB 
+[ a/DT long-term/JJ view/NN ]
+of/IN 
+[ investment/NN returns/NNS ]
+and/CC keep/VB 
+[ their/PRP$ holdings/NNS ]
+in/IN 
+[ illiquid/JJ assets/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Stock/NN ]
+trading/NN is/VBZ essentially/RB 
+[ a/DT zero-sum/JJ game/NN ]
+for/IN 
+[ big/JJ funds/NNS ]
+since/IN ,/, on/IN 
+[ average/NN ]
+,/, 
+[ their/PRP$ managers/NNS ]
+can/MD never/RB beat/VB 
+[ the/DT market/NN ]
+
+[ itself/PRP ]
+./. 
+
+So/RB 
+[ it/PRP ]
+is/VBZ 
+[ an/DT attractive/JJ alternative/NN ]
+to/TO take/VB 
+[ large/JJ positions/NNS ]
+in/IN 
+[ companies/NNS ]
+,/, through/IN 
+[ private/JJ placements/NNS ]
+or/CC 
+[ LBO/NN syndicates/NNS ]
+,/, and/CC exercise/VB 
+[ a/DT direct/JJ hand/NN ]
+in/IN improving/VBG 
+[ the/DT company/NN 's/POS investment/NN performance/NN ]
+./. 
+
+======================================
+
+[ Prof./NNP Jensen/NNP ]
+notes/VBZ that/IN 
+[ private/JJ placements/NNS ]
+of/IN 
+[ debt/NN ]
+and/CC 
+[ equity/NN ]
+have/VBP risen/VBN more/RBR than/IN tenfold/RB since/IN 
+[ 1980/CD ]
+and/CC now/RB account/VBP for/IN more/JJR than/IN 
+[ 40/CD %/NN ]
+of/IN 
+[ annual/JJ corporate/JJ financings/NNS ]
+./. 
+
+``/`` In/IN 
+[ every/DT year/NN ]
+since/IN 
+[ 1983/CD ]
+,/, at/IN 
+[ least/JJS 5/CD %/NN ]
+of/IN 
+[ the/DT outstanding/JJ value/NN ]
+of/IN 
+[ corporate/JJ equity/NN ]
+has/VBZ disappeared/VBN through/IN 
+[ stock/NN repurchases/NNS ]
+,/, 
+[ takeovers/NNS ]
+,/, and/CC 
+[ going-private/JJ transactions/NNS ]
+./. 
+
+''/'' Indeed/RB ,/, 
+[ Prof./NNP Light/NNP ]
+observes/VBZ ,/, fancifully/RB 
+[ he/PRP ]
+admits/VBZ ,/, that/IN if/IN 
+[ the/DT current/JJ trend/NN ]
+should/MD continue/VB ,/, ``/`` 
+[ the/DT last/JJ share/NN ]
+of/IN 
+[ a/DT ]
+publicly/RB traded/JJ 
+[ common/JJ stock/NN ]
+owned/VBN by/IN 
+[ an/DT individual/NN ]
+will/MD be/VB sold/VBN in/IN 
+[ the/DT year/NN 2003/CD ]
+./. 
+
+''/'' 
+======================================
+
+[ There/EX ]
+is/VBZ 
+[ a/DT certain/JJ plausibility/NN ]
+in/IN 
+[ the/DT argument/NN ]
+that/IN 
+[ greater/JJR owner/NN involvement/NN ]
+in/IN 
+[ corporate/JJ management/NN ]
+is/VBZ 
+[ a/DT good/JJ thing/NN ]
+./. 
+
+Indeed/RB ,/, 
+[ some/DT corporate/JJ CEOs/NNP ]
+take/VBP 
+[ that/DT view/NN ]
+
+[ themselves/PRP ]
+,/, saying/VBG that/IN operating/VBG 
+[ a/DT company/NN ]
+in/IN 
+[ a/DT kind/NN ]
+of/IN 
+[ ownership/NN limbo/NN ]
+makes/VBZ 
+[ them/PRP ]
+uncomfortable/JJ ./. 
+
+On/IN 
+[ the/DT other/JJ hand/NN ]
+,/, 
+[ very/RB few/JJ CEOs/NNS ]
+want/VBP to/TO be/VB 
+[ victims/NNS ]
+of/IN 
+[ hostile/JJ takeovers/NNS ]
+./. 
+
+And/CC 
+[ their/PRP$ fears/NNS ]
+that/IN 
+[ some/DT ]
+of/IN 
+[ the/DT raiders/NNS ]
+are/VBP merely/RB looking/VBG for/IN 
+[ a/DT short-term/JJ gain/NN ]
+,/, not/RB 
+[ real/JJ ownership/NN ]
+,/, have/VBP 
+[ justification/NN ]
+in/IN 
+[ recent/JJ experience/NN ]
+./. 
+
+======================================
+
+Then/RB ,/, of/IN 
+[ course/NN ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ the/DT question/NN ]
+of/IN 
+[ what/WDT role/NN stock/NN exchanges/NNS ]
+will/MD play/VB in/IN 
+[ this/DT future/JJ world/NN ]
+of/IN 
+[ narrow/JJ ownership/NN ]
+and/CC 
+[ less/JJR interest/NN ]
+in/IN 
+[ liquidity/NN ]
+./. 
+
+Will/MD 
+[ they/PRP ]
+become/VB less/RBR important/JJ ?/. 
+
+======================================
+
+[ Prof./NNP Jensen/NNP ]
+does/VBZ n't/RB think/VB that/IN 
+[ the/DT privatization/NN trend/NN ]
+will/MD be/VB universal/JJ ./. 
+
+[ The/DT conventional/JJ 20th-century/JJ model/NN ]
+of/IN 
+[ corporate/JJ governance/NN ]
+,/, with/IN widely/RB dispersed/JJ 
+[ owners/NNS ]
+and/CC 
+[ professional/JJ managers/NNS ]
+,/, will/MD remain/VB 
+[ viable/JJ ]
+for/IN 
+[ growth/NN industries/NNS ]
+,/, where/WRB 
+[ attractive/JJ opportunities/NNS ]
+for/IN 
+[ investment/NN ]
+continue/VBP to/TO exceed/VB 
+[ cash/NN generation/NN ]
+,/, 
+[ he/PRP ]
+believes/VBZ ./. 
+
+[ Such/JJ firms/NNS ]
+will/MD continue/VB to/TO need/VB 
+[ capitalmarket/NN liquidity/NN ]
+./. 
+
+[ Computers/NNS ]
+,/, 
+[ electronics/NNS ]
+,/, 
+[ biotechnology/NN ]
+and/CC 
+[ financial/JJ services/NNS ]
+are/VBP 
+[ examples/NNS ]
+./. 
+
+[ Privatization/NN ]
+is/VBZ most/RBS appealing/JJ for/IN 
+[ industries/NNS ]
+with/IN 
+[ large/JJ cash/NN flows/NNS ]
+and/CC limited/JJ 
+[ opportunities/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ short/JJ ]
+,/, 
+[ American/JJ industry/NN ]
+and/CC 
+[ capital/NN markets/NNS ]
+can/MD ,/, in/IN 
+[ the/DT absence/NN ]
+of/IN 
+[ political/JJ interference/NN ]
+,/, adapt/VB to/TO 
+[ changing/VBG circumstances/NNS ]
+quite/RB effectively/RB ./. 
+
+[ That/DT early/JJ debate/NN ]
+about/IN 
+[ the/DT consequences/NNS ]
+of/IN 
+[ the/DT gap/NN ]
+between/IN 
+[ ownership/NN ]
+and/CC 
+[ control/NN ]
+has/VBZ taken/VBN 
+[ a/DT long/JJ time/NN ]
+to/TO bear/VB 
+[ fruit/NN ]
+./. 
+
+But/CC now/RB 
+[ the/DT market/NN ]
+is/VBZ setting/VBG about/RB to/TO resolve/VB 
+[ it/PRP ]
+./. 

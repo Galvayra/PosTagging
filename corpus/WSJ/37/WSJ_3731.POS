@@ -1,0 +1,366 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Japan/NNP 's/POS Fair/NNP Trade/NNP Commission/NNP ]
+searched/VBD 
+[ offices/NNS ]
+of/IN 
+[ Canon/NNP Sales/NNP Co./NNP ]
+and/CC 
+[ Apple/NNP Computer/NNP Japan/NNP Co./NNP ]
+,/, saying/VBG 
+[ it/PRP ]
+suspected/VBD 
+[ the/DT companies/NNS ]
+of/IN ``/`` unlawfully/RB impeding/VBG ''/'' 
+[ sales/NNS ]
+by/IN 
+[ independent/JJ importers/NNS ]
+of/IN 
+[ Apple/NNP personal/JJ computers/NNS ]
+./. 
+
+======================================
+
+[ Canon/NNP Sales/NNPS ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Japan/NNP 's/POS Canon/NNP Inc./NNP ]
+,/, and/CC 
+[ Apple/NNP Computer/NNP Japan/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Apple/NNP Computer/NNP Co./NNP ]
+,/, 
+[ Cupertino/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, denied/VBD 
+[ the/DT antitrust/JJ allegations/NNS ]
+./. 
+
+``/`` Although/IN 
+[ we/PRP ]
+think/VBP 
+[ there/EX ]
+was/VBD n't/RB 
+[ such/JJ alleged/VBN fact/NN ]
+,/, 
+[ we/PRP ]
+are/VBP reinvestigating/VBG 
+[ the/DT charge/NN ]
+with/IN 
+[ the/DT officials/NNS ]
+concerned/VBN ,/, ''/'' 
+[ Canon/NNP Sales/NNPS ]
+said/VBD ./. 
+
+======================================
+
+According/VBG to/TO 
+[ a/DT spokesman/NN ]
+for/IN 
+[ the/DT trade/NN commission/NN ]
+,/, 
+[ Canon/NNP Sales/NNP ]
+,/, 
+[ which/WDT ]
+markets/VBZ 
+[ Apple/NNP 's/POS Macintosh/NNP personal/JJ computers/NNS ]
+here/RB ,/, 
+[ allegedly/RB pressured/JJ four/CD computer/NN magazines/NNS ]
+
+[ this/DT year/NN ]
+to/TO suspend/VB 
+[ ads/NNS ]
+from/IN 
+[ independent/JJ importers/NNS ]
+selling/VBG 
+[ personal/JJ computers/NNS ]
+at/IN 
+[ a/DT discount/NN ]
+./. 
+
+======================================
+
+[ Japanese/JJ press/NN reports/NNS ]
+say/VBP 
+[ Canon/NNP Sales/NNP ]
+handles/VBZ about/IN 
+[ 80/CD %/NN ]
+to/TO 
+[ 90/CD %/NN ]
+of/IN 
+[ Apple/NNP 's/POS sales/NNS ]
+in/IN 
+[ Japan/NNP ]
+,/, but/CC 
+[ Apple/NNP ]
+refused/VBD to/TO confirm/VB 
+[ that/DT figure/NN ]
+./. 
+
+[ Apple/NNP ]
+has/VBZ 
+[ a/DT nominal/JJ share/NN ]
+of/IN 
+[ the/DT personal-computer/NN market/NN ]
+in/IN 
+[ Japan/NNP ]
+,/, 
+[ which/WDT ]
+is/VBZ dominated/VBN by/IN 
+[ NEC/NNP Corp./NNP ]
+with/IN more/JJR than/IN 
+[ a/DT 50/CD %/NN share/NN ]
+./. 
+
+======================================
+
+[ Canon/NNP Sales/NNPS ]
+offers/VBZ 
+[ discounts/NNS ]
+of/IN only/RB about/IN 
+[ 5/CD %/NN ]
+on/IN 
+[ Apple/NNP computers/NNS ]
+,/, far/RB smaller/JJR than/IN 
+[ discounts/NNS ]
+offered/VBN by/IN 
+[ many/JJ Apple/NNP vendors/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, 
+[ the/DT commission/NN spokesman/NN ]
+said/VBD ./. 
+
+[ He/PRP ]
+said/VBD 
+[ independent/JJ importers/NNS ]
+have/VBP been/VBN selling/VBG 
+[ Macintosh/NNP Plus/NNP models/NNS ]
+at/IN about/IN 
+[ 200,000/CD yen/NNS ]
+ (/( 
+[ $/$ 1,430/CD ]
+ )/) per/IN 
+[ unit/NN ]
+,/, compared/VBN with/IN 
+[ the/DT 368,000/CD yen/NNS ]
+ (/( 
+[ $/$ 2,635/CD ]
+ )/) 
+[ base/NN price/NN ]
+set/VBN by/IN 
+[ Apple/NNP 's/POS agents/NNS ]
+./. 
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ Apple/NNP Computer/NNP Japan/NNP ]
+cited/VBD 
+[ the/DT Japanese-language/NN capability/NN ]
+of/IN 
+[ the/DT computers/NNS ]
+marketed/VBN here/RB through/IN 
+[ its/PRP$ authorized/JJ dealers/NNS ]
+./. 
+
+[ The/DT computers/NNS ]
+sold/VBN by/IN 
+[ independent/JJ importers/NNS ]
+do/VBP n't/RB have/VB 
+[ this/DT capability/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ Apple/NNP Computer/NNP Japan/NNP ]
+is/VBZ suspected/JJ of/IN having/VBG 
+[ pressured/JJ personal-computer/NN shops/NNS ]
+not/RB to/TO provide/VB 
+[ service/NN ]
+for/IN 
+[ personal/JJ computers/NNS ]
+handled/VBN by/IN 
+[ independent/JJ importers/NNS ]
+,/, 
+[ the/DT commission/NN spokesman/NN ]
+said/VBD ./. 
+
+======================================
+
+If/IN 
+[ the/DT commission/NN ]
+decides/VBZ 
+[ the/DT allegations/NNS ]
+are/VBP true/JJ ,/, 
+[ it/PRP ]
+will/MD order/VB 
+[ Canon/NNP ]
+and/CC 
+[ Apple/NNP ]
+to/TO correct/VB 
+[ the/DT situation/NN ]
+./. 
+
+If/IN 
+[ the/DT companies/NNS ]
+comply/VBP ,/, 
+[ they/PRP ]
+wo/MD n't/RB be/VB punished/VBN or/CC fined/VBN ./. 
+
+[ The/DT commission/NN spokesman/NN ]
+said/VBD 
+[ this/DT ]
+is/VBZ 
+[ an/DT administrative/JJ action/NN ]
+based/VBN on/IN 
+[ Article/NN 19/CD ]
+of/IN 
+[ Japan/NNP 's/POS antitrust/JJ law/NN ]
+,/, and/CC stressed/VBD that/IN 
+[ the/DT law/NN ]
+does/VBZ n't/RB call/VB for/IN 
+[ penal/JJ punishment/NN ]
+./. 
+
+======================================
+
+[ Price/NN differences/NNS ]
+between/IN 
+[ products/NNS ]
+sold/VBN in/IN 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Japan/NNP ]
+are/VBP 
+[ a/DT major/JJ issue/NN ]
+in/IN 
+[ trade/NN ]
+talks/NNS 
+[ the/DT two/CD countries/NNS ]
+started/VBN 
+[ last/JJ month/NN ]
+./. 
+
+[ Slow/JJ sales/NNS ]
+of/IN 
+[ some/DT U.S./NNP products/NNS ]
+in/IN 
+[ Japan/NNP ]
+have/VBP been/VBN blamed/VBN largely/RB on/IN 
+[ higher/JJR prices/NNS ]
+resulting/VBG from/IN 
+[ Japan/NNP 's/POS ]
+complicated/JJ ,/, multilayered/JJ 
+[ distribution/NN system/NN ]
+./. 
+
+But/CC in/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ analysts/NNS ]
+say/VBP ,/, 
+[ company/NN efforts/NNS ]
+to/TO keep/VB 
+[ higher/JJR margins/NNS ]
+contribute/VBP to/TO 
+[ slow/JJ sales/NNS ]
+./. 
+
+======================================
+
+[ An/DT analyst/NN ]
+at/IN 
+[ Yamaichi/NNP Research/NNP Institute/NNP ]
+of/IN 
+[ Securities/NNPS ]
+and/CC 
+[ Economics/NNP ]
+,/, 
+[ an/DT affiliate/NN ]
+of/IN 
+[ Yamaichi/NNP Securities/NNPS Co./NNP ]
+,/, said/VBD 
+[ he/PRP ]
+thinks/VBZ 
+[ that/DT ]
+is/VBZ 
+[ the/DT case/NN ]
+with/IN 
+[ Apple/NNP computers/NNS ]
+sold/VBN in/IN 
+[ Japan/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD that/IN although/IN 
+[ Apple/NNP computers/NNS ]
+are/VBP becoming/VBG more/RBR popular/JJ among/IN 
+[ general/JJ users/NNS ]
+,/, 
+[ the/DT typical/JJ users/NNS ]
+still/RB are/VBP 
+[ computer/NN fanatics/NNS ]
+
+[ who/WP ]
+are/VBP n't/RB very/RB sensitive/JJ to/TO 
+[ prices/NNS ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ there/EX ]
+is/VBZ n't/RB 
+[ much/JJ pressure/NN ]
+on/IN 
+[ Apple/NNP ]
+to/TO 
+[ lower/VB prices/NNS ]
+,/, 
+[ the/DT analyst/NN ]
+said/VBD ./. 
+
+======================================
+
+[ Another/DT analyst/NN ]
+said/VBD 
+[ the/DT availability/NN ]
+and/CC 
+[ variety/NN ]
+of/IN 
+[ software/NN ]
+is/VBZ 
+[ the/DT most/RBS critical/JJ factor/NN ]
+for/IN 
+[ selling/VBG personal/JJ computers/NNS ]
+in/IN 
+[ Japan/NNP ]
+,/, so/IN that/IN 
+[ lower/JJR prices/NNS ]
+do/VBP n't/RB necessarily/RB mean/VB 
+[ an/DT immediate/JJ increase/NN ]
+in/IN 
+[ sales/NNS ]
+./. 

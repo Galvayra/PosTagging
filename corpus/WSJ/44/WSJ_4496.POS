@@ -1,0 +1,797 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Republicans/NNPS ]
+can/MD barely/RB contain/VB 
+[ themselves/PRP ]
+as/IN 
+[ they/PRP ]
+rush/VBP to/TO label/VB 
+[ the/DT Democrats/NNPS ]
+,/, again/RB ,/, as/IN 
+[ the/DT party/NN ]
+of/IN 
+[ taxes/NNS ]
+./. 
+
+[ The/DT Democrats/NNPS ]
+are/VBP thrilled/JJ at/IN 
+[ the/DT opportunity/NN ]
+to/TO describe/VB 
+[ their/PRP$ rivals/NNS ]
+,/, again/RB ,/, as/IN 
+[ the/DT party/NN ]
+of/IN 
+[ the/DT rich/JJ ]
+./. 
+
+======================================
+
+[ The/DT struggle/NN ]
+over/IN reducing/VBG 
+[ the/DT tax/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+gives/VBZ 
+[ both/DT ]
+
+[ parties/NNS ]
+
+[ a/DT chance/NN ]
+to/TO strike/VB where/WRB 
+[ their/PRP$ rivals/NNS ]
+are/VBP most/RBS vulnerable/JJ ./. 
+
+======================================
+
+[ The/DT Democrats/NNPS ]
+have/VBP been/VBN flooding/VBG 
+[ Republican/JJ districts/NNS ]
+with/IN 
+[ press/NN releases/NNS ]
+asking/VBG whether/IN 
+[ GOP/NNP lawmakers/NNS ]
+such/JJ as/IN 
+[ Rep./NNP Howard/NNP Coble/NNP ]
+of/IN 
+[ North/NNP Carolina/NNP ]
+--/: 
+[ one/CD ]
+of/IN 
+[ those/DT ]
+
+[ the/DT Democrats/NNPS ]
+have/VBP targeted/VBN on/IN 
+[ this/DT issue/NN ]
+--/: want/VBP ``/`` 
+[ a/DT savings/NNS vehicle/NN ]
+
+[ that/WDT ]
+helps/VBZ 
+[ middle-income/JJ people/NNS ]
+with/IN 
+[ retirement/NN ]
+,/, 
+[ college/NN expenses/NNS ]
+and/CC 
+[ homeownership/NN ]
+''/'' or/CC do/VBP 
+[ they/PRP ]
+``/`` want/VBP to/TO give/VB 
+[ a/DT tax/NN break/NN ]
+to/TO 
+[ the/DT richest/JJS people/NNS ]
+in/IN 
+[ America/NNP ]
+?/. 
+
+''/'' 
+======================================
+
+[ The/DT Republicans/NNPS ]
+,/, meanwhile/RB ,/, have/VBP been/VBN beaming/VBG 
+[ television/NN advertisements/NNS ]
+into/IN 
+[ Democratic/JJ districts/NNS ]
+--/: including/VBG that/DT of/IN 
+[ House/NNP Majority/NNP Leader/NNP Richard/NNP Gephardt/NNP ]
+of/IN 
+[ Missouri/NNP ]
+,/, 
+[ they/PRP ]
+point/VBP out/RP with/IN 
+[ delight/NN ]
+--/: arguing/VBG that/IN 
+[ the/DT current/JJ U.S./NNP capital-gains/NNS tax/NN rate/NN ]
+``/`` hurts/VBZ 
+[ small/JJ businesses/NNS ]
+trying/VBG to/TO expand/VB ,/, 
+[ families/NNS ]
+investing/VBG to/TO send/VB 
+[ kids/NNS ]
+to/TO 
+[ college/NN ]
+,/, 
+[ senior/JJ citizens/NNS ]
+preparing/VBG for/IN 
+[ retirement/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT vote/NN ]
+in/IN 
+[ the/DT House/NNP chamber/NN ]
+,/, expected/VBN 
+[ today/NN ]
+,/, is/VBZ only/RB 
+[ the/DT first/JJ major/JJ economic/JJ skirmish/NN ]
+in/IN 
+[ the/DT partisan/JJ battles/NNS ]
+of/IN 
+[ the/DT Bush/NNP years/NNS ]
+./. 
+
+But/CC 
+[ it/PRP ]
+may/MD well/RB define/VB 
+[ the/DT politics/NNS ]
+of/IN 
+[ the/DT next/JJ several/JJ years/NNS ]
+and/CC is/VBZ 
+[ a/DT struggle/NN ]
+that/IN ,/, as/IN 
+[ Morris/NNP Fiorina/NNP ]
+,/, 
+[ a/DT Harvard/NNP political/JJ scientist/NN ]
+puts/VBZ 
+[ it/PRP ]
+,/, ``/`` gives/VBZ 
+[ each/DT party/NN ]
+
+[ a/DT chance/NN ]
+to/TO confirm/VB 
+[ its/PRP$ main/JJ symbols/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Most/JJS political/JJ experts/NNS ]
+believe/VBP that/IN 
+[ the/DT Democrats/NNPS ]
+will/MD have/VB 
+[ the/DT upper/JJ hand/NN ]
+if/IN 
+[ they/PRP ]
+explain/VBP 
+[ their/PRP$ position/NN ]
+deftly/RB ,/, but/CC 
+[ the/DT Republicans/NNPS ]
+seem/VBP to/TO have/VB seized/VBN 
+[ the/DT initiative/NN ]
+and/CC put/VBN 
+[ the/DT Democrats/NNPS ]
+on/IN 
+[ the/DT defensive/NN ]
+./. 
+
+``/`` 
+[ The/DT usual/JJ situation/NN ]
+is/VBZ that/IN 
+[ we/PRP ]
+come/VBP up/RP with/IN 
+[ a/DT policy/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ the/DT Republicans/NNPS ]
+to/TO define/VB 
+[ us/PRP ]
+--/: 
+[ which/WDT ]
+
+[ they/PRP ]
+did/VBD within/IN about/RB 
+[ an/DT hour/NN ]
+and/CC 
+[ a/DT half/NN ]
+,/, ''/'' says/VBZ 
+[ William/NNP Hamilton/NNP ]
+,/, 
+[ a/DT Democratic/JJ pollster/NN ]
+./. 
+
+======================================
+
+Now/RB 
+[ Democratic/NN leaders/NNS ]
+are/VBP wagering/VBG that/IN 
+[ they/PRP ]
+can/MD portray/VB 
+[ themselves/PRP ]
+as/IN 
+[ defenders/NNS ]
+of/IN 
+[ the/DT middle/JJ class/NN ]
+by/IN opposing/VBG 
+[ President/NNP Bush/NNP 's/POS plan/NN ]
+to/TO cut/VB 
+[ the/DT maximum/JJ tax/NN rate/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+,/, now/RB 
+[ 33/CD %/NN ]
+,/, to/TO 
+[ 19.6/CD %/NN ]
+until/IN 
+[ 1992/CD ]
+and/CC thereafter/RB to/TO 
+[ 28/CD %/NN ]
+,/, with/IN 
+[ the/DT gain/NN ]
+indexed/VBN to/TO 
+[ inflation/NN ]
+./. 
+
+[ The/DT Democrats/NNPS ]
+are/VBP countering/VBG 
+[ the/DT president/NN ]
+with/IN 
+[ a/DT plan/NN ]
+
+[ that/WDT ]
+would/MD raise/VB 
+[ the/DT top/JJ income-tax/NN rate/NN ]
+for/IN 
+[ the/DT wealthiest/JJS Americans/NNPS ]
+but/CC would/MD allow/VB 
+[ middle-class/JJ taxpayers/NNS ]
+to/TO write/VB off/RP 
+[ half/PDT a/DT contribution/NN ]
+to/TO 
+[ an/DT individual/JJ retirement/NN account/NN ]
+,/, 
+[ which/WDT ]
+in/IN 
+[ turn/NN ]
+would/MD not/RB be/VB taxed/VBN until/IN 
+[ it/PRP ]
+is/VBZ withdrawn/VBN for/IN 
+[ retirement/NN ]
+,/, as/IN 
+[ a/DT down/JJ payment/NN ]
+on/IN 
+[ a/DT first/JJ home/NN ]
+or/CC to/TO pay/VB for/IN 
+[ college/NN tuition/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT Democrats/NNPS ]
+have/VBP picked/VBN 
+[ a/DT fight/NN ]
+with/IN 
+[ George/NNP Bush/NNP ]
+on/IN 
+[ an/DT issue/NN ]
+where/WRB 
+[ they/PRP ]
+can/MD reinforce/VB 
+[ their/PRP$ traditional/JJ concerns/NNS ]
+about/IN 
+[ equity/NN ]
+but/CC at/IN 
+[ the/DT same/JJ time/NN ]
+show/VBP 
+[ some/DT clear/JJ sense/NN ]
+of/IN 
+[ concern/NN ]
+about/IN 
+[ economic/JJ policy/NN ]
+,/, 
+[ efficiency/NN ]
+,/, 
+[ growth/NN ]
+and/CC 
+[ investment/NN ]
+,/, ''/'' says/VBZ 
+[ Thomas/NNP Mann/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ governmental/JJ studies/NNS ]
+at/IN 
+[ the/DT Brookings/NNP Institution/NNP ]
+./. 
+
+``/`` 
+[ They/PRP ]
+do/VBP n't/RB have/VB to/TO win/VB 
+[ this/DT ]
+to/TO reap/VB 
+[ some/DT benefit/NN ]
+from/IN 
+[ it/PRP ]
+./. 
+
+''/'' 
+======================================
+
+Indeed/RB ,/, 
+[ the/DT latest/JJS Wall/NNP Street/NNP Journal\/NBC/NNP News/NNP Poll/NNP ]
+shows/VBZ that/IN 
+[ voters/NNS ]
+with/IN 
+[ incomes/NNS ]
+between/IN 
+[ $/$ 20,000/CD ]
+and/CC 
+[ $/$ 50,000/CD ]
+overwhelmingly/RB prefer/VBP 
+[ the/DT Democratic/JJ plan/NN ]
+for/IN 
+[ individual/JJ retirement/NN ]
+accounts/NNS to/TO 
+[ the/DT Bush/NNP plan/NN ]
+to/TO reduce/VB 
+[ the/DT tax/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ a/DT good/JJ issue/NN ]
+for/IN 
+[ the/DT Democrats/NNPS ]
+because/IN 
+[ it/PRP ]
+allows/VBZ 
+[ them/PRP ]
+to/TO play/VB 
+[ New/NNP Deal/NNP populists/NNS ]
+,/, ''/'' says/VBZ 
+[ Michael/NNP Lyons/NNP ]
+,/, 
+[ a/DT Utah/NNP State/NNP University/NNP political/JJ scientist/NN ]
+./. 
+
+``/`` 
+[ Bush/NNP ]
+has/VBZ frustrated/VBN 
+[ them/PRP ]
+,/, in/IN 
+[ part/NN ]
+by/IN doing/VBG so/RB little/JJ ,/, in/IN 
+[ part/NN ]
+by/IN preserving/VBG 
+[ his/PRP$ popularity/NN ]
+./. 
+
+[ He/PRP ]
+'s/VBZ been/VBN 
+[ a/DT difficult/JJ target/NN ]
+and/CC 
+[ they/PRP ]
+'re/VBP so/RB eager/JJ for/IN 
+[ a/DT partisan/JJ confrontation/NN ]
+to/TO draw/VB 
+[ the/DT line/NN ]
+with/IN 
+[ him/PRP ]
+that/IN 
+[ they/PRP ]
+'ve/VBP seized/VBN on/IN 
+[ this/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ They/PRP ]
+'ve/VBP worked/VBN with/IN 
+[ the/DT AFL-CIO/NNP ]
+on/IN 
+[ a/DT radio/NN ad/NN ]
+aired/VBN during/IN 
+[ rush/NN hour/NN ]
+in/IN 
+[ Washington/NNP ]
+./. 
+
+[ They/PRP ]
+'ve/VBP taped/VBN 
+[ Rep./NNP Gephardt/NNP ]
+in/IN 
+[ front/NN ]
+of/IN 
+[ the/DT Capitol/NN ]
+and/CC sent/VBN 
+[ his/PRP$ image/NN ]
+by/IN 
+[ satellite/NN ]
+to/TO 
+[ local/JJ television/NN stations/NNS ]
+
+[ that/WDT ]
+do/VBP n't/RB have/VB 
+[ resident/JJ correspondents/NNS ]
+in/IN 
+[ Washington/NNP ]
+./. 
+
+[ They/PRP ]
+'ve/VBP contributed/VBN 
+[ op-ed/JJ pieces/NNS ]
+to/TO 
+[ newspapers/NNS ]
+across/IN 
+[ the/DT country/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT risk/NN ]
+for/IN 
+[ the/DT Democrats/NNPS ]
+is/VBZ that/IN 
+[ GOP/NNP spokesmen/NNS ]
+such/JJ as/IN 
+[ John/NNP Buckley/NNP ]
+of/IN 
+[ the/DT National/NNP Republican/NNP Congressional/NNP Committee/NNP ]
+will/MD seize/VB on/IN 
+[ the/DT tax/NN element/NN ]
+of/IN 
+[ the/DT Democratic/JJ plan/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+know/VBP 
+[ John/NNP Buckley/NNP ]
+'s/VBZ licking/VBG 
+[ his/PRP$ chops/NNS ]
+at/IN 
+[ the/DT prospect/NN ]
+of/IN selling/VBG 
+[ this/DT ]
+as/IN 
+[ a/DT Democratic/JJ tax/NN increase/NN ]
+,/, ''/'' says/VBZ 
+[ Michael/NNP McCurry/NNP ]
+,/, 
+[ spokesman/NN ]
+for/IN 
+[ the/DT Democratic/NNP National/NNP Committee/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+know/VBP 
+[ something/NN ]
+,/, 
+[ he/PRP ]
+'s/VBZ right/JJ ,/, ''/'' rejoins/VBZ 
+[ Mr./NNP Buckley/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+fully/RB intend/VBP to/TO portray/VB 
+[ Democrats/NNPS ]
+as/IN 
+[ criminals/NNS ]
+
+[ who/WP ]
+ca/MD n't/RB resist/VB returning/VBG to/TO 
+[ the/DT scene/NN ]
+of/IN 
+[ the/DT crime/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Buckley/NNP 's/POS operation/NN ]
+has/VBZ prepared/VBN 
+[ radio/NN interviews/NNS ]
+for/IN 
+[ stations/NNS ]
+across/IN 
+[ the/DT country/NN ]
+and/CC is/VBZ primed/JJ to/TO send/VB 
+[ press/NN releases/NNS ]
+into/IN 
+[ districts/NNS ]
+of/IN 
+[ Democrats/NNPS ]
+that/IN 
+[ GOP/NNP strategists/NNS ]
+consider/VBP 
+[ vulnerable/JJ ]
+in/IN 
+[ next/JJ year/NN 's/POS midterm/JJ congressional/JJ elections/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'ll/MD put/VB 
+[ it/PRP ]
+into/IN as/RB 
+[ stark/RB political/JJ terms/NNS ]
+as/IN 
+[ they/PRP ]
+will/MD ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` However/WRB 
+[ they/PRP ]
+try/VBP to/TO demonize/VB 
+[ Republicans/NNPS ]
+,/, 
+[ we/PRP ]
+can/MD equally/RB demonize/VB 
+[ them/PRP ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT GOP/NNP strategy/NN ]
+is/VBZ to/TO broaden/VB 
+[ the/DT debate/NN ]
+beyond/IN 
+[ capital/NN gains/NNS ]
+and/CC to/TO portray/VB 
+[ the/DT issue/NN ]
+as/IN 
+[ one/CD ]
+of/IN 
+[ U.S./NNP competitiveness/NN ]
+and/CC 
+[ fairness/NN ]
+to/TO 
+[ middle-class/JJ voters/NNS ]
+
+[ who/WP ]
+want/VBP to/TO sell/VB 
+[ an/DT asset/NN ]
+to/TO underwrite/VB 
+[ college/NN tuition/NN ]
+rather/RB than/IN as/IN 
+[ a/DT sop/NN ]
+to/TO 
+[ the/DT wealthy/JJ ]
+./. 
+
+``/`` 
+[ There/EX ]
+are/VBP 
+[ an/DT awful/JJ lot/NN ]
+of/IN 
+[ middle-class/JJ families/NNS ]
+where/WRB 
+[ both/DT ]
+
+[ partners/NNS ]
+work/VBP ,/, earn/VBP 
+[ $/$ 60,000/CD ]
+and/CC resent/VBP being/VBG lumped/VBN in/IN with/IN 
+[ Donald/NNP Trump/NNP ]
+and/CC 
+[ Leona/NNP Helmsley/NNP ]
+,/, ''/'' 
+[ Mr./NNP Buckley/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ why/WRB 
+[ the/DT Democrats/NNPS ]
+keep/VBP losing/VBG 
+[ presidential/JJ elections/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT GOP/NNP strategy/NN ]
+is/VBZ being/VBG strengthened/VBN by/IN 
+[ the/DT Democratic/JJ defectors/NNS ]
+
+[ who/WP ]
+first/RB embarrassed/VBD 
+[ Chairman/NNP Dan/NNP Rostenkowski/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ill/NNP ]
+./. 
+
+ )/) in/IN 
+[ a/DT House/NNP Ways/NNP ]
+and/CC 
+[ Means/NNP Committee/NNP vote/NN ]
+and/CC now/RB threaten/VBP to/TO undercut/VB 
+[ House/NNP Speaker/NNP Thomas/NNP Foley/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Wash/NNP ]
+./. 
+
+ )/) in/IN 
+[ his/PRP$ first/JJ major/JJ confrontation/NN ]
+with/IN 
+[ the/DT White/NNP House/NNP ]
+./. 
+
+[ Mr./NNP Buckley/NNP ]
+is/VBZ even/RB contemplating/VBG sending/VBG 
+[ a/DT press/NN release/NN ]
+to/TO 
+[ Arkansas/NNP ]
+praising/VBG 
+[ Rep./NNP Beryl/NNP Anthony/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Ark./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Democratic/NNP Congressional/NNP Campaign/NNP Committee/NNP ]
+,/, for/IN breaking/VBG with/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT party/NN leadership/NN ]
+and/CC supporting/VBG 
+[ the/DT Bush/NNP position/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT overriding/JJ message/NN ]
+
+[ that/WDT ]
+comes/VBZ through/IN 
+[ all/PDT these/DT maneuverings/NNS ]
+is/VBZ that/IN 
+[ the/DT Democrats/NNPS ]
+ca/MD n't/RB do/VB 
+[ anything/NN ]
+without/IN trying/VBG to/TO raise/VB 
+[ taxes/NNS ]
+,/, ''/'' says/VBZ 
+[ Stuart/NNP Butler/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ domestic/JJ policy/NN ]
+for/IN 
+[ the/DT Heritage/NNP Foundation/NNP ]
+./. 
+
+``/`` 
+[ The/DT internal/JJ dissent/NN ]
+only/RB reinforces/VBZ 
+[ that/DT image/NN ]
+./. 
+
+[ Some/DT Democrats/NNPS ]
+are/VBP obviously/RB frustrated/JJ at/IN always/RB ending/VBG up/RP on/IN 
+[ the/DT losing/JJ end/NN ]
+of/IN 
+[ these/DT sort/NN ]
+of/IN 
+[ debates/NNS ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ some/DT Republicans/NNPS ]
+worry/VBP that/IN 
+[ the/DT Democrats/VBP ]
+have/VBP seized/VBN on/IN 
+[ an/DT issue/NN ]
+--/: 
+[ symbolic/JJ ]
+perhaps/RB ,/, but/CC potentially/RB formidable/JJ nonetheless/RB --/: 
+[ that/WDT ]
+may/MD produce/VB 
+[ dividends/NNS ]
+later/RB ./. 
+
+======================================
+
+``/`` In/IN 
+[ the/DT long/JJ ]
+haul/NN ,/, 
+[ it/PRP ]
+has/VBZ to/TO help/VB 
+[ the/DT Democrats/NNPS ]
+,/, ''/'' says/VBZ 
+[ Kevin/NNP Phillips/NNP ]
+,/, 
+[ a/DT Republican/JJ political/JJ theorist/NN ]
+./. 
+
+``/`` By/IN 
+[ the/DT time/NN ]
+
+[ the/DT 1990/CD election/NN ]
+rolls/VBZ around/IN ,/, 
+[ the/DT Democrats/NNPS ]
+will/MD have/VB been/VBN able/JJ to/TO develop/VB 
+[ these/DT issues/NNS ]
+in/IN 
+[ a/DT way/NN ]
+
+[ that/WDT ]
+can/MD help/VB 
+[ them/PRP ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT war/NN ]
+,/, and/CC 
+[ these/DT things/NNS ]
+are/VBP going/VBG to/TO be/VB repeated/VBN and/CC repeated/VBN ./. 
+
+[ They/PRP ]
+'re/VBP just/RB launching/VBG 
+[ them/PRP ]
+now/RB ,/, and/CC 
+[ the/DT payoff/NN ]
+is/VBZ going/VBG to/TO come/VB later/RB ./. 
+
+''/'' 
+======================================
+
+or/CC 
+[ expanding/VBG tax/NN benefits/NNS ]
+for/IN 
+[ individual/JJ retirement/NN ]
+accounts/NNS ?/. registered/JJ 
+[ voters/NNS ]
+conducted/VBN 
+[ Sept./NNP 16-19/CD ]
+by/IN 
+[ the/DT polling/NN organization/NN ]
+of/IN 
+[ Peter/NNP Hart/NNP ]
+and/CC 
+[ Robert/NNP Teeter/NNP ]
+./. 

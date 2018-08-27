@@ -1,0 +1,174 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Next/NNP 
+[ Inc./NNP ]
+,/, 
+[ Stephen/NNP Jobs/NNP ]
+'s/POS closely/RB held/VBN 
+[ company/NN ]
+,/, said/VBD 
+[ it/PRP ]
+completed/VBD 
+[ the/DT first/JJ version/NN ]
+of/IN 
+[ the/DT operating-system/JJ software/NN ]
+for/IN 
+[ its/PRP$ much-anticipated/JJ new/JJ computer/NN ]
+./. 
+
+======================================
+
+[ The/DT announcement/NN ]
+,/, 
+[ which/WDT ]
+had/VBD been/VBN expected/VBN ,/, marks/VBZ 
+[ an/DT important/JJ milestone/NN ]
+for/IN 
+[ both/DT Next/NNP ]
+and/CC 
+[ Mr./NNP Jobs/NNP ]
+,/, 
+[ who/WP ]
+
+[ co-founded/VBD Apple/NNP Computer/NNP Inc./NNP ]
+but/CC quit/VBD in/IN 
+[ 1985/CD ]
+after/IN 
+[ a/DT management/NN power/NN struggle/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Jobs/NNP ]
+had/VBD previously/RB impressed/VBN 
+[ many/JJ industry/NN analysts/NNS ]
+with/IN 
+[ the/DT advanced/VBN hardware/NN ]
+dreamed/VBN up/RP for/IN 
+[ Next/NNP ]
+,/, but/CC 
+[ the/DT operating-system/JJ software/NN ]
+had/VBD been/VBN delayed/VBN for/IN 
+[ months/NNS ]
+by/IN 
+[ bugs/NNS ]
+and/CC 
+[ other/JJ glitches/NNS ]
+./. 
+
+[ Operating-system/JJ software/NN ]
+controls/VBZ 
+[ a/DT computer/NN 's/POS basic/JJ functions/NNS ]
+./. 
+
+======================================
+
+Furthermore/RB ,/, 
+[ Next/NNP plans/NNS ]
+to/TO rely/VB heavily/RB on/IN 
+[ sales/NNS ]
+to/TO 
+[ universities/NNS ]
+./. 
+
+Thus/RB ,/, 
+[ analysts/NNS ]
+had/VBD considered/VBN 
+[ it/PRP ]
+critical/JJ that/IN 
+[ the/DT company/NN ]
+complete/VB 
+[ the/DT software/NN ]
+and/CC have/VB 
+[ the/DT finished/JJ machine/NN ]
+ready/JJ before/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT month/NN ]
+,/, when/WRB 
+[ many/JJ students/NNS ]
+and/CC 
+[ faculty/NN ]
+begin/VBP 
+[ a/DT new/JJ academic/JJ year/NN ]
+./. 
+
+======================================
+
+[ Next/NNP ]
+
+[ 's/POS software/NN ]
+has/VBZ 
+[ many/JJ ]
+of/IN 
+[ the/DT same/JJ general/JJ features/NNS ]
+--/: 
+[ icons/NNS ]
+,/, 
+[ pull-down/JJ menus/NNS ]
+,/, 
+[ windows/NNS ]
+and/CC 
+[ desktop/NN imagery/NN ]
+--/: 
+[ that/WDT ]
+are/VBP credited/VBN with/IN fueling/VBG 
+[ the/DT popularity/NN ]
+of/IN 
+[ Apple/NNP 's/POS Macintosh/NNP computer/NN ]
+,/, 
+[ whose/WP$ design/NN Mr./NNP Jobs/NNP oversaw/VBD ]
+in/IN 
+[ the/DT early/JJ 1980s/NNS ]
+./. 
+
+However/RB ,/, 
+[ it/PRP ]
+is/VBZ written/VBN in/IN 
+[ a/DT variant/NN ]
+of/IN 
+[ Unix/NNP ]
+,/, 
+[ a/DT computer/NN language/NN ]
+widely/RB used/VBN by/IN 
+[ scientists/NNS ]
+and/CC 
+[ engineers/NNS ]
+./. 
+
+Although/IN 
+[ Unix/NNP ]
+is/VBZ more/RBR powerful/JJ than/IN 
+[ DOS/NNP ]
+,/, 
+[ the/DT standard/JJ language/NN ]
+for/IN 
+[ personal-computer/JJ programs/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ more/RBR complex/JJ and/CC does/VBZ n't/RB yet/RB offer/VB 
+[ many/JJ applications/NNS ]
+popular/JJ with/IN 
+[ users/NNS ]
+of/IN 
+[ personal/JJ computers/NNS ]
+,/, such/JJ as/IN 
+[ spreadsheets/NNS ]
+and/CC 
+[ databases/NNS ]
+./. 

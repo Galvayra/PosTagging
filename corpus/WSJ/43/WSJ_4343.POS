@@ -1,0 +1,86 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Malaysia/NNP Airlines/NNP ]
+ordered/VBD 
+[ Pratt/NNP ]
+&/CC 
+[ Whitney/NNP PW4000/NNP engines/NNS ]
+valued/VBN at/IN 
+[ $/$ 435/CD million/CD ]
+for/IN as/RB many/JJ as/IN 
+[ 16/CD Airbus/NNP Industrie/NNP A-330/NNP airliners/NNS ]
+./. 
+
+======================================
+
+[ Malaysia/NNP Airlines/NNP ]
+had/VBD said/VBD 
+[ it/PRP ]
+was/VBD ordering/VBG 
+[ eight/CD A-330/NNP twinjets/NNS ]
+and/CC 
+[ taking/VBG options/NNS ]
+on/IN 
+[ eight/CD more/JJR ]
+./. 
+
+[ Pratt/NNP ]
+&/CC 
+[ Whitney/NNP ]
+will/MD supply/VB 
+[ Malaysia/NNP ]
+with/IN 
+[ 20/CD PW4000/NNP engines/NNS ]
+,/, including/VBG 
+[ spares/NNS ]
+,/, valued/VBN at/IN 
+[ $/$ 210/CD million/CD ]
+for/IN 
+[ the/DT eight/CD aircraft/NN ]
+on/IN 
+[ firm/JJ order/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ Malaysia/NNP ]
+takes/VBZ 
+[ all/DT eight/CD optioned/VBN aircraft/NN ]
+,/, 
+[ Pratt/NNP ]
+&/CC 
+[ Whitney/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ United/NNP Technologies/NNP Corp./NNP ]
+,/, of/IN 
+[ Hartford/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, would/MD supply/VB 
+[ the/DT airline/NN ]
+with/IN 
+[ 20/CD additional/JJ engines/NNS ]
+valued/VBN at/IN about/RB 
+[ $/$ 225/CD million/CD ]
+./. 
+
+[ Deliveries/NNS ]
+are/VBP to/TO begin/VB 

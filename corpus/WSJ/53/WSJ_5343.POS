@@ -1,0 +1,590 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Campeau/NNP Corp./NNP ]
+got/VBD 
+[ its/PRP$ $/$ 250/CD million/CD ]
+in/IN refinancing/NN from/IN 
+[ Olympia/NNP ]
+&/CC 
+[ York/NNP ]
+and/CC 
+[ the/DT junk-bond/JJ market/NN ]
+is/VBZ OK/JJ again/RB --/: right/RB ?/. 
+
+Well/RB ,/, not/RB quite/RB ./. 
+
+======================================
+
+[ No/DT doubt/NN Campeau/NNP 's/POS troubles/NNS ]
+served/VBD as/IN 
+[ a/DT trigger/NN ]
+for/IN 
+[ the/DT September/NNP swoon/NN ]
+of/IN 
+[ high-yield/JJ bonds/NNS ]
+,/, and/CC 
+[ no/DT doubt/NN its/PRP$ new/JJ deal/NN ]
+helped/VBD arrest/VB 
+[ the/DT fall/NN ]
+./. 
+
+But/CC after/IN 
+[ all/DT ]
+,/, not/RB even/RB 
+[ the/DT biggest/JJS enthusiast/NN ]
+for/IN 
+[ the/DT bonds/NNS ]
+ever/RB argued/VBD that/IN 
+[ every/DT deal/NN ]
+financed/VBN by/IN 
+[ them/PRP ]
+would/MD succeed/VB ,/, or/CC that/IN 
+[ excesses/NNS ]
+were/VBD impossible/JJ ./. 
+
+[ None/NN ]
+denied/VBD that/IN 
+[ the/DT bonds/NNS ]
+of/IN growing/VBG 
+[ ventures/NNS ]
+were/VBD more/RBR risky/JJ than/IN 
+[ those/DT ]
+of/IN 
+[ industrial/JJ behemoths/NNS ]
+./. 
+
+But/CC as/IN 
+[ Chase/NNP Manhattan/NNP 's/POS $/$ 1.31/CD billion/CD charge/NN ]
+against/IN 
+[ earnings/NNS ]
+yesterday/NN proved/VBN ,/, 
+[ there/EX ]
+also/RB are/VBP 
+[ a/DT lot/NN ]
+of/IN 
+[ risks/NNS ]
+outside/IN 
+[ the/DT junk-bond/JJ market/NN ]
+,/, 
+[ some/DT ]
+obviously/RB larger/JJR than/IN 
+[ those/DT ]
+inside/IN ./. 
+
+[ Michael/NNP Milken/NNP 's/POS original/JJ insight/NN ]
+was/VBD that/IN added/VBN 
+[ risk/NN ]
+of/IN 
+[ junk/NN bonds/NNS ]
+was/VBD more/JJR than/IN offset/VBN by/IN 
+[ the/DT higher/JJR yield/NN ]
+,/, and/CC on/IN 
+[ this/DT insight/NN ]
+much/RB of/IN 
+[ seven/CD years/NNS ]
+of/IN 
+[ economic/JJ expansion/NN ]
+was/VBD financed/VBN ./. 
+
+======================================
+
+Now/RB 
+[ our/PRP$ government/NN ]
+is/VBZ devoting/VBG 
+[ its/PRP$ resources/NNS ]
+to/TO putting/VBG 
+[ Mr./NNP Milken/NNP ]
+in/IN 
+[ jail/NN ]
+./. 
+
+And/CC ,/, faced/VBN with/IN 
+[ a/DT savings-and-loan/JJ crisis/NN ]
+,/, 
+[ Congress/NNP ]
+decided/VBD not/RB to/TO forsake/VB 
+[ its/PRP$ own/JJ meddling/NN ]
+or/CC 
+[ reform/VB deposit/NN insurance/NN ]
+,/, but/CC to/TO force/VB 
+[ the/DT S&Ls/NNPS ]
+to/TO sell/VB 
+[ their/PRP$ considerable/JJ holdings/NNS ]
+of/IN 
+[ high-yield/JJ bonds/NNS ]
+./. 
+
+Lo/UH and/CC behold/VB ,/, 
+[ the/DT high-yield/JJ bond/NN market/NN ]
+is/VBZ showing/VBG 
+[ signs/NNS ]
+of/IN 
+[ more/JJR sellers/NNS ]
+than/IN 
+[ buyers/NNS ]
+./. 
+
+And/CC 
+[ the/DT critics/NNS ]
+
+[ who/WP ]
+coined/VBD 
+[ the/DT word/NN ]
+``/`` 
+[ junk/NN ]
+''/'' and/CC fomented/VBD 
+[ these/DT Washington/NNP decisions/NNS ]
+are/VBP claiming/VBG 
+[ vindication/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ of/IN 
+[ course/NN ]
+true/JJ that/IN ``/`` 
+[ junk/NN ]
+''/'' has/VBZ helped/VBN finance/VB 
+[ that/DT economic/JJ phenomenon/NN ]
+of/IN 
+[ the/DT 1980s/NNS ]
+,/, 
+[ the/DT hostile/JJ takeover/NN ]
+,/, and/CC thus/RB helped/VBD upset/VB 
+[ the/DT big-business/JJ status/FW ]
+
+[ quo/FW ]
+./. 
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ it/PRP ]
+also/RB financed/VBD 
+[ the/DT friendly/JJ mergers/NNS ]
+and/CC 
+[ management/NN buy-outs/NNS ]
+to/TO 
+[ which/WDT ]
+
+[ corporate/JJ leaders/NNS ]
+do/VBP n't/RB object/VB ./. 
+
+[ It/PRP ]
+also/RB financed/VBD 
+[ a/DT good/JJ many/JJ young/JJ growth/NN enterprises/NNS ]
+./. 
+
+But/CC 
+[ politicians/NNS ]
+,/, wanting/VBG to/TO ``/`` protect/VB ''/'' 
+[ businesses/NNS ]
+in/IN 
+[ their/PRP$ districts/NNS ]
+and/CC 
+[ their/PRP$ campaign/NN contributions/NNS ]
+,/, have/VBP mostly/RB sided/VBN with/IN 
+[ today/NN 's/POS management/NN ]
+,/, not/RB 
+[ tomorrow/NN 's/POS ]
+./. 
+
+======================================
+
+[ Congress/NNP 's/POS first/JJ major/JJ attempted/VBN assault/NN ]
+on/IN 
+[ the/DT junk-LBO/JJ business/NN ]
+helped/VBD bring/VB about/RP 
+[ the/DT 1987/CD Wall/NNP Street/NNP crash/NN ]
+./. 
+
+[ Ways/NNPS ]
+and/CC 
+[ Means/NNPS Democrats/NNPS ]
+inserted/VBD 
+[ a/DT ]
+``/`` 
+[ corporate/JJ raider/NN ]
+''/'' 
+[ tax/NN ]
+into/IN 
+[ that/DT year/NN 's/POS tax/NN bill/NN ]
+to/TO make/VB 
+[ stock/NN run-ups/NNS ]
+during/IN 
+[ takeover/NN attempts/NNS ]
+less/RBR profitable/JJ ./. 
+
+[ They/PRP ]
+also/RB wanted/VBD to/TO cap/VB 
+[ interest/NN deductions/NNS ]
+for/IN 
+[ LBO/NNP borrowing/NN ]
+./. 
+
+[ The/DT resulting/VBG slump/NN ]
+in/IN 
+[ takeover/NN stocks/NNS ]
+
+[ no/DT doubt/NN ]
+contributed/VBD to/TO 
+[ the/DT crash/NN ]
+because/IN 
+[ a/DT lot/NN ]
+of/IN 
+[ the/DT market/NN activity/NN ]
+at/IN 
+[ that/DT time/NN ]
+was/VBD in/IN 
+[ such/JJ stocks/NNS ]
+./. 
+
+Chastened/VBN by/IN 
+[ the/DT crash/NN ]
+,/, 
+[ Congress/NNP ]
+dropped/VBD 
+[ the/DT anti-takeover/JJ measures/NNS ]
+./. 
+
+======================================
+
+But/CC with/IN 
+[ memories/NNS ]
+of/IN 
+[ the/DT crash/NN ]
+dimming/VBG ,/, 
+[ new/JJ attacks/NNS ]
+are/VBP afoot/JJ ./. 
+
+[ The/DT thrift-bailout/JJ bill/NN ]
+will/MD force/VB 
+[ thrifts/NNS ]
+to/TO dispose/VB of/IN 
+[ their/PRP$ junk-bond/JJ holdings/NNS ]
+by/IN 
+[ July/NNP 1/CD ]
+,/, 
+[ 1994/CD ]
+./. 
+
+Considering/VBG 
+[ the/DT fact/NN ]
+that/IN 
+[ high-yields/NNS ]
+have/VBP been/VBN 
+[ the/DT second/RB ]
+
+[ most/RBS profitable/JJ banking/NN investment/NN ]
+--/: after/IN 
+[ credit/NN cards/NNS ]
+--/: and/CC 
+[ the/DT Congressional/NNP Budget/NNP Office/NNP ]
+absolved/VBD 
+[ junk/NN ]
+of/IN 
+[ any/DT role/NN ]
+in/IN 
+[ the/DT thrift/NN debacle/NN ]
+,/, that/IN 
+[ provision/NN ]
+made/VBD 
+[ no/DT sense/NN ]
+./. 
+
+But/CC 
+[ this/DT ]
+is/VBZ 
+[ politics/NN ]
+,/, not/RB 
+[ economics/NN ]
+./. 
+
+======================================
+
+[ Last/JJ week/NN ]
+,/, 
+[ Ways/NNPS ]
+and/CC 
+[ Means/NNPS ]
+in/IN 
+[ its/PRP$ latest/JJS tax/NN bill/NN ]
+slipped/VBD back/RB cautiously/RB to/TO 
+[ the/DT scene/NN ]
+of/IN 
+[ its/PRP$ 1987/CD crime/NN ]
+./. 
+
+[ No/DT more/JJR ]
+``/`` 
+[ corporate/JJ raider/NN ]
+''/'' 
+[ taxes/NNS ]
+,/, but/CC 
+[ there/EX ]
+is/VBZ 
+[ a/DT provision/NN ]
+
+[ that/WDT ]
+limits/VBZ 
+[ refunds/NNS ]
+of/IN 
+[ prior-year/JJ taxes/NNS ]
+for/IN 
+[ companies/NNS ]
+
+[ that/WDT ]
+show/VBP 
+[ losses/NNS ]
+because/IN of/IN 
+[ high/JJ LBO/NNP interest/NN costs/NNS ]
+./. 
+
+======================================
+
+[ None/NN ]
+of/IN 
+[ these/DT things/NNS ]
+are/VBP sufficient/JJ to/TO wreck/VB 
+[ the/DT high-yield/JJ bond/NN business/NN ]
+,/, but/CC 
+[ they/PRP ]
+do/VBP n't/RB do/VB 
+[ it/PRP ]
+
+[ any/DT good/JJ ]
+either/RB ./. 
+
+Neither/CC is/VBZ it/PRP helpful/JJ to/TO 
+[ the/DT high-yield/JJ market/NN ]
+to/TO have/VB 
+[ Drexel/NNP Burnham/NNP Lambert/NNP ]
+,/, 
+[ which/WDT ]
+pioneered/VBD 
+[ the/DT business/NN ]
+,/, under/IN 
+[ attack/NN ]
+from/IN 
+[ the/DT SEC/NNP ]
+./. 
+
+Or/CC to/TO have/VB 
+[ Mr./NNP Milken/NNP ]
+under/IN 
+[ federal/JJ indictment/NN ]
+for/IN 
+[ practices/NNS ]
+
+[ that/WDT ]
+,/, even/RB if/IN 
+[ they/PRP ]
+occurred/VBD ,/, were/VBD 
+[ the/DT sort/NN ]
+of/IN 
+[ thing/NN ]
+normally/RB dealt/VBD with/IN through/IN 
+[ SEC/NNP administrative/JJ penalties/NNS ]
+./. 
+
+======================================
+
+[ What/WP ]
+does/VBZ 
+[ any/DT ]
+of/IN 
+[ this/DT ]
+have/VB to/TO do/VB with/IN 
+[ the/DT economy/NN ]
+?/. 
+
+For/IN 
+[ one/CD thing/NN ]
+,/, 
+[ a/DT serious/JJ jolt/NN ]
+to/TO 
+[ the/DT high-yield/JJ bond/NN market/NN ]
+could/MD make/VB 
+[ it/PRP ]
+more/RBR difficult/JJ for/IN 
+[ start-up/JJ ]
+and/CC 
+[ growth/NN companies/NNS ]
+to/TO receive/VB 
+[ financing/NN ]
+./. 
+
+[ High-yield/JJ bonds/NNS ]
+are/VBP 
+[ nothing/NN ]
+more/RBR mysterious/JJ than/IN 
+[ bonds/NNS ]
+
+[ that/WDT ]
+do/VBP not/RB receive/VB 
+[ the/DT top/JJ ]
+``/`` 
+[ investment/NN grade/NN ]
+''/'' 
+[ marks/NNS ]
+of/IN rating/VBG 
+[ agencies/NNS ]
+./. 
+
+[ Investment-grade/JJ bonds/NNS ]
+are/VBP relatively/RB rare/JJ ./. 
+
+How/WRB could/MD 
+[ we/PRP ]
+have/VB ever/RB financed/VBN 
+[ seven/CD years/NNS ]
+of/IN 
+[ economic/JJ advance/NN ]
+without/IN 
+[ high-yield/JJ bonds/NNS ]
+?/. 
+
+======================================
+
+And/CC 
+[ what/WP ]
+about/IN 
+[ LBOs/NNPS ]
+?/. 
+
+[ Campeau/NNP ]
+proves/VBZ that/IN 
+[ heavy/NN ]
+leveraging/VBG has/VBZ 
+[ dangers/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB proves/VBZ ,/, however/RB ,/, that/IN 
+[ there/EX ]
+usually/RB is/VBZ 
+[ another/DT buyer/NN ]
+waiting/VBG in/IN 
+[ the/DT wings/NNS ]
+to/TO take/VB over/RP 
+[ the/DT assets/NNS ]
+of/IN 
+[ a/DT distressed/JJ corporation/NN ]
+and/CC turn/VB 
+[ a/DT profit/NN ]
+on/IN 
+[ them/PRP ]
+./. 
+
+[ There/EX ]
+was/VBD never/RB 
+[ much/JJ danger/NN ]
+
+[ that/DT Bloomingdale/NNP 's/POS ]
+would/MD fall/VB into/IN 
+[ a/DT pothole/NN ]
+in/IN 
+[ Lexington/NNP Avenue/NNP ]
+./. 
+
+Indeed/RB ,/, 
+[ Michael/NNP C./NNP Jensen/NNP ]
+of/IN 
+[ Harvard/NNP Business/NNP School/NNP ]
+argues/VBZ that/IN having/VBG to/TO service/VB 
+[ a/DT large/JJ debt/NN ]
+is/VBZ 
+[ a/DT far/RB ]
+
+[ more/RBR stringent/JJ discipline/NN ]
+for/IN 
+[ managers/NNS ]
+than/IN 
+[ the/DT minimal/JJ pressures/NNS ]
+applied/VBN by/IN 
+[ a/DT broad/JJ ]
+and/CC 
+[ diffuse/JJ group/NN ]
+of/IN 
+[ shareholders/NNS ]
+./. 
+
+[ The/DT Campeau/NNP failure/NN ]
+looks/VBZ like/IN 
+[ the/DT transfer/NN ]
+of/IN 
+[ assets/NNS ]
+into/IN 
+[ stronger/JJR hands/NNS ]
+./. 
+
+======================================
+
+Finally/RB ,/, if/IN 
+[ the/DT political/JJ assault/NN ]
+on/IN 
+[ junk/NN ]
+becomes/VBZ 
+[ severe/JJ ]
+,/, 
+[ it/PRP ]
+could/MD encourage/VB 
+[ a/DT further/JJ ]
+``/`` 
+[ flight/NN ]
+to/TO 
+[ quality/NN ]
+,/, ''/'' 
+[ that/DT ]
+is/VBZ ,/, buying/VBG 
+[ Treasury/NNP bills/NNS ]
+not/RB because/IN 
+[ the/DT Washington/NNP spending/NN ]
+
+[ they/PRP ]
+finance/VBP is/VBZ productive/JJ but/CC because/IN 
+[ the/DT government/NN ]
+owns/VBZ 
+[ the/DT printing/NN press/NN ]
+./. 
+
+[ Laws/NNS ]
+forcing/VBG 
+[ investors/NNS ]
+to/TO pull/VB in/RP 
+[ their/PRP$ horns/NNS ]
+are/VBP not/RB 
+[ a/DT recipe/NN ]
+for/IN 
+[ growth/NN ]
+but/CC 
+[ a/DT recipe/NN ]
+for/IN 
+[ recession/NN ]
+./. 
+
+Is/VBZ it/PRP necessary/JJ for/IN 
+[ Washington/NNP ]
+to/TO have/VB to/TO learn/VB 
+[ the/DT lessons/NNS ]
+of/IN 
+[ October/NNP 1987/CD ]
+
+[ all/DT ]
+over/IN again/RB ?/. 

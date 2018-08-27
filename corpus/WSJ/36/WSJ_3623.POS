@@ -1,0 +1,331 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Federal/NNP Aviation/NNP Administration/NNP ]
+,/, concerned/JJ about/IN 
+[ a/DT crash/NN ]
+and/CC 
+[ other/JJ incidents/NNS ]
+involving/VBG 
+[ USAir/NNP flights/NNS ]
+,/, is/VBZ taking/VBG 
+[ a/DT close/JJ look/NN ]
+at/IN whether/IN 
+[ the/DT airline/NN 's/POS merger/NN ]
+with/IN 
+[ Piedmont/NNP Airlines/NNP ]
+may/MD be/VB hurting/VBG 
+[ flight-crew/NN performance/NN ]
+./. 
+
+======================================
+
+[ The/DT FAA/NNP ]
+,/, according/VBG to/TO 
+[ agency/NN officials/NNS ]
+,/, is/VBZ scrutinizing/VBG 
+[ three/CD recent/JJ incidents/NNS ]
+./. 
+
+[ The/DT most/RBS serious/JJ occurred/VBD Sept./NNP 20/CD ]
+,/, when/WRB 
+[ USAir/NNP Flight/NNP 5050/CD ]
+crashed/VBD into/IN 
+[ New/NNP York/NNP 's/POS East/NNP River/NNP ]
+,/, killing/VBG 
+[ two/CD passengers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ its/PRP$ review/NN ]
+,/, 
+[ the/DT agency/NN ]
+is/VBZ focusing/VBG on/IN 
+[ changes/NNS ]
+made/VBN in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ the/DT merger/NN ]
+to/TO 
+[ the/DT carrier/NN 's/POS training/NN programs/NNS ]
+,/, 
+[ operations/NNS manual/NN ]
+and/CC 
+[ checklist/NN procedures/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+wanted/VBD to/TO make/VB 
+[ sure/JJ all/PDT the/DT changes/NNS ]
+proposed/VBN were/VBD carried/VBN out/RP correctly/RB ,/, ''/'' 
+[ an/DT FAA/NNP official/NN ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ USAir/NNP ]
+,/, 
+[ a/DT subsidiary/NN ]
+of/IN 
+[ USAir/NNP Group/NNP Inc./NNP ]
+,/, said/VBD 
+[ the/DT FAA/NNP review/NN ]
+is/VBZ ``/`` completely/RB 
+[ routine/JJ ]
+''/'' in/IN 
+[ the/DT aftermath/NN ]
+of/IN 
+[ an/DT accident/NN ]
+./. 
+
+======================================
+
+[ The/DT review/NN ]
+comes/VBZ as/IN 
+[ the/DT FAA/NNP nears/VBZ completion/NN ]
+of/IN 
+[ an/DT extensive/JJ review/NN ]
+of/IN 
+[ federal/JJ pilot-training/NN ]
+and/CC 
+[ checking/NN rules/NNS ]
+./. 
+
+[ The/DT agency/NN ]
+is/VBZ planning/VBG 
+[ several/JJ changes/NNS ]
+,/, and/CC ,/, among/IN 
+[ other/JJ things/NNS ]
+,/, is/VBZ considering/VBG whether/IN to/TO write/VB 
+[ new/JJ rules/NNS ]
+to/TO prevent/VB 
+[ the/DT pairing/NN ]
+of/IN 
+[ inexperienced/JJ captains/NNS ]
+and/CC 
+[ co-pilots/NNS ]
+./. 
+
+======================================
+
+[ The/DT crew-pairing/JJ issue/NN ]
+is/VBZ stirring/VBG 
+[ interest/NN ]
+among/IN 
+[ safety/NN investigators/NNS ]
+because/IN 
+[ Flight/NNP 5050/CD 's/POS co-pilot/NN ]
+,/, 
+[ who/WP ]
+apparently/RB was/VBD at/IN 
+[ the/DT controls/NNS ]
+at/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT takeoff/NN ]
+,/, had/VBD 
+[ little/JJ experience/NN ]
+in/IN 
+[ the/DT ]
+Boeing/NNP 
+[ 737/NNP aircraft/NN ]
+./. 
+
+[ The/DT captain/NN ]
+had/VBD 
+[ extensive/JJ experience/NN ]
+in/IN 
+[ 737s/NNPS ]
+as/IN 
+[ a/DT co-pilot/NN ]
+,/, but/CC had/VBD logged/VBN fewer/JJR than/IN 
+[ 150/CD hours/NNS ]
+as/IN 
+[ a/DT captain/NN ]
+./. 
+
+======================================
+
+[ Currently/NNP ]
+,/, 
+[ the/DT FAA/NNP ]
+does/VBZ n't/RB have/VB 
+[ any/DT rules/NNS ]
+governing/VBG 
+[ the/DT pairing/NN ]
+of/IN 
+[ crew/NN members/NNS ]
+,/, although/IN in/IN 
+[ 1988/CD it/PRP ]
+recommended/VBD that/IN 
+[ airlines/NNS ]
+adopt/VB 
+[ procedures/NNS ]
+
+[ that/WDT ]
+would/MD prevent/VB 
+[ the/DT pairing/NN ]
+of/IN 
+[ inexperienced/JJ crew/NN members/NNS ]
+on/IN 
+[ the/DT same/JJ flight/NN ]
+./. 
+
+[ The/DT National/NNP Transportation/NNP Safety/NNP Board/NNP ]
+has/VBZ for/IN 
+[ some/DT time/NN ]
+wanted/VBD 
+[ the/DT FAA/NNP ]
+to/TO put/VB out/RP 
+[ rules/NNS ]
+on/IN 
+[ the/DT issue/NN ]
+,/, and/CC 
+[ FAA/NNP Administrator/NNP James/NNP Busey/NNP ]
+plans/VBZ to/TO consider/VB 
+[ the/DT possibility/NN ]
+in/IN coming/JJ 
+[ weeks/NNS ]
+./. 
+
+[ An/DT FAA/NNP official/NN ]
+said/VBD that/IN 
+[ the/DT crew/NN ]
+of/IN 
+[ Flight/NNP 5050/CD ]
+would/MD have/VB met/VBN 
+[ the/DT guidelines/NNS ]
+recommended/VBN in/IN 
+[ 1988/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ any/DT case/NN ]
+,/, 
+[ the/DT FAA/NNP ]
+is/VBZ likely/JJ to/TO propose/VB in/IN 
+[ the/DT next/JJ few/JJ months/NNS ]
+
+[ the/DT increased/JJ monitoring/NN ]
+and/CC 
+[ training/NN ]
+of/IN 
+[ co-pilots/NNS ]
+during/IN ``/`` 
+[ initial/JJ operating/NN experience/NN ]
+''/'' --/: 
+[ their/PRP$ first/JJ flights/NNS ]
+at/IN 
+[ the/DT controls/NNS ]
+on/IN 
+[ planes/NNS ]
+with/IN 
+[ passengers/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT agency/NN ]
+will/MD propose/VB 
+[ that/DT cockpit/NN resource/NN management/NN ]
+--/: 
+[ a/DT training/NN regimen/NN ]
+
+[ that/WDT ]
+emphasizes/VBZ 
+[ teamwork/NN ]
+and/CC 
+[ good/JJ cockpit/NN communications/NNS ]
+--/: be/VB made/VBN 
+[ mandatory/JJ ]
+at/IN 
+[ all/DT airlines/NNS ]
+./. 
+
+And/CC 
+[ it/PRP ]
+also/RB is/VBZ likely/JJ to/TO propose/VB that/IN 
+[ commuter-airline/NN pilots/NNS ]
+be/VB required/VBN to/TO meet/VB 
+[ the/DT same/JJ standards/NNS ]
+as/IN 
+[ pilots/NNS ]
+on/IN 
+[ major/JJ airlines/NNS ]
+./. 
+
+======================================
+
+[ The/DT FAA/NNP 's/POS review/NN ]
+of/IN 
+[ USAir/NNP ]
+began/VBD 
+[ last/JJ week/NN ]
+and/CC is/VBZ scheduled/VBN to/TO be/VB completed/VBN 
+[ tomorrow/NN ]
+./. 
+
+[ Three/CD FAA/NNP officials/NNS ]
+are/VBP looking/VBG at/IN whether/IN 
+[ changes/NNS ]
+in/IN 
+[ cockpit/NN procedures/NNS ]
+or/CC 
+[ pilot/NN training/NN ]
+following/VBG 
+[ the/DT merger/NN ]
+may/MD have/VB contributed/VBN to/TO 
+[ the/DT incidents/NNS ]
+./. 
+
+======================================
+
+Besides/IN 
+[ the/DT Flight/NNP 5050/NNP accident/NN ]
+,/, 
+[ the/DT agency/NN ]
+is/VBZ looking/VBG at/IN 
+[ a/DT mishap/NN ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT plane/NN 's/POS landing/NN gear/NN ]
+struck/VBD 
+[ power/NN lines/NNS ]
+while/IN approaching/VBG 
+[ Kansas/NNP City/NNP International/NNP Airport/NNP ]
+,/, and/CC 
+[ an/DT incident/NN ]
+in/IN 
+[ New/NNP England/NNP ]
+in/IN 
+[ which/WDT ]
+
+[ a/DT plane/NN ]
+slid/VBD off/IN 
+[ the/DT runway/NN ]
+./. 

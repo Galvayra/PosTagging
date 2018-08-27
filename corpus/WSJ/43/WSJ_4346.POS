@@ -1,0 +1,666 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Count/VB ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+to/TO figure/VB out/RP 
+[ a/DT way/NN ]
+to/TO profit/VB from/IN 
+[ the/DT government/NN 's/POS war/NN ]
+on/IN 
+[ drug/NN abuse/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ Crisis/NN ]
+creates/VBZ 
+[ opportunity/NN ]
+,/, ''/'' says/VBZ 
+[ PaineWebber/NNP strategist/NN Edward/NNP M./NNP Kerschner/NNP ]
+./. 
+
+[ Congress/NNP ]
+and/CC 
+[ President/NNP Bush/NNP ]
+are/VBP likely/JJ to/TO budget/VB 
+[ $/$ 8.8/CD billion/CD ]
+for/IN 
+[ the/DT anti-drug/JJ campaign/NN ]
+in/IN 
+[ the/DT fiscal/JJ year/NN starting/VBG Oct./NNP 1/CD ]
+,/, and/CC 
+[ that/DT amount/NN ]
+could/MD expand/VB in/IN 
+[ future/JJ years/NNS ]
+./. 
+
+======================================
+
+[ PaineWebber/NNP ]
+expects/VBZ 
+[ a/DT number/NN ]
+of/IN 
+[ companies/NNS ]
+to/TO benefit/VB ./. 
+
+[ One/CD ]
+is/VBZ 
+[ Thermedics/NNP ]
+,/, 
+[ a/DT company/NN ]
+with/IN 
+[ annual/JJ revenue/NN ]
+of/IN only/RB 
+[ $/$ 32/CD million/CD ]
+./. 
+
+[ It/PRP ]
+makes/VBZ 
+[ a/DT drug-sensing/JJ device/NN ]
+called/VBD 
+[ Sentor/NNP ]
+and/CC 
+[ another/DT device/NN ]
+to/TO detect/VB 
+[ plastic/JJ explosives/NNS ]
+./. 
+
+[ PaineWebber/NNP 's/POS Tina/NNP Rizopolous/NNP ]
+calls/VBZ 
+[ the/DT stock/NN ]
+
+[ a/DT ]
+``/`` 
+[ double/JJ play/NN ]
+''/'' on/IN ``/`` 
+[ two/CD ]
+of/IN 
+[ the/DT most/RBS virulent/JJ scourges/NNS ]
+of/IN 
+[ the/DT 1990s/NNS ]
+:/: 
+[ drugs/NNS ]
+and/CC 
+[ terrorism/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT PaineWebber/NNP memo/NN ]
+to/TO 
+[ clients/NNS ]
+says/VBZ 
+[ Sentor/NNP ]
+``/`` functions/VBZ like/IN 
+[ a/DT dog/NN 's/POS nose/NN ]
+except/IN that/IN 
+[ it/PRP ]
+is/VBZ 
+[ 1,000/CD times/NNS ]
+more/RBR accurate/JJ and/CC ,/, in/IN 
+[ fact/NN ]
+,/, is/VBZ capable/JJ of/IN 
+[ detecting/VBG cocaine/NN ]
+and/CC 
+[ heroin/NN ]
+
+[ that/WDT ]
+are/VBP present/RB in/IN 
+[ trace/NN amounts/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ James/NNP H./NNP Morgan/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Morgan/NNP Investments/NNP ]
+in/IN 
+[ Greenville/NNP ]
+,/, 
+[ S.C./NNP ]
+,/, says/VBZ 
+[ he/PRP ]
+prefers/VBZ to/TO play/VB 
+[ Thermedics/NNP ]
+through/IN 
+[ the/DT stock/NN ]
+of/IN 
+[ Thermo/NNP Electron/NNP ]
+,/, 
+[ owner/NN ]
+of/IN 
+[ 60/CD %/NN ]
+of/IN 
+[ its/PRP$ stock/NN ]
+./. 
+
+[ Thermedics/NNP ]
+,/, at/IN 
+[ 18/CD 1\/2/CD yesterday/NN ]
+,/, ``/`` is/VBZ not/RB 
+[ cheap/JJ ]
+''/'' as/IN 
+[ it/PRP ]
+sells/VBZ for/IN more/RBR than/IN 
+[ 30/CD times/NNS ]
+
+[ the/DT 60/CD cents/NNS ]
+
+[ a/DT share/NN Mr./NNP Morgan/NNP ]
+figures/VBZ 
+[ the/DT company/NN ]
+will/MD earn/VB in/IN 
+[ 1990/CD ]
+./. 
+
+[ Thermo/NNP Electron/NNP ]
+is/VBZ trading/VBG at/IN around/RB 
+[ 29/CD times/NNS ]
+
+[ the/DT past/JJ 12/CD months/NNS '/POS earnings/NNS ]
+,/, much/RB less/JJR than/IN 
+[ Thermedics/NNP '/POS 200/CD multiple/JJ ]
+./. 
+
+======================================
+
+[ CompuChem/NNP ]
+,/, 
+[ Syntex/NNP ]
+,/, and/CC 
+[ Abbott/NNP Laboratories/NNP ]
+are/VBP 
+[ all/DT ]
+on/IN 
+[ PaineWebber/NNP 's/POS list/NN ]
+because/IN 
+[ they/PRP ]
+are/VBP active/JJ in/IN 
+[ drug/NN testing/NN ]
+./. 
+
+[ Employers/NNS ]
+in/IN 
+[ government/NN ]
+,/, 
+[ sports/NNS ]
+and/CC 
+[ safety-sensitive/JJ industries/NNS ]
+such/JJ as/IN 
+[ airlines/NNS ]
+and/CC 
+[ railroads/NNS ]
+increasingly/RB require/VBP 
+[ pre-employment/JJ drug/NN tests/NNS ]
+,/, and/CC sometimes/RB 
+[ periodic/JJ tests/NNS ]
+during/IN 
+[ employment/NN ]
+./. 
+
+======================================
+
+Of/IN 
+[ the/DT three/CD ]
+,/, 
+[ CompuChem/NNP ]
+is/VBZ 
+[ the/DT purest/JJS play/NN ]
+--/: 
+[ that/IN ]
+is/VBZ ,/, 
+[ it/PRP ]
+derives/VBZ 
+[ the/DT largest/JJS share/NN ]
+of/IN 
+[ its/PRP$ revenue/NN ]
+ (/( about/RB 
+[ 50/CD %/NN ]
+ )/) from/IN 
+[ drug/NN testing/NN ]
+./. 
+
+[ Its/PRP$ other/JJ major/JJ business/NN ]
+is/VBZ 
+[ environmental/JJ testing/NN ]
+for/IN 
+[ pollution-control/JJ efforts/NNS ]
+./. 
+
+======================================
+
+[ CompuChem/NNP ]
+is/VBZ doing/VBG ``/`` 
+[ a/DT good/JJ bit/NN ]
+of/IN 
+[ testing/NN ]
+for/IN 
+[ the/DT U.S./NNP Army/NNP ]
+,/, and/CC could/MD have/VB 
+[ 20/CD %/NN ]
+to/TO 
+[ 30/CD %/NN ]
+ {/( 
+[ annual/JJ earnings/NNS ]
+ }/) 
+[ growth/NN ]
+over/IN 
+[ the/DT foreseeable/JJ future/NN ]
+,/, ''/'' 
+[ Mr./NNP Morgan/NNP ]
+says/VBZ ,/, but/CC 
+[ the/DT stock/NN ]
+``/`` has/VBZ 
+[ sort/NN ]
+of/IN been/VBN found/VBN ''/'' by/IN 
+[ investors/NNS ]
+already/RB ./. 
+
+In/IN 
+[ the/DT past/JJ year/NN ]
+
+[ the/DT shares/NNS ]
+have/VBP risen/VBN from/IN 
+[ a/DT low/NN ]
+of/IN 
+[ 5/CD 1\/2/CD ]
+to/TO 
+[ yesterday/NN 's/POS 15/CD 3\/4/CD ]
+./. 
+
+[ Mr./NNP Morgan/NNP ]
+puts/VBZ 
+[ 1990/CD earnings/NNS ]
+at/IN about/RB 
+[ 80/CD cents/NNS ]
+to/TO 
+[ 90/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, so/IN 
+[ the/DT stock/NN ]
+is/VBZ selling/VBG for/IN about/RB 
+[ 18/CD times/NNS his/PRP$ estimate/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Morgan/NNP ]
+says/VBZ 
+[ Abbott/NNP Laboratories/NNP ]
+gets/VBZ only/RB about/RB 
+[ $/$ 50/CD million/CD ]
+in/IN 
+[ revenue/NN ]
+from/IN 
+[ drug/NN testing/NN ]
+,/, 
+[ a/DT drop/NN ]
+in/IN 
+[ its/PRP$ $/$ 6/CD billion/CD bucket/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+says/VBZ 
+[ Abbott/NNP 's/POS equipment/NN ]
+used/VBN in/IN 
+[ drug/NN testing/NN ]
+is/VBZ ``/`` 
+[ one/CD ]
+
+[ more/JJR reason/NN ]
+to/TO own/VB 
+[ a/DT grand/JJ company/NN ]
+''/'' 
+[ that/WDT ]
+is/VBZ ``/`` in/IN 
+[ the/DT forefront/NN ]
+of/IN 
+[ anything/NN ]
+
+[ that/WDT ]
+'s/VBZ medical/JJ ./. 
+
+''/'' For/IN 
+[ Syntex/NNP ]
+,/, 
+[ the/DT diagnostics/NNS business/NN 's/POS $/$ 154/CD million/CD ]
+in/IN 
+[ revenue/NN ]
+equals/VBZ about/RB 
+[ 11/CD ]
+to/TO 
+[ 12/CD %/NN ]
+of/IN 
+[ sales/NNS ]
+,/, with/IN 
+[ drug-abuse/JJ testing/NN accounting/VBG ]
+for/IN 
+[ half/NN ]
+of/IN 
+[ that/DT ]
+./. 
+
+======================================
+
+[ Gail/NNP Cook/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Perimeter/NNP Financial/NNP Group/NNP ]
+,/, 
+[ an/DT Atlanta/NNP financial/JJ planner/NN ]
+,/, says/VBZ 
+[ Syntex/NNP ]
+is/VBZ also/RB working/VBG on/IN 
+[ a/DT nonaddictive/JJ pain/NN reliever/NN ]
+called/VBN 
+[ ketorolac/NNP ]
+that/WDT 
+[ hospitals/NNS ]
+could/MD use/VB in/IN 
+[ place/NN ]
+of/IN 
+[ such/JJ drugs/NNS ]
+such/JJ as/IN 
+[ morphine/NN ]
+./. 
+
+[ She/PRP ]
+says/VBZ 
+[ there/EX ]
+are/VBP 
+[ rumors/NNS ]
+that/IN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+will/MD approve/VB 
+[ the/DT new/JJ drug/NN ]
+soon/RB after/IN 
+[ Christmas/NNP ]
+./. 
+
+[ The/DT company/NN ]
+says/VBZ 
+[ the/DT drug/NN ]
+would/MD be/VB ``/`` primarily/RB for/IN 
+[ post-surgical/JJ pain/NN ]
+./. 
+
+''/'' 
+[ It/PRP ]
+wo/MD n't/RB speculate/VB on/IN 
+[ the/DT timing/NN ]
+of/IN 
+[ any/DT possible/JJ FDA/NNP action/NN ]
+./. 
+
+======================================
+
+[ Community/NNP Psychiatric/NNP Centers/NNP ]
+charges/VBZ 
+[ patients/NNS ]
+about/RB 
+[ $/$ 400/CD ]
+
+[ a/DT day/NN ]
+,/, scaring/VBG off/RP 
+[ all/DT ]
+but/CC 
+[ the/DT well-heeled/JJ ]
+and/CC 
+[ people/NNS ]
+with/IN 
+[ ample/JJ insurance/NN ]
+./. 
+
+So/IN 
+[ it/PRP ]
+probably/RB would/MD n't/RB benefit/VB directly/RB from/IN 
+[ increased/VBN government/NN ]
+spending/NN on/IN 
+[ drug/NN treatment/NN ]
+./. 
+
+But/CC 
+[ PaineWebber/NNP ]
+thinks/VBZ 
+[ the/DT chain/NN ]
+of/IN 
+[ 44/CD psychiatric/JJ hospitals/NNS ]
+will/MD benefit/VB ``/`` as/IN 
+[ corporations/NNS ]
+become/VBP more/RBR aggressive/JJ in/IN identifying/VBG and/CC 
+[ treating/VBG addicts/NNS ]
+on/IN 
+[ their/PRP$ payrolls/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Meanwhile/RB ,/, 
+[ PaineWebber/NNP ]
+says/VBZ ,/, 
+[ defense/NN companies/NNS ]
+such/JJ as/IN 
+[ E-Systems/NNP ]
+and/CC 
+[ Watkins-Johnson/NNP ]
+may/MD get/VB increased/VBN 
+[ government/NN contracts/NNS ]
+because/IN ``/`` 
+[ electronic/JJ surveillance/NN ]
+is/VBZ playing/VBG 
+[ a/DT growing/VBG role/NN ]
+in/IN 
+[ the/DT drug/NN war/NN ]
+./. 
+
+''/'' And/CC 
+[ broadcasters/NNS ]
+such/JJ as/IN 
+[ CBS/NNP ]
+and/CC 
+[ Capital/NNP Cities\/ABC/NNP ]
+may/MD find/VB 
+[ it/PRP ]
+easier/JJR to/TO boost/VB 
+[ prices/NNS ]
+for/IN 
+[ commercials/NNS ]
+because/IN ``/`` 
+[ advertisers/NNS ]
+displaced/VBN by/IN 
+[ anti-drug/JJ spots.../: ]
+will/MD have/VB 
+[ fewer/JJR time/NN periods/NNS ]
+to/TO pick/VB from/IN ./. 
+
+''/'' 
+======================================
+
+[ Demand/NN ]
+for/IN 
+[ prison/NN space/NN ]
+may/MD increase/VB ,/, says/VBZ 
+[ James/NNP Craig/NNP ]
+,/, 
+[ portfolio/NN manager/NN ]
+for/IN 
+[ Janus/NNP Fund/NNP ]
+in/IN 
+[ Denver/NNP ]
+./. 
+
+[ Investors/NNS ]
+have/VBP recently/RB bid/VBN up/RB 
+[ the/DT shares/NNS ]
+of/IN 
+[ companies/NNS ]
+
+[ that/WDT ]
+operate/VBP 
+[ prisons/NNS ]
+for/IN 
+[ various/JJ levels/NNS ]
+of/IN 
+[ government/NN ]
+,/, such/JJ as/IN 
+[ Corrections/NNP Corp./NNP ]
+of/IN 
+[ America/NNP ]
+and/CC 
+[ Pricor/NNP ]
+./. 
+
+But/CC 
+[ Mr./NNP Craig/NNP 's/POS fund/NN ]
+owns/VBZ neither/RB ./. 
+
+[ Corrections/NNP Corp./NNP ]
+has/VBZ risen/VBN to/TO 
+[ 11/CD 7\/8/CD ]
+from/IN 
+[ 9/CD 3\/4/CD ]
+since/IN 
+[ President/NNP Bush/NNP 's/POS speech/NN ]
+launching/VBG 
+[ the/DT drug/NN war/NN ]
+``/`` and/CC 
+[ it/PRP ]
+is/VBZ n't/RB even/RB earning/VBG 
+[ any/DT money/NN ]
+yet/RB ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+[ Pricor/NNP ]
+has/VBZ climbed/VBN to/TO 
+[ 10/CD 1\/2/CD ]
+from/IN 
+[ 8/CD 1\/2/CD ]
+./. 
+
+======================================
+
+[ Nicholas/NNP Parks/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ Parks/NNP Capital/NNP Management/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, thinks/VBZ 
+[ lots/NNS ]
+of/IN 
+[ people/NNS ]
+are/VBP noticing/VBG 
+[ Corrections/NNP Corp./NNP ]
+but/CC 
+[ overlooking/VBG Wackenhut/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ a/DT ]
+comparably/RB 
+[ sized/VBN corrections/NNS unit/NN ]
+``/`` buried/VBN within/IN 
+[ it/PRP ]
+''/'' and/CC sells/VBZ for/IN 
+[ a/DT more/RBR reasonable/JJ multiple/NN ]
+./. 
+
+======================================
+
+[ The/DT war/NN ]
+on/IN 
+[ drugs/NNS ]
+could/MD generate/VB 
+[ some/DT investment/NN losers/NNS ]
+,/, too/RB ./. 
+
+``/`` 
+[ All/DT that/DT cash/NN ]
+ {/( taken/VBN in/RB by/IN 
+[ drug/NN dealers/NNS ]
+ }/) goes/VBZ somewhere/RB ./. 
+
+[ It/PRP ]
+does/VBZ not/RB get/VB saved/VBN ,/, ''/'' says/VBZ 
+[ Stewart/NNP Lawrence/NNP ]
+,/, 
+[ a/DT senior/JJ vice/NN president/NN ]
+with/IN 
+[ Martin/NNP E./NNP Segal/NNP Co./NNP ]
+,/, 
+[ a/DT New/NNP York/NNP consulting/VBG firm/NN ]
+./. 
+
+======================================
+
+If/IN 
+[ the/DT drug/NN trade/NN slows/VBZ ]
+substantially/RB ,/, 
+[ he/PRP ]
+expects/VBZ 
+[ declines/NNS ]
+in/IN 
+[ Florida/NNP real/JJ estate/NN ]
+,/, particularly/RB 
+[ luxury/NN houses/NNS ]
+./. 
+
+[ There/EX ]
+might/MD be/VB 
+[ some/DT effects/NNS ]
+on/IN 
+[ luxury/NN car/NN sales/NNS ]
+and/CC 
+[ sales/NNS ]
+of/IN 
+[ gold/JJ jewelry/NN ]
+./. 
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ any/DT such/JJ analysis/NN ]
+can/MD be/VB taken/VBN to/TO 
+[ extremes/NNS ]
+,/, says/VBZ 
+[ the/DT Janus/NNP Fund/NNP 's/POS Mr./NNP Craig/NNP ]
+:/: ``/`` If/IN 
+[ you/PRP ]
+want/VBP to/TO say/VB 
+[ people/NNS ]
+are/VBP going/VBG to/TO drink/VB 
+[ more/JJR beer/NN ]
+,/, 
+[ that/WDT ]
+'s/VBZ up/IN to/TO 
+[ you/PRP ]
+./. 

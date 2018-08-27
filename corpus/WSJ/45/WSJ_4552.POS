@@ -1,0 +1,264 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+IN/IN 
+[ THE/DT PREDAWN/NN ]
+ON/IN 
+[ SEPT./NNP 25/CD ]
+,/, 
+[ 1967/CD ]
+,/, 
+[ the/DT Cunard/NNP Line/NNP 's/POS Queen/NNP Mary/NNP ]
+,/, 
+[ outbound/JJ ]
+from/IN 
+[ New/NNP York/NNP ]
+,/, passed/VBD 
+[ her/PRP$ sister/NN ship/NN ]
+
+[ the/DT Queen/NNP Elizabeth/NNP heading/VBG west/RB ]
+./. 
+
+[ The/DT floodlighted/VBN ships/NNS ]
+exchanged/VBD 
+[ salutes/NNS ]
+./. 
+
+For/IN 
+[ the/DT Mary/NNP ]
+,/, 
+[ it/PRP ]
+was/VBD farewell/UH ./.  
+
+[ Another/DT great/JJ trans-Atlantic/NNP liner/NN ]
+was/VBD headed/VBN for/IN 
+[ oblivion/NN ]
+./. 
+
+======================================
+
+[ The/DT midocean/JJ salute/NN ]
+was/VBD 
+[ one/CD ]
+
+[ more/JJR sign/NN ]
+of/IN 
+[ the/DT inevitable/JJ ]
+./. 
+
+In/IN 
+[ 1958/CD ]
+,/, 
+[ the/DT year/NN ]
+
+[ the/DT first/JJ jetliner/NN ]
+took/VBD off/RB from/IN 
+[ Europe/NNP ]
+,/, 
+[ airplanes/NNS ]
+had/VBD carried/VBN 
+[ more/JJR trans-Atlantic/JJ passengers/NNS ]
+than/IN 
+[ ships/NNS ]
+./. 
+
+By/IN 
+[ 1965/CD ]
+,/, when/WRB 
+[ 4.3/CD million/CD people/NNS ]
+crossed/VBD 
+[ the/DT Atlantic/NNP ]
+,/, only/RB 
+[ 714,000/CD ]
+,/, or/CC 
+[ 17/CD %/NN ]
+,/, went/VBD by/IN 
+[ sea/NN ]
+./. 
+
+======================================
+
+[ The/DT Mary/NNP ]
+would/MD end/VB up/RB as/IN 
+[ a/DT floating/VBG hotel/NN ]
+in/IN 
+[ California/NNP 's/POS Long/NNP Beach/NNP harbor/NN ]
+./. 
+
+[ The/DT Elizabeth/NNP ]
+would/MD die/VB 
+[ a/DT fiery/JJ hulk/NN ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+on/IN 
+[ her/PRP$ way/NN ]
+to/TO 
+[ a/DT scrap/NN yard/NN ]
+./. 
+
+Even/RB without/IN 
+[ the/DT 80,000-ton/JJ Queens/NNPS ]
+,/, however/RB ,/, 
+[ the/DT liner/NN ]
+lived/VBD on/RP ./. 
+
+[ Cunard/NNP ]
+launched/VBD 
+[ the/DT 67,000-ton/JJ Queen/NNP Elizabeth/NNP II/NNP ]
+in/IN 
+[ 1969/CD ]
+and/CC 
+[ she/PRP ]
+still/RB makes/VBZ scheduled/VBN 
+[ trans-Atlantic/NNP runs/NNS ]
+./. 
+
+ (/( 
+[ Currently/RB ]
+,/, 
+[ the/DT QE/NNP II/NNP ]
+is/VBZ on/IN 
+[ lease/NN ]
+in/IN 
+[ Osaka/NNP ]
+,/, 
+[ Japan/NNP ]
+,/, as/IN 
+[ a/DT hotel/NN ]
+and/CC 
+[ shopping/NN mall/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ The/DT pleasure/NN cruise/NN ]
+saved/VBD 
+[ the/DT big/JJ ships/NNS ]
+./. 
+
+[ Cunard/NNP ]
+had/VBD tried/VBN 
+[ a/DT prototype/NN ]
+in/IN 
+[ 1948/CD ]
+,/, 
+[ the/DT Caronia/NNP ]
+,/, designed/VBN to/TO sail/VB 
+[ any/DT ocean/NN ]
+with/IN 
+[ such/JJ features/NNS ]
+as/IN 
+[ a/DT permanent/JJ outdoor/JJ swimming/NN pool/NN ]
+./. 
+
+[ Today/RB ]
+
+[ the/DT Cruise/NNP Line/NNP International/NNP Association/NNP ]
+counts/VBZ 
+[ 191/CD ships/NNS ]
+ (/( 
+[ 105/CD ]
+operating/VBG in/IN 
+[ North/NNP America/NNP ]
+ )/) ,/, with/IN 
+[ 122,000/CD berths/NNS ]
+,/, 
+[ an/DT average/NN ]
+of/IN almost/RB 
+[ 650/CD ]
+per/IN 
+[ ship/NN ]
+./. 
+
+[ The/DT new/JJ flagships/NNS ]
+are/VBP approaching/VBG 
+[ the/DT old/JJ Queens/NNPS ]
+in/IN 
+[ size/NN ]
+./. 
+
+[ Royal/NNP Caribbean/NNP 's/POS Sovereign/NNP ]
+of/IN 
+[ the/DT Seas/NNPS ]
+displaces/VBZ 
+[ 74,000/CD tons/NNS ]
+and/CC even/RB 
+[ bigger/JJR cruise/NN ships/NNS ]
+are/VBP coming/VBG ./. 
+
+======================================
+
+[ The/DT American/JJ flag/NN ]
+,/, however/RB ,/, flies/VBZ on/IN only/RB 
+[ two/CD lines/NNS ]
+ (/( 
+[ one/CD ]
+for/IN 
+[ river/NN steamers/NNS ]
+ )/) ./. 
+
+[ The/DT U.S./NNP ]
+let/VBD 
+[ its/PRP$ passenger/NN ships/NNS ]
+go/VBP by/IN 
+[ default/NN ]
+./. 
+
+In/IN 
+[ 1965/CD ]
+,/, 
+[ LBJ/NNP 's/POS maritime/JJ commissioner/NN ]
+called/VBD 
+[ U.S./NNP liners/NNS ]
+``/`` 
+[ the/DT ]
+only/RB subsidized/JJ 
+[ luxury/NN ]
+in/IN 
+[ American/JJ industry/NN ]
+./. 
+
+''/'' 
+[ The/DT world/NN 's/POS biggest/JJS operator/NN ]
+,/, 
+[ Carnival/NNP ]
+,/, is/VBZ on/IN 
+[ the/DT American/NNP Stock/NNP Exchange/NNP ]
+but/CC 
+[ its/PRP$ seven/CD ships/NNS ]
+fly/VBP 
+[ foreign/JJ flags/NNS ]
+./. 
+
+======================================
+
+[ The/DT cruise/NN operators/NNS ]
+see/VBP 
+[ only/JJ clear/JJ sailing/NN ]
+ahead/RB ./. 
+
+[ Last/JJ year/NN ]
+,/, almost/RB 
+[ 3.2/CD million/CD Americans/NNPS ]
+boarded/VBD 
+[ cruise/NN ships/NNS ]
+--/: barely/RB 
+[ 2/CD %/NN ]
+of/IN 
+[ the/DT U.S./NNP population/NN ]
+./. 

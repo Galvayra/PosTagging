@@ -1,0 +1,450 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Auto/NN makers/NNS ]
+,/, after/IN 
+[ 12/CD years/NNS ]
+of/IN fighting/VBG off/RP 
+[ attempts/NNS ]
+to/TO require/VB 
+[ on-board/JJ cannisters/NNS ]
+to/TO catch/VB refueling/NN 
+[ vapors/NNS ]
+,/, find/VBP 
+[ the/DT threat/NN ]
+renewed/VBN as/IN 
+[ Congress/NNP ]
+reshapes/VBZ 
+[ President/NNP Bush/NNP 's/POS clean-air/NN bill/NN ]
+./. 
+
+======================================
+
+[ A/DT House/NNP panel/NN ]
+voted/VBD to/TO add/VB 
+[ a/DT requirement/NN ]
+to/TO 
+[ the/DT bill/NN ordering/VBG manufacturers/NNS ]
+to/TO equip/VB 
+[ new/JJ cars/NNS ]
+with/IN 
+[ devices/NNS ]
+to/TO catch/VB 
+[ 95/CD %/NN ]
+of/IN 
+[ gasoline/NN fumes/NNS ]
+
+[ that/WDT ]
+now/RB escape/VB during/IN refueling/NN ./. 
+
+[ The/DT requirement/NN ]
+would/MD start/VB with/IN 
+[ 1993/CD models/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ gasoline/NN stations/NNS ]
+in/IN 
+[ the/DT most-polluted/JJS cities/NNS ]
+would/MD have/VB to/TO install/VB 
+[ equipment/NN ]
+at/IN 
+[ the/DT pump/NN ]
+to/TO catch/VB 
+[ the/DT fumes/NNS ]
+,/, 
+[ which/WDT ]
+contribute/VBP to/TO 
+[ smog/NN ]
+and/CC are/VBP 
+[ health/NN risks/NNS ]
+./. 
+
+======================================
+
+[ Both/DT ]
+
+[ the/DT auto/NN ]
+and/CC 
+[ oil/NN industries/NNS ]
+claim/VBP 
+[ the/DT systems/NNS ]
+are/VBP too/RB expensive/JJ ./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT auto/NN industry/NN ]
+claims/VBZ that/IN 
+[ the/DT cannisters/NNS ]
+could/MD pose/VB 
+[ a/DT fire/NN risk/NN ]
+./. 
+
+[ Rep./NNP John/NNP Dingell/NNP ]
+,/, (/( 
+[ D./NNP ]
+,/, 
+[ Mich./NNP ]
+ )/) ,/, 
+[ a/DT powerful/JJ auto-industry/NN ally/NN ]
+,/, said/VBD 
+[ he/PRP ]
+fears/VBZ 
+[ the/DT cannisters/NNS ]
+would/MD turn/VB 
+[ cars/NNS ]
+into/IN ``/`` motorized/JJ 
+[ bombs/NNS ]
+./. 
+
+''/'' 
+======================================
+
+Until/IN now/RB ,/, 
+[ one/CD ]
+of/IN 
+[ the/DT battles/NNS ]
+over/IN 
+[ capturing/VBG gasoline/NN fumes/NNS ]
+has/VBZ been/VBN over/IN choosing/VBG 
+[ who/WP ]
+should/MD bear/VB 
+[ the/DT expense/NN ]
+of/IN installing/VBG 
+[ new/JJ equipment/NN ]
+--/: 
+[ car/NN makers/NNS ]
+or/CC 
+[ service/NN stations/NNS ]
+./. 
+
+In/IN 
+[ his/PRP$ clean-air/JJ proposal/NN ]
+,/, 
+[ Mr./NNP Bush/NNP ]
+chose/VBD 
+[ gasoline/NN stations/NNS ]
+;/: 
+[ he/PRP ]
+would/MD have/VB required/VBN 
+[ stations/NNS ]
+in/IN 
+[ 69/CD polluted/JJ cities/NNS ]
+to/TO install/VB 
+[ special/JJ hoses/NNS ]
+and/CC 
+[ tanks/NNS ]
+at/IN 
+[ a/DT cost/NN ]
+of/IN 
+[ $/$ 2,000/CD ]
+
+[ a/DT pump/NN ]
+./. 
+
+[ The/DT pump/NN devices/NNS ]
+are/VBP now/RB in/IN 
+[ use/NN ]
+in/IN 
+[ California/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+and/CC 
+[ Washington/NNP ]
+,/, 
+[ D.C/NNP ]
+./. 
+
+======================================
+
+[ The/DT action/NN ]
+by/IN 
+[ the/DT House/NNP Energy/NNP ]
+and/CC 
+[ Commerce/NNP subcommittee/NN ]
+on/IN 
+[ health/NN ]
+and/CC 
+[ environment/NN ]
+would/MD require/VB 
+[ the/DT same/JJ changes/NNS ]
+at/IN 
+[ the/DT pump/NN ]
+,/, though/IN in/IN only/RB about/IN 
+[ half/NN ]
+as/IN 
+[ many/JJ cities/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ it/PRP ]
+would/MD require/VB 
+[ car/NN makers/NNS ]
+to/TO install/VB 
+[ equipment/NN ]
+to/TO capture/VB 
+[ fumes/NNS ]
+,/, 
+[ most/RBS likely/JJ cannisters/NNS ]
+about/IN 
+[ the/DT size/NN ]
+of/IN 
+[ five-pound/JJ coffee/NN cans/NNS ]
+
+[ that/WDT ]
+would/MD condense/VB 
+[ the/DT fumes/NNS ]
+and/CC return/VB 
+[ the/DT gas/NN ]
+to/TO 
+[ the/DT gas/NN tank/NN ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT committee/NN 's/POS provision/NN ]
+,/, 
+[ the/DT new-styled/JJ pumps/NNS ]
+could/MD be/VB phased/VBN out/RB once/RB 
+[ cars/NNS ]
+with/IN 
+[ special/JJ cannisters/NNS ]
+are/VBP in/IN 
+[ widespread/JJ use/NN ]
+./. 
+
+======================================
+
+[ Both/DT ]
+
+[ the/DT Bush/NNP administration/NN ]
+and/CC 
+[ business/NN lobbyists/NNS ]
+said/VBD 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT mistake/NN ]
+to/TO require/VB 
+[ changes/NNS ]
+by/IN 
+[ both/DT ]
+
+[ industries/NNS ]
+./. 
+
+======================================
+
+[ The/DT Environmental/NNP Protection/NNP Agency/NNP ]
+estimates/VBZ that/IN 
+[ the/DT cannisters/NNS ]
+would/MD cost/VB 
+[ $/$ 14/CD ]
+
+[ a/DT car/NN ]
+./. 
+
+But/CC 
+[ auto/NN makers/NNS ]
+say/VBP 
+[ the/DT costs/NNS ]
+would/MD range/VB from/IN 
+[ $/$ 40/CD ]
+to/TO 
+[ $/$ 120/CD ]
+
+[ a/DT car/NN ]
+and/CC would/MD require/VB 
+[ major/JJ modifications/NNS ]
+to/TO 
+[ body/NN parts/NNS ]
+to/TO accommodate/VB 
+[ the/DT equipment/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+is/VBZ 
+[ sharp/JJ disagreement/NN ]
+over/IN whether/IN 
+[ the/DT cannisters/NNS ]
+would/MD be/VB safe/JJ ./. 
+
+[ Mr./NNP Dingell/NNP ]
+said/VBD 
+[ auto-insurance/NN companies/NNS ]
+are/VBP worried/VBN about/IN 
+[ an/DT increased/VBN risk/NN ]
+of/IN 
+[ fire/NN ]
+in/IN 
+[ the/DT event/NN ]
+of/IN 
+[ a/DT crash/NN ]
+./. 
+
+[ He/PRP ]
+cited/VBD 
+[ a/DT study/NN ]
+by/IN 
+[ Arthur/NNP Little/NNP ]
+
+[ that/WDT ]
+found/VBD 
+[ the/DT devices/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP still/RB under/IN 
+[ development/NN ]
+,/, pose/VBP 
+[ a/DT ]
+``/`` 
+[ potential/JJ safety/NN risk/NN ]
+./. 
+
+''/'' 
+======================================
+
+However/RB ,/, 
+[ the/DT EPA/NNP ]
+does/VBZ n't/RB think/VB 
+[ there/EX ]
+are/VBP 
+[ safety/NN problems/NNS ]
+and/CC has/VBZ tried/VBN for/IN 
+[ years/NNS ]
+to/TO require/VB 
+[ the/DT cannisters/NNS ]
+./. 
+
+``/`` 
+[ This/DT ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT biggest/JJS bugaboos/NNS we/PRP ]
+'ve/VBP heard/VBN in/IN 
+[ a/DT long/JJ time/NN ]
+,/, ''/'' said/VBD 
+[ subcommittee/NN chairman/NN Rep./NNP Henry/NNP Waxman/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif./NNP ]
+ )/) ,/, 
+[ author/NN ]
+of/IN 
+[ the/DT cannister/NN amendment/NN ]
+./. 
+
+======================================
+
+[ General/NNP Motors/NNPS Corp./NNP ]
+said/VBD :/: ``/`` 
+[ The/DT public/NN ]
+should/MD n't/RB be/VB in/IN 
+[ a/DT position/NN ]
+of/IN potentially/RB sacrificing/VBG 
+[ safety/NN ]
+for/IN 
+[ a/DT minimal/JJ reduction/NN ]
+in/IN 
+[ emissions/NNS ]
+
+[ that/WDT ]
+can/MD be/VB obtained/VBN by/IN 
+[ safer/JJR and/CC less/RBR expensive/JJ means/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT fumes/NNS ]
+retrieved/VBN by/IN 
+[ both/DT ]
+
+[ the/DT new/JJ pumps/NNS ]
+and/CC 
+[ special/JJ cannisters/NNS ]
+would/MD be/VB less/JJR than/IN 
+[ 5/CD %/NN ]
+of/IN 
+[ the/DT hydrocarbons/NNS ]
+
+[ that/WDT ]
+cause/VBG 
+[ smog/NN ]
+in/IN 
+[ cities/NNS ]
+./. 
+
+However/RB ,/, 
+[ the/DT toxic/JJ chemicals/NNS ]
+in/IN 
+[ gasoline/NN fumes/NNS ]
+are/VBP thought/VBN to/TO cause/VB 
+[ 25/CD ]
+to/TO 
+[ 75/CD cancer/NN cases/NNS ]
+
+[ a/DT year/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ auto/NN companies/NNS ]
+dislike/VBP 
+[ the/DT cannister/NN provision/NN ]
+,/, 
+[ they/PRP ]
+'re/VBP more/RBR concerned/JJ about/IN 
+[ attempts/NNS ]
+to/TO 
+[ force/VB cars/NNS ]
+nationwide/RB to/TO meet/VB 
+[ tougher/JJR tailpipe-emissions/NNS standards/NNS ]
+adopted/VBN for/IN 
+[ smog-ridden/JJ California/NNP ]
+./. 
+
+[ Mr./NNP Waxman/NNP ]
+,/, 
+[ who/WP ]
+lost/VBD 
+[ an/DT initial/JJ vote/NN ]
+for/IN 
+[ the/DT tighter/JJR standards/NNS ]
+,/, is/VBZ trying/VBG to/TO win/VB over/IN 
+[ Republicans/NNPS ]
+to/TO 
+[ a/DT compromise/NN ]
+
+[ that/WDT ]
+would/MD be/VB tougher/JJR than/IN 
+[ the/DT president/NN 's/POS bill/NN ]
+on/IN 
+[ tailpipe/NN emissions/NNS ]
+./. 

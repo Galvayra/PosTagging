@@ -1,0 +1,605 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT new/JJ American/NNP Bar/NNP Association/NNP program/NN ]
+is/VBZ grooming/VBG 
+[ some/DT Soviet/JJ lawyers/NNS ]
+to/TO be/VB 
+[ matchmakers/NNS ]
+for/IN 
+[ U.S.-Soviet/JJ joint/JJ ventures/NNS ]
+./. 
+
+======================================
+
+[ Larisa/NNP Afanasyeva/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ 17/CD Soviet/JJ professionals/NNS ]
+to/TO take/VB 
+[ part/NN ]
+in/IN 
+[ this/DT program/NN ]
+,/, is/VBZ 
+[ a/DT recognized/JJ legal/JJ scholar/NN ]
+at/IN 
+[ the/DT Soviet/NNP Academy/NNP ]
+of/IN 
+[ Sciences/NNPS '/POS Institute/NNP ]
+of/IN 
+[ State/NNP ]
+and/CC 
+[ Law/NNP ]
+./. 
+
+But/CC ,/, like/IN 
+[ most/JJS Soviet/JJ lawyers/NNS ]
+,/, 
+[ she/PRP ]
+has/VBZ 
+[ little/JJ experience/NN ]
+in/IN bringing/VBG together/RB 
+[ clients/NNS ]
+from/IN vastly/RB 
+[ different/JJ cultures/NNS ]
+and/CC 
+[ legal/JJ systems/NNS ]
+./. 
+
+======================================
+
+[ Mrs./NNP Afanasyeva/NNP ]
+will/MD try/VB to/TO learn/VB how/WRB to/TO do/VB 
+[ that/DT ]
+during/IN 
+[ a/DT six-month/JJ stint/NN ]
+with/IN 
+[ Arnold/NNP ]
+&/CC 
+[ Porter/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT first/JJ U.S./NNP law/NN firms/NNS ]
+to/TO build/VB up/RP 
+[ a/DT Soviet/NNP practice/NN ]
+./. 
+
+[ She/PRP ]
+concedes/VBZ that/IN 
+[ her/PRP$ Marxist/JJ education/NN has/VBZ n't/RB ]
+prepared/VBN 
+[ her/PRP ]
+for/IN 
+[ the/DT complexities/NNS ]
+of/IN 
+[ the/DT U.S./NNP legal/JJ system/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+have/VBP 
+[ case/NN law/NN ]
+determined/VBN by/IN 
+[ courts/NNS ]
+and/CC 
+[ judges/NNS ]
+,/, and/CC 
+[ we/PRP ]
+have/VBP 
+[ codes/NNS ]
+administered/VBN by/IN 
+[ government/NN agencies/NNS ]
+,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Irina/NNP Savelyeva/NNP ]
+,/, 
+[ a/DT law/NN professor/NN ]
+at/IN 
+[ Moscow/NNP State/NNP University/NNP ]
+
+[ who/WP ]
+is/VBZ interning/VBG at/IN 
+[ the/DT Washington/NNP law/NN firm/NN ]
+of/IN 
+[ Heron/NNP ]
+,/, 
+[ Burchette/NNP ]
+,/, 
+[ Ruckert/NNP ]
+&/CC 
+[ Rockwell/NNP ]
+,/, already/RB has/VBZ been/VBN put/VBN to/TO work/VB representing/VBG 
+[ J.V./NNP Dialogue/NNP ]
+,/, 
+[ a/DT joint/JJ venture/NN ]
+set/VBN up/RB by/IN 
+[ a/DT Chicago/NNP company/NN ]
+and/CC 
+[ five/CD Soviet/JJ state/NN entities/NNS ]
+to/TO produce/VB 
+[ Soviet/JJ software/NN ]
+for/IN 
+[ domestic/JJ sale/NN ]
+and/CC possibly/RB for/IN 
+[ export/NN ]
+to/TO 
+[ the/DT U.S./NNP ]
+and/CC 
+[ Eastern/NNP Europe/NNP ]
+./. 
+
+Currently/RB 
+[ she/PRP ]
+is/VBZ looking/VBG into/IN how/WRB 
+[ her/PRP$ U.S./NNP principals/NNS ]
+can/MD repatriate/VB 
+[ profits/NNS ]
+from/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+[ The/DT Soviet/JJ ruble/NN ]
+still/RB ca/MD n't/RB be/VB freely/RB converted/VBN into/IN 
+[ Western/JJ currencies/NNS ]
+./. 
+
+======================================
+
+[ These/DT Soviet/JJ interns/NNS ]
+were/VBD among/IN 
+[ several/JJ ]
+
+[ who/WP ]
+were/VBD interviewed/VBN during/IN 
+[ their/PRP$ orientation/NN course/NN ]
+in/IN 
+[ Washington/NNP ]
+recently/RB ./. 
+
+======================================
+
+[ Steven/NNP Raikin/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ the/DT ABA/NNP program/NN ]
+,/, promises/VBZ that/IN 
+[ it/PRP ]
+will/MD be/VB 
+[ a/DT ]
+``/`` 
+[ two-way/JJ street/NN ]
+,/, ''/'' benefiting/VBG 
+[ both/DT ]
+
+[ the/DT Soviet/JJ lawyers/NNS ]
+and/CC 
+[ their/PRP$ U.S./NNP hosts/NNS ]
+./. 
+
+``/`` 
+[ These/DT young/JJ lawyers/NNS ]
+will/MD learn/VB how/WRB 
+[ the/DT Western/JJ system/NN works/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` At/IN 
+[ the/DT same/JJ time/NN ]
+
+[ they/PRP ]
+can/MD give/VB 
+[ their/PRP$ American/JJ principals/NNS ]
+
+[ a/DT better/JJR sense/NN ]
+of/IN 
+[ Soviet/JJ law/NN ]
+and/CC 
+[ psychology/NN ]
+and/CC help/VB 
+[ them/PRP ]
+locate/VB 
+[ potential/JJ Soviet/JJ business/NN partners/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ There/EX ]
+'s/VBZ 
+[ no/DT lack/NN ]
+of/IN 
+[ potential/JJ business/NN ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+Since/IN 
+[ President/NNP Mikhail/NNP Gorbachev/NNP ]
+called/VBD for/IN 
+[ massive/JJ structural/JJ reform/NN ]
+,/, as/RB many/JJ as/IN 
+[ 5,000/CD state/NN agencies/NNS ]
+and/CC 
+[ enterprises/NNS ]
+have/VBP obtained/VBN 
+[ the/DT right/NN ]
+to/TO deal/VB directly/RB with/IN 
+[ foreign/JJ principals/NNS ]
+./. 
+
+``/`` 
+[ They/PRP ]
+
+[ all/DT ]
+want/VBP to/TO do/VB 
+[ business/NN ]
+with/IN 
+[ the/DT U.S./NNP ]
+,/, ''/'' reports/VBZ 
+[ Alexander/NNP Podolsky/NNP ]
+,/, 
+[ a/DT Moscow/NNP attorney/NN ]
+
+[ who/WP ]
+will/MD intern/VB for/IN 
+[ six/CD months/NNS ]
+with/IN 
+[ a/DT San/NNP Francisco/NNP firm/NN ]
+,/, 
+[ Heller/NNP ]
+,/, 
+[ Ehrman/NNP ]
+,/, 
+[ White/NNP ]
+&/CC 
+[ McCauliffe/NNP ]
+./. 
+
+======================================
+
+[ A/DT major/JJ obstacle/NN ]
+to/TO 
+[ doing/VBG business/NN ]
+,/, 
+[ Soviet/JJ lawyers/NNS ]
+say/VBP ,/, is/VBZ that/IN 
+[ many/JJ people/NNS ]
+in/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+proposing/VBG 
+[ joint/JJ ventures/NNS ]
+have/VBP failed/VBN to/TO provide/VB 
+[ enough/JJ information/NN ]
+to/TO interest/VB 
+[ potential/JJ foreign/JJ investors/NNS ]
+./. 
+
+``/`` 
+[ Two/CD years/NNS ]
+ago/RB 
+[ nobody/NN ]
+knew/VBD how/WRB to/TO do/VB 
+[ this/DT work/NN ]
+,/, ''/'' concedes/VBZ 
+[ Sven/NNP Papp/NNP ]
+,/, 
+[ an/DT Estonian/JJ lawyer/NN ]
+
+[ who/WP ]
+will/MD spend/VB 
+[ a/DT total/NN ]
+of/IN 
+[ six/CD months/NNS ]
+at/IN 
+[ two/CD New/NNP York/NNP law/NN firms/NNS ]
+,/, 
+[ Haight/NNP ]
+,/, 
+[ Gardner/NNP ]
+,/, 
+[ Poor/NNP ]
+&/CC 
+[ Havens/NNP ]
+and/CC 
+[ White/NNP ]
+&/CC 
+[ Case/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT interns/NNS ]
+are/VBP bullish/JJ about/IN 
+[ the/DT future/NN ]
+of/IN 
+[ their/PRP$ once-downtrodden/JJ profession/NN ]
+./. 
+
+``/`` 
+[ Gorbachev/NNP ]
+is/VBZ 
+[ a/DT lawyer/NN ]
+
+[ himself/PRP ]
+,/, so/IN 
+[ he/PRP ]
+is/VBZ sincerely/RB trying/VBG to/TO turn/VB 
+[ our/PRP$ country/NN ]
+into/IN 
+[ a/DT law-based/JJ state/NN ]
+,/, ''/'' says/VBZ 
+[ Mrs./NNP Afanasyeva/NNP ]
+./. 
+
+======================================
+
+[ The/DT Soviet/JJ legal/JJ community/NN ]
+is/VBZ divided/VBN into/IN 
+[ 80,000/CD ]
+``/`` 
+[ jurisconsults/NNS ]
+,/, ''/'' or/CC 
+[ legal/JJ advisers/NNS ]
+to/TO 
+[ state/NN entities/NNS ]
+;/: 
+[ 25,000/CD advocates/NNS ]
+,/, or/CC 
+[ independent/JJ lawyers/NNS ]
+;/: and/CC 
+[ several/JJ thousand/CD judges/NNS ]
+,/, 
+[ prosecutors/NNS ]
+,/, 
+[ law/NN professors/NNS ]
+and/CC 
+[ scholars/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT advocates/NNS ]
+are/VBP forming/VBG 
+[ cooperatives/NNS ]
+--/: 
+[ the/DT closest/JJS Soviet/JJ equivalent/NN ]
+of/IN 
+[ Western/JJ law/NN firms/NNS ]
+--/: and/CC are/VBP competing/VBG with/IN 
+[ the/DT jurisconsults/NNS ]
+for/IN 
+[ the/DT right/NN ]
+to/TO tap/VB 
+[ the/DT growing/VBG joint-venture/NN business/NN ]
+./. 
+
+======================================
+
+[ Konstantin/NNP Gavrilov/NNP ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ two/CD jurisconsults/NNS ]
+in/IN 
+[ this/DT first/JJ group/NN ]
+of/IN 
+[ interns/NNS ]
+./. 
+
+[ He/PRP ]
+has/VBZ 
+[ more/JJR exposure/NN ]
+to/TO 
+[ joint-venturing/NN ]
+than/IN 
+[ the/DT average/JJ advocate/NN ]
+because/IN 
+[ his/PRP$ electronics/NNS ]
+firm/NN in/IN 
+[ the/DT Volga/NNP region/NN ]
+produces/VBZ 
+[ microwave/NN devices/NNS ]
+in/IN 
+[ cooperation/NN ]
+with/IN 
+[ a/DT West/JJ German/JJ firm/NN ]
+./. 
+
+[ Mr./NNP Gavrilov/NNP ]
+will/MD intern/VB with/IN 
+[ Boise/NNP Cascade/NNP Corp./NNP ]
+,/, 
+[ a/DT company/NN ]
+interested/JJ in/IN 
+[ international/JJ timber/NN ventures/NNS ]
+./. 
+
+======================================
+
+[ The/DT interns/NNS ]
+say/VBP 
+[ they/PRP ]
+also/RB are/VBP encouraged/JJ by/IN 
+[ the/DT recent/JJ appointment/NN ]
+of/IN 
+[ a/DT recognized/JJ authority/NN ]
+on/IN 
+[ civil/JJ law/NN ]
+,/, 
+[ Veniamin/NNP Yakovlevich/NNP ]
+,/, as/IN 
+[ minister/NN ]
+of/IN 
+[ justice/NN ]
+./. 
+
+[ The/DT minister/NN ]
+is/VBZ encouraging/VBG 
+[ another/DT change/NN ]
+in/IN 
+[ the/DT profession/NN ]
+--/: 
+[ the/DT ]
+newly/RB authorized/JJ 
+[ right/NN ]
+of/IN 
+[ lawyers/NNS ]
+to/TO negotiate/VB 
+[ fees/NNS ]
+with/IN 
+[ clients/NNS ]
+./. 
+
+======================================
+
+[ The/DT Soros/NNP Foundation/NNP ]
+,/, 
+[ the/DT program/NN 's/POS financial/JJ backer/NN ]
+,/, expects/VBZ 
+[ next/JJ year/NN 's/POS class/NN ]
+of/IN 
+[ interns/NNS ]
+to/TO be/VB nearly/RB double/JJ 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT first/JJ one/NN ]
+./. 
+
+[ The/DT foundation/NN 's/POS patron/NN ]
+,/, 
+[ George/NNP Soros/NNP ]
+,/, is/VBZ 
+[ a/DT New/NNP York/NNP investor/NN ]
+interested/JJ in/IN improving/VBG 
+[ economic/JJ ties/NNS ]
+with/IN 
+[ Eastern/NNP Europe/NNP ]
+and/CC 
+[ the/DT Soviet/NNP Union/NNP ]
+./. 
+
+======================================
+
+[ Another/DT intern/NN ]
+is/VBZ 
+[ Valentin/NNP Blueger/NNP ]
+,/, 
+[ an/DT entertainment/NN lawyer/NN ]
+
+[ who/WP ]
+represents/VBZ 
+[ rock/NN star/NN Laima/NNP Vaikule/NNP ]
+,/, 
+[ the/DT Soviet/JJ answer/NN ]
+to/TO 
+[ Madonna/NNP ]
+./. 
+
+[ He/PRP ]
+has/VBZ chosen/VBN 
+[ Nashville/NNP ]
+,/, 
+[ Tenn./NNP ]
+,/, 
+[ the/DT country-and-Western/JJ music/NN capital/NN ]
+,/, as/IN 
+[ his/PRP$ place/NN ]
+of/IN 
+[ study/NN ]
+and/CC will/MD share/VB 
+[ his/PRP$ time/NN ]
+between/IN 
+[ Parris/NNP ]
+,/, 
+[ Warfield/NNP ]
+&/CC 
+[ Kanaday/NNP ]
+,/, 
+[ a/DT law/NN firm/NN ]
+
+[ that/WDT ]
+does/VBZ 
+[ entertainment/NN business/NN ]
+,/, and/CC 
+[ Vanderbilt/NNP University/NNP Law/NNP School/NNP ]
+./. 
+
+[ Baiba/NNP Plaude/NNP ]
+,/, like/IN 
+[ Mr./NNP Blueger/NNP ]
+
+[ a/DT native/NN ]
+of/IN 
+[ Riga/NNP ]
+,/, 
+[ Latvia/NNP ]
+,/, will/MD be/VB interning/VBG at/IN 
+[ Jenner/NNP ]
+&/CC 
+[ Block/NNP ]
+in/IN 
+[ Chicago/NNP ]
+./. 
+
+======================================
+
+[ The/DT Latvians/NNPS ]
+agree/VB with/IN 
+[ their/PRP$ Russian/JJ colleagues/NNS '/POS support/NN ]
+of/IN 
+[ perestroika/FW ]
+and/CC 
+[ the/DT liberalized/JJ legal/JJ system/NN ]
+--/: only/RB more/RBR so/RB ./. 
+
+``/`` 
+[ We/PRP ]
+traditionally/RB have/VBP been/VBN more/RBR Western/JJ and/CC 
+[ business-oriented/JJ ]
+,/, ''/'' explains/VBZ 
+[ Mr./NNP Blueger/NNP ]
+./. 
+
+======================================
+
+[ The/DT ABA/NNP 's/POS Mr./NNP Raikin/NNP ]
+says/VBZ 
+[ the/DT U.S./NNP sponsors/NNS ]
+have/VBP been/VBN ``/`` absolutely/RB free/JJ ''/'' to/TO conduct/VB 
+[ this/DT program/NN ]
+without/IN 
+[ Soviet/JJ influence/NN ]
+or/CC 
+[ interference/NN ]
+,/, and/CC 
+[ the/DT interns/NNS ]
+have/VBP been/VBN making/VBG 
+[ their/PRP$ orientation/NN rounds/NNS ]
+without/IN 
+[ any/DT visible/JJ attention/NN ]
+from/IN 
+[ the/DT Soviet/NNP Embassy/NNP ]
+./. 

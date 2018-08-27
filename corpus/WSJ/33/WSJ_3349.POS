@@ -1,0 +1,87 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Les/NNP Payne/NNP ]
+,/, 
+[ assistant/NN managing/NN editor/NN ]
+of/IN 
+[ Long/NNP Island-based/JJ Newsday/NNP ]
+,/, as/IN quoted/VBN in/IN 
+[ a/DT Washington/NNP Times/NNP story/NN ]
+on/IN 
+[ unhappiness/NN ]
+among/IN 
+[ blacks/NNS ]
+about/IN 
+[ press/NN coverage/NN ]
+of/IN 
+[ crime/NN ]
+:/: 
+======================================
+
+[ The/DT root/NN ]
+of/IN 
+[ the/DT problem/NN ]
+starts/VBZ with/IN 
+[ police/NN reporting/NN ]
+./. 
+
+[ Black/JJ ]
+and/CC 
+[ white/JJ reporters/NNS ]
+often/RB view/VBP 
+[ the/DT police/NN ]
+differently/RB ./. 
+
+In/IN 
+[ general/JJ ]
+,/, 
+[ blacks/NNS ]
+come/VBP from/IN 
+[ a/DT group/NN ]
+
+[ that/WDT ]
+sees/VBZ 
+[ itself/PRP ]
+as/IN being/VBG disproportionately/RB 
+[ a/DT victim/NN ]
+of/IN 
+[ the/DT police/NN ]
+./. 
+
+For/IN 
+[ the/DT white/JJ reporter/NN ]
+,/, 
+[ police/NNS ]
+are/VBP not/RB 
+[ hostile/JJ figures/NNS ]
+./. 
+
+[ It/PRP ]
+starts/VBZ there/RB ,/, and/CC then/RB expands/VBZ very/RB rapidly/RB upward/RB ,/, from/IN 
+[ reporter/NN ]
+to/TO 
+[ editor/NN ]
+to/TO 
+[ newspaper/NN publisher/NN ]
+--/: 
+[ all/DT ]
+of/IN 
+[ whom/WP ]
+trust/VBP 
+[ the/DT local/JJ police/NN ]
+./. 

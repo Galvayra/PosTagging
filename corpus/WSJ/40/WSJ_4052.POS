@@ -1,0 +1,219 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ New/NNP York/NNP attorney/NN Martin/NNP S./NNP Ackerman/NNP ]
+and/CC 
+[ corporate/JJ raider/NN Asher/NNP Edelman/NNP ]
+fired/VBD 
+[ a/DT volley/NN ]
+of/IN 
+[ charges/NNS ]
+at/IN 
+[ each/DT other/JJ ]
+as/IN 
+[ the/DT bitter/JJ battle/NN ]
+for/IN 
+[ Datapoint/NNP Corp./NNP ]
+began/VBD officially/RB ./. 
+
+======================================
+
+In/IN 
+[ a/DT letter/NN ]
+to/TO 
+[ shareholders/NNS ]
+accompanying/VBG 
+[ his/PRP$ ]
+recently/RB mailed/VBN 
+[ consent/NN solicitation/NN ]
+,/, 
+[ Mr./NNP Ackerman/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ seeking/VBG to/TO oust/VB 
+[ the/DT board/NN ]
+controlled/VBN by/IN 
+[ Mr./NNP Edelman/NNP ]
+,/, said/VBD that/IN since/IN 
+[ Mr./NNP Edelman/NNP ]
+took/VBD 
+[ control/NN ]
+of/IN 
+[ the/DT San/NNP Antonio/NNP ]
+,/, 
+[ Texas/NNP ]
+,/, 
+[ maker/NN ]
+of/IN 
+[ computer/NN products/NNS ]
+in/IN 
+[ 1985/CD ]
+,/, 
+[ shareholders/NNS '/POS equity/NN ]
+has/VBZ fallen/VBN 
+[ 35/CD %/NN ]
+,/, to/TO 
+[ $/$ 151/CD million/CD ]
+from/IN 
+[ $/$ 232/CD million/CD ]
+./. 
+
+And/CC while/IN 
+[ the/DT company/NN ]
+lost/VBD 
+[ $/$ 126/CD million/CD ]
+during/IN 
+[ that/DT time/NN ]
+,/, 
+[ the/DT letter/NN ]
+says/VBZ ,/, 
+[ Mr./NNP Edelman/NNP ]
+,/, 
+[ his/PRP$ associates/NNS ]
+and/CC 
+[ companies/NNS ]
+controlled/VBN by/IN 
+[ him/PRP ]
+have/VBP received/VBN more/JJR than/IN 
+[ $/$ 15/CD million/CD ]
+in/IN 
+[ salaries/NNS ]
+and/CC 
+[ fees/NNS ]
+from/IN 
+[ Datapoint/NNP ]
+and/CC 
+[ Intelogic/NNP Trace/NNP Inc./NNP ]
+,/, 
+[ which/WDT ]
+was/VBD spun/VBN off/RB from/IN 
+[ Datapoint/NNP ]
+
+[ a/DT few/JJ years/NNS ]
+ago/RB ./. 
+
+======================================
+
+[ Mr./NNP Edelman/NNP ]
+responded/VBD with/IN 
+[ his/PRP$ own/JJ letter/NN ]
+to/TO 
+[ Datapoint/NNP shareholders/NNS ]
+,/, accusing/VBG 
+[ Mr./NNP Ackerman/NNP ]
+of/IN trying/VBG to/TO replace/VB 
+[ an/DT elected/JJ board/NN ]
+``/`` with/IN 
+[ his/PRP$ own/JJ hand-picked/JJ nominees/NNS ]
+./. 
+
+''/'' In/IN 
+[ the/DT letter/NN ]
+,/, 
+[ he/PRP ]
+said/VBD 
+[ the/DT company/NN ]
+is/VBZ still/RB preparing/VBG 
+[ information/NN ]
+about/IN 
+[ the/DT corporate/JJ bankruptcies/NNS ]
+with/IN 
+[ which/WDT ]
+
+[ Mr./NNP Ackerman/NNP ]
+has/VBZ been/VBN associated/VBN ,/, as/RB well/RB as/IN ``/`` 
+[ other/JJ interesting/JJ data/NNS ]
+./. 
+
+''/'' 
+[ It/PRP ]
+did/VBD n't/RB provide/VB 
+[ further/JJ details/NNS ]
+./. 
+
+======================================
+
+While/IN 
+[ Mr./NNP Edelman/NNP ]
+and/CC 
+[ Mr./NNP Ackerman/NNP ]
+vie/VBP for/IN 
+[ shareholder/NN loyalties/NNS ]
+,/, 
+[ what/WP ]
+may/MD be/VB 
+[ the/DT deciding/VBG battle/NN ]
+is/VBZ being/VBG fought/VBN in/IN 
+[ a/DT Delaware/NNP court/NN ]
+,/, 
+[ which/WDT ]
+must/MD decide/VB whether/IN 
+[ Mr./NNP Edelman/NNP ]
+may/MD vote/VB 
+[ the/DT three/CD million/CD Datapoint/NNP shares/NNS ]
+
+[ he/PRP ]
+bought/VBD after/IN 
+[ Mr./NNP Ackerman/NNP ]
+announced/VBD 
+[ his/PRP$ consent/NN solicitation/NN ]
+./. 
+
+[ Mr./NNP Ackerman/NNP ]
+is/VBZ challenging/VBG 
+[ the/DT purchase/NN ]
+on/IN 
+[ several/JJ grounds/NNS ]
+,/, saying/VBG 
+[ it/PRP ]
+was/VBD improper/JJ and/CC made/VBN ``/`` solely/RB to/TO thwart/VB 
+[ the/DT consent/NN solicitation/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ A/DT decision/NN ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ Mr./NNP Edelman/NNP ]
+--/: giving/VBG 
+[ him/PRP ]
+control/VB of/IN 
+[ 40/CD %/NN ]
+of/IN 
+[ Datapoint/NNP 's/POS shares/NNS ]
+--/: could/MD well/RB doom/VB 
+[ Mr./NNP Ackerman/NNP 's/POS takeover/NN bid/NN ]
+./. 
+
+To/TO gain/VB 
+[ control/NN ]
+of/IN 
+[ Datapoint/NNP 's/POS board/NN ]
+,/, 
+[ Mr./NNP Ackerman/NNP ]
+must/MD obtain/VB by/IN 
+[ Nov./NNP 6/CD consents/NNS ]
+from/IN 
+[ holders/NNS ]
+of/IN more/JJR than/IN 
+[ 50/CD %/NN ]
+of/IN 
+[ Datapoint/NNP 's/POS shares/NNS ]
+outstanding/JJ ./. 

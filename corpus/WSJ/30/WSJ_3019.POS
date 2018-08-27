@@ -1,0 +1,722 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Two/CD young/JJ men/NNS ]
+in/IN 
+[ business/NN suits/NNS ]
+stride/VBP up/IN to/TO 
+[ a/DT cosmetics/NNS ]
+counter/NN at/IN 
+[ Bloomingdale/NNP 's/POS department/NN store/NN ]
+in/IN 
+[ Manhattan/NNP ]
+./. 
+
+[ A/DT salesman/NN ]
+dressed/VBN in/IN 
+[ a/DT white/JJ lab/NN coat/NN ]
+guides/VBZ 
+[ them/PRP ]
+to/TO 
+[ a/DT skin-care/JJ ]
+``/`` 
+[ clinic/NN ]
+''/'' 
+[ complete/JJ ]
+with/IN 
+[ an/DT interactive/JJ computer/NN system/NN ]
+./. 
+
+[ Today/NN 's/POS lesson/NN ]
+:/: 
+[ determining/VBG skin/NN type/NN ]
+--/: 
+[ oily/JJ ]
+or/CC 
+[ dry/JJ ]
+./. 
+
+======================================
+
+Marketing/NN 
+[ executives/NNS ]
+in/IN 
+[ the/DT cosmetics/NNS trade/NN ]
+are/VBP hoping/VBG 
+[ episodes/NNS ]
+like/IN 
+[ this/DT ]
+will/MD soon/RB become/VB 
+[ commonplace/JJ ]
+./. 
+
+But/CC until/IN recently/RB ,/, 
+[ they/PRP ]
+'ve/VBP had/VBD 
+[ little/JJ reason/NN ]
+to/TO be/VB encouraged/VBN ./. 
+
+For/IN more/JJR than/IN 
+[ a/DT decade/NN ]
+,/, 
+[ industry/NN officials/NNS ]
+have/VBP been/VBN hoping/VBG for/IN 
+[ a/DT boom/NN ]
+in/IN 
+[ upscale/NN men/NNS 's/POS toiletries/NNS ]
+:/: 
+[ skin/NN cleansers/NNS ]
+,/, 
+[ moisturizers/NNS ]
+and/CC 
+[ fancy/JJ shaving/NN creams/NNS ]
+./. 
+
+``/`` Because/IN of/IN 
+[ the/DT ]
+relatively/RB 
+[ small/JJ size/NN ]
+of/IN 
+[ the/DT market/NN ]
+,/, 
+[ it/PRP ]
+has/VBZ not/RB been/VBN 
+[ a/DT ]
+highly/RB 
+[ profitable/JJ business/NN ]
+,/, ''/'' concedes/VBZ 
+[ Byron/NNP D./NNP Donics/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Aramis/NNP division/NN ]
+of/IN 
+[ Estee/NNP Lauder/NNP Inc/NNP ]
+./. 
+
+======================================
+
+Now/RB ,/, encouraged/VBN by/IN 
+[ some/DT recent/JJ growth/NN ]
+,/, 
+[ the/DT toiletries/NNS companies/NNS ]
+are/VBP polishing/VBG 
+[ their/PRP$ marketing/NN strategies/NNS ]
+,/, and/CC 
+[ the/DT business/NN ]
+is/VBZ beginning/VBG to/TO show/VB 
+[ signs/NNS ]
+of/IN 
+[ life/NN ]
+./. 
+
+Even/RB 
+[ Gillette/NNP Co./NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ traditionally/RB concentrated/VBN on/IN 
+[ mainstream/NN products/NNS ]
+,/, says/VBZ 
+[ it/PRP ]
+'s/VBZ planning/VBG 
+[ a/DT ]
+``/`` 
+[ more/RBR upscale/JJ ]
+''/'' 
+[ line/NN ]
+of/IN 
+[ men/NNS 's/POS toiletries/NNS ]
+,/, probably/RB for/IN 
+[ sale/NN ]
+through/IN 
+[ its/PRP$ traditional/JJ outlets/NNS ]
+,/, such/JJ as/IN 
+[ drugstores/NNS ]
+./. 
+
+[ Department-store/JJ sales/NNS ]
+of/IN 
+[ upscale/JJ men/NNS 's/POS grooming/NN products/NNS ]
+,/, not/RB including/VBG 
+[ colognes/NNS ]
+,/, grew/VBD 
+[ last/JJ year/NN ]
+to/TO between/IN 
+[ $/$ 70/CD million/CD ]
+and/CC 
+[ $/$ 80/CD million/CD ]
+from/IN about/RB 
+[ $/$ 40/CD million/CD ]
+in/IN 
+[ 1983/CD ]
+,/, according/VBG to/TO 
+[ Allan/NNP G./NNP Mottus/NNP ]
+,/, 
+[ an/DT industry/NN consultant/NN ]
+./. 
+
+For/IN 
+[ this/DT year/NN ]
+,/, 
+[ the/DT total/NN ]
+will/MD be/VB 
+[ an/DT estimated/VBN 15/CD %/NN ]
+to/TO 
+[ 20/CD %/NN higher/JJR ]
+--/: though/IN still/RB 
+[ a/DT fraction/NN ]
+of/IN 
+[ last/JJ year/NN 's/POS $/$ 1.6/CD billion/CD ]
+in/IN 
+[ sales/NNS ]
+of/IN 
+[ women/NNS 's/POS skin-care/JJ products/NNS ]
+./. 
+
+======================================
+
+[ Some/DT retailers/NNS ]
+say/VBP 
+[ they/PRP ]
+believe/VBP 
+[ younger/JJR men/NNS ]
+are/VBP already/RB 
+[ far/RB more/RBR ]
+accepting/VBG of/IN 
+[ such/JJ products/NNS ]
+then/RB 
+[ their/PRP$ fathers/NNS ]
+./. 
+
+[ Sales/NNS ]
+of/IN 
+[ men/NNS 's/POS skin-care/JJ products/NNS ]
+at/IN 
+[ Marshall/NNP Field/NNP 's/POS department/NN stores/NNS ]
+are/VBP up/RB about/RB 
+[ 20/CD %/NN ]
+
+[ this/DT year/NN ]
+,/, according/VBG to/TO 
+[ John/NNP W./NNP Stabenau/NNP ]
+,/, 
+[ Field/NNP 's/POS divisional/JJ merchandise/NN manager/NN ]
+of/IN 
+[ cosmetics/NNS ]
+./. 
+
+``/`` 
+[ Society/NN ]
+is/VBZ changing/VBG ,/, ''/'' 
+[ Mr./NNP Stabenau/NNP ]
+says/VBZ ./. 
+
+``/`` 
+[ The/DT resistance/NN ]
+to/TO 
+[ these/DT products/NNS ]
+has/VBZ broken/VBN down/RP ./. 
+
+''/'' 
+======================================
+
+To/TO keep/VB 
+[ the/DT industry/NN ]
+growing/VBG ,/, 
+[ manufacturers/NNS ]
+are/VBP rolling/VBG out/RB 
+[ new/JJ lines/NNS ]
+of/IN 
+[ men/NNS 's/POS skin-care/JJ products/NNS ]
+--/: 
+[ everything/NN ]
+from/IN 
+[ coconut-lime/JJ shaving/NN cream/NN ]
+to/TO 
+[ a/DT deodorant/NN ]
+made/VBN from/IN 
+[ lumps/NNS ]
+of/IN 
+[ mineral/NN salt/NN ]
+--/: 
+[ that/WDT ]
+can/MD cost/VB 
+[ five/CD times/NNS ]
+more/JJR than/IN 
+[ their/PRP$ more-mundane/JJ counterparts/NNS ]
+./. 
+
+[ They/PRP ]
+'re/VBP also/RB working/VBG harder/RBR to/TO sell/VB 
+[ them/PRP ]
+./. 
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ Gentlemen/NNP 's/POS Quarterly/NNP magazine/NN ]
+ran/VBD 
+[ 278.3/CD pages/NNS ]
+of/IN 
+[ ads/NNS ]
+for/IN 
+[ men/NNS 's/POS toiletries/NNS ]
+ (/( including/VBG 
+[ men/NNS 's/POS fragrances/NNS ]
+ )/) ,/, up/RB from/IN just/RB 
+[ 145.7/CD pages/NNS five/CD years/NNS ]
+earlier/RBR ./. 
+
+======================================
+
+[ What/WP ]
+'s/VBZ more/RBR ,/, 
+[ toiletries/NNS makers/NNS ]
+say/VBP 
+[ they/PRP ]
+spend/VBP far/RB more/JJR on/IN 
+[ other/JJ promotions/NNS ]
+,/, with/IN advertising/VBG typically/RB accounting/VBG for/IN only/RB about/RB 
+[ 25/CD %/NN ]
+of/IN 
+[ their/PRP$ marketing/NN budgets/NNS ]
+./. 
+
+[ Estee/NNP Lauder/NNP 's/POS Clinique/NNP division/NN ]
+,/, for/IN 
+[ instance/NN ]
+,/, spends/VBZ 
+[ $/$ 1/CD million/CD ]
+annually/RB on/IN 
+[ advertising/NN ]
+for/IN 
+[ its/PRP$ men/NNS 's/POS skin-care/JJ products/NNS ]
+,/, says/VBZ 
+[ Natalia/NNP Holynskyj/NNP ]
+,/, 
+[ a/DT consultant/NN ]
+with/IN 
+[ market/NN researcher/NN Kline/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+And/CC 
+[ she/PRP ]
+says/VBZ 
+[ Aramis/NNP ]
+spends/VBZ just/RB slightly/RB less/JJR than/IN 
+[ that/DT ]
+./. 
+
+======================================
+
+[ The/DT most-obvious/JJ obstacle/NN marketers/NNS ]
+face/VBP is/VBZ that/IN 
+[ many/JJ men/NNS ]
+consider/VBP 
+[ such/JJ products/NNS ]
+unmasculine/JJ ./. 
+
+``/`` 
+[ They/PRP ]
+still/RB have/VBP 
+[ a/DT feminine/JJ connotation/NN ]
+,/, ''/'' concedes/VBZ 
+[ Tony/NNP Michaels/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+,/, marketing/NN and/CC advertising/NN ,/, at/IN 
+[ Lancome/NNP ]
+,/, 
+[ a/DT division/NN ]
+of/IN 
+[ Cosmair/NNP Inc/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ lack/NN ]
+of/IN 
+[ macho/JJ appeal/NN ]
+is/VBZ n't/RB 
+[ the/DT only/JJ challenge/NN ]
+./. 
+
+Traditionally/RB ,/, as/RB much/JJ as/IN 
+[ 70/CD %/NN ]
+of/IN 
+[ all/DT cosmetics/NNS ]
+and/CC 
+[ toiletries/NNS purchases/NNS ]
+in/IN 
+[ department/NN stores/NNS ]
+are/VBP spontaneous/JJ ,/, 
+[ industry/NN executives/NNS ]
+say/VBP ./. 
+
+[ That/DT ]
+presents/VBZ 
+[ a/DT problem/NN ]
+for/IN 
+[ makers/NNS ]
+of/IN 
+[ men/NNS 's/POS products/NNS ]
+,/, as/IN 
+[ most/JJS department-store/JJ customers/NNS ]
+are/VBP 
+[ women/NNS ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ women/NNS ]
+now/RB buy/VB about/RB 
+[ 60/CD %/NN ]
+of/IN 
+[ the/DT men/NNS 's/POS products/NNS ]
+sold/VBN in/IN 
+[ department/NN stores/NNS ]
+./. 
+
+[ Industry/NN executives/NNS ]
+contend/VBP that/IN 
+[ their/PRP$ products/NNS ]
+are/VBP still/RB getting/VBG into/IN 
+[ the/DT right/JJ hands/NNS ]
+--/: 
+[ men/NNS 's/POS ]
+./. 
+
+But/CC 
+[ men/NNS ]
+
+[ who/WP ]
+return/VBP for/IN 
+[ a/DT refill/NN ]
+of/IN 
+[ a/DT product/NN ]
+
+[ they/PRP ]
+received/VBD as/IN 
+[ a/DT gift/NN ]
+may/MD be/VB stunned/VBN by/IN 
+[ prices/NNS ]
+as/RB high/JJ as/IN 
+[ $/$ 17.50/CD ]
+for/IN 
+[ a/DT small/JJ tube/NN ]
+of/IN 
+[ moisturizer/NN ]
+./. 
+
+======================================
+
+To/TO make/VB 
+[ matters/NNS ]
+worse/JJR ,/, 
+[ many/JJ ]
+just/RB do/VBP n't/RB believe/VB 
+[ they/PRP ]
+need/VBP 
+[ special/JJ skin-care/JJ systems/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+had/VBD 
+[ dry/JJ skin/NN ]
+once/RB ,/, ''/'' says/VBZ 
+[ John/NNP M./NNP Malknecht/NNP ]
+,/, 
+[ a/DT stockbroker/NN ]
+at/IN 
+[ Dean/NNP Witter/NNP Financial/NNP Services/NNP ]
+in/IN 
+[ Minneapolis/NNP ]
+./. 
+
+``/`` 
+[ I/PRP ]
+sneaked/VBD 
+[ some/DT ]
+of/IN 
+[ my/PRP$ wife/NN 's/POS lotion/NN ]
+out/IN of/IN 
+[ the/DT closet/NN ]
+./. 
+
+''/'' 
+[ Mr./NNP Malknecht/NNP ]
+says/VBZ 
+[ he/PRP ]
+is/VBZ n't/RB likely/JJ to/TO purchase/VB 
+[ an/DT expensive/JJ moisturizer/NN ]
+anytime/RB soon/RB ./. 
+
+``/`` 
+[ Dry/JJ skin/NN ]
+just/RB is/VBZ n't/RB that/IN 
+[ big/JJ ]
+of/IN 
+[ a/DT problem/NN ]
+in/IN 
+[ my/PRP$ life/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+For/IN now/RB ,/, 
+[ marketers/NNS ]
+are/VBP concentrating/VBG on/IN 
+[ finding/VBG ways/NNS ]
+to/TO reduce/VB 
+[ the/DT stigma/NN ]
+associated/VBN with/IN 
+[ their/PRP$ products/NNS ]
+./. 
+
+[ Gruene/NNP Inc./NNP ]
+,/, 
+[ a/DT small/JJ company/NN ]
+based/VBN in/IN 
+[ Venice/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, does/VBZ n't/RB sell/VB 
+[ any/DT women/NNS 's/POS toiletries/NNS ]
+./. 
+
+To/TO distance/VB 
+[ its/PRP$ products/NNS ]
+from/IN 
+[ those/DT ]
+of/IN 
+[ women/NNS 's/POS cosmetics/NNS makers/NNS ]
+,/, 
+[ who/WP ]
+
+favor/VBP 
+[ gray/JJ ]
+,/, 
+[ white/JJ ]
+or/CC 
+[ pastel/JJ ]
+packaging/NN ,/, 
+[ Gruene/NNP 's/POS wares/NNS ]
+come/VBP in/IN 
+[ primary-color/JJ boxes/NNS ]
+with/IN 
+[ black/JJ lettering/NN ]
+./. 
+
+``/`` 
+[ Selling/VBG cosmetics/NNS ]
+to/TO 
+[ men/NNS ]
+is/VBZ tough/JJ ''/'' says/VBZ 
+[ Daniel/NNP C./NNP Samakow/NNP ]
+,/, 
+[ Gruene/NNP 's/POS chief/JJ executive/JJ officer/NN ]
+./. 
+
+``/`` 
+[ Selling/VBG men/NNS ]
+upscale/JJ 
+[ versions/NNS ]
+of/IN 
+[ traditional/JJ toiletries/NNS ]
+is/VBZ not/RB as/RB hard/JJ ./. 
+
+''/'' 
+======================================
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT lesson/NN ]
+
+[ that/DT has/VBZ n't/RB ]
+escaped/VBD 
+[ Gruene/NNP 's/POS well-heeled/JJ competition/NN ]
+./. 
+
+[ Aramis/NNP ]
+,/, 
+[ which/WDT ]
+rolled/VBD out/RP 
+[ its/PRP$ Lab/NNP Series/NNP line/NN ]
+of/IN 
+[ unscented/VBN men/NNS 's/POS grooming/NN products/NNS three/CD years/NNS ]
+ago/RB ,/, focuses/VBZ on/IN 
+[ skin/NN problems/NNS ]
+caused/VBN by/IN shaving/NN ,/, such/JJ as/IN 
+[ razor/NN burn/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ seeking/VBG to/TO install/VB shaving/NN ``/`` 
+[ clinics/NNS ]
+''/'' in/IN 
+[ department/NN stores/NNS ]
+,/, like/IN 
+[ the/DT one/NN ]
+
+[ it/PRP ]
+now/RB operates/VBZ in/IN 
+[ Bloomingdale/NNP 's/POS ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+stop/VBP 
+[ a/DT man/NN ]
+in/IN 
+[ a/DT department/NN ]
+store/NN and/CC say/VBP 
+[ I/PRP ]
+'d/MD like/VB to/TO talk/VB about/IN 
+[ the/DT visible/JJ signs/NNS ]
+of/IN aging/VBG ,/, 
+[ they/PRP ]
+'re/VBP not/RB interested/VBN ,/, ''/'' says/VBZ 
+[ Mr./NNP Donics/NNP ]
+of/IN 
+[ Aramis/NNP ]
+./. 
+
+``/`` But/CC if/IN 
+[ you/PRP ]
+talk/VBP about/IN getting/VBG 
+[ a/DT great/JJ ]
+shave/NN ,/, 
+[ men/NNS ]
+are/VBP going/VBG to/TO stop/VB ./. 
+
+''/'' 
+[ Lancome/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ been/VBN selling/VBG 
+[ men/NNS 's/POS products/NNS ]
+at/IN 
+[ its/PRP$ women/NNS 's/POS cosmetics/NNS ]
+counters/NNS since/IN 
+[ 1986/CD ]
+,/, has/VBZ also/RB been/VBN fiddling/VBG with/IN 
+[ its/PRP$ strategy/NN ]
+./. 
+
+[ The/DT company/NN ]
+dropped/VBD 
+[ its/PRP$ Anti-Wrinkle/NNP Creme/NNP ]
+,/, partly/RB because/IN 
+[ it/PRP ]
+found/VBD 
+[ the/DT name/NN ]
+made/VBD 
+[ men/NNS ]
+uncomfortable/JJ ./. 
+
+[ Lancome/NNP ]
+also/RB beefed/VBD up/RP 
+[ its/PRP$ approach/NN ]
+at/IN 
+[ the/DT counter/NN ]
+,/, training/VBG 
+[ salespeople/NN ]
+to/TO tell/VB 
+[ men/NNS ]
+
+[ the/DT company/NN 's/POS products/NNS ]
+will/MD ``/`` 
+[ condition/VB ]
+''/'' rather/RB than/IN ``/`` soften/VB ''/'' 
+[ their/PRP$ skin/NN ]
+./. 
+
+[ Men/NN ]
+are/VBP n't/RB insulted/VBN to/TO be/VB told/VBN 
+[ they/PRP ]
+have/VBP ``/`` 
+[ crow/NN 's/POS feet/NNS ]
+''/'' at/IN 
+[ the/DT corners/NNS ]
+of/IN 
+[ their/PRP$ eyes/NNS ]
+,/, says/VBZ 
+[ Mr./NNP Michaels/NNP ]
+of/IN 
+[ Lancome/NNP ]
+./. 
+
+But/CC mention/VB 
+[ the/DT word/NN wrinkles/NNS ]
+and/CC 
+[ they/PRP ]
+'re/VBP likely/JJ to/TO flee/VB ./. 
+
+======================================
+
+To/TO ease/VB 
+[ customers/NNS '/POS embarrassment/NN ]
+,/, 
+[ companies/NNS ]
+are/VBP beginning/VBG to/TO establish/VB 
+[ separate/JJ locations/NNS ]
+for/IN 
+[ their/PRP$ men/NNS 's/POS lines/NNS ]
+./. 
+
+[ Clinique/NNP ]
+now/RB sells/VBZ 
+[ men/NNS 's/POS products/NNS ]
+at/IN 
+[ counters/NNS ]
+near/IN 
+[ men/NNS 's/POS clothing/NN departments/NNS ]
+./. 
+
+[ That/DT ]
+'s/VBZ  }
+
+[ a/DT step/NN ]
+in/IN 
+[ the/DT right/JJ direction/NN ]
+,/, according/VBG to/TO 
+[ Andrew/NNP Shore/NNP ]
+,/, 
+[ an/DT analyst/NN ]
+at/IN 
+[ Shearson/NNP Lehman/NNP Hutton/NNP ]
+./. 
+
+[ The/DT market/NN ]
+for/IN 
+[ these/DT products/NNS ]
+``/`` would/MD take/VB off/RP if/IN 
+[ men/NNS ]
+did/VBD n't/RB have/VB to/TO ask/VB 
+[ a/DT woman/NN ]
+for/IN 
+[ them/PRP ]
+,/, ''/'' 
+[ Mr./NNP Shore/NNP ]
+says/VBZ ./. 

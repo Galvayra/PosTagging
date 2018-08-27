@@ -1,0 +1,709 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ the/DT biggest/JJS rise/NN ]
+for/IN 
+[ any/DT stock/NN ]
+on/IN 
+[ any/DT exchange/NN ]
+yesterday/NN --/: in/IN 
+[ frenzied/JJ ]
+trading/NN 
+[ that/WDT ]
+triggered/VBD 
+[ an/DT explosive/JJ rally/NN ]
+in/IN 
+[ other/JJ ]
+publicly/RB traded/JJ 
+[ funds/NNS ]
+
+[ that/WDT ]
+invest/VBP in/IN 
+[ a/DT single/JJ country/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT rise/NN ]
+,/, 
+[ which/WDT ]
+was/VBD fueled/VBN by/IN 
+[ continued/JJ strong/JJ buying/NN ]
+by/IN 
+[ Japanese/JJ investors/NNS ]
+,/, is/VBZ triggering/VBG 
+[ charges/NNS ]
+by/IN 
+[ some/DT ]
+of/IN 
+[ Wall/NNP Street/NNP 's/POS savviest/JJS traders/NNS ]
+that/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+is/VBZ 
+[ the/DT subject/NN ]
+of/IN 
+[ blatant/JJ manipulation/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ my/PRP$ feeling/NN ]
+that/IN 
+[ Japanese/JJ brokerage/NN firms/NNS ]
+are/VBP ganging/VBG up/RB on/IN ''/'' 
+[ the/DT Spain/NNP Fund/NNP ]
+to/TO drive/VB up/RP 
+[ its/PRP$ price/NN ]
+,/, said/VBD 
+[ Michael/NNP Steinhardt/NNP ]
+,/, 
+[ who/WP ]
+runs/VBZ 
+[ a/DT well-known/JJ New/NNP York/NNP investment/NN fund/NN ]
+./. 
+
+``/`` And/CC 
+[ what/WP ]
+
+[ they/PRP ]
+are/VBP doing/VBG is/VBZ ultimately/RB not/RB in/IN 
+[ the/DT best/JJS interest/NN ]
+of/IN 
+[ their/PRP$ clients/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT price/NN rise/NN ]
+is/VBZ ``/`` 
+[ absolute/JJ insanity/NN ]
+,/, ''/'' said/VBD 
+[ James/NNP Chanos/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ Kynikos/NNP Associates/NNPS ]
+and/CC 
+[ another/DT well-known/JJ investor/NN ]
+./. 
+
+======================================
+
+[ Both/DT Messrs./NNPS Steinhardt/NNP ]
+and/CC 
+[ Chanos/NNP ]
+have/VBP sold/VBN 
+[ short/JJ shares/NNS ]
+of/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+./. 
+
+[ That/DT ]
+means/VBZ 
+[ they/PRP ]
+have/VBP sold/VBN borrowed/VBN 
+[ stock/NN ]
+,/, betting/VBG that/IN 
+[ the/DT shares/NNS ]
+will/MD fall/VB and/CC 
+[ they/PRP ]
+can/MD later/RB buy/VB 
+[ them/PRP ]
+back/RB at/IN 
+[ a/DT lower/JJR price/NN ]
+./. 
+
+======================================
+
+[ Short/JJ sellers/NNS ]
+have/VBP been/VBN battered/VBN by/IN 
+[ the/DT tremendous/JJ surge/NN ]
+in/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+,/, 
+[ which/WDT ]
+soared/VBD 
+[ 37/CD %/NN last/JJ week/NN ]
+on/IN 
+[ the/DT back/NN ]
+of/IN 
+[ strong/JJ Japanese/JJ buying/NN ]
+;/: 
+[ the/DT fund/NN 's/POS shares/NNS ]
+are/VBP up/IN 
+[ a/DT phenomenal/JJ 265/CD %/NN ]
+
+[ this/DT year/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ]
+,/, 
+[ Spain/NNP Fund/NNP ]
+rose/VBD 
+[ $/$ 12/CD ]
+
+[ a/DT share/NN ]
+to/TO close/VB at/IN 
+[ $/$ 38.75/CD ]
+./. 
+
+======================================
+
+[ Yesterday/NN 's/POS frenetic/JJ activity/NN ]
+spilled/VBD into/IN 
+[ other/JJ so-called/JJ single-country/JJ funds/NNS ]
+./. 
+
+[ Germany/NNP Fund/NNP ]
+soared/VBD 
+[ 25/CD %/NN ]
+,/, 
+[ Malaysia/NNP Fund/NNP ]
+jumped/VBD 
+[ 18/CD %/NN ]
+,/, and/CC 
+[ Thai/NNP Fund/NNP ]
+and/CC 
+[ Asia/NNP Pacific/NNP Fund/NNP ]
+
+[ both/DT ]
+rose/VBD about/IN 
+[ 15/CD %/NN ]
+./. 
+
+======================================
+
+[ What/WP ]
+is/VBZ so/RB extraordinary/JJ about/IN 
+[ the/DT runup/NN ]
+is/VBZ that/IN 
+[ many/JJ ]
+of/IN 
+[ these/DT funds/NNS ]
+now/RB trade/VBP at/IN extremely/RB 
+[ fat/JJ premiums/NNS ]
+to/TO 
+[ the/DT underlying/VBG value/NN ]
+of/IN 
+[ the/DT foreign/JJ stocks/NNS ]
+in/IN 
+[ their/PRP$ portfolios/NNS ]
+./. 
+
+[ The/DT Spain/NNP Fund/NNP ]
+now/RB stands/VBZ at/IN 
+[ an/DT unprecedented/JJ 165/CD %/NN premium/NN ]
+,/, 
+[ the/DT largest/JJS premium/NN ]
+of/IN 
+[ any/DT ]
+publicly/RB traded/JJ 
+[ fund/NN ]
+./. 
+
+[ The/DT single-country/JJ funds/NNS ]
+sell/VBP 
+[ a/DT fixed/JJ number/NN ]
+of/IN 
+[ shares/NNS ]
+to/TO 
+[ investors/NNS ]
+and/CC use/VBP 
+[ the/DT money/NN ]
+to/TO buy/VB 
+[ foreign/JJ stocks/NNS ]
+--/: 
+[ Spanish/JJ stocks/NNS ]
+in/IN 
+[ the/DT case/NN ]
+of/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+./. 
+
+[ These/DT so-called/JJ closed-end/JJ funds/NNS trade/NN ]
+at/IN 
+[ a/DT premium/NN ]
+or/CC ,/, more/RBR typically/RB ,/, 
+[ a/DT discount/NN ]
+to/TO 
+[ the/DT value/NN ]
+of/IN 
+[ the/DT stocks/NNS they/PRP ]
+hold/VBP ./. 
+
+======================================
+
+[ The/DT Spain/NNP Fund/NNP 's/POS explosive/JJ 265/CD %/NN rise/NN ]
+has/VBZ stunned/VBN 
+[ many/JJ traders/NNS ]
+because/IN 
+[ the/DT Spanish/JJ stocks/NNS ]
+in/IN 
+[ its/PRP$ portfolio/NN ]
+are/VBP up/RB only/RB 
+[ 30/CD %/NN ]
+
+[ this/DT year/NN ]
+./. 
+
+[ Other/JJ country/NN funds/NNS ]
+,/, too/RB ,/, have/VBP soared/VBN far/RB above/IN 
+[ the/DT value/NN ]
+of/IN 
+[ their/PRP$ underlying/VBG stock/NN assets/NNS ]
+./. 
+
+======================================
+
+[ The/DT reason/NN ]
+,/, 
+[ traders/NNS ]
+say/VBP ,/, is/VBZ heavy/JJ buying/NN by/IN 
+[ Japanese/JJ investors/NNS ]
+urged/VBD by/IN 
+[ big/JJ Tokyo/NNP securities/NNS firms/NNS ]
+./. 
+
+[ The/DT firms/NNS ]
+have/VBP been/VBN pushing/VBG 
+[ the/DT investment/NN theme/NN ]
+of/IN 
+[ the/DT ]
+pending/VBG 
+[ 1992/CD abolition/NN ]
+of/IN 
+[ trade/NN barriers/NNS ]
+between/IN 
+[ the/DT 12/CD countries/NNS ]
+of/IN 
+[ the/DT European/NNP Community/NNP ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ Spain/NNP ]
+and/CC 
+[ West/NNP Germany/NNP ]
+./. 
+
+[ They/PRP ]
+have/VBP also/RB touted/VBN 
+[ the/DT bright/JJ economic/JJ prospects/NNS ]
+of/IN 
+[ Thailand/NNP ]
+and/CC 
+[ Malaysia/NNP ]
+in/IN 
+[ the/DT Far/NNP East/NNP ]
+./. 
+
+======================================
+
+[ Yesterday/NN 's/POS rally/NN ]
+triggered/VBD 
+[ a/DT wave/NN ]
+of/IN buying/NN by/IN 
+[ investors/NNS ]
+and/CC 
+[ speculators/NNS ]
+
+[ who/WP ]
+were/VBD caught/VBN in/IN 
+[ a/DT ]
+``/`` 
+[ short/JJ squeeze/NN ]
+''/'' because/IN 
+[ they/PRP ]
+had/VBD earlier/RBR  sold/VBN 
+[ Spain/NNP Fund/NNP shares/NNS ]
+short/JJ ,/, betting/VBG 
+[ the/DT stock/NN ]
+would/MD fall/VB ./. 
+
+Instead/RB ,/, 
+[ the/DT explosive/JJ run-up/NN ]
+left/VBN 
+[ them/PRP ]
+scrambling/VBG to/TO cut/VB 
+[ their/PRP$ losses/NNS ]
+by/IN buying/VBG 
+[ shares/NNS ]
+to/TO replace/VB 
+[ those/DT ]
+borrowed/VBN earlier/RBR ./. 
+
+[ That/DT buying/NN ]
+,/, in/IN 
+[ turn/NN ]
+,/, fueled/VBD 
+[ further/JJ price/NN increases/NNS ]
+./. 
+
+======================================
+
+[ Volume/NN ]
+in/IN 
+[ the/DT fund/NN yesterday/NN ]
+was/VBD 
+[ 1.4/CD million/CD shares/NNS ]
+,/, more/JJR than/IN 
+[ 10/CD times/NNS normal/JJ turnover/NN ]
+./. 
+
+======================================
+
+[ Officials/NNS ]
+at/IN 
+[ Alliance/NNP Capital/NNP Management/NNP Corp./NNP ]
+,/, 
+[ which/WDT ]
+manages/VBZ 
+[ the/DT Spain/NNP Fund/NNP ]
+,/, said/VBD 
+[ there/EX ]
+``/`` are/VBP 
+[ no/RB fundamental/JJ developments/NNS ]
+to/TO justify/VB 
+[ the/DT price/NN action/NN ]
+./. 
+
+''/'' But/CC 
+[ Dave/NNP Williams/NNP ]
+,/, 
+[ Alliance/NNP chairman/NN ]
+,/, said/VBD :/: ``/`` 
+[ It/PRP ]
+'s/VBZ clearly/RB 
+[ another/DT short/JJ squeeze/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ Alliance/NNP officials/NNS ]
+said/VBD 
+[ the/DT firm/NN ]
+does/VBZ n't/RB plan/VB to/TO issue/VB 
+[ any/DT more/JJR fund/NN shares/NNS ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP really/RB in/IN 
+[ a/DT bind/NN ]
+,/, ''/'' 
+[ Mr./NNP Williams/NNP ]
+said/VBD ,/, adding/VBG :/: ``/`` 
+[ We/PRP ]
+continue/VBP to/TO believe/VB 
+[ this/DT ]
+is/VBZ 
+[ a/DT technical/JJ aberration/NN ]
+in/IN 
+[ the/DT market/NN ]
+./. 
+
+''/'' 
+======================================
+
+Indeed/RB ,/, 
+[ analysts/NNS ]
+say/VBP 
+[ the/DT huge/JJ premium/NN ]
+at/IN 
+[ which/WDT ]
+
+[ the/DT Spain/NNP Fund/NNP ]
+and/CC 
+[ others/NNS ]
+are/VBP now/RB trading/VBG 
+[ leaves/NNS investors/NNS ]
+vulnerable/JJ ./. 
+
+``/`` 
+[ The/DT Spain/NNP Fund/NNP trades/NNS ]
+on/IN 
+[ no/DT fundamentals/NNS ]
+at/IN 
+[ all/DT ]
+;/: 
+[ the/DT Germany/NNP Fund/NNP ]
+could/MD end/VB up/RB like/IN 
+[ the/DT Hindenburg/NNP ]
+,/, ''/'' warned/VBD 
+[ analyst/NN Steven/NNP Cress/NNP ]
+of/IN 
+[ Prudential-Bache/NNP Securities/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+is/VBZ conducting/VBG 
+[ an/DT inquiry/NN ]
+into/IN 
+[ the/DT activities/NNS ]
+of/IN 
+[ several/JJ large/JJ Japanese/NNP securities/NNS firms/NNS ]
+
+[ that/WDT ]
+have/VBP been/VBN doing/VBG 
+[ the/DT ]
+trading/NN ./. 
+
+But/CC 
+[ officials/NNS ]
+at/IN 
+[ the/DT Big/NNP Board/NNP ]
+yesterday/NN refused/VBD to/TO elaborate/VB ./. 
+
+``/`` 
+[ We/PRP ]
+are/VBP conducting/VBG 
+[ an/DT analysis/NN ]
+of/IN 
+[ the/DT trading/NN activity/NN ]
+,/, and/CC will/MD take/VB 
+[ appropriate/JJ action/NN ]
+,/, if/IN 
+[ necessary/JJ ]
+,/, ''/'' 
+[ a/DT spokeswoman/NN ]
+said/VBD ./. 
+
+======================================
+
+In/IN 
+[ the/DT last/JJ few/JJ days/NNS ]
+,/, 
+[ Nikko/NNP Securities/NNPS Co./NNP ]
+,/, 
+[ Yamaichi/NNP Securities/NNP Co./NNP ]
+,/, 
+[ Nomura/NNP Securities/NNPS Co./NNP ]
+and/CC possibly/RB 
+[ other/JJ firms/NNS ]
+have/VBP received/VBN 
+[ letters/NNS ]
+from/IN 
+[ the/DT Big/NNP Board/NNP compliance/NN department/NN ]
+./. 
+
+[ Two/CD firms/NNS ]
+,/, 
+[ Nomura/NNP ]
+and/CC 
+[ Nikko/NNP ]
+,/, said/VBD that/IN 
+[ they/PRP ]
+are/VBP in/IN 
+[ the/DT process/NN ]
+of/IN 
+[ gathering/VBG information/NN ]
+to/TO respond/VB to/TO 
+[ the/DT letters/NNS ]
+,/, 
+[ which/WDT ]
+involved/VBN trading/NN in/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+./. 
+
+======================================
+
+[ Japanese/JJ investors/NNS ]
+may/MD have/VB pumped/VBN up/RP 
+[ the/DT Spain/NNP Fund/NNP ]
+and/CC 
+[ other/JJ country/NN funds/NNS ]
+in/IN 
+[ the/DT past/JJ two/CD weeks/NNS ]
+./. 
+
+But/CC 
+[ Japanese/JJ securities/NNS firms/NNS ]
+contended/VBD that/IN 
+[ their/PRP$ trading/NN volume/NN ]
+was/VBD nowhere/RB near/RB enough/RB to/TO account/VB for/IN 
+[ the/DT 12-point/JJ advance/NN ]
+in/IN 
+[ the/DT Spain/NNP Fund/NNP yesterday/NN ]
+./. 
+
+======================================
+
+[ An/DT executive/NN ]
+at/IN 
+[ Nomura/NNP 's/POS U.S./NNP unit/NN ]
+said/VBD 
+[ that/DT his/PRP$ firm/NN ]
+accounted/VBD for/IN about/IN 
+[ a/DT third/NN ]
+of/IN 
+[ the/DT total/JJ 1.44/CD million/CD shares/NNS ]
+traded/VBN in/IN 
+[ the/DT Spain/NNP Fund/NNP yesterday/NN ]
+,/, ``/`` not/RB enough/RB to/TO be/VB responsible/JJ for/IN 
+[ a/DT 10/CD ]
+to/TO 
+[ 12/CD point/NN runup/NN ]
+''/'' 
+[ that/WDT ]
+occurred/VBD earlier/RBR in/IN 
+[ the/DT day/NN ]
+./. 
+
+[ The/DT Spain/NNP Fund/NNP ]
+has/VBZ 
+[ 10/CD million/CD shares/NNS ]
+outstanding/JJ ./. 
+
+======================================
+
+[ Another/DT ]
+of/IN 
+[ Japan/NNP 's/POS so-called/JJ Big/JJ Four/CD securities/NNS companies/NNS ]
+--/: 
+[ Daiwa/NNP Securities/NNPS Co./NNP ]
+,/, 
+[ Nikko/NNP ]
+,/, 
+[ Yamaichi/NNP ]
+and/CC 
+[ Nomura/NNP ]
+--/: said/VBD 
+[ his/PRP$ firm/NN ]
+was/VBD responsible/JJ for/IN only/RB 
+[ 5/CD %/NN ]
+of/IN 
+[ the/DT turnover/NN ]
+./. 
+
+[ A/DT senior/JJ executive/NN ]
+at/IN 
+[ a/DT third/JJ firm/NN ]
+said/VBD :/: ``/`` 
+[ We/PRP ]
+'ve/VBP not/RB been/VBN active/JJ on/IN 
+[ the/DT buy/NN side/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Executives/NNS ]
+at/IN 
+[ several/JJ ]
+of/IN 
+[ the/DT Japanese/JJ firms/NNS ]
+argued/VBD that/IN 
+[ they/PRP ]
+were/VBD taking/VBG 
+[ unwarranted/JJ criticism/NN ]
+,/, 
+[ both/DT ]
+from/IN 
+[ short-sellers/NNS ]
+crying/VBG over/IN having/VBG made/VBN 
+[ a/DT bad/JJ bet/NN ]
+and/CC from/IN 
+[ U.S./NNP investors/NNS ]
+ignorant/JJ of/IN 
+[ the/DT way/NN Japanese/JJ investors/NNS ]
+look/VBP at/IN 
+[ stocks/NNS ]
+./. 
+
+======================================
+
+[ Explaining/VBG ]
+
+[ the/DT Japanese/JJ penchant/NN ]
+for/IN 
+[ Spain/NNP ]
+as/RB well/RB as/IN 
+[ other/JJ country/NN funds/NNS ]
+,/, 
+[ a/DT Nomura/NNP spokesman/NN ]
+said/VBD :/: ``/`` 
+[ Individual/JJ Japanese/JJ investors/NNS ]
+look/VBP at/IN 
+[ this/DT ]
+as/IN 
+[ a/DT three-year/JJ investment/NN ]
+;/: 
+[ they/PRP ]
+are/VBP looking/VBG to/TO 
+[ 1992/CD ]
+./. 
+
+''/'' 
+======================================
+
+Nonetheless/RB ,/, 
+[ an/DT investor/NN ]
+could/MD buy/VB 
+[ the/DT ]
+approximately/RB 
+[ 50/CD individual/JJ stocks/NNS ]
+in/IN 
+[ the/DT Spain/NNP Fund/NNP 's/POS portfolio/NN ]
+in/IN 
+[ the/DT Spanish/JJ stock/NN market/NN ]
+at/IN well/RB below/IN 
+[ half/PDT the/DT price/NN ]
+of/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+./. 
+
+That/IN does/VBZ n't/RB include/VB trading/NN 
+[ commissions/NNS ]
+and/CC 
+[ the/DT difficulties/NNS ]
+of/IN settling/VBG 
+[ trades/NNS ]
+in/IN 
+[ the/DT Spanish/JJ market/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+are/VBP 
+[ some/DT country/NN funds/NNS ]
+,/, unlike/IN 
+[ the/DT Spain/NNP Fund/NNP ]
+,/, that/IN 
+[ trade/VBP ]
+at/IN 
+[ premiums/NNS ]
+to/TO 
+[ their/PRP$ asset/NN values/NNS ]
+because/IN 
+[ foreign/JJ investors/NNS ]
+are/VBP n't/RB allowed/VBN to/TO buy/VB 
+[ stocks/NNS ]
+directly/RB in/IN 
+[ those/DT countries/NNS ]
+./. 

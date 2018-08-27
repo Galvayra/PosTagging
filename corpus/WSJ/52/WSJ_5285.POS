@@ -1,0 +1,282 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+ (/( During/IN 
+[ its/PRP$ centennial/NN year/NN ]
+,/, 
+[ The/NNP Wall/NNP Street/NNP Journal/NNP ]
+will/MD report/VB 
+[ events/NNS ]
+of/IN 
+[ the/DT past/JJ century/NN ]
+
+[ that/IN stand/VBP ]
+as/IN 
+[ milestones/NNS ]
+of/IN 
+[ American/JJ business/NN history/NN ]
+./. 
+
+ )/) 
+======================================
+
+IN/IN 
+[ THE/DT STAR-STUDDED/JJ GALAXY/NN ]
+of/IN 
+[ mutual/JJ fund/NN managers/NNS ]
+in/IN 
+[ the/DT stock/NN market/NN 's/POS ]
+``/`` 
+[ go-go/JJ ]
+''/'' 
+[ years/NNS ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT brightest/JJS ]
+was/VBD 
+[ Gerald/NNP Tsai/NNP ]
+,/, 
+[ a/DT Shanghai-born/JJ entrepreneur/NN ]
+
+[ who/WP ]
+learned/VBD 
+[ portfolio/NN management/NN ]
+in/IN 
+[ Boston/NNP ]
+,/, 
+[ home/NN ]
+of/IN 
+[ staid/JJ trust/NN funds/NNS ]
+and/CC 
+[ the/DT prudent-man/JJ rule/NN ]
+./. 
+
+======================================
+
+[ A/DT graduate/NN ]
+of/IN 
+[ Boston/NNP University/NNP ]
+,/, 
+[ Tsai/NNP ]
+joined/VBD 
+[ Fidelity/NNP Investment/NNP ]
+in/IN 
+[ 1952/CD ]
+at/IN 
+[ age/NN 24/CD ]
+./. 
+
+[ Five/CD years/NNS ]
+later/RB ,/, 
+[ he/PRP ]
+was/VBD allowed/VBN to/TO set/VB up/IN 
+[ his/PRP$ own/JJ fund/NN ]
+./. 
+
+There/RB 
+[ he/PRP ]
+developed/VBD 
+[ the/DT gunslinger/NN tactics/NNS ]
+
+[ that/WDT ]
+became/VBD 
+[ the/DT hallmark/NN ]
+of/IN 
+[ the/DT go-go/JJ funds/NNS ]
+./. 
+
+Basically/RB ,/, 
+[ the/DT technique/NN ]
+involved/VBD picking/VBG ``/`` 
+[ glamour/NN ]
+''/'' 
+[ stocks/NNS ]
+too/RB speculative/JJ for/IN 
+[ most/JJS funds/NNS ]
+and/CC trading/VBG in/IN and/CC out/IN of/IN 
+[ them/PRP ]
+at/IN 
+[ breakneck/JJ speed/NN ]
+in/IN 
+[ 10,000-share/JJ blocks/NNS ]
+./. 
+
+By/IN 
+[ 1965/CD ]
+,/, 
+[ Tsai/NNP ]
+owned/VBD 
+[ 20/CD %/NN ]
+of/IN 
+[ Fidelity/NNP ]
+and/CC dreamed/VBD of/IN 
+[ succeeding/VBG founder/NN Edward/NNP Johnson/NNP ]
+./. 
+
+[ The/DT boss/NN ]
+preferred/VBD 
+[ his/PRP$ son/NN ]
+,/, so/IN 
+[ Tsai/NNP ]
+sold/VBD out/IN and/CC headed/VBD for/IN 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+By/IN 
+[ this/DT time/NN Tsai/NNP ]
+was/VBD 
+[ a/DT legend/NN ]
+,/, 
+[ one/CD ]
+of/IN 
+[ a/DT growing/VBG band/NN ]
+of/IN 
+[ brash/JJ fund/NN managers/NNS ]
+
+[ who/WP ]
+won/VBD 
+[ celebrity/NN ]
+in/IN 
+[ the/DT hot/JJ stock/NN market/NN ]
+./. 
+
+In/IN 
+[ the/DT offering/NN ]
+that/IN 
+[ underwriters/NNS ]
+made/VBN for/IN 
+[ his/PRP$ new/JJ Manhattan/NNP Fund/NNP ]
+,/, 
+[ Tsai/NNP ]
+expected/VBD 
+[ a/DT modest/JJ $/$ 25/CD million/CD ]
+./. 
+
+[ He/PRP ]
+got/VBD 
+[ $/$ 247/CD million/CD ]
+./. 
+
+======================================
+
+[ Tsai/NNP ]
+had/VBD 
+[ all/PDT the/DT props/NNS ]
+--/: 
+[ an/DT office/NN ]
+with/IN 
+[ a/DT thermostat/NN ]
+at/IN 
+[ 55/CD degrees/NNS ]
+to/TO keep/VB 
+[ its/PRP$ occupant/NN alert/NN ]
+,/, 
+[ an/DT ]
+``/`` 
+[ Information/NN central/NN ]
+''/'' with/IN 
+[ enough/JJ gimmicks/NNS ]
+to/TO baffle/VB 
+[ an/DT astronaut/NN ]
+./. 
+
+But/CC 
+[ performance/NN ]
+did/VBD n't/RB match/VB 
+[ the/DT hopes/NNS ]
+./. 
+
+[ The/DT gloss/NN ]
+was/VBD off/IN 
+[ the/DT glamour/NN stocks/NNS ]
+
+[ that/WDT ]
+were/VBD 
+[ Tsai/NNP 's/POS trading/NN staples/NNS ]
+./. 
+
+In/IN 
+[ contrast/NN ]
+to/TO 
+[ disciples/NNS ]
+like/IN 
+[ Fred/NNP Carr/NNP ]
+and/CC 
+[ his/PRP$ Enterprise/NNP Fund/NNP ]
+,/, 
+[ Tsai/NNP ]
+stayed/VBD 
+[ clear/JJ ]
+of/IN 
+[ the/DT volatile/JJ over-the-counter/JJ issues/NNS ]
+
+[ that/WDT ]
+became/VBD 
+[ the/DT gunslingers/NNS '/POS favorites/NNS ]
+./. 
+
+In/IN 
+[ 1968/CD ]
+,/, 
+[ Manhattan/NNP Fund/NNP ]
+ranked/VBD 
+[ last/JJ ]
+among/IN 
+[ the/DT 310/CD funds/NNS ]
+tracked/VBN by/IN 
+[ the/DT Arthur/NNP Lipper/NNP survey/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ Tsai/NNP ]
+had/VBD 
+[ the/DT last/JJ laugh/NN ]
+./. 
+
+In/IN 
+[ August/NNP 1968/CD he/PRP ]
+sold/VBD 
+[ his/PRP$ firm/NN ]
+to/TO 
+[ CNA/NNP Financial/NNP ]
+,/, ending/VBG up/IN at/IN 
+[ 40/CD ]
+with/IN 
+[ CNA/NNP stock/NN worth/NN ]
+about/IN 
+[ $/$ 35/CD million/CD ]
+./. 
+
+[ He/PRP ]
+is/VBZ now/RB 
+[ chairman/NN ]
+of/IN 
+[ the/DT executive/JJ committee/NN ]
+of/IN 
+[ Primerica/NNP Corp./NNP ]
+,/, 
+[ a/DT big/JJ financial/JJ services/NNS company/NN ]
+
+[ that/WDT ]
+was/VBD formerly/RB 
+[ American/NNP ]
+Can/NNP ./. 

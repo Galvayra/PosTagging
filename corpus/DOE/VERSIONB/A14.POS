@@ -1,0 +1,9704 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ We/PRP ]
+study/VBP 
+[ the/DT eletronic/JJ properties/NNS ]
+of/IN 
+[ the/DT disordered/JJ linear/JJ chain/NN ]
+using/VBG 
+[ a/DT technique/NN ]
+previously/RB developed/VBN by/IN 
+[ some/DT ]
+of/IN 
+[ the/DT authors/NNS ]
+for/IN 
+[ an/DT ordered/JJ chain/NN ]
+./. 
+
+[ The/DT equations/NNS ]
+of/IN 
+[ motion/NN ]
+for/IN 
+[ the/DT one/CD electron/NN Green/NNP function/NN ]
+are/VBP obtained/VBN and/CC 
+[ the/DT configuration/NN average/NN ]
+is/VBZ done/VBN according/VBG to/TO 
+[ the/DT GK/NNP scheme/NN ]
+./. 
+
+[ The/DT dynamical/JJ problem/NN ]
+is/VBZ transformed/VBN ,/, using/VBG 
+[ a/DT renormalization/NN group/NN procedure/NN ]
+,/, into/IN 
+[ a/DT bidimensional/JJ map/NN ]
+./. 
+
+[ The/DT properties/NNS ]
+of/IN 
+[ this/DT map/NN ]
+are/VBP investigated/VBN and/CC related/VBN to/TO 
+[ the/DT localization/NN properties/NNS ]
+of/IN 
+[ the/DT eletronic/JJ system/NN ]
+./. 
+
+======================================
+
+[ The/DT simulation/NN ]
+of/IN 
+[ a/DT hard/JJ sphere/NN fluid/NN ]
+by/IN 
+[ a/DT ]
+totally/RB 
+[ random/JJ configuration/NN ]
+is/VBZ performed/VBN ./. 
+
+[ The/DT relation/NN ]
+of/IN 
+[ the/DT charge/NN distribution/NN ]
+of/IN 
+[ this/DT system/NN ]
+and/CC 
+[ its/PRP$ geometrical/JJ configuration/NN ]
+is/VBZ examined/VBN ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ developed/VBN 
+[ a/DT simple/JJ formalism/NN ]
+
+[ which/WDT ]
+allows/VBZ 
+[ us/PRP ]
+to/TO perform/VB 
+[ a/DT self/JJ  consistent/JJ non-parametrized/JJ calculation/NN ]
+in/IN 
+[ a/DT non-periodic/JJ system/NN ]
+,/, by/IN finding/VBG out/RP 
+[ the/DT ]
+thermodynamically/RB averaged/VBN 
+[ Green/NNP 's/POS function/NN ]
+of/IN 
+[ a/DT cluster/NN Bethe/NNP lattice/NN system/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ proposed/VBN 
+[ a/DT self-consistent/JJ model/NN ]
+of/IN 
+[ first/JJ principles/NNS ]
+for/IN 
+[ the/DT determination/NN ]
+of/IN 
+[ the/DT electronic/JJ structure/NN ]
+of/IN 
+[ deep/JJ defects/NNS ]
+in/IN 
+[ insulators/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ 
+[ an/DT improvement/NN ]
+of/IN 
+[ the/DT crystalline/JJ aggregate/JJ method/NN ]
+proposed/VBN for/IN 
+[ the/DT study/NN ]
+of/IN 
+[ perfect/JJ crystals/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN ,/, with/IN 
+[ a/DT proper/JJ choice/NN ]
+of/IN 
+[ the/DT aggregate/NN ]
+,/, 
+[ it/PRP ]
+reduces/VBZ to/TO 
+[ the/DT formal/JJ self-consistent/JJ solution/NN ]
+of/IN 
+[ the/DT defect/NN problem/NN ]
+in/IN 
+[ the/DT Wannier/NNP representation/NN ]
+./. 
+
+[ This/DT procedure/NN ]
+is/VBZ applied/VBN with/IN 
+[ sucess/NN ]
+to/TO 
+[ an/DT U/NNP center/NN ]
+in/IN 
+[ NaCl/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+In/IN 
+[ this/DT work/NN ]
+
+[ we/PRP ]
+describe/VBP 
+[ the/DT impurity/NN bands/NNS ]
+resulting/VBG from/IN 
+[ the/DT enlargement/NN ]
+of/IN 
+[ the/DT A\/NN 1\/NN 2\/,E/NNP ]
+and/CC 
+[ D\/NN ]
+-/: 
+[ \//NN levels/NNS ]
+of/IN 
+[ the/DT donors/NNS ]
+in/IN 
+[ Si/NN ]
+at/IN 
+[ intermediary/JJ concentrations/NNS ]
+./. 
+
+[ These/DT bands/NNS ]
+are/VBP described/VBN by/IN 
+[ a/DT tight-binding/JJ ]
+Hamiltonian/NNP with/IN 
+[ two/CD base/NN orbitals/NNS ]
+per/IN 
+[ site/NN ]
+,/, explicitly/RB including/VBG 
+[ a/DT local/JJ Coulombic/JJ repulsion/NN ]
+./. 
+
+[ The/DT base/NN orbitals/NNS ]
+contain/VBP 
+[ both/DT ]
+
+[ a/DT tetrahedral/JJ symmetry/NN ]
+as/RB well/RB as/IN 
+[ a/DT ]
+
+[ the/DT Bloch/NNP 's/POS oscilatory/JJ factor/NN ]
+./. 
+
+[ The/DT particular/JJ case/NN Si:P/NN ]
+is/VBZ explicitly/RB calculated/VBN ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ We/PRP ]
+investigate/VBP 
+[ the/DT microscopic/JJ structure/NN ]
+of/IN 
+[ the/DT impurity/NN states/NNS ]
+in/IN 
+[ two-and/JJ three-dimensional/JJ ]
+(/( 
+[ 2D/NN ]
+and/CC 
+[ 3d/NN ]
+)/) disordered/JJ 
+[ systems/NNS ]
+./. 
+
+[ A/DT cluster/NN model/NN ]
+is/VBZ outlined/VBN for/IN 
+[ the/DT donor/NN impurity/NN density/NN ]
+of/IN 
+[ states/NNS ]
+(/( 
+[ DIDS/NNP ]
+)/) of/IN 
+[ doped/VBN semiconductors/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN 
+[ the/DT impurity/NN states/NNS ]
+are/VBP very/RB sensitive/JJ to/TO 
+[ a/DT change/NN ]
+in/IN 
+[ the/DT dimensionality/NN ]
+of/IN 
+[ the/DT system/NN ]
+,/, 
+[ i.e/FW ]
+from/IN 
+[ 3D/NN ]
+to/TO 
+[ 2D/NN system/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN 
+[ all/DT eigenstates/NNS ]
+become/VBP localized/VBN in/IN 
+[ 2D/NN disordered/JJ system/NN ]
+for/IN 
+[ a/DT large/JJ range/NN ]
+of/IN 
+[ concentration/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+obtain/VBP 
+[ the/DT density/NN ]
+of/IN 
+[ states/NNS ]
+for/IN 
+[ electrons/NNS ]
+at/IN 
+[ the/DT inversion/NN layer/NN ]
+of/IN 
+[ a/DT MOS/NNP structure/NN ]
+due/JJ to/TO Na\/NN 
+[ +/SYM \//NN impurities/NNS ]
+located/VBN in/IN 
+[ the/DT oxide/NN ]
+./. 
+
+[ The/DT impurity/NN potential/NN ]
+is/VBZ assumed/VBN 
+[ unscreened/JJ ]
+./. 
+
+[ We/PRP ]
+take/VBP 
+[ account/NN ]
+of/IN 
+[ disorder/NN ]
+to/TO obtain/VB 
+[ the/DT configurational/JJ averaged/VBN Green/NNP 's/POS function/NN ]
+starting/VBG from/IN 
+[ a/DT tight/JJ binding/NN ]
+Hamiltonian/NNP ./. 
+
+======================================
+
+[ The/DT lowest/JJS order/NN diagram/NN ]
+in/IN 
+[ a/DT perturbative/JJ expansion/NN ]
+of/IN 
+[ the/DT force-force/JJ correlation/NN function/NN ]
+for/IN 
+[ a/DT 2-D/NN electron/NN gas/NN ]
+under/IN 
+[ strong/JJ magnetic/JJ field/NN ]
+is/VBZ used/VBN to/TO calculate/VB 
+[ its/PRP$ resistivity/NN ]
+./. 
+
+======================================
+
+[ The/DT r/NN term/NN ]
+of/IN 
+[ the/DT thermoelectric/JJ power/NN expression/NN ]
+was/VBD calculated/VBN from/IN 
+[ experimental/JJ data/NN|NNS ]
+for/IN 
+[ the/DT electric/JJ resistivity/NN ]
+of/IN 
+[ metal/NN alloys/NNS ]
+in/IN 
+[ the/DT extension/NN ]
+of/IN 
+[ Faber-Ziman/NNP theory/NN ]
+to/TO 
+[ metallic/JJ glasses/NNS ]
+./. 
+
+With/IN 
+[ this/DT aim/NN ]
+
+[ it/PRP ]
+was/VBD employed/VBN 
+[ the/DT scattering/NN matrix/NN formalism/NN ]
+and/CC 
+[ the/DT dependence/NN ]
+of/IN 
+[ the/DT energy/NN ]
+of/IN 
+[ the/DT phase/NN displacements/NNS ]
+
+[ which/WDT ]
+are/VBP contained/VBN in/IN 
+[ it/PRP ]
+./. 
+
+[ The/DT results/NNS ]
+are/VBP compared/VBN to/TO 
+[ the/DT experimental/JJ data/NN ]
+and/CC 
+[ a/DT deviation/NN ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ composition/NN ]
+is/VBZ observed/VBN ,/, although/IN 
+[ similarities/NNS ]
+found/VBN in/IN 
+[ liquid/JJ metal/NN alloys/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ A/DT pulsed/VBN NMR/NNP study/NN ]
+on/IN 
+[ several/JJ transition/NN metal/NN ]
++/SYM 
+[ metalloid/JJ amorphous/JJ alloys/NNS ]
+is/VBZ reported/VBN ./. 
+
+[ The/DT analysis/NN ]
+of/IN 
+[ Knight/NNP shifts/NNS ]
+and/CC 
+[ nuclear/JJ spin-lattice/JJ relaxation/NN times/NNS ]
+of/IN 
+[ metalloids/NNS ]
+indicates/VBZ 
+[ a/DT dominant/JJ contribution/NN ]
+of/IN 
+[ p-electrons/NNS ]
+in/IN 
+[ the/DT Fermi/NNP level/NN density/NN od/NN states/NNS ]
+,/, supporting/VBG 
+[ the/DT existence/NN ]
+of/IN 
+[ p-d/NN hibridization/NN ]
+./. 
+
+======================================
+
+[ The/DT electron/NN single/JJ particle/NN occupation/NN function/NN ]
+for/IN 
+[ a/DT liquid/JJ metal/NN ]
+is/VBZ calculated/VBN using/VBG 
+[ the/DT Bardeen/NNP 's/POS approximation/NN ]
+./. 
+
+[ The/DT results/NNS ]
+obtained/VBN indicate/VB 
+[ there/EX ]
+is/VBZ 
+[ no/DT discontinuity/NN ]
+in/IN 
+[ that/DT function/NN ]
+at/IN 
+[ the/DT Fermi/NNP level/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT low/JJ temperature/NN phases/NNS ]
+of/IN 
+[ the/DT alkali/NNS cyanides/NNS KCN/NN ]
+and/CC 
+[ NaCN/NN ]
+are/VBP investigated/VBN ./. 
+
+[ The/DT Isisng/NNP Model/NNP ]
+with/IN 
+[ incorporation/NN ]
+of/IN 
+[ pair/NN correlations/NNS ]
+(/( 
+[ Bethe/NNP approximation/NN ]
+)/) is/VBZ used/VBN to/TO calculate/VB 
+[ the/DT temperature/NN dependence/NN ]
+of/IN 
+[ the/DT dieletric/JJ constant/NN ]
+./. 
+
+[ The/DT parameters/NNS ]
+of/IN 
+[ the/DT model/NN ]
+are/VBP obtained/VBN by/IN adjusting/VBG 
+[ its/PRP$ theoretical/JJ predictions/NNS ]
+to/TO 
+[ experimental/JJ values/NNS ]
+./. 
+
+[ This/DT parametrization/NN ]
+is/VBZ used/VBN to/TO calculate/VB 
+[ the/DT temperature/NN dependence/NN ]
+of/IN 
+[ the/DT specific/NN heat/NN ]
+./. 
+
+[ Our/PRP$ results/NNS ]
+are/VBP in/IN 
+[ good/JJ agreement/NN ]
+with/IN 
+[ experimental/JJ data/NNS ]
+./. 
+
+======================================
+
+[ The/DT purpose/NN ]
+of/IN 
+[ this/DT paper/NN ]
+is/VBZ to/TO present/VB 
+[ a/DT method/NN ]
+for/IN 
+[ the/DT calculation/NN ]
+of/IN 
+[ the/DT absorption/NN coefficient/NN ]
+of/IN 
+[ materials/NNS ]
+in/IN 
+[ thin/JJ film/NN form/NN using/VBG transmission/NN data/NN|NNS ]
+./. 
+
+[ The/DT method/NN ]
+was/VBD applied/VBN to/TO 
+[ the/DT calculation/NN ]
+of/IN 
+[ the/DT absorption/NN bands/NNS ]
+of/IN 
+[ a/DT series/NN ]
+of/IN 
+[ samples/NNS ]
+of/IN 
+[ hidrogenated/VBN silicon/NN nitride/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ Experimental/JJ results/NNS ]
+on/IN 
+[ the/DT photoconducticity/NN ]
+of/IN 
+[ amorphous/JJ hydrogenated/VBN silicon/NN nitride/NN a-SiNx/NN ]
+:/: 
+[ H/NN ]
+prepared/VBN from/IN 
+[ plasma/NN decomposition/NN ]
+of/IN 
+[ a/DT gaseus/JJ mixture/NN ]
+of/IN 
+[ silane/NN ]
+and/CC 
+[ nitrogen/NN ]
+(/( [/( 
+[ Si/NN H\/NN 4/CD \//NN ]
+]/) 
+[ \//NN ]
+[/( 
+[ N\/sub/NN 2/CD \//NN ]
+]/) {/( 
+[ similar/JJ ]
+_/: to/TO }/) 
+[ 0.33/CD ]
+)/) are/VBP presented/VBN ./. 
+
+[ The/DT material/NN ]
+is/VBZ deposited/VBN in/IN 
+[ a/DT ]
+capacitively/RB coupled/VBN 
+[ glow/NN discharge/NN system/NN ]
+and/CC 
+[ nitrogen/NN content/NN ]
+was/VBD continuously/RB increased/VBN by/IN increasing/VBG 
+[ the/DT RF/NNP power/NN ]
+dissipated/VBN in/IN 
+[ the/DT plasma/NN ]
+./. 
+
+[ Studies/NNS ]
+of/IN 
+[ the/DT photocurrent/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ temperature/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ temperature/NN ]
+and/CC 
+[ light/NN intensities/NNS ]
+are/VBP reported/VBN ./. 
+
+======================================
+
+[ The/DT experimental/JJ results/NNS ]
+of/IN 
+[ the/DT photoluminescence/NN spectra/NNS ]
+of/IN 
+[ intrinsic/JJ layers/NNS ]
+of/IN 
+[ a/DT ]
+:/: 
+[ Si/NN ]
+:/: 
+[ H/NN ]
+:/: 
+[ F/NN ]
+deposited/VBN by/IN 
+[ the/DT electric/JJ discharge/NN method/NN ]
+are/VBP presented/VBN ./. 
+
+[ This/DT procedure/NN ]
+was/VBD developed/VBN in/IN 
+[ the/DT presence/NN ]
+of/IN 
+[ silane/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+In/IN 
+[ this/DT paper/NN ]
+
+[ we/PRP ]
+report/VBP 
+[ a/DT new/JJ theory/NN ]
+
+[ that/WP ]
+reproduces/VBZ qualitatively/RB well/RB 
+[ the/DT Raman/NNP spectrum/NN ]
+of/IN 
+[ v-B\/NN 2\/NN 3/CD \//NN ]
+./. 
+
+[ The/DT basic/NN idea/NN ]
+is/VBZ that/IN 
+[ one/PRP ]
+can/MD find/VB 
+[ the/DT ]
+thermodinamically/RB averaged/VBN 
+[ Green/NNP 's/POS function/NN ]
+for/IN 
+[ a/DT Bethe/NNP lattice/NN ]
+,/, with/IN 
+[ a/DT Born/NNP Hamiltonian/NNP ]
+,/, with/IN 
+[ dihedral/JJ angles/NNS ]
+totally/RB random/JJ ./.
+
+In/IN 
+[ extension/NN one/PRP constructs/VBZ ]
+
+[ a/DT Bethe/NNP lattice/NN ]
+of/IN 
+[ rings/NNS ]
+and/CC solve/VBZ  
+[ the/DT equations/NNS ]
+of/IN 
+[ motion/NN ]
+for/IN 
+[ Green/NNP 's/POS functions/NNS ]
+at/IN 
+[ the/DT Boron/NN sites/NNS ]
+,/, bridging/VBG 
+[ oxygens/NNS ]
+and/CC 
+[ oxygens/NNS ]
+in/IN 
+[ the/DT rings/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ We/PRP ]
+introduce/VBP 
+[ a/DT model/NN ]
+for/IN 
+[ the/DT lattice/NN dynamics/NNS ]
+of/IN 
+[ SI\/NN 3\/NN 4/CD \//NN ]
+in/IN 
+[ its/PRP$ amorphous/JJ phase/NN ]
+./. 
+
+[ This/DT model/NN ]
+is/VBZ based/VBN on/IN 
+[ a/DT Born/NNP hamiltonian/NN ]
+,/, solved/VBN in/IN 
+[ the/DT Bethe/NNP lattice/NN approximation/NN ]
+./. 
+
+[ We/PRP ]
+included/VBD 
+[ the/DT local/JJ vicinity/NN ]
+until/IN 
+[ third/JJ nearest/JJS neighbours/NNS ]
+,/, building/VBG up/RP 
+[ the/DT central/JJ cluster/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ A/DT specific/JJ solid/JJ system/NN ]
+with/IN 
+[ first/JJ order/NN phase/NN transition/NN ]
+in/IN 
+[ its/PRP$ surface/NN ]
+is/VBZ analysed/VBN ./. 
+
+To/TO accomplish/VB 
+[ this/DT task/NN ]
+,/, 
+[ we/PRP ]
+use/VBP 
+[ the/DT Landau/NNP theory/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT effect/NN ]
+of/IN 
+[ vacancies/NNS ]
+in/IN 
+[ the/DT concentration/NN properties/NNS ]
+of/IN 
+[ a/DT binary/JJ alloy/NN A\/sub/NN x/SYM \//NN B\/sub/NN 1-x/NN \//NN ]
+with/IN 
+[ random/JJ distribution/NN ]
+of/IN 
+[ its/PRP$ atoms/NNS ]
+is/VBZ considered/VBN ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT first/JJ Born/NNP approximation/NN ]
+supposedly/RB inadequate/JJ for/IN dealing/VBG with/IN 
+[ elastic/JJ scattering/NN ]
+of/IN 
+[ spin/NN ]
+polarized/VBN 
+[ electrons/NNS ]
+on/IN 
+[ ferromagnets/NNS ]
+is/VBZ reconsidered/VBN ./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN when/WRB used/VBN in/IN 
+[ conjunction/NN ]
+with/IN 
+[ a/DT spin/JJ  dependent/JJ pseudopotential/NN ]
+,/, 
+[ it/PRP ]
+can/MD describe/VB 
+[ the/DT gross/JJ features/NNS ]
+of/IN 
+[ the/DT ansisotropy/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ this/DT letter/NN ]
+is/VBZ studied/VBN 
+[ the/DT correlation/NN ]
+between/IN 
+[ magnetism/NN ]
+and/CC 
+[ spatial/JJ ordering/NN ]
+in/IN 
+[ the/DT Bethe/NNP aproximation/NN ]
+for/IN 
+[ a/DT system/NN ]
+with/IN 
+[ a/DT body/NN ]
+centered/VBN 
+[ cttice/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ investigated/VBN 
+[ the/DT effect/NN ]
+of/IN 
+[ adsorbed/VBN atoms/JJ ]
+on/IN 
+[ the/DT magnetic/JJ properties/NNS ]
+of/IN 
+[ ferromagnets/NNS ]
+./. 
+
+[ The/DT Ising/NNP model/NN ]
+is/VBZ employed/VBN considering/VBG 
+[ nearest/JJS neigbours/NNS ]
+with/IN 
+[ antiferromagnetic/JJ coupling/NN ]
+between/IN 
+[ atoms/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT magnetic/JJ properties/NNS ]
+of/IN 
+[ translation/NN metal/NN alloys/NNS ]
+are/VBP studied/VBN apllying/VBG 
+[ the/DT Hartree-Fock/NNP method/NN ]
+and/CC 
+[ the/DT Hubbard/NNP Hamiltonian/NNP ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ investigated/VBN 
+[ a/DT gel-liquid/JJ crystal/NN phase/NN transition/NN ]
+employing/VBG 
+[ a/DT two-state/JJ model/NN ]
+equivalent/JJ to/TO 
+[ the/DT Spin/NN 1\/2/CD Ising/NNP Model/NNP ]
+with/IN 
+[ applied/VBN magnetic/JJ field/NN ]
+./. 
+
+[ The/DT model/NN ]
+is/VBZ studied/VBN from/IN 
+[ the/DT standpoint/NN ]
+of/IN 
+[ the/DT cluster/NN variational/JJ method/NN ]
+of/IN 
+[ Kikuchi/NNP ]
+for/IN 
+[ cooperative/JJ phenomena/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+Using/VBG 
+[ the/DT action/NN ]
+at/IN 
+[ a/DT distance/NN priciple/NN ]
+
+[ it/PRP ]
+is/VBZ derived/VBN 
+[ the/DT total/JJ classical/JJ action/NN ]
+for/IN interacting/VBG 
+[ stationary/JJ closed/VBN dislocations/NNS ]
+
+[ which/WDT ]
+reproduces/VBZ 
+[ elasticity/NN theory/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT total/JJ structure/NN factor/NN ]
+
+[ S/NNP ]
+(/( 
+[ Q/NNP ]
+)/) of/IN 
+[ the/DT Mg\/sub/NN 75/CD \//NN Cu\/sub/NN 20/CD \//NN Sn\/sub/NN 5/CD \//NN amorphous/JJ alloy/NN ]
+obtained/VBN by/IN 
+[ the'melt-spinning/NN ]
+'/'' 
+[ tecnique/NN ]
+has/VBZ been/VBN measured/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ X-ray/NN diffraction/NN ]
+./. 
+
+[ The/DT magnetic/JJ susceptibility/NN ]
+was/VBD also/RB measured/VBN for/IN 
+[ those/DT temperatures/NNS ]
+from/IN 
+[ which/WDT ]
+
+[ the/DT melt/NN ]
+was/VBD rapidly/RB cooled/VBN to/TO obtain/VB 
+[ the/DT amorphous/JJ samples/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+Using/VBG 
+[ ferromagnetic/JJ resonance/NN ]
+,/, 
+[ it/PRP ]
+was/VBD investigated/VBN 
+[ the/DT crystalization/NN ]
+of/IN 
+[ the/DT METGLAS/NNP 2826/CD ]
+and/CC 
+[ METGLAS/NNP 2826A/CD ]
+./. 
+
+[ The/DT line/NN width/NN ]
+of/IN 
+[ the/DT first/JJ derivative/NN ]
+of/IN 
+[ the/DT absorption/NN curve/NN ]
+was/VBD measured/VBN for/IN 
+[ several/JJ time/NN intervals/NNS o/NN isothermal/NN treatment/NN ]
+at/IN 
+[ 375\/NN 0\/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD observed/VBN that/IN after/IN 
+[ a/DT decrease/NN ]
+,/, due/JJ to/TO 
+[ tension/NN relaxation/NN ]
+,/, 
+[ the/DT line/NN width/NN increases/NNS ]
+with/IN 
+[ the/DT interval/NN ]
+of/IN 
+[ time/NN treatment/NN ]
+./. 
+
+[ The/DT resultus/NNS ]
+indicate/VBP that/IN ,/, for/IN suficiently/RB long/JJ in/IN 
+[ itervals/NNS ]
+of/IN 
+[ time./NN ]
+
+[ the/DT line/NN width/NN ]
+is/VBZ 
+[ function/NN ]
+of/IN 
+[ the/DT ]
+transformed/VBN fractiononly/RB ./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD studied/VBN 
+[ the/DT crystallization/NN ]
+of/IN 
+[ amorphous/JJ metallic/JJ ribbons/NNS ]
+of/IN 
+[ Fe\/NN 1-x/CD \//NN Ni\/sub/NN x/SYM \//NN  \/sub/NN 80/CD \//NN B\/sub/NN 2\/0/CD ]
+using/VBG 
+[ the/DT method/NN ]
+of/IN 
+[ isochronous/JJ heating/NN ]
+at/IN 
+[ variable/JJ slopes/NNS ]
+./. 
+
+[ The/DT crystallization/NN temperatures/NNS ]
+were/VBD determined/VBN from/IN 
+[ the/DT transition/NN ]
+observed/VBN in/IN 
+[ the/DT electrical/JJ resistivity/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+In/IN 
+[ this/DT letter/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ reported/VBN 
+[ the/DT construction/NN ]
+of/IN 
+[ a'melt-spinner/NN ]
+'/'' used/VBN in/IN 
+[ the/DT fabrication/NN ]
+of/IN 
+[ amorphous/JJ ribbons/NNS ]
+./. 
+
+For/IN 
+[ the/DT alloy/NN Fe\/sub/NN 80/CD \//NN B\/sub/NN 20/CD \//NN ]
+,/, 
+[ it/PRP ]
+is/VBZ studied/VBN 
+[ the/DT width/NN ]
+of/IN 
+[ the/DT ribbon/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ the/DT flux/NN ]
+of/IN 
+[ incident/JJ material/NN ]
+./. 
+
+[ The/DT results/NNS ]
+agree/VBP with/IN 
+[ the/DT theoretical/JJ model/NN ]
+
+[ which/WDT ]
+considers/VBZ 
+[ the/DT energy/NN equilibrium/NN ]
+on/IN 
+[ the/DT cooling/NN surface/NN ]
+as/IN 
+[ a/DT dominant/JJ factor/NN ]
+in/IN 
+[ the/DT formation/NN ]
+of/IN 
+[ the/DT ribbon/NN ]
+./. 
+
+======================================
+
+[ The/DT Moessbauer/NNP spectra/NNS ]
+of/IN 
+[ paramagnetic/JJ Fe-Zr/NN alloys/NNS ]
+in/IN 
+[ several/JJ concentrations/NNS ]
+were/VBD studied/VBN and/CC 
+[ it/PRP ]
+is/VBZ shown/VBN that/IN 
+[ a/DT certain/JJ specific/JJ distribution/NN ]
+can/MD describe/VB 
+[ the/DT Fe\/sub/NN 25/CD \//NN Zr\/sub/NN 75/CD \//NN spectrum/NN ]
+as/RB well/RB as/IN 
+[ others/NNS authors/NNS distributions/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT issue/NN ]
+of/IN 
+[ crystallization/NN ]
+in/IN 
+[ polymers/NNS ]
+and/CC 
+[ its/PRP$ relation/NN ]
+with/IN 
+[ the/DT glassy/JJ temperature/NN Tg/NN ]
+and/CC 
+[ the/DT homogeneous/JJ nucleation/NN temperature/NN ]
+is/VBZ investigated/VBN (/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT experimental/JJ results/NNS ]
+concerning/VBG 
+[ Nuclear/NNP Magnetic/NNP Resonance/NNP ]
+in/IN 
+[ B\/NN 2\/NN 3/CD \//NN glasses/NNS ]
+are/VBP presented/VBN ./. 
+
+[ The/DT data/NN analysis/NN ]
+allows/VBZ 
+[ the/DT study/NN ]
+of/IN 
+[ the/DT problem/NN ]
+of/IN 
+[ spectral/JJ diffusion/NN ]
+in/IN 
+[ a/DT ]
+inhomogeneously/RB enlarged/VBN 
+[ resonance/NN line/NN ]
+in/IN 
+[ a/DT disordered/JJ system/NN ]
+of/IN 
+[ nuclear/JJ spins/NNS ]
+./. 
+
+[ It/PRP ]
+is/VBZ proposed/VBN 
+[ a/DT model/NN ]
+with/IN 
+[ the/DT aim/NN ]
+of/IN explaining/VBG 
+[ the/DT observed/VBN time/NN constants/NNS ]
+and/CC 
+[ the/DT peculiar/JJ forms/NNS ]
+of/IN 
+[ decay/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT latent/JJ heat/NN ]
+and/CC 
+[ the/DT activation/NN energy/NN measurements/NNS ]
+in/IN 
+[ the/DT amorphous-crystal/JJ phase/NN transition/NN ]
+of/IN 
+[ the/DT Fe\/sub/NN 81/CD \//NN B\/sub/NN 13\/,\/sub/CD 5/CD \//NN Si\/sub/NN 3\/,\/sub/CD 5/CD \//NN C\/sub/NN 2/CD \//NN alloy/NN ]
+is/VBZ presented/VBN ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ We/PRP ]
+described/VBD 
+[ a/DT high/JJ pressure/NN reactive/JJ dc-sputtering/JJ system/NN ]
+for/IN 
+[ a-Si*/NN:H/JJ deposition/NN ]
+./. 
+
+[ Optical/JJ ]
+and/CC 
+[ electrical/JJ transport/NN measurement/NN ]
+were/VBD performed/VBN in/IN 
+[ order/NN ]
+to/TO characterize/VB 
+[ the/DT films/NNS ]
+./. 
+
+[ Results/NNS ]
+of/IN 
+[ dark/NN ]
+and/CC 
+[ photoconductivity/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ temperature/NN ]
+and/CC 
+[ hydrogen/NN content/NN ]
+,/, and/CC 
+[ optical/JJ gap/NN dependence/NN ]
+on/IN 
+[ hydrogen/NN content/NN ]
+are/VBP present/JJ ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ Preliminary/JJ results/NNS ]
+on/IN 
+[ deposition/NN ]
+and/CC 
+[ characterization/NN ]
+of/IN 
+[ hydrogenated/VBN amorphous/JJ silicon/NN thin/JJ films/NNS ]
+are/VBP presented/VBN ./. 
+
+[ These/DT films/NNS ]
+were/VBD produced/VBN by/IN 
+[ the/DT RF/NNP Glow/NNP Discharge/NNP procedure/NN ]
+./. 
+
+[ The/DT RF/NNP power/NN ]
+applied/VBN and/CC 
+[ the/DT He:SiH\/sub/NN 4/CD \//NN proportion/NN ]
+were/VBD varied/VBN in/IN 
+[ the/DT deposition/NN chamber/NN ]
+./. 
+
+[ The/DT increasing/VBG rate/NN ]
+,/, 
+[ the/DT absorption/NN coefficient/NN ]
+,/, 
+[ the/DT optical/JJ gap/NN ]
+and/CC 
+[ the/DT electrical/JJ conducivity/NN ]
+as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ temperature/NN ]
+were/VBD studied/VBN ./. 
+
+[ It/PRP ]
+was/VBD verified/VBN that/IN inside/IN 
+[ the/DT studied/VBN range/NN ]
+,/, 
+[ those/DT properties/NNS ]
+are/VBP ,/, with/IN 
+[ the/DT exception/NN ]
+of/IN 
+[ the/DT increasing/VBG rate/NN ]
+weakly/RB dependent/JJ of/IN 
+[ the/DT deposition/NN conditions/NNS ]
+./. 
+
+======================================
+
+[ Four/CD sets/NNS ]
+of/IN 
+[ five/CD films/NNS ]
+of/IN 
+[ a-Si:H:N/NN ]
+were/VBD developed/VBN on/IN 
+[ glass/NN ]
+using/VBG 
+[ the/DT RF/NNP glow/NN discharge/NN procedure/NN ]
+in/IN 
+[ a/DT sylane/NN ]
+and/CC 
+[ nitrogen/NN ]
+(/( 
+[ N\/sub/NN 2/CD \//NN ]
+)/) 
+[ atmosphere/NN ]
+with/IN 
+[ several/JJ concentrations/NNS ]
+./. 
+
+[ The/DT samples/NNS ]
+were/VBD analysed/VBN through/IN 
+[ optical/JJ transmission/NN ]
+for/IN 
+[ the/DT determination/NN ]
+of/IN 
+[ the/DT thickness/NN ]
+,/, 
+[ refraction/NN index/NN ]
+,/, 
+[ optical/JJ gap/NN ]
+using/VBG 
+[ a/DT program/NN ]
+inserted/VBN in/IN 
+[ a/DT VAX-II/NNP system/NN ]
+./. 
+
+[ The/DT films/NNS ]
+were/VBD characterized/VBN by/IN 
+[ electrical/JJ conductivity/NN measurement/NN ]
+as/IN 
+[ function/NN ]
+of/IN 
+[ temperature/NN ]
+with/IN 
+[ the/DT aim/NN ]
+of/IN determining/VBG 
+[ the/DT activation/NN energy/NN ]
+./. 
+
+======================================
+
+Using/VBG 
+[ the/DT glow/NN discharge/NN procedure/NN ]
+,/, hydrogenated/VBD 
+[ amorphous/JJ silicon/NN ]
+a-Si:H/NN 
+[ thin/JJ production/NN ]
+,/, 
+[ several/JJ temperature/NN ]
+and/CC 
+[ plasma/NN conditions/NNS ]
+were/VBD analysed/VBN ./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ presented/VBN 
+[ a/DT new/JJ technique/NN ]
+for/IN 
+[ the/DT production/NN ]
+of/IN 
+[ amorphous/JJ silicon/NN solar/JJ cells/NNS ]
+based/VBN on/IN 
+[ the/DT development/NN ]
+of/IN 
+[ thin/JJ films/NNS ]
+of/IN 
+[ a-Si/NN ]
+in/IN 
+[ a/DT reactor/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT decomposition/NN ]
+of/IN 
+[ the/DT sylane/NN ]
+,/, induced/VBN by/IN capacitively/RB coupled/VBN 
+[ RF/NNP ]
+,/, and/CC 
+[ the/DT film/NN deposition/NN ]
+occur/VBP in/IN 
+[ separate/JJ chambers/NNS ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+In/IN 
+[ this/DT paper/NN ]
+is/VBZ investigated/VBN 
+[ the/DT interrelation/NN ]
+between/IN 
+[ macroscopic/JJ ]
+and/CC 
+[ microscopic/JJ magnetic/JJ phenomena/NNS ]
+using/VBG 
+[ experimental/JJ data/NNS ]
+from/IN 
+[ Moessbauer/NNP effect/NN ]
+and/CC 
+[ the/DT magnetization/NN ]
+of/IN 
+[ layers/NNS ]
+of/IN 
+[ amorphous/JJ ]
+(/( 
+[ Fe\/sub/NN 1-x/NN \//NN Ni\/sub/NN x/SYM \//NN ]
+)/) 
+[ \/sub/NN 80/CD \//NN B\/sub/NN 20/CD \//NN ]
+./. 
+
+[ The/DT Moessbauer/NNP effect/NN measurement/NN ]
+show/VBP 
+[ a/DT distribution/NN ]
+of/IN 
+[ hyperfine/JJ fields/NNS ]
+in/IN 
+[ Fe/NN site/NN ]
+as/RB well/RB as/IN 
+[ a/DT likely/JJ distribution/NN ]
+of/IN 
+[ isomeric/JJ shifts/NNS ]
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ Solid/JJ samples/NNS ]
+of/IN (/( 
+[ In\/sub/NN 16/CD \//NN Te\/NN 84/CD \//NN ]
+)/) 
+[ \/sub/NN 1-x/NN \//NN Sn\/NN x/SYM \//NN ]
+and/CC (/( 
+[ Ge\/sub/NN 15/CD \//NN Te\/sub/NNP 85/CD \//NN ]
+)/) 
+[ \/sub/NN 1-x/NN \//NN Sn\/NN x/SYM \//NN ]
+were/VBD obtained/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ splat-cooling/NN techniques/NNS ]
+./. 
+
+[ The/DT materials/NNS ]
+was/VBD cooled/VBN down/RB from/IN 
+[ different/JJ initial/JJ temperatures/NNS ]
+of/IN 
+[ the/DT liquid/JJ state/NN ]
+and/CC 
+[ the/DT samples/NNS ]
+were/VBD analysed/VBN by/IN 
+[ Moessbauer/NNP Spectroscopy/NNP ]
+and/CC 
+[ X/NN Ray/NN diffraction/NN ]
+./. 
+
+(/( 
+[ M.W.O/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ This/DT thesis/NN ]
+contains/VBZ 
+[ three/CD sections/NNS ]
+discussing/VBG 
+[ different/JJ areas/NNS ]
+./. 
+
+Spin/NN 
+[ wave/NN interactions/NNS ]
+in/IN 
+[ iron/NN garnets/NNS ]
+are/VBP described/VBN in/IN 
+[ section/NN one/CD ]
+./. 
+
+[ Mathematical/JJ analysis/NN ]
+of/IN 
+[ a/DT magnetic/JJ oscillator/NN ]
+is/VBZ presented/VBN in/IN 
+[ section/NN two/CD ]
+./. 
+
+In/IN 
+[ the/DT final/JJ section/NN ]
+,/, 
+[ the/DT source/NN ]
+of/IN 
+[ noise/NN ]
+in/IN 
+[ Josephson/NNPS Junctions/NNPS ]
+is/VBZ investigated/VBN ./. 
+
+[ The/DT three/CD sections/NNS ]
+are/VBP indexed/VBN separately/RB ./. 
+
+(/( 
+[ JDH/NNP ]
+)/) 
+======================================
+
+[ An/DT experimental/JJ study/NN ]
+is/VBZ made/VBN of/IN 
+[ the/DT interactions/NNS ]
+between/IN 
+[ spin/NN wave/NN modes/NNS ]
+excited/VBN in/IN 
+[ a/DT sphere/NN ]
+of/IN 
+[ yttrium/NN iron/NN garnet/NN ]
+by/IN pumping/VBG 
+[ the/DT Suhl/NNP subsidiary/JJ absorption/NN ]
+with/IN 
+[ microwaves/NNS ]
+./. 
+
+[ The/DT dynamical/JJ behavior/NN ]
+of/IN 
+[ the/DT magnetization/NN ]
+is/VBZ observed/VBN under/IN 
+[ high/JJ resolution/NN ]
+by/IN varying/VBG 
+[ the/DT dc/NN field/NN ]
+and/CC 
+[ microwave/NN pump/NN power/NN ]
+./. 
+
+Varied/VBN 
+[ behavior/NN ]
+is/VBZ found/VBN :/: (/( 
+[ 1/LS ]
+)/) 
+[ onset/NN ]
+of/IN 
+[ the/DT Suhl/NNP instability/NN ]
+by/IN 
+[ excitation/NN ]
+of/IN 
+[ a/DT single/JJ spin/NN wave/NN mode/NN ]
+;/: (/( 
+[ 2/LS ]
+)/) when/WRB 
+[ two/CD ]
+or/CC 
+[ more/JJR modes/NNS ]
+are/VBP excited/VBN ,/, 
+[ interactions/NNS ]
+lead/VBP to/TO 
+[ auto-oscillations/NNS displaying/VBG period-doubling/NN ]
+to/TO 
+[ chaos/NN ]
+;/: (/( 
+[ 3/CD ]
+)/) 
+[ quasiperiodicity/NN ]
+,/, locking/NN ,/, and/CC 
+[ chaos/NN ]
+occur/VB  when/WRB 
+[ three/CD ]
+or/CC 
+[ more/JJR modes/NNS ]
+are/VBP excited/VBN ;/: (/( 
+[ 4/LS ] 
+)/) 
+[ abrupt/JJ transition/NN ]
+to/TO 
+[ wide/JJ band/NN power/NN spectra/NNS ]
+(/( 
+[ i.e./FW ]
+,/, 
+[ turbulence/NN ]
+)/) ,/, with/IN 
+[ hysteresis/NN ]
+;/: (/( 
+[ 5/LS ]
+)/) 
+[ irregular/JJ relaxation/NN oscillations/NNS ]
+and/CC 
+[ aperiodic/JJ spiking/VBG behavior/NN ]
+./. 
+
+[ A/DT theoretical/JJ model/NN ]
+is/VBZ developed/VBN using/VBG 
+[ the/DT plane/NN wave/NN approximation/NN ]
+obtaining/VBG 
+[ the/DT lowest/JJS order/NN nonlinear/JJ interaction/NN terms/NNS ]
+between/IN 
+[ the/DT excited/VBN modes/NNS ]
+./. 
+
+[ Extension/NN ]
+of/IN 
+[ this/DT analysis/NN ]
+to/TO 
+[ the/DT true/JJ spherical/JJ spin-modes/NNS ]
+is/VBZ discussed/VBN ./. 
+
+[ Bifurcation/NN behavior/NN ]
+is/VBZ examined/VBN ,/, and/CC 
+[ dynamical/JJ behavior/NN ]
+is/VBZ numerically/RB computed/VBN and/CC compared/VBN to/TO 
+[ the/DT experimental/JJ data/NN ]
+./. 
+
+[ A/DT theory/NN ]
+is/VBZ developed/VBN regarding/VBG 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT ]
+experimentally/RB observed/VBN 
+[ relaxation/NN oscillations/NNS ]
+and/CC 
+[ spiking/VBG behavior/NN ]
+based/VBN on/IN 
+[ the/DT interaction/NN ]
+of/IN ``/`` 
+[ weak/JJ ]
+''/'' and/CC ``/`` 
+[ strong/JJ ]
+''/'' 
+[ modes/NNS ]
+,/, and/CC 
+[ this/DT ]
+is/VBZ demonstrated/VBN in/IN 
+[ the/DT numerical/JJ simulations/NNS ]
+for/IN 
+[ two/CD modes/NNS ]
+./. 
+
+[ Quasiperiodicity/NN ]
+is/VBZ shown/VBN to/TO occur/VB in/IN 
+[ the/DT numerical/JJ study/NN ]
+when/WRB at/IN 
+[ least/JJS 3/CD modes/NNS ]
+are/VBP excited/VBN with/IN 
+[ appropriate/JJ parameter/NN values/NNS ]
+./. 
+
+[ A/DT possible/JJ mechanism/NN ]
+for/IN 
+[ generating/VBG microwave/NN subharmonics/NNS ]
+at/IN 
+[ half/DT ]
+of/IN 
+[ the/DT pumping/VBG frequency/NN ]
+is/VBZ discussed/VBN ./. 
+
+[ 57/CD refs./NNS ]
+,/, 
+[ 25/CD figs./NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ an/DT experimental/JJ study/NN ]
+of/IN 
+[ a/DT forced/VBN symmetric/JJ oscillator/NN ]
+containing/VBG 
+[ a/DT saturable/JJ inductor/NN ]
+with/IN 
+[ magnetic/JJ hysteresis/NN ]
+./. 
+
+[ It/PRP ]
+displays/VBZ 
+[ a/DT Hopf/NNP bifurcation/NN ]
+to/TO 
+[ quasiperiodicity/NN ]
+,/, 
+[ entrainment/NN horns/NNS ]
+,/, and/CC 
+[ chaos/NN ]
+./. 
+
+[ The/DT bifurcations/NNS ]
+and/CC 
+[ hysteresis/NN ]
+occurring/VBG near/IN 
+[ points/NNS ]
+of/IN 
+[ resonance/NN ]
+(/( particularly/RB ``/`` 
+[ strong/JJ resonance/NN ]
+''/'' )/) are/VBP studied/VBN in/IN 
+[ detail/NN ]
+and/CC 
+[ it/PRP ]
+is/VBZ shown/VBN how/WRB 
+[ the/DT observed/VBN behavior/NN ]
+can/MD be/VB understood/VBN 
+[ using/VBG Arnold/NNP 's/POS theory/NN ]
+./. 
+
+Much/RB of/IN 
+[ the/DT behavior/NN ]
+relating/VBG to/TO 
+[ the/DT entrainment/NN horns/NNS ]
+is/VBZ explored/VBN :/: 
+[ period/NN ]
+doubling/NN and/CC 
+[ symmetry/NN ]
+breaking/NN 
+[ bifurcations/NNS ]
+;/: 
+[ homoclinic/JJ bifurcations/NNS ]
+;/: and/CC 
+[ crises/NNS ]
+and/CC 
+[ other/JJ bifurcations/NNS ]
+taking/VBG 
+[ place/NN ]
+at/IN 
+[ the/DT horn/NN boundaries/NNS ]
+./. 
+
+[ Important/JJ features/NNS ]
+of/IN 
+[ the/DT behavior/NN ]
+related/VBN to/TO 
+[ symmetry/NN properties/NNS ]
+of/IN 
+[ the/DT oscillator/NN ]
+are/VBP studied/VBN and/CC explained/VBN through/IN 
+[ the/DT concept/NN ]
+of/IN 
+[ a/DT half-cycle/JJ map/NN ]
+./. 
+
+[ The/DT system/NN ]
+is/VBZ shown/VBN to/TO exhibit/VB 
+[ a/DT Hopf/NNP bifurcation/NN ]
+from/IN 
+[ a/DT phase-locked/JJ state/NN ]
+to/TO 
+[ periodic/JJ ]
+``/`` 
+[ islands/NNS ]
+,/, ''/'' similar/JJ to/TO 
+[ those/DT ]
+found/VBN in/IN 
+[ Hamiltonian/NNP systems/NNS ]
+./. 
+
+[ An/DT initialization/NN technique/NN ]
+is/VBZ used/VBN to/TO observe/VB 
+[ the/DT manifolds/NNS ]
+of/IN 
+[ saddle/NN orbits/NNS ]
+and/CC 
+[ other/JJ hidden/JJ structure/NN ]
+./. 
+
+[ An/DT unusual/JJ differential/JJ equation/NN model/NN ]
+is/VBZ developed/VBN 
+[ which/WDT ]
+is/VBZ irreversible/JJ and/CC generates/VBZ 
+[ a/DT noninvertible/JJ Poincare/NNP map/NN ]
+of/IN 
+[ the/DT plane/NN ]
+./. 
+
+[ Noninvertibility/NN ]
+of/IN 
+[ this/DT planar/JJ map/NN ]
+has/VBZ 
+[ important/JJ effects/NNS ]
+on/IN 
+[ the/DT behavior/NN ]
+observed/VBN ./. 
+
+[ The/DT Poincare/NNP map/NN ]
+may/MD also/RB be/VB approximated/VBN through/IN 
+[ experimental/JJ measurements/NNS ]
+,/, resulting/VBG in/IN 
+[ a/DT planar/JJ map/NN ]
+with/IN 
+[ parameter/NN dependence/NN ]
+./. 
+
+[ This/DT model/NN ]
+gives/VBZ 
+[ good/JJ correspondence/NN ]
+with/IN 
+[ the/DT system/NN ]
+in/IN 
+[ a/DT region/NN ]
+of/IN 
+[ the/DT parameter/NN space/NN ]
+./. 
+
+[ 31/CD refs./NNS ]
+,/, 
+[ 36/CD figs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ This/DT part/NN ]
+takes/VBZ 
+[ a/DT new/JJ look/NN ]
+at/IN 
+[ an/DT old/JJ problem/NN ]
+,/, namely/RB 
+[ the/DT observed/VBN ]
+``/`` 
+[ noise/NN rise/NN ]
+''/'' in/IN 
+[ superconducting/NN Josephson/NNP junction/NN parametric/JJ amplifiers/NNS ]
+./. 
+
+By/IN exploiting/VBG 
+[ recent/JJ insights/NNS ]
+from/IN 
+[ dynamical/JJ systems/NNS theory/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ shown/VBN how/WRB 
+[ the/DT interplay/NN ]
+of/IN 
+[ random/JJ noise/NN ]
+and/CC (/( nonchaotic/JJ )/) 
+[ deterministic/JJ dynamics/NNS ]
+can/MD result/VB in/IN 
+[ a/DT noise/NN rise/NN ]
+like/IN that/IN observed/VBN in/IN 
+[ experiments/NNS ]
+./. 
+
+[ This/DT analysis/NN ]
+leads/VBZ to/TO 
+[ a/DT universal/JJ first/JJ order/NN equation/NN ]
+
+[ which/WDT ]
+applies/VBZ to/TO 
+[ all/DT similar/JJ systems/NNS ]
+in/IN 
+[ the/DT high-gain/JJ regime/NN ]
+./. 
+
+[ Several/JJ predictions/NNS ]
+are/VBP proposed/VBN 
+[ which/WDT ]
+can/MD be/VB tested/VBN experimentally/RB ,/, including/VBG that/IN 
+[ a/DT similar/JJ noise/NN rise/NN ]
+should/MD occur/VB in/IN 
+[ modulated/VBN semiconductor/NN injection/NN lasers/NNS ]
+./. 
+
+[ An/DT analysis/NN ]
+is/VBZ also/RB made/VBN of/IN 
+[ a/DT ]
+previously/RB 
+[ unknown/JJ mode/NN ]
+of/IN 
+[ operation/NN ]
+-/: 
+[ a/DT ]
+``/`` 
+[ six-photon/JJ ]
+''/'' 
+[ mode/NN ]
+associated/VBN with/IN 
+[ a/DT symmetry/NN breaking/NN bifurcation/NN ]
+-/: and/CC 
+[ its/PRP$ potential/JJ advantages/NNS ]
+over/IN 
+[ the/DT ]
+previously/RB studied/VBN 
+[ three-photon/JJ ]
+and/CC 
+[ four-photon/JJ modes/NNS ]
+are/VBP discussed/VBN ./. 
+
+[ 40/CD refs./NNS ]
+,/, 
+[ 15/CD figs/NNS ]
+./. 
+
+======================================
+
+[ Thin/JJ refractory/JJ coatings/NNS ]
+have/VBP been/VBN demonstrated/VBN to/TO deter/VB 
+[ solid/JJ particle/NN erosion/NN ]
+./. 
+
+[ A/DT detailed/JJ examination/NN ]
+of/IN 
+[ the/DT microstructures/NNS ]
+of/IN 
+[ 10%Ni/NN +/SYM TiB/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) with/IN varying/VBG 
+[ sputtering/VBG parameters/NNS ]
+was/VBD undertaken/VBN by/IN 
+[ the/DT use/NN ]
+of/IN 
+[ transmission/NN electron/NN microscopy/NN ]
+./. 
+
+Advanced/JJ 
+[ instrumentation/NN ]
+was/VBD then/RB used/VBN to/TO determine/VB 
+[ the/DT micromechanical/JJ ]
+and/CC 
+[ macromechanical/JJ properties/NNS ]
+of/IN 
+[ these/DT coatings/NNS ]
+./. 
+
+[ Microstructures/NNS ]
+,/, 
+[ nanoindentation/NN hardness/NN values/NNS ]
+and/CC 
+[ moduli/NNS ]
+of/IN 
+[ elasticity/NN ]
+were/VBD compared/VBN to/TO obtain/VB 
+[ a/DT better/JJR understanding/NN ]
+of/IN 
+[ the/DT role/NN ]
+of/IN sputtering/VBG 
+[ parameters/NNS ]
+in/IN 
+[ determining/VBG coating/NN performance/NN ]
+./. 
+
+[ 14/CD refs./NNS ]
+,/, 
+[ 8/CD figs./NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ Recent/JJ developments/NNS ]
+in/IN 
+[ the/DT design/NN ]
+of/IN 
+[ crystal/NN diffraction/NN lenses/NNS ]
+has/VBZ made/VBN 
+[ it/PRP ]
+possible/JJ to/TO build/VB 
+[ a/DT gamma-ray/JJ telescope/NN ]
+
+[ that/WP ]
+produces/VBZ 
+[ a/DT real/JJ image/NN ]
+of/IN 
+[ a/DT distant/JJ object/NN ]
+./. 
+
+[ This/DT ]
+can/MD be/VB done/VBN 
+[ both/DT ]
+with/IN 
+[ surface/NN diffraction/NN optics/NNS ]
+and/CC with/IN 
+[ transmission/NN diffraction/NN optics/NNS ]
+./. 
+
+[ The/DT mathematical/JJ solution/NN ]
+to/TO 
+[ both/DT ]
+
+[ cases/NNS ]
+is/VBZ 
+[ the/DT same/JJ ]
+but/CC 
+[ they/PRP ]
+differ/VBP in/IN 
+[ the/DT way/NN ]
+
+[ the/DT crystals/NNS ]
+are/VBP cut/VBN and/CC bent/VBN ./. 
+
+Until/IN recently/RB ,/, 
+[ there/EX ]
+was/VBD 
+[ no/DT solution/NN ]
+for/IN 
+[ the/DT transmission/NN case/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ this/DT last/JJ case/NN ]
+
+[ that/WP ]
+will/MD be/VB highlighted/VBN in/IN 
+[ this/DT paper/NN ]
+,/, because/IN 
+[ it/PRP ]
+is/VBZ new/JJ and/CC because/IN 
+[ it/PRP ]
+makes/VBZ much/RB 
+[ more/RBR efficient/JJ use/NN ]
+of/IN 
+[ the/DT crystal/NN material/NN ]
+when/WRB 
+[ high/JJ energy/NN photons/NNS ]
+(/( >/VB 
+[ 50/CD keV/NN ]
+)/) are/VBP being/VBG focused/VBN ./. 
+
+[ 5/CD refs./NNS ]
+,/, 
+[ 8/CD figs/NNS ]
+./. 
+
+======================================
+
+[ The/DT diverse/JJ variations/NNS ]
+of/IN 
+[ the/DT conductivities/NNS vs./FW temperature/NN ]
+observed/VBN in/IN 
+[ oxide/NN superconductors/NNS ]
+can/MD be/VB interpreted/VBN with/IN 
+[ a/DT model/NN ]
+based/VBN on/IN 
+[ microcanonical/JJ ensembles/NNS ]
+of/IN 
+[ a/DT semiconductor/NN ]
+and/CC 
+[ a/DT semimetal/NN ]
+originally/RB derived/VBN for/IN 
+[ organic/JJ radical/JJ cation/NN salts/NNS ]
+./. 
+
+[ The/DT equation/NN ]
+for/IN 
+[ the/DT model/NN transverses/VBZ ]
+,/, through/IN 
+[ the/DT variations/NNS ]
+of/IN 
+[ the/DT Fermi/NNP ]
+and/CC 
+[ gap/NN energies/NNS ]
+and/CC 
+[ a/DT scattering/VBG factor/NN ]
+,/, 
+[ the/DT range/NN ]
+from/IN 
+[ a/DT semiconductor/NN ]
+to/TO 
+[ a/DT semimetal/NN ]
+and/CC defines/VBZ quantitatively/RB 
+[ the/DT boundary/NN ]
+between/IN 
+[ the/DT two/CD ]
+corresponding/VBG to/TO 
+[ the/DT optimum/JJ superconducting/NN state/NN ]
+./. 
+
+Therein/RB 
+[ it/PRP ]
+describes/VBZ quantitatively/RB 
+[ the/DT roles/NNS ]
+of/IN 
+[ composition/NN ]
+and/CC 
+[ pressure/NN ]
+in/IN determining/VBG 
+[ the/DT onset/NN ]
+of/IN 
+[ the/DT superconducting/NN state/NN ]
+./. 
+
+[ An/DT examination/NN ]
+of/IN 
+[ the/DT published/VBN resistivity/NN curves/NNS vs./FW temperature/NN ]
+for/IN 
+[ La\/NN 2-x\/NN x\/NN 4/CD ]
+-/: {/( 
+[ delta/NN ]
+}/) and/CC 
+[ YBa/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ Cu/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) 
+[ O\/sub/NN 6.5/CD +/SYM ]
+{/( 
+[ delta/NN ]
+}/) 
+[ yield/NN information/NN ]
+consistent/JJ with/IN 
+[ the/DT model/NN ]
+and/CC 
+[ relevant/JJ ]
+to/TO 
+[ the/DT defects/NNS ]
+and/CC 
+[ range/NN ]
+of/IN 
+[ homogeneity/NN ]
+needed/VBN for/IN 
+[ phase/NN diagrams/NNS ]
+./. 
+
+[ 5/CD figs./NNS ]
+,/, 
+[ 22/CD refs/NNS ]
+./. 
+
+======================================
+
+[ We/PRP ]
+have/VBP studied/VBN 
+[ the/DT effects/NNS ]
+of/IN 
+[ virtual/JJ Cu-O/NN charge/NN fluctuations/NNS ]
+in/IN 
+[ the/DT perovskite/NN high-T\/NN c/NN \//NN materials/NNS ]
+by/IN applying/VBG 
+[ a/DT strong/JJ coupling/NN expansion/NN ]
+to/TO 
+[ an/DT extended/VBN Hubbard/NNP model/NN ]
+with/IN 
+[ hybridized/VBN Cu/NN d-orbitals/NNS ] 
+and/CC 
+[ O/NN p-orbitals/NNS ]
+./. 
+
+[ Results/NNS ]
+for/IN 
+[ charge/NN fluctuation-mediated/JJ site-diagonal/JJ effective/JJ interactions/NNS ]
+are/VBP discussed/VBN ./. 
+
+[ 6/CD refs/NNS ]
+./. 
+
+======================================
+
+[ The/DT purpose/NN ]
+of/IN 
+[ this/DT report/NN ]
+is/VBZ to/TO develop/VB 
+[ the/DT kinematic/JJ basis/NN ]
+for/IN 
+[ a/DT theory/NN ]
+of/IN 
+[ deformation/NN ]
+of/IN 
+[ materials/NNS ]
+with/IN 
+[ defects/NNS ]
+./. 
+
+[ One/CD specific/JJ objective/NN ]
+is/VBZ to/TO derive/VB 
+[ clear/JJ concepts/NNS ]
+of/IN 
+[ strain/NN ]
+,/, 
+[ strain-rate/NN ]
+,/, 
+[ stress/NN ]
+and/CC 
+[ stress/NN rate/NN ]
+,/, and/CC to/TO demonstrate/VB 
+[ some/DT new/JJ relations/NNS ]
+between/IN 
+[ measures/NNS ]
+of/IN 
+[ these/DT quantities/NNS ]
+./. 
+
+[ A/DT related/JJ objective/NN ]
+is/VBZ to/TO clarify/VB 
+[ the/DT concepts/NNS ]
+of/IN 
+[ strain/NN ]
+,/, 
+[ strain/NN rate/NN ]
+and/CC stretching/NN ,/, so/IN that/IN 
+[ the/DT principle/NN ]
+of/IN 
+[ superposition/NN ]
+of/IN 
+[ strain/NN rates/NNS ]
+can/MD be/VB developed/VBN in/IN 
+[ a/DT systematic/JJ way/NN ]
+in/IN 
+[ subsequent/JJ reports/NNS ]
+./. 
+
+[ This/DT principle/NN ]
+allows/VBZ 
+[ us/PRP ]
+to/TO compute/VB 
+[ deformations/NNS ]
+involving/VBG 
+[ both/DT plastic/JJ flow/NN ]
+and/CC 
+[ fragmentation/NN ]
+./. 
+
+[ The/DT theory/NN ]
+of/IN 
+[ large/JJ deformation/NN ]
+is/VBZ addressed/VBN in/IN 
+[ a/DT systematic/JJ manner/NN ]
+with/IN 
+[ the/DT polar/JJ decomposition/NN theorem/NN ]
+as/IN 
+[ a/DT starting/NN point/NN ]
+./. 
+
+[ Two/CD sets/NNS ]
+of/IN 
+[ orthogonal/JJ axes/NNS ]
+are/VBP distinguished/VBN ,/, 
+[ space/NN axes/NNS ]
+
+[ that/WP ]
+are/VBP fixed/VBN in/IN 
+[ ambient/JJ space/NN ]
+,/, and/CC 
+[ polar/JJ axes/NNS ]
+
+[ that/WP ]
+are/VBP related/VBN to/TO 
+[ material/NN deformation/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ shown/VBN that/IN in/IN 
+[ elasticity/NN ]
+,/, 
+[ Piola/NNP stress/NN ]
+is/VBZ 
+[ a/DT measure/NN ]
+in/IN 
+[ polar/JJ axes/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ a/DT special/JJ approach/NN ]
+to/TO 
+[ computing/VBG rates/NNS ]
+of/IN 
+[ tensor/NN quantities/NNS ]
+,/, called/VBD 
+[ polar/JJ rates/NNS ]
+,/, is/VBZ derived/VBN from/IN 
+[ several/JJ viewpoints/NNS ]
+./. 
+
+[ This/DT ]
+allows/VBZ 
+[ us/PRP ]
+to/TO compute/VB 
+[ rates/NNS ]
+in/IN 
+[ a/DT manner/NN ]
+
+[ that/WP ]
+accounts/VBZ for/IN 
+[ material/NN rotation/NN ]
+in/IN 
+[ an/DT exact/JJ way/NN ]
+./. 
+
+[ One/CD consequence/NN ]
+of/IN 
+[ this/DT ]
+is/VBZ 
+[ a/DT simple/JJ relation/NN ]
+between/IN 
+[ Signorini/NNP strain/NN rate/NN ]
+and/CC stretching/NN ,/, 
+[ the/DT symmetric/JJ part/NN ]
+of/IN 
+[ the/DT velocity/NN gradient/NN ]
+./. 
+
+[ A/DT second/JJ result/NN ]
+is/VBZ to/TO show/VB that/IN 
+[ the/DT polar/JJ stress/NN rate/NN ]
+is/VBZ 
+[ the/DT appropriate/JJ measure/NN ]
+of/IN 
+[ rate/NN ]
+of/IN 
+[ change/NN ]
+of/IN 
+[ Cauchy/NNP stress/NN ]
+,/, and/CC that/IN 
+[ the/DT more/RBR traditional/JJ stress/NN rate/NN ]
+of/IN 
+[ Zaremba/NNP ]
+,/, 
+[ Jaumann/NNP ]
+,/, and/CC 
+[ Noll/NNP ]
+is/VBZ only/RB 
+[ an/DT approximation/NN ]
+,/, 
+[ valid/JJ ]
+at/IN 
+[ small/JJ strains/NNS ]
+./. 
+
+[ Examples/NNS ]
+are/VBP described/VBN for/IN 
+[ materials/NNS ]
+undergoing/VBG 
+[ simple/JJ shear/NN ]
+,/, 
+[ vortex/NN motion/NN ]
+and/CC 
+[ torsion/NN ]
+./. 
+
+[ 20/CD refs./NNS ]
+,/, 
+[ 10/CD figs/NNS ]
+./. 
+
+======================================
+
+[ This/DT research/NN ]
+was/VBD undertaken/VBN to/TO determine/VB if/IN 
+[ the/DT AWC/NNP TRUclean/NNP process/NN ]
+could/MD remove/VB 
+[ radioactive/JJ contamination/NN ]
+from/IN 
+[ differing/VBG soil/NN matrices/NN ]
+
+[ that/WP ]
+were/VBD submitted/VBN by/IN participating/VBG 
+[ sites/NNS ]
+from/IN around/IN 
+[ the/DT nation/NN ]
+./. 
+
+[ The/DT TRUclean/NNP process/NN ]
+removed/VBD 
+[ plutonium/NN ]
+from/IN 
+[ coral/JJ derived/VBN soil/NN ]
+./. 
+
+[ Interest/NN ]
+developed/VBN in/IN applying/VBG 
+[ the/DT process/NN ]
+to/TO 
+[ other/JJ radioactive/JJ contaminants/NNS ]
+and/CC 
+[ soil/NN types/NNS ]
+./. 
+
+[ Soils/NNS ]
+from/IN 
+[ the/DT Nevada/NNP Test/NNP Site/NNP ]
+(/( 
+[ NTS/NNP ]
+)/) ;/: 
+[ Rocky/NNP Flats/NNP Plant/NNP ]
+(/( 
+[ RFP/NNP ]
+)/) in/IN 
+[ Colorado/NNP ]
+;/: 
+[ FUSRAP/NNP site/NN ]
+at/IN 
+[ Hazelwood/NNP ]
+,/, 
+[ Missouri/NNP ]
+;/: 
+[ Monsanto-Mound/NNP site/NN ]
+in/IN 
+[ Ohio/NNP ]
+,/, and/CC 
+[ the/DT Ft./NNP Dix/NNP site/NN ]
+in/IN 
+[ New/NNP Jersey/NNP ]
+were/VBD tested/VBN ./. 
+
+[ The/DT TRUclean/NNP process/NN ]
+was/VBD able/JJ to/TO effectively/RB decontaminate/VB 
+[ soils/NNS ]
+and/CC concentrate/VB 
+[ the/DT contamination/NN ]
+into/IN 
+[ a/DT ]
+substantially/RB 
+[ smaller/JJR volume/NN ]
+than/IN 
+[ the/DT original/JJ soil/NN ]
+./. 
+
+[ 14/CD refs./NNS ]
+,/, 
+[ 6/CD figs/NNS ]
+./. 
+
+======================================
+
+[ Compositional/JJ changes/NNS ]
+of/IN 
+[ weld/NN metal/NN ]
+from/IN 
+[ welds/NNS ]
+made/VBN by/IN 
+[ submerged/VBN arc/NN flux/NN welding/NN ]
+of/IN 
+[ steel/NN using/VBG CaF/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ -CaO-SiO/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ fluxes/NNS ]
+are/VBP consistent/JJ with/IN 
+[ an/DT electrochemical/JJ mechanism/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT filler/NN wire/NN ]
+is/VBZ anodically/RB oxidized/VBN to/TO 
+[ form/VB oxides/NNS ]
+and/CC 
+[ fluorides/NNS ]
+,/, and/CC 
+[ metals/NNS ]
+are/VBP cathodically/RB deposited/VBN at/IN 
+[ the/DT weld/NN pool-flux/NN interface/NN ]
+./. 
+
+[ This/DT speculative/JJ mechanism/NN ]
+,/, if/IN proven/VBN by/IN 
+[ further/JJR detailed/VBN studies/NNS ]
+,/, could/MD make/VB 
+[ it/PRP ]
+possible/JJ to/TO predict/VB 
+[ fluxes/NNS ]
+
+[ which/WDT ]
+will/MD improve/VB 
+[ the/DT quality/NN ]
+of/IN 
+[ welds/NNS ]
+./. 
+
+[ 10/CD refs./NNS ]
+,/, 
+[ 3/CD figs./NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ This/DT booklet/NN ]
+contains/VBZ 
+[ answers/NNS ]
+to/TO frequently/RB asked/VBN 
+[ questions/NNS ]
+about/IN 
+[ high-level/JJ nuclear/JJ wastes/NNS ]
+./. 
+
+Written/VBN for/IN 
+[ the/DT layperson/NN ]
+,/, 
+[ the/DT document/NN ]
+contains/VBZ 
+[ basic/NN information/NN ]
+on/IN 
+[ the/DT hazards/NNS ]
+of/IN 
+[ radiation/NN ]
+,/, 
+[ the/DT Nuclear/NNP Waste/NNP Management/NNP Program/NNP ]
+,/, 
+[ the/DT proposed/VBN geologic/JJ repository/NN ]
+,/, 
+[ the/DT ]
+proposed/VBN monitored/VBN 
+[ retrievable/JJ storage/NN facility/NN ]
+,/, 
+[ risk/NN assessment/NN ]
+,/, and/CC 
+[ public/JJ participation/NN ]
+in/IN 
+[ the/DT program/NN ]
+./. 
+
+(/( 
+[ TEM/NNP ]
+)/) 
+======================================
+
+[ Deontamination/NN ]
+and/CC decommissioning/NN of/IN 
+[ retired/VBN nuclear/JJ power/NN reactors/NNS ]
+is/VBZ 
+[ a/DT necessary/JJ part/NN ]
+of/IN 
+[ the/DT nuclear/JJ fuel/NN cycle/NN ]
+./. 
+
+[ Inventories/NNS ]
+of/IN 
+[ radioactivity/NN ]
+
+[ that/WP ]
+will/MD be/VB encountered/VBN at/IN 
+[ large/JJ facilities/NNS ]
+(/( 
+[ 500/CD ]
+to/TO 
+[ 1200/CD MWe/NNS ]
+)/) during/IN decommissioning/VBG 
+[ operations/NNS ]
+include/VB activated/VBN 
+[ reactor/NN components/NNS ]
+and/CC contaminated/VBN 
+[ piping/NN ]
+,/, 
+[ equipment/NN ]
+,/, and/CC 
+[ building/NN surfaces/NNS ]
+./. 
+
+Contaminated/VBN 
+[ areas/NNS ]
+of/IN 
+[ the/DT facility/NN result/NN ]
+from/IN processing/VBG 
+[ the/DT primary/JJ coolant/NN ]
+
+[ that/WP ]
+contains/VBZ 
+[ activation/NN products/NNS ]
+and/CC 
+[ fission/NN products/NNS ]
+from/IN 
+[ the/DT reactor/NN core/NN ]
+./. 
+
+[ The/DT most/RBS abundant/JJ radionuclides/NNS ]
+in/IN 
+[ the/DT inventory/NN ]
+include/VBP {/( sup/IN 
+[ 58/CD ]
+}/) 
+[ Co/NN ]
+,/, {/( sup/IN 
+[ 60/CD ]
+}/) 
+[ Co/NN ]
+,/, {/( sup/IN 
+[ 55/CD ]
+}/) 
+[ Fe/NN ]
+,/, {/( sup/IN 
+[ 59/CD ]
+}/) 
+[ Fe/NN ]
+,/, {/( sup/IN 
+[ 51/CD ]
+}/) 
+[ Cr/NN ]
+,/, {/( sup/IN 
+[ 59/CD ]
+}/) 
+[ Ni/NN ]
+,/, and/CC {/( 
+[ sup/NN 63/CD ]
+}/) 
+[ Ni/NN ]
+./. 
+
+Because/IN of/IN 
+[ the/DT ]
+relatively/RB 
+[ short/JJ physical/JJ half-lives/NNS ]
+of/IN 
+[ most/JJS activation/NN products/NNS ]
+,/, 
+[ the/DT decision/NN ]
+of/IN when/WRB to/TO 
+[ decommission/NN ]
+
+[ a/DT reactor/NN ]
+will/MD directly/RB influence/VB 
+[ the/DT magnitude/NN ]
+of/IN 
+[ the/DT collective/JJ dose/NN estimate/NN ]
+./. 
+
+[ The/DT total/JJ collective/JJ dose/NN ]
+is/VBZ 
+[ the/DT sum/NN ]
+of/IN 
+[ exposures/NNS ]
+to/TO 
+[ several/JJ groups/NNS ]
+of/IN 
+[ individuals/NNS ]
+./. 
+
+[ These/DT groups/NNS ]
+include/VBP decommissioning/NN 
+[ workers/NNS ]
+,/, 
+[ transportation/NN workers/NNS ]
+,/, 
+[ the/DT population/NN ]
+along/IN 
+[ major/JJ transport/NN routes/NNS ]
+,/, and/CC 
+[ the/DT population/NN ]
+living/VBG in/IN 
+[ the/DT vicinity/NN ]
+of/IN 
+[ the/DT decommissioned/VBN reactor/NN ]
+./. 
+
+[ Previous/JJ generic/JJ studies/NNS ]
+of/IN 
+[ the/DT potential/JJ ]
+,/, 
+[ collective/JJ radiationdoses/NNS ]
+from/IN decommissioning/NN have/VB concluded/VBN that/IN ,/, barring/VBG 
+[ accidents/NNS ]
+,/, 
+[ the/DT group/NN ]
+receiving/VBG 
+[ the/DT most/RBS significant/JJ radiation/NN doses/NNS ]
+will/MD be/VB 
+[ the/DT workers/NNS ]
+performing/VBG 
+[ the/DT ]
+decommissioning/NN ./. 
+
+[ This/DT paper/NN ]
+reviews/VBZ 
+[ generic/JJ population/NN dose/NN estimates/NNS ]
+for/IN 
+[ decommissioning/NN reference/NN boiling/VBG water/NN ]
+and/CC pressurized/VBN 
+[ water/NN reactors/NNS ]
+and/CC provides/VBZ extrapolated/VBN 
+[ estimates/NNS ]
+of/IN 
+[ the/DT total/JJ collective/JJ dose/NN ]
+resulting/VBG from/IN decommissioning/NN 
+[ the/DT commerical/JJ nuclear/JJ reactors/NNS ]
+
+[ that/WP ]
+have/VBP operated/VBN to/TO date/VB in/IN 
+[ the/DT United/NNP States/NNP ]
+./. 
+
+======================================
+
+[ This/DT report/NN ]
+describes/VBZ 
+[ the/DT work/NN ]
+performed/VBN to/TO investigate/VB 
+[ filtration/NN improvement/NN techniques/NNS ]
+applied/VBN to/TO 
+[ an/DT existing/VBG filtration/NN system/NN ]
+installed/VBN at/IN 
+[ TMI-2/NN ]
+to/TO maintain/VB 
+[ water/NN clarity/NN ]
+for/IN 
+[ on-going/JJ defueling/NN activities/NNS ]
+on/IN 
+[ the/DT damaged/JJ reactor/NN ]
+./. 
+
+[ The/DT investigation/NN ]
+included/VBD 
+[ laboratory/NN ]
+and/CC 
+[ full-scale/JJ testing/NN ]
+of/IN 
+[ organic/JJ ]
+and/CC 
+[ inorganic/JJ coagulant/NN aids/NNS ]
+and/CC of/IN 
+[ various/JJ precoat/NN ]
+and/CC 
+[ body/NN feed/NN materials/NNS ]
+singly/RB or/CC in/IN 
+[ combination/NN ]
+with/IN 
+[ coagulant/NN aids/NNS ]
+./. 
+
+[ 33/CD figs./NNS ]
+,/, 
+[ 21/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+builds/VBZ 
+[ a/DT framework/NN ]
+for/IN addressing/VBG how/WRB 
+[ ORNL/NNP ]
+might/MD increase/VB 
+[ its/PRP$ contribution/NN ]
+to/TO 
+[ US/NNP ]
+
+[ competitiveness/NN ]
+./. 
+
+[ It/PRP ]
+begins/VBZ with/IN 
+[ an/DT analysis/NN ]
+of/IN 
+[ the/DT changing/VBG nature/NN ]
+of/IN 
+[ international/JJ commercial/JJ competition/NN ]
+./. 
+
+[ The/DT goal/NN ]
+in/IN 
+[ the/DT first/JJ part/NN ]
+of/IN 
+[ the/DT paper/NN ]
+is/VBZ to/TO provide/VB 
+[ a/DT picture/NN ]
+of/IN why/WRB 
+[ US/NNP ]
+
+[ competitiveness/NN ]
+has/VBZ eroded/VBN and/CC 
+[ what/WP ]
+is/VBZ required/VBN if/IN 
+[ the/DT nation/NN ]
+is/VBZ to/TO be/VB competitive/JJ ./. 
+
+[ The/DT latter/JJ portion/NN ]
+of/IN 
+[ the/DT paper/NN ]
+investigates/VBZ 
+[ actions/NNS ]
+
+[ which/WDT ]
+might/MD be/VB taken/VBN to/TO enhance/VB 
+[ the/DT Lab/NN 's/POS potential/NN ]
+for/IN contributing/VBG to/TO commercially/RB 
+[ competitive/JJ innovations/NNS ]
+./. 
+
+======================================
+
+[ Eleven/CD wide-plate/JJ crack-arrest/JJ tests/NNS ]
+have/VBP been/VBN completed/VBN to/TO 
+[ date/NN ]
+,/, 
+[ seven/CD utilizing/VBG specimens/NNS ]
+fabricated/VBN from/IN 
+[ A533B/NN class/NN 1/CD material/NN ]
+(/( 
+[ WP-1/NN series/NN ]
+)/) ,/, and/CC 
+[ four/CD ]
+fabricated/VBN from/IN 
+[ a/DT low/JJ upper-shelf/NN base/NN material/NN ]
+(/( 
+[ WP-2/NN series/NN ]
+)/) ./. 
+
+With/IN 
+[ the/DT exception/NN ]
+of/IN 
+[ one/CD test/NN ]
+in/IN 
+[ the/DT WP-1/NN series/NN ]
+and/CC 
+[ two/CD tests/NNS ]
+in/IN 
+[ the/DT WP-2/NN series/NN ]
+
+[ which/WDT ]
+utilized/VBD 
+[ 152-mm-thick/JJ specimens/NNS ]
+,/, 
+[ each/DT test/NN ]
+utilized/VBD 
+[ a/DT single-edge/JJ notched/JJ ]
+(/( 
+[ SEN/NNP ]
+)/) 
+[ plate/NN specimen/NN 1/CD ]
+by/IN 
+[ 1/CD ]
+by/IN 
+[ 0.1/CD m/NNS ]
+
+[ that/WP ]
+was/VBD subjected/VBN to/TO 
+[ a/DT linear/JJ thermal/JJ gradient/NN ]
+along/IN 
+[ the/DT plane/NN ]
+of/IN 
+[ crack/NN propagation/NN ]
+./. 
+
+[ Test/NN results/NNS ]
+exhibit/VBP 
+[ an/DT increase/NN ]
+in/IN 
+[ crack-arrest/JJ toughness/NN ]
+with/IN 
+[ temperature/NN ]
+,/, with/IN 
+[ the/DT rate/NN ]
+of/IN 
+[ increase/NN ]
+becoming/VBG 
+[ greater/JJR ]
+as/IN 
+[ the/DT temperature/NN ]
+increases/VBZ ./. 
+
+When/WRB 
+[ the/DT wide-plate/JJ test/NN results/NNS ]
+are/VBP combined/VBN with/IN 
+[ other/JJ large-specimen/JJ results/NNS ]
+(/( 
+[ Japanese/NNP ESSO/NNP ]
+,/, 
+[ thermal-shock/JJ experiments/NNS ]
+and/CC 
+[ pressurized-thermal-shock/JJ experiments/NNS ]
+)/) ,/, 
+[ the/DT data/NNS ]
+show/VBP 
+[ a/DT consistent/JJ trend/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT K\/NN Ia/NN \//NN data/NN ]
+extends/VBZ above/IN 
+[ the/DT limit/NN ]
+provided/VBN in/IN 
+[ ASME/NNP Section/NN XI/NNP ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+contains/VBZ 
+[ viewgraphs/NNS ]
+on/IN 
+[ the/DT topic/NN ]
+of/IN 
+[ radiation/NN effects/NNS ]
+of/IN 
+[ solid/JJ state/NN materials/NNS ]
+./. 
+
+In/IN 
+[ particular/JJ ]
+,/, 
+[ it/PRP ]
+elaborates/VBZ on/IN 
+[ ion/NN beam/NN deposition/NN ]
+of/IN 
+[ thin/JJ film/NN structures/NNS ]
+,/, 
+[ ion/NN implantation/NN damage/NN ]
+in/IN 
+[ crystals/NNS ]
+of/IN 
+[ Al/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ O/UH ]
+{/( sub/IN 
+[ 3/CD ]
+}/) ,/, and/CC 
+[ ion/NN ]
+implanted/VBD 
+[ optical/JJ waveguides/NNS ]
+in/IN 
+[ LiNbO/NN ]
+{/( sub/IN 
+[ 3/CD ]
+}/) ./. 
+
+(/( 
+[ LSP/NNP ]
+)/) 
+======================================
+
+[ This/DT report/NN ]
+documents/VBZ 
+[ the/DT results/NNS ]
+of/IN 
+[ Phase/NN II/CD ]
+of/IN 
+[ a/DT three/CD phase/NN research/NN program/NN ]
+to/TO develop/VB and/CC validate/VB improved/VBN 
+[ methods/NNS ]
+to/TO model/VB 
+[ the/DT cognitive/JJ behavior/NN ]
+of/IN 
+[ nuclear/JJ power/NN plant/NN ]
+(/( 
+[ NPP/NNP ]
+)/) 
+[ personnel/NNS ]
+./. 
+
+In/IN 
+[ Phase/NN II/CD ]
+
+[ a/DT dynamic/JJ simulation/NN capability/NN ]
+for/IN modeling/VBG how/WRB 
+[ people/NNS ]
+form/VB 
+[ intentions/NNS ]
+to/TO act/VB in/IN 
+[ NPP/NNP emergency/NN situations/NNS ]
+was/VBD developed/VBN based/VBN on/IN 
+[ techniques/NNS ]
+from/IN 
+[ artificial/JJ intelligence/NN ]
+./. 
+
+[ This/DT modeling/NN tool/NN ]
+,/, 
+[ Cognitive/NNP Environment/NNP Simulation/NNP ]
+or/CC 
+[ CES/NNP ]
+,/, simulates/VBZ 
+[ the/DT cognitive/JJ processes/NNS ]
+
+[ that/WP ]
+determine/VBP 
+[ situation/NN assessment/NN ]
+and/CC 
+[ intention/NN formation/NN ]
+./. 
+
+[ It/PRP ]
+can/MD be/VB used/VBN to/TO investigate/VB analytically/RB 
+[ what/WDT situations/NNS ]
+and/CC 
+[ factors/NNS ]
+lead/VBP to/TO 
+[ intention/NN failures/NNS ]
+,/, 
+[ what/WDT actions/NNS ]
+follow/VBP from/IN 
+[ intention/NN failures/NNS ]
+(/( 
+[ e.g./FW ]
+,/, 
+[ errors/NNS ]
+of/IN 
+[ omission/NN ]
+,/, 
+[ errors/NNS ]
+of/IN 
+[ commission/NN ]
+,/, 
+[ common/JJ mode/NN errors/NNS ]
+)/) ,/, 
+[ the/DT ability/NN ]
+to/TO recover/VB from/IN 
+[ errors/NNS ]
+or/CC 
+[ additional/JJ machine/NN failures/NNS ]
+,/, and/CC 
+[ the/DT effects/NNS ]
+of/IN 
+[ changes/NNS ]
+in/IN 
+[ the/DT NPP/NNP person-machine/JJ system/NN ]
+./. 
+
+[ The/DT Cognitive/NNP Reliability/NNP Assessment/NNP Technique/NNP ]
+(/( or/CC 
+[ CREATE/NNP ]
+)/) was/VBD also/RB developed/VBN in/IN 
+[ Phase/NN II/CD ]
+to/TO specify/VB how/WRB 
+[ CES/NNP ]
+can/MD be/VB used/VBN to/TO enhance/VB 
+[ the/DT measurement/NN ]
+of/IN 
+[ the/DT human/JJ contribution/NN ]
+to/TO risk/VB in/IN 
+[ probabilistic/JJ risk/NN assessment/NN ]
+(/( 
+[ PRA/NNP ]
+)/) 
+[ studies/NNS ]
+./. 
+
+[ 43/CD refs./NNS ]
+,/, 
+[ 20/CD figs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT past/JJ few/JJ years/NNS ]
+
+[ the/DT methods/NNS ]
+of/IN 
+[ radiation/NN chemistry/NN ]
+in/IN 
+[ organic/JJ media/NNS ]
+have/VBP made/VBN 
+[ an/DT enormous/JJ change/NN ]
+in/IN how/WRB 
+[ we/PRP ]
+view/VBP 
+[ electron/NN transfer/NN processes/NNS ]
+,/, as/IN 
+[ these/DT media/NNS ]
+have/VBP proved/VBN 
+[ the/DT most/RBS useful/JJ ]
+for/IN studying/VBG 
+[ long/JJ distance/NN electron/NN transfer/NN ]
+between/IN 
+[ molecules/NNS ]
+./. 
+
+[ This/DT paper/NN briefly/RB ]
+summarizes/VBZ 
+[ a/DT few/JJ ]
+of/IN 
+[ the/DT aspects/NNS ]
+of/IN 
+[ this/DT area/NN ]
+and/CC discusses/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT attributes/NNS ]
+and/CC 
+[ limitations/NNS ]
+of/IN 
+[ radiation/NN tehniques/NNS ]
+,/, particularly/RB 
+[ pulse/NN radiolysis/NN ]
+,/, in/IN 
+[ organic/JJ solvents/NNS ]
+./. 
+
+[ 14/CD refs./NN ]
+,/, 
+[ 2/CD figs/NNS ]
+./. 
+
+======================================
+
+[ The/DT nonlinear/JJ evolution/NN ]
+of/IN 
+[ the/DT internal/JJ kink/NN mode/NN ]
+is/VBZ studied/VBN in/IN 
+[ toroidal/JJ geometry/NN ]
+for/IN 
+[ noncircular/JJ cross/NN section/NN tokamak/NN plasmas/NN ]
+./. 
+
+[ The/DT study/NN ]
+is/VBZ focused/VBN on/IN 
+[ very/RB low/JJ shear/NN ]
+and/CC 
+[ hollow/JJ q/NN profiles/NNS ]
+with/IN 
+[ q/NN ]
+(/( 
+[ rho/NN ]
+)/) {/( 
+[ ge/NN ]
+}/) 
+[ 1/CD ]
+for/IN 
+[ which/WDT ]
+
+[ the/DT internal/JJ kink/NN ]
+is/VBZ unstable/JJ ,/, in/IN 
+[ the/DT latter/JJ case/NN ]
+even/RB at/IN {/( 
+[ beta/NN ]
+}/) 
+[ -0/CD ]
+./. 
+
+[ The/DT nonlinear/JJ evolution/NN ]
+is/VBZ dominated/VBN by/IN 
+[ ideal/JJ magnetohydrodynamics/NNS ]
+(/( 
+[ MHD/NNP ]
+)/) ,/, and/CC 
+[ the/DT instability/NN saturates/NNS ]
+,/, giving/VBG 
+[ a/DT quasi-helical/JJ shift/NN ]
+to/TO 
+[ the/DT magnetic/JJ axis/NN ]
+./. 
+
+[ The/DT nonlinear/JJ saturation/NN ]
+is/VBZ caused/VBN by/IN 
+[ increased/VBN field/NN line/NN ]
+bending/VBG ./. 
+
+[ Time/NN ]
+scales/NNS of/IN 
+[ 10/CD ]
+{/( 
+[ sup/NN 3/CD ]
+}/) 
+[ tau\/sub/NN Hp/NN \//NN ]
+and/CC 
+[ axis/NN shifts/NNS ]
+of/IN 
+[ 20/CD %/NN ]
+are/VBP reached/VBN when/WRB 
+[ changes/NNS ]
+in/IN 
+[ q/NN ]
+on/IN 
+[ the/DT order/NN ]
+of/IN 
+[ 3/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN -3/CD ]
+}/) from/IN 
+[ the/DT marginal/JJ profile/NN ]
+are/VBP produced/VBN ./. 
+
+[ 25/CD refs./NNS ]
+,/, 
+[ 27/CD figs/NNS ]
+./. 
+
+======================================
+
+[ System/NN studies/NNS ]
+of/IN 
+[ next-generation/JJ ]
+superconducting/NN 
+[ tokamaks/NNS ]
+are/VBP presented/VBN here/RB ./. 
+
+[ These/DT studies/NNS ]
+include/VBP 
+[ examining/VBG design/NN changes/NNS ]
+suggested/VBN for/IN 
+[ the/DT International/NNP Tokamak/NNP Reactor/NNP ]
+(/( 
+[ INTOR/NNP ]
+)/) as/IN 
+[ a/DT means/NN ]
+of/IN reducing/VBG 
+[ the/DT size/NN ]
+and/CC simplifying/VBG 
+[ the/DT device/NN ]
+and/CC assessing/VBG 
+[ the/DT impact/NN ]
+of/IN 
+[ a/DT series/NN ]
+of/IN 
+[ more/JJR aggressive/JJ design/NN assumptions/NNS ]
+suggested/VBN in/IN 
+[ recent/JJ Engineering/NNP Test/NNP Reactor/NNP ]
+(/( 
+[ ETR/NNP ]
+)/) 
+[ studies/NNS ]
+./. 
+
+Also/RB ,/, 
+[ a/DT set/NN ]
+of/IN 
+[ candidate/NN design/NN points/NNS ]
+offering/VBG 
+[ small/JJ machines/NNS ]
+(/( 
+[ major/JJ radius/NN =/SYM 4/CD m/NNS ]
+)/) with/IN 
+[ a/DT ]
+relatively/RB 
+[ conservative/JJ mix/NN ]
+of/IN 
+[ design/NN assumptions/NNS ]
+is/VBZ proposed/VBN ./. 
+
+[ Some/DT ]
+of/IN 
+[ the/DT design/NN assumptions/NNS ]
+found/VBN to/TO have/VB 
+[ a/DT major/JJ effect/NN ]
+on/IN 
+[ the/DT minimum/JJ size/NN ]
+are/VBP 
+[ TF/NNP coil/NN current/NN density/NN ]
+,/, 
+[ noninductive/JJ current/JJ drive/NN ]
+,/, 
+[ plasma/NN elongation/NN ]
+and/CC 
+[ edge/NN q/NN ]
+,/, 
+[ plasma/NN temperature/NN ]
+for/IN 
+[ current/JJ drive/NN ]
+,/, 
+[ maximum/JJ allowable/JJ plasma/NN beta/NN ]
+,/, 
+[ the/DT minimum/JJ required/JJ wall/NN load/NN ]
+,/, and/CC 
+[ assumptions/NNS ]
+on/IN 
+[ fixed/VBN radial/JJ dimensions/NNS ]
+such/DT as/IN 
+[ shield/NN thickness/NN ]
+,/, 
+[ gaps/NNS ]
+,/, and/CC 
+[ plasma/NN scrapeoff/NN ]
+./. 
+
+[ Some/DT design/NN assumptions/NNS ]
+with/IN 
+[ less/JJR impact/NN ]
+on/IN 
+[ the/DT device/NN size/NN ]
+are/VBP 
+[ the/DT ]
+OH/NNP coil/VB 
+[ current/NN density/NN ]
+,/, 
+[ PF/NNP configuration/NN ]
+(/( 
+[ limiter\/divertor/NN ]
+)/) ,/, and/CC 
+[ plasma/NN current/NN level/NN ]
+./. 
+
+[ 22/CD refs./NNS ]
+,/, 
+[ 5/CD figs./NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ Corrosion/NN data/NNS ]
+are/VBP presented/VBN for/IN 
+[ several/JJ vanadium/NN alloys/NNS ]
+exposed/VBN to/TO 
+[ flowing/VBG lithium/NN ]
+at/IN 
+[ 427/CD ]
+,/, 
+[ 482/CD ]
+,/, and/CC 
+[ 538/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NN ]
+./. 
+
+[ The/DT corrosion/NN behavior/NN ]
+is/VBZ evaluated/VBN by/IN 
+[ weight/NN change/NN measurements/NNS ]
+./. 
+
+[ Metallographic/JJ results/NNS ]
+and/CC 
+[ data/NNS ]
+on/IN 
+[ the/DT nonmetallic/JJ element/NN transfer/NN ]
+in/IN 
+[ lithium-exposed/VBN specimens/NNS ]
+are/VBP also/RB presented/VBN ./. 
+
+[ The/DT influence/NN ]
+of/IN 
+[ alloy/NN composition/NN ]
+and/CC 
+[ exposure/NN conditions/NNS ]
+on/IN 
+[ the/DT corrosion/NN behavior/NN ]
+of/IN 
+[ vanadium/NN alloys/NNS ]
+is/VBZ discussed/VBN ./. 
+
+[ 6/CD refs./NNS ]
+,/, 
+[ 9/CD figs./NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ Ceramic/JJ materials/NNS ]
+are/VBP under/IN 
+[ investigation/NN ]
+as/IN 
+[ potential/JJ breeder/NN material/NN ]
+in/IN 
+[ fusion/NN reactors/NNS ]
+./. 
+
+[ This/DT paper/NN ]
+will/MD review/VB 
+[ candidate/NN materials/NNS ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ fabrication/NN routes/NNS ]
+and/CC 
+[ characterization/NN ]
+,/, 
+[ properties/NNS ]
+in/IN 
+[ as-fabricated/JJ ]
+and/CC irradiated/VBN 
+[ condition/NN ]
+,/, and/CC 
+[ experimental/JJ results/NNS ]
+from/IN 
+[ laboratory/NN ]
+and/CC 
+[ inpile/JJ investigations/NNS ]
+on/IN 
+[ tritium/NN transport/NN ]
+and/CC 
+[ release/NN ]
+./. 
+
+Also/RB discussed/VBN are/VBP 
+[ the/DT resources/NNS ]
+of/IN 
+[ beryllium/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ being/VBG considered/VBN as/IN 
+[ a/DT neutron/NN multiplier/NN ]
+./. 
+
+[ The/DT comparison/NN ]
+of/IN 
+[ ceramic/JJ properties/NNS ]
+
+[ that/WP ]
+is/VBZ attempted/VBN here/RB 
+[ aims/NNS ]
+at/IN 
+[ the/DT identification/NN ]
+of/IN 
+[ the/DT most-promising/JJS material/NN ]
+for/IN 
+[ use/NN ]
+in/IN 
+[ a/DT tritium/NN breeding/NN blanket/NN ]
+./. 
+
+[ 82/CD refs./NNS ]
+,/, 
+[ 12/CD figs./NNS ]
+,/, 
+[ 5/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ The/DT production/NN ]
+and/CC 
+[ distribution/NN ]
+of/IN 
+[ Californium-252/NN ]
+in/IN 
+[ USA/NNP ]
+has/VBZ recently/RB been/VBN consolidated/VBN at/IN 
+[ ORNL/NNP ]
+./. 
+
+[ This/DT document/NN ]
+consists/VBZ of/IN 
+[ viewgraphs/NNS ]
+and/CC 
+[ comments/NNS ]
+./. 
+
+(/( 
+[ DLC/NNP ]
+)/) 
+======================================
+
+[ The/DT oxidation/NN ]
+of/IN 
+[ Mo/NN ]
+(/( 
+[ 100/CD ]
+)/) and/CC 
+[ Ba-covered/JJ Mo/NN ]
+(/( 
+[ 100/CD ]
+)/) by/IN 
+[ O/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) have/VBP been/VBN examined/VBN at/IN moderately/RB 
+[ high/JJ temperature/NN ]
+(/( 
+[ 700/CD ]
+to/TO 
+[ 1400/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ K/NN ]
+)/) 
+[ using/VBG x-ray/NN photoelectron/NN spectroscopy/NN ]
+./. 
+
+[ Results/NNS ]
+indicate/VBP that/IN 
+[ the/DT Ba/NN ]
+or/CC 
+[ BaO/NN overlayer/NN retards/VBZ ]
+but/CC does/VBZ not/RB prevent/VB 
+[ oxidation/NN ]
+of/IN 
+[ the/DT ]
+underlying/VBG 
+[ Mo/NN surface/NN ]
+./. 
+
+[ The/DT high/JJ temperature/NN surface/NN chemistry/NN ]
+of/IN 
+[ the/DT O\/Ba\/Mo/NN surface/NN ]
+is/VBZ described/VBN ./. 
+
+[ 11/CD refs./NNS ]
+,/, 
+[ 3/CD figs/NNS ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+covers/VBZ 
+[ Industrial/NNP Hygiene/NNP involvement/NN ]
+in/IN 
+[ the/DT Site/NNP Characterization/NNP Program/NNP ]
+,/, focusing/VBG on/IN 
+[ the/DT field/NN oversight/NN responsibilities/NNS ]
+./. 
+
+[ It/PRP ]
+discusses/VBZ 
+[ the/DT different/JJ types/NNS ]
+and/CC 
+[ levels/NNS ]
+of/IN 
+[ protective/JJ equipment/NN ]
+,/, gives/VBZ 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT type/NN ]
+of/IN 
+[ situation/NN ]
+
+[ that/WP ]
+can/MD arise/VB from/IN 
+[ field/NN characterization/NN efforts/NNS ]
+,/, and/CC gives/VBZ 
+[ a/DT brief/JJ summary/NN ]
+of/IN 
+[ health/NN protection/NN program/NN elements/NNS ]
+./. 
+
+[ 3/CD figs./NNS ]
+,/, 
+[ 3/CD tabs/NNS ]
+./. 
+
+======================================
+
+Since/IN 
+[ the/DT publication/NN ]
+of/IN 
+[ Mantel/NNP ]
+and/CC 
+[ Haenszel/NNP 's/POS pioneering/VBG paper/NN ]
+in/IN 
+[ 1959/CD ]
+,/, has/VBZ seen/VBN 
+[ a/DT veritable/JJ explosion/NN ]
+of/IN 
+[ statistical/JJ methodology/NN ]
+in/IN 
+[ chronic/JJ disease/NN epidemiology/NN ]
+./. 
+
+[ The/DT central/NN methodologic/JJ issues/NNS ]
+revolve/VBP around/IN 
+[ environmental/JJ ]
+and/CC 
+[ genetic/JJ risk/NN assessment/NN ]
+,/, and/CC 
+[ risk/NN extrapolation/NN ]
+./. 
+
+[ The/DT tenth/JJ Research/NNP Application/NNP Conference/NNP ]
+held/VBN under/IN 
+[ the/DT auspices/NNS ]
+of/IN 
+[ SIMS/NNP ]
+brought/VBD together/RB 
+[ experts/NNS ]
+from/IN around/IN 
+[ the/DT world/NN ]
+to/TO discuss/VB 
+[ the/DT theory/NN ]
+and/CC 
+[ applications/NNS ]
+of/IN 
+[ statistical/JJ methods/NNS ]
+in/IN 
+[ chronic/JJ disease/NN epidemiology/NN ]
+./. 
+
+[ This/DT volume/NN ]
+represents/VBZ 
+[ the/DT proceedings/NNS ]
+of/IN 
+[ that/DT conference/NN ]
+./. 
+
+[ Relative/JJ risk/NN regression/NN models/NNS ]
+provide/VBP 
+[ flexible/JJ ]
+and/CC 
+[ powerful/JJ tools/NNS ]
+for/IN 
+[ the/DT analysis/NN ]
+of/IN 
+[ epidemiologic/JJ data/NNS ]
+./. 
+
+[ These/DT models/NNS ]
+have/VBP been/VBN 
+[ the/DT objects/NNS ]
+of/IN 
+[ intense/JJ study/NN ]
+in/IN 
+[ the/DT past/JJ several/JJ years/NNS ]
+,/, and/CC 
+[ it/PRP ]
+seems/VBZ reasonable/JJ to/TO predict/VB 
+[ that/DT relative/JJ risk/NN regression/NN methods/NNS ]
+will/MD become/VB 
+[ a/DT ]
+,/, or/CC perhaps/RB ,/, 
+[ the/DT ]
+,/, 
+[ central/JJ analytical/JJ tool/NN ]
+in/IN 
+[ chronic/JJ disease/NN epidemiology/NN ]
+./. 
+
+Thus/RB ,/, 
+[ a/DT major/JJ emphasis/NN ]
+of/IN 
+[ the/DT conference/NN ]
+was/VBD on/IN 
+[ relative/JJ risk/NN regression/NN ]
+,/, and/CC 
+[ various/JJ papers/NNS ]
+in/IN 
+[ this/DT volume/NN deal/VBP ]
+with/IN 
+[ time-dependent/JJ covariates/NNS ]
+,/, 
+[ new/JJ study/NN designs/NNS ]
+,/, 
+[ multivariate/JJ failure/NN time/NN data/NN|NNS ]
+,/, 
+[ methods/NNS ]
+of/IN 
+[ model/NN criticism/NN ]
+,/, 
+[ parameter/NN transformations/NNS ]
+for/IN 
+[ optimal/JJ inference/NN ]
+,/, and/CC 
+[ issues/NNS ]
+in/IN matching/JJ ,/, 
+[ covariate/NN adjustment/NN ]
+,/, and/CC 
+[ incomplete/JJ ]
+and/CC 
+[ missing/VBG covariate/NN information/NN ]
+./. 
+
+======================================
+
+[ This/DT paper/NN ]
+documents/VBZ and/CC codifies/VBZ 
+[ a/DT data/NN base/NN ]
+
+[ that/WP ]
+consists/VBZ of/IN 
+[ extensive/JJ laser-based/JJ measurements/NNS ]
+of/IN 
+[ velocity/NN ]
+and/CC 
+[ density/NN ]
+in/IN 
+[ a/DT turbulent/JJ nonpremixed/JJ flame/NN ]
+of/IN 
+[ hydrogen/NN ]
+in/IN 
+[ air/NN ]
+./. 
+
+[ These/DT data/NNS ]
+were/VBD obtained/VBN in/IN 
+[ the/DT Turbulent/NNP Combustion/NNP Tunnel/NNP Facility/NNP ]
+located/VBN at/IN 
+[ the/DT Combustion/NNP Research/NNP Facility/NNP ]
+of/IN 
+[ Sandia/NNP National/NNP Laboratories/NNP ]
+./. 
+
+In/IN 
+[ these/DT flames/NNS ]
+,/, 
+[ the/DT chemical/NN reaction/NN rates/NNS ]
+for/IN 
+[ the/DT major/JJ species/NNS ]
+are/VBP greater/JJR than/IN 
+[ the/DT mixing/NN rates/NNS ]
+and/CC ,/, therefore/RB ,/, 
+[ the/DT data/NN|NNS ]
+reported/VBN here/RB can/MD be/VB used/VBN for/IN 
+[ improvement/NN ]
+of/IN 
+[ models/NNS ]
+of/IN 
+[ turbulent/JJ mixing/NN ]
+with/IN 
+[ large/JJ heat/NN release/NN ]
+without/IN 
+[ the/DT additional/JJ complication/NN ]
+of/IN 
+[ finite/JJ rate/NN chemical/NN kinetics/NNS ]
+./. 
+
+As/IN 
+[ an/DT example/NN ]
+of/IN 
+[ model/NN improvement/NN ]
+,/, 
+[ comparisons/NNS ]
+of/IN 
+[ the/DT data/NN base/NN ]
+with/IN 
+[ predictions/NNS ]
+of/IN 
+[ a/DT numerical/JJ model/NN ]
+of/IN 
+[ turbulent/JJ reacting/VBG flow/NN ]
+are/VBP made/VBN ./. 
+
+======================================
+
+In/IN 
+[ this/DT paper/NN ]
+
+[ we/PRP ]
+describe/VBP 
+[ our/PRP$ studies/NNS ]
+of/IN 
+[ ceramic/JJ samples/NNS ]
+of/IN 
+[ La/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) 
+[ CuO\/sub/NN 4-y/NN \//NN ]
+loaded/VBN with/IN 
+[ oxygen/NN ]
+by/IN 
+[ high/JJ pressure/NN ]
+./. 
+
+[ This/DT technique/NN ]
+results/VBZ in/IN 
+[ substantial/JJ incorporation/NN ]
+of/IN 
+[ O/NN ]
+{/( sub/IN 
+[ 2/CD ]
+}/) in/IN 
+[ the/DT material/NN ]
+(/( of/IN 
+[ the/DT order/NN ]
+of/IN 
+[ 0.3/CD ]
+to/TO 
+[ 0.4/CD %/NN ]
+by/IN 
+[ weight/NN ]
+)/) and/CC in/IN 
+[ gross/JJ changes/NNS ]
+in/IN 
+[ the/DT bulk/JJ resistivity/NN ]
+and/CC 
+[ magnetization/NN ]
+as/RB well/RB as/IN 
+[ discernible/JJ changes/NNS ]
+in/IN 
+[ the/DT lattice/NN parameters/NNS ]
+of/IN 
+[ the/DT material/NN ]
+./. 
+
+[ 7/CD refs./NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+./. 
+
+======================================
+
+[ Metallic/JJ superlattices/NNS ]
+exhibit/VBP 
+[ a/DT correlation/NN ]
+between/IN 
+[ the/DT epitaxial/JJ growth/NN temperature/NN ]
+and/CC 
+[ temperatures/NNS ]
+extracted/VBN from/IN 
+[ the/DT equilibrium/NN thermodynamic/JJ phase/NN diagram/NN ]
+./. 
+
+[ This/DT correlation/NN ]
+together/RB with/IN 
+[ molecular/JJ dynamics/NNS simulation/NN ]
+of/IN 
+[ epitaxial/JJ growth/NN ]
+indicates/VBZ that/IN 
+[ thermodynamics/NNS ]
+plays/VBZ 
+[ an/DT important/JJ role/NN ]
+in/IN 
+[ the/DT growth/NN ]
+of/IN 
+[ epitaxial/JJ films/NNS ]
+,/, particularly/RB in/IN limiting/VBG 
+[ the/DT sharpness/NN ]
+of/IN 
+[ the/DT interfaces/NNS ]
+./. 
+
+======================================
+
+[ The/DT isothermal/JJ ]
+drying/NN of/IN 
+[ an/DT ]
+initially/RB saturated/VBN welded/VBN 
+[ tuffaceous/JJ rock/NN ]
+was/VBD studied/VBN experimentally/RB ./. 
+
+[ Gamma-beam/JJ densitometry/NN ]
+was/VBD used/VBN to/TO measure/VB 
+[ the/DT material/NN 's/POS effective/NN porosity/NN distribution/NN ]
+prior/RB to/TO 
+[ the/DT drying/NN experiment/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD then/RB used/VBN to/TO measure/VB 
+[ liquid/JJ saturation/NN distributions/NNS ]
+during/IN 
+[ a/DT 1400/CD hour/NN drying/NN period/NN ]
+./. 
+
+[ The/DT core/NN ]
+selected/VBN for/IN 
+[ study/NN ]
+was/VBD taken/VBN from/IN 
+[ the/DT Busted/NNP Butte/NNP ]
+outcrop/NN at/IN 
+[ the/DT Nevada/NNP Test/NNP Site/NNP ]
+,/, 
+[ part/NN ]
+of/IN 
+[ the/DT Topopah/NNP Spring/NNP Member/NNP ]
+of/IN 
+[ Paintbrush/NNP tuff/NN ]
+./. 
+
+[ This/DT specimen/NN ]
+contained/VBD 
+[ several/JJ microfractures/NNS ]
+transversely/RB oriented/VBN to/TO 
+[ the/DT direction/NN ]
+of/IN 
+[ the/DT water/NN ]
+or/CC 
+[ vapor/NN migration/NN ]
+./. 
+
+[ These/DT fractures/NNS ]
+were/VBD found/VBN to/TO be/VB 
+[ regions/NNS ]
+of/IN 
+[ rapid/JJ dryout/NN ]
+or/CC 
+[ low/JJ saturation/NN ]
+even/RB though/IN 
+[ they/PRP ]
+were/VBD displaced/VBN from/IN 
+[ the/DT surface/NN ]
+over/IN 
+[ which/WDT ]
+
+[ dry/JJ nitrogen/NN ]
+was/VBD flowing/VBG ./. 
+
+[ An/DT imbibition/NN experiment/NN ]
+was/VBD performed/VBN earlier/RB on/IN 
+[ the/DT same/JJ core/NN ]
+./. 
+
+In/IN 
+[ the/DT imbibition/NN ]
+experiment/NN 
+[ the/DT presence/NN ]
+of/IN most/JJS of/IN 
+[ these/DT microfractures/NNS ]
+was/VBD detected/VBN by/IN 
+[ discontinuities/NNS ]
+in/IN 
+[ the/DT measured/VBN saturation/NN curves/NNS ]
+,/, 
+[ which/WDT ]
+indicated/VBD 
+[ a/DT delay/NN ]
+in/IN 
+[ liquid/JJ transport/NN ]
+past/IN 
+[ the/DT microfractures/NNS ]
+./. 
+
+[ The/DT mechanism/NN ]
+for/IN 
+[ this/DT inside/RB ] 
+out/RB 
+[ drying/NN ]
+is/VBZ believed/VBN to/TO be/VB 
+[ capillary/NN action/NN ]
+
+[ that/WP ]
+removes/VBZ 
+[ water/NN ]
+from/IN 
+[ the/DT larger-pore/JJR fracture/NN zone/NN ]
+./. 
+
+[ Vapor/NN pressure/NN ]
+lowering/VBG in/IN 
+[ the/DT fine/JJ pore/NN region/NN ]
+,/, 
+[ which/WDT ]
+would/MD result/VB in/IN 
+[ transport/NN ]
+by/IN 
+[ evaporation/NN ]
+,/, 
+[ diffusion/NN ]
+and/CC 
+[ condensation/NN ]
+,/, is/VBZ thought/VBN not/RB to/TO be/VB important/JJ at/IN 
+[ room/NN temperatures/NNS ]
+./. 
+
+Modeling/NN of/IN 
+[ this/DT dryout/NN experiment/NN ]
+reproduced/VBN 
+[ some/DT ]
+of/IN 
+[ the/DT overall/JJ features/NNS ]
+of/IN 
+[ the/DT experiment/NN ]
+but/CC underpredicted/VBD 
+[ the/DT saturation/NN ]
+near/IN 
+[ the/DT drying/NN surfaces/NNS ]
+./. 
+
+[ 8/CD refs./NNS ]
+,/, 
+[ 11/CD figs/NNS ]
+./. 
+
+======================================
+
+[ This/DT report/NN ]
+is/VBZ intended/VBN to/TO provide/VB 
+[ a/DT summary/NN ]
+of/IN 
+[ the/DT cost/NN ]
+and/CC 
+[ schedule/NN performance/NN ]
+for/IN 
+[ the/DT civilian/JJ radioactive/JJ waste/NN management/NN program/NN ]
+./. 
+
+[ Performance/NN data/NNS ]
+are/VBP presented/VBN for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT major/JJ program/NN elements/NNS ]
+./. 
+
+Also/RB included/VBN is/VBZ 
+[ the/DT status/NN ]
+of/IN 
+[ the/DT Nuclear/NNP Waste/NNP Fund/NNP revenues/NNS ]
+and/CC 
+[ disbursements/NNS ]
+./. 
+
+[ 22/CD figs/NNS ]
+./. 
+
+======================================
+
+[ New/JJ data/NNS ]
+are/VBP presented/VBN for/IN 
+[ the/DT level/NN structures/NNS ]
+of/IN {/( 
+[ sup/NN 143/CD ]
+}/) 
+[ Ba/NN ]
+,/, {/( sup/NN  
+[ 147/CD ]
+}/) 
+[ Ce/NN ]
+,/, {/( sup/NN 
+[ 147/CD ]
+}/) 
+[ Pr/NN ]
+,/, {/( sup/NN 
+[ 143/CD ]
+}/) 
+[ Cs/NN ]
+,/, {/( sup/NN 
+[ 132/CD ]
+}/) 
+[ Sb/NN ]
+,/, {/( sup/NN 
+[ 130/CD ]
+}/) 
+[ Sb/NN ]
+,/, {/( sup/NN 
+[ 129/CD ]
+}/) 
+[ Sb/NN ]
+,/, {/( sup/NN 
+[ 129/CD ]
+}/) 
+[ Te/NN ]
+,/, and/CC {/( 
+[ sup/NN 132/CD ]
+}/) 
+[ Te/NN ]
+./. 
+
+[ New/JJ conversion/NN electron/NN ]
+and/CC 
+[ gamma-ray/NN coincidence/NN measurements/NNS ]
+are/VBP reported/VBN for/IN 
+[ the/DT even-even/NN ]
+{/( 
+[ sup/NN 118/CD ]
+}/) 
+[ Xe/NN ]
+,/, {/( sup/NN 
+[ 120/CD ]
+}/) 
+[ Xe/NN ]
+,/, {/( sup/NN 
+[ 122/CD ]
+}/) 
+[ Xe/NN ]
+,/, {/( sup/NN 
+[ 124/CD ]
+}/) 
+[ Xe/NN nuclides/NNS ]
+
+[ which/WDT ]
+include/VBP 
+[ the/DT identification/NN ]
+of/IN 
+[ a/DT number/NN ]
+of/IN 
+[ new/JJ E0/NN transitions/NNS ]
+./. 
+
+[ New/JJ values/NNS ]
+for/IN 
+[ the/DT magnetic/JJ moments/NNS ]
+in/IN {/( sup/NN 
+[ 77/CD ]
+}/) 
+[ Br/NN ]
+,/, {/( sup/NN 
+[ 75/CD ]
+}/) 
+[ Br/NN ]
+,/, and/CC {/( 
+[ sup/NN 74/CD ]
+}/) 
+[ Br/NN ]
+are/VBP presented/VBN ./. 
+
+[ The/DT results/NNS ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ these/DT nuclides/NNS ]
+are/VBP discussed/VBN ./. 
+
+======================================
+
+After/IN summarizing/VBG 
+[ the/DT development/NN ]
+of/IN 
+[ a/DT model/NN ]
+
+[ that/WP ]
+describes/VBZ 
+[ the/DT induction/NN heating/NN process/NN ]
+in/IN 
+[ axisymmetric/JJ geometries/NNS ]
+and/CC 
+[ the/DT implementation/NN ]
+of/IN 
+[ the/DT model/NN ]
+in/IN 
+[ the/DT FIDAP/NNP code/NN ]
+,/, 
+[ it/PRP ]
+is/VBZ applied/VBN to/TO 
+[ a/DT particular/JJ process/NN ]
+
+[ that/WP ]
+is/VBZ being/VBG used/VBN at/IN 
+[ the/DT Lawrence/NNP Livermore/NNP National/NNP Laboratory/NNP ]
+in/IN 
+[ conjunction/NN ]
+with/IN 
+[ advanced/VBN crystal/NN growth/NN technology/NN ]
+for/IN 
+[ the/DT laser/NN program/NN ]
+./. 
+
+[ 11/CD refs./NNS ]
+,/, 
+[ 43/CD figs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ The/DT content/NN ]
+of/IN 
+[ this/DT paper/NN ]
+is/VBZ divided/VBN into/IN 
+[ two/CD parts/NNS ]
+:/: (/( 
+[ 1/LS ]
+)/) 
+[ achievements/NNS ]
+of/IN 
+[ the/DT last/JJ two/CD years/NNS ]
+in/IN studying/VBG 
+[ molecular/JJ ion/NN structure/NN ]
+with/IN 
+[ the/DT aid/NN ]
+of/IN 
+[ the/DT ]
+newly/RB developed/VBN 
+[ Coulomb-Explosion/NNP ]
+(/( 
+[ CE/NNP ]
+)/) 
+[ method/NN ]
+,/, and/CC (/( 
+[ 2/LS ]
+)/) 
+[ the/DT understanding/NN ]
+of/IN 
+[ the/DT modern/NN CE/NNP data/NN ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ an/DT invariant/JJ density/NN ]
+of/IN 
+[ nuclear/JJ coordinates/NNS ]
+of/IN 
+[ the/DT studied/VBN molecule/NN ]
+./. 
+
+======================================
+
+[ Native/JJ vegetation/NN ]
+associated/VBN with/IN 
+[ commercial/JJ low-level/JJ waste/NN disposal/NN sites/NNS ]
+has/VBZ 
+[ the/DT potential/NN ]
+for/IN modifying/VBG 
+[ the/DT soil/NN chemical/NN environment/NN ]
+over/IN 
+[ the/DT long/JJ term/NN ]
+and/CC ,/, consequently/RB ,/, 
+[ the/DT mobility/NN ]
+of/IN 
+[ radionuclides/NNS ]
+./. 
+
+[ These/DT effects/NNS ]
+were/VBD assessed/VBN for/IN 
+[ coniferous/JJ ]
+and/CC 
+[ hardwood/JJ tree/NN species/NN ]
+by/IN using/VBG 
+[ plants/NNS ]
+grown/VBN in/IN 
+[ lysimeter/NN systems/NNS ]
+and/CC examining/VBG 
+[ their/PRP$ influence/NN ]
+on/IN 
+[ soil/NN solution/NN chemistry/NN ]
+using/VBG advanced/JJ 
+[ analytical/JJ ]
+and/CC 
+[ geochemical/JJ modeling/NN techniques/NNS ]
+./. 
+
+[ The/DT study/NN ]
+demonstrated/VBD 
+[ formation/NN ]
+of/IN highly/RB 
+[ mobile/JJ anionic/JJ radionuclide/NN complexes/NNS ]
+with/IN 
+[ amino/JJ acids/NNS ]
+,/, 
+[ peptides/NNS ]
+,/, and/CC 
+[ organic/JJ acids/NNS ]
+originating/VBG from/IN 
+[ plant/NN leaf/NN litter/NN ]
+and/CC 
+[ roots/NNS ]
+./. 
+
+[ The/DT production/NN ]
+of/IN complexing/NN 
+[ agents/NNS ]
+was/VBD related/VBN to/TO 
+[ season/NN ]
+and/CC 
+[ tree/NN species/NNS ]
+,/, suggesting/VBG that/IN 
+[ vegetation/NN management/NN ]
+and/CC 
+[ exclusion/NN ]
+may/MD be/VB appropriate/JJ after/IN 
+[ a/DT site/NN ]
+is/VBZ closed/VBN ./. 
+
+[ This/DT research/NN ]
+provides/VBZ 
+[ a/DT basis/NN ]
+for/IN focusing/VBG on/IN 
+[ key/JJ complexing/NN agents/NNS ]
+in/IN 
+[ future/JJ studies/NNS ]
+to/TO measure/VB 
+[ critical/JJ affinity/NN constants/NNS ]
+and/CC to/TO incorporate/VB 
+[ this/DT information/NN ]
+into/IN 
+[ mathematical/JJ models/NNS ]
+describing/VBG 
+[ biological/JJ effects/NNS ]
+on/IN 
+[ radionuclide/NN mobility/NN ]
+./. 
+
+[ 26/CD refs./NNS ]
+,/, 
+[ 5/CD figs./NNS ]
+,/, 
+[ 23/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ Mixtures/NNS ]
+of/IN 
+[ crushed/VBN rock/NN ]
+and/CC 
+[ bentonite/NN ]
+are/VBP considered/VBN for/IN backfilling/VBG and/CC sealing/VBG 
+[ high-level/JJ nuclear/JJ waste/NN repositories/NNS ]
+./. 
+
+[ Many/JJ variables/NNS ]
+affect/VBP 
+[ the/DT hydraulic/JJ conductivity/NN ]
+of/IN 
+[ such/DT mixtures/NNS ]
+,/, including/VBG 
+[ the/DT size/NN ]
+and/CC 
+[ shape/NN ]
+of/IN 
+[ the/DT rock/NN particles/NNS ]
+,/, 
+[ method/NN ]
+of/IN 
+[ mixing/NN ]
+and/CC 
+[ emplacement/NN ]
+,/, 
+[ water/NN content/NN ]
+and/CC 
+[ density/NN ]
+of/IN 
+[ the/DT clay/NN ]
+,/, and/CC 
+[ the/DT weight/NN ratio/NN ]
+of/IN 
+[ rock/NN ]
+to/TO 
+[ clay/NN ]
+./. 
+
+[ Mixtures/NNS ]
+of/IN 
+[ crushed/VBN basalt/NN ]
+and/CC 
+[ bentonite/NN ]
+have/VB been/VBN tested/VBN in/IN 
+[ two/CD types/NNS ]
+of/IN 
+[ permeameters/NNS ]
+,/, 
+[ 20/CD cm/NNS diameter/NN stainless/JJ steel/NN permeameters/NNS ]
+and/CC 
+[ 10/CD cm/NNS diameter/NN PVC/NNP permeameters/NNS ]
+./. 
+
+[ Plugs/NNS ]
+were/VBD installed/VBN as/IN 
+[ a/DT single/JJ lift/NN ]
+or/CC in/IN 
+[ many/JJ lifts/NNS ]
+;/: 
+[ the/DT water/NN content/NN ]
+of/IN 
+[ the/DT clay/NN ]
+ranged/VBD from/IN 
+[ air-dry/JJ ]
+to/TO as/RB high/JJ as/IN 
+[ 200/CD %/NN ]
+./. 
+
+[ Preliminary/JJ results/NNS ]
+show/VBP that/IN 
+[ a/DT mixture/NN ]
+of/IN 
+[ 75/CD %/NN ]
+crushed/VBN 
+[ basalt/NN ]
+and/CC 
+[ 25/CD %/NN bentonite/NN ]
+has/VBZ 
+[ a/DT hydraulic/JJ conductivity/NN ]
+between/IN 
+[ 1/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN -9/CD ]
+}/) 
+[ cm\/s/NNS ]
+and/CC 
+[ 2.5/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN -8/CD ]
+}/) 
+[ cm\/s/NNS ]
+./. 
+
+In/IN 
+[ some/DT cases/NNS ]
+,/, 
+[ preferential/JJ flow/NN paths/NNS ]
+have/VBP developed/VBN (/( possibly/RB as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT montmorillonite/NN ]
+washing/VBG out/RB of/IN 
+[ the/DT crushed/VBN rock/NN matrix/NN ]
+)/) ,/, giving/VBG 
+[ hydraulic/JJ conductivities/NNS ]
+as/RB high/JJ as/IN 
+[ 1/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN -4/CD ]
+}/) 
+[ cm\/s/NNS ]
+./. 
+
+[ Other/JJ ratios/NNS ]
+of/IN 
+[ rock/NN ]
+to/TO 
+[ clay/NN ]
+have/VBP 
+[ similar/JJ bimodal/JJ results/NNS ]
+./. 
+
+[ The/DT probability/NN ]
+of/IN 
+[ failure/NN ]
+is/VBZ decreased/VBN by/IN including/VBG 
+[ a/DT higher/JJR percentage/NN ]
+of/IN 
+[ clay/NN ]
+in/IN 
+[ the/DT plug/NN ]
+,/, crushing/VBG 
+[ the/DT rock/NN finer/NN ]
+,/, and/CC evenly/RB mixing/VBG 
+[ the/DT crushed/VBN rock/NN ]
+and/CC 
+[ clay/NN ]
+./. 
+
+[ 136/CD refs./NNS ]
+,/, 
+[ 50/CD figs./NNS ]
+,/, 
+[ 7/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ The/DT scope/NN ]
+of/IN 
+[ this/DT volume/NN 28/CD ]
+,/, 
+[ No./NN 3/CD ]
+includes/VBZ 
+[ the/DT analysis/NN ]
+and/CC 
+[ control/NN ]
+of/IN 
+[ hazards/NNS ]
+associated/VBN with/IN 
+[ nuclear/JJ energy/NN ]
+,/, 
+[ operations/NNS ]
+involving/VBG 
+[ fissionable/JJ materials/NNS ]
+,/, and/CC 
+[ the/DT products/NNS ]
+of/IN 
+[ nuclear/JJ fission/NN ]
+and/CC 
+[ their/PRP$ effects/NNS ]
+on/IN 
+[ the/DT environment/NN ]
+./. 
+
+[ Primary/JJ emphasis/NN ]
+is/VBZ on/IN 
+[ safety/NN ]
+in/IN 
+[ reactor/NN design/NN ]
+,/, 
+[ construction/NN ]
+,/, and/CC 
+[ operation/NN ]
+;/: however/RB ,/, 
+[ the/DT safety/NN aspects/NNS ]
+of/IN 
+[ the/DT entire/NN fuel/NN cycle/NN ]
+,/, including/VBG 
+[ fuel/NN fabrication/NN ]
+,/, 
+[ spent-fuel/JJ processing/NN ]
+,/, 
+[ nuclear/JJ waste/NN disposal/NN ]
+,/, handling/VBG of/IN 
+[ radioisotopes/NNS ]
+,/, and/CC 
+[ environmental/JJ effects/NNS ]
+of/IN 
+[ these/DT operations/NNS ]
+,/, are/VBP also/RB treated/VBN ./. 
+
+[ Fourteen/CD articles/NNS ]
+have/VBP been/VBN cataloged/VBN separately/RB ./. 
+
+======================================
+
+[ This/DT article/NN ]
+summarizes/VBZ 
+[ the/DT development/NN ]
+,/, 
+[ design/NN ]
+,/, and/CC 
+[ operation/NN ]
+of/IN 
+[ the/DT Soviet/JJ accident/NN localization/NN system/NN ]
+(/( 
+[ ALS/NNP ]
+)/) and/CC assesses/VBZ 
+[ the/DT ALS/NNP design/NN objectives/NNS ]
+and/CC 
+[ capabilities/NNS ]
+as/IN applied/VBN to/TO 
+[ the/DT Chernobyl/NNP Atomic/NNP Energy/NNP Station/NNP Unit/NNP 4/CD ]
+(/( 
+[ Chernobyl-4/NNP ]
+)/) 
+[ RBMK-1000/NNP reactor/NN ]
+./. 
+
+Because/IN 
+[ the/DT purpose/NN ]
+of/IN 
+[ the/DT ALS/NNP ]
+is/VBZ to/TO provide/VB 
+[ a/DT barrier/NN ]
+against/IN 
+[ the/DT uncontrolled/JJ release/NN ]
+of/IN 
+[ radioactive/JJ material/NN ]
+to/TO 
+[ the/DT environment/NN ]
+during/IN 
+[ certain/JJ reactor-cooling-system/NN pipe/NN breaks/NNS ]
+,/, 
+[ the/DT ALS/NNP ]
+has/VBZ been/VBN described/VBN as/IN 
+[ the/DT Soviet/JJ RBMK-1000/NNP counterpart/NN ]
+of/IN 
+[ commercial/JJ ]
+
+[ US/NNP light-water-reactor/NN ]
+(/( 
+[ LWR/NNP ]
+)/) 
+[ containments/NNS ]
+./. 
+
+[ Assessment/NN ]
+of/IN 
+[ the/DT ALS/NNP capabilities/NNS ]
+from/IN 
+[ this/DT perspective/NN ]
+is/VBZ included/VBN through/IN 
+[ a/DT general/JJ description/NN ]
+of/IN 
+[ the/DT design/NN objectives/NNS ]
+and/CC 
+[ typical/JJ features/NNS ]
+of/IN 
+[ commercial/JJ ]
+
+[ US/NNP ]
+
+[ LWR/NNP containments/NNS ]
+./. 
+
+[ A/DT hypothetical/JJ RBMK-1000/NNP containment/NN incorporating/VBG typical/JJ design/NN features/NNS ]
+of/IN 
+[ commercial/JJ ]
+
+[ US/NNP ]
+
+[ LWR/NNP containments/NNS ]
+is/VBZ studied/VBN in/IN 
+[ a/DT scoping/VBG assessment/NN ]
+for/IN 
+[ performance/NN ]
+under/IN 
+[ conditions/NNS ]
+estimated/VBN to/TO be/VB similar/JJ to/TO 
+[ those/DT ]
+imposed/VBN by/IN 
+[ the/DT Apr./NNP 26/CD ]
+,/, 
+[ 1986/CD ]
+,/, 
+[ accident/NN ]
+at/IN 
+[ Chernobyl-4/NNP ]
+./. 
+
+[ 3/CD refs./NNS ]
+,/, 
+[ 7/CD figs/NNS ]
+./. 
+
+======================================
+
+During/IN 
+[ the/DT week/NN ]
+of/IN 
+[ Oct./NN 20-23/CD ]
+,/, 
+[ 1986/CD ]
+,/, 
+[ nuclear/JJ power-plant/JJ safety/NN representatives/NNS ]
+from/IN 
+[ the/DT Federal/NNP Republic/NNP ]
+of/IN 
+[ Germany/NNP ]
+(/( 
+[ FRG/NNP ]
+)/) ,/, 
+[ France/NNP ]
+,/, 
+[ Japan/NNP ]
+,/, and/CC 
+[ the/DT ]
+
+[ US/NNP ]
+assembled/VBD to/TO discuss/VB 
+[ subjects/NNS ]
+of/IN 
+[ mutual/JJ interest/NN ]
+./. 
+
+[ The/DT meeting/NN ]
+,/, 
+[ the/DT first/JJ ]
+of/IN 
+[ its/PRP$ kind/NN ]
+,/, was/VBD organized/VBN under/IN 
+[ the/DT leadership/NN ]
+and/CC 
+[ direction/NN ]
+of/IN 
+[ David/NNP A./NN Ward/NNP ]
+,/, 
+[ Chairman/NNP ]
+,/, 
+[ Advisory/NNP Committee/NNP ]
+on/IN 
+[ Reactor/NNP Safeguards/NNP ]
+,/, 
+[ US/NNP ]
+
+[ Nuclear/NNP Regulatory/NNP Commission/NNP ]
+(/( 
+[ NRC/NNP ]
+)/) ,/, and/CC held/VBD at/IN 
+[ the/DT Wingspread/NNP Conference/NNP Center/NNP ]
+of/IN 
+[ the/DT Johnson/NNP Foundation/NNP ]
+in/IN 
+[ Racine/NNP ]
+,/, 
+[ Wis/NNP ]
+./. 
+
+Approximately/RB 
+[ 40/CD representatives/NNS ]
+of/IN 
+[ the/DT several/JJ countries/NNS ]
+attended/VBD ./. 
+
+[ Discussions/NNS ]
+were/VBD candid/JJ and/CC provided/VBD 
+[ the/DT participants/NNS ]
+
+[ an/DT opportunity/NN ]
+to/TO share/VB 
+[ thoughts/NNS ]
+and/CC 
+[ information/NN ]
+on/IN 
+[ nuclear/JJ safety/NN concerns/NNS ]
+and/CC 
+[ solutions/NNS ]
+./. 
+
+======================================
+
+[ This/DT article/NN ]
+provides/VBZ 
+[ a/DT brief/JJ review/NN ]
+of/IN 
+[ the/DT Fourteenth/NNP Water/NNP Reactor/NNP Safety/NNP Information/NNP Meeting/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ an/DT ongoing/JJ series/NN ]
+of/IN 
+[ meetings/NNS ]
+sponsored/VBN by/IN 
+[ the/DT Nuclear/NNP Regulatory/NNP Commission/NNP ]
+(/( 
+[ NRC/NNP ]
+)/) ,/, 
+[ Office/NNP ]
+of/IN 
+[ Nuclear/NNP Regulatory/NNP Research/NNP ]
+,/, to/TO give/VB 
+[ the/DT nuclear/JJ safety/NN community/NN up-to-date/JJ information/NN ]
+on/IN 
+[ NRC-sponsored/JJ ]
+and/CC 
+[ other/JJ research/NN ]
+in/IN 
+[ the/DT nuclear/JJ safety/NN area/NN ]
+./. 
+
+[ 2/CD refs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ The/DT two/CD worst/JJS accidents/NNS ]
+in/IN 
+[ the/DT world/NN 's/POS nuclear/JJ industry/NN ]
+occurred/VBD in/IN 
+[ a/DT time/NN span/NN ]
+of/IN 
+[ seven/CD years/NNS ]
+,/, namely/RB ,/, 
+[ the/DT accidents/NNS ]
+at/IN 
+[ Three/CD Mile/NNP Island/NNP Nuclear/NNP Station/NNP Unit/NNP 2/CD ]
+(/( 
+[ TMI-2/NNP ]
+)/) in/IN 
+[ 1979/CD ]
+and/CC at/IN 
+[ Chernobyl/NNP ]
+in/IN 
+[ 1986/CD ]
+./. 
+
+Because/IN 
+[ probabilistic/JJ risk/NN assessments/NNS ]
+(/( 
+[ PRAs/NNP ]
+)/) have/VBP been/VBN shown/VBN to/TO be/VB 
+[ effective/NN ]
+in/IN identifying/VBG 
+[ weak/JJ points/NNS ]
+in/IN 
+[ plant/NN design/NN ]
+and/CC 
+[ operations/NNS ]
+,/, 
+[ they/PRP ]
+can/MD help/VB prevent/VB or/CC mitigate/VB 
+[ future/JJ reactor/NN accidents/NNS ]
+./. 
+
+For/IN 
+[ the/DT improvement/NN ]
+of/IN 
+[ their/PRP$ effectiveness/NN ]
+,/, 
+[ two/CD important/JJ technical/JJ issues/NNS ]
+need/VBP to/TO be/VB addressed/VBN :/: 
+[ the/DT capability/NN ]
+to/TO update/VB 
+[ PRAs/NNPS ]
+frequently/RB and/CC 
+[ the/DT proper/JJ design/NN objective/NN ]
+for/IN 
+[ measuring/VBG plant/NN safety/NN performance/NN ]
+./. 
+
+[ 1/CD fig/NN ]
+./. 
+
+======================================
+
+[ This/DT article/NN ]
+outlines/VBZ 
+[ the/DT development/NN ]
+of/IN 
+[ two/CD different/JJ tritium-monitoring/JJ strategies/NNS ]
+./. 
+
+[ Some/DT CANDU/NNP power/NN stations/NNS ]
+rely/VBP on/IN multiplexed/JJ ,/, centralized/JJ 
+[ tritium/NN monitors/NNS ]
+whereas/IN 
+[ the/DT new/JJ Darlington/NNP station/NN ]
+utilizes/VBZ 
+[ many/JJ simple/NN ]
+distributed/VBN 
+[ monitors/NNS ]
+./. 
+
+[ The/DT article/NN ]
+compares/VBZ 
+[ tritium-monitoring/JJ requirements/NNS ]
+at/IN 
+[ tritium-removal/JJ plants/NNS ]
+and/CC at/IN 
+[ fusion/NN facilities/NNS ]
+./. 
+
+[ A/DT major/JJ distinction/NN ]
+in/IN 
+[ contrast/NN ]
+with/IN 
+[ fission/NN reactors/NNS ]
+is/VBZ 
+[ the/DT possible/JJ need/NN ]
+for/IN 
+[ tritium/NN monitors/NNS ]
+
+[ that/WP ]
+can/MD differentiate/VB between/IN 
+[ tritiated/VBN water/NN vapor/NN ]
+and/CC 
+[ tritium/NN gas/NN ]
+./. 
+
+[ The/DT ]
+particularly/RB 
+[ severe/JJ monitoring/NN environment/NN ]
+around/IN 
+[ fusion/NN reactors/NNS ]
+resulting/VBG from/IN 
+[ air/NN activation/NN products/NNS ]
+,/, 
+[ intense/JJ neutron/NN fields/NNS ]
+,/, and/CC 
+[ electromagnetic/JJ fields/NNS ]
+must/MD also/RB be/VB considered/VBN ./. 
+
+[ Tritium/NN monitoring/NN ]
+around/IN 
+[ fission/NN reactors/NNS ]
+is/VBZ difficult/JJ because/IN 
+[ the/DT environment/NN ]
+may/MD contain/VB 
+[ other/JJ radioactive/JJ gases/NNS ]
+and/CC 
+[ radiation/NN fields/NNS ]
+./. 
+
+[ The/DT experience/NN ]
+gained/VBN may/MD be/VB very/RB valuable/JJ in/IN solving/VBG 
+[ the/DT even/RB ]
+
+[ more/RBR difficult/JJ tritium-monitoring/JJ problems/NNS ]
+of/IN 
+[ fusion/NN reactors/NNS ]
+./. 
+
+[ 27/CD refs/NNS ]
+./. 
+
+======================================
+
+[ Evaluation/NN ]
+,/, 
+[ testing/NN ]
+,/, and/CC 
+[ use/NN ]
+of/IN 
+[ fixed-position/JJ ]
+,/, remotely/RB operated/VBN 
+[ video-camera/NN equipment/NN ]
+and/CC 
+[ various/JJ teleoperators/NNS ]
+at/IN 
+[ Three/CD Mile/NNP Island/NNP Nuclear/NNP Station/NNP Unit/NNP 2/CD ]
+(/( 
+[ TMI-2/NNP ]
+)/) have/VBP demonstrated/VBN that/IN 
+[ significant/JJ potential/JJ advantages/NNS ]
+may/MD be/VB obtained/VBN by/IN installing/VBG remotely/RB operated/VBN 
+[ equipment/NN ]
+at/IN 
+[ other/JJ nuclear/JJ facilities/NNS ]
+./. 
+
+[ Teleoperators/NNS ]
+at/IN 
+[ TMI-2/NNP ]
+have/VBP permitted/VBN 
+[ successful/JJ operations/NNS ]
+in/IN 
+[ areas/NNS ]
+not/RB accessible/JJ to/TO 
+[ personnel/NNS ]
+./. 
+
+[ Insights/NNS ]
+gained/VBD from/IN 
+[ the/DT ]
+remotely/RB operated/VBN 
+[ camera/NN systems/NNS ]
+and/CC 
+[ teleoperators/NNS ]
+used/VBN and/CC evaluated/VBN at/IN 
+[ TMI-2/NNP ]
+are/VBP discussed/VBN from/IN 
+[ the/DT perspective/NN ]
+of/IN 
+[ actual/JJ applications/NNS ]
+and/CC 
+[ the/DT potential/JJ benefits/NNS ]
+from/IN 
+[ deployment/NN ]
+of/IN 
+[ remote/JJ devices/NNS ]
+at/IN 
+[ other/JJ nuclear/JJ facilities/NNS ]
+./. 
+
+[ Actual/JJ exposure/NN savings/NNS ]
+achieved/VBN are/VBP not/RB presented/VBN because/IN 
+[ these/DT applications/NNS ]
+and/CC 
+[ resultant/JJ exposure/NN savings/NNS ]
+are/VBP 
+[ specific/NN ]
+to/TO 
+[ TMI-2/NNP ]
+./. 
+
+[ 3/CD refs./NNS ]
+,/, 
+[ 4/CD figs/NNS ]
+./. 
+
+======================================
+
+[ Conference/NN ]
+was/VBD held/VBN 
+[ Aug./NNP 18-21/CD ]
+,/, 
+[ 1986/CD ]
+,/, in/IN 
+[ Seattle/NNP ]
+,/, 
+[ Washington/NNP ]
+./. 
+
+[ Major/JJ topics/NNS ]
+discussed/VBN during/IN 
+[ the/DT conference/NN ]
+were/VBD 
+[ accident/NN ]
+analyses/NNS ,/, including/VBG 
+[ fires/NNS ]
+and/CC 
+[ explosions/NNS ]
+;/: 
+[ iodine/NN retention/NN ]
+on/IN 
+[ activated/JJ carbon/NN ]
+,/, 
+[ zeolites/NNS ]
+,/, and/CC 
+[ other/JJ sorbent/JJ media/NNS ]
+;/: 
+[ particulate/JJ filtration/NN ]
+;/: 
+[ treatment/NN ]
+of/IN 
+[ off-gases/NNS ]
+from/IN 
+[ chemical-and/JJ fuel-reprocessing/JJ systems/NNS ]
+;/: 
+[ noble/JJ gas/NN retention/NN ]
+;/: 
+[ laboratory/NN ]
+and/CC 
+[ in-place/JJ testing/NN techniques/NNS ]
+;/: and/CC 
+[ the/DT development/NN ]
+of/IN 
+[ standards/NNS ]
+and/CC 
+[ regulations/NNS ]
+./. 
+
+[ The/DT conference/NN ]
+showed/VBD that/IN 
+[ recent/JJ air-cleaning/NN research/NN ]
+appears/VBZ to/TO be/VB directed/VBN primarily/RB toward/IN 
+[ the/DT analysis/NN ]
+and/CC 
+[ critique/NN ]
+of/IN existing/VBG 
+[ systems/NNS ]
+;/: 
+[ operational/JJ assessment/NN ]
+and/CC 
+[ the/DT potential/JJ impact/NN ]
+of/IN 
+[ new/JJ source/NN terms/NNS ]
+are/VBP in/IN 
+[ the/DT forefront/NN ]
+./. 
+
+[ European/JJ researchers/NNS ]
+continue/VBP to/TO stress/VB 
+[ air-cleaning/NN problems/NNS ]
+associated/VBN with/IN 
+[ spent-fuel/JJ ]
+reprocessing/NN ;/: 
+[ US/NNP concerns/NNS ]
+,/, however/RB ,/, are/VBP more/RBR in/IN 
+[ the/DT areas/NNS ]
+of/IN 
+[ fire/NN detection/NN ]
+,/, 
+[ prevention/NN ]
+,/, and/CC 
+[ elimination/NN ]
+and/CC in/IN 
+[ the/DT operation/NN ]
+of/IN 
+[ control-room/NN habitability/NN systems/NNS ]
+./. 
+
+[ 11/CD refs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ The/DT rates/NNS ]
+at/IN 
+[ which/WDT nuclides/NNS ]
+contained/VBN in/IN 
+[ high-level/JJ wastes/NNS ]
+are/VBP released/VBN into/IN 
+[ solution/NN ]
+may/MD be/VB controlled/VBN by/IN 
+[ chemical/JJ kinetics/NNS ]
+,/, 
+[ equilibrium/NN solubilities/NNS ]
+,/, or/CC 
+[ solid-state/JJ diffusion/NN ]
+./. 
+
+[ Recent/JJ research/NN ]
+has/VBZ focused/VBN on/IN 
+[ equilibrium/NN solubility/NN ]
+as/IN 
+[ a/DT ]
+relatively/RB 
+[ predictable/JJ factor/NN ]
+that/IN in/IN 
+[ many/JJ situations/NNS ]
+can/MD be/VB expected/VBN to/TO hold/VB 
+[ release/NN rates/NNS ]
+to/TO 
+[ low/JJ levels/NNS ]
+./. 
+
+[ Simple/JJ analytic/JJ solutions/NNS ]
+based/VBN on/IN 
+[ equilibrium/NN solubility/NN ]
+are/VBP available/JJ to/TO describe/VB 
+[ dissolution/NN ]
+in/IN 
+[ various/JJ physical/JJ situations/NNS ]
+./. 
+
+For/IN 
+[ more/RBR soluble/JJ elements/NNS ]
+,/, 
+[ chemical/NN kinetics/NNS ]
+may/MD need/VB to/TO be/VB invoked/VBN if/IN 
+[ low/JJ release/NN rates/NNS ]
+must/MD be/VB demonstrated/VBN ./. 
+
+[ 47/CD refs./NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+./. 
+
+======================================
+
+[ A/DT review/NN ]
+of/IN 
+[ the/DT performance/NN ]
+of/IN 
+[ steam/NN generator/NN tubes/NNS ]
+in/IN 
+[ water-cooled/JJ nuclear/JJ power/NN reactors/NNS ]
+showed/VBD that/IN 
+[ tubes/NNS ]
+were/VBD plugged/VBN at/IN 
+[ 47/CD ]
+(/( 
+[ 35.6/CD %/NN ]
+)/) of/IN 
+[ the/DT reactors/NNS ]
+in/IN 
+[ 1983/CD ]
+and/CC at/IN 
+[ 63/CD ]
+(/( 
+[ 42.6/CD %/NN ]
+)/) of/IN 
+[ the/DT reactors/NNS ]
+during/IN 
+[ 1984/CD ]
+./. 
+
+In/IN 
+[ 1983/CD ]
+and/CC 
+[ 1984/CD ]
+,/, 
+[ 3291/CD ]
+and/CC 
+[ 3335/CD tubes/NNS ]
+,/, respectively/RB ,/, were/VBD removed/VBN from/IN 
+[ service/NN ]
+-/: about/IN 
+[ the/DT same/JJ ]
+as/IN in/IN 
+[ 1982/CD ]
+./. 
+
+[ The/DT leading/VBG causes/NNS ]
+assigned/VBN to/TO 
+[ tube/NN failure/NN ]
+were/VBD 
+[ stress/NN corrosion/NN ]
+cracking/NN from/IN 
+[ the/DT primary/JJ side/NN ]
+and/CC 
+[ stress/NN corrosion/NN ]
+cracking/NN or/CC 
+[ intergranular/JJ attack/NN ]
+from/IN 
+[ the/DT secondary/JJ side/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ 5668/CD tubes/NNS ]
+were/VBD repaired/VBN for/IN 
+[ further/JJ service/NN ]
+by/IN 
+[ installation/NN ]
+of/IN 
+[ internal/JJ sleeves/NNS ]
+./. 
+
+Most/JJS of/IN 
+[ these/DT ]
+were/VBD believed/VBN to/TO have/VB deteriorated/VBN by/IN 
+[ one/CD ]
+of/IN 
+[ the/DT preceding/VBG mechanisms/NNS ]
+or/CC by/IN 
+[ pitting/NN ]
+./. 
+
+[ A/DT trend/NN ]
+continues/VBZ toward/IN 
+[ high-integrity/JJ condenser/NN tube/NN materials/NNS ]
+at/IN 
+[ sites/NNS ]
+cooled/VBN by/IN 
+[ brackish/JJ water/NN ]
+or/CC 
+[ seawater/NN ]
+./. 
+
+[ 31/CD refs./NNS ]
+,/, 
+[ 3/CD figs./NNS ]
+,/, 
+[ 12/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ This/DT section/NN ]
+presents/VBZ 
+[ a/DT regular/JJ report/NN ]
+of/IN 
+[ summary/NN statistics/NNS ]
+relating/VBG to/TO 
+[ recent/JJ reactor/NN shutdown/NN experience/NN ]
+./. 
+
+[ The/DT information/NN ]
+includes/VBZ 
+[ both/DT ]
+
+[ numbers/NNS ]
+of/IN 
+[ events/NNS ]
+and/CC 
+[ rates/NNS ]
+of/IN 
+[ occurrence/NN ]
+./. 
+
+[ It/PRP ]
+was/VBD compiled/VBN from/IN 
+[ data/NNS ]
+about/IN operating/VBG 
+[ events/NNS ]
+entered/VBN into/IN 
+[ the/DT SCSS/NNP data/NN system/NN ]
+by/IN 
+[ the/DT Nuclear/NNP Operations/NNP Analysis/NNP Center/NNP ]
+at/IN 
+[ the/DT Oak/NNP Ridge/NNP National/NNP Laboratory/NNP ]
+,/, covering/VBG 
+[ the/DT three-month/JJ period/NN ]
+of/IN 
+[ January/NNP ]
+,/, 
+[ February/NNP ]
+,/, and/CC 
+[ March/NNP 1987/CD ]
+./. 
+
+[ Cumulative/JJ information/NN ]
+,/, since/IN May/MD 
+[ 1/CD ]
+,/, 
+[ 1984/CD ]
+,/, is/VBZ also/RB shown/VBN ./. 
+
+[ Updates/NNS ]
+on/IN 
+[ shutdown/NN events/NNS ]
+included/VBN in/IN 
+[ earlier/JJR reports/NNS ]
+are/VBP excluded/VBN ./. 
+
+[ 3/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ This/DT ]
+update/NN ,/, 
+[ which/WDT ]
+appears/VBZ regularly/RB in/IN 
+[ each/DT issue/NN ]
+of/IN 
+[ Nuclear/NNP Safety/NNP ]
+,/, surveys/VBZ 
+[ the/DT operations/NNS ]
+of/IN 
+[ those/DT power/NN reactors/NNS ]
+in/IN 
+[ the/DT ]
+
+[ US/NNP ]
+
+[ which/WDT ]
+have/VBP been/VBN issued/VBN 
+[ operating/NN licenses/NNS ]
+./. 
+
+[ Table/NN 1/CD ]
+shows/VBZ 
+[ the/DT number/NN ]
+of/IN 
+[ such/DT reactors/NNS ]
+and/CC 
+[ their/PRP$ net/JJ capacities/NNS ]
+as/IN of/IN 
+[ March/NNP 31/CD ]
+,/, 
+[ 1987/CD ]
+,/, 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT three-month/JJ period/NN ]
+covered/VBN in/IN 
+[ this/DT report/NN ]
+./. 
+
+[ Table/NN 2/CD lists/VBZ ]
+
+[ the/DT unit/NN capacity/NN ]
+and/CC forced/VBN 
+[ outage/NN rate/NN ]
+for/IN 
+[ each/DT licensed/JJ reactor/NN ]
+for/IN 
+[ each/DT ]
+of/IN 
+[ the/DT three/CD months/NNS ]
+(/( 
+[ January/NNP ]
+,/, 
+[ February/NNP ]
+,/, and/CC 
+[ March/NNP 1987/CD ]
+)/) covered/VBN in/IN 
+[ this/DT report/NN ]
+and/CC 
+[ the/DT cumulative/JJ values/NNS ]
+of/IN 
+[ these/DT parameters/NNS ]
+since/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ commercial/JJ operation/NN ]
+./. 
+
+[ 24/CD refs./NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ General/NNP Administrative/NNP Activities/NNP ]
+''/'' summarizes/VBZ selected/VBN 
+[ current/JJ topics/NNS ]
+
+[ that/WP ]
+are/VBP related/VBN to/TO 
+[ nuclear/JJ safety/NN ]
+but/CC do/VB not/RB fit/VB elsewhere/RB in/IN 
+[ the/DT journal/NN ]
+./. 
+
+Included/VBN in/IN 
+[ this/DT report/NN ]
+are/VBP 
+[ items/NNS ]
+reported/VBN during/IN 
+[ January/NNP ]
+,/, 
+[ February/NNP ]
+,/, and/CC 
+[ March/NNP 1987/CD ]
+./. 
+
+[ Subjects/NNS ]
+discussed/VBN ,/, among/IN 
+[ others/NNS ]
+,/, are/VBP 
+[ an/DT NRC/NNP proposal/NN ]
+to/TO modify/VB 
+[ the/DT emergency/NN evacuation/NN plan/NN requirement/NN ]
+where/WRB 
+[ state/NN ]
+and/CC 
+[ local/JJ governments/NNS ]
+are/VBP uncooperative/JJ ,/, 
+[ Advisory/NNP Committee/NNP ]
+on/IN 
+[ Reactor/NNP Safeguards/NNP ]
+(/( 
+[ ACRS/NNP ]
+)/) 
+[ comments/NNS ]
+on/IN 
+[ future/JJ LWR/NNP designs/NNS ]
+,/, and/CC 
+[ several/JJ legislative/JJ initiatives/NNS ]
+relating/VBG to/TO 
+[ nuclear/JJ safety/NN ]
+./. 
+
+[ 8/CD refs/NNS ]
+./. 
+
+======================================
+
+[ This/DT article/NN ]
+contains/VBZ 
+[ four/CD lists/NNS ]
+of/IN 
+[ various/JJ documents/NNS ]
+relevant/JJ to/TO 
+[ nuclear/JJ safety/NN ]
+as/IN compiled/VBN by/IN 
+[ the/DT editor/NN ]
+./. 
+
+[ These/DT lists/NNS ]
+are/VBP :/: (/( 
+[ 1/LS ]
+)/) 
+[ reactor/NN operations-related/JJ reports/NNS ]
+of/IN 
+[ US/NNP ]
+
+[ origin/NN ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ other/JJ books/NNS ]
+and/CC 
+[ reports/NNS ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ regulatory/JJ guides/NNS ]
+,/, and/CC (/( 
+[ 4/LS ]
+)/) 
+[ nuclear/JJ standards/NNS ]
+./. 
+
+[ Each/DT list/NN ]
+contains/VBZ 
+[ the/DT documents/NNS ]
+in/IN 
+[ its/PRP$ category/NN ]
+
+[ which/WDT ]
+were/VBD published/VBN (/( or/CC became/VBD available/JJ )/) during/IN 
+[ the/DT three-month/JJ period/NN ]
+(/( 
+[ January/NNP ]
+,/, 
+[ February/NNP ]
+,/, and/CC 
+[ March/NNP 1987/CD ]
+)/) covered/VBN by/IN 
+[ this/DT issue/NN ]
+of/IN 
+[ Nuclear/NNP Safety/NNP ]
+./. 
+
+[ The/DT availability/NN ]
+and/CC 
+[ cost/NN ]
+of/IN 
+[ the/DT documents/NNS ]
+are/VBP noted/VBN in/IN 
+[ most/JJS instances/NNS ]
+./. 
+
+======================================
+
+[ Recent/JJ regulatory/JJ ]
+and/CC 
+[ other/JJ actions/NNS ]
+relating/VBG to/TO 
+[ US/PRP ]
+
+[ power/NN reactors/NNS ]
+undergoing/VBG 
+[ these/DT steps/NNS ]
+toward/IN 
+[ licensing/NN ]
+are/VBP summarized/VBN in/IN 
+[ this/DT paper/NN ]
+for/IN 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1987/CD ]
+./. 
+
+[ This/DT section/NN ]
+also/RB contains/VBZ 
+[ brief/JJ reports/NNS ]
+of/IN 
+[ regulatory/JJ actions/NNS ]
+and/CC 
+[ other/JJ significant/JJ events/NNS ]
+relating/VBG to/TO 
+[ reactor/NN projects/NNS ]
+in/IN 
+[ the/DT licensing/VBG stage/NN ]
+
+[ that/WP ]
+were/VBD received/VBN during/IN 
+[ the/DT period/NN ]
+covered/VBN by/IN 
+[ this/DT report/NN ]
+,/, namely/RB ,/, 
+[ the/DT first/JJ quarter/NN ]
+of/IN 
+[ 1987/CD ]
+./. 
+
+[ 5/CD refs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ Separate/JJ abstracts/NNS ]
+were/VBD prepared/VBN for/IN 
+[ 14/CD papers/NNS ]
+in/IN 
+[ these/DT conference/NN proceedings/NNS ]
+./. 
+
+(/( 
+[ LEW/NNP ]
+)/) 
+======================================
+
+[ This/DT book/NN ]
+is/VBZ 
+[ the/DT first/JJ ]
+in/IN 
+[ a/DT series/NN ]
+of/IN 
+[ publications/NNS ]
+containing/VBG 
+[ statistical/JJ information/NN ]
+and/CC analyses/VBZ on/IN 
+[ the/DT wind/NN energy/NN industry/NN ]
+./. 
+
+[ The/DT book/NN ]
+is/VBZ set/VBN up/IN in/IN 
+[ six/CD sections/NNS ]
+./. 
+
+[ Section/NN 1/CD ]
+is/VBZ 
+[ an/DT introduction/NN ]
+and/CC 
+[ description/NN ]
+./. 
+
+[ Section/NN 2/CD ]
+is/VBZ 
+[ an/DT overview/NN ]
+of/IN 
+[ wind/NN energy/NN markets/NNS ]
+and/CC 
+[ market/NN trends/NNS ]
+based/VBN on/IN 
+[ the/DT collected/VBN statistical/JJ data/NNS ]
+./. 
+
+As/RB with/IN 
+[ the/DT book/NN ]
+
+[ itself/PRP ]
+,/, 
+[ this/DT overview/NN ]
+is/VBZ not/RB 
+[ an/DT all-inclusive/JJ review/NN ]
+of/IN 
+[ the/DT wind/NN industry/NN ]
+but/CC rather/RB 
+[ a/DT focused/JJ packet/NN ]
+of/IN 
+[ information/NN ]
+on/IN 
+[ wind/NN turbine/NN manufacturers/NNS ]
+,/, 
+[ turbine/NN shipments/NNS ]
+,/, 
+[ overall/JJ turbine/NN characteristics/NNS ]
+,/, 
+[ etc/FW ]
+./. 
+
+[ Section/NN 3/CD ]
+provides/VBZ 
+[ statistics/NNS ]
+on/IN 
+[ the/DT overall/JJ wind/NN turbine/NN market/NN ]
+by/IN 
+[ region/NN ]
+,/, with/IN 
+[ eight/CD regions/NNS ]
+making/VBG up/RP 
+[ the/DT  world/NN ]
+./. 
+
+[ The/DT data/NNS ]
+are/VBP provided/VBN for/IN 
+[ the/DT 1981-1986/CD period/NN ]
+./. 
+
+[ Section/NN 4/CD cross-cuts/NNS ]
+
+[ the/DT statistics/NNS ]
+by/IN 
+[ rotor/NN diameter/NN ]
+./. 
+
+As/IN 
+[ the/DT report/NN ]
+discusses/VBZ ,/, 
+[ rotor/NN diameter/NN ]
+appears/VBZ to/TO provide/VB 
+[ a/DT more/RBR consistent/JJ frame/NN ]
+of/IN 
+[ reference/NN ]
+than/IN 
+[ nameplate/NN rating/NN ]
+,/, 
+[ wind/NN speed/NN performance/NN ]
+,/, or/CC 
+[ other/JJ similar/JJ characteristics/NNS ]
+./. 
+
+[ Section/NN 5/CD breaks/VBZ ]
+down/RB 
+[ the/DT statistics/NNS ]
+by/IN 
+[ nine/CD applications/NNS ]
+,/, ranging/VBG from/IN 
+[ water/NN ]
+heating/NN and/CC 
+[ water/NN ]
+pumping/NN to/TO 
+[ grid-connected/VBN windfarms/NNS ]
+./. 
+
+[ Section/NN 6/CD ]
+catalogs/VBZ 
+[ wind/NN turbine/NN ]
+manufacturing/VBG and/CC 
+[ export\/import/NN activity/NN ]
+./. 
+
+Supporting/VBG 
+[ statistics/NNS ]
+are/VBP provided/VBN at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ Sections/NNS 3/CD ]
+,/, 
+[ 4/CD ]
+,/, 
+[ 5/CD ]
+,/, and/CC 
+[ 6/CD ]
+./. 
+
+[ An/DT appendix/NN ]
+provides/VBZ detailed/JJ 
+[ descriptions/NNS ]
+of/IN 
+[ the/DT ]
+approximately/RB 
+[ 150/CD active/JJ wind/NN turbine/NN manufacturers/NNS ]
+worldwide/RB and/CC 
+[ their/PRP$ wind/NN turbines/NNS ]
+./. 
+
+======================================
+
+[ Individual/JJ abstracts/NNS ]
+are/VBP processed/VBN separately/RB for/IN 
+[ the/DT database/NN ]
+./. 
+
+(/( 
+[ CBS/NNP ]
+)/) 
+======================================
+
+[ The/DT ]
+``/`` 
+[ mixing/NN rule/NN ]
+''/'' has/VBZ been/VBN tested/VBN using/VBG 
+[ published/JJ hydrogen\/propane/NN mixture/NN combustion/NN data/NN|NNS ]
+./. 
+
+[ Results/NNS ]
+show/VBP 
+[ a/DT good/JJ correlation/NN ]
+between/IN 
+[ the/DT observed/VBN data/NN ]
+and/CC 
+[ the/DT predictions/NNS ]
+made/VBN by/IN 
+[ the/DT ]
+``/`` 
+[ mixing/NN rule/NN ]
+./. 
+
+''/'' 
+[ Stability/NN loop/NN data/NNS ]
+for/IN 
+[ coal/NN volatiles/NNS ]
+is/VBZ also/RB reported/VBN ./. 
+
+[ An/DT attempt/NN ]
+will/MD be/VB made/VBN to/TO correlate/VB 
+[ the/DT coal/NN volatiles/NNS data/NNS ]
+with/IN 
+[ the/DT kinetics/NNS ]
+derived/VBN for/IN 
+[ the/DT ]
+``/`` 
+[ mixing/NN rule/NN ]
+./. 
+
+''/'' 
+[ 15/CD refs./NNS ]
+,/, 
+[ 18/CD figs./NNS ]
+,/, 
+[ 6/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ The/DT objectives/NNS ]
+of/IN 
+[ this/DT project/NN ]
+are/VBP to/TO develop/VB 
+[ a/DT method/NN ]
+of/IN determining/VBG 
+[ the/DT operational/JJ or'global/JJ ]
+'/'' 
+[ kinetics/NNS ]
+of/IN 
+[ combustion/NN ]
+of/IN 
+[ volatiles/NNS ]
+from/IN 
+[ heated/VBN coal/NN ]
+,/, and/CC to/TO compare/VB 
+[ the/DT reaction/NN rates/NNS ]
+(/( 
+[ kinetic/JJ constants/NNS ]
+)/) for/IN 
+[ different/JJ coals/NNS ]
+to/TO establish/VB whether/IN 
+[ the/DT kinetic/JJ behavior/NN ]
+is/VBZ 
+[ rank/RB sensitive/JJ ]
+or/CC 
+[ rank/RB insensitive/JJ ]
+./. 
+
+[ The/DT data/NNS ]
+are/VBP important/JJ for/IN modeling/NN 
+[ the/DT burning/VBG behavior/NN ]
+of/IN 
+[ the/DT volatiles/NNS ]
+./. 
+
+[ 6/CD refs./NNS ]
+,/, 
+[ 3/CD figs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ The/DT objective/NN ]
+was/VBD to/TO develop/VB 
+[ a/DT char/NN rate/NN equation/NN ]
+(/( 
+[ sub-model/NN ]
+)/) 
+[ that/WP ]
+is/VBZ sufficiently/RB elementary/JJ that/IN 
+[ it/PRP ]
+is/VBZ tractable/JJ in/IN 
+[ complex/JJ flame/NN models/NNS ]
+,/, but/CC 
+[ that/DT ]
+is/VBZ sufficiently/RB complete/JJ that/IN 
+[ it/PRP ]
+incorporates/VBZ 
+[ such/DT necessary/JJ ]
+and/CC 
+[ sufficient/JJ elements/NNS ]
+of/IN 
+[ the/DT chemistry/NN ]
+and/CC 
+[ physics/NNS ]
+involved/VBN in/IN 
+[ the/DT char/NN combustion/NN ]
+(/( such/DT as/IN 
+[ boundary/NN layer/NN diffusion/NN ]
+,/, 
+[ internal/JJ reaction/NN ]
+,/, 
+[ adsorption/NN ]
+,/, and/CC 
+[ desorption/NN ]
+of/IN 
+[ the/DT reacting/VBG species/NN ]
+)/) that/IN 
+[ combustion/NN rates/NNS ]
+in/IN 
+[ flames/NNS ]
+can/MD be/VB calculated/VBN in/IN 
+[ flame/NN models/NNS ]
+with/IN 
+[ required/VBN accuracy/NN ]
+./. 
+
+[ 13/CD refs/NNS ]
+./. 
+
+======================================
+
+[ The/DT objective/NN ]
+of/IN 
+[ this/DT project/NN ]
+is/VBZ to/TO obtain/VB 
+[ chemical/JJ kinetic/JJ data/NNS ]
+and/CC to/TO physically/RB characterize/VB 
+[ chars/NNS ]
+from/IN 
+[ PSOC/NNP 1451/CD ]
+(/( 
+[ bituminous-hvab/NN ]
+)/) and/CC 
+[ PSOC/NNP 1443/CD ]
+(/( lignite/NN )/) 
+[ coals/NNS ]
+./. 
+
+[ 6/CD refs./NNS ]
+,/, 
+[ 7/CD figs./NNS ]
+,/, 
+[ 1/CD tab/NN ]
+./. 
+
+======================================
+
+[ The/DT atom/NN probe/NN field-ion/NN microscope/NN ]
+can/MD be/VB used/VBN to/TO obtain/VB 
+[ atomic/JJ scale/NN microanalysis/NN ]
+of/IN 
+[ metals/NNS ]
+and/CC 
+[ alloys/NNS ]
+,/, permitting/VBG 
+[ studies/NNS ]
+of/IN 
+[ surface/JJ regions/NNS ]
+,/, 
+[ interface/NN segregation/NN ]
+and/CC 
+[ the/DT early/JJ stages/NNS ]
+of/IN 
+[ phase/NN decomposition/NN ]
+./. 
+
+With/IN 
+[ the/DT newer/JJR pulsed/VBN laser/NN atom/NN probe/NN ]
+,/, 
+[ these/DT capabilities/NNS ]
+are/VBP extended/VBN to/TO 
+[ the/DT analysis/NN ]
+of/IN 
+[ semi-conducting/JJ materials/NNS ]
+./. 
+
+[ The/DT increased/VBN use/NN ]
+of/IN 
+[ microcomputers/NNS ]
+to/TO provide/VB 
+[ on-line/JJ ]
+computing/NN has/VBZ allowed/VBN 
+[ automation/NN ]
+of/IN 
+[ the/DT data/NN|NNS acquisition/NN process/NN ]
+,/, and/CC also/RB permits/VBZ 
+[ the/DT use/NN ]
+of/IN 
+[ statistical/JJ data/NN analysis/NN techniques/NNS ]
+
+[ which/WDT ]
+are/VBP invaluable/JJ for/IN 
+[ certain/JJ atom/NN probe/NN studies/NNS ]
+./. 
+
+[ This/DT paper/NN ]
+describes/VBZ 
+[ the/DT technique/NN ]
+of/IN 
+[ atom/NN probe/NN microanalysis/NN ]
+and/CC reviews/VBZ 
+[ some/DT selected/VBN applications/NNS ]
+in/IN 
+[ both/DT metallurgical/JJ ]
+and/CC 
+[ semiconductor/NN studies/NNS ]
+./. 
+
+[ 61/CD refs/NNS ]
+./. 
+
+======================================
+
+[ A/DT brief/JJ description/NN ]
+of/IN 
+[ the/DT ion/NN implantation/NN process/NN ]
+is/VBZ followed/VBN by/IN 
+[ a/DT review/NN ]
+of/IN 
+[ friction/NN ]
+,/, 
+[ wear/NN ]
+,/, 
+[ fatigue/NN ]
+,/, 
+[ oxidation/NN ]
+and/CC 
+[ corrosion/NN research/NN ]
+,/, with/IN 
+[ an/DT emphasis/NN ]
+on/IN 
+[ friction/NN ]
+and/CC 
+[ wear/NN studies/NNS ]
+./. 
+
+[ Examples/NNS ]
+are/VBP presented/VBN of/IN 
+[ field/NN studies/NNS ]
+
+[ which/WDT ]
+are/VBP generally/RB optimistic/JJ about/IN 
+[ commercial/JJ application/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ especially/RB true/JJ in/IN 
+[ areas/NNS ]
+where/WRB 
+[ increases/NNS ]
+in/IN 
+[ lifetime/NN ]
+can/MD produce/VB 
+[ significant/JJ savings/NNS ]
+by/IN reducing/VBG 
+[ the/DT cost/NN ]
+of/IN 
+[ replacement/NN ]
+or/CC down/NN  
+[ time/NN ]
+./. 
+
+[ 54/CD refs/NNS ]
+./. 
+
+======================================
+
+During/IN 
+[ 1981/CD ]
+,/, 
+[ a/DT 600/CD metre/NN long/JJ section/NN ]
+of/IN 
+[ seam/NN ]
+was/VBD driven/VBN by/IN 
+[ blasting/NN mining/NN ]
+in/IN 
+[ the/DT anchor/NN mesh/NN wire/NN mining/NN system/NN ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ a/DT description/NN ]
+of/IN 
+[ the/DT conditions/NNS ]
+for/IN 
+[ anchor/NN mining/NN ]
+,/, 
+[ the/DT machines/NNS ]
+required/VBN for/IN 
+[ blasting/NN mining/NN ]
+,/, 
+[ the/DT extension/NN ]
+,/, 
+[ the/DT blasting/NN work/NN ]
+,/, 
+[ the/DT course/NN ]
+of/IN 
+[ the/DT work/NN ]
+and/CC 
+[ the/DT results/NNS ]
+of/IN 
+[ anchor/NN tensile/JJ experiments/NNS ]
+,/, 
+[ a/DT comparison/NN ]
+of/IN 
+[ costs/NNS ]
+between/IN 
+[ anchor/NN ]
+mining/NN and/CC 
+[ comparable/JJ arch/NN mining/NN ]
+./. 
+
+======================================
+
+[ The/DT Welbeck/NNP Scheme/NNP ]
+near/IN 
+[ Wakefield/NNP ]
+,/, 
+[ West/NNP Yorkshire/NNP ]
+,/, combines/VBZ 
+[ land/NN reclamation/NN ]
+with/IN 
+[ the/DT co-disposal/NN ]
+of/IN 
+[ colliery/NN ]
+spoil/NN and/CC controlled/JJ (/( mainly/RB 
+[ household/NN ]
+)/) 
+[ wastes/NNS ]
+./. 
+
+[ It/PRP ]
+plans/VBZ to/TO do/VB so/RB on/IN 
+[ a/DT grand/JJ scale/NN ]
+,/, over/IN 
+[ an/DT extensive/JJ area/NN ]
+,/, and/CC for/IN 
+[ a/DT long/JJ duration/NN ]
+;/: by/IN 
+[ late/JJ 1985/CD ]
+
+[ the/DT UK/NNP Department/NNP ]
+of/IN 
+[ the/DT Environment/NNP ]
+had/VBD committed/VBN 
+[ 1.5/CD million/CD pounds/NNS ]
+to/TO 
+[ the/DT scheme/NN ]
+./. 
+
+[ The/DT subsidiary/NN ]
+aims/NNS of/IN 
+[ the/DT scheme/NN ]
+are/VBP set/VBN out/RB ,/, and/CC 
+[ background/NN ]
+to/TO 
+[ the/DT area/NN ]
+is/VBZ given/VBN ,/, particularly/RB 
+[ the/DT despoilation/NN ]
+
+[ which/WDT ]
+has/VBZ occurred/VBN since/IN 
+[ the/DT Second/NNP World/NNP War/NNP ]
+./. 
+
+[ Levels/NNS ]
+of/IN 
+[ integration/NN ]
+existing/VBG in/IN 
+[ the/DT Welbeck/NNP Scheme/NNP ]
+,/, such/DT as/IN 
+[ the/DT advantages/NNS ]
+of/IN 
+[ scale/NN ]
+,/, 
+[ duration/NN ]
+,/, shared/JJ 
+[ facilities/NNS ]
+,/, and/CC 
+[ physical/JJ integration/NN ]
+,/, 
+[ the/DT economic/JJ rationale/NN ]
+,/, and/CC 
+[ technical/JJ ]
+or/CC 
+[ subsidiary/JJ levels/NNS ]
+of/IN 
+[ integration/NN ]
+are/VBP considered/VBN ./. 
+
+Finally/RB ,/, 
+[ the/DT lessons/NNS ]
+learnt/VBN from/IN 
+[ implementation/NN ]
+of/IN 
+[ resource/NN ]
+and/CC 
+[ environmental/JJ integration/NN ]
+are/VBP examined/VBN ./. 
+
+[ 6/CD refs/NNS ]
+./. 
+
+======================================
+
+[ This/DT article/NN ]
+investigates/VBZ 
+[ the/DT chemical/NN ]
+,/, 
+[ mineralogical/JJ ]
+and/CC 
+[ particle-size/NN composition/NN ]
+of/IN 
+[ tailings/NNS ]
+from/IN 
+[ two/CD Hunosa-operated/JJ coal/NN washeries/NNS ]
+(/( 
+[ Spain/NNP ]
+)/) ./. 
+
+[ The/DT two/CD washeries/NNS ]
+in/IN 
+[ question/NN ]
+were/VBD selected/VBN by/IN 
+[ reason/NN ]
+of/IN 
+[ the/DT size/NN ]
+of/IN 
+[ their/PRP$ output/NN ]
+and/CC 
+[ representativeness/NN ]
+./. 
+
+Describes/VBZ 
+[ the/DT tests/NNS ]
+on/IN 
+[ washery/NN samples/NNS ]
+
+[ which/WDT ]
+were/VBD carried/VBD out/RP on/IN  
+[ the/DT basis/NN ]
+of/IN 
+[ specifications/NNS ]
+for/IN 
+[ road/NN ]
+and/CC 
+[ bridge/NN building/NN ]
+(/( 
+[ P/NNP G-3\/75/NNP ]
+)/) ./. 
+
+[ The/DT results/NNS ]
+obtained/VBN indicate/VBP that/IN 
+[ the/DT tailings/NNS ]
+are/VBP eminently/RB suitable/JJ for/IN 
+[ use/NN ]
+as/IN fill/NN 
+[ material/NN ]
+./. 
+
+[ 3/CD refs./NNS ]
+,/, 
+[ 3/CD figs./NNS ]
+,/, 
+[ 2/CD tabs/NNS ]
+./. 
+
+======================================
+
+[ Lignite/NN resources/NNS ]
+are/VBP given/VBN as/IN 
+[ 4/CD x/SYM 10/CD ]
+{/( 
+[ sup/NN 9/CD ]
+}/) 
+[ t/NN ]
+./. 
+
+[ Their/PRP$ ash/NN composition/NN ]
+,/, 
+[ moisture/NN ]
+,/, 
+[ sulphur/NN ]
+and/CC 
+[ chlorine/NN contents/NNS ]
+and/CC 
+[ their/PRP$ uses/NNS ]
+are/VBP discussed/VBN ./. 
+
+======================================
+
+In/IN 
+[ the/DT immediate/JJ vicinity/NN ]
+of/IN 
+[ Santofirme/NNP ]
+,/, 
+[ 16/CD km/NNS ]
+south-east/RB of/IN 
+[ Oviedo/NNP ]
+,/, 
+[ there/EX ]
+is/VBZ 
+[ an/DT 18/CD km/NNS ]
+{/( 
+[ sup/NN 2/CD ]
+}/) 
+[ outcrop/NN ]
+of/IN 
+[ material/NN ]
+from/IN 
+[ the/DT Carboniferous/NNP period/NN ]
+
+[ which/WDT ]
+forms/VBZ 
+[ a/DT syncline/NN ]
+running/VBG 
+[ north-east/RB ]
+to/TO 
+[ south-west/RB ]
+and/CC 
+[ which/WDT ]
+,/, in/IN 
+[ places/NNS ]
+,/, is/VBZ covered/VBN with/IN 
+[ Permo-Triassic/NNP ]
+and/CC 
+[ Tertiary/NNP material/NN ]
+from/IN 
+[ the/DT Depresion/NNP ]
+de/FW 
+[ Llanera/NNP ]
+./. 
+
+[ The/DT series/NN ]
+consists/VBZ of/IN regularly/RB alternating/VBG 
+[ layers/NNS ]
+of/IN 
+[ lutite/NN ]
+and/CC 
+[ sandstone/NN ]
+with/IN 
+[ bands/NNS ]
+of/IN 
+[ coal/NN ]
+and/CC 
+[ a/DT few/JJ lime/NN bands/NNS ]
+in/IN 
+[ the/DT lower/JJR section/NN ]
+./. 
+
+[ Twenty-one/CD ]
+of/IN 
+[ the/DT coal/NN bands/NNS ]
+,/, grouped/VBN together/RB in/IN 
+[ eight/CD packets/NNS ]
+,/, are/VBP worked/VBN by/IN 
+[ Minas/NNP ]
+de/FW 
+[ Villabona/NNP SA/NNP ]
+./. 
+
+[ All/PDT the/DT coal/NN bands/NNS ]
+in/IN 
+[ the/DT western/JJ flank/NN ]
+of/IN 
+[ the/DT syncline/NN ]
+have/VBP been/VBN tested/VBN ./. 
+
+Most/JJS of/IN 
+[ the/DT samples/NNS ]
+were/VBD collected/VBN from/IN 
+[ four/CD drillings/NNS ]
+carried/VBD out/RP by/IN 
+[ ENADIMSA/NNP ]
+in/IN 
+[ 1982/CD ]
+;/: 
+[ those/DT ]
+remaining/VBG were/VBD taken/VBN from/IN 
+[ the/DT surface/NN ]
+at/IN 
+[ the/DT Arroyo/NNP Socavon/NNP ]
+and/CC 
+[ La/FW Tejera/NNP opencast/NN sites/NNS ]
+./. 
+
+======================================
+
+[ The/DT present/JJ note/NN summarises/VBZ recent/JJ work/NN ]
+in/IN 
+[ the/DT area/NN ]
+of/IN 
+[ Santa/NNP Olaja/NNP ]
+de/FW 
+[ la/FW Varga/NNP ]
+,/, where/WRB 
+[ post-Asturian/JJ Stephanian/NNP ]
+
+[ A/NNP ]
+is/VBZ in/IN 
+[ contact/NN ]
+with/IN 
+[ post-Leonian/JJ lower/JJR Cantabrian/NNP ]
+./. 
+
+[ The/DT stratigraphy/NN ]
+of/IN 
+[ the/DT Sabero/NNP Coalfield/NNP west/RB ]
+of/IN 
+[ the/DT River/NNP Esla/NNP ]
+has/VBZ been/VBN described/VBN and/CC 
+[ its/PRP$ sedimentary/JJ environment/NN ]
+has/VBZ also/RB been/VBN further/RB discussed/VBN ./. 
+
+[ The/DT Sabero/NNP succession/NN ]
+is/VBZ largely/RB of/IN 
+[ Stephanian/NNP B/NNP age/NN ]
+,/, with/IN 
+[ late/JJ Stephanian/NNP ]
+
+[ A/NNP being/NN ]
+recognised/VBN in/IN 
+[ the/DT lower/JJR part/NN ]
+;/: 
+[ it/PRP ]
+is/VBZ 
+[ post-Asturian/JJ folding/NN phase/NN ]
+and/CC 
+[ unconformable/JJ ]
+on/IN 
+[ lower/JJR palaeozoic/NN strata/NNS ]
+./. 
+
+[ Recent/JJ work/NN ]
+has/VBZ extended/VBN 
+[ the/DT mapping/NN ]
+of/IN 
+[ this/DT post-Asturian/JJ succession/NN eastwards/RB ]
+across/IN 
+[ the/DT River/NNP Esla/NNP ]
+into/IN 
+[ the/DT area/NN ]
+near/IN to/TO 
+[ the/DT villages/NNS ]
+of/IN 
+[ Santa/NNP Olaja/NNP ]
+de/FW 
+[ la/FW Varga/NNP ]
+and/CC 
+[ Fuentes/NNP ]
+de/FW 
+[ Penacorada/NNP ]
+./. 
+
+[ This/DT ]
+has/VBZ resolved/VBN 
+[ the/DT contentious/JJ problem/NN ]
+of/IN 
+[ the/DT relationship/NN ]
+between/IN 
+[ the/DT post-Asturian/JJ Sabero/NNP succession/NN ]
+and/CC 
+[ the/DT post-Leonian/JJ folding/NN phase/NN succession/NN ]
+of/IN largely/RB 
+[ Cantabrian/NNP strata/NNS ]
+known/VBN in/IN 
+[ the/DT area/NN ]
+of/IN 
+[ Ocejo/NNP ]
+de/FW 
+[ la/FW Pena/NNP ]
+and/CC in/IN 
+[ the/DT Valderrueda/NNP Coalfield/NNP ]
+./. 
+
+[ A/DT ]
+clearly/RB 
+[ unconformable/JJ relationship/NN ]
+occurs/VBZ between/IN 
+[ the/DT pre-Asturian/JJ ]
+and/CC 
+[ post-Asturian/JJ successions/NNS ]
+,/, 
+[ which/WDT ]
+is/VBZ confirmed/VBN by/IN 
+[ sedimentary/JJ differences/NNS ]
+and/CC by/IN 
+[ fossil/JJ floras/NNS ]
+./. 
+
+[ 13/CD refs./NNS ]
+,/, 
+[ 2/CD figs/NNS ]
+./. 
+
+======================================
+
+[ The/DT author/NN ]
+discusses/VBZ 
+[ the/DT 1975/CD veto/NN ]
+of/IN 
+[ surface/NN mining/NN legislation/NN ]
+and/CC 
+[ the/DT Surface/NNP Mining/NNP Control/NNP ]
+and/CC 
+[ Reclamation/NNP Act/NNP ]
+of/IN 
+[ 1977/CD ]
+
+[ which/WDT ]
+has/VBZ had/VBD 
+[ controversial/JJ response/NN ]
+./. 
+
+[ The/DT article/NN ]
+discusses/VBZ 
+[ some/DT aspects/NNS ]
+of/IN 
+[ this/DT controversy/NN ]
+and/CC 
+[ future/JJ prospects/NNS ]
+./. 
+
+======================================
+
+[ The/DT article/NN ]
+discusses/VBZ 
+[ the/DT Surface/NNP Mining/NNP Control/NNP ]
+and/CC 
+[ Reclamation/NNP Act/NNP ]
+(/( 
+[ SMCRA/NNP ]
+)/) ,/, 
+[ the/DT circumstances/NNS ]
+under/IN 
+[ which/WDT ]
+
+[ the/DT legislation/NN ]
+was/VBD enacted/VBN during/IN 
+[ the/DT 1970s/CD ]
+,/, and/CC 
+[ its/PRP$ passage/NN ]
+through/IN 
+[ congress/NN ]
+./. 
+
+[ The/DT author/NN ]
+discusses/VBZ 
+[ the/DT possibilities/NNS ]
+for/IN 
+[ legislative/JJ changes/NNS ]
+,/, but/CC 
+[ states/VBZ ]
+that/IN 
+[ it/PRP ]
+does/VBZ not/RB seem/VB likely/JJ that/IN 
+[ there/EX ]
+will/MD be/VB 
+[ a/DT major/JJ overhaul/NN ]
+of/IN 
+[ SMCRA/NNP ]
+during/IN 
+[ this/DT congress/NN ]
+./. 
+
+======================================
+
+[ The/DT author/NN ]
+states/VBZ 
+[ the/DT consequences/NNS ]
+of/IN 
+[ the/DT ]
+
+[ US/NNP ]
+
+[ Surface/NNP Mining/NNP Act/NNP ]
+,/, in/IN 
+[ terms/NNS ]
+of/IN 
+[ mining/NN performance/NN standards/NNS ]
+and/CC 
+[ the/DT compliance/NN ]
+of/IN 
+[ the/DT operators/NNS ]
+,/, plus/CC 
+[ the/DT benefits/NNS ]
+to/TO 
+[ the/DT environment/NN ]
+./. 
+
+[ The/DT author/NN ]
+then/RB discusses/VBZ 
+[ the/DT recent/JJ congressional/JJ votes/NNS ]
+
+[ which/WDT ]
+have/VBP eliminated/VBN 
+[ the/DT two-acre/JJ exemption/NN ]
+./. 
+
+[ The/DT rest/NN ]
+of/IN 
+[ the/DT article/NN ]
+discusses/VBZ 
+[ the/DT need/NN ]
+to/TO maintain/VB 
+[ surface/NN mining/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ the/DT Soviet/NNP Union/NNP ]
+has/VBZ 
+[ more/JJR submarines/NNS ]
+than/IN 
+[ the/DT NATO/NNP navies/NNS ]
+combined/VBN ,/, and/CC 
+[ the/DT technological/JJ superiority/NN ]
+of/IN 
+[ western/JJ submarines/NNS ]
+is/VBZ diminishing/VBG ,/, 
+[ there/EX ]
+is/VBZ 
+[ evidence/NN ]
+that/IN 
+[ there/EX ]
+are/VBP 
+[ more/JJR accidents/NNS ]
+with/IN 
+[ Soviet/JJ submarines/NNS ]
+than/IN with/IN 
+[ western/JJ submarine/NN fleets/NNS ]
+./. 
+
+Whether/IN 
+[ this/DT ]
+is/VBZ due/JJ to/TO 
+[ inadequate/JJ crews/NNS ]
+or/CC 
+[ lower/JJR standards/NNS ]
+of/IN 
+[ maintenance/NN ]
+and/CC 
+[ overhaul/NN procedures/NNS ]
+is/VBZ discussed/VBN ./. 
+
+In/IN 
+[ particular/JJ ]
+,/, 
+[ it/PRP ]
+is/VBZ suggested/VBN that/IN since/IN 
+[ the/DT introduction/NN ]
+of/IN 
+[ nuclear/JJ powered/JJ submarines/NNS ]
+,/, 
+[ the/DT Soviet/JJ submarine/NN safety/NN record/NN ]
+has/VBZ deteriorated/VBN ./. 
+
+[ Information/NN ]
+on/IN 
+[ Soviet/JJ submarine/NN accidents/NNS ]
+is/VBZ difficult/JJ to/TO come/VB by/RP ,/, but/CC 
+[ a/DT list/NN ]
+of/IN 
+[ some/DT 23/CD accidents/NNS ]
+,/, mostly/RB in/IN 
+[ nuclear/JJ submarines/NNS ]
+,/, between/IN 
+[ 1966/CD ]
+and/CC 
+[ 1986/CD ]
+,/, has/VBZ been/VBN compiled/VBN ./. 
+
+[ The/DT approximate/JJ date/NN ]
+,/, 
+[ class/NN ]
+or/CC 
+[ type/NN ]
+of/IN 
+[ submarine/NN ]
+,/, 
+[ the/DT nature/NN ]
+and/CC 
+[ location/NN ]
+of/IN 
+[ the/DT accident/NN ]
+,/, 
+[ the/DT casualties/NNS ]
+and/CC 
+[ damage/NN ]
+and/CC 
+[ the/DT source/NN ]
+of/IN 
+[ information/NN ]
+are/VBP tabulated/VBN ./. 
+
+(/( 
+[ U.K/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ The/DT details/NNS ]
+of/IN how/WRB to/TO build/VB 
+[ a/DT cheap/JJ ]
+,/, 
+[ practical/JJ radiation/NN monitor/NN ]
+are/VBP given/VBN ./. 
+
+[ It/PRP ]
+consists/VBZ of/IN 
+[ two/CD units/NNS ]
+,/, 
+[ a/DT self-contained/JJ Geiger/NNP ratemeter/NN ]
+and/CC 
+[ a/DT separate/JJ pulse/NN counter/NN ]
+
+[ which/WDT ]
+plugs/VBZ into/IN 
+[ the/DT ratemeter/NN ]
+and/CC uses/VBZ 
+[ the/DT same/JJ detection/NN circuitry/NN ]
+./. 
+
+[ This/DT article/NN ]
+gives/VBZ 
+[ full/JJ instructions/NNS ]
+for/IN building/VBG 
+[ the/DT pulse/NN counter/NN ]
+./. 
+
+[ The/DT Geiger/NNP ratemeter/NN ]
+is/VBZ described/VBN in/IN 
+[ a/DT separate/JJ issue/NN ]
+./. 
+
+[ A/DT circuit/NN diagram/NN ]
+is/VBZ given/VBN as/RB well/RB as/IN 
+[ a/DT parts/NNS list/NN ]
+and/CC 
+[ construction/NN advice/NN ]
+./. 
+
+[ The/DT nature/NN ]
+of/IN 
+[ the/DT radiation/NN ]
+monitored/VBN is/VBZ described/VBN and/CC 
+[ the/DT units/NNS ]
+used/VBN explained/VBN ./. 
+
+[ Background/NN radiation/NN ]
+is/VBZ explained/VBN and/CC 
+[ radiation/NN levels/NNS ]
+recorded/VBN for/IN 
+[ various/JJ sources/NNS ]
+using/VBG 
+[ the/DT Geiger/NNP counter/NN ]
+are/VBP listed/VBN ./. 
+
+[ The/DT use/NN ]
+of/IN 
+[ the/DT monitor/NN ]
+and/CC 
+[ the/DT error/NN levels/NNS ]
+
+[ that/WP ]
+can/MD be/VB expected/VBN are/VBP discussed/VBN ./. 
+
+======================================
+
+[ A/DT cheap/JJ ]
+,/, 
+[ practical/JJ radiation/NN monitor/NN ]
+is/VBZ presented/VBN ./. 
+
+[ It/PRP ]
+can/MD be/VB used/VBN 
+[ both/DT ]
+for/IN 
+[ instant/JJ dose-rate/JJ checks/NNS ]
+and/CC for/IN 
+[ long-term/JJ accurate/JJ ]
+counting/NN ./. 
+
+[ It/PRP ]
+consists/VBZ of/IN 
+[ two/CD units/NNS ]
+,/, 
+[ a/DT self-contained/JJ Geiger/NNP ratemeter/NN ]
+and/CC 
+[ a/DT separate/JJ pulse/NN counter/NN ]
+
+[ which/WDT ]
+plugs/VBZ into/IN 
+[ the/DT ratemeter/NN ]
+and/CC uses/VBZ 
+[ the/DT same/JJ detection/NN circuitry/NN ]
+./. 
+
+[ This/DT article/NN ]
+is/VBZ concerned/VBN with/IN 
+[ the/DT ratemeter/NN ]
+./. 
+
+[ The/DT main/JJ components/NNS ]
+and/CC 
+[ circuit/NN ]
+are/VBP described/VBN ./. 
+
+[ A/DT circuit/NN diagram/NN ]
+and/CC 
+[ an/DT explanation/NN ]
+of/IN how/WRB 
+[ the/DT ratemeter/NN works/NNS ]
+are/VBP given/VBN ./. 
+
+[ A/DT parts/NNS list/NN ]
+and/CC 
+[ hints/NNS ]
+on/IN 
+[ construction/NN ]
+and/CC 
+[ calibration/NN ]
+are/VBP also/RB given/VBN ./. 
+
+[ The/DT counter/NN ]
+is/VBZ described/VBN in/IN 
+[ a/DT separate/JJ article/NN ]
+./. 
+
+======================================
+
+[ Some/DT ]
+of/IN 
+[ the/DT ways/NNS ]
+that/IN 
+[ radiation/NN ]
+can/MD be/VB detected/VBN and/CC measured/VBN are/VBP discussed/VBN ./. 
+
+[ The/DT radiation/NN types/NNS ]
+,/, 
+[ levels/NNS ]
+and/CC 
+[ effects/NNS ]
+of/IN 
+[ acute/JJ radiation/NN exposure/NN ]
+over/IN 
+[ the/DT whole/JJ body/NN ]
+are/VBP mentioned/VBN 
+[ briefly/RB ]
+./. 
+
+[ Radiation/NN dosage/NN ]
+over/IN 
+[ a/DT period/NN ]
+of/IN 
+[ time/NN ]
+can/MD be/VB measured/VBN by/IN 
+[ a/DT dosimeter/NN ]
+./. 
+
+[ A/DT small/JJ ]
+,/, 
+[ low/JJ cost/NN quartz/NN fibre/NN dosimeter/NN available/JJ ]
+commercially/RB is/VBZ recommended/VBN for/IN 
+[ measuring/VBG radioactivity/NN levels/NNS ]
+in/IN 
+[ milk/NN ]
+,/, 
+[ water/NN ]
+and/CC 
+[ food/NN ]
+,/, preferably/RB in/IN 
+[ conjunction/NN ]
+with/IN 
+[ a/DT Geiger-Mueller/NNP tube/NN ]
+./. 
+
+[ A/DT description/NN ]
+is/VBZ given/VBN of/IN 
+[ a/DT simple/JJ general/JJ  purpose/JJ Geiger-Mueller/NNP tube/NN ]
+./. 
+ 
+[ A/DT circuit/NN diagram/NN ]
+is/VBZ given/VBN for/IN 
+[ a/DT simple/JJ ratemeter/NN ]
+
+[ which/WDT ]
+includes/VBZ 
+[ a/DT GM/NNP tube/NN ]
+./. 
+
+======================================
+
+[ The/DT author/NN ]
+reviews/VBZ 
+[ three/CD books/NNS ]
+about/IN 
+[ energy/NN policy/NN ]
+,/, particularly/RB in/IN 
+[ relation/NN ]
+to/TO 
+[ nuclear/JJ energy/NN ]
+./. 
+
+[ >/JJ ]
+From/IN 
+[ these/DT ]
+,/, 
+[ which/WDT ]
+were/VBD 
+[ all/DT ]
+published/VBN before/IN 
+[ the/DT Chernobyl/NNP disaster/NN ]
+,/, 
+[ the/DT reviewer/NN ]
+identifies/VBZ 
+[ two/CD main/JJ problems/NNS ]
+relating/VBG to/TO 
+[ nuclear/JJ energy/NN ]
+-/: 
+[ immediate/JJ safety/NN ]
+and/CC 
+[ disposal/NN ]
+of/IN 
+[ nuclear/JJ waste/NN ]
+./. 
+
+[ Risk/NN analysis/NN ]
+is/VBZ seen/VBN as/IN 
+[ unhelpful/JJ ]
+in/IN allaying/VBG 
+[ public/JJ fears/NNS ]
+as/IN 
+[ it/PRP ]
+is/VBZ 
+[ the/DT nature/NN ]
+of/IN 
+[ the/DT risk/NN ]
+of/IN 
+[ nuclear/JJ accidents/NNS ]
+,/, rather/RB than/IN 
+[ its/PRP$ numerical/JJ probability/NN ]
+,/, 
+[ that/WP ]
+is/VBZ frightening/JJ ./. 
+
+[ A/DT paper/NN ]
+on/IN 
+[ the/DT assessment/NN ]
+of/IN 
+[ Best/NNP Practical/NNP Environmental/NNP Options/NNP ]
+(/( 
+[ BPEO/NNP ]
+)/) for/IN 
+[ management/NN ]
+of/IN 
+[ low/JJ ]
+and/CC 
+[ intermediate-level/JJ solid/JJ radioactive/JJ waste/NN ]
+,/, is/VBZ referred/VBN to/TO when/WRB commenting/VBG on/IN 
+[ nuclear/JJ waste/NN disposal/NN ]
+./. 
+
+[ Ordinary/JJ people/NNS ]
+have/VBP 
+[ two/CD political/JJ obligations/NNS ]
+with/IN 
+[ respect/NN ]
+to/TO 
+[ nuclear/JJ energy/NN ]
+-/: first/JJ to/TO demand/VB 
+[ knowledge/NN ]
+and/CC examine/VB 
+[ further/RB reassuring/JJ information/NN ]
+./. 
+
+[ Risks/NNS ]
+taken/VBN will/MD then/RB be/VB taken/VBN with/IN 
+[ proper/JJ information/NN ]
+obtained/VBN 
+[ first/JJ ]
+./. 
+
+Secondly/RB ,/, to/TO look/VB beyond/IN 
+[ the/DT short-term/JJ consequences/NNS ]
+of/IN 
+[ a/DT nuclear/JJ programme/NN ]
+./. 
+
+To/TO fulfill/VB 
+[ these/DT obligations/NNS policy-makers/NN ]
+have/VBP to/TO be/VB educated/VBN to/TO be/VB open/JJ and/CC 
+[ honest/JJ ]
+about/IN 
+[ the/DT nuclear/JJ future/NN ]
+and/CC to/TO be/VB seen/VBN to/TO be/VB looking/VBG further/RB ahead/RB than/IN 
+[ the/DT immediate/JJ future/NN ]
+./. 
+
+(/( 
+[ U.K/NNP ]
+./. 
+
+)/) ./. 
+
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ the/DT biography/NN ]
+of/IN 
+[ a/DT man/NN ]
+obviously/RB much/RB liked/JJ and/CC respected/JJ ./. 
+
+[ It/PRP ]
+gives/VBZ 
+[ some/DT personal/JJ details/NNS ]
+but/CC is/VBZ mainly/RB concerned/VBN with/IN 
+[ his/PRP$ scientific/JJ work/NN ]
+and/CC 
+[ achievements/NNS ]
+on/IN 
+[ major/JJ projects/NNS ]
+./. 
+
+Thus/RB ,/, 
+[ some/DT background/NN information/NN ]
+on/IN 
+[ those/DT projects/NNS ]
+is/VBZ also/RB given/VBN as/IN 
+[ a/DT context/NN ]
+to/TO 
+[ the/DT work/NN ]
+of/IN 
+[ John/NNP Adams/NNP ]
+./. 
+
+[ The/DT biography/NN ]
+is/VBZ written/VBN in/IN 
+[ sections/NNS ]
+;/: 
+[ early/JJ years/NNS ]
+,/, 
+[ the/DT creation/NN ]
+of/IN 
+[ CERN/NNP ]
+,/, 
+[ Adams/NNP ]
+at/IN 
+[ CERN/NNP 1953-1961/CD ]
+,/, 
+[ Adams/NNP ]
+and/CC 
+[ thermonuclear/JJ research/NN 1958-1969/CD ]
+,/, (/( 
+[ which/WDT ]
+includes/VBZ 
+[ his/PRP$ Directorship/NN ]
+of/IN 
+[ the/DT Culham/NNP Laboratory/NNP ]
+)/) ,/, 
+[ Adams/NNP ]
+and/CC 
+[ the/DT Ministry/NNP ]
+of/IN 
+[ Technology/NNP 1965-1966/CD ]
+,/, 
+[ member/NN ]
+for/IN 
+[ research/NN ]
+of/IN 
+[ the/DT UK/NNP Atomic/NNP Energy/NNP Authority/NNP 1966-1969/CD ]
+,/, 
+[ Adams/NNP ]
+at/IN 
+[ CERN/NNP 1969-1984/CD ]
+(/( as/IN 
+[ Director/NNP General/NNP ]
+of/IN 
+[ the/DT SPS/NNP ]
+,/, as/IN 
+[ Executive/NNP Director-General/NNP ]
+of/IN 
+[ CERN/NNP 1979-1981/CD ]
+and/CC 
+[ work/NN ]
+at/IN 
+[ CERN/NNP ]
+up/IN to/TO 
+[ 1984/CD ]
+)/) ./. 
+
+======================================
+
+[ Oil/NN production/NN ]
+in/IN 
+[ USSR/NNP ]
+has/VBZ decreased/VBN continuously/RB 
+[ 2/CD years/NNS ]
+of/IN 
+[ 1984/CD ]
+and/CC 
+[ '85/CD '85/CD ]
+./. 
+
+[ The/DT reason/NN ]
+for/IN 
+[ depressed/VBN oil/NN production/NN ]
+in/IN 
+[ USSR/NNP ]
+,/, 
+[ No./NN 1/CD production/NN volume/NN ]
+and/CC 
+[ No./NN 3/CD confirmed/VBN reserve/NN quantity/NN ]
+at/IN 
+[ present/NN ]
+in/IN 
+[ the/DT world/NN ]
+,/, is/VBZ 
+[ the/DT delay/NN ]
+of/IN 
+[ development/NN technology/NN ]
+./. 
+
+[ USSR/NNP ]
+is/VBZ importing/VBG most/JJS of/IN 
+[ industrial/JJ materials/NNS ]
+and/CC 
+[ technologies/NNS ]
+from/IN 
+[ the/DT Western/JJ countries/NNS ]
+,/, 
+[ the/DT cost/NN ]
+of/IN 
+[ which/WDT ]
+is/VBZ compensated/VBN by/IN 
+[ 60/CD %/NN ]
+by/IN 
+[ oil/NN export/NN ]
+./. 
+
+However/RB ,/, 
+[ the/DT quantity/NN ]
+of/IN 
+[ Russian/JJ crude/JJ oil/NN export/NN ]
+was/VBD decreased/VBN greatly/RB by/IN 
+[ 17/CD %/NN ]
+from/IN 
+[ the/DT previous/JJ year/NN ]
+,/, because/IN of/IN 
+[ high/JJ prices/NNS ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ the/DT price/NN ]
+of/IN 
+[ crude/JJ oil/NN ]
+suddenly/RB dropped/VBN ,/,  resulting/VBG in/IN 
+[ an/DT estimated/VBN oil/NN export/NN income/NN reduction/NN ]
+of/IN 
+[ 40/CD %/NN ]
+or/CC 
+[ more/JJR ]
+in/IN 
+[ 1987/CD ]
+./. 
+
+[ The/DT production/NN quantity/NN ]
+in/IN 
+[ 1987/CD ]
+has/VBZ been/VBN slightly/RB increased/VBN to/TO 
+[ 610/CD million/CD tons/NNS ]
+because/RB of/IN 
+[ increasing/VBG equipment/NN investment/NN ]
+./. 
+
+However/RB ,/, 
+[ the/DT quantity/NN ]
+might/MD become/VB again/RB lower/JJR than/IN 
+[ 600/CD million/CD tons/NNS ]
+in/IN 
+[ 1990/CD ]
+./. 
+
+[ These/DT ]
+are/VBP caused/VBN by/IN 
+[ recession/NN ]
+in/IN 
+[ equipment/NN investment/NN ]
+due/JJ to/TO 
+[ shortage/NN ]
+of/IN 
+[ foreign/JJ currency/NN ]
+./. 
+
+(/( 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ This/DT system/NN ]
+provides/VBZ 
+[ high/JJ comprehensive/JJ energy/NN efficiency/NN ]
+by/IN 
+[ combining/VBG shaft/NN power/NN ]
+with/IN 
+[ waste/NN heat/NN recovery/NN ]
+with/IN 
+[ driving/JJ power/NN ]
+of/IN 
+[ gas/NN turbine/NN ]
+,/, 
+[ etc/FW ]
+./. 
+
+[ The/DT system/NN ]
+is/VBZ classified/VBN into/IN 
+[ power/NN generation/NN ]
+,/, 
+[ heat/NN pump/NN ]
+and/CC 
+[ moving/JJ power/NN ]
+./. 
+
+[ The/DT power/NN generation/NN system/NN ]
+is/VBZ 
+[ a/DT cogeneration/NN type/NN on-site/JJ system/NN ]
+bringing/VBG about/IN 
+[ ahigh/JJ efficiency/NN ]
+of/IN 
+[ 70/CD ]
+-/SYM 
+[ 80/CD %/NN ]
+compared/VBN with/IN 
+[ 35/CD %/NN ]
+of/IN 
+[ energy/NN efficiency/NN ]
+for/IN 
+[ conventional/JJ power/NN generation/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ waste/NN heat/NN ]
+from/IN 
+[ gas/NN engine/NN ]
+can/MD be/VB used/VBN ./. 
+
+[ The/DT heat/NN pump/NN system/NN ]
+brings/VBZ about/IN 
+[ 1.5/CD ]
+or/CC 
+[ 2/CD times/CC ]
+as/RB high/JJ as/IN 
+[ the/DT motor/NN heat/NN pump/NN ]
+or/CC 
+[ the/DT boiler/NN ]
+,/, against/IN 
+[ primary/JJ energy/NN ]
+./. 
+
+[ The/DT moving/JJ power/NN system/NN ]
+can/MD be/VB operated/VBN exactly/RB according/VBG to/TO demand/VB by/IN 
+[ means/NNS ]
+of/IN 
+[ revolution/NN frequency/NN control/NN ]
+in/IN 
+[ a/DT high/JJ efficiency/NN using/VBG waste/NN heat/NN ]
+./. 
+
+(/( 
+[ 11/CD figs/NNS ]
+)/) 
+======================================
+
+[ Agency/NNP ]
+of/IN 
+[ Natural/NNP Resources/NNP ]
+and/CC 
+[ Energy/NNP ]
+published/VBD 
+[ Report/NNP ]
+of/IN 
+[ Cogeneration/NNP Operation/NNP Standard/NNP Study/NNP Committee/NNP ]
+in/IN 
+[ May/NNP ]
+,/, 
+[ 1986/CD ]
+./. 
+
+[ The/DT contents/NNS ]
+include/VBP (/( 
+[ 1/LS ]
+)/) 
+[ technical/JJ requirements/NNS ]
+for/IN 
+[ incorporation/NN ]
+to/TO 
+[ ordinary/JJ utility/NN power/NN system/NN ]
+,/, (/( 
+[ 2/LS ]
+)/) 
+[ specification/NN ]
+of/IN 
+[ utility/JJ reserve/JJ power/NN ]
+,/, (/( 
+[ 3/LS ]
+)/) 
+[ safety/NN measures/NNS ]
+for/IN 
+[ gas/NN turbine/NN ]
+,/, 
+[ gas/NN engine/NN ]
+,/, 
+[ etc/FW ]
+./. 
+
+[ Technical/NNP Guideline/NNP ]
+for/IN 
+[ System/NNP Connection/NNP ]
+is/VBZ issued/VBN for/IN (/( 
+[ 1/LS ]
+)/) ./. 
+
+[ The/DT reserve/JJ power/NN contract/NN agreement/NN ]
+,/, applicable/JJ to/TO 
+[ nonutility/JJ power/NN generation/NN system/NN ]
+,/, is/VBZ launched/VBN (/( issued/VBN 
+[ Aug./NNP 15/CD ]
+,/, 
+[ 1986/CD ]
+)/) ./. 
+
+Regarding/VBG 
+[ incorporation/NN ]
+into/IN 
+[ ordinary/JJ utility/JJ power/NN system/NN ]
+,/, 
+[ no/DT technical/JJ matters/NNS ]
+will/MD occur/VB in/IN 
+[ principle/NN ]
+provided/VBN that/IN 
+[ supply/NN reliability/NN ]
+and/CC 
+[ safety/NN ]
+are/VBP satisfied/VBN ./. 
+
+(/( 
+[ 2/CD tabs/NNS ]
+)/) 
+======================================
+
+[ Mechanical/JJ properties/NNS ]
+of/IN 
+[ cellulose/NN acetate/NN ]
+were/VBD studied/VBN by/IN carrying/VBG out/RP 
+[ a/DT uniaxial/JJ tensile/JJ test/NN ]
+and/CC 
+[ a/DT short-time/JJ creep/JJ test/NN ]
+at/IN 
+[ five/CD different/JJ atmospheric/JJ temperature/NN ]
+./. 
+
+(/( 
+[ 1/LS ]
+)/) 
+[ Static/JJ tensile/JJ test/NN ]
+shows/VBZ 
+[ a/DT behavior/NN ]
+of/IN 
+[ complete/JJ viscoelastic/JJ body/NN ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) 
+[ Young/JJ ]
+
+[ 's/POS modulus/NN ]
+and/CC 
+[ yield/NN stress/NN ]
+can/MD be/VB expressed/VBN by/IN 
+[ a/DT primary/JJ function/NN ]
+of/IN 
+[ an/DT atmospheric/JJ temperature/NN ]
+./. 
+
+[ Poisson/NNP 's/POS ratio/NN ]
+is/VBZ 
+[ 0.41/CD ]
+irrespective/JJ of/IN 
+[ temperature/NN ]
+./. 
+
+(/( 
+[ 3/LS ]
+)/) 
+[ Stress-strain/JJ relation/NN ]
+is/VBZ independent/JJ with/IN 
+[ the/DT atmospheric/JJ temperature/NN ]
+when/WRB 
+[ a/DT yield/NN point/NN ]
+is/VBZ defined/VBN as/IN 
+[ a/DT point/NN ]
+where/WRB 
+[ the/DT plastic/JJ strain/NN ]
+is/VBZ 
+[ 0.2/CD %/NN ]
+./. 
+
+(/( 
+[ 4/LS ]
+)/) 
+[ A/DT short-time/JJ creep/JJ experiment/NN ]
+shows/VBZ that/IN 
+[ a/DT transfer/NN coefficient/NN ]
+in/IN 
+[ a/DT conversion/NN curve/NN ]
+of/IN 
+[ creep/JJ compliance/NN ]
+is/VBZ expressed/VBN in/IN 
+[ a/DT primary/JJ function/NN ]
+of/IN 
+[ the/DT atmospheric/JJ temperature/NN ]
+./. 
+
+(/( 
+[ 5/LS ]
+)/) 
+[ An/DT equation/NN ]
+was/VBD obtained/VBN for/IN 
+[ creep/JJ compliance/NN ]
+with/IN 
+[ functions/NNS ]
+of/IN 
+[ atmospheric/JJ temperature/NN ]
+and/CC 
+[ time/NN ]
+./. 
+
+(/( 
+[ 12/CD figs/NNS ]
+,/, 
+[ 7/CD refs/NNS ]
+)/) 
+======================================
+
+[ Cobalt-based/JJ amorphous/JJ alloy/NN ]
+with/IN 
+[ low/JJ magnetstriction/NN ]
+was/VBD examined/VBN for/IN 
+[ its/PRP$ practical/JJ usability/NN ]
+for/IN 
+[ a/DT high/JJ frequency/NN core/NN ]
+./. 
+
+[ Especially/RB Sm/NN ]
+was/VBD added/VBN to/TO enhance/VB 
+[ its/PRP$ heat/NN stability/NN ]
+./. 
+
+[ The/DT result/NN ]
+of/IN 
+[ examination/NN ]
+was/VBD as/IN follows/VBZ :/: 
+[ 1/LS ]
+)/) 
+[ Heat/NN treatment/NN ]
+in/IN 
+[ the/DT magnetic/JJ field/NN ]
+was/VBD 
+[ effective/NN ]
+for/IN 
+[ Co-based/JJ amorphous/JJ alloys/NNS ]
+./. 
+
+[ 2/LS ]
+)/) 
+[ Addition/NN ]
+of/IN 
+[ Sm/NN ]
+increased/VBD 
+[ the/DT electric/JJ resistance/NN ]
+./. 
+
+[ The/DT presence/NN ]
+of/IN 
+[ Ni/NN ]
+increased/VBD 
+[ the/DT temperature/NN ]
+of/IN 
+[ crystallization/NN ]
+./. 
+
+[ 3/LS ]
+)/) 
+[ Addition/NN ]
+of/IN 
+[ Ni/NN ]
+reduced/VBD 
+[ both/DT ]
+
+[ the/DT Curie/NNP temperature/NN ]
+and/CC 
+[ the/DT saturation/NN magnetization/NN ]
+;/: 
+[ it/PRP ]
+increased/VBD 
+[ the/DT electric/JJ resistance/NN ]
+and/CC reduced/VBD 
+[ the/DT coersive/JJ force/NN ]
+./. 
+
+[ 4/LS ]
+)/) 
+[ Value/NN ]
+of/IN 
+[ Hc/NN =/SYM 115/CD Oe/NN ]
+at/IN 
+[ 100/CD KHz/NNS ]
+indicated/VBD that/IN 
+[ Co-based/JJ amorphous/JJ alloy/NN ]
+was/VBD superior/JJ to/TO 
+[ Fe-Nialloys/NNS ]
+for/IN 
+[ a/DT high/JJ frequency/NN core/NN ]
+./. 
+
+======================================
+
+[ Structure/NN ]
+of/IN 
+[ soot/NN particulates/NNS ]
+exhausted/VBN from/IN 
+[ a/DT diesel/NN engine/NN ]
+has/VBZ never/RB been/VBN considered/VBN in/IN 
+[ the/DT past/JJ proposals/NNS ]
+for/IN 
+[ their/PRP$ formation/NN ]
+or/CC 
+[ oxidation/NN processes/NNS ]
+./. 
+
+[ This/DT study/NN ]
+was/VBD made/VBN to/TO clarify/VB 
+[ the/DT fine/JJ structure/NN ]
+of/IN 
+[ the/DT soot/NN particulates/NNS ]
+by/IN 
+[ means/NNS ]
+of/IN 
+[ an/DT electron/NN microscope/NN ]
+./. 
+
+(/( 
+[ 1/LS ]
+)/) 
+[ Microscopic/JJ sample/NN ]
+should/MD be/VB collected/VBN on/IN 
+[ the/DT microgrid/NN ]
+with/IN 
+[ 1/CD micron/NN level/NN ]
+of/IN 
+[ pore/NN size/NN ]
+,/, as/IN 
+[ the/DT magnification/NN ]
+is/VBZ high/JJ as/IN 
+[ 300/CD -400,000/CD times/NNS ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) Although/IN 
+[ the/DT typical/JJ layer/NN plane/NN structure/NN ]
+
+[ which/WDT ]
+characterizes/VBZ 
+[ the/DT graphite/NN carbon/NN crystal/NN ]
+is/VBZ not/RB observed/VBN inside/RB of/IN 
+[ soot/NN particulates/NNS ]
+,/, 
+[ it/PRP ]
+is/VBZ observed/VBN in/IN 
+[ the/DT peripheral/JJ portion/NN ]
+with/IN 
+[ 0.35/CD nm/NN ]
+of/IN 
+[ average/JJ distance/NN ]
+between/IN 
+[ the/DT layer/NN planes/NNS ]
+showing/VBG 
+[ a/DT little/RB more/JJR layer/NN structure/NN ]
+./. 
+
+(/( 
+[ 3/LS ]
+)/) 
+[ Layer/NN plane/NN structure/NN ]
+is/VBZ not/RB observed/VBN in/IN 
+[ the/DT soot/NN ]
+after/IN 
+[ the/DT generation/NN ]
+of/IN 
+[ heat/NN ]
+although/IN 
+[ the/DT soot/NN particulates/NNS ]
+in/IN 
+[ the/DT combustion/NN stage/NN ]
+show/VBP 
+[ a/DT certain/JJ degree/NN ]
+of/IN 
+[ layer/NN plane/NN structure/NN ]
+in/IN 
+[ the/DT initial/JJ ]
+and/CC 
+[ middle/JJ stages/NNS ]
+of/IN 
+[ combustion/NN ]
+./. 
+
+(/( 
+[ 11/CD figs/NNS ]
+,/, 
+[ 7/CD refs/NNS ]
+)/) 
+======================================
+
+[ Study/NN ]
+on/IN 
+[ the/DT thermal/JJ decomposition/NN ]
+of/IN 
+[ fuel/NN ]
+using/VBG 
+[ a/DT thermal/JJ decomposition/NN equipment/NN ]
+clearly/RB indicated/VBD 
+[ the/DT difference/NN ]
+in/IN 
+[ the/DT process/NN ]
+of/IN 
+[ decomposition/NN ]
+between/IN 
+[ the/DT light/JJ oil/NN ]
+and/CC 
+[ the/DT liquefied/VBN coal/NN oil/NN ]
+
+[ which/WDT ]
+contained/VBD 
+[ high/JJ amount/NN ]
+of/IN 
+[ aromatic/JJ hydrocarbons/NNS ]
+./. 
+
+[ The/DT differences/NNS ]
+are/VBP summarized/VBN as/IN follows/VBZ :/: (/( 
+[ 1/LS ]
+)/) 
+[ There/EX ]
+is/VBZ 
+[ a/DT definite/JJ correlation/NN ]
+among/IN 
+[ setane/NN index/NN ]
+,/, delay/NN in/IN 
+[ ignition/NN ]
+,/, and/CC 
+[ miscellaneous/JJ engine/NN characteristics/NNS ]
+,/, in/IN 
+[ a/DT fuel/NN mixture/NN ]
+of/IN 
+[ coal/NN ]
+liquefied/VBN 
+[ oil/NN ]
+and/CC 
+[ light/JJ oil/NN ]
+./. 
+
+[ Qualitative/JJ prediction/NN ]
+of/IN 
+[ the/DT combustion/NN characteristics/NNS ]
+of/IN 
+[ the/DT engine/NN ]
+can/MD be/VB made/VBN by/IN measuring/VBG 
+[ API/NNP specific/NN gravity/NN ]
+and/CC 
+[ 50/CD %/NN distillation/NN temperature/NN ]
+./. 
+
+(/( 
+[ 2/LS ]
+)/) Under/IN 
+[ the/DT same/JJ combusting/NN condition/NN ]
+,/, 
+[ a/DT fuel/NN ]
+with/IN 
+[ higher/JJR content/NN ]
+of/IN 
+[ the/DT aromatic/JJ hydrocarbons/NNS ]
+gives/VBZ 
+[ higher/JJR smoke-evolving/JJ temperature/NN ]
+./. 
+
+(/( 
+[ 3/LS ]
+)/) 
+[ Aliphatic/JJ hydrocarbons/NNS ]
+in/IN 
+[ the/DT light/JJ oil/NN ]
+are/VBP decomposed/VBN into/IN 
+[ hydrocarbons/NNS ]
+with/IN 
+[ lower/JJR boiling/NN point/NN ]
+by/IN 
+[ the/DT break/NN ]
+of/IN 
+[ the/DT C/NNP ]
+-/: 
+[ C/NNP bond/NN ]
+at/IN 
+[ 400/CD ]
+-/: 
+[ 500/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NNP ]
+./. 
+
+At/IN around/IN 
+[ 600/CD ]
+{/( 
+[ sup/NN 0/CD ]
+}/) 
+[ C/NNP ]
+and/CC 
+[ higher/JJR ]
+,/, 
+[ they/PRP ]
+are/VBP converted/VBN by/IN 
+[ polycondensation/NN ]
+into/IN 
+[ cycloaromatic/JJ hydrocarbons/NNS ]
+./. 
+
+Liquefied/VBN 
+[ coal/NN oil/NN ]
+
+[ which/WDT ]
+contains/VBZ 
+[ more/RBR aromatic/JJ compounds/NNS ]
+does/VBZ not/RB decompose/VB so/RB much/JJ ,/, but/CC turns/VBZ into/IN 
+[ benzene/NN ]
+and/CC 
+[ naphthalene/NN ]
+,/, 
+[ etc/FW ]
+../. (/( 
+[ 9/CD figs/NNS ]
+,/, 
+[ 1/CD tab/NN ]
+)/) 
+======================================
+
+[ This/DT analysis/NN ]
+is/VBZ related/VBN with/IN 
+[ individual/JJ room/NN radiator/NN ]
+when/WRB 
+[ a/DT collective/JJ home/NN ]
+or/CC 
+[ a/DT hotel/NN ]
+is/VBZ centrally/RB heated/VBN by/IN 
+[ means/NNS ]
+of/IN 
+[ a/DT direct/JJ heating/NN system/NN ]
+./. 
+
+Since/IN 
+[ the/DT rate/NN ]
+of/IN 
+[ convective/JJ heat/NN transfer/NN ]
+from/IN 
+[ the/DT heated/VBN flat/JJ plates/NNS ]
+is/VBZ affected/VBN by/IN 
+[ the/DT surface/NN temperature/NN ]
+of/IN 
+[ the/DT flat/JJ plate/NN ]
+
+[ itself/PRP ]
+,/, 
+[ temperature/NN difference/NN ]
+between/IN 
+[ the/DT flat/JJ plate/NN ]
+and/CC 
+[ the/DT ambient/JJ air/NN ]
+,/, and/CC by/IN 
+[ the/DT size/NN ]
+of/IN 
+[ a/DT cavity/NN ]
+,/, 
+[ the/DT heat/NN transfer/NN ]
+is/VBZ evaluated/VBN by/IN 
+[ the/DT calorimetry/NN ]
+for/IN 
+[ various/JJ conditions/NNS ]
+./. 
+
+[ The/DT aspect/NN ratio/NN ]
+of/IN 
+[ the/DT flat/JJ plates/NNS ]
+used/VBN in/IN 
+[ the/DT present/JJ observation/NN ]
+are/VBP 
+[ 1.0/CD ]
+and/CC 
+[ 1.5/CD ]
+respectively/RB ,/, and/CC 
+[ the/DT gap/NN ]
+between/IN 
+[ the/DT vertical/JJ wall/NN ]
+of/IN 
+[ the/DT cavity/NN ]
+and/CC 
+[ the/DT flat/JJ plate/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT surrounding/VBG air/NN ]
+is/VBZ drawn/VBN is/VBZ changed/VBN from/IN 
+[ 0/CD mm/NNS ]
+to/TO 
+[ the/DT infinity/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ air/NN movement/NN ]
+around/IN 
+[ the/DT flat/JJ plates/NNS ]
+and/CC 
+[ the/DT cavity/NN wall/NN ]
+is/VBZ visualized/VBN by/IN 
+[ using/VBG cigarette/NN smoke/NN ]
+,/, and/CC is/VBZ applied/VBN for/IN 
+[ the/DT analysis/NN ]
+of/IN 
+[ the/DT heat/NN transfer/NN characteristics/NNS ]
+of/IN 
+[ a/DT heater/NN ]
+
+[ which/WDT ]
+is/VBZ simulated/VBN by/IN 
+[ the/DT vertical/JJ flat/JJ plate/NN ]
+./. 
+
+(/( 
+[ 10/CD figs/NNS ]
+,/, 
+[ 6/CD refs/NNS ]
+)/) 
+======================================
+
+[ A/DT grab/NN ]
+with/IN 
+[ an/DT expandable/JJ ring/NN ]
+can/MD be/VB fixed/VBN in/IN 
+[ an/DT opening/NN ]
+of/IN 
+[ the/DT tube/NN plate/NN ]
+of/IN 
+[ a/DT steam/NN generator/NN ]
+of/IN 
+[ a/DT PWR/NNP ]
+allowing/VBG 
+[ a/DT reliable/JJ fastening/NN ]
+of/IN 
+[ a/DT remote/JJ manipulator/NN ]
+for/IN 
+[ maintenance/NN ]
+or/CC 
+[ verification/NN ]
+./. 
+
+======================================
+
+[ \/NN 170\/NN Mossbauer/NNP measurements/NNS ]
+show/VBP 
+[ that/DT magnetic/JJ ordering/NN ]
+occurs/VBZ within/IN 
+[ the/DT Yb/NN sublattices/NNS ]
+of/IN 
+[ YbCo\/NN 2\/NN 2/CD \//NN ]
+and/CC 
+[ YbFe\/NN 2\/NN 2/CD \//NN ]
+at/IN 
+[ 1.7/CD ]
+and/CC 
+[ 0.75K/CD ]
+,/, respectively/RB ./. 
+
+[ The/DT saturated/JJ magnetic/JJ moments/NNS ]
+are/VBP 
+[ 1.4/CD ]
+and/CC 
+[ 2.0/CD ]
+{/( 
+[ mu/NN ]
+}/) 
+[ \/sub/NN B/NN \//NN ]
+and/CC are/VBP directed/VBN near/IN 
+[ directions/NNS ]
+perpendicular/JJ to/TO 
+[ the/DT local/JJ tetragonal/JJ symmetry/NN axis/NN ]
+./. 
+
+[ These/DT moments/NNS ]
+and/CC 
+[ the/DT observed/VBN 4f-shell/NN electric-field/NN gradients/NNS ]
+can/MD be/VB accounted/VBN for/IN in/IN 
+[ terms/NNS ]
+of/IN 
+[ Yb\/NN 3/CD +/SYM \//NN charge/NN states/NNS ]
+experiencing/VBG 
+[ crystalline/JJ electric/JJ fields/NNS ]
+./. 
+
+======================================
+
+[ We/PRP ]
+performed/VBD 
+[ electron/NN ]
+tunnelling/NN 
+[ experiments/NNS ]
+into/IN superconducting/NN 
+[ YB\/NN 6/CD \//NN ]
+(/( 
+[ T\/sub/NN c/NN \//NN =/SYM 7.1K/CD ]
+)/) ,/, using/VBG 
+[ natural/JJ oxide/NN ]
+as/IN 
+[ a/DT barrier/NN ]
+./. 
+
+In/IN 
+[ the/DT second/JJ derivative/NN ]
+of/IN 
+[ the/DT current-voltage/JJ characteristic/NN ]
+,/, 
+[ we/PRP ]
+found/VBD 
+[ two/CD peaks/NNS ]
+corresponding/JJ to/TO 
+[ a/DT shoulder/NN ]
+around/IN 
+[ 5/CD meV/NN ]
+and/CC 
+[ a/DT peak/NN ]
+around/IN 
+[ 8/CD meV/NN ]
+,/, respectively/RB ,/, in/IN 
+[ the/DT Eliashberg/NNP function/NN ]
+./. 
+
+[ Our/PRP$ data/NN|NNS ]
+allowed/VBD for/IN 
+[ inversion/NN ]
+of/IN 
+[ the/DT Eliashberg/NNP equations/NNS ]
+without/IN 
+[ consideration/NN ]
+of/IN 
+[ proximity/NN effects/NNS ]
+./. 
+
+[ The/DT results/NNS ]
+indicate/VBP 
+[ substantial/JJ electron-phonon/NN ]
+coupling/NN for/IN 
+[ the/DT translational/JJ modes/NNS ]
+of/IN 
+[ the/DT Y/NNP ]
+and/CC 
+[ B\/NN 6/CD \//NN sublattices/NNS ]
+,/, while/IN 
+[ the/DT coupling/NN ]
+to/TO 
+[ the/DT torsional/JJ ]
+and/CC 
+[ deformational/JJ modes/NNS ]
+of/IN 
+[ the/DT B\/NN 6/CD \//NN sublattice/NN ]
+appeared/VBD to/TO be/VB weak/JJ ./. 
+
+======================================
+
+[ EXAFS/NNP ]
+and/CC 
+[ XANES/NNP spectra/NNS ]
+at/IN 
+[ the/DT edges/NNS ]
+of/IN 
+[ Cu/NN ]
+and/CC 
+[ Y/NNP ]
+have/VBP been/VBN measured/VBN in/IN 
+[ the/DT YBa\/NN 2\/NN 3\/NN 9/CD ]
+-/: {/( delta/NN }/) (/( {/( delta/NN }/) 
+[ 4A2/NN ]
+)/) 
+[ superconductor/NN ]
+./. 
+
+[ The/DT oxygen/NN coordination/NN ]
+around/IN 
+[ the/DT two/CD metals/NNS ]
+is/VBZ found/VBN to/TO generally/RB agree/VB with/IN 
+[ the/DT model/NN ]
+suggested/VBN by/IN 
+[ diffraction/NN experiments/NNS ]
+,/, especially/RB as/IN 
+[ the/DT occurrence/NN ]
+of/IN 
+[ two/CD distinct/JJ distances/NNS ]
+between/IN 
+[ Cu/NN ]
+and/CC 
+[ O/NN ]
+along/IN 
+[ the/DT perovskite/NN structure/NN c-axis/NN ]
+is/VBZ concerned/VBN ./. 
+
+Conversely/RB ,/, 
+[ some/DT evidence/NN ]
+is/VBZ found/VBN for/IN 
+[ a/DT partial/JJ occupation/NN ]
+of/IN 
+[ the/DT oxygen/NN sites/NNS ]
+in/IN 
+[ the/DT yttrium/NN plane/NN ]
+,/, 
+[ a/DT result/NN ]
+excluded/VBN by/IN 
+[ diffraction/NN experiments/NNS ]
+./. 
+
+[ This/DT ]
+is/VBZ better/RB supported/VBN by/IN 
+[ EXAFS/NNP spectra/NNS ]
+at/IN 
+[ the/DT Y-edge/NN ]
+./. 
+
+[ The/DT XANES/NNP spectra/NNS ]
+of/IN 
+[ the/DT superconductor/NN ]
+are/VBP remarkably/RB different/JJ from/IN 
+[ those/DT ]
+of/IN 
+[ Cu/NN oxides/NNS ]
+suggesting/VBG 
+[ the/DT presence/NN ]
+of/IN 
+[ both/DT divalent/JJ ]
+and/CC 
+[ trivalent/JJ Cu/NN ]
+,/, in/IN 
+[ agreement/NN ]
+with/IN 
+[ EXAFS/NNP ]
+and/CC 
+[ diffraction/NN results/NNS ]
+./. 
+
+======================================
+
+[ The/DT YBa\/NN 2\/NN 3\/NN 7/CD \//NN compound/NN ]
+has/VBZ been/VBN prepared/VBN as/IN 
+[ a/DT single-phase/JJ material/NN ]
+./. 
+
+[ It/PRP ]
+exhibits/VBZ 
+[ a/DT sharp/JJ superconducting/NN transition/NN ]
+around/IN 
+[ 93/CD K/NNP ]
+
+[ which/WDT ]
+is/VBZ observed/VBN consistently/RB by/IN 
+[ resistance/NN ]
+and/CC 
+[ magnetic-susceptibility/NN experiments/NNS ]
+./. 
+
+[ Upper/JJ critical/JJ fields/NNS H\/NN c2/NN \//NN ]
+have/VBP been/VBN measured/VBN just/RB below/IN 
+[ T\/NN c/NN \//NN ]
+up/IN to/TO 
+[ 42T/NN ]
+,/, using/VBG 
+[ a/DT high/JJ ]
+pulsed/VBN 
+[ magnetic/JJ field/NN ]
+./. 
+
+[ We/PRP ]
+conclude/VBP that/IN 
+[ the/DT H\/NN c2/NN \//NN value/NN ]
+at/IN 
+[ 77K/NN ]
+is/VBZ about/IN 
+[ 80T/NN ]
+and/CC that/IN 
+[ the/DT extrapolated/VBN value/NN ]
+at/IN 
+[ O.OK/NN ]
+could/MD exceed/VB 
+[ 250T/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+have/VBP measured/VBN 
+[ X-ray/NN diffraction/NN ]
+(/( 
+[ XRD/NNP ]
+)/) ,/, 
+[ high-resolution/JJ electron/NN microscopy/NN ]
+(/( 
+[ HREM/NNP ]
+)/) ,/, 
+[ resistivity/NN ]
+and/CC 
+[ susceptibility/NN ]
+for/IN 
+[ a/DT series/NN ]
+of/IN differently/RB prepared/VBN 
+[ YBa\/NN 2\/NN 3\/NN 7/CD ]
+-/: {/( 
+[ sigma/NN ]
+}/) 
+[ samples/NNS ]
+./. 
+
+[ The/DT high-temperature/JJ superconductivity/NN ]
+was/VBD studied/VBN as/IN 
+[ a/DT function/NN ]
+of/IN 
+[ variable/JJ quench/NN temperature/NN ]
+./. 
+
+Quenching/VBG above/IN 
+[ 820\/sup/CD O\/C/NN ]
+leaves/VBZ 
+[ the/DT sample/NN ]
+in/IN 
+[ the/DT tetragonal/JJ phase/NN ]
+and/CC destroys/VBZ 
+[ the/DT superconductivity/NN ]
+./. 
+
+[ We/PRP ]
+suggest/VBP that/IN 
+[ the/DT superconductivity/NN ]
+is/VBZ located/VBN in/IN 
+[ the/DT CuO/NN chains/NNS ]
+
+[ which/WDT ]
+are/VBP extremely/RB sensitive/JJ to/TO 
+[ oxygen/NN loss/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+show/VBP that/IN 
+[ a/DT bidimensional/JJ electronic/JJ model/NN ]
+can/MD explain/VB 
+[ both/DT ]
+
+[ the/DT large/JJ values/NNS ]
+of/IN 
+[ T\/NN c/NN \//NN ]
+and/CC 
+[ the/DT low/JJ values/NNS ]
+of/IN {/( 
+[ gamma/NN ]
+}/) 
+[ =/SYM Cv\/T/NN ]
+observed/VBN in/IN 
+[ the/DT superconducting/NN copper/NN oxides/NNS ]
+of/IN 
+[ mixed/JJ valency/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ well/RB known/VBN that/IN 
+[ two/CD dimensional/JJ crystals/NNS ]
+exhibit/VBP 
+[ logarithmic/JJ singularities/NNS ]
+in/IN 
+[ the/DT electronic/JJ density/NN ]
+of/IN 
+[ states/NNS ]
+./. 
+
+If/IN 
+[ we/PRP ]
+assume/VBP that/IN 
+[ the/DT Fermi/NNP level/NN ]
+lies/VBZ in/IN 
+[ one/CD ]
+of/IN 
+[ these/DT singularities/NNS ]
+,/, 
+[ we/PRP ]
+give/VBP 
+[ an/DT expression/NN ]
+for/IN {/( 
+[ gamma/NN ]
+}/) and/CC 
+[ the/DT Pauli/NNP susceptibility/NN chi\/sub/NN p/NN \//NN ]
+./. 
+
+[ The/DT calculated/VBN values/NNS ]
+are/VBP in/IN 
+[ good/JJ agreement/NN ]
+with/IN 
+[ recent/JJ experiments/NNS ]
+./. 
+
+For/IN 
+[ a/DT weak/JJ coupling/NN superconductor/NN ]
+,/, using/VBG 
+[ B.C.S./NNP theory/NN ]
+,/, 
+[ we/PRP ]
+found/VBD that/IN 
+[ T\/NN c/NN \//NN ]
+is/VBZ proportional/JJ to/TO 
+[ exp/NN ]
+(/( 
+[ -1/CD \//NN ]
+{/( radical/NN }/) {/( 
+[ lambda/NN ]
+}/) ,/, in/IN 
+[ 2/CD dimensions/NNS ]
+,/, where/WRB {/( 
+[ lambda/NN ]
+}/) is/VBZ 
+[ the/DT coupling/NN constant/NN ]
+./. 
+
+For/IN 
+[ a/DT low/JJ value/NN ]
+of/IN {/( 
+[ gamma/NN ]
+}/) ,/, {/( 
+[ lambda/NN ]
+}/) is/VBZ small/JJ and/CC 
+[ exp/NN ]
+(/( 
+[ -1/CD \//NN ]
+{/( radical/NN }/) {/( 
+[ lambda/NN ]
+}/) is/VBZ much/RB greater/JJR than/IN 
+[ exp/NN ]
+(/( 
+[ -1/CD \//NN ]
+{/( 
+[ lambda/NN ]
+}/) ,/, 
+[ expression/NN ]
+valid/JJ in/IN 
+[ 3/CD dimensions/NNS ]
+./. 
+
+======================================
+
+[ Two/CD phenomena/NNS ]
+are/VBP pointed/VBN out/RB 
+[ which/WDT ]
+,/, if/IN observed/VBN ,/, would/MD testify/VB that/IN 
+[ the/DT superconductivity/NN ]
+in/IN 
+[ the/DT Bechgaard/NNP salts/NNS ]
+belongs/VBZ to/TO 
+[ the/DT triplet/NN pairing/NN ]
+:/: 
+[ excitation/NN ]
+of/IN 
+[ the/DT spin/NN waves/NNS ]
+in/IN 
+[ the/DT radio-frequency/NN fields/NNS ]
+and/CC 
+[ the/DT superconductivity/NN restoration/NN ]
+in/IN 
+[ high/JJ enough/JJ magnetic/JJ fields/NNS ]
+./. 
+
+======================================
+
+[ Magnets/NNS ]
+for/IN 
+[ Magnetic/NNP Resonance/NNP Imaging/NNP ]
+(/( 
+[ MRI/NNP ]
+)/) are/VBP 
+[ the/DT first/JJ ]
+and/CC 
+[ the/DT most/RBS important/JJ industrial/JJ application/NN ]
+of/IN 
+[ Superconductivity/NN ]
+./. 
+
+[ The/DT design/NN ]
+of/IN 
+[ MRI/NNP ]
+superconducting/NN 
+[ magnets/NNS ]
+and/CC 
+[ their/PRP$ performances/NNS ]
+are/VBP presented/VBN in/IN 
+[ this/DT paper/NN ]
+as/RB well/RB as/IN 
+[ electrical/JJ ]
+and/CC 
+[ cryogenic/JJ problems/NNS ]
+induced/VBN by/IN 
+[ the/DT particular/JJ operating/NN conditions/NNS ]
+of/IN 
+[ MRI/NNP systems/NNS ]
+./. 
+
+[ The/DT reliability/NN ]
+of/IN 
+[ MRI/NNP ]
+superconducting/NN 
+[ magnets/NNS ]
+has/VBZ been/VBN etablished/VBN and/CC work/VB now/RB in/IN 
+[ progess/NN ]
+
+[ which/WDT ]
+is/VBZ expected/VBN to/TO improve/VB 
+[ the/DT performances/NNS ]
+and/CC to/TO reduce/VB 
+[ the/DT cost/NN ]
+and/CC 
+[ the/DT complexity/NN ]
+of/IN 
+[ the/DT magnet/NN design/NN ]
+./. 
+
+======================================
+
+[ Safety/NN ]
+and/CC 
+[ reliability/NN ]
+are/VBP increased/VBN in/IN 
+[ a/DT glovebox/NN ]
+with/IN 
+[ a/DT pneumatic/JJ control/NN circuit/NN ]
+for/IN 
+[ maintaining/VBG depression/NN inside/NN ]
+and/CC 
+[ connecting/VBG alarms/NNS ]
+./. 
+
+[ The/DT system/NN ]
+is/VBZ independant/JJ of/IN 
+[ an/DT electric/JJ power/NN supply/NN ]
+./. 
+
+======================================
+
+[ A/DT box/NN ]
+for/IN 
+[ sample/NN transfer/NN ]
+,/, in/IN 
+[ controlled/JJ atmosphere/NN ]
+,/, from/IN for/IN 
+[ instance/NN ]
+
+[ a/DT glove/NN box/NN ]
+to/TO 
+[ another/DT leakproof/JJ cell/NN ]
+is/VBZ described/VBN ./. 
+
+======================================
+
+[ A/DT ring/NN ]
+for/IN fastening/VBG 
+[ tubes/NNS ]
+with/IN 
+[ conical/JJ ends/NNS ]
+with/IN only/RB 
+[ one/CD manipulator/NN ]
+is/VBZ described/VBN ./. 
+
+[ It/PRP ]
+is/VBZ opened/VBN by/IN 
+[ compression/NN ]
+of/IN 
+[ a/DT spring/NN ]
+with/IN 
+[ the/DT manipulator/NN grip/NN ]
+,/, placed/VBN on/IN 
+[ the/DT tubes/NNS ]
+to/TO fasten/VB ,/, closed/VBN by/IN releasing/VBG 
+[ the/DT pressure/NN ]
+and/CC locked/VBN ./. 
+
+======================================
+
+[ A/DT device/NN ]
+for/IN joining/VBG 
+[ two/CD containment/NN enclosures/NNS ]
+during/IN 
+[ transfer/NN ]
+of/IN 
+[ materials/NNS ]
+or/CC 
+[ products/NNS ]
+is/VBZ claimed/VBN 
+[ avoiding/VBG seal/NN wear/NN ]
+during/IN 
+[ the/DT rotation/NN ]
+of/IN 
+[ the/DT double/JJ closure/NN ]
+./. 
+
+======================================
+
+[ A/DT mechanical/JJ device/NN ]
+is/VBZ claimed/VBN for/IN 
+[ transfer/NN ]
+or/CC 
+[ storage/NN ]
+of/IN 
+[ materials/NNS ]
+from/IN 
+[ a/DT container/NN ]
+to/TO 
+[ a/DT containment/NN enclosure/NN avoiding/VBG contamination/NN ]
+./. 
+
+======================================
+
+[ The/DT container/NN ]
+is/VBZ designed/VBN for/IN closing/VBG 
+[ it/PRP ]
+by/IN 
+[ a/DT simple/JJ pressure/NN ]
+on/IN 
+[ the/DT lid/NN ]
+comprising/VBG 
+[ a/DT part/NN ]
+
+[ that/WP ]
+can/MD be/VB deformed/VBN by/IN 
+[ elasticity/NN ]
+./. 
+
+Moreover/RB 
+[ the/DT lid/NN ]
+comprises/VBZ 
+[ an/DT injection/NN hole/NN ]
+for/IN 
+[ encapsulation/NN ]
+./. 
+
+[ The/DT design/NN ]
+allows/VBZ 
+[ automation/NN ]
+of/IN 
+[ radioactive/JJ waste/NN conditioning/NN ]
+./. 
+
+======================================
+
+[ The/DT deformation/NN ]
+of/IN 
+[ a/DT mechanical/JJ structure/NN ]
+:/: 
+[ manipulator/NN ]
+,/, 
+[ robot/NN ]
+with/IN 
+[ several/JJ rigid/JJ elements/NNS ]
+can/MD be/VB monitored/VBN by/IN 
+[ an/DT optical/JJ system/NN comprising/VBG light/NN beams/NNS ]
+and/CC 
+[ photodetectors/NNS ]
+./. 
+
+======================================
+
+[ A/DT case/NN report/NN ]
+of/IN falsely/RB elevated/VBN 
+[ serum/NN hormone/NN values/NNS ]
+measured/VBN by/IN 
+[ radio-immunoassay/NN ]
+(/( 
+[ RIA/NNP ]
+)/) is/VBZ described/VBN ./. 
+
+[ The/DT radio-immunoassays/NNS ]
+concerned/VBN have/VB 
+[ a/DT first/JJ antibody/NN ]
+raised/VBN in/IN 
+[ rabbits/NNS ]
+and/CC mostly/RB 
+[ a/DT separation/NN technique/NN ]
+based/VBN on/IN 
+[ a/DT second/JJ antibody-solid/JJ phase/NN system/NN ]
+./. 
+
+[ The/DT presence/NN ]
+of/IN 
+[ heterophyle/NN ]
+(/( anti-rabbit/JJ )/) 
+[ antibodies/NNS ]
+in/IN 
+[ patients/NNS '/POS serum/NN ]
+is/VBZ proved/VBN ./. 
+
+======================================
+
+[ Fifty-two/CD women/NNS ]
+,/, aged/VBN from/IN 
+[ 25/CD ]
+to/TO 
+[ 41/CD years/NNS ]
+,/, with/IN 
+[ infertility/NN ]
+due/JJ to/TO 
+[ chronic/JJ anovulation/NN ]
+were/VBD admitted/VBN to/TO 
+[ the/DT study/NN ]
+together/RB with/IN 
+[ 36/CD age-matched/JJ controls/NNS ]
+with/IN 
+[ proven/VBN ovulatory/JJ cycles/NNS ]
+./. 
+
+[ Paired/JJ plasma/NN ]
+(/( 
+[ 3/CD ml/NNS ]
+)/) and/CC 
+[ whole/JJ unstimulated/VBN saliva/NN ]
+(/( 
+[ 10/CD ml/NNS ]
+)/) 
+[ samples/NNS ]
+were/VBD collected/VBN over/IN 
+[ a/DT 30/CD day/NN period/NN ]
+,/, starting/VBG from/IN 
+[ the/DT first/JJ day/NN ]
+of/IN 
+[ a/DT menstrual/JJ bleeding/NN ]
+,/, in/IN 
+[ patients/NNS ]
+,/, and/CC throughout/IN 
+[ the/DT menstrual/JJ cycle/NN ]
+,/, in/IN 
+[ controls/NNS ]
+./. 
+
+[ Salivary/JJ progesterone/NN levels/NNS ]
+,/, measured/VBN in/IN 
+[ women/NNS ]
+with/IN 
+[ infertility/NN ]
+,/, ranged/VBD from/IN 
+[ undetectable/JJ values/NNS ]
+to/TO 
+[ 16/CD pmol\/l/NN ]
+during/IN 
+[ the/DT first/JJ ]
+,/, and/CC from/IN 
+[ 36/CD ]
+to/TO 
+[ 98/CD pmol\/l/NN ]
+during/IN 
+[ the/DT second/JJ ]
+
+[ half/NN ]
+of/IN 
+[ the/DT monitoring/NN period/NN ]
+./. 
+
+In/IN 
+[ eugonadal/JJ women/NNS ]
+
+[ the/DT steroid/NN levels/NNS ]
+ranged/VBD from/IN 
+[ 34/CD ]
+to/TO 
+[ 46/CD pmol\/I/NN ]
+and/CC from/IN 
+[ 96/CD ]
+to/TO 
+[ 780/CD pmol\/l/NN ]
+during/IN 
+[ the/DT follicular/JJ ]
+and/CC 
+[ luteal/JJ phases/NNS ]
+,/, respectively/RB ./. 
+
+[ The/DT saliva\/plasma/NN progesterone/NN ratio/NN ]
+ranged/VBN from/IN 
+[ 0.58/CD ]
+to/TO 
+[ 2.71/CD p./IN cent/NN ]
+and/CC 
+[ a/DT good/JJ correlation/NN ]
+between/IN 
+[ salivary/JJ ]
+and/CC 
+[ plasma/NN levels/NNS ]
+was/VBD found/VBN at/IN 
+[ each/DT time/NN ]
+of/IN 
+[ monitoring/NN ]
+./. 
+
+[ Many/JJ ]
+(/( 
+[ 86/CD p./IN cent/NN ]
+)/) of/IN 
+[ patients/NNS ]
+,/, 
+[ which/WDT ]
+were/VBD randomly/RB allocated/VBN to/TO 
+[ a/DT low-or/JJ high-dose/JJ epimestrol/NN administration/NN schedule/NN ]
+,/, appeared/VBD to/TO be/VB sensitive/JJ to/TO 
+[ the/DT drug/NN ]
+,/, achieving/VBG ,/, after/IN 
+[ therapy/NN ]
+,/, 
+[ salivary/JJ progesterone/NN levels/NNS ]
+
+[ which/WDT ]
+were/VBD within/IN 
+[ the/DT range/NN ]
+of/IN 
+[ controls/NNS ]
+./. 
+
+Since/IN 
+[ correct/JJ assessment/NN ]
+of/IN 
+[ luteal/JJ function/NN ]
+in/IN 
+[ basal/JJ conditions/NNS ]
+and/CC during/IN 
+[ therapy/NN ]
+requires/VBZ 
+[ multiple/JJ steroid/JJ measurements/NNS ]
+,/, and/CC since/IN 
+[ saliva/NN ]
+can/MD be/VB obtained/VBN by/IN 
+[ non-invasive/JJ techniques/NNS ]
+,/, 
+[ salivary/JJ assays/NNS ]
+represent/VBP 
+[ an/DT attractive/JJ alternative/NN ]
+to/TO 
+[ plasma/NN ones/NNS ]
+for/IN 
+[ monitoring/NN ovarian/JJ activity/NN ]
+,/, also/RB during/IN 
+[ specific/JJ treatment/NN ]
+./. 
+
+======================================
+
+[ Five/CD direct/JJ radio-immunoassay/JJ kits/NNS ]
+for/IN 
+[ the/DT dosage/NN ]
+of/IN 
+[ 17/CD ]
+{/( beta/NN }/) 
+[ estradiol/NN ]
+were/VBD assessed/VBN for/IN 
+[ their/PRP$ usefulness/NN ]
+to/TO monitor/VB 
+[ the/DT serum/NN ]
+values/NNS of/IN 
+[ 17/CD ]
+{/( beta/NN }/) 
+[ estradiol/NN ]
+in/IN stimulated/VBN and/CC 
+[ natural/NN ovarian/NN cycles/NNS ]
+./. 
+
+[ Prerequisites/NNS ]
+included/VBD 
+[ a/DT ]
+turn-around/IN 
+[ time/NN ]
+of/IN 
+[ 4/CD hours/NNS ]
+for/IN 
+[ an/DT assay/NN ]
+of/IN 
+[ 100/CD tubes/NNS ]
+and/CC 
+[ a/DT range/NN ]
+extended/VBD to/TO at/IN 
+[ least/JJS 2000/CD ng\/l/NN ]
+./. 
+
+[ The/DT following/VBG parameters/NNS ]
+were/VBD evaluated/VBN :/: 
+[ characteristics/NNS ]
+of/IN 
+[ the/DT standard/JJ curve/NN ]
+,/, 
+[ sensitivity/NN ]
+,/, 
+[ precision/NN profile/NN ]
+,/, 
+[ within-and/JJ  between-assay/JJ precision/NN ]
+,/, 
+[ analytical/JJ drift/NN ]
+and/CC 
+[ linearity/NN ]
+./. 
+
+[ We/PRP ]
+found/VBD that/IN 
+[ the/DT five/CD tested/VBN methods/NNS ]
+are/VBP technically/RB suitable/JJ to/TO monitor/VB 
+[ serum/NN 17/CD ]
+{/( beta/NN }/) 
+[ estradiol/NN ]
+in/IN 
+[ stimulated/VBN cycles/NNS ]
+but/CC 
+[ they/PRP ]
+
+[ all/DT ]
+lack/VBP 
+[ precision/NN ]
+for/IN 
+[ low/JJ 17/CD ]
+{/( beta/NN }/) 
+[ estradiol/NN levels/NNS ]
+as/IN seen/VBN in/IN 
+[ the/DT early/JJ follicular/JJ phase/NN ]
+of/IN 
+[ natural/JJ cycles/NNS ]
+./. 
+
+======================================
+
+[ The/DT purpose/NN ]
+of/IN 
+[ this/DT report/NN ]
+is/VBZ to/TO provide/VB 
+[ radiological/JJ physicists/NNS ]
+with/IN 
+[ an/DT accurate/JJ method/NN ]
+for/IN 
+[ the/DT determination/NN ]
+of/IN 
+[ qualitative/JJ ]
+and/CC 
+[ quantitative/JJ characteristics/NNS ]
+of/IN 
+[ photon/NN ]
+and/CC 
+[ electron/NN beams/NNS ]
+with/IN 
+[ energies/NNS ]
+between/IN 
+[ 1/CD MeV/NN ]
+and/CC 
+[ 50/CD MeV/NN ]
+,/, used/VBN for/IN 
+[ radiation/NN therapy/NN ]
+,/, and/CC for/IN 
+[ the/DT calculation/NN ]
+of/IN 
+[ dose/NN ]
+to/TO 
+[ water/NN ]
+./. 
+
+======================================
+
+[ Hundred/CD forty-four/CD correlations/NNS ]
+are/VBP reported/VBN between/IN 
+[ radiological/JJ simulation/NN ]
+and/CC 
+[ CT-scan/NN ]
+in/IN 
+[ cases/NNS ]
+of/IN 
+[ prostate/NN adenocarcinoma/NN ]
+without/IN 
+[ metastases/NNS ]
+treated/VBN from/IN 
+[ 1980/CD ]
+to/TO 
+[ 1986/CD ]
+exclusively/RB by/IN 
+[ transcutaneous/JJ radiotherapy/NN ]
+using/VBG 
+[ the/DT box/NN technique/NN ]
+with/IN 
+[ 25/CD MV/NNP photons/NNS ]
+./. 
+
+[ Forty-eight/CD percent/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+were/VBD 
+[ intracapsular/JJ forms/NNS ]
+./. 
+
+On/IN 
+[ the/DT basis/NN ]
+of/IN 
+[ correlation/NN criteria/NNS ]
+defined/VBN ,/, 
+[ the/DT prostatic/JJ boost/NN volume/NN ]
+was/VBD shifted/VBN in/IN 
+[ the/DT sagittal/JJ plan/NN ]
+in/IN 
+[ 18/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+./. 
+
+Suspect/VB 
+[ seminal/JJ vesicles/NNS ]
+were/VBD found/VBN in/IN 
+[ 60/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+./. 
+
+[ Our/PRP$ treatment/NN plans/NNS ]
+were/VBD considered/VBN 
+[ correct/JJ ]
+in/IN 
+[ 65/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+,/, 
+[ acceptable/JJ ]
+in/IN 
+[ 26/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+and/CC 
+[ unsatisfactory/JJ ]
+in/IN 
+[ 29/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+./. 
+
+[ The/DT corrections/NNS ]
+applied/VBN to/TO 
+[ the/DT treatment/NN plan/NN ]
+do/VB not/RB vary/VB according/VBG to/TO 
+[ grade/NN ]
+but/CC according/VBG to/TO stage/VB and/CC concern/VB mainly/RB 
+[ the/DT posterior/JJ limit/NN ]
+of/IN 
+[ the/DT boost/NN volume/NN ]
+and/CC to/TO 
+[ a/DT lesser/JJR extent/NN ]
+
+[ the/DT superior/JJ ]
+and/CC 
+[ anterior/JJ limits/NNS ]
+./. 
+
+[ The/DT boost/NN volume/NN ]
+should/MD be/VB determined/VBN specifically/RB for/IN 
+[ each/DT case/NN ]
+./. 
+
+[ CT-scans/NNS ]
+thus/RB seem/VB 
+[ indispensable/NN ]
+in/IN 
+[ establishing/VBG treatment/NN plans/NNS ]
+in/IN 
+[ prostate/NN cancer/NN ]
+./. 
+
+======================================
+
+[ Stage/NN T3/NN ]
+and/CC 
+[ T4/NN oropharynx/NN carcinomas/NN ]
+are/VBP 
+[ type/NN ]
+of/IN 
+[ tumors/NNS ]
+with/IN 
+[ a/DT very/RB poor/JJ prognosis/NN ]
+./. 
+
+[ Encouraging/JJ results/NNS ]
+claimed/VBN in/IN 
+[ 1979/CD ]
+brought/VBD 
+[ us/PRP ]
+to/TO initiate/VB 
+[ a/DT new/JJ treatment/NN modality/NN ]
+of/IN 
+[ these/DT tumors/NNS ]
+by/IN 
+[ radiotherapy/NN ]
+with/IN 
+[ high/JJ fractional/JJ doses/NNS ]
+./. 
+
+[ 46/CD patients/NNS ]
+were/VBD treated/VBN with/IN 
+[ a/DT combination/NN ]
+of/IN 
+[ chemotherapy/NN ]
+and/CC 
+[ transcutaneous/JJ irradiation/NN ]
+from/IN 
+[ 1980/CD ]
+to/TO 
+[ 1984/CD ]
+./. 
+
+[ Radiotherapy/NN ]
+was/VBD 
+[ the/DT administration/NN ]
+of/IN 
+[ a/DT dose/NN ]
+of/IN 
+[ 52/CD grays/NNS ]
+in/IN 
+[ 13/CD fractions/NNS ]
+and/CC during/IN 
+[ 17/CD days/NNS ]
+./. 
+
+[ The/DT loco-regional/JJ control/NN rate/NN ]
+after/IN 
+[ a/DT 5/CD years/NNS period/NN ]
+was/VBD 
+[ 31/CD %/NN ]
+and/CC 
+[ the/DT actuarial/JJ survival/NN rate/NN ]
+without/IN 
+[ any/DT sign/NN ]
+of/IN 
+[ disease/NN ]
+was/VBD 
+[ 14/CD %/NN ]
+./. 
+
+[ Tolerance/NN ]
+to/TO 
+[ the/DT treatment/NN ]
+was/VBD poor/JJ :/: 
+[ a/DT grade/NN IV/CD radiation/NN mucositis/NN ]
+was/VBD observed/VBN in/IN 
+[ 80/CD %/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+./. 
+
+[ These/DT results/NNS ]
+indicate/VBP that/IN 
+[ the/DT use/NN ]
+of/IN 
+[ high/JJ fractional/JJ doses/NNS ]
+does/VBZ not/RB lead/VB to/TO 
+[ improvement/NN ]
+in/IN 
+[ either/DT ]
+
+[ the/DT local/JJ control/NN rate/NN ]
+nor/CC of/IN 
+[ the/DT disease/NN ]
+in/IN 
+[ the/DT survival/NN ]
+of/IN 
+[ the/DT patients/NNS ]
+carrying/VBG 
+[ advanced/JJ cancers/NNS ]
+of/IN 
+[ the/DT oropharynx/NN ]
+,/, but/CC 
+[ complications/NNS ]
+were/VBD more/RBR severe/JJ ./. 
+
+[ These/DT results/NNS ]
+do/VBP not/RB incitate/VB 
+[ us/PRP ]
+to/TO propose/VB to/TO set/VB up/RP 
+[ a/DT controlled/VBN study/NN ]
+to/TO evaluate/VB 
+[ the/DT therapeutic/JJ value/NN ]
+of/IN 
+[ this/DT type/NN ]
+of/IN 
+[ irradiation/NN ]
+./. 
+
+======================================
+
+[ A/DT survey/NN ]
+conducted/VBN during/IN 
+[ 1986/CD ]
+evaluated/VBD 
+[ medical/JJ ]
+and/CC 
+[ logistic/JJ aspects/NNS ]
+of/IN 
+[ total/JJ body/NN irradiation/NN ]
+for/IN 
+[ bone/NN marrow/NN graft/NN ]
+,/, with/IN 
+[ particular/JJ analysis/NN ]
+of/IN 
+[ type/NN ]
+of/IN 
+[ protocol/NN ]
+and/CC 
+[ functional/JJ consequences/NNS ]
+./. 
+
+[ Current/JJ tendencies/NNS ]
+were/VBD determined/VBN by/IN 
+[ comparison/NN ]
+of/IN 
+[ findings/NNS ]
+with/IN 
+[ those/DT ]
+of/IN 
+[ a/DT survey/NN ]
+conducted/VBN within/IN 
+[ the/DT framework/NN ]
+of/IN 
+[ the/DT GEGMO/NNP ]
+in/IN 
+[ 1984/CD ]
+./. 
+
+======================================
+
+[ A/DT survey/NN ]
+of/IN 
+[ dosimetric/JJ ]
+and/CC 
+[ technical/JJ aspects/NNS ]
+of/IN 
+[ total/JJ body/NN irradiation/NN ]
+was/VBD conducted/VBN among/IN 
+[ French/JJ radiotherapy/NN departments/NNS ]
+at/IN 
+[ the/DT end/NN ]
+of/IN 
+[ the/DT first/JJ trimester/NN 1986/CD ]
+./. 
+
+[ Findings/NNS ]
+were/VBD compared/VBN with/IN 
+[ those/DT ]
+of/IN 
+[ the/DT survey/NN ]
+in/IN 
+[ 1984/CD ]
+conducted/VBD by/IN 
+[ the/DT GEGMO/NNP ]
+(/( 
+[ study/NN group/NN ]
+on/IN 
+[ bone/NN marrow/NN grafts/NNS ]
+)/) ./. 
+
+======================================
+
+[ The/DT time/NN ]
+and/CC 
+[ energy/NN coordinates/NNS ]
+of/IN 
+[ the/DT neutrino/NN signals/NNS ]
+reported/VBN by/IN 
+[ the/DT Mont/NNP Blanc/NNP ]
+,/, 
+[ Baksan/NNP ]
+,/, 
+[ IMB/NNP ]
+and/CC 
+[ Kamiokande-II/NNP detectors/NNS ]
+,/, respectively/RB ,/, are/VBP fitted/VBN to/TO 
+[ kinematics/NNS ]
+./. 
+
+Under/IN 
+[ the/DT most/RBS conservative/JJ hypothesis/NN ]
+
+[ the/DT electron/NN neutrino/NN mass/NN ]
+is/VBZ found/VBN to/TO be/VB 
+[ </JJ 5.7/CD eV/NN ]
+./. 
+
+If/IN 
+[ the/DT first/JJ six/CD Kamiokande/NNP events/NNS ]
+originate/VBP in/IN 
+[ one/CD ]
+
+[ very/RB short/JJ burst/NN ]
+,/, 
+[ the/DT electron/NN neutrino/NN mass/NN ]
+is/VBZ (/( 
+[ 4.2/CD +/SYM 0.9\/-0.6/CD ]
+)/) 
+[ */SYM ]
+(/( 
+[ 48kpc\/NN ]
+)/) 
+[ \/sup/NN 1\/NN ]
+./. 
+
+======================================
+
+[ X-ray/NN absorption/NN ]
+of/IN 
+[ Ce/NN ]
+obtained/VBN by/IN 
+[ partial/JJ secondary/JJ yield/NN ]
+,/, is/VBZ compared/VBN with/IN previously/RB obtained/VBN 
+[ electron-energy/NN loss/NN measurements/NNS ]
+in/IN 
+[ reflection/NN mode/NN ]
+./. 
+
+[ The/DT absence/NN ]
+of/IN 
+[ a/DT strong/JJ feature/NN ]
+below/IN 
+[ 4p\/NN 3\/2/CD \//NN threshold/NN ]
+in/IN 
+[ photon/NN absorption/NN ]
+provides/VBZ 
+[ confirmation/NN ]
+that/IN 
+[ the/DT peak/NN ]
+in/IN 
+[ EELS/NNP ]
+is/VBZ 
+[ nondipole/JJ ]
+in/IN 
+[ character/NN ]
+./. 
+
+[ Theoretical/JJ analysis/NN ]
+supports/VBZ 
+[ interpretation/NN ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ a/DT p-f/NN giant/JJ quadrupole/NN resonance/NN ]
+,/, 
+[ a/DT result/NN ]
+
+[ which/WDT ]
+broadens/VBZ 
+[ the/DT analogy/NN ]
+between/IN 
+[ giant/JJ resonances/NNS ]
+in/IN 
+[ atomic/JJ ]
+and/CC 
+[ nuclear/JJ physics/NNS ]
+./. 
+
+======================================
+
+[ We/PRP ]
+have/VBP measured/VBN 
+[ the/DT kinetic/JJ energy/NN ]
+of/IN 
+[ the/DT ions/NNS H\/NN 2\/NN +/SYM \//NN ]
+,/, 
+[ D\/NN 2\/NN +/SYM \//NN ]
+,/, 
+[ H\/NN 3\/NN +/SYM \//NN ]
+and/CC 
+[ D\/NN \/NN +/SYM \//NN ]
+produced/VBN by/IN 
+[ the/DT collision/NN ]
+of/IN 
+[ helium/NN ]
+on/IN 
+[ metastable/JJ neon/NN ]
+,/, on/IN 
+[ molecular/JJ hydrogen/NN ]
+or/CC on/IN 
+[ deuterium/NN ]
+:/: from/IN 
+[ measurements/NNS ]
+on/IN 
+[ H\/NN 2\/NN +/SYM \//NN ]
+and/CC 
+[ D\/NN 2\/NN +/SYM \//NN ]
+
+[ it/PRP ]
+has/VBZ been/VBN possible/JJ to/TO confirm/VB 
+[ the/DT existence/NN ]
+of/IN 
+[ a/DT two-step/JJ Penning/NNP collision/NN ]
+,/, 
+[ the/DT second/JJ step/NN ]
+being/VBG 
+[ a/DT transfer/NN ]
+from/IN 
+[ vibrational/JJ ]
+to/TO 
+[ kinetic/JJ energy/NN ]
+./. 
+
+[ The/DT measurement/NN ]
+of/IN 
+[ the/DT kinetic/JJ energy/NN ]
+of/IN 
+[ H\/NN 3\/NN +/SYM \//NN ]
+and/CC 
+[ D\/NN 3\/NN +/SYM \//NN ]
+leads/VBZ 
+[ us/PRP ]
+to/TO conjecture/VB that/IN 
+[ a/DT certain/JJ amount/NN ]
+of/IN (/( 
+[ H\/NN 2/CD \//NN ]
+)/) 
+[ \/sub/NN 2/CD \//NN ]
+and/CC (/( 
+[ D\/NN 2/CD \//NN ]
+)/) 
+[ \/sub/NN 2/CD \//NN dimers/NNS ]
+is/VBZ present/JJ in/IN 
+[ the/DT target/NN ]
+./. 
+
+======================================
+
+[ We/PRP ]
+construct/VBP 
+[ the/DT kink/NN sector/NN ]
+of/IN 
+[ the/DT PHI\/sup/NN 4\/\/sub/CD 2/CD \//NN quantum/NN field/NN theory/NN ]
+,/, in/IN 
+[ the/DT broken-symmetry/JJ phase/NN ]
+,/, using/VBG 
+[ Euclidean/JJ methods/NNS ]
+./. 
+
+[ The/DT construction/NN ]
+exhibits/VBZ 
+[ relations/NNS ]
+with/IN 
+[ differential/JJ geometry/NN ]
+and/CC 
+[ statistical/JJ mechanics/NNS ]
+./. 
+
+In/IN 
+[ particular/JJ we/PRP ]
+prove/VB that/IN 
+[ the/DT Euclidean/JJ Green/NNP 's/POS functions/NNS ]
+of/IN 
+[ kinks/NNS ]
+are/VBP obtained/VBN by/IN 
+[ integration/NN ]
+over/IN 
+[ section/NN distributions/NNS ]
+of/IN 
+[ nontrivial/JJ bundles/NNS ]
+and/CC are/VBP well/RB defined/VBN as/IN 
+[ Jaffe/NNP ultradistributions/NNS ]
+./. 
+
+======================================
+
+[ A/DT bosonic/JJ knotted/VBN string/NN ]
+(/( 
+[ BKS/NNP ]
+)/) should/MD satisfy/VB 
+[ some/DT conditions/NNS ]
+in/IN 
+[ order/NN ]
+that/IN 
+[ the/DT Nambu-Goto/NNP variational/JJ principle/NN ]
+and/CC 
+[ the/DT statistical/JJ sum/NN ]
+could/MD be/VB correctly/RB formulated/VBN ;/: 
+[ these/DT conditions/NNS ]
+are/VBP given/VBN in/IN 
+[ terms/NNS ]
+of/IN 
+[ cobordism/NN theory/NN ]
+./. 
+
+[ Two/CD spontaneous/JJ splitting/NN mechanisms/NNS ]
+of/IN 
+[ the/DT BKS/NNP ]
+are/VBP described/VBN ./. 
+
+[ A/DT possible/JJ interpretation/NN ]
+of/IN 
+[ Montesinos/NNP ribbons/NNS ]
+as/IN 
+[ many-loop/JJ diagrams/NNS ]
+is/VBZ examined/VBN ./. 
+
+======================================
+
+[ An/DT updated/VBN analysis/NN ]
+of/IN 
+[ the/DT structure/NN ]
+of/IN 
+[ the/DT neutral/JJ current/NN ]
+in/IN 
+[ the/DT neutrino-electron/NN interaction/NN ]
+is/VBZ reported/VBN ./. 
+
+Starting/VBG from/IN 
+[ the/DT experimental/JJ results/NNS ]
+concerning/VBG 
+[ all/PDT the/DT four/CD elastic/JJ channels/NNS muon/NN neutrino-electron/NN ]
+,/, 
+[ muon/NN antineutrino-electron/NN ]
+,/, 
+[ electron/NN neutrino-electron/NN ]
+and/CC 
+[ electron/NN antineutrino-electron/NN ]
+,/, 
+[ the/DT analysis/NN ]
+includes/VBZ 
+[ radiative/JJ corrections/NNS ]
+and/CC takes/VBZ into/IN 
+[ account/NN ]
+
+[ the/DT correlation/NN effects/NNS ]
+induced/VBN by/IN 
+[ the/DT different/JJ measurements/NNS ]
+in/IN 
+[ the/DT determination/NN ]
+of/IN 
+[ the/DT leptonic/JJ weak-coupling/NN constants/NNS ]
+./. 
+
+[ The/DT values/NNS epsilon/NN L/NNP =/SYM -0.273/CD +/SYM -0.018/CD ]
+,/, 
+[ epsilon/NN R/NN =/SYM 0.228/CD +/SYM -0.022/CD ]
+are/VBP obtained/VBN for/IN 
+[ the/DT chiral/JJ couplings/NNS ]
+in/IN 
+[ a/DT model-independent/JJ analysis/NN ]
+or/CC ,/, equivalently/RB ,/, 
+[ g\/NN V/NNP \//NN =/SYM -0.046/CD +/SYM -0.029/CD ]
+,/, g\/NN 
+[ A/NNP \//NN =/SYM -0.501/CD +/SYM -0.028/CD ]
+in/IN 
+[ terms/NNS ]
+of/IN 
+[ the/DT vector/NN ]
+and/CC 
+[ axial/JJ couplings/NNS ]
+of/IN 
+[ the/DT electron/NN ]
+./. 
+
+[ This/DT ]
+corresponds/VBZ ,/, within/IN 
+[ the/DT minimal/JJ standard/JJ model/NN scheme/NN ]
+(/( 
+[ rho/NN =/SYM 1/CD ]
+)/) ,/, to/TO 
+[ squared/JJ sin/NN theta/NN sin\/sup/NN 2/CD \//NN W/NNP =/SYM 0.227/CD +/SYM -0.014/CD ]
+,/, whereas/IN 
+[ the/DT simultaneous/JJ estimate/NN ]
+of/IN 
+[ both/DT ]
+squared/VBN 
+[ sin/NN theta/NN sin\/sup/NN 2/CD \//NN W/NNP ]
+and/CC 
+[ rho/NN ]
+leads/VBZ to/TO 
+[ squared/JJ sin/NN theta/NN sin\/sup/NN 2/CD \//NN W/NNP =/SYM 0.227/CD +/SYM -0.015/CD ]
+and/CC 
+[ rho/NN =/SYM 1.001/CD +/SYM -0.056/CD ]
+./. 
+
+======================================
+
+[ The/DT missing-mass/JJ spectra/NNS ]
+for/IN 
+[ the/DT \/sup/NN 3\/NN ]
+(/( p,d/NN )/) 
+[ X/NN reaction/NN ]
+(/( 
+[ B\/sub/NN x/NN \//NN =/SYM 2/CD ]
+,/, 
+[ T\/sub/NNP x/NN \//NN =/SYM 1/CD ]
+)/) have/VB been/VBN measured/VBN at/IN 
+[ T\/sub/NNP p/NN \//NN =/SYM 1.2/CD GeV/NN ]
+for/IN {/( 
+[ theta/NN ]
+}/) 
+[ sub/NN d/NN \//NN =/SYM 33\/NN 0/CD \//NN ]
+./. 
+
+[ Narrow/JJ structures/NNS ]
+have/VBP been/VBN observed/VBN at/IN 
+[ M\/NN x/NN \//NN =/SYM 2.122/CD ]
+,/, 
+[ 2.198/CD ]
+and/CC possibly/RB 
+[ 2.233/CD GeV/NN ]
+with/IN 
+[ FWHM/NNP ]
+,/, respectively/RB ,/, equal/JJ to/TO 
+[ 5.2/CD ]
+,/, 
+[ 8.1/CD ]
+and/CC 
+[ 13/CD MeV/NN ]
+./. 
+
+[ These/DT results/NNS ]
+,/, obtained/VBN under/IN 
+[ new/JJ kinematical/JJ conditions/NNS ]
+,/, confirm/VBP 
+[ previous/JJ data/NNS ]
+./. 
+
+======================================
+
+[ The/DT unknown/JJ isotopes/NNS ]
+\/sup/VB 
+[ 70-74\/Ni/CD ]
+and/CC 
+[ \/NN 74-77\/NN ]
+were/VBD identified/VBN in/IN 
+[ thermal/JJ neutron/NN fission/NN ]
+of/IN 
+[ \/sup/NN 235\/U/CD ]
+,/, using/VBG 
+[ the/DT recoil/NN separator/NN LOHENGRIN/NNP ]
+and/CC {/( 
+[ Delta/NN ]
+}/) 
+[ -E/NN detection/NN techniques/NNS ]
+./. 
+
+[ Isotopic/JJ yields/NNS ]
+,/, for/IN 
+[ preselected/VBN values/NNS ]
+of/IN 
+[ ionic/JJ charge/NN ]
+and/CC 
+[ kinetic/JJ energy/NN ]
+of/IN 
+[ the/DT fission/NN fragments/NNS ]
+in/IN 
+[ the/DT mass/NN range/NN ]
+
+[ A/DT =/SYM 70/CD ]
+to/TO 
+[ 80/CD ]
+,/, were/VBD measured/VBN down/IN to/TO 
+[ 10\/NN -9/CD \//NN fragments\/fission/NN ]
+(/( 
+[ f\/f/NN ]
+)/) ./. 
+
+[ Mass/NNP ]
+yields/VBZ for/IN 
+[ the/DT masses/NNS 70/CD ]
+and/CC 
+[ 71/CD ]
+and/CC 
+[ elemental/NN yields/NNS ]
+for/IN 
+[ nickel/NN ]
+and/CC 
+[ copper/NN ]
+are/VBP estimated/VBN ./. 
+
+======================================
+
+[ The/DT relevance/NN ]
+to/TO 
+[ the/DT ]
+damping/NN of/IN 
+[ the/DT giant/JJ resonances/NNS ]
+,/, of/IN 
+[ the/DT anharmonic/JJ coupling/NN ]
+between/IN 
+[ the/DT normal/JJ modes/NNS ]
+,/, is/VBZ investigated/VBN in/IN 
+[ a/DT fluid-dynamical/JJ model/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ found/VBN that/IN 
+[ this/DT mechanism/NN ]
+leads/VBZ to/TO 
+[ a/DT weak/JJ ]
+damping/NN 
+[ which/WDT ]
+,/, however/RB ,/, increases/VBZ very/RB drastically/RB with/IN 
+[ the/DT wave/NN vector/NN ]
+,/, implying/VBG 
+[ a/DT very/RB short/JJ lifetime/NN ]
+for/IN 
+[ high/JJ multipolarity/NN ]
+or/CC 
+[ very/RB energetic/JJ modes/NNS ]
+./. 
+
+======================================
+
+On/IN 
+[ n\/sup/JJ +/SYM \//NN -GaAS/NN substrates/NNS ]
+,/, 
+[ gold-germanium/NN eutectic/NN films/NNS ]
+with/IN 
+[ a/DT nickel/NN overlayer/NN ]
+,/, 
+[ silver-germanium/NN eutectic/NN films/NNS ]
+with/IN 
+[ a/DT nickel/NN overlayer/NN ]
+and/CC 
+[ aluminum-germanium/NN films/NNS ]
+were/VBD evaporated/VBN ./. 
+
+[ Samples/NNS ]
+from/IN 
+[ each/DT ]
+of/IN 
+[ these/DT three/CD types/NNS ]
+of/IN 
+[ contacts/NNS ]
+were/VBD 
+[ furnace/NN ]
+and/CC 
+[ laser/NN ]
+annealed/VBN with/IN 
+[ a/DT pulsed/VBN excimer/NN laser/NN ]
+for/IN 
+[ optimum/JJ results/NNS ]
+./. 
+
+[ Gold-germanium/NN ]
+and/CC 
+[ silver-germanium/NN films/NNS ]
+gave/VBD 
+[ ohmic/JJ contacts/NNS ]
+under/IN 
+[ both/DT ]
+
+[ types/NNS ]
+of/IN annealing/VBG ./. 
+
+[ The/DT laser/NN ]
+annealed/VBD 
+[ gold/JJ  based/JJ contacts/NNS ]
+had/VBD 
+[ a/DT better/JJR surface/NN morphology/NN ]
+and/CC 
+[ somewhat/RB smaller/JJR resistance/NN ]
+than/IN 
+[ its/PRP$ furnace/NN ]
+annealed/VBD 
+[ counterpart/NN ]
+./. 
+
+In/IN 
+[ case/NN ]
+of/IN 
+[ silver/JJ based/JJ contacts/NNS ]
+,/, 
+[ it/PRP ]
+was/VBD 
+[ the/DT furnace/NN ]
+annealed/VBN 
+[ contacts/NNS ]
+
+[ that/WP ]
+had/VBD 
+[ a/DT lower/JJR resistance/NN ]
+and/CC 
+[ better/JJR morphology/NN ]
+./. 
+
+In/IN 
+[ case/NN ]
+of/IN 
+[ aluminum/JJ based/JJ contacts/NNS ]
+,/, 
+[ furnace/NN ]
+annealing/NN did/VBD not/RB give/VB 
+[ an/DT ohmic/JJ contact/NN ]
+;/: with/IN 
+[ an/DT anti-reflection/JJ coating/NN ]
+,/, 
+[ laser/NN ]
+annealing/NN gave/VBD 
+[ ohmic/JJ contacts/NNS ]
+,/, 
+[ which/WDT ]
+,/, however/RB ,/, were/VBD much/RB more/RBR resistant/JJ and/CC 
+[ rough/JJ ]
+,/, compared/VBN to/TO 
+[ the/DT gold/NN ]
+and/CC 
+[ silver/NN contacts/NNS ]
+./. 
+
+======================================
+
+[ The/DT Kondo/NNP lattice/NN model/NN ]
+is/VBZ studied/VBN in/IN 
+[ the/DT limit/NN ]
+of/IN 
+[ an/DT exchange/NN interaction/NN ]
+large/RB compared/VBN to/TO 
+[ the/DT ]
+hopping/NN of/IN 
+[ conduction/NN electrons/NNS ]
+:/: 
+[ it/PRP ]
+is/VBZ shown/VBN that/IN in/IN 
+[ this/DT limit/NN ]
+
+[ an/DT effective/JJ attractive/JJ interaction/NN ]
+between/IN 
+[ nearest-neighbour/JJ electrons/NNS ]
+with/IN 
+[ antiparallel/JJ spins/NNS ]
+arises/VBZ in/IN 
+[ second-order/JJ perturbation/NN expansion/NN ]
+,/, and/CC 
+[ this/DT effective/NN interaction/NN ]
+leads/VBZ to/TO 
+[ d-like/JJ superconductivity/NN ]
+in/IN 
+[ the/DT simple/NN cubic/JJ lattice/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ an/DT enhancement/NN ]
+of/IN 
+[ the/DT effective/NN mass/NN ]
+at/IN 
+[ the/DT Fermi/NNP level/NN ]
+can/MD be/VB obtained/VBN when/WRB 
+[ the/DT number/NN ]
+of/IN 
+[ conduction/NN electrons/NNS ]
+per/IN 
+[ site/NN ]
+is/VBZ close/JJ to/TO 
+[ one/CD ]
+./. 
+
+======================================
+
+[ The/DT decisive/JJ factor/NN ]
+of/IN 
+[ geothermal/JJ energy/NN development/NN ]
+is/VBZ to/TO improve/VB 
+[ the/DT exploration/NN techniques/NNS ]
+./. 
+
+By/IN effectively/RB carrying/VBG out/RP 
+[ the/DT selection/NN ]
+of/IN 
+[ promising/JJ development/NN spots/NNS ]
+and/CC 
+[ the/DT decision/NN ]
+of/IN well/NN drilling/NN 
+[ positions/NNS ]
+,/, 
+[ the/DT geotherm/NN development/NN ]
+exceeding/VBG 
+[ existing/VBG energy/NN sources/NNS ]
+becomes/VBZ 
+[ feasible/JJ ]
+./. 
+
+[ There/EX ]
+have/VB been/VBN 
+[ many/JJ problems/NNS ]
+in/IN 
+[ conventional/JJ geotherm/NN exploration/NN ]
+such/DT as/IN 
+[ the/DT high/JJ cost/NN ]
+and/CC 
+[ long/JJ work/NN period/NN ]
+,/, therefore/RB ,/, 
+[ it/PRP ]
+was/VBD decided/VBN to/TO advance/VB 
+[ the/DT research/NN ]
+on/IN 
+[ geochemical/JJ exploration/NN techniques/NNS ]
+
+[ which/WDT ]
+are/VBP relatively/RB 
+[ simple/JJ ]
+and/CC can/MD be/VB carried/VBN out/RP with/IN 
+[ low/JJ cost/NN ]
+./. 
+
+When/WRB 
+[ the/DT techniques/NNS ]
+of/IN 
+[ geochemistry/NN ]
+are/VBP used/VBN ,/, for/IN 
+[ example/NN ]
+,/, in/IN 
+[ the/DT case/NN ]
+that/IN 
+[ there/EX ]
+are/VBP 
+[ hot/JJ springs/NNS ]
+or/CC 
+[ fumaroles/NNS ]
+,/, 
+[ the/DT temperature/NN ]
+,/, 
+[ origin/NN ]
+,/, 
+[ properties/NNS ]
+and/CC so/RB on/IN of/IN 
+[ underground/RB hot/JJ water/NN reservoirs/NNS ]
+can/MD be/VB estimated/VBN from/IN 
+[ their/PRP$ chemical/NN composition/NN ]
+./. 
+
+[ The/DT method/NN ]
+of/IN examining/VBG 
+[ the/DT mercury/NN concentration/NN ]
+in/IN 
+[ soil/NN ]
+and/CC 
+[ soil/NN air/NN ]
+has/VBZ been/VBN in/IN 
+[ practical/JJ use/NN ]
+in/IN 
+[ the/DT geothermal/JJ districts/NNS ]
+where/WRB 
+[ the/DT ground/NN surface/NN symptom/NN ]
+lacks/NNS ./. 
+
+[ This/DT time/NN ]
+,/, 
+[ the/DT method/NN ]
+of/IN 
+[ investigation/NN using/VBG radon/NN ]
+,/, 
+[ thoron/NN ]
+and/CC 
+[ gamma/NN ray/NN ]
+as/IN 
+[ the/DT exploration/NN indices/NNS ]
+was/VBD newly/RB studied/VBN ./. 
+
+[ The/DT index/NN compositions/NNS ]
+for/IN 
+[ geochemical/JJ exploration/NN ]
+,/, 
+[ new/JJ exploration/NN index/NN compositions/NNS ]
+,/, 
+[ the/DT method/NN ]
+of/IN 
+[ measurement/NN ]
+,/, 
+[ the/DT basic/JJ investigation/NN ]
+and/CC 
+[ on-the-spot/JJ investigation/NN ]
+are/VBP reported/VBN ./. 
+
+(/( 
+[ Kako/NNP ]
+,/, 
+[ I/CD ]
+./. 
+
+)/) ./. 
+
+======================================
+
+As/IN 
+[ a/DT part/NN ]
+of/IN 
+[ hot-dry/JJ rock/NN ]
+fracturing/VBG and/CC 
+[ development/NN ]
+of/IN 
+[ thermal/JJ extraction/NN technique/NN ]
+,/, 
+[ change/NN ]
+of/IN 
+[ elastic/JJ longitudinal/JJ wave/NN velocity/NN ]
+(/( 
+[ Vp/NN ]
+)/) caused/VBD by/IN 
+[ hydraulic/JJ ]
+fracturing/NN in/IN 
+[ rock/NN specimrns/NNS ]
+were/VBD studied/VBN ./. 
+
+[ Granite/NN specimens/NNS ]
+were/VBD stressed/VBN from/IN 
+[ two/CD horizontal/JJ directions/NNS ]
+and/CC fractured/VBN by/IN 
+[ hydraulic/JJ ]
+pressurizing/NN from/IN 
+[ vertical/JJ bored/VBN direction/NN ]
+and/CC 
+[ Vp/NN change/NN ]
+was/VBD measured/VBN before/IN ,/, during/IN and/CC after/IN fracturing/NN ./. 
+
+[ Vp/NN ]
+was/VBD accelarated/VBN with/IN 
+[ increase/NN ]
+of/IN 
+[ intermediate/JJ principle/NN stress/NN ]
+and/CC in/IN 
+[ the/DT area/NN ]
+where/WRB 
+[ high/JJ pressurized/VBN water/NN ]
+penetrated/VBN and/CC 
+[ the/DT latter/JJ factor/NN ]
+had/VBD 
+[ larger/JJR influence/NN ]
+./. 
+
+[ Vp/NN change/NN ]
+depended/VBD on/IN 
+[ the/DT direction/NN ]
+to/TO 
+[ which/WDT ]
+penetrated/VBD 
+[ water/NN ]
+spreaded/VBN and/CC on/IN 
+[ the/DT direction/NN ]
+of/IN 
+[ fractured/VBN plane/NN ]
+,/, and/CC when/WRB 
+[ the/DT width/NN ]
+of/IN 
+[ fractured/VBN plane/NN ]
+was/VBD very/RB narrow/JJ like/IN 
+[ these/DT experiments/NNS ]
+,/, 
+[ Vp/NN ]
+was/VBD large/RB influenced/VBN by/IN spreading/VBG of/IN 
+[ penetrated/VBN water/NN ]
+rather/RB than/IN fracturing/VBG ./.  
+
+(/( 
+[ 11/CD refs/NNS ]
+,/, 
+[ 12/CD figs/NNS ]
+,/, 
+[ 1/CD tabs/NNS ]

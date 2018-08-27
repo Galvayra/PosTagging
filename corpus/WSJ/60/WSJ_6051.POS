@@ -1,0 +1,409 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Retail/JJ sales/NNS ]
+grew/VBD moderately/RB 
+[ last/JJ month/NN ]
+,/, 
+[ the/DT government/NN ]
+reported/VBD ,/, driven/VBN by/IN 
+[ a/DT surge/NN ]
+in/IN 
+[ automobile/NN ]
+buying/NN that/IN 
+[ most/JJS analysts/NNS ]
+expect/VBP will/MD stall/VB 
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+[ Sales/NNS ]
+rose/VBD 
+[ 0.7/CD %/NN ]
+in/IN 
+[ August/NNP ]
+to/TO 
+[ $/$ 144.29/CD billion/CD ]
+,/, according/VBG to/TO 
+[ a/DT Commerce/NNP Department/NNP survey/NN ]
+of/IN 
+[ retail/JJ establishments/NNS ]
+across/IN 
+[ the/DT country/NN ]
+./. 
+
+But/CC 
+[ a/DT 2.6/CD %/NN jump/NN ]
+in/IN 
+[ car/NN sales/NNS ]
+--/: fueled/VBN by/IN 
+[ big/JJ end-of-model-year/JJ discounts/NNS ]
+and/CC rebate/NN offers/NNS --/: accounted/VBD for/IN most/JJS of/IN 
+[ the/DT gain/NN ]
+./. 
+
+Without/IN 
+[ it/PRP ]
+,/, 
+[ the/DT government/NN ]
+said/VBD ,/, 
+[ sales/NNS ]
+grew/VBD only/RB 
+[ 0.2/CD %/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ These/DT figures/NNS ]
+are/VBP 
+[ borderline/RB abysmal/JJ ]
+,/, ''/'' said/VBD 
+[ Kenneth/NNP Mayland/NNP ]
+,/, 
+[ chief/JJ economist/NN ]
+at/IN 
+[ Society/NNP Corp./NNP ]
+,/, 
+[ a/DT bank/NN holding/NN company/NN ]
+in/IN 
+[ Cleveland/NNP ]
+./. 
+
+``/`` Now/RB 
+[ we/PRP ]
+know/VBP why/WRB 
+[ Mr./NNP Campeau/NNP ]
+is/VBZ suffering/VBG ,/, ''/'' 
+[ he/PRP ]
+added/VBD ,/, referring/VBG to/TO 
+[ the/DT ]
+recently/RB reported/VBN 
+[ financial/JJ troubles/NNS ]
+of/IN 
+[ Robert/NNP Campeau/NNP 's/POS Campeau/NNP Corp./NNP ]
+,/, 
+[ which/WDT ]
+owns/VBZ 
+[ several/JJ chains/NNS ]
+of/IN 
+[ department/NN stores/NNS ]
+./. 
+
+======================================
+
+[ The/DT government/NN ]
+also/RB said/VBD 
+[ retail/JJ sales/NNS ]
+did/VBD n't/RB 
+[ increase/NN ]
+in/IN 
+[ July/NNP ]
+as/RB much/RB as/IN 
+[ it/PRP ]
+initially/RB estimated/VBN ;/: based/VBN on/IN 
+[ new/JJ data/NNS ]
+,/, 
+[ the/DT department/NN ]
+said/VBD 
+[ sales/NNS ]
+grew/VBD 
+[ 0.5/CD %/NN ]
+during/IN 
+[ the/DT month/NN ]
+rather/RB than/IN 
+[ the/DT 0.9/CD %/NN ]
+
+[ it/PRP ]
+initially/RB reported/VBD ./. 
+
+======================================
+
+[ The/DT government/NN 's/POS monthly/JJ retail/JJ sales/NNS estimates/NNS ]
+are/VBP based/VBN on/IN 
+[ a/DT ]
+relatively/RB 
+[ small/JJ sample/NN ]
+of/IN 
+[ reports/NNS ]
+and/CC frequently/RB are/VBP revised/VBN substantially/RB as/IN 
+[ more/JJR data/NNS ]
+are/VBP collected/VBN ./. 
+
+[ The/DT numbers/NNS ]
+are/VBP n't/RB adjusted/VBN to/TO remove/VB 
+[ the/DT effects/NNS ]
+of/IN 
+[ inflation/NN ]
+./. 
+
+[ They/PRP ]
+also/RB exclude/VBP spending/NN on/IN 
+[ services/NNS ]
+,/, 
+[ which/WDT ]
+accounts/VBZ for/IN 
+[ a/DT large/JJ portion/NN ]
+of/IN 
+[ consumer/NN outlays/NNS ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, 
+[ Rosalind/NNP Wells/NNP ]
+,/, 
+[ chief/JJ economist/NN ]
+of/IN 
+[ the/DT National/NNP Retail/NNP Merchants/NNP Association/NNP ]
+and/CC 
+[ president/NN ]
+of/IN 
+[ a/DT consumer/NN research/NN firm/NN ]
+,/, concluded/VBD :/: ``/`` Overall/RB ,/, 
+[ it/PRP ]
+still/RB says/VBZ to/TO 
+[ me/PRP ]
+that/IN despite/IN 
+[ the/DT talk/NN ]
+of/IN 
+[ soft/JJ landings/NNS ]
+and/CC 
+[ soft/JJ takeoffs/NNS ]
+and/CC 
+[ all/PDT the/DT jargon/NN ]
+,/, underlying/JJ 
+[ consumer/NN spending/NN ]
+is/VBZ slow/JJ ./. 
+
+''/'' 
+======================================
+
+[ Many/JJ analysts/NNS ]
+had/VBD expected/VBN 
+[ larger/JJR gains/NNS ]
+in/IN 
+[ retail/JJ sales/NNS ]
+than/IN 
+[ August/NNP 's/POS rise/NN ]
+./. 
+
+Recently/RB revised/VBN 
+[ government/NN economic/JJ statistics/NNS ]
+show/VBP that/IN 
+[ retail/JJ sales/NNS ]
+and/CC 
+[ overall/JJ consumer/NN spending/NN ]
+were/VBD stronger/JJR in/IN 
+[ the/DT second/JJ quarter/NN ]
+than/IN 
+[ initial/JJ data/NNS ]
+indicated/VBD ./. 
+
+======================================
+
+[ The/DT financial/JJ markets/NNS ]
+read/VBD 
+[ the/DT report/NN ]
+as/IN 
+[ a/DT sign/NN ]
+of/IN 
+[ weakness/NN ]
+./. 
+
+[ Stock/NN prices/NNS ]
+fell/VBD and/CC 
+[ the/DT dollar/NN ]
+declined/VBD against/IN 
+[ major/JJ currencies/NNS ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT White/NNP House/NNP ]
+insisted/VBD that/IN 
+[ the/DT retail-sales/NNS report/NN ]
+shows/VBZ that/IN 
+[ the/DT nation/NN 's/POS 82-month/JJ economic/JJ expansion/NN ]
+,/, 
+[ unprecedented/JJ ]
+in/IN 
+[ peacetime/NN ]
+,/, continues/VBZ ./. 
+
+[ Spokesman/NNP Marlin/NNP Fitzwater/NNP ]
+called/VBD 
+[ the/DT numbers/NNS ]
+``/`` 
+[ an/DT indication/NN ]
+of/IN 
+[ continued/JJ ]
+but/CC 
+[ slow/JJ growth/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ There/EX ]
+are/VBP 
+[ signs/NNS ]
+that/IN 
+[ the/DT pace/NN ]
+of/IN 
+[ retail/JJ sales/NNS ]
+could/MD peter/VB out/RP ./. 
+
+On/IN 
+[ Wednesday/NNP ]
+,/, 
+[ auto/NN companies/NNS ]
+reported/VBD that/IN 
+[ their/PRP$ sales/NNS ]
+weakened/VBD in/IN 
+[ the/DT first/JJ 10/CD days/NNS ]
+of/IN 
+[ September/NNP ]
+./. 
+
+And/CC with/IN 
+[ new/JJ models/NNS ]
+due/JJ out/RB soon/RB --/: at/IN 
+[ prices/NNS ]
+from/IN 
+[ 5/CD %/NN ]
+to/TO 
+[ 8/CD %/NN higher/JJR ]
+--/: 
+[ most/JJS economists/NNS ]
+say/VBP 
+[ car/NN buying/NN ]
+may/MD continue/VB to/TO soften/VB ./. 
+
+======================================
+
+[ Sales/NNS ]
+of/IN 
+[ other/JJ big-ticket/JJ items/NNS ]
+improved/VBD significantly/RB 
+[ last/JJ month/NN ]
+,/, according/VBG to/TO 
+[ the/DT report/NN ]
+./. 
+
+[ Furniture/NN sales/NNS ]
+,/, 
+[ a/DT category/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ electronics/NN ]
+and/CC 
+[ personal/JJ computers/NNS ]
+,/, climbed/VBD 
+[ 1.6/CD %/NN ]
+after/IN 
+[ tumbling/VBG 2/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+[ Sales/NNS ]
+of/IN 
+[ hardware/NN ]
+and/CC 
+[ building/NN materials/NNS ]
+leaped/VBD 
+[ 2.2/CD %/NN ]
+after/IN dipping/VBG 
+[ 0.2/CD %/NN ]
+
+[ the/DT month/NN ]
+before/RB ./. 
+
+======================================
+
+``/`` 
+[ Lower/JJR interest/NN rates/NNS ]
+and/CC 
+[ discount/NN pricing/NN ]
+have/VBP led/VBN to/TO 
+[ a/DT rebound/NN ]
+in/IN spending/VBG on/IN 
+[ consumer/NN durables/NNS ]
+,/, ''/'' said/VBD 
+[ William/NNP K./NNP Mac-Reynolds/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ economic/JJ forecasting/NN ]
+at/IN 
+[ the/DT U.S./NNP Chamber/NNP ]
+of/IN 
+[ Commerce/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ sales/NNS ]
+of/IN 
+[ non-durable/JJ goods/NNS ]
+--/: 
+[ products/NNS ]
+such/JJ as/IN 
+[ clothing/NN ]
+,/, 
+[ food/NN ]
+and/CC 
+[ chemicals/NNS ]
+,/, generally/RB defined/VBN as/IN having/VBG 
+[ a/DT usefulness/NN ]
+of/IN less/RBR than/IN 
+[ three/CD years/NNS ]
+--/: were/VBD weak/JJ in/IN 
+[ August/NNP ]
+./. 
+
+Although/IN 
+[ clothing-store/NN sales/NNS ]
+grew/VBD 
+[ 1.1/CD %/NN ]
+,/, 
+[ sales/NNS ]
+fell/VBD at/IN 
+[ restaurants/NNS ]
+,/, 
+[ grocery/NN stores/NNS ]
+,/, 
+[ gas/NN stations/NNS ]
+and/CC 
+[ general-merchandise/NN department/NN stores/NNS ]
+./. 
+
+[ Some/DT analysts/NNS ]
+speculated/VBD that/IN 
+[ people/NNS ]
+had/VBD cut/VBN back/RP on/IN 
+[ various/JJ other/JJ purchases/NNS ]
+to/TO put/VB 
+[ their/PRP$ money/NN ]
+into/IN 
+[ new/JJ cars/NNS ]
+./. 

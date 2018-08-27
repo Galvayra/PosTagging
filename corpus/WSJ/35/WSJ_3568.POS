@@ -1,0 +1,607 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ W.B./NNP Doner/NNP ]
+&/CC 
+[ Co./NNP ]
+confirmed/VBD 
+[ late/JJ yesterday/NN ]
+that/IN 
+[ it/PRP ]
+has/VBZ been/VBN selected/VBN by/IN 
+[ Uniroyal/NNP Goodrich/NNP Tire/NNP Co./NNP ]
+to/TO replace/VB 
+[ Grey/NNP Advertising/NNP ]
+as/IN 
+[ agency/NN ]
+for/IN 
+[ its/PRP$ $/$ 15/CD million/CD ]
+to/TO 
+[ $/$ 25/CD million/CD B.F./NNP Goodrich/NNP tire/NN account/NN ]
+./. 
+
+======================================
+
+[ A/DT spokeswoman/NN ]
+for/IN 
+[ Akron/NNP ]
+,/, 
+[ Ohio-based/JJ Uniroyal/NNP Goodrich/NNP ]
+declined/VBD to/TO comment/VB ,/, saying/VBG 
+[ an/DT announcement/NN ]
+will/MD be/VB made/VBN 
+[ today/NN ]
+./. 
+
+However/RB ,/, 
+[ Jerry/NNP Preyss/NNP ]
+,/, 
+[ executive/JJ vice/NN president/NN ]
+and/CC 
+[ general/JJ manager/NN ]
+of/IN 
+[ the/DT Cleveland/NNP office/NN ]
+of/IN 
+[ W.B./NNP Doner/NNP ]
+,/, said/VBD 
+[ his/PRP$ agency/NN ]
+has/VBZ won/VBN 
+[ the/DT account/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN under/IN 
+[ review/NN ]
+since/IN 
+[ July/NNP ]
+./. 
+
+Also/RB pitching/VBG 
+[ the/DT account/NN ]
+were/VBD 
+[ Chiat\/Day\/Mojo/NNP ]
+,/, 
+[ Los/NNP Angeles/NNP ]
+,/, and/CC 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Advertising/NNP ]
+,/, 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+[ The/DT Uniroyal/NNP Goodrich/NNP spokeswoman/NN ]
+declined/VBD to/TO disclose/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT account/NN ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ estimated/VBN that/IN 
+[ the/DT company/NN ]
+will/MD spend/VB in/IN 
+[ excess/NN ]
+of/IN 
+[ the/DT more-than-$/$ 15/CD million/CD ]
+projected/VBN for/IN 
+[ this/DT year/NN ]
+./. 
+
+[ Company/NN executives/NNS ]
+say/VBP 
+[ Uniroyal/NNP Goodrich/NNP ]
+will/MD increase/VB 
+[ its/PRP$ marketing/NN budget/NN ]
+by/IN more/JJR than/IN 
+[ $/$ 45/CD million/CD ]
+over/IN 
+[ the/DT next/JJ three/CD years/NNS ]
+./. 
+
+======================================
+
+[ Grey/NNP ]
+declined/VBD to/TO comment/VB ./. 
+
+[ Its/PRP$ loss/NN ]
+of/IN 
+[ the/DT account/NN ]
+,/, however/RB ,/, was/VBD tempered/VBN somewhat/RB yesterday/NN by/IN 
+[ a/DT gain/NN ]
+of/IN 
+[ $/$ 6/CD million/CD ]
+in/IN 
+[ additional/JJ billings/NNS ]
+from/IN 
+[ Thompson/NNP Medical/NNP Co./NNP ]
+,/, 
+[ an/DT existing/VBG client/NN ]
+./. 
+
+[ Grey/NNP ]
+also/RB recently/RB won/VBD 
+[ the/DT $/$ 15/CD million/CD Sure/NNP deodorant/JJ account/NN ]
+from/IN 
+[ Procter/NNP ]
+&/CC 
+[ Gamble/NNP ]
+and/CC was/VBD chosen/VBN to/TO handle/VB advertising/NN for/IN 
+[ Ernst/NNP ]
+&/CC 
+[ Young/NNP ]
+./. 
+
+======================================
+
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Advertising/NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Co./NNP ]
+,/, was/VBD also/RB awarded/VBN about/RB 
+[ $/$ 6/CD million/CD ]
+in/IN 
+[ new/JJ billings/NNS ]
+from/IN 
+[ Thompson/NNP Medical/NNP ]
+./. 
+
+======================================
+
+[ Uniroyal/NNP Goodrich/NNP 's/POS decision/NN ]
+to/TO yank/VB 
+[ its/PRP$ business/NN ]
+from/IN 
+[ Grey/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ handled/VBN 
+[ the/DT company/NN 's/POS advertising/NN ]
+since/IN 
+[ 1972/CD ]
+,/, follows/VBZ 
+[ an/DT account/NN review/NN ]
+
+[ that/WDT ]
+surprised/VBD 
+[ the/DT industry/NN ]
+./. 
+
+[ Grey/NNP ]
+earlier/RBR 
+[ this/DT year/NN ]
+broke/VBD 
+[ a/DT somewhat/RB daring/JJ campaign/NN ]
+for/IN 
+[ the/DT ]
+usually/RB 
+[ conservative/JJ tire/NN industry/NN ]
+
+[ that/WDT ]
+used/VBD 
+[ the/DT slogan/NN ]
+,/, ``/`` 
+[ Athletic/JJ shoes/NNS ]
+for/IN 
+[ your/PRP$ car/NN ]
+./. 
+
+''/'' 
+[ The/DT campaign/NN ]
+was/VBD received/VBN well/RB by/IN 
+[ tire/NN dealers/NNS ]
+and/CC by/IN 
+[ top/JJ executives/NNS ]
+at/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+,/, 
+[ executives/NNS ]
+say/VBP ./. 
+
+======================================
+
+[ The/DT Uniroyal/NNP Goodrich/NNP spokeswoman/NN ]
+said/VBD 
+[ the/DT company/NN ]
+decided/VBD to/TO review/VB 
+[ the/DT account/NN ]
+to/TO make/VB 
+[ sure/JJ ]
+
+[ it/PRP ]
+is/VBZ receiving/VBG 
+[ the/DT maximum/NN value/NN ]
+from/IN 
+[ its/PRP$ advertising/NN program/NN ]
+./. 
+
+[ She/PRP ]
+declined/VBD to/TO elaborate/VB ./. 
+
+In/IN 
+[ a/DT surprising/JJ and/CC somewhat/RB unusual/JJ ]
+move/NN ,/, 
+[ Uniroyal/NNP Goodrich/NNP ]
+does/VBZ n't/RB plan/VB to/TO abandon/VB 
+[ the/DT creative/JJ theme/NN ]
+
+[ that/DT Grey/NNP ]
+developed/VBD earlier/RBR 
+[ this/DT year/NN ]
+,/, 
+[ the/DT spokeswoman/NN ]
+added/VBD ./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+'re/VBP delighted/VBN to/TO be/VB on/IN 
+[ their/PRP$ team/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Preyss/NNP ]
+./. 
+
+[ Mr./NNP Preyss/NNP ]
+said/VBD 
+[ the/DT account/NN ]
+will/MD be/VB serviced/VBN out/IN of/IN 
+[ the/DT agency/NN 's/POS Cleveland/NNP office/NN ]
+and/CC 
+[ Southfield/NNP ]
+,/, 
+[ Mich./NNP ]
+,/, 
+[ headquarters/NN ]
+./. 
+
+======================================
+
+[ The/DT decision/NN ]
+also/RB follows/VBZ 
+[ Michelin/NNP Group/NNP 's/POS agreement/NN last/JJ week/NN ]
+to/TO purchase/VB 
+[ Uniroyal/NNP Goodrich/NNP ]
+for/IN 
+[ $/$ 690/CD million/CD ]
+./. 
+
+[ That/DT transaction/NN ]
+will/MD make/VB 
+[ Michelin/NNP ]
+
+[ the/DT world/NN 's/POS biggest/JJS tire/NN concern/NN ]
+./. 
+
+[ The/DT addition/NN ]
+of/IN 
+[ Uniroyal/NNP Goodrich/NNP ]
+to/TO 
+[ Michelin/NNP 's/POS network/NN ]
+will/MD also/RB boost/VB 
+[ its/PRP$ presence/NN ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, where/WRB 
+[ it/PRP ]
+will/MD be/VB 
+[ No./NN 2/CD ]
+to/TO 
+[ market/NN leader/NN Goodyear/NNP Tire/NNP ]
+&/CC 
+[ Rubber/NNP Co/NNP ]
+./. 
+
+[ Industry/NN executives/NNS ]
+said/VBD 
+[ the/DT purchase/NN ]
+did/VBD n't/RB affect/VB 
+[ the/DT review/NN ]
+./. 
+
+[ Michelin/NNP 's/POS ad/NN agency/NN ]
+is/VBZ 
+[ DDB/NNP Needham/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+For/IN 
+[ W.B./NNP Doner/NNP ]
+,/, 
+[ which/WDT ]
+created/VBD 
+[ the/DT humorous/JJ advertising/NN ]
+for/IN 
+[ Klondike/NNP ice/NN cream/NN ]
+and/CC 
+[ Arby/NNP 's/POS restaurants/NNS ]
+,/, 
+[ the/DT account/NN ]
+is/VBZ 
+[ another/DT important/JJ victory/NN ]
+for/IN 
+[ a/DT regional/JJ agency/NN ]
+
+[ whose/WP$ creative/JJ reputation/NN ]
+is/VBZ on/IN 
+[ the/DT rise/NN ]
+./. 
+
+[ Mr./NNP Preyss/NNP ]
+said/VBD 
+[ the/DT victory/NN ]
+over/IN 
+[ Chiat\/Day\/Mojo/NNP ]
+was/VBD particularly/RB 
+[ exciting/JJ ]
+,/, as/IN 
+[ it/PRP ]
+was/VBD 
+[ a/DT runner-up/NN last/JJ year/NN ]
+to/TO 
+[ Chiat\/Day\/Mojo/NNP ]
+in/IN 
+[ Advertising/NNP Age/NNP 's/POS ranking/NN ]
+of/IN 
+[ the/DT best/JJS agencies/NNS ]
+in/IN 
+[ the/DT country/NN ]
+./. 
+
+======================================
+
+[ The/DT Thompson/NNP Medical/NNP business/NN ]
+was/VBD previously/RB handled/VBN by/IN 
+[ Laurence/NNP ]
+,/, 
+[ Charles/NNP ]
+,/, 
+[ Free/NNP ]
+&/CC 
+[ Lawson/NNP ]
+,/, 
+[ a/DT New/NNP York/NNP shop/NN ]
+./. 
+
+[ Grey/NNP ]
+,/, 
+[ which/WDT ]
+already/RB handles/VBZ 
+[ Slim-Fast/NNP diet/NN products/NNS ]
+,/, was/VBD assigned/VBN 
+[ Aspercreme/NNP ]
+,/, 
+[ Sportscreme/NNP ]
+,/, 
+[ Aqua-Ban/NNP ]
+and/CC 
+[ NP-27/NNP ]
+./. 
+
+[ Total/NNP Thompson/NNP Medical/NNP billings/NNS ]
+at/IN 
+[ Grey/NNP ]
+now/RB run/VBP about/RB 
+[ $/$ 30/CD million/CD ]
+,/, 
+[ a/DT spokeswoman/NN ]
+for/IN 
+[ the/DT agency/NN ]
+said/VBD ./. 
+
+[ The/DT agency/NN ]
+earlier/RBR 
+[ this/DT year/NN ]
+became/VBD 
+[ Thompson/NNP Medical/NNP 's/POS media-buying/JJ agency/NN ]
+./. 
+
+======================================
+
+[ Saatchi/NNP ]
+&/CC 
+[ Saatchi/NNP Advertising/NNP ]
+,/, meanwhile/RB ,/, was/VBD awarded/VBN 
+[ ad/NN assignments/NNS ]
+for/IN 
+[ Cortizone-5/NNP ]
+,/, 
+[ Caffedrine/NNP ]
+,/, 
+[ Encare/NNP ]
+and/CC 
+[ Sleepinal/NNP ]
+./. 
+
+In/IN 
+[ March/NNP ]
+,/, 
+[ it/PRP ]
+picked/VBD up/RP 
+[ Thompson/NNP Medical/NNP 's/POS $/$ 20/CD million/CD ]
+to/TO 
+[ $/$ 25/CD million/CD Dexatrim/NNP account/NN ]
+./. 
+
+======================================
+
+At/IN 
+[ Thompson/NNP Medical/NNP ]
+,/, 
+[ a/DT spokesman/NN ]
+for/IN 
+[ the/DT company/NN ]
+said/VBD 
+[ it/PRP ]
+and/CC 
+[ the/DT Laurence/NNP Charles/NNP agency/NN ]
+split/VBD over/IN ``/`` 
+[ philosophical/JJ differences/NNS ]
+,/, ''/'' adding/VBG that/IN 
+[ the/DT move/NN ]
+represents/VBZ 
+[ a/DT consolidation/NN ]
+of/IN 
+[ its/PRP$ business/NN ]
+./. 
+
+``/`` From/IN 
+[ our/PRP$ standpoint/NN ]
+,/, 
+[ it/PRP ]
+will/MD be/VB more/RBR efficient/JJ if/IN 
+[ our/PRP$ people/NNS ]
+are/VBP dealing/VBG with/IN 
+[ two/CD agencies/NNS ]
+rather/RB than/IN 
+[ three/CD ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ Ad/NN Notes/NNS ]
+./. 
+
+./. 
+
+./. 
+
+./. 
+
+======================================
+
+[ KRAFT/NNP USA/NNP ]
+:/: 
+[ Joel/NNP Weiner/NNP ]
+,/, 
+[ senior/JJ vice/NN president/NN ]
+for/IN marketing/NN at/IN 
+[ Philip/NNP Morris/NNP 's/POS Kraft/NNP USA/NNP division/NN ]
+,/, resigned/VBD for/IN 
+[ personal/JJ reasons/NNS  ]
+./. 
+
+[ He/PRP ]
+will/MD be/VB succeeded/VBN by/IN 
+[ Charles/NNP F./NNP Martin/NNP III/NNP ]
+,/, 
+[ vice/NN president/NN ]
+of/IN marketing/NN for/IN 
+[ Kraft/NNP USA/NNP 's/POS grocery/NN products/NNS ]
+./. 
+
+======================================
+
+[ ANDERSEN/NNP CONSULTING/NNP ]
+:/: 
+[ The/DT consulting/NN arm/NN ]
+of/IN 
+[ Arthur/NNP Andersen/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ which/WDT ]
+advertised/VBD for/IN 
+[ the/DT first/JJ time/NN last/JJ year/NN ]
+,/, unveiled/VBD 
+[ plans/NNS ]
+for/IN 
+[ its/PRP$ second/JJ year/NN ]
+of/IN 
+[ advertising/NN ]
+./. 
+
+[ Its/PRP$ budget/NN ]
+for/IN 
+[ the/DT TV/NN ]
+and/CC 
+[ print/NN campaign/NN ]
+is/VBZ 
+[ $/$ 11/CD million/CD ]
+./. 
+
+[ Young/NNP ]
+&/CC 
+[ Rubicam/NNP ]
+created/VBD 
+[ the/DT ads/NNS ]
+,/, 
+[ which/WDT ]
+pitch/VBP 
+[ the/DT firm/NN 's/POS information/NN technology/NN services/NNS ]
+./. 
+
+======================================
+
+[ MERGING/VBG AGENCIES/NNS ]
+:/: 
+[ Bergelt/NNP Litchfield/NNP ]
+and/CC 
+[ Ephron/NNP Raboy/NNP ]
+&/CC 
+[ Tsao/NNP Advertising/NNP ]
+,/, 
+[ two/CD small/JJ New/NNP York/NNP agencies/NNS ]
+,/, merged/VBD to/TO form/VB 
+[ a/DT $/$ 40/CD million/CD shop/NN ]
+
+[ that/WDT ]
+will/MD be/VB called/VBN 
+[ Bergelt/NNP Litchfield/NNP Raboy/NNP ]
+&/CC 
+[ Tsao/NNP ]
+./. 
+
+[ Terms/NNS ]
+of/IN 
+[ the/DT transaction/NN ]
+,/, 
+[ which/WDT ]
+included/VBD 
+[ an/DT exchange/NN ]
+of/IN 
+[ stock/NN ]
+,/, were/VBD n't/RB disclosed/VBN ./. 
+
+======================================
+
+[ TRACY-LOCKE/NNP ]
+:/: 
+[ Tom/NNP Monroe/NNP ]
+was/VBD named/VBN 
+[ chairman/NN ]
+and/CC 
+[ chief/JJ creative/JJ officer/NN ]
+and/CC 
+[ Mike/NNP Rawlings/NNP ]
+was/VBD appointed/VBN 
+[ general/JJ manager/NN ]
+and/CC 
+[ chief/NN operating/VBG officer/NN ]
+of/IN 
+[ the/DT Omnicom/NNP Group/NNP unit/NN 's/POS Dallas/NNP ad/NN agency/NN ]
+./. 

@@ -1,0 +1,474 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+When/WRB 
+[ the/DT Supreme/NNP Court/NNP ]
+upheld/VBD 
+[ Missouri/NNP 's/POS abortion/NN restrictions/NNS ]
+in/IN 
+[ July/NNP ]
+,/, 
+[ some/DT experts/NNS ]
+said/VBD 
+[ the/DT justices/NNS ]
+were/VBD inviting/VBG 
+[ a/DT broader/JJR legal/JJ challenge/NN ]
+to/TO 
+[ abortion/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT federal/JJ courtroom/NN ]
+in/IN 
+[ New/NNP Orleans/NNP today/NN ]
+,/, 
+[ the/DT state/NN ]
+of/IN 
+[ Louisiana/NNP ]
+and/CC 
+[ the/DT city/NN 's/POS district/NN attorney/NN ]
+will/MD accept/VB 
+[ the/DT invitation/NN ]
+./. 
+
+======================================
+
+[ Louisiana/NNP Attorney/NNP General/NNP William/NNP Guste/NNP ]
+and/CC 
+[ Orleans/NNP Parish/NNP District/NNP Attorney/NNP Harry/NNP Connick/NNP ]
+have/VBP asked/VBN 
+[ a/DT federal/JJ court/NN ]
+to/TO allow/VB 
+[ them/PRP ]
+to/TO resume/VB 
+[ criminal/JJ prosecution/NN ]
+of/IN 
+[ doctors/NNS ]
+
+[ who/WP ]
+perform/VBP 
+[ abortions/NNS ]
+,/, and/CC of/IN 
+[ doctors/NNS ]
+and/CC 
+[ clinics/NNS ]
+
+[ that/WDT ]
+advertise/VBP 
+[ abortion/NN services/NNS ]
+./. 
+
+======================================
+
+[ The/DT case/NN ]
+is/VBZ 
+[ the/DT first/JJ major/JJ legal/JJ sequel/NN ]
+to/TO 
+[ the/DT Missouri/NNP ruling/NN ]
+./. 
+
+In/IN 
+[ the/DT Missouri/NNP case/NN ]
+,/, 
+[ five/CD ]
+of/IN 
+[ the/DT nine/CD Supreme/NNP Court/NNP justices/NNS ]
+expressed/VBD varying/VBG 
+[ degrees/NNS ]
+of/IN 
+[ dissatisfaction/NN ]
+with/IN 
+[ the/DT 1973/CD Roe/NNP vs./FW Wade/NNP decision/NN ]
+
+[ that/WDT ]
+recognized/VBD 
+[ a/DT constitutional/JJ right/NN ]
+to/TO 
+[ abortion/NN ]
+;/: but/CC 
+[ the/DT majority/NN ]
+stopped/VBD short/RB of/IN directly/RB reconsidering/VBG 
+[ the/DT right/NN ]
+to/TO 
+[ abortion/NN ]
+./. 
+
+[ Justice/NNP Sandra/NNP O'Connor/NNP ]
+explained/VBD in/IN 
+[ her/PRP$ separate/JJ opinion/NN ]
+:/: ``/`` 
+[ There/EX ]
+will/MD be/VB 
+[ time/NN ]
+enough/RB to/TO 
+[ re-examine/VB Roe/NNP ]
+''/'' when/WRB 
+[ it/PRP ]
+'s/VBZ essential/JJ to/TO 
+[ the/DT outcome/NN ]
+of/IN 
+[ a/DT future/JJ case/NN ]
+./. 
+
+======================================
+
+[ Louisiana/NNP officials/NNS ]
+hope/VBP 
+[ that/DT time/NN ]
+has/VBZ come/VBN ./. 
+
+[ Enforcement/NN ]
+of/IN 
+[ the/DT state/NN 's/POS laws/NNS ]
+was/VBD blocked/VBN by/IN 
+[ a/DT federal/JJ court/NN injunction/NN ]
+in/IN 
+[ 1976/CD ]
+based/VBN on/IN 
+[ the/DT Roe/NNP vs./FW Wade/NNP decision/NN ]
+./. 
+
+But/CC 
+[ the/DT Louisiana/NNP Legislature/NNP ]
+never/RB repealed/VBD 
+[ the/DT laws/NNS ]
+,/, leaving/VBG 
+[ them/PRP ]
+on/IN 
+[ the/DT books/NNS ]
+in/IN 
+[ case/NN ]
+
+[ the/DT state/NN ]
+got/VBD 
+[ the/DT chance/NN ]
+to/TO apply/VB 
+[ them/PRP ]
+again/RB ./. 
+
+======================================
+
+Just/RB 
+[ days/NNS ]
+after/IN 
+[ the/DT Missouri/NNP ruling/NN ]
+,/, 
+[ the/DT Louisiana/NNP Legislature/NNP ]
+passed/VBD 
+[ a/DT resolution/NN ]
+urging/VBG 
+[ the/DT state/NN 's/POS district/NN attorneys/NNS ]
+to/TO enforce/VB 
+[ the/DT criminal/JJ abortion/NN laws/NNS ]
+``/`` to/TO 
+[ the/DT fullest/JJS extent/NN ]
+permitted/VBN ''/'' by/IN 
+[ the/DT Constitution/NNP ]
+./. 
+
+======================================
+
+But/CC rather/RB than/IN begin/VB immediately/RB 
+[ arresting/VBG doctors/NNS ]
+
+[ who/WP ]
+perform/VBP 
+[ abortions/NNS ]
+,/, 
+[ Mr./NNP Connick/NNP ]
+,/, and/CC later/RB 
+[ Mr./NNP Guste/NNP ]
+,/, asked/VBD 
+[ a/DT federal/JJ court/NN ]
+to/TO lift/VB 
+[ the/DT injunction/NN ]
+and/CC declare/VB 
+[ the/DT Louisiana/NNP abortion/NN laws/NNS ]
+valid/JJ ./. 
+
+[ The/DT Supreme/NNP Court/NNP ]
+gave/VBD 
+[ the/DT states/NNS more/JJR leeway/NN ]
+in/IN 
+[ the/DT Missouri/NNP ruling/NN ]
+,/, 
+[ they/PRP ]
+argue/VBP ./. 
+
+======================================
+
+If/IN 
+[ they/PRP ]
+succeed/VBP ,/, 
+[ the/DT effect/NN ]
+would/MD be/VB to/TO outlaw/VB 
+[ most/JJS ]
+of/IN 
+[ the/DT ]
+roughly/RB 
+[ 15,000/CD abortions/NNS ]
+performed/VBN 
+[ each/DT year/NN ]
+in/IN 
+[ Louisiana/NNP ]
+,/, imposing/VBG up/IN to/TO 
+[ a/DT 10-year/JJ prison/NN sentence/NN ]
+on/IN 
+[ doctors/NNS ]
+convicted/VBN of/IN performing/VBG 
+[ abortions/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ abortion/NN doctors/NNS ]
+would/MD close/VB up/RB 
+[ shop/NN ]
+,/, leave/VB 
+[ town/NN ]
+or/CC get/VB into/IN 
+[ some/DT other/JJ line/NN ]
+of/IN 
+[ work/NN ]
+,/, ''/'' says/VBZ 
+[ John/NNP Baker/NNP ]
+,/, 
+[ a/DT professor/NN ]
+at/IN 
+[ Louisiana/NNP State/NNP University/NNP Law/NNP Center/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ handling/VBG 
+[ the/DT case/NN ]
+for/IN 
+[ Mr./NNP Connick/NNP ]
+./. 
+
+======================================
+
+[ Rachael/NNP Pine/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+with/IN 
+[ the/DT American/NNP Civil/NNP Liberties/NNPS Union/NNP 's/POS Reproductive/NNP Freedom/NNP Project/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, will/MD argue/VB against/IN 
+[ any/DT change/NN ]
+in/IN 
+[ the/DT injunction/NN ]
+./. 
+
+``/`` 
+[ There/EX ]
+can/MD be/VB 
+[ no/DT argument/NN ]
+
+[ that/DT Roe/NNP ]
+was/VBD overturned/VBN ,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+Moreover/RB ,/, 
+[ she/PRP ]
+criticizes/VBZ 
+[ state/NN officials/NNS ]
+for/IN trying/VBG to/TO revive/VB 
+[ old/JJ laws/NNS ]
+
+[ that/WDT ]
+were/VBD invalidated/VBN ,/, instead/RB of/IN having/VBG 
+[ the/DT Legislature/NNP vote/NN ]
+on/IN 
+[ new/JJ laws/NNS ]
+./. 
+
+[ This/DT ]
+is/VBZ using/VBG 
+[ the/DT courts/NNS ]
+to/TO ``/`` circumvent.../: 
+[ the/DT democratic/JJ processes/NNS ]
+,/, ''/'' 
+[ she/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ The/DT case/NN ]
+will/MD be/VB argued/VBN 
+[ this/DT morning/NN ]
+before/IN 
+[ a/DT special/JJ three-judge/JJ ]
+,/, 
+[ federal/JJ district/NN court/NN ]
+./. 
+
+When/WRB 
+[ the/DT injunctions/NNS ]
+were/VBD issued/VBN in/IN 
+[ 1976/CD ]
+,/, 
+[ the/DT three/CD judges/NNS ]
+handling/VBG 
+[ the/DT case/NN ]
+were/VBD appointed/VBN by/IN 
+[ President/NNP Johnson/NNP ]
+./. 
+
+[ Today/NN ]
+,/, 
+[ the/DT three/CD judges/NNS ]
+will/MD be/VB 
+[ appointees/NNS ]
+of/IN 
+[ President/NNP Reagan/NNP ]
+./. 
+
+======================================
+
+[ There/EX ]
+is/VBZ 
+[ some/DT dispute/NN ]
+as/IN to/TO how/WRB 
+[ the/DT criminal/JJ laws/NNS ]
+would/MD be/VB enforced/VBN if/IN 
+[ the/DT injunction/NN ]
+is/VBZ lifted/VBN ./. 
+
+[ Attorney/NNP General/NNP Guste/NNP ]
+says/VBZ 
+[ the/DT law/NN ]
+applies/VBZ only/RB to/TO 
+[ doctors/NNS ]
+performing/VBG 
+[ abortions/NNS ]
+,/, not/RB to/TO 
+[ women/NNS ]
+having/VBG 
+[ the/DT procedure/NN ]
+,/, and/CC that/IN 
+[ it/PRP ]
+includes/VBZ 
+[ an/DT exception/NN ]
+for/IN 
+[ abortions/NNS ]
+
+[ that/WDT ]
+are/VBP necessary/JJ to/TO save/VB 
+[ the/DT mother/NN 's/POS life/NN ]
+./. 
+
+But/CC 
+[ the/DT ACLU/NNP 's/POS Ms./NNP Pine/NNP ]
+argues/VBZ that/IN 
+[ the/DT wording/NN ]
+of/IN 
+[ the/DT state/NN 's/POS law/NN ]
+
+[ itself/PRP ]
+does/VBZ n't/RB limit/VB 
+[ prosecutions/NNS ]
+to/TO 
+[ doctors/NNS ]
+or/CC make/VB 
+[ an/DT exception/NN ]
+for/IN 
+[ abortions/NNS ]
+when/WRB 
+[ the/DT mother/NN 's/POS life/NN ]
+is/VBZ at/IN 
+[ risk/NN ]
+./. 
+
+======================================
+
+Just/RB how/WRB and/CC when/WRB 
+[ the/DT Louisiana/NNP case/NN ]
+will/MD be/VB resolved/VBN is/VBZ uncertain/JJ ./. 
+
+[ The/DT three-judge/JJ court/NN ]
+may/MD decide/VB 
+[ the/DT case/NN ]
+on/IN 
+[ narrow/JJ grounds/NNS ]
+involving/VBG 
+[ the/DT procedure/NN ]
+for/IN issuing/VBG or/CC 
+[ changing/VBG injunctions/NNS ]
+,/, without/IN directly/RB addressing/VBG 
+[ the/DT abortion/NN ]
+issues/NNS ,/, or/CC 
+[ it/PRP ]
+may/MD address/VB 
+[ the/DT broader/JJR question/NN ]
+of/IN 
+[ the/DT current/JJ status/NN ]
+of/IN 
+[ abortion/NN law/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ either/DT case/NN ]
+,/, 
+[ the/DT Louisiana/NNP law/NN ]
+is/VBZ almost/RB certain/JJ to/TO find/VB 
+[ its/PRP$ way/NN ]
+to/TO 
+[ the/DT Supreme/NNP Court/NNP ]
+in/IN 
+[ the/DT near/JJ future/NN ]
+./. 
+
+======================================
+
+[ The/DT need/NN ]
+for/IN 
+[ a/DT speedy/JJ answer/NN ]
+may/MD be/VB 
+[ the/DT only/JJ point/NN ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT two/CD sides/NNS ]
+agree/VBP ./. 
+
+``/`` 
+[ This/DT ]
+has/VBZ created/VBN 
+[ chaos/NN ]
+down/IN there/RB ,/, ''/'' says/VBZ 
+[ Ms./NNP Pine/NNP ]
+./. 
+
+``/`` 
+[ There/EX ]
+is/VBZ 
+[ real/JJ fear/NN ]
+in/IN 
+[ the/DT community/NN ]
+of/IN 
+[ abortion/NN patients/NNS ]
+,/, 
+[ doctors/NNS ]
+and/CC 
+[ clinics/NNS ]
+./. 

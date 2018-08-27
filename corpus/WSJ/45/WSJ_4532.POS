@@ -1,0 +1,85 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ SmithKline/NNP Beecham/NNP PLC/NNP ]
+said/VBD 
+[ it/PRP ]
+discontinued/VBD 
+[ clinical/JJ trials/NNS ]
+of/IN 
+[ the/DT oral/JJ form/NN ]
+of/IN 
+[ Corlopam/NNP ]
+for/IN 
+[ congestive/JJ heart/NN failure/NN ]
+./. 
+
+======================================
+
+[ The/DT London-based/JJ pharmaceutical/NN company/NN ]
+said/VBD 
+[ that/DT form/NN ]
+of/IN 
+[ the/DT drug/NN ]
+,/, known/VBN generically/RB as/IN 
+[ fenoldopam/NN ]
+,/, was/VBD found/VBN not/RB to/TO provide/VB 
+[ significant/JJ benefit/NN ]
+in/IN 
+[ comparison/NN ]
+with/IN existing/VBG 
+[ therapies/NNS ]
+./. 
+
+Previously/RB ,/, 
+[ the/DT company/NN ]
+had/VBD said/VBN that/IN 
+[ the/DT oral/JJ form/NN ]
+was/VBD 
+[ the/DT one/CD ]
+with/IN 
+[ the/DT largest/JJS market/NN potential/NN ]
+./. 
+
+======================================
+
+[ SmithKline/NNP ]
+added/VBD ,/, however/RB ,/, that/IN 
+[ it/PRP ]
+is/VBZ continuing/VBG 
+[ studies/NNS ]
+of/IN 
+[ the/DT oral/JJ form/NN ]
+in/IN 
+[ the/DT treatment/NN ]
+of/IN 
+[ chronic/JJ renal/JJ failure/NN ]
+./. 
+
+And/CC 
+[ the/DT company/NN ]
+has/VBZ already/RB asked/VBN 
+[ the/DT Food/NNP ]
+and/CC 
+[ Drug/NNP Administration/NNP ]
+for/IN 
+[ marketing/NN approval/NN ]
+of/IN 
+[ an/DT intravenous/JJ form/NN ]
+in/IN 
+[ acute/JJ hypertension/NN ]
+./. 

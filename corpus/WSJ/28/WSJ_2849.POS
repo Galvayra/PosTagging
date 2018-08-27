@@ -1,0 +1,554 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Once/RB again/RB ,/, 
+[ it/PRP ]
+'s/VBZ 
+[ the/DT eleventh/JJ hour/NN ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ budget/NN process/NN ]
+,/, ''/'' 
+[ which/WDT ]
+means/VBZ 
+[ all/DT ]
+of/IN 
+[ Washington/NNP ]
+is/VBZ restaging/VBG 
+[ its/PRP$ favorite/JJ show/NN ]
+--/: 
+[ Nightmare/NNP ]
+on/IN 
+[ Pennsylvania/NNP Avenue/NNP ]
+./. 
+
+As/IN 
+[ usual/JJ ]
+,/, 
+[ the/DT Pork/NNP Monster/NNP ]
+known/VBN as/IN 
+[ an/DT omnibus/JJ appropriations/NNS bill/NN ]
+is/VBZ gobbling/VBG 
+[ its/PRP$ way/NN ]
+through/IN 
+[ what/WP ]
+'s/VBZ left/VBN of/IN 
+[ Washington/NNP 's/POS political/JJ respectability/NN ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, 
+[ there/EX ]
+'s/VBZ 
+[ a/DT 30-page/JJ document/NN ]
+now/RB making/VBG 
+[ the/DT rounds/NNS ]
+in/IN 
+[ Washington/NNP ]
+
+[ that/WDT ]
+lists/VBZ ``/`` 
+[ extraneous/JJ ]
+and/CC 
+[ other/JJ problem/NN provisions/NNS ]
+''/'' in/IN 
+[ the/DT Senate/NNP bill/NN ]
+./. 
+
+Here/RB are/VBP 
+[ some/DT ]
+of/IN 
+[ Congress/NNP 's/POS creations/NNS ]
+
+[ this/DT year/NN ]
+,/, quite/RB apart/RB from/IN 
+[ the/DT billions/NNS ]
+pouring/VBG out/IN for/IN 
+[ new/JJ health/NN ]
+,/, 
+[ welfare/NN ]
+and/CC 
+[ environmental/JJ spending/NN ]
+./. 
+
+======================================
+
+[ There/EX ]
+'s/VBZ 
+[ money/NN ]
+for/IN 
+[ an/DT oat/NN acreage/NN limitation/NN program/NN ]
+;/: for/IN boosting/VBG 
+[ the/DT sale/NN ]
+of/IN 
+[ meat/NN ]
+in/IN 
+[ U.S./NNP commissaries/NNS ]
+;/: for/IN 
+[ a/DT $/$ 6/CD million/CD ]
+``/`` 
+[ magnetic/JJ levitation/NN transportation/NN grant/NN ]
+''/'' ;/: for/IN ``/`` 
+[ demonstration/NN projects/NNS ]
+relating/VBG to/TO telephone/VB 
+[ service/NN centers/NNS ]
+''/'' ;/: and/CC for/IN 
+[ the/DT Finger/NNP Lakes/NNPS Area/NNP Hospital/NNP Corp./NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+======================================
+
+[ One/CD provision/NN ]
+would/MD prohibit/VB 
+[ the/DT President/NN ]
+from/IN designating/VBG 
+[ a/DT country/NN ]
+as/IN covered/VBN by/IN 
+[ the/DT Caribbean/NNP Basin/NNP Initiative/NNP ]
+unless/IN 
+[ it/PRP ]
+adopted/VBD 
+[ certain/JJ labor/NN laws/NNS ]
+./. 
+
+[ Special-interest/JJ provisions/NNS ]
+would/MD pay/VB for/IN 
+[ grants/NNS ]
+covering/VBG 
+[ Onondaga/NNP Lake/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+and/CC 
+[ a/DT special/JJ transition/NN rule/NN ]
+for/IN 
+[ the/DT Kenosha/NNP Harbor/NNP ]
+in/IN 
+[ Wisconsin/NNP ]
+./. 
+
+======================================
+
+Believe/VB 
+[ it/PRP ]
+or/CC not/RB ,/, 
+[ the/DT capital-gains/JJ tax/NN cut/NN ]
+is/VBZ 
+[ part/NN ]
+of/IN 
+[ the/DT same/JJ bill/NN ]
+
+[ that/WDT ]
+'s/VBZ carting/VBG 
+[ all/PDT this/DT special-interest/JJ baggage/NN ]
+./. 
+
+Oh/UH ,/, but/CC 
+[ there/EX ]
+'s/VBZ more/JJR ./. 
+
+[ The/DT House/NNP ]
+has/VBZ affixed/VBN 
+[ a/DT new/JJ Fairness/NNP Doctrine/NNP bill/NN ]
+to/TO 
+[ the/DT capital-gains/JJ bill/NN ]
+./. 
+
+[ President/NNP Reagan/NNP ]
+refused/VBD to/TO renew/VB 
+[ the/DT Fairness/NNP Doctrine/NNP ]
+,/, 
+[ an/DT unconstitutional/JJ restraint/NN ]
+on/IN broadcasting/NN 
+[ which/WDT ]
+
+[ Congress/NNP ]
+would/MD raise/VB from/IN 
+[ the/DT dead/JJ ]
+by/IN packing/VBG 
+[ it/PRP ]
+into/IN 
+[ the/DT omnibus/JJ bill/NN ]
+./. 
+
+Remember/VB 
+[ the/DT child-care/JJ bill/NN ]
+
+[ that/WDT ]
+includes/VBZ licensing/VBG 
+[ grandmas/NNS ]
+?/. 
+
+[ That/DT ]
+'s/VBZ in/IN there/RB too/RB ,/, with/IN 
+[ expanded/VBN programs/NNS ]
+and/CC 
+[ paper/NN work/NN ]
+alone/RB 
+[ that/DT ]
+will/MD make/VB 
+[ Section/NN 89/CD look/VB ]
+like/IN 
+[ a/DT model/NN ]
+of/IN 
+[ clarity/NN ]
+./. 
+
+======================================
+
+[ This/DT ]
+is/VBZ 
+[ Garbage/NNP Government/NNP ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT way/NN Washington/NNP ]
+legislates/VBZ now/RB ,/, 
+[ the/DT way/NN ]
+
+[ it/PRP ]
+has/VBZ enacted/VBN poorly/RB crafted/VBN 
+[ laws/NNS ]
+in/IN 
+[ recent/JJ years/NNS ]
+and/CC 
+[ the/DT way/NN ]
+
+[ it/PRP ]
+will/MD do/VB so/RB forever/RB unless/IN 
+[ someone/NN ]
+puts/VBZ 
+[ a/DT stop/NN ]
+to/TO 
+[ it/PRP ]
+./. 
+
+[ Every/DT four/CD years/NNS ]
+
+[ the/DT American/JJ people/NNS ]
+go/VBP to/TO 
+[ the/DT polls/NNS ]
+and/CC elect/VBP 
+[ the/DT person/NN ]
+
+[ they/PRP ]
+expect/VBP to/TO put/VB 
+[ a/DT stop/NN ]
+to/TO 
+[ this/DT disgrace/NN ]
+:/: 
+[ the/DT President/NN ]
+./. 
+
+Instead/RB ,/, 
+[ the/DT role/NN Washington/NNP ]
+has/VBZ assigned/VBN to/TO 
+[ Presidents/NNS ]
+ever/RB since/IN 
+[ the/DT 1974/CD budget/NN ]
+``/`` 
+[ reform/NN ]
+''/'' 
+[ bill/NN ]
+has/VBZ been/VBN to/TO faint/VB 
+[ dead/JJ ]
+away/RB as/IN 
+[ the/DT garbage/NN truck/NN rolls/VBZ ]
+through/IN 
+[ town/NN ]
+./. 
+
+======================================
+
+[ President/NNP Bush/NNP ]
+will/MD never/RB have/VB 
+[ a/DT better/JJR chance/NN ]
+than/IN 
+[ he/PRP ]
+has/VBZ now/RB to/TO rewrite/VB 
+[ this/DT script/NN ]
+./. 
+
+[ He/PRP ]
+has/VBZ to/TO confront/VB 
+[ Congress/NNP ]
+./. 
+
+[ It/PRP ]
+is/VBZ 
+[ time/NN ]
+for/IN 
+[ President/NNP Bush/NNP ]
+to/TO test/VB 
+[ his/PRP$ inherent/JJ power/NN ]
+to/TO 
+[ line-item/JJ veto/NN ]
+unconstitutional/JJ and/CC 
+[ unneeded/JJ provisions/NNS ]
+in/IN 
+[ the/DT budget/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Bush/NNP ]
+is/VBZ on/IN 
+[ record/NN ]
+in/IN 
+[ interviews/NNS ]
+as/IN saying/VBG that/IN 
+[ he/PRP ]
+'s/VBZ looking/VBG for/IN just/RB 
+[ the/DT right/JJ test/NN case/NN ]
+for/IN 
+[ the/DT item-veto/JJ proposal/NN ]
+
+[ that/WDT ]
+was/VBD made/VBN on/IN 
+[ these/DT pages/NNS ]
+by/IN 
+[ lawyer/NN Stephen/NNP Glazier/NNP ]
+./. 
+
+[ Mr./NNP Glazier/NNP ]
+argues/VBZ that/IN 
+[ Presidents/NNS ]
+possess/VBP 
+[ an/DT inherent/JJ line-item/JJ veto/NN ]
+or/CC ,/, alternatively/RB ,/, 
+[ the/DT power/NN ]
+to/TO impound/VB or/CC refuse/VB to/TO spend/VB authorized/VBN 
+[ funds/NNS ]
+./. 
+
+[ The/DT omnibus/JJ garbage/NN bill/NN ]
+is/VBZ 
+[ reason/NN ]
+alone/RB to/TO restore/VB 
+[ discipline/NN ]
+to/TO 
+[ the/DT process/NN ]
+,/, but/CC 
+[ the/DT politics/NNS ]
+of/IN 
+[ this/DT bill/NN ]
+in/IN 
+[ particular/JJ ]
+make/VBP 
+[ it/PRP ]
+evident/JJ why/WRB 
+[ the/DT process/NN ]
+produces/VBZ mainly/RB 
+[ paralysis/NN ]
+./. 
+
+======================================
+
+[ The/DT capital-gains/JJ cut/NN ]
+is/VBZ 
+[ the/DT one/CD serious/JJ piece/NN ]
+of/IN 
+[ politics/NNS Washington/NNP ]
+has/VBZ conducted/VBN 
+[ this/DT session/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ been/VBN fully/RB aired/VBN in/IN 
+[ public/NN ]
+and/CC voted/VBN on/IN ./. 
+
+Now/RB 
+[ it/PRP ]
+'s/VBZ in/IN 
+[ danger/NN ]
+of/IN disappearing/VBG into/IN 
+[ the/DT omnibus/JJ muck/NN ]
+./. 
+
+Because/IN 
+[ Mr./NNP Bush/NNP ]
+fears/VBZ 
+[ he/PRP ]
+'d/MD have/VB to/TO agree/VB to/TO 
+[ an/DT orgy/NN ]
+of/IN spending/NN if/IN 
+[ he/PRP ]
+also/RB wants/VBZ to/TO keep/VB 
+[ the/DT capital-gains/NN ]
+cut/NN in/IN 
+[ the/DT bill/NN ]
+,/, 
+[ he/PRP ]
+'s/VBZ negotiating/VBG to/TO take/VB 
+[ it/PRP ]
+out/IN ./. 
+
+But/CC 
+[ that/DT ]
+would/MD require/VB 
+[ another/DT vote/NN ]
+in/IN 
+[ the/DT House/NN ]
+,/, raising/VBG 
+[ the/DT danger/NN ]
+that/IN 
+[ the/DT class/NN warriors/NNS ]
+there/RB would/MD prevail/VB against/IN 
+[ the/DT capital-gains/NN ]
+cut/NN 
+[ this/DT time/NN ]
+./. 
+
+Moreover/RB ,/, since/IN 
+[ that/DT vote/NN ]
+would/MD come/VB after/IN 
+[ the/DT vote/NN ]
+on/IN 
+[ the/DT budget/NN ]
+,/, 
+[ President/NNP Bush/NNP ]
+may/MD conclude/VB that/IN 
+[ he/PRP ]
+'d/MD have/VB to/TO cut/VB 
+[ a/DT deal/NN ]
+to/TO accept/VB 
+[ whatever/WDT spending/NN ]
+
+[ he/PRP ]
+'s/VBZ handed/VBN in/IN 
+[ the/DT awful/JJ omnibus/JJ bill/NN ]
+to/TO get/VB 
+[ action/NN ]
+on/IN 
+[ capital/NN gains/NNS ]
+./. 
+
+======================================
+
+[ The/DT alternative/NN ]
+to/TO 
+[ this/DT paralysis/NN ]
+is/VBZ to/TO go/VB on/IN 
+[ the/DT offensive/NN ]
+against/IN 
+[ a/DT Congress/NNP ]
+already/RB weakened/VBN in/IN 
+[ the/DT public/NN 's/POS mind/NN ]
+by/IN 
+[ the/DT S&L/NNP fiasco/NN ]
+and/CC 
+[ its/PRP$ record/NN ]
+of/IN 
+[ ethics/NNS scandals/NNS ]
+./. 
+
+[ Mr./NNP Bush/NNP ]
+could/MD pledge/VB to/TO 
+[ line-item/JJ veto/NN ]
+
+[ some/DT ]
+of/IN 
+[ the/DT worst/JJS provisions/NNS ]
+and/CC see/VB if/IN 
+[ any/DT court/NN ]
+would/MD question/VB 
+[ his/PRP$ power/NN ]
+to/TO do/VB so/RB ./. 
+
+Invoking/VBG 
+[ an/DT inherent/JJ line-item/JJ power/NN ]
+is/VBZ risky/JJ ,/, but/CC 
+[ we/PRP ]
+would/MD argue/VB that/IN 
+[ the/DT American/JJ system/NN ]
+of/IN 
+[ government/NN ]
+is/VBZ already/RB at/IN 
+[ risk/NN ]
+from/IN 
+[ the/DT current/JJ spectacle/NN ]
+and/CC from/IN 
+[ another/DT President/NN ]
+temporizing/VBG to/TO 
+[ the/DT tune/NN ]
+that/IN 
+[ next/JJ time/NN ]
+,/, 
+[ next/JJ time/NN ]
+,/, 
+[ he/PRP ]
+just/RB wo/MD n't/RB stand/VB for/IN 
+[ it/PRP ]
+./. 
+
+======================================
+
+Indeed/RB how/WRB 
+[ President/NNP Bush/NNP ]
+reacts/VBZ to/TO getting/VBG 
+[ his/PRP$ first/JJ budget/NN ]
+from/IN 
+[ Congress/NNP ]
+will/MD very/RB likely/RB set/VBN 
+[ the/DT political/JJ tone/NN ]
+for/IN 
+[ the/DT entire/JJ term/NN ]
+./. 
+
+If/IN 
+[ congressional/JJ Democrats/NNPS ]
+can/MD make/VB 
+[ him/PRP ]
+eat/VB 
+[ all/PDT this/DT ]
+``/`` 
+[ extraneous/JJ ]
+''/'' 
+[ junk/NN ]
+,/, 
+[ they/PRP ]
+will/MD set/VB 
+[ the/DT stage/NN ]
+for/IN 
+[ next/JJ October/NNP ]
+,/, and/CC 
+[ the/DT next/JJ ]
+after/IN 
+[ that/DT ]
+,/, when/WRB 
+[ the/DT same/JJ process/NN ]
+will/MD recur/VB ./. 
+
+======================================
+
+[ The/DT issue/NN ]
+,/, in/IN 
+[ a/DT phrase/NN ]
+,/, is/VBZ 
+[ presidential/JJ authority/NN ]
+./. 
+
+Use/VB 
+[ it/PRP ]
+,/, or/CC continue/VB to/TO lose/VB 
+[ it/PRP ]
+./. 

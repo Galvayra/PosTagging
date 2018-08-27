@@ -1,0 +1,442 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT economy/NN 's/POS slow/JJ ]
+,/, 
+[ methodical/JJ growth/NN ]
+is/VBZ likely/JJ to/TO continue/VB into/IN 
+[ next/JJ year/NN ]
+,/, 
+[ the/DT government/NN 's/POS chief/JJ economic/JJ forecasting/NN gauge/NN ]
+suggests/VBZ ,/, although/IN 
+[ pockets/NNS ]
+of/IN 
+[ weakness/NN ]
+still/RB worry/VBP 
+[ some/DT economists/NNS ]
+./. 
+
+======================================
+
+[ The/DT index/NN ]
+of/IN leading/VBG 
+[ indicators/NNS ]
+,/, 
+[ a/DT composite/NN ]
+of/IN 
+[ 11/CD statistics/NNS ]
+designed/VBN to/TO foretell/VB 
+[ economic/JJ activity/NN six/CD ]
+to/TO 
+[ nine/CD months/NNS ]
+hence/RB ,/, made/VBD 
+[ its/PRP$ best/JJS showing/NN ]
+since/IN 
+[ April/NNP ]
+,/, climbing/VBG 
+[ 0.3/CD %/NN ]
+in/IN 
+[ August/NNP ]
+,/, 
+[ the/DT Commerce/NNP Department/NNP ]
+reported/VBD ./. 
+
+======================================
+
+[ The/DT increase/NN ]
+--/: 
+[ the/DT second/NN ]
+in/IN 
+[ as/RB many/JJ months/NNS ]
+--/: suggests/VBZ 
+[ the/DT economy/NN ]
+is/VBZ on/IN ``/`` 
+[ a/DT pattern/NN ]
+of/IN 
+[ slow/JJ ]
+but/CC 
+[ stable/JJ growth/NN ]
+,/, ''/'' said/VBD 
+[ Gordon/NNP Richards/NNP ]
+,/, 
+[ an/DT economist/NN ]
+at/IN 
+[ the/DT National/NNP Association/NNP ]
+of/IN 
+[ Manufacturers/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ July/NNP ]
+,/, 
+[ the/DT index/NN ]
+rose/VBD 
+[ a/DT revised/JJ 0.1/CD %/NN ]
+,/, originally/RB estimated/VBN at/IN 
+[ a/DT 0.2/CD %/NN increase/NN ]
+./. 
+
+[ All/PDT the/DT figures/NNS ]
+are/VBP adjusted/VBN for/IN 
+[ seasonal/JJ changes/NNS ]
+./. 
+
+======================================
+
+[ Five/CD ]
+of/IN 
+[ the/DT indicators/NNS ]
+pushed/VBD 
+[ the/DT index/NN ]
+up/RP ;/: 
+[ they/PRP ]
+included/VBD 
+[ stock/NN prices/NNS ]
+,/, building/NN 
+[ permits/NNS ]
+and/CC 
+[ factory/NN orders/NNS ]
+for/IN 
+[ consumer/NN goods/NNS ]
+,/, 
+[ which/WDT ]
+were/VBD driven/VBN by/IN 
+[ a/DT surge/NN ]
+in/IN 
+[ automobile/NN demand/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ some/DT economists/NNS ]
+believe/VBP 
+[ the/DT economy/NN ]
+is/VBZ exhibiting/VBG 
+[ enough/JJ weakness/NN ]
+to/TO keep/VB 
+[ alive/JJ the/DT threat/NN ]
+of/IN 
+[ recession/NN ]
+./. 
+
+Among/IN 
+[ the/DT leading/VBG indicators/NNS ]
+,/, 
+[ an/DT index/NN ]
+of/IN 
+[ consumer/NN expectations/NNS ]
+dropped/VBD significantly/RB ./. 
+
+[ Plant/NN ]
+and/CC 
+[ equipment/NN orders/NNS ]
+also/RB fell/VBD ./. 
+
+And/CC 
+[ the/DT average/JJ work/NN week/NN ]
+shrank/VBD ./. 
+
+======================================
+
+``/`` Basically/RB 
+[ we/PRP ]
+do/VBP n't/RB see/VB 
+[ any/DT strong/JJ sector/NN ]
+of/IN 
+[ the/DT economy/NN ]
+,/, and/CC 
+[ we/PRP ]
+see/VBP several/JJ that/IN are/VBP weak/JJ ,/, ''/'' said/VBD 
+[ David/NNP Levy/NNP ]
+,/, 
+[ a/DT partner/NN ]
+in/IN 
+[ Levy/NNP Economic/NNP Forecasts/NNPS ]
+,/, 
+[ Chappaqua/NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+believe/VBP 
+[ the/DT economy/NN ]
+is/VBZ going/VBG to/TO have/VB 
+[ a/DT very/RB close/JJ brush/NN ]
+with/IN 
+[ recession/NN ]
+
+[ this/DT year/NN ]
+or/CC 
+[ early/JJ next/JJ ]
+,/, and/CC 
+[ the/DT critical/JJ factor/NN ]
+deciding/VBG whether/IN 
+[ it/PRP ]
+will/MD drop/VB (/( into/IN 
+[ a/DT recession/NN ]
+ )/) or/CC manage/VB to/TO avoid/VB 
+[ it/PRP ]
+is/VBZ going/VBG to/TO be/VB 
+[ Federal/NNP Reserve/NNP policy/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT Fed/NNP policy-making/NN committee/NN ]
+is/VBZ due/JJ to/TO meet/VB 
+[ this/DT week/NN ]
+to/TO set/VB 
+[ monetary/JJ policy/NN ]
+for/IN 
+[ the/DT next/JJ several/JJ weeks/NNS ]
+./. 
+
+After/IN pushing/VBG up/RP 
+[ interest/NN rates/NNS ]
+from/IN 
+[ March/NNP 1988/CD ]
+to/TO 
+[ March/NNP 1989/CD ]
+to/TO head/VB off/RP 
+[ inflation/NN ]
+,/, 
+[ the/DT Fed/NNP ]
+let/VB 
+[ rates/NNS ]
+slip/VB 
+[ a/DT few/JJ times/NNS ]
+
+[ this/DT summer/NN ]
+./. 
+
+But/CC lately/RB 
+[ it/PRP ]
+has/VBZ held/VBN 
+[ them/PRP ]
+steady/RB ,/, waiting/VBG to/TO see/VB just/RB where/WRB 
+[ the/DT economy/NN ]
+is/VBZ headed/VBN ./. 
+
+[ Many/JJ analysts/NNS ]
+believe/VBP 
+[ the/DT central/JJ bank/NN ]
+wo/MD n't/RB make/VB 
+[ any/DT further/JJ changes/NNS ]
+in/IN 
+[ policy/NN ]
+for/IN now/RB ,/, amid/IN 
+[ signs/NNS ]
+that/IN 
+[ inflation/NN ]
+is/VBZ tapering/VBG while/IN 
+[ growth/NN ]
+continues/VBZ ./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+have/VBP to/TO think/VB 
+[ the/DT Fed/NNP ]
+is/VBZ quite/RB pleased/JJ with/IN 
+[ themselves/PRP ]
+at/IN 
+[ this/DT point/NN ]
+,/, ''/'' said/VBD 
+[ Daniel/NNP Van/NNP Dyke/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ the/DT economic/JJ forecasting/NN group/NN ]
+at/IN 
+[ Bank/NNP ]
+of/IN 
+[ America/NNP ]
+in/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+======================================
+
+[ The/DT index/NN ]
+showed/VBD that/IN 
+[ the/DT weakest/JJS area/NN ]
+of/IN 
+[ the/DT economy/NN ]
+is/VBZ clearly/RB manufacturing/NN ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT prices/NNS ]
+of/IN 
+[ raw/JJ materials/NNS ]
+declined/VBD ,/, making/VBG 
+[ a/DT negative/JJ contribution/NN ]
+to/TO 
+[ the/DT index/NN ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ 
+[ good/JJ news/NN ]
+for/IN 
+[ inflation/NN ]
+but/CC indicates/VBZ 
+[ there/EX ]
+is/VBZ slack/JJ in/IN 
+[ the/DT industrial/JJ commodity/NN area/NN ]
+,/, ''/'' noted/VBD 
+[ Richard/NNP Peterson/NNP ]
+,/, 
+[ senior/JJ vice/NN president/NN ]
+at/IN 
+[ Continental/NNP Bank/NNP ]
+in/IN 
+[ Chicago/NNP ]
+./. 
+
+[ Economists/NNS ]
+also/RB said/VBD 
+[ they/PRP ]
+expected/VBD 
+[ August/NNP 's/POS boost/NN ]
+in/IN 
+[ the/DT factory/NN ]
+orders/NNS 
+[ component/NN ]
+to/TO drop/VB back/RB after/IN 
+[ orders/NNS ]
+for/IN 
+[ cars/NNS ]
+--/: brought/VBD on/RB by/IN 
+[ sales/NNS incentives/NNS ]
+and/CC 
+[ new/JJ models/NNS ]
+--/: subside/VBP ./. 
+
+======================================
+
+[ Many/JJ economists/NNS ]
+do/VBP n't/RB take/VB 
+[ the/DT leading/VBG indicators/NNS index/NN ]
+seriously/RB as/IN 
+[ a/DT forecasting/NN gauge/NN ]
+,/, reading/VBG 
+[ it/PRP ]
+as/IN 
+[ an/DT indication/NN ]
+of/IN 
+[ current/JJ activity/NN ]
+./. 
+
+Nevertheless/RB ,/, 
+[ the/DT numerous/JJ monthly/JJ declines/NNS ]
+in/IN 
+[ the/DT index/NN ]
+
+[ this/DT year/NN ]
+had/VBD triggered/VBN 
+[ fears/NNS ]
+that/IN 
+[ the/DT economy/NN ]
+was/VBD edging/VBG toward/IN 
+[ a/DT recession/NN ]
+./. 
+
+======================================
+
+After/IN 
+[ the/DT latest/JJS report/NN ]
+,/, however/RB ,/, 
+[ Lawrence/NNP Hunter/NNP ]
+,/, 
+[ deputy/JJ chief/JJ economist/NN ]
+for/IN 
+[ the/DT U.S./NNP Chamber/NNP ]
+of/IN 
+[ Commerce/NNP ]
+,/, contended/VBD that/IN 
+[ the/DT leading/VBG indicators/NNS ]
+``/`` show/VBP that/IN 
+[ the/DT economic/JJ slowdown/NN ]
+should/MD come/VB to/TO 
+[ an/DT end/NN ]
+in/IN 
+[ the/DT fourth/JJ quarter/NN ]
+,/, ''/'' and/CC ``/`` 
+[ the/DT real/JJ gross/JJ national/JJ product/NN ]
+should/MD rise/VB throughout/IN 
+[ 1990/CD ]
+./. 
+
+''/'' 
+======================================
+
+Here/RB are/VBP 
+[ the/DT net/JJ contributions/NNS ]
+of/IN 
+[ the/DT components/NNS ]
+of/IN 
+[ the/DT Commerce/NNP Department/NNP 's/POS index/NN ]
+of/IN leading/VBG 
+[ indicators/NNS ]
+./. 
+
+After/IN 
+[ various/JJ adjustments/NNS ]
+,/, 
+[ they/PRP ]
+produced/VBD 
+[ a/DT 0.3/CD %/NN rise/NN ]
+in/IN 
+[ the/DT index/NN ]
+for/IN 
+[ August/NNP ]
+and/CC 
+[ a/DT 0.1/CD %/NN rise/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+[ August/NNP ]
+,/, and/CC 
+[ the/DT change/NN ]
+from/IN 
+[ July/NNP ]
+,/, are/VBP :/: 
+======================================
+
+[ The/DT ratio/NN ]
+of/IN 
+[ coincident/JJ ]
+to/TO 
+[ lagging/JJ indicators/NNS ]
+was/VBD 
+[ 1.09/CD ]
+,/, down/RB from/IN 
+[ 1.10/CD ]
+in/IN 
+[ July/NNP ]
+./. 

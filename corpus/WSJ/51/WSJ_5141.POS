@@ -1,0 +1,447 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ ITT/NNP Consumer/NNP Financial/NNP Corp./NNP ]
+settled/VBD 
+[ extensive/JJ fraud/NN charges/NNS ]
+made/VBN by/IN 
+[ the/DT California/NNP Attorney/NNP General/NNP 's/POS Office/NN ]
+,/, agreeing/VBG to/TO pay/VB 
+[ restitution/NN ]
+,/, 
+[ fines/NNS ]
+and/CC 
+[ other/JJ penalties/NNS ]
+
+[ that/WDT ]
+may/MD eventually/RB total/VB 
+[ $/$ 100/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT settlement/NN ]
+is/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT biggest/JJS ]
+ever/RB in/IN 
+[ a/DT consumer/NN fraud/NN case/NN ]
+./. 
+
+======================================
+
+[ ITT/NNP Consumer/NNP ]
+is/VBZ 
+[ a/DT unit/NN ]
+of/IN 
+[ New/NNP York-based/JJ ITT/NNP Corp./NNP ]
+,/, 
+[ a/DT multinational/JJ giant/NN ]
+with/IN 
+[ interests/NNS ]
+including/VBG 
+[ communications/NNS ]
+,/, 
+[ information/NN ]
+and/CC 
+[ financial/JJ services/NNS ]
+,/, manufacturing/NN and/CC 
+[ hotels/NNS ]
+./. 
+
+======================================
+
+[ The/DT California/NNP Attorney/NNP General/NNP 's/POS Office/NN ]
+filed/VBD 
+[ a/DT lawsuit/NN ]
+alleging/VBG that/IN 
+[ ITT/NNP ]
+defrauded/VBD 
+[ thousands/NNS ]
+of/IN 
+[ California/NNP consumers/NNS ]
+by/IN mailing/VBG 
+[ them/PRP letters/NNS ]
+and/CC certificates/NNS 
+[ promising/JJ pre-approved/JJ credit/NN ]
+,/, inducing/VBG 
+[ them/PRP ]
+to/TO take/VB out/IN 
+[ loans/NNS ]
+
+[ that/WDT ]
+sometimes/RB carried/VBD 
+[ rates/NNS ]
+as/RB high/JJ as/IN 
+[ 35/CD %/NN ]
+and/CC then/RB illegally/RB charging/VBG 
+[ them/PRP ]
+for/IN 
+[ insurance/NN ]
+,/, 
+[ club/NN memberships/NNS ]
+and/CC 
+[ other/JJ services/NNS ]
+that/IN 
+[ the/DT customers/NNS ]
+did/VBD n't/RB 
+[ request/NN ]
+and/CC frequently/RB had/VBD 
+[ no/DT idea/NN ]
+
+[ they/PRP ]
+were/VBD receiving/VBG ./. 
+
+======================================
+
+Though/IN 
+[ the/DT loans/NNS ]
+were/VBD 
+[ small/JJ ]
+--/: usually/RB between/IN 
+[ $/$ 500/CD ]
+and/CC 
+[ $/$ 2,000/CD ]
+--/: 
+[ California/NNP Attorney/NNP General/NNP John/NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+said/VBD at/IN 
+[ least/JJS 100,000/CD people/NNS ]
+were/VBD affected/VBN ./. 
+
+======================================
+
+``/`` 
+[ They/PRP ]
+blanket/VBP 
+[ the/DT state/NN ]
+with/IN 
+[ these/DT direct-mail/JJ promises/NNS ]
+of/IN 
+[ easy/JJ money/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ I/PRP ]
+get/VBP 
+[ them/PRP ]
+
+[ all/PDT the/DT time/NN ]
+./. 
+
+[ I/PRP ]
+got/VBD 
+[ one/CD ]
+just/RB 
+[ the/DT other/JJ day/NN ]
+./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD most/JJS of/IN 
+[ the/DT victims/NNS ]
+of/IN 
+[ the/DT alleged/JJ scam/NN ]
+were/VBD 
+[ poor/JJ people/NNS ]
+
+[ who/WP ]
+were/VBD 
+[ easy/JJ prey/NN ]
+./. 
+
+``/`` 
+[ These/DT ]
+are/VBP 
+[ people/NNS ]
+
+[ who/WP ]
+are/VBP often/RB 
+[ desperate/JJ ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` 
+[ They/PRP ]
+'re/VBP borrowing/VBG 
+[ money/NN ]
+for/IN 
+[ food/NN ]
+for/IN 
+[ their/PRP$ children/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT settlement/NN ]
+,/, worked/VBN out/IN over/IN 
+[ the/DT past/JJ eight/CD months/NNS ]
+,/, was/VBD filed/VBN yesterday/NN at/IN 
+[ the/DT same/JJ time/NN ]
+as/IN 
+[ the/DT suit/NN ]
+./. 
+
+In/IN 
+[ it/PRP ]
+,/, 
+[ ITT/NNP Consumer/NNP ]
+acknowledged/VBD 
+[ no/DT guilt/NN ]
+./. 
+
+[ Milton/NNP W./NNP Schober/NNP ]
+,/, 
+[ an/DT attorney/NN ]
+for/IN 
+[ the/DT unit/NN ]
+,/, said/VBD 
+[ it/PRP ]
+is/VBZ n't/RB denying/VBG 
+[ the/DT charges/NNS ]
+,/, either/RB ./. 
+
+[ He/PRP ]
+asserted/VBD that/IN 
+[ the/DT company/NN ]
+did/VBD n't/RB suspect/VB 
+[ anything/NN ]
+was/VBD amiss/JJ at/IN 
+[ its/PRP$ California/NNP operations/NNS ]
+and/CC did/VBD n't/RB know/VB about/IN 
+[ the/DT attorney/NN general/NN 's/POS investigation/NN ]
+until/IN 
+[ January/NNP ]
+./. 
+
+======================================
+
+[ Thomas/NNP E./NNP Wilshire/NNP ]
+,/, 
+[ ITT/NNP Consumer/NNP 's/POS president/NN ]
+,/, said/VBD in/IN 
+[ a/DT written/VBN statement/NN ]
+that/IN 
+[ the/DT alleged/JJ violations/NNS ]
+``/`` without/IN 
+[ doubt/NN ]
+,/, were/VBD 
+[ contraventions/NNS ]
+to/TO 
+[ our/PRP$ procedures/NNS ]
+and/CC not/RB 
+[ a/DT pattern/NN ]
+of/IN 
+[ behavior/NN ]
+condoned/VBN by/IN 
+[ the/DT company/NN ]
+./. 
+
+''/'' 
+======================================
+
+However/RB ,/, 
+[ ITT/NNP Consumer/NNP ]
+has/VBZ 
+[ a/DT history/NN ]
+of/IN 
+[ similar/JJ practices/NNS ]
+and/CC alleged/JJ 
+[ wrongdoing/NN ]
+./. 
+
+Since/IN 
+[ 1984/CD ]
+,/, 
+[ six/CD states/NNS ]
+have/VBP filed/VBN 
+[ enforcement/NN actions/NNS ]
+or/CC 
+[ lawsuits/NNS ]
+charging/VBG 
+[ fraud/NN ]
+./. 
+
+At/IN 
+[ least/JJS two/CD class-action/NN suits/NNS ]
+have/VBP been/VBN brought/VBN against/IN 
+[ the/DT company/NN ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ consumers/NNS ]
+./. 
+
+[ ITT/NNP Consumer/NNP ]
+has/VBZ entered/VBN 
+[ consent/NN decrees/NNS ]
+or/CC been/VBN 
+[ the/DT subject/NN ]
+of/IN 
+[ cease-and-desist/JJ orders/NNS ]
+in/IN 
+[ all/DT six/CD ]
+of/IN 
+[ the/DT states/NNS ]
+./. 
+
+[ It/PRP ]
+has/VBZ paid/VBN more/JJR than/IN 
+[ $/$ 2.7/CD million/CD ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT cases/NNS ]
+./. 
+
+======================================
+
+[ ITT/NNP Consumer/NNP ]
+,/, 
+[ one/CD ]
+of/IN 
+[ the/DT largest/JJS consumer/NN finance/NN companies/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+,/, had/VBD 
+[ $/$ 4.8/CD billion/CD ]
+of/IN 
+[ loans/NNS ]
+outstanding/JJ as/IN of/IN 
+[ Dec./NNP 31/CD ]
+./. 
+
+======================================
+
+[ Mr./NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+scoffed/VBD at/IN 
+[ the/DT statement/NN ]
+that/IN 
+[ the/DT company/NN ]
+had/VBD 
+[ no/DT reason/NN ]
+to/TO suspect/VB 
+[ anything/NN ]
+might/MD be/VB wrong/JJ at/IN 
+[ its/PRP$ California/NNP operations/NNS ]
+until/IN 
+[ January/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD that/IN 
+[ state/NN investigators/NNS ]
+had/VBD swarmed/VBN over/IN 
+[ ITT/NNP Consumer/NNP 's/POS offices/NNS ]
+in/IN 
+[ June/NNP 1987/CD ]
+,/, photocopying/VBG 
+[ loan/NN documents/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ that/DT ]
+was/VBD 
+[ a/DT pretty/RB good/JJ ]
+hint/NN ,/, ''/'' 
+[ Mr./NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Mr./NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+and/CC 
+[ several/JJ other/JJ investigators/NNS ]
+suggested/VBD that/IN 
+[ the/DT California/NNP settlement/NN ]
+could/MD trigger/VB 
+[ a/DT flood/NN ]
+of/IN 
+[ investigations/NNS ]
+and/CC 
+[ lawsuits/NNS ]
+by/IN 
+[ other/JJ states/NNS ]
+./. 
+
+[ ITT/NNP Consumer/NNP ]
+operates/VBZ in/IN 
+[ 34/CD states/NNS ]
+./. 
+
+``/`` 
+[ The/DT attorneys/NNS ]
+general/JJ around/IN 
+[ the/DT country/NN ]
+have/VBP been/VBN made/VBN 
+[ aware/JJ ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ these/DT practices/NNS ]
+and/CC will/MD note/VB 
+[ this/DT settlement/NN ]
+with/IN 
+[ interest/NN ]
+,/, ''/'' 
+[ Mr./NNP Van/NNP ]
+de/NNP 
+[ Kamp/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT settlement/NN ]
+covers/VBZ 
+[ allegedly/RB fraudulent/JJ transactions/NNS ]
+dating/VBG to/TO 
+[ January/NNP 1985/CD ]
+./. 
+
+[ It/PRP ]
+calls/VBZ for/IN 
+[ ITT/NNP Consumer/NNP ]
+to/TO pay/VB 
+[ a/DT civil/JJ penalty/NN ]
+of/IN 
+[ $/$ 8,670,000/CD ]
+./. 
+
+[ The/DT ITT/NNP unit/NN ]
+also/RB agreed/VBD to/TO provide/VB 
+[ $/$ 10.5/CD million/CD that/DT ]
+will/MD be/VB used/VBN to/TO bolster/VB 
+[ California/NNP 's/POS consumer-protection/NN efforts/NNS ]
+and/CC 
+[ beef/VB ]
+up/IN 
+[ fraud/NN detection/NN ]
+./. 

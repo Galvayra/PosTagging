@@ -1,0 +1,158 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT House/NNP ]
+passed/VBD 
+[ a/DT bill/NN ]
+
+[ that/WDT ]
+would/MD improve/VB 
+[ cooperation/NN ]
+in/IN 
+[ insider-trading/JJ cases/NNS ]
+between/IN 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+and/CC 
+[ foreign/JJ governments/NNS ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+,/, passed/VBN by/IN 
+[ voice/NN vote/NN ]
+,/, would/MD expand/VB 
+[ last/JJ year/NN 's/POS Insider/NNP Trading/NNP ]
+and/CC 
+[ Securities/NNPS Fraud/NNP Enforcement/NNP Act/NNP ]
+to/TO allow/VB 
+[ the/DT SEC/NNP ]
+to/TO receive/VB 
+[ information/NN ]
+from/IN 
+[ foreign/JJ governments/NNS ]
+without/IN subjecting/VBG 
+[ that/DT information/NN ]
+to/TO 
+[ U.S./NNP disclosure/NN laws/NNS ]
+./. 
+
+======================================
+
+[ That/DT point/NN ]
+had/VBD been/VBN 
+[ a/DT stumbling/JJ block/NN ]
+to/TO 
+[ foreign/JJ cooperation/NN ]
+,/, because/IN 
+[ many/JJ countries/NNS ]
+with/IN 
+[ secrecy/NN rules/NNS ]
+declined/VBD to/TO pass/VB along/IN 
+[ sensitive/JJ information/NN ]
+to/TO 
+[ the/DT U.S./NNP agency/NN ]
+for/IN 
+[ fear/NN ]
+
+[ the/DT SEC/NNP ]
+would/MD be/VB forced/VBN to/TO release/VB 
+[ it/PRP ]
+under/IN 
+[ the/DT U.S./NNP Freedom/NNP ]
+of/IN 
+[ Information/NNP Act/NNP ]
+./. 
+
+======================================
+
+[ The/DT bill/NN ]
+also/RB would/MD permit/VB 
+[ the/DT SEC/NNP ]
+and/CC 
+[ the/DT exchanges/NNS ]
+to/TO sanction/VB 
+[ individuals/NNS ]
+and/CC 
+[ firms/NNS ]
+on/IN 
+[ foreign/JJ securities-laws/NNS violations/NNS ]
+,/, closing/VBG 
+[ a/DT loophole/NN ]
+
+[ that/WDT ]
+allowed/VBD 
+[ the/DT U.S./NNP ]
+to/TO be/VB used/VBN as/IN 
+[ a/DT refuge/NN ]
+from/IN 
+[ foreign/JJ charges/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT bill/NN ]
+recognizes/VBZ that/IN as/IN 
+[ the/DT financial/JJ world/NN ]
+grows/VBZ ever/RB smaller/JJR through/IN 
+[ the/DT process/NN ]
+of/IN 
+[ globalization/NN ]
+,/, 
+[ the/DT reach/NN ]
+of/IN 
+[ enforcement/NN ]
+of/IN 
+[ securities/NNS laws/NNS ]
+must/MD grow/VB 
+[ larger/JJR ]
+,/, ''/'' said/VBD 
+[ Rep./NNP Edward/NNP Markey/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mass./NNP ]
+ )/) ,/, 
+[ who/WP ]
+introduced/VBD 
+[ the/DT bill/NN ]
+./. 
+
+======================================
+
+[ Last/JJ week/NN ]
+,/, 
+[ the/DT Senate/NNP Banking/NNP Committee/NNP ]
+passed/VBD 
+[ a/DT similar/JJ measure/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT broader/JJR package/NN ]
+of/IN 
+[ SEC/NNP legislation/NN ]
+./. 
+
+[ That/DT bill/NN ]
+is/VBZ expected/VBN to/TO pass/VB 
+[ the/DT full/JJ Senate/NNP ]
+later/RB 
+[ this/DT year/NN ]
+./. 

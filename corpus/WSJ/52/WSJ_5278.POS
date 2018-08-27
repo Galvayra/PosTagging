@@ -1,0 +1,94 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Resolution/NNP Trust/NNP Corp./NNP ]
+placed/VBD 
+[ four/CD insolvent/JJ Texas/NNP thrifts/NNS ]
+into/IN 
+[ the/DT agency/NN 's/POS conservatorship/NN program/NN ]
+and/CC transferred/VBD 
+[ their/PRP$ deposits/NNS ]
+,/, 
+[ offices/NNS ]
+and/CC 
+[ certain/JJ liabilities/NNS ]
+into/IN 
+[ four/CD ]
+newly/RB chartered/VBN 
+[ institutions/NNS ]
+./. 
+
+======================================
+
+[ The/DT four/CD ]
+are/VBP :/: 
+[ East/NNP Texas/NNP Savings/NNP ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+,/, 
+[ Tyler/NNP ]
+,/, 
+[ which/WDT ]
+had/VBD 
+[ $/$ 367.8/CD million/CD ]
+in/IN 
+[ assets/NNS ]
+;/: 
+[ Plano/NNP Savings/NNP ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+,/, 
+[ Plano/NNP ]
+,/, with/IN 
+[ $/$ 274.4/CD million/CD ]
+in/IN 
+[ assets/NNS ]
+;/: 
+[ First/NNP Savings/NNP ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+,/, 
+[ Brenham/NNP ]
+,/, with/IN 
+[ $/$ 148.4/CD million/CD ]
+in/IN 
+[ assets/NNS ]
+;/: and/CC 
+[ First/NNP Garland/NNP Savings/NNP Association/NNP ]
+,/, with/IN 
+[ $/$ 134.3/CD million/CD ]
+in/IN 
+[ assets/NNS ]
+./. 
+
+======================================
+
+While/IN under/IN 
+[ the/DT conservatorship/NN program/NN ]
+,/, 
+[ the/DT thrifts/NNS ]
+will/MD be/VB operated/VBN by/IN 
+[ RTC/NNP ]
+managing/VBG 
+[ agents/NNS ]
+,/, and/CC 
+[ the/DT agency/NN ]
+will/MD be/VB trying/VBG to/TO negotiate/VB 
+[ permanent/JJ resolutions/NNS ]
+for/IN 
+[ the/DT institutions/NNS ]
+./. 

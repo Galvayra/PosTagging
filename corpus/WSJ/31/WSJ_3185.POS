@@ -1,0 +1,62 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ BRISTOL-MYERS/NNP SQUIBB/NNP Co./NNP ]
+said/VBD 
+[ John/NNP D./NNP Macomber/NNP ]
+,/, 
+[ Arthur/NNP J./NNP Santry/NNP Jr./NNP ]
+and/CC 
+[ Martha/NNP Redfield/NNP Wallace/NNP ]
+retired/VBD as/IN 
+[ outside/JJ directors/NNS ]
+of/IN 
+[ Bristol-Myers/NNP Co./NNP ]
+before/IN 
+[ that/DT company/NN 's/POS merger/NN ]
+with/IN 
+[ Squibb/NNP Corp./NNP Friday/NNP 's/POS edition/NN ]
+incorrectly/RB said/VBD 
+[ they/PRP ]
+were/VBD 
+[ outside/JJ directors/NNS ]
+at/IN 
+[ the/DT time/NN ]
+of/IN 
+[ the/DT merger/NN ]
+,/, 
+[ which/WDT ]
+was/VBD 
+[ effective/JJ last/JJ week/NN ]
+./. 
+
+======================================
+
+ (/( See/VB :/: ``/`` 
+[ Who/WP ]
+
+[ 's/VBZ News/NN ]
+:/: 
+[ Bristol-Myers/NNP Squibb/NNP Taps/VBZ New/JJ Directors/NNS ]
+,/, 
+[ Expands/VBZ Board/NN ]
+to/TO 
+[ 16/CD ]
+''/'' --/: 
+[ WSJ/NNP Oct./NNP 6/CD ]
+,/, 
+[ 1989/CD ]

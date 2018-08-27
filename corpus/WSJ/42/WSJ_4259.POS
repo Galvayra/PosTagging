@@ -1,0 +1,306 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ NCNB/NNP Corp./NNP ]
+projected/VBD 
+[ strong/JJ earnings/NNS ]
+in/IN 
+[ 1989/CD ]
+and/CC 
+[ 1990/CD ]
+because/IN of/IN 
+[ continued/JJ growth/NN ]
+in/IN 
+[ its/PRP$ banking/NN operations/NNS ]
+in/IN 
+[ the/DT Southeast/NNP ]
+and/CC 
+[ Texas/NNP ]
+./. 
+
+======================================
+
+[ The/DT forecast/NN ]
+came/VBD amid/IN 
+[ calls/NNS ]
+by/IN banking/NN 
+[ executives/NNS ]
+in/IN 
+[ the/DT Southeast/NNP ]
+to/TO eliminate/VB 
+[ legal/JJ barriers/NNS ]
+to/TO 
+[ nationwide/JJ interstate/JJ banking/NN ]
+in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ the/DT $/$ 4.7/CD billion/CD merger/NN accord/NN ]
+between/IN 
+[ Citizens/NNPS ]
+&/CC 
+[ Southern/NNP Corp./NNP ]
+and/CC 
+[ Sovran/NNP Financial/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ NCNB/NNP 's/POS chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+,/, 
+[ Hugh/NNP L./NNP McColl/NNP ]
+,/, said/VBD 
+[ he/PRP ]
+is/VBZ comfortable/JJ with/IN widely/RB shared/JJ 
+[ estimates/NNS ]
+on/IN 
+[ Wall/NNP Street/NNP ]
+of/IN 
+[ $/$ 4.25/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+[ net/JJ income/NN ]
+in/IN 
+[ 1989/CD ]
+and/CC 
+[ $/$ 6/CD ]
+
+[ a/DT share/NN ]
+in/IN 
+======================================
+
+[ News/NN ]
+of/IN 
+[ the/DT projections/NNS ]
+helped/VBD nudge/VB 
+[ NCNB/NNP 's/POS stock/NN price/NN ]
+to/TO 
+[ $/$ 52.50/CD ]
+,/, up/IN 
+[ 87.5/CD cents/NNS ]
+,/, in/IN 
+[ New/NNP York/NNP Stock/NNP Exchange/NNP composite/JJ trading/NN yesterday/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT rules/NNS ]
+of/IN 
+[ banking/NN ]
+are/VBP changing/VBG ,/, and/CC 
+[ we/PRP ]
+plan/VBP to/TO be/VB in/IN 
+[ a/DT position/NN ]
+to/TO compete/VB ,/, ''/'' 
+[ Mr./NNP McColl/NNP ]
+told/VBD 
+[ investors/NNS ]
+in/IN 
+[ Charlotte/NNP ]
+./. 
+
+``/`` 
+[ That/DT ]
+'s/VBZ why/WRB 
+[ I/PRP ]
+'m/VBP comfortable/JJ with/IN 
+[ Wall/NNP Street/NNP estimates/NNS ]
+./. 
+
+In/IN 
+[ fact/NN ]
+,/, if/IN 
+[ there/EX ]
+are/VBP to/TO be/VB 
+[ any/DT changes/NNS ]
+ {/( in/IN 
+[ the/DT estimates/NNS ]
+ }/) ,/, 
+[ it/PRP ]
+will/MD likely/RB be/VB on/IN 
+[ the/DT ]
+up/JJ 
+[ side/NN ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ 1988/CD ]
+,/, 
+[ NCNB/NNP ]
+had/VBD 
+[ net/JJ income/NN ]
+of/IN 
+[ $/$ 252.5/CD million/CD ]
+,/, or/CC 
+[ $/$ 2.90/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP McColl/NNP ]
+attributed/VBD 
+[ the/DT strong/JJ outlook/NN ]
+to/TO 
+[ continued/JJ growth/NN ]
+in/IN 
+[ NCNB/NNP 's/POS Southeastern/JJ banking/NN operations/NNS ]
+and/CC 
+[ the/DT contribution/NN ]
+from/IN 
+[ the/DT recent/JJ acquisition/NN ]
+of/IN 
+[ the/DT ]
+remaining/VBG 
+[ 51/CD %/NN ]
+of/IN 
+[ NCNB/NNP Texas/NNP National/NNP Bank/NNP ]
+from/IN 
+[ the/DT Federal/NNP Deposit/NNP Insurance/NNP Corp/NNP ]
+./. 
+
+[ The/DT Texas/NNP operation/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, is/VBZ expected/VBN to/TO earn/VB about/IN 
+[ $/$ 250/CD million/CD this/DT year/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ response/NN ]
+to/TO 
+[ a/DT question/NN ]
+,/, 
+[ Mr./NNP McColl/NNP ]
+said/VBD 
+[ he/PRP ]
+agreed/VBD with/IN 
+[ earlier/JJR statements/NNS ]
+by/IN 
+[ Bennett/NNP A./NN Brown/NNP ]
+,/, 
+[ chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+of/IN 
+[ Atlanta-based/JJ Citizens/NNPS ]
+&/CC 
+[ Southern/NNP ]
+,/, that/IN 
+[ the/DT barriers/NNS ]
+erected/VBN by/IN 
+[ the/DT Southeast/NNP Regional/NNP Banking/NNP Compact/NNP ]
+should/MD be/VB removed/VBN ./. 
+
+[ That/DT compact/NN ]
+,/, established/VBN in/IN 
+[ 1985/CD ]
+,/, protects/VBZ 
+[ banks/NNS ]
+in/IN 
+[ 11/CD Southeast/NNP states/NNS ]
+from/IN 
+[ acquisition/NN ]
+by/IN 
+[ banks/NNS ]
+in/IN 
+[ other/JJ regions/NNS ]
+./. 
+
+Now/RB ,/, 
+[ some/DT Southeast/NNP bankers/NNS ]
+say/VBP 
+[ restrictions/NNS ]
+in/IN 
+[ the/DT compact/NN ]
+handcuff/VBP 
+[ them/PRP ]
+from/IN acquiring/VBG 
+[ banks/NNS ]
+elsewhere/RB in/IN 
+[ the/DT U.S./NNP ]
+and/CC strengthening/VBG 
+[ their/PRP$ own/JJ hands/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ just/RB not/RB logical/JJ for/IN 
+[ us/PRP ]
+to/TO imprison/VB 
+[ ourselves/PRP ]
+,/, ''/'' 
+[ Mr./NNP McColl/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ John/NNP G./NNP Medlin/NNP ]
+,/, 
+[ chairman/NN ]
+and/CC 
+[ chief/JJ executive/NN ]
+of/IN 
+[ First/NNP Wachovia/NNP Corp./NNP ]
+in/IN 
+[ Winston-Salem/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, said/VBD 
+[ he/PRP ]
+would/MD n't/RB object/VB to/TO eliminating/VBG 
+[ the/DT compact/NN ]
+,/, as/RB long/RB as/IN 
+[ it/PRP ]
+was/VBD 
+[ a/DT ]
+``/`` 
+[ unanimous/JJ ]
+''/'' 
+[ decision/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+added/VBD :/: ``/`` 
+[ Current/JJ differences/NNS ]
+of/IN 
+[ opinions/NNS ]
+among/IN 
+[ the/DT ]
+ {/( 
+[ compact/NN ]
+
+[ 's/POS ]
+ }/) 
+[ banks/NNS ]
+and/CC 
+[ various/JJ states/NNS ]
+mean/VBP 
+[ it/PRP ]
+will/MD be/VB slow/JJ in/IN coming/VBG about/RP ./. 

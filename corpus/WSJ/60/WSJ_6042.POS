@@ -1,0 +1,399 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Syncor/NNP International/NNP ]
+expects/VBZ to/TO report/VB 
+[ a/DT ninefold/JJ increase/NN ]
+in/IN 
+[ fiscal/JJ first-quarter/JJ earnings/NNS ]
+on/IN 
+[ a/DT 10/CD %/NN ]
+to/TO 
+[ 11/CD %/NN rise/NN ]
+in/IN 
+[ sales/NNS ]
+,/, 
+[ Gene/NNP R./NNP McGrevin/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/JJ executive/JJ officer/NN ]
+,/, said/VBD ./. 
+
+======================================
+
+[ Mr./NNP McGrevin/NNP ]
+attributed/VBD 
+[ the/DT sharp/JJ earnings/NNS ]
+gain/NN to/TO 
+[ tight/JJ cost/NN controls/NNS ]
+,/, 
+[ more/RBR judicious/JJ price/NN cuts/NNS ]
+and/CC 
+[ personnel/NNS changes/NNS ]
+./. 
+
+[ Syncor/NNP ]
+,/, based/VBN in/IN 
+[ Chatsworth/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, operates/VBZ 
+[ 84/CD service/NN centers/NNS ]
+
+[ which/WDT ]
+prepare/VBP and/CC deliver/VBP 
+[ specialty/NN radiopharmaceutical/JJ products/NNS ]
+used/VBN to/TO diagnose/VB 
+[ cancer/NN ]
+and/CC 
+[ heart/NN disease/NN ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+expects/VBZ to/TO report/VB 
+[ first-quarter/JJ earnings/NNS ]
+of/IN 
+[ $/$ 800,000/CD ]
+to/TO 
+[ $/$ 900,000/CD ]
+,/, or/CC 
+[ seven/CD cents/NNS ]
+to/TO 
+[ nine/CD cents/NNS ]
+
+[ a/DT share/NN ]
+,/, compared/VBN with/IN 
+[ $/$ 95,000/CD ]
+,/, or/CC 
+[ one/CD cent/NN ]
+
+[ a/DT share/NN ]
+,/, 
+[ a/DT year/NN ]
+earlier/RBR ,/, 
+[ Mr./NNP McGrevin/NNP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+./. 
+
+[ Sales/NNS ]
+in/IN 
+[ the/DT quarter/NN ]
+ended/VBN 
+[ Aug./NNP 31/CD ]
+are/VBP expected/VBN to/TO be/VB between/IN 
+[ $/$ 29/CD million/CD ]
+and/CC 
+[ $/$ 30/CD million/CD ]
+,/, up/RB from/IN 
+[ $/$ 27.2/CD million/CD ]
+
+[ a/DT year/NN ]
+ago/RB ./. 
+
+======================================
+
+[ The/DT first-quarter/JJ figures/NNS ]
+represent/VBP 
+[ a/DT turnaround/NN ]
+for/IN 
+[ the/DT company/NN ]
+,/, said/VBD 
+[ Mr./NNP McGrevin/NNP ]
+,/, 
+[ who/WP ]
+joined/VBD 
+[ Syncor/NNP last/JJ February/NNP ]
+./. 
+
+[ Syncor/NNP ]
+had/VBD been/VBN battered/VBN by/IN 
+[ two/CD competitors/NNS ]
+
+[ who/WP ]
+entered/VBD 
+[ the/DT radio-pharmaceutical/JJ distribution/NN business/NN ]
+and/CC 
+[ undercut/VBD Syncor/NNP 's/POS prices/NNS ]
+to/TO gain/VB 
+[ market/NN share/NN ]
+./. 
+
+[ The/DT strategy/NN ]
+worked/VBD ,/, as/IN 
+[ Syncor/NNP 's/POS share/NN ]
+of/IN 
+[ the/DT market/NN ]
+was/VBD cut/VBN to/TO about/RB 
+[ 50/CD %/NN ]
+from/IN 
+[ 80/CD %/NN ]
+./. 
+
+======================================
+
+Now/RB ,/, by/IN 
+[ reducing/VBG labor/NN ]
+and/CC 
+[ material/NN costs/NNS ]
+,/, 
+[ that/DT trend/NN ]
+has/VBZ been/VBN reversed/VBN and/CC 
+[ the/DT company/NN ]
+holds/VBZ 
+[ a/DT 60/CD %/NN market/NN share/NN ]
+./. 
+
+``/`` Before/IN ,/, 
+[ our/PRP$ prices/NNS ]
+and/CC 
+[ market/NN share/NN ]
+were/VBD going/VBG down/RB ,/, but/CC 
+[ our/PRP$ costs/NNS ]
+were/VBD going/VBG up/RB ./. 
+
+[ We/PRP ]
+had/VBD 
+[ the/DT key/JJ indicators/NNS all/DT ]
+going/VBG in/IN 
+[ the/DT wrong/JJ directions/NNS ]
+,/, ''/'' 
+[ Mr./NNP McGrevin/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT company/NN ]
+also/RB recently/RB consolidated/VBD 
+[ the/DT positions/NNS ]
+of/IN 
+[ vice/NN president/NN ]
+of/IN 
+[ operations/NNS ]
+and/CC 
+[ vice/NN president/NN ]
+of/IN marketing/NN and/CC 
+[ sales/NNS ]
+into/IN 
+[ one/CD position/NN ]
+,/, 
+[ which/WDT ]
+
+[ Mr./NNP McGrevin/NNP ]
+said/VBD ``/`` eliminated/VBD 
+[ a/DT lot/NN ]
+of/IN 
+[ internal/JJ conflict/NN ]
+in/IN 
+[ the/DT organization/NN ]
+./. 
+
+[ We/PRP ]
+were/VBD battling/VBG 
+[ ourselves/PRP ]
+internally/RB more/RBR than/IN 
+[ our/PRP$ competitors/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP McGrevin/NNP ]
+does/VBZ n't/RB expect/VB 
+[ any/DT new/JJ competitors/NNS ]
+to/TO emerge/VB because/IN of/IN declining/VBG 
+[ returns/NNS ]
+in/IN 
+[ the/DT business/NN ]
+./. 
+
+Also/RB ,/, 
+[ the/DT lack/NN ]
+of/IN 
+[ availability/NN ]
+of/IN 
+[ nuclear/JJ pharmacists/NNS ]
+in/IN 
+[ the/DT U.S./NNP ]
+would/MD make/VB 
+[ any/DT new/JJ player/NN unlikely/JJ ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+Having/VBG to/TO 
+[ some/DT degree/NN ]
+``/`` fixed/VBN ''/'' 
+[ the/DT company/NN 's/POS core/JJ business/NN ]
+,/, 
+[ Mr./NNP McGrevin/NNP ]
+said/VBD 
+[ Syncor/NNP ]
+is/VBZ focusing/VBG on/IN 
+[ expansion/NN ]
+,/, perhaps/RB by/IN setting/VBG up/RP 
+[ some/DT international/JJ medical/JJ service/NN centers/NNS ]
+,/, or/CC by/IN providing/VBG 
+[ other/JJ products/NNS ]
+or/CC 
+[ services/NNS ]
+from/IN 
+[ the/DT 84/CD U.S./NNP centers/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+is/VBZ developing/VBG 
+[ a/DT longrange/JJ expansion/NN plan/NN ]
+,/, 
+[ Mr./NNP McGrevin/NNP ]
+said/VBD ./. 
+
+To/TO be/VB able/JJ to/TO staff/VB 
+[ any/DT expansion/NN ]
+,/, 
+[ Syncor/NNP ]
+recently/RB begun/VBN 
+[ a/DT recruiting/NN program/NN ]
+for/IN 
+[ pharmacists/NNS ]
+at/IN 
+[ the/DT college/NN level/NN ]
+and/CC set/VBD|VBN up/RP 
+[ a/DT training/NN program/NN ]
+for/IN 
+[ nuclear/JJ pharmacists/NNS ]
+./. 
+
+[ It/PRP ]
+also/RB plans/VBZ 
+[ a/DT $/$ 5/CD million/CD ]
+retooling/NN of/IN 
+[ the/DT company/NN 's/POS computer/NN system/NN ]
+over/IN 
+[ the/DT next/JJ two/CD years/NNS ]
+./. 
+
+======================================
+
+[ The/DT company/NN ]
+already/RB plans/VBZ to/TO expand/VB 
+[ its/PRP$ home/NN health-care/NN services/NNS division/NN ]
+,/, 
+[ which/WDT ]
+provides/VBZ 
+[ intravenous/JJ services/NNS ]
+./. 
+
+[ The/DT division/NN ]
+currently/RB has/VBZ 
+[ 18/CD locations/NNS ]
+and/CC 
+[ its/PRP$ sales/NNS ]
+should/MD expand/VB to/TO 
+[ $/$ 12/CD million/CD this/DT year/NN ]
+from/IN 
+[ $/$ 7/CD million/CD last/JJ year/NN ]
+,/, 
+[ Mr./NNP McGrevin/NNP ]
+said/VBD ./. 
+
+[ The/DT company/NN ]
+also/RB expects/VBZ to/TO add/VB 
+[ four/CD ]
+to/TO 
+[ eight/CD new/JJ locations/NNS ]
+in/IN 
+[ this/DT division/NN ]
+./. 
+
+======================================
+
+[ Syncor/NNP ]
+also/RB is/VBZ awaiting/VBG 
+[ the/DT release/NN ]
+of/IN 
+[ several/JJ new/JJ products/NNS ]
+./. 
+
+[ It/PRP ]
+anticipates/VBZ introducing/VBG within/IN 
+[ the/DT next/JJ few/JJ years/NNS ]
+
+[ a/DT new/JJ brain/NN scan/NN product/NN ]
+,/, 
+[ two/CD cardiac/JJ scan/NN products/NNS ]
+and/CC 
+[ some/DT monoclonal/JJ products/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP McGrevin/NNP ]
+reiterated/VBD that/IN because/IN 
+[ the/DT company/NN ]
+is/VBZ focusing/VBG on/IN 
+[ growth/NN ]
+and/CC 
+[ its/PRP$ competition/NN ]
+,/, 
+[ Syncor/NNP ]
+is/VBZ not/RB for/IN 
+[ sale/NN ]
+./. 
+
+Earlier/RBR 
+[ this/DT month/NN ]
+,/, 
+[ Van/NNP Kampen/NNP Merritt/NNP ]
+,/, 
+[ an/DT investment/NN banking/NN unit/NN ]
+of/IN 
+[ Xerox/NNP Corp./NNP ]
+,/, announced/VBD 
+[ a/DT bid/NN ]
+to/TO buy/VB 
+[ Syncor/NNP 's/POS ]
+for/IN about/RB 
+[ $/$ 81.8/CD million/CD ]
+,/, but/CC 
+[ it/PRP ]
+dropped/VBD 
+[ the/DT bid/NN ]
+due/RB to/TO 
+[ Syncor/NNP 's/POS lack/NN ]
+of/IN 
+[ interest/NN ]
+./. 
+
+Earlier/RBR 
+[ this/DT week/NN ]
+,/, 
+[ Syncor/NNP ]
+announced/VBD 
+[ it/PRP ]
+would/MD buy/VB back/RP about/RB 
+[ 15/CD %/NN ]
+of/IN 
+[ its/PRP$ outstanding/JJ stock/NN ]
+from/IN 
+[ a/DT French/JJ shareholder/NN ]
+./. 

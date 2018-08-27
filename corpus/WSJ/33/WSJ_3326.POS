@@ -1,0 +1,521 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ an/DT unprecedented/JJ pact/NN ]
+between/IN 
+[ domestic/JJ auto/NN makers/NNS ]
+,/, 
+[ General/NNP Motors/NNPS Corp./NNP ]
+and/CC 
+[ Chrysler/NNP Corp./NNP ]
+signed/VBD 
+[ an/DT agreement/NN ]
+to/TO manufacture/VB 
+[ key/JJ automotive/JJ parts/NNS ]
+jointly/RB in/IN 
+[ the/DT ]
+
+======================================
+
+[ The/DT No./NN 1/CD ]
+and/CC 
+[ No./NN 3/CD auto/NN makers/NNS ]
+signed/VBD 
+[ a/DT letter/NN ]
+of/IN 
+[ intent/NN ]
+to/TO combine/VB 
+[ the/DT operations/NNS ]
+of/IN 
+[ two/CD plants/NNS ]
+
+[ that/WDT ]
+make/VBP 
+[ the/DT bulk/NN ]
+of/IN 
+[ each/DT company/NN 's/POS manual/JJ transmissions/NNS ]
+and/CC 
+[ some/DT important/JJ components/NNS ]
+for/IN 
+[ four-wheel/JJ drive/NN ]
+./. 
+
+======================================
+
+Under/IN 
+[ the/DT agreement/NN ]
+,/, 
+[ GM/NNP ]
+will/MD assign/VB 
+[ the/DT Muncie/NNP ]
+,/, 
+[ Ind./NNP ]
+,/, 
+[ plant/NN ]
+of/IN 
+[ its/PRP$ Hydra-matic/JJ transmission/NN division/NN ]
+to/TO 
+[ the/DT venture/NN ]
+,/, while/IN 
+[ Chrysler/NNP ]
+will/MD contribute/VB 
+[ the/DT New/NNP Process/NNP Gear/NNP plant/NN ]
+in/IN 
+[ Syracuse/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, run/VBN by/IN 
+[ its/PRP$ Acustar/NNP subsidiary/NN ]
+./. 
+
+[ Acustar/NNP ]
+will/MD wind/VB up/RB with/IN 
+[ a/DT 64/CD %/NN stake/NN ]
+in/IN 
+[ the/DT new/JJ company/NN ]
+,/, with/IN 
+[ GM/NNP ]
+owning/VBG 
+[ the/DT ]
+remaining/VBG 
+[ 36/CD %/NN ]
+./. 
+
+======================================
+
+[ GM/NNP ]
+,/, 
+[ Chrysler/NNP ]
+and/CC 
+[ Ford/NNP Motor/NNP Co./NNP ]
+cooperate/VBP in/IN 
+[ research/NN projects/NNS ]
+seeking/VBG to/TO develop/VB 
+[ products/NNS ]
+such/JJ as/IN 
+[ vehicles/NNS ]
+
+[ that/WDT ]
+run/VBP on/IN 
+[ alternative/JJ fuels/NNS ]
+,/, and/CC 
+[ each/DT ]
+of/IN 
+[ the/DT Big/JJ Three/CD ]
+has/VBZ 
+[ numerous/JJ ]
+manufacturing/NN 
+[ joint/JJ ventures/NNS ]
+with/IN 
+[ foreign/JJ auto/NN makers/NNS ]
+./. 
+
+But/CC not/RB since/IN 
+[ the/DT dawn/NN ]
+of/IN 
+[ the/DT auto/NN industry/NN ]
+have/VBP 
+[ any/DT ]
+of/IN 
+[ the/DT bitter/JJ Big/JJ Three/CD rivals/NNS ]
+worked/VBD together/RB in/IN 
+[ any/DT aspect/NN ]
+of/IN manufacturing/NN ./. 
+
+======================================
+
+[ Federal/NNP antitrust/JJ laws/NNS ]
+and/CC 
+[ U.S./NNP Justice/NNP Department/NNP rulings/NNS ]
+have/VBP typically/RB permitted/VBN 
+[ linkups/NNS ]
+between/IN 
+[ the/DT Big/JJ Three/CD ]
+and/CC 
+[ foreign/JJ auto/NN makers/NNS ]
+and/CC among/IN 
+[ the/DT Big/JJ Three/CD ]
+for/IN 
+[ research/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ less/RBR clear/JJ whether/IN 
+[ antitrust/JJ laws/NNS ]
+and/CC 
+[ the/DT Justice/NNP Department/NNP ]
+will/MD allow/VB 
+[ such/JJ close/JJ cooperation/NN ]
+by/IN 
+[ members/NNS ]
+of/IN 
+[ the/DT Big/JJ Three/CD ]
+in/IN 
+[ manufacturing/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT agreement/NN ]
+will/MD have/VB to/TO be/VB carefully/RB structured/VBN to/TO make/VB 
+[ sure/JJ ]
+
+[ there/EX ]
+are/VBP 
+[ no/RB spillover/NN effects/NNS ]
+from/IN 
+[ transmission/NN production/NN ]
+
+[ that/WDT ]
+would/MD let/VB 
+[ these/DT companies/NNS ]
+fix/VB 
+[ prices/NNS ]
+on/IN 
+[ automobiles/NNS ]
+,/, ''/'' said/VBD 
+[ Charles/NNP Rule/NNP ]
+,/, 
+[ a/DT Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, 
+[ attorney/NN ]
+
+[ who/WP ]
+was/VBD 
+[ an/DT assistant/JJ attorney/NN general/NN ]
+in/IN 
+[ the/DT Justice/NNP Department/NNP 's/POS Antitrust/NNP Division/NNP ]
+in/IN 
+[ the/DT Reagan/NNP ]
+and/CC 
+[ Bush/NNP administrations/NNS ]
+./. 
+
+``/`` 
+[ The/DT general/JJ attitude/NN ]
+has/VBZ been/VBN that/IN 
+[ joint/JJ ventures/NNS ]
+should/MD be/VB condemned/VBN only/RB when/WRB 
+[ there/EX ]
+are/VBP actually/RB 
+[ anti-competitive/JJ effects/NNS ]
+./. 
+
+''/'' 
+[ GM/NNP ]
+and/CC 
+[ Chrysler/NNP ]
+argue/VBP that/IN 
+[ the/DT joint/JJ venture/NN ]
+is/VBZ n't/RB 
+[ an/DT antitrust/JJ violation/NN ]
+because/IN 
+[ the/DT two/CD companies/NNS ]
+already/RB develop/VBP and/CC sell/VBP to/TO 
+[ each/DT other/JJ a/DT number/NN ]
+of/IN 
+[ transmission/NN parts/NNS ]
+./. 
+
+[ The/DT companies/NNS ]
+also/RB say/VBP that/IN 
+[ the/DT deal/NN ]
+will/MD benefit/VB 
+[ them/PRP ]
+
+[ both/DT ]
+because/IN 
+[ Chrysler/NNP 's/POS New/NNP Process/NNP Gear/NNP plant/NN ]
+has/VBZ 
+[ more/JJR business/NN ]
+than/IN 
+[ it/PRP ]
+can/MD handle/VB and/CC 
+[ GM/NNP 's/POS Hydra-matic/JJ plant/NN ]
+is/VBZ running/VBG well/RB below/IN 
+[ capacity/NN ]
+./. 
+
+======================================
+
+[ The/DT companies/NNS ]
+expect/VBP to/TO complete/VB 
+[ negotiations/NNS ]
+over/IN 
+[ the/DT agreement/NN ]
+and/CC get/VB 
+[ approval/NN ]
+from/IN 
+[ the/DT Justice/NNP Department/NNP ]
+and/CC 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+in/IN 
+[ time/NN ]
+to/TO begin/VB 
+[ joint/JJ operations/NNS ]
+by/IN 
+[ Jan./NNP 1/CD ]
+./. 
+
+======================================
+
+[ Acustar/NNP ]
+
+[ 's/POS chairman/NN ]
+,/, 
+[ Thomas/NNP T./NNP Stallkamp/NNP ]
+,/, said/VBD 
+[ the/DT Syracuse/NNP New/NNP Process/NNP Gear/NNP plant/NN ]
+is/VBZ currently/RB producing/VBG 
+[ transmissions/NNS ]
+and/CC 
+[ four-wheel/JJ drive/NN parts/NNS ]
+at/IN 
+[ 130/CD %/NN ]
+of/IN 
+[ its/PRP$ capacity/NN ]
+./. 
+
+[ A/DT Hydra-matic/JJ spokeswoman/NN ]
+said/VBD 
+[ the/DT Muncie/NNP plant/NN ]
+is/VBZ operating/VBG with/IN only/RB 
+[ two/CD ]
+of/IN 
+[ three/CD shifts/NNS ]
+./. 
+
+[ Mr./NNP Stallkamp/NNP ]
+said/VBD about/IN 
+[ 40/CD %/NN ]
+of/IN 
+[ the/DT Syracuse/NNP plant/NN 's/POS output/NN ]
+goes/VBZ to/TO 
+[ auto/NN makers/NNS ]
+other/JJ than/IN 
+[ Chrysler/NNP ]
+,/, with/IN 
+[ most/JJS ]
+going/VBG into/IN 
+[ GM/NNP vehicles/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ Each/DT ]
+of/IN 
+[ us/PRP ]
+is/VBZ making/VBG 
+[ a/DT ]
+relatively/RB 
+[ small/JJ number/NN ]
+of/IN 
+[ manual/JJ transmissions/NNS ]
+separately/RB ,/, ''/'' 
+[ Mr./NNP Stallkamp/NNP ]
+said/VBD shortly/RB after/IN returning/VBG from/IN 
+[ Chrysler/NNP 's/POS board/NN meeting/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+where/WRB 
+[ the/DT deal/NN ]
+was/VBD approved/VBN ./. 
+
+``/`` Together/RB ,/, 
+[ we/PRP ]
+can/MD shift/VB 
+[ some/DT manual/JJ transmission/NN production/NN ]
+to/TO 
+[ Muncie/NNP ]
+so/IN 
+[ New/NNP Process/NNP Gear/NNP ]
+can/MD make/VB 
+[ more/JJR transfer/NN cases/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ New/NNP Process/NNP Gear/NNP ]
+is/VBZ 
+[ the/DT world/NN 's/POS largest/JJS manufacturer/NN ]
+of/IN 
+[ transfer/NN cases/NNS ]
+,/, 
+[ a/DT part/NN ]
+
+[ that/WDT ]
+permits/VBZ shifting/NN between/IN 
+[ two-wheel/JJ drive/NN ]
+and/CC 
+[ four-wheel/JJ drive/NN ]
+./. 
+
+[ A/DT boom/NN ]
+in/IN 
+[ demand/NN ]
+for/IN 
+[ four-wheel/JJ drive/NN cars/NNS ]
+and/CC 
+[ trucks/NNS ]
+has/VBZ left/VBN 
+[ New/NNP Process/NNP Gear/NNP ]
+with/IN 
+[ a/DT significant/JJ backlog/NN ]
+of/IN 
+[ orders/NNS ]
+
+[ it/PRP ]
+has/VBZ been/VBN scrambling/VBG to/TO fill/VB ./. 
+
+======================================
+
+But/CC 
+[ the/DT Muncie/NNP plant/NN ]
+makes/VBZ only/RB 
+[ manual/JJ transmissions/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP rarely/RB used/VBN in/IN 
+[ domestic/JJ cars/NNS ]
+./. 
+
+[ Some/DT ]
+of/IN 
+[ its/PRP$ transmissions/NNS ]
+do/VBP go/VB into/IN 
+[ trucks/NNS ]
+,/, where/WRB 
+[ stick/NN shifts/NNS ]
+are/VBP more/RBR popular/JJ ,/, but/CC still/RB demand/VB for/IN 
+[ its/PRP$ products/NNS ]
+has/VBZ been/VBN weakening/VBG ./. 
+
+In/IN 
+[ the/DT 1988/CD model/NN year/NN ]
+,/, about/IN 
+[ 86/CD %/NN ]
+of/IN 
+[ U.S./NNP cars/NNS ]
+were/VBD equipped/VBN with/IN 
+[ automatic/JJ transmissions/NNS ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN joint/NN venture/NN company/NN ]
+still/RB does/VBZ n't/RB have/VB 
+[ a/DT name/NN ]
+or/CC 
+[ any/DT top/JJ executives/NNS ]
+assigned/VBN to/TO 
+[ it/PRP ]
+./. 
+
+[ Chrysler/NNP 's/POS Acustar/NNP unit/NN ]
+will/MD have/VB 
+[ two/CD directors/NNS ]
+on/IN 
+[ the/DT governing/NN board/NN ]
+for/IN 
+[ every/DT one/CD GM/NNP director/NN ]
+./. 
+
+======================================
+
+Together/RB ,/, 
+[ the/DT two/CD plants/NNS ]
+will/MD employ/VB 
+[ 4,100/CD workers/NNS ]
+./. 
+
+[ GM/NNP ]
+and/CC 
+[ Chrysler/NNP officials/NNS ]
+said/VBD 
+[ they/PRP ]
+expect/VBP 
+[ no/DT work/NN force/NN reductions/NNS ]
+under/IN 
+[ the/DT joint/JJ venture/NN ]
+,/, and/CC 
+[ workers/NNS ]
+at/IN 
+[ the/DT plant/NN ]
+will/MD continue/VB to/TO work/VB under/IN 
+[ their/PRP$ United/NNP Auto/NNP Workers/NNPS contracts/NNS ]
+./. 
+
+[ Mr./NNP Stallkamp/NNP ]
+said/VBD 
+[ he/PRP ]
+discussed/VBD 
+[ the/DT joint/JJ venture/NN ]
+with/IN 
+[ UAW/NNP President/NNP Owen/NNP Bieber/NNP ]
+
+[ who/WP ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, expressed/VBD 
+[ support/NN ]
+for/IN 
+[ the/DT idea/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ This/DT historic/JJ alliance/NN ]
+is/VBZ 
+[ a/DT win-win/JJ situation/NN ]
+
+[ that/WDT ]
+means/VBZ 
+[ greater/JJR job/NN security/NN ]
+for/IN 
+[ both/DT ]
+
+[ facilities/NNS ]
+,/, ''/'' said/VBD 
+[ Chrysler/NNP Vice/NNP Chairman/NNP Gerald/NNP Greenwald/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ GM/NNP 's/POS future/JJ relationship/NN ]
+with/IN 
+[ this/DT joint/JJ ]
+venture/NN ,/, ''/'' said/VBD 
+[ GM/NNP President/NNP Robert/NNP C./NNP Stempel/NNP ]
+,/, ``/`` will/MD assure/VB 
+[ us/PRP ]
+of/IN 
+[ a/DT reliable/JJ supply/NN ]
+of/IN 
+[ quality/NN components/NNS ]
+for/IN 
+[ many/JJ years/NNS ]
+to/TO come/VB ./. 

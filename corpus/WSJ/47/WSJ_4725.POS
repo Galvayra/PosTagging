@@ -1,0 +1,628 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Telephone/NN Firms/NNS Teach/VBP ]
+
+======================================
+
+[ Computers/NNS ]
+to/TO 
+[ 'Hear/VB ]
+'/'' 
+======================================
+
+[ COMPUTERS/NNS ]
+are/VBP becoming/VBG 
+[ good/JJ listeners/NNS ]
+--/: so/RB good/JJ ,/, in/IN 
+[ fact/NN ]
+,/, that/IN 
+[ they/PRP ]
+'re/VBP taking/VBG on/IN more/JJR of/IN 
+[ the/DT work/NN ]
+of/IN 
+[ telephone/NN operators/NNS ]
+./. 
+
+======================================
+
+[ Such/JJ telecommunication/NN ]
+concerns/NNS as/IN 
+[ Ameritech/NNP ]
+,/, 
+[ Nynex/NNP Corp./NNP ]
+and/CC 
+[ Northern/NNP Telecom/NNP Ltd./NNP ]
+are/VBP giving/VBG 
+[ telephone-network/JJ computers/NNS ]
+
+[ the/DT ability/NN ]
+to/TO ``/`` hear/VB ./. 
+
+''/'' With/IN 
+[ this/DT new/JJ capability/NN ]
+,/, 
+[ computers/NNS ]
+can/MD ask/VB 
+[ questions/NNS ]
+of/IN 
+[ callers/NNS ]
+,/, listen/VB to/TO 
+[ the/DT responses/NNS ]
+and/CC 
+[ route/VB calls/NNS ]
+to/TO 
+[ the/DT proper/JJ destinations/NNS ]
+./. 
+
+======================================
+
+[ The/DT voice-recognition/NN technology/NN ]
+allows/VBZ 
+[ telephone/NN companies/NNS ]
+to/TO reduce/VB 
+[ the/DT number/NN ]
+of/IN 
+[ operators/NNS ]
+and/CC use/VB 
+[ the/DT remaining/VBG operators/NNS ]
+more/RBR efficiently/RB ./. 
+
+======================================
+
+[ Nynex/NNP ]
+is/VBZ testing/VBG 
+[ the/DT technology/NN ]
+at/IN 
+[ its/PRP$ Lawrence/NNP ]
+,/, 
+[ Mass./NNP ]
+,/, 
+[ station/NN ]
+,/, where/WRB 
+[ operators/NNS ]
+intercept/VBP and/CC relay/VBP 
+[ thousands/NNS ]
+of/IN 
+[ calls/NNS ]
+from/IN 
+[ residents/NNS ]
+in/IN 
+[ Maine/NNP ]
+,/, 
+[ New/NNP Hampshire/NNP ]
+and/CC 
+[ Vermont/NNP ]
+./. 
+
+======================================
+
+With/IN 
+[ this/DT system/NN ]
+,/, 
+[ a/DT person/NN ]
+
+[ who/WP ]
+dials/VBZ 
+[ a/DT number/NN ]
+
+[ that/WDT ]
+has/VBZ been/VBN disconnected/VBN or/CC changed/VBN would/MD be/VB linked/VBN to/TO 
+[ the/DT computer/NN ]
+,/, 
+[ which/WDT ]
+would/MD ask/VB for/IN 
+[ the/DT number/NN ]
+dialed/VBN ,/, ``/`` hear/VB ''/'' 
+[ the/DT answer/NN ]
+,/, then/RB switch/VB 
+[ the/DT call/NN ]
+to/TO 
+[ the/DT proper/JJ recording/NN ]
+./. 
+
+======================================
+
+[ Northern/NNP Telecom/NNP ]
+recently/RB installed/VBD 
+[ a/DT voice-recognition/NN system/NN ]
+on/IN 
+[ an/DT Ameritech/NNP operator-services/NNS switch/NN ]
+in/IN 
+[ Grand/NNP Rapids/NNP ]
+,/, 
+[ Mich/NNP ]
+./. 
+
+Now/RB ,/, whenever/WRB 
+[ a/DT person/NN ]
+makes/VBZ 
+[ a/DT collect/JJ call/NN ]
+,/, 
+[ a/DT computer/NN ]
+instructs/VBZ 
+[ the/DT caller/NN ]
+to/TO say/VB 
+[ his/PRP$ ]
+or/CC 
+[ her/PRP$ name/NN ]
+and/CC wait/VB for/IN 
+[ charges/NNS ]
+to/TO be/VB accepted/VBN ./. 
+
+[ Next/JJ ]
+,/, 
+[ the/DT computer/NN ]
+dials/VBZ 
+[ the/DT number/NN ]
+,/, announces/VBZ 
+[ the/DT caller/NN 's/POS name/NN ]
+and/CC asks/VBZ :/: ``/`` Will/MD 
+[ you/PRP ]
+pay/VB for/IN 
+[ the/DT call/NN ]
+?/. 
+
+''/'' If/IN 
+[ the/DT answer/NN ]
+is/VBZ ``/`` yes/UH ,/, ''/'' 
+[ the/DT computer/NN ]
+connects/VBZ 
+[ the/DT call/NN ]
+./. 
+
+If/IN 
+[ the/DT response/NN ]
+is/VBZ ``/`` no/UH ,/, ''/'' 
+[ the/DT computer/NN ]
+tells/VBZ 
+[ the/DT caller/NN ]
+of/IN 
+[ the/DT refusal/NN ]
+./. 
+
+======================================
+
+[ Computers/NNS ]
+use/VBP 
+[ a/DT process/NN ]
+called/VBN ``/`` 
+[ dynamic/JJ time/NN ]
+warping/NN ''/'' to/TO understand/VB 
+[ voice/NN commands/NNS ]
+./. 
+
+[ The/DT system/NN ]
+breaks/VBZ up/IN 
+[ a/DT sound/NN ]
+into/IN 
+[ hundreds/NNS ]
+of/IN 
+[ segments/NNS ]
+and/CC assigns/VBZ 
+[ numbers/NNS ]
+to/TO 
+[ them/PRP ]
+./. 
+
+[ The/DT computer/NN ]
+compares/VBZ 
+[ the/DT segments/NNS ]
+to/TO 
+[ a/DT master/NN pattern/NN ]
+,/, developed/VBN from/IN 
+[ thousands/NNS ]
+of/IN 
+[ different/JJ voices/NNS ]
+,/, and/CC then/RB acts/VBZ on/IN 
+[ the/DT command/NN ]
+./. 
+
+======================================
+
+[ Voice/NN recognition/NN ]
+has/VBZ 
+[ some/DT limitations/NNS ]
+,/, though/RB ./. 
+
+For/IN 
+[ instance/NN ]
+,/, 
+[ the/DT technology/NN ]
+is/VBZ n't/RB sophisticated/JJ enough/RB to/TO recognize/VB 
+[ unusual/JJ accents/NNS ]
+./. 
+
+Moreover/RB ,/, 
+[ some/DT people/NNS ]
+still/RB do/VBP n't/RB like/IN talking/VBG to/TO 
+[ a/DT machine/NN ]
+,/, forcing/VBG 
+[ them/PRP ]
+to/TO stay/VB on/IN 
+[ the/DT line/NN ]
+until/IN 
+[ a/DT human/JJ operator/NN ]
+eventually/RB picks/VBZ up/IN 
+[ the/DT call/NN ]
+./. 
+
+======================================
+
+[ Radio/NN Device/NN Keeps/VBZ ]
+
+======================================
+
+[ Close/JJ Tabs/NNS ]
+on/IN 
+[ Vehicles/NNS ]
+
+======================================
+
+[ NEW/JJ RADIO/NN technology/NN ]
+could/MD discourage/VB 
+[ auto/NN theft/NN ]
+and/CC 
+[ help/VB motorists/NNS ]
+in/IN 
+[ distress/NN ]
+./. 
+
+======================================
+
+[ A/DT Pacific/NNP Telesis/NNP Group/NNP subsidiary/NN ]
+and/CC 
+[ North/NNP American/NNP Teletrac/NNP 's/POS International/NNP Teletrac/NNP Systems/NNPS unit/NN ]
+have/VBP developed/VBN 
+[ a/DT ]
+``/`` 
+[ radio-location/NN ]
+''/'' 
+[ instrument/NN ]
+
+[ that/WDT ]
+combines/VBZ 
+[ paging/NN ]
+,/, 
+[ cellular/JJ radio/NN ]
+and/CC 
+[ computer/NN ]
+mapping/NN 
+[ technologies/NNS ]
+to/TO track/VB 
+[ motor/NN vehicles/NNS ]
+./. 
+
+======================================
+
+When/WRB installed/VBN in/IN 
+[ a/DT vehicle/NN ]
+,/, 
+[ the/DT device/NN ]
+transmits/VBZ 
+[ radio/NN signals/NNS ]
+through/IN 
+[ a/DT network/NN ]
+of/IN 
+[ radio/NN antenna/NN towers/NNS ]
+to/TO 
+[ a/DT central/JJ computer/NN ]
+
+[ that/WDT ]
+calculates/VBZ 
+[ the/DT location/NN ]
+of/IN 
+[ the/DT vehicle/NN ]
+to/TO within/IN 
+[ 100/CD feet/NNS ]
+./. 
+
+[ The/DT device/NN ]
+,/, however/RB ,/, ca/MD n't/RB locate/VB 
+[ vehicles/NNS ]
+
+[ that/WDT ]
+are/VBP beyond/IN 
+[ the/DT range/NN ]
+of/IN 
+[ the/DT radio/NN antennas/NNS ]
+./. 
+
+======================================
+
+To/TO work/VB properly/RB ,/, 
+[ the/DT technology/NN ]
+requires/VBZ 
+[ costly/JJ networks/NNS ]
+of/IN 
+[ radio/NN antenna/NN towers/NNS ]
+and/CC 
+[ sophisticated/JJ computers/NNS ]
+./. 
+
+======================================
+
+[ Police/NNS ]
+would/MD be/VB able/JJ to/TO trace/VB stolen/VBN 
+[ vehicles/NNS ]
+more/RBR easily/RB with/IN 
+[ the/DT device/NN ]
+,/, and/CC stranded/VBN 
+[ drivers/NNS ]
+could/MD use/VB 
+[ the/DT service/NN ]
+to/TO 
+[ signal/VB ]
+for/IN 
+[ help/NN ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ transportation/NN ]
+and/CC 
+[ utility/NN companies/NNS ]
+could/MD keep/VB 
+[ a/DT close/JJ eye/NN ]
+on/IN 
+[ their/PRP$ trucks/NNS ]
+./. 
+
+======================================
+
+[ The/DT service/NN ]
+is/VBZ expected/VBN to/TO be/VB available/JJ commercially/RB in/IN 
+[ Los/NNP Angeles/NNP ]
+in/IN 
+[ mid-1990/CD ]
+and/CC soon/RB after/IN 
+[ that/DT ]
+in/IN 
+[ other/JJ major/JJ cities/NNS ]
+./. 
+
+======================================
+
+[ Video/NN Microscopes/NNS Fill/VBP ]
+
+======================================
+
+[ Void/NN ]
+at/IN 
+[ Some/DT Hospitals/NNS ]
+
+======================================
+
+[ SO-CALLED/JJ SMART/JJ microscopes/NNS ]
+could/MD help/VB 
+[ inner/JJ city/NN hospitals/NNS ]
+cope/VB with/IN 
+[ a/DT shortage/NN ]
+of/IN 
+[ medical/JJ experts/NNS ]
+./. 
+
+======================================
+
+[ The/DT instruments/NNS ]
+,/, developed/VBN by/IN 
+[ Corabi/NNP International/NNP Telemetries/NNPS Inc./NNP ]
+in/IN 
+[ Alexandria/NNP ]
+,/, 
+[ Va./NNP ]
+,/, can/MD send/VB 
+[ images/NNS ]
+of/IN 
+[ a/DT patient/NN 's/POS pathology/NN specimen/NN ]
+to/TO 
+[ medical/JJ specialists/NNS miles/NNS ]
+away/RB ./. 
+
+[ Corabi/NNP ]
+attached/VBD 
+[ high-resolution/JJ video/NN cameras/NNS ]
+to/TO 
+[ motorized/VBN microscopes/NNS ]
+
+[ that/WDT record/VBP ]
+,/, say/VB ,/, 
+[ a/DT tissue/NN sample/NN ]
+and/CC instantaneously/RB transmit/VBP 
+[ the/DT image/NN ]
+to/TO 
+[ medical/JJ experts/NNS ]
+through/IN 
+[ an/DT optical-fiber/NN telephone/NN network/NN ]
+./. 
+
+======================================
+
+[ Physicians/NNS ]
+view/VBP 
+[ the/DT specimen/NN ]
+on/IN 
+[ television/NN monitors/NNS ]
+
+[ that/WDT ]
+produce/VBP 
+[ images/NNS ]
+clear/JJ enough/RB for/IN 
+[ an/DT immediate/JJ diagnosis/NN ]
+to/TO be/VB made/VBN ,/, 
+[ Corabi/NNP ]
+says/VBZ ./. 
+
+[ Doctors/NNS ]
+also/RB can/MD scan/VB 
+[ the/DT specimen/NN ]
+with/IN 
+[ a/DT remote-control/JJ device/NN ]
+
+[ that/WDT ]
+moves/VBZ 
+[ a/DT microscope/NN ]
+./. 
+
+======================================
+
+[ The/DT microscope/NN 's/POS cost/NN ]
+:/: 
+[ $/$ 48,000/CD ]
+to/TO 
+[ $/$ 50,000/CD ]
+,/, about/IN 
+[ $/$ 10,000/CD more/JJR ]
+than/IN 
+[ the/DT price/NN tag/NN ]
+on/IN 
+[ an/DT ordinary/JJ diagnostic/JJ microscope/NN ]
+./. 
+
+[ This/DT fall/NN ]
+,/, 
+[ the/DT system/NN ]
+is/VBZ scheduled/VBN to/TO be/VB installed/VBN at/IN 
+[ 10/CD hospitals/NNS ]
+in/IN 
+[ the/DT Washington/NNP D.C./NNP ]
+,/, 
+[ area/NN ]
+./. 
+
+======================================
+
+[ Bringing/NNP High/NNP Tech/NNP ]
+
+======================================
+
+To/NNP 
+[ the/DT Dinosaur/NNP Age/NNP ]
+
+======================================
+
+[ SCIENTISTS/NNS ]
+at/IN 
+[ Oak/NNP Ridge/NNP National/NNP Laboratory/NNP ]
+are/VBP hunting/VBG for/IN 
+[ dinosaurs/NNS ]
+with/IN 
+[ microphones/NNS ]
+./. 
+
+======================================
+
+[ Oak/NNP Ridge/NNP researcher/NN Alan/NNP Witten/NNP ]
+of/IN 
+[ Martin/NNP Marietta/NNP Corp./NNP 's/POS Energy/NNP Systems/NNPS unit/NN ]
+has/VBZ developed/VBN 
+[ an/DT acoustic/JJ technique/NN ]
+for/IN 
+[ creating/VBG high-resolution/JJ sonic/JJ images/NNS ]
+of/IN 
+[ buried/VBN objects/NNS ]
+./. 
+
+======================================
+
+[ The/DT technique/NN ]
+was/VBD developed/VBN to/TO pinpoint/VB 
+[ buried/JJ hazardous/JJ waste/NN ]
+,/, but/CC now/RB 
+[ paleontologists/NNS ]
+also/RB hope/VBP 
+[ it/PRP ]
+will/MD help/VB 
+[ them/PRP ]
+unearth/VB 
+[ the/DT bones/NNS ]
+of/IN 
+[ the/DT longest/JJS dinosaur/NN ]
+ever/RB discovered/VBN --/: 
+[ a/DT 110-foot/JJ long/JJ ]
+,/, 
+[ 50-ton/JJ beast/NN ]
+found/VBN 
+[ three/CD years/NNS ]
+ago/IN in/IN 
+[ New/NNP Mexico/NNP ]
+./. 
+
+======================================
+
+[ Microphones/NNS ]
+planted/VBN at/IN 
+[ various/JJ depths/NNS ]
+around/IN 
+[ the/DT site/NN measure/NN sound/NN waves/NNS ]
+as/IN 
+[ they/PRP ]
+travel/VBP through/IN 
+[ the/DT ground/NN ]
+and/CC 
+[ bone/NN ]
+./. 
+
+[ Data/NNS ]
+transformed/VBN into/IN 
+[ pictures/NNS ]
+tell/VBP 
+[ searchers/NNS ]
+where/WRB to/TO dig/VB ./. 
+
+======================================
+
+[ The/DT technology/NN ]
+could/MD cut/VB 
+[ the/DT time/NN ]
+needed/VBN to/TO unearth/VB 
+[ the/DT dinosaur/NN ]
+from/IN 
+[ 10/CD years/NNS ]
+to/TO about/IN 
+[ two/CD ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT technology/NN ]
+does/VBZ have/VB 
+[ a/DT few/JJ drawbacks/NNS ]
+./. 
+
+[ The/DT microphones/NNS ]
+have/VBP to/TO be/VB placed/VBN well/RB below/IN 
+[ the/DT buried/VBN object/NN ]
+./. 
+
+If/IN 
+[ the/DT microphone/NN ]
+is/VBZ too/RB shallow/JJ ,/, 
+[ scientists/NNS ]
+wo/MD n't/RB get/VB 
+[ an/DT accurate/JJ reading/NN ]
+,/, says/VBZ 
+[ Mr./NNP Witten/NNP ]
+./. 
+
+Therefore/RB ,/, 
+[ researchers/NNS ]
+need/VBP to/TO know/VB roughly/RB where/WRB 
+[ the/DT object/NN ]
+is/VBZ located/VBN ./. 

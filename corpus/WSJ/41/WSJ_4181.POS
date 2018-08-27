@@ -1,0 +1,488 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Soviets/NNP '/POS latest/JJS concessions/NNS ]
+on/IN 
+[ arms/NNS control/NN ]
+are/VBP being/VBG hailed/VBN as/IN 
+[ positive/JJ steps/NNS ]
+
+[ that/WDT ]
+will/MD help/VB pave/VB 
+[ the/DT way/NN ]
+for/IN 
+[ a/DT historic/JJ strategic-arms/JJ agreement/NN ]
+./. 
+
+But/CC 
+[ they/PRP ]
+also/RB pose/VBP 
+[ two/CD serious/JJ problems/NNS ]
+for/IN 
+[ President/NNP Bush/NNP ]
+
+[ that/WDT ]
+do/VBP n't/RB get/VB as/IN 
+[ much/JJ attention/NN ]
+./. 
+
+======================================
+
+First/JJ ,/, 
+[ the/DT president/NN ]
+now/RB will/MD have/VB 
+[ trouble/NN ]
+stopping/VBG 
+[ arms-control/JJ fever/NN ]
+from/IN once/RB again/RB overshadowing/VBG 
+[ the/DT U.S.-Soviet/JJ agenda/NN ]
+./. 
+
+[ Mr./NNP Bush/NNP ]
+and/CC 
+[ his/PRP$ aides/NNS ]
+have/VBP vowed/VBN repeatedly/RB to/TO avoid/VB falling/VBG into/IN 
+[ that/DT trap/NN ]
+./. 
+
+======================================
+
+[ Second/JJ ]
+,/, 
+[ the/DT administration/NN ]
+will/MD find/VB 
+[ it/PRP ]
+extremely/RB 
+[ difficult/JJ ]
+--/: perhaps/RB 
+[ impossible/JJ ]
+--/: to/TO keep/VB 
+[ the/DT Strategic/NNP Defense/NNP Initiative/NNP alive/JJ ]
+over/IN 
+[ the/DT long/JJ haul/NN ]
+./. 
+
+[ The/DT space-based/JJ defense/NN program/NN ]
+has/VBZ been/VBN endangered/VBN by/IN 
+[ a/DT clever/JJ Soviet/JJ ploy/NN ]
+:/: 
+[ The/DT Soviets/NNPS ]
+agreed/VBD to/TO put/VB aside/RB 
+[ their/PRP$ complaints/NNS ]
+about/IN 
+[ it/PRP ]
+for/IN now/RB ,/, but/CC 
+[ they/PRP ]
+warned/VBD 
+[ that/DT further/JJ work/NN ]
+on/IN 
+[ it/PRP ]
+could/MD sabotage/VB 
+[ a/DT completed/VBN treaty/NN ]
+later/RB ./. 
+
+======================================
+
+[ Congress/NNP ]
+would/MD be/VB very/RB reluctant/JJ to/TO approve/VB 
+[ funds/NNS ]
+in/IN 
+[ the/DT future/NN ]
+for/IN 
+[ testing/NN ]
+or/CC 
+[ deployment/NN ]
+of/IN 
+[ space/NN weapons/NNS ]
+if/IN doing/VBG so/RB might/MD destroy/VB 
+[ a/DT ]
+completed/VBN ,/, 
+[ history-making/JJ arms/NNS treaty/NN ]
+./. 
+
+[ That/DT ]
+'s/VBZ 
+[ one/CD reason/NN Rep./NNP Les/NNP Aspin/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Wis./NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT House/NNP Armed/NNP Services/NNPS Committee/NNP ]
+,/, has/VBZ called/VBN 
+[ the/DT Soviets/NNP '/POS new/JJ position/NN ]
+``/`` 
+[ a/DT Trojan/JJ horse/NN ]
+''/'' 
+[ that/WDT ]
+could/MD ``/`` cause/VB 
+[ a/DT lot/NN ]
+of/IN 
+[ mischief/NN ]
+''/'' later/RB ./. 
+
+======================================
+
+[ There/EX ]
+is/VBZ n't/RB 
+[ any/DT doubt/NN ]
+that/IN 
+[ the/DT Soviets/NNP '/POS shifts/NNS ]
+in/IN 
+[ position/NN ]
+,/, unveiled/VBN earlier/RBR 
+[ this/DT  month/NN ]
+in/IN 
+[ meetings/NNS ]
+between/IN 
+[ Soviet/NNP Foreign/NNP Minister/NNP Eduard/NNP Shevardnadze/NNP ]
+and/CC 
+[ Secretary/NNP ]
+of/IN 
+[ State/NNP James/NNP Baker/NNP ]
+,/, have/VBP brought/VBN 
+[ a/DT strategic/JJ arms/NNS reduction/NN treaty/NN ]
+,/, or/CC 
+[ START/NNP ]
+,/, closer/JJR to/TO 
+[ fruition/NN ]
+./. 
+
+Specifically/RB ,/, 
+[ Mr./NNP Shevardnadze/NNP ]
+declared/VBD that/IN 
+[ the/DT Soviets/NNPS ]
+are/VBP ready/JJ to/TO finish/VB 
+[ a/DT treaty/NN ]
+cutting/VBG 
+[ the/DT superpowers/NNS '/POS arsenals/NNS ]
+of/IN 
+[ long-range/JJ nuclear/JJ weapons/NNS ]
+by/IN 
+[ 50/CD %/NN ]
+--/: even/RB if/IN 
+[ the/DT treaty/NN ]
+does/VBZ n't/RB include/VB 
+[ any/DT limits/NNS ]
+on/IN 
+[ the/DT strategic/JJ defense/NN program/NN ]
+./. 
+
+Instead/RB ,/, 
+[ the/DT Soviets/NNPS ]
+would/MD simply/RB declare/VB that/IN 
+[ they/PRP ]
+reserve/VBP 
+[ the/DT right/NN ]
+to/TO withdraw/VB from/IN 
+[ a/DT START/NNP treaty/NN ]
+later/RB if/IN 
+[ they/PRP ]
+think/VBP 
+[ American/JJ testing/NN ]
+or/CC 
+[ deployment/NN ]
+of/IN 
+[ SDI/NNP components/NNS ]
+violates/VBZ 
+[ the/DT ]
+existing/VBG 
+[ Anti-Ballistic-Missile/JJ treaty/NN ]
+./. 
+
+======================================
+
+[ The/DT Soviets/NNPS ]
+also/RB agreed/VBD to/TO set/VB aside/RB 
+[ their/PRP$ attempts/NNS ]
+to/TO put/VB 
+[ limits/NNS ]
+on/IN 
+[ sea-launched/JJ cruise/NN missiles/NNS ]
+,/, 
+[ a/DT ]
+particularly/RB 
+[ nettlesome/JJ category/NN ]
+of/IN 
+[ arms/NNS ]
+that/IN 
+[ the/DT U.S./NNP ]
+has/VBZ been/VBN reluctant/JJ to/TO curb/VB ./. 
+
+[ Moscow/NNP ]
+now/RB is/VBZ willing/JJ to/TO deal/VB with/IN 
+[ those/DT missiles/NNS ]
+later/RB ./. 
+
+======================================
+
+[ These/DT advances/NNS ]
+immediately/RB propelled/VBD 
+[ the/DT START/NNP negotiations/NNS ]
+back/RB to/TO 
+[ the/DT center/NN ]
+of/IN 
+[ the/DT superpower/NN relationship/NN ]
+--/: and/CC of/IN 
+[ the/DT world/NN stage/NN ]
+./. 
+
+[ The/DT Baker-Shevardnadze/NNP session/NN ]
+``/`` refocused/VBD 
+[ world/NN attention/NN ]
+on/IN 
+[ strategic/JJ issues/NNS ]
+as/IN 
+[ the/DT central/JJ issue/NN ]
+in/IN 
+[ U.S.-Soviet/JJ relations/NNS ]
+,/, ''/'' declared/VBD 
+[ Spurgeon/NNP Keeny/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Arms/NNP Control/NNP Association/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT Bush/NNP administration/NN ]
+has/VBZ been/VBN insisting/VBG 
+[ that/DT superpower/NN diplomacy/NN ]
+should/MD n't/RB be/VB focused/VBN so/RB heavily/RB on/IN 
+[ strategic/JJ arms/NNS control/NN ]
+./. 
+
+[ An/DT underlying/VBG premise/NN ]
+of/IN 
+[ its/PRP$ foreign/JJ policy/NN ]
+is/VBZ that/IN 
+[ other/JJ issues/NNS ]
+--/: 
+[ conventional/JJ arms/NNS reduction/NN ]
+,/, 
+[ elimination/NN ]
+of/IN 
+[ chemical/NN weapons/NNS ]
+,/, even/RB 
+[ environmental/JJ issues/NNS ]
+--/: deserve/VBP 
+[ as/RB much/JJ attention/NN ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, 
+[ President/NNP Bush/NNP ]
+himself/PRP fed/VBD 
+[ the/DT START/NNP fever/NN last/JJ week/NN ]
+by/IN declaring/VBG that/IN 
+[ there/EX ]
+'s/VBZ 
+[ a/DT ]
+``/`` 
+[ good/JJ likelihood/NN ]
+''/'' 
+[ a/DT strategic/JJ arms/NNS pact/NN ]
+will/MD be/VB finished/VBN before/IN 
+[ he/PRP ]
+meets/VBZ 
+[ Soviet/JJ leader/NN Mikhail/NNP Gorbachev/NNP ]
+in/IN 
+[ late/JJ spring/NN ]
+or/CC 
+[ early/JJ summer/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+may/MD be/VB even/RB harder/JJR to/TO contain/VB 
+[ the/DT long-term/JJ damage/NN ]
+to/TO 
+[ SDI/NNP 's/POS prospects/NNS ]
+./. 
+
+[ The/DT administration/NN ]
+probably/RB did/VBD n't/RB have/VB 
+[ much/JJ choice/NN ]
+but/CC to/TO hail/VB 
+[ the/DT Soviet/JJ decision/NN ]
+to/TO break/VB 
+[ the/DT direct/JJ link/NN ]
+between/IN 
+[ SDI/NNP ]
+and/CC 
+[ completion/NN ]
+of/IN 
+[ a/DT START/NNP treaty/NN ]
+./. 
+
+After/IN 
+[ all/DT ]
+,/, 
+[ the/DT U.S./NNP ]
+has/VBZ been/VBN pressing/VBG for/IN 
+[ the/DT Soviets/NNPS ]
+to/TO drop/VB 
+[ their/PRP$ insistence/NN ]
+on/IN 
+[ including/VBG curbs/NNS ]
+on/IN 
+[ defenses/NNS ]
+in/IN 
+[ a/DT strategic/JJ arms/NNS treaty/NN ]
+./. 
+
+======================================
+
+[ That/DT ]
+'s/VBZ why/WRB 
+[ the/DT Soviet/JJ move/NN ]
+is/VBZ so/RB clever/JJ :/: 
+[ It/PRP ]
+defers/VBZ 
+[ the/DT problem/NN ]
+to/TO 
+[ the/DT future/NN ]
+while/IN offering/VBG 
+[ a/DT prize/NN ]
+so/IN tantalizing/VBG that/IN 
+[ it/PRP ]
+ca/MD n't/RB be/VB turned/VBN down/IN ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT far/RB smarter/JJR position/NN ]
+than/IN 
+[ the/DT Soviets/NNPS ]
+took/VBD ''/'' when/WRB 
+[ they/PRP ]
+were/VBD demanding/VBG 
+[ direct/JJ limits/NNS ]
+on/IN 
+[ SDI/NNP ]
+,/, said/VBD 
+[ Kenneth/NNP Adelman/NNP ]
+,/, 
+[ who/WP ]
+was/VBD 
+[ director/NN ]
+of/IN 
+[ the/DT Arms/NNP Control/NNP ]
+and/CC 
+[ Disarmament/NNP Agency/NNP ]
+in/IN 
+[ the/DT Reagan/NNP administration/NN ]
+./. 
+
+``/`` 
+[ I/PRP ]
+see/VBP 
+[ a/DT problem/NN ]
+down/IN 
+[ the/DT road/NN ]
+,/, and/CC 
+[ it/PRP ]
+'s/VBZ 
+[ a/DT terrible/JJ problem/NN ]
+,/, but/CC 
+[ I/PRP ]
+do/VBP n't/RB see/VB how/WRB 
+[ the/DT Soviets/NNPS ]
+can/MD be/VB stopped/VBN now/RB ./. 
+
+''/'' 
+======================================
+
+As/IN 
+[ one/CD sign/NN ]
+of/IN 
+[ the/DT problems/NNS ]
+facing/VBG 
+[ SDI/NNP ]
+,/, 
+[ Brent/NNP Scowcroft/NNP ]
+,/, 
+[ President/NNP Bush/NNP 's/POS national/JJ security/NN adviser/NN ]
+,/, had/VBD to/TO lobby/VB 
+[ hard/RB last/JJ week/NN ]
+to/TO persuade/VB 
+[ the/DT Senate/NNP ]
+to/TO approve/VB even/RB 
+[ a/DT nominal/JJ increase/NN ]
+in/IN 
+[ SDI/NNP ]
+spending/NN ./. 
+
+[ The/DT administration/NN ]
+believes/VBZ 
+[ Senate/NNP negotiations/NNS ]
+with/IN 
+[ the/DT House/NNP ]
+,/, 
+[ which/WDT ]
+earlier/RB voted/VBD 
+[ a/DT big/JJ ]
+cut/NN ,/, will/MD result/VB at/IN best/JJS in/IN 
+[ a/DT spending/NN level/NN ]
+of/IN about/IN 
+[ $/$ 3.7/CD billion/CD ]
+,/, equal/JJ to/TO 
+[ the/DT current/JJ year/NN 's/POS spending/NN ]
+plus/CC 
+[ inflation/NN ]
+./. 
+
+======================================
+
+[ The/DT White/NNP House/NNP ]
+is/VBZ arguing/VBG that/IN 
+[ the/DT new/JJ Soviet/JJ arms/NNS proposals/NNS ]
+should/MD make/VB 
+[ it/PRP ]
+easier/RBR for/IN 
+[ lawmakers/NNS ]
+to/TO approve/VB 
+[ funds/NNS ]
+for/IN 
+[ SDI/NNP ]
+because/IN 
+[ the/DT Soviets/NNPS ]
+have/VBP declared/VBN that/IN 
+[ the/DT defense/NN program/NN ]
+wo/MD n't/RB stop/VB 
+[ a/DT treaty/NN ]
+from/IN being/VBG completed/VBN ./. 
+
+But/CC 
+[ that/DT argument/NN ]
+wo/MD n't/RB carry/VB 
+[ much/JJ weight/NN ]
+later/RB if/IN 
+[ it/PRP ]
+appears/VBZ that/IN 
+[ a/DT vote/NN ]
+for/IN 
+[ SDI/NNP ]
+could/MD imperil/VB 
+[ the/DT completed/VBN treaty/NN ]
+./. 

@@ -1,0 +1,826 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT state/NN ]
+appeals/NNS 
+[ court/NN ]
+in/IN 
+[ California/NNP ]
+upheld/VBD 
+[ an/DT $/$ 800,000/CD malpractice/NN award/NN ]
+against/IN 
+[ an/DT attorney/NN ]
+
+[ whose/WP$ client/NN ]
+was/VBD wrongfully/RB convicted/VBN of/IN 
+[ first-degree/JJ murder/NN ]
+in/IN 
+[ what/WP ]
+is/VBZ believed/VBN to/TO be/VB 
+[ the/DT first/JJ case/NN ]
+of/IN 
+[ its/PRP$ kind/NN ]
+./. 
+
+======================================
+
+[ The/DT Court/NNP ]
+of/IN 
+[ Appeals/NNP ]
+in/IN 
+[ San/NNP Diego/NNP last/JJ week/NN ]
+held/VBD 
+[ Otis/NNP L./NNP Jones/NNP responsible/JJ ]
+for/IN 
+[ emotional/JJ distress/NN ]
+to/TO 
+[ Chester/NNP A./NNP Holliday/NNP ]
+,/, 
+[ a/DT San/NNP Diego/NNP social/JJ worker/NN ]
+and/CC 
+[ former/JJ Fulbright/NNP Scholar/NNP ]
+
+[ who/WP ]
+was/VBD convicted/VBN of/IN garroting/VBG 
+[ his/PRP$ wife/NN ]
+in/IN 
+[ 1981/CD ]
+./. 
+
+[ Mr./NNP Holliday/NNP ]
+served/VBD 
+[ 70/CD days/NNS ]
+in/IN 
+[ jail/NN ]
+before/IN being/VBG released/VBN on/IN 
+[ bond/NN ]
+,/, but/CC 
+[ his/PRP$ conviction/NN ]
+was/VBD overturned/VBN in/IN 
+[ 1984/CD ]
+on/IN 
+[ grounds/NNS ]
+of/IN 
+[ inadequate/JJ counsel/NN ]
+./. 
+
+======================================
+
+[ A/DT jury/NN ]
+acquitted/VBD 
+[ Mr./NNP Holliday/NNP ]
+after/IN 
+[ a/DT second/JJ trial/NN ]
+with/IN 
+[ a/DT new/JJ defense/NN lawyer/NN ]
+,/, and/CC 
+[ Mr./NNP Holliday/NNP ]
+sued/VBD 
+[ his/PRP$ former/JJ attorney/NN ]
+for/IN 
+[ legal/JJ malpractice/NN ]
+./. 
+
+[ Mr./NNP Holliday/NNP ]
+successfully/RB contended/VBD that/IN 
+[ Mr./NNP Jones/NNP ]
+had/VBD n't/RB reviewed/VBN 
+[ any/DT ]
+of/IN 
+[ the/DT physical/JJ evidence/NN ]
+in/IN 
+[ the/DT case/NN ]
+,/, had/VBD never/RB asked/VBN 
+[ a/DT criminologist/NN ]
+to/TO determine/VB 
+[ the/DT exact/JJ time/NN ]
+of/IN 
+[ the/DT murder/NN ]
+and/CC had/VBD failed/VBN to/TO call/VB 
+[ several/JJ key/JJ alibi/NN witnesses/NNS ]
+./. 
+
+[ Malpractice/NN cases/NNS ]
+are/VBP more/RBR typically/RB filed/VBN in/IN 
+[ civil/JJ cases/NNS ]
+,/, when/WRB 
+[ lawyers/NNS ]
+improperly/RB file/VBP 
+[ pleadings/NNS ]
+or/CC miss/VBP 
+[ deadlines/NNS ]
+./. 
+
+======================================
+
+[ The/DT San/NNP Diego/NNP court/NN ]
+found/VBD 
+[ no/DT California/NNP precedent/NN ]
+for/IN 
+[ its/PRP$ ruling/NN ]
+upholding/VBG 
+[ the/DT $/$ 800,000/CD damage/NN award/NN ]
+./. 
+
+But/CC 
+[ it/PRP ]
+reasoned/VBD that/IN 
+[ lawyers/NNS ]
+should/MD be/VB liable/JJ for/IN 
+[ emotional/JJ distress/NN ]
+when/WRB 
+[ their/PRP$ clients/NNS ]
+have/VBP 
+[ a/DT substantial/JJ emotional/JJ interest/NN ]
+at/IN 
+[ stake/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT concern/NN ]
+
+[ I/PRP ]
+have/VBP is/VBZ 
+[ the/DT potential/JJ impact/NN ]
+could/MD be/VB 
+[ a/DT ]
+lot/RB greater/JJR than/IN 
+[ this/DT one/CD kind/NN ]
+of/IN 
+[ case/NN ]
+,/, ''/'' said/VBD 
+[ Kent/NNP L./NNP Richland/NNP ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+,/, 
+[ who/WP ]
+represented/VBD 
+[ Mr./NNP Jones/NNP ]
+./. 
+
+[ The/DT rule/NN ]
+could/MD be/VB applied/VBN in/IN almost/RB 
+[ any/DT setting/NN ]
+where/WRB 
+[ a/DT disgruntled/JJ client/NN ]
+claims/VBZ 
+[ emotional/JJ distress/NN ]
+because/IN of/IN 
+[ inadequate/JJ representation/NN ]
+,/, said/VBD 
+[ Mr./NNP Richland/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ Mr./NNP Holliday/NNP 's/POS lawyer/NN ]
+,/, 
+[ Richard/NNP H./NNP Benes/NNP ]
+in/IN 
+[ San/NNP Diego/NNP ]
+,/, downplayed/VBD 
+[ the/DT significance/NN ]
+of/IN 
+[ the/DT ruling/NN ]
+because/IN 
+[ the/DT case/NN ]
+is/VBZ so/RB unusual/JJ ./. 
+
+[ Persons/NNS ]
+convicted/VBN of/IN 
+[ murder/NN ]
+sometimes/RB succeed/VBP in/IN winning/VBG 
+[ new/JJ trials/NNS ]
+because/IN of/IN 
+[ inadequate/JJ counsel/NN ]
+,/, said/VBD 
+[ Mr./NNP Benes/NNP ]
+./. 
+
+But/CC until/IN 
+[ this/DT case/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, 
+[ none/NN ]
+has/VBZ ever/RB been/VBN acquitted/VBN ./. 
+
+======================================
+
+In/IN 
+[ this/DT instance/NN ]
+,/, said/VBD 
+[ Mr./NNP Benes/NNP ]
+,/, ``/`` 
+[ a/DT ]
+truly/RB 
+[ innocent/JJ man/NN ]
+was/VBD convicted/VBN of/IN murdering/VBG 
+[ his/PRP$ wife/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT crime/NN ]
+remains/VBZ 
+[ unsolved/JJ ]
+./. 
+
+======================================
+
+[ LARGEST/JJS INDIAN/JJ land/NN ]
+claims/VBZ 
+[ suit/NN ]
+will/MD go/VB to/TO 
+[ trial/NN ]
+
+[ this/DT month/NN ]
+./. 
+
+======================================
+
+[ A/DT bitter/JJ ]
+and/CC 
+[ historic/JJ land/NN dispute/NN ]
+between/IN 
+[ the/DT Hopi/NNP ]
+and/CC 
+[ Navajo/NNP tribes/NNS ]
+will/MD be/VB heard/VBN in/IN 
+[ federal/JJ district/NN court/NN ]
+in/IN 
+[ Arizona/NNP ]
+./. 
+
+[ The/DT suit/NN ]
+,/, filed/VBN by/IN 
+[ the/DT Hopi/NNP tribe/NN ]
+against/IN 
+[ the/DT Navajo/NNP tribe/NN ]
+in/IN 
+[ 1974/CD ]
+,/, is/VBZ 
+[ the/DT largest/JJS Indian/JJ land/NN ]
+claims/NNS 
+[ suit/NN ]
+in/IN 
+[ U.S./NNP history/NN ]
+and/CC involves/VBZ 
+[ rights/NNS ]
+to/TO 
+[ more/JJR ]
+than/IN 
+[ seven/CD million/CD acres/NNS ]
+of/IN 
+[ land/NN ]
+in/IN 
+[ northern/JJ Arizona/NNP ]
+./. 
+
+======================================
+
+[ There/EX ]
+has/VBZ been/VBN 
+[ a/DT conflict/NN ]
+between/IN 
+[ the/DT Hopis/NNPS ]
+and/CC 
+[ Navajos/NNPS ]
+for/IN more/RBR|JJR than/IN 
+[ two/CD centuries/NNS ]
+./. 
+
+Although/IN 
+[ the/DT Hopis/NNPS ]
+say/VBP 
+[ they/PRP ]
+have/VBP occupied/VBN 
+[ the/DT land/NN ]
+in/IN 
+[ dispute/NN ]
+for/IN more/RBR|JJR than/IN 
+[ a/DT thousand/CD years/NNS ]
+,/, 
+[ the/DT Navajos/NNPS ]
+began/VBD moving/VBG in/RP during/IN 
+[ the/DT late/JJ 18th/JJ century/NN ]
+and/CC greatly/RB outnumber/VBP 
+[ them/PRP ]
+./. 
+
+======================================
+
+In/IN 
+[ 1934/CD ]
+,/, 
+[ Congress/NNP ]
+created/VBD 
+[ a/DT reservation/NN ]
+``/`` for/IN 
+[ the/DT benefit/NN ]
+of/IN 
+[ the/DT Navajo/NNP ]
+and/CC 
+[ such/JJ other/JJ Indians/NNP ]
+as/IN may/MD be/VB already/RB located/VBN thereon/RB ''/'' out/IN of/IN 
+[ the/DT land/NN ]
+in/IN 
+[ dispute/NN ]
+./. 
+
+[ The/DT case/NN ]
+hinges/VBZ on/IN 
+[ which/WDT areas/NNS ]
+of/IN 
+[ the/DT reservation/NN ]
+
+[ the/DT Hopis/NNPS ]
+can/MD prove/VB 
+[ they/PRP ]
+occupied/VBD and/CC used/VBD as/IN of/IN 
+[ 1934/CD ]
+./. 
+
+======================================
+
+``/`` 
+[ Part/NN ]
+of/IN 
+[ what/WP ]
+is/VBZ so/RB complex/JJ about/IN 
+[ this/DT case/NN ]
+is/VBZ that/IN 
+[ you/PRP ]
+have/VBP to/TO go/VB back/RB and/CC take/VB 
+[ a/DT snapshot/NN ]
+of/IN 
+[ history/NN ]
+,/, ''/'' says/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT lawyers/NNS ]
+involved/VBN in/IN 
+[ the/DT litigation/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'ll/MD be/VB arguing/VBG over/IN 
+[ what/WP ]
+
+[ the/DT picture/NN ]
+looked/VBD like/IN in/IN 
+[ 1934/CD ]
+./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ another/DT courtroom/NN skirmish/NN ]
+during/IN 
+[ the/DT 1960s/NNS ]
+,/, 
+[ the/DT Hopis/NNPS ]
+lost/VBD 
+[ a/DT large/JJ portion/NN ]
+of/IN 
+[ another/DT reservation/NN ]
+,/, created/VBN by/IN 
+[ Congress/NNP ]
+in/IN 
+[ 1882/CD ]
+,/, to/TO 
+[ the/DT Navajos/NNPS ]
+./. 
+
+[ The/DT tribes/NNS ]
+have/VBP returned/VBN to/TO 
+[ court/NN ]
+in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ that/DT ruling/NN ]
+,/, locked/VBN in/IN 
+[ battle/NN ]
+over/IN 
+[ resettlement/NN issues/NNS ]
+./. 
+
+======================================
+
+[ Both/DT ]
+
+[ tribes/NNS ]
+are/VBP relying/VBG on/IN 
+[ major/JJ corporate/JJ law/NN firms/NNS ]
+for/IN 
+[ the/DT trial/NN ]
+./. 
+
+[ The/DT Navajos/NNPS ]
+are/VBP using/VBG 
+[ Brown/NNP ]
+&/CC 
+[ Bain/NNP ]
+,/, 
+[ a/DT large/JJ Phoenix/NNP law/NN firm/NN ]
+and/CC 
+[ the/DT Hopis/NNPS ]
+have/VBP turned/VBN to/TO 
+[ the/DT Denver/NNP office/NN ]
+of/IN 
+[ Washington/NNP 's/POS Arnold/NNP ]
+&/CC 
+[ Porter/NNP ]
+./. 
+
+======================================
+
+[ ADMINISTRATION'S/NN DAWDLING/NN ]
+on/IN 
+[ judicial/JJ nominations/NNS ]
+has/VBZ aggravated/VBN 
+[ a/DT severe/JJ vacancy/NN problem/NN ]
+./. 
+
+======================================
+
+[ President/NNP Bush/NNP ]
+has/VBZ nominated/VBN only/RB 
+[ 10/CD replacements/NNS ]
+to/TO fill/VB 
+[ 56/CD openings/NNS ]
+on/IN 
+[ federal/JJ trial/NN ]
+and/CC 
+[ appeals/NNS courts/NNS ]
+./. 
+
+[ The/DT chief/JJ judges/NNS ]
+of/IN 
+[ the/DT appeals/NNS courts/NNS ]
+in/IN 
+[ Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, and/CC 
+[ New/NNP York/NNP ]
+,/, have/VBP made/VBN 
+[ unusual/JJ public/JJ complaints/NNS ]
+about/IN being/VBG 
+[ shorthanded/JJ ]
+./. 
+
+``/`` 
+[ This/DT administration/NN ]
+is/VBZ worse/JJR off/RP than/IN 
+[ others/NNS ]
+in/IN 
+[ memory/NN ]
+,/, ''/'' says/VBZ 
+[ a/DT spokesman/NN ]
+for/IN 
+[ the/DT judiciary/NN 's/POS administrative/JJ office/NN ]
+./. 
+
+[ One/CD seat/NN ]
+,/, on/IN 
+[ the/DT trial/NN court/NN ]
+in/IN 
+[ Colorado/NNP ]
+,/, has/VBZ remained/VBN 
+[ open/JJ ]
+since/IN 
+[ July/NNP 1984/CD ]
+,/, 
+[ which/WDT ]
+
+[ the/DT spokesman/NN ]
+calls/VBZ ``/`` 
+[ a/DT modern/JJ record/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Explanations/NNS ]
+for/IN 
+[ the/DT slowdown/NN ]
+vary/VBP ./. 
+
+[ Democratic/JJ congressional/JJ staff/NN members/NNS ]
+speculate/VBP that/IN 
+[ Attorney/NNP General/NNP Dick/NNP Thornburgh/NNP has/VBZ n't/RB ]
+made/VBN 
+[ judicial/JJ selections/NNS ]
+
+[ the/DT top/JJ priority/NN ]
+
+[ they/PRP ]
+were/VBD under/IN 
+[ his/PRP$ predecessor/NN ]
+,/, 
+[ Edwin/NNP Meese/NNP III/NNP ]
+./. 
+
+[ Some/DT Washington/NNP conservative/JJ activists/NNS ]
+agree/VBP and/CC complain/VBP that/IN 
+[ Mr./NNP Thornburgh/NNP ]
+lacks/VBZ 
+[ sufficient/JJ partisan/JJ zeal/NN ]
+to/TO continue/VB 
+[ the/DT Reagan/NNP administration/NN 's/POS push/NN ]
+to/TO fill/VB 
+[ the/DT federal/JJ bench/NN ]
+with/IN 
+[ diehard/JJ conservatives/NNS ]
+./. 
+
+======================================
+
+[ Justice/NNP Department/NNP officials/NNS ]
+blame/VBP 
+[ the/DT delay/NN ]
+in/IN 
+[ part/NN ]
+on/IN 
+[ lengthy/JJ background/NN checks/NNS ]
+by/IN 
+[ the/DT Federal/NNP Bureau/NNP ]
+of/IN 
+[ Investigation/NNP ]
+and/CC 
+[ American/NNP Bar/NNP Association/NNP ]
+./. 
+
+[ These/DT officials/NNS ]
+deny/VBP 
+[ suggestions/NNS ]
+on/IN 
+[ Capitol/NNP Hill/NNP ]
+that/IN 
+[ disagreements/NNS ]
+between/IN 
+[ the/DT department/NN ]
+and/CC 
+[ the/DT White/NNP House/NNP ]
+have/VBP contributed/VBN to/TO 
+[ the/DT problem/NN ]
+./. 
+
+About/RB 
+[ 20/CD nominations/NNS ]
+are/VBP ``/`` in/IN 
+[ the/DT pipeline/NN ]
+,/, ''/'' says/VBZ 
+[ Thornburgh/NNP spokesman/NN David/NNP Runkel/NNP ]
+./. 
+
+======================================
+
+[ The/DT pending/VBG nominee/NN ]
+most/RBS likely/JJ to/TO provoke/VB 
+[ partisan/JJ attacks/NNS ]
+in/IN 
+[ the/DT Senate/NNP ]
+:/: 
+[ Clarence/NNP Thomas/NNP ]
+,/, 
+[ President/NNP Bush/NNP 's/POS choice/NN ]
+to/TO replace/VB 
+[ Robert/NNP Bork/NNP ]
+on/IN 
+[ the/DT Washington/NNP ]
+,/, 
+[ D.C./NNP ]
+,/, appeals/NNS 
+[ court/NN ]
+./. 
+
+======================================
+
+[ Liberals/NNS ]
+accuse/VBP 
+[ him/PRP ]
+of/IN demonstrating/VBG 
+[ a/DT restrictive/JJ view/NN ]
+of/IN 
+[ the/DT rights/NNS ]
+of/IN 
+[ the/DT elderly/JJ ]
+as/IN 
+[ chairman/NN ]
+of/IN 
+[ the/DT Equal/NNP Employment/NNP Opportunity/NNP Commission/NNP ]
+./. 
+
+======================================
+
+[ DALLAS/NNP LAW/NN FIRM/NN ]
+beats/VBZ starting/JJ 
+[ salaries/NNS ]
+at/IN 
+[ most/JJS New/NNP York/NNP firms/NNS ]
+./. 
+
+======================================
+
+[ Bickel/NNP ]
+&/CC 
+[ Brewer/NNP ]
+,/, 
+[ a/DT 40-lawyer/JJ commercial-litigation/NN firm/NN ]
+,/, is/VBZ paying/VBG 
+[ its/PRP$ six/CD new/JJ associates/NNS $/$ 85,000/CD ]
+
+[ a/DT year/NN ]
+,/, topping/VBG 
+[ the/DT going/VBG rate/NN ]
+of/IN 
+[ $/$ 83,000/CD set/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+by/IN 
+[ Milbank/NNP ]
+,/, 
+[ Tweed/NNP ]
+,/, 
+[ Hadley/NNP ]
+&/CC 
+[ McCloy/NNP ]
+./. 
+
+[ William/NNP A./NNP Brewer/NNP III/NNP ]
+,/, 
+[ a/DT founding/NN partners/NNS ]
+of/IN 
+[ Bickel/NNP ]
+&/CC 
+[ Brewer/NNP ]
+,/, says/VBZ 
+[ this/DT ]
+is/VBZ 
+[ the/DT third/JJ year/NN ]
+in/IN 
+[ a/DT row/NN ]
+that/IN 
+[ his/PRP$ firm/NN ]
+has/VBZ purposely/RB topped/VBN 
+[ the/DT New/NNP York/NNP salary/NN scale/NN ]
+./. 
+
+In/IN 
+[ recent/JJ years/NNS competition/NN ]
+for/IN 
+[ top/JJ law/NN school/NN graduates/NNS ]
+has/VBZ increased/VBN and/CC 
+[ big/JJ New/NNP York/NNP law/NN firms/NNS ]
+have/VBP driven/VBN up/RP 
+[ first-year/JJ salaries/NNS ]
+./. 
+
+======================================
+
+[ The/DT higher/JJR salary/NN costs/NNS ]
+may/MD coincide/VB with/IN 
+[ the/DT loss/NN ]
+of/IN 
+[ one/CD ]
+of/IN 
+[ Bickel/NNP ]
+&/CC 
+[ Brewer/NNP 's/POS major/JJ clients/NNS ]
+./. 
+
+Since/IN 
+[ its/PRP$ ]
+founding/NN 
+[ five/CD years/NNS ]
+ago/RB ,/, 
+[ the/DT firm/NN ]
+has/VBZ handled/VBN 
+[ tenant/NN litigation/NN ]
+for/IN 
+[ Trammell/NNP Crow/NNP Co./NNP ]
+,/, 
+[ its/PRP$ landlord/NN ]
+./. 
+
+But/CC 
+[ the/DT law/NN firm/NN ]
+intends/VBZ to/TO move/VB into/IN 
+[ new/JJ space/NN ]
+owned/VBN by/IN 
+[ another/DT client/NN ]
+,/, 
+[ Prentiss/NNP Properties/NNP Ltd./NNP ]
+,/, and/CC 
+[ Trammell/NNP Crow/NNP ]
+,/, 
+[ the/DT nation/NN 's/POS largest/JJS commercial/JJ builder/NN ]
+,/, has/VBZ 
+[ a/DT policy/NN ]
+of/IN sending/VBG 
+[ legal/JJ work/NN ]
+only/RB to/TO 
+[ tenants/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Brewer/NNP ]
+says/VBZ 
+[ the/DT firm/NN ]
+can/MD handle/VB 
+[ the/DT expected/VBN loss/NN ]
+of/IN 
+[ business/NN ]
+./. 
+
+``/`` Fortunately/RB ,/, 
+[ our/PRP$ firm/NN ]
+is/VBZ 
+[ eyeball/NN ]
+deep/RB in/IN 
+[ clients/NNS ]
+and/CC 
+[ matters/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ NEW/NNP YORK/NNP TALENT/NN SWITCH/NN ]
+:/: 
+[ Morgan/NNP ]
+,/, 
+[ Lewis/NNP ]
+&/CC 
+[ Bockius/NNP ]
+,/, founded/VBN in/IN 
+[ Philadelphia/NNP ]
+,/, is/VBZ expanding/VBG 
+[ its/PRP$ corporate-finance/NN practice/NN ]
+with/IN 
+[ the/DT addition/NN ]
+of/IN 
+[ three/CD partners/NNS ]
+./. 
+
+[ Catherine/NNP A./NNP Ludden/NNP ]
+,/, 
+[ 39/CD years/NNS ]
+old/JJ ,/, 
+[ William/NNP J./NNP Lynch/NNP ]
+,/, 
+[ 47/CD ]
+,/, and/CC 
+[ Robert/NNP C./NNP Mendelson/NNP ]
+,/, 
+[ 38/CD ]
+,/, joined/VBD 
+[ the/DT firm/NN 's/POS 95-lawyer/JJ New/NNP York/NNP office/NN ]
+from/IN 
+[ the/DT New/NNP York/NNP branch/NN ]
+of/IN 
+[ Gaston/NNP ]
+&/CC 
+[ Snow/NNP ]
+,/, 
+[ a/DT Boston/NNP law/NN firm/NN ]
+./. 
+
+[ Morgan/NNP Lewis/NNP partner/NN Samuel/NNP B./NNP Fortenbaugh/NNP ]
+said/VBD 
+[ the/DT moves/NNS ]
+are/VBP 
+[ part/NN ]
+of/IN 
+[ a/DT plan/NN ]
+to/TO expand/VB 
+[ the/DT firm/NN 's/POS business/NN ]
+and/CC 
+[ finance/NN capabilities/NNS ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 

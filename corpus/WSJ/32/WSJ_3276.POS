@@ -1,0 +1,492 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Lincoln/NNP National/NNP Corp./NNP 's/POS managed-care/JJ operation/NN ]
+,/, where/WRB 
+[ losses/NNS ]
+have/VBP been/VBN narrowing/VBG in/IN 
+[ recent/JJ periods/NNS ]
+,/, is/VBZ expected/VBN to/TO show/VB 
+[ a/DT third-quarter/NN profit/NN ]
+,/, 
+[ Ian/NNP M./NNP Rolland/NNP ]
+,/, 
+[ president/NN ]
+and/CC 
+[ chief/NN executive/NN officer/NN ]
+,/, said/VBD ./. 
+
+======================================
+
+[ The/DT managed-care/JJ unit/NN 's/POS rebound/NN ]
+,/, combined/VBN with/IN ``/`` 
+[ significant/JJ ]
+''/'' 
+[ capital/NN gains/NNS ]
+from/IN 
+[ Lincoln/NNP 's/POS investment/NN portfolio/NN ]
+,/, will/MD more/RBR than/IN offset/VB 
+[ deteriorating/VBG property-casualty/JJ results/NNS ]
+at/IN 
+[ the/DT nation/NN 's/POS seventh-largest/JJ insurance/NN holding/VBG company/NN ]
+./. 
+
+======================================
+
+[ Lincoln/NNP 's/POS property-casualty/JJ business/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ in/IN 
+[ the/DT midst/NN ]
+of/IN 
+[ a/DT cyclical/JJ industry/NN downturn/NN ]
+,/, still/RB will/MD show/VB 
+[ a/DT third-quarter/NN profit/NN ]
+despite/IN 
+[ a/DT $/$ 10/CD million/CD ]
+to/TO 
+[ $/$ 15/CD million/CD after-tax/JJ loss/NN ]
+from/IN 
+[ Hurricane/NNP Hugo/NNP ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD in/IN 
+[ an/DT interview/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT company/NN has/VBZ n't/RB ]
+yet/RB reviewed/VBD 
+[ September/NNP 's/POS results/NNS ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD 
+[ Lincoln/NNP ]
+anticipates/VBZ 
+[ it/PRP ]
+will/MD report/VB 
+[ third-quarter/NN operating/VBG income/NN ]
+``/`` at/IN 
+[ a/DT range/NN ]
+
+[ that/WDT ]
+would/MD be/VB between/IN 
+[ $/$ 1/CD ]
+
+[ a/DT share/NN ]
+and/CC 
+[ $/$ 1.15/CD ]
+
+[ a/DT share/NN ]
+./. 
+
+''/'' 
+[ That/DT ]
+would/MD indicate/VB 
+[ operating/NN income/NN ]
+of/IN 
+[ $/$ 41.9/CD million/CD ]
+to/TO 
+[ $/$ 46.1/CD million/CD ]
+./. 
+
+======================================
+
+In/IN 
+[ terms/NNS ]
+of/IN 
+[ net/JJ income/NN ]
+,/, 
+[ which/WDT ]
+adds/VBZ in/IN 
+[ realized/VBN gains/NNS ]
+and/CC 
+[ losses/NNS ]
+from/IN 
+[ investments/NNS ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD 
+[ it/PRP ]
+'s/VBZ still/RB too/RB early/JJ to/TO project/VB 
+[ a/DT final/JJ figure/NN ]
+./. 
+
+But/CC ``/`` 
+[ our/PRP$ best/JJS judgment/NN ]
+''/'' is/VBZ that/IN 
+[ the/DT just-ended/JJ period/NN 's/POS operating/VBG figure/NN will/NN ]
+bolstered/VBN by/IN ``/`` 
+[ substantial/JJ capital/NN gains/NNS ]
+./. 
+
+''/'' 
+======================================
+
+On/IN 
+[ an/DT operating/NN basis/NN ]
+,/, 
+[ Lincoln/NNP 's/POS projections/NNS ]
+would/MD represent/VB 
+[ a/DT modest/JJ decline/NN ]
+from/IN 
+[ the/DT year-earlier/JJ $/$ 55.7/CD million/CD ]
+,/, or/CC 
+[ $/$ 1.25/CD ]
+
+[ a/DT share/NN ]
+,/, that/IN 
+[ the/DT company/NN ]
+reported/VBD 
+[ exclusive/JJ ]
+of/IN 
+[ a/DT $/$ 61.7/CD million/CD charge/NN ]
+associated/VBN with/IN 
+[ the/DT disposal/NN ]
+of/IN 
+[ its/PRP$ money-losing/JJ health/NN maintenance/NN organizations/NNS ]
+in/IN 
+[ Florida/NNP ]
+./. 
+
+After/IN 
+[ a/DT $/$ 21.1/CD million/CD loss/NN ]
+on/IN 
+[ investments/NNS ]
+,/, 
+[ the/DT final/JJ net/NN loss/NN ]
+in/IN 
+[ the/DT year-ago/JJ period/NN ]
+was/VBD 
+[ $/$ 27.1/CD million/CD ]
+,/, or/CC 
+[ 72/CD cents/NNS ]
+
+[ a/DT share/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Rolland/NNP ]
+cited/VBD ``/`` 
+[ two/CD significant/JJ trends/NNS ]
+''/'' currently/RB affecting/VBG 
+[ the/DT company/NN ]
+:/: ``/`` 
+[ The/DT improving/VBG picture/NN ]
+in/IN 
+[ our/PRP$ employee/NN life-health/NN operations/NNS ]
+,/, ''/'' 
+[ which/WDT ]
+has/VBZ been/VBN 
+[ a/DT question/NN mark/NN ]
+in/IN 
+[ some/DT analysts/NNS '/POS eyes/NNS ]
+,/, and/CC 
+[ the/DT fact/NN ]
+that/IN 
+[ the/DT ]
+``/`` 
+[ property-casualty/JJ business/NN ]
+is/VBZ on/IN 
+[ the/DT downside/NN ]
+''/'' of/IN 
+[ its/PRP$ cycle/NN ]
+./. 
+
+[ The/DT company/NN 's/POS managed-care/JJ operation/NN ]
+,/, 
+[ which/WDT ]
+runs/VBZ 
+[ HMOs/NNP ]
+in/IN about/IN 
+[ 40/CD urban/JJ areas/NNS ]
+,/, has/VBZ been/VBN unprofitable/JJ since/IN 
+[ 1986/CD ]
+./. 
+
+But/CC 
+[ Mr./NNP Rolland/NNP ]
+said/VBD 
+[ HMOs/NNP ]
+are/VBP typically/RB unprofitable/JJ in/IN 
+[ the/DT early/JJ years/NNS ]
+,/, and/CC ``/`` 
+[ a/DT number/NN ]
+of/IN 
+[ the/DT plans/NNS ]
+are/VBP now/RB coming/VBG up/IN to/TO 
+[ a/DT critical/JJ size/NN ]
+,/, ''/'' where/WRB 
+[ revenues/NNS ]
+have/VBP grown/VBN sufficient/JJ to/TO 
+[ support/NN costs/NNS ]
+./. 
+
+Having/VBG shed/VBN 
+[ the/DT Florida/NNP operations/NNS ]
+,/, 
+[ the/DT company/NN ]
+thinks/VBZ that/IN ``/`` in/IN 
+[ our/PRP$ portfolio/NN ]
+now/RB 
+[ we/PRP ]
+have/VBP 
+[ a/DT group/NN ]
+of/IN 
+[ HMOs/NNP ]
+
+[ that/WDT ]
+have/VBP 
+[ the/DT prospect/NN ]
+of/IN being/VBG very/RB successful/JJ ,/, and/CC 
+[ the/DT results/NNS ]
+so/RB far/RB 
+[ this/DT year/NN ]
+demonstrate/VBP 
+[ that/DT ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+''/'' 
+======================================
+
+[ Mr./NNP Rolland/NNP ]
+also/RB said/VBD that/IN 
+[ a/DT complex/JJ information/NN system/NN ]
+,/, designed/VBN to/TO enhance/VB 
+[ the/DT company/NN 's/POS ability/NN ]
+to/TO 
+[ fine-tune/VB pricing/NN ]
+and/CC 
+[ other/JJ cost/NN factors/NNS ]
+,/, will/MD start/VB going/VBG on/IN 
+[ line/NN ]
+by/IN 
+[ year/NN end/NN ]
+,/, and/CC 
+[ that/DT full/JJ installation/NN ]
+is/VBZ expected/VBN by/IN late/RB 
+======================================
+
+[ Lincoln/NNP 's/POS traditional/JJ health/NN insurance/NN operations/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP been/VBN operating/VBG at/IN 
+[ a/DT loss/NN ]
+in/IN 
+[ recent/JJ periods/NNS ]
+,/, also/RB were/VBD profitable/JJ in/IN 
+[ the/DT third/JJ quarter/NN ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD ./. 
+
+======================================
+
+``/`` 
+[ The/DT health/NN insurance/NN business/NN ]
+has/VBZ been/VBN going/VBG through/IN 
+[ enormous/JJ change/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ,/, ``/`` impacted/VBN by/IN rapidly/RB increasing/VBG 
+[ medical/JJ costs/NNS ]
+and/CC 
+[ increasing/VBG utilization/NN ]
+of/IN 
+[ services/NNS ]
+./. 
+
+For/IN 
+[ a/DT period/NN ]
+of/IN 
+[ time/NN ]
+,/, 
+[ the/DT entire/JJ industry/NN has/VBZ n't/RB ]
+been/VBN able/JJ to/TO maintain/VB 
+[ pricing/NN ]
+
+[ that/WDT ]
+reflects/VBZ 
+[ these/DT costs/NNS ]
+./. 
+
+''/'' But/CC 
+[ the/DT health/NN insurance/NN industry/NN ]
+``/`` in/IN 
+[ general/NN ]
+is/VBZ getting/VBG 
+[ its/PRP$ ]
+pricing/NN up/IN ,/, ''/'' added/VBD 
+[ Mr./NNP Rolland/NNP ]
+,/, 
+[ who/WP ]
+says/VBZ 
+[ Lincoln/NNP ]
+does/VBZ n't/RB anticipate/VB that/IN 
+[ the/DT employee/NN health-insurance/NN section/NN ]
+will/MD lapse/VB back/RB into/IN 
+[ the/DT loss/NN column/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ the/DT property-casualty/NN side/NN ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD ,/, ``/`` 
+[ We/PRP ]
+'ve/VBP had/VBN about/IN 
+[ a/DT three-year/JJ upturn/NN ]
+,/, ''/'' 
+[ which/WDT ]
+
+[ peaked/JJ last/JJ year/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+'re/VBP seeing/VBG 
+[ deteriorating/VBG earnings/NNS ]
+
+[ this/DT year/NN ]
+''/'' in/IN 
+[ that/DT cyclical/JJ segment/NN ]
+,/, and/CC ``/`` 
+[ we/PRP ]
+expect/VBP 
+[ they/PRP ]
+will/MD continue/VB through/IN 
+[ 1990/CD ]
+''/'' before/IN 
+[ hitting/VBG bottom/NN ]
+in/IN 
+[ 1991/CD ]
+./. 
+
+``/`` 
+[ Our/PRP$ view/NN ]
+of/IN 
+[ this/DT cycle/NN ]
+is/VBZ that/IN 
+[ it/PRP ]
+is/VBZ going/VBG to/TO be/VB less/RBR severe/JJ than/IN 
+[ the/DT last/JJ one/CD ]
+,/, ''/'' 
+[ Mr./NNP Rolland/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT executive/NN ]
+said/VBD 
+[ Lincoln/NNP has/VBZ n't/RB ]
+been/VBN able/JJ to/TO more/RBR precisely/RB determine/VB 
+[ the/DT size/NN ]
+of/IN 
+[ the/DT approximate/JJ $/$ 1/CD ]
+to/TO 
+[ $/$ 1.25-a-share/JJ gain/NN ]
+
+[ it/PRP ]
+projected/VBD 
+[ it/PRP ]
+will/MD receive/VB from/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ its/PRP$ National/NNP Reinsurance/NNP unit/NN ]
+,/, 
+[ which/WDT ]
+is/VBZ expected/VBN to/TO close/VB about/IN 
+[ year/NN end/NN ]
+./. 
+
+[ Proceeds/NNS ]
+of/IN 
+[ the/DT $/$ 390.6/CD million/CD transaction/NN ]
+will/MD be/VB used/VBN to/TO retire/VB 
+[ some/DT debt/NN ]
+,/, and/CC ``/`` to/TO strengthen/VB 
+[ our/PRP$ balance/NN sheet/NN ]
+and/CC improve/VB 
+[ our/PRP$ debt-to-equity/JJ ratios/NNS ]
+./. 
+
+''/'' 
+[ The/DT money/NN ]
+will/MD also/RB permit/VB 
+[ the/DT company/NN ]
+to/TO consider/VB buying/VBG back/RB 
+[ some/DT ]
+of/IN 
+[ its/PRP$ shares/NNS ]
+,/, 
+[ Mr./NNP Rolland/NNP ]
+said/VBD ./. 
+
+But/CC 
+[ he/PRP ]
+cautioned/VBD that/IN 
+[ no/DT decision/NN ]
+has/VBZ been/VBN made/VBN about/IN reviving/VBG 
+[ an/DT ]
+earlier/RBR discontinued/VBN 
+[ share-repurchase/JJ plan/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Rolland/NNP ]
+said/VBD 
+[ the/DT company/NN 's/POS investment/NN product/NN business/NN ]
+,/, 
+[ which/WDT ]
+sells/VBZ 
+[ annuities/NNS ]
+and/CC manages/VBZ 
+[ pension/NN money/NN ]
+,/, is/VBZ showing/VBG ``/`` 
+[ significant/JJ growth/NN ]
+,/, ''/'' with/IN 
+[ assets/NNS ]
+under/IN 
+[ management/NN ]
+currently/RB at/IN 
+[ $/$ 9.6/CD billion/CD ]
+and/CC growing/VBG at/IN 
+[ an/DT annual/JJ rate/NN ]
+of/IN about/IN 
+[ 30/CD %/NN ]
+./. 
+
+[ The/DT growing/VBG revenue/NN ]
+from/IN 
+[ such/JJ non-cyclical/JJ lines/NNS ]
+``/`` contributes/VBZ 
+[ a/DT lot/NN ]
+of/IN 
+[ stability/NN ]
+to/TO 
+[ Lincoln/NNP National/NNP 's/POS earnings/NN picture/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 

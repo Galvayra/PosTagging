@@ -1,0 +1,783 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Forecasters/NNS ]
+puzzling/VBG over/IN whether/IN 
+[ the/DT economy/NN 's/POS eventual/JJ landing/NN ]
+will/MD prove/VB 
+[ hard/JJ ]
+or/CC 
+[ soft/JJ ]
+are/VBP beginning/VBG to/TO harbor/VB 
+[ doubts/NNS ]
+about/IN 
+[ the/DT cushioning/VBG ability/NN ]
+of/IN 
+[ an/DT important/JJ shock/NN absorber/NN ]
+:/: 
+[ the/DT businesses/NNS ]
+
+[ that/WDT ]
+provide/VBP 
+[ services/NNS ]
+./. 
+
+======================================
+
+[ Most/JJS analysts/NNS ]
+continue/VBP to/TO hold/VB 
+[ the/DT traditional/JJ view/NN ]
+that/IN 
+[ the/DT economy/NN 's/POS growing/VBG service/NN sector/NN ]
+will/MD tend/VB ,/, as/IN in/IN 
+[ the/DT past/NN ]
+,/, to/TO soften/VB 
+[ the/DT impact/NN ]
+of/IN 
+[ any/DT new/JJ business/NN downturn/NN ]
+./. 
+
+``/`` 
+[ Service/NN enterprises/NNS ]
+are/VBP apt/JJ to/TO be/VB more/RBR stable/JJ over/IN 
+[ the/DT course/NN ]
+of/IN 
+[ the/DT business/NN cycle/NN ]
+,/, and/CC 
+[ this/DT ]
+should/MD help/VB reduce/VB 
+[ the/DT depth/NN ]
+and/CC 
+[ length/NN ]
+of/IN 
+[ future/JJ recessions/NNS ]
+,/, ''/'' declares/VBZ 
+[ Geoffrey/NNP H./NNP Moore/NNP ]
+,/, 
+[ director/NN ]
+of/IN 
+[ Columbia/NNP University/NNP 's/POS Center/NNP ]
+for/IN 
+[ International/NNP Business/NNP Cycle/NNP Research/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ some/DT economists/NNS ]
+are/VBP becoming/VBG 
+[ less/RBR sanguine/JJ ]
+about/IN 
+[ service/NN firms/NNS ]
+as/IN 
+[ a/DT recessionary/JJ buffer/NN ]
+./. 
+
+======================================
+
+While/IN ``/`` 
+[ service/NN companies/NNS ]
+still/RB tend/VBP to/TO be/VB more/RBR resistant/JJ to/TO 
+[ recessions/NNS ]
+than/IN 
+[ businesses/NNS ]
+generally/RB ,/, 
+[ some/DT services/NNS ]
+are/VBP growing/VBG more/RBR cyclical/JJ than/IN 
+[ they/PRP ]
+used/VBD to/TO be/VB ,/, ''/'' remarks/VBZ 
+[ Steven/NNP R./NNP Malin/NNP ]
+,/, 
+[ an/DT economist/NN ]
+at/IN 
+[ the/DT Conference/NNP Board/NNP ]
+,/, 
+[ a/DT non-profit/JJ research/NN group/NN ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+``/`` 
+[ People/NNS ]
+
+[ who/WP ]
+advertise/VBP do/VBP n't/RB try/VB to/TO spit/VB into/IN 
+[ the/DT wind/NN ]
+;/: when/WRB 
+[ sales/NNS ]
+are/VBP soft/JJ ,/, 
+[ they/PRP ]
+cut/VBP 
+[ ad/NN budgets/NNS ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` As/IN 
+[ ad/NN firms/NNS ]
+grow/VBP ,/, 
+[ they/PRP ]
+'re/VBP more/RBR affected/VBN by/IN 
+[ the/DT cyclicality/NN ]
+of/IN 
+[ ad/NN buying/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ He/PRP ]
+adds/VBZ :/: ``/`` 
+[ Any/DT firms/NNS ]
+
+[ that/WDT ]
+have/VBP become/VBN 
+[ more/JJR capital/NN intensive/NN ]
+--/: 
+[ securities/NNS firms/NNS ]
+and/CC 
+[ real-estate/JJ companies/NNS ]
+are/VBP 
+[ examples/NNS ]
+--/: have/VBP also/RB become/VBN more/RBR cyclical/JJ ./. 
+
+''/'' 
+======================================
+
+[ The/DT tendency/NN ]
+of/IN 
+[ service/NN businesses/NNS ]
+--/: at/IN 
+[ least/JJS ]
+so/RB far/RB --/: to/TO be/VB less/RBR vulnerable/JJ in/IN 
+[ recessions/NNS ]
+reflects/VBZ partly/RB their/PRP$ not/RB having/VBG to/TO cope/VB with/IN 
+[ the/DT inventory/NN pileups/NNS ]
+
+[ that/WDT ]
+typically/RB plague/VBP manufacturing/NN 
+[ firms/NNS ]
+./. 
+
+[ Service/NN expenses/NNS ]
+such/JJ as/IN 
+[ health/NN care/NN ]
+and/CC 
+[ shelter/NN ]
+also/RB are/VBP less/RBR easily/RB postponed/VBN when/WRB 
+[ the/DT economy/NN turns/VBZ ]
+sour/JJ than/IN ,/, say/VB ,/, buying/VBG 
+[ a/DT new/JJ car/NN ]
+or/CC 
+[ television/NN set/NN ]
+./. 
+
+[ Service/NN jobs/NNS ]
+,/, moreover/RB ,/, are/VBP often/RB hard/JJ to/TO eliminate/VB ;/: even/RB in/IN 
+[ a/DT recession/NN ]
+,/, 
+[ a/DT pair/NN ]
+of/IN 
+[ scissors/NNS ]
+needs/VBZ 
+[ a/DT barber/NN ]
+./. 
+
+======================================
+
+[ Such/JJ factors/NNS ]
+have/VBP clearly/RB served/VBN to/TO cushion/VB 
+[ recent/JJ recessions/NNS ]
+./. 
+
+[ Jobs/NNS ]
+in/IN 
+[ service/NN businesses/NNS ]
+,/, in/IN 
+[ sharp/JJ contrast/NN ]
+to/TO 
+[ jobs/NNS ]
+in/IN 
+[ general/JJ ]
+,/, increased/VBD in/IN 
+[ every/DT recession/NN ]
+of/IN 
+[ the/DT past/JJ two/CD decades/NNS ]
+./. 
+
+Over/IN 
+[ the/DT course/NN ]
+of/IN 
+[ the/DT latest/JJS recession/NN ]
+of/IN 
+[ 1981-82/CD ]
+,/, 
+[ service-industry/JJ employment/NN ]
+rose/VBD about/RB 
+[ 200,000/CD ]
+,/, against/IN 
+[ a/DT 2.7/CD million/CD drop/NN ]
+in/IN 
+[ goods-producing/JJ jobs/NNS ]
+;/: even/RB so/RB ,/, 
+[ overall/JJ unemployment/NN ]
+soared/VBD to/TO nearly/RB 
+[ 11/CD %/NN ]
+from/IN about/RB 
+[ 7/CD %/NN ]
+./. 
+
+======================================
+
+[ Analysts/NNS ]
+
+[ who/WP ]
+fear/VBP that/IN 
+[ such/JJ a/DT cushioning/NN ]
+may/MD not/RB materialize/VB in/IN 
+[ any/DT new/JJ economic/JJ downturn/NN note/VBP ]
+that/IN 
+[ many/JJ service/NN firms/NNS ]
+,/, like/IN manufacturing/NN 
+[ companies/NNS ]
+,/, have/VBP struggled/VBN to/TO improve/VB 
+[ efficiency/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+./. 
+
+In/IN 
+[ the/DT process/NN ]
+,/, 
+[ some/DT service/NN jobs/NNS ]
+once/RB deemed/VBN 
+[ essential/JJ ]
+are/VBP no/RB longer/JJR so/RB ./. 
+
+[ Examples/NNS ]
+range/VBP from/IN 
+[ computer-operated/JJ trains/NNS ]
+at/IN 
+[ major/JJ airports/NNS ]
+
+[ that/WDT ]
+can/MD run/VB without/IN 
+[ an/DT engineer/NN ]
+to/TO 
+[ home/NN facsimile/NN machines/NNS ]
+
+[ that/WDT ]
+can/MD do/VB 
+[ the/DT work/NN ]
+of/IN 
+[ messengers/NNS ]
+and/CC 
+[ mail/NN deliverers/NNS ]
+./. 
+
+======================================
+
+Looking/VBG ahead/RB ,/, 
+[ Mr./NNP Malin/NNP ]
+of/IN 
+[ the/DT Conference/NNP Board/NNP ticks/VBZ ]
+off/RP 
+[ several/JJ service/NN occupations/NNS ]
+that/IN 
+[ he/PRP ]
+believes/VBZ may/MD eventually/RB be/VB wiped/VBN out/RP ./. 
+
+On/IN 
+[ his/PRP$ list/NN ]
+are/VBP 
+[ librarians/NNS ]
+and/CC 
+[ middle-management/JJ secretaries/NNS ]
+,/, 
+[ whose/WP$ work/NN ]
+can/MD be/VB done/VBN by/IN 
+[ computers/NNS ]
+;/: 
+[ dentists/NNS ]
+
+[ who/WP ]
+specialize/VBP in/IN 
+[ cavities/NNS ]
+,/, for/IN 
+[ which/WDT preventatives/NNS ]
+now/RB exist/VBP ;/: and/CC 
+[ keyboard/NN operators/NNS ]
+,/, 
+[ whose/WP$ work/NN ]
+can/MD be/VB done/VBN by/IN 
+[ optical-scanning/JJ devices/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+gave/VBD up/RP 
+[ my/PRP$ own/JJ secretary/NN ]
+,/, ''/'' 
+[ the/DT economist/NN ]
+says/VBZ ,/, ``/`` when/WRB 
+[ my/PRP$ computer/NN ]
+took/VBD over/RP 
+[ such/JJ chores/NNS ]
+as/IN putting/VBG 
+[ mailing/NN labels/NNS ]
+on/IN 
+[ my/PRP$ correspondence/NN ]
+./. 
+
+''/'' 
+[ Computers/NNS ]
+,/, 
+[ he/PRP ]
+adds/VBZ ,/, enabled/VBD 
+[ the/DT Conference/NNP Board/NNP ]
+recently/RB ``/`` to/TO cut/VB 
+[ our/PRP$ chart-room/JJ staff/NN ]
+to/TO only/RB 
+[ four/CD people/NNS ]
+from/IN about/RB 
+[ 15/CD ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT fortunes/NNS ]
+of/IN 
+[ many/JJ service/NN companies/NNS ]
+,/, in/IN 
+[ addition/NN ]
+,/, have/VBP grown/VBN increasingly/RB entwined/VBN with/IN 
+[ those/DT ]
+of/IN manufacturing/NN 
+[ concerns/NNS ]
+,/, 
+[ which/WDT recessions/NNS ]
+normally/RB hit/VBP hardest/RBS ./. 
+
+Behind/IN 
+[ this/DT ]
+is/VBZ 
+[ a/DT push/NN ]
+by/IN 
+[ manufacturers/NNS ]
+to/TO focus/VB more/RBR on/IN 
+[ actual/JJ production/NN ]
+and/CC to/TO farm/VB out/RP 
+[ service-type/JJ chores/NNS ]
+to/TO 
+[ service/NN companies/NNS ]
+./. 
+
+======================================
+
+``/`` If/IN 
+[ an/DT auto/NN maker/NN ]
+lays/VBZ off/RP 
+[ 5/CD %/NN ]
+of/IN 
+[ its/PRP$ work/NN force/NN ]
+,/, 
+[ we/PRP ]
+have/VBP to/TO flex/VB downward/RB too/RB ,/, though/IN not/RB quite/RB as/RB sharply/RB since/IN 
+[ we/PRP ]
+have/VBP 
+[ equipment/NN ]
+
+[ that/WDT ]
+must/MD go/VB on/RP being/VBG serviced/VBN ,/, even/RB if/IN 
+[ it/PRP ]
+is/VBZ n't/RB handling/VBG quite/RB as/IN 
+[ many/JJ people/NNS ]
+,/, ''/'' reports/VBZ 
+[ Joseph/NNP Neubauer/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ Philadelphia-based/JJ ARA/NNP Holding/NNP Co/NNP ]
+./. 
+
+======================================
+
+[ ARA/NNP ]
+,/, 
+[ which/WDT ]
+employs/VBZ 
+[ 120,000/CD ]
+,/, provides/VBZ 
+[ such/JJ services/NNS ]
+as/IN 
+[ laundry/NN work/NN ]
+,/, 
+[ food/NN supply/NN ]
+and/CC 
+[ health/NN ]
+and/CC 
+[ child/NN care/NN ]
+to/TO 
+[ scores/NNS ]
+of/IN 
+[ companies/NNS ]
+./. 
+
+With/IN 
+[ annual/JJ sales/NNS ]
+of/IN about/RB 
+[ $/$ 4/CD billion/CD ]
+,/, 
+[ the/DT firm/NN ]
+has/VBZ ``/`` greatly/RB benefited/VBN from/IN 
+[ more/JJR ]
+and/CC 
+[ more/JJR manufacturers/NNS ]
+farming/VBG out/RP servicing/NN 
+[ responsibilities/NNS ]
+,/, 
+[ which/WDT ]
+
+[ we/PRP ]
+can/MD do/VB more/RBR efficiently/RB because/IN 
+[ it/PRP ]
+'s/VBZ 
+[ our/PRP$ specialty/NN ]
+,/, ''/'' 
+[ Mr./NNP Neubauer/NNP ]
+says/VBZ ./. 
+
+======================================
+
+[ Eastman/NNP Kodak/NNP Co./NNP ]
+recently/RB farmed/VBD out/RP 
+[ its/PRP$ personal-computer/JJ operations/NNS ]
+to/TO 
+[ a/DT service/NN concern/NN ]
+,/, 
+[ Businessland/NNP Inc/NNP ]
+./. 
+
+[ Kodak/NNP ]
+is/VBZ in/IN 
+[ the/DT photographic-products/JJ business/NN ]
+,/, 
+[ a/DT company/NN official/NN ]
+says/VBZ ,/, not/RB 
+[ the/DT computer/NN business/NN ]
+./. 
+
+======================================
+
+[ Service/NN companies/NNS ]
+,/, more/RBR so/RB than/IN 
+[ corporations/NNS ]
+in/IN 
+[ general/JJ ]
+,/, have/VBP gone/VBN deeply/RB into/IN 
+[ debt/NN ]
+in/IN 
+[ recent/JJ years/NNS ]
+,/, and/CC 
+[ this/DT ]
+also/RB renders/VBZ 
+[ them/PRP ]
+more/RBR vulnerable/JJ in/IN 
+[ any/DT new/JJ recession/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ 1979/CD ]
+,/, when/WRB as/RB now/RB 
+[ the/DT economy/NN ]
+had/VBD been/VBN expanding/VBG for/IN 
+[ years/NNS ]
+,/, 
+[ the/DT total/JJ debt/NN ]
+of/IN 
+[ service/NN companies/NNS ]
+amounted/VBD to/TO 
+[ 20/CD %/NN ]
+of/IN 
+[ their/PRP$ combined/VBN assets/NNS ]
+,/, while/IN 
+[ the/DT corresponding/JJ debt-to-assets/JJ rate/NN ]
+for/IN 
+[ corporations/NNS ]
+generally/RB was/VBD nearly/RB 
+[ 22/CD %/NN ]
+./. 
+
+But/CC by/IN 
+[ 1987/CD ]
+,/, 
+[ the/DT latest/JJS year/NN available/JJ ]
+,/, 
+[ the/DT ratio/NN ]
+for/IN 
+[ services/NNS ]
+was/VBD almost/RB 
+[ 30/CD %/NN ]
+,/, while/IN 
+[ the/DT rate/NN ]
+for/IN 
+[ all/DT corporations/NNS ]
+was/VBD still/RB near/IN 
+[ 22/CD %/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ the/DT same/JJ period/NN ]
+,/, 
+[ the/DT so-called/JJ coverage/NN ratio/NN ]
+of/IN 
+[ service/NN businesses/NNS ]
+--/: 
+[ their/PRP$ cash/NN flow/NN ]
+divided/VBN by/IN 
+[ their/PRP$ interest/NN payments/NNS ]
+--/: fell/VBD to/TO 
+[ 2.3-to-1/JJ ]
+from/IN 
+[ 4.5-to-1/JJ ]
+./. 
+
+[ The/DT coverage/NN ratio/NN ]
+for/IN 
+[ corporations/NNS ]
+as/IN 
+[ a/DT whole/NN ]
+also/RB declined/VBD ,/, but/CC not/RB as/RB sharply/RB --/: to/TO 
+[ 3.1-to-1/JJ ]
+from/IN 
+[ 5.4-to-1/JJ ]
+./. 
+
+``/`` 
+[ The/DT severe/JJ deterioration/NN ]
+of/IN 
+[ the/DT service/NN sector/NN 's/POS financial/JJ health/NN ]
+leaves/VBZ 
+[ it/PRP ]
+more/RBR vulnerable/JJ than/IN in/IN 
+[ the/DT past/NN ]
+in/IN 
+[ the/DT event/NN ]
+of/IN 
+[ a/DT recession/NN ]
+,/, ''/'' says/VBZ 
+[ Richard/NNP W./NNP Kopcke/NNP ]
+,/, 
+[ an/DT economist/NN ]
+at/IN 
+[ the/DT Boston/NNP Federal/NNP Reserve/NNP Bank/NNP ]
+./. 
+
+[ He/PRP ]
+attributes/VBZ 
+[ this/DT balance-sheet/JJ decline/NN ]
+to/TO ``/`` 
+[ extensive/JJ ]
+,/, highly/RB 
+[ leveraged/VBN takeover/NN activity/NN ]
+in/IN 
+[ such/JJ service/NN industries/NNS ]
+as/IN 
+[ retailing/NN ]
+and/CC 
+[ airlines/NNS ]
+,/, ''/'' as/RB well/RB as/IN 
+[ a/DT ]
+``/`` 
+[ thirst/NN ]
+for/IN 
+[ capital/NN ]
+to/TO expand/VB ''/'' at/IN 
+[ many/JJ fledgling/NN ]
+but/CC 
+[ fast-growing/JJ service/NN businesses/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Kopcke/NNP ]
+also/RB questions/VBZ 
+[ the/DT view/NN ]
+that/IN in/IN 
+[ a/DT new/JJ recession/NN ]
+spending/NN on/IN 
+[ services/NNS ]
+would/MD hold/VB up/RP significantly/RB better/JJR than/IN spending/NN on/IN 
+[ manufactured/VBN goods/NNS ]
+./. 
+
+[ He/PRP ]
+cites/VBZ 
+[ such/JJ service/NN activities/NNS ]
+as/IN 
+[ vacation/NN travel/NN ]
+and/CC eating/NN at/IN 
+[ restaurants/NNS ]
+as/IN ``/`` highly/RB 
+[ postponable/JJ items/NNS ]
+''/'' if/IN 
+[ the/DT economy/NN slumps/VBZ ]
+./. 
+
+======================================
+
+For/IN 
+[ all/DT ]
+of/IN 
+[ this/DT ]
+,/, 
+[ most/JJS economists/NNS ]
+continue/VBP to/TO regard/VB 
+[ the/DT service/NN sector/NN ]
+,/, on/IN 
+[ balance/NN ]
+,/, as/IN 
+[ a/DT large/JJ cushion/NN ]
+in/IN 
+[ the/DT event/NN ]
+
+[ the/DT economy/NN ]
+finally/RB turns/VBZ down/RP in/IN coming/VBG 
+[ months/NNS ]
+./. 
+
+======================================
+
+``/`` Even/RB with/IN 
+[ the/DT elimination/NN ]
+of/IN 
+[ many/JJ service/NN jobs/NNS ]
+,/, 
+[ overall/JJ employment/NN ]
+in/IN 
+[ services/NNS ]
+will/MD keep/VB rising/VBG in/IN 
+[ the/DT next/JJ recession/NN ]
+simply/RB because/IN of/IN 
+[ the/DT sector/NN 's/POS explosive/JJ growth/NN ]
+,/, ''/'' predicts/VBZ 
+[ Scott/NNP D./NNP Aguais/NNP ]
+,/, 
+[ an/DT economist/NN ]
+for/IN 
+[ DRI/NNP McGraw-Hill/NNP ]
+./. 
+
+[ He/PRP ]
+estimates/VBZ that/IN 
+[ the/DT sector/NN 's/POS share/NN ]
+of/IN 
+[ total/JJ private/JJ employment/NN ]
+,/, now/RB about/RB 
+[ 64/CD %/NN ]
+,/, will/MD reach/VB 
+[ 67/CD %/NN ]
+within/IN 
+[ four/CD years/NNS ]
+./. 
+
+[ He/PRP ]
+also/RB reckons/VBZ that/IN 
+[ service/NN productivity/NN gains/NNS ]
+,/, 
+[ negligible/JJ ]
+of/IN late/RB ,/, will/MD ``/`` speed/VB up/RP appreciably/RB and/CC 
+[ this/DT ]
+should/MD help/VB 
+[ limit/VB inflation/NN ]
+''/'' in/IN 
+[ the/DT service/NN sector/NN ]
+./. 
+
+======================================
+
+[ The/DT importance/NN ]
+of/IN 
+[ the/DT service/NN sector/NN ]
+to/TO 
+[ the/DT economy/NN 's/POS continuing/VBG growth/NN ]
+can/MD be/VB seen/VBN in/IN 
+[ a/DT recent/JJ economic/JJ forecast/NN ]
+by/IN 
+[ Morgan/NNP Stanley/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+[ It/PRP ]
+projects/VBZ 
+[ a/DT rise/NN ]
+of/IN 
+[ 2.4/CD %/NN ]
+annually/RB in/IN 
+[ consumer/NN spending/NN ]
+,/, adjusted/VBN for/IN 
+[ inflation/NN ]
+,/, in/IN 
+[ the/DT final/JJ three/CD months/NNS ]
+
+[ this/DT year/NN ]
+./. 
+
+But/CC within/IN 
+[ that/DT total/NN ]
+is/VBZ 
+[ a/DT 1/CD %/NN drop/NN ]
+in/IN spending/NN for/IN 
+[ durable/JJ goods/NNS ]
+,/, offset/VBN by/IN 
+[ a/DT healthy/JJ 3.5/CD %/NN gain/NN ]
+in/IN 
+[ outlays/NNS ]
+for/IN 
+[ services/NNS ]
+,/, as/RB well/RB as/IN 
+[ a/DT lesser/JJR increase/NN ]
+in/IN spending/NN for/IN 
+[ nondurable/JJ items/NNS ]
+such/JJ as/IN 
+[ food/NN ]
+and/CC 
+[ clothing/NN ]
+./. 
+
+======================================
+
+Change/NN in/IN 
+[ employment/NN levels/NNS ]
+during/IN 
+[ periods/NNS ]
+of/IN 
+[ recession/NN ]
+;/: in/IN 
+[ millions/NNS ]
+of/IN 
+[ jobs/NNS ]
+at/IN 
+[ Columbia/NNP ]

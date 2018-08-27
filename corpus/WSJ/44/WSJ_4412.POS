@@ -1,0 +1,601 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Friday/NNP ]
+,/, 
+[ Sept./NNP 29/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ NBC/NNP ]
+:/: ``/`` 
+[ Prime/JJ Target/NN ]
+./. 
+
+''/'' 
+[ Angie/NNP Dickinson/NNP fans/NNS ]
+searching/VBG 
+[ the/DT dial/NN ]
+for/IN ``/`` 
+[ Police/NNP Woman/NNP ]
+''/'' 
+[ reruns/NNS ]
+will/MD welcome/VB 
+[ this/DT TV/NN movie/NN ]
+with/IN 
+[ Ms./NNP Dickinson/NNP ]
+playing/VBG 
+[ a/DT tough/JJ lady/NN cop/NN ]
+besieged/VBN by/IN 
+[ killers/NNS ]
+./. 
+
+Also/RB starring/VBG 
+[ Charles/NNP Durning/NNP ]
+and/CC 
+[ David/NNP Soul/NNP ]
+./. 
+
+======================================
+
+[ Sunday-Tuesday/NNP ]
+,/, 
+[ Oct./NNP 1-3/CD ]
+,/, 
+[ 8-10/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ TNT/NNP ]
+ (/( repeated/VBN on/IN 
+[ same/JJ night/NN ]
+,/, 
+[ 10-midnight/RB EDT/NNP ]
+ )/) :/: ``/`` 
+[ Captain/NNP Cook/NNP ]
+./. 
+
+''/'' 
+[ This/DT 18th-century/JJ explorer/NN ]
+was/VBD so/RB smart/JJ 
+[ he/PRP ]
+even/RB figured/VBD out/RP 
+[ the/DT cure/NN ]
+for/IN 
+[ scurvy/NN ]
+./. 
+
+[ His/PRP$ remarkable/JJ adventures/NNS ]
+are/VBP skillfully/RB told/VBN in/IN 
+[ this/DT Turner/NNP cable/NN network/NN production/NN ]
+./. 
+
+======================================
+
+[ Sunday/NNP ]
+,/, 
+[ Oct./NNP 1/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ CBS/NNP ]
+:/: ``/`` 
+[ Night/NN Walk/NN ]
+./. 
+
+''/'' 
+[ Another/DT besieged/JJ lady/NN ]
+ (/( 
+[ Lesley-Anne/NNP ]
+Down/NNP )/) gets/VBZ rescued/VBN by/IN 
+[ a/DT gentleman/NN cop/NN ]
+ (/( 
+[ Robert/NNP Urich/NNP ]
+ )/) ./. 
+
+======================================
+
+[ Sunday/NNP ]
+,/, 
+[ Oct./NNP 1/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ NBC/NNP ]
+:/: ``/`` 
+[ Sweet/JJ Bird/NN ]
+of/IN 
+[ Youth/NN ]
+./. 
+
+''/'' Especially/RB besieged/JJ is/VBZ 
+[ the/DT lady/NN ]
+ (/( 
+[ Elizabeth/NNP Taylor/NNP ]
+ )/) in/IN 
+[ this/DT new/JJ film/NN version/NN ]
+of/IN 
+[ Tennessee/NNP Williams/NNP 's/POS famous/JJ play/NN ]
+--/: only/RB 
+[ her/PRP$ pursuers/NNS ]
+are/VBP 
+[ age/NN ]
+,/, 
+[ drugs/NNS ]
+,/, 
+[ vanity/NN ]
+and/CC 
+[ an/DT unscrupulous/JJ gigolo/NN ]
+ (/( 
+[ Mark/NNP Harmon/NNP ]
+ )/) ./. 
+
+======================================
+
+[ Sundays/NNP ]
+,/, 
+[ Oct./NNP 1-29/CD ]
+,/, 
+[ 10-11/CD p.m./RB EDT/NNP ]
+ (/( and/CC 
+[ EST/NNP ]
+ )/) ,/, on/IN 
+[ the/DT Discovery/NNP Channel/NNP ]
+ (/( repeated/VBN at/IN 
+[ 2/CD a.m./RB ]
+and/CC on/IN 
+[ subsequent/JJ Saturdays/NNS ]
+at/IN 
+[ 2/CD p.m./RB ]
+ )/) :/: ``/`` 
+[ The/DT Great/JJ Wall/NN ]
+of/IN 
+[ Iron/NN ]
+./. 
+
+''/'' From/IN 
+[ an/DT Australian-Chinese/JJ film/NN crew/NN ]
+,/, 
+[ a/DT detailed/JJ look/NN ]
+at/IN 
+[ the/DT history/NN ]
+,/, 
+[ training/NN ]
+and/CC 
+[ world-view/NN ]
+of/IN 
+[ China/NNP 's/POS People/NNP 's/POS Liberation/NNP Army/NNP ]
+./. 
+
+======================================
+
+[ Mondays/NNPS ]
+,/, 
+[ Oct./NNP 2-Dec./NNP 18/CD ]
+,/, 
+[ 8-9/CD p.m./RB EDT/NNP ]
+ (/( and/CC 
+[ EST/NNP ]
+ )/) ,/, on/IN 
+[ PBS/NNP ]
+ (/( 
+[ PBS/NNP air/NN dates/NNS ]
+and/CC 
+[ times/NNS ]
+vary/VBP ,/, so/RB check/VB 
+[ local/JJ listings/NNS ]
+ )/) :/: ``/`` 
+[ Travels/NNP ]
+./. 
+
+''/'' Take/VB 
+[ a/DT mailboat/NN ]
+to/TO 
+[ Tristan/NNP da/NNP Cunha/NNP ]
+,/, 
+[ a/DT Greyhound/NNP ]
+through/IN 
+[ the/DT American/NNP Midwest/NNP ]
+,/, 
+[ a/DT barge/NN ]
+through/IN 
+[ Europe/NNP ]
+,/, 
+[ a/DT dhow/NN ]
+to/TO 
+[ East/NNP Africa/NNP ]
+./. 
+
+======================================
+
+[ Mondays/NNPS ]
+,/, 
+[ Oct./NNP 2-16/CD ]
+,/, 
+[ 8-9/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ A&E/NNP ]
+ (/( repeated/VBN on/IN 
+[ subsequent/JJ Sundays/NNPS ]
+ )/) :/: ``/`` 
+[ Yellow/JJ River/NN ]
+./. 
+
+''/'' 
+[ This/DT three-part/JJ documentary/NN ]
+about/IN 
+[ life/NN ]
+along/IN 
+[ that/DT great/JJ river/NN ]
+is/VBZ 
+[ a/DT Japanese\/Chinese/JJ co-production/NN ]
+./. 
+
+[ It/PRP ]
+kicks/VBZ off/RP 
+[ A&E/NNP 's/POS monthlong/JJ focus/NN ]
+on/IN 
+[ China/NNP ]
+./. 
+
+See/VB also/RB ``/`` 
+[ Red/JJ Dynasty/NN ]
+,/, ''/'' 
+[ a/DT three-part/JJ A&E/NNP ]
+ 
+[ //JJ  BBC/NNP film/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ live/JJ coverage/NN ]
+of/IN 
+[ the/DT events/NNS ]
+in/IN 
+[ Tiananmen/NNP Square/NNP ]
+ (/( 
+[ Mondays/NNP ]
+,/, 
+[ Oct./NNP 2-16/CD ]
+,/, 
+[ 9-10/CD p.m./RB ]
+,/, 
+[ 1/CD a.m./RB ]
+and/CC 
+[ subsequent/JJ Sundays/NNPS ]
+ )/) ;/: 
+[ the/DT Chinese/JJ feature/NN film/NN ]
+,/, ``/`` 
+[ Yellow/NNP Earth/NNP ]
+''/'' (/( 
+[ Tuesday/NNP ]
+,/, 
+[ Oct./NNP 3/CD ]
+,/, 
+[ 9-11/CD p.m./RB ]
+and/CC 
+[ 1-2/CD a.m./RB ]
+;/: and/CC 
+[ Oct./NNP 8/CD ]
+,/, 
+[ EDT/NNP ]
+ )/) ;/: and/CC 
+[ a/DT smug/JJ Chinese/JJ documentary/NN ]
+,/, ``/`` 
+[ One/CD Village/NN ]
+in/IN 
+[ China/NNP ]
+''/'' (/( 
+[ Fridays/NNPS ]
+,/, 
+[ Oct./NNP 6-20/CD ]
+,/, 
+[ 8-9/CD p.m./RB ]
+and/CC 
+[ midnight/NN ]
+ )/) ./. 
+
+======================================
+
+[ Monday/NNP ]
+,/, 
+[ Oct./NNP 2/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ NBC/NNP ]
+:/: ``/`` 
+[ The/DT Tracey/NNP Thurman/NNP Story/NN ]
+./. 
+
+''/'' 
+[ This/DT lady/NN ]
+ (/( 
+[ Nancy/NNP McKeon/NNP ]
+ )/) is/VBZ besieged/VBN by/IN 
+[ her/PRP$ abusive/JJ husband/NN ]
+--/: and/CC 
+[ the/DT cops/NNS ]
+refuse/VBP to/TO help/VB ./. 
+
+After/IN 
+[ he/PRP ]
+nearly/RB kills/VBZ 
+[ her/PRP ]
+,/, 
+[ she/PRP ]
+sues/VBZ 
+[ the/DT police/NN department/NN ]
+./. 
+
+Based/VBN on/IN 
+[ a/DT recent/JJ domestic/JJ violence/NN case/NN ]
+in/IN 
+[ Torrington/NNP ]
+,/, 
+[ Conn/NNP ]
+./. 
+
+======================================
+
+[ Mondays/NNPS ]
+,/, 
+[ Oct./NNP 2-Nov./NNP 27/CD ]
+,/, 
+[ 9-10/CD p.m./RB EDT/NNP ]
+ (/( and/CC 
+[ EST/NNP ]
+ )/) ,/, on/IN 
+[ PBS/NNP ]
+:/: ``/`` 
+[ Art/NN ]
+of/IN 
+[ the/DT Western/NNP World/NNP ]
+./. 
+
+''/'' 
+[ This/DT handsome/JJ series/NN ]
+makes/VBZ 
+[ maximum/JJ use/NN ]
+of/IN 
+[ the/DT camera/NN 's/POS power/NN ]
+and/CC 
+[ mobility/NN ]
+to/TO introduce/VB 
+[ viewers/NNS ]
+to/TO 
+[ the/DT history/NN ]
+of/IN 
+[ art/NN ]
+from/IN 
+[ the/DT ancient/JJ Greeks/NNPS ]
+to/TO 
+[ the/DT So-Ho/NNP geeks/NNS ]
+./. 
+
+More/JJR in/IN 
+[ Monday/NNP 's/POS column/NN ]
+./. 
+
+======================================
+
+[ Tuesday/NNP ]
+,/, 
+[ Oct./NNP 3/CD ]
+,/, 
+[ 8-9/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ PBS/NNP ]
+:/: ``/`` 
+[ The/DT Hidden/JJ City/NN ]
+./. 
+
+''/'' 
+[ Attention/NN ]
+,/, ``/`` 
+[ Beauty/NNP ]
+and/CC 
+[ the/DT Beast/NNP ]
+''/'' 
+[ fans/NNS ]
+./. 
+
+``/`` 
+[ NOVA/NNP ]
+''/'' begins/VBZ 
+[ its/PRP$ new/JJ season/NN ]
+with/IN 
+[ a/DT look/NN ]
+at/IN 
+[ what/WP ]
+'s/VBZ really/RB underneath/IN 
+[ the/DT streets/NNS ]
+of/IN 
+[ New/NNP York/NNP ]
+--/: 
+[ a/DT magic/JJ kingdom/NN ]
+ruled/VBN by/IN 
+[ four/CD gnomes/NNS ]
+:/: 
+[ Power/NNP ]
+,/, 
+[ Water/NNP ]
+,/, 
+[ Sewage/NNP ]
+and/CC 
+[ Trash/NNP ]
+./. 
+
+======================================
+
+[ Tuesdays/NNPS ]
+,/, 
+[ Oct./NNP 3-Jan./NNP 16/CD ]
+,/, 
+[ 9-10/CD p.m./RB EDT/NNP ]
+ (/( and/CC 
+[ EST/NNP ]
+ )/) ,/, on/IN 
+[ PBS/NNP ]
+:/: ``/`` 
+[ The/DT American/NNP Experience/NNP ]
+./. 
+
+''/'' 
+[ Last/JJ year/NN ]
+brought/VBD 
+[ the/DT first/JJ season/NN ]
+of/IN 
+[ this/DT scattershot/JJ series/NN ]
+on/IN 
+[ American/JJ history/NN ]
+,/, and/CC 
+[ it/PRP ]
+appears/VBZ that/IN 
+[ this/DT year/NN 's/POS lineup/NN ]
+is/VBZ going/VBG to/TO be/VB similarly/RB uneven/JJ ./. 
+
+======================================
+
+[ Wednesday/NNP ]
+,/, 
+[ Oct./NNP 4/CD ]
+,/, 
+[ 10-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ PBS/NNP ]
+:/: ``/`` 
+[ Ca/MD n't/RB Afford/VB ]
+to/TO 
+[ Grow/VB Old/JJ ]
+./. 
+
+''/'' 
+[ Walter/NNP Cronkite/NNP ]
+hosts/VBZ 
+[ a/DT film/NN exploration/NN ]
+of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT problems/NNS ]
+--/: and/CC 
+[ possible/JJ solutions/NNS ]
+--/: facing/VBG 
+[ the/DT nation/NN ]
+as/IN 
+[ the/DT elderly/JJ population/NN ]
+continues/VBZ to/TO grow/VB ./. 
+
+======================================
+
+[ Sunday/NNP ]
+,/, 
+[ Oct./NNP 8/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ ABC/NNP ]
+:/: ``/`` 
+[ I/PRP Love/VBP You/PRP ]
+
+[ Perfect/JJ ]
+./. 
+
+''/'' 
+[ I/PRP ]
+hate/VBP to/TO say/VB 
+[ it/PRP ]
+ (/( really/RB )/) ,/, but/CC 
+[ this/DT movie/NN ]
+tells/VBZ 
+[ the/DT sad/JJ tale/NN ]
+of/IN yet/RB 
+[ another/DT besieged/JJ lady/NN ]
+./. 
+
+[ Susan/NNP Dey/NNP ]
+ (/( 
+[ ``/`` L.A/NNP ]
+./.  
+
+[ Law/NNP ]
+''/'' )/) plays/VBZ 
+[ a/DT woman/NN ]
+simultaneously/RB harmed/VBN by/IN 
+[ medical/JJ malpractice/NN ]
+and/CC redeemed/VBN by/IN 
+[ love/NN ]
+./. 
+
+======================================
+
+[ Monday/NNP ]
+,/, 
+[ Oct./NNP 9/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ NBC/NNP ]
+:/: ``/`` 
+[ Dream/NN Date/NN ]
+./. 
+
+''/'' Cheer/VB up/RP --/: 
+[ this/DT one/CD ]
+'s/VBZ about/IN 
+[ a/DT besieged/JJ teen-ager/NN ]
+ (/( 
+[ Tempesst/NNP Bledsoe/NNP ]
+of/IN ``/`` 
+[ The/DT Cosby/NNP Show/NNP ]
+''/'' )/) 
+[ whose/WP$ father/NN ]
+ (/( 
+[ Clifton/NNP Davis/NNP ]
+of/IN ``/`` Amen/NNP ''/'' )/) finds/VBZ 
+[ it/PRP ]
+impossible/JJ to/TO stop/VB worrying/VBG about/IN 
+[ her/PRP ]
+when/WRB 
+[ she/PRP ]
+
+[ sallies/NNS ]
+forth/RB on/IN 
+[ her/PRP$ first/JJ date/NN ]
+./. 
+
+======================================
+
+[ Monday/NNP ]
+,/, 
+[ Oct./NNP 9/CD ]
+,/, 
+[ 9-11/CD p.m./RB EDT/NNP ]
+,/, on/IN 
+[ CBS/NNP ]
+:/: ``/`` 
+[ The/DT 23d/NNP Annual/NNP Country/NNP Music/NNP Awards/NNP ]
+./. 
+
+''/'' 
+[ Anne/NNP Murray/NNP ]
+and/CC 
+[ Kenny/NNP Rogers/NNP co-host/VBP ]
+
+[ this/DT year/NN ]
+'s/POS guitar-twanging/JJ ,/, 
+[ boot-stomping/JJ ]
+,/, 
+[ heartstring-plucking/JJ festivities/NNS ]
+./. 

@@ -1,0 +1,64 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Money/NNP Market/NNP Deposits-a/NNP 6.24/CD %/NN ]
+
+======================================
+
+[ Super-NOW/NNP Accounts-a/NNP 5.04/CD %/NN ]
+
+======================================
+
+[ Six-month/NNP Certificates-a/NNP 8.03/CD %/NN ]
+
+======================================
+
+[ One-year/NNP Certificates-a/NNP 8.06/CD %/NN ]
+
+======================================
+
+[ Thirty-month/NNP Accounts-a/NNP 7.99/CD %/NN ]
+
+======================================
+
+[ Five-Year/NNP Certificates-a/NNP 7.97/CD %/NN ]
+
+======================================
+
+[ U.S./NNP Savings/NNP Bonds-b/NNP 7.81/CD %/NN ]
+
+======================================
+
+[ a-Average/JJ rate/NN ]
+paid/VBN yesterday/NN by/IN 
+[ 100/CD large/JJ banks/NNS ]
+and/CC 
+[ thrifts/NNS ]
+in/IN 
+[ the/DT 10/CD largest/JJS metropolitan/JJ areas/NNS ]
+as/IN compiled/VBN by/IN 
+[ Bank/NNP Rate/NNP Monitor/NNP ]
+./. 
+
+======================================
+
+[ b-Current/JJ annual/JJ yield/NN ]
+./. 
+
+Guaranteed/VBN 
+[ minimum/NN 6/CD %/NN ]
+./. 

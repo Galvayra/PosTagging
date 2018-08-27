@@ -1,0 +1,101 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Hong/NNP Kong/NNP 's/POS government/NN ]
+announced/VBD that/IN 
+[ the/DT banking/NN license/NN ]
+of/IN 
+[ Wells/NNP Fargo/NNP ]
+&/CC 
+[ Co./NNP ]
+has/VBZ been/VBN revoked/VBN at/IN 
+[ its/PRP$ request/NN ]
+./. 
+
+======================================
+
+[ The/DT San/NNP Francisco-based/JJ bank/NN ]
+is/VBZ to/TO retain/VB 
+[ a/DT representative/NN 's/POS office/NN ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+./. 
+
+======================================
+
+[ Wells/NNP Fargo/NNP 's/POS local/JJ operations/NNS ]
+were/VBD sold/VBN to/TO 
+[ Hongkong/NNP ]
+&/CC 
+[ Shanghai/NNP Banking/NNP Corp./NNP ]
+in/IN 
+[ April/NNP ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+
+[ it/PRP ]
+disposed/VBD of/IN 
+[ its/PRP$ Tokyo/NNP ]
+,/, 
+[ Seoul/NNP ]
+and/CC 
+[ Singapore/NNP operations/NNS ]
+./. 
+
+======================================
+
+[ A/DT government/NN official/NN ]
+said/VBD 
+[ Wells/NNP Fargo/NNP ]
+is/VBZ scaling/VBG down/IN 
+[ its/PRP$ international/JJ business/NN ]
+so/IN as/IN to/TO concentrate/VB on/IN 
+[ its/PRP$ business/NN ]
+in/IN 
+[ California/NNP ]
+./. 
+
+======================================
+
+[ Keith/NNP Wu/NNP ]
+of/IN 
+[ Citicorp/NNP Scrimgeour/NNP Vickers/NNP HK/NNP Ltd./NNP ]
+and/CC 
+[ Christopher/NNP Chong/NNP ]
+of/IN 
+[ James/NNP Capel/NNP ]
+ (/( 
+[ Far/NNP East/NNP ]
+ )/) 
+[ Ltd./NNP ]
+,/, banking/NN 
+[ analysts/NNS ]
+in/IN 
+[ Hong/NNP Kong/NNP ]
+,/, said/VBD 
+[ there/EX ]
+is/VBZ n't/RB 
+[ any/DT reason/NN ]
+for/IN 
+[ Wells/NNP Fargo/NNP ]
+to/TO hold/VB 
+[ a/DT separate/JJ license/NN ]
+since/IN 
+[ its/PRP$ operations/NNS ]
+have/VBP been/VBN absorbed/VBN into/IN 
+[ Hongkong/NNP Bank/NNP ]
+./. 

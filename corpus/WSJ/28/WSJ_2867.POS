@@ -1,0 +1,475 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ British/NNP Aerospace/NNP PLC/NNP ]
+and/CC 
+[ France/NNP 's/POS Thomson-CSF/NNP S.A./NNP ]
+emerged/VBD as/IN 
+[ strong/JJ contenders/NNS ]
+to/TO buy/VB troubled/JJ 
+[ British/JJ defense/NN contractor/NN Ferranti/NNP International/NNP Signal/NNP PLC/NNP ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT joint/JJ statement/NN ]
+,/, 
+[ the/DT two/CD big/JJ European/JJ defense/NN  contractors/NNS ]
+said/VBD 
+[ they/PRP ]
+'ve/VBP ``/`` decided/VBN to/TO cooperate/VB in/IN reviewing/VBG 
+[ all/DT options/NNS ]
+open/JJ to/TO 
+[ them/PRP ]
+in/IN 
+[ relation/NN ]
+to/TO 
+[ Ferranti/NNP ]
+,/, ''/'' including/VBG 
+[ a/DT possible/JJ joint/JJ bid/NN ]
+./. 
+
+[ The/DT two/CD companies/NNS ]
+already/RB have/VBP bought/VBN about/IN 
+[ 2.5/CD million/CD Ferranti/NNP shares/NNS ]
+,/, or/CC 
+[ 0.3/CD %/NN ]
+of/IN 
+[ the/DT stock/NN ]
+outstanding/JJ ./. 
+
+======================================
+
+[ The/DT announcement/NN ]
+,/, confirming/VBG 
+[ recent/JJ press/NN reports/NNS ]
+,/, makes/VBZ 
+[ the/DT Anglo-French/NNP ]
+partners/NNS 
+[ the/DT first/JJ Ferranti/NNP suitors/NNS ]
+to/TO declare/VB 
+[ their/PRP$ interest/NN ]
+publicly/RB ./. 
+
+[ Last/JJ month/NN ]
+,/, 
+[ the/DT ]
+ailing/VBG 
+[ British/JJ contractor/NN ]
+began/VBD soliciting/VBG 
+[ bids/NNS ]
+for/IN 
+[ all/DT ]
+or/CC 
+[ some/DT ]
+of/IN 
+[ its/PRP$ shares/NNS ]
+from/IN around/IN 
+[ the/DT world/NN 's/POS defense/NN industry/NN ]
+,/, following/VBG 
+[ its/PRP$ discovery/NN ]
+of/IN 
+[ alleged/JJ accounting/NN  fraud/NN ]
+at/IN 
+[ a/DT U.S./NNP unit/NN ]
+./. 
+
+[ Ferranti/NNP 's/POS resulting/VBG #/# 185/CD million/CD ]
+ (/( 
+[ $/$ 291.8/CD million/CD ]
+ )/) after-tax/JJ 
+[ write-off/NN ]
+--/: nearly/RB 
+[ half/PDT the/DT company/NN 's/POS net/JJ worth/NN ]
+--/: has/VBZ forced/VBN 
+[ it/PRP ]
+to/TO seek/VB 
+[ a/DT financial/JJ bailout/NN ]
+./. 
+
+======================================
+
+But/CC 
+[ a/DT Ferranti/NNP deal/NN ]
+,/, by/IN 
+[ British/NNP Aerospace-Thomson/NNP ]
+or/CC 
+[ anyone/NN ]
+else/RB ,/, is/VBZ still/RB 
+[ weeks/NNS ]
+away/RB ./. 
+
+[ The/DT two/CD suitors/NNS ]
+said/VBD 
+[ it/PRP ]
+will/MD be/VB ``/`` 
+[ some/DT time/NN ]
+''/'' before/IN 
+[ they/PRP ]
+decide/VBP whether/IN to/TO bid/VB ,/, following/VBG 
+[ an/DT in-depth/JJ study/NN ]
+of/IN 
+[ Ferranti/NNP 's/POS books/NNS ]
+./. 
+
+Likewise/RB ,/, 
+[ Ferranti/NNP ]
+said/VBD 
+[ discussions/NNS ]
+with/IN 
+[ its/PRP$ various/JJ suitors/NNS ]
+``/`` are/VBP at/IN 
+[ a/DT ]
+relatively/RB 
+[ early/JJ stage/NN ]
+./. 
+
+''/'' 
+[ Ferranti/NNP Chairman/NNP Sir/NNP Derek/NNP Alun-Jones/NNP ]
+declined/VBD to/TO identify/VB 
+[ other/JJ potential/JJ bidders/NNS ]
+,/, but/CC 
+[ a/DT Ferranti/NNP statement/NN ]
+said/VBD ``/`` 
+[ a/DT large/JJ number/NN ]
+of/IN 
+[ major/JJ U.K./NNP ]
+and/CC 
+[ overseas/JJ defense/NN ]
+and/CC 
+[ electronics/NNS companies/NNS ]
+''/'' have/VBP expressed/VBN 
+[ interest/NN ]
+in/IN 
+[ the/DT company/NN ]
+./. 
+
+At/IN 
+[ current/JJ stock/NN market/NN prices/NNS ]
+,/, 
+[ Ferranti/NNP 's/POS value/NN ]
+is/VBZ 
+[ #/# 412/CD million/CD ]
+./. 
+
+======================================
+
+Though/IN 
+[ other/JJ suitors/NNS ]
+are/VBP expected/VBN to/TO emerge/VB ,/, 
+[ British/NNP Aerospace/NNP ]
+and/CC 
+[ Thomson/NNP ]
+``/`` have/VBP to/TO be/VB among/IN 
+[ the/DT front-runners/NNS ]
+''/'' for/IN winning/VBG 
+[ Ferranti/NNP ]
+,/, said/VBD 
+[ analyst/NN Stephen/NNP Parker/NNP ]
+of/IN 
+[ London/NNP stockbrokers/NNS UBS/NNP Phillips/NNP ]
+&/CC 
+[ Drew/NNP ]
+./. 
+
+[ British/NNP Aerospace/NNP ]
+is/VBZ 
+[ Britain/NNP 's/POS largest/JJS defense/NN contractor/NN ]
+,/, and/CC 
+[ its/PRP$ rival/JJ U.K./NNP bidders/NNS ]
+are/VBP either/RB too/RB small/JJ or/CC might/MD encounter/VB 
+[ political/JJ obstacles/NNS ]
+./. 
+
+And/CC while/IN 
+[ Ferranti/NNP 's/POS foreign/JJ suitors/NNS ]
+may/MD be/VB numerous/JJ ,/, 
+[ Thomson/NNP ]
+would/MD benefit/VB from/IN 
+[ the/DT ]
+increasingly/RB 
+[ close/JJ ties/NNS ]
+between/IN 
+[ the/DT British/JJ ]
+and/CC 
+[ French/JJ defense/NN ministries/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT successful/JJ Thomson/NNP bid/NN ]
+would/MD be/VB 
+[ the/DT biggest/JJS French/JJ investment/NN ]
+so/RB far/RB in/IN 
+[ Britain/NNP 's/POS defense/NN industry/NN ]
+./. 
+
+But/CC 
+[ the/DT prospect/NN ]
+of/IN 
+[ a/DT bid/NN ]
+,/, 
+[ which/WDT ]
+once/RB would/MD have/VB set/VBN off/IN 
+[ political/JJ alarms/NNS ]
+,/, is/VBZ unlikely/JJ to/TO meet/VB 
+[ much/JJ resistance/NN ]
+./. 
+
+======================================
+
+For/IN 
+[ starters/NNS ]
+,/, 
+[ Thomson/NNP ]
+may/MD bring/VB 
+[ a/DT dowry/NN ]
+:/: 
+[ A/DT source/NN ]
+close/JJ to/TO 
+[ Thomson/NNP ]
+said/VBD 
+[ French/JJ government/NN officials/NNS ]
+are/VBP discussing/VBG with/IN 
+[ British/JJ counterparts/NNS ]
+
+[ a/DT possible/JJ ]
+``/`` 
+[ quid/FW ]
+pro/FW 
+[ quo/FW ]
+''/'' if/IN 
+[ the/DT U.K./NNP ]
+allows/VBZ 
+[ a/DT Thomson/NNP bid/NN ]
+./. 
+
+[ He/PRP ]
+did/VBD n't/RB 
+[ elaborate/VB ]
+./. 
+
+More/RBR generally/RB ,/, 
+[ the/DT British/NNP Defense/NNP Ministry/NNP ]
+now/RB encourages/VBZ 
+[ its/PRP$ contractors/NNS ]
+to/TO cooperate/VB with/IN 
+[ European/JJ rivals/NNS ]
+./. 
+
+[ Last/JJ summer/NN ]
+,/, 
+[ the/DT U.K./NNP government/NN ]
+let/VBD 
+[ West/NNP Germany/NNP 's/POS Siemens/NNP AG/NNP ]
+join/VB 
+[ Britain/NNP 's/POS General/NNP Electric/NNP Co./NNP ]
+in/IN 
+[ a/DT joint/JJ takeover/NN ]
+of/IN 
+[ British/JJ electronics/NNS ]
+concern/NN 
+[ Plessey/NNP Co/NNP ]
+./. 
+
+[ British/NNP GE/NNP ]
+is/VBZ n't/RB related/VBN to/TO 
+[ the/DT U.S./NNP company/NN ]
+with/IN 
+[ the/DT same/JJ name/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT idea/NN ]
+of/IN 
+[ British/JJ companies/NNS ]
+producing/VBG 
+[ British/JJ aircraft/NN ]
+and/CC 
+[ British/JJ tanks/NNS ]
+to/TO 
+[ the/DT exclusion/NN ]
+of/IN 
+[ our/PRP$ allies/NNS ]
+is/VBZ 
+[ a/DT relic/NN ]
+of/IN 
+[ history/NN ]
+,/, ''/'' said/VBD 
+[ Bruce/NNP George/NNP ]
+,/, 
+[ a/DT Labour/NNP Party/NNP member/NN ]
+of/IN 
+[ the/DT House/NNP ]
+of/IN 
+[ Commons/NNP 's/POS defense/NN committee/NN ]
+./. 
+
+Though/IN 
+[ some/DT U.K./NNP politicians/NNS ]
+may/MD oppose/VB 
+[ Thomson/NNP ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, ``/`` 
+[ I/PRP ]
+could/MD think/VB of/IN 
+[ worse/JJR bids/NNS ]
+for/IN 
+[ Ferranti/NNP ]
+./. 
+
+''/'' 
+======================================
+
+[ Thomson/NNP 's/POS interest/NN ]
+in/IN 
+[ Ferranti/NNP ]
+is/VBZ intense/JJ ./. 
+
+[ It/PRP ]
+already/RB collaborates/VBZ with/IN 
+[ British/NNP Aerospace/NNP ]
+on/IN 
+[ an/DT air-to-air/JJ missile/NN ]
+,/, and/CC with/IN 
+[ Ferranti/NNP ]
+on/IN 
+[ a/DT fighter/NN radar/NN system/NN ]
+./. 
+
+But/CC at/IN 
+[ stake/NN ]
+,/, 
+[ Thomson/NNP officials/NNS ]
+said/VBD ,/, is/VBZ 
+[ the/DT future/NN ]
+of/IN 
+[ France/NNP 's/POS defense/NN industry/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT European/JJ defense/NN industry/NN ]
+is/VBZ restructuring/VBG ,/, ''/'' said/VBD 
+[ one/CD Thomson/NNP official/NN ]
+,/, citing/VBG 
+[ the/DT Siemens-GEC-Plessey/NNP merger/NN ]
+and/CC 
+[ Daimler-Benz/NNP AG/NNP 's/POS recent/JJ accord/NN ]
+to/TO buy/VB 
+[ Messerschmitt-Boelkow-Blohm/NNP G.m.b/NNP ]
+./. 
+
+[ H/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+intend/VBP by/IN 
+[ our/PRP$ own/JJ means/NNS ]
+or/CC through/IN 
+[ an/DT association/NN ]
+to/TO constitute/VB 
+[ one/CD ]
+of/IN 
+[ the/DT world/NN ]
+poles/NNS of/IN 
+[ that/DT restructured/VBN industry/NN ]
+./. 
+
+''/'' 
+[ French/NNP Defense/NNP Ministry/NNP officials/NNS ]
+say/VBP 
+[ they/PRP ]
+hope/VBP to/TO see/VB 
+[ Thomson/NNP ]
+get/VB 
+[ a/DT foothold/NN ]
+in/IN 
+[ such/JJ projects/NNS ]
+as/IN 
+[ the/DT European/NNP Fighter/NNP Aircraft/NNP program/NN ]
+,/, 
+[ a/DT joint/JJ effort/NN ]
+by/IN 
+[ Britain/NNP ]
+,/, 
+[ West/NNP Germany/NNP ]
+,/, 
+[ Spain/NNP ]
+and/CC 
+[ Italy/NNP ]
+to/TO build/VB 
+[ a/DT new-generation/NN fighter/NN ]
+./. 
+
+Despite/IN 
+[ Ferranti/NNP 's/POS recent/JJ troubles/NNS ]
+,/, 
+[ a/DT Ferranti-led/JJ consortium/NN ]
+still/RB is/VBZ 
+[ a/DT contender/NN ]
+for/IN 
+[ a/DT #/# 800/CD million-plus/JJ radar/NN contract/NN ]
+for/IN 
+[ the/DT new/JJ fighters/NNS ]
+./. 
+
+======================================
+
+[ Rumors/NNS ]
+about/IN 
+[ potential/JJ rival/JJ suitors/NNS ]
+for/IN 
+[ Ferranti/NNP ]
+swept/VBD 
+[ London/NNP markets/NNS ]
+yesterday/NN but/CC most/JJS were/VBD quashed/VBN ./. 
+
+[ French/JJ defense/NN contractor/NN Matra/NNP S.A./NNP ]
+denied/VBD 
+[ any/DT interest/NN ]
+in/IN 
+[ Ferranti/NNP ]
+,/, as/IN did/VBD 
+[ St./NNP Louis-based/JJ Emerson/NNP Electric/NNP Co/NNP ]
+./. 
+
+In/IN 
+[ above-normal/JJ trading/NN volume/NN ]
+of/IN 
+[ 6.8/CD million/CD shares/NNS ]
+at/IN 
+[ London/NNP ]
+,/, 
+[ Ferranti/NNP stock/NN ]
+slipped/VBD 
+[ 4.5/CD pence/NN ]
+ (/( 
+[ 7/CD cents/NNS ]
+ )/) to/TO 
+[ 55/CD pence/NN ]
+ (/( 
+[ 87/CD cents/NNS ]
+ )/) ./. 

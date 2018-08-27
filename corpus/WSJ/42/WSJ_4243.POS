@@ -1,0 +1,124 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Arco/NNP Chemical/NNP Co./NNP ]
+agreed/VBD to/TO purchase/VB 
+[ two/CD chemicals/NNS businesses/NNS ]
+from/IN 
+[ Union/NNP Carbide/NNP Corp./NNP ]
+for/IN 
+[ $/$ 220/CD million/CD ]
+./. 
+
+======================================
+
+[ Arco/NNP Chemical/NNP ]
+will/MD acquire/VB 
+[ plants/NNS ]
+and/CC 
+[ other/JJ assets/NNS ]
+involved/JJ in/IN 
+[ production/NN ]
+of/IN 
+[ propylene/NN glycols/NNS ]
+--/: 
+[ which/WDT ]
+are/VBP used/VBN in/IN 
+[ making/VBG personal/JJ care/NN products/NNS ]
+such/JJ as/IN 
+[ shampoo/NN ]
+--/: and/CC 
+[ urethane/NN polyols/NN ]
+,/, used/VBN in/IN 
+[ making/VBG polyurethane/NN foam/NN ]
+found/VBN in/IN 
+[ furniture/NN ]
+cushioning/NN and/CC 
+[ other/JJ products/NNS ]
+./. 
+
+[ The/DT transaction/NN ]
+is/VBZ subject/JJ to/TO 
+[ governmental/JJ reviews/NNS ]
+./. 
+
+======================================
+
+[ Arco/NNP Chemical/NNP ]
+is/VBZ 
+[ 83%-owned/JJ ]
+by/IN 
+[ Atlantic/NNP Richfield/NNP Co./NNP ]
+,/, 
+[ a/DT Los/NNP Angeles-based/JJ oil/NN company/NN ]
+./. 
+
+======================================
+
+[ Carbide/NNP ]
+,/, 
+[ a/DT chemical/NN company/NN ]
+based/VBN in/IN 
+[ Danbury/NNP ]
+,/, 
+[ Conn./NNP ]
+,/, said/VBD 
+[ it/PRP ]
+will/MD record/VB 
+[ a/DT third-quarter/JJ gain/NN ]
+on/IN 
+[ the/DT sale/NN ]
+of/IN 
+[ $/$ 62/CD million/CD ]
+./. 
+
+But/CC 
+[ it/PRP ]
+said/VBD 
+[ the/DT gain/NN ]
+will/MD be/VB largely/RB offset/VBN by/IN 
+[ a/DT charge/NN ]
+of/IN 
+[ $/$ 55/CD million/CD ]
+in/IN 
+[ the/DT same/JJ quarter/NN ]
+from/IN 
+[ a/DT write-down/NN ]
+in/IN 
+[ its/PRP$ polysilicon/NN business/NN ]
+./. 
+
+======================================
+
+[ Carbide/NN ]
+said/VBD 
+[ the/DT write-down/NN ]
+recognizes/VBZ 
+[ the/DT true/JJ value/NN ]
+of/IN 
+[ the/DT business/NN ]
+``/`` in/IN 
+[ the/DT current/JJ competitive/JJ environment/NN ]
+./. 
+
+''/'' 
+[ Polysilicon/NN ]
+is/VBZ 
+[ a/DT raw/JJ material/NN ]
+used/VBN in/IN making/VBG 
+[ integrated/JJ circuits/NNS ]
+./. 

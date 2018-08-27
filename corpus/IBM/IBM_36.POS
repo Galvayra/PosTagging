@@ -1,0 +1,1247 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 3501/CD ]
+./. 
+
+[ The/DT associated/VBN DDS/NNP ]
+for/IN 
+[ the/DT file/NN ]
+is/VBZ 
+[ the/DT same/JJ ]
+as/IN 
+[ Figure/NNP 4-7/CD ]
+./. 
+
+[ 3502/CD ]
+./. 
+
+[ Indicator/NN 99/CD ]
+will/MD be/VB set/VBN on/IN when/WRB 
+[ you/PRP ]
+press/VBP 
+[ F3/NNP ]
+,/, and/CC so/RB on/IN ./. 
+
+[ 3503/CD ]
+./. 
+
+[ Data/NN ]
+and/CC 
+[ indicator/NN values/NNS ]
+are/VBP written/VBN to/TO 
+[ the/DT work/NN station/NN screen/NN ]
+./. 
+
+[ 3504/CD ]
+./. 
+
+[ The/DT data/NN description/NN entries/NNS ]
+for/IN 
+[ the/DT indicators/NNS ]
+are/VBP not/RB generated/VBN because/IN 
+[ a/DT separate/JJ indicator/NN area/NN ]
+has/VBZ been/VBN specified/VBN for/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 3505/CD ]
+./. 
+
+If/IN 
+[ you/PRP ]
+have/VBP pressed/VBN 
+[ F5/NNP ]
+,/, 
+[ IN51/NNP ]
+is/VBZ set/VBN on/RB ./. 
+
+[ 3506/CD ]
+./. 
+
+[ The/DT use/NN ]
+of/IN 
+[ such/JJ data/NN items/NNS ]
+is/VBZ not/RB required/VBN ./. 
+
+[ 3507/CD ]
+./. 
+
+[ The/DT program/NN ]
+processes/VBZ 
+[ one/CD record/NN ]
+at/IN 
+[ a/DT time/NN ]
+,/, but/CC 
+[ the/DT operating/VBG system/NN ]
+and/CC 
+[ the/DT work/NN station/NN ]
+send/VBP and/CC receive/VBP 
+[ blocks/NNS ]
+of/IN 
+[ records/NNS ]
+./. 
+
+[ 3508/CD ]
+./. 
+
+For/IN 
+[ an/DT example/NN ]
+of/IN 
+[ the/DT use/NN ]
+of/IN 
+[ multiple/JJ device/NN files/NNS ]
+,/, see/VB 
+[ Figure/NNP 4-13/CD ]
+./. 
+
+[ 3509/CD ]
+./. 
+
+[ The/DT program/NN ]
+uses/VBZ 
+[ a/DT display/NN file/NN ]
+,/, and/CC is/VBZ intended/VBN to/TO be/VB run/VBN in/IN 
+[ batch/NN mode/NN ]
+./. 
+
+[ 3510/CD ]
+./. 
+
+[ Example/NNP ]
+of/IN 
+[ the/DT Use/NNP ]
+of/IN 
+[ Multiple/NNP Device/NNP Files/NNPS +/SYM 2/CD ]
+./. 
+
+[ 3511/CD ]
+./. 
+
+[ This/DT variable/NN ]
+is/VBZ used/VBN to/TO determine/VB 
+[ which/WDT program/NN device/NN ]
+was/VBD used/VBN to/TO sign/VB on/RP ./. 
+
+[ 3512/CD ]
+./. 
+
+Only/RB 
+[ the/DT fields/NNS ]
+
+[ that/WDT ]
+are/VBP copied/VBN are/VBP named/VBN 
+[ fields/NNS ]
+./. 
+
+[ 3513/CD ]
+./. 
+
+Refer/VB to/TO 
+[ item/NN 13/CD ]
+./. 
+
+[ 3514/CD ]
+./. 
+
+If/IN 
+[ these/DT files/NNS ]
+are/VBP 
+[ program/NN ]
+described/VBN ,/, 
+[ only/JJ simple/NN display/NN ]
+formatting/NN can/MD be/VB performed/VBN ./. 
+
+[ 3515/CD ]
+./. 
+
+[ All/DT field-level/JJ descriptions/NNS ]
+are/VBP defined/VBN in/IN 
+[ the/DT COBOL/NNP program/NN ]
+./. 
+
+[ 3516/CD ]
+./. 
+
+[ This/DT entry/NN ]
+also/RB specifies/VBZ 
+[ other/JJ information/NN ]
+related/VBN to/TO 
+[ the/DT file/NN ]
+./. 
+
+[ 3517/CD ]
+./. 
+
+[ Format/NNP Device/NNP ]
+specifies/VBZ 
+[ the/DT type/NN ]
+of/IN 
+[ device/NN ]
+associated/VBN with/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 3518/CD ]
+./. 
+
+[ Data-name-6/NNP ]
+is/VBZ assumed/VBN to/TO have/VB 
+[ the/DT following/VBG format/NN ]
+:/: 
+[ 01/CD data-name-6/CD ]
+./. 
+
+[ 3519/CD ]
+./. 
+
+(/( 
+[ Record/NN format/NN ]
+)/) 
+[ Data-name-6/NNP ]
+must/MD be/VB 
+[ 2/CD ]
+,/, 
+[ 12/CD ]
+,/, or/CC 
+[ 22/CD characters/NNS ]
+long/JJ ./. 
+
+[ 3520/CD ]
+./. 
+
+[ The/DT information/NN ]
+is/VBZ in/IN 
+[ the/DT fixed/VBN format/NN ]
+as/IN shown/VBN in/IN 
+[ the/DT following/VBG example/NN ]
+:/: 
+[ 3521/CD ]
+./. 
+
+[ This/DT clause/NN ]
+is/VBZ required/VBN in/IN 
+[ every/DT file/NN description/NN entry/NN ]
+./. 
+
+[ 3522/CD ]
+./. 
+
+[ The/DT sections/NNS ]
+
+[ that/WDT ]
+follow/VBP describe/VBP 
+[ the/DT statements/NNS ]
+involved/VBN and/CC 
+[ their/PRP$ usage/NN ]
+./. 
+
+[ 3523/CD ]
+./. 
+
+For/IN 
+[ a/DT display/NN file/NN ]
+,/, 
+[ the/DT program/NN device/NN name/NN ]
+must/MD match/VB 
+[ the/DT display/NN device/NN ]
+./. 
+
+[ 3524/CD ]
+./. 
+
+For/IN 
+[ more/JJR information/NN ]
+about/IN 
+[ these/DT commands/NNS ]
+,/, see/VB 
+[ the/DT CL/NNP Reference/NNP ]
+./. 
+
+[ 3525/CD ]
+./. 
+
+[ The/DT indicators/NNS ]
+can/MD control/VB how/WRB 
+[ the/DT record/NN ]
+is/VBZ displayed/VBN and/CC 
+[ the/DT various/JJ data/NN management/NN functions/NNS ]
+./. 
+
+[ 3526/CD ]
+./. 
+
+When/WRB 
+[ a/DT data/NN record/NN ]
+is/VBZ read/VBN ,/, 
+[ indicators/NNS ]
+can/MD be/VB read/VBN with/IN 
+[ it/PRP ]
+./. 
+
+[ 3527/CD ]
+./. 
+
+[ The/DT indicators/NNS ]
+can/MD be/VB used/VBN to/TO pass/VB 
+[ information/NN ]
+about/IN 
+[ the/DT data/NN record/NN ]
+and/CC how/WRB 
+[ it/PRP ]
+was/VBD entered/VBN into/IN 
+[ your/PRP$ program/NN ]
+./. 
+
+[ 3528/CD ]
+./. 
+
+By/IN defining/VBG 
+[ a/DT format/NN ]
+using/VBG 
+[ DDS/NNP ]
+,/, 
+[ you/PRP ]
+determine/VBP 
+[ what/WP functions/NNS ]
+are/VBP to/TO be/VB controlled/VBN by/IN 
+[ indicators/NNS ]
+,/, and/CC 
+[ which/WDT indicators/NNS ]
+control/VBP 
+[ a/DT particular/JJ function/NN ]
+./. 
+
+[ 3529/CD ]
+./. 
+
+[ The/DT READ/NNP statement/NN ]
+makes/VBZ 
+[ available/JJ a/DT record/NN ]
+from/IN 
+[ a/DT device/NN ]
+,/, using/VBG 
+[ a/DT named/VBN format/NN ]
+./. 
+
+[ 3530/CD ]
+./. 
+
+[ Codes/NNS ]
+
+[ A/NN ]
+through/IN 
+[ D/NN ]
+are/VBP explained/VBN below/RB ./. 
+
+[ 3531/CD ]
+./. 
+
+[ Program/NN processing/NN ]
+stops/VBZ until/IN 
+[ data/NN ]
+becomes/VBZ 
+[ available/JJ ]
+./. 
+
+[ 3532/CD ]
+./. 
+
+[ The/DT program/NN device/NN ]
+is/VBZ assumed/VBN to/TO be/VB 
+[ that/RB single/JJ device/NN ]
+./. 
+
+[ 3533/CD ]
+./. 
+
+[ Format/NN 5/CD ]
+can/MD not/RB be/VB used/VBN for/IN 
+[ communications/NNS devices/NNS ]
+./. 
+
+[ 3534/CD ]
+./. 
+
+For/IN 
+[ all/DT other/JJ cases/NNS ]
+,/, with/IN 
+[ the/DT record/NN ]
+following/VBG 
+[ the/DT record/NN ]
+
+[ that/WDT ]
+was/VBD read/VBN by/IN 
+[ a/DT previous/JJ read/VBN operation/NN ]
+./. 
+
+[ 3535/CD ]
+./. 
+
+In/IN 
+[ this/DT case/NN ]
+,/, 
+[ a/DT value/NN ]
+of/IN 
+[ 1/CD ]
+is/VBZ assumed/VBN ./. 
+
+[ 3536/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB whether/IN 
+[ the/DT ]
+write/NN is/VBZ before/IN or/CC after/IN 
+[ the/DT roll/NN ]
+,/, 
+[ the/DT range/NN ]
+of/IN 
+[ lines/NNS you/PRP ]
+want/VBP to/TO roll/VB ,/, how/WRB 
+[ many/JJ lines/NNS you/PRP ]
+want/VBP to/TO roll/VB 
+[ these/DT lines/NNS ]
+,/, and/CC whether/IN 
+[ the/DT roll/NN operation/NN ]
+is/VBZ up/RB or/CC down/RB ./. 
+
+[ 3537/CD ]
+./. 
+
+See/VB 
+[ the/DT DDS/NNP Reference/NNP manual/NN ]
+for/IN 
+[ more/JJR information/NN ]
+on/IN 
+[ DDS/NNP keywords/NNS ]
+./. 
+
+[ 3538/CD ]
+./. 
+
+[ An/DT initial/JJ screen/NN format/NN ]
+,/, 
+[ FMT1/CD ]
+,/, is/VBZ written/VBN on/IN 
+[ the/DT work/NN station/NN screen/NN ]
+./. 
+
+[ 3539/CD ]
+./. 
+
+[ The/DT program/NN processes/VBZ ]
+
+[ this/DT screen/NN format/NN ]
+and/CC is/VBZ now/RB ready/JJ to/TO write/VB 
+[ the/DT next/JJ screen/NN format/NN ]
+,/, 
+[ FMT2/CD ]
+,/, to/TO 
+[ the/DT work/NN station/NN screen/NN ]
+./. 
+
+[ 3540/CD ]
+./. 
+
+[ The/DT contents/NNS ]
+of/IN 
+[ lines/NNS 14/CD ]
+through/IN 
+[ 18/CD ]
+now/RB appear/VBP on/IN 
+[ lines/NNS 16/CD ]
+through/IN 
+[ 20/CD ]
+./. 
+
+[ 3541/CD ]
+./. 
+
+[ The/DT USE/NNP statement/NN ]
+specifies/VBZ 
+[ procedures/NNS ]
+for/IN 
+[ input\/output/JJ error/NN handling/NN ]
+
+[ that/WDT ]
+are/VBP in/IN 
+[ addition/NN ]
+to/TO 
+[ the/DT standard/JJ procedures/NNS ]
+provided/VBN by/IN 
+[ the/DT input\/output/NN control/NN system/NN ]
+./. 
+
+[ 3542/CD ]
+./. 
+
+[ This/DT message/NN ]
+is/VBZ displayed/VBN if/IN 
+[ indicator/NN 99/CD ]
+is/VBZ set/VBN to/TO ON/RB by/IN 
+[ the/DT program/NN ]
+./. 
+
+[ 3543/CD ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ this/DT record/NN format/NN ]
+defines/VBZ 
+[ a/DT function/NN key/NN ]
+that/IN 
+[ you/PRP ]
+can/MD press/VB to/TO end/VB 
+[ the/DT program/NN ]
+./. 
+
+[ 3544/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+press/VBP 
+[ function/NN key/NN F3/NNP ]
+,/, 
+[ indicator/NN 15/CD ]
+is/VBZ set/VBN to/TO ON/RB in/IN 
+[ the/DT COBOL/NNP program/NN ]
+./. 
+
+[ 3545/CD ]
+./. 
+
+[ This/DT indicator/NN ]
+is/VBZ then/RB used/VBN to/TO end/VB 
+[ the/DT program/NN ]
+./. 
+
+[ 3546/CD ]
+./. 
+
+[ These/DT constants/NNS ]
+identify/VBP 
+[ the/DT fields/NNS ]
+to/TO be/VB written/VBN out/RP from/IN 
+[ the/DT program/NN ]
+./. 
+
+[ 3547/CD ]
+./. 
+
+[ All/DT ]
+of/IN 
+[ these/DT fields/NNS ]
+are/VBP described/VBN as/IN 
+[ output/NN fields/NNS ]
+(/( blank/JJ in/IN 
+[ position/NN 38/CD ]
+)/) because/IN 
+[ they/PRP ]
+are/VBP filled/VBN in/RP by/IN 
+[ the/DT program/NN ]
+;/: 
+[ you/PRP ]
+do/VBP not/RB enter/VB 
+[ any/DT data/NN ]
+into/IN 
+[ these/DT fields/NNS ]
+./. 
+
+[ 3548/CD ]
+./. 
+
+To/TO enter/VB 
+[ another/DT customer/NN number/NN ]
+,/, press/VB Enter/NNP in/IN 
+[ response/NN ]
+to/TO 
+[ this/DT record/NN ]
+./. 
+
+[ 3549/CD ]
+./. 
+
+In/IN 
+[ addition/NN ]
+to/TO describing/VBG 
+[ the/DT constants/NNS ]
+,/, 
+[ fields/NNS ]
+,/, and/CC 
+[ attributes/NNS ]
+for/IN 
+[ the/DT screen/NN ]
+,/, 
+[ the/DT record/NN formats/NNS ]
+also/RB define/VB 
+[ the/DT line/NN numbers/NNS ]
+and/CC 
+[ horizontal/JJ positions/NNS ]
+where/WRB 
+[ the/DT constants/NNS ]
+and/CC 
+[ fields/NNS ]
+are/VBP to/TO be/VB displayed/VBN ./. 
+
+[ 3550/CD ]
+./. 
+
+[ The/DT data/NN description/NN specifications/NNS ]
+(/( 
+[ DDS/NNP ]
+)/) for/IN 
+[ the/DT database/NN file/NN ]
+
+[ that/WDT ]
+is/VBZ used/VBN by/IN 
+[ this/DT program/NN ]
+describe/VBP 
+[ one/CD record/NN format/NN ]
+:/: 
+[ 3551/CD ]
+./. 
+
+[ The/DT complete/JJ source/NN listing/NN ]
+for/IN 
+[ this/DT program/NN example/NN ]
+is/VBZ shown/VBN here/RB ./. 
+
+[ 3552/CD ]
+./. 
+
+[ This/DT record/NN ]
+prompts/VBZ 
+[ you/PRP ]
+to/TO enter/VB 
+[ a/DT customer/NN number/NN ]
+./. 
+
+[ 3553/CD ]
+./. 
+
+When/WRB 
+[ you/PRP ]
+receive/VBP 
+[ this/DT message/NN ]
+,/, 
+[ the/DT keyboard/NN locks/VBZ ]
+./. 
+
+[ 3554/CD ]
+./. 
+
+[ You/PRP ]
+must/MD press/VB 
+[ the/DT Reset/NN key/NN ]
+in/IN 
+[ response/NN ]
+to/TO 
+[ this/DT message/NN ]
+to/TO unlock/VB 
+[ the/DT keyboard/NN ]
+./. 
+
+[ 3555/CD ]
+./. 
+
+[ You/PRP ]
+can/MD then/RB enter/VB 
+[ another/DT customer/NN number/NN ]
+./. 
+
+[ 3556/CD ]
+./. 
+
+[ You/PRP ]
+can/MD enter/VB 
+[ another/DT customer/NN number/NN ]
+or/CC end/VB 
+[ the/DT program/NN ]
+./. 
+
+[ 3557/CD ]
+./. 
+
+To/TO end/VB 
+[ the/DT program/NN ]
+,/, 
+[ press/VB F3/NNP ]
+,/, 
+[ which/WDT ]
+sets/VBZ on/RP 
+[ indicator/NN 15/CD ]
+in/IN 
+[ the/DT program/NN ]
+./. 
+
+[ 3558/CD ]
+./. 
+
+[ The/DT program/NN ]
+then/RB returns/VBZ 
+[ control/NN ]
+to/TO 
+[ the/DT individual/NN ]
+
+[ who/WP ]
+called/VBD 
+[ the/DT COBOL/NNP program/NN ]
+./. 
+
+[ 3559/CD ]
+./. 
+
+[ XMPLE773/CD displays/NNS all/PDT the/DT detail/NN order/NN records/NNS ]
+for/IN 
+[ the/DT requested/VBN order/NN number/NN ]
+./. 
+
+[ 3560/CD ]
+./. 
+
+[ You/PRP ]
+end/VBP 
+[ the/DT program/NN ]
+by/IN pressing/VBG 
+[ F12/CD ]
+./. 
+
+[ 3561/CD ]
+./. 
+
+[ This/DT display/NN ]
+appears/VBZ if/IN 
+[ there/EX ]
+are/VBP 
+[ detail/NN order/NN records/NNS ]
+for/IN 
+[ the/DT customer/NN ]
+
+[ whose/WP$ order/NN number/NN ]
+was/VBD entered/VBN in/IN 
+[ the/DT first/JJ display/NN ]
+:/: 
+[ 3562/CD ]
+./. 
+
+For/IN 
+[ the/DT related/JJ DDS/NNP ]
+,/, see/VB 
+[ Figure/NNP 4-36/CD ]
+./. 
+
+[ 3563/CD ]
+./. 
+
+If/IN 
+[ no/DT customer/NN record/NN ]
+exists/VBZ for/IN 
+[ a/DT customer/NN number/NN ]
+,/, 
+[ an/DT error/NN message/NN ]
+is/VBZ issued/VBN ./. 
+
+[ 3564/CD ]
+./. 
+
+[ The/DT output/NN file/NN ]
+has/VBZ 
+[ the/DT identical/JJ order/NN ]
+./. 
+
+[ 3565/CD ]
+./. 
+
+(/( In/IN 
+[ this/DT case/NN ]
+,/, 
+[ no/DT file/NN status/NN ]
+is/VBZ set/VBN ./. 
+
+)/) 
+[ 3566/CD ]
+./. 
+
+Follow/VB 
+[ the/DT parts/NNS ]
+of/IN 
+[ the/DT diagram/NN ]
+
+[ that/WDT ]
+apply/VBP to/TO 
+[ your/PRP$ statements/NNS ]
+./. 
+
+[ 3567/CD ]
+./. 
+
+[ All/DT files/NNS ]
+used/VBN are/VBP defined/VBN to/TO 
+[ the/DT operating/VBG system/NN ]
+./. 
+
+[ 3568/CD ]
+./. 
+
+[ This/DT file/NN name/NN points/VBZ ]
+to/TO 
+[ the/DT system/NN file/NN description/NN ]
+:/: 
+[ 3569/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT device/NN ]
+might/MD be/VB 
+[ a/DT printer/NN ]
+;/: only/RB 
+[ the/DT default/NN line/NN ]
+and/CC 
+[ page/NN control/NN ]
+or/CC 
+[ those/DT ]
+defined/VBN in/IN 
+[ the/DT DDS/NNP ]
+would/MD be/VB used/VBN :/: 
+[ 3570/CD ]
+./. 
+
+At/IN 
+[ run/NN time/NN ]
+,/, checking/VBG occurs/VBZ to/TO ensure/VB that/IN 
+[ the/DT specifications/NNS ]
+within/IN 
+[ the/DT COBOL/NNP program/NN ]
+are/VBP valid/JJ for/IN 
+[ the/DT file/NN ]
+being/VBG processed/VBN ./. 
+
+[ 3571/CD ]
+./. 
+
+[ Output/NN ]
+spooling/VBG is/VBZ valid/JJ for/IN 
+[ batch/NN ]
+and/CC 
+[ interactive/JJ jobs/NNS ]
+./. 
+
+[ 3572/CD ]
+./. 
+
+[ The/DT description/NN ]
+of/IN 
+[ the/DT file/NN ]
+
+[ that/WDT ]
+is/VBZ specified/VBN in/IN 
+[ COBOL/NNP ]
+by/IN 
+[ the/DT system-name/NN ]
+contains/VBZ 
+[ the/DT specification/NN ]
+for/IN spooling/VBG as/IN shown/VBN in/IN 
+[ the/DT following/VBG example/NN ]
+:/: 
+[ 3573/CD ]
+./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ you/PRP ]
+can/MD direct/VB 
+[ the/DT printer/NN output/NN ]
+to/TO 
+[ a/DT different/JJ device/NN ]
+,/, such/JJ as/IN 
+[ a/DT diskette/NN ]
+./. 
+
+[ 3574/CD ]
+./. 
+
+Not/RB used/VBN at/IN 
+[ level-01/NN ]
+or/CC 
+[ level-77/NN ]
+./. 
+
+[ 3575/CD ]
+./. 
+
+[ You/PRP ]
+must/MD specify/VB 
+[ any/DT overrides/NNS ]
+before/IN 
+[ the/DT file/NN ]
+is/VBZ opened/VBN by/IN 
+[ the/DT COBOL/NNP program/NN ]
+./. 
+
+[ 3576/CD ]
+./. 
+
+[ The/DT system/NN ]
+uses/VBZ 
+[ the/DT file/NN override/NN command/NN ]
+to/TO determine/VB 
+[ the/DT file/NN ]
+to/TO open/VB and/CC 
+[ the/DT attributes/NNS ]
+of/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 3577/CD ]
+./. 
+
+Then/RB ,/, before/IN 
+[ the/DT COBOL/NNP program/NN ]
+is/VBZ run/VBN ,/, 
+[ the/DT number/NN ]
+of/IN 
+[ printed/VBN copies/NNS ]
+of/IN 
+[ output/NN ]
+can/MD be/VB changed/VBN to/TO 
+[ 3/CD ]
+./. 
+
+[ 3578/CD ]
+./. 
+
+[ The/DT override/NN command/NN ]
+is/VBZ as/IN follows/VBZ :/: 
+[ 3579/CD ]
+./. 
+
+[ Device-dependent/NN specifications/NNS ]
+in/IN 
+[ the/DT COBOL/NNP program/NN ]
+are/VBP ignored/VBN ,/, and/CC 
+[ the/DT defaults/NNS ]
+are/VBP taken/VBN by/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 3580/CD ]
+./. 
+
+[ The/DT COBOL/NNP programmer/NN ]
+must/MD ensure/VB that/IN 
+[ file/NN overrides/NNS ]
+are/VBP applied/VBN properly/RB ./. 
+
+[ 3581/CD ]
+./. 
+
+[ The/DT operating/VBG system/NN ]
+places/VBZ 
+[ the/DT following/VBG lock/NN states/NNS ]
+on/IN 
+[ database/NN files/NNS ]
+when/WRB 
+[ the/DT files/NNS ]
+are/VBP opened/VBN by/IN 
+[ COBOL/NNP programs/NNS ]
+:/: 
+[ 3582/CD ]
+./. 
+
+[ The/DT shared-for-update/JJ lock/NN state/NN ]
+allows/VBZ 
+[ another/DT user/NN ]
+to/TO open/VB 
+[ the/DT file/NN ]
+with/IN 
+[ shared-for-read/JJ ]
+or/CC 
+[ shared-for-update/JJ lock/NN state/NN ]
+./. 
+
+[ 3583/CD ]
+./. 
+
+For/IN 
+[ programs/NNS ]
+to/TO share/VB 
+[ a/DT database/NN file/NN ]
+,/, 
+[ the/DT file/NN ]
+should/MD be/VB opened/VBN by/IN 
+[ the/DT first/JJ program/NN ]
+(/( 
+[ the/DT program/NN ]
+with/IN 
+[ the/DT highest/JJS call/NN level/NN ]
+in/IN 
+[ the/DT stack/NN ]
+)/) in/IN 
+[ a/DT way/NN ]
+
+[ that/WDT ]
+will/MD allow/VB 
+[ subsequent/JJ programs/NNS ]
+to/TO share/VB 
+[ the/DT same/JJ file/NN ]
+./. 
+
+[ 3584/CD ]
+./. 
+
+[ Another/DT user/NN ]
+can/MD open/VB 
+[ the/DT file/NN ]
+but/CC can/MD not/RB use/VB 
+[ the/DT same/JJ device/NN ]
+./. 
+
+[ 3585/CD ]
+./. 
+
+When/WRB 
+[ a/DT database/NN record/NN ]
+is/VBZ read/VBN by/IN 
+[ COBOL/NNP ]
+and/CC 
+[ the/DT file/NN ]
+is/VBZ opened/VBN for/IN 
+[ I-O/NNP ]
+,/, 
+[ a/DT lock/NN ]
+is/VBZ placed/VBN on/IN 
+[ that/DT record/NN ]
+so/RB that/IN 
+[ another/DT program/NN ]
+can/MD not/RB update/VB 
+[ it/PRP ]
+./. 
+
+[ 3586/CD ]
+./. 
+
+If/IN 
+[ a/DT logical/JJ file/NN ]
+is/VBZ based/VBN on/IN more/RBR than/IN 
+[ one/CD physical/JJ file/NN ]
+,/, 
+[ a/DT lock/NN ]
+is/VBZ placed/VBN on/IN 
+[ one/CD record/NN ]
+in/IN 
+[ each/DT physical/JJ file/NN ]
+./. 
+
+[ 3587/CD ]
+./. 
+
+[ The/DT single/JJ field/NN ]
+will/MD have/VB 
+[ the/DT same/JJ name/NN ]
+as/IN 
+[ the/DT file/NN ]
+,/, and/CC will/MD have/VB 
+[ the/DT record/NN length/NN ]
+
+[ you/PRP ]
+specified/VBD in/IN 
+[ the/DT ]
+create/VB 
+[ command/NN ]
+./. 
+
+[ 3588/CD ]
+./. 
+
+[ The/DT description/NN ]
+includes/VBZ 
+[ information/NN ]
+about/IN 
+[ the/DT type/NN ]
+of/IN 
+[ file/NN ]
+,/, such/JJ as/IN 
+[ database/NN ]
+or/CC 
+[ a/DT device/NN ]
+,/, and/CC 
+[ a/DT description/NN ]
+of/IN 
+[ each/DT field/NN ]
+and/CC 
+[ its/PRP$ attributes/NNS ]
+./. 
+
+[ 3589/CD ]
+./. 
+
+[ The/DT description/NN ]
+of/IN 
+[ the/DT file/NN ]
+to/TO 
+[ the/DT operating/VBG system/NN ]
+includes/VBZ 
+[ information/NN ]
+about/IN 
+[ the/DT type/NN ]
+of/IN 
+[ file/NN ]
+and/CC 
+[ the/DT length/NN ]
+of/IN 
+[ the/DT records/NNS ]
+in/IN 
+[ the/DT file/NN ]
+./. 
+
+[ 3590/CD ]
+./. 
+
+If/IN 
+[ the/DT same/JJ file/NN ]
+is/VBZ used/VBN by/IN 
+[ many/JJ programs/NNS ]
+,/, 
+[ the/DT fields/NNS ]
+can/MD be/VB defined/VBN once/RB to/TO 
+[ the/DT operating/VBG system/NN ]
+,/, and/CC then/RB used/VBN by/IN 
+[ all/PDT the/DT programs/NNS ]
+./. 
+
+[ 3591/CD ]
+./. 
+
+[ These/DT specifications/NNS ]
+come/VBP from/IN 
+[ the/DT external/JJ file/NN description/NN ]
+and/CC from/IN 
+[ the/DT OS\/400/CD command/NN ]
+
+[ you/PRP ]
+use/VBP to/TO create/VB 
+[ the/DT file/NN ]
+./. 
+
+[ 3592/CD ]
+./. 
+
+At/IN 
+[ run/NN time/NN ]
+,/, 
+[ a/DT different/JJ library/NN list/NN ]
+or/CC 
+[ a/DT file/NN override/NN command/NN ]
+can/MD be/VB used/VBN so/RB that/IN 
+[ a/DT different/JJ file/NN ]
+is/VBZ accessed/VBN by/IN 
+[ the/DT program/NN ]
+./. 
+
+[ 3593/CD ]
+./. 
+
+Otherwise/RB ,/, 
+[ a/DT level/NN check/NN error/NN ]
+will/MD occur/VB ./. 
+
+[ 3594/CD ]
+./. 
+
+[ The/DT record/NN format/NN specifications/NNS ]
+describe/VBP 
+[ the/DT fields/NNS ]
+in/IN 
+[ a/DT record/NN ]
+and/CC 
+[ the/DT location/NN ]
+of/IN 
+[ the/DT fields/NNS ]
+in/IN 
+[ a/DT record/NN ]
+./. 
+
+[ 3595/CD ]
+./. 
+
+[ The/DT fields/NNS ]
+are/VBP located/VBN in/IN 
+[ the/DT record/NN ]
+in/IN 
+[ the/DT order/NN ]
+specified/VBN in/IN 
+[ DDS/NNP ]
+./. 
+
+[ 3596/CD ]
+./. 
+
+[ The/DT keys/NNS ]
+for/IN 
+[ a/DT record/NN format/NN ]
+are/VBP specified/VBN in/IN 
+[ DDS/NNP ]
+./. 
+
+[ 3597/CD ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ DDS/NNP keywords/NNS ]
+can/MD be/VB used/VBN to/TO :/: 
+[ 3598/CD ]
+./. 
+
+See/VB 
+[ the/DT DDS/NNP Reference/NNP ]
+for/IN 
+[ a/DT complete/JJ list/NN ]
+of/IN 
+[ the/DT DDS/NNP keywords/NNS ]
+
+[ that/WDT ]
+are/VBP valid/JJ for/IN 
+[ a/DT database/NN file/NN ]
+./. 
+
+[ 3599/CD ]
+./. 
+
+[ The/DT following/VBG text/NN ]
+describes/VBZ 
+[ some/DT ]
+of/IN 
+[ the/DT entries/NNS ]
+for/IN 
+[ this/DT field/NN reference/NN file/NN ]
+./. 
+
+[ 3600/CD ]
+./. 
+
+[ The/DT field/NN ]
+is/VBZ edited/VBN when/WRB 
+[ the/DT record/NN ]
+is/VBZ written/VBN ./. 

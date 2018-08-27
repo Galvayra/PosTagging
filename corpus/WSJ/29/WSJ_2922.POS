@@ -1,0 +1,131 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Star/NNP Banc/NNP Corp./NNP ]
+,/, 
+[ Cincinnati/NNP ]
+,/, said/VBD 
+[ its/PRP$ board/NN ]
+adopted/VBD 
+[ a/DT shareholder/NN rights/NNS ]
+plan/NN as/IN 
+[ a/DT defense/NN ]
+against/IN 
+[ hostile/JJ takeover/NN bids/NNS ]
+./. 
+
+======================================
+
+[ Star/NN ]
+said/VBD 
+[ its/PRP$ board/NN ]
+declared/VBD 
+[ a/DT dividend/NN ]
+of/IN 
+[ one/CD right/NN ]
+on/IN 
+[ each/DT common/JJ share/NN outstanding/JJ ]
+,/, 
+[ payable/JJ Oct./NNP 27/CD ]
+to/TO stock/VB of/IN 
+[ record/NN Oct./NNP 20/CD ]
+./. 
+
+[ Each/DT share/NN ]
+issued/VBN after/IN 
+[ Oct./NNP 20/CD ]
+also/RB will/MD have/VB 
+[ one/CD ]
+right/NN attached/VBN ./. 
+
+======================================
+
+[ The/DT rights/NNS plan/NN ]
+could/MD be/VB triggered/VBN by/IN 
+[ any/DT one/CD ]
+of/IN 
+[ several/JJ developments/NNS ]
+including/VBG 
+[ an/DT announcement/NN ]
+that/IN 
+[ a/DT person/NN ]
+or/CC 
+[ group/NN ]
+acquired/VBN 
+[ 20/CD %/NN ]
+or/CC 
+[ more/JJR ]
+of/IN 
+[ Star/NNP 's/POS common/JJ shares/NNS ]
+outstanding/JJ ./. 
+
+======================================
+
+[ Each/DT right/NN ]
+entitles/VBZ 
+[ the/DT holder/NN ]
+to/TO 
+[ purchase/VB ]
+,/, at/IN 
+[ an/DT exercise/NN price/NN ]
+of/IN 
+[ $/$ 100/CD ]
+,/, 
+[ 1/CD 1\/100/CD ]
+of/IN 
+[ a/DT share/NN ]
+of/IN newly/RB issued/VBN 
+[ Series/NNP ]
+
+[ A/DT preferred/JJ stock/NN ]
+with/IN 
+[ a/DT value/NN ]
+equal/JJ to/TO 
+[ $/$ 200/CD ]
+./. 
+
+[ The/DT rights/NNS ]
+of/IN 
+[ the/DT hostile/JJ party/NN ]
+,/, however/RB ,/, would/MD n't/RB be/VB triggered/VBN ./. 
+
+======================================
+
+[ Star/NNP ]
+,/, 
+[ which/WDT ]
+has/VBZ 
+[ 15/CD banking/NN units/NNS ]
+,/, said/VBD 
+[ the/DT action/NN was/VBD n't/RB ]
+taken/VBN in/IN 
+[ response/NN ]
+to/TO 
+[ any/DT specific/JJ effort/NN ]
+to/TO acquire/VB 
+[ the/DT company/NN ]
+and/CC is/VBZ n't/RB intended/VBN to/TO thwart/VB 
+[ bids/NNS ]
+
+[ that/WDT ]
+are/VBP considered/VBN fair/RB and/CC in/IN 
+[ the/DT best/JJS interests/NNS ]
+of/IN 
+[ the/DT company/NN ]
+and/CC 
+[ shareholders/NNS ]
+./. 

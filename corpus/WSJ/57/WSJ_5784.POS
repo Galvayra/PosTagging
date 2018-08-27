@@ -1,0 +1,498 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ RJR/NNP Nabisco/NNP Inc./NNP 's/POS sale/NN ]
+of/IN 
+[ its/PRP$ Del/NNP Monte/NNP canned/JJ foods/NNS business/NN ]
+to/TO 
+[ Citicorp/NNP Venture/NNP Capital/NNP ]
+is/VBZ being/VBG revamped/VBN to/TO comply/VB with/IN 
+[ federal/JJ limits/NNS ]
+on/IN 
+[ banks/NNS '/POS ownership/NN ]
+of/IN 
+[ non-financial/JJ companies/NNS ]
+,/, according/VBG to/TO 
+[ people/NNS ]
+familiar/JJ with/IN 
+[ the/DT transaction/NN ]
+./. 
+
+======================================
+
+[ The/DT change/NN ]
+is/VBZ being/VBG made/VBN as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ concerns/NNS ]
+expressed/VBN by/IN 
+[ the/DT staff/NN ]
+of/IN 
+[ the/DT Federal/NNP Reserve/NNP Board/NNP ]
+,/, 
+[ which/WDT ]
+applies/VBZ 
+[ the/DT provisions/NNS ]
+of/IN 
+[ federal/JJ banking/NN laws/NNS ]
+to/TO 
+[ proposed/VBN individual/JJ transactions/NNS ]
+,/, 
+[ the/DT same/JJ people/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT Citicorp/NNP unit/NN ]
+was/VBD expected/VBN to/TO purchase/VB 
+[ the/DT Del/NNP Monte/NNP business/NN ]
+for/IN about/RB 
+[ $/$ 1.48/CD billion/CD ]
+in/IN 
+[ a/DT leveraged/JJ ]
+buy-out/NN as/IN 
+[ part/NN ]
+of/IN 
+[ RJR/NNP 's/POS sale/NN ]
+of/IN 
+[ Del/NNP Monte/NNP 's/POS fresh-fruit/JJ ]
+and/CC 
+[ processed-foods/JJ divisions/NNS ]
+./. 
+
+If/IN 
+[ it/PRP ]
+occurs/VBZ ,/, 
+[ the/DT sale/NN ]
+will/MD pare/VB down/RP 
+[ RJR/NNP 's/POS debt/NN ]
+after/IN 
+[ its/PRP$ record/NN $/$ 25/CD billion/CD LBO/NNP ]
+earlier/RB 
+[ this/DT year/NN ]
+by/IN 
+[ Kohlberg/NNP Kravis/NNP Roberts/NNP ]
+&/CC 
+[ Co/NNP ]
+./. 
+
+======================================
+
+Instead/RB ,/, 
+[ Citicorp/NNP 's/POS equity/NN interest/NN ]
+in/IN 
+[ the/DT purchase/NN ]
+is/VBZ being/VBG reduced/VBN ,/, and/CC 
+[ another/DT financial/JJ buyer/NN ]
+,/, possibly/RB 
+[ another/DT leveraged/JJ buy-out/NN fund/NN ]
+,/, is/VBZ likely/JJ to/TO step/VB in/IN to/TO help/VB make/VB 
+[ the/DT purchase/NN ]
+,/, according/VBG to/TO 
+[ one/CD person/NN ]
+familiar/JJ with/IN 
+[ the/DT sale/NN ]
+./. 
+
+[ One/CD participant/NN ]
+said/VBD 
+[ Citicorp/NNP 's/POS equity/NN percentage/NN ]
+may/MD be/VB reduced/VBN to/TO around/IN 
+[ 25/CD %/NN ]
+from/IN 
+[ a/DT higher/JJR level/NN ]
+
+[ that/DT has/VBZ n't/RB ]
+been/VBN disclosed/VBN ./. 
+
+======================================
+
+[ The/DT identity/NN ]
+of/IN 
+[ the/DT additional/JJ equity/NN investors/NNS ]
+could/MD n't/RB be/VB learned/VBN ./. 
+
+[ Citicorp/NNP ]
+is/VBZ being/VBG advised/VBN by/IN 
+[ Merrill/NNP Lynch/NNP ]
+&/CC 
+[ Co./NNP ]
+,/, 
+[ which/WDT ]
+could/MD supply/VB 
+[ funds/NNS ]
+to/TO assist/VB in/IN completing/VBG 
+[ the/DT transaction/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ some/DT people/NNS ]
+involved/VBN in/IN 
+[ the/DT transaction/NN ]
+were/VBD hopeful/JJ that/IN 
+[ RJR/NNP ]
+would/MD receive/VB 
+[ the/DT same/JJ price/NN tag/NN ]
+for/IN 
+[ the/DT business/NN ]
+,/, at/IN 
+[ least/JJS one/CD ]
+said/VBD 
+[ the/DT price/NN ]
+might/MD have/VB to/TO be/VB reduced/VBN as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ the/DT change/NN ]
+./. 
+
+[ There/EX ]
+also/RB remained/VBD 
+[ a/DT chance/NN ]
+that/IN 
+[ RJR/NNP ]
+might/MD yank/VB 
+[ the/DT property/NN ]
+off/IN 
+[ the/DT auction/NN ]
+block/NN and/CC postpone/VB 
+[ any/DT sale/NN ]
+./. 
+
+======================================
+
+[ Some/DT people/NNS ]
+involved/VBN said/VBD 
+[ the/DT Fed/NNP staff/NN ]
+vetoed/VBD 
+[ the/DT proposed/VBN sale/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ an/DT informal/JJ procedure/NN ]
+in/IN 
+[ which/WDT transactions/NNS ]
+are/VBP submitted/VBN ,/, informally/RB and/CC unofficially/RB ,/, for/IN 
+[ inspection/NN ]
+by/IN 
+[ the/DT Fed/NNP staff/NN ]
+./. 
+
+[ These/DT people/NNS ]
+said/VBD 
+[ the/DT veto/NN ]
+may/MD signal/VB 
+[ a/DT tougher/JJR attitude/NN ]
+by/IN 
+[ the/DT Fed/NNP staff/NN members/NNS ]
+toward/IN 
+[ bank/NN equity/NN investments/NNS ]
+in/IN 
+[ leveraged/JJ buy-outs/NNS ]
+./. 
+
+======================================
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ they/PRP ]
+finally/RB just/RB took/VBD 
+[ a/DT different/JJ stance/NN ]
+,/, ''/'' said/VBD 
+[ one/CD person/NN ]
+familiar/JJ with/IN 
+[ the/DT sale/NN talks/NNS ]
+./. 
+
+``/`` 
+[ I/PRP ]
+think/VBP 
+[ they/PRP ]
+let/VBD 
+[ the/DT banks/NNS ]
+do/VB 
+[ a/DT lot/NN ]
+for/IN 
+[ a/DT long/JJ time/NN ]
+and/CC finally/RB said/VBD no/UH ./. 
+
+''/'' 
+======================================
+
+[ Banks/NNS ]
+,/, 
+[ which/WDT ]
+usually/RB supply/VBP more/RBR than/IN 
+[ half/NN ]
+of/IN 
+[ the/DT debt/NN ]
+for/IN 
+[ most/JJS LBOs/NNPS ]
+,/, have/VBP n't/RB generally/RB been/VBN 
+[ big/JJ equity/NN investors/NNS ]
+in/IN 
+[ them/PRP ]
+./. 
+
+[ Federal/JJ bank/NN law/NN ]
+bars/VBZ 
+[ commercial/JJ banks/NNS ]
+regulated/VBN by/IN 
+[ the/DT Federal/NNP Reserve/NNP ]
+from/IN owning/VBG more/RBR than/IN 
+[ 5/CD %/NN ]
+of/IN 
+[ a/DT non-financial/JJ company/NN ]
+./. 
+
+[ Banks/NNS ]
+can/MD own/VB nearly/RB 
+[ 25/CD %/NN ]
+in/IN 
+[ non-voting/JJ stock/NN ]
+./. 
+
+And/CC 
+[ they/PRP ]
+can/MD own/VB nearly/RB 
+[ 50/CD %/NN ]
+of/IN 
+[ a/DT small/JJ business/NN ]
+./. 
+
+[ One/CD person/NN ]
+said/VBD 
+[ the/DT Fed/NNP ]
+may/MD be/VB tightening/VBG 
+[ the/DT rules/NNS ]
+for/IN 
+[ small-business/JJ exemptions/NNS ]
+./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ the/DT Fed/NNP ]
+would/MD n't/RB confirm/VB 
+[ its/PRP$ intervention/NN ]
+in/IN 
+[ the/DT transaction/NN ]
+,/, and/CC said/VBD 
+[ there/EX ]
+has/VBZ been/VBN ``/`` 
+[ no/DT change/NN ]
+''/'' in/IN 
+[ the/DT Fed/NNP 's/POS orientation/NN ]
+to/TO 
+[ banks/NNS '/POS participation/NN ]
+as/IN 
+[ equity/NN investors/NNS ]
+in/IN 
+[ LBOs/NNPS ]
+./. 
+
+======================================
+
+Nevertheless/RB ,/, 
+[ tougher/JJR interpretation/NN ]
+of/IN 
+[ existing/VBG bank/NN laws/NNS ]
+would/MD n't/RB be/VB implausible/JJ in/IN 
+[ light/NN ]
+of/IN 
+[ the/DT current/JJ turmoil/NN ]
+in/IN 
+[ the/DT junk-bond/JJ market/NN ]
+./. 
+
+[ Prices/NNS ]
+of/IN 
+[ such/JJ high-interest/JJ ]
+,/, 
+[ high-risk/JJ bonds/NNS ]
+,/, 
+[ which/WDT ]
+help/VBP 
+[ finance/VB LBOs/NNPS ]
+,/, have/VBP tumbled/VBN in/IN 
+[ the/DT past/JJ week/NN ]
+as/IN 
+[ a/DT result/NN ]
+of/IN 
+[ financial/JJ woes/NNS ]
+at/IN 
+[ Campeau/NNP Corp./NNP ]
+,/, 
+[ a/DT Canadian/JJ retailer/NN ]
+choking/VBG on/IN 
+[ debt/NN ]
+./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ RJR/NNP ]
+said/VBD :/: ``/`` 
+[ We/PRP ]
+'ve/VBP had/VBD 
+[ a/DT few/JJ complications/NNS ]
+,/, but/CC 
+[ that/DT ]
+'s/VBZ normal/JJ for/IN 
+[ a/DT complex/JJ transaction/NN ]
+./. 
+
+As/IN 
+[ each/DT complication/NN ]
+comes/VBZ up/IN ,/, 
+[ we/PRP ]
+work/VBP 
+[ it/PRP ]
+out/RP ./. 
+
+[ The/DT deal/NN ]
+is/VBZ still/RB under/IN 
+[ discussion/NN ]
+and/CC 
+[ we/PRP ]
+think/VBP 
+[ it/PRP ]
+'s/VBZ going/VBG to/TO get/VB done/VBN ./. 
+
+''/'' 
+[ A/DT Citicorp/NNP spokeswoman/NN ]
+said/VBD 
+[ she/PRP ]
+could/MD confirm/VB 
+[ the/DT RJR/NNP statement/NN ]
+but/CC could/MD n't/RB elaborate/VB ./. 
+
+======================================
+
+Depending/VBG on/IN how/WRB 
+[ it/PRP ]
+is/VBZ worked/VBN out/RP ,/, 
+[ the/DT snag/NN ]
+in/IN 
+[ the/DT transaction/NN ]
+could/MD tarnish/VB 
+[ the/DT outcome/NN ]
+of/IN 
+[ asset/NN sales/NNS ]
+that/IN 
+[ RJR/NNP ]
+is/VBZ making/VBG to/TO try/VB to/TO pay/VB down/RP 
+[ some/DT ]
+of/IN 
+[ the/DT debt/NN ]
+incurred/VBN in/IN 
+[ the/DT buy-out/NN ]
+./. 
+
+[ RJR/NNP ]
+received/VBD 
+[ a/DT higher-than-expected/JJ price/NN ]
+for/IN 
+[ five/CD European/JJ food/NN businesses/NNS ]
+
+[ this/DT summer/NN ]
+;/: but/CC 
+[ the/DT Del/NNP Monte/NNP sale/NN ]
+is/VBZ coming/VBG in/IN under/IN 
+[ earlier/JJR optimistic/JJ hopes/NNS ]
+for/IN 
+[ proceeds/NNS ]
+of/IN 
+[ $/$ 3/CD billion/CD ]
+or/CC 
+[ more/JJR ]
+./. 
+
+======================================
+
+During/IN 
+[ a/DT lengthy/JJ auction/NN ]
+,/, 
+[ bidders/NNS ]
+for/IN 
+[ the/DT Del/NNP Monte/NNP business/NN ]
+were/VBD first/RB asked/VBN for/IN 
+[ bids/NNS ]
+for/IN 
+[ the/DT entire/NN company/NN ]
+,/, and/CC then/RB later/RB were/VBD asked/VBN for/IN 
+[ bids/NNS ]
+for/IN 
+[ the/DT two/CD major/JJ pieces/NNS ]
+./. 
+
+[ Two/CD weeks/NNS ]
+ago/RB ,/, 
+[ RJR/NNP ]
+announced/VBD 
+[ the/DT sale/NN ]
+of/IN 
+[ Del/NNP Monte/NNP 's/POS fresh-fruit/JJ business/NN ]
+for/IN 
+[ $/$ 875/CD million/CD ]
+to/TO 
+[ Polly/NNP Peck/NNP International/NNP PLC/NNP ]
+./. 
+
+======================================
+
+[ The/DT proposed/VBN canned-foods/JJ price/NN tag/NN ]
+would/MD mean/VB 
+[ RJR/NNP ]
+would/MD obtain/VB 
+[ $/$ 2.35/CD billion/CD ]
+for/IN 
+[ the/DT Del/NNP Monte/NNP businesses/NNS ]
+./. 
+
+[ Anything/NN ]
+less/JJR in/IN 
+[ the/DT canned-foods/NNS sale/NN ]
+would/MD increase/VB 
+[ the/DT amount/NN ]
+by/IN 
+[ which/WDT ]
+
+[ the/DT sale/NN ]
+fell/VBD short/RB of/IN 
+[ earlier/JJR hopes/NNS ]
+./. 
+
+However/RB ,/, 
+[ the/DT canned-foods/JJ sale/NN ]
+wo/MD n't/RB include/VB 
+[ the/DT Canadian/JJ ]
+and/CC 
+[ Latin/JJ American/JJ businesses/NNS ]
+,/, leaving/VBG 
+[ open/JJ the/DT chance/NN ]
+that/IN 
+[ RJR/NNP ]
+might/MD yet/RB come/VB closer/RB to/TO 
+[ its/PRP$ target/NN ]
+with/IN 
+[ further/JJ asset/NN sales/NNS ]
+./. 

@@ -1,0 +1,367 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Despite/IN 
+[ all/DT the/DT attention/NN being/VBG ]
+paid/VBN 
+[ the/DT Catastrophic/NNP Health/NNP Care/NNP Act/NNP ]
+,/, 
+[ one/CD major/JJ element/NN ]
+of/IN 
+[ tax/NN discrimination/NN ]
+against/IN 
+[ the/DT elderly/JJ ]
+has/VBZ been/VBN ignored/VBN --/: 
+[ the/DT marriage/NN tax/NN penalty/NN ]
+,/, exacerbated/VBN by/IN 
+[ the/DT catastrophic/JJ surtax/NN ]
+./. 
+
+======================================
+
+[ The/DT additional/JJ income/NN tax/NN ]
+
+[ a/DT married/VBN couple/NN ]
+has/VBZ to/TO pay/VB above/IN 
+[ what/WP ]
+
+[ two/CD unmarried/JJ people/NNS ]
+with/IN 
+[ the/DT same/JJ total/JJ income/NN ]
+would/MD pay/VB ,/, can/MD be/VB much/RB larger/JJR for/IN 
+[ the/DT elderly/JJ ]
+than/IN for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT population/NN ]
+./. 
+
+[ That/DT penalty/NN ]
+ (/( including/VBG 
+[ the/DT Catastrophic/NNP Health/NNP Care/NNP surtax/NN ]
+ )/) can/MD exceed/VB 
+[ $/$ 3,000/CD ]
+for/IN 
+[ some/DT elderly/JJ couples/NNS ]
+./. 
+
+And/CC 
+[ the/DT largest/JJS marriage/NN penalties/NNS ]
+are/VBP incurred/VBN by/IN 
+[ the/DT middle-income/JJ ]
+elderly/JJ ./. 
+
+======================================
+
+As/IN 
+[ an/DT example/NN ]
+,/, consider/VB 
+[ Mary/NNP ]
+and/CC 
+[ Tom/NNP Blake/NNP ]
+,/, 
+[ who/WP ]
+are/VBP 
+[ both/DT ]
+over/IN 
+[ 65/CD ]
+and/CC 
+[ eligible/JJ ]
+for/IN 
+[ Medicare/NNP coverage/NN ]
+and/CC 
+[ who/WP ]
+
+[ each/DT ]
+receive/VBP 
+[ $/$ 23,000/CD ]
+of/IN 
+[ taxable/JJ pension/NN ]
+and/CC 
+[ interest/NN income/NN ]
+and/CC 
+[ $/$ 10,500/CD ]
+of/IN 
+[ Social/NNP Security/NNP benefits/NNS ]
+./. 
+
+[ Assuming/VBG ]
+
+[ the/DT Blakes/NNS ]
+take/VBP 
+[ the/DT standard/JJ deduction/NN ]
+,/, 
+[ they/PRP ]
+will/MD have/VB to/TO pay/VB 
+[ a/DT 1989/CD federal/JJ income/NN tax/NN ]
+of/IN 
+[ $/$ 10,215.50/CD ]
+--/: 
+[ regular/JJ income/NN tax/NN ]
+of/IN 
+[ $/$ 8,884.50/CD ]
+and/CC 
+[ a/DT Catastrophic/NNP Health/NNP Care/NNP Act/NNP surtax/NN ]
+of/IN 
+[ $/$ 1,331/CD ]
+./. 
+
+That/IN 
+[ $/$ 10,215.50/CD ]
+of/IN 
+[ tax/NN ]
+is/VBZ 
+[ $/$ 3,676.50/CD larger/JJR ]
+than/IN 
+[ the/DT $/$ 6,539/CD ]
+of/IN 
+[ combined/VBN income/NN tax/NN ]
+ (/( including/VBG 
+[ $/$ 828/CD ]
+of/IN 
+[ catastrophic/JJ surtax/NN ]
+ )/) 
+[ they/PRP ]
+would/MD have/VB paid/VBN on/IN 
+[ the/DT same/JJ income/NN ]
+had/VBD they/PRP been/VBN unmarried/JJ ./. 
+
+[ The/DT Blakes/NNS ]
+have/VBP to/TO pay/VB 
+[ 56/CD %/NN ]
+more/JJR in/IN 
+[ taxes/NNS ]
+because/IN 
+[ they/PRP ]
+are/VBP married/VBN ./. 
+
+======================================
+
+[ The/DT marriage/NN tax/NN penalty/NN ]
+for/IN 
+[ the/DT Blakes/NNS ]
+and/CC 
+[ their/PRP$ real-life/JJ counterparts/NNS ]
+is/VBZ mainly/RB due/JJ to/TO 
+[ four/CD factors/NNS ]
+:/: 
+======================================
+
+[ 1/LS ]
+./. 
+
+[ The/DT combined/VBN base/NN amount/NN ]
+of/IN 
+[ income/NN ]
+for/IN determining/VBG 
+[ the/DT tax/NN ]
+on/IN 
+[ Social/NNP Security/NNP ]
+benefits/NNS of/IN 
+[ two/CD unmarried/JJ people/NNS ]
+is/VBZ 
+[ $/$ 50,000/CD ]
+ (/( 
+[ $/$ 25,000/CD each/DT ]
+ )/) ,/, while/IN 
+[ it/PRP ]
+is/VBZ 
+[ $/$ 32,000/CD ]
+for/IN 
+[ a/DT married/JJ couple/NN ]
+./. 
+
+[ This/DT ]
+accounts/VBZ for/IN 
+[ $/$ 2,030/CD ]
+of/IN 
+[ the/DT Blakes/NNS '/POS marriage/NN tax/NN penalty/NN ]
+./. 
+
+======================================
+
+[ 2/LS ]
+./. 
+
+[ Two/CD unmarried/JJ elderly/JJ individuals/NNS ]
+can/MD take/VB 
+[ a/DT total/JJ standard/JJ deduction/NN ]
+of/IN 
+[ $/$ 7,700/CD ]
+ (/( 
+[ $/$ 3,850/CD each/DT ]
+ )/) ,/, while/IN 
+[ an/DT elderly/JJ married/VBN couple/NN ]
+is/VBZ entitled/VBN only/RB to/TO 
+[ a/DT $/$ 6,400/CD standard/NN deduction/NN ]
+./. 
+
+[ This/DT ]
+is/VBZ responsible/JJ for/IN 
+[ $/$ 328/CD ]
+of/IN 
+[ the/DT Blakes/NNS '/POS marriage/NN penalty/NN ]
+./. 
+
+======================================
+
+[ 3/LS ]
+./. 
+
+[ The/DT catastrophic/JJ surtax/NN ]
+of/IN 
+[ 15/CD %/NN ]
+is/VBZ imposed/VBN on/IN 
+[ the/DT income/NN tax/NN ]
+of/IN 
+[ a/DT married/VBN couple/NN ]
+ (/( up/RB to/TO 
+[ a/DT maximum/NN ]
+of/IN 
+[ $/$ 1,600/CD ]
+ )/) ,/, while/IN 
+[ it/PRP ]
+is/VBZ imposed/VBN on/IN 
+[ the/DT separate/JJ income-tax/JJ amounts/NNS ]
+of/IN 
+[ unmarried/JJ persons/NNS ]
+ (/( up/IN to/TO 
+[ a/DT maximum/NN ]
+of/IN 
+[ $/$ 800/CD ]
+ )/) ./. 
+
+[ This/DT ]
+accounts/VBZ for/IN 
+[ $/$ 483/CD ]
+of/IN 
+[ the/DT Blakes/NNS '/POS marriage/NN tax/NN penalty/NN ]
+./. 
+
+======================================
+
+[ 4/LS ]
+./. 
+
+[ The/DT rest/NN ]
+of/IN 
+[ the/DT penalty/NN ]
+is/VBZ due/JJ to/TO 
+[ differential/JJ tax-rate/JJ schedules/NNS ]
+
+[ that/WDT ]
+cause/VBP 
+[ joint/JJ married/VBN incomes/NNS ]
+to/TO reach/VB 
+[ higher/JJR tax/NN ]
+brackets/NNS faster/RBR than/IN 
+[ the/DT separate/JJ ]
+and/CC 
+[ lower/JJR incomes/NNS ]
+of/IN 
+[ single/JJ people/NNS ]
+./. 
+
+======================================
+
+[ Congress/NNP ]
+could/MD go/VB 
+[ a/DT long/JJ way/NN ]
+toward/IN eliminating/VBG 
+[ the/DT marriage/NN tax/NN penalty/NN ]
+of/IN 
+[ the/DT elderly/JJ ]
+by/IN making/VBG 
+[ the/DT following/JJ changes/NNS ]
+in/IN 
+[ the/DT tax/NN code/NN ]
+:/: 
+======================================
+
+[ 1/LS ]
+./. 
+
+Make/VB 
+[ the/DT base/NN amount/NN ]
+of/IN 
+[ income/NN ]
+in/IN 
+[ the/DT Social/NNP Security/NNP benefits/NNS formula/NN ]
+twice/RB as/IN large/JJ for/IN 
+[ the/DT married/VBN ]
+as/IN for/IN 
+[ the/DT unmarried/JJ ]
+--/: 
+[ that/DT ]
+is/VBZ ,/, either/CC raise/VB 
+[ the/DT base/NN ]
+for/IN 
+[ marrieds/NNS ]
+to/TO 
+[ $/$ 50,000/CD ]
+or/CC lower/VB that/DT for/IN 
+[ singles/NNS ]
+to/TO 
+[ $/$ 16,000/CD ]
+./. 
+
+======================================
+
+[ 2/LS ]
+./. 
+
+Make/VB 
+[ the/DT standard/NN deduction/NN ]
+for/IN 
+[ married/VBN elderly/JJ couples/NNS ]
+twice/RB as/RB large/JJ as/IN 
+[ the/DT standard/NN deduction/NN ]
+for/IN 
+[ each/DT unmarried/JJ elderly/JJ person/NN ]
+./. 
+
+======================================
+
+[ 3/LS ]
+./. 
+
+Eliminate/VB 
+[ the/DT catastrophic/JJ surtax/NN ]
+by/IN modifying/VBG 
+[ the/DT legislation/NN ]
+or/CC ,/, better/RB yet/RB ,/, repealing/VBG 
+[ the/DT entire/JJ act/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Lassila/NNP ]
+,/, of/IN 
+[ the/DT Texas/NNP A&M/NNP University/NNP accounting/NN department/NN ]
+,/, is/VBZ researching/VBG 
+[ this/DT topic/NN ]
+with/IN 
+[ colleague/NN Casper/NNP Wiggins/NNP ]
+for/IN 
+[ the/DT Ernst/NNP ]
+&/CC 
+[ Young/NNP Foundation/NNP ]
+./. 
+
+======================================
+
+======================================

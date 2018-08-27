@@ -1,0 +1,368 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ New/JJ factory/NN orders/NNS ]
+shot/VBD up/RB in/IN 
+[ August/NNP ]
+,/, more/RBR than/IN recouping/VBG 
+[ a/DT steep/JJ decline/NN ]
+from/IN 
+[ the/DT month/NN ]
+before/IN ,/, 
+[ the/DT government/NN ]
+reported/VBD ./. 
+
+======================================
+
+[ Factory/NN orders/NNS ]
+jumped/VBD 
+[ 2.9/CD %/NN ]
+during/IN 
+[ the/DT month/NN ]
+to/TO 
+[ $/$ 237.21/CD billion/CD ]
+after/IN dropping/VBG 
+[ 2.0/CD %/NN ]
+in/IN 
+[ July/NNP ]
+,/, 
+[ the/DT Commerce/NNP Department/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Orders/NNS ]
+were/VBD boosted/VBN by/IN 
+[ a/DT surge/NN ]
+in/IN 
+[ automobile/NN bookings/NNS ]
+as/IN 
+[ dealers/NNS ]
+requisitioned/VBD 
+[ 1990/CD models/NNS ]
+./. 
+
+But/CC 
+[ orders/NNS ]
+also/RB rose/VBD for/IN 
+[ an/DT array/NN ]
+of/IN 
+[ industrial/JJ goods/NNS ]
+,/, suggesting/VBG 
+[ the/DT economy/NN 's/POS manufacturing/NN sector/NN ]
+may/MD be/VB shrugging/VBG off/RP 
+[ some/DT ]
+of/IN 
+[ the/DT weakness/NN ]
+
+[ it/PRP ]
+exhibited/VBD in/IN 
+[ recent/JJ months/NNS ]
+./. 
+
+======================================
+
+[ Charles/NNP Renfro/NNP ]
+,/, 
+[ chief/JJ economist/NN ]
+at/IN 
+[ Alphametrics/NNP ]
+,/, 
+[ an/DT economic/JJ forecasting/NN firm/NN ]
+in/IN 
+[ Bala/NNP Cynwyd/NNP ]
+,/, 
+[ Pa./NNP ]
+,/, said/VBD :/: ``/`` 
+[ I/PRP ]
+think/VBP 
+[ the/DT economy/NN ]
+really/RB 
+[ has/VBZ n't/RB ]
+stopped/VBN ./. 
+
+[ We/PRP ]
+'ve/VBP 
+[ all/DT ]
+been/VBN talking/VBG about/IN 
+[ a/DT soft/JJ landing/NN ]
+,/, but/CC 
+[ it/PRP ]
+really/RB 
+[ has/VBZ n't/RB ]
+landed/VBN ./. 
+
+''/'' (/( 
+[ ``/`` Soft/JJ landing/NN ]
+''/'' is/VBZ 
+[ a/DT term/NN analysts/NNS ]
+have/VBP been/VBN using/VBG to/TO describe/VB 
+[ a/DT situation/NN ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT economy/NN ]
+slows/VBZ to/TO 
+[ the/DT point/NN ]
+of/IN reducing/VBG 
+[ inflationary/JJ pressures/NNS ]
+but/CC not/RB to/TO 
+[ the/DT point/NN ]
+of/IN 
+[ recession/NN ]
+./. 
+
+ )/) 
+======================================
+
+[ Orders/NNS ]
+for/IN 
+[ durable/JJ goods/NNS ]
+--/: 
+[ items/NNS ]
+expected/VBN to/TO last/VB at/IN 
+[ least/JJS three/CD years/NNS ]
+,/, such/JJ as/IN 
+[ cars/NNS ]
+,/, 
+[ household/NN appliances/NNS ]
+and/CC 
+[ industrial/JJ equipment/NN ]
+--/: jumped/VBD 
+[ 3.9/CD %/NN ]
+after/IN falling/VBG 
+[ 2.5/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+[ Orders/NNS ]
+for/IN 
+[ nonelectrical/JJ machinery/NN ]
+,/, 
+[ a/DT category/NN ]
+
+[ that/WDT ]
+includes/VBZ 
+[ computers/NNS ]
+,/, soared/VBD 
+[ 9.3/CD %/NN ]
+./. 
+
+======================================
+
+[ Orders/NNS ]
+for/IN 
+[ nondurable/JJ goods/NNS ]
+,/, including/VBG 
+[ textiles/NNS ]
+,/, 
+[ chemicals/NNS ]
+and/CC 
+[ foods/NNS ]
+,/, were/VBD also/RB strong/JJ ./. 
+
+[ They/PRP ]
+climbed/VBD 
+[ 1.8/CD %/NN ]
+after/IN sagging/VBG 
+[ 1.5/CD %/NN ]
+
+[ the/DT month/NN ]
+before/RB ./. 
+
+======================================
+
+[ Electrical/JJ machinery/NN ]
+and/CC 
+[ primary/JJ metals/NNS ]
+showed/VBD 
+[ declines/NNS ]
+in/IN 
+[ orders/NNS ]
+./. 
+
+And/CC 
+[ orders/NNS ]
+for/IN 
+[ capital/NN goods/NNS ]
+outside/IN 
+[ the/DT defense/NN sector/NN ]
+plunged/VBN 
+[ 10.1/CD %/NN ]
+./. 
+
+[ This/DT category/NN ]
+,/, closely/RB watched/VBN as/IN 
+[ a/DT measure/NN ]
+of/IN 
+[ business/NN investment/NN ]
+,/, was/VBD hurt/VBN by/IN 
+[ a/DT decline/NN ]
+in/IN 
+[ civilian/JJ aircraft/NN bookings/NNS ]
+./. 
+
+Excluding/VBG 
+[ aircraft/NNS ]
+and/CC 
+[ parts/NNS ]
+,/, however/RB ,/, 
+[ orders/NNS ]
+for/IN 
+[ nondefense/JJ capital/NN goods/NNS ]
+climbed/VBD  
+[ 4.9/CD %/NN ]
+./. 
+
+======================================
+
+[ Another/DT report/NN ]
+offered/VBD 
+[ evidence/NN ]
+that/IN 
+[ the/DT housing/NN industry/NN ]
+was/VBD also/RB looking/VBG up/IN after/IN 
+[ a/DT slump/NN ]
+earlier/RB 
+[ this/DT year/NN ]
+./. 
+
+[ Sales/NNS ]
+of/IN newly/RB built/VBN 
+[ houses/NNS ]
+continued/VBD 
+[ strong/RB ]
+in/IN 
+[ August/NNP ]
+at/IN 
+[ a/DT solid/JJ 755,000/CD annual/JJ rate/NN ]
+,/, 
+[ the/DT department/NN ]
+said/VBD ./. 
+
+[ Home/NN sales/NNS ]
+did/VBD 
+[ slip/VB 0.4/CD %/NN ]
+from/IN 
+[ July/NNP ]
+,/, but/CC 
+[ the/DT July/NNP level/NN ]
+was/VBD 
+[ 16.1/CD %/NN ]
+above/IN 
+[ June/NNP 's/POS ]
+./. 
+
+[ The/DT figure/NN ]
+was/VBD revised/VBN upward/RB from/IN 
+[ the/DT earlier/JJR report/NN ]
+of/IN 
+[ a/DT 14.4/CD %/NN July/NNP increase/NN ]
+./. 
+
+======================================
+
+[ The/DT home/NN sales/NNS report/NN ]
+is/VBZ often/RB unreliable/JJ and/CC 
+[ subject/JJ ]
+to/TO 
+[ large/JJ revisions/NNS ]
+as/IN 
+[ more/JJR information/NN ]
+comes/VBZ in/RB ./. 
+
+======================================
+
+[ The/DT two/CD reports/NNS ]
+were/VBD released/VBN as/IN 
+[ the/DT Federal/NNP Reserve/NNP System/NNP 's/POS policy-making/NN committee/NN ]
+convened/VBD 
+[ a/DT two-day/JJ meeting/NN ]
+to/TO set/VB 
+[ monetary/JJ policy/NN ]
+for/IN 
+[ the/DT next/JJ several/JJ weeks/NNS ]
+./. 
+
+======================================
+
+[ The/DT Fed/NNP 's/POS policy/NN ]
+of/IN pushing/VBG up/RP 
+[ interest/NN rates/NNS ]
+from/IN 
+[ March/NNP 1988/CD ]
+to/TO 
+[ March/NNP 1989/CD ]
+,/, in/IN 
+[ an/DT attempt/NN ]
+to/TO reduce/VB 
+[ inflation/NN ]
+,/, pummeled/VBD 
+[ the/DT housing/NN industry/NN ]
+and/CC eroded/VBD much/RB of/IN 
+[ the/DT strength/NN ]
+in/IN manufacturing/NN ./. 
+
+[ These/DT two/CD sectors/NNS ]
+are/VBP closely/RB influenced/VBN by/IN 
+[ interest/NN rates/NNS ]
+because/IN 
+[ purchases/NNS ]
+frequently/RB are/VBP financed/VBN by/IN borrowing/VBG ./. 
+
+======================================
+
+``/`` 
+[ Both/DT ]
+
+[ these/DT ]
+ 
+(/( 
+[ reports/NNS ]
+ )/) indicate/VBP that/IN 
+[ the/DT economy/NN ]
+is/VBZ probably/RB more/RBR robust/JJ than/IN has/VBZ been/VBN anticipated/VBN ,/, ''/'' said/VBD 
+[ Michael/NNP Carliner/NNP ]
+,/, 
+[ an/DT economist/NN ]
+at/IN 
+[ the/DT National/NNP Association/NNP ]
+of/IN 
+[ Home/NNP Builders/NNPS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+indicates/VBZ 
+[ we/PRP ]
+'re/VBP certainly/RB not/RB going/VBG to/TO have/VB 
+[ a/DT recession/NN ]
+./. 
+
+''/'' 
+======================================
+
+Here/RB are/VBP 
+[ the/DT Commerce/NNP Department/NNP 's/POS latest/JJS figures/NNS ]
+for/IN 
+[ manufacturers/NNS ]
+in/IN 
+[ billions/NNS ]
+of/IN 
+[ dollars/NNS ]
+,/, seasonally/RB adjusted/VBN ./. 

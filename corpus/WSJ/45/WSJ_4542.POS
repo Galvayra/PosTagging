@@ -1,0 +1,598 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+is/VBZ squaring/VBG off/RB with/IN 
+[ two/CD big/JJ exchanges/NNS ]
+over/IN 
+[ options/NNS ]
+trading/NN that/IN 
+[ the/DT agency/NN ]
+contends/VBZ is/VBZ fueling/VBG 
+[ program/NN ]
+trading/NN and/CC 
+[ stock-market/NN volatility/NN ]
+./. 
+
+======================================
+
+So/RB far/RB ,/, 
+[ the/DT exchanges/NNS ]
+are/VBP refusing/VBG to/TO back/VB down/RP ./. 
+
+======================================
+
+[ The/DT SEC/NNP ]
+has/VBZ asked/VBN 
+[ the/DT American/NNP Stock/NNP Exchange/NNP ]
+and/CC 
+[ the/DT Chicago/NNP Board/NNP Options/NNPS Exchange/NNP ]
+,/, in/IN 
+[ letters/NNS ]
+
+[ the/DT agency/NN has/VBZ n't/RB ]
+made/VBN 
+[ public/JJ ] 
+,/, to/TO have/VB 
+[ certain/JJ stock-index/NN options/NNS ]
+expire/VB in/IN 
+[ the/DT morning/NN ]
+rather/RB than/IN 
+[ the/DT afternoon/NN ]
+./. 
+
+[ The/DT problem/NN ]
+,/, 
+[ the/DT SEC/NNP ]
+argues/VBZ ,/, is/VBZ that/IN trading/NN in/IN 
+[ the/DT options/NNS ]
+creates/VBZ increased/VBN 
+[ volume/NN ]
+and/CC 
+[ volatility/NN ]
+in/IN 
+[ the/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+between/IN 
+[ 3:30/CD p.m./RB ]
+and/CC 
+[ 4/CD ]
+p.m/RB ./. 
+
+[ Eastern/JJ time/NN ]
+on/IN 
+[ the/DT Fridays/NNPS ]
+that/IN 
+[ the/DT options/NNS ]
+expire/VBP ./. 
+
+======================================
+
+Moreover/RB ,/, 
+[ the/DT commission/NN ]
+told/VBD 
+[ the/DT exchanges/NNS ]
+that/IN having/VBG 
+[ some/DT futures/NNS ]
+and/CC 
+[ options/NNS ]
+expire/VB in/IN 
+[ the/DT morning/NN ]
+while/IN 
+[ others/NNS ]
+expire/VBP in/IN 
+[ the/DT afternoon/NN ]
+``/`` can/MD give/VB rise/NN to/TO 
+[ the/DT potential/NN ]
+for/IN 
+[ abuse/NN ]
+./. 
+
+''/'' Indeed/RB ,/, 
+[ some/DT traders/NNS ]
+and/CC 
+[ money/NN managers/NNS ]
+say/VBP that/IN 
+[ expiration-related/JJ abuses/NNS ]
+are/VBP increasing/VBG --/: and/CC even/RB starting/VBG to/TO take/VB on/RP 
+[ names/NNS ]
+of/IN 
+[ their/PRP$ own/JJ ]
+./. 
+
+======================================
+
+At/IN 
+[ issue/NN ]
+are/VBP 
+[ so-called/JJ stock-index/NN options/NNS ]
+,/, 
+[ which/WDT ]
+are/VBP tied/VBN to/TO 
+[ a/DT basket/NN ]
+of/IN 
+[ stocks/NNS ]
+./. 
+
+While/IN 
+[ many/JJ investors/NNS ]
+use/VBP 
+[ the/DT products/NNS ]
+as/IN 
+[ a/DT bet/NN ]
+on/IN where/WRB 
+[ the/DT market/NN ]
+is/VBZ going/VBG ,/, 
+[ large/JJ professional/JJ investors/NNS ]
+can/MD play/VB 
+[ the/DT slight/JJ variations/NNS ]
+between/IN 
+[ the/DT options/NNS ]
+and/CC 
+[ the/DT underlying/VBG stocks/NNS ]
+--/: 
+[ a/DT practice/NN ]
+known/VBN as/IN 
+[ index/NN arbitrage/NN ]
+./. 
+
+[ The/DT SEC/NNP ]
+is/VBZ concerned/JJ that/IN 
+[ these/DT trades/NNS ]
+are/VBP whipsawing/VBG 
+[ stock/NN prices/NNS ]
+./. 
+
+======================================
+
+[ Two/CD ]
+of/IN 
+[ the/DT more/RBR popular/JJ index/NN options/NNS ]
+--/: 
+[ the/DT CBOE/NNP 's/POS S&P/NNP 100/CD Stock/NNP Index/NNP option/NN ]
+and/CC 
+[ the/DT Amex/NNP 's/POS Major/NNP Market/NNP Stock/NNP Index/NNP option/NN ]
+--/: expire/VBP at/IN 
+[ the/DT close/NN ]
+of/IN trading/NN on/IN 
+[ their/PRP$ expiration/NN day/NN ]
+./. 
+
+[ New/NNP York/NNP Stock/NNP Exchange/NNP data/NNS ]
+show/VBP that/IN 
+[ the/DT index/NN options/NNS ]
+increasingly/RB are/VBP being/VBG used/VBN for/IN 
+[ index/NN arbitrage/NN ]
+./. 
+
+[ The/DT commission/NN ]
+noted/VBD that/IN 
+[ exchange/NN data/NNS ]
+show/VBP 
+[ the/DT two/CD products/NNS ]
+
+[ each/DT ]
+are/VBP used/VBN in/IN 
+[ 4/CD %/NN ]
+to/TO 
+[ 19/CD %/NN ]
+of/IN 
+[ the/DT index/NN arbitrage/NN share/NN volume/NN ]
+./. 
+
+[ The/DT SEC/NNP ]
+argued/VBD that/IN moving/VBG to/TO 
+[ morning/NN options/NNS expiration/NN ]
+would/MD allow/VB 
+[ the/DT stock/NN market/NN ]
+to/TO correct/VB 
+[ order/NN imbalances/NNS ]
+caused/VBN by/IN 
+[ waves/NNS ]
+of/IN trading/NN ,/, usually/RB by/IN delaying/VBG 
+[ the/DT opening/NN ]
+in/IN 
+[ a/DT stock/NN ]
+and/CC finding/VBG 
+[ a/DT balance/NN ]
+between/IN 
+[ buyers/NNS ]
+and/CC 
+[ sellers/NNS ]
+./. 
+
+[ That/DT process/NN ]
+is/VBZ used/VBN frequently/RB in/IN 
+[ stocks/NNS ]
+
+[ that/WDT ]
+are/VBP affected/JJ by/IN 
+[ morning/NN announcements/NNS ]
+for/IN 
+[ such/JJ things/NNS ]
+as/IN 
+[ takeovers/NNS ]
+./. 
+
+======================================
+
+[ The/DT commission/NN ]
+said/VBD in/IN 
+[ its/PRP$ letters/NNS ]
+that/IN 
+[ it/PRP ]
+has/VBZ ``/`` repeatedly/RB ''/'' asked/VBN 
+[ the/DT exchanges/NNS ]
+since/IN 
+[ the/DT spring/NN ]
+of/IN 
+[ 1988/CD ]
+to/TO switch/VB to/TO 
+[ a/DT morning/NN expiration/NN ]
+./. 
+
+And/CC 
+[ it/PRP ]
+calls/VBZ 
+[ the/DT exchanges/NNS '/POS refusal/NN ]
+to/TO change/VB ``/`` 
+[ troublesome/JJ ]
+./. 
+
+''/'' 
+======================================
+
+Nevertheless/RB ,/, 
+[ the/DT exchanges/NNS ]
+are/VBP n't/RB exactly/RB jumping/VBG to/TO comply/VB ./. 
+
+In/IN 
+[ response/NN ]
+to/TO 
+[ the/DT requests/NNS ]
+,/, 
+[ the/DT CBOE/NNP ]
+and/CC 
+[ the/DT Amex/NNP ]
+have/VBP commissioned/VBN 
+[ a/DT study/NN ]
+to/TO determine/VB whether/IN 
+[ the/DT options/NNS ]
+actually/RB are/VBP contributing/VBG to/TO 
+[ volatility/NN ]
+./. 
+
+[ That/DT study/NN ]
+,/, by/IN 
+[ the/DT same/JJ professors/NNS ]
+
+[ who/WP ]
+studied/VBD ``/`` 
+[ triple-witching/JJ hour/NN ]
+,/, ''/'' should/MD be/VB completed/VBN in/IN 
+[ January/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT exchanges/NNS ]
+are/VBP n't/RB eager/JJ to/TO switch/VB ./. 
+
+``/`` 
+[ We/PRP ]
+'ve/VBP consulted/VBN with/IN 
+[ our/PRP$ member/NN firms/NNS ]
+,/, ''/'' said/VBD 
+[ CBOE/NNP Chairman/NNP Alger/NNP Chapman/NNP ]
+,/, ``/`` 
+[ who/WP ]
+without/IN 
+[ exception/NN ]
+have/VBP told/VBN 
+[ us/PRP ]
+leave/VB 
+[ it/PRP ]
+where/WRB 
+[ it/PRP ]
+is/VBZ ./. 
+
+''/'' 
+[ He/PRP ]
+added/VBD that/IN tinkering/VBG with/IN 
+[ a/DT product/NN ]
+
+[ that/WDT ]
+has/VBZ garnered/VBN 
+[ 87/CD %/NN ]
+of/IN 
+[ the/DT index-options/NNS market/NN ]
+would/MD be/VB ``/`` 
+[ foolish/JJ ]
+./. 
+
+''/'' 
+======================================
+
+[ That/DT opinion/NN ]
+is/VBZ echoed/VBN by/IN 
+[ the/DT Amex/NNP ]
+./. 
+
+``/`` 
+[ We/PRP ]
+want/VBP to/TO see/VB 
+[ some/DT statistical/JJ analysis/NN ]
+,/, ''/'' said/VBD 
+[ Kenneth/NNP Leibler/NNP ]
+,/, 
+[ the/DT exchange/NN 's/POS president/NN ]
+./. 
+
+``/`` 
+[ We/PRP ]
+have/VBP seen/VBN 
+[ no/DT evidence.../: ]
+
+[ which/WDT ]
+would/MD indicate/VB 
+[ that/DT our/PRP$ option/NN ]
+is/VBZ 
+[ the/DT cause/NN ]
+of/IN 
+[ that/DT kind/NN ]
+of/IN 
+[ stress/NN ]
+at/IN 
+[ the/DT close/NN ]
+./. 
+
+''/'' 
+======================================
+
+But/CC 
+[ both/DT ]
+
+[ executives/NNS ]
+added/VBD that/IN 
+[ they/PRP ]
+would/MD be/VB willing/JJ to/TO reconsider/VB 
+[ the/DT decision/NN ]
+if/IN 
+[ the/DT study/NN ]
+conclusively/RB shows/VBZ 
+[ the/DT options/NNS ]
+caused/VBD added/JJ 
+[ volatility/NN ]
+./. 
+
+======================================
+
+[ Program/NN ]
+trading/NN will/MD be/VB 
+[ a/DT focus/NN ]
+of/IN 
+[ a/DT hearing/NN today/NN ]
+by/IN 
+[ the/DT House/NNP Telecommunications/NNPS ]
+and/CC 
+[ Finance/NNP Subcommittee/NNP ]
+,/, 
+[ whose/WP$ chairman/NN ]
+,/, 
+[ Edward/NNP Markey/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Mass./NNP ]
+ )/) ,/, has/VBZ expressed/VBN 
+[ concern/NN ]
+about/IN 
+[ the/DT stability/NN ]
+of/IN 
+[ the/DT markets/NNS ]
+./. 
+
+======================================
+
+[ The/DT options/NNS markets/NNS ]
+may/MD have/VB 
+[ a/DT bigger/JJR worry/NN ]
+if/IN 
+[ traders/NNS ]
+prove/VBP to/TO be/VB right/JJ about/IN 
+[ abuses/NNS ]
+that/IN 
+[ they/PRP ]
+allege/VBP are/VBP prevalent/JJ ./. 
+
+======================================
+
+For/IN 
+[ example/NN ]
+,/, 
+[ the/DT SEC/NNP ]
+told/VBD 
+[ the/DT Markey/NNP subcommittee/NN ]
+in/IN 
+[ a/DT recent/JJ report/NN ]
+that/IN ``/`` continuing/VBG 
+[ rapid/JJ expansion/NN ]
+of/IN trading/NN in/IN 
+[ index/NN products/NNS ]
+raises/VBZ 
+[ significant/JJ surveillance/NN ]
+and/CC 
+[ enforcement/NN concerns/NNS ]
+./. 
+
+''/'' In/IN 
+[ particular/JJ ]
+,/, 
+[ the/DT agency/NN ]
+is/VBZ worried/JJ about/IN ``/`` 
+[ intermarket/NN manipulation/NN ]
+,/, ''/'' where/WRB 
+[ a/DT firm/NN ]
+pushes/VBZ 
+[ the/DT futures/NNS price/NN ]
+out/IN of/IN 
+[ line/NN ]
+with/IN 
+[ the/DT prices/NNS ]
+of/IN 
+[ the/DT underlying/VBG stocks/NNS ]
+,/, and/CC ``/`` 
+[ front-running/JJ ]
+,/, ''/'' where/WRB 
+[ a/DT big/JJ player/NN ]
+places/VBZ 
+[ an/DT order/NN ]
+in/IN 
+[ one/CD market/NN ]
+just/RB before/IN placing/VBG 
+[ a/DT big/JJ customer/NN order/NN ]
+in/IN 
+[ another/DT market/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT SEC/NNP ]
+says/VBZ 
+[ it/PRP ]
+
+[ has/VBZ n't/RB ]
+found/VBD 
+[ instances/NNS ]
+of/IN 
+[ these/DT activities/NNS ]
+,/, 
+[ it/PRP ]
+remains/VBZ concerned/JJ ./. 
+
+======================================
+
+[ One/CD expiration/NN abuse/NN ]
+that/IN 
+[ money/NN managers/NNS ]
+have/VBP seen/VBN 
+[ this/DT year/NN ]
+has/VBZ even/RB acquired/VBN 
+[ a/DT name/NN ]
+of/IN 
+[ its/PRP$ own/JJ ]
+./. 
+
+[ It/PRP ]
+'s/VBZ called/VBN 
+[ the/DT ]
+``/`` 
+[ Paris/NNP march/NN ]
+''/'' --/: named/VBN after/IN 
+[ the/DT German/JJ army/NN 's/POS inexorable/JJ entry/NN ]
+into/IN 
+[ Paris/NNP ]
+in/IN 
+[ World/NNP War/NNP II/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+is/VBZ 
+[ a/DT ]
+very/RB ,/, 
+[ very/RB tight/JJ domino/NN effect/NN ]
+,/, ''/'' says/VBZ 
+[ one/CD Chicago-based/JJ futures/NNS trader/NN ]
+./. 
+
+``/`` If/IN 
+[ you/PRP ]
+stand/VBP in/IN 
+[ their/PRP$ way/NN ]
+during/IN 
+[ the/DT expiration/NN ]
+,/, 
+[ you/PRP ]
+are/VBP going/VBG to/TO have/VB 
+[ tire/NN tracks/NNS ]
+on/IN 
+[ your/PRP$ back/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT firms/NNS ]
+use/VBP 
+[ a/DT complex/JJ strategy/NN ]
+of/IN ``/`` shorting/VBG ''/'' 
+[ the/DT stocks/NNS ]
+underlying/VBG 
+[ the/DT S*/NNP&P/NN 100/CD options/NNS ]
+and/CC 
+[ both/DT ]
+buying/VBG and/CC 
+[ selling/VBG options/NNS ]
+on/IN 
+[ the/DT same/JJ stocks/NNS ]
+./. 
+
+ (/( Shorting/NN is/VBZ 
+[ a/DT bet/NN ]
+that/IN 
+[ the/DT stocks/NNS ]
+will/MD go/VB down/RB ./. 
+
+ )/) 
+======================================
+
+By/IN abusing/VBG 
+[ the/DT strategy/NN ]
+,/, 
+[ the/DT firms/NNS ]
+can/MD move/VB 
+[ key/JJ market/NN measures/NNS ]
+,/, in/IN 
+[ turn/NN ]
+forcing/VBG 
+[ other/JJ trading/NN firms/NNS ]
+to/TO begin/VB to/TO respond/VB ./. 
+
+[ The/DT gain/NN ]
+to/TO 
+[ the/DT firm/NN ]
+engineering/VBG 
+[ the/DT ]
+``/`` 
+[ march/NN ]
+''/'' 
+[ strategy/NN ]
+comes/VBZ from/IN 
+[ its/PRP$ ability/NN ]
+to/TO buy/VB back/RB 
+[ its/PRP$ stock/NN ]
+cheaper/RBR and/CC boost/VB 
+[ the/DT price/NN ]
+of/IN 
+[ its/PRP$ own/JJ call/NN options/NNS ]
+./. 

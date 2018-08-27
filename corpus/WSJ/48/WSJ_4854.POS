@@ -1,0 +1,212 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Arthur/NNP Abba/NNP Goldberg/NNP ]
+,/, 
+[ executive/NN vice/NN president/NN ]
+of/IN 
+[ Matthews/NNP ]
+&/CC 
+[ Wright/NNP Group/NNP Inc./NNP ]
+,/, was/VBD sentenced/VBN to/TO 
+[ 18/CD months/NNS ]
+in/IN 
+[ prison/NN ]
+and/CC fined/VBN 
+[ $/$ 100,000/CD ]
+for/IN 
+[ his/PRP$ role/NN ]
+in/IN 
+[ a/DT scheme/NN ]
+to/TO defraud/VB 
+[ a/DT trust/NN fund/NN ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ a/DT $/$ 300/CD million/CD Guam/NNP bond/NN issue/NN underwritten/VBN ]
+by/IN 
+[ Matthews/NNP ]
+&/CC 
+[ Wright/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Goldberg/NNP ]
+,/, 
+[ who/WP ]
+in/IN 
+[ July/NNP ]
+pleaded/VBD 
+[ guilty/JJ ]
+in/IN 
+[ federal/JJ court/NN ]
+here/RB to/TO 
+[ three/CD counts/NNS ]
+of/IN using/VBG 
+[ the/DT mails/NNS ]
+to/TO defraud/VB 
+[ the/DT Guam/NNP trust/NN fund/NN ]
+of/IN 
+[ $/$ 57,500/CD ]
+,/, also/RB was/VBD sentenced/VBN to/TO 
+[ five/CD years/NNS probation/NN ]
+and/CC ordered/VBN to/TO make/VB 
+[ restitution/NN ]
+of/IN 
+[ $/$ 300,000/CD ]
+to/TO 
+[ the/DT South/NNP Pacific/NNP U.S./NNP territory/NN ]
+./. 
+
+However/RB ,/, 
+[ Mr./NNP Goldberg/NNP ]
+would/MD be/VB eligible/JJ for/IN 
+[ parole/NN ]
+after/IN 
+[ six/CD months/NNS ]
+in/IN 
+[ prison/NN ]
+,/, and/CC 
+[ the/DT amount/NN ]
+of/IN 
+[ restitution/NN ]
+could/MD be/VB reduced/VBN under/IN 
+[ the/DT sentence/NN ]
+handed/VBN down/RB yesterday/NN by/IN 
+[ Senior/NNP U.S./NNP District/NNP Judge/NNP Jesse/NNP Curtis/NNP ]
+./. 
+
+======================================
+
+Known/VBN as/IN 
+[ an/DT aggressive/JJ Wall/NNP Street/NNP dealmaker/NN ]
+,/, 
+[ Mr./NNP Goldberg/NNP ]
+was/VBD indicted/VBN by/IN 
+[ a/DT U.S./NNP grand/JJ jury/NN ]
+in/IN 
+[ Guam/NNP ]
+in/IN 
+[ late/JJ 1987/CD ]
+on/IN 
+[ 52/CD counts/NNS ]
+of/IN 
+[ bribery/NN ]
+,/, 
+[ fraud/NN ]
+and/CC 
+[ obstruction/NN ]
+of/IN 
+[ justice/NN ]
+in/IN 
+[ what/WDT authorities/NNS ]
+had/VBD charged/VBN was/VBD 
+[ a/DT nationwide/JJ bogus/JJ bond/NN scheme/NN ]
+totaling/VBG 
+[ $/$ 2/CD billion/CD ]
+./. 
+
+======================================
+
+[ The/DT 46-year-old/JJ Mr./NNP Goldberg/NNP ]
+,/, 
+[ a/DT former/JJ New/NNP Jersey/NNP deputy/NN attorney/NN general/NN ]
+,/, has/VBZ been/VBN on/IN 
+[ leave/NN ]
+from/IN 
+[ Matthews/NNP ]
+&/CC 
+[ Wright/NNP ]
+since/IN 
+[ the/DT indictment/NN ]
+./. 
+
+Still/RB pending/VBG are/VBP 
+[ the/DT Securities/NNPS ]
+and/CC 
+[ Exchange/NNP Commission/NNP 's/POS charges/NNS ]
+against/IN 
+[ him/PRP ]
+and/CC 
+[ others/NNS ]
+of/IN 
+[ fraud/NN ]
+in/IN 
+[ connection/NN ]
+with/IN ``/`` 
+[ sham/JJ closings/NNS ]
+''/'' of/IN more/JJR than/IN 
+[ $/$ 1/CD billion/CD ]
+of/IN 
+[ municipal/JJ bonds/NNS ]
+in/IN 
+[ violation/NN ]
+of/IN 
+[ tax/NN rules/NNS ]
+in/IN 
+[ 1985/CD ]
+and/CC 
+[ 1986/CD ]
+./. 
+
+[ Matthews/NNP ]
+&/CC 
+[ Wright/NNP ]
+and/CC 
+[ two/CD individuals/NNS ]
+settled/VBD with/IN 
+[ the/DT SEC/NNP ]
+;/: 
+[ Mr./NNP Goldberg/NNP ]
+was/VBD fighting/VBG 
+[ the/DT charges/NNS ]
+./. 
+
+======================================
+
+[ K./NNP William/NNP O'Connor/NNP ]
+,/, 
+[ the/DT U.S./NNP attorney/NN ]
+for/IN 
+[ Guam/NNP ]
+,/, had/VBD sought/VBN 
+[ a/DT maximum/JJ penalty/NN ]
+of/IN 
+[ 15/CD years/NNS imprisonment/NN ]
+and/CC 
+[ a/DT $/$ 750,000/CD fine/NN ]
+./. 
+
+But/CC 
+[ he/PRP ]
+said/VBD yesterday/NN that/IN 
+[ the/DT court/NN ]
+had/VBD gone/VBN ``/`` into/IN 
+[ the/DT matter/NN ]
+with/IN 
+[ great/JJ care/NN ]
+and/CC 
+[ the/DT public/JJ interest/NN ]
+has/VBZ been/VBN served/VBN ''/'' by/IN 
+[ the/DT sentence/NN ]
+./. 
+
+[ An/DT attorney/NN ]
+for/IN 
+[ Mr./NNP Goldberg/NNP ]
+declined/VBD to/TO comment/VB ./. 

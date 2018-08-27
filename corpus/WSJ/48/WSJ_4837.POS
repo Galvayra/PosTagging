@@ -1,0 +1,90 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ L.J./NNP Hooker/NNP Corp./NNP ]
+has/VBZ decided/VBN against/IN opening/VBG 
+[ its/PRP$ B./NNP Altman/NNP ]
+&/CC 
+[ Co./NNP store/NN ]
+in/IN 
+[ the/DT Walden/NNP Galleria/NNP mall/NN ]
+in/IN 
+[ Buffalo/NNP ]
+,/, 
+======================================
+
+In/IN 
+[ August/NNP ]
+,/, 
+[ L.J./NNP Hooker/NNP ]
+filed/VBD for/IN 
+[ Chapter/NN 11/CD bankruptcy/NN proceedings/NNS ]
+./. 
+
+[ Its/PRP$ parent/NN company/NN ]
+,/, 
+[ Hooker/NNP Corp./NNP ]
+of/IN 
+[ Australia/NNP ]
+,/, also/RB is/VBZ being/VBG managed/VBN by/IN 
+[ a/DT court-appointed/JJ provisional/JJ liquidator/NN ]
+./. 
+
+======================================
+
+[ Separately/RB ]
+,/, 
+[ General/NNP Electric/NNP Capital/NNP Corp./NNP ]
+,/, 
+[ a/DT unit/NN ]
+of/IN 
+[ General/NNP Electric/NNP Co./NNP ]
+,/, agreed/VBD to/TO purchase/VB as/RB much/JJ as/IN 
+[ $/$ 75/CD million/CD ]
+in/IN 
+[ receivables/NN ]
+from/IN 
+[ L.J./NNP Hooker/NNP 's/POS B./NNP Altman/NNP ]
+and/CC 
+[ Bonwit/NNP Teller/NNP chains/NNS ]
+./. 
+
+[ Currently/RB ]
+,/, 
+[ Bonwit/NNP Teller/NNP ]
+and/CC 
+[ B./NNP Altman/NNP ]
+are/VBP servicing/VBG 
+[ their/PRP$ credit-card/NN customers/NNS ]
+and/CC will/MD continue/VB to/TO so/RB ./. 
+
+======================================
+
+[ The/DT $/$ 75/CD million/CD agreement/NN ]
+is/VBZ distinct/JJ from/IN 
+[ an/DT earlier/JJR agreement/NN ]
+under/IN 
+[ which/WDT ]
+
+[ GE/NNP Capital/NNP ]
+is/VBZ providing/VBG as/RB much/JJ as/IN 
+[ $/$ 50/CD million/CD ]
+in/IN 
+[ debtor-in-possession/NN ]
+financing/NN for/IN 
+[ L.J./NNP Hooker/NNP 's/POS various/JJ divisions/NNS ]
+./. 

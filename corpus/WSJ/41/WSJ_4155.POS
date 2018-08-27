@@ -1,0 +1,961 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Darkness/NN ]
+shrouds/VBZ 
+[ the/DT railroad/NN tracks/NNS ]
+on/IN 
+[ the/DT deserted/VBN outskirts/NNS ]
+of/IN 
+[ town/NN ]
+,/, 
+[ hours/NNS ]
+before/IN 
+[ dawn/NN ]
+./. 
+
+======================================
+
+Through/IN 
+[ the/DT mist/NN ]
+,/, 
+[ a/DT rider/NN ]
+on/IN 
+[ a/DT small/JJ vehicle/NN ]
+rolls/VBZ quietly/RB along/IN 
+[ the/DT rails/NNS ]
+on/IN 
+[ four/CD flanged/VBN wheels/NNS ]
+./. 
+
+[ He/PRP ]
+casts/VBZ 
+[ frequent/JJ glances/NNS ]
+backward/RB and/CC ahead/RB until/IN 
+[ he/PRP ]
+spots/VBZ 
+[ a/DT glimmer/NN ]
+above/IN 
+[ the/DT treetops/NNS ]
+in/IN 
+[ front/NN ]
+of/IN 
+[ him/PRP ]
+./. 
+
+======================================
+
+As/IN 
+[ the/DT glow/NN ]
+gets/VBZ 
+[ brighter/JJR ]
+,/, 
+[ the/DT rider/NN ]
+applies/VBZ 
+[ the/DT foot/NN brake/NN ]
+,/, 
+[ dismounts/VBZ ]
+and/CC lifts/VBZ 
+[ the/DT contraption/NN ]
+from/IN 
+[ the/DT rails/NNS ]
+./. 
+
+Hiding/VBG 
+[ it/PRP ]
+under/IN 
+[ some/DT vines/NNS ]
+along/IN 
+[ the/DT gravel/NN ]
+railbed/NN ,/, 
+[ he/PRP ]
+ducks/VBZ into/IN 
+[ the/DT woods/NNS ]
+and/CC watches/VBZ as/IN 
+[ a/DT coal/NN train/NN ]
+,/, with/IN 
+[ three/CD diesel/NN locomotives/NNS ]
+,/, roars/VBZ 
+[ past/IN ]
+./. 
+
+======================================
+
+[ Seconds/NNS ]
+later/RB ,/, 
+[ Herbert/NNP X./NNP Smith/NNP ]
+is/VBZ back/RB on/IN 
+[ the/DT rails/NNS ]
+,/, pedaling/VBG 
+[ his/PRP$ two-seat/JJ railbike/NN ]
+through/IN 
+[ rock/NN cuts/NNS ]
+,/, watching/VBG for/IN 
+[ wildlife/NN ]
+along/IN 
+[ the/DT tracks/NNS ]
+and/CC recalling/VBG 
+[ the/DT panicky/JJ passenger/NN ]
+
+[ who/WP ]
+once/RB insisted/VBD 
+[ he/PRP ]
+install/VB 
+[ a/DT rearview/NN mirror/NN ]
+:/: ``/`` 
+[ She/PRP ]
+did/VBD n't/RB have/VB 
+[ any/DT faith/NN ]
+in/IN 
+[ my/PRP$ ability/NN ]
+to/TO 
+[ spot/VB trains/NNS ]
+./. 
+
+''/'' 
+======================================
+
+[ The/DT 40-year-old/JJ Dr./NNP Smith/NNP ]
+,/, 
+[ an/DT emergency-room/NN physician/NN ]
+at/IN 
+[ a/DT local/JJ hospital/NN ]
+,/, is/VBZ 
+[ the/DT sort/NN ]
+of/IN 
+[ buff/NN ]
+
+[ whose/WP$ recreational/JJ use/NN ]
+of/IN 
+[ the/DT tracks/NNS ]
+gives/VBZ 
+[ railroad/NN officials/NNS nightmares/NNS ]
+./. 
+
+Tired/VBN of/IN 
+[ highway/NN traffic/NN ]
+and/CC inspired/VBN by/IN 
+[ the/DT railroads/NNS '/POS wholesale/JJ abandonment/NN ]
+of/IN 
+[ track/NN ]
+,/, 
+[ railbikers/NNS ]
+have/VBP proliferated/VBN over/IN 
+[ the/DT past/NN decade/NN ]
+,/, from/IN 
+[ a/DT handful/NN ]
+to/TO perhaps/RB 
+[ several/JJ hundred/CD ]
+./. 
+
+[ Most/JJS limit/VBP their/PRP$ runs/NNS ]
+to/TO 
+[ disused/JJ track/NN ]
+./. 
+
+But/CC 
+[ some/DT ]
+prefer/VBP 
+[ the/DT excitement/NN ]
+--/: and/CC 
+[ the/DT smooth/JJ ride/NN ]
+--/: of/IN 
+[ active/JJ rails/NNS ]
+./. 
+
+[ Railbikes/NNS ]
+,/, 
+[ some/DT ]
+say/VBP ,/, are/VBP 
+[ a/DT landlubber/NN 's/POS alternative/NN ]
+to/TO 
+[ the/DT sailboat/NN ]
+,/, 
+[ the/DT earthbound/JJ equivalent/NN ]
+of/IN 
+[ the/DT hang/NN glider/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ You/PRP ]
+close/VBP 
+[ your/PRP$ eyes/NNS ]
+,/, and/CC 
+[ you/PRP ]
+feel/VBP 
+[ the/DT breeze/NN ]
+./. 
+
+[ It/PRP ]
+is/VBZ like/IN gliding/VBG ,/, ''/'' says/VBZ 
+[ Ron/NNP Forster/NNP ]
+,/, 
+[ a/DT railbike/NN promoter/NN ]
+and/CC 
+[ the/DT owner/NN ]
+of/IN 
+[ an/DT organic/JJ pizzeria/NN ]
+in/IN 
+[ Hillsboro/NNP ]
+,/, 
+[ N.H/NNP ]
+./. 
+
+[ Mr./NNP Forster/NNP ]
+is/VBZ also/RB trying/VBG to/TO sell/VB 
+[ the/DT idea/NN ]
+of/IN railbiking/NN on/IN 
+[ abandoned/VBN track/NN ]
+as/IN 
+[ a/DT sport/NN ]
+for/IN 
+[ the/DT blind/JJ ]
+and/CC handicapped/VBN ./. 
+
+[ No/DT steering/NN ]
+required/VBN ./. 
+
+======================================
+
+[ Some/DT railbikers/NNS ]
+equip/VBP 
+[ a/DT conventional/JJ bicycle/NN ]
+with/IN 
+[ guidewheels/NNS ]
+and/CC 
+[ an/DT outrigger/NN ]
+for/IN 
+[ balance/NN ]
+./. 
+
+[ Others/NNS ]
+pay/VBP up/IN to/TO 
+[ $/$ 1,700/CD ]
+for/IN 
+[ a/DT four-wheel/JJ model/NN ]
+of/IN 
+[ the/DT sort/NN Mr./NNP Forster/NNP ]
+sells/VBZ ./. 
+
+[ A/DT few/JJ ]
+equip/VBP 
+[ their/PRP$ railbikes/NNS ]
+with/IN 
+[ gasoline/NN engines/NNS ]
+or/CC sails/NNS to/TO take/VB 
+[ advantage/NN ]
+of/IN 
+[ the/DT wind/NN ]
+./. 
+
+[ Richard/NNP Smart/NNP ]
+,/, 
+[ a/DT railbiker/NN ]
+from/IN 
+[ Coeur/NNP d'Alene/NNP ]
+,/, 
+[ Idaho/NNP ]
+,/, once/RB towed/VBD 
+[ a/DT rolling/VBG platform/NN ]
+behind/IN 
+[ him/PRP ]
+./. 
+
+[ Friends/NNS ]
+sat/VBD there/RB on/IN 
+[ lawn/NN chairs/NNS ]
+and/CC sipped/VBD 
+[ champagne/NN ]
+./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ a/DT wonderful/JJ way/NN ]
+to/TO see/VB 
+[ country/NN ]
+no/DT 
+[ one/NN ]
+else/RB sees/VBZ ,/, ''/'' says/VBZ 
+[ Dr./NNP Smart/NNP ]
+,/, 
+[ a/DT dentist/NN ]
+./. 
+
+[ He/PRP ]
+has/VBZ logged/VBN about/IN 
+[ 15,000/CD miles/NNS ]
+on/IN 
+[ railbikes/NNS ]
+,/, mainly/RB in/IN 
+[ the/DT West/NN ]
+./. 
+
+On/IN 
+[ some/DT trips/NNS ]
+
+[ he/PRP ]
+has/VBZ ridden/VBN right/RB up/IN to/TO 
+[ bears/NNS ]
+,/, 
+[ deer/NNS ]
+,/, 
+[ elk/NNS ]
+and/CC 
+[ coyotes/NNS ]
+./. 
+
+And/CC 
+[ he/PRP ]
+once/RB rolled/VBD through/IN 
+[ a/DT two-mile/JJ railroad/NN tunnel/NN ]
+,/, 
+[ thunderstruck/JJ ]
+by/IN 
+[ the/DT blackness/NN ]
+./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ so/RB dark/JJ 
+[ you/PRP ]
+ca/MD n't/RB even/RB see/VB 
+[ your/PRP$ hand/NN ]
+,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ like/IN pedaling/VBG through/IN 
+[ space/NN ]
+,/, like/IN 
+[ a/DT black/JJ hole/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Railroad/NNP officials/NNS ]
+take/VBP 
+[ a/DT dim/JJ view/NN ]
+of/IN 
+[ railbikers/NNS ]
+,/, fearing/VBG 
+[ they/PRP ]
+will/MD cause/VB 
+[ accidents/NNS ]
+,/, get/VB hurt/VBN and/CC sue/VB ./. 
+
+``/`` 
+[ It/PRP ]
+'s/VBZ 
+[ an/DT illegal/JJ and/CC very/RB dangerous/JJ activity/NN ]
+,/, ''/'' says/VBZ 
+[ Daniel/NNP Lang/NNP ]
+,/, 
+[ a/DT vice/NN president/NN ]
+of/IN 
+[ the/DT Association/NNP ]
+of/IN 
+[ American/NNP Railroads/NNPS ]
+./. 
+
+[ He/PRP ]
+points/VBZ out/IN that/IN 
+[ these/DT fun/NN lovers/NNS ]
+are/VBP trespassing/VBG on/IN 
+[ private/JJ property/NN ]
+./. 
+
+[ Laird/NNP Pitz/NNP ]
+,/, 
+[ a/DT general/JJ manager/NN ]
+of/IN 
+[ the/DT Burlington/NNP Northern/NNP Railroad/NNP ]
+,/, declares/VBZ that/IN 
+[ railbikers/NNS ]
+are/VBP ``/`` playing/VBG 
+[ Russian/JJ roulette/NN ]
+with/IN 
+[ the/DT railroads/NNS ]
+./. 
+
+[ They/PRP ]
+often/RB do/VBP n't/RB know/VB when/WRB 
+[ they/PRP ]
+cross/VBP from/IN 
+[ an/DT abandoned/VBN line/NN ]
+to/TO 
+[ an/DT active/JJ line/NN ]
+or/CC 
+[ a/DT mainline/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Railbikers/NNS themselves/PRP ]
+swap/VBP 
+[ stories/NNS ]
+about/IN 
+[ washouts/NNS ]
+,/, collapsed/VBN 
+[ tunnels/NNS ]
+,/, broken/VBN 
+[ rails/NNS ]
+,/, 
+[ railroad/NN cops/NNS ]
+and/CC 
+[ oncoming/JJ trains/NNS ]
+./. 
+
+[ Dr./NNP Smith/NNP ]
+,/, 
+[ the/DT Oak/NNP Ridge/NNP physician/NN ]
+,/, says/VBZ 
+[ he/PRP ]
+once/RB tumbled/VBD 
+[ 40/CD feet/NNS ]
+down/IN 
+[ an/DT embankment/NN ]
+when/WRB 
+[ an/DT axle/NN ]
+broke/VBD ./. 
+
+======================================
+
+Says/VBZ 
+[ Mr./NNP Forster/NNP ]
+:/: ``/`` Sure/RB ,/, 
+[ there/EX ]
+'s/VBZ 
+[ danger/NN ]
+--/: 
+[ there/EX ]
+'s/VBZ 
+[ danger/NN ]
+to/TO going/VBG to/TO work/NN ,/, to/TO living/VBG ./. 
+
+''/'' 
+[ Garden-variety/NN bicycle/NN ]
+riding/NN is/VBZ dangerous/JJ too/RB ,/, 
+[ he/PRP ]
+points/VBZ out/IN ,/, ``/`` but/CC 
+[ they/PRP ]
+do/VBP n't/RB condemn/VB 
+[ that/DT ]
+./. 
+
+''/'' 
+======================================
+
+[ Railbikes/NNS ]
+are/VBP n't/RB exactly/RB 
+[ new/JJ ]
+,/, though/IN 
+[ the/DT sport/NN ]
+is/VBZ burgeoning/VBG ./. 
+
+[ Track/NN inspectors/NNS ]
+used/VBD 
+[ them/PRP ]
+
+[ a/DT hundred/CD years/NNS ]
+ago/IN ./. 
+
+In/IN 
+[ 1908/CD ]
+,/, 
+[ Sears/NNP ]
+,/, 
+[ Roebuck/NNP ]
+&/CC 
+[ Co./NNP ]
+advertised/VBD 
+[ a/DT kit/NN ]
+to/TO turn/VB 
+[ a/DT street/NN bike/NN ]
+into/IN 
+[ a/DT railbike/NN ]
+./. 
+
+[ Paul/NNP Moudy/NNP ]
+,/, of/IN 
+[ Adrian/NNP ]
+,/, 
+[ Mo./NNP ]
+,/, recalls/VBZ that/IN ,/, in/IN 
+[ 1975/CD ]
+,/, 
+[ he/PRP ]
+and/CC 
+[ a/DT friend/NN ]
+used/VBD 
+[ parts/NNS ]
+from/IN 
+[ an/DT old/JJ Ford/NNP ]
+to/TO rig/VB up/IN 
+[ vehicles/NNS light/JJ ]
+enough/RB to/TO get/VB off/IN 
+[ the/DT tracks/NNS ]
+quickly/RB in/IN 
+[ the/DT face/NN ]
+of/IN 
+[ an/DT approaching/VBG freight/NN train/NN ]
+./. 
+
+But/CC 
+[ the/DT hobby/NN ]
+has/VBZ been/VBN spurred/VBN in/IN 
+[ recent/JJ years/NNS ]
+as/IN 
+[ major/JJ railroads/NNS ]
+have/VBP declared/VBN about/IN 
+[ a/DT third/NN ]
+of/IN 
+[ their/PRP$ track/NN ]
+to/TO be/VB surplus/JJ ./. 
+
+======================================
+
+[ Another/DT attraction/NN ]
+of/IN 
+[ old/JJ rail/NN lines/NNS ]
+is/VBZ that/IN 
+[ the/DT grades/NNS ]
+are/VBP n't/RB 
+[ as/RB steep/JJ ]
+going/VBG over/IN 
+[ a/DT mountain/NN ]
+./. 
+
+Indeed/RB ,/, 
+[ Mr./NNP Forster/NNP ]
+says/VBZ 
+[ he/PRP ]
+was/VBD inspired/VBN to/TO make/VB 
+[ a/DT railbike/NN ]
+as/IN 
+[ he/PRP ]
+struggled/VBD to/TO pedal/VB 
+[ a/DT bicycle/NN ]
+up/IN 
+[ a/DT New/NNP Hampshire/NNP mountain/NN ]
+and/CC happened/VBD to/TO notice/VB 
+[ a/DT ]
+relatively/RB 
+[ flat/JJ track/NN ]
+on/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+could/MD accomplish/VB 
+[ the/DT same/JJ purpose/NN ]
+without/IN 
+[ so/RB much/JJ effort/NN ]
+./. 
+
+======================================
+
+[ Most/JJS ]
+railbiking/NN is/VBZ done/VBN in/IN 
+[ daylight/NN ]
+,/, but/CC 
+[ Dr./NNP Smith/NNP ]
+prefers/VBZ to/TO do/VB 
+[ his/PRP$ ]
+riding/NN at/IN 
+[ night/NN ]
+when/WRB 
+[ it/PRP ]
+is/VBZ easier/JJR to/TO 
+[ spot/NN trains/NNS ]
+ (/( by/IN 
+[ their/PRP$ headlights/NNS ]
+ )/) and/CC harder/JJR to/TO be/VB spotted/VBN 
+[ himself/PRP ]
+./. 
+
+On/IN 
+[ this/DT particular/JJ night/NN ]
+,/, 
+[ he/PRP ]
+takes/VBZ 
+[ the/DT extra/JJ precaution/NN ]
+of/IN wearing/VBG 
+[ dark/JJ clothing/NN ]
+./. 
+
+[ His/PRP$ railbike/NN ]
+,/, 
+[ a/DT low-slung/JJ two-seater/JJ ]
+
+[ he/PRP ]
+bought/VBD from/IN 
+[ Mr./NNP Forster/NNP ]
+,/, is/VBZ painted/VBN flat/JJ black/JJ ./. 
+
+``/`` 
+[ I/PRP ]
+do/VBP n't/RB want/VB 
+[ anyone/NN ]
+to/TO see/VB 
+[ what/WP ]
+
+[ I/PRP ]
+am/VBP doing/VBG ,/, ''/'' 
+[ he/PRP ]
+says/VBZ ./. 
+
+======================================
+
+[ Dr./NNP Smith/NNP ]
+starts/VBZ 
+[ his/PRP$ journey/NN ]
+at/IN 
+[ rural/JJ Crab/NNP Orchard/NNP ]
+,/, 
+[ Tenn./NNP ]
+,/, setting/VBG 
+[ his/PRP$ vehicle/NN ]
+on/IN 
+[ branchline/JJ track/NN ]
+at/IN about/IN 
+[ 9/CD ]
+o'clock/RB ./. 
+
+After/IN 
+[ he/PRP ]
+pedals/VBZ slowly/RB through/IN 
+[ a/DT factory/NN rail/NN yard/NN ]
+,/, 
+[ he/PRP ]
+picks/VBZ up/IN 
+[ speed/NN ]
+,/, cruising/VBG 
+[ past/JJ woods/NNS ]
+,/, rushing/VBG 
+[ streams/NNS ]
+,/, 
+[ mobile/JJ homes/NNS ]
+,/, 
+[ road/NN crossings/NNS ]
+,/, 
+[ rail/NN sidings/NNS ]
+,/, 
+[ one/CD possum/NN ]
+and/CC 
+[ several/JJ barking/VBG dogs/NNS ]
+--/: 
+[ all/DT ]
+at/IN up/IN to/TO 
+[ 30/CD miles/NNS ]
+per/IN 
+[ hour/NN ]
+./. 
+
+As/IN 
+[ he/PRP ]
+races/VBZ across/IN 
+[ a/DT high/JJ ]
+,/, 
+[ curved/JJ trestle/NN ]
+,/, 
+[ Dr./NNP Smith/NNP ]
+observes/VBZ :/: ``/`` If/IN 
+[ you/PRP ]
+derail/VBP here/RB ,/, 
+[ you/PRP ]
+'re/VBP 
+[ a/DT dead/JJ man/NN ]
+./. 
+
+''/'' 
+[ A/DT thought/NN ]
+to/TO give/VB 
+[ an/DT itinerant/JJ reporter/NN pause/NN ]
+./. 
+
+======================================
+
+[ He/PRP ]
+finishes/VBZ 
+[ the/DT run/NN ]
+hours/VBZ later/RB in/IN 
+[ Harriman/NNP ]
+,/, 
+[ a/DT small/JJ railroad/NN junction/NN ]
+./. 
+
+There/RB ,/, 
+[ he/PRP ]
+lifts/VBZ 
+[ the/DT railbike/NN ]
+into/IN 
+[ the/DT back/NN ]
+of/IN 
+[ his/PRP$ pickup/NN truck/NN ]
+and/CC proceeds/VBZ to/TO 
+[ another/DT rail/NN line/NN ]
+outside/IN 
+[ Oak/NNP Ridge/NNP ]
+./. 
+
+======================================
+
+Later/RB 
+[ that/DT night/NN ]
+,/, 
+[ he/PRP ]
+will/MD yield/VB 
+[ the/DT right/NN ]
+of/IN 
+[ way/NN ]
+to/TO 
+[ the/DT coal/NN train/NN ]
+with/IN 
+[ the/DT three/CD diesels/NNS ]
+and/CC also/RB pedal/VB alongside/IN 
+[ a/DT freight/NN train/NN ]
+traveling/VBG on/IN 
+[ parallel/JJ track/NN ]
+./. 
+
+``/`` 
+[ You/PRP ]
+get/VBP to/TO go/VB 
+[ places/NNS ]
+no/DT 
+[ one/NN ]
+else/RB goes/VBZ and/CC see/VB 
+[ sights/NNS ]
+no/DT 
+[ one/NN ]
+else/RB gets/VBZ to/TO see/VB except/IN 
+[ the/DT train/NN ]
+crews/NNS ,/, ''/'' says/VBZ 
+[ Dr./NNP Smith/NNP ]
+,/, fanned/VBN by/IN 
+[ the/DT breeze/NN ]
+from/IN 
+[ freight/NN cars/NNS ]
+passing/VBG just/RB 
+[ nine/CD feet/NNS ]
+away/RB ./. 
+
+======================================
+
+[ The/DT adventure/NN ]
+appeals/VBZ to/TO 
+[ Dr./NNP Smith/NNP ]
+,/, 
+[ who/WP ]
+is/VBZ 
+[ the/DT son/NN ]
+of/IN 
+[ a/DT man/NN ]
+
+[ who/WP ]
+built/VBD 
+[ coach/NN cars/NNS ]
+./. 
+
+[ He/PRP ]
+says/VBZ 
+[ he/PRP ]
+grew/VBD up/IN 
+[ familiar/JJ ]
+with/IN 
+[ rail/NN yards/NNS ]
+,/, 
+[ signals/NNS ]
+,/, 
+[ train/NN crews/NNS ]
+and/CC 
+[ diesel/NN horns/NNS ]
+./. 
+
+[ The/DT family/NN background/NN ]
+ (/( 
+[ his/PRP$ grandfather/NN ]
+and/CC 
+[ great/JJ grandfather/NN ]
+were/VBD 
+[ train/NN engineers/NNS ]
+ )/) has/VBZ stood/VBN 
+[ him/PRP ]
+in/IN 
+[ good/JJ stead/NN ]
+,/, 
+[ he/PRP ]
+says/VBZ ,/, whenever/WRB 
+[ he/PRP ]
+has/VBZ put/VBN 
+[ his/PRP$ railbike/NN ]
+down/IN on/IN 
+[ track/NN ]
+in/IN 
+[ Kentucky/NNP ]
+,/, 
+[ North/NNP Carolina/NNP ]
+,/, 
+[ South/NNP Carolina/NNP ]
+or/CC 
+[ Tennessee/NNP ]
+./. 
+
+======================================
+
+[ Railbikers/NNS ]
+have/VBP 
+[ their/PRP$ favorite/JJ routes/NNS ]
+,/, of/IN 
+[ course/NN ]
+./. 
+
+In/IN 
+[ the/DT East/NNP ]
+,/, many/JJ like/IN to/TO ride/VB 
+[ a/DT dormant/JJ line/NN ]
+through/IN 
+[ New/NNP Hampshire/NNP 's/POS scenic/JJ White/NNP Mountains/NNPS ]
+./. 
+
+[ Paul/NNP Brown/NNP ]
+,/, 
+[ a/DT biker/NN ]
+in/IN 
+[ San/NNP Diego/NNP ]
+,/, favors/VBZ 
+[ a/DT ]
+particularly/RB 
+[ rugged/JJ line/NN ]
+through/IN 
+[ the/DT California/NNP desert/NN ]
+./. 
+
+[ Some/DT railbikers/NNS ]
+rode/VBD 
+[ the/DT Milwaukee/NNP Road/NNP 's/POS track/NN ]
+through/IN 
+[ the/DT northern/JJ Rocky/NNP Mountains/NNPS ]
+before/IN 
+[ it/PRP ]
+was/VBD ripped/VBN up/IN early/RB in/IN 
+[ this/DT decade/NN ]
+./. 
+
+======================================
+
+But/CC even/RB when/WRB abandoned/VBN 
+[ track/NN ]
+remains/VBZ in/IN 
+[ place/NN ]
+,/, 
+[ it/PRP ]
+soon/RB succumbs/VBZ to/TO 
+[ weeds/NNS ]
+and/CC 
+[ washouts/NNS ]
+./. 
+
+On/IN 
+[ one/CD occasion/NN Mr./NNP Forster/NNP ]
+half-seriously/RB telephoned/VBD 
+[ a/DT railroad/NN official/NN ]
+to/TO complain/VB about/IN 
+[ out-of-alignment/NN rails/NNS ]
+,/, 
+[ bad/JJ joints/NNS ]
+and/CC 
+[ an/DT excess/NN ]
+of/IN 
+[ weeds/NNS ]
+on/IN 
+[ a/DT line/NN ]
+
+[ he/PRP ]
+wanted/VBD to/TO use/VB ./. 
+
+======================================
+
+[ Railroad/NN officials/NNS ]
+are/VBP n't/RB amused/VBN ./. 
+
+``/`` If/IN 
+[ they/PRP ]
+have/VBP 
+[ the/DT gall/NN ]
+to/TO suggest/VB 
+[ our/PRP$ track/NN ]
+is/VBZ not/RB maintained/VBN to/TO 
+[ railbike/NN standards/NNS ]
+,/, let/VB 
+[ them/PRP ]
+build/VB 
+[ their/PRP$ own/JJ track/NN ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Lang/NNP ]
+of/IN 
+[ the/DT Association/NNP ]
+of/IN 
+[ American/NNP Railroads/NNPS ]
+./. 
+
+``/`` 
+[ It/PRP ]
+only/RB costs/VBZ 
+[ $/$ 1/CD million/CD ]
+
+[ a/DT mile/NN ]
+./. 
+
+''/'' 
+======================================
+
+Recently/RB ,/, 
+[ Mr./NNP Forster/NNP ]
+aborted/VBD 
+[ a/DT railbike/NN demonstration/NN ]
+on/IN 
+[ an/DT overgrown/VBN track/NN ]
+in/IN 
+[ Potter/NNP Place/NNP ]
+,/, 
+[ N.H./NNP ]
+,/, when/WRB 
+[ the/DT weeds/NNS ]
+tangled/VBD 
+[ his/PRP$ wheels/NNS ]
+./. 
+
+``/`` 
+[ The/DT hell/NN ]
+with/IN 
+[ it/PRP ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+``/`` Let/VB 
+[ 's/PRP ]
+walk/VB ./. 

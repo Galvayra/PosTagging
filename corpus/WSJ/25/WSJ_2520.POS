@@ -1,0 +1,311 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Agriculture/NNP Department/NNP ]
+boosted/VBD 
+[ its/PRP$ estimates/NNS ]
+of/IN 
+[ the/DT nation/NN 's/POS 1989/CD corn/NN ]
+and/CC 
+[ soybean/NN crops/NNS ]
+and/CC lowered/VBD 
+[ its/PRP$ forecast/NN ]
+of/IN how/WRB 
+[ much/JJ grain/NN ]
+
+[ the/DT Soviets/NNS ]
+will/MD purchase/VB between/IN now/RB and/CC 
+[ next/JJ June/NNP 30/CD ]
+./. 
+
+======================================
+
+[ The/DT department/NN ]
+predicted/VBD that/IN 
+[ the/DT U.S./NNP corn/NN harvest/NN ]
+will/MD total/VB 
+[ 7.45/CD billion/CD bushels/NNS ]
+,/, up/RB 
+[ 2/CD %/NN ]
+from/IN 
+[ last/JJ month/NN 's/POS forecast/NN ]
+and/CC up/RB 
+[ 51/CD %/NN ]
+from/IN 
+[ the/DT drought-shriveled/JJ harvest/NN ]
+of/IN 
+[ 1988/CD ]
+./. 
+
+[ Department/NN analysts/NNS ]
+also/RB raised/VBD 
+[ their/PRP$ estimate/NN ]
+of/IN 
+[ the/DT soybean/NN crop/NN 2/CD %/NN ]
+above/IN 
+[ their/PRP$ Sept./NNP 1/CD forecast/NN ]
+--/: to/TO 
+[ 1.93/CD billion/CD bushels/NNS ]
+./. 
+
+[ That/DT ]
+would/MD be/VB 
+[ 24/CD %/NN ]
+above/IN 
+[ last/JJ year/NN 's/POS crop/NN ]
+./. 
+
+======================================
+
+[ Wheat/NN production/NN ]
+was/VBD forecast/VBN at/IN 
+[ 2.04/CD billion/CD bushels/NNS ]
+,/, down/RB 
+[ 1/CD %/NN ]
+from/IN 
+[ last/JJ month/NN 's/POS estimate/NN ]
+but/CC up/RB 
+[ 13/CD %/NN ]
+from/IN 
+[ 1988/CD ]
+,/, according/VBG to/TO 
+[ the/DT department/NN 's/POS monthly/JJ crop/NN report/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ a/DT separate/JJ report/NN ]
+,/, 
+[ the/DT department/NN 's/POS World/NNP Agricultural/NNP Outlook/NNP Board/NNP ]
+increased/VBD 
+[ its/PRP$ estimate/NN ]
+of/IN 
+[ the/DT 1989/CD Soviet/NNP grain/NN crop/NN five/CD million/CD tons/NNS ]
+,/, to/TO 
+[ 205/CD million/CD tons/NNS ]
+,/, citing/VBG better/RBR than/IN anticipated/VBN 
+[ yields/NNS ]
+in/IN 
+[ important/JJ growing/NN areas/NNS ]
+in/IN 
+[ the/DT western/JJ Soviet/NNP Union/NNP ]
+and/CC 
+[ Kazakhstan/NNP ]
+./. 
+
+As/IN 
+[ a/DT result/NN ]
+,/, 
+[ the/DT board/NN ]
+reduced/VBD 
+[ its/PRP$ estimate/NN ]
+of/IN 
+[ Soviet/JJ grain/NN ]
+imports/NNS 
+[ two/CD million/CD tons/NNS ]
+to/TO 
+[ 34/CD million/CD tons/NNS ]
+for/IN 
+[ the/DT marketing/NN year/NN ]
+
+[ that/WDT ]
+ends/VBZ 
+[ June/NNP 30/CD ]
+./. 
+
+======================================
+
+[ The/DT department/NN 's/POS production/NN estimates/NNS ]
+for/IN 
+[ corn/NN ]
+,/, 
+[ soybeans/NNS ]
+and/CC 
+[ wheat/NN ]
+were/VBD seen/VBN in/IN 
+[ Washington/NNP ]
+as/IN 
+[ further/JJ evidence/NN ]
+that/IN 
+[ U.S./NNP agriculture/NN ]
+,/, despite/IN 
+[ pockets/NNS ]
+of/IN 
+[ severe/JJ crop/NN damage/NN last/JJ spring/NN ]
+and/CC 
+[ summer/NN ]
+,/, has/VBZ fully/RB 
+[ rebounded/VBD ] 
+from/IN 
+[ the/DT 1988/CD drought/NN ]
+./. 
+
+======================================
+
+[ Corn/NN ]
+and/CC 
+[ soybean/NN futures/NNS prices/NNS ]
+are/VBP likely/JJ to/TO fall/VB ,/, at/IN 
+[ least/JJS ]
+initially/RB 
+[ this/DT morning/NN ]
+,/, and/CC 
+[ wheat/NN futures/NNS prices/NNS ]
+are/VBP likely/JJ to/TO rally/VB ,/, based/VBN on/IN 
+[ the/DT crop/NN figures/NNS ]
+,/, 
+[ analysts/NNS ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT corn/NN crop/NN report/NN ]
+exceeded/VBD 
+[ the/DT average/NN ]
+of/IN 
+[ analysts/NNS '/POS estimates/NNS ]
+by/IN about/RB 
+[ 50/CD million/CD bushels/NNS ]
+,/, said/VBD 
+[ futures/NNS analyst/NN Conrad/NNP Leslie/NNP ]
+,/, 
+[ head/NN ]
+of/IN 
+[ Leslie/NNP Analytical/NNP ]
+in/IN 
+[ Chicago/NNP ]
+./. 
+
+[ Analysts/NNS '/POS average/JJ estimate/NN ]
+for/IN 
+[ the/DT soybean/NN crop/NN ]
+was/VBD closer/JJR to/TO 
+[ the/DT mark/NN ]
+,/, exceeding/VBG 
+[ the/DT actual/JJ figure/NN ]
+by/IN only/RB about/RB 
+[ seven/CD million/CD bushels/NNS ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT wheat/NN crop/NN figure/NN ]
+was/VBD 
+[ the/DT biggest/JJS surprise/NN ]
+,/, 
+[ analysts/NNS ]
+said/VBD ,/, being/VBG reported/VBN as/IN 
+[ 22/CD million/CD bushels/NNS ]
+below/IN 
+[ the/DT month-earlier/JJ Agriculture/NNP Department/NNP estimate/NN ]
+of/IN 
+[ 2.064/CD billion/CD bushels/NNS ]
+./. 
+
+[ Analysts/NNS ]
+said/VBD that/IN 
+[ they/PRP ]
+were/VBD particularly/RB concerned/VBN with/IN 
+[ the/DT estimated/VBN wheat/NN stocks/NNS ]
+,/, or/CC 
+[ carryover/NN ]
+,/, 
+[ available/JJ ]
+next/IN 
+[ May/NNP 31/CD ]
+,/, 
+[ which/WDT ]
+fell/VBD 
+[ 51/CD million/CD bushels/NNS ]
+from/IN 
+[ month-earlier/JJ estimates/NNS ]
+to/TO 
+[ 443/CD million/CD bushels/NNS ]
+,/, 
+[ their/PRP$ lowest/JJS level/NN ]
+in/IN nearly/RB 
+[ 15/CD years/NNS ]
+./. 
+
+[ That/DT ]
+compares/VBZ with/IN 
+[ a/DT carryover/NN ]
+of/IN 
+[ 698/CD million/CD bushels/NNS ]
+available/JJ 
+[ this/DT past/JJ May/NNP 31/CD ]
+./. 
+
+======================================
+
+[ The/DT department/NN 's/POS first/JJ forecast/NN ]
+for/IN 
+[ the/DT 1989-1990/JJ orange/NN crop/NN ]
+was/VBD somewhat/RB gloomy/JJ ./. 
+
+[ It/PRP ]
+said/VBD 
+[ the/DT harvest/NN ]
+would/MD total/VB 
+[ 194/CD million/CD boxes/NNS ]
+,/, down/RB 
+[ 6/CD %/NN ]
+from/IN 
+[ last/JJ season/NN ]
+,/, mostly/RB because/IN of/IN 
+[ a/DT killing/VBG frost/NN ]
+in/IN 
+[ Florida/NNP ]
+in/IN 
+[ late/JJ February/NNP ]
+./. 
+
+[ An/DT 11/CD %/NN decline/NN ]
+was/VBD foreseen/VBN for/IN 
+[ Florida/NNP 's/POS orange/NN crop/NN ]
+./. 
+
+======================================
+
+[ Cotton/NN production/NN ]
+was/VBD forecast/VBN at/IN 
+[ 12/CD million/CD bales/NNS ]
+,/, down/RB 
+[ 22/CD %/NN ]
+from/IN 
+[ last/JJ year/NN ]
+and/CC down/RB 
+[ 2/CD %/NN ]
+from/IN 
+[ the/DT department/NN 's/POS Sept./NNP 1/CD forecast/NN ]
+./. 
+
+======================================
+
+[ Department/NN analysts/NNS ]
+predicted/VBD 
+[ a/DT 14/CD %/NN increase/NN ]
+in/IN 
+[ 1989/CD sorghum/NN production/NN ]
+to/TO 
+[ 657/CD million/CD bushels/NNS ]
+,/, down/RB slightly/RB from/IN 
+[ last/JJ month/NN 's/POS estimate/NN ]
+./. 

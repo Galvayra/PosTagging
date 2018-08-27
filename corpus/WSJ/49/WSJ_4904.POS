@@ -1,0 +1,284 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Special/JJ promotions/NNS ]
+on/IN 
+[ cars/NNS ]
+boosted/VBD 
+[ Americans/NNPS '/POS personal/JJ ]
+spending/NN 
+[ last/JJ month/NN ]
+even/RB as/IN 
+[ telephone/NN strikes/NNS ]
+held/VBN down/RP 
+[ their/PRP$ income/NN ]
+,/, 
+[ a/DT Commerce/NNP Department/NNP report/NN ]
+shows/VBZ ./. 
+
+======================================
+
+[ Growth/NN ]
+in/IN 
+[ personal/JJ ]
+spending/NN 
+[ far/RB outstripped/VBD growth/NN ]
+in/IN 
+[ personal/JJ income/NN ]
+in/IN 
+[ August/NNP ]
+,/, 
+[ the/DT department/NN ]
+said/VBD ./. 
+
+[ Farm/NN income/NN ]
+also/RB fell/VBD ./. 
+
+======================================
+
+[ Personal/JJ income/NN ]
+grew/VBD 
+[ 0.4/CD %/NN last/JJ month/NN ]
+,/, to/TO 
+[ an/DT annual/JJ rate/NN ]
+of/IN 
+[ $/$ 4.466/CD trillion/CD ]
+,/, after/IN increasing/VBG 
+[ 0.7/CD %/NN ]
+in/IN 
+[ July/NNP ]
+,/, 
+[ the/DT department/NN ]
+said/VBD ./. 
+
+[ Personal/JJ spending/NN ]
+jumped/VBD 
+[ 0.9/CD %/NN ]
+during/IN 
+[ the/DT month/NN ]
+,/, to/TO 
+[ a/DT $/$ 3.508/CD trillion/CD annual/JJ pace/NN ]
+,/, 
+[ the/DT largest/JJS increase/NN ]
+since/IN 
+[ April/NNP ]
+./. 
+
+[ The/DT spending/NN figure/NN ]
+,/, 
+[ which/WDT ]
+includes/VBZ 
+[ all/DT outlays/NNS ]
+except/IN 
+[ interest/NN payments/NNS ]
+,/, climbed/VBD 
+[ 0.6/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+think/VBP 
+[ the/DT data/NN ]
+supports/VBZ 
+[ the/DT pattern/NN ]
+
+[ that/WDT ]
+'s/VBZ become/VBN accepted/VBN|JJ in/IN 
+[ the/DT markets/NNS ]
+:/: that/IN 
+[ the/DT third/JJ quarter/NN ]
+is/VBZ going/VBG to/TO show/VB 
+[ a/DT big/JJ rebound/NN ]
+in/IN 
+[ consumption/NN ]
+and/CC 
+[ a/DT ]
+fairly/RB 
+[ healthy/JJ economy/NN ]
+,/, ''/'' said/VBD 
+[ Michael/NNP Englund/NNP ]
+,/, 
+[ research/NN director/NN ]
+at/IN 
+[ McGraw-Hill/NNP Inc./NNP 's/POS MMS/NNP International/NNP ]
+,/, 
+[ an/DT economic/JJ forecasting/NN concern/NN ]
+in/IN 
+[ Redwood/NNP City/NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ analysts/NNS ]
+generally/RB expect/VBP 
+[ the/DT spending/NN spurt/NN ]
+to/TO subside/VB by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ this/DT month/NN ]
+,/, since/IN most/JJS of/IN 
+[ the/DT growth/NN ]
+came/VBD in/IN 
+[ automobile/NN buying/NN ]
+./. 
+
+[ U.S./NNP auto/NN companies/NNS ]
+are/VBP preparing/VBG to/TO introduce/VB 
+[ their/PRP$ 1990/CD models/NNS ]
+,/, at/IN 
+[ prices/NNS 5/CD %/NN ]
+to/TO 
+[ 8/CD %/NN ]
+higher/JJR than/IN for/IN 
+[ the/DT 1989/CD models/NNS ]
+,/, and/CC 
+[ they/PRP ]
+recently/RB reported/VBD that/IN 
+[ their/PRP$ sales/NNS ]
+slackened/VBD in/IN 
+[ the/DT first/JJ part/NN ]
+of/IN 
+[ September/NNP ]
+./. 
+
+======================================
+
+[ The/DT spending/NN surge/NN last/JJ month/NN ]
+sliced/VBD into/IN 
+[ personal/JJ savings/NNS ]
+./. 
+
+After/IN climbing/VBG in/IN 
+[ recent/JJ months/NNS ]
+,/, 
+[ Americans/NNPS '/POS savings/NN rate/NN ]
+dropped/VBD to/TO 
+[ 5.4/CD %/NN ]
+of/IN 
+[ after-tax/JJ income/NN ]
+from/IN 
+[ 5.8/CD %/NN ]
+in/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+[ The/DT report/NN ]
+contained/VBD 
+[ some/DT sunny/JJ news/NN ]
+on/IN 
+[ inflation/NN ]
+./. 
+
+[ A/DT price/NN measure/NN ]
+tied/VBN to/TO 
+[ the/DT department/NN 's/POS personal-spending/NN calculations/NNS ]
+declined/VBD 
+[ 0.1/CD %/NN last/JJ month/NN ]
+./. 
+
+In/IN 
+[ July/NNP ]
+
+[ it/PRP ]
+rose/VBD 
+[ 0.2/CD %/NN ]
+./. 
+
+======================================
+
+While/IN 
+[ retail/JJ food/NN prices/NNS ]
+rose/VBD 
+[ a/DT bit/NN ]
+,/, 
+[ prices/NNS ]
+to/TO 
+[ farmers/NNS ]
+fell/VBD ,/, leading/VBG to/TO 
+[ the/DT fifth/JJ straight/JJ month/NN ]
+of/IN 
+[ decline/NN ]
+in/IN 
+[ farm/NN income/NN ]
+./. 
+
+[ The/DT strikes/NNS ]
+at/IN 
+[ a/DT number/NN ]
+of/IN 
+[ regional/JJ telephone/NN companies/NNS ]
+sharply/RB curbed/VBD 
+[ gains/NNS ]
+in/IN 
+[ wages/NNS ]
+and/CC 
+[ salaries/NNS ]
+,/, 
+[ the/DT chief/JJ components/NNS ]
+of/IN 
+[ Americans/NNPS '/POS income/NN ]
+./. 
+
+After/IN shooting/VBG up/RP 
+[ 0.9/CD %/NN ]
+in/IN 
+[ July/NNP ]
+,/, 
+[ wages/NNS ]
+and/CC 
+[ salaries/NNS ]
+only/RB grew/VBD 
+[ 0.3/CD %/NN ]
+in/IN 
+[ August/NNP ]
+./. 
+
+Manufacturing/NN 
+[ payrolls/NNS ]
+rose/VBD 
+[ 0.6/CD %/NN ]
+,/, buoyed/VBN by/IN 
+[ a/DT step-up/NN ]
+in/IN 
+[ automobile/NN production/NN ]
+./. 
+
+======================================
+
+Here/RB is/VBZ 
+[ the/DT Commerce/NNP Department/NNP 's/POS latest/JJS report/NN ]
+on/IN 
+[ personal/JJ income/NN ]
+./. 
+
+[ The/DT figures/NNS ]
+are/VBP at/IN seasonally/RB adjusted/VBN 
+[ annual/JJ rates/NNS ]
+in/IN 
+[ trillions/NNS ]
+of/IN 
+[ dollars/NNS ]
+./. 

@@ -1,0 +1,666 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ I/PRP ]
+enthusiastically/RB recommend/VBP ``/`` 
+[ The/DT Nightmare/NNP Years/NNP ]
+''/'' (/( 
+[ which/WDT ]
+began/VBD 
+[ last/JJ night/NN ]
+and/CC continues/VBZ tonight/RB through/IN 
+[ Wednesday/NNP ]
+,/, 
+[ 8-10/CD p.m./NN ]
+and/CC repeated/VBD 
+[ 10/CD p.m.-midnight/NNP EDT/NNP ]
+,/, on/IN 
+[ Turner/NNP Network/NNP Television/NNP ]
+ )/) for/IN 
+[ two/CD reasons/NNS ]
+./. 
+
+First/RB ,/, 
+[ it/PRP ]
+tells/VBZ 
+[ one/CD ]
+of/IN 
+[ the/DT original/JJ true/JJ stories/NNS ]
+behind/IN 
+[ today/NN 's/POS stock/NN figure/NN ]
+of/IN 
+[ the/DT journalist/NN hero/NN ]
+--/: that/DT of/IN 
+[ William/NNP L./NNP Shirer/NNP ]
+,/, 
+[ the/DT American/JJ newspaperman/NN ]
+
+[ who/WP ]
+covered/VBD 
+[ Nazi/NNP Germany/NNP ]
+between/IN 
+[ 1934/CD ]
+and/CC 
+[ 1940/CD ]
+,/, initially/RB for/IN 
+[ Hearst/NNP 's/POS Universal/NNP News/NNP Service/NNP ]
+and/CC subsequently/RB for/IN 
+[ CBS/NNP Radio/NNP ]
+./. 
+
+======================================
+
+And/CC 
+[ second/JJ ]
+,/, 
+[ it/PRP ]
+tells/VBZ 
+[ the/DT story/NN ]
+well/RB ./. 
+
+Unlike/IN 
+[ such/JJ monster/NN ]
+miniseries/NNS as/IN ``/`` 
+[ War/NNP ]
+and/CC 
+[ Remembrance/NNP ]
+,/, ''/'' ``/`` 
+[ The/DT Nightmare/NNP Years/NNP ]
+''/'' does/VBZ not/RB plod/VB steadily/RB through/IN 
+[ the/DT entire/JJ course/NN ]
+of/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, munching/VBG 
+[ tons/NNS ]
+of/IN advertising/NN 
+[ dollars/NNS ]
+and/CC planting/VBG 
+[ a/DT heavy/JJ footprint/NN ]
+on/IN 
+[ each/DT ]
+and/CC 
+[ every/DT key/JJ event/NN ]
+./. 
+
+Instead/RB ,/, 
+[ it/PRP ]
+pulls/VBZ off/RP 
+[ the/DT delicate/JJ task/NN ]
+of/IN 
+[ weaving/VBG history/NN ]
+into/IN 
+[ individual/JJ experience/NN ]
+without/IN slighting/VBG either/DT ./. 
+
+Of/IN 
+[ course/NN ]
+,/, 
+[ the/DT hard/JJ work/NN ]
+was/VBD already/RB done/VBN by/IN 
+[ Mr./NNP Shirer/NNP ]
+,/, 
+[ whose/WP$ best-selling/JJ memoirs/NNS ]
+form/VBP 
+[ the/DT basis/NN ]
+of/IN 
+[ Ian/NNP Curteis/NNP 's/POS excellent/JJ script/NN ]
+./. 
+
+======================================
+
+Perhaps/RB 
+[ it/PRP ]
+was/VBD inevitable/JJ ,/, coming/VBG from/IN 
+[ the/DT Turner/NNP network/NN ]
+,/, that/IN 
+[ this/DT ]
+miniseries/NN would/MD employ/VB 
+[ the/DT latest/JJS colorization/NN techniques/NNS ]
+to/TO insert/VB 
+[ tinted/JJ dramatic/JJ scenes/NNS ]
+--/: with/IN 
+[ Sam/NNP Waterston/NNP ]
+playing/VBG 
+[ Mr./NNP Shirer/NNP ]
+--/: into/IN matching/VBG 
+[ tinted/JJ documentary/JJ footage/NN ]
+of/IN 
+[ such/JJ momentous/JJ occasions/NNS ]
+as/IN 
+[ the/DT Nazi/NNP book/NN burnings/NNS ]
+,/, 
+[ the/DT massive/JJ Nuremberg/NNP ]
+rallies/NNS ,/, and/CC 
+[ the/DT French/JJ surrender/NN ]
+at/IN 
+[ Compiegne/NNP ]
+./. 
+
+As/IN 
+[ we/PRP ]
+know/VBP from/IN 
+[ Woody/NNP Allen/NNP 's/POS ]
+``/`` 
+[ Zelig/NNP ]
+,/, ''/'' however/RB ,/, 
+[ the/DT effect/NN ]
+of/IN 
+[ such/JJ tricks/NNS ]
+is/VBZ unavoidably/RB comic/JJ ./. 
+
+======================================
+
+Much/RB stronger/JJR are/VBP 
+[ the/DT sequences/NNS ]
+
+[ that/WDT ]
+employ/VBP 
+[ old-fashioned/JJ film-making/JJ techniques/NNS ]
+such/JJ as/IN 
+[ good/JJ ]
+writing/NN ,/, acting/NN ,/, editing/NN ,/, directing/NN and/CC 
+[ production/NN design/NN ]
+./. 
+
+[ Every/DT character/NN ]
+is/VBZ believably/RB 
+[ human/JJ ]
+--/: from/IN 
+[ victims/NNS ]
+like/IN 
+[ Victor/NNP Schneider/NNP ]
+ (/( 
+[ Peter/NNP Whitman/NNP ]
+ )/) ,/, 
+[ a/DT terrified/JJ Jewish/JJ art/NN historian/NN ]
+trying/VBG to/TO save/VB 
+[ his/PRP$ family/NN ]
+from/IN 
+[ the/DT Gestapo/NNP ]
+;/: to/TO 
+[ perpetrators/NNS ]
+like/IN 
+[ Josef/NNP Goebbels/NNP ]
+ (/( 
+[ Kurtwood/NNP Smith/NNP ]
+ )/) ,/, Hitler/NNP 
+[ 's/POS ]
+fanatically/RB 
+[ loyal/JJ minister/NN ]
+of/IN 
+[ propaganda/NN ]
+./. 
+
+Instead/RB of/IN 
+[ the/DT cartoon/NN brutes/NNS ]
+populating/VBG 
+[ most/JJS TV/NN miniseries/NNS ]
+,/, 
+[ the/DT Nazis/NNS ]
+in/IN 
+[ this/DT film/NN display/VBP frightening/JJ intelligence/NN ]
+and/CC 
+[ subtlety/NN ]
+while/IN bickering/VBG ,/, plotting/VBG and/CC rationalizing/VBG 
+[ their/PRP$ evil/JJ deeds/NNS ]
+./. 
+
+======================================
+
+Even/RB more/RBR interesting/JJ are/VBP 
+[ the/DT bad/JJ guys/NNS ]
+
+[ who/WP ]
+do/VBP n't/RB fit/VB 
+[ the/DT cartoon/NN Nazi/NNP mold/NN ]
+at/IN 
+[ all/DT ]
+./. 
+
+[ The/DT British/JJ actor/NN Ronald/NNP Pickup/NNP ]
+is/VBZ superb/JJ as/IN 
+[ Ernst/NNP ]
+``/`` 
+[ Putzi/NNP ]
+''/'' 
+[ Hanfsaengl/NNP ]
+,/, 
+[ the/DT Nazi/NNP foreign/JJ press/NN chief/NN ]
+
+[ whose/WP$ thwarted/VBN bohemian/JJ instincts/NNS ]
+and/CC 
+[ half-baked/JJ Harvard/NNP education/NN ]
+keep/VBP interfering/VBG with/IN 
+[ his/PRP$ ideological/JJ purity/NN ]
+./. 
+
+Equally/RB intriguing/VBG is/VBZ 
+[ the/DT ]
+fiercely/RB 
+[ egotistical/JJ Nazi/NNP film/NN maker/NN Helga/NNP Bauer/NNP ]
+ (/( 
+[ Frances/NNP Barber/NNP ]
+ )/) ,/, 
+[ a/DT fictionalized/VBN version/NN ]
+of/IN 
+[ the/DT film/NN maker/NN Leni/NNP Riefenstahl/NNP ]
+./. 
+
+======================================
+
+[ Such/JJ impressive/JJ villains/NNS ]
+might/MD seem/VB 
+[ a/DT tough/JJ act/NN ]
+to/TO follow/VB ,/, but/CC 
+[ the/DT portrayals/NNS ]
+of/IN 
+[ Shirer/NNP ]
+,/, 
+[ his/PRP$ charming/JJ Austrian/JJ wife/NN ]
+,/, 
+[ Tess/NNP ]
+ (/( 
+[ Marthe/NNP Keller/NNP ]
+ )/) ,/, and/CC 
+[ the/DT other/JJ good/JJ guys/NNS ]
+are/VBP equally/RB compelling/JJ ./. 
+
+Pitted/VBN against/IN 
+[ Goebbels/NNP 's/POS overweening/JJ propaganda/NN machine/NN ]
+,/, 
+[ a/DT scrappy/JJ figure/NN ]
+like/IN 
+[ Norman/NNP Ebbutt/NNP ]
+of/IN 
+[ the/DT London/NNP Times/NNP ]
+ (/( 
+[ Peter/NNP Jeffrey/NNP ]
+ )/) looks/VBZ 
+[ heroic/JJ ]
+even/RB when/WRB shouting/VBG 
+[ a/DT drunken/JJ warning/NN ]
+to/TO 
+[ an/DT arriving/VBG delegation/NN ]
+of/IN 
+[ befuddled/VBN Britons/NNS ]
+./. 
+
+[ The/DT same/JJ ]
+is/VBZ true/JJ for/IN 
+[ the/DT rest/NN ]
+of/IN 
+[ the/DT ragged/JJ crew/NN ]
+of/IN 
+[ American/JJ ]
+and/CC 
+[ British/JJ reporters/NNS ]
+
+[ who/WP ]
+balk/VBP at/IN being/VBG 
+[ spoon-fed/JJ lies/NNS ]
+./. 
+
+[ This/DT battle/NN ]
+of/IN 
+[ individual/JJ wills/NNS ]
+succeeds/VBZ in/IN putting/VBG 
+[ the/DT global/JJ conflict/NN ]
+between/IN 
+[ freedom/NN ]
+and/CC 
+[ totalitarianism/NN ]
+into/IN 
+[ a/DT neat/JJ dramatic/JJ nutshell/NN ]
+./. 
+
+======================================
+
+Here/RB is/VBZ 
+[ my/PRP$ only/JJ reservation/NN ]
+./. 
+
+[ One/CD ]
+of/IN 
+[ the/DT characters/NNS ]
+in/IN ``/`` 
+[ The/DT Nightmare/NNP Years/NNP ]
+''/'' seems/VBZ to/TO offer/VB 
+[ a/DT brief/NN ]
+for/IN 
+[ the/DT absolute/JJ freedom/NN ]
+of/IN 
+[ the/DT press/NN ]
+--/: not/RB only/RB from/IN 
+[ totalitarian/JJ control/NN ]
+,/, but/CC also/RB from/IN 
+[ any/DT sort/NN ]
+of/IN 
+[ restraint/NN ]
+imposed/VBN either/CC by/IN 
+[ private/JJ management/NN ]
+or/CC by/IN 
+[ democratic/JJ government/NN ]
+./. 
+
+[ The/DT character/NN ]
+is/VBZ 
+[ a/DT fictionalized/VBN American/JJ reporter/NN ]
+named/VBN 
+[ Peter/NNP Butler/NNP ]
+ (/( 
+[ Chris/NNP Muncke/NNP ]
+ )/) ,/, 
+[ whose/WP$ craven/JJ obedience/NN ]
+to/TO 
+[ his/PRP$ employers/NNS ]
+ (/( 
+[ the/DT Hearst/NNP empire/NN ]
+ )/) connects/VBZ seamlessly/RB with/IN 
+[ his/PRP$ mindless/JJ admiration/NN ]
+of/IN 
+[ Hitler/NNP ]
+./. 
+
+[ It/PRP ]
+'s/VBZ significant/JJ that/IN 
+[ Butler/NNP ]
+is/VBZ 
+[ the/DT film/NN 's/POS only/JJ real/JJ cartoon/NN villain/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+'s/VBZ possible/JJ that/IN 
+[ absolute/JJ freedom/NN ]
+of/IN 
+[ the/DT press/NN ]
+matters/VBZ 
+[ a/DT lot/NN ]
+to/TO 
+[ Mr./NNP Shirer/NNP ]
+,/, 
+[ who/WP ]
+left/VBD 
+[ CBS/NNP ]
+in/IN 
+[ 1947/CD ]
+after/IN 
+[ a/DT dispute/NN ]
+with/IN 
+[ both/DT Edward/NNP R./NNP Murrow/NNP ]
+ (/( 
+[ a/DT friend/NN ]
+and/CC 
+[ colleague/NN ]
+ )/) and/CC 
+[ William/NNP S./NNP Paley/NNP ]
+over/IN 
+[ Shirer/NNP 's/POS criticisms/NNS ]
+,/, on/IN 
+[ his/PRP$ weekly/JJ radio/NN program/NN ]
+,/, of/IN 
+[ President/NNP Truman/NNP 's/POS support/NN ]
+of/IN 
+[ the/DT Cold/NNP War/NNP ]
+./. 
+
+[ It/PRP ]
+'s/VBZ also/RB possible/JJ that/IN 
+[ absolute/JJ freedom/NN ]
+of/IN 
+[ the/DT press/NN ]
+is/VBZ 
+[ the/DT credo/NN ]
+of/IN 
+[ another/DT writer/NN ]
+
+[ who/WP ]
+worked/VBD on/IN 
+[ the/DT script/NN ]
+--/: 
+[ Bob/NNP Woodward/NNP ]
+of/IN 
+[ Watergate/NNP fame/NN ]
+./. 
+
+For/IN 
+[ both/DT ]
+of/IN 
+[ these/DT famous/JJ ]
+and/CC committed/VBN 
+[ journalists/NNS ]
+,/, ``/`` 
+[ The/DT Nightmare/NNP Years/NNP ]
+''/'' seems/VBZ to/TO have/VB been/VBN 
+[ a/DT labor/NN ]
+of/IN 
+[ love/NN ]
+./. 
+
+And/CC why/WRB should/MD n't/RB 
+[ it/PRP ]
+be/VB ?/. 
+
+[ Those/DT years/NNS ]
+of/IN living/VBG dangerously/RB in/IN 
+[ Berlin/NNP ]
+and/CC 
+[ Vienna/NNP ]
+were/VBD 
+[ a/DT golden/JJ age/NN ]
+for/IN 
+[ their/PRP$ profession/NN ]
+./. 
+
+======================================
+
+Yet/RB 
+[ my/PRP$ reservation/NN ]
+applies/VBZ only/RB to/TO 
+[ the/DT character/NN ]
+of/IN 
+[ Butler/NNP ]
+./. 
+
+[ The/DT miniseries/NNS ]
+shows/VBZ 
+[ Shirer/NNP ]
+visiting/VBG 
+[ New/NNP York/NNP ]
+in/IN 
+[ 1935/CD ]
+and/CC being/VBG 
+[ aghast/JJ ]
+at/IN 
+[ the/DT reactions/NNS ]
+of/IN 
+[ his/PRP$ old/JJ crony/NN ]
+,/, 
+[ Nicholas/NNP Roosevelt/NNP ]
+,/, 
+[ a/DT wealthy/JJ Republican/JJ businessman/NN ]
+
+[ whose/WP$ hatred/NN ]
+for/IN 
+[ the/DT Bolsheviks/NNS ]
+ (/( not/RB to/TO mention/VB for/IN 
+[ his/PRP$ cousin/NN Franklin/NNP ]
+ )/) blinds/VBZ 
+[ him/PRP ]
+to/TO 
+[ the/DT frightening/VBG tidings/NNS ]
+about/IN 
+[ Hitler/NNP ]
+./. 
+
+And/CC in/IN 
+[ a/DT later/JJ scene/NN ]
+,/, 
+[ we/PRP ]
+see/VBP 
+[ Shirer/NNP ]
+chafing/VBG at/IN 
+[ the/DT folly/NN ]
+of/IN being/VBG required/VBN by/IN 
+[ CBS/NNP ]
+to/TO cover/VB ``/`` 
+[ human/JJ interest/NN ]
+''/'' 
+[ stories/NNS ]
+like/IN 
+[ the/DT Vienna/NNP Boys/NNP '/POS Choir/NN ]
+at/IN 
+[ the/DT very/JJ moment/NN ]
+of/IN 
+[ the/DT Anschluss/NNP ]
+./. 
+
+======================================
+
+But/CC 
+[ the/DT film/NN 's/POS Shirer/NNP ]
+never/RB draws/VBZ 
+[ a/DT facile/JJ parallel/NN ]
+between/IN 
+[ these/DT restraints/NNS ]
+and/CC 
+[ the/DT Nazi/NNP campaign/NN ]
+of/IN 
+[ mass/NN thought/NN control/NN ]
+,/, or/CC between/IN 
+[ the/DT systematic/JJ hate-mongering/NN ]
+of/IN 
+[ Goebbels/NNP ]
+and/CC 
+[ the/DT caution/NN ]
+--/: or/CC 
+[ paralysis/NN ]
+--/: of/IN 
+[ news/NN organizations/NNS ]
+and/CC 
+[ democratic/JJ governments/NNS ]
+on/IN 
+[ the/DT brink/NN ]
+of/IN 
+[ war/NN ]
+./. 
+
+Actually/RB ,/, given/VBN 
+[ the/DT rocky/JJ history/NN ]
+of/IN 
+[ press/NN freedoms/NNS ]
+during/IN 
+[ the/DT Cold/NNP War/NNP ]
+,/, 
+[ the/DT film/NN ]
+could/MD have/VB drawn/VBN 
+[ more/JJR parallels/NNS ]
+than/IN 
+[ it/PRP ]
+does/VBZ ./. 
+
+For/IN 
+[ example/NN ]
+,/, 
+[ it/PRP ]
+could/MD have/VB dramatized/VBN 
+[ Murrow/NNP 's/POS famous/JJ remark/NN ]
+ (/( made/VBN in/IN 
+[ 1945/CD ]
+ )/) that/IN 
+[ he/PRP ]
+and/CC 
+[ his/PRP$ colleagues/NNS ]
+were/VBD going/VBG 
+[ home/NN ]
+``/`` to/TO fight/VB 
+[ the/DT same/JJ kind/NN ]
+of/IN 
+[ things/NNS we/PRP ]
+'ve/VBP been/VBN fighting/VBG here/RB ./. 
+
+''/'' 
+======================================
+
+In/IN 
+[ this/DT era/NN ]
+of/IN 
+[ polarized/VBN opinion/NN ]
+about/IN 
+[ the/DT power/NN ]
+and/CC 
+[ prerogatives/NNS ]
+of/IN 
+[ the/DT media/NNS ]
+,/, 
+[ it/PRP ]
+'s/VBZ remarkable/JJ to/TO see/VB ``/`` 
+[ The/DT Nightmare/NNP Years/NNP ]
+''/'' keep/VB 
+[ its/PRP$ priorities/NNS ]
+so/RB straight/RB ./. 
+
+In/IN 
+[ scenes/NNS ]
+like/IN 
+[ the/DT one/CD ]
+in/IN 
+[ which/WDT Shirer/NNP ]
+cooperates/VBZ with/IN 
+[ a/DT U.S./NNP Naval/NNP Intelligence/NNP officer/NN 's/POS request/NN ]
+to/TO do/VB 
+[ a/DT little/RB ]
+spying/VBG on/IN 
+[ the/DT side/NN ]
+,/, 
+[ the/DT film/NN ]
+illustrates/VBZ very/RB clearly/RB that/IN 
+[ the/DT survival/NN ]
+of/IN 
+[ press/NN freedom/NN ]
+depends/VBZ on/IN 
+[ that/DT ]
+of/IN legitimately/RB constituted/VBN 
+[ government/NN ]
+./. 
+
+When/WRB confronted/VBN with/IN 
+[ a/DT world-class/JJ liar/NN ]
+like/IN 
+[ Goebbels/NNP ]
+,/, or/CC (/( more/RBR recently/RB )/) with/IN 
+[ the/DT kind/NN ]
+of/IN 
+[ people/NNS ]
+
+[ who/WP ]
+thought/VBD 
+[ nothing/NN ]
+of/IN whitewashing/VBG 
+[ the/DT blood/NN ]
+from/IN 
+[ Tiananmen/NNP Square/NNP ]
+,/, 
+[ it/PRP ]
+'s/VBZ heartening/JJ to/TO know/VB that/IN 
+[ a/DT line/NN ]
+still/RB exists/VBZ between/IN 
+[ journalistic/JJ pride/NN ]
+and/CC 
+[ journalistic/JJ hubris/NN ]
+./. 

@@ -1,0 +1,1159 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+For/IN 
+[ days/NNS ]
+,/, 
+[ U.S./NNP newspapers/NNS ]
+had/VBD been/VBN predicting/VBG 
+[ a/DT Sony/NNP Corp./NNP takeover/NN ]
+of/IN 
+[ Columbia/NNP Pictures/NNPS Entertainment/NNP Inc/NNP ]
+./. 
+
+But/CC here/RB in/IN 
+[ Tokyo/NNP ]
+,/, 
+[ Sony/NNP ]
+had/VBD declined/VBN to/TO comment/VB or/CC to/TO make/VB 
+[ executives/NNS ]
+available/JJ for/IN 
+[ interviews/NNS ]
+./. 
+
+======================================
+
+Then/RB ,/, 
+[ last/JJ Wednesday/NNP night/NN ]
+,/, 
+[ Sony/NNP ]
+confirmed/VBD 
+[ the/DT $/$ 3.4/CD billion/CD deal/NN ]
+./. 
+
+But/CC 
+[ the/DT consumer-electronics/NNS concern/NN ]
+did/VBD so/RB in/IN 
+[ a/DT fashion/NN ]
+
+[ that/WDT ]
+could/MD hardly/RB have/VB been/VBN more/RBR ironic/JJ ./. 
+
+Here/RB was/VBD 
+[ Japan/NNP 's/POS most/RBS internationalized/VBN company/NN ]
+making/VBG 
+[ the/DT largest/JJS overseas/JJ acquisition/NN ]
+by/IN 
+[ a/DT Japanese/JJ company/NN ]
+to/TO 
+[ date/NN ]
+--/: and/CC announcing/VBG 
+[ it/PRP ]
+in/IN 
+[ a/DT news/NN conference/NN ]
+for/IN 
+[ Japanese/JJ journalists/NNS ]
+only/RB ./. 
+
+======================================
+
+For/IN almost/RB 
+[ an/DT hour/NN ]
+,/, 
+[ Norio/NNP Ohga/NNP ]
+,/, 
+[ Sony/NNP 's/POS president/NN ]
+,/, described/VBD 
+[ Sony/NNP 's/POS hopes/NNS ]
+for/IN getting/VBG ``/`` 
+[ synergy/NN ]
+''/'' out/IN of/IN 
+[ Columbia/NNP Pictures/NNPS ]
+and/CC 
+[ CBS/NNP Records/NNPS ]
+,/, 
+[ a/DT previous/JJ Sony/NNP U.S./NNP acquisition/NN ]
+./. 
+
+======================================
+
+But/CC only/RB 
+[ the/DT briefest/JJS reference/NN ]
+to/TO 
+[ all/PDT this/DT ]
+appeared/VBD in/IN 
+[ the/DT one-page/JJ news/NN release/NN Sony/NNP ]
+later/RB faxed/VBD to/TO 
+[ foreign/JJ reporters/NNS ]
+./. 
+
+[ Two/CD foreigners/NNS ]
+heard/VBD about/IN 
+[ the/DT news/NN conference/NN ]
+by/IN 
+[ coincidence/NN ]
+ 
+[ (/( ]
+
+[ one/NN ]
+from/IN 
+[ a/DT Sony/NNP competitor/NN ]
+ )/) and/CC managed/VBD to/TO crash/VB 
+[ it/PRP ]
+despite/IN being/VBG told/VBN that/IN 
+[ foreigners/NNS ]
+were/VBD n't/RB welcome/JJ ./. 
+
+But/CC on/IN most/JJS of/IN 
+[ the/DT foreign/JJ media/NNS ]
+,/, 
+[ Mr./NNP Ohga/NNP 's/POS words/NNS ]
+were/VBD lost/VBN ./. 
+
+======================================
+
+At/IN 
+[ the/DT time/NN Sony/NNP ]
+held/VBD 
+[ the/DT news/NN conference/NN ]
+and/CC faxed/VBD 
+[ the/DT news/NN release/NN ]
+,/, 
+[ both/PDT ]
+
+[ the/DT Tokyo/NNP Stock/NNP Exchange/NNP ]
+and/CC 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+were/VBD closed/VBN ./. 
+
+While/IN 
+[ the/DT company/NN 's/POS disclosure/NN method/NN ]
+may/MD not/RB have/VB violated/VBN 
+[ stock-exchange/NN ]
+or/CC 
+[ government/NN rules/NNS ]
+,/, 
+[ it/PRP ]
+did/VBD underscore/VB 
+[ a/DT problem/NN ]
+
+[ that/WDT ]
+could/MD grow/VB more/RBR serious/JJ as/IN 
+[ Japanese/JJ companies/NNS ]
+make/VBP more/JJR and/CC more/JJR 
+[ acquisitions/NNS ]
+abroad/RB :/: 
+[ Japan/NNP 's/POS ]
+``/`` 
+[ kisha/FW club/NN ]
+''/'' 
+[ system/NN ]
+and/CC how/WRB 
+[ it/PRP ]
+limits/VBZ 
+[ foreign/JJ access/NN ]
+to/TO 
+[ news/NN ]
+./. 
+
+======================================
+
+[ Kisha/FW ]
+is/VBZ 
+[ the/DT Japanese/JJ word/NN ]
+for/IN 
+[ reporter/NN ]
+,/, but/CC 
+[ a/DT kisha/FW club/NN ]
+is/VBZ more/JJR like/IN 
+[ a/DT news/NN cartel/NN ]
+than/IN 
+[ a/DT reporters/NNS '/POS club/NN ]
+./. 
+
+[ It/PRP ]
+'s/VBZ 
+[ a/DT device/NN ]
+for/IN 
+[ limiting/VBG access/NN ]
+to/TO 
+[ news/NN briefings/NNS ]
+to/TO 
+[ representatives/NNS ]
+of/IN 
+[ the/DT major/JJ Japanese/JJ daily/JJ newspapers/NNS ]
+,/, 
+[ wire/NN services/NNS ]
+and/CC 
+[ the/DT like/JJ ]
+./. 
+
+[ Those/DT ]
+
+[ who/WP ]
+are/VBP n't/RB 
+[ members/NNS ]
+of/IN 
+[ the/DT kisha/FW club/NN ]
+covering/VBG 
+[ a/DT particular/JJ government/NN agency/NN ]
+or/CC 
+[ industry/NN ]
+--/: 
+[ most/JJS Japanese/JJ magazine/NN reporters/NNS ]
+,/, for/IN 
+[ example/NN ]
+--/: ca/MD n't/RB attend/VB 
+[ the/DT briefings/NNS ]
+./. 
+
+======================================
+
+[ The/DT kisha-club/JJ system/NN ]
+shares/VBZ 
+[ points/NNS ]
+in/IN 
+[ common/JJ ]
+with/IN 
+[ some/DT ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ structural/JJ barriers/NNS ]
+''/'' to/TO 
+[ imported/VBN goods/NNS ]
+and/CC 
+[ services/NNS ]
+about/IN 
+[ which/WDT ]
+
+[ foreign/JJ governments/NNS ]
+have/VBP been/VBN complaining/VBG to/TO 
+[ Japan/NNP ]
+./. 
+
+[ It/PRP ]
+
+[ was/VBD n't/RB ]
+initially/RB aimed/VBN at/IN keeping/VBG out/IN 
+[ foreigners/NNS ]
+,/, although/IN 
+[ it/PRP ]
+has/VBZ 
+[ that/DT effect/NN ]
+./. 
+
+[ It/PRP ]
+reflects/VBZ 
+[ a/DT strong/JJ Japanese/JJ preference/NN ]
+for/IN 
+[ order/NN ]
+and/CC 
+[ harmony/NN ]
+over/IN 
+[ unbridled/JJ competition/NN ]
+./. 
+
+And/CC 
+[ the/DT situation/NN ]
+is/VBZ ,/, from/IN 
+[ a/DT foreign/JJ viewpoint/NN ]
+,/, improving/VBG ./. 
+
+======================================
+
+[ Many/JJ Japanese/JJ kisha/FW clubs/NNS ]
+,/, led/VBN by/IN 
+[ the/DT one/CD ]
+covering/VBG 
+[ the/DT Foreign/NNP Ministry/NNP ]
+,/, are/VBP now/RB letting/VBG 
+[ foreign/JJ reporters/NNS ]
+sit/VB in/IN on/IN 
+[ briefings/NNS ]
+,/, and/CC 
+[ some/DT ]
+are/VBP even/RB allowing/VBG 
+[ foreigners/NNS ]
+to/TO ask/VB 
+[ questions/NNS ]
+at/IN 
+[ them/PRP ]
+./. 
+
+======================================
+
+But/CC 
+[ other/JJ briefings/NNS ]
+with/IN 
+[ government/NN officials/NNS ]
+are/VBP still/RB closed/VBN ./. 
+
+During/IN 
+[ last/JJ year/NN 's/POS Recruit/NN scandal/NN ]
+,/, 
+[ the/DT Tokyo/NNP prosecutor/NN 's/POS office/NN ]
+not/RB only/RB barred/VBD 
+[ foreign/JJ reporters/NNS ]
+from/IN 
+[ briefings/NNS ]
+but/CC even/RB refused/VBD to/TO confirm/VB 
+[ information/NN ]
+
+[ it/PRP ]
+had/VBD given/VBN to/TO 
+[ its/PRP$ kisha/FW club/NN ]
+./. 
+
+And/CC 
+[ some/DT ]
+of/IN 
+[ the/DT kisha/FW clubs/NNS ]
+covering/VBG 
+[ private/JJ industries/NNS ]
+adamantly/RB continue/VBP to/TO reject/VB 
+[ foreigners/NNS ]
+./. 
+
+======================================
+
+As/IN 
+[ a/DT result/NN ]
+,/, when/WRB 
+[ Japanese/JJ companies/NNS ]
+do/VBP deals/NNS with/IN 
+[ foreign/JJ companies/NNS ]
+,/, 
+[ the/DT Japanese/JJ press/NN ]
+frequently/RB has/VBZ 
+[ access/NN ]
+to/TO 
+[ information/NN ]
+from/IN 
+[ both/DT ]
+
+[ sides/NNS ]
+,/, while/IN 
+[ the/DT foreign/JJ press/NN ]
+does/VBZ n't/RB ./. 
+
+Take/VB ,/, for/IN 
+[ example/NN ]
+,/, 
+[ Dai/NNP Ichi/NNP Kangyo/NNP Bank/NNP Ltd./NNP 's/POS recent/JJ agreement/NN ]
+to/TO purchase/VB 
+[ 4.9/CD %/NN ]
+of/IN 
+[ Manufacturers/NNPS Hanover/NNP Corp./NNP ]
+and/CC 
+[ 60/CD %/NN ]
+of/IN 
+[ Manufacturers/NNPS '/POS CIT/NNP Group/NNP Inc./NNP ]
+for/IN 
+[ $/$ 1.4/CD billion/CD ]
+./. 
+
+[ Manufacturers/NNPS Hanover/NNP ]
+announced/VBD 
+[ the/DT deal/NN ]
+at/IN 
+[ a/DT New/NNP York/NNP news/NN conference/NN ]
+
+[ that/WDT ]
+was/VBD open/JJ to/TO 
+[ all/DT reporters/NNS ]
+./. 
+
+[ A/DT few/JJ hours/NNS ]
+later/RB ,/, 
+[ Dai/NNP Ichi/NNP Kangyo/NNP ]
+held/VBD 
+[ its/PRP$ own/JJ news/NN conference/NN ]
+in/IN 
+[ Tokyo/NNP ]
+--/: for/IN 
+[ Japanese/JJ reporters/NNS ]
+only/RB ./. 
+
+======================================
+
+``/`` 
+[ Progress/NN ]
+has/VBZ been/VBN made/VBN in/IN 
+[ general/JJ ]
+,/, but/CC 
+[ it/PRP ]
+'s/VBZ 
+[ two/CD steps/NNS ]
+forward/RB and/CC 
+[ one/CD step/NN ]
+back/RB ,/, constantly/RB ,/, ''/'' says/VBZ 
+[ Mike/NNP Tharp/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Foreign/NNP Correspondents/NNPS Club/NNP ]
+of/IN 
+[ Japan/NNP ]
+and/CC 
+[ Tokyo/NNP bureau/NN chief/NN ]
+of/IN 
+[ U.S./NNP News/NNP ]
+&/CC 
+[ World/NNP Report/NNP ]
+./. 
+
+======================================
+
+On/IN 
+[ the/DT surface/NN ]
+,/, 
+[ Sony/NNP ]
+ought/MD to/TO have/VB been/VBN 
+[ the/DT least/JJS likely/JJ Japanese/JJ company/NN ]
+to/TO play/VB 
+[ ball/NN ]
+with/IN 
+[ the/DT exclusionary/JJ kisha-club/JJ system/NN ]
+./. 
+
+While/IN ``/`` 
+[ internationalization/NN ]
+''/'' is/VBZ just/RB 
+[ a/DT buzzword/NN ]
+for/IN 
+[ many/JJ Japanese/JJ companies/NNS ]
+,/, 
+[ Sony/NNP ]
+built/VBD 
+[ its/PRP$ first/JJ plant/NN ]
+in/IN 
+[ California/NNP ]
+in/IN 
+[ the/DT early/JJ 1970s/CD ]
+,/, long/RB before/IN 
+[ most/JJS other/JJ Japanese/JJ companies/NNS ]
+began/VBD manufacturing/VBG abroad/RB ./. 
+
+Unlike/IN 
+[ many/JJ other/JJ Japanese/JJ companies/NNS ]
+,/, 
+[ Sony/NNP ]
+has/VBZ run/VBN 
+[ its/PRP$ overseas/JJ operations/NNS ]
+with/IN 
+[ foreign/JJ managers/NNS ]
+,/, and/CC earlier/RBR 
+[ this/DT year/NN Sony/NNP ]
+became/VBD 
+[ the/DT first/JJ Japanese/JJ company/NN ]
+to/TO put/VB 
+[ foreigners/NNS ]
+on/IN 
+[ its/PRP$ board/NN ]
+of/IN 
+[ directors/NNS ]
+./. 
+
+======================================
+
+[ Some/DT Japanese/JJ companies/NNS ]
+privately/RB fear/VBP that/IN if/IN 
+[ they/PRP ]
+push/VBP 
+[ their/PRP$  kisha/FW clubs/NNS ]
+too/RB hard/JJ to/TO open/VB up/IN ,/, 
+[ the/DT reporters/NNS ]
+could/MD retaliate/VB with/IN 
+[ negative/JJ articles/NNS ]
+./. 
+
+[ Sony/NNP ]
+does/VBZ n't/RB admit/VB to/TO 
+[ such/JJ fears/NNS ]
+,/, but/CC 
+[ it/PRP ]
+clearly/RB is/VBZ sensitive/JJ to/TO 
+[ its/PRP$ treatment/NN ]
+by/IN 
+[ the/DT Japanese/JJ press/NN ]
+./. 
+
+Founded/VBN after/IN 
+[ World/NNP War/NNP II/NNP ]
+,/, 
+[ Sony/NNP ]
+is/VBZ 
+[ a/DT relative/JJ newcomer/NN ]
+to/TO 
+[ the/DT Japanese/JJ corporate/JJ world/NN ]
+,/, and/CC 
+[ it/PRP ]
+'s/VBZ still/RB regarded/VBN as/IN 
+[ something/NN ]
+of/IN 
+[ an/DT outsider/NN ]
+./. 
+
+[ It/PRP ]
+does/VBZ n't/RB have/VB 
+[ the/DT extensive/JJ retail-distribution/NN network/NN ]
+in/IN 
+[ Japan/NNP ]
+that/IN 
+[ its/PRP$ more-entrenched/JJ consumer-electronics/NNS competitors/NNS ]
+have/VBP ,/, nor/CC does/VBZ 
+[ it/PRP ]
+have/VB domestically/RB 
+[ the/DT premium-brand/JJ image/NN ]
+that/IN 
+[ it/PRP ]
+has/VBZ overseas/RB ./. 
+
+======================================
+
+[ Sony/NNP spokesman/NN Haruyuki/NNP Machida/NNP ]
+does/VBZ admit/VB to/TO having/VBG been/VBN under/IN 
+[ a/DT certain/JJ amount/NN ]
+of/IN 
+[ pressure/NN ]
+from/IN 
+[ the/DT Japanese/JJ press/NN ]
+before/IN 
+[ Mr./NNP Ohga/NNP 's/POS news/NN conference/NN ]
+./. 
+
+[ The/DT pressure/NN ]
+was/VBD especially/RB 
+[ intense/JJ ]
+,/, 
+[ Mr./NNP Machida/NNP ]
+says/VBZ ,/, because/IN 
+[ U.S./NNP newspapers/NNS ]
+,/, including/VBG 
+[ this/DT one/CD ]
+,/, had/VBD been/VBN so/RB full/JJ of/IN ``/`` leaks/NNS and/CC reports/NNS {/( from/IN 
+[ sources/NNS ]
+in/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+ }/) 
+[ that/WDT ]
+were/VBD so/RB detailed/VBN ,/, while/IN 
+[ I/PRP ]
+had/VBD to/TO stick/VB to/TO 
+[ a/DT very/RB strict/JJ guideline/NN of'no/NN  comment/NN ]
+'/'' ''/'' in/IN dealing/VBG with/IN 
+[ the/DT press/NN ]
+in/IN 
+[ Tokyo/NNP ]
+./. 
+
+======================================
+
+[ Mr./NNP Machida/NNP ]
+says/VBZ 
+[ Sony/NNP ]
+was/VBD also/RB squeezed/VBN by/IN 
+[ such/JJ considerations/NNS ]
+as/IN 
+[ the/DT need/NN ]
+to/TO organize/VB 
+[ the/DT briefing/NN ]
+hastily/RB and/CC 
+[ the/DT lack/NN ]
+of/IN 
+[ a/DT room/NN large/JJ ]
+enough/RB to/TO handle/VB 
+[ a/DT big/JJ crowd/NN ]
+of/IN 
+[ reporters/NNS ]
+./. 
+
+[ He/PRP ]
+admits/VBZ ,/, however/RB ,/, that/IN 
+[ these/DT sound/VBP ]
+like/IN ``/`` 
+[ excuses/NNS ]
+./. 
+
+''/'' 
+======================================
+
+``/`` 
+[ What/WP ]
+
+[ I/PRP ]
+did/VBD was/VBD not/RB 
+[ the/DT best/JJS choice/NN ]
+,/, and/CC 
+[ I/PRP ]
+feel/VBP very/RB sorry/JJ for/IN 
+[ that/DT ]
+,/, ''/'' says/VBZ 
+[ Mr./NNP Machida/NNP ]
+,/, ``/`` but/CC 
+[ I/PRP ]
+hope/VBP 
+[ you/PRP ]
+understand/VBP and/CC appreciate/VBP that/IN 
+[ this/DT ]
+was/VBD 
+[ a/DT very/RB difficult/JJ issue/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Marcus/NNP W./NNP Brauchli/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 
+
+======================================
+
+[ Sales/NNS ]
+of/IN 
+[ new/JJ cars/NNS ]
+in/IN 
+[ Europe/NNP ]
+rose/VBD 
+[ a/DT hearty/JJ 5/CD %/NN ]
+in/IN 
+[ August/NNP ]
+from/IN 
+[ a/DT year/NN ]
+earlier/RBR ./. 
+
+======================================
+
+[ The/DT increase/NN ]
+adds/VBZ to/TO 
+[ the/DT roller-coaster/NN picture/NN ]
+of/IN 
+[ European/JJ auto/NN sales/NNS ]
+seen/VBN since/IN 
+[ the/DT beginning/NN ]
+of/IN 
+[ the/DT second/JJ quarter/NN ]
+./. 
+
+[ Industry/NN ]
+and/CC 
+[ government/NN statistics/NNS ]
+from/IN 
+[ 12/CD countries/NNS ]
+
+[ that/WDT ]
+normally/RB account/VBP for/IN about/IN 
+[ 94/CD %/NN ]
+of/IN 
+[ noncommunist/NN Europe/NNP 's/POS passenger/NN car/NN sales/NNS ]
+showed/VBD 
+[ new/JJ car/NN registrations/NNS ]
+rose/VBD to/TO 
+[ 1,149,341/CD ]
+in/IN 
+[ August/NNP ]
+,/, up/IN 
+[ 5/CD %/NN ]
+on/IN 
+[ the/DT year/NN ]
+and/CC 
+[ 22/CD %/NN ]
+from/IN 
+[ July/NNP ]
+./. 
+
+======================================
+
+[ The/DT figures/NNS ]
+were/VBD boosted/VBN by/IN 
+[ record/NN August/NNP sales/NNS ]
+in/IN 
+[ the/DT U.K./NNP ]
+of/IN 
+[ 500,112/CD ]
+./. 
+
+[ That/DT total/NN ]
+reflects/VBZ 
+[ continuing/VBG strength/NN ]
+in/IN 
+[ British/JJ consumer/NN demand/NN ]
+and/CC 
+[ aggressive/JJ incentive/NN programs/NNS ]
+by/IN 
+[ many/JJ auto/NN makers/NNS ]
+./. 
+
+======================================
+
+While/IN 
+[ the/DT latest/JJS month/NN ]
+bettered/VBD 
+[ most/JJS analysts/NNS '/POS expectations/NNS ]
+,/, ``/`` 
+[ the/DT general/JJ opinion/NN ]
+appears/VBZ to/TO be/VB that/IN 
+[ the/DT market/NN ]
+will/MD now/RB cool/VB off/IN ''/'' over/IN 
+[ the/DT next/JJ year/NN ]
+and/CC 
+[ a/DT half/NN ]
+before/IN entering/VBG 
+[ another/DT period/NN ]
+of/IN 
+[ steady/JJ growth/NN ]
+,/, said/VBD 
+[ one/CD industry/NN observer/NN ]
+./. 
+
+======================================
+
+[ Edzard/NNP Reuter/NNP ]
+,/, 
+[ the/DT chairman/NN ]
+of/IN 
+[ Daimler-Benz/NNP AG/NNP ]
+,/, said/VBD 
+[ there/EX ]
+are/VBP 
+[ many/JJ potential/JJ buyers/NNS ]
+for/IN 
+[ parts/NNS ]
+of/IN 
+[ Daimler-Benz/NNP ]
+and/CC 
+[ Messerschmitt-Boelkow/NNP Blohm/NNP G.m.b/NNP ]
+./. 
+
+[ H./NNP ]
+,/, or/CC 
+[ MBB/NNP ]
+./. 
+
+[ Daimler-Benz/NNP ]
+,/, 
+[ a/DT West/JJ German/JJ aerospace/NN concern/NN ]
+,/, plans/VBZ to/TO take/VB over/IN 
+[ state-controlled/JJ MBB/NNP ]
+,/, but/CC 
+[ the/DT government/NN ]
+is/VBZ making/VBG 
+[ both/DT ]
+
+[ companies/NNS ]
+first/RB spin/VB off/IN 
+[ certain/JJ defense/NN technology/NN activities/NNS ]
+./. 
+
+[ Mr./NNP Reuter/NNP ]
+also/RB said/VBD that/IN 
+[ Airbus/NNP Industrie/NNP ]
+,/, owned/VBN by/IN 
+[ Aerospatiale/NNP SA/NNP ]
+of/IN 
+[ France/NNP ]
+,/, 
+[ MBB/NNP ]
+,/, 
+[ British/NNP Aerospace/NNP PLC/NNP ]
+and/CC 
+[ Construcciones/NNP Aeronauticas/NNP SA/NNP ]
+of/IN 
+[ Spain/NNP ]
+,/, should/MD become/VB fully/RB privatized/VBN ./. 
+
+``/`` 
+[ We/PRP ]
+will/MD work/VB decisively/RB to/TO see/VB that/IN 
+[ it/PRP ]
+happens/VBZ ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+While/IN 
+[ British/NNP Aerospace/NNP ]
+is/VBZ already/RB 
+[ a/DT private/JJ company/NN ]
+,/, and/CC 
+[ MBB/NNP ]
+will/MD soon/RB be/VB as/IN well/RB ,/, 
+[ the/DT French/JJ ]
+and/CC 
+[ Spanish/JJ companies/NNS ]
+are/VBP state-owned/JJ ./. 
+
+======================================
+
+[ The/DT British/JJ government/NN ]
+postponed/VBD 
+[ the/DT sale/NN ]
+of/IN 
+[ the/DT state-owned/JJ electricity/NN industry/NN ]
+by/IN up/IN to/TO 
+[ six/CD months/NNS ]
+;/: 
+[ the/DT $/$ 32/CD billion/CD sale/NN ]
+had/VBD been/VBN set/VBN to/TO begin/VB 
+[ next/JJ January/NNP ]
+./. 
+
+[ The/DT delay/NN ]
+was/VBD attacked/VBN by/IN 
+[ the/DT opposition/NN Labor/NNP Party/NNP ]
+and/CC widely/RB viewed/VBN as/IN 
+[ a/DT setback/NN ]
+to/TO 
+[ the/DT government/NN ]
+,/, 
+[ whose/WP$ ambitious/JJ plans/NNS ]
+to/TO sell/VB 
+[ electricity/NN ]
+and/CC 
+[ water/NN suppliers/NNS ]
+to/TO 
+[ private/JJ investors/NNS ]
+have/VBP sparked/VBN 
+[ sharp/JJ public/JJ criticism/NN ]
+./. 
+
+======================================
+
+[ Eugene/NNP Lapointe/NNP ]
+,/, 
+[ secretary-general/NN ]
+of/IN 
+[ the/DT U.N.-sponsored/JJ Convention/NNP ]
+on/IN 
+[ International/NNP Trade/NNP ]
+in/IN 
+[ Endangered/NNP Species/NNP ]
+,/, said/VBD 
+[ nations/NNS ]
+
+[ that/WDT ]
+manage/VBP 
+[ elephant/NN herds/NNS ]
+well/RB should/MD be/VB allowed/VBN to/TO continue/VB 
+[ selling/VBG ivory/NN ]
+for/IN 
+[ financial/JJ reasons/NNS ]
+./. 
+
+But/CC 
+[ he/PRP ]
+was/VBD immediately/RB challenged/VBN ./. 
+
+[ Philippe/NNP Roch/NNP ]
+of/IN 
+[ the/DT World/NNP Wide/NNP Fund/NNP ]
+for/IN 
+[ Nature/NNP ]
+said/VBD 
+[ a/DT total/NN ban/NN ]
+was/VBD 
+[ the/DT only/JJ answer/NN ]
+./. 
+
+``/`` If/IN 
+[ people/NNS ]
+understand/VBP 
+[ they/PRP ]
+can/MD not/RB buy/VB 
+[ any/DT ivory/NN object/NN ]
+,/, 
+[ there/EX ]
+will/MD be/VB 
+[ a/DT real/JJ decrease/NN ]
+in/IN 
+[ ivory/NN demand/NN ]
+,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ China/NNP ]
+ruled/VBD out/IN 
+[ higher/JJR grain/NN imports/NNS ]
+or/CC 
+[ a/DT return/NN ]
+to/TO 
+[ Maoist/JJ collectives/NNS ]
+to/TO feed/VB 
+[ its/PRP$ 1.1/CD billion/CD people/NNS ]
+,/, saying/VBG 
+[ more/RBR efficient/JJ family/NN farms/NNS ]
+were/VBD 
+[ the/DT answer/NN ]
+./. 
+
+[ The/DT People/NNPS 's/POS ]
+Daily/NNP rejected/VBD 
+[ the/DT view/NN ]
+that/IN 
+[ small-scale/JJ farming/NN methods/NNS ]
+had/VBD reached/VBN 
+[ the/DT limit/NN ]
+of/IN 
+[ their/PRP$ potential/NN ]
+and/CC that/IN 
+[ China/NNP ]
+would/MD have/VB to/TO import/VB 
+[ grain/NN ]
+for/IN 
+[ a/DT long/JJ time/NN ]
+./. 
+
+[ Latest/JJS official/JJ estimates/NNS ]
+put/VBD 
+[ the/DT 1989/CD grain/NN harvest/NN ]
+at/IN 
+[ above/JJ last/JJ year/NN 's/POS 394/CD million/CD tons/NNS ]
+,/, but/CC 
+[ it/PRP ]
+may/MD not/RB reach/VB 
+[ the/DT target/NN ]
+of/IN 
+[ 410/CD million/CD ]
+./. 
+
+======================================
+
+[ South/NNP Africa/NNP 's/POS government/NN expenditure/NN ]
+is/VBZ running/VBG far/RB ahead/RB of/IN 
+[ budget/NN ]
+,/, 
+[ the/DT Reserve/NNP Bank/NNP ]
+said/VBD ./. 
+
+From/IN 
+[ April/NNP ]
+to/TO 
+[ July/NNP ]
+,/, 
+[ the/DT first/JJ four/CD months/NNS ]
+of/IN 
+[ the/DT current/JJ fiscal/JJ year/NN ]
+,/, 
+[ government/NN expenditure/NN ]
+rose/VBD 
+[ 30.7/CD %/NN ]
+over/IN 
+[ the/DT same/JJ period/NN last/JJ year/NN ]
+--/: well/RB above/IN 
+[ the/DT budgeted/VBN increase/NN ]
+of/IN 
+[ 15/CD %/NN ]
+for/IN 
+[ the/DT fiscal/JJ year/NN ]
+as/IN 
+[ a/DT whole/NN ]
+,/, 
+[ the/DT bank/NN ]
+said/VBD ./. 
+
+But/CC 
+[ it/PRP ]
+said/VBD 
+[ that/IN government/NN revenue/NN ]
+had/VBD also/RB run/VBN ahead/RB of/IN 
+[ budget/NN ]
+in/IN 
+[ the/DT four/CD months/NNS ]
+,/, mainly/RB because/IN of/IN 
+[ increases/NNS ]
+in/IN 
+[ the/DT fuel/NN levy/NN ]
+,/, 
+[ hikes/NNS ]
+in/IN 
+[ the/DT surcharge/NN ]
+on/IN 
+[ imports/NNS ]
+introduced/VBN 
+[ last/JJ year/NN ]
+and/CC 
+[ income/NN ]
+from/IN 
+[ a/DT higher/JJR general/JJ sales/NNS tax/NN ]
+./. 
+
+======================================
+
+[ Bertelsmann/NNP AG/NNP ]
+said/VBD 
+[ its/PRP$ consolidation/NN phase/NN ]
+was/VBD about/IN to/TO end/VB --/: ahead/RB of/IN 
+[ schedule/NN ]
+./. 
+
+======================================
+
+[ Chairman/NNP Mark/NNP Woessner/NNP ]
+said/VBD 
+[ the/DT West/JJ German/JJ publishing/NN giant/NN 's/POS past/JJ fiscal/JJ year/NN ]
+,/, 
+[ which/WDT ]
+ended/VBD 
+[ June/NNP 30/CD ]
+,/, ``/`` was/VBD much/RB better/JJR than/IN projected/VBN ./. 
+
+''/'' 
+[ He/PRP ]
+said/VBD 
+[ Bertelsmann/NNP 's/POS group/NN net/NN income/NN ]
+rose/VBD 
+[ 16/CD %/NN ]
+to/TO 
+[ 420/CD million/CD West/NNP German/NNP ]
+marks/NNS (/( 
+[ $/$ 223.3/CD million/CD ]
+ )/) in/IN 
+[ fiscal/JJ 1989/CD ]
+from/IN 
+[ 362/CD million/CD marks/NNS ]
+in/IN 
+[ the/DT previous/JJ year/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Woessner/NNP ]
+said/VBD 
+[ such/JJ ]
+``/`` 
+[ excellent/JJ ]
+''/'' 
+[ results/NNS ]
+would/MD help/VB 
+[ complete/JJ the/DT period/NN ]
+of/IN 
+[ consolidation/NN ]
+by/IN 
+[ the/DT end/NN ]
+of/IN 
+[ next/JJ fiscal/JJ year/NN ]
+instead/RB of/IN in/IN 
+[ three/CD years/NNS ]
+,/, as/IN had/VBD been/VBN planned/VBN ./. 
+
+[ This/DT phase/NN ]
+started/VBD in/IN 
+[ fiscal/JJ 1987/CD ]
+with/IN 
+[ the/DT acquisition/NN ]
+of/IN 
+[ Doubleday/NNP Inc./NNP ]
+and/CC 
+[ RCA\/Ariola/NNP Records/NNPS ]
+of/IN 
+[ the/DT U.S/NNP ]
+./. 
+
+======================================
+
+Despite/IN 
+[ the/DT near-completion/NN ]
+of/IN 
+[ the/DT consolidation/NN ]
+,/, 
+[ Bertelsmann/NNP ]
+will/MD abstain/VB from/IN making/VBG 
+[ any/DT ]
+``/`` 
+[ spectacular/JJ ]
+''/'' 
+[ acquisitions/NNS ]
+in/IN 
+[ the/DT near/JJ future/NN ]
+,/, 
+[ its/PRP$ chairman/NN ]
+said/VBD ./. 
+
+======================================
+
+[ The/DT Soviet/NNP Union/NNP ]
+dropped/VBD 
+[ an/DT atomic/JJ bomb/NN ]
+near/IN 
+[ Soviet/JJ army/NN units/NNS ]
+in/IN 
+[ 1954/CD ]
+to/TO test/VB 
+[ the/DT effects/NNS ]
+of/IN 
+[ the/DT blast/NN ]
+,/, said/VBD 
+[ the/DT armed/VBN forces/NNS ]
+daily/RB 
+[ Red/NNP Star/NNP ]
+./. 
+
+[ The/DT newspaper/NN ]
+said/VBD 
+[ the/DT bomb/NN ]
+was/VBD dropped/VBN in/IN 
+[ the/DT south/JJ Urals/NNPS ]
+,/, but/CC 
+[ it/PRP ]
+did/VBD n't/RB report/VB 
+[ any/DT casualties/NNS ]
+or/CC address/VB how/WRB 
+[ the/DT soldiers/NNS ]
+may/MD have/VB been/VBN affected/VBN ./. 
+
+./. 
+
+./. 
+
+./. 
+
+[ An/DT Israeli/NNP farm/NN settlement/NN ]
+in/IN 
+[ the/DT Gaza/NNP Strip/NNP ]
+has/VBZ found/VBN 
+[ a/DT way/NN ]
+to/TO grow/VB 
+[ bug-free/JJ lettuce/NN ]
+in/IN 
+[ hothouses/NNS ]
+./. 
+
+[ The/DT Jerusalem/NNP Post/NNP ]
+said/VBD 
+[ the/DT discovery/NN ]
+was/VBD 
+[ a/DT boon/NN ]
+for/IN 
+[ Orthodox/NNP Jews/NNPS ]
+
+[ who/WP ]
+previously/RB soaked/VBD 
+[ lettuce/NN ]
+in/IN 
+[ vinegar/NN ]
+and/CC washed/VBD 
+[ it/PRP ]
+repeatedly/RB to/TO remove/VB 
+[ all/DT insects/NNS ]
+,/, proscribed/VBN by/IN 
+[ dietary/JJ laws/NNS ]
+./. 

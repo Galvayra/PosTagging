@@ -1,0 +1,243 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT grand/JJ jury/NN ]
+agreed/VBD to/TO investigate/VB 
+[ last/JJ Wednesday/NNP 's/POS crash/NN ]
+of/IN 
+[ a/DT USAir/NNP Group/NNP Inc./NNP jetliner/NN ]
+at/IN 
+[ the/DT request/NN ]
+of/IN 
+[ Queens/NNP ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ District/NNP Attorney/NNP John/NNP J./NNP Santucci/NNP ]
+./. 
+
+======================================
+
+[ The/DT plane/NN ]
+,/, bound/VBN for/IN 
+[ Charlotte/NNP ]
+,/, 
+[ N.C./NNP ]
+,/, crashed/VBD at/IN 
+[ La/NNP Guardia/NNP Airport/NNP ]
+in/IN 
+[ Queens/NNP ]
+killing/VBG 
+[ two/CD ]
+of/IN 
+[ 63/CD passengers/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Santucci/NNP 's/POS decision/NN ]
+to/TO present/VB 
+[ the/DT inquiry/NN ]
+to/TO 
+[ the/DT grand/JJ jury/NN ]
+is/VBZ unusual/JJ and/CC could/MD lead/VB to/TO 
+[ criminal/JJ charges/NNS ]
+against/IN 
+[ the/DT pilots/NNS ]
+./. 
+
+======================================
+
+[ The/DT grand-jury/NN investigation/NN ]
+threatens/VBZ to/TO undermine/VB 
+[ future/JJ airline-crash/JJ inquiries/NNS ]
+,/, warns/VBZ 
+[ Airline/NNP Pilots/NNPS Association/NNP President/NNP Henry/NNP Duffy/NNP ]
+./. 
+
+``/`` Never/RB has/VBZ 
+[ anyone/NN ]
+talked/VBN about/IN 
+[ criminal/JJ penalties/NNS ]
+in/IN 
+[ airline/NN safety/NN ]
+before/IN ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ unusual/JJ ,/, perhaps/RB unheard/JJ of/IN ,/, for/IN 
+[ local/JJ authorities/NNS ]
+to/TO conduct/VB 
+[ a/DT criminal/JJ investigation/NN ]
+into/IN 
+[ an/DT airline/NN crash/NN ]
+,/, 
+[ most/JJS observers/NNS ]
+agree/VBP ./. 
+
+[ Mr./NNP Duffy/NNP ]
+says/VBZ 
+[ Mr./NNP Santucci/NNP 's/POS actions/NNS ]
+set/VBD 
+[ a/DT far-reaching/JJ ]
+and/CC 
+[ disturbing/JJ precedent/NN ]
+./. 
+
+[ Mr./NNP Duffy/NNP ]
+contends/VBZ that/IN 
+[ airline/NN ]
+and/CC 
+[ airport/NN personnel/NNS ]
+,/, fearful/JJ that/IN 
+[ they/PRP ]
+might/MD be/VB indicted/VBN ,/, will/MD be/VB reluctant/JJ to/TO cooperate/VB with/IN 
+[ National/NNP Transportation/NNP ]
+and/CC 
+[ Saftey/NNP Board/NNP inquiries/NNS ]
+./. 
+
+[ That/DT lack/NN ]
+of/IN 
+[ cooperation/NN ]
+will/MD delay/VB 
+[ the/DT airline/NN industry/NN ]
+'s/POS ,/, 
+[ the/DT union/NN 's/POS ]
+and/CC 
+[ NTSB/NNP 's/POS joint/JJ effort/NN ]
+to/TO find/VB out/IN 
+[ what/WP ]
+went/VBD 
+[ wrong/JJ ]
+and/CC correct/VB 
+[ the/DT error/NN ]
+,/, 
+[ Mr./NNP Duffy/NNP ]
+said/VBD ./. 
+
+======================================
+
+``/`` 
+[ What/WP ]
+
+[ we/PRP ]
+got/VBD here/RB is/VBZ 
+[ a/DT grandstanding/VBG D.A./NN ]
+
+[ who/WP ]
+is/VBZ into/IN 
+[ an/DT area/NN ]
+
+[ he/PRP ]
+knows/VBZ 
+[ nothing/NN ]
+about/IN ,/, ''/'' 
+[ Mr./NNP Duffy/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT National/NNP Transportation/NNP Safety/NNP Board/NNP spokesman/NN ]
+says/VBZ 
+[ he/PRP ]
+doubts/VBZ 
+[ Mr./NNP Santucci/NNP 's/POS criminal/JJ investigation/NN ]
+undermines/VBZ 
+[ the/DT NTSB/NNP 's/POS efforts/NNS ]
+./. 
+
+[ The/DT spokesman/NN ]
+pointed/VBD out/IN 
+[ that/DT last/JJ May/NNP charges/NNS ]
+of/IN 
+[ criminal/JJ recklessness/NN ]
+were/VBD brought/VBN against/IN 
+[ the/DT ship/NN captain/NN ]
+of/IN 
+[ the/DT Exxon/NNP Valdez/NNP ]
+by/IN 
+[ Alaskan/JJ authorities/NNS ]
+when/WRB 
+[ the/DT Exxon/NNP Corp./NNP tanker/NN ]
+ran/VBD aground/RB and/CC spilled/VBD 
+[ 10.9/CD million/CD gallons/NNS ]
+of/IN 
+[ oil/NN ]
+into/IN 
+[ the/DT Prince/NNP William/NNP Sound/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ We/PRP ]
+have/VBP seen/VBN 
+[ criminal/JJ investigations/NNS ]
+conducted/VBN by/IN 
+[ local/JJ authorities/NNS ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+as/RB ours/JJ before/IN ,/, ''/'' 
+[ he/PRP ]
+said/VBD ./. 
+
+======================================
+
+[ A/DT spokesman/NN ]
+for/IN 
+[ the/DT Queens/NNP district/NN attorney/NN ]
+said/VBD 
+[ no/DT specific/JJ targets/NNS ]
+have/VBP been/VBN named/VBN and/CC 
+[ no/DT charges/NNS ]
+have/VBP been/VBN brought/VBN in/IN 
+[ the/DT investigation/NN ]
+of/IN 
+[ the/DT La/NNP Guardia/NNP crash/NN ]
+./. 
+
+======================================
+
+[ The/DT grand-jury/NN investigations/NNS ]
+could/MD lead/VB to/TO 
+[ the/DT indictment/NN ]
+of/IN 
+[ Capt./NNP Michael/NNP Martin/NNP ]
+,/, and/CC 
+[ co-pilot/NN Constantine/NNP Kleissas/NNP ]
+on/IN 
+[ reckless-endangerment/NN ]
+or/CC 
+[ negligent-homicide/NN charges/NNS ]
+./. 
+
+======================================
+
+[ The/DT pilots/NNS '/POS lawyer/NN ]
+,/, 
+[ Frederick/NNP P./NNP Hafetz/NNP ]
+,/, contends/VBZ 
+[ Mr./NNP Santucci/NNP ]
+has/VBZ ``/`` 
+[ no/DT basis/NN ]
+for/IN 
+[ any/DT criminal/JJ investigation/NN ]
+./. 

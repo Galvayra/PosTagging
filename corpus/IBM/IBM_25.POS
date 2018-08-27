@@ -1,0 +1,1280 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+[ 2401/CD ]
+./. 
+
+[ A/DT file/NN ]
+stored/VBN on/IN 
+[ a/DT personal/JJ computer/NN ]
+./. 
+
+[ 2402/CD ]
+./. 
+
+[ PC/NNP text-assist/NN function/NN ]
+./. 
+
+[ 2403/CD ]
+./. 
+
+[ A/DT description/NN ]
+of/IN how/WRB 
+[ data/NN ]
+is/VBZ to/TO be/VB presented/VBN to/TO or/CC received/VBN from/IN 
+[ a/DT program/NN ]
+and/CC how/WRB 
+[ data/NN ]
+is/VBZ actually/RB stored/VBN in/IN 
+[ the/DT database/NN ]
+./. 
+
+[ 2404/CD ]
+./. 
+
+[ A/DT physical/JJ file/NN ]
+contains/VBZ 
+[ one/CD record/NN format/NN ]
+and/CC 
+[ one/CD ]
+or/CC 
+[ more/JJR members/NNS ]
+./. 
+
+[ 2405/CD ]
+./. 
+
+[ A/DT device/NN file/NN ]
+
+[ that/WDT ]
+determines/VBZ 
+[ what/WP ]
+attributes/NNS 
+[ printed/JJ output/NN ]
+will/MD have/VB ./. 
+
+[ 2406/CD ]
+./. 
+
+[ A/DT particular/JJ printer/NN ]
+may/MD or/CC may/MD not/RB support/VB 
+[ all/DT ]
+of/IN 
+[ the/DT attributes/NNS ]
+specified/VBN in/IN 
+[ a/DT printer/NN file/NN ]
+./. 
+
+[ 2407/CD ]
+./. 
+
+If/IN 
+[ there/EX ]
+is/VBZ more/RBR than/IN 
+[ one/CD directory/NN ]
+on/IN 
+[ a/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+,/, 
+[ the/DT root/NN directory/NN ]
+can/MD also/RB contain/VB 
+[ the/DT names/NNS ]
+of/IN 
+[ each/DT ]
+of/IN 
+[ the/DT other/JJ directories/NNS ]
+./. 
+
+[ 2408/CD ]
+./. 
+
+[ The/DT root/NN directory/NN ]
+is/VBZ created/VBN by/IN 
+[ DOS/NNP ]
+when/WRB 
+[ the/DT disk/NN ]
+or/CC 
+[ diskette/NN ]
+is/VBZ formatted/VBN ./. 
+
+[ 2409/CD ]
+./. 
+
+[ A/DT person/NN ]
+assigned/VBN to/TO control/VB 
+[ all/DT ]
+of/IN 
+[ the/DT security/NN authorizations/NNS ]
+provided/VBN with/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2410/CD ]
+./. 
+
+[ A/DT symbol/NN ]
+,/, 
+[ number/NN ]
+,/, or/CC 
+[ letter/NN ]
+written/VBN immediately/RB below/IN and/CC to/TO 
+[ the/DT right/NN ]
+or/CC left/NN of/IN 
+[ another/DT character/NN ]
+./. 
+
+[ 2411/CD ]
+./. 
+
+[ A/DT system/NN object/NN ]
+
+[ that/WDT ]
+contains/VBZ 
+[ information/NN ]
+defining/VBG 
+[ the/DT characteristics/NNS ]
+of/IN 
+[ an/DT operating/VBG environment/NN ]
+controlled/VBN by/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2412/CD ]
+./. 
+
+[ The/DT table/NN ]
+can/MD be/VB used/VBN for/IN 
+[ translation/NN ]
+of/IN 
+[ data/NNS ]
+being/VBG moved/VBD between/IN 
+[ the/DT system/NN ]
+and/CC 
+[ a/DT device/NN ]
+./. 
+
+[ 2413/CD ]
+./. 
+
+See/VB also/RB 
+[ user/NN profile/NN name/NN ]
+./. 
+
+[ 2414/CD ]
+./. 
+
+[ The/DT network/NN name/NN ]
+is/VBZ usually/RB 
+[ the/DT same/JJ ]
+as/IN 
+[ the/DT user/NN profile/NN name/NN ]
+,/, but/CC does/VBZ not/RB need/VB to/TO be/VB ./. 
+
+[ 2415/CD ]
+./. 
+
+Also/RB known/VBN as/IN 
+[ user/NN ID/NN ]
+./. 
+
+[ 2416/CD ]
+./. 
+
+[ Both/DT ]
+of/IN 
+[ these/DT parameters/NNS ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+are/VBP 
+[ one-byte/JJ constants/NNS ]
+./. 
+
+[ 2417/CD ]
+./. 
+
+[ CY1RSZ/CD ]
+is/VBZ 
+[ */SYM ]
+ */SYM 
+[ the/DT size/NN ]
+of/IN 
+[ a/DT row/NN ]
+in/IN 
+[ any/DT ]
+of/IN 
+[ the/DT tables/NNS ]
+./. 
+
+[ 2418/CD ]
+./. 
+
+[ CY1CSZ/CD ]
+is/VBZ 
+[ the/DT size/NN ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+of/IN 
+[ an/DT element/NN ]
+in/IN 
+[ a/DT row/NN ]
+and/CC can/MD be/VB used/VBN to/TO move/VB from/IN 
+[ column/NN ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+to/TO 
+[ column/NN ]
+within/IN 
+[ a/DT row/NN ]
+./. 
+
+[ 2419/CD ]
+./. 
+
+[ 65535/CD ]
+)/) is/VBZ divided/VBN by/IN 
+[ 8192/CD ]
+./. 
+
+[ 2420/CD ]
+./. 
+
+[ The/DT first/JJ word/NN ]
+or/CC 
+[ the/DT ]
+``/`` 
+[ top/NN ''/'' ]
+of/IN 
+[ the/DT queue/NN ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+contains/VBZ 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT first/JJ output/NN message/NN block/NN ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+held/VBN for/IN 
+[ that/DT line/NN ]
+./. 
+
+[ 2421/CD ]
+./. 
+
+[ The/DT second/JJ word/NN ]
+or/CC 
+[ the/DT ]
+``/`` 
+[ bottom/NN ''/'' ]
+of/IN 
+[ the/DT ]
+ 
+[ */SYM ]
+ 
+[ */SYM queue/NN ]
+contains/VBZ 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT last/JJ ]
+or/CC 
+[ only/JJ output/NN ]
+ 
+[ */SYM ]
+ 
+[ */SYM message/NN block/NN ]
+held/VBN for/IN 
+[ that/DT line/NN ]
+./. 
+
+[ 2422/CD ]
+./. 
+
+restart/VB 
+[ time/NN ]
+to/TO 
+[ zeros/NNS ]
+./. 
+
+[ 2423/CD ]
+./. 
+
+[ The/DT last/JJ byte/NN ]
+contains/VBZ 
+[ an/DT ]
+``/`` 
+[ FF/NNP ''/'' ]
+as/IN 
+[ an/DT ]
+ 
+[ */SYM ]
+ 
+[ */SYM indicator/NN entries/NNS ]
+in/IN 
+[ that/DT table/NN ]
+./. 
+
+[ 2424/CD ]
+./. 
+
+[ The/DT first/JJ byte/NN ]
+contains/VBZ 
+[ */SYM ]
+ */SYM 
+[ the/DT number/NN ]
+of/IN 
+[ one-byte/JJ entries/NNS ]
+in/IN 
+[ that/DT table/NN ]
+./. 
+
+[ 2425/CD ]
+./. 
+
+[ The/DT second/JJ word/NN ]
+is/VBZ used/VBN to/TO 
+[ */SYM ]
+ 
+[ */SYM ]
+store/VB 
+[ the/DT address/NN ]
+of/IN 
+[ the/DT active/JJ input/NN message/NN block/NN ]
+./. 
+
+[ 2426/CD ]
+./. 
+
+[ The/DT device/NN areas/NNS ]
+will/MD contain/VB 
+[ */SYM ]
+ */SYM 
+[ the/DT queues/NNS ]
+for/IN 
+[ the/DT particular/JJ device/NN ]
+,/, 
+[ the/DT error/NN fields/NNS ]
+,/, 
+[ */SYM ]
+ 
+[ */SYM ]
+and/CC 
+[ the/DT data/NN collection/NN count/NN fields/NNS ]
+./. 
+
+[ 2427/CD ]
+./. 
+
+[ It/PRP ]
+may/MD be/VB either/RB 
+[ a/DT ]
+ 
+[ */SYM ]
+ 
+[ */SYM ]
+read/VB 
+[ command/NN ]
+or/CC 
+[ a/DT ]
+write/VB 
+[ command/NN ]
+./. 
+
+[ 2428/CD ]
+./. 
+
+[ This/DT ]
+is/VBZ 
+[ the/DT ]
+ 
+[ */SYM ]
+ 
+[ */SYM configuration/NN ]
+when/WRB 
+[ a/DT line/NN ]
+is/VBZ started/VBN ./. 
+
+[ 2429/CD ]
+./. 
+
+[ The/DT method/NN ]
+used/VBN allows/VBZ testing/VBG to/TO be/VB done/VBN 
+[ */SYM ]
+ 
+[ */SYM ]
+under/IN 
+[ VM\/370/CD ]
+./. 
+
+[ 2430/CD ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ one/CD ]
+
+[ record/NN ]
+for/IN 
+[ each/DT ]
+ 
+[ */SYM ]
+ 
+[ */SYM possible/JJ record/NN type/NN ]
+in/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2431/CD ]
+./. 
+
+[ There/EX ]
+is/VBZ 
+[ one/CD ]
+set/NN of/IN 
+[ information/NN ]
+for/IN 
+[ */SYM ]
+ */SYM 
+[ each/DT block/NN type/NN ]
+in/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2432/CD ]
+./. 
+
+[ The/DT information/NN ]
+in/IN 
+[ this/DT chapter/NN ]
+is/VBZ intended/VBN to/TO be/VB used/VBN along/IN with/IN 
+[ the/DT communications/NNS ]
+programming/NN 
+[ information/NN ]
+found/VBN in/IN 
+[ the/DT Communications/NNS ]
+:/: 
+[ 2433/CD ]
+./. 
+
+[ There/EX ]
+are/VBP also/RB 
+[ example/NN programs/NNS ]
+for/IN 
+[ the/DT RPG\/400/NNP ]
+and/CC 
+[ COBOL\/400/NNP languages/NNS ]
+./. 
+
+[ 2434/CD ]
+./. 
+
+After/IN pressing/VBG 
+[ the/DT Help/NN key/NN ]
+on/IN 
+[ any/DT menu/NN ]
+,/, 
+[ you/PRP ]
+can/MD press/VB 
+[ the/DT Help/NN key/NN ]
+
+[ a/DT second/JJ time/NN ]
+to/TO see/VB 
+[ an/DT explanation/NN ]
+of/IN how/WRB 
+[ the/DT online/JJ information/NN works/VBZ ]
+,/, including/VBG 
+[ the/DT index/NN search/NN function/NN ]
+./. 
+
+[ 2435/CD ]
+./. 
+
+[ You/PRP ]
+can/MD press/VB 
+[ either/CC ]
+
+[ the/DT Help/NN key/NN ]
+or/CC 
+[ F1/NNP ]
+for/IN 
+[ help/NN ]
+./. 
+
+[ 2436/CD ]
+./. 
+
+[ Field/NNP Extended/JJ Field/NNP help/NN ]
+explains/VBZ 
+[ the/DT field/NN ]
+on/IN 
+[ which/WDT ]
+
+[ the/DT cursor/NN ]
+is/VBZ positioned/VBN when/WRB 
+[ you/PRP ]
+press/VBP 
+[ the/DT Help/NN key/NN ]
+./. 
+
+[ 2437/CD ]
+./. 
+
+Extended/JJ 
+[ help/NN ]
+appears/VBZ if/IN 
+[ you/PRP ]
+press/VBP 
+[ the/DT Help/NN key/NN ]
+when/WRB 
+[ the/DT cursor/NN ]
+is/VBZ outside/IN 
+[ the/DT areas/NNS ]
+for/IN 
+[ which/WDT field/NN help/NN ]
+is/VBZ available/JJ ./. 
+
+[ 2438/CD ]
+./. 
+
+[ You/PRP ]
+return/VBP to/TO 
+[ the/DT display/NN ]
+on/IN 
+[ which/WDT ]
+
+[ you/PRP ]
+pressed/VBD 
+[ the/DT Help/NN key/NN ]
+./. 
+
+[ 2439/CD ]
+./. 
+
+To/TO see/VB extended/VBN 
+[ help/NN ]
+for/IN 
+[ the/DT command/NN ]
+,/, type/VB 
+[ the/DT command/NN ]
+on/IN 
+[ any/DT command/NN line/NN ]
+and/CC press/VB 
+[ the/DT Help/NN key/NN ]
+./. 
+
+[ 2440/CD ]
+./. 
+
+To/TO use/VB 
+[ the/DT online/JJ education/NN ]
+,/, 
+[ press/VB F13/NNP ]
+(/( 
+[ User/NN support/NN ]
+)/) on/IN 
+[ any/DT system/NN menu/NN ]
+to/TO show/VB 
+[ the/DT User/NNP Support/NNP menu/NN ]
+./. 
+
+[ 2441/CD ]
+./. 
+
+To/TO use/VB 
+[ the/DT Q/NN ]
+ &/CC {/( }/) 
+[ A/NNP function/NN ]
+,/, 
+[ press/VB F13/NNP ]
+(/( 
+[ User/NN support/NN ]
+)/) on/IN 
+[ any/DT system/NN menu/NN ]
+to/TO show/VB 
+[ the/DT User/NNP Support/NNP menu/NN ]
+./. 
+
+[ 2442/CD ]
+./. 
+
+Then/RB select/VB 
+[ the/DT option/NN ]
+to/TO use/VB 
+[ the/DT question-and-answer/JJ function/NN ]
+./. 
+
+[ 2443/CD ]
+./. 
+
+Refer/VB to/TO 
+[ these/DT manuals/NNS ]
+for/IN 
+[ network-dependent/JJ information/NN ]
+./. 
+
+[ 2444/CD ]
+./. 
+
+[ Architecture/NNP Logic/NNP ]
+for/IN 
+[ LU/NNP Type/NNP 6.2/CD ]
+,/, 
+[ SC30-3269/CD ]
+ 
+[ */SYM SNA/NNP Format/NNP ]
+and/CC 
+[ Protocol/NNP Reference/NNP Manual/NNP ]
+:/: 
+[ 2445/CD ]
+./. 
+
+[ Default/NNP Security/NNP Values/NNPS ]
+for/IN 
+[ Line/NNP Rows/NNPS ]
+./. 
+
+[ 2446/CD ]
+./. 
+
+[ High/NNP Level/NNP Language/NNP I\/O/NNP Operations/NNPS ]
+./. 
+
+[ 2447/CD ]
+./. 
+
+[ Actions/NNPS ]
+for/IN 
+[ Return/NNP Code/NNP 0000/CD ]
+./. 
+
+[ 2448/CD ]
+./. 
+
+[ Example/NNP ]
+of/IN 
+[ User/NNP Values/NNPS ]
+,/, 
+[ Row/NNP 6/CD ]
+./. 
+
+[ 2449/CD ]
+./. 
+
+[ DDS/NNP Source/NNP ]
+for/IN 
+[ the/DT Display/NNP Device/NNP File/NNP ]
+./. 
+
+[ 2450/CD ]
+./. 
+
+[ The/DT applications/NNS ]
+can/MD be/VB written/VBN using/VBG 
+[ either/CC DDS/NNP keywords/NNS ]
+or/CC 
+[ system-supplied/JJ formats/NNS ]
+and/CC can/MD send/VB or/CC receive/VB up/IN to/TO 
+[ 32,767/CD characters/NNS ]
+of/IN 
+[ data/NNS ]
+per/IN 
+[ record/NN ]
+./. 
+
+[ 2451/CD ]
+./. 
+
+[ Display/NN station/NN ]
+pass-through/NN ,/, refer/VB to/TO 
+[ the/DT Communications/NNPS User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ additional/JJ information/NN ]
+./. 
+
+[ 2452/CD ]
+./. 
+
+[ Network/NN problem/NN management/NN ]
+is/VBZ performed/VBN using/VBG 
+[ the/DT management/NN services/NNS ]
+support/NN ./. 
+
+[ 2453/CD ]
+./. 
+
+[ These/DT configuration/NN requirements/NNS ]
+are/VBP discussed/VBN in/IN 
+[ Chapter/NN 4/CD ]
+and/CC in/IN 
+[ the/DT Communications/NNPS User/NNP 's/POS Guide/NNP ]
+./. 
+
+[ 2454/CD ]
+./. 
+
+[ They/PRP ]
+can/MD 
+[ all/DT ]
+be/VB active/JJ on/IN 
+[ the/DT line/NN ]
+at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+[ 2455/CD ]
+./. 
+
+If/IN 
+[ an/DT APPC/NNP communications/NNS type/NN ]
+is/VBZ configured/VBN to/TO use/VB 
+[ X.25/CD support/NN ]
+,/, then/RB 
+[ multiple/JJ remote/JJ systems/NNS ]
+can/MD be/VB active/JJ at/IN 
+[ the/DT same/JJ time/NN ]
+./. 
+
+[ 2456/CD ]
+./. 
+
+See/VB 
+[ Chapter/NNP 4/CD ]
+for/IN 
+[ a/DT description/NN ]
+of/IN 
+[ configuration/NN ]
+./. 
+
+[ 2457/CD ]
+./. 
+
+[ The/DT network/NN ]
+can/MD also/RB be/VB more/RBR complex/JJ as/IN in/IN 
+[ Figure/NNP 2-2/CD ]
+and/CC 
+[ Figure/NNP 2-3/CD ]
+./. 
+
+[ 2458/CD ]
+./. 
+
+[ The/DT size/NN ]
+of/IN 
+[ your/PRP$ network/NN ]
+can/MD be/VB as/RB small/JJ or/CC as/RB large/JJ as/IN 
+[ you/PRP ]
+decide/VBP ./. 
+
+[ 2459/CD ]
+./. 
+
+[ This/DT name/NN ]
+consists/VBZ of/IN 
+[ two/CD parts/NNS ]
+,/, 
+[ a/DT network/NN identifier/NN ]
+and/CC 
+[ a/DT control/NN point/NN name/NN ]
+./. 
+
+[ 2460/CD ]
+./. 
+
+[ This/DT name/NN ]
+identifies/VBZ 
+[ each/DT system/NN ]
+to/TO 
+[ all/DT other/JJ systems/NNS ]
+in/IN 
+[ the/DT network/NN ]
+./. 
+
+[ 2461/CD ]
+./. 
+
+Refer/VB to/TO 
+[ Chapter/NN 4/CD ]
+and/CC to/TO 
+[ Chapter/NN 7/CD ]
+for/IN 
+[ additional/JJ information/NN ]
+./. 
+
+[ 2462/CD ]
+./. 
+
+See/VB 
+[ Chapter/NNP 7/CD ]
+for/IN 
+[ additional/JJ switched/JJ line/NN considerations/NNS ]
+./. 
+
+[ 2463/CD ]
+./. 
+
+[ Generic/JJ location/NN ]
+naming/NN allows/VBZ 
+[ you/PRP ]
+to/TO 
+[ configure/VB ]
+
+[ a/DT location/NN name/NN ]
+ending/VBG with/IN 
+[ an/DT ]
+ 
+[ */SYM ]
+(/( 
+[ asterisk/NN ]
+)/) ./. 
+
+[ 2464/CD ]
+./. 
+
+See/VB 
+[ the/DT Communications/NNPS User/NNP 's/POS Guide/NNP ]
+for/IN 
+[ a/DT complete/JJ description/NN ]
+of/IN 
+[ line/NN configuration/NN ]
+./. 
+
+[ 2465/CD ]
+./. 
+
+If/IN 
+[ this/DT ]
+is/VBZ not/RB done/VBN ,/, 
+[ sessions/NNS ]
+using/VBG 
+[ the/DT same/JJ class-of-service/JJ name/NN ]
+may/MD use/VB 
+[ transmission/NN groups/NNS ]
+with/IN 
+[ different/JJ characteristics/NNS ]
+./. 
+
+[ 2466/CD ]
+./. 
+
+See/VB ``/`` 
+[ APPC/NNP Security/NNP Considerations/NNPS ''/'' ]
+in/IN 
+[ topic/NN 7.4/CD ]
+for/IN 
+[ security/NN information/NN ]
+related/VBN to/TO 
+[ device/NN descriptions/NNS ]
+automatically/RB created/VBN by/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2467/CD ]
+./. 
+
+For/IN 
+[ information/NN ]
+
+[ that/WDT ]
+is/VBZ common/JJ across/IN 
+[ multiple/JJ communications/NNS types/NNS ]
+,/, refer/VB to/TO 
+[ the/DT Communications/NNPS User/NNP 's/POS Guide/NNP ]
+./. 
+
+[ 2468/CD ]
+./. 
+
+[ It/PRP ]
+includes/VBZ defining/VBG 
+[ communications/NNS descriptions/NNS ]
+and/CC 
+[ remote/JJ system/NN considerations/NNS ]
+./. 
+
+[ 2469/CD ]
+./. 
+
+In/IN 
+[ the/DT following/VBG parameter/NN descriptions/NNS ]
+,/, 
+[ the/DT IBM-supplied/JJ value/NN ]
+is/VBZ shown/VBN as/IN 
+[ the/DT default/NN ]
+./. 
+
+[ 2470/CD ]
+./. 
+
+[ This/DT name/NN ]
+is/VBZ used/VBN ,/, along/IN with/IN 
+[ the/DT local/JJ network/NN ID/NN ]
+,/, to/TO identify/VB 
+[ the/DT local/JJ system/NN ]
+./. 
+
+[ 2471/CD ]
+./. 
+
+Specify/VB 
+[ the/DT 1/CD ]
+-/: to/TO 
+[ 8-character/CD name/NN ]
+assigned/VBN to/TO 
+[ your/PRP$ system/NN ]
+./. 
+
+[ 2472/CD ]
+./. 
+
+Specify/VB 
+[ the/DT default/NN local/JJ location/NN name/NN ]
+for/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2473/CD ]
+./. 
+
+[ Use/VB ]
+
+[ the/DT IBM-supplied/JJ mode/NN description/NN ]
+named/VBN 
+[ BLANK/NNP ]
+./. 
+
+[ 2474/CD ]
+./. 
+
+Specify/VB 
+[ the/DT 1/CD ]
+-/: to/TO 
+[ 8-character/JJ name/NN ]
+of/IN 
+[ a/DT mode/NN description/NN ]
+./. 
+
+[ 2475/CD ]
+./. 
+
+[ Valid/JJ values/NNS ]
+are/VBP 
+[ 2/CD ]
+to/TO 
+[ 512/CD ]
+./. 
+
+[ 2476/CD ]
+./. 
+
+See/VB 
+[ Chapter/NNP 7/CD ]
+for/IN 
+[ a/DT description/NN ]
+of/IN 
+[ performance/NN considerations/NNS ]
+./. 
+
+[ 2477/CD ]
+./. 
+
+[ A/DT valid/JJ value/NN ]
+is/VBZ 
+[ 0/CD ]
+to/TO 
+[ 255/CD ]
+./. 
+
+[ 2478/CD ]
+./. 
+
+[ Each/DT name/NN ]
+consists/VBZ of/IN 
+[ a/DT network/NN identifier/NN ]
+and/CC 
+[ a/DT control/NN point/NN name/NN ]
+./. 
+
+[ 2479/CD ]
+./. 
+
+[ The/DT following/VBG sections/NNS ]
+describe/VB when/WRB 
+[ location/NN lists/NNS ]
+are/VBP needed/VBN ./. 
+
+[ 2480/CD ]
+./. 
+
+To/TO have/VB 
+[ the/DT location/NN entry/NN ]
+updated/VBN with/IN 
+[ the/DT new/JJ information/NN ]
+,/, 
+[ you/PRP ]
+must/MD delete/VB 
+[ the/DT entry/NN ]
+in/IN 
+[ the/DT list/NN ]
+and/CC then/RB enter/VB 
+[ it/PRP ]
+again/RB ,/, or/CC use/VB 
+[ the/DT change/NN command/NN ]
+to/TO change/VB 
+[ the/DT entry/NN ]
+in/IN 
+[ the/DT list/NN ]
+./. 
+
+[ 2481/CD ]
+./. 
+
+[ A/DT local/JJ location/NN list/NN ]
+defines/VBZ 
+[ the/DT names/NNS ]
+of/IN 
+[ the/DT locations/NNS ]
+
+[ that/WDT ]
+are/VBP defined/VBN on/IN 
+[ the/DT local/JJ system/NN ]
+./. 
+
+[ 2482/CD ]
+./. 
+
+[ Each/DT system/NN ]
+in/IN 
+[ a/DT network/NN ]
+has/VBZ 
+[ one/CD local/JJ network/NN ID/NN ]
+and/CC 
+[ one/CD control/NN point/NN name/NN ]
+./. 
+
+[ 2483/CD ]
+./. 
+
+[ The/DT local/JJ control/NN point/NN name/NN ]
+is/VBZ also/RB 
+[ a/DT local/JJ location/NN name/NN ]
+(/( automatically/RB defined/VBN to/TO 
+[ the/DT system/NN ]
+)/) ./. 
+
+[ 2484/CD ]
+./. 
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ each/DT system/NN ]
+has/VBZ 
+[ a/DT default/NN location/NN name/NN ]
+,/, 
+[ which/WDT ]
+can/MD be/VB 
+[ the/DT same/JJ ]
+as/IN 
+[ the/DT control/NN point/NN name/NN ]
+./. 
+
+[ 2485/CD ]
+./. 
+
+[ There/EX ]
+can/MD be/VB only/RB 
+[ one/CD local/JJ location/NN list/NN ]
+on/IN 
+[ the/DT system/NN ]
+./. 
+
+[ 2486/CD ]
+./. 
+
+[ You/PRP ]
+can/MD enter/VB 
+[ 50/CD entries/NNS ]
+by/IN using/VBG 
+[ the/DT command/NN ]
+./. 
+
+[ 2487/CD ]
+./. 
+
+Contains/VBZ 
+[ a/DT short/JJ description/NN ]
+for/IN 
+[ each/DT local/JJ entry/NN ]
+./. 
+
+[ 2488/CD ]
+./. 
+
+Not/RB 
+[ all/DT remote/JJ locations/NNS ]
+need/VBP to/TO be/VB defined/VBN in/IN 
+[ the/DT remote/JJ location/NN list/NN ]
+./. 
+
+[ 2489/CD ]
+./. 
+
+[ Location/NN passwords/NNS ]
+needed/VBN between/IN 
+[ a/DT local/JJ location/NN ]
+and/CC 
+[ a/DT remote/JJ location/NN ]
+./. 
+
+[ 2490/CD ]
+./. 
+
+[ A/DT directory/NN entry/NN ]
+is/VBZ required/VBN for/IN :/: 
+[ 2491/CD ]
+./. 
+
+[ Configuration/NN list/NN type/NN ]
+(/( 
+[ TYPE/NNP ]
+)/) Specify/VB 
+[ the/DT type/NN ]
+of/IN 
+[ location/NN list/NN ]
+being/VBG created/VBN ./. 
+
+[ 2492/CD ]
+./. 
+
+[ This/DT parameter/NN ]
+provides/VBZ 
+[ a/DT display/NN ]
+
+[ that/WDT ]
+allows/VBZ 
+[ you/PRP ]
+to/TO specify/VB up/IN to/TO 
+[ 1,898/CD remote/JJ location/NN entries/NNS ]
+./. 
+
+[ 2493/CD ]
+./. 
+
+[ You/PRP ]
+can/MD enter/VB up/IN to/TO 
+[ 50/CD entries/NNS ]
+by/IN using/VBG 
+[ the/DT command/NN ]
+./. 
+
+[ 2494/CD ]
+./. 
+
+[ The/DT generic/JJ location/NN name/NN ]
+is/VBZ used/VBN to/TO allow/VB 
+[ one/CD directory/NN entry/NN ]
+to/TO be/VB defined/VBN for/IN 
+[ all/DT locations/NNS ]
+,/, on/IN 
+[ a/DT single/JJ control/NN point/NN ]
+,/, 
+[ whose/WP$ name/NN ]
+matches/VBZ 
+[ the/DT characters/NNS ]
+preceding/VBG 
+[ the/DT ]
+ 
+[ */SYM ]
+./. 
+
+[ 2495/CD ]
+./. 
+
+See/VB ``/`` 
+[ APPC/NNP Security/NNP Considerations/NNPS ''/'' ]
+for/IN 
+[ additional/JJ information/NN ]
+about/IN 
+[ security/NN ]
+./. 
+
+[ 2496/CD ]
+./. 
+
+Specify/VB */SYM YES/UH or/CC 
+[ */SYM ]
+NO/UH for/IN 
+[ the/DT local/JJ location/NN ]
+to/TO allow/VB 
+[ the/DT remote/JJ location/NN ]
+to/TO verify/VB 
+[ user/NN passwords/NNS ]
+when/WRB 
+[ sending/VBG program/NN start/NN requests/NNS ]
+to/TO 
+[ the/DT local/JJ location/NN ]
+./. 
+
+[ 2497/CD ]
+./. 
+
+[ The/DT default/NN ]
+is/VBZ 
+[ */SYM ]
+NO/UH ./. 
+
+[ 2498/CD ]
+./. 
+
+Specify/VB */SYM YES/UH or/CC 
+[ */SYM ]
+NO/UH if/IN 
+[ the/DT connection/NN ]
+between/IN 
+[ the/DT local/JJ location/NN ]
+and/CC 
+[ the/DT remote/JJ location/NN ]
+is/VBZ 
+[ a/DT single/JJ session/NN connection/NN ]
+./. 
+
+[ 2499/CD ]
+./. 
+
+[ This/DT parameter/NN ]
+is/VBZ valid/JJ only/RB when/WRB 
+[ single-session-location/JJ ]
+is/VBZ specified/VBN as/IN 
+[ */SYM ]
+YES/UH ./. 
+
+[ 2500/CD ]
+./. 
+
+Specify/VB 
+[ a/DT short/JJ description/NN ]
+for/IN 
+[ each/DT remote/JJ entry/NN ]
+./. 

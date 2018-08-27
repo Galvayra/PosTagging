@@ -1,0 +1,265 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT late/JJ burst/NN ]
+of/IN 
+[ program/NN ]
+trading/NN drove/VBD 
+[ stock/NN prices/NNS ]
+sharply/RB higher/RBR ./. 
+
+[ The/DT dollar/NN ]
+managed/VBD 
+[ a/DT tiny/JJ rebound/NN ]
+despite/IN 
+[ a/DT fourth/JJ consecutive/JJ day/NN ]
+of/IN 
+[ strong/JJ selling/NN ]
+by/IN 
+[ central/JJ banks/NNS ]
+./. 
+
+======================================
+
+[ The/DT Dow/NNP Jones/NNP Industrial/NNP Average/NNP ]
+shot/VBD up/RP 
+[ 21.85/CD points/NNS ]
+to/TO 
+[ 2694.91/CD ]
+,/, with/IN much/RB of/IN 
+[ the/DT gain/NN ]
+coming/VBG in/IN 
+[ the/DT final/JJ half/JJ hour/NN ]
+of/IN trading/NN ./. 
+
+[ Bargain/NN hunters/NNS ]
+bid/VBD 
+[ the/DT dollar/NN ]
+up/RB slightly/RB on/IN 
+[ the/DT assumption/NN central/JJ banks/NNS ]
+ca/MD n't/RB maintain/VB 
+[ the/DT pace/NN ]
+of/IN 
+[ intervention/NN ]
+set/VBN 
+[ this/DT week/NN ]
+./. 
+
+[ Bond/NN prices/NNS ]
+,/, 
+[ which/WDT ]
+have/VBP been/VBN tracking/VBG 
+[ the/DT dollar/NN 's/POS fortunes/NNS ]
+,/, barely/RB moved/VBD ./. 
+
+======================================
+
+[ Stock/NN market/NN analysts/NNS ]
+said/VBD 
+[ the/DT computer-driven/JJ program/NN ]
+trading/NN climaxed/VBD 
+[ a/DT day/NN ]
+of/IN 
+[ growing/VBG optimism/NN ]
+about/IN 
+[ the/DT outlook/NN ]
+for/IN 
+[ stock/NN prices/NNS ]
+./. 
+
+[ The/DT relative/JJ stability/NN ]
+of/IN 
+[ stock/NN prices/NNS ]
+in/IN 
+[ the/DT face/NN ]
+of/IN 
+[ the/DT dollar/NN ]
+'s/POS drubbing/NN earlier/RB 
+[ this/DT week/NN ]
+and/CC of/IN 
+[ International/NNP Business/NNP Machines/NNPS '/POS prediction/NN Wednesday/NNP ]
+of/IN 
+[ lower-than-expected/JJ earnings/NNS ]
+was/VBD reassuring/JJ to/TO 
+[ many/JJ money/NN managers/NNS ]
+./. 
+
+[ Passage/NN ]
+of/IN 
+[ a/DT capital/NN ]
+gains/NNS 
+[ tax-reduction/NN bill/NN ]
+by/IN 
+[ the/DT House/NNP ]
+of/IN 
+[ Representatives/NNPS ]
+added/VBD to/TO 
+[ the/DT positive/JJ mood/NN ]
+./. 
+
+======================================
+
+``/`` For/IN 
+[ the/DT market/NN ]
+to/TO ignore/VB 
+[ IBM/NNP ]
+seems/VBZ to/TO show/VB 
+[ some/DT strength/NN ]
+,/, ''/'' said/VBD 
+[ Hugh/NNP Johnson/NNP ]
+,/, 
+[ chief/JJ investment/NN officer/NN ]
+at/IN 
+[ First/NNP Albany/NNP Corp/NNP ]
+./. 
+
+======================================
+
+[ Currency/NN traders/NNS ]
+said/VBD 
+[ the/DT intervention/NN ]
+against/IN 
+[ the/DT dollar/NN ]
+in/IN 
+[ the/DT wake/NN ]
+of/IN 
+[ last/JJ weekend/NN 's/POS meeting/NN ]
+of/IN 
+[ finance/NN ministers/NNS ]
+and/CC 
+[ central/JJ bankers/NNS ]
+from/IN 
+[ the/DT major/JJ industrialized/JJ countries/NNS ]
+may/MD have/VB finally/RB hit/VBN 
+[ resistance/NN ]
+./. 
+
+[ Cyrus/NNP Whitney/NNP ]
+,/, 
+[ chief/JJ trader/NN ]
+for/IN 
+[ Commerzbank/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, said/VBD 
+[ the/DT dollar/NN ]
+is/VBZ now/RB ``/`` at/IN 
+[ an/DT artificial/JJ level/NN ]
+''/'' and/CC will/MD need/VB either/CC 
+[ continuing/VBG intervention/NN ]
+or/CC 
+[ interest-rate/NN adjustments/NNS ]
+to/TO keep/VB 
+[ it/PRP ]
+there/RB ./. 
+
+======================================
+
+[ Speculation/NN ]
+is/VBZ growing/VBG that/IN 
+[ West/NNP Germany/NNP 's/POS central/JJ bank/NN ]
+soon/RB will/MD raise/VB 
+[ interest/NN rates/NNS ]
+as/IN 
+[ part/NN ]
+of/IN 
+[ the/DT assault/NN ]
+on/IN 
+[ the/DT dollar/NN ]
+./. 
+
+[ Some/DT analysts/NNS ]
+also/RB predict/VBP 
+[ the/DT Federal/NNP Reserve/NNP ]
+will/MD let/VB 
+[ U.S./NNP interest/NN rates/NNS ]
+slip/VB lower/RBR to/TO undercut/VB 
+[ the/DT dollar/NN 's/POS strength/NN ]
+./. 
+
+======================================
+
+In/IN 
+[ major/JJ market/NN activity/NN ]
+:/: 
+======================================
+
+[ Stock/NNP prices/NNS ]
+rallied/VBD in/IN 
+[ moderate/JJ ]
+trading/NN ./. 
+
+[ Volume/NN ]
+on/IN 
+[ the/DT New/NNP York/NNP Stock/NNP Exchange/NNP ]
+totaled/VBD 
+[ 164.2/CD million/CD shares/NNS ]
+./. 
+
+Advancing/VBG 
+[ issues/NNS ]
+on/IN 
+[ the/DT Big/NNP Board/NNP ]
+were/VBD ahead/RB of/IN 
+[ decliners/NNS 918/CD ]
+to/TO 
+[ 536/CD ]
+./. 
+
+======================================
+
+[ The/DT dollar/NN ]
+rose/VBD ./. 
+
+In/IN 
+[ late/JJ New/NNP York/NNP ]
+trading/NN 
+[ the/DT U.S./NNP currency/NN ]
+was/VBD quoted/VBN at/IN 
+[ 1.8823/CD marks/NNS ]
+and/CC 
+[ 140.65/CD yen/NNS ]
+,/, compared/VBN with/IN 
+[ 1.8794/CD marks/NNS ]
+and/CC 
+[ 140.15/CD yen/NNS ]
+./. 
+
+======================================
+
+[ Bond/NN prices/NNS ]
+were/VBD unchanged/JJ to/TO slightly/RB lower/VB ./. 
+
+[ The/DT Treasury/NNP 's/POS benchmark/JJ 30-year/JJ bond/NN ]
+lost/VBD less/JJR than/IN 
+[ an/DT eighth/JJ ]
+of/IN 
+[ a/DT point/NN ]
+,/, or/CC less/JJR than/IN 
+[ $/$ 1.25/CD ]
+for/IN 
+[ each/DT $/$ 1,000/CD ]
+of/IN 
+[ face/NN amount/NN ]
+./. 
+
+[ The/DT yield/NN ]
+on/IN 
+[ the/DT issue/NN ]
+stood/VBD at/IN 
+[ 8.25/CD %/NN ]
+./. 

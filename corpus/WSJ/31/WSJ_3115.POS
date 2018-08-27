@@ -1,0 +1,547 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+Having/VBG blamed/VBN 
+[ the/DT private/JJ sector/NN ]
+for/IN 
+[ everything/NN ]
+from/IN 
+[ inflation/NN ]
+to/TO 
+[ hair/NN loss/NN ]
+,/, 
+[ the/DT self-appointed/JJ ]
+``/`` 
+[ consumer/NN ]
+''/'' 
+[ groups/NNS ]
+now/RB have/VBP targeted/VBN 
+[ the/DT insurance/NN sector/NN ]
+./. 
+
+Accordingly/RB ,/, that/IN 
+[ industry/NN ]
+is/VBZ being/VBG blamed/VBN for/IN 
+[ price/NN growth/NN ]
+largely/RB 
+[ the/DT result/NN ]
+of/IN 
+[ sharp/JJ cost/NN increases/NNS ]
+in/IN 
+[ medical/JJ care/NN ]
+,/, 
+[ auto/NN repair/NN ]
+,/, 
+[ litigation/NN ]
+,/, 
+[ fraud/NN ]
+and/CC 
+[ cross-subsidies/NNS ]
+./. 
+
+======================================
+
+With/IN 
+[ California/NNP 's/POS passage/NN last/JJ fall/NN ]
+of/IN 
+[ its/PRP$ Naderite/NNP|JJ initiative/NN ]
+to/TO roll/VB 
+[ back/RP auto/NN ]
+and/CC 
+[ other/JJ premiums/NNS ]
+,/, 
+[ a/DT bad/JJ situation/NN ]
+is/VBZ well/RB on/IN 
+[ its/PRP$ way/NN ]
+to/TO 
+[ worse/JJR ]
+./. 
+
+======================================
+
+``/`` 
+[ Good/JJ drivers/NNS ]
+''/'' --/: 
+[ a/DT class/NN ]
+including/VBG 
+[ those/DT ]
+convicted/VBN of/IN 
+[ drunken/JJ driving/NN ]
+within/IN 
+[ the/DT previous/JJ three/CD years/NNS ]
+--/: were/VBD promised/VBN 
+[ a/DT rate/NN reduction/NN ]
+of/IN 
+[ 20/CD %/NN ]
+./. 
+
+[ Territorial/JJ rating/NN ]
+--/: in/IN 
+[ which/WDT rates/NNS ]
+are/VBP based/VBN in/IN 
+[ part/NN ]
+upon/IN 
+[ actuarial/JJ ]
+ (/( 
+[ loss/NN ]
+ )/) 
+[ experience/NN ]
+in/IN 
+[ different/JJ geographic/JJ areas/NNS ]
+--/: was/VBD effectively/RB abolished/VBN ./. 
+
+[ The/DT office/NN ]
+of/IN 
+[ insurance/NN commissioner/NN ]
+was/VBD made/VBN 
+[ elective/JJ ]
+,/, thus/RB politicizing/VBG 
+[ it/PRP ]
+./. 
+
+And/CC 
+[ the/DT law/NN ]
+provides/VBZ that/IN ``/`` 
+[ consumer/NN groups/NNS ]
+''/'' enjoy/VB 
+[ permanent/JJ employment/NN ]
+as/IN paid/JJ 
+[ intervenors/NNS ]
+in/IN 
+[ the/DT regulatory/JJ process/NN ]
+./. 
+
+======================================
+
+[ Harvey/NNP Rosenfield/NNP ]
+,/, 
+[ the/DT chief/JJ promoter/NN ]
+of/IN 
+[ the/DT new/JJ regime/NN ]
+,/, now/RB is/VBZ using/VBG 
+[ data/NNS ]
+unadjusted/JJ for/IN 
+[ inflation/NN ]
+,/, for/IN 
+[ other/JJ costs/NNS ]
+,/, for/IN 
+[ quality/NN differentials/NNS ]
+,/, for/IN 
+[ types/NNS ]
+of/IN 
+[ services/NNS ]
+provided/VBN ,/, or/CC for/IN 
+[ the/DT market/NN value/NN ]
+of/IN 
+[ capital/NN investment/NN ]
+in/IN 
+[ the/DT industry/NN ]
+./. 
+
+[ That/DT ]
+is/VBZ 
+[ the/DT only/JJ way/NN ]
+
+[ he/PRP ]
+can/MD argue/VB that/IN 
+[ the/DT 20/CD %/NN rollback/NN ]
+in/IN 
+[ rates/NNS ]
+will/MD not/RB deprive/VB 
+[ any/DT insurer/NN ]
+of/IN 
+[ a/DT ]
+``/`` 
+[ fair/JJ return/NN ]
+./. 
+
+''/'' 
+======================================
+
+And/CC 
+[ Mr./NNP Rosenfield/NNP ]
+argued/VBD during/IN 
+[ the/DT campaign/NN ]
+
+[ that/DT Prop./NNP 103/CD ]
+would/MD remove/VB 
+[ the/DT insurers/NNS '/POS ]
+``/`` 
+[ antitrust/JJ exemption/NN ]
+./. 
+
+''/'' In/IN 
+[ fact/NN ]
+,/, 
+[ no/DT such/JJ exemption/NN ]
+existed/VBD ,/, and/CC 
+[ an/DT industry/NN ]
+with/IN 
+[ 4,000/CD firms/NNS ]
+could/MD not/RB collude/VB successfully/RB in/IN 
+[ any/DT event/NN ]
+./. 
+
+[ What/WP ]
+
+[ Mr./NNP Rosenfield/NNP ]
+was/VBD referring/VBG to/TO was/VBD 
+[ the/DT legal/JJ right/NN ]
+of/IN 
+[ insurers/NNS ]
+under/IN 
+[ the/DT McCarran-Ferguson/NNP Act/NNP ]
+to/TO share/VB 
+[ actuarial/JJ data/NNS ]
+,/, thus/RB reducing/VBG 
+[ a/DT significant/JJ cost/NN ]
+for/IN 
+[ small/JJ firms/NNS ]
+and/CC so/RB letting/VBG 
+[ them/PRP ]
+compete/VB ./. 
+
+So/RB much/JJ for/IN 
+[ Mr./NNP Rosenfield/NNP 's/POS great/JJ concern/NN ]
+for/IN 
+[ consumers/NNS ]
+./. 
+
+======================================
+
+[ Elimination/NN ]
+of/IN 
+[ territorial/NN rating/NN ]
+will/MD bestow/VB 
+[ benefits/NNS ]
+upon/IN 
+[ some/DT consumers/NNS ]
+and/CC penalize/VB 
+[ everyone/NN ]
+else/RB ;/: 
+[ this/DT ]
+will/MD be/VB 
+[ the/DT outcome/NN ]
+of/IN 
+[ the/DT ]
+``/`` 
+[ reforms/NNS ]
+''/'' now/RB being/VBG proposed/VBN by/IN 
+[ consumer/NN groups/NNS ]
+in/IN 
+[ other/JJ states/NNS ]
+./. 
+
+Without/IN 
+[ territorial/NN rating/NN ]
+,/, 
+[ consumers/NNS ]
+of/IN 
+[ insurance/NN ]
+in/IN 
+[ low-loss/JJ areas/NNS ]
+will/MD be/VB forced/VBN to/TO subsidize/VB 
+[ consumers/NNS ]
+in/IN 
+[ high-loss/JJ areas/NNS ]
+,/, 
+[ a/DT prospect/NN ]
+recognized/VBD clearly/RB by/IN 
+[ Californians/NNPS last/JJ November/NNP ]
+./. 
+
+[ Prop./NNP 103/CD ]
+passed/VBD in/IN only/RB 
+[ seven/CD ]
+of/IN 
+[ 58/CD counties/NNS ]
+;/: of/IN 
+[ those/DT seven/CD ]
+,/, 
+[ six/CD ]
+are/VBP 
+[ high-loss/JJ areas/NNS ]
+./. 
+
+Without/IN 
+[ territorial/JJ rating/NN ]
+,/, 
+[ the/DT system/NN ]
+can/MD not/RB work/VB ./. 
+
+If/IN 
+[ two/CD firms/NNS ]
+have/VBP 
+[ differing/VBG proportions/NNS ]
+of/IN 
+[ clients/NNS ]
+in/IN 
+[ low/JJ ]
+ -/: and/CC 
+[ high-loss/JJ areas/NNS ]
+,/, as/IN is/VBZ inevitable/JJ ,/, 
+[ the/DT less/RBR fortunate/JJ firm/NN ]
+will/MD be/VB unable/JJ to/TO compete/VB ./. 
+
+If/IN 
+[ it/PRP ]
+tries/VBZ to/TO make/VB up/RP 
+[ its/PRP$ losses/NNS ]
+by/IN raising/VBG 
+[ prices/NNS ]
+to/TO 
+[ its/PRP$ low-loss/NN customers/NNS ]
+,/, 
+[ they/PRP ]
+will/MD flee/VB to/TO 
+[ other/JJ insurers/NNS ]
+./. 
+
+[ Either/CC ]
+
+[ consumers/NNS ]
+will/MD have/VB to/TO be/VB assigned/VBN to/TO 
+[ firms/NNS ]
+,/, as/IN is/VBZ 
+[ the/DT case/NN ]
+under/IN 
+[ the/DT current/JJ assigned-risk/NN program/NN ]
+,/, or/CC 
+[ the/DT state/NN ]
+will/MD have/VB to/TO take/VB over/RP 
+[ the/DT whole/JJ mess/NN ]
+./. 
+
+[ What/WP ]
+
+[ Mr./NNP Rosenfield/NNP ]
+actually/RB wants/VBZ is/VBZ 
+[ a/DT state/NN takeover/NN ]
+of/IN 
+[ the/DT insurance/NN business/NN ]
+,/, 
+[ a/DT goal/NN ]
+that/IN 
+[ he/PRP ]
+has/VBZ proclaimed/VBN publicly/RB and/CC 
+[ that/DT ]
+is/VBZ furthered/VBN by/IN 
+[ Prop./NNP 103/CD ]
+./. 
+
+======================================
+
+[ It/PRP ]
+is/VBZ 
+[ no/DT surprise/NN ]
+,/, then/RB ,/, that/IN 
+[ the/DT current/JJ Insurance/NNP Commissioner/NNP ]
+,/, 
+[ Roxani/NNP Gillespie/NNP ]
+,/, already/RB is/VBZ trying/VBG to/TO figure/VB out/RP how/WRB to/TO subsidize/VB 
+[ drivers/NNS ]
+in/IN 
+[ Los/NNP Angeles/NNP ]
+and/CC 
+[ San/NNP Francisco/NNP ]
+without/IN penalizing/VBG almost/RB 
+[ everyone/NN ]
+else/RB ./. 
+
+[ She/PRP ]
+is/VBZ attempting/VBG 
+[ this/DT regulatory/JJ alchemy/NN ]
+while/IN under/IN 
+[ constant/JJ attack/NN ]
+from/IN 
+[ Mr./NNP Rosenfield/NNP ]
+,/, 
+[ who/WP ]
+complains/VBZ that/IN 
+[ the/DT rights/NNS ]
+of/IN 
+[ insurance-company/NN shareholders/NNS ]
+actually/RB are/VBP being/VBG respected/VBN by/IN 
+[ Ms./NNP Gillespie/NNP ]
+despite/IN 
+[ the/DT deadlines/NNS ]
+contained/VBN in/IN 
+[ Prop./NNP 103/CD ]
+./. 
+
+Because/IN of/IN 
+[ this/DT political/JJ sniping/NN ]
+,/, 
+[ Ms./NNP Gillespie/NNP ]
+has/VBZ just/RB proscribed/VBN 
+[ both/CC rate/NN increases/NNS ]
+and/CC 
+[ territorial/JJ rating/NN ]
+pending/VBG 
+[ a/DT series/NN ]
+of/IN 
+[ mammoth/JJ hearings/NNS ]
+./. 
+
+======================================
+
+[ This/DT ]
+means/VBZ that/IN 
+[ rates/NNS ]
+in/IN 
+[ high-loss/JJ areas/NNS ]
+will/MD fall/VB without/IN 
+[ any/DT ]
+
+[ compensating/VBG increases/NNS ]
+elsewhere/RB ./. 
+
+And/CC 
+[ the/DT plans/NNS ]
+of/IN 
+[ one/CD company/NN ]
+to/TO raise/VB 
+[ rates/NNS ]
+for/IN 
+[ drivers/NNS ]
+with/IN 
+[ poor/JJ records/NNS ]
+while/IN reducing/VBG 
+[ them/PRP ]
+for/IN 
+[ others/NNS ]
+have/VBP been/VBN abandoned/VBN ./. 
+
+[ All/DT ]
+of/IN 
+[ this/DT ]
+is/VBZ just/RB fine/JJ with/IN 
+[ the/DT consumer/NN groups/NNS ]
+,/, for/IN 
+[ it/PRP ]
+is/VBZ 
+[ high-loss/JJ consumers/NNS ]
+
+[ that/WDT ]
+form/VBP 
+[ a/DT large/JJ part/NN ]
+of/IN 
+[ their/PRP$ constituency/NN ]
+./. 
+
+======================================
+
+[ The/DT rest/NN ]
+of/IN 
+[ America/NNP ]
+should/MD be/VB prepared/VBN for/IN 
+[ such/JJ ]
+posturing/NN as/IN that/IN displayed/VBN by/IN 
+[ California/NNP Attorney/NNP General/NNP John/NNP Van/NNP ]
+de/IN 
+[ Kamp/NNP ]
+,/, 
+[ who/WP ]
+believes/VBZ that/IN 
+[ the/DT insurance/NN issue/NN ]
+will/MD take/VB 
+[ him/PRP ]
+to/TO 
+[ the/DT governorship/NN ]
+if/IN only/RB 
+[ he/PRP ]
+can/MD exhibit/VB 
+[ a/DT degree/NN ]
+of/IN 
+[ crass/JJ opportunism/NN shameless/JJ ]
+even/RB by/IN 
+[ California/NNP standards/NNS ]
+./. 
+
+Be/VB on/IN 
+[ the/DT lookout/NN ]
+for/IN very/RB precise-sounding/JJ but/CC 
+[ meaningless/JJ numbers/NNS ]
+;/: 
+[ an/DT example/NN ]
+is/VBZ 
+[ Mr./NNP Rosenfield/NNP 's/POS claim/NN ]
+that/IN 
+[ rates/NNS ]
+can/MD be/VB reduced/VBN 
+[ 20/CD %/NN ]
+without/IN 
+[ any/DT adverse/JJ effects/NNS ]
+./. 
+
+According/VBG to/TO 
+[ Assemblywoman/NNP Kathy/NNP Wright/NNP ]
+,/, 
+[ he/PRP ]
+admitted/VBD 
+[ a/DT while/NN ]
+back/RB to/TO 
+[ her/PRP ]
+that/IN 
+[ the/DT figure/NN ]
+was/VBD included/VBN in/IN 
+[ Prop./NNP 103/CD ]
+because/IN 
+[ it/PRP ]
+``/`` sounded/VBD 
+[ good/JJ ]
+./. 
+
+''/'' 
+======================================
+
+Be/VB prepared/VBN as/RB well/RB for/IN 
+[ perverse/JJ policy/NN prescriptions/NNS ]
+promoted/VBN under/IN 
+[ the/DT banner/NN ]
+of/IN ``/`` 
+[ consumerism/NN ]
+./. 
+
+''/'' 
+[ The/DT court/NN dockets/NNS ]
+will/MD grow/VB ever/RB more/RBR congested/JJ ./. 
+
+And/CC ,/, if/IN 
+[ there/EX ]
+is/VBZ 
+[ justice/NN ]
+in/IN 
+[ the/DT world/NN ]
+,/, 
+[ the/DT ]
+``/`` 
+[ consumer/NN ]
+''/'' 
+[ groups/NNS ]
+will/MD find/VB 
+[ insurance/NN ]
+unavailable/JJ ./. 
+
+======================================
+
+[ Mr./NNP Zycher/NNP ]
+,/, 
+[ a/DT Los/NNP Angeles/NNP County/NNP economist/NN ]
+,/, advises/VBZ 
+[ the/DT journal/NN Regulation/NNP ]
+./. 

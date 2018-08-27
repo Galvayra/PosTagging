@@ -1,0 +1,292 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT House/NNP Banking/NNP Committee/NNP ]
+voted/VBD to/TO subpoena/VB 
+[ Charles/NNP H./NNP Keating/NNP Jr./NNP ]
+,/, 
+[ the/DT embattled/VBN chairman/NN ]
+of/IN 
+[ American/NNP Continental/NNP Corp./NNP ]
+,/, to/TO testify/VB about/IN how/WRB 
+[ his/PRP$ savings-and-loan/JJ subsidiary/NN ]
+incurred/VBD 
+[ losses/NNS ]
+
+[ that/WDT ]
+may/MD cost/VB 
+[ taxpayers/NNS $/$ 2/CD billion/CD ]
+./. 
+
+======================================
+
+[ The/DT committee/NN ]
+also/RB voted/VBD to/TO subpoena/VB 
+[ several/JJ past/JJ ]
+and/CC 
+[ current/JJ federal/JJ regulators/NNS ]
+,/, 
+[ some/DT ]
+of/IN 
+[ whom/WP ]
+requested/VBD 
+[ the/DT subpoenas/NNS ]
+so/RB that/IN 
+[ their/PRP$ disclosure/NN ]
+of/IN 
+[ certain/JJ information/NN ]
+would/MD be/VB protected/VBN from/IN 
+[ possible/JJ lawsuits/NNS ]
+in/IN 
+[ the/DT future/NN ]
+./. 
+
+======================================
+
+[ Federal/NNP regulators/NNS ]
+seized/VBD 
+[ the/DT thrift/NN ]
+,/, 
+[ Lincoln/NNP Savings/NNP ]
+&/CC 
+[ Loan/NNP Association/NNP ]
+,/, 
+[ Irvine/NNP ]
+,/, 
+[ Calif./NNP ]
+,/, in/IN 
+[ April/NNP ]
+,/, 
+[ one/CD day/NN ]
+after/IN 
+[ Phoenix-based/JJ American/NNP Continental/NNP ]
+filed/VBD for/IN 
+[ protection/NN ]
+from/IN 
+[ its/PRP$ creditors/NNS ]
+under/IN 
+[ bankruptcy/NN law/NN ]
+./. 
+
+======================================
+
+[ The/DT Resolution/NNP Trust/NNP Corp./NNP ]
+,/, 
+[ the/DT new/JJ federal/JJ agency/NN ]
+overseeing/VBG 
+[ the/DT sales/NNS ]
+and/CC 
+[ mergers/NNS ]
+of/IN 
+[ sick/JJ thrifts/NNS ]
+,/, filed/VBD 
+[ a/DT civil/JJ suit/NN last/JJ month/NN ]
+against/IN 
+[ Mr./NNP Keating/NNP ]
+and/CC 
+[ his/PRP$ family/NN ]
+./. 
+
+[ Mr./NNP Keating/NNP ]
+has/VBZ also/RB filed/VBN 
+[ suit/NN ]
+against/IN 
+[ the/DT regulators/NNS ]
+,/, alleging/VBG 
+[ unlawful/JJ seizure/NN ]
+of/IN 
+[ property/NN ]
+./. 
+
+[ Improprieties/NNS ]
+have/VBP also/RB been/VBN alleged/VBN over/IN 
+[ Mr./NNP Keating/NNP 's/POS political/JJ contributions/NNS ]
+to/TO 
+[ U.S./NNP senators/NNS ]
+of/IN 
+[ both/DT ]
+
+[ parties/NNS ]
+,/, and/CC 
+[ their/PRP$ efforts/NNS ]
+to/TO intercede/VB on/IN 
+[ his/PRP$ behalf/NN ]
+with/IN 
+[ the/DT thrift/NN ]
+regulators/NNS ./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+is/VBZ 
+[ a/DT case/NN history/NN ]
+
+[ that/WDT ]
+cries/VBZ out/RP for/IN 
+[ answers/NNS ]
+and/CC 
+[ full/JJ examination/NN ]
+of/IN 
+[ the/DT charges/NNS ]
+and/CC 
+[ countercharges/NNS ]
+,/, ''/'' said/VBD 
+[ Rep./NNP Henry/NNP Gonzalez/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Texas/NNP ]
+ )/) ,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT House/NNP Banking/NNP Committee/NNP ]
+./. 
+
+======================================
+
+[ Four/CD days/NNS ]
+of/IN 
+[ hearings/NNS ]
+are/VBP to/TO begin/VB 
+[ Tuesday/NNP ]
+,/, when/WRB 
+[ William/NNP Seidman/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Federal/NNP Deposit/NNP Insurance/NNP Corp./NNP ]
+,/, appears/VBZ ./. 
+
+[ Mr./NNP Keating/NNP ]
+is/VBZ scheduled/VBN to/TO appear/VB before/IN 
+[ the/DT committee/NN Nov./NNP 7/CD ]
+./. 
+
+======================================
+
+[ The/DT committee/NN ]
+also/RB voted/VBD to/TO issue/VB 
+[ subpoenas/NNS ]
+to/TO 
+[ Danny/NNP Wall/NNP ]
+,/, 
+[ chairman/NN ]
+of/IN 
+[ the/DT Office/NNP ]
+of/IN 
+[ Thrift/NNP Supervision/NNP ]
+;/: 
+[ Edwin/NNP Gray/NNP ]
+,/, 
+[ the/DT former/JJ top/JJ thrift/NN regulator/NN ]
+;/: 
+[ David/NNP Ruder/NNP ]
+,/, 
+[ former/JJ chairman/NN ]
+of/IN 
+[ the/DT Securities/NNP ]
+and/CC 
+[ Exchange/NNP Commission/NNP ]
+;/: and/CC 
+[ James/NNP Cirona/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ the/DT Federal/NNP Home/NNP Loan/NNP Bank/NNP ]
+of/IN 
+[ San/NNP Francisco/NNP ]
+./. 
+
+======================================
+
+[ A/DT Washington-based/JJ attorney/NN ]
+for/IN 
+[ Mr./NNP Keating/NNP ]
+said/VBD in/IN 
+[ a/DT statement/NN ]
+that/IN 
+[ the/DT executive/NN ]
+had/VBD notified/VBN 
+[ Rep./NNP Gonzalez/NNP ]
+that/IN 
+[ Mr./NNP Keating/NNP ]
+``/`` 
+[ has/VBZ n't/RB ]
+yet/RB resolved/VBN whether/IN to/TO appear/VB voluntarily/RB ./. 
+
+''/'' 
+[ The/DT statement/NN ]
+said/VBD 
+[ Mr./NNP Keating/NNP ]
+``/`` wants/VBZ to/TO cooperate/VB with/IN 
+[ the/DT committee/NN ]
+to/TO 
+[ the/DT maximum/NN extent/NN possible/JJ ]
+,/, but/CC in/IN 
+[ light/NN ]
+of/IN 
+[ the/DT number/NN ]
+and/CC 
+[ complexity/NN ]
+of/IN 
+[ the/DT legal/JJ proceedings/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ he/PRP ]
+is/VBZ involved/VBN ,/, 
+[ he/PRP ]
+wants/VBZ to/TO reflect/VB on/IN 
+[ this/DT decision/NN ]
+./. 
+
+''/'' 
+[ The/DT Keating/NNP statement/NN ]
+said/VBD 
+[ he/PRP ]
+does/VBZ n't/RB have/VB 
+[ any/DT reason/NN ]
+to/TO believe/VB 
+[ a/DT subpoena/NN ]
+would/MD be/VB issued/VBN before/IN 
+[ he/PRP ]
+makes/VBZ 
+[ his/PRP$ decision/NN ]
+about/IN 
+[ voluntary/JJ appearance/NN ]
+./. 
+
+======================================
+
+Until/IN recently/RB ,/, 
+[ Mr./NNP Keating/NNP ]
+has/VBZ spoken/VBN out/RP personally/RB in/IN 
+[ defense/NN ]
+of/IN 
+[ his/PRP$ activities/NNS ]
+and/CC has/VBZ been/VBN harshly/RB critical/JJ of/IN 
+[ regulators/NNS ]
+./. 
+
+More/RBR recently/RB ,/, however/RB ,/, 
+[ his/PRP$ reactions/NNS ]
+have/VBP been/VBN couched/VBN in/IN 
+[ legal/JJ terms/NNS ]
+and/CC presented/VBN through/IN 
+[ attorneys/NNS ]
+./. 

@@ -1,0 +1,44 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ The/DT Canadian/JJ government/NN ]
+will/MD auction/VB 
+[ next/JJ Tuesday/NNP 750/CD million/CD Canadian/JJ dollars/NNS ]
+ (/( 
+[ US$/$ 637.7/CD million/CD ]
+ )/) of/IN 
+[ 9.25/CD %/NN bonds/NNS due/JJ Dec./NNP 15/CD ]
+,/, 
+[ 1994/CD ]
+,/, 
+[ the/DT Finance/NNP Department/NNP ]
+said/VBD ./. 
+
+======================================
+
+[ Proceeds/NNS ]
+of/IN 
+[ the/DT sale/NN ]
+will/MD be/VB used/VBN to/TO redeem/VB 
+[ C$/$ 675/CD million/CD ]
+of/IN 
+[ old/JJ government/NN bonds/NNS ]
+maturing/VBG 
+[ Nov./NNP 1/CD ]
+,/, and/CC for/IN 
+[ general/JJ government/NN purposes/NNS ]
+./. 

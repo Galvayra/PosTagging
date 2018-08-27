@@ -1,0 +1,76 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Bank/NNP ]
+of/IN 
+[ New/NNP York/NNP Co./NNP ]
+closed/VBD 
+[ the/DT sale/NN ]
+of/IN 
+[ four/CD upstate/JJ New/NNP York/NNP banks/NNS ]
+with/IN 
+[ total/JJ assets/NNS ]
+of/IN about/RB 
+[ $/$ 300/CD million/CD ]
+to/TO 
+[ National/NNP Bank/NNP ]
+&/CC 
+[ Trust/NNP Co./NNP ]
+,/, 
+[ Norwich/NNP ]
+,/, 
+[ N.Y/NNP ]
+./. 
+
+======================================
+
+[ Terms/NNS ]
+were/VBD n't/RB disclosed/VBN ./. 
+
+======================================
+
+[ The/DT banks/NNS ]
+in/IN 
+[ the/DT deal/NN ]
+are/VBP 
+[ Bank/NNP ]
+of/IN 
+[ Lake/NNP Placid/NNP ]
+,/, 
+[ First/NNP National/NNP Bank/NNP ]
+of/IN 
+[ Hancock/NNP ]
+,/, 
+[ Fulton/NNP County/NNP National/NNP Bank/NNP ]
+&/CC 
+[ Trust/NNP Co./NNP ]
+in/IN 
+[ Gloversville/NNP ]
+,/, and/CC 
+[ Hayes/NNP National/NNP Bank/NNP ]
+in/IN 
+[ Clinton/NNP ]
+./. 
+
+[ The/DT bank/NN holding/NN company/NN ]
+signed/VBD 
+[ an/DT agreement/NN ]
+on/IN 
+[ the/DT transaction/NN ]
+in/IN 
+[ March/NNP ]
+./. 

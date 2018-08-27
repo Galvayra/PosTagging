@@ -1,0 +1,406 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ Maxwell/NNP Communication/NNP Corp./NNP ]
+moved/VBD to/TO increase/VB 
+[ its/PRP$ growing/VBG role/NN ]
+in/IN 
+[ the/DT U.S./NNP textbook/NN market/NN ]
+by/IN agreeing/VBG to/TO buy/VB 
+[ Bell/NNP ]
+&/CC 
+[ Howell/NNP Co./NNP 's/POS Merrill/NNP Publishing/NNP unit/NN ]
+for/IN 
+[ $/$ 260/CD million/CD ]
+./. 
+
+======================================
+
+[ The/DT purchase/NN ]
+of/IN 
+[ Merrill/NNP ]
+,/, 
+[ an/DT old/JJ name/NN ]
+in/IN 
+[ U.S./NNP elementary/JJ ]
+and/CC 
+[ secondary/JJ school/NN publishing/NN ]
+,/, would/MD further/RBR strengthen/VB 
+[ Maxwell/NNP 's/POS position/NN ]
+in/IN 
+[ U.S./NNP textbook/NN ]
+publishing/NN through/IN 
+[ its/PRP$ U.S./NNP unit/NN ]
+,/, 
+[ Macmillan/NNP Inc/NNP ]
+./. 
+
+[ A/DT ]
+recently/RB formed/VBN 
+[ Macmillan/NNP joint/JJ venture/NN ]
+with/IN 
+[ McGraw-Hill/NNP Inc./NNP ]
+is/VBZ already/RB 
+[ the/DT second-biggest/JJ publisher/NN ]
+of/IN 
+[ U.S./NNP textbooks/NNS ]
+,/, after/IN 
+[ New/NNP York-based/JJ Harcourt/NNP Brace/NNP Jovanovich/NNP Inc/NNP ]
+./. 
+
+======================================
+
+[ The/DT purchase/NN price/NN ]
+,/, at/IN 
+[ least/RBS ]
+twice/JJ 
+[ Merrill/NNP ]
+'s/POS expected/JJ 
+[ sales/NNS ]
+
+[ this/DT year/NN ]
+,/, reflects/VBZ 
+[ the/DT continuing/VBG allure/NN ]
+of/IN 
+[ U.S./NNP educational/JJ publishers/NNS ]
+,/, 
+[ analysts/NNS ]
+said/VBD ./. 
+
+Since/IN about/IN 
+[ 1985/CD ]
+,/, 
+[ U.S./NNP elementary/JJ school/NN enrollment/NN ]
+has/VBZ been/VBN rising/VBG ./. 
+
+[ That/DT demographic/JJ trend/NN ]
+,/, expected/VBN to/TO continue/VB into/IN 
+[ the/DT late/JJ 1990s/NNS ]
+,/, is/VBZ increasing/VBG 
+[ school/NN book/NN sales/NNS ]
+across/IN 
+[ the/DT U.S./NNP ]
+and/CC perking/VBG up/RP 
+[ a/DT once-dull/JJ niche/NN ]
+of/IN publishing/NN ./. 
+
+[ This/DT year/NN ]
+,/, 
+[ publishers/NNS '/POS sales/NNS ]
+to/TO 
+[ elementary/JJ ]
+and/CC 
+[ secondary/JJ schools/NNS ]
+are/VBP expected/VBN to/TO rise/VB at/IN 
+[ least/JJS 11/CD %/NN ]
+from/IN 
+[ last/JJ year/NN 's/POS $/$ 1.78/CD billion/CD ]
+,/, said/VBD 
+[ New/NNP York-based/JJ industry/NN analyst/NN Kendrick/NNP Noble/NNP ]
+of/IN 
+[ PaineWebber/NNP Securities/NNPS Inc/NNP ]
+./. 
+
+======================================
+
+``/`` 
+[ The/DT schools/NNS area/NN ]
+ {/( of/IN publishing/NN }/) is/VBZ assured/VBN 
+[ good/JJ growth/NN ]
+into/IN 
+[ the/DT 1990s/NNS ]
+,/, ''/'' 
+[ Mr./NNP Noble/NNP ]
+said/VBD ./. 
+
+[ Such/JJ expectations/NNS ]
+have/VBP already/RB prompted/VBN 
+[ a/DT series/NN ]
+of/IN 
+[ industry/NN mergers/NNS ]
+,/, as/IN 
+[ publishers/NNS ]
+jockey/VBP for/IN 
+[ position/NN ]
+./. 
+
+Besides/IN 
+[ the/DT Macmillan\/McGraw/NNP venture/NN ]
+,/, announced/VBD 
+[ last/JJ May/NNP ]
+,/, 
+[ other/JJ industry/NN mergers/NNS ]
+have/VBP included/VBN 
+[ Time/NNP Inc./NNP 's/POS 1986/CD purchase/NN ]
+of/IN 
+[ Scott/NNP Foresman/NNP ]
+and/CC 
+[ Harcourt/NNP 's/POS purchase/NN ]
+of/IN 
+[ CBS/NNP Inc./NNP 's/POS textbook/NN unit/NN ]
+./. 
+
+======================================
+
+Since/IN 
+[ 1986/CD ]
+,/, 
+[ analysts/NNS ]
+say/VBP ,/, 
+[ the/DT sales/NNS prices/NNS ]
+for/IN 
+[ these/DT ]
+and/CC 
+[ other/JJ educational/JJ publishers/NNS ]
+have/VBP ranged/VBN from/IN 
+[ 2.2/CD ]
+to/TO 
+[ 2.9/CD times/CC revenue/NN ]
+--/: 
+[ a/DT figure/NN ]
+comparable/JJ to/TO 
+[ Merrill/NNP 's/POS sales/NNS ]
+multiple/NN ./. 
+
+======================================
+
+[ William/NNP Reilly/NNP ]
+,/, 
+[ president/NN ]
+of/IN 
+[ Maxwell/NNP 's/POS Macmillan/NNP ]
+,/, called/VBD 
+[ the/DT $/$ 260/CD million/CD purchase/NN ]
+``/`` 
+[ reasonable/JJ ]
+for/IN 
+[ a/DT company/NN ]
+''/'' with/IN 
+[ Merrill/NNP 's/POS strengths/NNS ]
+in/IN 
+[ science/NN ]
+,/, 
+[ health/NN ]
+,/, and/CC 
+[ mathematics/NN texts/NNS ]
+--/: 
+[ three/CD areas/NNS ]
+of/IN ``/`` 
+[ weakness/NN ]
+''/'' for/IN 
+[ the/DT Macmillan\/McGraw-Hill/NNP venture/NN ]
+./. 
+
+[ Mr./NNP Reilly/NNP ]
+said/VBD 
+[ he/PRP ]
+expects/VBZ 
+[ Merrill/NNP 's/POS sales/NNS ]
+to/TO exceed/VB 
+[ $/$ 125/CD million/CD ]
+in/IN 
+[ the/DT fiscal/JJ year/NN ]
+ending/VBG 
+[ March/NNP 31/CD ]
+./. 
+
+About/IN 
+[ 70/CD %/NN ]
+of/IN 
+[ that/DT ]
+,/, 
+[ he/PRP ]
+said/VBD ,/, represents/VBZ 
+[ sales/NNS ]
+to/TO 
+[ elementary/JJ ]
+and/CC 
+[ secondary/JJ schools/NNS ]
+,/, while/IN 
+[ the/DT remainder/NN ]
+stems/VBZ from/IN 
+[ college/NN text/NN sales/NNS ]
+./. 
+
+======================================
+
+[ Mr./NNP Reilly/NNP ]
+said/VBD 
+[ Merrill/NNP 's/POS elementary/JJ ]
+and/CC 
+[ secondary/JJ school/NN business/NN ]
+would/MD be/VB merged/VBN into/IN 
+[ the/DT Macmillan\/McGraw-Hill/NNP venture/NN ]
+./. 
+
+[ Merrill/NNP 's/POS college/NN text/NN business/NN ]
+is/VBZ to/TO be/VB consolidated/VBN into/IN 
+[ Macmillan/NNP 's/POS own/JJ college/NN unit/NN ]
+,/, 
+[ he/PRP ]
+said/VBD ./. 
+
+[ Mr./NNP Reilly/NNP ]
+added/VBD that/IN 
+[ he/PRP ]
+believes/VBZ 
+[ the/DT purchase/NN ]
+would/MD make/VB 
+[ Macmillan\/McGraw-Hill/NNP ]
+
+[ the/DT biggest/JJS U.S./NNP textbook/NN publisher/NN ]
+,/, with/IN 
+[ combined/JJ sales/NNS ]
+of/IN 
+[ $/$ 550/CD million/CD ]
+./. 
+
+But/CC 
+[ some/DT industry/NN analysts/NNS ]
+disputed/VBD 
+[ that/DT claim/NN ]
+./. 
+
+[ BP/NNP Report/NNP ]
+,/, 
+[ a/DT White/NNP Plains/NNPS ]
+,/, 
+[ N.Y./NNP ]
+,/, 
+[ trade/NN publication/NN ]
+,/, estimated/VBD 
+[ Harcourt/NNP 's/POS educational/JJ book/NN sales/NNS last/JJ year/NN ]
+at/IN 
+[ $/$ 643/CD million/CD ]
+./. 
+
+======================================
+
+[ Bell/NNP ]
+&/CC 
+[ Howell/NNP ]
+,/, 
+[ a/DT publishing/NN ]
+and/CC 
+[ information/NN services/NNS concern/NN ]
+based/VBN in/IN 
+[ Skokie/NNP ]
+,/, 
+[ Ill./NNP ]
+,/, was/VBD acquired/VBN 
+[ last/JJ year/NN ]
+for/IN 
+[ $/$ 678.4/CD million/CD ]
+by/IN 
+[ an/DT investor/NN group/NN ]
+led/VBN by/IN 
+[ Texas/NNP financier/NN Robert/NNP M./NNP Bass/NNP ]
+./. 
+
+In/IN 
+[ Dallas/NNP ]
+,/, 
+[ Bass/NNP spokesmen/NNS ]
+declined/VBD to/TO discuss/VB 
+[ details/NNS ]
+of/IN 
+[ the/DT Merrill/NNP sale/NN ]
+./. 
+
+======================================
+
+[ Jerry/NNP Herb/NNP ]
+,/, 
+[ corporate/JJ vice/NN president/NN ]
+for/IN 
+[ administration/NN ]
+at/IN 
+[ Bell/NNP ]
+&/CC 
+[ Howell/NNP ]
+,/, said/VBD 
+[ Columbus/NNP ]
+,/, 
+[ Ohio-based/JJ Merrill/NNP ]
+posted/VBD 
+[ revenue/NN last/JJ year/NN ]
+of/IN about/IN 
+[ $/$ 100/CD million/CD ]
+./. 
+
+Though/IN 
+[ profitable/JJ ]
+,/, 
+[ Mr./NNP Herb/NNP ]
+said/VBD ,/, with/IN 
+[ the/DT overall/JJ consolidation/NN ]
+going/VBG on/IN in/IN 
+[ the/DT publishing/NN industry/NN ]
+
+[ a/DT $/$ 100/CD million/CD company/NN ]
+would/MD find/VB 
+[ it/PRP ]
+more/RBR and/CC more/RBR difficult/JJ to/TO compete/VB and/CC be/VB 
+[ cost/NN effective/JJ ]
+./. 
+
+[ Bell/NNP ]
+&/CC 
+[ Howell/NNP ]
+has/VBZ tried/VBN unsuccessfully/RB for/IN 
+[ several/JJ years/NNS ]
+to/TO expand/VB 
+[ Merrill/NNP ]
+by/IN acquiring/VBG 
+[ other/JJ companies/NNS ]
+./. 
+
+When/WRB 
+[ that/DT ]
+proved/VBD 
+[ unsuccessful/JJ ]
+,/, 
+[ it/PRP ]
+decided/VBD to/TO sell/VB ./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+just/RB came/VBD down/RB to/TO 
+[ a/DT numbers/NNS game/NN ]
+,/, ''/'' said/VBD 
+[ Mr./NNP Herb/NNP ]
+./. 
+
+[ He/PRP ]
+said/VBD 
+[ Bell/NNP ]
+&/CC 
+[ Howell/NNP ]
+has/VBZ owned/VBN Merrill/NNP for/IN more/JJR than/IN 
+[ 20/CD years/NNS ]
+./. 
+
+======================================
+
+[ Robert/NNP Tomsho/NNP ]
+in/IN 
+[ Dallas/NNP ]
+contributed/VBD to/TO 
+[ this/DT article/NN ]
+./. 

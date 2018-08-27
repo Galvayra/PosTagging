@@ -1,0 +1,374 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+[ A/DT Wesleyan/NNP University/NNP student/NN ]
+filed/VBD 
+[ suit/NN ]
+against/IN 
+[ his/PRP$ school/NN ]
+and/CC 
+[ 11/CD other/JJ private/JJ colleges/NNS ]
+seeking/VBG 
+[ damages/NNS ]
+on/IN 
+[ behalf/NN ]
+of/IN 
+[ thousands/NNS ]
+of/IN 
+[ students/NNS ]
+hurt/VBN in/IN 
+[ an/DT alleged/VBN tuition/NN price-fixing/NN scheme/NN ]
+./. 
+
+======================================
+
+[ The/DT suit/NN ]
+,/, filed/VBN in/IN 
+[ U.S./NNP District/NNP Court/NNP ]
+in/IN 
+[ New/NNP York/NNP ]
+,/, was/VBD 
+[ the/DT first/JJ ]
+in/IN 
+[ what/WP ]
+could/MD be/VB 
+[ a/DT series/NN ]
+of/IN 
+[ actions/NNS ]
+by/IN 
+[ students/NNS ]
+at/IN 
+[ schools/NNS whose/WP$ practices/NNS ]
+of/IN setting/VBG 
+[ tuitions/NNS ]
+,/, 
+[ financial-aid/NN awards/NNS ]
+and/CC 
+[ salaries/NNS ]
+are/VBP under/IN 
+[ Justice/NNP Department/NNP scrutiny/NN ]
+./. 
+
+[ The/DT legal/JJ action/NN ]
+complicates/VBZ 
+[ the/DT settlement/NN ]
+hopes/NNS of/IN 
+[ some/DT ]
+of/IN 
+[ the/DT schools/NNS ]
+,/, 
+[ who/WP ]
+have/VBP been/VBN counting/VBG on/IN resolving/VBG 
+[ the/DT federal/JJ case/NN ]
+without/IN 
+[ a/DT trial/NN ]
+./. 
+
+======================================
+
+[ The/DT student/NN ]
+,/, 
+[ Roger/NNP Kingsepp/NNP ]
+,/, said/VBD 
+[ the/DT defendants/NNS ]
+,/, representing/VBG ``/`` 
+[ the/DT market/NN ]
+of/IN 
+[ Ivy/NNP League/NNP ]
+and/CC 
+[ upper-echelon/JJ schools/NNS ]
+,/, ''/'' have/VBP ``/`` engaged/VBN in/IN 
+[ a/DT conspiracy/NN ]
+to/TO fix/VB or/CC artificially/RB inflate/VB 
+[ the/DT price/NN ]
+of/IN 
+[ tuition/NN ]
+and/CC 
+[ financial/JJ aid/NN ]
+./. 
+
+''/'' 
+[ The/DT suit/NN ]
+seeks/VBZ 
+[ triple/JJ damages/NNS ]
+under/IN 
+[ federal/JJ anti-price-fixing/JJ laws/NNS ]
+for/IN 
+[ overcharges/NNS ]
+,/, on/IN 
+[ behalf/NN ]
+of/IN 
+[ a/DT class/NN ]
+of/IN 
+[ all/DT students/NNS ]
+
+[ who/WP ]
+were/VBD allegedly/RB harmed/VBN by/IN 
+[ the/DT scheme/NN ]
+./. 
+
+======================================
+
+[ The/DT defendants/NNS ]
+named/VBN by/IN 
+[ Mr./NNP Kingsepp/NNP ]
+--/: including/VBG 
+[ all/DT eight/CD Ivy/NNP League/NNP schools/NNS ]
+--/: have/VBP 
+[ each/DT ]
+received/VBN 
+[ civil/JJ investigative/JJ demands/NNS ]
+for/IN 
+[ financial/JJ information/NN ]
+from/IN 
+[ the/DT Justice/NNP Department/NNP ]
+./. 
+
+[ The/DT 12/CD defendant/NN schools/NNS ]
+enroll/VBP about/RB 
+[ 125,000/CD students/NNS ]
+./. 
+
+[ They/PRP ]
+include/VBP 
+[ Wesleyan/NNP ]
+and/CC 
+[ Yale/NNP University/NNP ]
+,/, 
+[ both/DT ]
+in/IN 
+[ Connecticut/NNP ]
+;/: 
+[ Amherst/NNP College/NNP ]
+,/, 
+[ Harvard/NNP University/NNP ]
+,/, and/CC 
+[ Williams/NNP College/NNP ]
+,/, in/IN 
+[ Massachusetts/NNP ]
+;/: and/CC 
+[ Columbia/NNP ]
+and/CC 
+[ Cornell/NNP universities/NNS ]
+in/IN 
+[ New/NNP York/NNP ]
+./. 
+
+Also/RB named/VBN were/VBD 
+[ Brown/NNP University/NNP ]
+,/, 
+[ Providence/NNP ]
+,/, 
+[ R.I./NNP ]
+;/: 
+[ Dartmouth/NNP College/NNP ]
+,/, 
+[ Hanover/NNP ]
+,/, 
+[ N.H./NNP ]
+;/: 
+[ Princeton/NNP University/NNP ]
+,/, in/IN 
+[ New/NNP Jersey/NNP ]
+;/: 
+[ Stanford/NNP University/NNP ]
+,/, 
+[ Palo/NNP Alto/NNP ]
+,/, 
+[ Calif./NNP ]
+;/: and/CC 
+[ the/DT University/NNP ]
+of/IN 
+[ Pennsylvania/NNP ]
+,/, in/IN 
+[ Philadelphia/NNP ]
+./. 
+
+======================================
+
+Late/RB 
+[ Friday/NNP ]
+,/, 
+[ a/DT Wesleyan/NNP spokesman/NN ]
+said/VBD 
+[ the/DT university/NN ]
+had/VBD n't/RB seen/VBN 
+[ the/DT suit/NN ]
+,/, but/CC believed/VBD 
+[ it/PRP ]
+``/`` to/TO be/VB without/IN 
+[ merit/NN ]
+''/'' based/VBN on/IN 
+[ a/DT description/NN ]
+of/IN 
+[ the/DT allegations/NNS ]
+./. 
+
+[ All/DT the/DT other/JJ defendants/NNS ]
+either/CC could/MD n't/RB be/VB reached/VBN for/IN 
+[ comment/NN ]
+,/, or/CC declined/VBD 
+[ comment/NN ]
+because/IN 
+[ they/PRP ]
+had/VBD n't/RB seen/VBN 
+[ the/DT suit/NN ]
+./. 
+
+======================================
+
+[ Mr./NNP Kingsepp/NNP ]
+charged/VBD that/IN 
+[ the/DT defendants/NNS ]
+engage/VBP in/IN 
+[ exchanges/NNS ]
+of/IN 
+[ information/NN ]
+``/`` 
+[ that/WDT ]
+are/VBP routine/JJ ,/, 
+[ systematic/JJ ]
+and/CC designed/VBN to/TO eliminate/VB 
+[ any/DT real/JJ price/NN choices/NNS ]
+''/'' for/IN 
+[ students/NNS ]
+./. 
+
+[ The/DT lawsuit/NN ]
+heavily/RB cited/VBD 
+[ practices/NNS  ]
+and/CC 
+[ documents/NNS ]
+disclosed/VBN originally/RB in/IN 
+[ this/DT newspaper/NN ]
+,/, including/VBG 
+[ an/DT internal/JJ Wesleyan/NNP rundown/NN ]
+of/IN 
+[ proposed/VBN 1988-89/JJ charges/NNS ]
+at/IN 
+[ competitor/NN schools/NNS ]
+./. 
+
+[ The/DT document/NN ]
+stated/VBD that/IN 
+[ the/DT information/NN ]
+was/VBD confidential/JJ and/CC obtained/VBN before/IN 
+[ schools/NNS ]
+made/VBD 
+[ their/PRP$ final/JJ decisions/NNS ]
+on/IN 
+[ tuition/NN charges/NNS ]
+./. 
+
+======================================
+
+[ Except/NNP Stanford/NNP ]
+,/, 
+[ every/DT school/NN ]
+named/VBN in/IN 
+[ the/DT lawsuit/NN ]
+also/RB participates/VBZ in/IN 
+[ an/DT ]
+``/`` 
+[ overlap/NN ]
+''/'' 
+[ practice/NN ]
+
+[ that/WDT ]
+establishes/VBZ 
+[ financial/JJ aid/NN awards/NNS ]
+for/IN 
+[ students/NNS ]
+
+[ who/WP ]
+are/VBP admitted/VBN ./. 
+
+[ The/DT lawsuit/NN ]
+called/VBD 
+[ the/DT practice/NN ]
+,/, 
+[ which/WDT ]
+results/VBZ in/IN 
+[ identical/JJ family/NN ]
+expenses/NNS 
+[ no/DT matter/NN ]
+where/WRB 
+[ the/DT student/NN ]
+goes/VBZ ,/, as/IN ``/`` 
+[ unlawful/JJ ]
+./. 
+
+''/'' 
+[ It/PRP ]
+did/VBD n't/RB set/VB 
+[ a/DT specific/JJ figure/NN ]
+for/IN 
+[ the/DT damages/NNS ]
+
+[ it/PRP ]
+seeks/VBZ ./. 
+
+======================================
+
+[ The/DT Justice/NNP Department/NNP ]
+,/, meanwhile/RB ,/, has/VBZ widened/VBN 
+[ the/DT scope/NN ]
+of/IN 
+[ its/PRP$ probe/NN ]
+significantly/RB --/: and/CC may/MD broaden/VB 
+[ it/PRP ]
+even/RB further/RBR ./. 
+
+[ Last/JJ week/NN ]
+,/, 
+[ it/PRP ]
+acknowledged/VBD sending/VBG 
+[ a/DT second/JJ wave/NN ]
+of/IN 
+[ civil-investigative/JJ demands/NNS ]
+,/, after/IN disclosing/VBG in/IN 
+[ August/NNP ]
+that/IN 
+[ the/DT requests/NNS ]
+had/VBD gone/VBN to/TO about/RB 
+[ 20/CD schools/NNS ]
+./. 
+
+[ A/DT Justice/NNP Department/NNP spokesperson/NN ]
+said/VBD 
+[ more/JJR requests/NNS ]
+may/MD still/RB be/VB made/VBN ./. 
+
+So/IN far/RB ,/, at/IN 
+[ least/JJS 27/CD schools/NNS ]
+have/VBP acknowledged/VBN getting/VBG 
+[ the/DT requests/NNS ]
+,/, including/VBG 
+[ the/DT defendants/NNS ]
+in/IN 
+[ Mr./NNP Kingsepp/NNP 's/POS suit/NN ]
+,/, 
+[ the/DT University/NNP ]
+of/IN 
+[ Chicago/NNP ]
+,/, 
+[ Johns/NNP Hopkins/NNP University/NNP ]
+in/IN 
+[ Baltimore/NNP ]
+,/, and/CC 
+[ several/JJ women/NNS 's/POS colleges/NNS ]
+./. 

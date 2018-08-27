@@ -1,0 +1,494 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1990 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus.  Any research using this corpus or based   *x*
+*x*    on it should acknowledge that fact, as well as the preliminary   *x*
+*x*    nature of the corpus.                                            *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+
+
+======================================
+
+In/IN 
+[ a/DT hard-fought/JJ victory/NN ]
+for/IN 
+[ the/DT oil/NN ]
+and/CC 
+[ auto/NN industries/NNS ]
+,/, 
+[ a/DT House/NNP subcommittee/NN ]
+voted/VBD to/TO gut/VB 
+[ the/DT Bush/NNP administration/NN 's/POS plan/NN ]
+to/TO require/VB 
+[ production/NN ]
+of/IN 
+[ cars/NNS ]
+
+[ that/WDT ]
+run/VBP on/IN 
+[ alternatives/NNS ]
+to/TO 
+[ gasoline/NN ]
+./. 
+
+======================================
+
+On/IN 
+[ a/DT 12-10/JJ vote/NN ]
+
+[ that/WDT ]
+followed/VBD heated/JJ 
+[ debate/NN ]
+,/, 
+[ the/DT Energy/NNP subcommittee/NN ]
+removed/VBD from/IN 
+[ the/DT administration/NN ]
+'s/POS proposed/JJ 
+[ clean-air/JJ bill/NN ]
+
+[ a/DT provision/NN ]
+
+[ that/WDT ]
+would/MD require/VB 
+[ the/DT auto/NN industry/NN ]
+to/TO produce/VB annually/RB ,/, by/IN 
+[ 1997/CD ]
+,/, 
+[ one/CD million/CD autos/NNS ]
+capable/JJ of/IN running/VBG on/IN 
+[ a/DT clean-burning/JJ alternative/NN ]
+to/TO 
+[ gasoline/NN ]
+and/CC to/TO sell/VB 
+[ them/PRP ]
+in/IN 
+[ the/DT dirtiest/JJS cities/NNS ]
+./. 
+
+======================================
+
+Instead/RB ,/, 
+[ Detroit/NNP ]
+would/MD simply/RB have/VB to/TO demonstrate/VB to/TO 
+[ the/DT Environmental/NNP Protection/NNP Agency/NNP ]
+that/IN 
+[ it/PRP ]
+could/MD produce/VB and/CC distribute/VB 
+[ such/JJ vehicles/NNS ]
+./. 
+
+======================================
+
+[ The/DT amendment/NN ]
+,/, offered/VBN by/IN 
+[ two/CD Texans/NNPS ]
+--/: 
+[ Rep./NNP Jack/NNP Fields/NNP ]
+,/, 
+[ a/DT Republican/NNP ]
+,/, and/CC 
+[ Rep./NNP Ralph/NNP Hall/NNP ]
+,/, 
+[ a/DT Democrat/NNP ]
+--/: also/RB would/MD weaken/VB proposed/VBN 
+[ performance/NN standards/NNS ]
+
+[ that/WDT ]
+would/MD apply/VB to/TO 
+[ the/DT non-gasoline/JJ ]
+fuels/NNS to/TO be/VB produced/VBN ./. 
+
+======================================
+
+``/`` 
+[ It/PRP ]
+allows/VBZ 
+[ Detroit/NNP ]
+to/TO not/RB build/VB 
+[ the/DT cars/NNS ]
+
+[ it/PRP ]
+does/VBZ n't/RB want/VB to/TO build/VB and/CC 
+[ it/PRP ]
+allows/VBZ 
+[ Big/NNP Oil/NNP ]
+not/RB to/TO sell/VB 
+[ the/DT fuel/NN ]
+
+[ it/PRP ]
+does/VBZ n't/RB want/VB to/TO sell/VB ,/, ''/'' said/VBD 
+[ Daniel/NNP Weiss/NNP ]
+,/, 
+[ a/DT lawyer/NN ]
+with/IN 
+[ the/DT Sierra/NNP Club/NNP ]
+,/, referring/VBG to/TO 
+[ the/DT subcommittee/NN 's/POS action/NN ]
+./. 
+
+======================================
+
+Although/IN 
+[ the/DT alternative-fuels/JJ proposal/NN ]
+was/VBD 
+[ a/DT centerpiece/NN ]
+of/IN 
+[ the/DT administration/NN 's/POS bill/NN ]
+,/, 
+[ the/DT amendment/NN ]
+was/VBD supported/VBN by/IN 
+[ eight/CD ]
+of/IN 
+[ the/DT committee/NN 's/POS nine/CD Republicans/NNPS ]
+,/, including/VBG 
+[ Rep./NNP Norman/NNP Lent/NNP ]
+of/IN 
+[ New/NNP York/NNP ]
+,/, 
+[ the/DT chief/JJ GOP/NNP sponsor/NN ]
+of/IN 
+[ the/DT president/NN 's/POS package/NN ]
+./. 
+
+======================================
+
+[ It/PRP ]
+was/VBD largely/RB 
+[ Democratic/JJ lawmakers/NNS ]
+
+[ who/WP ]
+fought/VBD for/IN 
+[ the/DT president/NN 's/POS proposal/NN ]
+,/, and/CC 
+[ several/JJ ]
+blasted/VBD 
+[ the/DT administration/NN ]
+for/IN 
+[ a/DT confused/JJ ]
+and/CC 
+[ half-hearted/JJ lobbying/NN effort/NN ]
+./. 
+
+During/IN 
+[ the/DT debate/NN ]
+,/, 
+[ Rep./NNP Lent/NNP ]
+said/VBD 
+[ White/NNP House/NNP Chief/NNP ]
+of/IN 
+[ Staff/NNP John/NNP Sununu/NNP ]
+had/VBD told/VBN 
+[ him/PRP ]
+that/IN 
+[ the/DT administration/NN ]
+did/VBD n't/RB oppose/VB 
+[ the/DT amendment/NN ]
+./. 
+
+[ Moments/NNS ]
+later/RB ,/, 
+[ subcommittee/NN chairman/NN Henry/NNP Waxman/NNP ]
+ (/( 
+[ D./NNP ]
+,/, 
+[ Calif/NNP ]
+./. 
+
+ )/) said/VBD 
+[ EPA/NNP administrator/NN William/NNP Reilly/NNP ]
+had/VBD told/VBN 
+[ him/PRP ]
+that/IN 
+[ the/DT administration/NN ]
+did/VBD oppose/VB 
+[ it/PRP ]
+./. 
+
+======================================
+
+[ A/DT senior/JJ administration/NN official/NN ]
+said/VBD later/RB that/IN while/IN 
+[ the/DT administration/NN ]
+did/VBD prefer/VB 
+[ the/DT president/NN 's/POS proposal/NN ]
+,/, 
+[ it/PRP ]
+was/VBD pleased/VBN that/IN 
+[ the/DT subcommittee/NN ]
+included/VBD 
+[ some/DT kind/NN ]
+of/IN 
+[ alternative-fuels/JJ provision/NN ]
+in/IN 
+[ the/DT bill/NN ]
+./. 
+
+[ He/PRP ]
+said/VBD ,/, too/RB ,/, that/IN 
+[ the/DT administration/NN ]
+had/VBD been/VBN assured/VBN that/IN 
+[ subcommittee/NN members/NNS ]
+would/MD work/VB to/TO strengthen/VB 
+[ the/DT amendment/NN ]
+in/IN 
+[ the/DT full/JJ committee/NN ]
+./. 
+
+======================================
+
+After/IN voting/VBG on/IN 
+[ alternative/JJ fuels/NNS ]
+,/, 
+[ the/DT subcommittee/NN ]
+completed/VBN 
+[ its/PRP$ work/NN ]
+on/IN 
+[ the/DT clean-air/JJ measure/NN ]
+./. 
+
+But/CC 
+[ there/EX ]
+are/VBP likely/JJ to/TO be/VB 
+[ fights/NNS ]
+in/IN 
+[ the/DT full/JJ committee/NN ]
+over/IN 
+[ provisions/NNS ]
+involving/VBG 
+[ toxic/JJ releases/NNS ]
+from/IN 
+[ chemical/NN plants/NNS ]
+and/CC 
+[ controls/NNS ]
+on/IN 
+[ acid/JJ rain/NN ]
+--/: 
+[ areas/NNS ]
+in/IN 
+[ which/WDT ]
+
+[ the/DT subcommittee/NN ]
+made/VBD 
+[ no/DT substantive/JJ changes/NNS ]
+to/TO 
+[ the/DT president/NN 's/POS proposals/NNS ]
+./. 
+
+======================================
+
+In/IN 
+[ addition/NN ]
+,/, 
+[ further/JJ battles/NNS ]
+are/VBP expected/VBN over/IN 
+[ changes/NNS ]
+
+[ the/DT panel/NN ]
+did/VBD make/VB ,/, including/VBG 
+[ those/DT ]
+on/IN 
+[ alternative/JJ fuels/NNS ]
+./. 
+
+In/IN 
+[ earlier/JJR votes/NNS ]
+,/, 
+[ the/DT subcommittee/NN ]
+voted/VBD to/TO tighten/VB 
+[ tailpipe-emission/JJ standards/NNS ]
+beyond/IN 
+[ the/DT administration/NN 's/POS proposal/NN ]
+,/, to/TO require/VB 
+[ auto/NN makers/NNS ]
+to/TO install/VB 
+[ on-board/JJ canisters/NNS ]
+to/TO catch/VB 
+[ fumes/NNS ]
+released/VBN during/IN refueling/VBG and/CC to/TO reject/VB 
+[ an/DT administration/NN proposal/NN ]
+to/TO give/VB 
+[ auto/NN makers/NNS more/JJR flexibility/NN ]
+in/IN 
+[ meeting/VBG emissions/NNS standards/NNS ]
+./. 
+
+======================================
+
+[ Supporters/NNS ]
+of/IN 
+[ the/DT alternative-fuels/JJ amendment/NN ]
+said/VBD that/IN 
+[ one/CD ]
+of/IN 
+[ their/PRP$ chief/JJ aims/NNS ]
+was/VBD to/TO remove/VB 
+[ what/WP ]
+
+[ they/PRP ]
+contended/VBD is/VBZ 
+[ a/DT bias/NN ]
+in/IN 
+[ the/DT president/NN 's/POS bill/NN ]
+in/IN 
+[ favor/NN ]
+of/IN 
+[ methanol/NN ]
+as/IN 
+[ an/DT alternative/NN ]
+to/TO 
+[ gasoline/NN ]
+./. 
+
+======================================
+
+[ The/DT low-polluting/JJ cars/NNS ]
+
+[ that/WDT ]
+would/MD be/VB required/VBN under/IN 
+[ Mr./NNP Bush/NNP 's/POS proposal/NN ]
+would/MD have/VB to/TO be/VB designed/VBN to/TO burn/VB 
+[ an/DT 85/CD %/NN methanol/NN blend/NN ]
+or/CC 
+[ a/DT fuel/NN ]
+
+[ that/WDT ]
+would/MD burn/VB just/RB as/RB cleanly/RB ./. 
+
+After/IN 
+[ the/DT year/NN 2000/CD ]
+,/, 
+[ the/DT fuel/NN ]
+would/MD have/VB to/TO be/VB 
+[ 100/CD %/NN methanol/NN ]
+,/, or/CC 
+[ a/DT fuel/NN ]
+
+[ that/WDT ]
+burned/VBD just/RB as/RB cleanly/RB ./. 
+
+======================================
+
+[ The/DT amendment/NN ]
+,/, however/RB ,/, would/MD enable/VB 
+[ oil/NN companies/NNS ]
+to/TO produce/VB 
+[ an/DT alternative/NN fuel/NN ]
+
+[ that/WDT ]
+would/MD n't/RB burn/VB as/RB cleanly/RB as/IN 
+[ methanol/NN ]
+--/: provided/VBN 
+[ they/PRP ]
+could/MD show/VB that/IN 
+[ it/PRP ]
+would/MD be/VB used/VBN in/IN 
+[ so/RB many/JJ cars/NNS ]
+that/IN 
+[ it/PRP ]
+would/MD achieve/VB 
+[ the/DT same/JJ overall/JJ reduction/NN ]
+in/IN 
+[ pollution/NN ]
+as/RB would/MD occur/VB under/IN 
+[ the/DT first/JJ stage/NN ]
+of/IN 
+[ Mr./NNP Bush/NNP 's/POS proposal/NN ]
+./. 
+
+======================================
+
+[ The/DT amendment/NN ]
+would/MD facilitate/VB 
+[ the/DT use/NN ]
+of/IN 
+[ non-methanol/JJ fuels/NNS ]
+--/: notably/RB reformulated/JJ 
+[ gasoline/NN ]
+,/, 
+[ which/WDT ]
+
+[ the/DT oil/NN industry/NN ]
+prefers/VBZ ./. 
+
+[ Auto/NN makers/NNS ]
+also/RB favor/VBP 
+[ that/DT option/NN ]
+because/IN 
+[ it/PRP ]
+would/MD n't/RB require/VB 
+[ them/PRP ]
+to/TO redesign/VB 
+[ cars/NNS ]
+as/RB extensively/RB as/IN would/MD 
+[ a/DT methanol/NN requirement/NN ]
+./. 
+
+======================================
+
+[ The/DT American/NNP Petroleum/NNP Institute/NNP ]
+,/, 
+[ which/WDT ]
+represents/VBZ 
+[ the/DT oil/NN industry/NN ]
+,/, said/VBD 
+[ the/DT amendment/NN ]
+``/`` will/MD achieve/VB at/IN 
+[ least/JJS the/DT same/JJ level/NN ]
+of/IN 
+[ air-quality/NN improvement/NN ]
+as/IN 
+[ the/DT Bush/NNP administration/NN clean-air/JJ proposal/NN ]
+,/, but/CC in/IN 
+[ a/DT more/RBR efficient/JJ ]
+and/CC 
+[ cost-effective/JJ manner/NN ]
+./. 
+
+''/'' 
+======================================
+
+[ Supporters/NNS ]
+described/VBD 
+[ the/DT amendment/NN ]
+as/IN 
+[ an/DT attempt/NN ]
+to/TO move/VB cautiously/RB on/IN 
+[ alternative/JJ fuels/NNS ]
+./. 
+
+[ They/PRP ]
+pointed/VBD to/TO 
+[ concerns/NNS ]
+about/IN 
+[ the/DT toxicity/NN ]
+of/IN 
+[ methanol/NN ]
+and/CC about/IN 
+[ consumer/NN reluctance/NN ]
+to/TO drive/VB 
+[ cars/NNS ]
+
+[ that/WDT ]
+are/VBP n't/RB powered/VBN by/IN 
+[ gasoline/NN ]
+./. 
+
+Moreover/RB ,/, 
+[ some/DT lawmakers/NNS ]
+suggested/VBD that/IN 
+[ the/DT subcommittee/NN 's/POS decision/NN ]
+earlier/RB to/TO tighten/VB 
+[ tailpipe-emission/NN standards/NNS ]
+beyond/IN 
+[ the/DT president/NN 's/POS proposal/NN ]
+made/VBD 
+[ it/PRP ]
+unnecessary/JJ to/TO have/VB as/RB stringent/JJ 
+[ an/DT alternative-fuels/JJ program/NN ]
+./. 
